@@ -6,34 +6,33 @@ import {
   Textarea,
   Button,
   VStack,
-  HStack,
+  HStack,  
   Text,
   Progress,
   Alert,
   AlertIcon,
   AlertTitle,
   AlertDescription,
-  useToast,
   Spinner,
   Badge,
   Divider,
+  useToast,
 } from '@chakra-ui/react'
 import axios from 'axios'
 
 const API_URL = 'http://localhost:8000'
 
 function App() {
-  const [text, setText] = useState('')
+  const [input, setInput] = useState('')
   const [loading, setLoading] = useState(false)
   const [result, setResult] = useState(null)
-  const [error, setError] = useState(null)
   const toast = useToast()
 
   const handleAnalyze = async () => {
-    if (!text.trim()) {
+    if (!input.trim()) {
       toast({
         title: 'Error',
-        description: 'Please enter some text to analyze',
+        description: 'Please enter text or a URL to analyze',
         status: 'warning',
         duration: 3000,
         isClosable: true,
@@ -42,28 +41,26 @@ function App() {
     }
 
     setLoading(true)
-    setError(null)
     setResult(null)
 
     try {
       const response = await axios.post(`${API_URL}/predict`, {
-        text: text,
+        input_text: input.trim(),
       })
 
       setResult(response.data)
       toast({
         title: 'Analysis Complete',
-        description: 'Your text has been analyzed successfully',
+        description: 'Your input has been analyzed successfully',
         status: 'success',
         duration: 3000,
         isClosable: true,
       })
     } catch (err) {
-      const errorMessage = err.response?.data?.detail || 'Failed to analyze text. Please try again.'
-      setError(errorMessage)
+      let message = err.response?.data?.detail || 'Failed to analyze input'
       toast({
         title: 'Error',
-        description: errorMessage,
+        description: message,
         status: 'error',
         duration: 5000,
         isClosable: true,
@@ -73,104 +70,74 @@ function App() {
     }
   }
 
-  const getTruthPercentage = () => {
-    if (!result) return 0
-    return Math.round(result.truth_probability * 100)
-  }
-
+  const getTruthPercentage = () => (result ? Math.round(result.truth_probability * 100) : 0)
   const getProgressColor = () => {
-    const percentage = getTruthPercentage()
-    if (percentage >= 70) return 'green'
-    if (percentage >= 40) return 'yellow'
+    const p = getTruthPercentage()
+    if (p >= 70) return 'green'
+    if (p >= 40) return 'yellow'
     return 'red'
-  }
-
-  const getResultLabel = () => {
-    if (!result) return ''
-    return result.label === 'true' ? 'Likely True' : 'Likely False'
-  }
-
-  const getResultBadgeColor = () => {
-    if (!result) return 'gray'
-    return result.label === 'true' ? 'green' : 'red'
   }
 
   return (
     <Box minH="100vh" bg="gray.50" py={10}>
       <Container maxW="container.md">
         <VStack spacing={8} align="stretch">
-          {/* Header */}
           <Box textAlign="center">
             <Heading
               as="h1"
               size="2xl"
               bgGradient="linear(to-r, blue.400, purple.500)"
               bgClip="text"
-              mb={2}
             >
               Fake News Detector
             </Heading>
             <Text color="gray.600" fontSize="lg">
-              Powered by RoBERTa AI Model
+              Enter plain text or a URL — powered by RoBERTa AI
             </Text>
           </Box>
 
-          {/* Main Card */}
           <Box bg="white" borderRadius="xl" boxShadow="lg" p={8}>
             <VStack spacing={6} align="stretch">
-              {/* Text Input */}
-              <Box>
-                <Text mb={2} fontWeight="semibold" color="gray.700">
-                  Enter text to analyze:
-                </Text>
-                <Textarea
-                  value={text}
-                  onChange={(e) => setText(e.target.value)}
-                  placeholder="Paste a news article, social media post, or any text you want to verify..."
-                  size="lg"
-                  minH="200px"
-                  resize="vertical"
-                  focusBorderColor="blue.400"
-                  color="gray.800"
-                  _placeholder={{ color: "gray.400" }}
-                />
-              </Box>
+              <Textarea
+                placeholder="Paste text or enter a URL here..."
+                value={input}
+                onChange={(e) => setInput(e.target.value)}
+                size="lg"
+                minH="200px"
+                isDisabled={loading}
+                color="black"
+              />
 
-              {/* Analyze Button */}
               <Button
                 colorScheme="blue"
-                size="lg"
                 onClick={handleAnalyze}
                 isLoading={loading}
                 loadingText="Analyzing..."
-                disabled={!text.trim() || loading}
-                _hover={{ transform: 'translateY(-2px)', boxShadow: 'lg' }}
-                transition="all 0.2s"
+                size="lg"
+                width="full"
               >
-                Analyze Text
+                Analyze
               </Button>
 
-              {/* Results Section */}
               {result && (
                 <>
                   <Divider />
                   <VStack spacing={4} align="stretch">
-                    <HStack justify="space-between" align="center">
-                      <Heading as="h3" size="md" color="gray.700">
-                        Analysis Result
-                      </Heading>
-                      <Badge
-                        colorScheme={getResultBadgeColor()}
-                        fontSize="md"
-                        px={3}
-                        py={1}
-                        borderRadius="full"
-                      >
-                        {getResultLabel()}
-                      </Badge>
-                    </HStack>
+                    <Heading as="h3" size="md" color="gray.700">
+                      Result
+                    </Heading>
 
-                    {/* Truth Probability */}
+                    <Badge
+                      colorScheme={result.label === 'true' ? 'green' : 'red'}
+                      fontSize="md"
+                      px={3}
+                      py={1}
+                      borderRadius="full"
+                      alignSelf="start"
+                    >
+                      {result.label === 'true' ? 'Likely True' : 'Likely False'}
+                    </Badge>
+
                     <Box>
                       <HStack justify="space-between" mb={2}>
                         <Text fontWeight="medium" color="gray.600">
@@ -190,22 +157,18 @@ function App() {
                       />
                     </Box>
 
-                    {/* Interpretation */}
-                    <Alert
-                      status={result.label === 'true' ? 'success' : 'error'}
-                      borderRadius="md"
-                    >
+                    <Alert status={result.label === 'true' ? 'success' : 'error'} borderRadius="md">
                       <AlertIcon />
                       <Box>
                         <AlertTitle>
-                          {result.label === 'true' 
-                            ? 'This text appears to be truthful' 
-                            : 'This text may contain misinformation'}
+                          {result.label === 'true'
+                            ? 'This content appears truthful'
+                            : 'This content may be unreliable'}
                         </AlertTitle>
                         <AlertDescription>
                           {result.label === 'true'
-                            ? 'The AI model has high confidence this content is legitimate.'
-                            : 'The AI model suggests this content may be unreliable or false.'}
+                            ? 'AI indicates the content is likely legitimate.'
+                            : 'AI suggests this may contain misinformation.'}
                         </AlertDescription>
                       </Box>
                     </Alert>
@@ -213,26 +176,15 @@ function App() {
                 </>
               )}
 
-              {/* Loading State */}
               {loading && (
                 <Box textAlign="center" py={8}>
                   <Spinner size="xl" color="blue.500" thickness="4px" />
                   <Text mt={4} color="gray.600">
-                    Analyzing your text with AI...
+                    Analyzing your input with AI...
                   </Text>
                 </Box>
               )}
             </VStack>
-          </Box>
-
-          {/* Footer Info */}
-          <Box textAlign="center" color="gray.500" fontSize="sm">
-            <Text>
-              This tool uses RoBERTa-large-mnli model for zero-shot classification.
-            </Text>
-            <Text>
-              Results are AI-generated and should not be taken as absolute truth.
-            </Text>
           </Box>
         </VStack>
       </Container>
