@@ -17,10 +17,28 @@ import {
   Spinner,
   Badge,
   Divider,
+  Link,
+  Collapse,
 } from '@chakra-ui/react'
 import axios from 'axios'
 
 const API_URL = 'http://localhost:8000'
+
+// New component to render each piece of evidence
+function EvidenceCard({ item }) {
+  return (
+    <Box borderWidth="1px" borderRadius="lg" p={4} w="100%" bg="gray.50">
+      <VStack align="stretch" spacing={2}>
+        <Link href={item.url} isExternal fontWeight="bold" color="blue.600" noOfLines={1}>
+          {item.source_title}
+        </Link>
+        <Text fontSize="sm" color="gray.700">
+          "...{item.snippet}..."
+        </Text>
+      </VStack>
+    </Box>
+  )
+}
 
 function App() {
   const [text, setText] = useState('')
@@ -108,10 +126,10 @@ function App() {
               bgClip="text"
               mb={2}
             >
-              Fake News Detector
+              AI News Detector
             </Heading>
             <Text color="gray.600" fontSize="lg">
-              Powered by RoBERTa AI Model
+              Analysis by RoBERTa, Evidence by Google
             </Text>
           </Box>
 
@@ -128,7 +146,7 @@ function App() {
                   onChange={(e) => setText(e.target.value)}
                   placeholder="Paste a news article, social media post, or any text you want to verify..."
                   size="lg"
-                  minH="200px"
+                  minH="150px"
                   resize="vertical"
                   focusBorderColor="blue.400"
                   color="gray.800"
@@ -159,75 +177,92 @@ function App() {
                 </Alert>
               )}
 
-              {/* Results Section */}
-              {result && (
-                <>
-                  <Divider />
-                  <VStack spacing={4} align="stretch">
-                    <HStack justify="space-between" align="center">
-                      <Heading as="h3" size="md" color="gray.700">
-                        Analysis Result
-                      </Heading>
-                      <Badge
-                        colorScheme={getResultBadgeColor()}
-                        fontSize="md"
-                        px={3}
-                        py={1}
-                        borderRadius="full"
-                      >
-                        {getResultLabel()}
-                      </Badge>
-                    </HStack>
-
-                    {/* Truth Probability */}
-                    <Box>
-                      <HStack justify="space-between" mb={2}>
-                        <Text fontWeight="medium" color="gray.600">
-                          Truth Probability
-                        </Text>
-                        <Text fontSize="2xl" fontWeight="bold" color={`${getProgressColor()}.500`}>
-                          {getTruthPercentage()}%
-                        </Text>
-                      </HStack>
-                      <Progress
-                        value={getTruthPercentage()}
-                        size="lg"
-                        colorScheme={getProgressColor()}
-                        borderRadius="full"
-                        hasStripe
-                        isAnimated
-                      />
-                    </Box>
-
-                    {/* Interpretation */}
-                    <Alert
-                      status={result.label === 'true' ? 'success' : 'error'}
-                      borderRadius="md"
+              {/* Results Section (AI Prediction) */}
+              <Collapse in={result !== null} animateOpacity>
+                <Divider />
+                <VStack spacing={4} align="stretch" py={4}>
+                  <HStack justify="space-between" align="center">
+                    <Heading as="h3" size="md" color="gray.700">
+                      AI Analysis
+                    </Heading>
+                    <Badge
+                      colorScheme={getResultBadgeColor()}
+                      fontSize="md"
+                      px={3}
+                      py={1}
+                      borderRadius="full"
                     >
-                      <AlertIcon />
-                      <Box>
-                        <AlertTitle>
-                          {result.label === 'true' 
-                            ? 'This text appears to be truthful' 
-                            : 'This text may contain misinformation'}
-                        </AlertTitle>
-                        <AlertDescription>
-                          {result.label === 'true'
-                            ? 'The AI model has high confidence this content is legitimate.'
-                            : 'The AI model suggests this content may be unreliable or false.'}
-                        </AlertDescription>
-                      </Box>
-                    </Alert>
-                  </VStack>
-                </>
-              )}
+                      {getResultLabel()}
+                    </Badge>
+                  </HStack>
+
+                  {/* Truth Probability */}
+                  <Box>
+                    <HStack justify="space-between" mb={2}>
+                      <Text fontWeight="medium" color="gray.600">
+                        Truth Probability
+                      </Text>
+                      <Text fontSize="2xl" fontWeight="bold" color={`${getProgressColor()}.500`}>
+                        {getTruthPercentage()}%
+                      </Text>
+                    </HStack>
+                    <Progress
+                      value={getTruthPercentage()}
+                      size="lg"
+                      colorScheme={getProgressColor()}
+                      borderRadius="full"
+                      hasStripe
+                      isAnimated
+                    />
+                  </Box>
+
+                  {/* Interpretation */}
+                  <Alert
+                    status={result?.label === 'true' ? 'success' : 'error'}
+                    borderRadius="md"
+                  >
+                    <AlertIcon />
+                    <Box>
+                      <AlertTitle>
+                        {result?.label === 'true' 
+                          ? 'This text appears to be truthful' 
+                          : 'This text may contain misinformation'}
+                      </AlertTitle>
+                      <AlertDescription>
+                        {result?.label === 'true'
+                          ? 'The AI model has high confidence this content is legitimate.'
+                          : 'The AI model suggests this content may be unreliable or false.'}
+                      </AlertDescription>
+                    </Box>
+                  </Alert>
+                </VStack>
+              </Collapse>
+
+              {/* Evidence Section (Google Search) */}
+              <Collapse in={result !== null} animateOpacity>
+                <Divider />
+                <VStack spacing={4} align="stretch" py={4}>
+                  <Heading as="h3" size="md" color="gray.700">
+                    Supporting Web Evidence
+                  </Heading>
+                  {result?.evidence.length > 0 ? (
+                    result.evidence.map((item, index) => (
+                      <EvidenceCard key={index} item={item} />
+                    ))
+                  ) : (
+                    <Text color="gray.500" fontSize="sm">
+                      No web results found (or Google Search API is not configured).
+                    </Text>
+                  )}
+                </VStack>
+              </Collapse>
 
               {/* Loading State */}
               {loading && (
                 <Box textAlign="center" py={8}>
                   <Spinner size="xl" color="blue.500" thickness="4px" />
                   <Text mt={4} color="gray.600">
-                    Analyzing your text with AI...
+                    Analyzing with AI and searching Google...
                   </Text>
                 </Box>
               )}
@@ -237,10 +272,10 @@ function App() {
           {/* Footer Info */}
           <Box textAlign="center" color="gray.500" fontSize="sm">
             <Text>
-              This tool uses RoBERTa-large-mnli model for zero-shot classification.
+              This tool uses a RoBERTa-large-mnli model for an initial linguistic analysis.
             </Text>
             <Text>
-              Results are AI-generated and should not be taken as absolute truth.
+              Results are AI-generated and should be verified with the evidence provided.
             </Text>
           </Box>
         </VStack>
