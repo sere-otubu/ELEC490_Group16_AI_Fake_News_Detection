@@ -119,6 +119,16 @@ function App() {
                 Analyze
               </Button>
 
+              {/* Add this block to display the error */}
+              {error && (
+                <Alert status="error" borderRadius="md">
+                  <AlertIcon />
+                  <AlertTitle>Error</AlertTitle>
+                  <AlertDescription>{error}</AlertDescription>
+                </Alert>
+              )}
+
+              {/* Results Section */}
               {result && (
                 <>
                   <Divider />

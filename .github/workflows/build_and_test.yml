@@ -1,0 +1,70 @@
+name: CI Pipeline - Fake News Detector
+
+on:
+  push:
+    branches:
+      - "main"
+      - "deepfake-ai-v1" # Branch from your file path
+  pull_request:
+    branches:
+      - "main"
+
+jobs:
+  build-frontend:
+    name: Build Frontend
+    runs-on: ubuntu-latest
+    
+    defaults:
+      run:
+        working-directory: ./frontend
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18' # Matches a modern LTS version
+          cache: 'npm'
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Linter
+        run: npm run lint # From your package.json
+
+      - name: Build Project
+        run: npm run build # From your package.json
+
+  test-backend:
+    name: Test Backend
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: ./backend
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10' # Or any version you prefer
+          cache: 'pip'
+          cache-dependency-path: backend/requirements.txt
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Testing Tools
+        run: pip install flake8 pytest
+
+      - name: Run Linter (Flake8)
+        run: flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+
+      - name: Run Unit Tests (Pytest)
+        run: pytest test_main.py
