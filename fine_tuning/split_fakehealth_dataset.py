@@ -4,6 +4,7 @@ import json
 import os
 import glob
 from sklearn.model_selection import train_test_split
+import re
 
 # --- 1. Define Paths ---
 # Assumes your 'data' folder is at the root of the project
@@ -42,10 +43,35 @@ print(f"Total articles with ratings: {len(ratings_lookup)}")
 # 2, 3 -> 1 (Uncertain)
 # 4, 5 -> 2 (True)
 def map_rating_to_label(rating):
-    if rating in [0, 1]:   return 0  # False
-    if rating in [2, 3]:   return 1  # Uncertain
-    if rating in [4, 5]:   return 2  # True
+    if rating in [0, 1]:   
+        return 0  # False
+    if rating in [2, 3]:   
+        return 1  # Uncertain
+    if rating in [4, 5]:   
+        return 2  # True
     return None
+
+def clean_text(text):
+    """
+    Cleans text by fixing encoding errors, removing newlines,
+    and collapsing extra whitespace.
+    """
+    if not isinstance(text, str):
+        return text
+    
+    # Fix common encoding errors
+    text = text.replace('â€œ', '“').replace('â€', '”')
+    text = text.replace('â€™', "'").replace('â€˜', "‘")
+    text = text.replace('â€”', '—')
+    text = text.replace('â€¦', '…')
+    
+    # Remove newlines and carriage returns, replace with a space
+    text = re.sub(r'[\n\r]+', ' ', text)
+    
+    # Remove extra whitespace
+    text = re.sub(r'\s+', ' ', text).strip()
+    
+    return text
 
 # --- 4. Load Text and Combine with Labels ---
 print("Loading article text from 'content' folder...")
@@ -69,7 +95,11 @@ for content_file in content_files:
         with open(content_file, 'r', encoding='utf-8') as f:
             content_data = json.load(f)
         
+        # --- MODIFICATION START ---
+        # Get both title and text. Use .get() for safety.
+        title = content_data.get('title', '') # Get title, default to empty string
         text = content_data.get('text')
+        # --- MODIFICATION END ---
         
         if not news_id or not text or not isinstance(text, str):
             text_missing += 1
@@ -88,19 +118,22 @@ for content_file in content_files:
         
         if rating is None:
             id_mismatches += 1
-            # --- NEW: Debug print to show the failing news_id ---
-            if id_mismatches < 5: # Print first 5 mismatches
+            if id_mismatches < 5: 
                 print(f"  DEBUG: news_id '{news_id}' from content file not found in ratings lookup.")
-            # ----------------------------------------------------
             continue
             
         label = map_rating_to_label(rating)
         
         if label is None:
-            # This will skip articles with rating 0
             continue 
 
-        all_data.append({'news_id': news_id, 'text': text, 'label': label})
+        # --- MODIFICATION: Add title to the dictionary ---
+        all_data.append({ 
+            'title': title, 
+            'text': text, 
+            'label': label
+        })
+        # --- MODIFICATION END ---
         matches_found += 1
 
     except Exception as e:
@@ -117,13 +150,24 @@ print("--------------------------\n")
 print("Creating and splitting dataset...")
 df = pd.DataFrame(all_data)
 
-if df.empty:
-    print("CRITICAL ERROR: No data was loaded. This is likely due to the 'news_id' mismatch shown above.")
+if 'text' not in df.columns or 'label' not in df.columns:
+    print("ERROR: DataFrame is missing 'text' or 'label' column.")
+    print("Please check your JSON parsing and data structure.")
+    print("DataFrame columns:", df.columns)
+    print("DataFrame head:", df.head())
+
+    if df.empty:
+        print("CRITICAL ERROR: No data was loaded.")
 else:
     print(f"Successfully loaded {len(df)} articles with text and labels.")
+
+    print("Cleaning text data...")
+    df['title'] = df['title'].apply(clean_text)
+    df['text'] = df['text'].apply(clean_text)
+    print("Text cleaning complete.")
     
     # --- NEW: Drop duplicates ---
-    df.drop_duplicates(subset=['text'], inplace=True)
+    df.drop_duplicates(subset=['title', 'text'], inplace=True)
     print(f"Removed duplicates. {len(df)} unique articles remaining.")
     # ----------------------------
 
