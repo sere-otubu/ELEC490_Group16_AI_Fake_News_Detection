@@ -1,0 +1,54 @@
+2025-11-06 13:11:14,715 [INFO] - Loaded 44 test samples from test.csv.
+2025-11-06 13:11:14,715 [INFO] - 
+==================================================
+2025-11-06 13:11:14,715 [INFO] -   Loading Baseline Model: roberta-large-mnli
+2025-11-06 13:11:14,716 [INFO] - ==================================================
+2025-11-06 13:11:14,769 [INFO] - Explicitly loading tokenizer for roberta-large-mnli...
+2025-11-06 13:11:15,915 [INFO] - Tokenizer loaded successfully with model_max_length=512.
+2025-11-06 13:11:15,916 [INFO] - Loading pipeline with pre-loaded tokenizer...
+2025-11-06 13:11:16,005 [WARNING] - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-11-06 13:11:29,546 [INFO] - Model loaded successfully with pre-loaded tokenizer!
+2025-11-06 13:11:29,547 [INFO] - 
+Starting evaluation for roberta-large-mnli...
+2025-11-06 13:11:34,927 [INFO] - 
+==================================================
+2025-11-06 13:11:34,927 [INFO] -   Baseline Performance Report (roberta-large-mnli)
+2025-11-06 13:11:34,927 [INFO] - ==================================================
+2025-11-06 13:11:34,934 [INFO] - 
+              precision    recall  f1-score   support
+
+       False       0.36      0.41      0.38        22
+        True       0.32      0.27      0.29        22
+
+    accuracy                           0.34        44
+   macro avg       0.34      0.34      0.34        44
+weighted avg       0.34      0.34      0.34        44
+
+2025-11-06 13:11:34,934 [INFO] - ==================================================
+2025-11-06 13:11:34,934 [INFO] - 
+==================================================
+2025-11-06 13:11:34,934 [INFO] -   Loading Baseline Model: dmis-lab/biobert-large-cased-v1.1-mnli
+2025-11-06 13:11:34,934 [INFO] - ==================================================
+2025-11-06 13:11:34,934 [INFO] - Explicitly loading tokenizer for dmis-lab/biobert-large-cased-v1.1-mnli...
+2025-11-06 13:11:35,630 [INFO] - Tokenizer loaded successfully with model_max_length=512.
+2025-11-06 13:11:35,630 [INFO] - Loading pipeline with pre-loaded tokenizer...
+2025-11-06 13:11:35,828 [WARNING] - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-11-06 13:11:49,963 [WARNING] - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-11-06 13:11:50,789 [INFO] - Model loaded successfully with pre-loaded tokenizer!
+2025-11-06 13:11:50,789 [INFO] - 
+Starting evaluation for dmis-lab/biobert-large-cased-v1.1-mnli...
+2025-11-06 13:11:56,108 [INFO] - 
+==================================================
+2025-11-06 13:11:56,108 [INFO] -   Baseline Performance Report (dmis-lab/biobert-large-cased-v1.1-mnli)
+2025-11-06 13:11:56,108 [INFO] - ==================================================
+2025-11-06 13:11:56,112 [INFO] - 
+              precision    recall  f1-score   support
+
+       False       0.58      0.95      0.72        22
+        True       0.88      0.32      0.47        22
+
+    accuracy                           0.64        44
+   macro avg       0.73      0.64      0.60        44
+weighted avg       0.73      0.64      0.60        44
+
+2025-11-06 13:11:56,112 [INFO] - ==================================================

@@ -19,17 +19,17 @@ MODEL_NAME = "dmis-lab/biobert-large-cased-v1.1-mnli"
 OUTPUT_DIR = "biobert-fakehealth-finetuned"
 
 # --- CHANGE 1: Define your 3 labels ---
-LABEL_LIST = ["False", "Uncertain", "True"]
+LABEL_LIST = ["False", "True"]
 id2label = {i: label for i, label in enumerate(LABEL_LIST)}
 label2id = {label: i for i, label in enumerate(LABEL_LIST)}
 
 # --- CHANGE 2: Set your W&B Project Name ---
-WANDB_PROJECT_NAME = "fake-health-biobert" # Or whatever you want
+WANDB_PROJECT_NAME = "fake-health-biobert-v2" # Or whatever you want
 
 # --- CHANGE 3: Set your NEW Hub Model Name ---
 # This should be a NEW repository name on your Hugging Face account
 # Example: "sereotubu/biobert-fakehealth-v1"
-HUB_MODEL_NAME = "sereotubu/biobert-finetune-v1" 
+HUB_MODEL_NAME = "sereotubu/biobert-finetune-v2" 
 # -----------------------------------------------------------------
 
 def login_to_huggingface():
@@ -102,7 +102,8 @@ def train_model():
         MODEL_NAME, 
         num_labels=len(LABEL_LIST), # --- CHANGE ---
         id2label=id2label,         # --- CHANGE ---
-        label2id=label2id          # --- CHANGE ---
+        label2id=label2id,          # --- CHANGE ---
+        ignore_mismatched_sizes=True
     )
 
     # --- 5. Evaluation Metric (CHANGED for multi-class) ---
@@ -118,7 +119,7 @@ def train_model():
         f1 = f1_metric.compute(
             predictions=predictions, 
             references=labels, 
-            average="weighted"
+            average="binary"
         )['f1']
         
         acc = acc_metric.compute(
@@ -141,7 +142,7 @@ def train_model():
         load_best_model_at_end=True,      
         metric_for_best_model="f1",       # --- CHANGE ---
         logging_dir='./logs',
-        logging_steps=100,                # Log progress every 100 steps
+        logging_steps=50,                # Log progress every 100 steps
         push_to_hub=True,                 
         hub_model_id=HUB_MODEL_NAME,
         report_to="wandb",                # --- CHANGE: Enable W&B
@@ -169,7 +170,7 @@ def train_model():
     trainer.push_to_hub()
 
     print("="*50)
-    print(f"✅ All done! Your fine-tuned model is saved locally in '{OUTPUT_DIR}'")
+    print(f"All done! Your fine-tuned model is saved locally in '{OUTPUT_DIR}'")
     print(f"and has been pushed to your Hugging Face Hub at: https://huggingface.co/{HUB_MODEL_NAME}")
 
 if __name__ == "__main__":

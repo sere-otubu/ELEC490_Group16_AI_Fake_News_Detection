@@ -30,7 +30,6 @@ MODELS_TO_TEST = [
 # --- CHANGE 2: Define mapping for cleaner prediction logic ---
 LABEL_MAP = {
     "False or Misleading": "False",
-    "Uncertain or Incomplete": "Uncertain",
     "True or Accurate": "True"
 }
 # These are the labels the classifier will see
@@ -50,8 +49,6 @@ def evaluate_baseline():
             if example['label'] == 0:
                 return {"label_str": "False"}
             elif example['label'] == 1:
-                return {"label_str": "Uncertain"}
-            else: # label == 2
                 return {"label_str": "True"}
                 
         dataset = dataset.map(map_labels_to_strings, load_from_cache_file=False)
@@ -153,7 +150,7 @@ def evaluate_baseline():
                 # --- THIS IS THE FIX ---
                 # Use the 'labels' argument to force the correct order
                 # just like in your evaluate_finetuned.py script.
-                labels_in_order = ["False", "Uncertain", "True"]
+                labels_in_order = ["False", "True"]
                 report = classification_report(y_true, y_pred, labels=labels_in_order, zero_division=0)
                 # --- END OF FIX ---
                 logging.info("\n" + report)

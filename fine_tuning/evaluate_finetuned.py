@@ -11,12 +11,12 @@ from datetime import datetime
 # You must change this to the name of the model you
 # will create AFTER you fine-tune it.
 # Example: "sereotubu/biobert-fakehealth-v1"
-HUB_MODEL_NAME = "sereotubu/biobert-finetune-v1"
+HUB_MODEL_NAME = "sereotubu/biobert-finetune-v2"
 # ----------------------
 
 # --- 2. DEFINE LABELS ---
 # These are the 3 classes for our project
-LABEL_LIST = ["False", "Uncertain", "True"]
+LABEL_LIST = ["False", "True"]
 # ------------------------
 
 # --- 3. SETUP LOGGING ---
@@ -80,8 +80,6 @@ def evaluate_finetuned():
             if example['label'] == 0:
                 return {"label_str": "False"}
             elif example['label'] == 1:
-                return {"label_str": "Uncertain"}
-            else: # label == 2
                 return {"label_str": "True"}
         
         dataset = dataset.map(map_labels_to_strings)

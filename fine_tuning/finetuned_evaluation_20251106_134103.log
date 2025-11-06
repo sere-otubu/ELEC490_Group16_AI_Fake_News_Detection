@@ -1,0 +1,25 @@
+2025-11-06 13:41:03,219 [INFO] - Loading fine-tuned model from Hub: sereotubu/biobert-finetune-v2...
+2025-11-06 13:41:03,237 [INFO] - Explicitly loading tokenizer from sereotubu/biobert-finetune-v2...
+2025-11-06 13:41:04,479 [INFO] - Tokenizer loaded successfully.
+2025-11-06 13:41:04,714 [WARNING] - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-11-06 13:41:28,009 [INFO] - Fine-tuned model pipeline loaded successfully!
+2025-11-06 13:41:28,375 [INFO] - Loaded 44 test samples from test.csv.
+2025-11-06 13:41:28,375 [INFO] - Preparing input texts (combining title + text)...
+2025-11-06 13:41:28,376 [INFO] - Total items to evaluate: 44
+2025-11-06 13:41:28,376 [INFO] - 
+Starting fine-tuned evaluation...
+2025-11-06 13:41:31,150 [INFO] - 
+==================================================
+2025-11-06 13:41:31,150 [INFO] -   Fine-Tuned Model Performance Report (sereotubu/biobert-finetune-v2)
+2025-11-06 13:41:31,150 [INFO] - ==================================================
+2025-11-06 13:41:31,156 [INFO] - 
+              precision    recall  f1-score   support
+
+       False       0.69      0.82      0.75        22
+        True       0.78      0.64      0.70        22
+
+    accuracy                           0.73        44
+   macro avg       0.74      0.73      0.72        44
+weighted avg       0.74      0.73      0.72        44
+
+2025-11-06 13:41:31,156 [INFO] - ==================================================
