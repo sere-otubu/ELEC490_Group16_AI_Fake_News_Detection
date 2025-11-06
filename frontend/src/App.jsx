@@ -26,6 +26,7 @@ function App() {
   const [input, setInput] = useState('')
   const [loading, setLoading] = useState(false)
   const [result, setResult] = useState(null)
+  const [error, setError] = useState(null)
   const toast = useToast()
 
   const handleAnalyze = async () => {
@@ -42,6 +43,7 @@ function App() {
 
     setLoading(true)
     setResult(null)
+    setError(null)
 
     try {
       const response = await axios.post(`${API_URL}/predict`, {
@@ -58,6 +60,7 @@ function App() {
       })
     } catch (err) {
       let message = err.response?.data?.detail || 'Failed to analyze input'
+      setError(message)
       toast({
         title: 'Error',
         description: message,
