@@ -3,3 +3,4 @@ fine_tuning/.env
 fine_tuning/biobert-fakehealth-finetuned
 fine_tuning/wandb
 data/FakeHealth
+data/CoAID
