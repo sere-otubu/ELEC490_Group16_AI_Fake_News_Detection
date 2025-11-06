@@ -1,6 +1,11 @@
+# Add the PyTorch index for CUDA 12.4 builds
+--extra-index-url https://download.pytorch.org/whl/cu124
+
 # AI & Machine Learning
 transformers>=4.46.0
 torch>=2.6.0
+torchvision==0.21.0
+torchaudio==2.6.0
 datasets>=2.0.0
 evaluate>=0.4.0
 scikit-learn>=1.0
@@ -10,7 +15,9 @@ wandb>=0.17.0
 
 # Data Handling
 pandas>=1.5
+datasets
 
 # Utilities
 tqdm
 datetime
+python-dotenv

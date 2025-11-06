@@ -1,0 +1,25 @@
+2025-11-05 22:00:52,783 [INFO] - Loading fine-tuned model from Hub: sereotubu/biobert-finetune-v1...
+2025-11-05 22:00:52,798 [INFO] - Explicitly loading tokenizer from sereotubu/biobert-finetune-v1...
+2025-11-05 22:00:53,202 [INFO] - Tokenizer loaded successfully.
+2025-11-05 22:00:54,485 [INFO] - Fine-tuned model pipeline loaded successfully!
+2025-11-05 22:00:54,775 [INFO] - Loaded 217 test samples from test.csv.
+2025-11-05 22:00:54,775 [INFO] - Preparing input texts (combining title + text)...
+2025-11-05 22:00:54,779 [INFO] - Total items to evaluate: 217
+2025-11-05 22:00:54,779 [INFO] - 
+Starting fine-tuned evaluation...
+2025-11-05 22:01:08,161 [INFO] - 
+==================================================
+2025-11-05 22:01:08,162 [INFO] -   Fine-Tuned Model Performance Report (sereotubu/biobert-finetune-v1)
+2025-11-05 22:01:08,162 [INFO] - ==================================================
+2025-11-05 22:01:08,165 [INFO] - 
+              precision    recall  f1-score   support
+
+       False       0.00      0.00      0.00        22
+   Uncertain       0.68      0.65      0.66       122
+        True       0.52      0.73      0.61        73
+
+    accuracy                           0.61       217
+   macro avg       0.40      0.46      0.42       217
+weighted avg       0.56      0.61      0.58       217
+
+2025-11-05 22:01:08,165 [INFO] - ==================================================

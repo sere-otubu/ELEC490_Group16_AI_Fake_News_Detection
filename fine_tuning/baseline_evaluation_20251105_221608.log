@@ -1,0 +1,53 @@
+2025-11-05 22:16:08,393 [INFO] - Loaded 217 test samples from test.csv.
+2025-11-05 22:16:08,393 [INFO] - 
+==================================================
+2025-11-05 22:16:08,393 [INFO] -   Loading Baseline Model: roberta-large-mnli
+2025-11-05 22:16:08,393 [INFO] - ==================================================
+2025-11-05 22:16:08,405 [INFO] - Explicitly loading tokenizer for roberta-large-mnli...
+2025-11-05 22:16:08,815 [INFO] - Tokenizer loaded successfully with model_max_length=512.
+2025-11-05 22:16:08,816 [INFO] - Loading pipeline with pre-loaded tokenizer...
+2025-11-05 22:16:11,001 [INFO] - Model loaded successfully with pre-loaded tokenizer!
+2025-11-05 22:16:11,002 [INFO] - 
+Starting evaluation for roberta-large-mnli...
+2025-11-05 22:16:50,078 [INFO] - 
+==================================================
+2025-11-05 22:16:50,078 [INFO] -   Baseline Performance Report (roberta-large-mnli)
+2025-11-05 22:16:50,078 [INFO] - ==================================================
+2025-11-05 22:16:50,082 [INFO] - 
+              precision    recall  f1-score   support
+
+       False       0.08      0.41      0.13        22
+   Uncertain       0.74      0.11      0.20       122
+        True       0.20      0.22      0.21        73
+
+    accuracy                           0.18       217
+   macro avg       0.34      0.25      0.18       217
+weighted avg       0.49      0.18      0.20       217
+
+2025-11-05 22:16:50,083 [INFO] - ==================================================
+2025-11-05 22:16:50,083 [INFO] - 
+==================================================
+2025-11-05 22:16:50,083 [INFO] -   Loading Baseline Model: dmis-lab/biobert-large-cased-v1.1-mnli
+2025-11-05 22:16:50,083 [INFO] - ==================================================
+2025-11-05 22:16:50,083 [INFO] - Explicitly loading tokenizer for dmis-lab/biobert-large-cased-v1.1-mnli...
+2025-11-05 22:16:50,452 [INFO] - Tokenizer loaded successfully with model_max_length=512.
+2025-11-05 22:16:50,452 [INFO] - Loading pipeline with pre-loaded tokenizer...
+2025-11-05 22:16:52,673 [INFO] - Model loaded successfully with pre-loaded tokenizer!
+2025-11-05 22:16:52,673 [INFO] - 
+Starting evaluation for dmis-lab/biobert-large-cased-v1.1-mnli...
+2025-11-05 22:17:33,374 [INFO] - 
+==================================================
+2025-11-05 22:17:33,374 [INFO] -   Baseline Performance Report (dmis-lab/biobert-large-cased-v1.1-mnli)
+2025-11-05 22:17:33,374 [INFO] - ==================================================
+2025-11-05 22:17:33,378 [INFO] - 
+              precision    recall  f1-score   support
+
+       False       0.13      0.50      0.20        22
+   Uncertain       0.59      0.51      0.55       122
+        True       0.52      0.18      0.27        73
+
+    accuracy                           0.40       217
+   macro avg       0.41      0.40      0.34       217
+weighted avg       0.52      0.40      0.42       217
+
+2025-11-05 22:17:33,378 [INFO] - ==================================================
