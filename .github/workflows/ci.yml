@@ -1,4 +1,4 @@
-name: "Validate Training Scripts"
+name: "Validate Training Scripts & API"
 
 on:
   push:
@@ -9,7 +9,7 @@ on:
       - fine-tuning
 
 jobs:
-  lint-and-test-hub-login:
+  lint-and-test-logins:
     name: "Lint, Install & Test Hub Login"
     runs-on: ubuntu-latest
 
@@ -46,3 +46,23 @@ jobs:
       
       - name: Run linter
         run: ruff check fine_tuning/
+
+  build-docker-image:
+    name: "Build Docker Image (API)"
+    runs-on: ubuntu-latest
+    # This ensures the Docker build only runs if linting passes
+    needs: lint-and-test-logins
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Build Docker image
+        uses: docker/build-push-action@v6
+        with:
+          context: ./model_api  # Path to your Dockerfile's directory
+          push: false           # We are only TESTING the build
+          load: false           # We don't need to load the image

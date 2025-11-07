@@ -1,0 +1,14 @@
+# Add the PyTorch index for CUDA 12.4
+--extra-index-url https://download.pytorch.org/whl/cu124
+
+# --- API Frameworks ---
+fastapi>=0.100.0   # The API framework
+uvicorn>=0.20.0  # The server that runs the API
+
+# --- AI & ML (from your file) ---
+transformers>=4.46.0
+torch>=2.6.0
+huggingface_hub>=0.20.0
+
+# Pydantic is a dependency of FastAPI, but good to have
+pydantic
