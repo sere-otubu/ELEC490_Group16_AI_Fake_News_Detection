@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ELEC 498 - Claim Verifier Test</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; 
+               max-width: 600px; margin: 40px auto; padding: 20px; 
+               background-color: #f9f9f9; }
+        h1 { color: #333; }
+        textarea { width: 100%; box-sizing: border-box; padding: 10px; font-size: 1.1em; }
+        button { font-size: 1.1em; padding: 10px 15px; margin-top: 10px; 
+                 background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; }
+        button:hover { background-color: #0056b3; }
+        #result { margin-top: 20px; padding: 15px; background-color: #fff; 
+                  border-radius: 5px; border: 1px solid #ddd; white-space: pre-wrap; }
+        #result.true { border-color: #28a745; }
+        #result.false { border-color: #dc3545; }
+        #result.uncertain { border-color: #ffc107; }
+    </style>
+</head>
+<body>
+    <h1>🩺 Medical Claim Verifier (Test)</h1>
+    <p>Enter a medical claim to check it against PubMed abstracts.</p>
+    
+    <textarea id="claim-input" rows="3" placeholder="e.g., The MMR vaccine causes autism."></textarea>
+    <button onclick="checkClaim()">Verify Claim</button>
+    
+    <div id="result">
+        Your results will appear here...
+    </div>
+
+    <script>
+        async function checkClaim() {
+            const claimText = document.getElementById("claim-input").value;
+            const resultDiv = document.getElementById("result");
+            
+            resultDiv.innerText = "Verifying... 🔄";
+            resultDiv.className = ""; // Reset color
+
+            try {
+                // This is the API call to your backend
+                const response = await fetch("http://localhost:8000/verify-claim", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ claim: claimText }),
+                });
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! Status: ${response.status}`);
+                }
+
+                const data = await response.json();
+
+                // Display the output from your API
+                const confidence = (data.score * 100).toFixed(1);
+                resultDiv.innerText = 
+`Verdict: ${data.verdict}
+Confidence: ${confidence}%
+---
+Details: ${data.details}`;
+
+                // Add color based on the verdict
+                resultDiv.className = data.verdict.toLowerCase();
+
+            } catch (error) {
+                console.error("Error verifying claim:", error);
+                resultDiv.innerText = "An error occurred. Make sure the backend server is running and check the console for CORS errors.";
+            }
+        }
+    </script>
+</body>
+</html>
