@@ -1,0 +1,19 @@
+# --- Core AI Pipeline ---
+transformers>=4.40.0
+accelerate>=0.29.0
+datasets>=2.19.0
+huggingface-hub>=0.23.0
+
+# --- Data Processing & Metrics ---
+pandas
+scikit-learn
+python-dotenv
+
+# --- Tokenizer Utilities ---
+sentencepiece
+protobuf
+
+# --- Windows/GPU Specifics ---
+# Note: On Windows, it is safer to install these manually to avoid CPU-only versions.
+# bitsandbytes (Required for 4-bit quantization)
+# torch (Required for GPU support)
