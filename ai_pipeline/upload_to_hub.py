@@ -15,7 +15,7 @@ LOCAL_DIR = "medical_llama_3b_finetuned"
 
 # The name you want on Hugging Face (username/model-name)
 # Based on your error message, this is your username:
-REPO_NAME = "sereotubu/medical-llama-3b-adapter" 
+REPO_NAME = "sereotubu/medical-llama-3b-adapter-v2" 
 
 # 3. CREATE REPO
 print(f"Creating repository: {REPO_NAME}...")

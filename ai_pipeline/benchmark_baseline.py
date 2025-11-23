@@ -104,7 +104,7 @@ for i, row in enumerate(test_data):
 
     outputs = pipe(
         prompt, 
-        max_new_tokens=10, # Increased slightly to catch verbose answers
+        max_new_tokens=5,
         do_sample=False
     )
     

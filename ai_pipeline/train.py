@@ -33,13 +33,23 @@ MODEL_ID = "meta-llama/Llama-3.2-3B-Instruct"
 DATA_DIR = "processed_data"
 OUTPUT_DIR = "medical_llama_3b_finetuned"
 
+# safe compute dtype detection
+try:
+    bf16_supported = False
+    if torch.cuda.is_available() and hasattr(torch.cuda, "is_bf16_supported"):
+        bf16_supported = torch.cuda.is_bf16_supported()
+    compute_dtype = torch.bfloat16 if bf16_supported else torch.float16
+except Exception:
+    compute_dtype = torch.float16
+
 # --- 1. LOAD MODEL ---
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
     bnb_4bit_quant_type="nf4",
-    bnb_4bit_compute_dtype=torch.bfloat16,
+    bnb_4bit_compute_dtype=compute_dtype,
     bnb_4bit_use_double_quant=True,
 )
+
 
 model = AutoModelForCausalLM.from_pretrained(
     MODEL_ID,
@@ -76,7 +86,7 @@ peft_config = LoraConfig(
 sft_config = SFTConfig(
     output_dir=OUTPUT_DIR,
     dataset_text_field="text",
-    max_length=512,
+    max_seq_length=512,
     num_train_epochs=3,
     per_device_train_batch_size=2,
     gradient_accumulation_steps=4,
@@ -101,7 +111,7 @@ sft_config = SFTConfig(
 
     # Hardware settings
     fp16=False,
-    bf16=True,
+    bf16=bf16_supported,
     max_grad_norm=0.3,
     warmup_ratio=0.03,
     lr_scheduler_type="constant",
@@ -117,7 +127,7 @@ trainer = SFTTrainer(
     train_dataset=dataset["train"],
     eval_dataset=dataset["validation"],
     peft_config=peft_config,
-    processing_class=tokenizer,
+    tokenizer=tokenizer,
     args=sft_config,
 )
 
@@ -126,5 +136,11 @@ trainer.train()
 
 print("Training Complete! Saving best model...")
 trainer.save_model(OUTPUT_DIR)
+tokenizer.save_pretrained(OUTPUT_DIR)
+# If using PeftModel directly:
+try:
+    model.save_pretrained(OUTPUT_DIR)
+except Exception:
+    pass
 wandb.finish()
 print(f"Model saved to {OUTPUT_DIR}")

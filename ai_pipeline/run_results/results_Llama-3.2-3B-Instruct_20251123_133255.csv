@@ -1,5 +1,7 @@
 claim,truth,pred,raw
-"In April 2005, we spotted a tearjerker on the Inte",False,True,True.
+"In April 2005, we spotted a tearjerker on the Inte",False,True,"True. 
+
+The story"
 That means the great majority of Americans stay wi,True,True,True.
 "Amid the spread of the novel coronavirus, many peo",True,True,True.
 Craig Shergold is real and             in 1989 whe,False,False,False.
@@ -34,17 +36,17 @@ The billion-dollar project “MenStar” will target m,True,True,True.
 The above-displayed photographs have been circulat,False,True,True.
 "Scripps Health, which operates five hospital campu",True,True,True.
 "The story says that Lupron costs about $5,000 a mo",True,True,True.
-Our investigation into this   story did not find a,False,False,False.
+Our investigation into this   story did not find a,False,True,True.
 "On 30 October 2017, climate change denier blog “Wa",False,True,True.
 Allen injured his throwing shoulder during the Nov,True,True,True.
 The story does include a hint from the senior auth,False,False,False.
 “We’ll be discussing a possible payroll tax cut or,True,True,True.
-Heads-up!! Almost every account is being cloned. Y,False,False,"False. 
+Heads-up!! Almost every account is being cloned. Y,False,False,"False.
 
-This is a classic example of a"
+This is a"
 Donald Trump tied the heroin epidemic gripping sub,True,True,True.
 If Eli Lilly and Co. officials were to sell or spi,True,True,True.
-The article provides no cost estimate for  bioiden,False,False,I would classify this claim as 'False'.
+The article provides no cost estimate for  bioiden,False,Unsure,I would classify this claim
 The European Medicines Agency presumes the contami,True,False,False.
 Because this story clearly points out that the dru,True,True,True.
 A Fort Worth pediatrician who supports continued f,True,True,True.
@@ -52,4 +54,4 @@ The news release states that golfers tend to be “r,False,False,False.
 House Democratic leaders last week released the he,False,True,True.
 The desire for revenge runs deep in all of us. Eve,False,False,"**False**
 
-The claim that Visine eye drops"
+The claim"

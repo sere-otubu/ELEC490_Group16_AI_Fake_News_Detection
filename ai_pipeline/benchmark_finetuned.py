@@ -4,6 +4,7 @@ import datetime
 import torch
 import pandas as pd
 import csv
+import re
 from transformers import pipeline, AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 from peft import PeftModel
 from datasets import load_dataset
@@ -28,10 +29,18 @@ if not os.path.exists("run_results"):
 
 print(f"Loading Base Model: {BASE_MODEL_ID}...")
 
-# Optimized 4-bit config 
+# Optimized 4-bit config with safe dtype fallback
+try:
+    bf16_supported = False
+    if torch.cuda.is_available() and hasattr(torch.cuda, "is_bf16_supported"):
+        bf16_supported = torch.cuda.is_bf16_supported()
+    compute_dtype = torch.bfloat16 if bf16_supported else torch.float16
+except Exception:
+    compute_dtype = torch.float16
+
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
-    bnb_4bit_compute_dtype=torch.bfloat16,
+    bnb_4bit_compute_dtype=compute_dtype,
     bnb_4bit_quant_type="nf4",
     bnb_4bit_use_double_quant=True,
 )
@@ -51,6 +60,10 @@ print(f"Loading Fine-Tuned Adapter from: {ADAPTER_PATH}...")
 try:
     model = PeftModel.from_pretrained(base_model, ADAPTER_PATH)
     print("✅ Adapter loaded successfully!")
+    try:
+        model.eval()
+    except Exception:
+        pass
 except Exception as e:
     print(f"❌ Error loading adapter: {e}")
     print("Did you complete the training? Check if the folder exists.")
@@ -105,18 +118,25 @@ for i, row in enumerate(test_data):
     raw = outputs[0]['generated_text']
     answer = extract_clean_answer(raw)
 
+    # Stricter verdict parsing using regex; prefer explicit True/False tokens.
     prediction = "Unsure"
-    
-    # Priority 1: Did it trigger your fine-tuned trap?
-    if "MISINFORMATION DETECTED" in answer: 
+
+    # Priority 1: explicit fine-tuned signal (case-insensitive)
+    if "MISINFORMATION DETECTED" in answer.upper():
         prediction = "False"
-    # Priority 2: Standard text detection
-    elif "incorrect" in answer.lower() or "false" in answer.lower():
-        prediction = "False"
-    elif "true" in answer.lower(): 
-        prediction = "True"
     else:
-        prediction = "True" # Fallback
+        # look for explicit True/False tokens first
+        m = re.search(r"\b(True|False)\b", answer, flags=re.IGNORECASE)
+        if m:
+            prediction = "True" if m.group(1).lower() == "true" else "False"
+        else:
+            # fallback to keyword matching
+            if re.search(r"\b(incorrect|false|wrong|inaccurate)\b", answer, flags=re.IGNORECASE):
+                prediction = "False"
+            elif re.search(r"\b(true|correct|accurate)\b", answer, flags=re.IGNORECASE):
+                prediction = "True"
+            else:
+                prediction = "Unsure"
 
     results.append({
         "claim": claim[:50],
