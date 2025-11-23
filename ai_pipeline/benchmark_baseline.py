@@ -1,23 +1,37 @@
 import os
+import time
+import datetime
 import torch
 import pandas as pd
-from transformers import pipeline, AutoTokenizer, BitsAndBytesConfig
+import csv
+from transformers import pipeline, AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 from datasets import load_dataset
 from dotenv import load_dotenv
 from huggingface_hub import login
-from sklearn.metrics import classification_report
+from sklearn.metrics import classification_report, accuracy_score, precision_recall_fscore_support
 
-# --- 1. SETUP & AUTH ---
+# --- 1. SETUP ---
 load_dotenv()
 token = os.getenv("HF_TOKEN")
 if not token:
     raise ValueError("HF_TOKEN not found in .env file.")
 login(token=token)
 
-# --- 2. MODEL CONFIGURATION (Optimized for RTX 3050 4GB) ---
-MODEL_ID = "meta-llama/Llama-3.2-3B-Instruct"
+# --- CONFIGURATION ---
+MASTER_LOG_FILE = "experiment_history_log.csv"
 
-# Aggressive compression to fit in 4GB VRAM
+if not os.path.exists("run_results"):
+    os.makedirs("run_results")
+
+# --- 2. MODEL SELECTION ---
+# Toggle these to compare!
+# MODEL_ID = "meta-llama/Llama-3.2-3B-Instruct" 
+# MODEL_ID = "Qwen/Qwen2.5-7B-Instruct"
+MODEL_ID = "meta-llama/Llama-3.1-8B-Instruct" 
+
+print(f"Loading {MODEL_ID}...")
+
+# Optimized 4-bit config 
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
     bnb_4bit_compute_dtype=torch.bfloat16,
@@ -25,89 +39,123 @@ bnb_config = BitsAndBytesConfig(
     bnb_4bit_use_double_quant=True,
 )
 
-print(f"Loading {MODEL_ID}...")
 tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
 
-# Initialize the pipeline
-pipe = pipeline(
-    "text-generation",
-    model=MODEL_ID,
-    model_kwargs={"quantization_config": bnb_config},
-    tokenizer=tokenizer,
-    device_map="auto",  # vital for handling memory spillover
+model = AutoModelForCausalLM.from_pretrained(
+    MODEL_ID,
+    quantization_config=bnb_config,
+    device_map="auto", 
 )
 
-# --- 3. DATA PREPARATION ---
-print("Loading and filtering PubHealth dataset...")
-# We only want True (Label=2) or False (Label=0) claims for a binary baseline
+pipe = pipeline(
+    "text-generation",
+    model=model,
+    tokenizer=tokenizer,
+)
+
+# --- 3. DATA ---
+print("Loading PubHealth...")
 dataset = load_dataset("ImperialCollegeLondon/health_fact", trust_remote_code=True)
+test_data = dataset['test'].filter(lambda x: x['label'] in [0, 2]).select(range(50))
 
-def filter_binary(example):
-    # 0=False, 2=True. We skip 'Mixture'(1) and 'Unproven'(3)
-    return example['label'] in [0, 2]
-
-# Take just 50 samples for a quick initial test (increase this later!)
-test_data = dataset['test'].filter(filter_binary).select(range(50))
-
-# --- 4. INFERENCE LOOP ---
+# --- 4. INFERENCE ---
 results = []
-print(f"Starting inference on {len(test_data)} samples...")
+print(f"Running inference on {len(test_data)} samples...")
+
+run_timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+start_time = time.time()
+
+def extract_clean_answer(raw_text, model_name):
+    """
+    Universal extractor that handles different model formats
+    """
+    answer = raw_text
+    
+    # CASE A: Llama 3 format
+    if "assistant<|end_header_id|>" in raw_text:
+        answer = raw_text.split("assistant<|end_header_id|>")[-1]
+        
+    # CASE B: Qwen / ChatML format
+    elif "<|im_start|>assistant" in raw_text:
+        answer = raw_text.split("<|im_start|>assistant")[-1]
+        
+    # Cleanup common tokens
+    answer = answer.replace("<|im_end|>", "").replace("<|eot_id|>", "").strip()
+    
+    return answer
 
 for i, row in enumerate(test_data):
     claim = row['main_text']
-    # Map dataset labels to text: 2->True, 0->False
     ground_truth = "True" if row['label'] == 2 else "False"
 
-    # Llama 3.2 Specific Prompt Format
     messages = [
-        {"role": "system", "content": "You are a medical fact-checking assistant. Your task is to classify the following medical claim as either 'True' or 'False'. Do not explain. Just answer with one word."},
+        {"role": "system", "content": "You are a medical fact-checker. Classify the following claim as 'True' or 'False' only."},
         {"role": "user", "content": f"Claim: {claim}\n\nVerdict:"}
     ]
     
-    # Apply the chat template safely
     prompt = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
 
-    # Generate
     outputs = pipe(
         prompt, 
-        max_new_tokens=5, 
-        do_sample=False, # Deterministic (Greedy) decoding is better for benchmarks
-        temperature=0.1
+        max_new_tokens=10, # Increased slightly to catch verbose answers
+        do_sample=False
     )
     
-    raw_output = outputs[0]['generated_text']
-    # Extract just the new text (Llama returns the whole prompt + answer)
-    answer = raw_output.split("<|start_header_id|>assistant<|end_header_id|>")[-1].strip()
+    raw = outputs[0]['generated_text']
+    
+    # Use the new universal extractor
+    answer = extract_clean_answer(raw, MODEL_ID)
 
-    # Simple cleanup
     prediction = "Unsure"
     if "true" in answer.lower(): prediction = "True"
     elif "false" in answer.lower(): prediction = "False"
 
     results.append({
-        "claim_preview": claim[:60] + "...",
-        "ground_truth": ground_truth,
-        "prediction": prediction,
-        "raw_model_output": answer
+        "claim": claim[:50],
+        "truth": ground_truth,
+        "pred": prediction,
+        "raw": answer
     })
     
-    if (i + 1) % 5 == 0:
-        print(f"Processed {i + 1}/{len(test_data)}...")
+    if i % 10 == 0: print(f"Processed {i}...")
 
-# --- 5. REPORTING ---
+end_time = time.time()
+elapsed_time = round(end_time - start_time, 2)
+
+# --- 5. SAVE RESULTS ---
 df = pd.DataFrame(results)
+model_short_name = MODEL_ID.split('/')[-1]
+unique_filename = f"run_results/results_{model_short_name}_{run_timestamp}.csv"
+df.to_csv(unique_filename, index=False)
 
-# Save to CSV for your supervisor
-output_filename = "baseline_llama_3b_results.csv"
-df.to_csv(output_filename, index=False)
+# Calculate Metrics
+precision, recall, f1, _ = precision_recall_fscore_support(df['truth'], df['pred'], average='weighted', zero_division=0)
+accuracy = accuracy_score(df['truth'], df['pred'])
 
 print("\n" + "="*30)
-print("CONFUSION MATRIX BASELINE")
+print(f"REPORT FOR: {MODEL_ID}")
 print("="*30)
-# Check if we have enough data to run the report (needs at least one of each class ideally)
-try:
-    print(classification_report(df['ground_truth'], df['prediction'], zero_division=0))
-except Exception as e:
-    print(f"Could not generate report: {e}")
+print(classification_report(df['truth'], df['pred'], zero_division=0))
 
-print(f"Results saved to {output_filename}")
+# Append to master log
+file_exists = os.path.isfile(MASTER_LOG_FILE)
+
+with open(MASTER_LOG_FILE, mode='a', newline='') as file:
+    writer = csv.writer(file)
+    
+    if not file_exists:
+        writer.writerow(["Timestamp", "Model_Name", "Samples", "Time_Seconds", "Accuracy", "Precision", "Recall", "F1_Score", "Result_File_Path"])
+    
+    writer.writerow([
+        datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        MODEL_ID,
+        len(test_data),
+        elapsed_time,
+        round(accuracy, 4),
+        round(precision, 4),
+        round(recall, 4),
+        round(f1, 4),
+        unique_filename
+    ])
+
+print(f"Corrected log saved to: {MASTER_LOG_FILE}")
