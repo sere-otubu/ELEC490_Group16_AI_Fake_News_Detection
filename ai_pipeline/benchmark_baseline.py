@@ -27,7 +27,8 @@ if not os.path.exists("run_results"):
 # Toggle these to compare!
 # MODEL_ID = "meta-llama/Llama-3.2-3B-Instruct" 
 # MODEL_ID = "Qwen/Qwen2.5-7B-Instruct"
-MODEL_ID = "meta-llama/Llama-3.1-8B-Instruct" 
+# MODEL_ID = "meta-llama/Llama-3.1-8B-Instruct" 
+MODEL_ID = "mistralai/Mistral-7B-Instruct-v0.3"
 
 print(f"Loading {MODEL_ID}...")
 
@@ -78,11 +79,17 @@ def extract_clean_answer(raw_text, model_name):
     # CASE B: Qwen / ChatML format
     elif "<|im_start|>assistant" in raw_text:
         answer = raw_text.split("<|im_start|>assistant")[-1]
+
+    # 4. Mistral Format
+    elif "[/INST]" in raw_text:
+        answer = raw_text.split("[/INST]")[-1]
         
-    # Cleanup common tokens
-    answer = answer.replace("<|im_end|>", "").replace("<|eot_id|>", "").strip()
+    # Clean up all possible end-of-turn tokens
+    cleanup_tokens = ["<|im_end|>", "<|eot_id|>", "<end_of_turn>", "</s>"]
+    for token in cleanup_tokens:
+        answer = answer.replace(token, "")
     
-    return answer
+    return answer.strip()
 
 for i, row in enumerate(test_data):
     claim = row['main_text']
