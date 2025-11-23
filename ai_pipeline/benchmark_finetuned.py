@@ -5,6 +5,7 @@ import torch
 import pandas as pd
 import csv
 from transformers import pipeline, AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
+from peft import PeftModel
 from datasets import load_dataset
 from dotenv import load_dotenv
 from huggingface_hub import login
@@ -19,18 +20,13 @@ login(token=token)
 
 # --- CONFIGURATION ---
 MASTER_LOG_FILE = "experiment_history_log.csv"
+BASE_MODEL_ID = "meta-llama/Llama-3.2-3B-Instruct"
+ADAPTER_PATH = "medical_llama_3b_finetuned"
 
 if not os.path.exists("run_results"):
     os.makedirs("run_results")
 
-# --- 2. MODEL SELECTION ---
-# Toggle these to compare!
-# MODEL_ID = "meta-llama/Llama-3.2-3B-Instruct" 
-# MODEL_ID = "Qwen/Qwen2.5-7B-Instruct"
-# MODEL_ID = "meta-llama/Llama-3.1-8B-Instruct" 
-MODEL_ID = "mistralai/Mistral-7B-Instruct-v0.3"
-
-print(f"Loading {MODEL_ID}...")
+print(f"Loading Base Model: {BASE_MODEL_ID}...")
 
 # Optimized 4-bit config 
 bnb_config = BitsAndBytesConfig(
@@ -40,14 +36,27 @@ bnb_config = BitsAndBytesConfig(
     bnb_4bit_use_double_quant=True,
 )
 
-tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
-
-model = AutoModelForCausalLM.from_pretrained(
-    MODEL_ID,
+# 1. Load the Base Model (Frozen)
+base_model = AutoModelForCausalLM.from_pretrained(
+    BASE_MODEL_ID,
     quantization_config=bnb_config,
     device_map="auto", 
 )
 
+# 2. Load the Tokenizer
+tokenizer = AutoTokenizer.from_pretrained(BASE_MODEL_ID)
+
+# 3. Load YOUR Fine-Tuned Adapter
+print(f"Loading Fine-Tuned Adapter from: {ADAPTER_PATH}...")
+try:
+    model = PeftModel.from_pretrained(base_model, ADAPTER_PATH)
+    print("✅ Adapter loaded successfully!")
+except Exception as e:
+    print(f"❌ Error loading adapter: {e}")
+    print("Did you complete the training? Check if the folder exists.")
+    exit()
+
+# 4. Create Pipeline
 pipe = pipeline(
     "text-generation",
     model=model,
@@ -66,56 +75,48 @@ print(f"Running inference on {len(test_data)} samples...")
 run_timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
 start_time = time.time()
 
-def extract_clean_answer(raw_text, model_name):
-    """
-    Universal extractor that handles different model formats
-    """
-    answer = raw_text
-    
-    # CASE A: Llama 3 format
+def extract_clean_answer(raw_text):
     if "assistant<|end_header_id|>" in raw_text:
         answer = raw_text.split("assistant<|end_header_id|>")[-1]
-        
-    # CASE B: Qwen / ChatML format
     elif "<|im_start|>assistant" in raw_text:
         answer = raw_text.split("<|im_start|>assistant")[-1]
-
-    # CASE C: Mistral Format
-    elif "[/INST]" in raw_text:
-        answer = raw_text.split("[/INST]")[-1]
+    else:
+        answer = raw_text
         
-    # Clean up all possible end-of-turn tokens
-    cleanup_tokens = ["<|im_end|>", "<|eot_id|>", "<end_of_turn>", "</s>"]
-    for token in cleanup_tokens:
-        answer = answer.replace(token, "")
-    
-    return answer.strip()
+    return answer.replace("<|im_end|>", "").replace("<|eot_id|>", "").strip()
 
 for i, row in enumerate(test_data):
     claim = row['main_text']
     ground_truth = "True" if row['label'] == 2 else "False"
 
     messages = [
-        {"role": "system", "content": "You are a medical fact-checker. Classify the following claim as 'True' or 'False' only."},
-        {"role": "user", "content": f"Claim: {claim}\n\nVerdict:"}
+        {"role": "system", "content": "You are a medical fact-checking assistant. Analyze the following text for misinformation."},
+        {"role": "user", "content": claim}
     ]
     
     prompt = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
 
     outputs = pipe(
         prompt, 
-        max_new_tokens=10, # Increased slightly to catch verbose answers
+        max_new_tokens=10,
         do_sample=False
     )
     
     raw = outputs[0]['generated_text']
-    
-    # Use the new universal extractor
-    answer = extract_clean_answer(raw, MODEL_ID)
+    answer = extract_clean_answer(raw)
 
     prediction = "Unsure"
-    if "true" in answer.lower(): prediction = "True"
-    elif "false" in answer.lower(): prediction = "False"
+    
+    # Priority 1: Did it trigger your fine-tuned trap?
+    if "MISINFORMATION DETECTED" in answer: 
+        prediction = "False"
+    # Priority 2: Standard text detection
+    elif "incorrect" in answer.lower() or "false" in answer.lower():
+        prediction = "False"
+    elif "true" in answer.lower(): 
+        prediction = "True"
+    else:
+        prediction = "True" # Fallback
 
     results.append({
         "claim": claim[:50],
@@ -124,38 +125,35 @@ for i, row in enumerate(test_data):
         "raw": answer
     })
     
-    if i % 10 == 0: print(f"Processed {i}...")
+    if (i+1) % 10 == 0: print(f"Processed {i+1}...")
 
 end_time = time.time()
 elapsed_time = round(end_time - start_time, 2)
 
 # --- 5. SAVE RESULTS ---
 df = pd.DataFrame(results)
-model_short_name = MODEL_ID.split('/')[-1]
-unique_filename = f"run_results/results_{model_short_name}_{run_timestamp}.csv"
+unique_filename = f"run_results/results_FINETUNED_3B_{run_timestamp}.csv"
 df.to_csv(unique_filename, index=False)
 
-# Calculate Metrics
+# Metrics
 precision, recall, f1, _ = precision_recall_fscore_support(df['truth'], df['pred'], average='weighted', zero_division=0)
 accuracy = accuracy_score(df['truth'], df['pred'])
 
 print("\n" + "="*30)
-print(f"REPORT FOR: {MODEL_ID}")
+print(f"REPORT FOR: Fine-Tuned Llama 3.2 3B")
 print("="*30)
 print(classification_report(df['truth'], df['pred'], zero_division=0))
 
-# Append to master log
+# Log
 file_exists = os.path.isfile(MASTER_LOG_FILE)
-
 with open(MASTER_LOG_FILE, mode='a', newline='') as file:
     writer = csv.writer(file)
-    
     if not file_exists:
         writer.writerow(["Timestamp", "Model_Name", "Samples", "Time_Seconds", "Accuracy", "Precision", "Recall", "F1_Score", "Result_File_Path"])
     
     writer.writerow([
         datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-        MODEL_ID,
+        "Llama-3.2-3B-FineTuned",
         len(test_data),
         elapsed_time,
         round(accuracy, 4),
@@ -165,4 +163,4 @@ with open(MASTER_LOG_FILE, mode='a', newline='') as file:
         unique_filename
     ])
 
-print(f"Corrected log saved to: {MASTER_LOG_FILE}")
+print(f"Results logged to: {MASTER_LOG_FILE}")

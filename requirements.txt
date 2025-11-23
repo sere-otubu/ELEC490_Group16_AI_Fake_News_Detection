@@ -8,10 +8,14 @@ huggingface-hub>=0.23.0
 pandas
 scikit-learn
 python-dotenv
+wandb
 
 # --- Tokenizer Utilities ---
 sentencepiece
 protobuf
+
+peft
+trl
 
 # --- Windows/GPU Specifics ---
 # Note: On Windows, it is safer to install these manually to avoid CPU-only versions.
