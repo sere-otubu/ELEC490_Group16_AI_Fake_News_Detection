@@ -92,7 +92,7 @@ def extract_clean_answer(raw_text, model_name):
     return answer.strip()
 
 for i, row in enumerate(test_data):
-    claim = row['main_text']
+    claim = row['claim']
     ground_truth = "True" if row['label'] == 2 else "False"
 
     messages = [

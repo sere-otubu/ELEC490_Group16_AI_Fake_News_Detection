@@ -86,7 +86,7 @@ peft_config = LoraConfig(
 sft_config = SFTConfig(
     output_dir=OUTPUT_DIR,
     dataset_text_field="text",
-    max_seq_length=512,
+    max_seq_length=256,
     num_train_epochs=3,
     per_device_train_batch_size=2,
     gradient_accumulation_steps=4,
@@ -118,7 +118,7 @@ sft_config = SFTConfig(
 
     # Reporting
     report_to="wandb" if wb_token else "none",
-    run_name="llama-3b-medical-fact-checker"
+    run_name="llama-3b-medical-short-claims-v1"
 )
 
 # --- 5. TRAINER ---

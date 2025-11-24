@@ -1,6 +1,6 @@
 Timestamp,Model_Name,Samples,Time_Seconds,Accuracy,Precision,Recall,F1_Score,Result_File_Path
-2025-11-23 13:33:34,meta-llama/Llama-3.2-3B-Instruct,50,38.43,0.64,0.6512,0.64,0.6449,run_results/results_Llama-3.2-3B-Instruct_20251123_133255.csv
-2025-11-23 13:44:28,Qwen/Qwen2.5-7B-Instruct,50,103.96,0.88,0.88,0.88,0.88,run_results/results_Qwen2.5-7B-Instruct_20251123_134243.csv
-2025-11-23 13:50:41,meta-llama/Llama-3.1-8B-Instruct,50,145.65,0.84,0.8855,0.84,0.8454,run_results/results_Llama-3.1-8B-Instruct_20251123_134816.csv
-2025-11-23 13:56:55,mistralai/Mistral-7B-Instruct-v0.3,50,132.52,0.7,0.8527,0.7,0.7296,run_results/results_Mistral-7B-Instruct-v0.3_20251123_135443.csv
-2025-11-23 17:37:53,Llama-3.2-3B-FineTuned,50,113.83,0.46,0.2116,0.46,0.2899,run_results/results_FINETUNED_3B_20251123_173559.csv
+2025-11-23 18:50:04,meta-llama/Llama-3.2-3B-Instruct,50,21.79,0.38,0.5869,0.38,0.3899,run_results/results_Llama-3.2-3B-Instruct_20251123_184942.csv
+2025-11-23 18:53:19,Qwen/Qwen2.5-7B-Instruct,50,23.69,0.54,0.5771,0.54,0.5178,run_results/results_Qwen2.5-7B-Instruct_20251123_185255.csv
+2025-11-23 18:55:16,meta-llama/Llama-3.1-8B-Instruct,50,21.14,0.56,0.6265,0.56,0.5723,run_results/results_Llama-3.1-8B-Instruct_20251123_185455.csv
+2025-11-23 19:54:44,Llama-3.2-3B-FineTuned,50,100.78,0.68,0.68,0.68,0.68,run_results/results_FINETUNED_3B_20251123_195303.csv
+2025-11-23 20:05:33,mistralai/Mistral-7B-Instruct-v0.3,50,25.16,0.52,0.6866,0.52,0.5688,run_results/results_Mistral-7B-Instruct-v0.3_20251123_200508.csv

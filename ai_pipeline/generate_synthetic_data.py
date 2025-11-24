@@ -16,7 +16,7 @@ genai.configure(api_key=api_key)
 MODEL_NAME = "gemini-2.5-flash" 
 
 generation_config = {
-  "temperature": 0.7,
+  "temperature": 0.8,
   "top_p": 0.95,
   "top_k": 64,
   "max_output_tokens": 8192,
@@ -26,47 +26,53 @@ generation_config = {
 model = genai.GenerativeModel(
   model_name=MODEL_NAME,
   generation_config=generation_config,
-  system_instruction="""You are an expert medical content generator creating a dataset for 'Adversarial Misinformation Detection'. 
-  Your goal is to write highly professional, academic-sounding medical abstracts that contain subtle factual errors.
-  These are for research purposes to train an AI model to detect lies.
+  system_instruction="""You are an expert medical content generator. 
+  Your goal is to generate a dataset of 'Short Medical Claims' for fact-checking training.
   """
 )
 
 # False data generation prompt
 # PROMPT = """
-# Generate 5 unique training examples in strict JSON format.
+# Generate 10 unique training examples in strict JSON format.
 
-# **Constraints for each example:**
-# 1.  **Topic:** Choose distinct medical topics (COVID-19, Cardiology, Oncology, Pediatrics, etc.).
-# 2.  **Input:** Write a 150-word "Medical Abstract". It must use high-level terminology and sound authoritative.
-# 3.  **The Lie:** Buried inside, include ONE specific factual error (e.g., incorrect dosage, reversed mechanism, wrong contraindication). It must NOT be obvious. It must sound plausible to a layman.
-# 4.  **Output:** A critique explaining exactly why it is wrong.
+# **Constraints:**
+# 1.  **Style:** Write **Short, Punchy Claims** (1-2 sentences max).
+#     * *Tone:* Viral social media posts, news headlines, or "forwarded email" warnings.
+#     * *Example:* "Expired boxes of cake and pancake mix are dangerously toxic."
+#     * *Example:* "Drinking boiled garlic water clears blocked arteries instantly."
+# 2.  **Content:** ALL examples must be **FALSE (Misinformation)**.
+#     * Include varied topics: Diet, Vaccines, Cures, household toxins, etc.
+#     * Make them sound confident and alarming (the way misinformation usually spreads).
 
 # **Output JSON Structure:**
 # [
 #   {
-#     "instruction": "Analyze the text for medical accuracy.",
-#     "input": "...",
-#     "output": "MISINFORMATION DETECTED... [Explanation]"
+#     "instruction": "Analyze this medical claim for misinformation.",
+#     "input": "[Insert Short False Claim]",
+#     "output": "MISINFORMATION DETECTED.\n\nAnalysis: The claim that [Restate Claim] is false. [Brief scientific correction]."
 #   }
 # ]
 # """
 
 # True data generation prompt
 PROMPT = """
-Generate 5 unique training examples in strict JSON format.
+Generate 10 unique training examples in strict JSON format.
 
-**Constraints for each example:**
-1.  **Topic:** Choose distinct medical topics (Cardiology, Oncology, Pediatrics, etc.).
-2.  **Input:** Write a 150-word "Medical Abstract". It must use high-level terminology and be **100% medically accurate** and aligned with standard clinical consensus.
-3.  **Output:** A validation confirming its accuracy.
+**Constraints:**
+1.  **Style:** Write **Short, Punchy Claims** (1-2 sentences max).
+    * *Tone:* Viral social media posts, news headlines, or "Did you know?" facts.
+    * *Example:* "The CDC recommends annual flu shots for everyone over the age of 6 months."
+    * *Example:* "Regular exercise has been proven to lower the risk of heart disease and stroke."
+2.  **Content:** ALL examples must be **TRUE (Factually Accurate)**.
+    * Use standard, consensus-based medical knowledge (Guidelines, Anatomy, Treatments, Public Health).
+    * Cover varied topics: Nutrition, Epidemiology, Pharmacology, Cardiology, etc.
 
 **Output JSON Structure:**
 [
   {
-    "instruction": "Analyze the following medical text for misinformation.",
-    "input": "...",
-    "output": "FACTUALLY ACCURATE.\n\nAnalysis: The text correctly describes [Mechanism/Treatment]. This aligns with current clinical guidelines."
+    "instruction": "Analyze this medical claim for misinformation.",
+    "input": "[Insert Short True Claim]",
+    "output": "FACTUALLY ACCURATE.\n\nAnalysis: The claim is correct. [Brief sentence citing why/consensus]."
   }
 ]
 """
