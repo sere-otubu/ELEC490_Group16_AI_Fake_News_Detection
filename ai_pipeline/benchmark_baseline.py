@@ -129,40 +129,63 @@ for i, row in enumerate(test_data):
 end_time = time.time()
 elapsed_time = round(end_time - start_time, 2)
 
-# --- 5. SAVE RESULTS ---
+# --- 5. RESULTS SAVING & REPORTING ---
 df = pd.DataFrame(results)
 model_short_name = MODEL_ID.split('/')[-1]
 unique_filename = f"run_results/results_{model_short_name}_{run_timestamp}.csv"
 df.to_csv(unique_filename, index=False)
 
-# Calculate Metrics
-precision, recall, f1, _ = precision_recall_fscore_support(df['truth'], df['pred'], average='weighted', zero_division=0)
-accuracy = accuracy_score(df['truth'], df['pred'])
+# Get the dictionary version of the report to access specific numbers
+report_dict = classification_report(df['truth'], df['pred'], output_dict=True, zero_division=0)
+
+# Helper to safely get metrics even if a class (e.g. "Unsure") is missing
+def get_class_metrics(report, label):
+    if label in report:
+        return (
+            round(report[label]['precision'], 4),
+            round(report[label]['recall'], 4),
+            round(report[label]['f1-score'], 4),
+            report[label]['support']
+        )
+    return (0.0, 0.0, 0.0, 0)
+
+# Extract "False" (Misinformation) metrics
+false_p, false_r, false_f1, false_s = get_class_metrics(report_dict, "False")
+
+# Extract "True" (Accurate) metrics
+true_p, true_r, true_f1, true_s = get_class_metrics(report_dict, "True")
+
+accuracy = round(report_dict['accuracy'], 4)
 
 print("\n" + "="*30)
 print(f"REPORT FOR: {MODEL_ID}")
 print("="*30)
 print(classification_report(df['truth'], df['pred'], zero_division=0))
 
-# Append to master log
+# --- APPEND TO MASTER LOG ---
 file_exists = os.path.isfile(MASTER_LOG_FILE)
 
 with open(MASTER_LOG_FILE, mode='a', newline='') as file:
     writer = csv.writer(file)
     
+    # Write NEW header with detailed columns
     if not file_exists:
-        writer.writerow(["Timestamp", "Model_Name", "Samples", "Time_Seconds", "Accuracy", "Precision", "Recall", "F1_Score", "Result_File_Path"])
+        writer.writerow([
+            "Timestamp", "Model_Name", "Samples", "Time_Seconds", "Accuracy", 
+            "False_Precision", "False_Recall", "False_F1", "False_Support",
+            "True_Precision", "True_Recall", "True_F1", "True_Support",
+            "Result_File_Path"
+        ])
     
     writer.writerow([
         datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         MODEL_ID,
         len(test_data),
         elapsed_time,
-        round(accuracy, 4),
-        round(precision, 4),
-        round(recall, 4),
-        round(f1, 4),
+        accuracy,
+        false_p, false_r, false_f1, false_s,
+        true_p, true_r, true_f1, true_s,
         unique_filename
     ])
 
-print(f"Corrected log saved to: {MASTER_LOG_FILE}")
+print(f"Detailed results logged to: {MASTER_LOG_FILE}")
