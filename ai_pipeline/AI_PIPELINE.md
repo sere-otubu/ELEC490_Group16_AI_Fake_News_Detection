@@ -108,9 +108,9 @@ We trained the 3B model using **Supervised Fine-Tuning (SFT)**.
 After fine-tuning on the custom "Short Claims" dataset, the 3B model significantly outperformed its baseline and the larger 8B model.
 ```
 |       Metric       | Base 3B (Before) | Base 8B | **Fine-Tuned 3B (After)** |
-| Accuracy**         | 0.38             | 0.56    | 0.68 |
-| **Recall (True)**  | 0.11             | 0.44    |  |
-| **Recall (False)** | 0.70             | 0.70    |  |
+| Accuracy           | 0.38             | 0.56    |            0.68           |
+| Recall (True)      | 0.11             | 0.44    |            0.65           |
+| Recall (False)     | 0.70             | 0.70    |            0.70           |
 ```
 
 **Key Finding:**
