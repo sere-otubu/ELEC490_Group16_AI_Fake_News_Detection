@@ -2,7 +2,7 @@ name: Continuous Integration Pipeline
 
 on:
   push:
-    branches: [ "main", "sere-dev3" ]
+    branches: [ "main", "sere-backend" ]
   pull_request:
     branches: [ "main" ]
 
