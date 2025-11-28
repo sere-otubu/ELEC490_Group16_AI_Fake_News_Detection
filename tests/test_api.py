@@ -1,6 +1,5 @@
-from fastapi.testclient import TestClient
-from unittest.mock import patch
-from app.backend.main import app
+import sys
+from unittest.mock import MagicMock
 
 # --- Mock heavy ML libraries before import ---
 # This allows tests to run in GitHub Actions without installing 5GB of PyTorch
@@ -8,6 +7,10 @@ sys.modules["torch"] = MagicMock()
 sys.modules["transformers"] = MagicMock()
 sys.modules["peft"] = MagicMock()
 sys.modules["huggingface_hub"] = MagicMock()
+
+from fastapi.testclient import TestClient
+from unittest.mock import patch
+from app.backend.main import app
 
 # Create a test client
 client = TestClient(app)
