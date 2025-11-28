@@ -32,11 +32,14 @@ jobs:
         # Run pytest on the tests folder
         pytest tests/
 
-    - name: Check HuggingFace Login
+    - name: Login to Hugging Face Hub
       run: |
-        huggingface-cli whoami
-      env:
-        HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        pip install huggingface_hub
+        # 1. This is the new command to set up the credential helper
+        git config --global credential.helper store
+        # 2. This command can now successfully save the token for git
+        hf auth login --token ${{ secrets.HF_TOKEN }} --add-to-git-credential
+
 
     # 8. Send Discord Notification on Success
     - name: Send Discord Notification on Success
