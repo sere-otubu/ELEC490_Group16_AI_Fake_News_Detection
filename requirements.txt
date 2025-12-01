@@ -17,7 +17,7 @@ protobuf
 peft
 trl
 google-generativeai
-re
+ddgs
 
 # --- Windows/GPU Specifics ---
 # Note: On Windows, it is safer to install these manually to avoid CPU-only versions.
