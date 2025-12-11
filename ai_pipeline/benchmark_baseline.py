@@ -8,7 +8,54 @@ from transformers import pipeline, AutoTokenizer, AutoModelForCausalLM, BitsAndB
 from datasets import load_dataset
 from dotenv import load_dotenv
 from huggingface_hub import login
-from sklearn.metrics import classification_report, accuracy_score, precision_recall_fscore_support
+from sklearn.metrics import classification_report, confusion_matrix
+import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
+
+def plot_confusion_matrix(df, save_path=None):
+    labels = ["Accurate", "Misleading", "Harmful", "Unverifiable"]
+
+    cm = confusion_matrix(df["truth"], df["pred"], labels=labels)
+
+    plt.figure(figsize=(8, 6))
+    sns.heatmap(cm, annot=True, fmt="d", cmap="Blues",
+                xticklabels=labels, yticklabels=labels)
+    plt.xlabel("Predicted Label")
+    plt.ylabel("True Label")
+    plt.title("Medical Misinformation Classification — Confusion Matrix")
+
+    if save_path:
+        plt.savefig(save_path, dpi=300, bbox_inches='tight')
+    plt.show()
+
+def plot_precision_recall(df, save_path=None):
+    labels = ["Accurate", "Misleading", "Harmful", "Unverifiable"]
+
+    report = classification_report(df["truth"], df["pred"], 
+                                   labels=labels, output_dict=True)
+
+    precision = [report[l]["precision"] for l in labels]
+    recall = [report[l]["recall"] for l in labels]
+
+    x = np.arange(len(labels))
+    width = 0.35
+
+    plt.figure(figsize=(10, 6))
+    plt.bar(x - width/2, precision, width, label="Precision")
+    plt.bar(x + width/2, recall, width, label="Recall")
+
+    plt.xticks(x, labels)
+    plt.ylim(0, 1)
+    plt.ylabel("Score")
+    plt.title("Per-Class Precision & Recall")
+
+    plt.legend()
+
+    if save_path:
+        plt.savefig(save_path, dpi=300, bbox_inches='tight')
+
+    plt.show()
 
 # --- 1. SETUP ---
 load_dotenv()
@@ -18,17 +65,17 @@ if not token:
 login(token=token)
 
 # --- CONFIGURATION ---
-MASTER_LOG_FILE = "experiment_history_log.csv"
+MASTER_LOG_FILE = "experiment_history_log_v2.csv"
 
 if not os.path.exists("run_results"):
     os.makedirs("run_results")
 
 # --- 2. MODEL SELECTION ---
 # Toggle these to compare!
-# MODEL_ID = "meta-llama/Llama-3.2-3B-Instruct" 
+MODEL_ID = "meta-llama/Llama-3.2-3B-Instruct" 
 # MODEL_ID = "Qwen/Qwen2.5-7B-Instruct"
 # MODEL_ID = "meta-llama/Llama-3.1-8B-Instruct" 
-MODEL_ID = "mistralai/Mistral-7B-Instruct-v0.3"
+# MODEL_ID = "mistralai/Mistral-7B-Instruct-v0.3"
 
 print(f"Loading {MODEL_ID}...")
 
@@ -57,7 +104,35 @@ pipe = pipeline(
 # --- 3. DATA ---
 print("Loading PubHealth...")
 dataset = load_dataset("ImperialCollegeLondon/health_fact", trust_remote_code=True)
-test_data = dataset['test'].filter(lambda x: x['label'] in [0, 2]).select(range(50))
+
+# Uncomment to conduct quick data analysis
+# # --- Quick Data Analysis ---
+# print("\n--- ANALYZING CLAIM LENGTHS ---")
+
+# # Convert the test split to a Pandas DataFrame for easier analysis
+# df_analysis = pd.DataFrame(dataset['test'])
+
+# # Calculate word counts for every claim
+# df_analysis['word_count'] = df_analysis['claim'].apply(lambda x: len(str(x).split()))
+
+# # 1. Get Statistics
+# print("Word Count Statistics:")
+# print(df_analysis['word_count'].describe())
+
+# # 2. Print Random Examples to eyeball them
+# print("\n--- 5 Random Examples ---")
+# for i, row in df_analysis.sample(5).iterrows():
+#     print(f"Length: {row['word_count']} words | Claim: {row['claim']}")
+
+# # 3. Check for extremely short claims (potential noise)
+# short_claims = df_analysis[df_analysis['word_count'] < 5]
+# print(f"\nNumber of claims under 5 words: {len(short_claims)}")
+# if not short_claims.empty:
+#     print("Examples of very short claims:", short_claims['claim'].head().tolist())
+
+# print("-" * 30)
+
+test_data = dataset['test']
 
 # --- 4. INFERENCE ---
 results = []
@@ -91,20 +166,58 @@ def extract_clean_answer(raw_text, model_name):
     
     return answer.strip()
 
+def map_pubhealth_label(label):
+    """
+    Maps PubHealth original dataset labels to 'Accurate', 'Harmful', 'Misleading', 'Unverifiable'.
+    """
+    # PubHealth original labels:
+    # 0 = 'false'
+    # 1 = 'mixture'
+    # 2 = 'true' 
+    # 3 = 'unverified'
+
+    # Ensure label is an integer to handle cases where it might be loaded as string "2"
+    try:
+        label = int(label)
+    except (ValueError, TypeError):
+        return "Unknown"
+
+    if label == 0:
+        return "Harmful"
+    if label == 1:
+        return "Misleading"
+    if label == 2:
+        return "Accurate"
+    if label == 3:
+        return "Unverifiable"
+    
+    return "Unknown"
+
 for i, row in enumerate(test_data):
     claim = row['claim']
-    ground_truth = "True" if row['label'] == 2 else "False"
+    ground_truth = map_pubhealth_label(row['label'])
+
+    system_prompt = """You are a medical fact-checker.
+    Analyze the following claim and classify it into ONE of these categories based on these strict definitions:
+
+    1. Accurate: The claim is factually true and supported by scientific consensus.
+    2. Misleading: The claim may contain some truth but is cherry-picked, exaggerates findings, or presents correlation as causation.
+    3. Harmful: The claim is factually FALSE, dangerous, or creates fear/panic without evidence (e.g., anti-vaccine myths, fake cures).
+    4. Unverifiable: There is insufficient evidence to prove or disprove the claim.
+
+    Return ONLY the category name. Do not explain.
+    """
 
     messages = [
-        {"role": "system", "content": "You are a medical fact-checker. Classify the following claim as 'True' or 'False' only."},
-        {"role": "user", "content": f"Claim: {claim}\n\nVerdict:"}
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": f"Claim: {claim}"}
     ]
     
     prompt = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
 
     outputs = pipe(
         prompt, 
-        max_new_tokens=5,
+        max_new_tokens=20,
         do_sample=False
     )
     
@@ -113,9 +226,18 @@ for i, row in enumerate(test_data):
     # Use the new universal extractor
     answer = extract_clean_answer(raw, MODEL_ID)
 
-    prediction = "Unsure"
-    if "true" in answer.lower(): prediction = "True"
-    elif "false" in answer.lower(): prediction = "False"
+    ans = answer.lower().strip()
+
+    if "accurate" in ans:
+        prediction = "Accurate"
+    elif "misleading" in ans:
+        prediction = "Misleading"
+    elif "harmful" in ans:
+        prediction = "Harmful"
+    elif "unverifiable" in ans:
+        prediction = "Unverifiable"
+    else:
+        prediction = "Unsure"
 
     results.append({
         "claim": claim[:50],
@@ -135,8 +257,40 @@ model_short_name = MODEL_ID.split('/')[-1]
 unique_filename = f"run_results/results_{model_short_name}_{run_timestamp}.csv"
 df.to_csv(unique_filename, index=False)
 
+# 1. Drop rows where truth or pred is totally missing (NaN)
+df = df.dropna(subset=["truth", "pred"])
+
+# Filter out "Unsure" predictions for cleaner classification report
+df_valid = df[
+    (df["pred"] != "Unsure") & 
+    (df["truth"] != "Unknown")
+]
+
+# Check if we have any valid predictions
+if len(df_valid) == 0:
+    print("WARNING: All predictions are 'Unsure'. Using full dataset for metrics.")
+    # Create empty df just to prevent crash in subsequent code
+    df_valid = pd.DataFrame(columns=["truth", "pred"])
+else:
+    # Safe to generate report
+    print("\n" + "="*30)
+    print(f"REPORT FOR: {MODEL_ID}")
+    print("="*30)
+    print(classification_report(
+        df_valid['truth'], 
+        df_valid['pred'], 
+        labels=["Accurate", "Misleading", "Harmful", "Unverifiable"],
+        zero_division=0
+    ))
+
 # Get the dictionary version of the report to access specific numbers
-report_dict = classification_report(df['truth'], df['pred'], output_dict=True, zero_division=0)
+report_dict = classification_report(
+    df_valid["truth"],
+    df_valid["pred"],
+    labels=["Accurate", "Misleading", "Harmful", "Unverifiable"],
+    output_dict=True,
+    zero_division=0,
+)
 
 # Helper to safely get metrics even if a class (e.g. "Unsure") is missing
 def get_class_metrics(report, label):
@@ -149,18 +303,19 @@ def get_class_metrics(report, label):
         )
     return (0.0, 0.0, 0.0, 0)
 
-# Extract "False" (Misinformation) metrics
-false_p, false_r, false_f1, false_s = get_class_metrics(report_dict, "False")
+# Extract "Harmful" (Misinformation) metrics
+harmful_p, harmful_r, harmful_f1, harmful_s = get_class_metrics(report_dict, "Harmful")
 
-# Extract "True" (Accurate) metrics
-true_p, true_r, true_f1, true_s = get_class_metrics(report_dict, "True")
+# Extract "Misleading" metrics
+mislead_p, mislead_r, mislead_f1, mislead_s = get_class_metrics(report_dict, "Misleading")
 
-accuracy = round(report_dict['accuracy'], 4)
+# Extract "Unveriable" metrics
+unverify_p, unverify_r, unverify_f1, unverify_s = get_class_metrics(report_dict, "Unverifiable")
 
-print("\n" + "="*30)
-print(f"REPORT FOR: {MODEL_ID}")
-print("="*30)
-print(classification_report(df['truth'], df['pred'], zero_division=0))
+# Extract "Accurate" (Accurate) metrics
+accurate_p, accurate_r, accurate_f1, accurate_s = get_class_metrics(report_dict, "Accurate")
+
+accuracy = round((df_valid["truth"] == df_valid["pred"]).mean(), 4)
 
 # --- APPEND TO MASTER LOG ---
 file_exists = os.path.isfile(MASTER_LOG_FILE)
@@ -172,8 +327,10 @@ with open(MASTER_LOG_FILE, mode='a', newline='') as file:
     if not file_exists:
         writer.writerow([
             "Timestamp", "Model_Name", "Samples", "Time_Seconds", "Accuracy", 
-            "False_Precision", "False_Recall", "False_F1", "False_Support",
-            "True_Precision", "True_Recall", "True_F1", "True_Support",
+            "Harmful_Precision", "Harmful_Recall", "Harmful_F1", "Harmful_Support",
+            "Misleading_Precision", "Misleading_Recall", "Misleading_F1", "Misleading_Support",
+            "Unverifiable_Precision", "Unverifiable_Recall", "Unverifiable_F1", "Unverifiable_Support",
+            "Accurate_Precision", "Accurate_Recall", "Accurate_F1", "Accurate_Support",
             "Result_File_Path"
         ])
     
@@ -183,9 +340,17 @@ with open(MASTER_LOG_FILE, mode='a', newline='') as file:
         len(test_data),
         elapsed_time,
         accuracy,
-        false_p, false_r, false_f1, false_s,
-        true_p, true_r, true_f1, true_s,
-        unique_filename
+        # Harmful
+        harmful_p, harmful_r, harmful_f1, harmful_s,
+        # Misleading
+        mislead_p, mislead_r, mislead_f1, mislead_s,
+        # Unverifiable
+        unverify_p, unverify_r, unverify_f1, unverify_s,
+        # Accurate
+        accurate_p, accurate_r, accurate_f1, accurate_s,
+        unique_filename,
     ])
 
 print(f"Detailed results logged to: {MASTER_LOG_FILE}")
+plot_confusion_matrix(df_valid, save_path=f"run_results/llama_3B_confusion_matrix.png")
+plot_precision_recall(df_valid, save_path=f"run_results/llama_3B_precision_recall.png")
