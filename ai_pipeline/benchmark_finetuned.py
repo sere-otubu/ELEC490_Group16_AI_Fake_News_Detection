@@ -54,7 +54,7 @@ login(token=token)
 
 # --- CONFIGURATION ---
 BASE_MODEL_ID = "meta-llama/Llama-3.2-3B-Instruct"
-ADAPTER_PATH = "medical_llama_standard" # Folder where train.py saved results
+ADAPTER_PATH = "sereotubu/Llama-3.2-3B-Medical-Fact-Checker" # Folder where train.py saved results
 MASTER_LOG_FILE = "experiment_history_log_v2.csv"
 RUN_TIMESTAMP = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
 
@@ -100,9 +100,9 @@ try:
         trust_remote_code=False
     )
     # Filter for standard labels only
-    test_data = dataset['test'].filter(lambda x: x['label'] in [0, 1, 2, 3])
+    test_data = dataset['test']
     # OPTIONAL: Limit rows for speed testing? Remove [.select(range(100))] to run full test
-    test_data = test_data.select(range(50)) 
+    # test_data = test_data.select(range(50)) 
     print(f"Loaded {len(test_data)} samples for benchmarking.")
 except Exception as e:
     print(f"Error loading data: {e}")
