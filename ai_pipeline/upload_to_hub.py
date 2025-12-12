@@ -1,38 +1,82 @@
+import torch
 import os
-from huggingface_hub import login, create_repo, upload_folder
-from dotenv import load_dotenv
+from peft import PeftModel, PeftConfig
+from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
+from huggingface_hub import login, HfApi
 
-# 1. SETUP
+# --- CONFIGURATION ---
+# 1. Your Hugging Face Username
+HF_USERNAME = "sereotubu" 
+
+# 2. The folder where train.py saved your model
+ADAPTER_PATH = "medical_llama_standard" 
+
+# 3. The Base Model you fine-tuned
+BASE_MODEL_ID = "meta-llama/Llama-3.2-3B-Instruct"
+
+# 4. Name for your new repo
+NEW_MODEL_NAME = "Llama-3.2-3B-Medical-Fact-Checker"
+
+# 5. MERGE OPTION (Important!)
+# Set True to upload a full, standalone model (easier for edge devices).
+# Set False to upload only the adapter (faster upload, requires base model to run).
+MERGE_AND_UPLOAD = False 
+
+# --- AUTH ---
+from dotenv import load_dotenv
 load_dotenv()
 token = os.getenv("HF_TOKEN")
 if not token:
     raise ValueError("HF_TOKEN not found in .env file.")
 login(token=token)
 
-# 2. CONFIGURATION
-# The folder on your computer where train.py saved the model
-LOCAL_DIR = "medical_llama_3b_finetuned" 
+print(f"Loading Base Model: {BASE_MODEL_ID}...")
+# Note: For merging, we generally need 16-bit, not 4-bit
+if MERGE_AND_UPLOAD:
+    print("Loading in 16-bit for merging...")
+    base_model = AutoModelForCausalLM.from_pretrained(
+        BASE_MODEL_ID,
+        torch_dtype=torch.float16,
+        device_map="auto",
+        trust_remote_code=True
+    )
+else:
+    # 4-bit is fine if just verifying adapter
+    print("Loading in 4-bit for adapter verification...")
+    bnb_config = BitsAndBytesConfig(
+        load_in_4bit=True,
+        bnb_4bit_quant_type="nf4",
+        bnb_4bit_compute_dtype=torch.float16,
+    )
+    base_model = AutoModelForCausalLM.from_pretrained(
+        BASE_MODEL_ID,
+        quantization_config=bnb_config,
+        device_map="auto",
+    )
 
-# The name you want on Hugging Face (username/model-name)
-# Based on your error message, this is your username:
-REPO_NAME = "sereotubu/medical-llama-3b-small-claims-v1" 
+tokenizer = AutoTokenizer.from_pretrained(BASE_MODEL_ID)
 
-# 3. CREATE REPO
-print(f"Creating repository: {REPO_NAME}...")
-try:
-    # This creates the empty repo on Hugging Face if it doesn't exist
-    create_repo(REPO_NAME, repo_type="model", exist_ok=True)
-except Exception as e:
-    print(f"Note on repo creation: {e}")
+print(f"Loading Adapter from {ADAPTER_PATH}...")
+model = PeftModel.from_pretrained(base_model, ADAPTER_PATH)
 
-# 4. UPLOAD
-print(f"🚀 Uploading '{LOCAL_DIR}' to Hugging Face...")
-print("This might take a minute...")
+repo_id = f"{HF_USERNAME}/{NEW_MODEL_NAME}"
+print(f"Target Repo: {repo_id}")
 
-upload_folder(
-    folder_path=LOCAL_DIR,
-    repo_id=REPO_NAME,
-    repo_type="model"
-)
+if MERGE_AND_UPLOAD:
+    print("Merging adapter into base model (This takes RAM)...")
+    model = model.merge_and_unload()
+    
+    print("Pushing FULL MODEL to Hub...")
+    model.push_to_hub(repo_id, safe_serialization=True)
+    tokenizer.push_to_hub(repo_id)
+else:
+    print("Pushing ADAPTER ONLY to Hub...")
+    model.push_to_hub(repo_id, safe_serialization=True)
+    # We don't necessarily need to push the tokenizer for just an adapter, 
+    # but it's good practice to keep them linked.
+    tokenizer.push_to_hub(repo_id)
 
-print(f"✅ Success! Your model is live at: https://huggingface.co/{REPO_NAME}")
+print("\n---------------------------------------")
+print(f"Upload Complete! View your model here:")
+print(f"https://huggingface.co/{repo_id}")
+print("---------------------------------------")

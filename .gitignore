@@ -2,3 +2,4 @@ venv
 .env
 ai_pipeline/medical_llama_3b_finetuned
 ai_pipeline/wandb
+ai_pipeline/medical_llama_standard
