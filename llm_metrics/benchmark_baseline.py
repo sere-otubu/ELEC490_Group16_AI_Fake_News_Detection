@@ -44,9 +44,9 @@ if not os.path.exists("run_results"):
 
 # --- 2. MODEL SELECTION ---
 # Toggle these to compare!
-MODEL_ID = "meta-llama/Llama-3.2-3B-Instruct" 
+# MODEL_ID = "meta-llama/Llama-3.2-3B-Instruct" 
 # MODEL_ID = "Qwen/Qwen2.5-7B-Instruct"
-# MODEL_ID = "meta-llama/Llama-3.1-8B-Instruct" 
+MODEL_ID = "meta-llama/Llama-3.1-8B-Instruct" 
 # MODEL_ID = "mistralai/Mistral-7B-Instruct-v0.3"
 
 print("Checking hardware...")
@@ -105,7 +105,7 @@ pipe = pipeline(
 # --- 3. DATA ---
 logging.info("Loading PubHealth...")
 dataset = load_dataset("ImperialCollegeLondon/health_fact", trust_remote_code=True)
-test_data = dataset['test'].filter(lambda x: x['label'] in [0, 2]).select(range(50))  # Limit to 50 samples for quick benchmarking
+test_data = dataset['test']  # Using the whole test set
 
 # --- 4. INFERENCE ---
 results = []
@@ -239,4 +239,5 @@ with open(MASTER_LOG_FILE, mode='a', newline='') as file:
         prompt_used
     ])
 
+logging.info("True and False Only (False contains 'false', 'mixture', 'unproven' from PubHealth).")
 logging.info(f"Detailed results logged to: {MASTER_LOG_FILE}")
