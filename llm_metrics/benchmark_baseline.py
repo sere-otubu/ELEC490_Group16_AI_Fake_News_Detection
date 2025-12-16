@@ -49,14 +49,14 @@ if not os.path.exists("run_results"):
 MODEL_ID = "meta-llama/Llama-3.1-8B-Instruct" 
 # MODEL_ID = "mistralai/Mistral-7B-Instruct-v0.3"
 
-print("Checking hardware...")
+logging.info("Checking hardware...")
 device = "cuda" if torch.cuda.is_available() else "cpu"
-print(f"Device detected: {device.upper()}")
+logging.info(f"Device detected: {device.upper()}")
 
 # --- LOGIC TO HANDLE CUDA vs CPU ---
 if device == "cuda":
     # GPU: Use 4-bit quantization for speed and memory efficiency
-    print("CUDA available. Using 4-bit quantization.")
+    logging.info("CUDA available. Using 4-bit quantization.")
     bnb_config = BitsAndBytesConfig(
         load_in_4bit=True,
         bnb_4bit_compute_dtype=torch.bfloat16,
@@ -67,7 +67,7 @@ if device == "cuda":
     device_map = "cuda:0" 
 else:
     # CPU: Cannot use 4-bit bitsandbytes. Must load standard model.
-    print("WARNING: CUDA not found. Falling back to CPU (Slow!). Disabling 4-bit quantization.")
+    logging.info("WARNING: CUDA not found. Falling back to CPU (Slow!). Disabling 4-bit quantization.")
     bnb_config = None
     device_map = "cpu"
 
