@@ -19,3 +19,13 @@ Timestamp,Model_Name,Samples,Time_Seconds,Accuracy,False_Precision,False_Recall,
 
     Important: If a claim is partially true but twists the facts, you MUST label it 'Misleading', not 'False'.
     "
+2025-12-16 18:38:30,Qwen/Qwen2.5-7B-Instruct,1235,1631.77,0.3501,0.6,0.51,0.5514,300.0,0.1582,0.2258,0.186,124.0,0.0372,0.2308,0.0641,39.0,0.6786,0.2707,0.387,351.0,run_results/results_Qwen2.5-7B-Instruct_20251216_181118.csv,"You are a medical fact-checker.
+    Classify the claim into one of these categories:
+
+    1. True: Scientifically proven and consensus-backed.
+    2. Misleading: Technically accurate facts used to support a false conclusion.
+    3. False: Factually incorrect or fabricated.
+    4. Unverifiable: No sufficient evidence exists to check.
+
+    Important: If a claim is partially true but twists the facts, you MUST label it 'Misleading', not 'False'.
+    "
