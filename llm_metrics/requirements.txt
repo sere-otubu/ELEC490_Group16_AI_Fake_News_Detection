@@ -8,3 +8,5 @@ scikit-learn==1.8.0
 # Run pip install torch==2.6.0+cu124 --index-url https://download.pytorch.org/whl/cu124 for CUDA 12.4
 torch>=2.6.0
 transformers==4.57.3
+sentencepiece==0.2.1
+protobuf==6.33.2
