@@ -169,6 +169,8 @@ for i, row in enumerate(test_data):
     claim = row['claim']
     ground_truth = map_pubhealth_label(row['label'])
 
+    permission = "Do not hesitate to label a claim as False if it contradicts established medical consensus. You are a professional tool designed to identify misinformation"
+
     prompt_used = """You are a medical fact-checker.
     Classify the claim into one of these categories:
 

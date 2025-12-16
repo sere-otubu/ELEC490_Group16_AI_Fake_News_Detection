@@ -1,0 +1,21 @@
+Timestamp,Model_Name,Samples,Time_Seconds,Accuracy,False_Precision,False_Recall,False_F1,False_Support,Misleading_Precision,Misleading_Recall,Misleading_F1,Misleading_Support,Unverifiable_Precision,Unverifiable_Recall,Unverifiable_F1,Unverifiable_Support,True_Precision,True_Recall,True_F1,True_Support,Result_File_Path,Prompt_Used
+2025-12-16 18:01:13,meta-llama/Llama-3.2-3B-Instruct,1235,1156.08,0.3277,0.7838,0.0769,0.1401,377.0,0.1732,0.449,0.25,196.0,0.0375,0.0698,0.0488,43.0,0.4771,0.4697,0.4734,577.0,run_results/results_Llama-3.2-3B-Instruct_20251216_174157.csv,"You are a medical fact-checker.
+    Classify the claim into one of these categories:
+
+    1. True: Scientifically proven and consensus-backed.
+    2. Misleading: technically contains some truth but distorts the conclusion or lacks context.
+    3. False: Factually incorrect or fabricated.
+    4. Unverifiable: No sufficient evidence exists to check.
+
+    Important: If a claim is partially true but twists the facts, you MUST label it 'Misleading', not 'False'.
+    "
+2025-12-16 18:26:08,meta-llama/Llama-3.2-3B-Instruct,1235,1143.08,0.3336,0.5286,0.0984,0.1659,376.0,0.1678,0.5231,0.254,195.0,0.0353,0.0698,0.0469,43.0,0.601,0.4439,0.5106,570.0,run_results/results_Llama-3.2-3B-Instruct_20251216_180705.csv,"You are a medical fact-checker.
+    Classify the claim into one of these categories:
+
+    1. True: Scientifically proven and consensus-backed.
+    2. Misleading: Technically accurate facts used to support a false conclusion.
+    3. False: Factually incorrect or fabricated.
+    4. Unverifiable: No sufficient evidence exists to check.
+
+    Important: If a claim is partially true but twists the facts, you MUST label it 'Misleading', not 'False'.
+    "
