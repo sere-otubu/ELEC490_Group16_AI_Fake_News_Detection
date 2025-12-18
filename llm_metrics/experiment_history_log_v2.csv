@@ -29,3 +29,4 @@ Timestamp,Model_Name,Samples,Time_Seconds,Accuracy,False_Precision,False_Recall,
 
     Important: If a claim is partially true but twists the facts, you MUST label it 'Misleading', not 'False'.
     "
+2025-12-18 12:21:54,meta-llama/Llama-3.2-3B-Instruct,1235,862.16,0.5458,0.4331,0.8428,0.5722,388.0,0.3605,0.1542,0.216,201.0,0.0,0.0,0.0,45.0,0.8056,0.5259,0.6364,599.0,run_results/results_Llama-3.2-3B-Instruct_RAG_20251218_120732.csv,You are a professional medical fact-checking assistant.
