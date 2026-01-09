@@ -9,7 +9,6 @@ from pathlib import Path
 from sqlalchemy import inspect, text
 from sqlmodel import SQLModel, create_engine
 from src.config import settings
-from src.history.models import QueryHistory, SourceDocumentHistory
 
 sys.path.append(str(Path(__file__).parent.parent.parent))
 
