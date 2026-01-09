@@ -21,6 +21,7 @@ from sqlalchemy import create_engine, text
 from sqlalchemy.engine import Engine
 from src.config import settings
 from src.schemas import DocumentMetadata, QueryRequest, QueryResponse, SourceDocument
+from src.rag.prompt import RAG_PROMPT_TEMPLATE
 
 logger = logging.getLogger(__name__)
 
@@ -209,8 +210,9 @@ class RAGRepository:
             optimized_top_k = min(query_request.top_k * 2, 15)
 
             query_engine = self.index.as_query_engine(
+                text_qa_template=RAG_PROMPT_TEMPLATE,
                 similarity_top_k=optimized_top_k,
-                response_mode="tree_summarize",
+                response_mode="compact",
                 similarity_cutoff=0.6,
             )
             response = query_engine.query(query_request.query)
