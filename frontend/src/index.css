@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --radius: 0.625rem;
+
+    /* MEDICAL THEME - HIGH CONTRAST 
+      Using OKLCH for perceptually uniform colors
+    */
+
+    /* Background: Pure white to ensure maximum text contrast */
+    --background: oklch(1 0 0);
+    
+    /* Foreground: Very dark blue (almost black) for sharp readability */
+    /* Was L=0.21 -> Now L=0.15 (Darker) */
+    --foreground: oklch(0.15 0.04 260);
+
+    /* Cards: White with a subtle tint */
+    --card: oklch(1 0 0);
+    --card-foreground: oklch(0.15 0.04 260);
+    
+    /* Primary: Deep, Trustworthy Medical Blue */
+    /* Increased Chroma (C) from 0.16 to 0.18 for more "pop" */
+    --primary: oklch(0.48 0.18 260);
+    --primary-foreground: oklch(1 0 0);
+    
+    /* Secondary: Light Blue/Gray for buttons */
+    /* Darkened slightly to be visible against white */
+    --secondary: oklch(0.95 0.03 260);
+    --secondary-foreground: oklch(0.25 0.05 260);
+    
+    /* Muted: The biggest fix. Darkened significantly. */
+    /* Was L=0.55 (Too light) -> Now L=0.40 (Dark Slate) */
+    --muted: oklch(0.96 0.01 260);
+    --muted-foreground: oklch(0.40 0.04 260);
+    
+    /* Accent: Teal for "Success/Verified" vibes */
+    --accent: oklch(0.94 0.04 190);
+    --accent-foreground: oklch(0.25 0.08 190);
+    
+    /* Destructive: Clear Red */
+    --destructive: oklch(0.55 0.20 25);
+    --destructive-foreground: oklch(1 0 0);
+    
+    /* Border: Visible but not distracting */
+    /* Was L=0.88 -> Now L=0.85 (Darker) */
+    --border: oklch(0.85 0.03 260);
+    --input: oklch(0.90 0.03 260);
+    --ring: oklch(0.48 0.18 260);
+  }
+
+  /* Base styles */
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
