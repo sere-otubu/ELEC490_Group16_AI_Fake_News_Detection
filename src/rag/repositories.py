@@ -46,10 +46,16 @@ class RAGRepository:
                 model=settings.CHAT_MODEL,
                 base_url=settings.OLLAMA_BASE_URL,
                 request_timeout=120.0,
+                additional_kwargs={
+                    "headers": {"ngrok-skip-browser-warning": "true"}
+                }
             )
             Settings.embed_model = OllamaEmbedding(
                 model_name=settings.EMBEDDING_MODEL,
                 base_url=settings.OLLAMA_BASE_URL,
+                additional_kwargs={
+                    "headers": {"ngrok-skip-browser-warning": "true"}
+                }
             )
             logger.info(
                 "Models configured: LLM=%s, Embedding=%s",
