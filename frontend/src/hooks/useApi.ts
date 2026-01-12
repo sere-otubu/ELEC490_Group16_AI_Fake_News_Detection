@@ -1,109 +1,154 @@
+import useSWR from "swr";
 import { useState } from "react";
-import type { 
-  Message, 
-  QueryHistoryListResponse, 
-  QueryResponse, 
+import { apiClient, fetcher } from "@/lib/api-client";
+import type {
+  QueryHistoryListResponse,
   QueryDetailResponse,
-  QueryRequest
+  QueryStatisticsResponse,
+  HealthStatusResponse,
+  DocumentCountResponse,
+  QueryRequest,
+  QueryResponse,
+  Message,
 } from "@/types/api";
 
-// MOCK DATA
-const MOCK_HISTORY_ITEM = {
-  id: "chat-1",
-  query: "What is a strip foul?",
-  chat_response: "A strip foul occurs when a defensive player knocks the disc out of the hands of an offensive player...",
-  created_at: new Date().toISOString(),
-  success: true,
-  top_k: 2,
-  response_time_ms: 120,
-  source_document_count: 2,
-  error_message: null
-};
-
-const MOCK_HISTORY_LIST: QueryHistoryListResponse = {
-  items: [MOCK_HISTORY_ITEM],
-  total_count: 1,
-  limit: 20,
-  offset: 0
-};
-
+// Hook for fetching query history
 export const useQueryHistory = (limit = 10, offset = 0) => {
+  const { data, error, isLoading, mutate } = useSWR<QueryHistoryListResponse>(
+    `/history/queries?limit=${limit}&offset=${offset}`,
+    fetcher,
+    {
+      revalidateOnFocus: false,
+      revalidateOnReconnect: true,
+    }
+  );
+
   return {
-    queryHistory: MOCK_HISTORY_LIST,
-    isLoading: false,
-    isError: null,
-    mutate: () => {},
+    queryHistory: data,
+    isLoading,
+    isError: error,
+    mutate,
   };
 };
 
+// Hook for fetching a specific query
 export const useQuery = (queryId: string | null) => {
-  // Explicitly cast this object to QueryDetailResponse
-  const mockData: QueryDetailResponse | null = queryId ? {
-    query_history: MOCK_HISTORY_ITEM,
-    source_documents: [
-      {
-        id: "doc-1",
-        content_preview: "Section 12.3: Strip Fouls. No defensive player may touch the disc...",
-        similarity_score: 0.89,
-        document_metadata: { file_name: "WFDF_Rules_2021.pdf", page: 12 },
-        created_at: new Date().toISOString()
-      }
-    ]
-  } : null;
+  const { data, error, isLoading } = useSWR<QueryDetailResponse>(
+    queryId ? `/history/queries/${queryId}` : null,
+    fetcher
+  );
 
   return {
-    query: mockData,
-    isLoading: false,
-    isError: null,
+    query: data,
+    isLoading,
+    isError: error,
   };
 };
 
+// Hook for fetching query statistics
+export const useQueryStatistics = () => {
+  const { data, error, isLoading } = useSWR<QueryStatisticsResponse>(
+    "/history/statistics",
+    fetcher
+  );
+
+  return {
+    statistics: data,
+    isLoading,
+    isError: error,
+  };
+};
+
+// Hook for fetching RAG health status
+export const useRAGHealth = (includeIndex = false) => {
+  const { data, error, isLoading } = useSWR<HealthStatusResponse>(
+    `/rag/health?include_index=${includeIndex}`,
+    fetcher
+  );
+
+  return {
+    health: data,
+    isLoading,
+    isError: error,
+  };
+};
+
+// Hook for fetching document count
+export const useDocumentCount = () => {
+  const { data, error, isLoading } = useSWR<DocumentCountResponse>(
+    "/rag/documents/count",
+    fetcher
+  );
+
+  return {
+    documentCount: data,
+    isLoading,
+    isError: error,
+  };
+};
+
+// Hook for sending messages (mutation)
 export const useQueryRAG = () => {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
-  // Update signature to accept QueryRequest (which includes top_k)
-  const sendQuery = async (request: QueryRequest) => {
+  const sendQuery = async (
+    queryRequest: QueryRequest
+  ): Promise<QueryResponse | null> => {
     setIsLoading(true);
     setError(null);
-    
-    // Simulate network delay
-    await new Promise(resolve => setTimeout(resolve, 1500));
-    
-    setIsLoading(false);
-    
-    const response: QueryResponse = {
-      chat_response: `This is a simulated AI response to: "${request.query}". \n\nIn a real app, this would come from the backend RAG system.`,
-      source_documents: [
-        {
-          content: "Section 12.3: Strip Fouls. No defensive player may touch the disc while it is in possession of the thrower.",
-          score: 0.89,
-          metadata: { file_name: "WFDF_Rules_2021.pdf", page: 12 }
-        }
-      ]
-    };
-    return response;
+
+    try {
+      const response = await apiClient.queryRAG(queryRequest);
+      return response;
+    } catch (err) {
+      const errorMessage = err instanceof Error ? err.message : "Unknown error";
+      setError(errorMessage);
+      return null;
+    } finally {
+      setIsLoading(false);
+    }
   };
 
-  return { sendQuery, isLoading, error };
+  return {
+    sendQuery,
+    isLoading,
+    error,
+  };
 };
 
+// Utility function to convert QueryResponse to Message
 export const convertQueryResponseToMessages = (
   userQuery: string,
   response: QueryResponse,
   baseMessageId: string
 ): Message[] => {
   const timestamp = new Date().toISOString();
+  
   return [
-    { id: `${baseMessageId}-user`, type: "user", content: userQuery, timestamp },
-    { id: `${baseMessageId}-assistant`, type: "assistant", content: response.chat_response, timestamp, source_documents: response.source_documents },
+    {
+      id: `${baseMessageId}-user`,
+      type: "user" as const,
+      content: userQuery,
+      timestamp,
+    },
+    {
+      id: `${baseMessageId}-assistant`,
+      type: "assistant" as const,
+      content: response.chat_response,
+      timestamp,
+      source_documents: response.source_documents,
+    },
   ];
 };
 
-export const convertQueryHistoryToChats = (queryHistory: QueryHistoryListResponse) => {
+// Utility function to convert QueryHistoryResponse to simplified chat list
+export const convertQueryHistoryToChats = (
+  queryHistory: QueryHistoryListResponse
+) => {
   return queryHistory.items.map((item) => ({
     id: item.id,
-    name: item.query,
+    name: item.query.length > 30 ? `${item.query.substring(0, 30)}...` : item.query,
     created_at: item.created_at,
     success: item.success,
   }));

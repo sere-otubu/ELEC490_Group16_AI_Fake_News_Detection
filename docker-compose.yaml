@@ -24,13 +24,13 @@ services:
       - OLLAMA_HOST=0.0.0.0
       - APP_CHAT_MODEL=${APP_CHAT_MODEL}
       - APP_EMBEDDING_MODEL=${APP_EMBEDDING_MODEL}
-    deploy:
-      resources:
-        reservations:
-          devices:
-            - driver: nvidia
-              count: all
-              capabilities: [gpu]
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: all
+    #           capabilities: [gpu]
     entrypoint: []
     command:
       [
