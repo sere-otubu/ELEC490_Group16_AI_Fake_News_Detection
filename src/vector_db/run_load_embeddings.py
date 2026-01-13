@@ -31,6 +31,23 @@ class DocumentLoader:
         """Initialize the document loader."""
         self.supported_extensions = {
             ".pdf",
+            ".txt",
+            ".md",
+            ".html",
+            ".json",
+            ".xml",
+            ".csv",
+            ".xls",
+            ".xlsx",
+            ".ppt",
+            ".pptx",
+            ".doc",
+            ".docx",
+            ".odt",
+            ".ods",
+            ".odp",
+            ".odg",
+            ".odf",
         }
 
     def get_document_files(self, directory_path: str) -> list[Path]:
