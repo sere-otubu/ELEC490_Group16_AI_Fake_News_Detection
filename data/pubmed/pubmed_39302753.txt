@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Macular degeneration
+TITLE: Age-related macular degeneration.
+PMID: 39302753
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39302753/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Age-related macular degeneration (AMD) is the leading cause of visual impairment in patients age 50 and older, with an estimated 200 million people affected worldwide and a projected 288 million by 2040. This article provides an overview of the epidemiology, risk factors, pathophysiology, clinical manifestations, diagnosis, management, and nursing considerations for AMD to equip nurses with the knowledge to play a crucial role in the early detection of this disease.

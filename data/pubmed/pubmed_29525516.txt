@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Epilepsy
+TITLE: [Management of drug-resistant epilepsy].
+PMID: 29525516
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29525516/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Epilepsy is considered as drug-resistant when seizures persist despite the administration of 2 antiepileptic drugs adapted to the patient's needs, with an effective dosage, well-tolerated, whether as a single agent or in combination. Any patient suffering from drug-resistant focal epilepsy should be evaluated at least once in a tertiary epilepsy centre to discuss the appropriateness of a pre-surgical work-up. In drug-resistant epilepsy, the determinants of quality of life are multifactorial and not exclusively linked to the seizure frequency. Anticipating the side effects of treatments is a key element during management of polytherapy. Screening for psychiatric and cognitive comorbidities must be systematic.

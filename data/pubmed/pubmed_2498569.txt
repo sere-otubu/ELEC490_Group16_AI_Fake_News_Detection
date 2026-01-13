@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Glaucoma
+TITLE: [Cofactorial glaucoma--causes].
+PMID: 2498569
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2498569/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The various types of glaucoma may be classified more accurately by studying the structure and physiology of the trabecular meshwork. Seen in this light, the development of glaucoma is linked to "extrinsic" and "intrinsic" factors. The intrinsic factors represent the predisposition to glaucoma; the secondary factors intervene in a secondary phase, creating a resistance to aqueous humor outflow. In so-called primary glaucoma the predisposition plays a decisive role, while the extrinsic factors are not so important. In cofactorial glaucoma the predisposition is only of slight significance, while the extrinsic factors are extremely important. In true secondary glaucoma predisposition plays a minimal role, while the extrinsic factors are all the more important. In correlated glaucomas the predisposition may be extremely relevant, but the extrinsic factors which represent the key causes are still unknown. Several types of glaucoma are described as examples.

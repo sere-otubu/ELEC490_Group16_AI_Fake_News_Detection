@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Angioplasty
+TITLE: Subintimal angioplasty.
+PMID: 17308521
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17308521/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+While the technique of subintimal dissection was described almost 2 decades ago, initial adoption of the technique was quite slow. Recently, a growing number of centers have embraced the technique as a valuable adjunct to standard endovascular and open revascularizations. During our experience with over 100 duplex guidance subintimal angioplasties (SIA) and over 100 flouroscopically guided SIA, we have encountered that persistence can be greatest ally. Fortunately, this is a trait that is common among vascular surgeons. Herein, we will describe the technique with focus on its limitations and advantages.

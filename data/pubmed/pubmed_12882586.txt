@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Red blood cells
+TITLE: Role of red blood cells in pharmacokinetics of chemotherapeutic agents.
+PMID: 12882586
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12882586/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+After oral or parenteral administration of chemotherapeutic agents, these drugs are transported to the tissues by the blood in different fractions: plasma water, plasma proteins or cells. Erythrocytes may play an important role in the storage, transport and metabolism of chemotherapeutic agents. Anthracyclines, ifosfamide and its metabolites, and topoisomerase I and I/II inhibitors are incorporated in red blood cells. They may be transported to the tumour tissue and mobilised from the erythrocyte by different active or passive transport mechanisms. Erythrocytes may also be used as carriers for drugs such as asparaginase. This leads to a decreased toxicity profile. Finally, it has been shown that red blood cells are important in the transport and metabolism of mercaptopurine. The erythrocyte concentration of mercaptopurine has a prognostic value in the treatment of childhood acute lymphoblastic leukemia. In this review, the role of red blood cells for various anticancer drugs is further discussed.

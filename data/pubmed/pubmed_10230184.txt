@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mood stabilizers
+TITLE: Mood stabilizers in children and adolescents.
+PMID: 10230184
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10230184/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The efficacy of mood stabilizers in children and adolescents has not been studied adequately. This article will review existing studies and highlight some important issues in designing future studies on these agents. Electronic databases including Medline, Psycholnfo, and CRISP were searched for data in children receiving compounds that have mood-stabilizing properties in adults. Some open clinical data and an extremely modest amount of controlled research data suggest lithium, carbamazepine, and valproate may be effective mood stabilizers in children and adolescents. There are no controlled data on other potential mood stabilizers in children. The disorders that may be responsive to mood stabilizers are among the most morbid in child psychiatry. More studies are needed to clarify the efficacy of these compounds in children and adolescents and to provide a rational basis for choosing among them.

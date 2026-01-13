@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Keto diet
+TITLE: Ketogenic diet for epilepsy treatment.
+PMID: 27759811
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27759811/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The ketogenic diet (KD), a high-fat, low-carbohydrate, and adequate-protein diet is an established, effective nonpharmacologic treatment option for intractable childhood epilepsy. The KD was developed in 1921 and even though it has been increasingly used worldwide in the past decade, many neurologists are not familiar with this therapeutic approach. In the past few years, alternative and more flexible KD variants have been developed to make the treatment easier and more palatable while reducing side effects and making it available to larger group of refractory epilepsy patients. This review summarizes the history of the KD and the principles and efficacy of the classic ketogenic diet, medium-chain triglyceride(s) (MCT) ketogenic diet, modified Atkins diet, and low glycemic index treatment.

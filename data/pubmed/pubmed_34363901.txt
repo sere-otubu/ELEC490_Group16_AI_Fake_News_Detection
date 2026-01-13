@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Clinical trial phases
+TITLE: An Overview of Phase 2 Clinical Trial Designs.
+PMID: 34363901
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34363901/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Clinical trials are studies to test new treatments in humans. Typically, these treatments are evaluated over several phases to assess their safety and efficacy. Phase 1 trials are designed to evaluate the safety and tolerability of a new treatment, typically with a small number of patients (eg, 20-80), generally spread across several dose levels. Phase 2 trials are designed to determine whether the new treatment has sufficiently promising efficacy to warrant further investigation in a large-scale randomized phase 3 trial, as well as to further assess safety. These studies usually involve a few hundred patients. This article provides an overview of some of the most commonly used phase 2 designs for clinical trials and emphasizes their critical elements and considerations. Key references to some of the most commonly used phase 2 designs are given to allow the reader to explore in more detail the critical aspects when planning a phase 2 trial. A comparison of 3 potential designs in the context of the NRG-HN002 trial is presented to complement the discussion about phase 2 trials.

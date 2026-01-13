@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Circadian rhythms
+TITLE: Circadian rhythms and bile acid homeostasis: a comprehensive review.
+PMID: 32126853
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32126853/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Circadian rhythms are prominent in nearly all living organisms and regulated by an endogenous central circadian clock that synchronizes physiological and behavioral processes to the external environment. The circadian clock is driven by the transcriptional-translational negative feedback loop that plays important role in the control of liver function and metabolism. As crucial signaling molecules, bile acids participate in regulating the metabolisms of glucose, lipids, energy, medications, and bile acids themselves. Bile acid synthesis, as well as bile acid-activated key enzymes and nuclear receptors involved in bile acid regulation, also displays distinct circadian variations. Circadian deregulation, such as the consequence of circadian clock disruption, restricted feeding and sleep disruption, can disrupt bile acid homeostasis, resulting in cholestatic and metabolic diseases. This review addresses the circadian rhythms in bile acid synthesis and transport and potential consequences of abnormal disrupted circadian rhythm of bile acid homeostasis.

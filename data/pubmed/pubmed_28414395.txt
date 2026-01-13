@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rest and recovery
+TITLE: The Role of Active Recovery and "Rest" After Concussion.
+PMID: 28414395
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28414395/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+For several years both cognitive and physical rest remained at the forefront in pediatric postconcussion management. However, the concept of "rest" has not been well defined and there remains significant variability both in terms of rest recommendations provided as well as adherence to such recommendations. More recently, there has been growing evidence to suggest that an earlier return to light or moderate activity is not detrimental and may, in fact, facilitate symptomatic improvement, thereby highlighting a new role for active rehabilitation in recovery from concussion. In this article, we compare historic recommendations for rest with emerging strategies focused on active rehabilitation. [Pediatr Ann. 2017;46(4):e139-e144.].

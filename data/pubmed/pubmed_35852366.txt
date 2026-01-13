@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Type 1 Diabetes
+TITLE: Modulatory role of prolactin in type 1 diabetes.
+PMID: 35852366
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35852366/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Patients with type 1 diabetes mellitus have been reported to have elevated prolactin levels and a possible relationship between prolactin levels and the development of the disease has been proposed. However, some studies show that prolactin mediates beneficial functions in beta cells. Therefore, we review information on the roles of prolactin in type 1 diabetes mellitus. Here we summarize the functions of prolactin in the immune system and in pancreatic beta cells, in addition, we describe studies related to PRL levels, its regulation and alterations of secretion in patients with type 1 diabetes mellitus. Studies in murine models have shown that prolactin protects beta cells from apoptosis, stimulates their proliferation and promotes pancreatic islet revascularization. In addition, some studies in patients with type 1 diabetes mellitus have shown that elevated prolactin levels correlate with better disease control. Prolactin treatment appears to be a promising strategy to improve beta-cell vascularization and proliferation in transplantation and immunotherapies.

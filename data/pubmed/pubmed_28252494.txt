@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Peer review process
+TITLE: Peer Review.
+PMID: 28252494
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28252494/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Peer review for publication is fundamental to science-based fields, and nursing is no exception. Peer review provides benefits to the reviewer and the author(s) of the reviewed work. The purpose of this article is to provide readers with an explanation of how the peer review process works, what the responsibilities of a peer reviewer are, how to get involved in peer review, and the benefits of the review process.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vertigo
+TITLE: Benign paroxysmal vertigo of childhood.
+PMID: 38043965
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38043965/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Benign paroxysmal vertigo of childhood (or recurrent vertigo of childhood) is the most common cause of vertigo in young children. It is considered a pediatric migraine variant or precursor disorder, and children with the condition have an increased likelihood of developing migraine later in life than the general population. Episodes are typically associated with room-spinning vertigo in conjunction with other migrainous symptoms (e.g. pallor, nausea, etc.), but it is rarely associated with headaches. Episodes typically only last for a few minutes and occur with a frequency of days to weeks without interictal symptoms or exam/test abnormalities. Treatment is rarely necessary, but migraine therapy may be beneficial in cases where episodes are particularly severe, frequent, and/or prolonged. An appreciation of the typical presentation and characteristics of this common condition is essential to any provider responsible for the care of children with migraine disorders and/or dizziness. This chapter will review the current literature on this condition, including its proposed pathophysiology, clinical presentation, and management. This chapter also includes a brief introduction to pediatric vestibular disorders, including relevant anatomy, physiology, embryology/development, history-taking, physical examination, testing, and a review of other common causes of pediatric dizziness/vertigo.

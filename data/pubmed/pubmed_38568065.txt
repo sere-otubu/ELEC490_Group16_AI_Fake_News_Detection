@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antihistamines
+TITLE: [Antihistamines : An ongoing narrative].
+PMID: 38568065
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38568065/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Histamine is responsible for many processes mediated by different receptors expressed on a variety of cells. The discovery of the first H1 antihistamines in the 1940s led to the development of numerous H1 and H2 antagonists with a broad application in many indications. The recent identification of two new histamine receptors (H3, H4) in the 1980s and 2000s led to the market authorization in Switzerland of new drugs since 2018. The purpose of this review is to provide a brief overview of the physiology of histamine, the recent development of new compounds in this field, antihistamine drug indications and relevant side effects.

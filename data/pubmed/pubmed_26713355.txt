@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Digestion process
+TITLE: Personalizing protein nourishment.
+PMID: 26713355
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26713355/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Proteins are not equally digestible-their proteolytic susceptibility varies by their source and processing method. Incomplete digestion increases colonic microbial protein fermentation (putrefaction), which produces toxic metabolites that can induce inflammation in vitro and have been associated with inflammation in vivo. Individual humans differ in protein digestive capacity based on phenotypes, particularly disease states. To avoid putrefaction-induced intestinal inflammation, protein sources, and processing methods must be tailored to the consumer's digestive capacity. This review explores how food processing techniques alter protein digestibility and examines how physiological conditions alter digestive capacity. Possible solutions to improving digestive function or matching low digestive capacity with more digestible protein sources are explored. Beyond the ileal digestibility measurements of protein digestibility, less invasive, quicker and cheaper techniques for monitoring the extent of protein digestion and fermentation are needed to personalize protein nourishment. Biomarkers of protein digestive capacity and efficiency can be identified with the toolsets of peptidomics, metabolomics, microbial sequencing and multiplexed protein analysis of fecal and urine samples. By monitoring individual protein digestive function, the protein component of diets can be tailored via protein source and processing selection to match individual needs to minimize colonic putrefaction and, thus, optimize gut health.

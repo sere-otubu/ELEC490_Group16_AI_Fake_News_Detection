@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Food labeling
+TITLE: Impact of food labelling systems on food choices and eating behaviours: a systematic review and meta-analysis of randomized studies.
+PMID: 26693944
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26693944/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Food labels are considered a crucial component of strategies tackling unhealthy diets and obesity. This study aims at assessing the effectiveness of food labelling in increasing the selection of healthier products and in reducing calorie intake. In addition, this study compares the relative effectiveness of traffic light schemes, Guideline Daily Amount and other food labelling schemes. A comprehensive set of databases were searched to identify randomized studies. Studies reporting homogeneous outcomes were pooled together and analysed through meta-analyses. Publication bias was evaluated with a funnel plot. Food labelling would increase the amount of people selecting a healthier food product by about 17.95% (confidence interval: +11.24% to +24.66%). Food labelling would also decrease calorie intake/choice by about 3.59% (confidence interval: -8.90% to +1.72%), but results are not statistically significant. Traffic light schemes are marginally more effective in increasing the selection of healthier options. Other food labels and Guideline Daily Amount follow. The available evidence did not allow studying the effects of single labelling schemes on calorie intake/choice. Findings of this study suggest that nutrition labelling may be an effective approach to empowering consumers in choosing healthier products. Interpretive labels, as traffic light labels, may be more effective.

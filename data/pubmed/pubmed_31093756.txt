@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Digestive system
+TITLE: The digestive system of xenacoelomorphs.
+PMID: 31093756
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31093756/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Interest in the study of Xenacoelomorpha has recently been revived due to realization of its key phylogenetic position as the putative sister group of the remaining Bilateria. Phylogenomic studies have attracted the attention of researchers interested in the evolution of animals and the origin of novelties. However, it is clear that a proper understanding of novelties can only be gained in the context of thorough descriptions of the anatomy of the different members of this phylum. A considerable literature, based mainly on conventional histological techniques, describes different aspects of xenacoelomorphs' tissue architecture. However, the focus has been somewhat uneven; some tissues, such as the neuro-muscular system, are relatively well described in most groups, whereas others, including the digestive system, are only poorly understood. Our lack of knowledge of the xenacoelomorph digestive system is exacerbated by the assumption that, at least in Acoela, which possess a syncytial gut, the digestive system is a derived and specialized tissue with little bearing on what is observed in other bilaterian animals. Here, we try to remedy this lack of attention by revisiting the different studies of the xenacoelomorph digestive system, and we discuss the diversity present in the light of new evolutionary knowledge.

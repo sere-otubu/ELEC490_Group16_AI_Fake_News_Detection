@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antidepressants
+TITLE: Are antidepressants effective in fibromyalgia?
+PMID: 12537258
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12537258/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Amitriptyline and other imipramine antidepressants are the cornerstone of drug therapy in fibromyalgia. However, some patients fail to respond to antidepressant therapy, and in responders the beneficial effects wear off after some time. The effect on fibromyalgia seems independent from the effects on depression.

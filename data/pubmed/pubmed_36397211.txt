@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mindful eating
+TITLE: 'Mindful eating' for reducing emotional eating in patients with overweight or obesity in primary care settings: A randomized controlled trial.
+PMID: 36397211
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36397211/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The primary aim of this study was to analyse the efficacy of a 'mindful eating' programme for reducing emotional eating in patients with overweight or obesity. A cluster randomized controlled trial (reg. NCT03927534) was conducted with 76 participants with overweight/obesity who were assigned to 'mindful eating' (7 weeks) + treatment as usual (TAU), or to TAU alone. They were assessed at baseline, posttreatment and 12-month follow-up. The main outcome was 'emotional eating' (Dutch Eating Behaviour Questionnaire, DEBQ); other eating behaviours were also assessed along with psychological and physiological variables. 'Mindful eating' + TAU reduced emotional eating both at posttreatment (B = -0.27; p = 0.006; d = 0.35) and follow-up (B = -0.53; p < 0.001; d = 0.69) compared to the control group (TAU alone). 'External eating' (DEBQ) was also significantly improved by the intervention at both timepoints. Significant effects at follow-up were observed for some secondary outcomes related to bulimic behaviours, mindful eating, mindfulness, and self-compassion. Weight and other physiological parameters were not significantly affected by 'mindful eating' + TAU. These findings support the efficacy of the 'mindful eating' + TAU programme for reducing emotional and external eating, along with some other secondary measures, but no significant changes in weight reduction were observed.

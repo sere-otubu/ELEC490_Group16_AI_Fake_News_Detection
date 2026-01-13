@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vertigo
+TITLE: Vertigo.
+PMID: 9851400
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9851400/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Vertigo is a subtype of dizziness, which results from an imbalance within the vestibular system. This seminar focuses on three common presentations of vertigo: prolonged spontaneous vertigo, recurrent attacks of vertigo, and positional vertigo. The patient's history is usually the key to differentiation of peripheral and central causes of vertigo. The most common cause of vertigo, benign paroxysmal positional vertigo, can be cured with a simple positional manoeuvre. Other common causes of vertigo include vestibular neuritis, Ménière's syndrome, migraine, and vertebrobasilar insufficiency. Treatment should be directed at the underlying cause whenever possible, but antivertiginous and antiemetic drugs can suppress symptoms when a specific cause cannot be found. These drugs are generally not indicated for long-term daily use, however, since they may interfere with the normal compensation process.

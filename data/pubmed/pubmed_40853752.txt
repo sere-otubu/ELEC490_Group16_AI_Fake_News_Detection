@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Appendicitis
+TITLE: [Appendicitis - review].
+PMID: 40853752
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40853752/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Appendicitis is one of the most common causes of acute abdominal pain worldwide. About 6-7% of individuals develop appendicitis during their lifetime, with the highest incidence in young people aged 10 to 19 years of age. The incidence of appendicitis varies between geographical regions and both diet and socioeconomic status are thought to play a role in this difference. Mortality rates are higher in less developed countries. Appendicitis is believed to occur due to obstruction of the lumen of the appendix. Complications such as perforation and abscess formation can occur, so prompt diagnosis is important. A detailed history and physical examination are key components of diagnosis, but blood tests and imaging studies also provide important information. Various scoring systems have been developed to aid in the diagnosis of appendicitis. Surgery is the primary treatment for appendicitis but treatment with antibiotics is also an option.

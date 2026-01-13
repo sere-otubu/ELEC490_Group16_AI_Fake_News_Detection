@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Health insurance systems
+TITLE: A conceptual model of health insurance stability in the United States health care system.
+PMID: 36534065
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36534065/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In the U.S. health care system, people under age 65 are at risk of losing and regaining health insurance coverage over their lifetimes, which has important consequences for their physical and mental health. Despite the importance of insurance stability, we have an incomplete understanding about the complex factors influencing whether people lose and regain coverage. To advance our understanding of the dynamics of health insurance coverage and guide future research, our purpose is to present a new conceptual model of health insurance stability, where instability is defined as a person's loss or change of coverage, which can occur more than once in a lifetime. Drawing from theory and evidence in the literature, we posit that personal and plan characteristics, the health system, and the environmental context - economic, social/cultural, political/judicial, and geographic - drive health insurance stability over the life course and are understudied. Studies are needed to identify the populations most at risk of experiencing insurance instability and vulnerability in health outcomes that results from such insecurity, which may suggest reforms and health policies at the individual, health system, or environment levels to reduce those risks.

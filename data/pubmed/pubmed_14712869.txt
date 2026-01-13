@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ergonomics
+TITLE: Robotics and ergonomics.
+PMID: 14712869
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/14712869/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Industrial robotics have proven the benefit of using an untiring machine to perform precise repetitive tasks in uncomfortable or dangerous for humans environments. Highly skilled surgeons are trained to operate and adapt to difficult conditions. They are even capable of developing intelligent mechanisms to exploit a variety of tactile, visual, and other cues. The robotic systems, however, can enhance the surgeon's capability to perform a wide variety of tasks. They cannot replace the surgeon's problem-solving ability. Instead, they will redefine his role. They will significantly enhance the surgeon's skills and dexterity by providing their complementary capabilities and an ergonomically efficient and more user-friendly working environment.

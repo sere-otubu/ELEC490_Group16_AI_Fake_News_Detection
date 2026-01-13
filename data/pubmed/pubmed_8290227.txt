@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tendinitis
+TITLE: Achilles tendinitis.
+PMID: 8290227
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8290227/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Achilles tendinitis is a common condition of overuse seen in active individuals. It is multifactorial, usually due to a combination of anatomic and biomechanical characteristics along with poor training technique. Pathologic changes can involve the surrounding tissue (bursae, paratenon) or the tendon itself and can occur both at its insertion into the calcaneous and the critical hypovascular zone. A clear understanding of the cause and stage of the condition is critical for successful treatment, be it conservative or surgical. Recent advances in surgical technique and postoperative rehabilitation have been promising in returning individuals to their previous levels of activity.

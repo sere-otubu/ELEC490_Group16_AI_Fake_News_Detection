@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dementia
+TITLE: Advances in semantic dementia: Neuropsychology, pathology & neuroimaging.
+PMID: 38866186
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38866186/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Semantic dementia is a kind of neurodegenerative disorder, characterized by prominent semantic impairments and anterior temporal lobe atrophy. Since 2010, more studies have devoted to this rare disorder, revealing that it is more complex than we think. Clinical advances include more specific findings of semantic impairments and other higher order cognitive deficits. Neuroimaging techniques can help revealing the different brain networks affected (both structurally and functionally) in this condition. Pathological and genetic studies have also found more complex situations of semantic dementia, which might explain the huge variance existing in semantic dementia. Moreover, the current diagnosis criteria mainly focus on semantic dementia's classical prototype. We further delineated the features of three subtypes of semantic dementia based on atrophy lateralization with three severity stages. In a broader background, as a part of the continuum of neurodegenerative disorders, semantic dementia is commonly compared with other resembling conditions. Therefore, we summarized the differential diagnosis between semantic dementia and them. Finally, we introduced the challenges and achievements of its diagnosis, treatment, care and cross cultural comparison. By providing a comprehensive picture of semantic dementia on different aspects of advances, we hope to deepen the understanding of semantic dementia and promote more inspirations on both clinical and theoretical studies about it.

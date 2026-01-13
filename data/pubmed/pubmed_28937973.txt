@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dental cavities
+TITLE: Oral and dental health issues in people with mental disorders.
+PMID: 28937973
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28937973/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Patients with mental disorders are subject to a greater number of risk factors for oral and dental disease than the general population. This is mostly caused by the side effects of the medications that they receive, lack of self-care, difficulty to access health services, a negative attitude towards healthcare providers, and patients lack of cooperation in dental treatments. The most common psychiatric disorders in our population are depression, anxiety disorders, schizophrenia, bipolar disorder, and dementia. In disorders such as anxiety and depression, the main issue is the loss of interest in self-care, which results in a poor hygiene. The most frequent oral and dental diseases in these patients are dental cavities and periodontal disease. The purpose of this brief review is to provide up-to-date information about the management of oral and dental diseases of patients with mental disorders.

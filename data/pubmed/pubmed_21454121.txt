@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Plant based protein
+TITLE: Redox-based protein modifications: the missing link in plant immune signalling.
+PMID: 21454121
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21454121/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Activation of plant immunity is associated with dramatic changes in the cellular redox status. Both oxidative and reductive bursts have been described that trigger a set of down stream responses resulting in reprogramming of the transcriptome and establishment of disease resistance. Nonetheless, how these redox changes are sensed and signal to downstream regulators remained a missing link in studies of plant immunity. Emerging evidence now indicates that pathogen-induced changes in the cellular redox environment are sensed by reactive cysteine residues of key regulatory proteins. Varying degrees of reversible, oxidative cysteine modifications control the activity, localization, protein-interaction and stability of regulatory proteins. These diverse effects on protein function make post-translational redox-based modifications potent modulators of plant immunity.

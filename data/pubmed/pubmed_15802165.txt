@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pneumonia
+TITLE: Etiology of community-acquired pneumonia.
+PMID: 15802165
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15802165/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Community-acquired pneumonia (CAP) is a serious lower respiratory tract infection associated with significant morbidity and mortality that is characterized by disputes over diagnostic evaluations and therapeutic decisions. With the widespread use of broad-spectrum antimicrobial agents and the increasing number of immunocompromised hosts, the etiology and the drug resistance patterns of pathogens responsible for CAP have changed. Streptococcus pneumoniae, Haemophilus influenzae, and Moraxella catarrhalis remain the leading causes of CAP in immunocompetent patients. Opportunistic infections with organisms such as Pneumocystis jiroveci and Mycobacterium tuberculosis and other opportunistic fungal pneumonias should also be considered in the differential diagnosis of CAP in immunocompromised patients. This article examines the current peer-reviewed literature on etiology, risk factors, and outcomes of patients with CAP.

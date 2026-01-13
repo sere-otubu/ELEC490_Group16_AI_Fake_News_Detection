@@ -1,0 +1,8 @@
+SEARCH_TOPIC: GERD
+TITLE: Diagnostic work-up of GERD.
+PMID: 25216910
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25216910/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gastroesophageal reflux disease (GERD) is frequently diagnosed by symptoms and good response to acid suppression with proton pump inhibitors. Further work up is required when the diagnosis of GERD is uncertain, for alarm symptoms, PPI-refractoriness, and often for extraesophageal presentations. Useful tools include endoscopy for mucosal assessment and reflux monitoring (pH or impedance-pH) to quantify reflux burden. Objective documentation of pathological reflux is mandatory prior to anti-reflux surgery. In some patients, symptoms that can be attributed to GERD may have other causes; in these patients, testing that excludes GERD helps direct the diagnostic and treatment efforts to other causes.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: E. coli infection
+TITLE: Serum phosphate and 28-day mortality in adult sepsis with E.Coli infection: A critical care database study.
+PMID: 40273021
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40273021/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In this study, we aimed to explore the relationship between serum phosphate and clinical outcomes in sepsis with E.Coli infection based on a public database in order to help physicians do individualized medical decisions. We performed this retrospective study based on the Medical Information Mart for Intensive Care IV(MIMIC-IV) database (https://mimic.mit.edu/iv/). All the patients were hospitalized and serum phosphate was measured in 24 hours after hospitalization. E.Coli infection was confirmed by the positive blood culture of E.Coli in the database. Three models were utilized to investigate the relationship between serum phosphate and mortality in sepsis as follows: crude model (adjusted for none), model I (adjusted for age and gender) and model II (adjusted for all potential confounders). The smooth fitting curve was performed by the generalized additive model. 421 adult sepsis patients with E.Coli infection were included. The 28-day mortality was 10.69%(n=45). The median age was 70 and the proportion of males was 47.51%(n=200). The smooth fitting curve showed that the relationship between serum phosphate and 28-day mortality in sepsis with E.Coli infection was positive. When serum phosphate >2.1mg/dl, the relationship was significantly positive (OR=1.55, 95%CI:1.01-2.36, P=0.043). The positive relationship between serum phosphate and 28-day mortality in adult sepsis patients with E.Coli infection was found based on MIMIC-IV database.

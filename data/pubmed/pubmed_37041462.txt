@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Fiber intake
+TITLE: Dietary fiber intake and risk of gallstone: a case-control study.
+PMID: 37041462
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37041462/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gallstone disease (GSD) and its complications are major public health issues globally. Although many community-based studies had addressed the risk factors for GSD, little is known about the associations between dietary factors and risk of disease. The present study aimed to investigate the potential associations between dietary fibers with the risk of gallstone disease. In this case-control study, 189 GSD patients with less than one month of diagnosis and 342 age‑matched controls were enrolled. Dietary intakes were assessed using a 168-item semi-quantitative validated food frequency questionnaire. Crude and multivariable-adjusted hazard ratios (HRs) and 95% confidence intervals (CIs) were estimated through cox proportional hazards regression models. Comparing the highest versus the lowest tertile, significant reverse associations were observed between odds of GSD and each category of dietary fiber intake including total (OR <sub>T3 vs. T1</sub> = 0.44, 95% CI: 0.37-0.7, P for trend = 0.015), soluble (OR <sub>T3 vs. T1</sub> = 0.51, 95% CI: 0.3-0.8, P for trend = 0.048) and insoluble (OR <sub>T3 vs. T1</sub> = 0.56, 95% CI: 0.3-0.9, P for trend < 0.001). The relationship between dietary fiber intake and the risk of gallstones was more prominent in overweight and obese subjects than in subjects with a normal body mass index. Comprehensive assessment of the associations of dietary fiber intake with GSD showed that higher intakes of dietary fiber were significantly associated with reduced GSD risk.

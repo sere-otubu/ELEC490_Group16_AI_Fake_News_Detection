@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Peer review process
+TITLE: Peer review of manuscripts.
+PMID: 11922694
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11922694/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Analysis of the reproducibility of peer review of manuscripts by means of the kappa statistic is fatally flawed from the point of view of statistical theory. An alternative, simple, method of analysis is proposed. On this basis, agreement among reviewers for the Journal of Clinical Neuroscience is at least as good as that reported recently for other clinical neuroscience journals. Nevertheless, a broad review of peer review processes demonstrates that they are far from satisfactory. Might electronic publishing of scientific articles provide a solution?

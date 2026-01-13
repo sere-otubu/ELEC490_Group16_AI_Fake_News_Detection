@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Asthma
+TITLE: The allergic asthma phenotype.
+PMID: 25439351
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25439351/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Allergic asthma is the most common asthma phenotype. It usually is defined by the presence of sensitization to environmental allergens, although a clinical correlation between exposure and symptoms further supports the diagnosis. The average age of onset of allergic asthma is younger than that of nonallergic asthma. Although the spectrum of allergic asthma may vary from mild to severe, studies have reported that allergic versus nonallergic asthma is less severe. There is an increased prevalence of allergic rhinoconjunctivitis and atopic dermatitis in patients with allergic asthma. Total IgE levels usually are higher in allergic versus nonallergic asthma, but levels substantially overlap between the 2 groups. Increased Th2 cytokines have been demonstrated in secretions and peripheral blood of patients with allergic asthma. Atopy has been reported to be inversely associated with persistent airflow obstruction and airway remodeling. Clusters with a high prevalence of early onset atopic asthma have been frequently reported in statistical phenotyping studies, but the various clusters of patients with atopy were quite heterogeneous in terms of symptom severity, pulmonary function, and tendency for exacerbations. Implications for future research regarding the allergic asthma phenotype are described.

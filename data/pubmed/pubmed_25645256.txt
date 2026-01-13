@@ -1,0 +1,8 @@
+SEARCH_TOPIC: GERD
+TITLE: GER and GERD in children: to treat or not to treat?
+PMID: 25645256
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25645256/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gastroesophageal reflux (GER) is a normal physiologic process, consisting in the passage of gastric contents into the esophagus. It occurs several times per day in healthy infants, children, and adults. In contrast, gastroesophageal reflux disease (GERD) is present when the reflux of gastric contents causes troublesome symptoms and/or complications. Distinguishing GER from GERD may often be tricky. The diagnosis of GERD has to be inferred by performing tests showing excessive frequency or duration of reflux events, esophagitis, or a clear association of symptoms and signs with reflux events in the absence of alternative diagnoses. Only in older children and adolescents with typical reflux symtoms, a time-limited trial of acid suppressive treatment may be useful as diagnostic test. A proper differential diagnosis between GER, GERD and other possible conditions mimicking reflux is crucial in order to target the treatment, avoiding the overuse of acid suppressive medications which currently represents a major source of concern. In this review we went through the evidence-based possible strategies to manage both psychologic GER and GERD.

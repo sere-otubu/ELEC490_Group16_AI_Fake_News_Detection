@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Health literacy
+TITLE: [Health Literacy].
+PMID: 30176683
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30176683/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article provides an introduction to the definition and current theoretical/conceptual models for health literacy as well as their scope and importance to the provision of modern healthcare. We illustrate methods for measuring the health literacy of individuals - and explain why it is worthwhile to deal with the topic of health literacy. In addition, we present strategies and technologies with which healthcare facilities can take the health literacy of its patients appropriately into account and provide an overview of current national and international political initiatives on the topic of health literacy.

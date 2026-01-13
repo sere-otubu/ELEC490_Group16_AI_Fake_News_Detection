@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Posture correction
+TITLE: Efficacy of head postural correction program on craniovertebral angle, scapular position, and dominant hand grip strength in forward head posture subjects: A randomized controlled trial.
+PMID: 38780139
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38780139/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Forward head posture (FHP) is a common postural disorder that alters shoulder function. This study examined the efficacy of a corrective program involving postural correction exercises (PCEs), scapular stabilization exercises (SSEs), and kinesiotaping (KT) on improving craniovertebral angle (CVA), scapular position, and dominant hand grip strength (HGS) in individuals with FHP. Sixty subjects (8 males and 52 females, 18-40 years old) were randomly allocated into four equal groups: Group A: received PCEs only, Group B: received PCEs and SSEs, Group C: received PCEs and KT, Group D: received PCEs, SSEs and KT. All subjects received treatment for 4 weeks (4 times/week) and postural advice. Outcome measures included cranio-vertebral angle (CVA), scapular position using Lateral Scapular Slide Test and dominant HGS using a CAMRY dynamometer that were assessed at baseline and 4 weeks post intervention. Comparing all groups post training revealed that there were statistically significant increases (p < 0.05) in all measured variables (CVA, scapular position and dominant HGS) in favor of group (D). Combination of PCEs, SSEs and KT interventions has achieved the best gains in terms of CVA, dominant HGS and regaining optimal scapular position in FHP subjects.

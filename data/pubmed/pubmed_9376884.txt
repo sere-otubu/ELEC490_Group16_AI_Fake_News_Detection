@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Obesity prevention
+TITLE: The treatment and prevention of obesity: a systematic review of the literature.
+PMID: 9376884
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9376884/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To determine the effectiveness of interventions designed to prevent and treat obesity, and maintain weight loss. A systematic review of randomised controlled trials. Overweight and obese adults and children. Post-intervention changes in weight, fat content and fat distribution, measured relative to baseline. For obese children, family therapy and lifestyle modification appear to be effective in prevention and treatment, respectively. The effectiveness of interventions to prevent and treat obesity in adults remains unclear, although behavioural therapy and multicomponent strategies may be useful. Continued therapist contact appears to be useful for maintaining weight loss. Pharmacological interventions appear to be effective for up to 9 months, after which regain occurs. Surgery appears to be effective for the morbidly obese and gastric bypass is more effective than gastroplasty. In general, the methodological quality of studies was poor. Due to problems with methodological quality, it is recommended that research findings indicative of promising interventions are replicated.

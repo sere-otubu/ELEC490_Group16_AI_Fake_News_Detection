@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Medical ethics
+TITLE: Ethical sense, medical ethics education, and <i>maieutics</i>.
+PMID: 36820837
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36820837/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The toolbox of instructional methods available to medical ethics educators is richly stocked and well-catalogued. However, the history of ideas relating to its contents is relatively under-researched in the medical education literature. This paper proposes an approach to professional medical ethics education that adapts the ancient <i>maieutic,</i> question-asking method associated with Socratic dialogue, and particularly its uptake in educational theory developed by nineteenth and twentieth century American pragmatic philosophers, who in turn were profoundly influenced by the eighteenth century <i>Common Sense</i> school of philosophy from the Scottish Enlightenment. The 'ethical sense' postulated in this article is a distant echo of <i>moral sense</i> in Scottish Enlightenment thought. However, ethical sense as posited here is not the natural faculty variously theorised by Scottish Enlightenment philosophers such as Francis Hutcheson and Thomas Reid, but derives from the pre-understandings of students with respect to professional medical ethics. The ethics educator can engage the ethical sense of students through maieutic 'teaching and learning by asking' in relation to actual clinical narratives, beginning not with the teacher's questions but importantly with those of the <i>learners</i> based on what they would need to know in order to determine the professional ethical obligations entailed.

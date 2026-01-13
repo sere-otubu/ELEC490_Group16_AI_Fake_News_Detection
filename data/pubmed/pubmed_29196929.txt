@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Calcium requirements
+TITLE: Factors associated with calcium requirements after parathyroidectomy in chronic kidney disease patients.
+PMID: 29196929
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29196929/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Renal hyperparathyroidism is a common complication of chronic kidney disease (CKD). Parathyroidectomy (PTX) for these patients continues to be a valuable option in the era of calcimimetics. Postoperative hypocalcemia is common after surgery. The aim of this study was to identify clinical factors to define postoperative calcium requirements. From February 2013 to May 2017, 68 patients with chronic kidney disease 5 (CKD5) who underwent PTX were reviewed. We collected clinical and laboratory data preoperatively and calculated the total calcium requirement in a week after surgery. Univariate and multiple analyses were performed to study whether these clinical and laboratory factors were associated with calcium requirement. Univariate analysis showed that preoperative alkaline phosphatase (ALP), calcium (Ca), parathyroid hormone and hemoglobin were independently associated with calcium requirement. Multivariate model showed that the preoperative ALP was the only independent factor that could predict the requirement of calcium. In the context of a high dCa (1.75 mmol/l) and a stable dose of calcitriol, preoperative ALP levels were significantly associated with calcium requirement in patients with CKD5 undergoing PTX.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dementia
+TITLE: ["Reversible" dementia in 2011].
+PMID: 21690030
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21690030/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Reversible dementias are rare and account for approximately 1.5% of all dementias. The most frequent etiology is represented by neurosurgical causes such as benign tumours, adult chronic hydrocephalus (so-called « normal pressure » hydrocephalus) or subdural hematoma, which are easily revealed by neuroimaging. Systematic ancillary investigations aimed at detecting an infectious disease (syphilis, HIV infection, Lyme neuroborreliosis or, more rarely, Whipple disease), an endocrine aetiology or a vitamin deficiency are rarely contributory, but remain relevant since these dementias could be reversible. Discovering a reversible cause of dementia does not always allow full recovery after treatment. However, systematic ancillary investigations can identify and treat concomitant reversible conditions, which contribute to worsening the main clinical condition in nearly 25% of dementia cases.

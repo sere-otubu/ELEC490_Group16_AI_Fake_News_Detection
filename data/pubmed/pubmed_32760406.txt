@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chlamydia
+TITLE: An Ancient Molecular Arms Race: <i>Chlamydia</i> vs. Membrane Attack Complex/Perforin (MACPF) Domain Proteins.
+PMID: 32760406
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32760406/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Dynamic interactions that govern the balance between host and pathogen determine the outcome of infection and are shaped by evolutionary pressures. Eukaryotic hosts have evolved elaborate and formidable defense mechanisms that provide the basis for innate and adaptive immunity. Proteins containing a membrane attack complex/Perforin (MACPF) domain represent an important class of immune effectors. These pore-forming proteins induce cell killing by targeting microbial or host membranes. Intracellular bacteria can be shielded from MACPF-mediated killing, and <i>Chlamydia</i> spp. represent a successful paradigm of obligate intracellular parasitism. Ancestors of present-day <i>Chlamydia</i> likely originated at evolutionary times that correlated with or preceded many host defense pathways. We discuss the current knowledge regarding how chlamydiae interact with the MACPF proteins Complement C9, Perforin-1, and Perforin-2. Current evidence indicates a degree of resistance by <i>Chlamydia</i> to MACPF effector mechanisms. In fact, chlamydiae have acquired and adapted their own MACPF-domain protein to facilitate infection.

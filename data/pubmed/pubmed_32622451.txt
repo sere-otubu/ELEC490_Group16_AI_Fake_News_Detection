@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lactose intolerance
+TITLE: Lactose Intolerance: A Concise Review to Skim the Surface.
+PMID: 32622451
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32622451/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lactose intolerance is a common but poorly understood cause of gastrointestinal symptoms. Contrary to popular belief, there is much more to its diagnosis beyond symptoms with exposure and management beyond milk- and dairy-product avoidance. In this article, we review definitions, genetic basis, pathogenesis, clinical signs, as well as diagnostic and management strategies.

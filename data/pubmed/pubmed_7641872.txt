@@ -1,0 +1,8 @@
+SEARCH_TOPIC: DNA structure
+TITLE: The structure of the NF-kappa B p50:DNA-complex: a starting point for analyzing the Rel family.
+PMID: 7641872
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7641872/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The Rel family comprises a group of structurally related, eukaryotic transcription factors. The similarity extends over about 300 amino acid residues, the Rel homology region, which is responsible for DNA binding and dimerization. Two independently determined structures of homodimeric NF-kappa B p50 bound to DNA show the Rel homology regions and the DNA target sites. The protein consists of two beta-barrel domains connected by a short linker. Five loops per monomer contact the DNA. Different half-site spacings in the two structures lead to different relative orientations of N- and C-terminal domains.

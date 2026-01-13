@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cervical cancer
+TITLE: Cervical Cancer: Prevention and Early Detection.
+PMID: 28343836
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28343836/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To review effective methods of prevention that can be used to control the incidence of cervical cancer and detection strategies that can identify the precancerous lesions before they become true cancer. Current medical, scientific and nursing literature, and national and international guidelines of cervical cancer. Nearly all cervical cancers are caused by specific types of human papillomavirus (HPV). Prophylactic vaccination for HPV provides the most effective method of primary prevention against HPV-related diseases. The use of the Pap test and HPV test, according to published guidelines, provides the most effective means of screening for cervical cancer. Nurses are in a key position to provide health education with the goal of supporting vaccine uptake and screening guidelines.

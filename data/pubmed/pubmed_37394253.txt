@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anaphylaxis
+TITLE: Anaphylaxis:: After the Emergency Department.
+PMID: 37394253
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37394253/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+After treating the acute anaphylactic reaction, the clinician's next task is to prevent a recurrence. The patient should be observed in the ED. How long this observation period should last depends on their clinical course, risk factors, and social support. All patients should be discharged with a prescription for 2 epinephrine autoinjectors and counseled on appropriate use. The patient should also receive education on the signs and symptoms of anaphylaxis and avoiding triggers. The patient should follow-up with an allergy specialist who can confirm triggers and provide immunotherapy as indicated.

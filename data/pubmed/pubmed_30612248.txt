@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Food allergies
+TITLE: Regional Differences in Food Allergies.
+PMID: 30612248
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30612248/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The prevalence of food allergies is increasing worldwide. To understand the regional specificities of food allergies and develop effective therapeutic interventions, extensive regional epidemiological studies are necessary. While data regarding incidence, prevalence, regional variation, and treatment in food allergies are available for western countries, such studies may not be available in many Asian countries. China accounts for almost 20% of the world's population and has a vast ethnic diversity, but large-scale meta-analyses of epidemiological studies of food allergy in China are lacking. A literature search revealed 22 publications on the prevalence of food allergy in Chinese populations. A review of these studies showed that the prevalence of food allergies in China is comparable to that in western countries, even though the Chinese diet is vastly different from that of the West and may vary even greatly within China, and finally, specific antigenic triggers of food allergy vary between China and the West and also within China. Current clinical management of food allergy in China includes allergen-specific immunotherapy, Chinese herbal medicine, acupuncture, and Western medicine. This study demonstrates an unmet need in China for a thorough investigation of the prevalence of food allergies in China, the specific foods involved, and characterization of the specific antigenic triggers of food allergy with respect to ethnicity, age, and diet in China.

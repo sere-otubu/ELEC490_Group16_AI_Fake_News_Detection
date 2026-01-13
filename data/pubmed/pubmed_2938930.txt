@@ -1,0 +1,8 @@
+SEARCH_TOPIC: CT scan
+TITLE: CT scan in psychiatry. A review of the literature.
+PMID: 2938930
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2938930/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Since its advent, CT scan has been used extensively as an investigatory tool for many psychiatric illnesses. This paper reviews the main literature data concerned with CT scan studies in five different diagnostic groups: schizophrenia, affective disorders, alcoholism, dementia and Huntington's chorea. Measurements of central atrophy, cortical atrophy, cerebellar atrophy and density will be particularly emphasized. Factors that may be responsible for such pathological findings will be discussed.

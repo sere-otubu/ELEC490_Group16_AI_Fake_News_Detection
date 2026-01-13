@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cervical cancer
+TITLE: Cervical Cancer: Precursors and Prevention.
+PMID: 38760198
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38760198/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cervical cancer, caused due to oncogenic types of human papillomavirus (HPV), is a leading preventable cause of cancer morbidity and mortality globally. Chronic, persistent HPV infection-induced cervical precursor lesions, if left undetected and untreated, can progress to invasive cancer. Cervical cancer screening approaches have evolved from cytology (Papanicolaou test) to highly sensitive HPV-based molecular methods and personalized, risk-stratified, management guidelines. Innovations like self-collection of samples to increase screening access, innovative triage methods to optimize management of screen positives, and scalable and efficacious precancer treatment approaches will be key to further enhance the utility of prevention interventions.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tinnitus
+TITLE: Classification of Tinnitus: Multiple Causes with the Same Name.
+PMID: 32381342
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32381342/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Tinnitus is spoken of as if it were a single thing, but there are many different causes, likely many different mechanisms, and many different subtypes. This article reviews a broad range of approaches to understand and demarcate different tinnitus subtypes, which will be critical for exploring and finding cures for different subtypes.

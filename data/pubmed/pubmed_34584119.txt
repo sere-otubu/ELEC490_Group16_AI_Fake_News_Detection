@@ -1,0 +1,8 @@
+SEARCH_TOPIC: E. coli infection
+TITLE: Metformin strengthens uroepithelial immunity against E. coli infection.
+PMID: 34584119
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34584119/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Urinary tract infection frequently caused by E. coli is one of the most common bacterial infections. Increasing antibiotic resistance jeopardizes successful treatment and alternative treatment strategies are therefore mandatory. Metformin, an oral antidiabetic drug, has been shown to activate macrophages in the protection against certain infecting microorganisms. Since epithelial cells often form the first line of defense, we here investigated the effect on uroepithelial cells during E. coli infection. Metformin upregulated the human antimicrobial peptides cathelicidin LL-37 and RNase7 via modulation of the TRPA1 channel and AMPK pathway. Interestingly, metformin stimulation enriched both LL-37 and TRPA1 in lysosomes. In addition, metformin specifically increased nitric oxide and mitochondrial, but not cytosolic ROS. Moreover, metformin also triggered mRNA expression of the proinflammatory cytokines IL1B, CXCL8 and growth factor GDF15 in human uroepithelial cells. The GDF15 peptide stimulated macrophages increased LL-37 expression, with increased bacterial killing. In conclusion, metformin stimulation strengthened the innate immunity of uroepithelial cells inducing enhanced extracellular and intracellular bacterial killing suggesting a favorable role of metformin in the host defense.

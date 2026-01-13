@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Arthritis
+TITLE: Angiogenesis Dysregulation in Psoriatic Arthritis: Molecular Mechanisms.
+PMID: 28804717
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28804717/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There is evidence that psoriatic arthritis is closely linked to angiogenesis. Morphological changes described in blood vessels of psoriatic arthritis joints suggest the presence of a dysregulated angiogenesis resulting in the formation of immature vessels. Even if the reason of this inefficient angiogenesis is still unclear, an imbalance between angiogenic and antiangiogenic factors is probably responsible for inducing a dysregulated angiogenesis in psoriatic arthritis, which seems to be involved in its pathogenesis and clinical features. Nevertheless, among chronic arthritides, while angiogenesis in rheumatoid arthritis has been largely studied with a great amount of literature data, limited data on angiogenesis role in psoriatic arthritis are available. This review article is focused on current knowledge on the mechanisms responsible for dysregulated angiogenesis in psoriatic arthritis.

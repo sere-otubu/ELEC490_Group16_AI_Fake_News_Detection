@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Childhood obesity
+TITLE: Childhood obesity and central precocious puberty.
+PMID: 36465655
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36465655/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Childhood obesity is a major public health problem worldwide, and the relationship between obesity and central precocious puberty has long been confirmed, however, the mechanisms underlying this association remain elusive. This review provides an overview of the recent progress regarding how childhood obesity impacts on hypothalamic-pituitary-gonadal axis and pubertal onset, focusing on adipokines (leptin and ghrelin), hormone (insulin), and lipid (ceramide), as well as critical signaling pathways (AMPK/SIRT, mTOR) that integrate the peripheral metabolism and central circuits. Notably, prevention of obesity and CPP is beneficial for the adult life of the children, thus we further summarize the potential strategies in treating and preventing childhood obesity and CPP. The updated understanding of metabolic stress and pediatric endocrine disease will arise the attention of society, and also contribute to preventing more serious comorbidities in the later period of life in children.

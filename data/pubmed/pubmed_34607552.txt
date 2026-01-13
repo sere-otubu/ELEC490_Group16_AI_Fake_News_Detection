@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Reproductive system
+TITLE: The Male Reproductive System and Endocrine Disruptors.
+PMID: 34607552
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34607552/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The male reproductive system is exposed to a great number of chemical substances which can interfere with the normal hormonal milieu and reproductive function; these are called endocrine disruptors (EDs). Despite a growing number of studies evaluating the negative effects of EDs, their production is continuously growing although some of them have been prohibited. The prevalence of poor semen quality, hypospadias, cryptorchidism, and testicular cancer has increased in the last decades, and recently, it has been postulated that these could all be part of a unique syndrome called testicular dysgenesis syndrome. This syndrome could be related to exposure to a number of EDs which cause imbalances in the hormonal milieu and oestrogenic over-exposure during the foetal stage. The same EDs can also impair spermatogenesis in offspring and have epigenetic effects. Although studies on animal and in vitro models have raised concerns, data are conflicting. However, these studies must be considered as the basis for future research to promote male reproductive health.

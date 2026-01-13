@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Deep vein thrombosis
+TITLE: Diagnosis and treatment of deep vein thrombosis of the lower and upper limbs. 2024 recommendations of the venous thromboembolism group of the Spanish Society of Internal Medicine.
+PMID: 38641173
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38641173/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Deep vein thrombosis (DVT) of the limbs is a common disease and causes significant morbidity and mortality. It is frequently the prelude to pulmonary embolism (PE), it can recur in 30% of patients and in 25-40% of cases they can develop post-thrombotic syndrome (PTS), with a significant impact in functional status and quality of life. This document contains the recommendations on the diagnosis and treatment of acute DVT from the Thromboembolic Disease group of the Spanish Society of Internal Medicine (SEMI). PE and thrombosis of unusual venous territories (cerebral, renal, mesenteric, superficial, etc.) are outside its scope, as well as thrombosis associated with catheter and thrombosis associated with cancer, which due to their peculiarities will be the subject of other positioning documents of the Thromboembolic Disease group of the Spanish Society of Internal Medicine (SEMI).

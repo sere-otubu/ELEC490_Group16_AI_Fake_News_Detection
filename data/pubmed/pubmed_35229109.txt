@@ -1,0 +1,8 @@
+SEARCH_TOPIC: ADHD
+TITLE: Attention-Deficit/Hyperactivity Disorder.
+PMID: 35229109
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35229109/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Attention-deficit/hyperactivity disorder (ADHD) is the most prevalent neurobehavioral disorder in childhood. The major components of this disorder are developmentally inappropriate levels of inattention and hyperactivity/impulsivity, which result in functional impairment in 1 or more areas of academic, social, and emotional function. In addition to the propensity for children to have some compromise of academic and emotional function, children with ADHD also have a higher frequency of co-occurring learning, cognitive, language, motor, and mental health disorders. Similarly, children with developmental disorders have a higher risk of co-occurring ADHD. The diagnosis of ADHD can be ascertained by a review of the risks for the condition, consideration of masquerading conditions, a careful history and physical examination, and the recognition of co-occurring disorders. The signs and symptoms of co-occurring disorders and the management of ADHD differ across early childhood, middle childhood, and adolescence. Management is largely limited to behavioral and pharmacologic interventions, and it favors behavioral strategies in early childhood, pharmacologic and behavioral strategies in middle childhood, and pharmacologic interventions in adolescence. This article offers an approach to the evaluation, presentation, and management of ADHD with a focus on guiding primary care pediatricians.

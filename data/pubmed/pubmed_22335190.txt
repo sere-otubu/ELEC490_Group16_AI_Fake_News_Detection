@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Salmonella
+TITLE: Salmonella's long-term relationship with its host.
+PMID: 22335190
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22335190/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Host-adapted strains of Salmonella enterica cause systemic infections and have the ability to persist systemically for long periods of time and pose significant public-health problems. Multidrug-resistant S. enterica serovar Typhi (S. Typhi) and nontyphoidal Salmonella (NTS) are on the increase and are often associated with HIV infection. Chronically infected hosts are often asymptomatic and transmit disease to naïve hosts via fecal shedding of bacteria, thereby serving as a critical reservoir for disease. Salmonella utilizes multiple ways to evade and modulate host innate and adaptive immune responses in order to persist in the presence of a robust immune response. Survival in macrophages and modulation of immune cells migration allow Salmonella to evade various immune responses. The ability of Salmonella to persist depends on a balance between immune responses that lead to the clearance of the pathogen and avoidance of damage to host tissues.

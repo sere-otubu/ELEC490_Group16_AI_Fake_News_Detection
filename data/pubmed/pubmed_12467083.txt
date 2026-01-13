@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Acupuncture
+TITLE: Relationship of acupuncture points and meridians to connective tissue planes.
+PMID: 12467083
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12467083/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Acupuncture meridians traditionally are believed to constitute channels connecting the surface of the body to internal organs. We hypothesize that the network of acupuncture points and meridians can be viewed as a representation of the network formed by interstitial connective tissue. This hypothesis is supported by ultrasound images showing connective tissue cleavage planes at acupuncture points in normal human subjects. To test this hypothesis, we mapped acupuncture points in serial gross anatomical sections through the human arm. We found an 80% correspondence between the sites of acupuncture points and the location of intermuscular or intramuscular connective tissue planes in postmortem tissue sections. We propose that the anatomical relationship of acupuncture points and meridians to connective tissue planes is relevant to acupuncture's mechanism of action and suggests a potentially important integrative role for interstitial connective tissue.

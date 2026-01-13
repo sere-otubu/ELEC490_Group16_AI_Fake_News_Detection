@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hives
+TITLE: Spontaneous and information-induced bursting activities in honeybee hives.
+PMID: 37419944
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37419944/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Social entrainment is important for functioning of beehive organization. By analyzing a dataset of approximately 1000 honeybees (Apis mellifera) tracked in 5 trials, we discovered that honeybees exhibit synchronized activity (bursting behavior) in their locomotion. These bursts occurred spontaneously, potentially as a result of intrinsic bee interactions. The empirical data and simulations demonstrate that physical contact is one of the mechanisms for these bursts. We found that a subset of honeybees within a hive which become active before the peak of each burst, and we refer to these bees as "pioneer bees." Pioneer bees are not selected randomly, but rather, are linked to foraging behavior and waggle dancing, which may help spread external information in the hive. By using transfer entropy, we found that information flows from pioneer bees to non-pioneer bees, which suggest that the bursting behavior is caused by foraging behavior and spreading the information through the hive and promoting integrated group behavior among individuals.

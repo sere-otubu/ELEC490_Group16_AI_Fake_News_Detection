@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cognitive rehabilitation
+TITLE: rTMS/iTBS and Cognitive Rehabilitation for Deficits Associated With TBI and PTSD: A Theoretical Framework and Review.
+PMID: 35872613
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35872613/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Rehabilitation of cognitive and psychosocial deficits resulting from traumatic brain injury (TBI) continues to be an area of concern in health care. Commonly co-occurring psychiatric disorders, such as major depressive disorder and posttraumatic stress disorder, create additional hurdles when attempting to remediate cognitive sequelae. There is increased need for procedures that will yield consistent gains indicative of recovery of function. Intermittent theta-burst stimulation (iTBS), a form of repetitive transcranial magnetic stimulation, has potential as an instrument that can be tailored to aid cognitive processes and support functional gains. The use of iTBS enables direct stimulation of desired neural systems. iTBS, performed in conjunction with behavioral interventions (e.g., cognitive rehabilitation, psychotherapy), may result in additive success in facilitating cognitive restoration and adaptation. The purpose of this theoretical review is to illustrate how the technical and physiological aspects of iTBS may enhance other forms of neurorehabilitation for individuals with TBI. Future research on combinatorial iTBS interventions has the potential to translate to other complex neuropsychiatric conditions.

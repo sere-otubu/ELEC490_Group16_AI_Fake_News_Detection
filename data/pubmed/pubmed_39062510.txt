@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Circadian rhythms
+TITLE: Importance of Circadian Rhythms in the Ocular Surface.
+PMID: 39062510
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39062510/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Circadian rhythms are a ubiquitous feature throughout the organism. Accumulating evidence suggests that the dysfunction of circadian rhythms due to genetic mutations or environmental factors contributes to the genesis and progress of multiple diseases. The physiological homeostasis of the ocular surface, like any other tissue or organ, is also orchestrated by circadian rhythms. In this review, we summarize the molecular clocks and the expression of clock-controlled genes in the mammalian ocular surface. Based on the circadian expression of these genes, we conclude the diurnal oscillations of cellular biological activities in the mammalian ocular surface. Moreover, we evaluate the factors entraining circadian oscillators in the ocular surface. Finally, we further discuss the latest development of the close correlation between circadian rhythms and ocular health. Briefly, this review aimed to synthesize the previous studies to aid in understanding the importance of circadian rhythms in the ocular surface and the possible opportunities for circadian rhythm-based interventional strategies to restore the homeostasis of the ocular surface.

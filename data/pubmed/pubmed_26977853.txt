@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Local anesthesia
+TITLE: Hypersensitivity lo local anesthetics.
+PMID: 26977853
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26977853/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Using local anaesthetics in daily practice, particularly by anaesthetists and dentists, is connected with the risk of side effects. Therefore, the observation of side effects, carrying out detailed research (according to the chart proposed in this study) and conducting specialist examinations is of the highest importance. There is a variety of side effects that could occur during local anaesthesia procedures, with the intensity ranging from clinically unimportant to life threatening. Clinicians' major concerns are the appearance of various hypersensitivity reactions, including anaphylaxis. Healthcare providers responsible for the administration of local anaesthetics should be able to detect hypersensitivity reactions to implement appropriate treatment and then choose highly selected diagnostic procedures. The final diagnosis should be based on specific medical history; documentation, including a description of the case and measurement of tryptase activity; skin tests; and provocation trials. Screening tests are not recommended in populations without hypersensitivity to local anaesthestics in their medical history.

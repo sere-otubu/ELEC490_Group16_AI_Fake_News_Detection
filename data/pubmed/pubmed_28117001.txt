@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antioxidants
+TITLE: The Antioxidant Activities of Natural Polysaccharides.
+PMID: 28117001
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28117001/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The natural polysaccharides contain plant polysaccharides, animal polysaccharides and microbial polysaccharides. They are a kind of biological macromolecules with immune regulation, anti-tumor, anti-radiation, anti-inflammation, anti-fatigue and anti-aging effects. These effects are related to their antioxidant properties. The action mechanisms of antioxidation and scavenging free radicals for natural polysaccharides were reviewed. The recent research progresses and our work on antioxidant properties of polysaccharides and their derivatives were summarized. At last, the existing problems of antioxidant polysaccharides were analyzed, and the development prospects were also presented. It is important to study the antioxidant activities of polysaccharides and their derivatives for the development of natural antioxidants.

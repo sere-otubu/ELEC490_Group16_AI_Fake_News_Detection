@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pandemic preparedness
+TITLE: COVID-19 Pandemic Preparedness and Response in Latin American Countries: Scoping Review and Analysis Based on World Health Organization Standards.
+PMID: 39526430
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39526430/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To describe COVID-19 pandemic preparedness and response in 6 countries during 2020 and 2021. A literature search was conducted in MEDLINE, Web of Science, Epistemonikos, LILACS, and Google Scholar regarding the measures adopted to face the COVID-19 pandemic; the checklist of the international World Healths Organization's (WHO) guide "COVID-19 Strategic Preparedness and Response Plan" was applied. Most countries coordinated their response at the central level with the establishment of management teams and the activation of emergency operations centers for the coordination of the response to the pandemic. The capacity to perform epidemiological surveillance activities such as early case detection, contact tracing, and real-time monitoring of data was exceeded. There was low capacity in laboratory infrastructure, specialized human talent, and deployment of molecular testing for SARS-CoV-2 detection. This is the first review that addresses the importance of documenting how well-prepared countries in the region were to face a pandemic such as COVID-19 taking into account WHO standards and guidelines. In Latin America, the literature showed reports of heterogeneous responses to the pandemic, a gap in the literature on laboratory and diagnostic pillar activities, and a lack of literature reporting on epidemiological surveillance pillar activities in Argentina, Chile, and Ecuador.

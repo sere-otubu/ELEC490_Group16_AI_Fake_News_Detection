@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Massage therapy
+TITLE: Manual Massage Therapy for Patients with COPD: A Scoping Review.
+PMID: 31108862
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31108862/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+<i>Background and objectives:</i> Manual massage therapy is a therapeutic option for the treatment of several pathological conditions affecting the musculoskeletal system. It has been pointed out that massage might be beneficial for chronic obstructive pulmonary disease (COPD) patients thanks to therapeutic effects primarily related to hyperemia (increased skin temperature and blood flow), and activation of the lymphatic system. The present study reports current evidence on the systemic effects of manual massage in patients with COPD. <i>Materials and Methods:</i> A scoping review was conducted on five major databases. The search went through all databases since their inception until December 2018. <i>Results:</i> Seventy-eight citations were retrieved; after the selection process was completed, seven articles were considered eligible. In patients receiving manual massage, improvements were observed in Forced Expiratory Volume in 1 s, dyspnea perception, and in the 6-min walking test. <i>Conclusions:</i> To date, the use of manual massage in patients with COPD is not supported by substantial evidence in the literature: indeed, it is proposed as a therapeutic option in association with other interventions such as physical exercise.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hearing aids
+TITLE: Hearing Aids Reduce Self-Perceived Difficulties in Noise for Listeners With Normal Audiograms.
+PMID: 37553897
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37553897/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This study assessed hearing aid benefits for people with a normal audiogram but hearing-in-noise problems in everyday listening situations. Exploratory double-blinded case-control study whereby participants completed retrospective questionnaires, ecological momentary assessments, speech-in-noise testing, and mental effort testing with and without hearing aids. Twenty-seven adults reporting speech-in-noise problems but normal air conduction pure-tone audiometry took part in the study. They were randomly separated into an experimental group that trialed mild-gain hearing aids with advanced directional processing and a control group fitted with hearing aids with no gain or directionality. Self-reports showed mild-gain hearing aids reduce hearing-in-noise difficulties and provide a better hearing experience (i.e., improved understanding, participation, and mood). Despite the self-reported benefits, the laboratory tests did not reveal a benefit from the mild-gain hearing aids, with no group differences on speech-in-noise tests or mental effort measures. Further, participants found the elevated cost of hearing aids to be a barrier for their adoption. Hearing aids benefit the listening experience in some listening situations for people with normal audiogram who report hearing difficulties in noise. Decreasing the price of hearing aids may lead to greater accessibility to those seeking remediation for their communication needs.

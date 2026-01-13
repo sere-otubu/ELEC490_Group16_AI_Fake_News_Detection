@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Overtraining syndrome
+TITLE: Physical activity and mental health: the association between exercise and mood.
+PMID: 15838583
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15838583/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Physical activity is an important public health tool used in the treatment and prevention of various physical diseases, as well as in the treatment of some psychiatric diseases such as depressive and anxiety disorders. However, studies have shown that in addition to its beneficial effects, physical activity can also be associated with impaired mental health, being related to disturbances like "excessive exercise" and "overtraining syndrome". Although the number of reports of the effects of physical activity on mental health is steadily increasing, these studies have not yet identified the mechanisms involved in the benefits and dangers to mental health associated with exercise. This article reviews the information available regarding the relationship between physical activity and mental health, specifically addressing the association between exercise and mood.

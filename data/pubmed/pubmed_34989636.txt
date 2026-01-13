@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Robotic surgery
+TITLE: Robotic surgery in gynecology: is the future already here?
+PMID: 34989636
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34989636/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Robotic-assisted surgery has gained widespread acceptance in the surgical community and appears to be the most rapidly developing sector of minimally invasive surgery. However, robotic surgery has been viewed as a development of, or alternative to, laparoscopic surgery and not necessarily as a superior technology. The advantages of MIS over open surgery apply to robotic-assisted surgery as well. Nevertheless, conflicting data have been published about the advantages and disadvantages of robotic-assisted and laparoscopic surgery. In the last few years, robotic-assisted surgery has been used for various gynecological procedures such as hysterectomy, lymphadenectomy, myomectomy, sacrocolpopexy or endometriosis operations. In the present review, we analyze the current use of robotic-assisted surgery and its efficiency in gynecology. Patient-based outcomes, such as quality of life and outcomes in morbidly obese patients are also addressed. The potential benefits of single-port robotic-assisted surgery are discussed. Most of the studies published so far state that robotic-assisted surgery does not essentially improve the surgical outcome compared to conventional laparoscopic surgery. However, randomized studies are scarce. Ongoing technological progress over the next few years may improve robotic-assisted techniques and thus optimize the patient's treatment.

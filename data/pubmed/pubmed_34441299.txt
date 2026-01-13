@@ -1,0 +1,8 @@
+SEARCH_TOPIC: ALS
+TITLE: Molecular Pathology of ALS: What We Currently Know and What Important Information Is Still Missing.
+PMID: 34441299
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34441299/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Despite an early understanding of amyotrophic lateral sclerosis (ALS) as a disease affecting the motor system, including motoneurons in the motor cortex, brainstem, and spinal cord, today, many cases involving dementia and behavioral disorders are reported. Therefore, we currently divide ALS not only based on genetic predisposition into the most common sporadic variant (90% of cases) and the familial variant (10%), but also based on cognitive and/or behavioral symptoms, with five specific subgroups of clinical manifestation-ALS with cognitive impairment, ALS with behavioral impairment, ALS with combined cognitive and behavioral impairment, the fully developed behavioral variant of frontotemporal dementia in combination with ALS, and comorbid ALS and Alzheimer's disease (AD). Generally, these cases are referred to as amyotrophic lateral sclerosis-frontotemporal spectrum disorder (ALS-FTSD). Clinical behaviors and the presence of the same pathognomonic deposits suggest that FTLD and ALS could be a continuum of one entity. This review was designed primarily to compare neuropathological findings in different types of ALS relative to their characteristic locations as well as the immunoreactivity of the inclusions, and thus, foster a better understanding of the immunoreactivity, distribution, and morphology of the pathological deposits in relation to genetic mutations, which can be useful in specifying the final diagnosis.

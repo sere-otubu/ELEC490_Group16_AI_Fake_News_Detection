@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Occupational therapy
+TITLE: Occupational Therapy: Essential to Critical Care Rehabilitation.
+PMID: 33657342
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33657342/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The coronavirus disease 2019 (COVID-19) pandemic reshaped the health care landscape, leading to the reassignment of essential health care workers to critical areas and widespread furloughs of providers deemed nonessential, including occupational therapy practitioners. Although multidisciplinary critical care teams often include occupational therapy practitioners, efforts to define, measure, and disseminate occupational therapy's unique contributions to critical care outcomes have been overlooked. This editorial provides recommendations to improve the occupational therapy profession's readiness to meet society's current and future pandemic needs. We propose a three-pronged strategy to strengthen occupational therapy clinical practice, education, and advocacy to illuminate the distinct value of occupational therapy in critical care.

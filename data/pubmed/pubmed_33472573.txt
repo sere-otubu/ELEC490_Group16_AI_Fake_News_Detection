@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Suicide prevention
+TITLE: Suicide Prevention.
+PMID: 33472573
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33472573/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Suicide prevention begins with understanding depression and mental health protection.

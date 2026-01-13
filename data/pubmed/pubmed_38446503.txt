@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Laparoscopic surgery
+TITLE: Robot Assisted Laparoscopic Surgery in Gynaecology: An Evolving Assistive Technology.
+PMID: 38446503
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38446503/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Laparoscopic surgery is extensively utilized to treat a range of gynaecological conditions and pathologies. The advantages of laparoscopic surgery include the minimalization of blood loss and scarring, improved recovery times, and shorter hospital admissions. However, robotic technologies have had an increasing presence within gynaecological laparoscopic surgery in recent decades. This literature review therefore aims to discuss laparoscopy from 3 perspectives. First, the evolution of laparoscopy is reviewed with a focus on its origins, its transition from a diagnostic to an operative tool, and its role in present-day gynaecology. Second, interventions for benign gynaecological conditions (including excision of benign ovarian tumours, total laparoscopic hysterectomy, and laparoscopic myomectomy) are reviewed. The laparoscopic management of malignant gynaecology (including ovarian cancer, endometrial cancer, and cervical cancer) is also discussed. Finally, whilst robot-assisted laparoscopic surgery is experiencing rapid technological advancement, it is pertinent to consider the extent of its benefits when compared to open or conventional laparoscopic approaches in gynaecological surgery.

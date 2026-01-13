@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immune response
+TITLE: Immune Response in Cattle Trypanosomosis and Trypanotolerance: Main Findings and Gaps.
+PMID: 39508487
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39508487/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Trypanosome parasites of the genus Trypanosoma cause African animal trypanosomosis, a devastating livestock disease plaguing sub-Saharan Africa. Unlike many protozoan parasites, these extracellular blood-borne pathogens directly engage the host's immune system. While the mouse model has provided valuable insights, a comprehensive understanding of the bovine immune response to trypanosomes remains elusive. Addressing the immune response in cattle, the most relevant host species, and how it takes part in mitigating the negative impact of the disease could contribute to setting up sustainable control strategies. This review summarises the current knowledge of the immune response in cattle during trypanosomosis. Following a brief overview of infection processes and bovine trypanotolerance, we present advances in the regulation of host innate, inflammatory and adaptive responses and delve into the key immunological players involved in immunoactivities and immunosuppression. We discuss how these mechanisms contribute to tolerance or susceptibility to infection, highlighting critical gaps in knowledge that require further investigation.

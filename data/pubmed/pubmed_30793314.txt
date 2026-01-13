@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Health literacy
+TITLE: A concept analysis of health literacy.
+PMID: 30793314
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30793314/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To propose a conceptual definition of health literacy incorporating system demands, burdens, and complexities that are a critical part of patients' level of health literacy. Health literacy is used frequently in health care and often is confused with patients' reading and comprehension levels. Walker and Avant's concept analysis method was used. Cochrane Library, Cumulative Index of Nursing and Health Literature, OVID, PubMed, EBSCO Host databases, and Google Scholar. The primary Search terms and MeSH terms used were health literacy, patient education, patient engagement, patient activation, health communication, health promotion, and nursing. Empirical and nonempirical articles published in English were reviewed. Ten systematic literature reviews were included. A new definition of health literacy is provided based on four components that include: system demands, burdens, and complexities; measurable components, processes and outcomes; the dynamic nature of health literacy; and demonstration of the direct relationship of informed decisions to informed actions. Defining attributes, antecedents, and consequences are identified. Implications for nursing practice, education, and research are given. Because health literacy is a dynamic and quickly changing concept, further exploration and evolution of the concept is warranted as empirical research and theoretical literature emerge.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Endometriosis
+TITLE: [Endometriosis].
+PMID: 19994762
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19994762/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Endometriosis is a common gynaecological disease of unknown aetiology which affects an estimated 10% to 15% of all premenopausal women. It is defined as the presence of endometrial tissue, consisting of both glandular epithelium and stroma, outside the uterine cavity. Three different clinical entities of endometriosis can be distinguished: peritoneal endometriosis, ovarian endometriosis and deep invasive endometriosis. There are several theories to explain their pathogenesis: metaplasia of the mesothelium, in situ development of Müllerian remnants in the rectovaginal area (deep-invasive lesions) or retrograde transplantation of shed menstrual effluent (peritoneal implants). The most widely accepted hypothesis for the development of endometriosis is retrograde menstruation. However, some other factor renders certain women susceptible to the implantation and growth of this ectopic endometrium.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Major depressive disorder
+TITLE: An Update on Repetitive Transcranial Magnetic Stimulation for the Treatment of Major Depressive Disorder.
+PMID: 31206624
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31206624/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Repetitive transcranial magnetic stimulation (rTMS) has emerged as an evidenced-based treatment for major depression that does not respond to standard first-line therapies. The majority of data support the use of high-frequency (10 Hz) treatment delivered to the left dorsolateral prefrontal cortex. Intermittent theta burst stimulation is a new emerging treatment that reduces the time required to deliver treatment and can increase capacity and access to this treatment. This review will comprehensively cover recent advancements in the field of rTMS for depression, including stimulation parameters and targets aimed at enhancing outcomes. In addition, efforts to use modern neuroscience tools to personalize this treatment and optimize outcomes will be reviewed.

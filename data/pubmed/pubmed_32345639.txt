@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urinary tract infection
+TITLE: Advances in Understanding the Human Urinary Microbiome and Its Potential Role in Urinary Tract Infection.
+PMID: 32345639
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32345639/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Recent advances in the analysis of microbial communities colonizing the human body have identified a resident microbial community in the human urinary tract (UT). Compared to many other microbial niches, the human UT harbors a relatively low biomass. Studies have identified many genera and species that may constitute a core urinary microbiome. However, the contribution of the UT microbiome to urinary tract infection (UTI) and recurrent UTI (rUTI) pathobiology is not yet clearly understood. Evidence suggests that commensal species within the UT and urogenital tract (UGT) microbiomes, such as <i>Lactobacillus crispatus</i>, may act to protect against colonization with uropathogens. However, the mechanisms and fundamental biology of the urinary microbiome-host relationship are not understood. The ability to measure and characterize the urinary microbiome has been enabled through the development of next-generation sequencing and bioinformatic platforms that allow for the unbiased detection of resident microbial DNA. Translating technological advances into clinical insight will require further study of the microbial and genomic ecology of the urinary microbiome in both health and disease. Future diagnostic, prognostic, and therapeutic options for the management of UTI may soon incorporate efforts to measure, restore, and/or preserve the native, healthy ecology of the urinary microbiomes.

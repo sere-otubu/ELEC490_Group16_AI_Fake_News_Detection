@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Breast cancer
+TITLE: Breast cancer survivorship.
+PMID: 38534002
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38534002/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Breast cancer survivorship care transitions from active treatment to focus on surveillance and health maintenance. This review article discusses the crucial aspects of breast cancer survivorship, which include cancer surveillance, management of treatment side effects, implementation of a healthy lifestyle, and psychosocial support.

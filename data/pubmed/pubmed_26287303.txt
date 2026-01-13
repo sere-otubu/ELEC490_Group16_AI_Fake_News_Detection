@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ebola virus
+TITLE: Ebola Virus Disease: A Review of Its Past and Present.
+PMID: 26287303
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26287303/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ebola virus, the virus responsible for Ebola virus disease, has spawned several epidemics during the past 38 years. In 2014, an Ebola epidemic spread from Africa to other continents, becoming a pandemic. The virus's relatively unique structure, its infectivity and lethality, the difficulty in stopping its spread, and the lack of an effective treatment captured the world's attention. This article provides a brief review of the known history of Ebola virus disease, its etiology, epidemiology, and pathophysiology and a review of the limited information on managing patients with Ebola virus disease.

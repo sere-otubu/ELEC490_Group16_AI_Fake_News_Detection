@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anesthesia types
+TITLE: [Pre-anesthesia survey].
+PMID: 10767
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10767/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The pre-anaesthesia enquiry reposes essentially on a detailed interrogation, with respects to the risks of anaphylactic accident. Two types of information must be obtained: the presence of risk factors (related to an allergic background, to the pre-existence of a drug allergy, to a spasmophilic background) on the one hand; knowledge of anaesthetic substances and adjuvants already used, on the other hand.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Eczema
+TITLE: [Analysis of eczema animal model based on clinical characteristics].
+PMID: 29600665
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29600665/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The coincidence of the existing eczema animal model and the clinical characteristics of eczema, and the application characteristics of eczema animal model were analyzed, and the evaluation method and improvement method of corresponding eczema animal model was put forward. Based on the clinical diagnostic criteria of eczema of traditional Chinese medicine and western medicine, the characteristics of current eczema model and the modeling method were summarized, and the anastomosis situations between the existing animal model and the eczema clinical characteristics were analyzed. At present, the back eczema models of mice have been usually used, which reflected the pathophysiological characteristics of clinical eczema to a certain degree. However, the existing animal models fail to reflect the clinical characteristics of traditional Chinese medicine. Future studies focused on establishing animal models that better reflect the clinical characteristics of eczema and the index system of eczema model.

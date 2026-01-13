@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hepatitis A
+TITLE: [Hepatitis A].
+PMID: 12908041
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12908041/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hepatitis A infection is known since the ancient Chinese, Greek and Roman civilizations but the first documented report was published in the eighteenth century. The hepatovirus belongs to the Picornaviridae family, and carries a single strand RNA. There are 7 genotypes. Antibodies of the IgM and IgA classes, during natural infections, appear early in the serum, together with the first clinical manifestations of the disease, but they may also appear at the end of the first week of infection. There is a spectrum of clinical presentation: asymptomatic infection, symptomatic without jaundice and symptomatic jaundiced. A rare fatal form of hepatitis has been described. Diagnosis of the hepatitis A infection is confirmed by the finding of IgM anti-HAV antibodies, routinely performed using an ELISA test. Treatment is supportive. Intramuscular anti-A gamma globulin is used for passive immune prophylaxis, and there is an efficient vaccine for active immune prophylaxis.

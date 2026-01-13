@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Muscular system
+TITLE: Precise correction of Duchenne muscular dystrophy exon deletion mutations by base and prime editing.
+PMID: 33931459
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33931459/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Duchenne muscular dystrophy (DMD) is a fatal muscle disease caused by the lack of dystrophin, which maintains muscle membrane integrity. We used an adenine base editor (ABE) to modify splice donor sites of the dystrophin gene, causing skipping of a common DMD deletion mutation of exon 51 (∆Ex51) in cardiomyocytes derived from human induced pluripotent stem cells, restoring dystrophin expression. Prime editing was also capable of reframing the dystrophin open reading frame in these cardiomyocytes. Intramuscular injection of ∆Ex51 mice with adeno-associated virus serotype-9 encoding ABE components as a split-intein trans-splicing system allowed gene editing and disease correction in vivo. Our findings demonstrate the effectiveness of nucleotide editing for the correction of diverse DMD mutations with minimal modification of the genome, although improved delivery methods will be required before these strategies can be used to sufficiently edit the genome in patients with DMD.

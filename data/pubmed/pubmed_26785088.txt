@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pneumonia
+TITLE: Pediatric Necrotizing Pneumonia: A Case Report and Review of the Literature.
+PMID: 26785088
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26785088/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Necrotizing pneumonias occur infrequently in children but may be associated with significant morbidity. If not adequately treated, necrotizing pneumonia may lead to complications including bronchopleural fistula, empyema, respiratory failure, and septic shock. Staphylococcus aureus is the most commonly implicated agent, followed by Streptococcus pneumoniae. Antimicrobial treatment is the cornerstone of management, although surgical drainage may be required in some cases. We present the case of a 14-month-old child with fever and cough that persisted despite treatment with typical first-line oral antimicrobial therapy. An initial plain radiograph of the chest demonstrated lobar pneumonia. Ultimately, computed tomography of the chest revealed a cavitary lesion in the left upper lobe of the lung. We review the literature and describe the clinical presentation, diagnosis, microbiological etiology, and management of necrotizing pneumonia in children.

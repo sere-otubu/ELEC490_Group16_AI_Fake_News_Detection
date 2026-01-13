@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Probiotics and gut health
+TITLE: Probiotics and Gut Health in Athletes.
+PMID: 32451960
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32451960/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To provide a focused analysis of the challenges to gut health in athletes and examine recent research aimed at determining the impact of probiotics on preventing gastrointestinal (GI) symptoms and loss of barrier function in athletes. Frequency and severity of GI symptoms during training or competition were reduced by approximately one-third in studies demonstrating efficacy. Improvement of GI symptoms with probiotic supplementation was measured in both single-strain Lactobacillus and multi-strain Lactobacillus and Bifidobacterim probiotics, while improvement in gut barrier function was only measured for multi-strain probiotics. Likelihood of efficacy increased with duration of supplementation. The greatest efficacy for reducing GI symptom frequency and severity, as well as improving or preserving gut barrier function during exercise training and competition, appears to be for multi-strain Lactobacillus and Bifidobacterium probiotic cocktails supplemented for at least 11 weeks.

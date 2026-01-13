@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tendinitis
+TITLE: [Calcific tendinitis of the shoulder].
+PMID: 21814884
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21814884/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Calcific tendinitis of the shoulder is a process involving crystal calcium deposition in the rotator cuff tendons, which mainly affects patients between 30 and 50 years of age. The etiology is still a matter of dispute. The diagnosis is made by history and physical examination with specific attention to radiologic and sonographic evidence of calcific deposits. Patients usually describe specific radiation of the pain to the lateral proximal forearm, with tenderness even at rest and during the night. Nonoperative management including rest, nonsteroidal anti-inflammatory drugs, subacromial corticosteroid injections, and shock wave therapy is still the treatment of choice. Nonoperative treatment is successful in up to 90% of patients. When nonsurgical measures fail, surgical removal of the calcific deposit may be indicated. Arthroscopic treatment provides excellent results in more than 90% of patients. The recovery process is very time consuming and may take up to several months in some cases.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Opioid addiction
+TITLE: Opioid addiction and the cerebellum.
+PMID: 31526817
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31526817/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Opioid addiction has reached the epidemic status in the United States in recent years. A multitude of factors have contributed to an alarming increase in misuse and health issues related to these drugs. Although medications exist to treat some aspects of opioid addiction since long ago, relapse and fatality rates remain very high despite their long-term availability. Therefore, more research devoted to better understanding its neural substrates is needed to aid developing new treatment options. Interestingly, a number of studies show the cerebellum to be involved in the effects of opioids and addiction-related processes, though it is not usually regarded as part of the opioid addiction-related brain circuitry. This review provides a summary of cerebellar anatomy and synaptic organization, followed by discussing the studies reporting cerebellar involvement in opioid effects in animals and humans, and their possible role in opioid addiction. Additionally, future experimental approaches will be proposed. We hope this work will contribute considering the cerebellum as an integral part of the circuitry underlying opioid-related disorders.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ulcerative colitis
+TITLE: Ulcerative colitis and nephrotic syndrome: a two-sample Mendelian randomization study.
+PMID: 38717727
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38717727/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To investigate the potential causal relationship between ulcerative colitis and nephrotic syndrome. We obtained the whole-genome association study data of ulcerative colitis in the European population from the GWAS database. Relevant single nucleotide polymorphisms (SNPs) were selected for analysis. We employed the inverse variance-weighted meta-analysis of multiplicative random effects models to obtain SNP-specific Wald ratio estimates, which assume horizontal pleiotropy. In addition, we performed sensitivity analyses using MR-Egger, weighted median, and IVW. Our findings suggest a strong association between ulcerative colitis and nephrotic syndrome (P < 0.05). After conducting sensitivity analyses, we found no evidence of horizontal pleiotropy or heterogeneity (P > 0.05). This study provides evidence for an association between ulcerative colitis and nephrotic syndrome, which may help us better understand the conditions of ulcerative colitis and nephropathy.

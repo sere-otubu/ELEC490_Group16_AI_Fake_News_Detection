@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pacemakers
+TITLE: Pacemakers.
+PMID: 40552960
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40552960/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+AbstractPacemakers are critical in the management of bradyarrhythmias. The authors review pacemaker fundamentals, indications, and device types, as well as the role of pacemakers in heart failure, emerging advancements, and current limitations.

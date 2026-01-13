@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Food labeling
+TITLE: Government perspective: food labeling.
+PMID: 16002834
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16002834/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The Food and Drug Administration acknowledges the severity of the obesity epidemic. The Food and Drug Administration recognizes the importance of food labeling as a vehicle for dietary messages and, thus, enforces stringent guidelines to maintain the integrity of the food label. As food labels await another upgrade to make them more effective and easier to understand, the Food and Drug Administration considers what information will be most useful for consumers to make healthy choices. The causal relationship between food labels and subsequent diet choice is not well understood; more research in this area is needed. The Commissioner of the Food and Drug Administration has recently appointed an Obesity Working Group to develop proposals on pertinent topics of obesity, including the role of food labeling as a dietary guide.

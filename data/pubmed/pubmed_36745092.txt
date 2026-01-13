@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anesthesia types
+TITLE: Paediatric pain management: from regional to virtual.
+PMID: 36745092
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36745092/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Due to increased interest in opioid-sparing multimodal analgesic strategies both inside and outside of the operating room, anaesthesiologists have started to look towards regional anaesthesia as well as nonpharmacological pain-reducing techniques. The purpose of this article is to discuss current trends and recent developments in regional anaesthesia and virtual reality for paediatric pain management. The development of novel fascial plane blocks has expanded regional options for anaesthesiologists, especially when neuraxial anaesthesia is not a viable or straightforward option. Other regional techniques, such as spinal anaesthesia and continuous epidural analgesia for infants and neonates, are becoming more popular, as more paediatric anaesthesiologists become familiar with these techniques. Virtual reality for paediatric pain management is a relatively new area of study that has shown promise, but more research needs to be done before widespread adoption of this practice becomes a reality. Various preexisting pain-reducing strategies such as distraction and biofeedback are being integrated with virtual reality to help optimize its effect on pain and anxiety for paediatric patients. Regional anaesthesia and virtual reality are valuable tools that serve to alleviate pain in paediatric patients. Advances are being made within both fields in various healthcare settings for different types of pain. Over the next few years, they will likely both play an increasing role in paediatric pain management.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immune response
+TITLE: The Immune Response to SARS-CoV-2: Mechanisms, Aging, Sequelae, and Vaccines.
+PMID: 35249484
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35249484/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This review seeks to clarify the factors involved in the various immune responses to SARSCoV- 2 infection and the mechanisms that influence the development of COVID-19 with severe evolution. The innate immune response that evolves against SARS-CoV-2 in a complex way is highlighted, integrating multiple pathways by coronaviruses to evade it, in addition to characterizing the adaptive immune response, which can lead to an effective immune response or can contribute to immunopathological imbalance. In turn, host-dependent biomarkers, such as age, gender, ABO blood group, and risk factors, that contribute to the critical and varied progress of COVID-19 immunopathogenesis are analyzed. Finally, the potential vaccine candidates are presented, capable of generating immune protection with humoral and/or cellular neutralizing responses, in favor of blocking and destroying both the new human coronavirus and its variants, which cause the current pandemic.

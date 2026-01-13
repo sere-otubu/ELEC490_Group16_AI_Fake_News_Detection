@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lactose intolerance
+TITLE: Lactose Intolerance in Adults: Biological Mechanism and Dietary Management.
+PMID: 26393648
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26393648/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lactose intolerance related to primary or secondary lactase deficiency is characterized by abdominal pain and distension, borborygmi, flatus, and diarrhea induced by lactose in dairy products. The biological mechanism and lactose malabsorption is established and several investigations are available, including genetic, endoscopic and physiological tests. Lactose intolerance depends not only on the expression of lactase but also on the dose of lactose, intestinal flora, gastrointestinal motility, small intestinal bacterial overgrowth and sensitivity of the gastrointestinal tract to the generation of gas and other fermentation products of lactose digestion. Treatment of lactose intolerance can include lactose-reduced diet and enzyme replacement. This is effective if symptoms are only related to dairy products; however, lactose intolerance can be part of a wider intolerance to variably absorbed, fermentable oligo-, di-, monosaccharides and polyols (FODMAPs). This is present in at least half of patients with irritable bowel syndrome (IBS) and this group requires not only restriction of lactose intake but also a low FODMAP diet to improve gastrointestinal complaints. The long-term effects of a dairy-free, low FODMAPs diet on nutritional health and the fecal microbiome are not well defined. This review summarizes recent advances in our understanding of the genetic basis, biological mechanism, diagnosis and dietary management of lactose intolerance.

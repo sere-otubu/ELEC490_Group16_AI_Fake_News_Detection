@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antisocial personality disorder
+TITLE: The neuropsychology of antisocial personality disorder.
+PMID: 17544650
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17544650/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Antisocial Personality Disorder (APD) is a psychological disorder most commonly associated with the legal and criminal justice systems, as many persons arrested for the commission of illegal acts meet the diagnostic criteria for this disorder, such as deception, manipulation, disregard for the rights of others, and a lack of remorse for their behavior. Most researchers agree that this disorder stems from brain abnormalities, including the theories of frontal lobe dysfunction and differences in the autonomic nervous systems in individuals diagnosed with APD. The Integrated Emotional Systems (IES) model, a third model of APD, is itself not a brain abnormality, but provides an understanding of antisocial characteristics based on dysfunctions in select parts of the brain. Based on research using neuropsychological assessments and other techniques, several cognitive characteristics appear to exist among these individuals. Examples include cognitive inflexibility, attention deficits, and inappropriate processing of contextual cues in the environment, sometimes leading to poor behavioral choices. Further research is needed to help identify the cause of this disorder so that the most appropriate treatments can be made available to these individuals.

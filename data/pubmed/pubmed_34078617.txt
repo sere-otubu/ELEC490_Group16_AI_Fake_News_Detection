@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Bulimia nervosa
+TITLE: Medical complications of bulimia nervosa.
+PMID: 34078617
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34078617/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Bulimia nervosa, a mental illness 4 times more common than anorexia nervosa, is characterized by binge-eating followed by compensatory purging behaviors, which include self-induced vomiting, diuretic abuse, laxative abuse, and misuse of insulin. Patients with bulimia nervosa are at risk of developing medical complications that affect all body systems, especially the renal and electrolyte systems. Behavior cessation can reverse some, but not all, medical complications.

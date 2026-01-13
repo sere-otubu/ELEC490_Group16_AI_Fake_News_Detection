@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Endoscopy
+TITLE: [Place of bidirectional endoscopy in the assessment of iron deficiency in the elderly].
+PMID: 33052108
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33052108/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Iron deficiency is a common pathology in elderly patients. It is most often due to digestive lesions, so we wonder the benefit-risk balance and yield of digestive explorations. The English recommendations recommend that bidirectional endoscopy (esophagogastroduodenoscopy (EGD) and colonoscopy) is performed at the same time, without any upper age limit. In studies conducted in people over 75 years of age, the yield of diagnostic varies between 63 and 68%, which is similar to that of younger people. There is about 40% of the upper lesion and 40% of the lower lesion. The simultaneous discovery of upper and lower digestive lesions represents about 10% of elderly patients. Complications of EGD are rare and mainly related to anaesthesia. The main complication of colonoscopy is perforation and there is a small over-risk of perforation in older patients. This risk is less important when we use computed tomographic colonography. Contraindications of endoscopies are very rare. In case of negative endoscopies, we will wonder if we need further explorations or not.

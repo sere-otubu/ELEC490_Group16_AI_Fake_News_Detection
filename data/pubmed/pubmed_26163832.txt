@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tendinitis
+TITLE: Calcific tendinitis of the rotator cuff: state of the art in diagnosis and treatment.
+PMID: 26163832
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26163832/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Calcific tendinitis is a painful shoulder disorder characterised by either single or multiple deposits in the rotator cuff tendon. Although the disease subsides spontaneously in most cases, a subpopulation of patients continue to complain of pain and shoulder dysfunction and the deposits do not show any signs of resolution. Although several treatment options have been proposed, clinical results are controversial and often the indication for a given therapy remains a matter of clinician choice. Herein, we report on the current state of the art in the pathogenesis, diagnosis and treatment of calcific tendinitis of the rotator cuff.

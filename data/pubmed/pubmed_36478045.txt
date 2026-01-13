@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Natural birth
+TITLE: Preterm Birth and Corticotrophin-Releasing Hormone as a Placental Clock.
+PMID: 36478045
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36478045/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Preterm birth worldwide remains a significant cause of neonatal morbidity and mortality, yet the exact mechanisms of preterm parturition remain unclear. Preterm birth is not a single condition, but rather a syndrome with a multifactorial etiology. This multifactorial nature explains why individual predictive measures for preterm birth have had limited sensitivity and specificity. One proposed pathway for preterm birth is via placentally synthesized corticotrophin-releasing hormone (CRH). CRH is a peptide hormone that increases exponentially in pregnancy and has been implicated in preterm birth because of its endocrine, autocrine, and paracrine roles. CRH has actions that increase placental production of estriol and of the transcription factor nuclear factor-κB, that likely play a key role in activating the myometrium. CRH has been proposed as part of a placental clock, with early activation of placental production resulting in preterm birth. This article will review the current understanding of preterm birth, CRH as an initiator of human parturition, and the evidence regarding the use of CRH in the prediction of preterm birth.

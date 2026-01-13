@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Strength training
+TITLE: [Strength training in children and adolescents: benefits, risks and recommendations].
+PMID: 30525318
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30525318/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In the last decade, there has been a notable increase in the implementation of strength training programs in sports for children and adolescents. This review of strength training includes potential health benefits, fitness, risks and recommendations for the healthy, overweight, obese, or sedentary population in children 7-19 years of age. The general guidelines include supervision, planning and proper learning of the technique. Scientific evidence and clinical experience of strength training in children and adolescents as part of a training program demonstrate that it is useful, effective and safe if properly prescribed and supervised, with potential health benefits on a physical, social and psychological level

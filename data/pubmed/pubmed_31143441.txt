@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Male infertility
+TITLE: Recent advances in understanding and managing male infertility.
+PMID: 31143441
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31143441/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Infertility is a prevalent condition affecting an estimated 70 million people globally. The World Health Organization estimates that 9% of couples worldwide struggle with fertility issues and that male factor contributes to 50% of the issues. Male infertility has a variety of causes, ranging from genetic mutations to lifestyle choices to medical illnesses or medications. Recent studies examining DNA fragmentation, capacitation, and advanced paternal age have shed light on previously unknown topics. The role of conventional male reproductive surgeries aimed at improving or addressing male factor infertility, such as varicocelectomy and testicular sperm extraction, have recently been studied in an attempt to expand their narrow indications. Despite advances in the understanding of male infertility, idiopathic sperm abnormalities still account for about 30% of male infertility. With current and future efforts examining the molecular and genetic factors responsible for spermatogenesis and fertilization, we may be better able to understand etiologies of male factor infertility and thus improve outcomes for our patients.

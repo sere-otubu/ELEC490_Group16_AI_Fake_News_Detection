@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vaccination schedules
+TITLE: [Vaccination, a public health tool].
+PMID: 35397833
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35397833/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Vaccination remains a major public health tool, the only one that has enabled the eradication of an infectious disease, smallpox. In this fight, biotechnological innovations point to considerable progress in the development of new vaccines. However, whatever technical progress is made, the impact of a vaccination program will depend on its performance and on the support of the population.

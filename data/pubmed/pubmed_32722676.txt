@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Wound healing process
+TITLE: An image J plugin for the high throughput image analysis of in vitro scratch wound healing assays.
+PMID: 32722676
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32722676/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In vitro scratch wound healing assay, a simple and low-cost technique that works along with other image analysis tools, is one of the most widely used 2D methods to determine the cellular migration and proliferation in processes such as regeneration and disease. There are open-source programs such as imageJ to analyze images of in vitro scratch wound healing assays, but these tools require manual tuning of various parameters, which is time-consuming and limits image throughput. For that reason, we developed an optimized plugin for imageJ to automatically recognize the wound healing size, correct the average wound width by considering its inclination, and quantify other important parameters such as: area, wound area fraction, average wound width, and width deviation of the wound images obtained from a scratch/ wound healing assay. Our plugin is easy to install and can be used with different operating systems. It can be adapted to analyze both individual images and stacks. Additionally, it allows the analysis of images obtained from bright field, phase contrast, and fluorescence microscopes. In conclusion, this new imageJ plugin is a robust tool to automatically standardize and facilitate quantification of different in vitro wound parameters with high accuracy compared with other tools and manual identification.

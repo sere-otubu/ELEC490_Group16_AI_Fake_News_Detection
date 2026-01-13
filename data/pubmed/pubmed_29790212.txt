@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dopamine
+TITLE: Dopamine in transplantation: Written off or comeback with novel indication?
+PMID: 29790212
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29790212/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Renal-dose dopamine has fallen out of favor in the intensive care unit (ICU) during past years due to its ineffectiveness to prevent impending or to ameliorate overt renal failure in the critically ill. By contrast, growing evidence indicates that low-dose dopamine administered to the stable organ donor after brain death confirmation improves the clinical course of transplanted organs after kidney and heart transplantation. Ensuring a thorough monitoring for potential circulatory side effects, employment of dopamine at a dose of 4 μg/kg/min is safe in the deceased donor. Among recipients, the advantageous effect is easy to achieve, inexpensive, and devoid of adverse side effects. The mode of action relies on dopamine's propensity to mitigate injury in various cell systems from isolated transplantable organs under cold storage conditions. The present review article summarizes the clinical evidence of dopamine donor pretreatment in solid organ transplantation and focuses on the underlying molecular mechanisms of cellular protection. Introducing the routine use of low-dose dopamine for the management of the brain-dead donor in the ICU before procurement provides an evidence-based strategy to improve graft outcome after kidney transplantation without conferring harm to non-renal grafts, namely to livers and hearts, in cases of multi-organ donation.

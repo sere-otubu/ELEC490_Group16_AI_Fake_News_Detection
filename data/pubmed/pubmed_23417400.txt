@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cell division meiosis
+TITLE: Regulation of germ cell meiosis in the fetal ovary.
+PMID: 23417400
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23417400/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Fertility depends on correct regulation of meiosis, the special form of cell division that gives rise to haploid gametes. In female mammals, germ cells enter meiosis during fetal ovarian development, while germ cells in males avoid entering meiosis until puberty. Decades of research have shown that meiotic entry, and germ cell sex determination, are not initiated intrinsically within the germ cells. Instead, meiosis is induced by signals produced by the surrounding somatic cells. More recently, retinoic acid (RA), the active derivative of vitamin A, has been implicated in meiotic induction during fetal XX and postnatal XY germ cell development. Evidence for an intricate system of RA synthesis and degradation in the fetal ovary and testis has emerged, explaining past observations of infertility in vitamin A-deficient rodents. Here we review how meiosis is triggered in fetal ovarian germ cells, paying special attention to the role of RA in this process.

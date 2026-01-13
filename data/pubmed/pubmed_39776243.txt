@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Oral hygiene
+TITLE: Oral Health Care: A Systematic Review of Clinical Practice Guidelines.
+PMID: 39776243
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39776243/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Maintaining good oral hygiene is essential for preventing and managing oral health problems. This systematic review aimed to identify and assess clinical practice guidelines on oral hygiene, focusing on quality and key areas. A comprehensive search was conducted in PubMed, CINAHL, Scopus, Cochrane, and organizational websites. Guidelines from health organizations that focused on oral health, hygiene education, and disease prevention were included. Guidelines based on expert opinions and those focusing on specific pathologies were excluded. The AGREE II tool was used to evaluate quality, and a narrative synthesis summarized recommendations across pediatric, adult, and senior age groups. Nine studies were reviewed. Results showed that electric toothbrushes do not significantly outperform manual ones in preventing cavities, though they may reduce plaque. Fluoride toothpaste is less effective if followed by rinsing with water. For adults, mouthwashes with chlorhexidine or sodium fluoride are recommended. Checkups every six months are advised for healthy children and adults. Proper denture care is also emphasized. Regular updates to oral care guidelines are necessary, as oral health affects essential functions and social well-being.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: MRI scan
+TITLE: MRI scanning and orthodontics.
+PMID: 17142330
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17142330/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Magnetic Resonance Imaging (MRI) plays an important role in diagnosis for many head and neck lesions. Both clinical and experimental studies have shown that orthodontic appliances may produce image distortion on MRI scans of the head and neck. A case is presented in which the patient complained of unexplained right-sided facial paraesthesia, whilst undergoing fixed appliance orthodontic treatment. This was a serious symptom, which warranted investigation including a MRI scan. The compatibility of fixed appliances with MRI is discussed.

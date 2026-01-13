@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HPV infection
+TITLE: HPV oral and oropharynx infection dynamics in young population.
+PMID: 34482527
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34482527/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The incidence of human papillomavirus (HPV)-associated cancers, especially those from the head and neck region, has increased. The relatively early age of presentation of HPV-positive head and neck cancer (HNC) indicates that viral infection might be acquired early in life. Persistent HPV infection has been recognized as the main risk factor for cancer development, but most studies have focused on evaluating HPV persistence in the genital region. Thus, in this work, we aimed to evaluate the prevalence of HPV in oral cavity and oropharynx in a young population, as well as the possible persistence of the infection after 12 months. Our results indicate that almost half (46.8%) of the analyzed population harbors an HPV infection either in the oral cavity or in the oropharynx. Furthermore, after 1 year of initial identification, half of them eliminated the infection, and only one person (5.26%) exhibited persistence. Interestingly, 50% of the individuals who successfully eliminated the infection acquired a new viral type, indicating that even when the primary infection is effectively eliminated by the immune system, there is a dynamic circulation of HR-HPV types that produce reinfection. This dynamic HPV infection among young individuals could influence the future establishment of cancer in some proportion of the cases.

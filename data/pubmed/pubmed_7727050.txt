@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antacids
+TITLE: Drug interactions with antacids. Mechanisms and clinical significance.
+PMID: 7727050
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7727050/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Concomitant use of antacid preparations with other medications is common. The potential for antacid-drug interactions is dependent upon the chemistry and physical properties of the antacid preparation. The intragastric release of free aluminum and magnesium ions has potent effects on gastrointestinal function and on drug pharmacokinetics. Antacid-drug interactions may occur secondary to changes in gastrointestinal motility or alterations in gastric and urinary pH. Direct adsorption also results in decreased drug bioavailability. Human drug interaction studies are usually performed with healthy volunteers; extrapolation of these results to clinical situations may not always be valid. However, the current literature would suggest that significant interactions with antacids do occur with certain members of the quinolone, nonsteroidal anti-inflammatory drug (NSAID) and cephalosporin classes of drugs. Notable interactions also occur with tetracycline, quinidine, ketoconazole and oral glucocorticoids. These interactions are particularly relevant in the patient with sepsis, cardiac disease or inflammatory syndromes.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Radiation therapy
+TITLE: Radiation therapy for uveal melanoma: a review of treatment methods available in 2021.
+PMID: 33770014
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33770014/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Radiation therapy has become the standard of care for the treatment of uveal melanoma. We intend to outline the current radiation therapy methods that are employed to treat uveal melanoma. We will outline their relative benefits over one another. We will also provide some background about radiation therapy in general to accustom the ophthalmologists likely reading this review. Four main options exist for radiation therapy of uveal melanoma. Because the eye is a small space, and because melanomas are relatively radioresistant, oncologists treating uveal melanoma must deliver highly focused doses in high amounts to a small space. Therapies incorporating external beams include proton beam therapy and stereotactic radiosurgery. Stereotactic radiosurgery comes in two forms, gamma knife therapy and cyberknife therapy. Radiation may also be placed directly on the eye surgically via plaque brachytherapy. All methods have been used effectively to treat uveal melanoma. Each particular radiotherapy technique employed to treat uveal melanoma has its own set of benefits and drawbacks. The ocular oncologist can choose amongst these therapies based upon his or her clinical judgment of the relative risks and benefits. Availability of the therapy and cost to the patient remain significant factors in the ocular oncologist's choice.

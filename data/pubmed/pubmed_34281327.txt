@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Integumentary system
+TITLE: The integumentary system and its microbiota between health and disease.
+PMID: 34281327
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34281327/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The aim of the present investigation was to evaluate the essential physiological functions of the skin microbiota in human health and diseases. The main characteristics of the normal microbiota in the different anatomical sites have been reported in relation to the main factors, such as the effect of age, on its composition and stability for the eubiosis condition. Moreover, the present overview analyzed the functions and composition and the correct functionality of the skin microbiota in the light of current knowledge. According to several evidence is important preserving the eubiosis of the commensal microbes of the microecosystem (symbiotic and pathogenic), and probiotics are able to counteract the conditions of dysbiosis. Also, it has been shown that there is a crosstalk between gut and skin microbiota that affects human health and is still being studied, and its relationship to the current pandemic SARS-CoV-2.

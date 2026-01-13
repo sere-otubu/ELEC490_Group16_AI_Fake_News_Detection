@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Creatine
+TITLE: Effects of Creatine Supplementation on Brain Function and Health.
+PMID: 35267907
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35267907/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+While the vast majority of research involving creatine supplementation has focused on skeletal muscle, there is a small body of accumulating research that has focused on creatine and the brain. Preliminary studies indicate that creatine supplementation (and guanidinoacetic acid; GAA) has the ability to increase brain creatine content in humans. Furthermore, creatine has shown some promise for attenuating symptoms of concussion, mild traumatic brain injury and depression but its effect on neurodegenerative diseases appears to be lacking. The purpose of this narrative review is to summarize the current body of research pertaining to creatine supplementation on total creatine and phophorylcreatine (PCr) content, explore GAA as an alternative or adjunct to creatine supplementation on brain creatine uptake, assess the impact of creatine on cognition with a focus on sleep deprivation, discuss the effects of creatine supplementation on a variety of neurological and mental health conditions, and outline recent advances on creatine supplementation as a neuroprotective supplement following traumatic brain injury or concussion.

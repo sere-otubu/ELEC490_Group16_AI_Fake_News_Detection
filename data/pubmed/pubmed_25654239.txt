@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ebola virus
+TITLE: Understanding ebola virus transmission.
+PMID: 25654239
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25654239/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+An unprecedented number of Ebola virus infections among healthcare workers and patients have raised questions about our understanding of Ebola virus transmission. Here, we explore different routes of Ebola virus transmission between people, summarizing the known epidemiological and experimental data. From this data, we expose important gaps in Ebola virus research pertinent to outbreak situations. We further propose experiments and methods of data collection that will enable scientists to fill these voids in our knowledge about the transmission of Ebola virus.

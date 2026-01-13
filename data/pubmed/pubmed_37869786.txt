@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hydration importance
+TITLE: Liposomes and Lipid Droplets Display a Reversal of Charge-Induced Hydration Asymmetry.
+PMID: 37869786
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37869786/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The unique properties of water are critical for life. Water molecules have been reported to hydrate cations and anions asymmetrically in bulk water, being a key element in the balance of biochemical interactions. We show here that this behavior extends to charged lipid nanoscale interfaces. Charge hydration asymmetry was investigated by using nonlinear light scattering methods on lipid nanodroplets and liposomes. Nanodroplets covered with negatively charged lipids induce strong water ordering, while droplets covered with positively charged lipids induce negligible water ordering. Surprisingly, this charge-induced hydration asymmetry is reversed around liposomes. This opposite behavior in charge hydration asymmetry is caused by a delicate balance of electrostatic and hydrogen-bonding interactions. These findings highlight the importance of not only the charge state but also the specific distribution of neutral and charged lipids in cellular membranes.

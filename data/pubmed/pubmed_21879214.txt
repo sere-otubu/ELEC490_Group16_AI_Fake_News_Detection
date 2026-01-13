@@ -1,0 +1,8 @@
+SEARCH_TOPIC: CPR guidelines
+TITLE: Bystander CPR and survival.
+PMID: 21879214
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21879214/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Despite years of medical advances, bystander cardiopulmonary resuscitation (CPR) remains the most important factor in the saving of out-of-hospital cardiac arrest victims. However, the prevalence of bystander CPR remains low. New international recommendations, which aim to increase bystander CPR prevalence, allow for hands-only CPR under certain circumstances. More should be done to increase the awareness and training of CPR in Singapore as well as encourage the public to perform bystander CPR.

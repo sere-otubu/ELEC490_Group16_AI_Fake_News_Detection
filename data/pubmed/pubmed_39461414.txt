@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Traumatic brain injury
+TITLE: Traumatic brain injury in companion animals: Pathophysiology and treatment.
+PMID: 39461414
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39461414/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Traumatic brain injuries (TBI) are common in dogs and cats that have sustained head trauma from a variety of causes. In moderate to severe TBI, damage from both the primary and secondary injuries can be life-threatening. TBI management may be further complicated by concurrent injuries in polytrauma patients. Thorough initial and serial examinations are key in detecting neurologic changes quickly and guiding treatment. Intensive treatments such as nursing care, fluid therapy, hyperosmolar agents, analgesia, sedation, anticonvulsants, oxygen supplementation, surgery, and rehabilitation may be employed in TBI management. Prognostication resources for an individual patient are limited and a perceived poor prognosis may worsen clinical outcomes. In this paper, we review the pathophysiology of TBI, identification, injury stratification and prognosis of patients with TBI as well as propose treatment and monitoring recommendations for companion animals based on severity of TBI.

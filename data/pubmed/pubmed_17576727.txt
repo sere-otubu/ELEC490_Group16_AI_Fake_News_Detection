@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Psychotherapy
+TITLE: Psychotherapy and the cultural concept of the person.
+PMID: 17576727
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17576727/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Psychotherapies are distinguished from other forms of symbolic healing by their emphasis on explicit talk about the self. Every system of psychotherapy thus depends on implicit models of the self, which in turn, are based on cultural concepts of the person. The cultural concept of the person that underwrites most forms of psychotherapy is based on Euro-American values of individualism. This individualistic and egocentric concept of the person can be contrasted with more sociocentric, ecocentric or cosmocentric views, which understand the person in relation to the social world, the environment, and the cosmos. Intercultural psychotherapy must consider the cultural concept of the person implicit in therapeutic discourse and practice to determine how well it fits or conflicts with the concepts, values and way of life of the patient.

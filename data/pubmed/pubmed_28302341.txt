@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Doctor patient communication
+TITLE: Communication behaviors and patient autonomy in hospital care: A qualitative study.
+PMID: 28302341
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28302341/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Little is known about how hospitalized patients share decisions with physicians. We conducted an observational study of patient-doctor communication on an inpatient medicine service among 18 hospitalized patients and 9 physicians. A research assistant (RA) approached newly hospitalized patients and their physicians before morning rounds and obtained consent. The RA audio recorded morning rounds, and then separately interviewed both patient and physician. Coding was done using integrated analysis. Most patients were white (61%) and half were female. Most physicians were male (66%) and of Southeast Asian descent (66%). All physicians explained the plan of care to the patients; most believed that their patient understood. However, many patients did not. Physicians rarely asked the patient for their opinion. In all those cases, the decision had been made previously by the doctors. No decisions were made with the patient. Patients sometimes disagreed. Shared decision-making may not be the norm in hospital care. Although physicians do explain treatment plans, many hospitalized patients do not understand enough to share in decisions. When patients do assert their opinion, it can result in conflict. Some hospitalized patients are interested in discussing treatment. Improving hospital communication can foster patient autonomy.

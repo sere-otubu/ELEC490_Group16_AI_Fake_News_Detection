@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Thyroid gland
+TITLE: The thyroid gland: physiology and pathophysiology.
+PMID: 11949270
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11949270/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The thyroid gland contains many follicular cells that store the thyroid hormones within the thyroglobulin molecule until they are needed by the body. The thyroid hormones, often referred to as the major metabolic hormones, affect virtually every cell in the body. Synthesis and secretion of the thyroid hormones depend on the presence of iodine and tyrosine as well as maturation of the hypothalamic-pituitary-thyroid system. Interruption of this development, as occurs with premature delivery, results in inadequate production of thyroid-stimulating hormone and thyroxine, leading to a variety of physiologic conditions. Pathologic conditions occur in the presence of insufficient thyroid production or a defect in the thyroid gland. Laboratory tests are important in diagnosing conditions of the thyroid gland. A thorough history in combination with clinical manifestations and radiologic findings are also useful in diagnosing specific thyroid conditions. Nurses play an important role in identifying and managing thyroid disorders and in providing supportive care to infants and their families.

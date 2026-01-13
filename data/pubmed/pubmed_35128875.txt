@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Acupuncture
+TITLE: [Research progress on mechanisms of acupuncture in treating ischemic stroke].
+PMID: 35128875
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35128875/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cerebral ischemic stroke (CIS) is a common and frequently occurring disease with high morbidity, disability and mortality. In the present paper, we reviewed the progress of studies on the underlying mechanisms of acupuncture in the treatment of CIS in recent years. It is found that acupuncture induced amelioration of symptoms of CIS is closely related to its functions in 1) inhibiting neuroinflammation, 2) reducing oxidative stress, 3) lowering excitatory amino acid toxicity, 4) resisting neuronal apoptosis, 5) regulating cellular autophagy, 6) promoting neuronal regeneration and repair, 7) facilitating vascular remodeling, 8) regulating cerebrovascular reserve, 9) adjusting brain metabolism, and 10) maintaining the integrity of blood-brain barrier. These mechanisms provide scientific basis for clinical application of acupuncture therapy in the treatment of CIS.

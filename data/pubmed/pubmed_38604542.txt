@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gluten free diet
+TITLE: How Future Pharmacologic Therapies for Celiac Disease Will Complement the Gluten-Free Diet.
+PMID: 38604542
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38604542/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The only proven treatment for celiac disease is adherence to a strict, lifelong, gluten-free diet. However, complete dietary gluten avoidance is challenging and a substantial number of patients do not respond fully, clinically, or histologically, despite their best efforts. As celiac disease is common and its central pathophysiology is well elucidated, it has become attractive for drug development to address the limitations of dietary treatment. Most efforts address nonresponsive celiac disease, defined as continued symptoms and/or signs of disease activity despite a gluten-free diet, and the more severe forms of refractory celiac disease, types I and II. An increasing spectrum of therapeutic approaches target defined mechanisms in celiac disease pathogenesis and some have advanced to current phase 2 and 3 clinical studies. We discuss these approaches in terms of potential efficiency, practicability, safety, and need, as defined by patients, regulatory authorities, health care providers, and payors.

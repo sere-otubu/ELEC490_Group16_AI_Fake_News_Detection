@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Weight gain strategies
+TITLE: Double jeopardy: a review of weight gain and weight management strategies for psychotropic medication prescribing during methadone maintenance treatment.
+PMID: 30398080
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30398080/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Methadone maintenance treatment (MMT) is an important treatment tool for the opioid epidemic. One challenge is that many persons who present for MMT also have co-occurring psychiatric disorders. Individually, both methadone and psychiatric medications carry risk of weight gain. Therefore, concurrent prescribing of methadone and psychiatric medications places dual diagnosis patients at even greater risk. As a parallel obesity epidemic grows, results from clinical trials assessing weight gain and weight management strategies among MMT and psychiatric patients can both inform and guide clinical practice. This study reviews findings from a literature search for recent clinical trials that focused on weight gain and weight management strategies during MMT with concurrent psychotropic medication use. While several studies have documented weight gain during MMT and psychotropic medication treatment, this study failed to identify recent work that explored concurrent prescribing. Most weight management strategies involved the use of additional medications and available data suggests that MMT and concurrent use of psychotropic medications increases the risk for obesity. More robust research is needed on weight gain and potential mitigation strategies when these treatment modalities are jointly utilized. Clarification of underlying biological mechanisms and development of non-pharmacological interventions merit further consideration.

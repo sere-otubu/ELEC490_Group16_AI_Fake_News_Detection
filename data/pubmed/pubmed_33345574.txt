@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Traumatic brain injury
+TITLE: Rapid Detection of Significant Traumatic Brain Injury Requiring Emergency Intervention.
+PMID: 33345574
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33345574/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Moderate and severe traumatic brain injuries (TBI) are a major cause of severe morbidity and mortality; rapid diagnosis and management allow secondary injury to be minimized. Traumatic brain injury is only one of many potential causes of altered mental status; head computed tomography (HCT) is used to definitively diagnose TBI. Despite its widespread use and obvious importance, interpretation of HCT images is rarely covered by formal didactics during general surgery or even acute care surgery training. The schema illustrated here may be applied in a rapid and reliable fashion to HCT images, expediting the diagnosis of clinically significant traumatic brain injury that warrants emergent medical and surgical therapies to reduce intracranial pressure. It consists of 7 normal anatomic structures (cerebrospinal fluid around the brain stem, open fourth ventricle, "baby's butt," "Mickey Mouse ears," absence of midline shift, sulci and gyri, and gray-white differentiation). These 7 features can be seen even as the CT scanner obtains images, allowing the trauma team to expedite medical management of intracranial hypertension and pursue neurosurgical consultation prior to radiologic interpretation if the features are abnormal.

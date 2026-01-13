@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Muscular system
+TITLE: Paraneoplastic syndromes.
+PMID: 6990627
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6990627/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Neoplasms can produce a variety of remote effects on the host; these are referred to as paraneoplastic syndromes. The syndromes may affect any of the systems of the body, may precede or follow the diagnosis of the underlying neoplasm, and may or may not parallel the course of the neoplasm in severity. The diagnosis of and therapy for these syndromes can be challenging to a physician, but successful therapy may bring about worthwhile relief for the patient. In addition, the syndromes and the substances that cause them are sometimes useful in diagnosing and in following the course of certain neoplasms. Perhaps of greater importance, study of these remote effects of neoplasia may shed light on the nature of the neoplastic process itself.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Exercise for seniors
+TITLE: Effect of Three Months Pilates Training on Balance and Fall Risk in Older Women.
+PMID: 33915843
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33915843/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This study assessed the effect of Pilates exercises on balance and fall risk in older women. Participants comprised 50 older women aged over 60 years, divided randomly into two groups: the experimental group (<i>n</i> = 30), which took part in Pilates sessions two times per week for three months, and the control group (<i>n</i> = 20). The control group did not participate in such sessions but also did not participate in any other rehabilitation programs or additional physical activity except everyday activities. Before and after the training cycle, all women underwent an assessment using Timed Up and Go (TUG), the One Leg Stance Test (OLST), a test performed on a Freestep baropodometric platform, and the tests performed on a Biosway platform. After the training, significantly decreased values of the surface of the ellipse (<i>p</i> = 0.0037) and mean values of velocity (<i>p</i> = 0.0262) for the right foot in the experimental group were observed. The Limits of Stability (LoS) test (<i>p</i> = 0.005) and the Modified Clinical Test of Sensory Interaction on Balance (m-CTSIB) performed on an unstable surface with eyes closed (<i>p</i> = 0.0409) indicated statistically significant changes in the experimental group. None of the above changes were statistically significant in relation to the control group. Pilates training affected the participants' balance by improving LOS and reducing fall risk.

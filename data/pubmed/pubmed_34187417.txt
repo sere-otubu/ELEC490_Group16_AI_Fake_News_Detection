@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Seasonal affective disorder
+TITLE: Seasonal sensitivity and psychiatric morbidity: study about seasonal affective disorder.
+PMID: 34187417
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34187417/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Seasonal Affective Disorder is a recurrent depressive disorder which usually begins in the fall/winter and enters into remission in the spring/summer, although in some cases may occur in the summer with remission in the autumn-winter. In this study the authors evaluated the association between seasonal changes in mood and behavior with psychiatric disturbance. Descriptive, cross-sectional study. Participants, students attending higher education and vocational courses (N = 324), were evaluated with the Seasonal Pattern Assessment Questionnaire (SPAQ) and the Screening Scale for Mental Health (ER80). Among the respondents, 12.7% showed seasonal affective disorder (SAD), 29.0% showed subsyndromal seasonal affective disorder (s-SAD) and 58.3% did not show significant seasonal affective symptomatology. As for psychiatric morbidity, 36.6% of subjects with SAD and 13.8% of those with s-SAD were considered "psychiatric cases" whereas for subjects without SAD this value was only 3.2%. There is a statistically significant association between psychiatric morbidity and seasonal affective disorder. This association corroborates the importance of the Seasonal Pattern Assessment Questionnaire in screening for seasonal fluctuations in mood and behavior related disorders, and the clinical need for recognition of these conditions, particularly associated suffering and disabilities.

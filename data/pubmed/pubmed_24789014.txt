@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Surgery preparation
+TITLE: Ethics in global surgery.
+PMID: 24789014
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24789014/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Global surgery, while historically a small niche, is becoming a larger part of the global health enterprise. This article discusses the burden of global surgery, emphasizing the importance of addressing surgical needs in low- and middle-income countries. It describes the barriers to surgical care in the developing world, the ethical challenges that these barriers create, and strategies to overcome these barriers. It emphasizes the crucial role of preparation for global surgical interventions as a way to maximize benefits as well as minimize harms and ethical challenges. It ends with the cautionary statement that preparation does not eliminate ethical problems, so surgical volunteers must be prepared not only for the technical challenges of global surgery but also for the ethical challenges.

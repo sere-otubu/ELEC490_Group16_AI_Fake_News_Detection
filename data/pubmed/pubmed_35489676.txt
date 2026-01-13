@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antifungals
+TITLE: Repurposing and optimization of drugs for discovery of novel antifungals.
+PMID: 35489676
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35489676/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although fungal diseases are a major and growing public health concern, there are only four major classes of drug to treat primary fungal pathogens. The pipeline of new antifungals in clinical development is relatively thin compared with other disease classes. One approach to rapidly identify and provide novel treatment options is to repurpose existing drugs as antifungals. However, such proposed drug-repurposing candidates often suffer suboptimal efficacy and pharmacokinetics (PK) for fungal diseases. Herein, we briefly review the current antifungal drug pipeline and recent approaches to optimize existing drugs into novel molecules with unique modes of action relative to existing antifungal drug classes.

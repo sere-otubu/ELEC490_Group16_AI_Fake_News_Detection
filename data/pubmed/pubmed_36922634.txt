@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Down syndrome
+TITLE: Down syndrome screening and diagnosis practices in Europe, United States, Australia, and New Zealand from 1990-2021.
+PMID: 36922634
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36922634/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Antenatal screening and diagnostic testing for Down syndrome has greatly advanced over the past 30 years. The goal of this manuscript is to provide a review of the availability and accessibility of prenatal services and selective termination policies across Europe, Australia, New Zealand, and the United States for the period 1990-2021. We collected data from academic peer-reviewed journals, governmental documents, not-for-profit organizations, correspondence with experts, and other online sources without language restrictions. Prenatal screening services from 1990-2021 became increasingly available across countries, enabling expectant couples the opportunity to gain more accurate information earlier in the pregnancy before assuming the risk associated with more invasive techniques like CVS or amniocentesis. Many countries also began adopting prenatal screening as a qualification for prenatal diagnosis. As of 2021, at least 76.9% of countries offered full coverage for diagnostic testing for Down syndrome from government funding. Abortion coverage for a Down syndrome diagnosis was covered fully by government funding in 52.4% of countries in 1990, increasing to 73.8% in 2021. Understanding the changing landscape of prenatal services builds the foundation for future investigation into social policies that affect the prevalence of Down syndrome.

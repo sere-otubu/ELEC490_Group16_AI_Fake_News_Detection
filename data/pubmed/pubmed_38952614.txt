@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Peer review process
+TITLE: The Peer Review Process: Past, Present, and Future.
+PMID: 38952614
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38952614/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The peer review process is a fundamental aspect of modern scientific paper publishing, underpinning essential quality control. First conceptualised in the 1700s, it is an iterative process that aims to elevate scientific literature to the highest standards whilst preventing publication of scientifically unsound, potentially misleading, and even plagiarised information. It is widely accepted that the peer review of scientific papers is an irreplaceable and fundamental aspect of the research process. However, the rapid growth of research and technology has led to a huge increase in the number of publications. This has led to increased pressure on the peer review system. There are several established peer review methodologies, ranging from single and double blind to open and transparent review, but their implementation across journals and research fields varies greatly. Some journals are testing entirely novel approaches (such as collaborative reviews), whilst others are piloting changes to established methods. Given the unprecedented growth in publication numbers, and the ensuing burden on journals, editors, and reviewers, it is imperative to improve the quality and efficiency of the peer review process. Herein we evaluate the peer review process, from its historical origins to current practice and future directions.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pneumonia
+TITLE: Atypical pneumonia: Pathophysiology, diagnosis, and treatment.
+PMID: 34750083
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34750083/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Atypical pneumonia is caused by atypical pathogens that are not detectable with Gram stain and cannot be cultured using standard methods. The most common causative organisms of atypical pneumonia are Mycoplasma pneumoniae, Chlamydia pneumoniae, and Legionella species. The therapeutic approach for atypical pneumonias is different than that for typical pneumonia. Typical bacterial pathogens classically respond to β-lactam antimicrobial therapy because they have a cell wall amenable to β-lactam disruption. On the contrary, most atypical pathogens do not have a bacterial cell wall, some are intracellular (e.g., Legionella), and some are paracellular (e.g., M. pneumoniae). To prevent an increase in the number of antimicrobial-resistant strains, the Japanese pneumonia guidelines have proposed a differential diagnosis for typical bacterial pneumonia and atypical pneumonia to select an appropriate antibiotic for the management of mild-to-moderate pneumonia. The guidelines have set up six parameters and criteria based on the clinical symptoms, physical signs, and laboratory data. However, in the elderly individuals and patients with underlying diseases, the differential diagnosis may be difficult or a mixed infection may be latent. Therefore, in these individuals, the administration of a β-lactam drug plus a macrolide or tetracycline, or only fluoroquinolone should be considered from the beginning to cover bacterial and atypical pneumonia.

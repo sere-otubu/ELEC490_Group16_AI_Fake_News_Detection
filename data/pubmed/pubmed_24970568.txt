@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Trans fats risks
+TITLE: Dietary fat composition and dementia risk.
+PMID: 24970568
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24970568/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This is a qualitative review of the evidence linking dietary fat composition to the risk of developing dementia. The review considers laboratory and animal studies that identify underlying mechanisms as well as prospective epidemiologic studies linking biochemical or dietary fatty acids to cognitive decline or incident dementia. Several lines of evidence provide support for the hypothesis that high saturated or trans fatty acids increase the risk of dementia and high polyunsaturated or monounsaturated fatty acids decrease risk. Dietary fat composition is an important factor in blood-brain barrier function and the blood cholesterol profile. Cholesterol and blood-brain barrier function are involved in the neuropathology of Alzheimer's disease, and the primary genetic risk factor for Alzheimer's disease, apolipoprotein E-ε4, is involved in cholesterol transport. The epidemiologic literature is seemingly inconsistent on this topic, but many studies are difficult to interpret because of analytical techniques that ignored negative confounding by other fatty acids, which likely resulted in null findings. The studies that appropriately adjust for confounding by other fats support the dietary fat composition hypothesis.

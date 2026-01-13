@@ -1,0 +1,8 @@
+SEARCH_TOPIC: E. coli infection
+TITLE: The role of E. coli infection in the pathogenesis of primary biliary cirrhosis.
+PMID: 21297249
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21297249/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Among various infectious agents possibly involved in the pathogenesis of primary biliary cirrhosis (PBC), Escherichia Coli (E. coli) has received special attention because of epidemiological and experimental evidence linking this bacterium with the disease's development. This review discusses early and more recent epidemiological studies associating recurrent urinary tract infections with E. coli and the development of PBC. We also critically review data provided over the years demonstrating disease-specific humoral and cellular immune responses against E. coli antigens in patients with PBC. Finally, we assess the relevance of experimental findings reporting cross-reactive immunity between mimicking sequences of E. coli and the major PBC mitochondrial antigens in the pathogenesis of the PBC. We also address the extent to which molecular mimicry and immunological cross-reactivity can be considered as a critical pathogenic process linking infection with self destruction.

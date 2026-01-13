@@ -1,0 +1,8 @@
+SEARCH_TOPIC: DNA structure
+TITLE: DNA Structure-Stabilized Liquid-Liquid Self-Assembled Ordered Au Nanoparticle Interface for Sensitive Detection of MiRNA 155.
+PMID: 34324804
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34324804/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Au nanoparticles (Au NPs) can be self-assembled in a bottom-up orderly manner at the oil-water interface, which is widely used as SERS platforms, but the stability of the Au NP interface needs to be improved due to shaking or shifting and the Brownian motion. The DNA structure with unique sequence specificity, excellent programmability, and flexible end-group modification capability owns good potential to precisely control the plasmonic structure's distance. In this study, a large area of the SERS substrate is obtained from the DNA structure-stabilized self-assembled ordered Au NPs on the cyclohexane-water interface. Combining with the exonuclease III (exo III)-assisted DNA recycling amplification strategy, we construct a liquid-phase SERS biosensor for efficient detection of microRNA 155 (miRNA 155). Compared with the traditional randomly assembled Au NPs on the two-phase interface, the SERS signal is significantly enhanced and more stable. The detection limit of the SERS biosensor for miRNA 155 reached 1.45 fmol/L, which has a very wide linear range (100 fmol/L-5 nmol/L). This work gives an efficient approach to stabilize the self-assembly Au NPs on the liquid-liquid interface, which can broaden the application of SERS analysis.

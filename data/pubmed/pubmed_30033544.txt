@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Basal cell carcinoma
+TITLE: Characterization of stem-like cancer cells in basal cell carcinoma and its surgical margins.
+PMID: 30033544
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30033544/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Understanding the pathogenesis of basal cell carcinoma (BCC) and identifying the cells responsible for propagation and recurrence are crucial for the development of new treatment strategies. The aim of this study was to characterize the cells isolated from BCC and its margin. Primary cultures were established from 10 BCCs, their respective close resection margins (3 mm) and 10 control tissues. Stem cell markers analysis was carried out by real-time PCR and/or flow cytometry. Spheroid formation and MTT assays were also performed. Real-time PCR showed a higher expression of embryonic (Oct4, Sox2 and Nanog) and mesenchymal (CD44 and CD73) stem cell markers in tumors compared to margins and controls (P < 0.05). Bmi-1 and GPR49 were also upregulated in tumors in comparison with margins. Both tumor and margin cells, but not normal, had the capacity to form spheroids. During passages, the number of spheres increased, while the diameter decreased. Tumor cells showed higher chemo-resistance compared to margin and control cells. Basal cell carcinomas expressed stem cell markers, pointing to the existence of a cancer cell side population with stemness characteristics. Margin also appeared to harbour a small number of cancer-initiating cells.

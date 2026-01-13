@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gonorrhea
+TITLE: <i>Neisseria gonorrhoeae</i> infective endocarditis.
+PMID: 35537765
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35537765/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+We present a case of endocarditis secondary to disseminated <i>Neisseria gonorrhoeae</i> infection affecting the native tricuspid valve. After a thorough workup, our patient was treated conservatively with appropriate intravenous antibiotic therapy for 6 weeks. A follow-up echocardiogram showed resolution of the vegetation without any residual valvular involvement. Literature review reveals 99 cases of infective endocarditis which occurred secondary to <i>N. gonorrhoeae</i> infection, of which, only 4 cases (6%) affected the tricuspid valve. Through this case report, we highlight the importance of thorough history taking including a sexual and social history, as well as careful recognition of the clinical signs, which helped us reach this uncommon diagnosis while always maintaining a high clinical suspicion of rare causes of endocarditis.

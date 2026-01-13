@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antipsychotics
+TITLE: Antipsychotics and the microbiota.
+PMID: 32068569
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32068569/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The gut microbiota has been speculated to underpin metabolic changes associated with chronic antipsychotic use. The change in the gut microbiota can also cause abnormal absorbtion from the gut into the blood stream (leaky gut syndrome) that can lead to inflammatory reactions, and thus, secondary damage to the brain and central nervous system. Our article aims to highlight relevant research on antipsychotic's effect on the microbiota and to point out future directions. Antipsychtoic use can result in specific microbiota changes, and it is important to differentiate this from the innate microbiota of the patient. It is important to treat these microbiota changes, as they are correlated with obesity, which is a negative contributor to the cardiovascular health of those suffering with schizophrenia. Ways to prevent antipsychotic-induced side-effects include antibiotic treatment, histamine 3 receptor blockade and metformin use. Given the dearth of current literature, more research is needed, however, to determine, which comes first in people with schizophrenia--an abnormal gut microbiota that elevates one's risk for schizophrenia or psychopharmacologic treatment of schizophrenia leading to secondary microbiota abnormalities or the negative symptoms of schizophrenia leading to obesity and its associated microbiota changes.

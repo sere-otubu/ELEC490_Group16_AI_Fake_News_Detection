@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Salmonella
+TITLE: A Salmonella subset exploits erythrophagocytosis to subvert SLC11A1-imposed iron deprivation.
+PMID: 40373749
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40373749/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Solute carrier family 11 member 1 (SLC11A1) is critical for host resistance to diverse intracellular pathogens. During infection, SLC11A1 limits Salmonella's access to iron, zinc, and magnesium, but only magnesium deprivation significantly impairs Salmonella replication. To understand the unexpected minor impact of iron, we determined Salmonella's iron access in infected SLC11A1-deficient and normal mice. Using reporter strains and mass spectrometry of Salmonella purified from the spleen, we found that SLC11A1 caused growth-restricting iron deprivation in a subset of Salmonella. Volume electron microscopy revealed that another Salmonella subset circumvented iron restriction by targeting iron-rich endosomes in macrophages degrading red blood cells (erythrophagocytosis). These iron-replete bacteria dominated overall Salmonella growth, masking the effects of the other Salmonella subset's iron deprivation. Thus, SLC11A1 effectively sequesters iron, but heterogeneous Salmonella populations partially bypass this nutritional immunity by targeting iron-rich tissue microenvironments.

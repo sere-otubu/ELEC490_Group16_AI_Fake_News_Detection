@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood tests interpretation
+TITLE: How to interpret and pursue an abnormal complete blood cell count in adults.
+PMID: 16007898
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16007898/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A complete blood cell count (CBC) is one of the most common laboratory tests in medicine. For example, at our institution alone, approximately 1800 CBCs are ordered every day, and 10% to 20% of results are reported as abnormal. Therefore, it is in every clinician's interest to have some understanding of the specific test basics as well as a structured action plan when confronted with abnormal CBC results. In this article, we provide practical diagnostic algorithms that address frequently encountered conditions associated with CBC abnormalities including anemia, thrombocytopenia, leukopenia, polycythemia, thrombocytosis, and leukocytosis. The objective is to help the nonhematologist recognize when a subspecialty consultation is reasonable and when it may be circumvented, thus allowing a cost-effective and intellectually rewarding practice.

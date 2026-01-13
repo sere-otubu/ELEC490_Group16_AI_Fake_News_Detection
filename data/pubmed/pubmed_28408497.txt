@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antivirals
+TITLE: Iminosugar antivirals: the therapeutic sweet spot.
+PMID: 28408497
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28408497/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Many viruses require the host endoplasmic reticulum protein-folding machinery in order to correctly fold one or more of their glycoproteins. Iminosugars with glucose stereochemistry target the glucosidases which are key for entry into the glycoprotein folding cycle. Viral glycoproteins are thus prevented from interacting with the protein-folding machinery leading to misfolding and an antiviral effect against a wide range of different viral families. As iminosugars target host enzymes, they should be refractory to mutations in the virus. Iminosugars therefore have great potential for development as broad-spectrum antiviral therapeutics. We outline the mechanism giving rise to the antiviral activity of iminosugars, the current progress in the development of iminosugar antivirals and future prospects for this field.

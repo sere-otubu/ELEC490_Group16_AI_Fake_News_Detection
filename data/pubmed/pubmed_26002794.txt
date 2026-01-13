@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urinalysis
+TITLE: Urinalysis.
+PMID: 26002794
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26002794/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Performing a urinalysis should be part of a minimum database in addition to physical examination, historical information gathering, complete blood cell counts, and serum/plasma biochemical analysis. Urinalysis provides information on function of various organs and information on renal function. It is necessary to interpret blood urea nitrogen and serum/plasma creatinine concentrations and is useful in assessing urine concentrating and diluting ability, glomerular barrier function, tubular function, proteinuria, discolored urine, urolithiasis, and neoplasia. Performing a urinalysis is technically easy and does not require expensive equipment or disposable supplies.

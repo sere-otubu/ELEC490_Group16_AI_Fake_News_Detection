@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Crohns disease
+TITLE: Perianal Crohn's disease: is there something new?
+PMID: 21528071
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21528071/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Perianal lesions are common in patients with Crohn's disease, and display aggressive behavior in some cases. An accurate diagnosis is necessary for the optimal management of perianal lesions. Treatment of perianal Crohn's disease includes medical and/or surgical options. Recent discoveries in the pathogenesis of this disease have led to advances in medical and surgical therapy with good results. Perianal lesions in Crohn's disease remain a challenging aspect for both gastroenterologists and surgeons and lead to a greatly impaired quality of life for all patients affected by this disease. A multidisciplinary approach is mandatory to obtain the best results.

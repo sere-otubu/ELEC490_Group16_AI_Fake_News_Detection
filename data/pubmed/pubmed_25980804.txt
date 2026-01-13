@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vasectomy
+TITLE: The evolution of vasectomy reversal.
+PMID: 25980804
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25980804/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In the USA, about 500,000 vasectomies are performed each year, with up to 6% of men requesting reversal. The technique of vasectomy reversal has evolved from macrosurgical to the implementation of both microscopic and robotic technologies. The very earliest attempts at vasectomy reversal, the vasoepididymostomy and vasovasostomy, have remained central in the treatment of male infertility and will continue to be so for years to come. As seen throughout its history, urological microsurgery has consistently implemented advanced techniques and state-of-the art technology in its craft, and its continued refinement will allow for even more favorable outcomes in the lives of patients seeking restoration of fertility following vasectomy. Here, we review the evolution of vasectomy reversal and its current techniques.

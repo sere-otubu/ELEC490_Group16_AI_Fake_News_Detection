@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Food safety guidelines
+TITLE: European Regulatory Framework and Safety Assessment of Food-Related Bioactive Compounds.
+PMID: 32110982
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32110982/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A great variety of functional foods, nutraceuticals, or foods with bioactive compounds are provided nowadays to consumers. Aware of the importance of the safety aspects, the food industry has to comply with different legal requirements around the world. In this review, the European regulatory framework for food-related bioactive compounds is summarized. The term 'bioactive compound' is not defined in the European regulations, however, since they can be part of food supplements, fortified foods, or novel food, they are included within the legal requirements of those corresponding types of foods or supplements. Lists of authorized compounds/foods appear in the correspondent regulations, however, when a new compound/food is going to be launched into the market, its safety assessment is essential. Although the responsibility for the safety of these compounds/foods lies with the food business operator placing the product on the market, the European Food Safety Authority (EFSA) carries out scientific evaluations to assess the risks for human health. To facilitate this procedure, different guidelines exist at the European level to explain the tier toxicity testing approach to be considered. This approach divides the evaluation into four areas: (a) toxicokinetics; (b) genotoxicity; (c) subchronic and chronic toxicity and carcinogenicity; and (d) reproductive and developmental toxicity.

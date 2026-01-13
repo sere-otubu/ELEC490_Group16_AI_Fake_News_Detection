@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Melanoma
+TITLE: Ocular melanoma.
+PMID: 1395150
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1395150/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ocular melanomas are the most common intraocular malignancy in adults. The majority of ocular melanomas are choroidal melanomas. These tumors can be difficult to diagnose, especially when they are small. Documented growth of a lesion on serial examinations is the most important clinical feature favoring the diagnosis of a choroidal melanoma. Diagnostic studies including ultrasonography and angiography may be helpful in the diagnosis of these tumors. A number of treatment options are available for choroidal melanomas. These include photocoagulation, radiation therapy, local tumor resection, and enucleation.

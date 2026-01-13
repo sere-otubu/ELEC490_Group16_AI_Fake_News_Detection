@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sciatica
+TITLE: Piriformis syndrome: a cause of nondiscogenic sciatica.
+PMID: 25574881
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25574881/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Piriformis syndrome is a nondiscogenic cause of sciatica from compression of the sciatic nerve through or around the piriformis muscle. Patients typically have sciatica, buttocks pain, and worse pain with sitting. They usually have normal neurological examination results and negative straight leg raising test results. Flexion, adduction, and internal rotation of the hip, Freiberg sign, Pace sign, and direct palpation of the piriformis cause pain and may reproduce symptoms. Imaging and neurodiagnostic studies are typically normal and are used to rule out other etiologies for sciatica. Conservative treatment, including medication and physiotherapy, is usually helpful for the majority of patients. For recalcitrant cases, corticosteroid and botulinum toxin injections may be attempted. Ultrasound and other imaging modalities likely improve accuracy of injections. Piriformis tenotomy and decompression of the sciatic nerve can be done for those who do not respond.

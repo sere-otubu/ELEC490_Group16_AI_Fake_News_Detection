@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sleep hygiene
+TITLE: A Sleep Hygiene Intervention to Improve Sleep Quality for Hospitalized Patients.
+PMID: 33744173
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33744173/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Poor sleep is a pervasive problem for hospitalized patients and can contribute to adverse health outcomes. We aimed to improve self-reported sleep for patients on a general medicine ward as measured by the Richards-Campbell Sleep Questionnaire (RCSQ) as well as the Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) question addressing quietness at night. We utilized a non-pharmacologic sleep hygiene bundle composed of a short script with sleep hygiene prompts, such as whether patients would like the shades closed or the lights turned off, as well as a sleep package including an eye mask, earplugs, lavender scent pad, and non-caffeinated tea. Relaxing music was played at bedtime and signs promoting the importance of quietness at night were placed around the unit. Front-line champions were identified to aid with implementation. A total of 931 patients received the intervention. In a sample of surveyed patients, we observed an increase in the RCSQ global score from 6.0 (IQR 3.0-7.0) to 6.2 (IQR 4.0-7.8) from the pre- to post- intervention periods (p = 0.041), as well as increases in three of the five individual survey components. Additionally, HCAHPS "quietness at night" score increased on the unit from 34.1% pre-intervention to 42.5% post-intervention. A nonpharmacologic sleep hygiene protocol paired with provider education and use of champions was associated with modest improvements in patients' perceived sleep and unit HCAHPS scores.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Patient data privacy HIPAA
+TITLE: Zip it!
+PMID: 22777862
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22777862/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+When it comes to enforcing HIPAA data security and privacy standards, the federal government means business. In fact, the government is conducting a national pilot program to audit 150 physicians and others that HIPAA covers as the first phase of a concerted effort to crack down on HIPAA violations.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Male infertility
+TITLE: Male Infertility and Somatic Health.
+PMID: 32272993
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32272993/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Somatic health is associated with male infertility; potential links between infertility and health may arise from genetic, developmental, and lifestyle factors. Studies have explored possible connections between male infertility and oncologic, cardiovascular, metabolic, chronic, and autoimmune diseases. Male infertility also may be a predictor of hospitalization and mortality. Additional research is required to elucidate the mechanisms by which male infertility affects overall health.

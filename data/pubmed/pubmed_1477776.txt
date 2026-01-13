@@ -1,0 +1,8 @@
+SEARCH_TOPIC: General anesthesia
+TITLE: [Physiopathology of combined peridural and general anesthesia].
+PMID: 1477776
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1477776/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+General anaesthesia alters self-regulation of arterial pressure by lowering the sympathetic tone to his baseline level. More important is the sympathetic stimulation before general anaesthesia, more important will be the decrease in arterial pressure after induction. Epidural anaesthesia always leads to a sympathetic blockade. The extent and the speed of appearance of this blockade condition the magnitude of the decrease of arterial pressure. So, general anaesthesia and epidural anaesthesia both modifying deeply the autonomic nervous system, their association can only be performed on hemodynamically stable patients for a non hemorrhagic surgery. Correcting a deep arterial hypotension demands first of all the use of vasoconstricting agents the choice of which depends on the site of the epidural anaesthesia and on the cardiovascular condition of the patient. However, although the combined use of the two techniques is attractive, it does not seem to improve cardiovascular nor respiratory morbidities in high risk patients compared with classical general anaesthesia. Nevertheless, the high value of epidural analgesia may improve the postoperative course.

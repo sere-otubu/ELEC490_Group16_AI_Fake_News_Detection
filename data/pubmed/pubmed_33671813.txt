@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Probiotics and gut health
+TITLE: Role of Gut Microbiota, Probiotics and Prebiotics in the Cardiovascular Diseases.
+PMID: 33671813
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33671813/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In recent years, there has been a growing interest in identifying and applying new, naturally occurring molecules that promote health. Probiotics are defined as "live microorganisms which, when administered in adequate amounts, confer health benefits on the host". Quite a few fermented products serve as the source of probiotic strains, with many factors influencing the effectiveness of probiotics, including interactions of probiotic bacteria with the host's microbiome. Prebiotics contain no microorganisms, only substances which stimulate their growth. Prebiotics can be obtained from various sources, including breast milk, soybeans, and raw oats, however, the most popular prebiotics are the oligosaccharides contained in plants. Recent research increasingly claims that probiotics and prebiotics alleviate many disorders related to the immune system, cancer metastasis, type 2 diabetes, and obesity. However, little is known about the role of these supplements as important dietary components in preventing or treating cardiovascular disease. Still, some reports and clinical studies were conducted, offering new ways of treatment. Therefore, the aim of this review is to discuss the roles of gut microbiota, probiotics, and prebiotics interventions in the prevention and treatment of cardiovascular disease.

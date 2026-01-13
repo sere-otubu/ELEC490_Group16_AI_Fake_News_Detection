@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Body temperature regulation
+TITLE: TEMPERATURE REGULATION AND METABOLISM IN MEXICAN FREETAIL BATS.
+PMID: 14075688
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/14075688/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Body temperatures of Tadarida mexicana in their natural cave environment were usually maintained at high levels, even when ambient temperatures were low. Oxygen consumption rates were correspondingly higher in low environmental temperatures. However, in laboratory tests, body temperatures and metabolic rates are fairly dependent on ambient temperature.

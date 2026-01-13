@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Carpal tunnel syndrome
+TITLE: Carpal Tunnel Syndrome in Athletes Who Compete in Wheelchair Sport: A Scoping Review.
+PMID: 36729651
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36729651/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The purpose of this review was to understand the research on carpal tunnel syndrome in athletes who compete in wheelchair sport. Eight articles were identified using the search strategy. The most common sport evaluated was wheelchair basketball ( N = 4). Most athletes were male and were diagnosed with a spinal cord injury. Different clinical and electrodiagnostic criteria have been used to diagnose carpal tunnel syndrome. Two studies incorporated ultrasound into the clinical evaluation of median nerve pathology. The duration of disability and wheelchair use were associated with increased risk of carpal tunnel syndrome in four studies. There was no association between training load and the prevalence of carpal tunnel syndrome. No study has explored the functional implications of carpal tunnel syndrome on sports participation and performance. No study has assessed the prevention and treatment of carpal tunnel syndrome in individuals who compete in wheelchair sport. This review provides an understanding of the important diagnostic tools, and demographic and training risk factors to consider when evaluating para-athletes for carpal tunnel syndrome and highlights areas for future research.

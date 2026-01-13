@@ -1,0 +1,8 @@
+SEARCH_TOPIC: OCD
+TITLE: Animal Models for OCD Research.
+PMID: 33763819
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33763819/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+OCD has lagged behind other psychiatric illnesses in the identification of molecular treatment targets, due in part to a lack of significant findings in genome-wide association studies. However, while progress in this area is being made, OCD's symptoms of obsessions, compulsions, and anxiety can be deconstructed into distinct neural functions that can be dissected in animal models. Studies in rodents and non-human primates have highlighted the importance of cortico-basal ganglia-thalamic circuits in OCD pathophysiology, and emerging studies in human post-mortem brain tissue point to glutamatergic synapse abnormalities as a potential cellular substrate for observed dysfunctional behaviors. In addition, accumulated evidence points to a potential role for neuromodulators including serotonin and dopamine in both OCD pathology and treatment. Here, we review current efforts to use animal models for the identification of molecules, cell types, and circuits relevant to OCD pathophysiology. We start by describing features of OCD that can be modeled in animals, including circuit abnormalities and genetic findings. We then review different strategies that have been used to study OCD using animal model systems, including transgenic models, circuit manipulations, and dissection of OCD-relevant neural constructs. Finally, we discuss how these findings may ultimately help to develop new treatment strategies for OCD and other related disorders.

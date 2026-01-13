@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Speech therapy
+TITLE: Effects of speech therapy and pharmacologic and surgical treatments on voice and speech in Parkinson's disease: a review of the literature.
+PMID: 10665513
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10665513/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The purpose of this review was to examine the different treatment approaches for persons with Parkinson's Disease (PD) and to examine the effects of these treatments on speech. Treatment methods reviewed include speech therapy, pharmacological, and surgical. Research from the 1950s through the 1970s had not demonstrated significant improvements following speech therapy. Recent research has shown that speech therapy (when persons with PD are optimally medicated) has proven to be the most efficacious therapeutic method for improving voice and speech function. Pharmacological methods of treatment in isolation do not appear to significantly improve voice and speech function in PD across research studies. Surgical treatment methods including pallidotomy and deep brain stimulation may be significant treatment options which improve voice and speech function in some persons with PD. Possible explanations for the differential responses to treatment are discussed. Future studies should investigate the effects of combined treatment approaches. Perhaps the combination of pharmacological, surgical and speech treatment will prove superior to treatments combining pharmacological and surgical or pharmacological and speech therapy in improving the communication abilities of persons with PD.

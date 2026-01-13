@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tendinitis
+TITLE: Calcific tendinitis of the rotator cuff: management options.
+PMID: 25344596
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25344596/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Calcific tendinitis of the rotator cuff tendons is a common cause of shoulder pain in adults and typically presents as activity-related shoulder pain. It is thought to be an active, cell-mediated process, although the exact pathophysiology remains unclear. Nonsurgical management continues to be the mainstay of treatment; most patients improve with modalities such as oral anti-inflammatory medication, physical therapy, and corticosteroid injections. Several options are available for patients who fail nonsurgical treatment, including extracorporeal shock wave therapy, ultrasound-guided needle lavage, and surgical débridement. These modalities alleviate pain by eliminating the calcific deposit, and several recent studies have demonstrated success with the use of these treatment options. Surgical management options include arthroscopic procedures to remove calcific deposits and subacromial decompression; however, the role of subacromial decompression and repair of rotator cuff defects created by removing these deposits remains controversial.

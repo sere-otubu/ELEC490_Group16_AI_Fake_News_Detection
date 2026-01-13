@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lyme disease
+TITLE: Lyme disease in children.
+PMID: 7726195
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7726195/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lyme disease is the most common vector-borne disease among children in the United States; the incidence of Lyme disease is higher among children than among adults. Extensive publicity in the lay press about the effects of Lyme disease has led to widespread anxiety about this illness that is out of proportion to the actual frequency of severe consequences, especially among children. The problem is exacerbated by the difficulty of documenting the diagnosis (or more often of ruling out the diagnosis in children with vague symptoms), especially when the diagnosis depends on serologic tests that are often inaccurate. This caveat applies particularly to commercial laboratories using prepackaged kits, which often give inaccurate results that should not be relied on by themselves to make a diagnosis. Careful prospective studies have found that nearly 90% of children with Lyme disease have erythema migrans. Although there has been great concern about congenital Lyme disease, no data suggest that it is a significant problem, nor has transmission of Lyme disease through breast milk been documented. Virtually all children will respond well to treatment for any stage of Lyme disease. Misdiagnosis is the most common reason for treatment failure. Long-term follow-up studies indicate that the prognosis for children with Lyme disease is excellent.

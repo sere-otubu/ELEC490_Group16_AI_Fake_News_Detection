@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Bypass surgery
+TITLE: American society for metabolic and bariatric surgery: intra-operative care pathway for minimally invasive Roux-en-Y gastric bypass.
+PMID: 39097472
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39097472/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Clinical care pathways help guide and provide structure to clinicians and providers to improve healthcare delivery and quality. The Quality Improvement and Patient Safety Committee (QIPS) of the American Society for Metabolic and Bariatric Surgery (ASMBS) has previously published care pathways for the performance of laparoscopic sleeve gastrectomy (LSG) and pre-operative care of patients undergoing Roux-en-Y gastric bypass (RYGB). This current RYGB care pathway was created to address intraoperative care, defined as care occurring on the day of surgery from the preoperative holding area, through the operating room, and into the postanesthesia care unit (PACU). PubMed queries were performed from January 2001 to December 2019 and reviewed according to Level of Evidence regarding specific key questions developed by the committee. Evidence-based recommendations are made for care of patients undergoing RYGB including the pre-operative holding area, intra-operative management and performance of RYGB, and concurrent procedures. This document may provide guidance based on recent evidence to bariatric surgeons and providers for the intra-operative care for minimally invasive RYGB.

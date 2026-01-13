@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antacids
+TITLE: [Therapy with antacids].
+PMID: 37146
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37146/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The usefulness of antacids in peptic ulcer disease is based on their ability to neutralize secreted gastric acid and to inhibit pepsin activity. The neutralizing capacity (expressed as mval of neutralized hydrochloric acid at a given pH) of different antacids depends upon their chemical composition. To achieve adequate neutralization of stimulated gastric acid secretion antacids have to be taken one and three hours after a meal in a dosage neutralizing 40-80 mval of acid. So far antacids have not been shown to be more effective in relieving ulcer symptoms than placebo. On the contrary an adequate antacid regimen will promote the healing of both gastric and duodenal ulcers in outpatients. Furthermore antacid prophylaxis will reduce the occurrence of acute gastrointestinal bleeding in critically ill patients.

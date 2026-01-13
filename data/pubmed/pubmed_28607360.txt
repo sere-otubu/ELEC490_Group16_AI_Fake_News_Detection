@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Root canal
+TITLE: Development of a root canal treatment model in the rat.
+PMID: 28607360
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28607360/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Root canal treatment is performed to treat apical periodontitis, and various procedures and techniques are currently used. Although animal models have been used in the developmental research of root canal treatment, little of this research has used small animals such as rats, because of their small size. In this study, root canal treatment was performed on the rat mandibular first molar, which had four root canals, using a microscope, and the therapeutic effect was evaluated bacteriologically, radiologically and histopathologically. By performing root canal treatment, the level of bacteria in the mesial root of the treated teeth was reduced by 75% compared with the control. Additionally, the volume of the periapical lesions of the treated teeth as measured by micro-computed tomography decreased significantly 2 weeks after the root canal treatment when compared with the control. Histological evidence of healing was observed in the treatment group 8 weeks after root canal treatment. These results suggest that a root canal treatment model using rats can be used in developmental research for novel methods of root canal treatment.

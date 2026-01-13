@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Multiple sclerosis
+TITLE: Multiple Sclerosis: Epidemiologic, Clinical, and Therapeutic Aspects.
+PMID: 28391781
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28391781/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Multiple sclerosis (MS) is a chronic autoimmune and degenerative disease of the central nervous system that affects young people. MS develops in genetically susceptible individuals exposed to different unknown triggering factors. Different phenotypes are described. About 15% of patients present with a primary progressive course and 85% with a relapsing-remitting course. An increasing number of disease-modifying treatments has emerged. Although encouraging, the number of drugs challenges the neurologist because each treatment has its own risk-benefit profile. Patients should be involved in the decision-making process to ensure good treatment and safety monitoring adherence.

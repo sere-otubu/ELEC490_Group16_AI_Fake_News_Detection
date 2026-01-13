@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hepatitis A
+TITLE: [Extra hepatic manifestations of hepatitis A].
+PMID: 35906107
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35906107/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Viral hepatitis A is characterized by a wide range of clinical pictures ranging from a completely unapparent infection to a fulminant, potentially fatal hepatitis or the classical icteric form. Hepatitis A can develop in an unusual way and extrahepatic manifestations (neurological, renal, haematological, cholecystitis, acute pancreatitis, vasculitis, etc.) can occasionally complicate the course of the disease. Although hepatitis A infection was identified in the early 1970s, there are few or no studies assessing the actual frequency of these complications. They have been studied mainly through clinical case reports. Currently, since the disease has become more common in adults, these complications are being increasingly observed. We present an update on extrahepatic complications during hepatitis A, which should be known by both specialist doctors (infectiologists internists, hepatologists and others) and general practitioners.

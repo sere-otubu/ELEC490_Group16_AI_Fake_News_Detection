@@ -1,0 +1,8 @@
+SEARCH_TOPIC: IVF procedure
+TITLE: Efficacy of clindamycin and LACTIN-V for in vitro fertilization patients with vaginal dysbiosis: a randomised double-blind, placebo-controlled multicentre trial.
+PMID: 40467561
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40467561/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The primary aim of the present randomised, double-blind, placebo-controlled trial was to investigate whether clindamycin and live Lactobacillus crispatus CTV-05 (LACTIN-V) would improve clinical pregnancy rates in IVF patients with abnormal vaginal microbiota (AVM) defined by high quantitative PCR loads of Fannyhessea vaginae and Gardnerella spp. IVF patients were randomised prior to embryo transfer into three parallel groups 1:1:1. Group one (CLLA) received clindamycin 300 mg ×2 daily for 7 days followed by vaginal LACTIN-V until the day of pregnancy scan. Group two (CLPL) received clindamycin and placebo LACTIN-V, and finally, group three (PLPL) received an identical placebo of both drugs. A total of 1533 patients were screened, and 338 patients were randomised. The clinical pregnancy rates per embryo transfer were 42% (95%CI 32-52%), 46% (95%CI 36-56%) and 45% (95%CI 35-56%) in the CLLA, CLPL, PLPL groups respectively. Thus, treatment of AVM did not improve reproductive outcome. The EudraCT (European Union Drug Regulating Authorities Clinical Trials Database) clinical trial identifier is 2016-002385-31; first registration day 2016-07-11.

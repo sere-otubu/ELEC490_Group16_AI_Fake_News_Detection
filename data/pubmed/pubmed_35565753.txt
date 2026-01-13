@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lactose intolerance
+TITLE: Can Lactose Intolerance Be a Cause of Constipation? A Narrative Review.
+PMID: 35565753
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35565753/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lactose intolerance and constipation are common in children and impact everyday life, not only for patients but also their families. Both conditions can be comorbid with other diseases or form a part of their clinical presentation, but constipation is not usually associated with lactose intolerance. The typical symptoms of lactose intolerance include abdominal pain, bloating, flatus, diarrhoea, borborygmi, and less frequently nausea and vomiting. In approximately 30% of cases, constipation can be a symptom of lactose intolerance. Constipation is characterized by infrequent bowel movements, hard and/or large stools, painful defecation, and faecal incontinence, and is often accompanied by abdominal pain. This paper provides a narrative review on lactose intolerance, its epidemiology, pathogenesis, the correlation between lactose intolerance and constipation in children, and potential mechanisms of such association.

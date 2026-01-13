@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ergonomics
+TITLE: Robotic colorectal surgery and ergonomics.
+PMID: 33886064
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33886064/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Improved ergonomics for the operating surgeon may be an advantage of robotic colorectal surgery. Perceived robotic ergonomic advantages in visualisation include better exposure, three-dimensional vision, surgeon camera control, and line of sight screen location. Postural advantages include seated position and freedom from the constraints of the sterile operating field. Manipulation benefits include articulated instruments with seven degrees of freedom movement, elimination of fulcrum effect, tremor filtration, and scaling of movement. Potential ergonomic detriments of robotic surgery include lack of haptic feedback, visual, and mental strain from increased operating time and interruptions to workflow from crowding.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anorexia nervosa
+TITLE: Anorexia nervosa and bulimia.
+PMID: 3555302
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3555302/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article is an update on the research and treatment of anorexia nervosa and bulimia. In the past five years, endocrine research has focused on neurotransmitters in anorexia nervosa and treatment research has centered on bulimia.

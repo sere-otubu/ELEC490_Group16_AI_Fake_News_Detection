@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Yoga benefits
+TITLE: The benefits of yoga for people living with HIV/AIDS: A systematic review and meta-analysis.
+PMID: 30712721
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30712721/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+People living with HIV/AIDS (PLWHA) often experience psychological stress associated with disease management. This meta-analysis examines the benefits of yoga interventions on psychological distress among PLWHA. Included were studies that (a) evaluated a yoga intervention in PLWHA; (b) provided between-group or within-group changes; and (c) assessed a psychological, physiological, or biomedical outcome. Seven studies sampling 396 PLWHA (M age = 42 years, SD = 5 years; 40% women) met inclusion criteria. PLWHA who received yoga interventions reported significant improvements in perceived stress (d+ = 0.80, 95% Confidence Interval [CI] = 0.53, 1.07), positive affect (d + = 0.73, 95% CI = 0.49, 0.98), and anxiety (d+ = 0.71, 95% CI = 0.27, 1.14) compared to controls. Yoga is a promising intervention for stress management. However, the literature is limited by the small number of studies. Randomized controlled trials with objective measures of HIV-related outcomes are needed to further evaluate the benefits of yoga.

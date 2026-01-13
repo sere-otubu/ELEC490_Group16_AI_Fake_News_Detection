@@ -1,0 +1,8 @@
+SEARCH_TOPIC: mRNA vaccines
+TITLE: Advances in mRNA vaccines.
+PMID: 36064266
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36064266/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+mRNA vaccines have been increasingly recognized as a powerful vaccine platform since the FDA approval of two COVID-19 mRNA vaccines, which demonstrated outstanding prevention efficacy as well as great safety profile. Notably, nucleoside modification and lipid nanoparticle-facilitated delivery has greatly improved the immunogenicity, stability, and translation efficiency of mRNA molecule. Here we review the recent progress in mRNA vaccine development, including nucleoside modification, in vitro synthesis and product purification, and lipid nanoparticle vectors for in vivo delivery and efficient translation. We also briefly introduce the clinical application of mRNA vaccine in preventing infectious diseases and treating inflammatory diseases including cancer.

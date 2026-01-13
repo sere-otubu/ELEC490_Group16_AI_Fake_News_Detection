@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tuberculosis
+TITLE: [Diagnostic accuracy of three technologies for the diagnosis of multi-drug resistant tuberculosis].
+PMID: 28968017
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28968017/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Multi-drug resistant (MDR-TB) and extensively drug-resistant (XDR-TB) tuberculoses are a global public health problem. Their timely detection might reduce the burden of the disease and the economic impact on health systems worldwide. To conduct a literature review of the diagnostic accuracy of three molecular tests to detect multi-drug resistant and extensively drug-resistant tuberculoses. A systematic literature review following Cochrane methodology was carried out to study the diagnostic accuracy of three molecular tests to detect MDR-TB and XDR-TB in previous studies among immunocompetent population. Articles indexed in Medline and Embase were reviewed starting in 2007. Diagnostic accuracy was reported by sensitivity, specificity, and positive and negative predictive values of each test. In total, 8, 12 and 13 studies were included to assess the diagnostic accuracy of GeneXpert MTB/RIF®, GenoType MTBDRplus® and GenoType MTBDRsl®, respectively. The specificity of GeneXpert MTB/RIF® ranged between 91 and 100%, and its sensitivity between 33.3 and 100%. The sensitivity of GenoType® MTBDRplus® ranged between 88 and 100%. The sensitivity and specificity of GenoType MTBDRsl® to evaluate drug resistance ranged between 56 and 100% and 21 and 100%, respectively. The three diagnostic tests evaluated have shown an adequate diagnostic accuracy to detect MDR and XDR tuberculoses.

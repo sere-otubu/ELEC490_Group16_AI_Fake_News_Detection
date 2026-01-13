@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Zika virus
+TITLE: Zika virus: A public health threat.
+PMID: 28369961
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28369961/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The resurgence of Zika virus as public health emergency of an international concern with increased incidence of microcephaly has drawn attention of scientific community for its detailed understanding with regard to virus evolution, epidemiology, geographical spread, pathogenesis, etc. The scope of the present review is to discuss the detailed updated information in respect of Zika virus evolution since its inception.

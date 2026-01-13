@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Female infertility
+TITLE: Ultrasound Evaluation in Female Infertility: Part 1, the Ovary and the Follicle.
+PMID: 31677749
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31677749/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Infertility is defined by failure to achieve a pregnancy after 12 months or more of appropriate timed unprotected intercourse or therapeutic donor insemination. Ultrasound has now become an essential component of the modern investigation of female infertility and the management of assisted conception. Scans are predominantly performed transvaginally and recent technological advances such as 3D and Doppler imaging enhance our understanding of ovarian function such as ovarian reserve, follicular maturity and the assessment of polycystic morphology in the identification of polycystic ovarian syndrome. This chapter describes these latest advances in the context of infertility treatment.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Coronary artery disease
+TITLE: Left main coronary artery disease: importance, diagnosis, assessment, and management.
+PMID: 25765453
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25765453/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Left main coronary disease is seen in 4%-6% of patients undergoing coronary angiography for an ischemic evaluation and is a potentially fatal condition if not promptly identified and treated. Recent studies have increased our understanding of the complexity of left main coronary artery disease. This lesion subset offers numerous challenges in diagnosis and management. Fractional flow reserve and intravascular ultrasound are important adjuncts to angiography to determine the significance of ambiguous lesions of the left main coronary artery. Surgery is associated with much better outcomes than medical therapy and is considered by many to be the standard of care in patients who are surgical candidates. Recent studies comparing surgery with percutaneous coronary intervention (PCI) have defined subgroups with lesser extent of disease burden that may do just as well with PCI. Challenges remain in the management of bifurcation disease, and the interventional community anxiously awaits the results of the large-scale randomized trials comparing PCI with surgery.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chlamydia
+TITLE: Challenge of Chlamydia research.
+PMID: 1344667
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1344667/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Chlamydia is an obligate intracellular bacterial pathogen that severely challenges the patience and creativity of all its investigators--even to the point that some investigators have forsaken this field for more productive and fertile areas of research. The two principal difficulties that touch every aspect of chlamydial research are (a) that chlamydiae only grow within eukaryotic host cells and (b) there are limited genetic approaches available. Despite these technical difficulties, the fundamental underlying problem has been the expectation that chlamydiae are similar to other bacteria (or, historically, viruses) and amenable to study from this perspective. However, this has often turned out not to be the case. Chlamydiae have shown themselves to be unique at many levels and thus represent a formidable, yet enticing, research challenge.

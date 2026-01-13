@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lyme disease
+TITLE: Lyme disease.
+PMID: 7547110
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7547110/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In the United States, Lyme disease is the most common arthropod-borne infection. The majority of cases are reported from the Northeast, the Midwest, and California, which are areas with established foci of Borrelia burgdorferi. Advances in the understanding of the epidemiology of Ixodes ticks, the established vector for transmission of Lyme disease, provided strategies to reduce tick populations and the risk of acquiring disease. Genotypic diversity of subspecies of B. burgdorferi has been associated with differences in disease expression. New methods for detection of B. burgdorferi have expanded understanding of the pathogenesis of Lyme disease and provided clues into the mechanisms responsible for persistent symptoms. A safe vaccine for the prevention of Lyme disease in humans has been developed, and clinical vaccine efficacy trials are currently under way.

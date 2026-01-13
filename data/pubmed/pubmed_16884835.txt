@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mumps
+TITLE: Mumps vaccine virus strains and aseptic meningitis.
+PMID: 16884835
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16884835/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Mumps immunization can easily be included in national schedules, particularly if combined with measles or measles and rubella vaccines, but debate continues concerning the relative safety of various licensed mumps vaccine strains. The opportunities for control of mumps are also being affected by differences in the cost of the vaccines prepared with different strains of mumps virus. The present report evaluates available data on the association of the Urabe and other strains of mumps vaccine with the occurrence of aseptic meningitis. We also review the comparative immunogenicity and efficacies of the most widely used mumps vaccines in controlled clinical trials and field evaluations, and briefly examine relative cost as it relates to the implementation of national immunization programs. We conclude that extensive experience with the most widely used mumps vaccine strains in many countries has shown that the risk-benefit ratio of live mumps vaccines is highly favourable for vaccination, despite the occasional occurence of aseptic meningitis.

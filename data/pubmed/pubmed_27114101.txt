@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vitamin D deficiency
+TITLE: Vitamin D Deficiency and Oxidative Stress in Type 2 Diabetic Population of India.
+PMID: 27114101
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27114101/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Vitamin D deficiency is common in metropolitan cities of India and worldwide due to faulty life style. The prevalence of vitamin D deficiency has tremendously increased in India despite the fact that it is located between 8.4° and 37.6° north latitude and majority of the Indian population exposed to ample sunlight throughout the year. From published data regarding vitamin D deficiency in India estimated prevalence of vitamin D deficiency is 70%-100% in the adult population. The main identified reason for vitamin D deficiency is the lack of appropriate sunlight exposure and no consumption (in case of vegetarian population) or less consumption of vitamin D containing diet (e.g. fish, cod liver oil, beef liver and eggs). Mild to moderate vitamin D deficiency is identified as a risk factor for type 2 diabetes, due to its protective role against development of type 2 diabetes mellitus and its complications. Vitamin D may affect glucose homeostasis through increasing insulin resistance and reducing insulin secretion from beta cells of the pancreas. Vitamin D plays an important role against oxidative stress, because of its antioxidant property. Till date very few studies determined the link between vitamin D and oxidative stress in type 2 diabetes mellitus and its complications. However, more studies are needed to evaluate an underlying mechanism of vitamin D in amelioration of the oxidative stress in type 2 diabetes mellitus.

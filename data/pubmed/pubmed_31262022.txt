@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ulcerative colitis
+TITLE: Diet in the Pathogenesis and Management of Ulcerative Colitis; A Review of Randomized Controlled Dietary Interventions.
+PMID: 31262022
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31262022/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Epidemiological and experimental studies have suggested that diet is one of the environmental factors that contributes to the onset and pathophysiology of ulcerative colitis. Although many patients suffering from ulcerative colitis attribute their symptoms or disease relapse to dietary factors, only a few well-designed randomized controlled trials have been done to investigate the role of diet in the management of ulcerative colitis. Here, we review the potential mechanisms of the relationship between diet and pathogenesis of ulcerative colitis and summarize randomized controlled dietary interventions that have been conducted in ulcerative colitis patients.

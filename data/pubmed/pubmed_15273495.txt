@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Smoking cessation
+TITLE: Adolescent smoking cessation.
+PMID: 15273495
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15273495/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Approximately 25% of high school students report current cigarette use, 85% of adolescents think about quitting, and around 80% of current smokers made a quit attempt in the past year. This review analyzes recent additions to the adolescent smoking cessation literature from June 1, 2003 to May 1, 2003. Adolescent attitudes toward smoking cessation are largely affected by their smoking history. Youth cessation interventions largely focus on behavioral interventions, and research concerning these interventions has yielded mixed results. Little data exist about the effectiveness of nicotine replacement therapy in adolescents, but there is growing evidence that youth use this pharmacotherapy. Recent research has explored the use of nicotine replacement therapy as an adjunct for enhanced smoking reduction in adults, and future research may focus on this tactic for youth as well. Internet cessation adjuncts and telephone quit lines also serve as future frontiers for adolescent smoking cessation research. Information concerning adolescent smoking behaviors, effective interventions, and smoking cessation therapy continue to grow and provide data that improve our understanding of adolescent smoking cessation. Although we cannot directly extrapolate the adult findings to this population, adult cessation research continues to inform future adolescent cessation efforts.

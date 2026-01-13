@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Breast cancer
+TITLE: The Role of Progesterone Receptors in Breast Cancer.
+PMID: 35115765
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35115765/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The progesterone receptor (PR) modulates estrogen receptors α (ERα) action in breast cancer; it is an upregulated target gene of ER, and its expression is dependent on estrogen. PR is also a valuable prognostic biomarker in breast cancer, especially in hormone-positive breast cancer. High expression of PR is more frequently observed in tumors with a better baseline prognosis (ie, luminal A) than tumors with a poor baseline prognosis (ie, luminal B). In the following review, we present the role of PR in breast cancer, including the genomic characteristics and pathways in breast cancer, PR and endocrine therapy.

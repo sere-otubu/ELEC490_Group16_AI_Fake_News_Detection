@@ -1,0 +1,8 @@
+SEARCH_TOPIC: First aid basics
+TITLE: European Resuscitation Council Guidelines 2021: Executive summary.
+PMID: 33773824
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33773824/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Informed by a series of systematic reviews, scoping reviews and evidence updates from the International Liaison Committee on Resuscitation, the 2021 European Resuscitation Council Guidelines present the most up to date evidence-based guidelines for the practice of resuscitation across Europe. The guidelines cover the epidemiology of cardiac arrest; the role that systems play in saving lives, adult basic life support, adult advanced life support, resuscitation in special circumstances, post resuscitation care, first aid, neonatal life support, paediatric life support, ethics and education.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Inflammation mechanism
+TITLE: Mechanisms underlying paclitaxel-induced neuropathic pain: Channels, inflammation and immune regulations.
+PMID: 36122757
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36122757/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Paclitaxel is a chemotherapeutic agent widely used for many types of malignancies. However, when paclitaxel is used to treat tumors, patients commonly experience severe neuropathic pain that is difficult to manage. The mechanism underlying paclitaxel-induced neuropathic pain remains unclear. Evidence demonstrates correlations between mechanisms of paclitaxel-mediated pain and associated actions of ion channels, neuroinflammation, mitochondrial damage, and other factors. This review provides a comprehensive analysis of paclitaxel-induced neuropathic pain mechanisms and suggestions for effective interventions.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Teeth whitening
+TITLE: Advancing teeth whitening efficacy via dual-phototherapeutic strategy incorporating molybdenum disulfide embedded in carrageenan hydrogel for dental healthcare.
+PMID: 38964693
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38964693/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Teeth discoloration poses a widespread challenge in dental health across various regions. Conventional teeth whitening methods often result in enamel deterioration and soft tissue harm due to the utilization of incompatible whitening agents and continuous intense light exposure. Here, we propose an effective phototherapy technique for teeth whitening, employing pathways of energy transition through intersystem crossing. The integration of MoS<sub>2</sub> nanosheets into carrageenan gel (MoS<sub>2</sub> NSs@Carr) facilitates both photothermal-hyperthermia and the generation of reactive oxygen species (ROS) through photocatalytic processes. The efficacy of ROS generation by the phototherapeutic MoS<sub>2</sub> NSs@Carr on teeth whitening in the scenario. This approach ensures comprehensive teeth whitening by eliminating deep-seated stains on the teeth while preserving structural integrity and avoiding any tissue toxicity. This research highlights the efficacy of the phototherapeutic MoS<sub>2</sub> NSs@Carr for dental whitening and underscores the potential of exploring nanostructures based on MoS<sub>2</sub> NSs for managing dental healthcare issue.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gluten free diet
+TITLE: Gluten-Free Diet and Other Celiac Disease Therapies: Current Understanding and Emerging Strategies.
+PMID: 38613039
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38613039/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A lifelong gluten-free diet (GFD) is the only treatment for celiac disease and other gluten-related disorders. Nevertheless, strict adherence to the GFD is often challenging due to concerns about social isolation, risk of gluten contaminations, high cost, poor quality and the taste of gluten-free products. Moreover, although the GFD is effective in achieving mucosal healing, it may lead to dietary imbalances due to nutrient deficiencies over a long period of time. To overcome these issues, several gluten-free wheat flours have been developed to create products that closely resemble their gluten-containing counterparts. Furthermore, given the critical importance of adhering to the GFD, it becomes essential to promote adherence and monitor possible voluntary or involuntary transgressions. Various methods, including clinical assessment, questionnaires, serology for celiac disease, duodenal biopsies and the detection of Gluten Immunogenic Peptides (GIPs) are employed for this purpose, but none are considered entirely satisfactory. Since adherence to the GFD poses challenges, alternative therapies should be implemented in the coming years to improve treatment efficacy and the quality of life of patients with celiac disease. The aim of this narrative review is to explore current knowledge of the GFD and investigate its future perspectives, focusing on technology advancements, follow-up strategies and insights into a rapidly changing future.

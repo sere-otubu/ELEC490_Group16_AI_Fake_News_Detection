@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Crohns disease
+TITLE: Granuloma-positive Crohn's disease.
+PMID: 17853953
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17853953/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The epithelioid granuloma is a characteristic histological feature of Crohn's disease. In some pathological classification schemes, the criteria for a definite, probable or possible diagnosis have been listed, with the epithelioid granuloma indicating definite Crohn's disease. In the present evaluation, 247 prospectively evaluated Crohn's disease patients (24.3%), from a consecutively accumulated population database of 1015 patients, were found to have an epithelioid granuloma. The recently devised Montreal classification for Crohn's disease was then applied to this granuloma-positive cohort of Crohn's disease patients to define age at diagnosis for men and women, disease site and disease behaviour. The investigation showed that patients with Crohn's disease and granulomas were most often diagnosed early in the course of their disease, particularly women. Their disease was often extensive, with ileocolonic and upper gastrointestinal tract involvement. Finally, disease behaviour was most often complex, especially with penetrating disease complications. Using homogeneous (ie, 'reagent-grade') patient cohorts defined by a recently devised classification method for Crohn's disease, the study demonstrated that an epithelioid granuloma may represent a histopathological marker for an early biological event in the etiopathogenesis of Crohn's disease, and this may have predictive significance with respect to the location and clinical behaviour of Crohn's disease.

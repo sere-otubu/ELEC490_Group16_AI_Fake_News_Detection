@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antisocial personality disorder
+TITLE: The epidemiology of antisocial personality disorder.
+PMID: 10396164
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10396164/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This paper reviews the current state of knowledge about the frequency, natural history, risk factors and associations of antisocial personality disorder. Important recent developments are discussed, and where possible, findings have been tabulated Epidemiological surveys have shown that antisocial personality disorder is a common disorder, with a prevalence rate of between 2 and 3% among community samples, rising to 60% among male prisoners. Antisocial personality disorder is a chronic condition, and is associated with a multitude of medical and social problems. These include substance abuse, deliberate self harm and crime. Genetic and environmental factors have been implicated in the aetiology of the disorder. However, despite the large amount of research into antisocial personality disorder, longitudinal data are missing and the validity of the diagnosis, therefore, remains questionable. The paper concludes with recommendations for future research.

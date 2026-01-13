@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Human brain structure
+TITLE: Deriving early single-rosette brain organoids from human pluripotent stem cells.
+PMID: 37995702
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37995702/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Brain organoid methods are complicated by multiple rosette structures and morphological variability. We have developed a human brain organoid technique that generates self-organizing, single-rosette cortical organoids (SOSR-COs) with reproducible size and structure at early timepoints. Rather than patterning a 3-dimensional embryoid body, we initiate brain organoid formation from a 2-dimensional monolayer of human pluripotent stem cells patterned with small molecules into neuroepithelium and differentiated to cells of the developing dorsal cerebral cortex. This approach recapitulates the 2D to 3D developmental transition from neural plate to neural tube. Most monolayer fragments form spheres with a single central lumen. Over time, the SOSR-COs develop appropriate progenitor and cortical laminar cell types as shown by immunocytochemistry and single-cell RNA sequencing. At early time points, this method demonstrates robust structural phenotypes after chemical teratogen exposure or when modeling a genetic neurodevelopmental disorder, and should prove useful for studies of human brain development and disease modeling.

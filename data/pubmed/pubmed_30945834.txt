@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Appendicitis
+TITLE: [Treatment of appendicitis with antibiotics only; still a bridge too far].
+PMID: 30945834
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30945834/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Antibiotic treatment instead of surgery for uncomplicated appendicitis seems attractive since it may lead to fewer complications. Moreover, patients who have surgery after failed initial antibiotic treatment have comparable complication rates to those undergoing immediate appendectomy. There are caveats, since patients treated with only antibiotics have a 40% chance of recurrent appendicitis within the following years. Furthermore, about 20% of appendectomy patients who had suspected uncomplicated appendicitis, appeared to have complicated appendicitis instead. This illustrates that differentiation between uncomplicated and complicated appendicitis is far from perfect, which is potentially dangerous as surgery is needed in case of perforated appendicitis. It is unknown whether Dutch patients are willing to receive antibiotic treatment instead of surgery. Is follow-up needed after antibiotic treatment of appendicitis and if so, for how long? What about the 2% of patients with a differential diagnosis of appendicitis in whom a neoplasm is diagnosed? All in all, it may be premature to implement primary antibiotic treatment for suspected uncomplicated appendicitis as first-line treatment.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Corticosteroids
+TITLE: The subtle nuances of intranasal corticosteroids.
+PMID: 33731223
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33731223/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In the specialty of Otolaryngology - Head and Neck Surgery, intranasal corticosteroids are the mainstay treatment for inflammatory processes within the nasal cavity. All too often, physician prescribing patterns are based on previous training, personal experience, and interactions with industry. The purpose of this commentary is to review the nuances of each intranasal corticosteroid. There are nine intranasal corticosteroids approved for use in Canada. Each are discussed in detail, including their indication, bioavailability, effects on intranasal environment, and factors around patient adherence. Off-label use of budesonide irrigations is also discussed and cost information is presented in reference format for all available intranasal corticosteroids. Although the efficacy of each intranasal corticosteroid has been shown to be similar, prescribing should be tailored based on bioavailability, intranasal environment, and factors that impact patient adherence such as dosing, cost and tolerability.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insulin regulation
+TITLE: Resolving the Paradox of Hepatic Insulin Resistance.
+PMID: 30739869
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30739869/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Insulin resistance is associated with numerous metabolic disorders, such as obesity and type II diabetes, that currently plague our society. Although insulin normally promotes anabolic metabolism in the liver by increasing glucose consumption and lipid synthesis, insulin-resistant individuals fail to inhibit hepatic glucose production and paradoxically have increased liver lipid synthesis, leading to hyperglycemia and hypertriglyceridemia. Here, we detail the intrahepatic and extrahepatic pathways mediating insulin's control of glucose and lipid metabolism. We propose that the interplay between both of these pathways controls insulin signaling and that mis-regulation between the 2 results in the paradoxic effects seen in the insulin-resistant liver instead of the commonly proposed deficiencies in particular branches of only the direct hepatic pathway.

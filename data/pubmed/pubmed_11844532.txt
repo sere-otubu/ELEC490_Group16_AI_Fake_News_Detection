@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Spinal cord injury
+TITLE: Spinal-cord injury.
+PMID: 11844532
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11844532/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+More than a decade ago, spinal-cord injury meant confinement to a wheelchair and a lifetime of medical comorbidity. The physician's armamentarium of treatments was very limited, and provision of care for individuals with spinal-cord injury was usually met with frustration. Advances in the neurosciences have drawn attention to research into spinal-cord injury. Nowadays, advanced interventions provide high hope for regeneration and functional restoration. As scientific advances become more frequent, scepticism is giving way to the ideas that spinal-cord injury will eventually be repairable and that strategies to restore function are within our grasp. We address the present understanding of spinal-cord injury, its cause, pathophysiology, diagnosis, and treatment, and look at promising research avenues. We also discuss new treatment options, including functional electric stimulation and part-weight-supported walking.

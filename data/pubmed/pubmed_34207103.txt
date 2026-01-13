@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ovarian cancer
+TITLE: Ovarian Cancer Immunotherapy and Personalized Medicine.
+PMID: 34207103
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34207103/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ovarian cancer response to immunotherapy is limited; however, the evaluation of sensitive/resistant target treatment subpopulations based on stratification by tumor biomarkers may improve the predictiveness of response to immunotherapy. These markers include tumor mutation burden, PD-L1, tumor-infiltrating lymphocytes, homologous recombination deficiency, and neoantigen intratumoral heterogeneity. Future directions in the treatment of ovarian cancer include the utilization of these biomarkers to select ideal candidates. This paper reviews the role of immunotherapy in ovarian cancer as well as novel therapeutics and study designs involving tumor biomarkers that increase the likelihood of success with immunotherapy in ovarian cancer.

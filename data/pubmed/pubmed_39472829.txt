@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Macronutrients
+TITLE: The association between macronutrients intake and myopia risk: a systematic review and meta-analysis.
+PMID: 39472829
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39472829/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Dietary factors have been suggested as potential risk factors for myopia, but research findings on this relationship are inconclusive. The potential predisposing or protective role of macronutrient (carbohydrate, protein, fat) intake in the development of myopia was systematically reviewed, followed by data synthesis by meta-analysis. A systematic search was conducted in PubMed, Web of Science, Scopus, and Google Scholar up to the end of June 2023 to identify all relevant studies. All observational studies that assessed the relationship between macronutrient intake with myopia, axial length (AL) of eyes and spherical equivalent refractive error (SE) on individuals younger than 18 years old were included. After removing duplicates and screening studies, four studies were included in the systematic review and meta-analysis. Pooled odds ratios regarding the association between myopia development and nutritional intake were 1.01 (95% CI: 0.94, 1.08), 0.97 (95% CI: 0.86, 1.08), and 0.99 (95% CI: 0.83, 1.18) for carbohydrates, proteins, and fats, respectively, indicating no significant associations. Intake of carbohydrates, proteins, and fats was not significantly associated with either SE or AL. Intake of carbohydrates, fats, or proteins did not influence the risk of myopia. The relationship between the intake of other macronutrients and myopia is suggested to be scrutinized in future studies. The systematic review protocol was registered on PROSPERO (registration number: CRD42024541369).

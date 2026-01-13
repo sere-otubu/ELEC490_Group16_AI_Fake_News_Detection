@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Fatty liver disease
+TITLE: Non-alcoholic fatty liver disease.
+PMID: 28241825
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28241825/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Non-alcoholic fatty liver disease has emerged a major challenge because of it prevalence, difficulties in diagnosis, complex pathogenesis, and lack of approved therapies. As the burden of hepatitis C abates over the next decade, non-alcoholic fatty liver disease will become the major form of chronic liver disease in adults and children and could become the leading indication for liver transplantation. This overview briefly summarizes the most recent data on the pathophysiology, diagnosis, and treatment of non-alcoholic fatty liver disease. Ongoing clinical trials are focused on an array of disease mechanisms and reviewed here are how these treatments fit into the current paradigm of substrate overload lipotoxic liver injury. Many of the approaches are directed at downstream events such as inflammation, injury and fibrogenesis. Addressing more proximal processes such as dysfunctional satiety mechanisms and inappropriately parsimonious energy dissipation are potential therapeutic opportunities that if successfully understood and exploited would not only address fatty liver disease but also the other components of the metabolic syndrome such as obesity, diabetes and dyslipidemia.

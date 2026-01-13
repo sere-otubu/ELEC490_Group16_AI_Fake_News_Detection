@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Electrolytes
+TITLE: Fluid and electrolyte therapy: a primer.
+PMID: 19444484
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19444484/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The prescription of fluid therapy in pediatrics is a common clinical event. The foundations that underpin such therapy should be understood by all clinicians involved in the short-term care of children. This article describes some important basic principles of fluid management.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Heart failure
+TITLE: Heart Failure in Adult Congenital Heart Disease.
+PMID: 32622497
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32622497/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+As the population of adult congenital heart disease patients ages and grows, so too does the burden of heart failure in this population. Despite the advances in medical and surgical therapies over the last decades, heart failure in adult congenital heart disease remains a formidable complication with high morbidity and mortality. This review focuses on the challenges in determining the true burden and management of heart failure in adult congenital heart disease. There is a particular focus on the need for developing a common language for classifying and reporting heart failure in adult congenital heart disease, the clinical presentation and prognostication of heart failure in adult congenital heart disease, the application of hemodynamic evaluation, and advanced heart failure treatment. A common case study of heart failure in adult congenital heart disease is utilized to illustrate these key concepts.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Varicose veins
+TITLE: Varicose veins--Who should be referred?
+PMID: 26556696
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26556696/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Varicose veins are a common, progressive condition in the UK, with significant negative effects on patients' quality of life. Despite their prevalence, access to secondary care for the assessment and treatment of varicose veins can be variable throughout the country.The National Institute of Health and Care Excellence guidelines developed in 2013 provide evidence-based guidance on the referral, assessment, and management of the patient with venous disease.In this article, we review the development of the guidelines for the management of varicose veins over the last 15 years, highlighting the latest changes in referral criteria.

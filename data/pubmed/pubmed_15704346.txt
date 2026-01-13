@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Serotonin
+TITLE: Serotonin's role in alcohol's effects on the brain.
+PMID: 15704346
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15704346/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Serotonin is an important brain chemical that acts as a neurotransmitter to communicate information among nerve cells. Serotonin's actions have been linked to alcohol's effects on the brain and to alcohol abuse. Alcoholics and experimental animals that consume large quantities of alcohol show evidence of differences in brain serotonin levels compared with nonalcoholics. Both short- and long-term alcohol exposure also affect the serotonin receptors that convert the chemical signal produced by serotonin into functional changes in the signal-receiving cell. Drugs that act on these receptors alter alcohol consumption in both humans and animals. Serotonin, along with other neurotransmitters, also may contribute to alcohol's intoxicating and re. warding effects, and abnormalities in the brain's serotonin system appear to play an important role in the brain processes underlying alcohol abuse.

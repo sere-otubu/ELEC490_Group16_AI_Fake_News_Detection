@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sleep apnea
+TITLE: Sex differences in sleep and sleep-disordered breathing.
+PMID: 39189037
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39189037/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There is increasing evidence for relevant sex differences in pathophysiology, symptom presentation and outcomes in obstructive sleep apnoea (OSA). However, research on sex differences and sex-specific phenotypes in sleep-disordered breathing (SDB) is still in its infancy and data on sex differences in other SDB is still very scarce. While OSA is more common in men than in premenopausal women, the prevalence of OSA doubles postmenopausally and becomes comparable to that of men. Women have a lower collapsibility of the upper airway and a lower arousal threshold. In addition, the rapid eye movement (REM)-apnoea-hypopnoea index (AHI) is typically higher in women than in men, but the non-REM-AHI and thus the total AHI is often lower. Women are often symptomatic at lower AHI and present more frequently with symptoms of sleep fragmentation and poor sleep quality. Both certain forms of OSA (e.g. REM-OSA) and certain phenotypes (e.g. COMISA) are more common in women. Men have a higher risk of high loop gain central sleep apnoea. For a better understanding of sex-typical phenotypes with the aim of a more targeted treatment approach of SDB, adequately powered studies on sex differences in SDB should be conducted.

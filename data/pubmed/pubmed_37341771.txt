@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Substance abuse
+TITLE: [Anxiety and substance abuse disorders-Focus on alcohol and cannabis].
+PMID: 37341771
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37341771/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Anxiety disorders are frequent, with a 12-month prevalence of 14%, tend to be chronic, and display a high comorbidity with substance abuse disorders. Anxiety and substance abuse disorders are associated with a pronounced individual as well as socioeconomic burden. This article reviews the epidemiological, etiological, and clinical aspects of the dual diagnosis of anxiety and substance abuse disorders, with a particular focus on alcohol and cannabis. The treatment comprises nonpharmacological strategies, mainly cognitive behavioral therapy combined with elements of motivational interviewing (MI) and pharmacological management with antidepressants; however, the use of selective serotonin reuptake inhibitors (SSRI)/serotonin and noradrenaline reuptake inhibitors (SNRI) is not unreservedly recommended. The use of gabapentinoids requires careful risk-benefit consideration because of their potential for abuse and dependence in substance abuse disorders. Benzodiazepines are reserved exclusively for crisis management. Rapid diagnosis and treatment initiation targeting both disorders are essential for successful treatment of comorbid anxiety and substance abuse disorders.

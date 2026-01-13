@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Inflammation mechanism
+TITLE: Advances in the application and mechanism of bioactive peptides in the treatment of inflammation.
+PMID: 39247182
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39247182/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Inflammation is a normal immune response in organisms, but it often triggers chronic diseases such as colitis and arthritis. Currently, the most widely used anti-inflammatory drugs are non-steroidal anti-inflammatory drugs, albeit they are accompanied by various adverse effects such as hypertension and renal dysfunction. Bioactive peptides (BAPs) provide therapeutic benefits for inflammation and mitigate side effects. Herein, this review focuses on the therapeutic effects of various BAPs on inflammation in different body parts. Emphasis is placed on the immunomodulatory mechanisms of BAPs in treating inflammation, such as regulating the release of inflammatory mediators, modulating MAPK and NF-κB signaling pathways, and reducing oxidative stress reactions for immunomodulation. This review aims to provide a reference for the function, application, and anti-inflammation mechanisms of BAPs.

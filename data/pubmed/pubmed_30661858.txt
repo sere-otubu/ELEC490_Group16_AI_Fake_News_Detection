@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Alzheimers disease
+TITLE: Implications of sleep disturbance and inflammation for Alzheimer's disease dementia.
+PMID: 30661858
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30661858/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Nearly half of all adults older than 60 years of age report sleep disturbance, as characterised either by reports of insomnia complaints with daytime consequences, dissatisfaction with sleep quality or quantity, or the diagnosis of insomnia disorder. Accumulating evidence shows that sleep disturbance contributes to cognitive decline and might also increase the risk of Alzheimer's disease dementia by increasing β-amyloid burden. That sleep disturbance would be a candidate risk factor for Alzheimer's disease might seem surprising, given that disturbed sleep is usually considered a consequence of Alzheimer's disease. However, a bidirectional relationship between sleep and Alzheimer's disease is supported by advances in our understanding of sleep disturbance-induced increases in systemic inflammation, which can be viewed as an early event in the course of Alzheimer's disease. Inflammation increases β-amyloid burden and is thought to drive Alzheimer's disease pathogenesis. Improved understanding of the mechanisms linking sleep disturbance and Alzheimer's disease risk could facilitate the identification of targets for prevention, given that both sleep disturbance and inflammatory activation might be modifiable risk factors for Alzheimer's disease.

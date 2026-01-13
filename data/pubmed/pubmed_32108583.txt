@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immunosuppressants
+TITLE: [Lymphomas in immunocompromised patients].
+PMID: 32108583
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32108583/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Immunosuppression is a well known risk factor for the development of lymphoid pathologies. The classification of these neoplasias is becoming more precise and complex, some features being common to all immunocompromised patients, primarily the important influence of Epstein-Barr virus. Whatever the origin of the immunodepression, these lymphoid proliferations are very heterogeneous, constituting a wide range between polymorphic aspects and clearly lymphomatous morphologies indistinguishable from those observed in immunocompetent subjects. It is important to detect precisely these different categories of proliferation within each group of immunosuppression, to better individualize the prognosis and the management of patients.

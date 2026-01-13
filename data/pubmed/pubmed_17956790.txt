@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antidepressants
+TITLE: Antidepressants for treatment of tinnitus.
+PMID: 17956790
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17956790/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Antidepressants are commonly prescribed for tinnitus. Research thus far provides some support for that treatment, but the literature also raises concerns because tinnitus is a side effect of antidepressant medication. In this chapter, four published double blind placebo-controlled trials of antidepressants for tinnitus are reviewed. Explanations for the discrepant results are offered, including that antidepressants appear to work best for tinnitus patients who are depressed or anxious, who have more severe tinnitus or who are treated for a longer time with an adequate dose of medication. Possible mechanisms of action are reviewed, with serotonergic and antimuscarinic mechanisms appearing to be the most important. At this time there is no indication that one specific type of antidepressant is more likely to lead to tinnitus as a side effect, or have a beneficial effect on tinnitus. Given SSRIs are tolerated better, these antidepressants have advantages over tricyclic antidepressants and should be used as a first line of treatment.

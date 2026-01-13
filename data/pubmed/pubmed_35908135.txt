@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Menopause
+TITLE: Hormonal Agents for the Treatment of Depression Associated with the Menopause.
+PMID: 35908135
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35908135/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Perimenopause marks the transition from a woman's reproductive stage to menopause. Usually occurring between 42 and 52 years of age, it is determined clinically by the onset of irregular menstrual cycles or variable cycle lengths. Women are at an increased risk of depression and anxiety during perimenopause and the menopausal transition. Depressive symptoms experienced in perimenopause are often more severe compared to pre- and post-menopause. During menopausal transition, the impact of fluctuating estrogen in the central nervous system (CNS) can have negative psychological effects for some women. Traditional first-line management of menopausal depression involves antidepressants, with modest outcomes. The positive effects of estrogen treatment in the CNS are becoming increasingly recognised, and hormonal therapy (HT) with estrogen may have a role in the treatment of menopausal depression. In this review we will outline the prevalence, impact and neurochemical basis of menopausal-associated depression, as well as hormone-based approaches that have increasing promise as effective treatments.

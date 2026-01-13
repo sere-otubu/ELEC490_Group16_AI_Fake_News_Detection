@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hemorrhoids
+TITLE: [Proctology].
+PMID: 36990121
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36990121/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article provides a practice-oriented overview of the most common proctological diseases: Anal eczema, hemorrhoidal disease, anal thrombosis, marisca, anal abscess and fistula, and anal fissure. Definitions and etiopathogenesis, clinic and diagnostics, and current therapy are presented.

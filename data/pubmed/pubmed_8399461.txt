@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Macular degeneration
+TITLE: Age-related macular degeneration.
+PMID: 8399461
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8399461/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Age-related macular degeneration (AMD), a bilateral, progressive macular disease, represents the major cause of blindness among elderly people living in Western countries. Clinical features of AMD vary from the initial asymptomatic aspects, drusen and retinal pigment epithelium alterations, to severe atrophic or exudative changes in the advanced stages, characterized by the irreversible decrease of visual function. Current epidemiologic, pathogenetic and clinical data are reviewed, and the importance of the exact identification of patients at risk of evolution toward the exudative form is addressed. The therapeutic approach to AMD is also analyzed and the role of laser photocoagulation is discussed.

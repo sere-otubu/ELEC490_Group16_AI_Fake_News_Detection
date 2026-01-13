@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Arrhythmia
+TITLE: Cardiac arrhythmias in pregnancy.
+PMID: 25037518
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25037518/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+As more women with repaired congenital heart disease survive to their reproductive years and many other women are delaying pregnancy until later in life, a rising concern is the risk of cardiac arrhythmias during pregnancy. Naturally occurring cardiovascular changes during pregnancy increase the likelihood that a recurrence of a previously experienced cardiac arrhythmia or a de novo arrhythmia will occur. Arrhythmias should be thoroughly investigated to determine if there is a reversible etiology, and risks/benefits of treatment options should be fully explored. We discuss the approach to working up and treating various arrhythmias during pregnancy with attention to fetal and maternal risks as well as treatment of fetal arrhythmias. Acute management in stable patients includes close monitoring and intravenous pharmacologic therapy, while DC cardioversion should be used to terminate arrhythmias in hemodynamically unstable patients. Long-term management may require continued oral antiarrhythmic therapy, with particular attention to fetal safety, to prevent complications associated with arrhythmias.

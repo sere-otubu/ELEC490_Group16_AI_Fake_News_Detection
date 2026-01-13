@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Health insurance systems
+TITLE: Current trends in health insurance systems: OECD countries vs. Japan.
+PMID: 25797778
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25797778/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Over the past few decades, the longest extension in life expectancy in the world has been observed in Japan. However, the sophistication of medical care and the expansion of the aging society, leads to continuous increase in health-care costs. Medical expenses as a part of gross domestic product (GDP) in Japan are exceeding the current Organization for Economic Co-operation and Development (OECD) average, challenging the universally, equally provided low cost health care existing in the past. A universal health insurance system is becoming a common system currently in developed countries, currently a similar system is being introduced in the United States. Medical care in Japan is under a social insurance system, but the injection of public funds for medical costs becomes very expensive for the Japanese society. In spite of some urgently decided measures to cover the high cost of advanced medical treatment, declining birthrate and aging population and the tendency to reduce hospital and outpatients' visits numbers and shorten hospital stays, medical expenses of Japan continue to be increasing.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dental cavities
+TITLE: Dental Caries in Children: An Update.
+PMID: 38419279
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38419279/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Dental caries, also known as cavities, are the most prevalent dental problem in children. The etiology is mostly multifactorial and a result of an imbalance between the constant mineralization and demineralization on the tooth surface. It is important to assess oral health risks, counsel caregivers, and encourage oral hygiene. Recent guidelines by the American Academy of Pediatrics (AAP) underscore the evolving role of the pediatrician in initiating early dental health interventions.

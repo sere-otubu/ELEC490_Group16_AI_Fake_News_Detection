@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Nicotine dependence
+TITLE: Translational Research on Nicotine Dependence.
+PMID: 26873019
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26873019/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Nicotine dependence is a chronic, relapsing disorder with complex biological mechanisms underlying the motivational basis for this behavior. Although more than 70 % of current smokers express a desire to quit, most relapse within one year, underscoring the need for novel treatments. A key focus of translational research models addressing nicotine dependence has been on cross-validation of human and animal models in order to improve the predictive value of medication screening paradigms. In this chapter, we review several lines of research highlighting the utility of cross-validation models in elucidating the biological underpinnings of nicotine reward and reinforcement, identifying factors which may influence individual response to treatment, and facilitating rapid translation of findings to practice.

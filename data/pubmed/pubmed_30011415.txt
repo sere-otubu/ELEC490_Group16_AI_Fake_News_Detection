@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Autoimmune diseases
+TITLE: Autoimmune Neurologic Diseases in Children.
+PMID: 30011415
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30011415/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Autoimmune diseases of the nervous system in children are composed of a heterogeneous group of rare disorders that can affect the central or peripheral nervous system at any level. Presentations may occur in children of any age and are typically acute or subacute in onset. Consideration of an autoimmune process as the etiology of neurologic diseases in children is important, as it may lead to early initiation of immunotherapy and an improvement in long-term neurologic outcomes. The developing nervous and immune systems in children create unique challenges in diagnosis and treatment of these rare diseases. In this review, autoimmune diseases affecting the brain, spinal cord, nerve roots, peripheral nerves, neuromuscular junction, and muscle in children are described.

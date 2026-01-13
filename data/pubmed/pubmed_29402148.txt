@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urinary tract infection
+TITLE: Urinary tract infection during pregnancy: current concepts on a common multifaceted problem.
+PMID: 29402148
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29402148/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Urinary tract infections (UTIs) are the most common bacterial infection in pregnancy, increasing the risk of maternal and neonatal morbidity and mortality. Urinary tract infections may present as asymptomatic bacteriuria, acute cystitis or pyelonephritis. Escherichia coli is the most common pathogen associated with both symptomatic and asymptomatic bacteriuria. If asymptomatic bacteriuria is untreated, up to 30% of mothers develop acute pyelonephritis, with an increased risk of multiple maternal and neonatal complications, such as preeclampsia, preterm birth, intrauterine growth restriction and low birth weight. Urinary tract infection is a common, but preventable cause of pregnancy complications, thus urinary tests, such as urine culture or new technologies such as high-throughput DNA sequence-based analyses, should be used in order to improve antenatal screening of pregnant women.

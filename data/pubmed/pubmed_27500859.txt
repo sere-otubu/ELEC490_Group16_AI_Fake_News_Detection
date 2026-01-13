@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Probiotics and gut health
+TITLE: Probiotics, gut microbiota, and their influence on host health and disease.
+PMID: 27500859
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27500859/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The gastrointestinal tract of mammals hosts a high and diverse number of different microorganisms, known as intestinal microbiota. Many probiotics were originally isolated from the gastrointestinal tract, and they were defined by the Food and Agriculture Organization of the United Nations (FAO)/WHO as "live microorganisms which when administered in adequate amounts confer a health benefit on the host." Probiotics exert their beneficial effects on the host through four main mechanisms: interference with potential pathogens, improvement of barrier function, immunomodulation and production of neurotransmitters, and their host targets vary from the resident microbiota to cellular components of the gut-brain axis. However, in spite of the wide array of beneficial mechanisms deployed by probiotic bacteria, relatively few effects have been supported by clinical data. In this regard, different probiotic strains have been effective in antibiotic-associated diarrhea or inflammatory bowel disease for instance. The aim of this review was to compile the molecular mechanisms underlying the beneficial effects of probiotics, mainly through their interaction with the intestinal microbiota and with the intestinal mucosa. The specific benefits discussed in this paper include among others those elicited directly through dietary modulation of the human gut microbiota.

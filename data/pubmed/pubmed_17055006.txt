@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cortisol
+TITLE: Measuring cortisol in human psychobiological studies.
+PMID: 17055006
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17055006/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The steroid cortisol is an extensively studied and important variable in developmental and other behavioral studies. Cortisol has been assayed by various methods using a range of substrates including blood, saliva, and urine. Cortisol in blood exists in two forms. While most is bound to carrier proteins, a small portion exists in a soluble free form. The informed choice of cortisol fraction and measurement method is critical for research. Such choices should be influenced by understanding the characteristics of the various cortisol fractions, along with their binding proteins' biological functions and relationship to the hypothalamic-pituitary-adrenal (HPA) axis. The goal of this paper is to familiarize researchers with key points for evaluating the choice of total and free cortisol in research as well reviewing various options for measuring free cortisol. These points are raised with special emphasis on their significance during pregnancy and the post-partum. Such information may prove useful in informing researcher's cortisol-related protocols and in the interpretation of cortisol data.

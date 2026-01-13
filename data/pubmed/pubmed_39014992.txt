@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Salmonella
+TITLE: A current insight into <i>Salmonella's</i> inducible acid resistance.
+PMID: 39014992
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39014992/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+<i>Salmonella</i> is a diverse and ubiquitous group of bacteria and a major zoonotic pathogen implicated in several foodborne disease outbreaks worldwide. With more than 2500 distinct serotypes, this pathogen has evolved to survive in a wide spectrum of environments and across multiple hosts. The primary and most common source of transmission is through contaminated food or water. Although the main sources have been primarily linked to animal-related food products, outbreaks due to the consumption of contaminated plant-related food products have increased in the last few years. The perceived ability of <i>Salmonella</i> to trigger defensive mechanisms following pre-exposure to sublethal acid conditions, namely acid adaptation, has renewed a decade-long attention. The impact of acid adaptation on the subsequent resistance against lethal factors of the same or multiple stresses has been underscored by multiple studies. Α plethora of studies have been published, aiming to outline the factors that- alone or in combination- can impact this phenomenon and to unravel the complex networking mechanisms underlying its induction. This review aims to provide a current and updated insight into the factors and mechanisms that rule this phenomenon.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Psoriasis
+TITLE: What is Psoriasis?
+PMID: 40698994
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40698994/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Psoriasis is a skin condition that causes red, scaly patches on the skin. These patches can show up anywhere on the body. They are common on the arms, legs, and scalp. Psoriasis can affect just a small part of the skin or cover a large area. It can happen to anyone - kids or adults. You cannot catch it from someone else.

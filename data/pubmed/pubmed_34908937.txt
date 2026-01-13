@@ -1,0 +1,8 @@
+SEARCH_TOPIC: OCD
+TITLE: OCD is Not a Phobia: An Alternative Conceptualization of OCD.
+PMID: 34908937
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34908937/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+While the Diagnostic and Statistical Manual Version 5 (DSM-5) has separated obsessive-compulsive disorder (OCD) from other anxiety disorders, conceptualization and treatment of OCD is still identical to the conceptualization and treatment of phobias. Many differences exist between phobias and OCD justifying a different conceptualization and treatment modality for OCD. Implications of the phobic model for OCD are discussed and its limitations are shown. Ethical and counterproductive forms of treatment for OCD derived from the phobic model are also presented. An alternative conceptualization of OCD, the inference-based approach, is presented to show that the phobic model is not the only one which can be applied to OCD. Advantages of this non-phobic way of conceptualizing OCD is illustrated and discussed.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rubella
+TITLE: Rubella eradication.
+PMID: 11348695
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11348695/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The virulence of rubella virus for the fetus was fully defined between 1963 and 1965 when an epidemic of rubella occurred in Europe and the US, followed by a wave of damaged babies. Attenuated live virus vaccines were developed in our and other laboratories and their use has already considerably changed the epidemiology of rubella. Nevertheless, only about half of the world's countries vaccinate against rubella. We argue for the combination of rubella vaccine with measles vaccine in all campaigns for the control of measles, and will discuss the strategies by which congenital rubella syndrome could be eradicated at little additional cost.

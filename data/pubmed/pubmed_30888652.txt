@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Osteoarthritis
+TITLE: Ageing and Osteoarthritis.
+PMID: 30888652
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30888652/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The increase in global lifespan has in turn increased the prevalence of osteoarthritis which is now the most common type of arthritis. Cartilage tissue located on articular joints erodes during osteoarthritis which causes pain and may lead to a crippling loss of function in patients. The pathophysiology of osteoarthritis has been understudied and currently no disease modifying treatments exist. The only current end-point treatment remains joint replacement surgery. The primary risk factor for osteoarthritis is age. Clinical and basic research is now focused on understanding the ageing process of cartilage and its role in osteoarthritis. This chapter will outline the physiology of cartilage tissue, the clinical presentation and treatment options for the disease and the cellular ageing processes which are involved in the pathophysiology of the disease.

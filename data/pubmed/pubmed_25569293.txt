@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Seasonal allergies
+TITLE: The connection between seasonal allergies, food allergies, and rhinosinusitis: what is the evidence?
+PMID: 25569293
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25569293/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Rhinosinusitis affects an estimated one in seven adults in the United States. Otolaryngologists are intimately involved in the care of patients with rhinosinusitis and other upper airway inflammatory conditions through procedures such as endoscopic sinus surgery and, therefore, would benefit from a deeper understanding of the associated comorbidities and their management. Recent evidence has suggested several connections between the underlying disease of rhinosinusitis, seasonal allergies, and food allergies. The authors of the present review seek to provide a focused analysis of the recent literature with respect to epidemiology, pathophysiology, and treatment options concerning these conditions. Evidence has connected the function of filaggrin, a skin barrier protein, with the pathogenesis of allergic rhinosinusitis and food allergy. Additionally, decreased levels of regulatory B cells and T cells are associated with and play a role in atopic disease. Overlapping treatment modalities between these conditions suggest similar conclusions. Future research into the role of the skin barrier, regulatory immune cell functioning, transforming growth factor-β, and other cytokine signaling, and treatment options such as omalizumab and azelastine is likely to have profound impact on clinicians' management of patients with these disorders and their comorbidities.

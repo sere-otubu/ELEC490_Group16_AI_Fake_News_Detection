@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tubal ligation
+TITLE: Underlying mechanisms of ovarian cancer risk reduction after tubal ligation.
+PMID: 21355863
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21355863/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A recently published meta-analysis of 21 studies confirmed a protective effect of tubal ligation on the risk of invasive ovarian cancer. This protective measure has received little attention, particularly due to the elusive underlying mechanism. In this commentary we discuss available data concerning the contribution of different potential mechanisms by which tubal ligation might prevent ovarian cancer. Included were studies published in English, identified through a literature search using PubMed and EMBASE. Four main mechanisms are discussed: (a) a screening effect, (b) alteration of ovarian function, (c) a mechanical barrier against ascending carcinogenic agents and (d) prevention of endometrial and proximal Fallopian tube cell ascent. There are arguments supporting the major role of a mechanical barrier to the ascent of endometrial cells into the peritoneal cavity for decreasing risk of ovarian cancer after tubal ligation. Prevention of retrograde transport of carcinogenic substances from the vagina may be an additional mechanism.

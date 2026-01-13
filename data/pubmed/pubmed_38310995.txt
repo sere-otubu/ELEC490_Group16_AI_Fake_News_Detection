@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Circadian rhythms
+TITLE: Circadian rhythms in solid organ transplantation.
+PMID: 38310995
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38310995/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Circadian rhythms are daily cycles in physiology that can affect medical interventions. This review considers how these rhythms may relate to solid organ transplantation. It begins by summarizing the mechanism for circadian rhythm generation known as the molecular clock, and basic research connecting the clock to biological activities germane to organ acceptance. Next follows a review of clinical evidence relating time of day to adverse transplantation outcomes. The concluding section discusses knowledge gaps and practical areas where applying circadian biology might improve transplantation success.

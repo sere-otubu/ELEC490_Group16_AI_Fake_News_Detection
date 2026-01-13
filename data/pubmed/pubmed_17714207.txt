@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chronic disease management
+TITLE: Chronic disease management: time for consultant physicians to take more leadership in system redesign.
+PMID: 17714207
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17714207/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There is a need for system redesign to meet the needs of individuals with chronic disease. New models of chronic disease care include team-based paradigms that focus on continuous and patient-centred care. In such models the roles of providers and patients must change. In this article we focus on new roles for consultant physicians, as well as barriers and incentives to these roles.

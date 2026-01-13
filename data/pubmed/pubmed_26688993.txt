@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tendinitis
+TITLE: Achilles Tendinitis.
+PMID: 26688993
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26688993/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Achilles tendinitis is a common etiology of heel pain, which is a common patient complaint. Achilles tendinitis can be classified into noninsertional tendinosis and insertional tendinitis on the basis of clinical features, radiologic signs, and pathologic findings. Magnetic resonance imaging (MRI) allows classification and reveals associated findings, including retrocalcaneal bursitis, paratendinitis, and paratenonitis. Furthermore, MRI may not only confirm findings of Achilles tendinitis but also diagnose other etiologies of heel pain. This article reviews the MRI findings and terminology of Achilles tendinitis often found in radiology reports.

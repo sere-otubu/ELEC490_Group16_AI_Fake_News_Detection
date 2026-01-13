@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Type 1 allergies
+TITLE: Probiotics, gut microbiota and health.
+PMID: 24290962
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24290962/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The human gut is a huge complex ecosystem where microbiota, nutrients, and host cells interact extensively, a process crucial for the gut homeostasis and host development with a real partnership. The various bacterial communities that make up the gut microbiota have many functions including metabolic, barrier effect, and trophic functions. Hence, any dysbiosis could have negative consequences in terms of health and many diseases have been associated to impairment of the gut microbiota. These close relationships between gut microbiota, health, and disease, have led to great interest in using probiotics (i.e. live micro-organisms), or prebiotics (i.e. non-digestible substrates) to positively modulate the gut microbiota to prevent or treat some diseases. This review focuses on probiotics, their mechanisms of action, safety, and major health benefits. Health benefits remain to be proven in some indications, and further studies on the best strain(s), dose, and algorithm of administration to be used are needed. Nevertheless, probiotic administration seems to have a great potential in terms of health that justifies more research.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sinusitis
+TITLE: Pediatric sinusitis.
+PMID: 8414531
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8414531/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Interest in pediatric sinusitis is growing in response to better diagnostic techniques and to the implication of better results with newer surgical techniques. In addition, sinusitis has the potential for a significant impact on overall health in growing numbers of children with chronic pulmonary disease and immunodeficiency.

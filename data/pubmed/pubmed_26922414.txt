@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Fibromyalgia
+TITLE: Fibromyalgia Pathogenesis and Treatment Options Update.
+PMID: 26922414
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26922414/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This review article presents and summarizes up-to-date literature on the clinical manifestations, diagnosis, pathophysiological mechanisms, and treatment options for fibromyalgia patients. First, the most recent diagnostic criteria for fibromyalgia, as put forth by the American College of Rheumatology will be summarized. Clinical features, including chronic widespread pain, hyperalgesia, mood disorders, anxiety, and disturbed sleep patterns will be explored in-depth. The pathogenesis and pathophysiology of fibromyalgia involves alterations in multiple ascending and descending central nervous system pathways, as well as peripheral pathways, leading to heightened pain sensitivity. Risk factors have been studied extensively, and the most recent research focuses on various genetic influences and the contributions of stress and poor sleep. Lastly, the discussion in this article focuses on treatment options for fibromyalgia; some have been mainstay options for many years. Pharmacological agents include tricyclic antidepressants, anti-epileptic drugs, selective serotonin reuptake inhibitors, norepinephrine/serotonin reuptake inhibitors, as well as some investigational agents. The evidence behind non-pharmacologic treatments, including massage therapy, exercise, and acupuncture, are discussed.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dental cavities
+TITLE: Biological approach of dental caries management.
+PMID: 27189495
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27189495/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Dental caries is a disease induced by dental plaque, which can be described as a community of microorganisms (biofilm). Because of genetic and environmental factors a number of changes in the oral microbiome takes place; in case of commensalism and mutualism between biofilm microorganisms and the host, homeostasis in oral microbiome is maintained. However, when a risk factor occurs parasitic relationship starts prevailing and activity of the pathogenic cariogenic microorganisms increases leading to a dental caries. According to the newest technologies of molecular microbiology new cariogenic microorganisms species have been determined. Each individual's oral microbiome is as unique as his/her immune system; therefore, commonly taken caries prevention measures cannot be of the same effectiveness for all individuals. Each person has his own caries risk which is determined by the oral microbiome and immune system influenced by the environmental and genetic factors. Early caries diagnostic, risk assessment and individualized caries prevention plan will allow us to control the disease and achieve a desirable effect. For the dentist the most important thing is not to treat the consequences of the disease - cavities - but be aware of the dental caries as a biological phenomenon.

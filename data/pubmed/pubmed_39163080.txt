@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Multivitamins
+TITLE: Hypoglycemia and Multivitamins.
+PMID: 39163080
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39163080/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Insulin autoimmune syndrome (IAS) is a rare condition triggered by exposure to various drugs containing sulfhydryl compounds, proton pump inhibitors, supplements, plasma proteins, viral infections like measles, influenza, hepatitis C, and autoimmune conditions like Graves' disease and systemic lupus erythematosus.<sup>1,3</sup> We report two patients with recurrent episodes of hypoglycemia who were then diagnosed with IAS due to the consumption of α-lipoic acid (ALA) present in a multivitamin supplement. Eating small, frequent meals containing complex carbohydrates and steroids helps normalize blood glucose levels and reduce the insulin autoantibodies (IAA) to undetectable levels.<sup>3</sup>.

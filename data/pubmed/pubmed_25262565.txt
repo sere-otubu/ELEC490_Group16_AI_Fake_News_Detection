@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Posture correction
+TITLE: Effect of posture on hip angles and moments during gait.
+PMID: 25262565
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25262565/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Anterior hip pain is common in young, active adults. Clinically, we have noted that patients with anterior hip pain often walk in a swayback posture, and that their pain is reduced when the posture is corrected. The purpose of this study was to investigate a potential mechanism for the reduction in pain by testing the effect of posture on movement patterns and internal moments during gait in healthy subjects. Fifteen subjects were instructed to walk while maintaining three postures: 1) natural, 2) swayback, and 3) forward flexed. Kinematic and force data were collected using a motion capture system and a force plate. Walking in the swayback posture resulted in a higher peak hip extension angle, hip flexor moment and hip flexion angular impulse compared to natural posture. In contrast, walking in a forward flexed posture resulted in a decreased hip extension angle and decreased hip flexion angular impulse. Based on these results, walking in a swayback posture may result in increased forces required of the anterior hip structures, potentially contributing to anterior hip pain. This study provides a potential biomechanical mechanism for clinical observations that posture correction in patients with hip pain is beneficial.

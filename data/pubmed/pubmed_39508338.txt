@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Electrolytes
+TITLE: Quantitative Analysis of Complex Aluminum Electrolytes by X-Ray Fluorescence.
+PMID: 39508338
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39508338/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The future production of electrolytic aluminum will be characterized by low temperature, low carbon emissions, and environmental friendliness, which will result in a more complex electrolyte system. Real-time analysis of electrolytes can significantly enhance the efficiency of the electrolytic process. However, accurately analyzing the composition of complex aluminum electrolytes online has been a technical challenge. This research primarily focuses on determining the ingredient contents of complex aluminum electrolytes based on elemental concentrations measured using X-ray fluorescence (XRF) according to an applicable standard. Calibration curves were established based on 53 standard samples of complex aluminum electrolytes to establish relationships between XRF fluorescence intensity and real concentrations. Analysis conducted on industrial complex electrolytes confirms that these newly constructed curves effectively reduce relative errors to less than 3%. Additionally, a feasible solution is proposed for determining the cryolite ratio (CR) in aluminum electrolytes using XRF. Results demonstrate an average deviation as low as approximately 0.02, fully meeting industrial production requirements. This technique offers numerous benefits including rapid analysis, ease of use, and cost savings.

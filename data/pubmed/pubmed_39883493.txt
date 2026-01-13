@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Biopsy
+TITLE: Ultrathin bronchoscopy-guided small airway biopsy for diagnosing sarcoidosis: A prospective study.
+PMID: 39883493
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39883493/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+New ultrathin bronchoscopes (UTBs) enable the inspection and biopsy of small airways, potentially offering diagnostic advantages in sarcoidosis. In this prospective study, patients with suspected sarcoidosis underwent airway inspection with a UTB. Observed airway abnormalities were categorised into six predefined patterns. UTB-directed small airway biopsies (SABs) were collected from the upper lobes following a standardised procedure. We evaluated the prevalence and patterns of SAAs, as well as the diagnostic yield of UTB-directed SAB. Among 79 participants, 65 (82.3%) were diagnosed with sarcoidosis. Small airway abnormalities were identified in 26/65 (40%) patients, predominantly in those with parenchymal involvement on CT compared to those with lymphadenopathy only (58.1% VS. 23.5%, <i>P</i> = 0.005). The diagnostic yield of SABs for detecting granulomas was significantly higher in patients with SAAs than in those without (65.4% VS. 23.1%, <i>P</i> = 0.001) and in patients with parenchymal disease on CT compared to those without (54.8% VS. 26.5%, <i>P</i> = 0.02). Notably, random biopsies taken under direct visualisation from small airway carinas revealed peribronchiolar parenchyma in 23% of the patients. Small airway abnormalities are prevalent in sarcoidosis patients with parenchymal involvement, and biopsying these abnormalities yields a high rate of granuloma detection.

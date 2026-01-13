@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Atherosclerosis
+TITLE: Air pollution and atherosclerosis.
+PMID: 40411956
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40411956/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Air pollution is associated with considerable cardiovascular mortality and morbidity. The vascular disease atherosclerosis underlies many cardiovascular conditions, with atherosclerotic plaque rupture being a trigger for stroke and myocardial infarction. The acute and chronic effects of air pollution have the potential to exacerbate many different facets of atherosclerosis. This review provides an overview of how air pollution promotes the development of atherosclerosis. The review summaries the epidemiological evidence between exposure to air pollution and morphological measures of atherosclerosis such as carotid intimal media thickness, coronary artery calcification and aortic artery calcification, before summarising the biological mechanisms by which air pollution promotes atherosclerosis at the different stages of disease progression. We offer our perspective of the weight of evidence between air pollution to atherosclerosis and make recommendations for future research to advance this field. Given the ubiquity of air pollution exposure, we stress the need for urgency in efforts to tackle air pollution and emphasise the potential health gains from minimising the effects of air pollutants on this common and often fatal cardiovascular pathology.

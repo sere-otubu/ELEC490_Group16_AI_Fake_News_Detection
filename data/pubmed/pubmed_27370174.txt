@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Leukemia
+TITLE: Chronic lymphocytic leukaemia.
+PMID: 27370174
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27370174/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Chronic lymphocytic leukaemia (CLL) is the most common leukaemia among the adults in the Western World. CLL (and the corresponding nodal entity small lymphocytic lymphoma, SLL) is classified as a lymphoproliferative disorder characterised by the relentless accumulation of mature B-lymphocytes showing a peculiar immunophenotype in the peripheral blood, bone marrow, lymph nodes and spleen. CLL clinical course is very heterogeneous: the majority of patients follow an indolent clinical course with no or delayed treatment need and with a prolonged survival, while others experience aggressive disease requiring early treatment followed by frequent relapses. In the last decade, the improved understanding of CLL pathogenesis shed light on premalignant conditions (i.e., monoclonal B-cell lymphocytosis, MBL), defined new prognostic and predictive markers, improving patient stratification, but also broadened the therapeutic armamentarium with novel agents, targeting fundamental signaling pathways.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ringworm
+TITLE: Control of bovine ringworm by vaccination in Norway.
+PMID: 23711299
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23711299/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Bovine ringworm caused by Trichophyton verrucosum is a notifiable disease in Norway. New infected herds are reported to the Norwegian Food Safety Authority. To limit spread of the disease, restrictions are imposed on holdings including access to common pastures and sale of live animals. Bovine ringworm has been endemic in the Norwegian dairy population for decades. Since 1980 a vaccine (Bovilis Ringvac LTF-130, Merck Animal Health) has been available. The vaccine contains an attenuated strain of T. verrucosum and stimulates humoral and cellular immune responses conferring protection. Efficacy and safety of the vaccine have been evaluated in experimental and field studies. Vaccination campaigns in densely populated counties have contributed to a substantial decrease in number of ringworm outbreaks. The annual incidence of new infected herds decreased from 1.7% in 1980 to 0.043% in 2004. Few herds remained with restrictions and a "mopping up" project was established to offer assistance specifically to these holdings. A milestone was achieved in 2009; no new herds with cases of clinical ringworm caused by T. verrucosum were reported to the authorities. By end of 2012, there are only two herds with restrictions. Vaccination during the last 30 years has been a key control measure in the effort to prevent disease outbreaks and eradicate bovine ringworm in Norway.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Proton pump inhibitors
+TITLE: Proton Pump Inhibitors in Children: the Good, the Bad, and the Ugly.
+PMID: 32524278
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32524278/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The evidence supporting or contesting the prescription of proton pump inhibitors (PPIs) for children and updates on side effects are reviewed. PPIs remain an important therapeutic option for esophagitis and gastritis. However, recent studies demonstrate no benefit when prescribing PPIs for chronic cough, infantile reflux, asthma, or functional gastrointestinal disorders. Recent studies suggest adverse effects on microbiome diversity and immune function, resulting in increased rates of gastrointestinal infections, bone fractures, and atopic disorders. PPIs influence a variety of cell types within the in the innate and adaptive immune systems. PPI prescriptions in children may be indicated for select conditions; however, multiple side effects and immune effects have been described. While most of these side effects are rare and mild, some studies suggest enduring adverse effects. Future studies to elucidate the mechanism behind some of these immune and infectious complications will be beneficial.

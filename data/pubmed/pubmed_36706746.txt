@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Maternal mortality rates
+TITLE: Maternal Mortality in the United States: Trends and Opportunities for Prevention.
+PMID: 36706746
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36706746/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Maternal mortality is unusually high in the United States compared to other wealthy nations and is characterized by major disparities in race/ethnicity, geography, and socioeconomic factors. Similar to other developed nations, the United States has seen a shift in the underlying causes of pregnancy-related death, with a relative increase in mortality resulting from diseases of the cardiovascular system and preexisting medical conditions. Improved continuity of care aimed at identifying reproductive-age women with preexisting conditions that may heighten the risk of maternal death, preconception management of risk factors for major adverse pregnancy outcomes, and primary care visits within the first year after delivery may offer opportunities to address gaps in medical care contributing to the unacceptable rates of maternal mortality in the United States.

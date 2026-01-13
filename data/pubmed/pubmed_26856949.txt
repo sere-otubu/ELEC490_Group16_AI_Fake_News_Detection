@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Clinical trial phases
+TITLE: Reducing clinical trial risk in multiple sclerosis.
+PMID: 26856949
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26856949/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To determine the risk of clinical trial failure for new drugs in multiple sclerosis (MS) and to identify factors that could improve outcomes. We collected data on compounds that were tested in MS from Phase I to Phase III clinical trials between 1998 and January 2015. Clinical trials success rates were calculated and compared to industry standards. The exclusion criteria for the drugs in this study were: drugs that commenced Phase I in MS prior to 1998, non-industry conducted trials, trials testing non-disease modifying drug treatment, and trials testing combinations of drugs already approved by the FDA. Fifty-three distinct drugs met our inclusion criteria. The cumulative success rate for MS drugs was 27%, almost triple the 10% industry rate. Clinical trial success rates in MS surpass that of industry across all phases. Phase II clinical trials completed in a "Relapsing MS" population were most successful in predicting Phase III clinical trial success. Small molecules were found to have a higher overall success rate compared to biologics; however, both drug technologies largely pursue different molecular targets. Drugs that were previously FDA approved for another indication and were subsequently tested in MS had lower success rates than drugs that had no previous FDA approval history. Overall, MS enjoys almost triple the clinical trial success rates of other disease areas. In addition, small molecules are superior to biologics in MS and novel drugs are superior to drugs with a previous FDA approval history outside MS.

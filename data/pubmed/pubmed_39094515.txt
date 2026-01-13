@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cortisol
+TITLE: The role of cortisol in development and treatment of PTSD among service members: A narrative review.
+PMID: 39094515
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39094515/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Posttraumatic stress disorder (PTSD) is a pervasive issue within military populations, with approximately 29 % of post-9/11 service members experience PTSD at some point in their lifetime. One potentially important factor in PTSD development and treatment response is dysregulation of the stress response system stemming from exposure to multiple traumas and sustained operational stress associated with military training and deployment. In particular, the end-product of the hypothalamic-pituitary-adrenal (HPA) axis, cortisol, is of particular interest to researchers examining physiological stress response in the context of mental health. Research exploring cortisol has been ongoing for decades, both to further understand its pathways and mechanisms, and to develop potential novel PTSD treatments. This paper provides a narrative review of some of the published literature examining cortisol's role in PTSD as a potential factor in development, maintenance, and treatment augmentation, with emphasis on military populations. The results of this review highlight the importance of exploring alterations to the stress response system, and cortisol in particular, for the evaluation and treatment of PTSD in the military, the need for more comprehensive work towards understanding development of these alterations through military training and service, and its impact on long-term PTSD outcomes.

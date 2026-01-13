@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Laxatives
+TITLE: Anthraquinone laxatives use and colorectal cancer: A systematic review and meta-analysis of observational studies.
+PMID: 35040201
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35040201/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This systematic review and meta-analysis were conducted to determine the effects of anthraquinone (AQ) laxatives on colorectal cancer (CRC). We searched PubMed, Embase, Google Scholar, and CENTRAL from inception until March 2021, for randomized controlled trials (RCTs) and observational studies. Through the systematic review, we identified 8 observational studies evaluating AQ laxatives use as a risk factor for CRC development, and 5 studies on CRC risk were included in the meta-analysis using a random-effects model. Through the meta-analysis, we found that a history of AQ laxatives use compared with "other" and "no laxatives" use was associated with CRC development (OR: 1.41; 95% CI: 0.94-2.11), although not at a statistically significant level. The possible association persists even after removal of the outlier studies (OR: 1.51; 95% CI: 0.97-2.34). Selection of cases and controls was judged at low or unclear risk of bias across almost all studies, and the quality of evidence was from moderate to low. In conclusion, it is not possible to associate the use of AQ laxatives with the development of CRC. However, the trend toward an increased risk of CRC provides a strong indication for investigating this issue by performing further high-quality studies.

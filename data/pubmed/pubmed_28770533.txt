@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Type 2 Diabetes
+TITLE: Hyperuricemia, Type 2 Diabetes Mellitus, and Hypertension: an Emerging Association.
+PMID: 28770533
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28770533/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Uric acid is the final oxidation product of purine metabolism in circulation and has been associated with the occurrence of gout and kidney stones. Type 2 diabetes mellitus and hypertension are two important public health challenges, and both are linked to increased risk of cardiovascular events. Hyperuricemia has recently emerged as an independent risk factor in the development of type 2 diabetes mellitus and hypertension through several proposed mechanisms. Few clinical trials investigated the use of uric acid lowering agents in the management of these two disease entities; however, their results provided encouraging evidence to a potential role for these agents in fighting disease burden. Larger randomized controlled trials are therefore warranted to establish the role of uric acid as a promising target for novel therapeutic interventions in the management of type 2 diabetes mellitus and hypertension.

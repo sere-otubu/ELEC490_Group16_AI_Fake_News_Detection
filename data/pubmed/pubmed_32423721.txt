@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Substance abuse
+TITLE: Adolescent Substance Abuse.
+PMID: 32423721
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32423721/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Adolescent substance abuse is America's #1 public health problem as per the National Center on Addiction and Substance Abuse. People are most likely to begin abusing drugs during adolescence, and the longer adolescents defer experimentation, the less likely they are to develop long-term drug abuse problems. The CRAFFT and DAST questionnaires are brief, reliable tools for adolescent substance abuse screening. Health care professionals can help continue low adolescent substance utilization rate by having open conversations with adolescents regarding all substances and medications, including illicit substances.

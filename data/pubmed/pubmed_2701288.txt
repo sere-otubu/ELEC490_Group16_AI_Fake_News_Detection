@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Arthritis
+TITLE: Reactive arthritis: an update.
+PMID: 2701288
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2701288/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Arthritides tend to move in the classification flow sheet in a characteristic way: inflammatory--reactive--postinfectious--infective. A distinction between reactive and postinfective arthritis is rarely made in clinical practice and does not have therapeutic implications. In Finland, they are routinely lumped together and termed reactive arthritis (ReA). Native or modified HLA-B27 molecules may be directly involved in the pathogenesis of ReA, perhaps as targets for cytotoxic cells. Individuals with inadvertently strong non-specific inflammatory responses may be particularly disease-prone. The occurrence of different ensuing triggering infections in individual patients further confirms the idea that activation of the immune response and the immunogenetic make-up rather than the type and location of causative microbes as such are relevant. It is also possible that antigen processing of several microbe species of different types ends up with identical cross-reactive epitopes to be presented. It has been and certainly will to an increasing extent be reported that microbial antigens can be demonstrated in the diseased joints. It is assumed that they are involved in the local immune-inflammatory response manifesting clinically as arthritis. It has been shown that the cellular arm of the immune response is activated and for example that most of the local CD4 lymphocytes of chronic arthritides belong to the CDw29 helper-inducer memory cell subset, perhaps responding briskly to antigens originating from the triggering micro-organisms.(ABSTRACT TRUNCATED AT 250 WORDS)

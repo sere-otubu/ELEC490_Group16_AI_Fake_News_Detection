@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Alcoholism
+TITLE: Prevalence of hepatitis C virus infection in alcoholic patients: cohort study and systematic review.
+PMID: 23690232
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23690232/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Prevalence of chronic hepatitis C virus (HCV) infection among alcoholics is thought to be higher than in the general population, although prevalence rates reported are quite variable. Our study is aimed to analyze HCV prevalence in a cohort of alcoholics and to perform a systematic review on this topic. A total of 396 alcoholic patients consecutively referred to our Alcoholism Unit were included. HCV infection status and other clinical variables were recorded for each patient. Variables associated with HCV infection were analyzed by means of logistic regression. Additionally, we performed a systematic review focused on previous studies on this topic. Among our alcoholic patients, 14 of them (3.53%) had chronic HCV infection. Variables independently associated with HCV infection were female gender, injection drug use (IDU) and the presence of alcoholic liver disease (ALD). Twenty-four studies analyzing HCV prevalence in alcoholic patients were included in our systematic review, showing prevalence rates of HCV infection ranging from 2.1 to 51% and an average weighted prevalence of 16.32%. In our series, the prevalence rate of chronic HCV infection among alcoholic patients is lower than previously reported, which is probably explained by the relatively low number of patients with ALD or IDU in our sample. Prevalence rates previously published are quite different and the presence of ALD and/or IDU can act as confounding factors for HCV prevalence among alcoholics.

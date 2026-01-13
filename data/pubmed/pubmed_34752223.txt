@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urinary tract infection
+TITLE: Urinary Tract Infections: 2021 Update.
+PMID: 34752223
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34752223/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Catheter-associated urinary tract infection (CAUTI) remains one of the most prevalent, but preventable, health care-associated infections and predominantly occurs in patients with indwelling urinary catheters. Duration of urinary catheterization is the most important modifiable risk factor for development of CAUTI. Alternatives to indwelling catheters should be considered in appropriate patients. If indwelling catheterization is necessary, proper aseptic practices for catheter insertion and maintenance and use of a closed catheter collection system are essential for preventing CAUTI. The use of intervention bundles and collaboratives helps in the effective implementation of CAUTI prevention measures.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ultrasound
+TITLE: Contrast-enhanced and targeted ultrasound.
+PMID: 21218081
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21218081/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ultrasonic imaging is becoming the most popular medical imaging modality, owing to the low price per examination and its safety. However, blood is a poor scatterer of ultrasound waves at clinical diagnostic transmit frequencies. For perfusion imaging, markers have been designed to enhance the contrast in B-mode imaging. These so-called ultrasound contrast agents consist of microscopically small gas bubbles encapsulated in biodegradable shells. In this review, the physical principles of ultrasound contrast agent microbubble behavior and their adjustment for drug delivery including sonoporation are described. Furthermore, an outline of clinical imaging applications of contrast-enhanced ultrasound is given. It is a challenging task to quantify and predict which bubble phenomenon occurs under which acoustic condition, and how these phenomena may be utilized in ultrasonic imaging. Aided by high-speed photography, our improved understanding of encapsulated microbubble behavior will lead to more sophisticated detection and delivery techniques. More sophisticated methods use quantitative approaches to measure the amount and the time course of bolus or reperfusion curves, and have shown great promise in revealing effective tumor responses to anti-angiogenic drugs in humans before tumor shrinkage occurs. These are beginning to be accepted into clinical practice. In the long term, targeted microbubbles for molecular imaging and eventually for directed anti-tumor therapy are expected to be tested.

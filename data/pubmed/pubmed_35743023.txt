@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antihistamines
+TITLE: Pharmacotherapy of Itch-Antihistamines and Histamine Receptors as G Protein-Coupled Receptors.
+PMID: 35743023
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35743023/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Itching can decrease quality of life and exacerbate skin symptoms due to scratching. Itching not only contributes to disease progression but also triggers complications such as skin infections and eye symptoms. Therefore, controlling itching is very important in therapeutic management. In addition to the well-known histamine, IL-31, IL-4 and IL-13 have recently been reported as factors that induce itching. Itching may also be caused by factors other than these histamines. However, we do not know the extent to which these factors are involved in each disease. In addition, the degree of involvement is likely to vary among individuals. To date, antihistamines have been widely used to treat itching and are often effective, suggesting that histamine is more or less involved in itchy diseases. This review discusses the ligand-receptor perspective and describes the dynamics of G protein-coupled receptors, their role as biased agonists, their role as inverse agonists, proactive antihistamine therapy, and drug selection with consideration of impaired performance and anti-PAF effects.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Yoga benefits
+TITLE: Cognitive, physical, and psychological benefits of yoga for acquired brain injuries: A systematic review of recent findings.
+PMID: 30789008
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30789008/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Yoga is a holistic practice that - when incorporated effectively into neurorehabilitation - has potential to meet the complex needs of persons with acquired brain injury (ABI). This systematic review, conducted in accordance with PRISMA guidelines, investigated cognitive, physical, and psychological outcomes following controlled trials of yoga for ABI. The search returned six eligible studies, four of which focused specifically on stroke rehabilitation. For persons with ABI broadly, within-group improvements were found after yoga for psychological and physical adjustment, quality of life, and respiratory functioning. For stroke specifically, physical and memory recovery was greater in the yoga group vs. exercise control, and within-group improvements were noted for motor functioning, self-efficacy, and quality of life outcomes. Lack of (1) between-group analyses despite the inclusion of control groups, and (2) a common yoga rehabilitation protocol including frequency, length, and duration of yoga must be addressed in future research to establish efficacy of these interventions. Considerations for psychophysiological outcome measures and cultural factors are presented in the context of future research and clinical directions.

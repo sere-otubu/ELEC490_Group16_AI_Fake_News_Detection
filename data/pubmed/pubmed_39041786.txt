@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Measles
+TITLE: What's going on with measles?
+PMID: 39041786
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39041786/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Measles is a highly transmissible systemic viral infection associated with substantial mortality primarily due to secondary infections. Measles induces lifelong immunity to reinfection but loss of immunity to other pathogens. An attenuated live virus vaccine is highly effective, but lapses in delivery have resulted in increasing cases worldwide. Although the primary cause of failure to control measles is failure to vaccinate, waning vaccine-induced immunity and the possible emergence of more virulent virus strains may also contribute.

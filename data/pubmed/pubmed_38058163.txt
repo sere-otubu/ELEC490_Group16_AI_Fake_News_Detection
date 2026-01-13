@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Breast cancer
+TITLE: Male Breast Cancer (MBC) - A Review.
+PMID: 38058163
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38058163/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Males account for 1% of all cases of breast cancer. With the aging of the world's population, the disease has exhibited a rise in incidence in recent decades. Male breasts are smaller than female breasts, making the disease easier to spot, but patients often do not report their cases in time due to a lack of awareness. The stage-to-stage prognosis of male breast cancer is comparable to that of their female counterparts. Due to the relative rarity of the disease and poor patient enrollment in large randomized studies, the optimal management of male breast cancer remains uncertain. This article presents a narrative review of male breast cancer in light of recent literature, with an emphasis on epidemiology, clinical features, and current management.

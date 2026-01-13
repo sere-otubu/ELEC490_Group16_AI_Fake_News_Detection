@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Crohns disease
+TITLE: Host-pathobiont interactions in Crohn's disease.
+PMID: 39448837
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39448837/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The mammalian intestine is colonized by trillions of microorganisms that are collectively referred to as the gut microbiota. The majority of symbionts have co-evolved with their host in a mutualistic relationship that benefits both. Under certain conditions, such as in Crohn's disease, a subtype of inflammatory bowel disease, some symbionts bloom to cause disease in genetically susceptible hosts. Although the identity and function of disease-causing microorganisms or pathobionts in Crohn's disease remain largely unknown, mounting evidence from animal models suggests that pathobionts triggering Crohn's disease-like colitis inhabit certain niches and penetrate the intestinal tissue to trigger inflammation. In this Review, we discuss the distinct niches occupied by intestinal symbionts and the evidence that pathobionts triggering Crohn's disease live in the mucus layer or near the intestinal epithelium. We also discuss how Crohn's disease-associated mutations in the host disrupt intestinal homeostasis by promoting the penetration and accumulation of pathobionts in the intestinal tissue. Finally, we discuss the potential role of microbiome-based interventions in precision therapeutic strategies for the treatment of Crohn's disease.

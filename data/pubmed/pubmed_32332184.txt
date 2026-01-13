@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anemia
+TITLE: Anaemia: A disease or symptom.
+PMID: 32332184
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32332184/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Anaemia is a common diagnosis for clinicians. This mini-review summarises criteria for diagnosing the cause of anaemia. Within the microcytic anaemias, iron-deficient anaemia is most common. In addition, we would like to raise awareness of thalassaemia as a differential diagnosis. A normocytic anaemia, such as anaemia of chronic disease, is a diagnosis of exclusion. A macrocytic anaemia scheme is provided and differentiates based on reticulocyte count. We aim to provide the readers a clear overview of anaemia and when to refer to haematologists.

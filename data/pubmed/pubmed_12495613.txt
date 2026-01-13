@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Neurotransmitters
+TITLE: Developmental neurotransmitters?
+PMID: 12495613
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12495613/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Previous studies support an early role for neurotransmitter signaling before synaptogenesis, but puzzlingly, a neurological phenotype is absent in embryonic mice that lack vesicular release. Demarque et al. (in this issue of Neuron) now report that early release of transmitter is unconventional in not requiring action potentials, Ca(2+) entry, or vesicle fusion, thus potentially reconciling the discrepancy.

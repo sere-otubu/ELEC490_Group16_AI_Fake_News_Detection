@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Root canal
+TITLE: Tissue engineering in endodontics: root canal revascularization.
+PMID: 25571677
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25571677/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Root canal revascularization attempts to make necrotic tooth alive by the use of certain simple clinical protocols. Earlier apexification was the treatment of choice for treating and preserving immature permanent teeth that have lost pulp vitality. This procedure promoted the formation of apical barrier to seal the root canal of immature teeth and nonvital filling materials contained within root canal space. However with the success of root canal revascularization to regenerate the pulp dentin complex of necrotic immature tooth has made us to rethink if apexification is at the beginning of its end. The objective of this review is to discuss the new concepts of tissue engineering in endodontics and the clinical steps of root canal revascularization.

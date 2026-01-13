@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Spinal cord injury
+TITLE: Predicting Outcomes After Spinal Cord Injury.
+PMID: 32624098
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32624098/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The aim of this article is to provide an overview of prognosis and outcomes after spinal cord injury (SCI), including variables that have an impact on neurologic assessment, extent and time frame of natural recovery, specific factors having an impact on prognosis of ambulation, the role of imaging and modalities for assessing the injured spinal cord, and strategies on presenting information to patients and families. The ability to predict outcome after spinal cord injury is important not only for individuals who sustained traumatic SCI and their families but also for rehabilitation professionals and researchers.

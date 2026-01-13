@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Athletes foot
+TITLE: Nail and skin disorders of the foot.
+PMID: 24559870
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24559870/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Disorders of the dermis and the nails on the feet are common. Despite the simplicity of the skin and nail disorders of the foot, they can be debilitating and impact the patient's ability to ambulate and perform activities of daily living. Diagnosis in most cases is confirmed on physical examination alone. Diligent care of skin and nail disorders can prevent further pathology involving the deeper structures of the foot and allow the patient to fully participate in their usual activities.

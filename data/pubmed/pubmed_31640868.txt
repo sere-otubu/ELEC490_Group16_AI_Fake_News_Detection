@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sleep hygiene
+TITLE: Sleep Restriction, Sleep Hygiene, and Driving Safety: The Importance of Situational Sleepiness.
+PMID: 31640868
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31640868/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Sleep-related accidents are a frequent cause of death and injury in the world. Poor sleep hygiene is responsible for sleep deprivation, which is clearly associated with an increased risk of accidents. Evidence shows that self-reported sleepiness at the wheel and reporting of inappropriate line-crossings are strong predictors of accident risk. Although the Epworth sleepiness scale is widely used in clinical practice, it is not the best to evaluate driving risks. Simple questions on the occurrence of near misses and sleepiness at the wheel should be asked systematically to address the issue of fitness to drive.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Bronchitis
+TITLE: Acute bronchitis.
+PMID: 9531910
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9531910/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Acute bronchitis is a lower respiratory tract infection that causes reversible bronchial inflammation. In up to 95 percent of cases, the cause, is viral. While antibiotics are often prescribed for patients with acute bronchitis, little evidence shows that these agents provide significant symptomatic relief or shorten the course of the illness. In a few small studies, bronchodilators such as albuterol have been found to relieve some symptoms of acute bronchitis. Increased attention is being given to the role of Chlamydia species in acute bronchitis and adult-onset asthma. Studies in progress may help to clarify the importance of these organisms in acute bronchitis and to determine whether early treatment can prevent or ameliorate asthma.

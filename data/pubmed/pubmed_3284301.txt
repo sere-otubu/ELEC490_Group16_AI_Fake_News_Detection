@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Caffeine effects
+TITLE: Psychotropic effects of caffeine.
+PMID: 3284301
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3284301/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Chronic, heavy caffeine ingestion may cause or exacerbate anxiety and may be associated with depression and increased use of antianxiety drugs. Caffeine may cause anxiety and panic in panic disorder patients and may aggravate the symptoms of premenstrual syndrome. Chronic users who are caffeine-sensitive may have symptoms of caffeinism at relatively low doses. Individuals who regularly consume moderate to heavy amounts of caffeine may develop caffeinism, or they may show signs of caffeine withdrawal syndrome after abstaining from the drug.

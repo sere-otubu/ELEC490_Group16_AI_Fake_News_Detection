@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Migraine
+TITLE: Migraine overview and summary of current and emerging treatment options.
+PMID: 30681821
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30681821/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Migraine is a leading cause of disability worldwide. Approximately 15% of Americans experience migraines. Most people who have migraines feel that people who do not have them often underestimate their condition. Migraines affect people's quality of life and ability to participate in work, family, and social events. A new class of medication, calcitonin gene-related peptide (CGRP) antagonists, has been approved for migraine prevention in adults. The newly approved CGRP antagonists are erenumab, fremanezumab, and galcanezumab, while eptinezumab looks to 2020 for approval. Lasmiditan, ubrogepant, and rimegepant are currently emerging acute migraine therapies that may be added to the arsenal of current migraine management.

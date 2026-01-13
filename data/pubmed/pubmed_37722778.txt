@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Caffeine effects
+TITLE: Caffeine and sport.
+PMID: 37722778
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37722778/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Caffeine is a trimethylxanthine found in coffee and several other foods and beverages. Its stimulatory effects make it an interesting strategy to boost performance for athletic populations. Scientific evidence supports its efficacy to improve high-intensity endurance exercise, explosive and high-intensity efforts, resistance exercise, team sports and combat sports, though individual variation in the ergogenic response to caffeine exists. Supplementation can be taken in many forms including dissolved in water, via capsules, coffee, energy drinks and caffeinated gum; ingestion via capsules, dissolved in water or in caffeinated gum appear to be most effective. Variability in the exercise response following caffeine supplementation may be explained by genetic factors or habitual caffeine consumption. Caffeine is an excellent supplement for athletes looking to improve their exercise performance, though some consideration of side-effects and impact on sleep are warranted.

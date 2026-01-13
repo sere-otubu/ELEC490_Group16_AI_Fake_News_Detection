@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Herd immunity
+TITLE: Herd Immunity Against Coronavirus: A Review.
+PMID: 35400332
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35400332/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The severe acute respiratory syndrome-related coronavirus 2 (SARS-CoV-2) has spread exponentially, leading to an alarming number of deaths worldwide. A devastating effect has been observed in susceptible populations. Our body's immune system plays a very important role in fighting against diseases. The principle of herd immunity (also known as population immunity), which has found its way into science and has been in the limelight, is the most widely recognised among all. It is an indirect defence against infectious diseases when a community gained immunity, either through vaccines or through prior infection. Herd immunity against COVID-19 must be achieved to reduce the transmission of disease and save lives. Therefore, this review provides a comprehension of the role of immunity, with a special emphasis on herd immunity against COVID-19, and the ways to attain herd immunity in India have also been discussed.

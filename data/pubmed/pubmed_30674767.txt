@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Acne vulgaris
+TITLE: Models for acne: A comprehensive study.
+PMID: 30674767
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30674767/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Acne vulgaris (AV) is the familiar chronic skin ailment affecting most of the individuals. This multifarious, disease involves the bacterium gram-positive, anaerobic Propionibacterium acnes (P. acnes) which resides on skin microflora, and participated in acne inflammation and acne lesions. The object of this review is to discuss presently available in vitro, ex vivo, and in vivo models to evaluate the cosmetic formulations that are developed for dealing and prevention of acne formation. These various available models offer new chances for further research on biologically active materials, drugs & pharmaceutical as well as cosmetics for acne treatment.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cell division meiosis
+TITLE: Phase Separation in Cell Division.
+PMID: 32860741
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32860741/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cell division requires the assembly and organization of a microtubule spindle for the proper separation of chromosomes in mitosis and meiosis. Phase separation is an emerging paradigm for understanding spatial and temporal regulation of a variety of cellular processes, including cell division. Phase-separated condensates have been recently discovered at many structures during cell division as a possible mechanism for properly localizing, organizing, and activating proteins involved in cell division. Here, we review how these condensates play roles in regulating microtubule density and organization and spindle assembly and function and in activating some of the key players in cell division. We conclude with perspectives on areas of future research for this exciting and rapidly advancing field.

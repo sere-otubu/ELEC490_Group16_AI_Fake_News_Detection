@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Food labeling
+TITLE: [Food labeling and the prevention of overweight and obesity: a systematic review].
+PMID: 22124486
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22124486/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article reports on a systematic review of articles on food labeling and the prevention of obesity and overweight, in the MEDLINE, EMBASE, Web of Knowledge, Cochrane Library Plus, Food Science and Technology Abstracts, LILACS, and CINAHL databases. The DeCS/MeSH descriptors were obesity and food labeling. 207 articles were retrieved. Using inclusion and exclusion criteria, 14 articles were selected: 11 were on food labeling and its impact on final food product consumption; 2 were on fast food establishments; 1 on sensory attributes as compared to health recommendations; and 2 on follow-up of interventions. Labeling has a positive effect on final food product consumption, in contrast with fast food restaurants. Sensory attributes were more effective than recommendations on the labels. Follow-up of interventions confirmed the long-term effect of the target interventions.

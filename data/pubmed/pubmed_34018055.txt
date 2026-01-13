@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lung cancer
+TITLE: Role of lung and gut microbiota on lung cancer pathogenesis.
+PMID: 34018055
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34018055/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lung cancer is the leading cause of cancer-related deaths worldwide (Ferlay et al., Int J Cancer 136:E359-386, 2015). In addition, lung cancer is associated with the highest mortality among all cancer types (Wu et al., Exp Ther Med 16:3004-3010, 2018). Previous studies report that microbiota play an important role in lung cancer. Notably, changes in lung and gut microbiota, are associated with progression of lung cancer. Several studies report that lung and gut microbiome promote lung cancer initiation and development by modulating metabolic pathways, inhibiting the function of immune cells, and producing pro-inflammatory factors. In addition, some factors such as microbiota dysbiosis, affect production of bacteriotoxins, genotoxicity and virulence effect, therefore, they play a key role in cancer progression. These findings imply that lung and gut microbiome are potential markers and targets for lung cancer. However, the role of microbiota in development and progression of lung cancer has not been fully explored. The aim of this study was to systemically review recent research findings on relationship of lung and gut microbiota with lung cancer. In addition, we explored gut-lung axis and potential mechanisms of lung and gut microbiota in modulating lung cancer progression. Pulmonary and intestinal flora influence the occurrence, development, treatment and prognosis of lung cancer, and will provide novel strategies for prevention, diagnosis, and treatment of lung cancer.

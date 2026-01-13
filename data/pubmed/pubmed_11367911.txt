@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lymphatic system
+TITLE: Lymphatic system: morphofunctional considerations.
+PMID: 11367911
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11367911/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The lymphatic system, consisting of the lymph nodes and the lymphatic vessels as well as the spleen and various sites of lymphoid tissue, is deputed to important tasks: the immune response, the transport of lipids absorbed at the intestinal level and the reabsorption of water and other substances from the interstitial spaces; the lymph nodes in particular are involved in immunity and lymph filtration-depuration. Therefore, the knowledge of lymph node cellular architecture as well as of the structure and course of lymphatic vessels is of great importance. The pathologic processes that affect the lymphatic system can involve the canalicular and/or nodal part, resulting in patterns directly correlated with their respective function: lymphedema and lymphagitis on one hand, and disorders induced by accumulation, inflammation and tumors, on the other.

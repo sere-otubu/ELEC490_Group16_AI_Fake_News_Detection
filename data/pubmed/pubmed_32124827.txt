@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tonsillitis
+TITLE: Cytokine and immunoglobulin spectra of tissue extracts from tonsils of children with hypertrophy and chronic tonsillitis.
+PMID: 32124827
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32124827/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The aim: To compare the content of α and γ-interferons, interleukins 1β ,4, 10, IgA, IgG, as well as the level of the general forms of immune complexes in tissue extracts from tonsils of children with hypertrophy and chronic tonsillitis. Results: In tissue extracts from tonsils with CT, there is a predominance of inflammation factors, potential sensitization, and the development of immunopathological reactions. The presence of inflammation is indicated by elevated levels of interleukin-1β, immunoglobulin G. High levels of interleukin-4 may indicate that both HPT and CT have a tendency to increase sensitization to microbial and other antigens. Conclusion: The results indicate a significant difference in the qualitative and quantitative state of inflammation factors and allergy in case of HPT and CT. In tonsils with CT, there predominate both simple and allergic inflammations, as well as immunopathological reactions.

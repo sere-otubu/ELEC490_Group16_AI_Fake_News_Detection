@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Food safety guidelines
+TITLE: Safety evaluation of transgenic and genome-edited food animals.
+PMID: 34836658
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34836658/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There is an urgent need to reform the regulation of transgenic and genome-edited food animals. Now is the time to simplify regulatory safety guidelines based on science before it is too late to have these animals in place to meet societal needs in coming decades.

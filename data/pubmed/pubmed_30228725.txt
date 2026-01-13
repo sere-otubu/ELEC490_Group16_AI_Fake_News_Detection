@@ -1,0 +1,8 @@
+SEARCH_TOPIC: GERD
+TITLE: Gastroesophageal Reflux Disease (GERD).
+PMID: 30228725
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30228725/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gastroesophageal reflux disease (GERD) is a common clinical problem, affecting millions of people worldwide. Patients are recognized by both classic and atypical symptoms. Acid suppressive therapy provides symptomatic relief and prevents complications in many individuals with GERD. Advances in diagnostic and therapeutic modalities have improved our ability to identify and manage disease complications. Here, we discuss the pathophysiology and effects of GERD, and provide information on the clinical approach to this common disorder.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Zika virus
+TITLE: Zika Virus Infection in Children.
+PMID: 29406975
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29406975/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Zika virus is a mosquito-borne Flavivirus responsible for symptomatic and asymptomatic infections in humans. Zika was first identified in Africa as a cause of sporadic febrile illness. Beginning in 2015, Zika virus infection was identified in Brazil and linked with several symptomatic infections. Notably, congenital infections were observed with marked neurologic abnormalities. Diagnosis relies on detection of Zika virus by real-time polymerase chain reaction or by the presence of anti-Zika antibodies. Treatment of this viral illness remains supportive; however, proactive screening and interventions are indicated in the treatment of infants with symptomatic congenital infection.

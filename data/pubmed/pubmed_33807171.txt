@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immune response
+TITLE: Zearalenone and the Immune Response.
+PMID: 33807171
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33807171/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Zearalenone (ZEA) is an estrogenic fusariotoxin, being classified as a phytoestrogen, or as a mycoestrogen. ZEA and its metabolites are able to bind to estrogen receptors, 17β-estradiol specific receptors, leading to reproductive disorders which include low fertility, abnormal fetal development, reduced litter size and modification at the level of reproductive hormones especially in female pigs. ZEA has also significant effects on immune response with immunostimulatory or immunosuppressive results. This review presents the effects of ZEA and its derivatives on all levels of the immune response such as innate immunity with its principal component inflammatory response as well as the acquired immunity with two components, humoral and cellular immune response. The mechanisms involved by ZEA in triggering its effects are addressed. The review cited more than 150 publications and discuss the results obtained from in vitro and in vivo experiments exploring the immunotoxicity produced by ZEA on different type of immune cells (phagocytes related to innate immunity and lymphocytes related to acquired immunity) as well as on immune organs. The review indicates that despite the increasing number of studies analyzing the mechanisms used by ZEA to modulate the immune response the available data are unsubstantial and needs further works.

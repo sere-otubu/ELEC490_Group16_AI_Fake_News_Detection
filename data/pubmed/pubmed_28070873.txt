@@ -1,0 +1,8 @@
+SEARCH_TOPIC: PTSD
+TITLE: Animal Models of PTSD: A Critical Review.
+PMID: 28070873
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28070873/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The goals of animal research in post-traumatic stress disorder (PTSD) include better understanding the neurophysiological etiology of PTSD, identifying potential targets for novel pharmacotherapies, and screening drugs for their potential use as PTSD treatment in humans. Diagnosis of PTSD relies on a patient interview and, as evidenced by changes to the diagnostic criteria in the DSM-5, an adequate description of this disorder in humans is a moving target. Therefore, it may seem insurmountable to model the construct of PTSD in animals such as rodents. Fortunately, the neural circuitry involved in fear and anxiety, thought to be essential to the etiology of PTSD in humans, is highly conserved throughout evolution. Furthermore, many symptoms can be modeled using behavioral tests that have face, construct, and predictive validity. Because PTSD is precipitated by a definite traumatic experience, animal models can simulate the induction of PTSD, and test causal factors with longitudinal designs. Accordingly, several animal models of physical and psychological trauma have been established. This review discusses the widely used animal models of PTSD in rodents, and overviews their strengths and weaknesses in terms of face, construct, and predictive validity.

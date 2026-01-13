@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Bypass surgery
+TITLE: Gastro-Intestinal Tract Cancers Following Bariatric Surgery: a Narrative Review.
+PMID: 31175561
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31175561/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The association between obesity and malignancies has been identified epidemiologically. Meanwhile, the increasing global number of bariatric surgeries is reported annually; bariatric surgery's effect on different types of cancers is not well understood. Unfortunately, nonspecific presentations and difficulties regarding investigations make diagnosis challenging. The aim of this study is to compile available data about gastro-intestinal (GI) cancers, occurring after different bariatric surgeries. Although GI cancers are considered a rare complication of obesity surgery, they do exist, and diagnosis needs a high index of suspicion.

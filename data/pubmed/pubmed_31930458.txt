@@ -1,0 +1,8 @@
+SEARCH_TOPIC: E. coli infection
+TITLE: Vitamin D strengthens the bladder epithelial barrier by inducing tight junction proteins during E. coli urinary tract infection.
+PMID: 31930458
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31930458/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Tight junction proteins are pivotal to prevent bacterial invasion of the epithelial barrier. We here report that supplementation with vitamin D can strengthen the urinary bladder lining. Vitamin D deficient and sufficient mice were infected with Escherichia coli (E. coli) transurethrally to cause urinary tract infection. In addition, bladder biopsies were obtained from postmenopausal women before and after a 3-month period of supplementation with 25-hydroxyvitamin D<sub>3</sub> (25D<sub>3</sub>) and ex vivo infected with E. coli. In biopsies, obtained before E. coli infection, vitamin D had no impact on tight junction proteins. However, during E. coli infection, vitamin D induced occludin and claudin-14 in mature superficial umbrella cells of the urinary bladder, as demonstrated by immunohistochemistry. Increased cell-cell adhesion consolidating the epithelial integrity is thereby promoted. We here describe a novel role of vitamin D in the urinary tract supporting vitamin D supplementation to restore the bladder epithelial integrity.

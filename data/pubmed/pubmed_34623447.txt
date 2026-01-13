@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tendinitis
+TITLE: Clinical Management of Patellar Tendinopathy.
+PMID: 34623447
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34623447/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Patellar tendinopathy is a common yet misunderstood condition that afflicts a variety of patient populations. This lack of understanding affects the ability of clinicians to provide effective treatment interventions. Patients with tendinopathy often report long-term and low to moderate levels of pain, diminished flexibility, and reduced strength, as well as decreased physical function. Load-management strategies combined with exercise regimens focused on progressive tendon loading are the most effective treatment options for patients with patellar tendinopathy. This review will provide an evidence-based approach to patellar tendinopathy, including its pathoetiology, evaluation, and treatment strategies.

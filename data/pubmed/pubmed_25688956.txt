@@ -1,0 +1,8 @@
+SEARCH_TOPIC: First aid basics
+TITLE: Marine envenomations.
+PMID: 25688956
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25688956/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Marine stings are common but most are minor and do not require medical intervention. Severe and systemic marine envenoming is uncommon, but includes box jellyfish stings, Irukandji syndrome, major stingray trauma and blue-ringed octopus envenoming. Almost all marine injuries are caused by jellyfish stings, and penetrating injuries from spiny fish, stingrays or sea urchins. This article describes the presentation and management of marine envenomations and injuries that may occur in Australia. First aid for jellyfish includes tentacle removal, application of vinegar for box jellyfish, and hot water immersion (45°C for 20 min) for bluebottle jellyfish stings. Basic life support is essential for severe marine envenomings that result in cardiac collapse or paralysis. Irukandji syndrome causes severe generalised pain, autonomic excess and minimal local pain, which may require large amounts of analgesia, and, uncommonly, myocardial depression and pulmonary oedema occur. Penetrating marine injuries can cause significant trauma depending on location of the injury. Large and unclean wounds may have delayed healing and secondary infection if not adequately irrigated, debrided and observed.

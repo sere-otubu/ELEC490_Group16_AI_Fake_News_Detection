@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Laxatives
+TITLE: Senna alata.
+PMID: 19446609
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19446609/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A review is made of chemical, ethnopharmacological and pharmacological papers dealing with Senna alata (L.) Roxb., a plant that belongs to the Creole traditional system of medicine and that has recently been introduced in the French Pharmacopoeia. The proofs existing for its various usages are presented. The species is mainly used against constipation and skin diseases. The laxative activity is supported by scientific findings. In contrast the dermatologic use requires further investigation. The species can be considered as safe for short-term or topical use.

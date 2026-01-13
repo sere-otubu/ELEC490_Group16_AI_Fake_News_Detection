@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tubal ligation
+TITLE: A systematic review and meta-analysis on tubal ligation and breast cancer risk.
+PMID: 35718766
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35718766/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Based on previous studies, it has been hypothesized that tube sterilization may be associated with a lower risk of breast cancer. This study aims to investigate the relationship between tubal ligation and the risk of breast cancer through a systematic review and meta-analysis. In this systematic review and meta-analysis, PubMed/Medline, Web of Science, Scopus, and Google Scholar were searched for relevant non randomized studies published up to November 2020. Then, we screened the papers to include the eligible papers in the meta-analysis. Finally, we pooled the extracted results of individual studies to estimate the summary effect size. All analyses were done using Stata software version 13 (Stata Corp, College Station, TX). Four hundred sixty-four papers were retrieved from PubMed/Medline (160), Scopus (165), and Web of Science (139), and 21 papers from Google Scholar and manual search of references in selected full texts. After the removal of duplicates and screening of the papers, 11 articles (6 cohort and 5 case-control study) were included in the final analysis. The results of cohort (RR = 0.99, 95% CI = 0.97-1.0, I<sup>2</sup> = 21.1%) and case control studies (OR = 0.87, 95% CI = 0.62-1.12, I<sup>2</sup> = 88.9%) revealed that tubal ligation was not significantly associated with breast cancer risk. According to our findings, tubal ligation cannot be considered as a risk factor associated with breast cancer risk.

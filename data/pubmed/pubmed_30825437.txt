@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Joint replacement
+TITLE: Material Hypersensitivity and Alloplastic Temporomandibular Joint Replacement.
+PMID: 30825437
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30825437/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There appears to be little consensus on how to evaluate and manage patients reporting a possible allergic reaction to joint replacement devices containing metal. This article presents an analysis of the current orthopedic literature in this regard as it relates to diagnosis, testing, and management. Based on that evidence, a management algorithm for metal hypersensitivity in the patient receiving an alloplastic temporomandibular joint replacement is proposed. Orthopedic surgery has recognized metal sensitivity as a problem in joint replacement; using a PubMed search for this topic, the pertinent orthopedic literature was reviewed. Metal hypersensitivity response to implant materials is often a diagnosis of exclusion. The 2 most commonly used tests are the in vivo skin patch test and in vitro lymphocyte transformation test. Initially, conservative management is indicated and other more common causes of symptomatic total joint replacement should be fully explored. Device removal should be considered a last resort. Before a primary total joint replacement, testing could be helpful when a patient reports a history of intolerance to jewelry or of an allergic reaction to a prior metal implant. However, to date, routine testing is not supported by the literature.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: COVID-19
+TITLE: COVID-19: Progress in diagnostics, therapy and vaccination.
+PMID: 32685022
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32685022/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has recently become a pandemic. As the sudden emergence and rapid spread of SARS-CoV-2 is endangering global health and the economy, the development of strategies to contain the virus's spread are urgently needed. At present, various diagnostic kits to test for SARS-CoV-2 are available for use to initiate appropriate treatment faster and to limit further spread of the virus. Several drugs have demonstrated <i>in vitro</i> activity against SARS-CoV-2 or potential clinical benefits. In addition, institutions and companies worldwide are working tirelessly to develop treatments and vaccines against COVID-19. However, no drug or vaccine has yet been specifically approved for COVID-19. Given the urgency of the outbreak, we focus here on recent advances in the diagnostics, treatment, and vaccine development for SARS-CoV-2 infection, helping to guide strategies to address the current COVID-19 pandemic.

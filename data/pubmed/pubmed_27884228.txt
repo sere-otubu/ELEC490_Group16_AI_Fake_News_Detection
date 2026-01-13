@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Heart failure
+TITLE: Heart Failure and Hypertension: Importance of Prevention.
+PMID: 27884228
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27884228/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article discusses the role of hypertension in heart failure. Elevated blood pressure has the greatest population attributable risk for the development of heart failure. The mortality rates following the clinical recognition of heart failure is increased multifold. The treatment of hypertension with antihypertensive agents is particularly effective in preventing heart failure, which makes it the most effective therapy for heart failure.

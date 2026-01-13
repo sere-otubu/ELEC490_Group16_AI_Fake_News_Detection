@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cervical cancer
+TITLE: Cervical Cancer: 2018 Revised International Federation of Gynecology and Obstetrics Staging System and the Role of Imaging.
+PMID: 32182097
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32182097/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+<b>OBJECTIVE.</b> The purpose of this article is to review the epidemiologic aspects of cervical cancer, the 2018 revised International Federation of Gynecology and Obstetrics (FIGO) staging system, and the role of imaging in the staging of cervical cancer. <b>CONCLUSION.</b> Cervical cancer has many prognostic factors, some of which, such as lymph node metastasis, were not included in the original FIGO staging system. FIGO has issued a revised staging system that encompasses additional prognostic factors to facilitate adequate management.

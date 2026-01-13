@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Plasma
+TITLE: Plasma components: properties, differences, and uses.
+PMID: 22578375
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22578375/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+General use of plasma components includes replacement for multiple coagulation factor deficiencies, for treatment of single coagulation factor deficiencies for which a concentrate is unavailable, and as a replacement fluid used in therapeutic plasma exchange for thrombotic thrombocytopenic purpura. Four major products currently transfused are fresh-frozen plasma (FFP), plasma frozen within 24 hours of phlebotomy (FP24), cryoprecipitate-poor plasma (CPP), and thawed plasma. FP24, CPP, and thawed plasma contain decreased amounts of labile coagulation factors. Pathogen reduction technology has included solvent/detergent, methylene blue, and ultraviolet light irradiation with psoralen or riboflavin treatment and is available in Europe but not in the United States. Pathogen-reduced plasma may contain reduced levels of certain coagulant and/or anticoagulant factors compared to FFP. Clinical findings with pathogen-reduced plasma have provided an impetus to the US Food and Drug Administration to promulgate specific requirements for approval of novel plasma products, some of which may be too burdensome for the industry to readily overcome.

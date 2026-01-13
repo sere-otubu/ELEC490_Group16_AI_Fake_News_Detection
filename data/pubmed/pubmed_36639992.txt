@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Acupuncture
+TITLE: Efficacy of acupuncture therapy for post-stroke fatigue: a systematic review and Meta-analysis.
+PMID: 36639992
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36639992/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To assess the effectiveness and safety of acupuncture for post-stroke fatigue (PSF). Eight online databases were searched to collect relevant trials of acupuncture for PSF published before April 2021. Meta-analysis was performed by using RevMan 5.4 software. The Grading of Recommendations, Assessment, Development and Evaluation system was used to assess the certainty of evidence. Four randomized controlled trials involving 289 PSF patients were identified and included in the systematic review. The results of the Meta-analysis revealed that acupuncture group was significantly better than routine treatment group in improving the effective rate [risk ratio () = 1.15, 95%(1.01, 1.33), = 0.04], reducing the FSS score [mean difference () =?－4.71, 95% ?(－6.22, －3.20), < 0.000 01] and FMA score [=?15.60, 95%?(11.96, 19.23), < 0.000 01]. Side effects of acupuncture were mild and rarely reported. The certainty of evidence of the outcomes based on the four trials was assessed as low. The existing evidence suggests acupuncture as an adjunct to routine treatment may benefit in managing fatigue in stroke patients. However, high-quality RCTs are needed to further confirm these findings.

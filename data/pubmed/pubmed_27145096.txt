@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Osteoarthritis
+TITLE: Epidemiology of Posttraumatic Osteoarthritis.
+PMID: 27145096
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27145096/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Osteoarthritis is a leading cause of disability whose prevalence and incidence continue to increase. History of joint injury represents an important risk factor for posttraumatic osteoarthritis and is a significant contributor to the rapidly growing percentage of the population with osteoarthritis. This review will present the epidemiology associated with posttraumatic osteoarthritis, with particular emphasis on the knee and ankle joints. It is important to understand the effect of posttraumatic osteoarthritis on the population so that sufficient resources can be devoted to countering the disease and promoting optimal long-term health for patients after joint injury.

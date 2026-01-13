@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antifungals
+TITLE: Antifungals: Mechanism of Action and Drug Resistance.
+PMID: 26721281
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26721281/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There are currently few antifungals in use which show efficacy against fungal diseases. These antifungals mostly target specific components of fungal plasma membrane or its biosynthetic pathways. However, more recent class of antifungals in use is echinocandins which target the fungal cell wall components. The availability of mostly fungistatic antifungals in clinical use, often led to the development of tolerance to these very drugs by the pathogenic fungal species. Thus, the development of clinical multidrug resistance (MDR) leads to higher tolerance to drugs and its emergence is helped by multiple mechanisms. MDR is indeed a multifactorial phenomenon wherein a resistant organism possesses several mechanisms which contribute to display reduced susceptibility to not only single drug in use but also show collateral resistance to several drugs. Considering the limited availability of antifungals in use and the emergence of MDR in fungal infections, there is a continuous need for the development of novel broad spectrum antifungal drugs with better efficacy. Here, we briefly present an overview of the current understanding of the antifungal drugs in use, their mechanism of action and the emerging possible novel antifungal drugs with great promise.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hearing loss
+TITLE: Hearing Loss in Children: A Review.
+PMID: 33258894
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33258894/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hearing loss in children is common and by age 18 years, affects nearly 1 of every 5 children. Without hearing rehabilitation, hearing loss can cause detrimental effects on speech, language, developmental, educational, and cognitive outcomes in children. Consequences of hearing loss in children include worse outcomes in speech, language, education, social functioning, cognitive abilities, and quality of life. Hearing loss can be congenital, delayed onset, or acquired with possible etiologies including congenital infections, genetic causes including syndromic and nonsyndromic etiologies, and trauma, among others. Evaluation of hearing loss must be based on suspected diagnosis, type, laterality and degree of hearing loss, age of onset, and additional variables such as exposure to cranial irradiation. Hearing rehabilitation for children with hearing loss may include use of hearing aids, cochlear implants, bone anchored devices, or use of assistive devices such as frequency modulating systems. Hearing loss in children is common, and there has been substantial progress in diagnosis and management of these cases. Early identification of hearing loss and understanding its etiology can assist with prognosis and counseling of families. In addition, awareness of treatment strategies including the many hearing device options, cochlear implant, and assistive devices can help direct management of the patient to optimize outcomes.

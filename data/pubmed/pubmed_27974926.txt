@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Type 2 Diabetes
+TITLE: Type 2 diabetes mellitus in children and adolescents: a relatively new clinical problem within pediatric practice.
+PMID: 27974926
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27974926/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Type 2 diabetes mellitus is a complex, chronic metabolic disease, presents a heterogeneous etiology, with risk factors at the social level and behavioral, environmental, and genetic susceptibility. It is associated with serious complications, but the early diagnosis and initiation of therapy may prevent or delay the onset of long-term complications. In children and adolescents, it was observed in particular increasing the prevalence of T2DM along with obesity, which is associated with insulin resistance. Patient and family education for a young person with T2DM is very important and will focus on behavioral changes (diet and activity).

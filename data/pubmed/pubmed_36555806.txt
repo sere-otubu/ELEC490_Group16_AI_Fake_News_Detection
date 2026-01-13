@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Integumentary system
+TITLE: Zinc and Zinc Transporters in Dermatology.
+PMID: 36555806
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36555806/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Zinc is an important trace mineral in the human body and a daily intake of zinc is required to maintain a healthy status. Over the past decades, zinc has been used in formulating topical and systemic therapies for various skin disorders owing to its wound healing and antimicrobial properties. Zinc transporters play a major role in maintaining the integrity of the integumentary system by controlling zinc homeostasis within dermal layers. Mutations and abnormal function of zinc-transporting proteins can lead to disease development, such as spondylocheirodysplastic Ehlers-Danlos syndrome (SCD-EDS) and acrodermatitis enteropathica (AE) which can be fatal if left untreated. This review discusses the layers of the skin, the importance of zinc and zinc transporters in each layer, and the various skin disorders caused by zinc deficiency, in addition to zinc-containing compounds used for treating different skin disorders and skin protection.

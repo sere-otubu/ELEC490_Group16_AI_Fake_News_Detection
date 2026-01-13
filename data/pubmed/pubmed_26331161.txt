@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tonsillitis
+TITLE: [Chronic tonsillitis, etiological and pathogenetic aspects of the development of metatonsillar complications].
+PMID: 26331161
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26331161/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The objective of the present study was to summarize the data of the current literature publications concerning the tonsillar biotope under the normal conditions and in the course of the development of the pathological process. Specific microbiological characteristics of the potential causative agents of tonsillar pathology are considered. The structural, immunological, and genetic prerequisites for the for progress of infection are discussed with special reference to the morphological and functional changes in the tissue of palatine tonsils associated with different forms of the disease and the mechanisms underlying immunopathological conditions and metatonsillar complications.

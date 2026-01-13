@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hepatitis C
+TITLE: [Hepatitis C virus].
+PMID: 1329790
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1329790/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hepatitis C Virus, major causative agent of parenterally transmitted non-A non-B hepatitis was identified by Choo et al. in 1988 using molecular biology technologies. This virus contains a positive stranded RNA genome, it has been shown to have a small diameter. These structure and properties suggest that HCV shares many features in common with Pestiviruses and Flaviviruses. After many years of research, two major objectives were reached: -the identification of viral genome and the main purified viral polypeptide derived from recombinant yeast. Major information were recently appearing about the nucleotide sequences of different isolates coming from US, Europe and Japan; -the preparation of specific tool (ELISA anti-HCV) for detection of circulating HCV antibodies.

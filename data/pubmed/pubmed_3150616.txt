@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gonorrhea
+TITLE: Norfloxacin in the treatment of gonorrhea due to penicillinase and non-penicillinase producing Neisseria gonorrheae: a review.
+PMID: 3150616
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3150616/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In 12 recent clinical studies, norfloxacin given in various dosage regimens was shown to be highly effective in treating 1,588 gonococcal infections in 1,486 patients. A single oral dose of norfloxacin 800 mg cured 99.2% of 783 patients with penicillinase producing strains of Neisseria gonorrheae (PPNG) and non-penicillinase producing N. gonorrheae (NPPNG) causing urethritis, cervicitis and anorectal infections. A single oral dose of 800 mg of norfloxacin was found to be an effective alternative to a 2 g intramuscular dose of spectinomycin and superior to a 2.5 g oral dose of thiamphenicol for the treatment of PPNG urethritis or cervicitis. Its efficacy in treatment of NPPNG infections was shown to be similar to that of a single oral dose of 3.5 g of ampicillin plus 1 g of probenecid. Mild and transient gastrointestinal and neurological adverse events occurred in 3.3% of patients treated with norfloxacin 800 mg. Norfloxacin 800 mg as a single dose is recommended as an effective and safe single-dose treatment of urethritis, cervicitis and anorectal infections caused by PPNG or NPPNG.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Screen time health
+TITLE: The Association between Screen Time and Attention in Children: A Systematic Review.
+PMID: 35430923
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35430923/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Electronic media pervade modern life. Childhood is a crucial period for attentional development and the screen exposure time is increasing. This review aimed to understand the association between screen time and attention of children with typical development. A systematic review was conducted in compliance with Preferred Reporting Items for Systematic Reviews and Meta-Analyzes PRISMA being registered at Prospero under number CRD42021228721. A search was performed in January 2021 with the following keywords: "screen time," "children," and "attention," combined with the operator AND, on databases PubMed, and PsycINFO. Four hundred and ninety-eight articles were identified, and 41 papers were fully read, of which 11 were included in this review. Most studies found associations between screen time and attention in children. Only one study reported that children with more screen time performed better in an attention task. The findings suggest that exposure to excessive screen time in children can be associated with attention problems. Parents and teachers may be involved in controlling screen exposure, especially after the extensive exposition to online classes, due to the pandemic. Further studies are needed to assess the influence of this overexposure on care over time.

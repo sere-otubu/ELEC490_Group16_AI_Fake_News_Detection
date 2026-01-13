@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pituitary gland
+TITLE: Neuroimaging of the Pituitary Gland: Practical Anatomy and Pathology.
+PMID: 33040852
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33040852/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The pituitary gland is a small endocrine organ located within the sella turcica. Various pathologic conditions affect the pituitary gland and produce endocrinologic and neurologic abnormalities. The most common lesion of the pituitary gland is the adenoma, a benign neoplasm. Dedicated MR imaging of the pituitary is radiologic study of choice for evaluating pituitary gland and central skull region. Computed tomography is complimentary and allows for identification of calcification and adjacent abnormalities of the osseous skull base. This review emphasizes basic anatomy, current imaging techniques, and highlights the spectrum of pathologic conditions that affect the pituitary gland and sellar region.

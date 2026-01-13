@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Spinal cord injury
+TITLE: Ischemic Spinal Cord Injury-Experimental Evidence and Evolution of Protective Measures.
+PMID: 33434541
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33434541/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Paraplegia remains one of the most devastating complications of descending and thoracoabdominal aortic repair. The aim of this review is to outline the current state of art in the rapidly developing field of spinal cord injury research. A review of PubMed and Web of Science databases was performed using the following terms and their combinations: spinal cord, injury, ischemia, ischemia-reperfusion, ischemic spinal cord injury, paraplegia, paraparesis. Articles published before July 2019 were screened and included if considered relevant. The review focuses on the topic of spinal cord injury and the developments concerning methods of monitoring, diagnosing, and preventing spinal cord injury. Translation of novel technologies from bench to bedside and into everyday clinical practice is challenging; however, each of the developing areas holds great promise in spinal cord injury prevention.

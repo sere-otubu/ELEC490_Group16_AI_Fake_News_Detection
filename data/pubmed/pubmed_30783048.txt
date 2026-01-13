@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HPV infection
+TITLE: From HPV Infection to Lesion Progression: The Role of HLA Alleles and Host Immunity.
+PMID: 30783048
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30783048/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Persistent high-risk human papillomavirus (HPV) infection has been associated with increased risk for cervical precancerous lesions and cancer. The host's genetic variability is known to play a role in the development of cervical cancer. The human leukocyte antigen (HLA) genes are highly polymorphic and have shown to be important risk determinants of HPV infection persistence and disease progression. HLA class I and II cell surface molecules regulate the host's immune system by presenting HPV-derived peptides to T-cells. The activation of T-cell response may vary depending on the HLA allele polymorphism. The engagement of the T-cell receptor with the HPV peptide-HLA complex to create an active costimulatory signal is essential for the activation of the T-cell response. Functional peptide presentation by both HLA class I and II molecules is needed to activate efficient helper and effector T-cell responses in HPV infection recognition and clearance. Some of these HLA risk alleles could also be used as preventive tools in the detection of HPV-induced cervical lesions and cancer. These HLA alleles, together with HPV vaccines, could potentially offer possible solutions for reducing HPV-induced cervical cancer as well as other HPV-related cancers.

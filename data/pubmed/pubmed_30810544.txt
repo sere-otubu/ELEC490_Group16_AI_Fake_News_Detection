@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vaping health risks
+TITLE: RESPIRATORY IMPACT OF ELECTRONIC CIGARETTES AND "LOW-RISK" TOBACCO.
+PMID: 30810544
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30810544/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Electronic cigarettes, handheld devices that generate an aerosol that may contain nicotine by heating a solution or e-liquid, have been increasingly used especially in the young population. The aerosol's composition is determined by temperature, and by the substances contained in the heated liquid: glycerin, propylene glycol, nicotine in variable concentrations, flavoring agents, and other non-nicotine compounds. >80 compounds (including known toxics, e.g., formaldehyde, acetaldehyde, metallic nanoparticles, and acrolein) have been found in e-liquid and aerosols. Airway irritation, mucus hypersecretion, and inflammatory response, including systemic changes, have been observed after the exposure to e-cigarettes, leading to an increase in respiratory symptoms and changes in respiratory function and the host defense mechanisms. E-cigarette has been linked with an increase of symptoms in individuals with asthma, cystic fibrosis, and chronic obstructive pulmonary disease. One of the major concerns in public health is the rise in e-cigarette experimentation among never-smokers, especially children and adolescents, which leads to nicotine addiction and increases the chances of becoming with time a conventional smoker. There is an urgent need to regulate e-cigarettes and electronic nicotine delivery systems, at least with the same restrictions to those applied to tobacco products, and not to consider them as harmless products.

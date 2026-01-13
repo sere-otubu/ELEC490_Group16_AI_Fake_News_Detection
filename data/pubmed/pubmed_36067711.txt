@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tonsillectomy
+TITLE: Tonsillectomy and poliomyelitis: Development of causality.
+PMID: 36067711
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36067711/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This paper serves to review the historical progression of clinical, epidemiological and immunological evidence on the relationship between tonsillectomy and poliomyelitis and its influence on clinical medicine. A literature review was conducted using terms relating to poliomyelitis, tonsillectomy, and immunology. Primary sources published between 1900 and 2000 were reviewed, analyzed and evaluated based on their historical, clinical, epidemiological, scientific and immunological pertinence towards the relationship between tonsillectomy, and poliomyelitis during epidemics. The first study proposing a relationship between poliomyelitis and tonsillectomy was a case report published in 1910 by Phillip Sheppard. In response, other physicians began conducting clinical and epidemiological studies investigating the relationship between recent tonsillectomy and poliomyelitis in children. While the results of many of these studies demonstrated an increased morbidity and mortality rate associated with poliomyelitis in children who underwent recent tonsillectomy, other studies claimed there was no connection. Opposing study results and diverging physician views on this relationship left the medical community divided on whether to recommend against elective tonsillectomies during poliomyelitis outbreaks. The relationship between tonsillectomy and poliomyelitis was established after many years of clinical and epidemiological studies. Further scientific and immunological investigations revealed the causal nature of this relationship.

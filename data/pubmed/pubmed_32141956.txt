@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lyme disease
+TITLE: Lyme disease: diagnosis and treatment.
+PMID: 32141956
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32141956/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lyme disease is an important, vector-borne infection found throughout the temperate Northern hemisphere. The disease causes rash, acute systemic illness, and in some untreated patients, inflammatory arthritis. This review examines the emergence, clinical features and management of early Lyme disease and Lyme arthritis. There has been continuing progress in characterizing the clinical manifestations, diagnostic testing and treatment of Lyme disease. Almost all patients with early Lyme disease can be cured with antibiotic treatment. In most cases, Lyme arthritis also responds to antibiotics, but some patients require additional treatment approaches. The diagnosis of Lyme disease is based on clinical manifestations and adjunctive laboratory testing. For the rheumatologist, Lyme arthritis should be recognized by a pattern of attacks of asymmetric, oligo-arthritis, recognizable by clinical manifestations in the same way that other rheumatic diseases, such as gout or rheumatoid arthritis, are diagnosed.

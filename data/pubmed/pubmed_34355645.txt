@@ -1,0 +1,8 @@
+SEARCH_TOPIC: COVID-19
+TITLE: COVID-19: clinical presentation and detection methods.
+PMID: 34355645
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34355645/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The unending outburst of COVID-19 has reinforced the necessity of SARS-CoV-2 identification approaches for the prevention of infection transmission and the proper care of severe and critical patients. As there is no cure, a prompt and reliable diagnosis of SARS-CoV2 is vital to counter the spread and to provide adequate care and treatment for the infection. Currently, RT-PCR is a gold standard detection method for the qualitative and quantitative detection of viral nucleic acids. Besides, enzyme-linked immunosorbent assay is also a primarily used method for qualitative estimation of viral load. However, almost all the detection methods have their pros and cons in terms of specificity, accuracy, sensitivity, cost, time consumption, the need for sophisticated laboratories, and the requirement of skilled technical experts to carry out the detection tests. Thus, it is suggested to integrate different techniques to enhance the detection efficiency and accurateness for SARS-CoV2. This review focuses on preliminary, pre-confirmatory, and confirmatory methods of detection such as imaging techniques (chest-X-ray and chest- computed tomography), nucleic acid detection methods, serological assay methods, and viral culture and identification methods that are currently being employed to detect the presence of SARS-CoV-2 infection along with recent detection method and applicability for COVID-19.

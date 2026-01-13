@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Influenza
+TITLE: Addressing influenza's underestimated burden - Iberian experts call to action.
+PMID: 37158822
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37158822/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Having a proper understanding of the impact of influenza is a fundamental step towards improved preventive action. This paper reviews findings from the Burden of Acute Respiratory Infections study on the burden of influenza in Iberia, and its potential underestimation, and proposes specific measures to lessen influenza's impact.

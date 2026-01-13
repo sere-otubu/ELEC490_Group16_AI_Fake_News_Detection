@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cataract surgery
+TITLE: Manual small incision cataract surgery.
+PMID: 31770166
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31770166/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To review various techniques of manual small incision cataract surgery (MSICS), updates on training residents and fellows, and cost-effectiveness of the surgery. Recent population studies estimate that there are 53 million people blind worldwide from cataracts, up from previous figures. This is in part because of population growth and increased life expectancy worldwide. MSICS continues to play a significant role in addressing cataract burden and there is an increasing need to train surgeons in the technique. In response to this need, several modules and rubrics have been developed to assist in the training process. MSICS has been refined over recent decades with overall outcomes comparable to phacoemulsification (phaco) in certain settings. MSICS cost and efficiency advantages support its ongoing essential role in addressing global cataract blindness.

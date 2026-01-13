@@ -1,0 +1,8 @@
+SEARCH_TOPIC: COPD
+TITLE: Analyses of Factors Associated with Acute Exacerbations of Chronic Obstructive Pulmonary Disease: A Review.
+PMID: 38034468
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38034468/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Acute exacerbations of chronic obstructive pulmonary disease (AECOPD) is the exacerbation of a range of respiratory symptoms during the stable phase of chronic obstructive pulmonary disease (COPD). AECOPD is thus a dangerous stage and key event in the course of COPD, as its deterioration and frequency seriously affects the quality of life of patients and shortens their survival. Acute exacerbations occur and develop due to many factors such as infection, tobacco smoke inhalation, air pollution, comorbidities, airflow limitation, various biomarkers, history of previous deterioration, natural killer cell abnormalities, immunoglobulin G deficiency, genetics, abnormal muscle and nutritional status, negative psychology, and seasonal temperature changes. There is relatively limited research on the impact of the role of standardized management on the alleviation of AECOPD. However, with the establishment of relevant prevention and management systems and the promotion of artificial intelligence technology and Internet medical approaches, long-term effective and standardized management of COPD patients may help to achieve the quality of life and disease prognosis in COPD patients and reduce the risk of AE.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Organ transplant
+TITLE: Modifying the Organ Matrix Pre-engraftment: A New Transplant Paradigm?
+PMID: 31109797
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31109797/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The availability of solid organs for transplantation remains low and there is a substantial need for methods to preserve the viability of grafted tissues. Suppression of solid-organ transplant rejection has traditionally focused on highly effective T cell inhibitors that block host immune lymphocyte responses. However, persistent and destructive innate and acquired immune reactions remain difficult to treat, causing late graft loss. Pretreatment of grafts to reduce organ rejection provides an alternate strategy. Approaches using antithrombotics, stem cells, genetic modifications, modulation of infrastructural components (connective tissue, CT; glycocalyx) of donor organs, and engineering of new organs are under investigation. We discuss here new approaches to modify transplanted organs prior to engraftment as a method to reduce rejection, focusing on the CT matrix.

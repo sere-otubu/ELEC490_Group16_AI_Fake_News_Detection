@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insulin therapy
+TITLE: Insulin therapy in diabetes mellitus: how can the currently available injectable insulins be most prudently and efficaciously utilised?
+PMID: 17722952
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17722952/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The era of animal source insulins has passed and human recombinant DNA insulins are gradually being replaced because of the superior efficacy of insulin analogues. Analogue insulins are available in both rapid- and long-acting preparations. Currently available rapid-acting insulins are lispro, aspart and glulisine, and the currently available long-acting analogue basal insulins are detemir and glargine. The rapid-acting insulin analogues are also available in combination with protamine in fixed-dose pre-mixed insulins to provide a more sustained action. The chemical structure, subcutaneous behaviour, time of onset, maximal effect and duration of action of both analogue and human insulins, and how these actions can be best utilised in the diabetic patient are discussed in this review. In addition, strategies where efficacy of the available analogue insulins can be maximally utilised in both type 1 and type 2 diabetes mellitus are described. Maximal utilisation of analogue insulins will result not only in better glycaemic control, but will also minimise the frequency and severity of hypoglycaemic episodes. In addition, maximisation of glycaemic control will result in prevention, delay of onset or amelioration of both the microvascular and perhaps the macrovascular complications of diabetes.

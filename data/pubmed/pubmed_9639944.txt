@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hospital infection control
+TITLE: Epidemiology as a tool for hospital infection control.
+PMID: 9639944
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9639944/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Epidemiology today studies the occurrence of health and disease and evaluates the global quality of health care, whereas it previously mainly consisted in the investigation of infectious outbreaks. This paper describes basic principles of descriptive and analytical hospital epidemiology, and focuses on the standardized and professional methodology used to manage nosocomial outbreaks. The basis for applied epidemiology for infection control purposes is surveillance. Computer technology permits data retrieval for detailed investigation by filtering the microbiology reports for specific data with nosocomial and epidemiological importance, so that expertise and organization of the microbiology laboratory have become key success factors for surveillance. In Belgium epidemiologists rarely, if ever, practice in hospitals as a separate discipline, although professional hospital epidemiology as part of infection control would be profitable for all. A debate is still to be held on how epidemiology should be organized in Belgian hospitals. It is generally accepted and provided by law that hospital hygiene physicians and nurses should perform epidemiological investigations and surveillance. However, the lack of professional training in epidemiology and insufficient resources constitute two major drawbacks. Microbiological typing techniques have become indispensable tools for epidemiology and should be accessible to every hospital infection control practitioner.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Meal planning
+TITLE: What determines real-world meal size? Evidence for pre-meal planning.
+PMID: 21232568
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21232568/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The customary approach to the study of meal size suggests that 'events' occurring during a meal lead to its termination. Recent research, however, suggests that a number of decisions are made before eating commences that may affect meal size. The present study sought to address three key research questions around meal size: the extent to which plate-cleaning occurs; prevalence of pre-meal planning and its influence on meal size; and the effect of within-meal experiences, notably the development of satiation. To address these, a large-cohort internet-based questionnaire was developed. Results showed that plate-cleaning occurred at 91% of meals, and was planned from the outset in 92% of these cases. A significant relationship between plate-cleaning and meal planning was observed. Pre-meal plans were resistant to modification over the course of the meal: only 18% of participants reported consumption that deviated from expected. By contrast, 28% reported continuing eating beyond satiation, and 57% stated that they could have eaten more at the end of the meal. Logistic regression confirmed pre-meal planning as the most important predictor of consumption. Together, our findings demonstrate the importance of meal planning as a key determinant of meal size and energy intake.

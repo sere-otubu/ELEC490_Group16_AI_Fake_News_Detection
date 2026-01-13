@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Arthroscopy
+TITLE: Hip Arthroscopy: A Brief History.
+PMID: 27343387
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27343387/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hip arthroscopy is a fast-growing and evolving field. Like knee and shoulder arthroscopy, hip arthroscopy began as a diagnostic procedure and then progressed to biopsy and resection of abnormalities. Subsequently, it has evolved to repair of various tissues and treatment of underlying causes. As the understanding of the hip joint and its associated pathophysiology grows, indications will continue to expand for this diagnostic and therapeutic modality. This article outlines the historic developments of hip arthroscopy, including advancements in instrumentation and techniques from the days of the first hip arthroscopies to the present day.

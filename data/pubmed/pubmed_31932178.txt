@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Plasma
+TITLE: Plasma self-sufficiency in Spain.
+PMID: 31932178
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31932178/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In Spain, plasma obtained from whole blood units and plasmapheresis programmes ensures 42.9 % self-sufficiency in intravenous immunoglobulin and 68.4 % in albumin. Despite the increase in the number of plasmaphereses, it has proved impossible to compensate for the drop in source plasma, caused by the decrease in whole blood donations, and for the increase in intravenous immunoglobulin consumption. This article describes the situation in Spain and the measures required to improve it.

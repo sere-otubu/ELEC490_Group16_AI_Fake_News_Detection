@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immune system
+TITLE: Neuromodulation by the immune system: a focus on cytokines.
+PMID: 33649606
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33649606/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Interactions between the immune system and the nervous system have been described mostly in the context of diseases. More recent studies have begun to reveal how certain immune cell-derived soluble effectors, the cytokines, can influence host behaviour even in the absence of infection. In this Review, we contemplate how the immune system shapes nervous system function and how it controls the manifestation of host behaviour. Interactions between these two highly complex systems are discussed here also in the context of evolution, as both may have evolved to maximize an organism's ability to respond to environmental threats in order to survive. We describe how the immune system relays information to the nervous system and how cytokine signalling occurs in neurons. We also speculate on how the brain may be hardwired to receive and process information from the immune system. Finally, we propose a unified theory depicting a co-evolution of the immune system and host behaviour in response to the evolutionary pressure of pathogens.

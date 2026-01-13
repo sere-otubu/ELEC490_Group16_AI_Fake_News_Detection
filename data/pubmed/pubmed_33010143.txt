@@ -1,0 +1,8 @@
+SEARCH_TOPIC: GERD
+TITLE: Advances in the diagnosis of GERD.
+PMID: 33010143
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33010143/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gastroesophageal reflux disease (GERD) is considered one of the most frequent chronic gastrointestinal diseases globally with high costs due to treatment and investigations.First line therapy is with proton pump inhibitors, those who do not respond to initial treatment usually require further investigations such as upper gastrointestinal endoscopy or ambulatory 24-hours esophageal pH monitoring. The total time of exposure to acid and the DeMeester score represent the most useful parameters associated with conventional pH-metry, because they can identify gastroesophageal reflux disease.Although pH-metry is considered the gold standard for the evaluation of gastroesophageal reflux disease, new impedance-based parameters have been introduced in recent years with the role of increasing the accuracy of diagnosing gastroesophageal reflux disease and characterizing the type of reflux. The development of multichannel intraluminal pH-impedance has improved the ability to detect and quantify gastroesophageal reflux. New parameters such as post-reflux swallowing peristaltic wave (PSPW) index and the mean nocturnal basal impedance (MNBI) have recently been introduced to assess GERD phenotypes more accurately. This review evaluates current GERD diagnotic tools while also taking a brief look at newer diagnostic parameters like PSPW and MNBI.

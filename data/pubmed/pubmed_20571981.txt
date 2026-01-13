@@ -1,0 +1,8 @@
+SEARCH_TOPIC: First aid basics
+TITLE: First aid for failing flaps.
+PMID: 20571981
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20571981/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Wound coverage with pedicled (local, regional, or distant) or free flaps is commonplace throughout plastic surgery. However, irrespective of the method of tissue transfer or type of tissue being transferred, inflow and outflow remain key parameters for success. Much has been written detailing complex tissue transfers and delineating arterial and venous anatomy. Despite this, simple venous insufficiency causing venous congestion is common. In experimental models, when arterial inflow is impaired, even mild venous inadequacy affects flap survival. Furthermore, studies have shown that venous congestion is more detrimental to the rate and percentage of flap area surviving than arterial ischemia. Obviously, complete venous occlusion typically requires operative exploration and correction, but many instances occur when venous congestion occurs for reasons other than complete venous thrombosis. Here we detail the basic postoperative "first aid" techniques available to optimize venous drainage. Although these techniques are not a substitute for sound anatomic flap selection, good surgical technique, or re-operation when a significant underlying problem exists, they do offer additional options to improve flap outcomes.

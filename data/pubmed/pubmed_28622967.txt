@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urinary tract infection
+TITLE: New markers of urinary tract infection.
+PMID: 28622967
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28622967/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Urinary tract infection (UTI) is the most common bacterial infection independent of age. It is also one of the most common causes of hospitalizations for infections among elderly people and the most common indication for antibiotic prescriptions in primary care. Both diagnostics and management of lower and upper urinary tract infections provide challenges in clinical practice due to their high prevalence and recurrence, and worldwide increase of antibiotic resistance. The clinical symptoms of UTI are often uncharacteristic or asymptomatic. The accurate diagnosis and early treatment are crucial due to risk of septicaemia and long-term consequences. Currently the diagnosis of urinary tract infection is based on the presence of clinical symptoms in combination with the results of nitrite strip test indicating the presence of bacteria in urine and semi-quantitative measurement of white blood cells count in urine. Although urine culture is the gold standard in UTI diagnostics it is both time-consuming and costly. Searching for novel biomarkers of UTI has attracted much attention in recent years. The article reviews several promising serum and urine biomarkers of UTI such as leukocyte esterase, C-reactive protein, procalcitonin, interleukins, elastase alpha (1)-proteinase inhibitor, lactofferin, secretory immunoglobulin A, heparin-binding protein, xanthine oxidase, myeloperoxidase, soluble triggering receptor expressed on myeloid cells-1, α-1 microglobulin (α1Mg) and tetrazolium nitroblue test (TNB).

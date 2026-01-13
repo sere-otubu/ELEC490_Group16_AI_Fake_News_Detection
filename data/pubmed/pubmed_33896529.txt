@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Spinal cord injury
+TITLE: Acute Traumatic Spinal Cord Injury.
+PMID: 33896529
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33896529/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Traumatic spinal cord injury is a common neurologic insult worldwide that can result in severe disability. Early stabilization of the patient's airway, breathing, and circulation as well as cervical and thoracolumbar spinal immobilization is necessary to prevent additional injury and optimize outcomes. Computed tomography (CT) scan and magnetic resonance imaging (MRI) of the spinal column can assist with determining the extent of bony and ligamentous injury, which will guide surgical management. With or without surgical intervention, patients with spinal cord injury require intensive care unit management and close observation to monitor for potential complications.

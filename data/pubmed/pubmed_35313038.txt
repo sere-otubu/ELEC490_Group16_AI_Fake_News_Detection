@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dialysis
+TITLE: Allient™ hemodialysis machine: Sorbent-based, single-needle, UF-controlled dialysis reborn.
+PMID: 35313038
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35313038/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+By the year 2000, there was rising interest in home hemodialysis in the United States. HemoCleanse decided to resurrect the BioLogic-HD machine, using updated components. A spin-off company Renal Solutions (RSI) created the Allient™, with sorbent regeneration of dialysate, hollow fiber dialyzer, pressure-controlled blood flow rate, controlled filtration, and single- or dual-needle access. RSI merged with Sorb Technology and the Allient™ was built, tested, and FDA-approved to market. In 2007 Fresenius Medical Corporation (FMC) bought RSI. FMC began an extensive re-design of the machine to fit the needs of both in-center and home dialysis. The redesigned machine never was marketed.

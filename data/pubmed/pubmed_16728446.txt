@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gene expression
+TITLE: Developmental mouse brain gene expression maps.
+PMID: 16728446
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16728446/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Brain gene expression databases are providing an increasing amount of information to the neuroscience community. Most databases are focused on the adult mouse rather than embryonic development. Here we survey the major mouse gene expression databases for the developing brain. The high throughput in situ hybridization approach generates large volumes of gene expression data that can be compiled and examined in a relatively short period of time. It is of increasing importance to compare gene expression patterns of neurodevelopment in the brain in relation to the adult. Often clues to adult gene expression and gene function can be determined by examining embryonic development. It is our hope that once all genes are mapped in the brain from the embryo to the adult, studies can be conducting based on information derived from such databases in conjunction with other bioinformatics sources.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Carpal tunnel syndrome
+TITLE: Carpal tunnel syndrome in patients with arteriovenous fistula for haemodialysis: A narrative review of the current literature.
+PMID: 32779515
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32779515/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The ideal choice of vascular access in patients requiring haemodialysis is an arteriovenous fistula. However, an important often under-reported complication encountered at follow-up is symptoms of tingling or numbness in the hand. This may represent carpal tunnel syndrome, impairment of the median nerve as it traverses through the carpal tunnel at the wrist by focal compression of this nerve. Contributory factors in the presence of an arteriovenous fistula may include venous hypertension and varying steal syndrome phenomena provoking micro-ischaemia. Studies that investigated the evolution of carpal tunnel syndrome in haemodialysis patients with an arteriovenous fistula revealed that the frequency of carpal tunnel syndrome associated with an arteriovenous fistula on haemodialysis ranged from 10.4% to 42.6%. An association between duration of haemodialysis with arteriovenous fistula and carpal tunnel syndrome development was also observed. Surgical release of carpal tunnel provided complete relief of paraesthesia in all treated patients in the examined, demonstrating an alleviation of symptoms and improved function of hand and quality of life in patients with an arteriovenous fistula. However, the aetiology and risk factors for development of carpal tunnel syndrome remain unclear and further studies should attempt to elucidate the pathophysiology of this occurrence in the presence of arteriovenous fistulas.

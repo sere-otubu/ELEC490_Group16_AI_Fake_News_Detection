@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood donation safety
+TITLE: The global blood donation index: an imperfect measure of transfusion need.
+PMID: 39244275
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39244275/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The optimum number of units of blood and the associated number of blood donors required to meet a given population's needs remain undetermined globally. Typically, a whole blood donation rate of ten donations per 1000 population, at a minimum, is necessary to meet a country's blood needs. This rate is attributed to a WHO recommendation that 1% of a given country's population should donate blood to ensure a blood supply that is sufficient to meet clinical needs. This often cited metric was first referenced in a 1971 WHO report, yet neither supporting data or references were provided, suggesting that it was flawed at its founding. Regardless, this metric does not provide an accurate or contemporary determination of blood needs, which has ramifications for health service provision and planning, particularly in low-income and lower-middle-income countries. Modelling studies that account for geographical variability in disease burden, health-care infrastructure, and transfusion practices are needed to accurately estimate blood needs. A paucity of data to inform modelling remains a major obstacle in this regard. We discuss the history of the global blood donation index and highlight some factors that should be considered to better understand contemporary blood needs.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Occupational therapy
+TITLE: Occupational Therapy in the Intensive Care Unit: A Systematic Review.
+PMID: 28692383
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28692383/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This paper is a synthesis of the available literature on occupational therapy interventions performed in the adult intensive care unit (ICU). The databases of Ovid MEDLINE, Embase, the Cochrane Library, ClinicalTrials.gov and CINAHL databases were systematically searched from inception through August 2016 for studies of adults who received occupational therapy interventions in the ICU. Of 1,938 citations reviewed, 10 studies met inclusion criteria. Only one study explicitly discussed occupational therapy interventions performed and only one study specifically tested the efficacy of occupational therapy. Future research is needed to clarify the specific interventions and role of occupational therapy in the ICU and the efficacy of these interventions.

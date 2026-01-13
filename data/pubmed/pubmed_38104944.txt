@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Metabolism basics
+TITLE: 25-Hydroxycholesterol in health and diseases.
+PMID: 38104944
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38104944/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cholesterol is an essential structural component of all membranes of mammalian cells where it plays a fundamental role not only in cellular architecture, but also, for example, in signaling pathway transduction, endocytosis process, receptor functioning and recycling, or cytoskeleton remodeling. Consequently, intracellular cholesterol concentrations are tightly regulated by complex processes, including cholesterol synthesis, uptake from circulating lipoproteins, lipid transfer to these lipoproteins, esterification, and metabolization into oxysterols that are intermediates for bile acids. Oxysterols have been considered for long time as sterol waste products, but a large body of evidence has clearly demonstrated that they play key roles in central nervous system functioning, immune cell response, cell death, or migration and are involved in age-related diseases, cancers, autoimmunity, or neurological disorders. Among all the existing oxysterols, this review summarizes basic as well as recent knowledge on 25-hydroxycholesterol which is mainly produced during inflammatory or infectious situations and that in turn contributes to immune response, central nervous system disorders, atherosclerosis, macular degeneration, or cancer development. Effects of its metabolite 7α,25-dihydroxycholesterol are also presented and discussed.

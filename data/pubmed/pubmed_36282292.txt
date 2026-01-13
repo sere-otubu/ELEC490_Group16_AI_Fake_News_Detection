@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immune response
+TITLE: Immune response associated with ischemia and reperfusion injury during organ transplantation.
+PMID: 36282292
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36282292/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ischemia and reperfusion injury (IRI) is an ineluctable immune-related pathophysiological process during organ transplantation, which not only causes a shortage of donor organs, but also has long-term and short-term negative consequences on patients. Severe IRI-induced cell death leads to the release of endogenous substances, which bind specifically to receptors on immune cells to initiate an immune response. Although innate and adaptive immunity have been discovered to play essential roles in IRI in the context of organ transplantation, the pathway and precise involvement of the immune response at various stages has not yet to be elucidated. We combined "IRI" and "organ transplantation" with keywords, respectively such as immune cells, danger signal molecules, macrophages, neutrophils, natural killer cells, complement cascade, T cells or B cells in PubMed and the Web of Science to search for relevant literatures. Comprehension of the immune mechanisms involved in organ transplantation is promising for the treatment of IRI, this review summarizes the similarities and differences in both innate and adaptive immunity and advancements in the immune response associated with IRI during diverse organ transplantation.

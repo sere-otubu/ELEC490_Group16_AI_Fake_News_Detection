@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gene expression
+TITLE: Gene expression with prognostic implications in cytogenetically normal acute myeloid leukemia.
+PMID: 18692686
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18692686/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Acute myeloid leukemia (AML) represents a heterogeneous group of leukemia entities that differ with regard to biology, clinical course, and prognosis. Over the past decades, it has been shown that most AML cases exhibit chromosomal aberrations, gene mutations, and disordered gene expression that alter normal gene function, thereby contributing to leukemic transformation. Especially, in cytogenetically normal AML (CN-AML) molecular genetic and gene expression analyses are becoming of increasing importance. In addition to the impact of gene mutations, including the MLL, FLT3, CEBPA, or NPM1 genes in CN-AML, recent analyses have provided evidence that altered gene expression might not only be of biological but also of prognostic relevance in CN-AML patients. Quantitative reverse-transcriptase polymerase chain reaction (Q-RT-PCR) and recent advances in genome-wide DNA microarray-based gene expression profiling (GEP) represent powerful tools for the systematic exploration of the molecular variation underlying the biologic and clinical heterogeneity of CN-AML. Ultimately, a better understanding of gene expression alterations and hence the molecular basis of the disease will contribute to a refined leukemia classification, which will include both previously known CN-AML subgroups and novel classes defined by distinct gene expression clusters with prognostic significance.

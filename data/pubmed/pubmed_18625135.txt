@@ -1,0 +1,8 @@
+SEARCH_TOPIC: GERD
+TITLE: Refractory GERD: what is it?
+PMID: 18625135
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18625135/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Refractory gastroesophageal reflux disease (GERD) is very common and may affect up to 40% of patients who use a proton pump inhibitor (PPI) once daily. Refractory GERD can present as incomplete or lack of response to PPI therapy. The disorder is clearly driven by patients, who present with a wide range of symptom severity and frequency while on PPI treatment. Poor compliance and improper timing of PPI consumption should always be excluded before further evaluation of this patient population. The putative mechanisms for refractory GERD include weakly acidic reflux, duodenogastroesophageal/bile reflux, visceral hypersensitivity, delayed gastric emptying, psychological comorbidity, and concomitant functional bowel disorders. Reduced PPI bioavailability, rapid PPI metabolism, PPI resistance, nocturnal reflux, and Helicobacter pylori infection status have very limited roles in refractory GERD. The contribution of eosinophilic esophagitis to refractory GERD is still unknown. Pill-induced esophagitis, Zollinger-Ellison syndrome, achalasia, and other disorders are rarely responsible for PPI failure and usually are not confused with GERD.

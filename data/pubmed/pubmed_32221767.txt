@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Digestion process
+TITLE: The dynamic process of dietary soybean β-conglycinin in digestion, absorption, and metabolism among different intestinal segments in grass carp (Ctenopharyngodon idella).
+PMID: 32221767
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32221767/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The present study aimed to investigate the dynamic process of soybean β-conglycinin in digestion, absorption, and metabolism in the intestine of grass carp (Ctenopharyngodon idella). Fish fed with 80 g β-conglycinin/kg diet for 7 weeks, the intestinal digestive enzyme was extracted to hydrolyze β-conglycinin in vitro, the free amino acid and its metabolism product contents in intestinal segments were analyzed. The present study first found that β-conglycinin cannot be thoroughly digested by fish intestine digestive enzyme and produces new products (about 60- and 55-kDa polypeptides). The indigestible β-conglycinin further caused the free amino acid imbalance, especially caused free essential amino acid deficiency in the proximal intestine but excess in the distal intestine. Moreover, these results might be partly associated with the effect of β-conglycinin in amino acid transporters and tight junction-regulated paracellular pathway. Finally, dietary β-conglycinin increased the content of amino acid catabolism by-product ammonia while decreased the amino acid anabolism product carnosine content in the proximal intestine and distal intestine. Thus, the current study first and systemically explored the dynamic process of β-conglycinin in digestion, absorption, and metabolism, which further supported our previous study that dietary β-conglycinin suppressed fish growth and caused intestine injure.

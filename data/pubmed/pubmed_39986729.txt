@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Traumatic brain injury
+TITLE: Traumatic brain injury and disorders of consciousness.
+PMID: 39986729
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39986729/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Trauma is one of the most common causes of disorders of consciousness (DOC) worldwide. Traumatic brain injury (TBI) leads to heterogeneous, multifocal injury via focal brain damage and diffuse axonal injury, causing an acquired network disorder. Recovery occurs through reemergence of dynamic cortical and subcortical networks. Accurate diagnostic evaluation is essential toward promoting recovery and may be more challenging in traumatic than non-traumatic brain injuries. Standardized neurobehavioral assessment is the cornerstone for assessments in the acute, prolonged, and chronic phases of traumatic DOC, while structural and functional neuroimaging, tractography, nuclear medicine studies, and electrophysiologic techniques assist with differentiation of DOC states and prognostication. Prognosis for recovery is better for patients with TBI than those with non-traumatic brain injuries, and the timeline for recovery is longer. The majority of patients experience improvement in their DOC within the first year post-injury, but recovery can continue for five and even ten years after TBI. Pharmacologic therapy and device-related neuromodulation represent important areas for future research.

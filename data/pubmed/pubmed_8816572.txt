@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anorexia nervosa
+TITLE: Anorexia nervosa: an overview.
+PMID: 8816572
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8816572/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Anorexia nervosa is a psychologic illness characterized by marked weight loss, an intense fear of gaining weight even though the patient is underweight, a distorted body image and amenorrhea. Anorexia primarily affects adolescent girls and occurs in approximately 0.2 to 1.3 percent of the general population. Complications of anorexia nervosa are numerous, involving almost every organ system, although most complications may be reversed when a healthy nutritional state is restored. Treatment may be administered on an inpatient or outpatient basis and involves nutritional and psychologic rehabilitation.

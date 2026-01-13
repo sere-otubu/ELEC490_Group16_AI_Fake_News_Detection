@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mediterranean diet
+TITLE: Mediterranean Diet and Chronic Kidney Disease (CKD): A Practical Approach.
+PMID: 36615755
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36615755/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Chronic kidney disease has become a serious public health issue, as well as others health problems such as hypertension, DM, and obesity. Mediterranean diet (MD) can reduce the risk of cardiovascular disease and cancer and can lead to weight loss in obesity. There are studies that suggest that MD could be the diet of choice for patients with CKD for its influence on endothelial function, inflammation, lipid profile and blood pressure. There are few studies that tell us how to adapt MD to this group of patients. This review aims to offer a practical approach to Mediterranean diet adaptation as nutritional treatment in CKD patients.

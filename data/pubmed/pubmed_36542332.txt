@@ -1,0 +1,8 @@
+SEARCH_TOPIC: X ray imaging
+TITLE: Image quality models for 2D and 3D x-ray imaging systems: A perspective vignette.
+PMID: 36542332
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36542332/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Image quality models based on cascaded systems analysis and task-based imaging performance were an important aspect of the emergence of 2D and 3D digital x-ray systems over the last 25 years. This perspective vignette offers cursory review of such developments and personal insights that may not be obvious within previously published scientific literature. The vignette traces such models to the mid-1990s, when flat-panel x-ray detectors were emerging as a new base technology for digital radiography and benefited from the rigorous, objective characterization of imaging performance gained from such models. The connection of models for spatial resolution and noise to spatial-frequency-dependent descriptors of imaging task provided a useful framework for system optimization that helped to accelerate the development of new technologies to first clinical use. Extension of the models to new technologies and applications is also described, including dual-energy imaging, photon-counting detectors, phase contrast imaging, tomosynthesis, cone-beam CT, 3D image reconstruction, and image registration.

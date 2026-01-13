@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Robotic surgery
+TITLE: Single Port Robotic Surgery in Urology.
+PMID: 33554322
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33554322/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To provide a comprehensive review on the new da Vinci SP (single port) robotic surgical system. The published literature to date within urology and a description of the new system will be discussed. There are currently no high-quality published studies with the SP robotic system. All studies are case series, many with 10 or fewer patients. However, all studies have found the SP system to be safe and feasible in performing most urological procedures. Renal and pelvic surgery using the SP robotic system is safe and feasible in the hands of expert robotic surgeons. Long-term, high-quality data is lacking. While the current high price and the learning curve will limit the SP systems' use in many health care systems, new updates and the release of robotic surgical systems from other developers may help drive down costs and encourage uptake.

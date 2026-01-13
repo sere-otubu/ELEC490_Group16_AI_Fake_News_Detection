@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Calcium requirements
+TITLE: Calcium: a fundamental regulator of intracellular membrane fusion?
+PMID: 17330068
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17330068/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+For many years, it has been known that an increase in cytosolic calcium triggers the fusion of secretory granules and synaptic vesicles with the plasma membrane. However, the role of calcium in the intracellular membrane-fusion reactions that coordinate the secretory and endocytic pathways has been less clear. Initially, there was accumulating evidence to indicate that a focally localized and transient calcium signal is required to trigger even those fusion events formerly classified as 'constitutive'-that is, those that normally occur in the absence of global cytosolic calcium increases. Therefore, calcium seemed to be a required fundamental co-factor underlying all biological membrane-fusion steps, perhaps with a conserved mechanism of action. However, although such unification would be gratifying, new data indicate that several intracellular fusion events do not require calcium after all. In this review, the evidence for calcium requirements and its modes of action in constitutive trafficking are discussed. As a challenging perspective, I suggest that the specific absence of calcium requirements for some transport steps in fact expands the function of calcium in trafficking, because divergent luminal calcium concentrations and requirements for fusion might increase the specificity with which intracellular membrane-fusion partners are determined.

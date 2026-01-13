@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Type 1 allergies
+TITLE: Oral allergy syndrome.
+PMID: 29336286
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29336286/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To review oral allergy syndrome (OAS). We searched several medical literature data bases with the following key words: "oral allergy syndrome," "OAS," "pollen-food allergy syndrome," "PFAS," "allergy," "diagnosis," "treatment." Oral allergy syndrome (OAS), also called "pollen-food allergy syndrome," is a type of food allergy brought about by flavors, nuts, raw fruit, and vegetables. The most well-known symptoms are mouth and throat itching, which starts rapidly after a food is placed in the mouth, and that, as a rule, continues for just a couple of minutes after the food has been swallowed. The frequency of OAS with pollen allergy has been reported as 5-8%; 1-2% of patients with OAS with pollen allergy show extreme responses, e.g., anaphylaxis. Birch tree pollen, ragweed pollen, and grass pollen hypersensitivity cause the symptoms. The diagnosis of OAS is confirmed by a positive history and positive skin-prick test result triggered by the food's fresh extract. Oral challenge result is normally positive with the raw food and negative with the similar cooked food. Patients with grass allergy may have a response to peaches, oranges, celery, tomatoes, and melons. Patients with ragweed allergy may show OAS symptoms with melon, cucumber, banana, and zucchini. Physicians should be aware of OAS and know the appropriate treatment.

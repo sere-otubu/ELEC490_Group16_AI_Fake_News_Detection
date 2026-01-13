@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Stem cell research
+TITLE: Human Stem Cell-Based Embryo Models in Implantation Research: Regulation, Consistency and Potential.
+PMID: 41008594
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41008594/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The use of human stem cell-based embryo models (hSCBEM) in implantation research is developing rapidly. This raises regulatory and ethical issues as these models become more complex and get closer to morphological and functional identity with human embryos. This paper provides an analysis of two possible approaches to resolving the regulatory issues. The first approach is to try to achieve consistency with current regulation of embryo research, and the second approach is to elaborate the regulation of hSCBEMs based on their developmental potential. It is shown that both approaches are problematic. The consistency approach is problematic because the current regulation of embryo research is best understood as being the result of a historical, political compromise in most jurisdictions. And the approach based on assessment of developmental potential is problematic because of unavoidable epistemic uncertainty about the potential of a new hSCBEM, and because of problems in determining what constitutes a particular model, and what changes to a model makes it into a different model.

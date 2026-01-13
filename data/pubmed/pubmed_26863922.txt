@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lymphatic system
+TITLE: The Lymphatic System in Disease Processes and Cancer Progression.
+PMID: 26863922
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26863922/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Advances in our understanding of the structure and function of the lymphatic system have made it possible to identify its role in a variety of disease processes. Because it is involved not only in fluid homeostasis but also in immune cell trafficking, the lymphatic system can mediate and ultimately alter immune responses. Our rapidly increasing knowledge of the molecular control of the lymphatic system will inevitably lead to new and effective therapies for patients with lymphatic dysfunction. In this review, we discuss the molecular and physiological control of lymphatic vessel function and explore how the lymphatic system contributes to many disease processes, including cancer and lymphedema.

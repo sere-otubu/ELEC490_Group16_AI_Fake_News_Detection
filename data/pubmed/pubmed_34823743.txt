@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anaphylaxis
+TITLE: Anaphylaxis: Epidemiology and Differential Diagnosis.
+PMID: 34823743
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34823743/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Anaphylaxis-related emergency department (ED) visits and hospitalizations are increasing. Triggers for anaphylaxis include food, medications, and stinging insects. Idiopathic anaphylaxis accounts for 30% to 60% of cases of anaphylaxis in adults and up to 10% of cases in children with novel allergens such as galactose-α-1,3 galactose reclassifying these cases. Recent practice guidelines have recommended against the routine use of systemic corticosteroids and antihistamines for the prevention of biphasic reactions and recommend an extended observation, up to 6 hours, for those with risk factors for biphasic anaphylaxis and those with lack of access to epinephrine and to emergency medical services.

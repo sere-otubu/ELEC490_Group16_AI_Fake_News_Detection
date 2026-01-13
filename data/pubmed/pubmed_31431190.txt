@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Social determinants of health
+TITLE: Social determinants of health: the how, who, and where screenings are occurring; a systematic review.
+PMID: 31431190
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31431190/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Screening for social determinants of health allows health care teams to assess and address social factors that influence one's health, mental health, and access to care. These social factors include poverty, health literacy, social support, exposure to trauma, food insecurity, and housing instability. The objective of this study was to examine what screening tools for social determinants of health are being used, in what contexts, and with what populations. Findings suggest that health literacy is the most commonly screened for, followed by trauma history, social support, food insecurity and housing across diverse contexts and populations. Results from this study can be used to inform providers of available screening tools and resources that can be readily utilized in practice.

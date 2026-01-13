@@ -1,0 +1,8 @@
+SEARCH_TOPIC: GERD
+TITLE: Precision GERD management for the 21st century.
+PMID: 28859369
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28859369/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The highly heterogeneous nature of gastroesophageal reflux disease (GERD), together with the multiplicity of available diagnostic and therapeutic options (lifestyle, pharmacologic, endoscopic and surgical) available today call for a new approach that funnels the multidimensionality of the disease into precise and effective algorithms - reviewed herein- aimed at improving clinical outcomes.

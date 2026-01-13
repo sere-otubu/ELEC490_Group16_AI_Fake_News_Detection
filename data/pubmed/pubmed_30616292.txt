@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rest and recovery
+TITLE: Concussions: Activity Avoidance and Rest Recommendation.
+PMID: 30616292
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30616292/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Research surrounding rest recommendations for the concussed population is discussed. Rest is compared with activity avoidance, which is common in several chronic disease and traumatic injury types. The case is made for rest recommendations tailored to each head-injured individual. Research is presented which suggests that activity in the initial stages of concussion recovery may be beneficial in reducing postconcussion symptom duration and severity. Furthermore, a gradual increase in activity may potentially aid in returning to normal daily activity sooner than those who avoid both physical and cognitive activity during the acute stage of a traumatic brain injury. Finally, the current state of rest recommendations is reviewed and anticipated future directions are discussed.

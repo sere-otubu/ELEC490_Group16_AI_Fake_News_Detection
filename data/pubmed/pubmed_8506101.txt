@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mastectomy
+TITLE: Immediate breast reconstruction after mastectomy.
+PMID: 8506101
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8506101/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Immediate breast reconstruction after mastectomy can be performed safely with a low incidence of complications. There is no evidence that reconstruction with a submuscular implant interferes with subsequent oncologic care, followup, or outcome for patients.

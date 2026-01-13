@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antisocial personality disorder
+TITLE: Antisocial personality disorder in patients with substance abuse disorders: a problematic diagnosis?
+PMID: 2405719
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2405719/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The authors' literature review suggests that the relationship between antisocial personality disorder and substance abuse is complex and not yet fully understood. The confusion regarding the relationship between the disorders may be magnified by the emphasis in DSM-III and DSM-III-R on behavioral criteria and their failure to require that antisocial behaviors exist independently of substance abuse. The DSM-III and DSM-III-R formulations of antisocial personality disorder may encompass two subgroups of substance abusers--"true" psychopathic individuals and symptomatic psychopaths with little psychopathy. Psychoneurotic symptoms and favorable treatment responses might be found more often in the latter group.

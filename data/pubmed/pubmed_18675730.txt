@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood tests interpretation
+TITLE: Reptile hematology.
+PMID: 18675730
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18675730/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The basic principles of hematology used in mammalian medicine can be applied to reptiles. Available phlebotomy sites vary with the taxa and may be chosen based on the experience of the handler or phlebotomist, health status or temperament of the patient, and species. Methods of analysis and the cytologic appearance of erythrocytes, leukocytes, and thrombocytes are different from those of mammals and also vary by taxa. Many causes for abnormalities of the reptilian hemogram are similar to those for mammals, although additional factors, such as venipuncture site, season, hibernation status, captivity status, and environmental factors, can affect measured values. Interpretation of hematologic results can be frustrating, although new case reports and research studies help to elucidate possible causes that are often unique to reptiles.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Food allergies
+TITLE: Food Allergy and Intolerance: A Narrative Review on Nutritional Concerns.
+PMID: 34068047
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34068047/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Adverse food reactions include immune-mediated food allergies and non-immune-mediated intolerances. However, this distinction and the involvement of different pathogenetic mechanisms are often confused. Furthermore, there is a discrepancy between the perceived vs. actual prevalence of immune-mediated food allergies and non-immune reactions to food that are extremely common. The risk of an inappropriate approach to their correct identification can lead to inappropriate diets with severe nutritional deficiencies. This narrative review provides an outline of the pathophysiologic and clinical features of immune and non-immune adverse reactions to food-along with general diagnostic and therapeutic strategies. Special emphasis is placed on specific nutritional concerns for each of these conditions from the combined point of view of gastroenterology and immunology, in an attempt to offer a useful tool to practicing physicians in discriminating these diverging disease entities and planning their correct management. We conclude that a correct diagnostic approach and dietary control of both immune- and non-immune-mediated food-induced diseases might minimize the nutritional gaps in these patients, thus helping to improve their quality of life and reduce the economic costs of their management.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Skin cancer prevention
+TITLE: Spice-Derived Phenolic Compounds: Potential for Skin Cancer Prevention and Therapy.
+PMID: 37687080
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37687080/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Skin cancer is a condition characterized by the abnormal growth of skin cells, primarily caused by exposure to ultraviolet (UV) radiation from the sun or artificial sources like tanning beds. Different types of skin cancer include melanoma, basal cell carcinoma, and squamous cell carcinoma. Despite the advancements in targeted therapies, there is still a need for a safer, highly efficient approach to preventing and treating cutaneous malignancies. Spices have a rich history dating back thousands of years and are renowned for their ability to enhance the flavor, taste, and color of food. Derived from various plant parts like seeds, fruits, bark, roots, or flowers, spices are important culinary ingredients. However, their value extends beyond the culinary realm. Some spices contain bioactive compounds, including phenolic compounds, which are known for their significant biological effects. These compounds have attracted attention in scientific research due to their potential health benefits, including their possible role in disease prevention and treatment, such as cancer. This review focuses on examining the potential of spice-derived phenolic compounds as preventive or therapeutic agents for managing skin cancers. By compiling and analyzing the available knowledge, this review aims to provide insights that can guide future research in identifying new anticancer phytochemicals and uncovering additional mechanisms for combating skin cancer.

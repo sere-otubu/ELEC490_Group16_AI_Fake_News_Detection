@@ -1,0 +1,8 @@
+SEARCH_TOPIC: GMO foods safety
+TITLE: Health risks of genetically modified foods.
+PMID: 18989835
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18989835/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+As genetically modified (GM) foods are starting to intrude in our diet concerns have been expressed regarding GM food safety. These concerns as well as the limitations of the procedures followed in the evaluation of their safety are presented. Animal toxicity studies with certain GM foods have shown that they may toxically affect several organs and systems. The review of these studies should not be conducted separately for each GM food, but according to the effects exerted on certain organs it may help us create a better picture of the possible health effects on human beings. The results of most studies with GM foods indicate that they may cause some common toxic effects such as hepatic, pancreatic, renal, or reproductive effects and may alter the hematological, biochemical, and immunologic parameters. However, many years of research with animals and clinical trials are required for this assessment. The use of recombinant GH or its expression in animals should be re-examined since it has been shown that it increases IGF-1 which may promote cancer.

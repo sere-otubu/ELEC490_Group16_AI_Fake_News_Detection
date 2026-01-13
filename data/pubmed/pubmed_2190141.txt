@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Measles
+TITLE: Measles vaccines.
+PMID: 2190141
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2190141/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Measles vaccine is one of the safest and most effective vaccines currently available. Use of the vaccine has decreased the incidence of measles in both developed and developing countries. Nevertheless, preventable morbidity and mortality continue to occur. In the United States, the measles problem differs when it occurs among preschool-aged children or school-aged children. The former is a due to insufficient vaccine delivery. For measles in school-aged and college students, the problem is primarily vaccine failure, which should eventually be solved by a two-dose schedule. In developing countries, the major problem is vaccine delivery. Use of Edmonston-Zagreb measles vaccine in developing countries offers the promise of reducing disease rates in young infants; however, in both the United States and in developing countries, increasing immunization levels is essential.

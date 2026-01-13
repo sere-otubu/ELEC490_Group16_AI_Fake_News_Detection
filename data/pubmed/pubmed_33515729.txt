@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hemophilia
+TITLE: Hemophilia care in Africa: Status and challenges.
+PMID: 33515729
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33515729/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Haemophilia care remains challenging especially in resource-limited settings where haemophilia and other non-communicable diseases may not be considered a healthcare priority, in comparison to malaria, HIV/AIDS and other infectious diseases. This article is a review of the evolution in haemophilia care in Africa, with focus on countries with varying degrees of care (Cameroon with budding care; Senegal with more evolved care and Egypt with a more longstanding history of care). The indispensable role of the World Federation of Haemophilia is highlighted in all the contexts of care.

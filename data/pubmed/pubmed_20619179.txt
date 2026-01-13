@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pneumonia
+TITLE: Pathogenesis and pathology of bovine pneumonia.
+PMID: 20619179
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20619179/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Pneumonia is a major cause of death and economic losses to the cattle industry. Recognizing the patterns of pneumonic lesions and understanding the pathogenesis of the various types of pneumonia are important for correct diagnosis and interpretation of the lesions. Bacterial pneumonias consist of bronchopneumonia, fibrinous pneumonia, and pleuropneumonia as well as caseonecrotic, aspiration, and tuberculous pneumonias. Two major patterns of interstitial pneumonia are recognized in cattle, and verminous pneumonia is associated with Dictyocaulus viviparus infection.

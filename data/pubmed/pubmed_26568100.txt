@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antioxidants
+TITLE: [Antioxidants--antioxidative stress: facts and questions, 2015].
+PMID: 26568100
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26568100/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In the past years great importance has been attributed to antioxidant therapy in the prevention and treatment of disorders developed in connection with oxidative stress. After initial success, undesirable effects, toxicities, and prooxidant effects of antioxidants were reported [CARET, ATBC study]. In addition, metaanalyses failed to confirm the role of antioxidant supplementation in the primary and secondary prevention. The authors review the prooxidant effects of antioxidants, and their role in cell signalling and cell process modulation. Finally, the authors summarize possible explanations why combined use of antiooxidants is more favourable.

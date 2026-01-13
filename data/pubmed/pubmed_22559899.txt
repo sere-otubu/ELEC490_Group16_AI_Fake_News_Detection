@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Macular degeneration
+TITLE: Age-related macular degeneration.
+PMID: 22559899
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22559899/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Age-related macular degeneration is a major cause of blindness worldwide. With ageing populations in many countries, more than 20% might have the disorder. Advanced age-related macular degeneration, including neovascular age-related macular degeneration (wet) and geographic atrophy (late dry), is associated with substantial, progressive visual impairment. Major risk factors include cigarette smoking, nutritional factors, cardiovascular diseases, and genetic markers, including genes regulating complement, lipid, angiogenic, and extracellular matrix pathways. Some studies have suggested a declining prevalence of age-related macular degeneration, perhaps due to reduced exposure to modifiable risk factors. Accurate diagnosis combines clinical examination and investigations, including retinal photography, angiography, and optical coherence tomography. Dietary anti-oxidant supplementation slows progression of the disease. Treatment for neovascular age-related macular degeneration incorporates intraocular injections of anti-VEGF agents, occasionally combined with other modalities. Evidence suggests that two commonly used anti-VEGF therapies, ranibizumab and bevacizumab, have similar efficacy, but possible differences in systemic safety are difficult to assess. Future treatments include inhibition of other angiogenic factors, and regenerative and topical therapies.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Type 1 Diabetes
+TITLE: Type 1 diabetes mellitus following SARS-CoV-2 mRNA vaccination.
+PMID: 35809159
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35809159/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) vaccines have been reported to trigger immune side effects. Type 1 diabetes as a manifestation of autoimmune/inflammatory syndrome induced by adjuvants has been reported in a limited number of cases after vaccinations. A few type 1 diabetes cases after SARS-CoV-2 vaccination have been reported. This study aims to report type 1 diabetes cases associated with the mRNA-based SARS-CoV-2 vaccination. We report four cases of type 1 diabetes mellitus after mRNA-based SARS-CoV-2 vaccine, BNT162b2 (Pfizer-BioNTech). In the medical history, one subject had autoimmune thyroid disease. All patients had autoantibodies against glutamate decarboxylase. In the presented case series, type 1 diabetes developed a few weeks after BNT162b2 vaccination. After developing type 1 diabetes, the insulin dose requirements of all patients decreased rapidly, and the need for insulin therapy in three patients disappeared during follow-up. Acute deterioration of glucose regulation in a patient followed by BNT162b2 administration may be due to vaccine-induced autoimmune diabetes. Vaccination with BNT162b2 may trigger type 1 diabetes.

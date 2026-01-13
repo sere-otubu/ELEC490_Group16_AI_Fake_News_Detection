@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hemophilia
+TITLE: Pediatric hemophilia: a review.
+PMID: 22187396
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22187396/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The hemophilias are the most common X-linked inherited bleeding disorders, which if not properly managed can lead to chronic disease and lifelong disabilities. The challenges and issues in newborns are different from that in older children and adults. Bleeding events still predominate as the diagnostic trigger in children, however, the sites of bleeding vary with age. While delivery-associated intracranial hemorrhage (ICH), circumcision, and venipuncture bleeding are common in the newborn period, joint disease and head trauma occur in the older child and adolescent. Awareness of clinical manifestations and treatment complications are crucial in instituting appropriate management and implementing preventive strategies. Currently, inhibitors and ICH are the most challenging complications and prophylaxis is emerging as the optimal preventive care strategy.

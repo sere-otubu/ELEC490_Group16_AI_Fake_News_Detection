@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cluster headaches
+TITLE: Cluster headaches and sleep disorders.
+PMID: 12628058
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12628058/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cluster headaches are characterized by unilateral paroxysmal attacks of severe pain with associated symptoms. The headaches occur during particular sleep stages and are associated with other chronobiologic factors. Several sleep disorders have been associated with the occurrence of cluster headache; multiple hormonal influences affect the relationship between sleep and headache. Melatonin and other treatments that affect circadian rhythm have been suggested for the treatment of cluster headache. Obstructive sleep apnea can occur in patients with cluster headache; attempts to treat one disorder may influence the other. Sleep disorders such as insomnia and narcolepsy also may be associated with and influence cluster headaches. This article examines the relationship between the various sleep disorders and cluster headache, and reviews current research. Normal and abnormal sleep and details of treatments for specific sleep disorders that may decrease the frequency and severity of cluster headaches also are discussed. The relationship between obstructive sleep apnea, which is the most common sleep disorder, and cluster headache is discussed in detail.

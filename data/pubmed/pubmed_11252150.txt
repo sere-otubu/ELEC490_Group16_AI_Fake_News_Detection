@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Migraine
+TITLE: Migraine variants.
+PMID: 11252150
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11252150/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The term "migrant variant" is not used in the headache classification of the International Headache Society (IHS), but it includes those forms of migraine that are not typical of migraine with or without aura. Headaches that do not quite fulfill all of the IHS criteria are termed "migrainous disorder." Migraine associated with auras arising from unusual sites includes basilar migraine, retinal migraine, and ophthalmoplegic migraine. Two of the chromosomal sites for hemiplegic migraine have been identified. Migraine aura may occur without headache and an aura may be prolonged. Migrainous infarct has occurred when the aura lasts more than 1 week or imaging studies are positive and other etiologies have been ruled out. If the migraine attack is prolonged beyond 3 days the term "status migrainousus" is applied.

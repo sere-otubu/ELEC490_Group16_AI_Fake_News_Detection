@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Organ transplant
+TITLE: Allograft rejection following immune checkpoint inhibitors in solid organ transplant recipients: A safety analysis from a literature review and a pharmacovigilance system.
+PMID: 36504294
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36504294/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This study aimed to systematically characterize transplant rejection after immune checkpoint inhibitors (ICIs) initiation in solid organ transplant recipients (SOTRs). Data were extracted from the US FDA Adverse Event Reporting System (FAERS) database and case reports in the literature. Disproportionality analysis including information component and reported odds ratio (ROR) was performed to access potential risk signals. A total of 168 patients with transplant rejection after ICIs usage were identified in the FAERS database, and 89 cases were identified in the literature review. ICIs were significantly associated with transplant rejection (ROR<sub>025</sub> : 2.2). A strong risk signal was found for combination therapy with pembrolizumab and ipilimumab compared to monotherapy. Immune checkpoint inhibitors were significantly associated with transplant rejection in SOTRs.

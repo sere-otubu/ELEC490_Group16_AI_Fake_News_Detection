@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anemia
+TITLE: [Macrocytic anemia].
+PMID: 2683003
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2683003/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Macrocytic and/or megaloblastic anaemias of infants and children are more often due to a defective bone marrow production than to haemolysis. They are mostly related to folate and/or cobalamin deficiency or to a disturbance in the metabolism of one of these vitamins (enzyme deficiencies or defect of synthesis of their active forms). More rarely, these anaemias are associated with congenital deficiency of the enzymes involved in pyrimidine or purine biosynthesis. A few cases of thiamine-responsive megaloblastic anaemia have been reported. Some blood diseases may also associated with macrocytic anaemia. Finally, many drugs (antifolic agents, antipurine or antipyrimidine compounds) may induce macrocytic anaemia.

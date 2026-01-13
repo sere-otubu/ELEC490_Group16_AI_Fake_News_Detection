@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Endocrine system
+TITLE: Sleep and the endocrine system.
+PMID: 26118912
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26118912/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In this article, the effect of sleep and sleep disorders on endocrine function and the influence of endocrine abnormalities on sleep are discussed. Sleep disruption and its associated endocrine consequences in the critically ill patient are also reviewed.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Paleo diet
+TITLE: Cutting through the Paleo hype: The evidence for the Palaeolithic diet.
+PMID: 27051985
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27051985/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+General practitioners (GPs) are commonly asked about popular diets. The Palaeolithic diet is both highly popular and controversial. This article reviews the published literature to establish the evidence for and against the Palaeolithic diet. The Palaeolithic diet remains controversial because of exaggerated claims for it by wellness bloggers and celebrity chefs, and the contentious evolutionary discordance hypothesis on which it is based. However, a number of underpowered trials have suggested there may be some benefit to the Palaeolithic diet, especially in weight loss and the correction of metabolic dysfunction. Further research is warranted to test these early findings. GPs should caution patients who are on the Palaeolithic diet about adequate calcium intake, especially those at higher risk of osteoporosis.

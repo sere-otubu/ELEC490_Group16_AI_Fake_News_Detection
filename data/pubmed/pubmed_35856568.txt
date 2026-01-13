@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Water quality and health
+TITLE: Connecting soil health and water quality in agricultural landscapes.
+PMID: 35856568
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35856568/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+As soil plays an integral role in the water cycle, the dynamic and inherent attributes of soil are important drivers of the amount and quality of water in streams, lakes, and groundwater. Studies have demonstrated links between agricultural soil management and water movement in soil, to the edge of fields, and across entire watersheds that feed water bodies of interest. Still, not enough is known about linkages between soil management, soil health, and watershed water quality to adequately predict impacts of land use changes and to effectively use soil management as a tool for water resource management. We describe here the mechanisms connecting soil health and water quality, the state of the science at the nexus of the two fields of study, and an overview of recent studies on the topic. A fundamental challenge is measuring and elucidating connections between processes working at different temporal and spatial scales. Research needs include expansion of field-scale data and analysis of combined datasets, greater understanding of the mechanisms that explain observed associations between management practices and water quality, ensuring that hydrologic models and decision-support tools more effectively reflect these soil-water mechanisms, and greater use of systems-based research designs.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Beta blockers
+TITLE: [Beta-blockers : myths and facts].
+PMID: 31496190
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31496190/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Beta-blockers are very commonly drugs used in clinical practice, but whose mechanisms and clinical impacts are not always well understood, especially in certain specific clinical situations. This article proposes a review of some pharmacology notions over the different generations of β-blockers, as well as a review of indications and side effects in particular clinical situations, such as COPD, portal hypertension with esophageal varices and erectile dysfunction. Finally, an overview of response variability of these treatments is discussed from a genetic point of view.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Posture correction
+TITLE: Influence of the wearable posture correction sensor on head and neck posture: Sitting and standing workstations.
+PMID: 30741711
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30741711/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Flexed head and neck postures are associated with the development of neck pain in the office environment. There is little evidence regarding whether a wearable posture sensor would improve the head and neck postures of office workers. The aim of this study was to evaluate the effect of the wearable posture sensor on the posture and physical demands on the head and neck during office work. Nineteen participants performed a typing task with and without the wearable sensor in the sitting and standing positions. They were allowed to adjust their workstation during the experiment based on a psychophysical method. The flexion angles of the head and neck, the gravitational moment on the neck, and the positions of the workstation components were measured. On average, participants with the wearable sensor had 8% lower neck flexion angles and 14% lower gravitational moments on the neck than those of participants without the wearable sensor. The effect of the wearable sensor on reducing postural stress of the neck was more significant when using the standing workstation compared to the sitting workstation. The wearable posture sensor could be an effective tool to alleviate the postural stress of the neck in the office setting.

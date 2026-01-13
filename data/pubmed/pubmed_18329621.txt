@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Genetic testing ethics
+TITLE: Genetic testing and breach of patient confidentiality: law, ethics, and pragmatics.
+PMID: 18329621
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18329621/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Medical uses of genetic information have multiplied over the last several years. When an individual is a carrier of a clinically important allele, their kindred are at increased risk of carrying the same allele and of sharing the consequent risk of disease. If there were an intervention that could modify the risk of progression to disease, then there would be a clear advantage to kindred to be so informed. However, some probands may resist divulging that information to kindred for any of a variety of reasons, including the potential for discrimination. In this article we will review the manner in which the courts and professional organizations have viewed the conflict between 1 individual's right to privacy and another's right to information that could potentially be life saving or life prolonging. We will then consider the ethics of this issue and suggest an approach that physicians should take when confronting it.

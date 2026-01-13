@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antisocial personality disorder
+TITLE: [Antisocial personality disorder].
+PMID: 26939485
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26939485/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Antisocial personality disorder (ASP), especially psychopathy as its extreme form, has provoked fear and excitement over thousands of years. Ruthless violence involved in the disorder has inspired scientists, too.The abundance of research results concerning epidemiology, physiology, neuroanatomy, heritability, and treatment interventions has made ASP one of the best documented disorders in psychiatry. Numerous interventions have been tested, but there is no current treatment algorithm. Biological and sociological parameters indicate the importance of early targeted interventions among the high risk children. Otherwise, as adults they cause the greatest harm. The use of medications or psychotherapy for adults needs careful consideration.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Breast cancer
+TITLE: Disparities in Breast Cancer.
+PMID: 35168767
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35168767/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In the western world, breast cancer is the most common lethal cancer in women and the second leading cause of cancer death behind lung cancer. When assessing registry data, incidence and mortalty vary significantly by race or ethnicity and by socioeconomic status. There are a number of established risk factors, that effect risk of not just risk of breast cancer overall but the risk of certain molecular subtypes of breast cancer. Other factors in the disparity in outcomes include certain populations experiencing lower quality of care; prevention, screening, diagnosis and treatment.

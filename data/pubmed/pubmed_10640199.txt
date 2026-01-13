@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Biopsy
+TITLE: Recent developments in stereotactic breast biopsy methodologies: an update for the surgical pathologist.
+PMID: 10640199
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10640199/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Recently, there have been a number of new devices introduced for stereotactic biopsy of nonpalpable, mammographically detected lesions. The vacuum-assisted core biopsy (VACB) (Minimal Invasive Breast Biopsy (MIBB), U.S. Surgical, Norwalk, CT; Mammotome, Biopsys Medical, Cincinnati, OH) obtains multiple tissue cores (11-gauge) in a circumferential manner around the biopsy probe, inserted under stereotactic guidance. It provides more complete sampling of mammographic lesions than the conventional 14-gauge stereotactic core biopsy, reducing the number of unsatisfactory biopsies. The advanced breast biopsy instrumentation (ABBI) (United States Surgical Corporation, Norwalk, CT) system utilizes stereotactic technique and an oscillating blade-cutting mechanism to obtain a single large diameter (5 mm to 20 mm) tissue core, with the aim of obtaining an intact lesion in its entirety for histologic assessment. Its potential as a treatment option is still under investigation. Suggested protocols for specimen handling are presented together with a review of the recent literature. Close liaison with radiologists and surgeons performing these biopsies will allow the collection of further outcome data to evaluate the strengths and weaknesses of each technique.

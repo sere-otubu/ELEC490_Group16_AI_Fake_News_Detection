@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Postpartum depression
+TITLE: Postpartum Depression: Screening and Collaborative Management.
+PMID: 36822723
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36822723/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Perinatal mood disorders are a leading cause of disability worldwide and suicide is a leading cause of maternal death in the first year after giving birth. The three categories of perinatal mood disorders are postpartum blues, postpartum depression, and postpartum psychosis. Identifying risk factors may allow clinicians to provide patients with interventions to potentially prevent development of these disorders. Universal screening for perinatal mood disorders can lead to earlier identification and treatment. Collaborative care methods, incorporating the entire family into treatment, therapy service, and providing support services are recommended as first-line intervention strategies before moving on to pharmacologic management.

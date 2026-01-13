@@ -1,0 +1,8 @@
+SEARCH_TOPIC: NSAIDs side effects
+TITLE: Gastrointestinal side-effects of NSAIDs in the community.
+PMID: 7779646
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7779646/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The prevalence of a range of gastrointestinal symptoms was compared in 1014 cases, identified in general practice, receiving chronic non-steroidal anti-inflammatory drug (NSAID) treatment and 975 matched community controls. The NSAIDs being taken included aspirin (33%), ibuprofen (17%), naproxen (11%), piroxicam (9%), indomethacin (8%), and diclofenac (7%). The 12-month prevalence of dyspepsia in cases was 46% and in controls 43%, with no differences in symptoms prevalence between those taking aspirin and other NSAIDs or between individual NSAIDs. About one-third of the cases had consulted a GP about their symptoms and 7% had a co-prescription for an H2-receptor antagonist. Lower-bowel symptoms were more common in the NSAID-taking cases, particularly constipation and straining, and constipation was a more common reason for stopping medication than dyspepsia.

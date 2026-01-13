@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mammography
+TITLE: Mammography processor quality assurance.
+PMID: 12362534
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12362534/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+After completing this article on mammographic processing, readers will: Understand the relationship between mammography and breast cancer survival. Define quality assurance and quality control. Discuss the history of the Mammography Quality Standards Act. List the important considerations in processor setup. Name the tests in the medical physicist survey. Know how to perform daily processor quality control. Understand the importance of continuous quality improvement.

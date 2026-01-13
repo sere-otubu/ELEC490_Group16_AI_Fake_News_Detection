@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Opioids risks
+TITLE: Opioid-induced immunosuppression.
+PMID: 18685388
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18685388/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This review provides an overview of the immunological effects of commonly used analgesic opioid drugs with particular emphasis on human studies, with the final aim to highlight their potential clinical relevance. The immunomodulatory effects of morphine have been characterized in animal and human studies. Morphine decreases the effectiveness of several functions of both natural and acquired immunity, interfering with important intracellular pathways involved in immune regulation. Mainly from animal studies, however, it has emerged that not all opioids induce the same immunosuppressive effects and evaluating each opioid's profile is important for appropriate analgesic selection. The potent opioid fentanyl also exerts a relevant immunosuppression, while the partial agonist buprenorphine appears to have a more favourable immune profile. The impact of the opioid-mediated immune effects could be particularly dangerous in selective vulnerable populations, such as the elderly or immunocompromised patients. The impact of opioid drug treatment on immunity may be a new safety concern for the physician. Although many advances have been made in understanding the effects of opioid drugs on immune responses, their relevance is not completely clear. The scientific community must be aware that it is about time to perform well designed clinical studies in order to assess the importance of opioid-induced immune suppression.

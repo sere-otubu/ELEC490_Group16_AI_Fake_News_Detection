@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Crohns disease
+TITLE: Effect of Bacteroides on Crohn's disease.
+PMID: 39586813
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39586813/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Crohn's disease (CD), also known as cicatrizing enteritis, is an inflammatory bowel disease that occurs in the distal ileum and right colon of unknown cause and is also called inflammatory bowel disease (IBD) with ulcerative colitis (UC). In recent years, intestinal biota have been confirmed to play a significant role in various gastrointestinal diseases. Studies have found that intestinal microbiota disorders are closely associated with the onset and progression of Crohn's disease. <i>Bacteroidetes</i>, the second largest microbiota in the intestine, are crucial for equilibrium in the microbiota and intestinal environment. Certain <i>Bacteroides</i> can induce the development of Crohn's disease and aggravate intestinal inflammation directly or through their metabolites. Conversely, certain <i>Bacteroides</i> can reduce intestinal inflammation and symptoms of Crohn's disease. This article reviews the effect of several intestinal <i>Bacteroides</i> in the onset and progression of Crohn's disease and their impact on its treatment.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Metabolism basics
+TITLE: Auxin: simply complicated.
+PMID: 23669571
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23669571/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Auxin is a plant hormone involved in an extraordinarily broad variety of biological mechanisms. These range from basic cellular processes, such as endocytosis, cell polarity, and cell cycle control over localized responses such as cell elongation and differential growth, to macroscopic phenomena such as embryogenesis, tissue patterning, and de novo formation of organs. Even though the history of auxin research reaches back more than a hundred years, we are still far from a comprehensive understanding of how auxin governs such a wide range of responses. Some answers to this question may lie in the auxin molecule itself. Naturally occurring auxin-like substances have been found and they may play roles in specific developmental and cellular processes. The molecular mode of auxin action can be further explored by the utilization of synthetic auxin-like molecules. A second area is the perception of auxin, where we know of three seemingly independent receptors and signalling systems, some better understood than others, but each of them probably involved in distinct physiological processes. Lastly, auxin is actively modified, metabolized, and intracellularly compartmentalized, which can have a great impact on its availability and activity. In this review, we will give an overview of these rather recent and emerging areas of auxin research and try to formulate some of the open questions. Without doubt, the manifold facets of auxin biology will not cease to amaze us for a long time to come.

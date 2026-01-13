@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Male infertility
+TITLE: Male infertility as a window to health.
+PMID: 30316415
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30316415/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There is an emerging body of evidence suggesting that male infertility may be a harbinger of future health. Potential associations between infertility and health may arise from genetic, developmental, and lifestyle factors. Studies have explored possible links between male infertility and oncologic, cardiovascular, metabolic, and autoimmune diseases. Male infertility may also be a predictor of hospitalization and mortality. Additional research is required to elucidate the mechanisms by which male infertility affects overall health.

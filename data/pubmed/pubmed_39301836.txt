@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Eczema
+TITLE: What is "eczema"?
+PMID: 39301836
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39301836/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Eczema is the most common category of inflammatory skin disorders as dermatologists see many patients with eczematous diseases in daily practice. It is characterized by the three major morphological features: multiple-pinpoint condition, polymorphism, and itch. To describe polymorphism, "eczema triangle" has been used in German/Japanese dermatology. The multiple pinpoints correspond to numerous tiny foci from which individual papules/vesicles arise. The polymorphism betrays composition of erythema, papule, seropapule, vesicle, pustule, scale, and crust, which are seen in acute eczema. Meanwhile, chronic eczema is represented by lichenification and hyperpigmentation, and possibly by hypopigmentation. In acute eczema, spongiosis is associated with overproduction of hyaluronic acid, secretion of self-protective galectin-7, and decreased expression of E-cadherin. In the upper dermis, Th1/Tc1 or Th2/Tc2, and additional Th17, Th22, and/or Tc22 infiltrate, depending on each eczematous disease. Innate lymphoid cells are also involved in the formation of eczema. In chronic eczema, periostin contributes to remodeling of inflammatory skin with dermal fibrosis, and epidermal melanogenesis and dermal pigment deposition result in hyperpigmentation. Finally, eczematous diseases are potentially associated with increased risk of comorbidities, including not only other allergic diseases but also coronary heart disease and mental problems such as depression. Although the original word for eczema is derived from old Greek "ekzein," eczema remains a major target of modern science and novel therapies.

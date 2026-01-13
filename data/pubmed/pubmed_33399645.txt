@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Eating disorders
+TITLE: [Eating disorders in adolescents. A comprehensive approach].
+PMID: 33399645
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33399645/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Eating disorders (ED) are very serious diseases that usually begin in adolescence and have, in general, been increasing in developing countries. In the country, there are currently several fac tors that hinder their prevention, detection, and treatment, where the lack of training of health professionals in this emerging issue appears as an important one. The purpose of this article is to contribute to the knowledge that pediatricians have about ED in adolescence, through an updated review of the literature on the subject. This publication addresses the main internatio nal classification of ED in use in the current scientific literature and the epidemiology, etiology, impact on comprehensive health, clinical presentation, and treatment of the most common ED in adolescence.

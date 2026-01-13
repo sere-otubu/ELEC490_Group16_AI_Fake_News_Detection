@@ -1,0 +1,8 @@
+SEARCH_TOPIC: General anesthesia
+TITLE: Update on the effect of dental general anaesthesia on neurocognition in children.
+PMID: 39087213
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39087213/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Dental general anaesthesia provides a comfortable treatment modality for children with early childhood caries and children's dental anxiety, but US Food and Drug Administration safety warnings have raised concerns about the neurotoxicity of general anaesthetic drugs. Currently, anaesthetic drugs have been found to impair neurocognitive function in animals, with possible mechanisms including cell damage, cell loss and impaired neuronal network function. The outcomes of clinical studies on the neurocognitive effects of surgical general anaesthesia in children have been inconsistent. However, studies focusing on dental general anaesthesia in children suggest that it does not affect neurocognitive function. In general, a growing number of studies suggest that dental general anaesthesia does not affect neurocognitive development in children. Moreover, dental general anesthesia should be used as normal when other behavioural management is unavailable.

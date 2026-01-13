@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Appendectomy
+TITLE: A tiered approach to optimize pediatric laparoscopic appendectomy outcomes.
+PMID: 31519359
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31519359/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Surgical management of appendicitis accounts for ~30% of total expenditure in the practice of pediatric surgery and is associated with high cost variation. We hypothesize that incorporating single-incision laparoscopy (SILS) and the resultant by-product dual-incision laparoscopy (DILS) into a historically three-incision laparoscopic (TILS) appendectomy practice affords equal outcomes at lower cost. Appendectomies performed at a large-volume tertiary care children's hospital from 1/2015-12/2017 were retrospectively reviewed. Appendectomy technique and appendicitis severity were stratified against operative and admission direct variable (DV) costs. Secondary outcomes included perioperative time course and 30-day postoperative outcomes. A total of 970 appendectomies were analyzed during the study period (61% acute, 39% complex appendicitis). SILS and DILS had significantly lower mean DV costs and OR times compared to TILS for both acute and complex appendicitis while maintaining equivalent outcomes. SILS and DILS appendectomy techniques can be incorporated into pediatric surgical practice at lower cost than TILS appendectomy while maintaining equivalent outcomes. Further, the introduction of a tiered approach to laparoscopic appendectomy, in which all cases are started as SILS with additional incisions added based on operative difficulty, is estimated to save $74,580 annually in operative DV costs at a pediatric surgical center averaging 314 laparoscopic appendectomies per year. Treatment Study. Level III.

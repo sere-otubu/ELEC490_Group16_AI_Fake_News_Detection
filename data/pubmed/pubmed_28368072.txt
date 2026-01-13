@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HPV infection
+TITLE: Review of HPV-related diseases and cancers.
+PMID: 28368072
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28368072/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Human papillomavirus (HPV) is a double-stranded circular DNA virus belonging to the papillomavirus family. It is transmitted by skin-to-skin or mucosa-to-mucosa contact and enters the body via cutaneous or mucosal trauma. HPV infection is the most common sexually transmitted disease, although it is usually cured by the immune system. Worldwide, the risk of being infected at least once in a lifetime among both men and women is 50%. HPV infection causes common and anogenital warts, as well as other non-dermatological diseases. The role of HPV in cancer development has been extensively studied, primarily in cervical cancer, but also in other types of neoplasms.

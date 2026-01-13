@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Red blood cells
+TITLE: Changes in human red blood cells during aging in vivo.
+PMID: 7967311
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7967311/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The human red blood cells survive in the circulation for 120 days. Density-gradient centrifugation technique is widely used to prepare red cell fractions of different ages. It has been known that various biochemical properties of the red cells change with aging in vivo. If the changes in the red cell surface lead to the destruction of senescent cells, it would be of interest to know how these changes are produced concerning the cell ages. Several different mechanisms for the both specific and nonspecific recognition have been considered. The first hypothesis concerning this mechanism demonstrated that desialylated glycophorins may play the role of recognition signal triggering the elimination of senescent red cells. There was also another hypothesis that demonstrated the red cell removal occurs due to the Fc receptor-dependent phagocytosis of the senescent cells by opsonization with anti-band 3 immunoglobulin G autoantibody. The present review provides a summary of the works in the area of red cell senescence.

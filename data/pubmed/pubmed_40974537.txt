@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Digital detox
+TITLE: Development and Psychometric Analysis of the Digital Detox Scale.
+PMID: 40974537
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40974537/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The widespread use of digital technologies keeps individuals constantly online, which may increase the risk of digital addiction. Digital detox, defined as the conscious limitation of technology use, has emerged as a strategy to achieve healthier balance. This study aimed to develop and validate a scale to measure university students' digital detox levels. Designed as a cross-sectional methodological study, it was conducted with 701 students at a university in Türkiye. Scale development followed established procedures, including item generation, expert review, and psychometric evaluation. Analyses supported a multidimensional, 27-item structure with strong evidence of reliability and validity. The scale provides a practical tool for assessing digital detox levels among university students and can be applied in academic and clinical contexts to evaluate technology-use habits and support strategies for balanced digital engagement.

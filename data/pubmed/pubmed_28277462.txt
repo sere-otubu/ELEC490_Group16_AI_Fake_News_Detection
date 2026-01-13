@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Stroke
+TITLE: Wake-Up Stroke: Current Understanding.
+PMID: 28277462
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28277462/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Patients with wake-up strokes account for approximately 1 in 5 individuals presenting with an acute ischemic stroke. However, they are commonly excluded from acute stroke treatment. This article reviews the current understanding of wake-up strokes. A comparison of wake-up and awake-onset strokes demonstrated that they are physiologically, clinically, and radiologically similar. Use of advanced CT and MRI techniques may help extend acute stroke treatment options to patients with wake-up stroke.

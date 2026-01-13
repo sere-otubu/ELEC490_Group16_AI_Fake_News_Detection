@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Corticosteroids
+TITLE: Use of Corticosteroids in Prenatal Treatment of Congenital Pulmonary Adenomatoid Malformation: Integrative Review.
+PMID: 35108733
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35108733/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+ To review data on the use of corticosteroids for the treatment of fetuses with high-risk congenital pulmonary adenomatoid malformation (CPAM).  Integrative review based on the literature available on MEDLINE and LILACS, including articles published until November, 2020.  The initial search resulted in 87 articles, 4 of which were selected for analysis, with all of them being retrospective descriptive observational studies. In the group of fetuses that received only a single corticosteroid cycle, the hydrops resolution rate was 70%, and the survival rate was 83.8%. In fetuses treated with 2 or more cycles of corticosteroids, there was an improvement in the condition of hydrops or edema in a single body compartment in 47%, and survival of 81.8% of the fetuses.  The use of corticosteroids for the prenatal treatment of high-risk CPAM appears to be associated with an improvement in perinatal outcomes.

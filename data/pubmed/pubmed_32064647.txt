@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Social anxiety
+TITLE: Social anxiety and perceptions of likeability by peers in children.
+PMID: 32064647
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32064647/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The current study aimed to investigate the discrepancy between self-reported and peer-reported likeability among children, and the relation with social anxiety, depression, and social support. In total, 532 children between 7 and 12 years completed questionnaires about social anxiety symptoms, depressive symptoms, and social support, estimated their own likeability, and indicated how much they liked their classmates. Children with higher levels of social anxiety or depression overestimated their likeability less or even underestimated their likeability. Social anxiety symptoms, but not depressive symptoms, were significant predictors of the discrepancy. Social support was positively related to likeability and negatively related to social anxiety, but did not moderate the association between social anxiety symptoms and perception accuracy of likeability. These results are in line with cognitive theories of childhood social anxiety, and they stress the importance of using multi-informant measures when studying the relation between social anxiety and social functioning in children.

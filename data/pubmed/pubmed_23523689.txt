@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Weight gain strategies
+TITLE: Strategies to prevent weight gain in workplace and college settings: a systematic review.
+PMID: 23523689
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23523689/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To compare the effectiveness of self-management, dietary, physical activity, and/or environmental strategies for the prevention of weight gain among adults in work and college settings. We conducted a systematic review of work/college-based studies that intervened on adults using one or more of the above strategies with follow up over at least a 12-month period. We excluded studies with a weight loss component. Our weight outcomes included body mass index (BMI), weight, and waist circumference. We included 7 work- and 2 college-based interventional studies, which all used combinations of different strategies. There was moderate strength of evidence that work/college-based combination interventions prevented weight gain of ≥0.5kg over 12months as compared to control; however, we were unable to perform meta-analysis due to substantial heterogeneity in the intervention strategies and study populations. These programs did not prevent BMI gain or waist circumference increase. While we found limited evidence that work/college-based interventions employing a combination of strategies prevent adult weight gain, the combination of personalized diet and physical activity counseling for the individual along with the promotion of healthy lifestyle changes in the environment may be a promising strategy to explore in future research.

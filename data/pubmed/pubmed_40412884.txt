@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Melanoma
+TITLE: Melanoma in Special Populations: Pediatrics, Elders, Pregnant Women.
+PMID: 40412884
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40412884/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Melanomas in special populations constitute a unique challenge. Pediatric melanomas present with atypical histopathological features, and the most common subtypes include congenital nevi-associated, Spitzoid, and conventional melanomas. Although they present in more advanced stages than in adults, pediatric melanomas show better prognosis. In the elderly, melanomas are common and often more aggressive than in younger adults, contributing to poorer outcomes and lower survival rates. Pregnancy-associated melanomas (PAMs) do not present with a worse prognosis than all other melanomas. PAM management involves balancing maternal and fetal safety and tailoring surgical treatment according to pregnancy timeline and tumor stage.

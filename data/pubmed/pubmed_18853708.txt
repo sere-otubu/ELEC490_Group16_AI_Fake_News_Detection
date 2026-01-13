@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insomnia
+TITLE: Clinical guideline for the evaluation and management of chronic insomnia in adults.
+PMID: 18853708
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18853708/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Insomnia is the most prevalent sleep disorder in the general population, and is commonly encountered in medical practices. Insomnia is defined as the subjective perception of difficulty with sleep initiation, duration, consolidation, or quality that occurs despite adequate opportunity for sleep, and that results in some form of daytime impairment.1 Insomnia may present with a variety of specific complaints and etiologies, making the evaluation and management of chronic insomnia demanding on a clinician's time. The purpose of this clinical guideline is to provide clinicians with a practical framework for the assessment and disease management of chronic adult insomnia, using existing evidence-based insomnia practice parameters where available, and consensus-based recommendations to bridge areas where such parameters do not exist. Unless otherwise stated, "insomnia" refers to chronic insomnia, which is present for at least a month, as opposed to acute or transient insomnia, which may last days to weeks.

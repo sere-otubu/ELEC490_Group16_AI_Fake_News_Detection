@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Glaucoma
+TITLE: Outcomes of Glaucoma Drainage Devices in Childhood Glaucoma.
+PMID: 32567448
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32567448/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Angle surgery is the gold standard for the management of many types of childhood glaucoma, yet glaucoma drainage devices (GDD) are effective tools for refractory advanced cases or secondary childhood glaucomas. The purpose of this article is to review recently published literature focused on the use of GDDs for pediatric glaucoma, including GDD general principles and surgical outcomes. Literature review of various electronic databases was performed. 71 papers were reviewed for outcomes of GDD in childhood glaucomas. Success rates were usually defined by intraocular pressure (IOP) of 5-22 mmHg, with or without medications. Success rates were typically higher for non-valved GDDs but varied by length of follow-up. Non-valved GDDs afford lower and longer-lasting IOP control in pediatric eyes than valved GDD, however, no randomized controlled trials exist in childhood glaucoma. Various designs of GDDs are available for management of childhood glaucoma with good short-term success rates; individual patient factors should be taken into consideration when selecting a specific device.

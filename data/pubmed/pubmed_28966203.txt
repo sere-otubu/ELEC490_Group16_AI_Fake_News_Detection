@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Burnout syndrome
+TITLE: Prevalence of Burnout Syndrome in Emergency Nurses: A Meta-Analysis.
+PMID: 28966203
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28966203/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To determine the prevalence of burnout (based on the Maslach Burnout Inventory on the 3 dimensions of high Emotional Exhaustion, high Depersonalization, and low Personal Accomplishment) among emergency nurses. A search of the terms "emergency AND nurs* AND burnout" was conducted using the following databases: CINAHL, Cochrane, CUIDEN, IBECS, LILACS, PubMed, ProQuest, PsycINFO, SciELO, and Scopus. Thirteen studies were included for the Maslach Burnout Inventory subscales of Emotional Exhaustion and Depersonalization and 11 studies for the subscale of low Personal Accomplishment. The total sample of nurses was 1566. The estimated prevalence of each subscale was 31% (95% CI, 20-44) for Emotional Exhaustion, 36% (95% CI, 23-51) for Depersonalization, and 29% (95% CI, 15-44) for low Personal Accomplishment. The prevalence of burnout syndrome in emergency nurses is high; about 30% of the sample was affected with at least 1 of the 3 Maslach Burnout Inventory subscales. Working conditions and personal factors should be taken into account when assessing burnout risk profiles of emergency nurses.

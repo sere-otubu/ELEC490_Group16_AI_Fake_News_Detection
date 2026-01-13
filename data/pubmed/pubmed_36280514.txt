@@ -1,0 +1,8 @@
+SEARCH_TOPIC: CT scan
+TITLE: [Contribution of CT-scan fusion imaging for interventional cardiology].
+PMID: 36280514
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36280514/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Fusion imaging is developing fast, allowing improvements in interventional cardiology procedures workup and guidance. Computed-tomography (CT) scan and fluoroscopy fusion guidance used in procedures such as left appendage occlusion or perivalvular leak closure permit prediction and simulation of the appropriatedevice, as well as implantation guidance. In the era of tailored medicine, CT/fluoroscopy fusion imaging guidance is an interesting tool for individualizing and adapting the devices implanted to each patient, as well as improving the outcomes and safety of each procedure.

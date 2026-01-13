@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lung function
+TITLE: Effects of genetics and altitude on lung function.
+PMID: 33112470
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33112470/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The aim of this work is to present a review on the impact of genetics and altitude on lung function from classic and recent studies. A systematic search has been carried out in different databases of scientific studies, using keywords related to lung volumes, spirometry, altitude and genetics. The results of this work have been structured into three parts. First, the relationship between genes and lung function. Next, a review of the genetic predispositions related to respiratory adaptation of people who inhabit high-altitude regions for millennia. Finally, temporary effects and long-term acclimatisation on respiratory physiology at high altitude are presented. The works focused on the influence of genetics and altitude on lung function are currently of interest in terms of studying the interactions between genetic, epigenetic and environmental factors in the configuration of the pathophysiological adaptation patterns.

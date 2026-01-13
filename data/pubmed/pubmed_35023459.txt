@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hypertension
+TITLE: Atrial Fibrillation and Hypertension: "Quo Vadis".
+PMID: 35023459
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35023459/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hypertension is one of the most well-established risk factors for atrial fibrillation. Longstanding untreated hypertension leads to structural remodeling and electrophysiologic alterations, causing an atrial myopathy that forms a vulnerable substrate for the development and maintenance of atrial fibrillation. Hypertension-induced hemodynamic, inflammatory, hormonal, and autonomic changes all appear to be important contributing factors. Furthermore, hypertension is also associated with several atrial fibrillation-related comorbidities. As such, hypertension may represent an important target for therapy in atrial fibrillation. Clinicians should be aware of the pitfalls of blood pressure measurement in atrial fibrillation. While the auscultatory method is preferred, the use of automated devices appears to be an acceptable method in the ambulatory setting. There are pathophysiologic basis and emerging clinical evidence suggesting the benefit of renin-angiotensin system inhibition in risk reduction of atrial fibrillation development, particularly in patients with left ventricular hypertrophy or left ventricular dysfunction. A better understanding of hypertension's pathophysiologic link to atrial fibrillation may lead to the development of novel therapies for the primary prevention of atrial fibrillation. Finally, future studies are needed to address the strategies of optimal blood pressure to minimize the risk of atrial fibrillation-related complications.

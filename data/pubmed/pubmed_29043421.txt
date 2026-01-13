@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urinary system
+TITLE: The duplicated collecting system of the urinary tract: embryology, imaging appearances and clinical considerations.
+PMID: 29043421
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29043421/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Duplication anomalies of the urinary collecting system are common and can be discovered and characterized with multiple imaging modalities. The embryology, imaging manifestations and clinical ramifications of duplicated ureters and renal collecting systems vary from a normal anatomical variant to urological pathology and are discussed and illustrated in this review.

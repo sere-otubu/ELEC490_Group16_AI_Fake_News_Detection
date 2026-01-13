@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Enzymes function
+TITLE: Apoptosis and intestinal barrier function.
+PMID: 11193586
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11193586/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The signal transduction pathways of the induction of apoptosis in the gastrointestinal tract have in part been discovered. However, almost nothing is known about the functional influence of apoptotic signals on intestinal barrier function. In this study the effect of camptothecin-induced apoptosis in HT-29/B6 monolayers and the influence of apoptosis on epithelial barrier function were characterized. We demonstrated that camptothecin causes a decrease of transepithelial resistance and an increase in fluxes of the paracellular marker [3H]mannitol. Camptothecin increased the apoptotic rate and the conductance of single-cell apoptosis as measured by the conductance scanning technique. We conclude that in our model of HT-29/B6 cells camptothecin is a potent inductor of apoptosis that causes significant barrier defects measured by the Ussing chamber technique and the conductance scanning technique. Based on these results we are able to investigate the effect of other cytokines--TGF-beta, for instance, and its role in apoptotic conditions.

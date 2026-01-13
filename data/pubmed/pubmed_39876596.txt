@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blue light effects
+TITLE: The Effects of Blue Light on Locomotion and Cognition in Early Adult Drosophila melanogaster.
+PMID: 39876596
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39876596/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Artificial light sources, particularly blue light, have raised concerns about their impact on biological health and behavior. In this study, we explored the effects of blue light on the locomotion and cognitive functions of early adult Drosophila melanogaster. Our experiments were conducted in a custom-designed behavioral arena to assess how blue light influences these parameters. We found that after ~2 weeks of blue light exposure, the locomotion of fruit flies, including movement speed and activity levels, significantly increased, but these effects disappeared by the third week. However, this exposure also led to a notable reduction in lifespan and had adverse effects on cognitive functions, including attention and short-term spatial memory. These findings may reveal the profound impacts of blue light on neural behavioral functions and lifespan, highlighting the importance of further research into the biological effects of blue light.

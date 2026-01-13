@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Flu shot
+TITLE: Dummheit.
+PMID: 25947030
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25947030/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Immunizing against influenza is tricky; against measles is not. Influenza comes in many constantly evolving strains, but one measles shot in childhood confers lifelong immunity. Unlike the flu, measles was wiped out. Its return represents an outbreak not of disease, but of stupidity. The matrix of stupidity is, however, reinforced by strong strands of malice, as when Andrew Wakefield's fraudulent 1998 paper linked the MMR vaccine to autism. The fraud was unmasked and the vaccine-autism link disproven, but the evil influence continues. Measles offers an illustration of Virchow's insights that medicine is a social science and that politics is medicine writ large. It is this "inconvenient truth" that is being suppressed by muzzling the Chief Public Health Officer (CPHO) and attacking public health for addressing "social determinants."

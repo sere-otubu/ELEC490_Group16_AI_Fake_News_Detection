@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lactose intolerance
+TITLE: Lactose intolerance: from diagnosis to correct management.
+PMID: 24443063
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24443063/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This review discusses one of the most relevant problems in gastrointestinal clinical practice: lactose intolerance. The role of lactase-persistence alleles the diagnosis of lactose malabsorption the development of lactose intolerance symptoms and its management. Most people are born with the ability to digest lactose, the major carbohydrate in milk and the main source of nutrition until weaning. Approximately, 75% of the world's population loses this ability at some point, while others can digest lactose into adulthood. Symptoms of lactose intolerance include abdominal pain, bloating, flatulence and diarrhea with a considerable intraindividual and interindividual variability in the severity. Diagnosis is most commonly performed by the non invasive lactose hydrogen breath test. Management of lactose intolerance consists of two possible clinical choice not mutually exclusive: alimentary restriction and drug therapy.

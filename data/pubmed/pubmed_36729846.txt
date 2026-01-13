@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Traumatic brain injury
+TITLE: Traumatic brain injury and RSI is rocuronium or succinylcholine preferred?
+PMID: 36729846
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36729846/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Traumatic brain injury is widespread and has significant morbidity and mortality. Patients with severe traumatic brain injury often necessitate intubation. The paralytic for rapid sequence induction and intubation for the patient with traumatic brain injury has not been standardized. Rapid sequence induction is the standard of care for patients with traumatic brain injury. Historically, succinylcholine has been the agent of choice due to its fast onset and short duration of action, but it has numerous adverse effects such as increased intracranial pressure and hyperkalemia. Rocuronium, when dosed appropriately, provides neuromuscular blockade as quickly and effectively as succinylcholine but was previously avoided due to its prolonged duration of action which precluded neurologic examination. However, with the widespread availability of sugammadex, rocuronium is able to be reversed in a timely manner. In patients with traumatic brain injury necessitating intubation, rocuronium appears to be safer than succinylcholine.

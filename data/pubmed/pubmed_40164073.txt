@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Arthritis
+TITLE: Sonography of Arthritis: Inflammatory, Infectious, Depositional.
+PMID: 40164073
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40164073/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ultrasound (US) is a valuable tool in the evaluation of arthritis both for diagnosis and treatment response. Pertinent findings such as joint effusions, synovitis, bursitis, bone erosions, tenosynovitis, and enthesitis can all be readily evaluated sonographically. In this article, we describe specific considerations in the US evaluation of rheumatoid arthritis, psoriatic arthritis, juvenile idiopathic arthritis, crystalline arthritis (gout, calcium pyrophosphate deposition disease, and hydroxyapatite deposition disease), septic arthritis, and osteoarthritis with attention to certain differentiating features. The potential role of US in the diagnosis of specific arthritides is discussed, together with an overview of newer technologies and future directions.

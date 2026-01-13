@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Diuretics
+TITLE: Diuretics and their side effects. Dilemma in the treatment of hypertension.
+PMID: 3280487
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3280487/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Diuretics have traditionally been the keystone of antihypertensive therapy. A variety of clinical trials, designed to examine the benefit of blood pressure reduction in decreasing morbidity and mortality from hypertension-related cardiovascular disease, have surprisingly failed to show a decrease in coronary artery disease death rate, although other forms of vascular disease were impressively reduced. These trials have consistently used diuretics as the initial therapeutic choice. Such observations have stimulated a reevaluation of the "stepped-care" approach and a critical appraisal of diuretic effects. This review examines the efficacy of diuretics in reducing blood pressure and attempts to identify individuals most likely to respond to these agents. The side effects of diuretic therapy are reviewed in hemodynamic, cardiac, metabolic, and symptomatic terms, but because some of these aspects of diuretic or antihypertensive therapy are detailed elsewhere in this monograph, the present discussion focuses on cardiac, metabolic, hemodynamic, and symptomatic effects. Finally, alternative therapeutic options and guidelines for therapy are outlined.

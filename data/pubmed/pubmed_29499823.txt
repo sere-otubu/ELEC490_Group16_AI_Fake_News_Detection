@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Carpal tunnel syndrome
+TITLE: Carpal Tunnel Syndrome: Making Evidence-Based Treatment Decisions.
+PMID: 29499823
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29499823/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Carpal tunnel syndrome (CTS) is one of the most common musculoskeletal disorders of the upper extremity. Comorbidities associated with the development of CTS include diabetes and obesity. Although a high rate of repetitive hand/wrist motions is a risk factor, there is insufficient evidence to implicate computer use in the development of CTS. Initial treatment generally is nonoperative, with the strongest evidence supporting bracing/splinting. Strong evidence supports operative treatment, regardless of technique, as superior to nonoperative treatment. Complications are infrequent and most are minor and transient.

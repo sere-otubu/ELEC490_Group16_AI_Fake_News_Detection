@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hormone replacement therapy
+TITLE: Updates in Hormone Replacement Therapy for Survivors of Gynecologic Cancers.
+PMID: 40042741
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40042741/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Symptoms of menopause and the sequelae of gynecologic cancer treatment can be severe in their physical and mental impact on patient quality of life. Survivors of certain gynecologic cancers - namely, early-stage, low-grade endometrial cancers; epithelial and germ cell ovarian cancers; and early-stage squamous cell cervical, vulvar, and vaginal cancers - as well as those who have undergone risk-reducing surgery for BRCA or Lynch syndrome mutations may safely use hormone replacement therapy (HRT). Treatment is ideally initiated in patients younger than age 60 or within ten years of menopause. The decision to start treatment should be made on an individualized basis after discussion of risks, benefits, and symptom severity with patients. Data suggest that the safest HRT regimens in this population include low-dose vaginal estrogen for the treatment of vulvovaginal symptoms, or low-dose systemic estrogen for the treatment of vasomotor symptoms, combined with progesterone in patients with an intact uterus. Therapies such as SSRIs/SNRIs, vaginal moisturizers, pelvic floor physical therapy, and psychosocial counseling should also be considered when appropriate for their effectiveness in managing menopausal symptoms without the potential risk of hormones.

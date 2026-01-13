@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Human brain structure
+TITLE: Assembly of recombinant tau into filaments identical to those of Alzheimer's disease and chronic traumatic encephalopathy.
+PMID: 35244536
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35244536/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Abundant filamentous inclusions of tau are characteristic of more than 20 neurodegenerative diseases that are collectively termed tauopathies. Electron cryo-microscopy (cryo-EM) structures of tau amyloid filaments from human brain revealed that distinct tau folds characterise many different diseases. A lack of laboratory-based model systems to generate these structures has hampered efforts to uncover the molecular mechanisms that underlie tauopathies. Here, we report in vitro assembly conditions with recombinant tau that replicate the structures of filaments from both Alzheimer's disease (AD) and chronic traumatic encephalopathy (CTE), as determined by cryo-EM. Our results suggest that post-translational modifications of tau modulate filament assembly, and that previously observed additional densities in AD and CTE filaments may arise from the presence of inorganic salts, like phosphates and sodium chloride. In vitro assembly of tau into disease-relevant filaments will facilitate studies to determine their roles in different diseases, as well as the development of compounds that specifically bind to these structures or prevent their formation.

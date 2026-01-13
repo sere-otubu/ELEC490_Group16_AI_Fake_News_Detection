@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Narcolepsy
+TITLE: Narcolepsy: Beyond the Classic Pentad.
+PMID: 40111737
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40111737/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Narcolepsy is a rare, disabling, chronic neurologic disorder that requires lifelong management of symptoms with pharmacologic and nonpharmacologic methods. The pentad symptoms of narcolepsy include excessive daytime sleepiness, cataplexy, disrupted nighttime sleep, sleep paralysis, and hypnagogic/hypnopompic hallucinations. However, people with narcolepsy often experience additional symptoms and disability related to nonpentad symptoms and comorbidities, such as cognitive, psychiatric, metabolic, and sleep disturbances. Current treatment strategies have focused primarily on addressing two of the pentad symptoms, excessive daytime sleepiness, and cataplexy, mainly owing to medication options being approved by the US Food and Drug Administration for these specific indications, neglecting the full 24-h impact and spectrum of symptoms. Meanwhile, the burden of disease extends far beyond these symptoms, and optimal management should reflect a comprehensive, patient-specific approach that not only addresses the entire pentad, but also goes beyond it to include the complete clinical presentation and manifestations of the disease. Individualized treatment must consider the patient's age and stage of life, most debilitating symptoms, support system and structure, comorbid conditions, treatment goals, and overall health. This review discusses care considerations for people living with narcolepsy in the context of their clinical characteristics beyond the hallmark features of narcolepsy.

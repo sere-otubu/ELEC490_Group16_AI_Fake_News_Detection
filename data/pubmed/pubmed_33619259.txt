@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immunotherapy
+TITLE: Targeting tumor-associated macrophages to synergize tumor immunotherapy.
+PMID: 33619259
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33619259/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The current treatment strategies in advanced malignancies remain limited. Notably, immunotherapies have raised hope for a successful control of these advanced diseases, but their therapeutic responses are suboptimal and vary considerably among individuals. Tumor-associated macrophages (TAMs) are a major component of the tumor microenvironment (TME) and are often correlated with poor prognosis and therapy resistance, including immunotherapies. Thus, a deeper understanding of the complex roles of TAMs in immunotherapy regulation could provide new insight into the TME. Furthermore, targeting of TAMs is an emerging field of interest due to the hope that these strategies will synergize with current immunotherapies. In this review, we summarize recent studies investigating the involvement of TAMs in immune checkpoint inhibition, tumor vaccines and adoptive cell transfer therapies, and discuss the therapeutic potential of targeting TAMs as an adjuvant therapy in tumor immunotherapies.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Contraception methods
+TITLE: Postabortion contraception.
+PMID: 28256918
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28256918/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The European Society of Contraception Expert Group on Abortion identified as one of its priorities to disseminate up-to-date evidence-based information on postabortion contraception to healthcare providers. A concise communication was produced which summarises the latest research in an easy-to-read format suitable for busy clinicians. Information about individual methods is presented in boxes for ease of reference.

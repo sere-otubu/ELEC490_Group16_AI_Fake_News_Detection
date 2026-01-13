@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mumps
+TITLE: Mumps: a resurgent disease with protean manifestations.
+PMID: 18928441
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18928441/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Mumps has re-emerged as an infection in the developed world. Its epidemiology has changed, with the majority of cases now primarily affecting adolescents and adults. While mumps is easily suspected if parotitis is present, parotitis is absent in 10%-30% of symptomatic cases. Mumps is a systemic infection with a variety of extra-parotid complications. In Australia, mumps diagnosis is confirmed by antibody testing and reverse transcriptase-polymerase chain reaction techniques. Suitable specimens for testing are serum, saliva, urine and cerebrospinal fluid. Treatment is generally supportive, although intravenous immunoglobulin therapy may have a future role in mumps management. Interferon alpha-2b treatment may be considered specifically for mumps epididymo-orchitis. Mumps vaccine is included in the measles-mumps-rubella (MMR) vaccine. In Australia, this vaccine is routinely administered at the ages of 1 and 4 years. Serious reactions to the mumps components of the MMR vaccine are rare.

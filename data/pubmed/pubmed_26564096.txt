@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Body composition
+TITLE: Body composition: Where and when.
+PMID: 26564096
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26564096/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The in vivo evaluation of body composition is essential in many clinical investigations, in order to accurately describe and monitor the nutritional status of a range of medical conditions and physiological processes, including sick and malnourished patients, pregnant women, breastfeeding women and the elderly, as well as in patients with cancer, osteoporosis and many other diseases. This research area is also important to the field of human nutrition and exercise physiology. Several research investigations have indicated the importance of measuring fat deposition in different body compartments, in order to gain a fuller understanding of the genetic factors that contribute to obesity, obesity-related disorders, such as dyslipidemia, and thereby to a fuller understanding of obesity associated cardio-metabolic disorders, with relevance to the relationship between body composition and energy expenditure. The spatial and temporal dimension, where and when, may influence the physiological relevance and the pathological implications of the fat composition of different body compartments, and, as such, is a new element to be considered when assessing body composition.

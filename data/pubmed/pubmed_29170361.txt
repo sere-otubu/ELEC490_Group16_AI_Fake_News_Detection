@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Polycystic ovary syndrome
+TITLE: Polycystic ovary syndrome: a common reproductive syndrome with long-term metabolic consequences.
+PMID: 29170361
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29170361/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Polycystic ovary syndrome is the most common endocrine disorder among women of reproductive age. Although traditionally viewed as a reproductive disorder, there is increasing appreciation that it is associated with significantly increased risk of cardiometabolic disorders. Women with polycystic ovary syndrome may present to clinicians via a variety of different routes and symptoms. Although the impact on reproduction predominates during the reproductive years, the increased cardiometabolic problems are likely to become more important at later stages of the life course. Women with polycystic ovary syndrome have an approximately 2- to 5-fold increased risk of dysglycaemia or type 2 diabetes, and hence regular screening with oral glucose tolerance test is warranted. Although the diagnostic criteria for polycystic ovary syndrome are still evolving and are undergoing revision, the diagnosis is increasingly focused on the presence of hyperandrogenism, with the significance of polycystic ovarian morphology in the absence of associated hyperandrogenism or anovulation remaining uncertain. The management of women with polycystic ovary syndrome should focus on the specific needs of the individual, and may change according to different stages of the life course. In view of the clinical manifestations of the condition, there is recent debate about whether the current name is misleading, and whether the condition should be renamed as metabolic reproductive syndrome.

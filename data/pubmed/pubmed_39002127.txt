@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insulin regulation
+TITLE: Multi-step regulation of microRNA expression and secretion into small extracellular vesicles by insulin.
+PMID: 39002127
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39002127/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Tissues release microRNAs (miRNAs) in small extracellular vesicles (sEVs) including exosomes, which can regulate gene expression in distal cells, thus acting as modulators of local and systemic metabolism. Here, we show that insulin regulates miRNA secretion into sEVs from 3T3-L1 adipocytes and that this process is differentially regulated from cellular expression. Thus, of the 53 miRNAs upregulated and 66 miRNAs downregulated by insulin in 3T3-L1 sEVs, only 12 were regulated in parallel in cells. Insulin regulated this process in part by phosphorylating hnRNPA1, causing it to bind to AU-rich motifs in miRNAs, mediating their secretion into sEVs. Importantly, 43% of insulin-regulated sEV-miRNAs are implicated in obesity and insulin resistance. These include let-7 and miR-103, which we show regulate insulin signaling in AML12 hepatocytes. Together, these findings demonstrate an important layer to insulin's regulation of adipose biology and provide a mechanism of tissue crosstalk in obesity and other hyperinsulinemic states.

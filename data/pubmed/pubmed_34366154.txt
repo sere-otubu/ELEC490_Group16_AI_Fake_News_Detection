@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Postpartum depression
+TITLE: Postpartum and Paternal Postnatal Depression: Identification, Risks, and Resources.
+PMID: 34366154
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34366154/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article provides an overview of the prevalence and cause of postpartum depression in women and postnatal depression among their male partners, as well as a review of related symptoms, risk factors, and effects on children. Evidence-based screening tools, management options, and resources for patients and providers are also presented.

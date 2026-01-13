@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Varicose veins
+TITLE: Varicose Veins: Approach, Assessment, and Management to the Patient with Chronic Venous Disease.
+PMID: 37541715
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37541715/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Varicose veins are tortuous and dilated veins commonly seen in chronic venous disease. This article will review chronic venous disease, including its differential diagnosis, workup, and treatment.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vegetarian diet
+TITLE: Vegetarian diet and depression scores: A meta-analysis.
+PMID: 34375207
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34375207/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Several studies have suggested an association between vegetarian diet and higher depression scores. However, some studies have also shown an effect in the opposite direction, indicating lower depression scores in vegetarians. Given this discrepancy in the literature, this meta-analysis was aimed to determine whether there is a significant association between vegetarian diet and depression scores across different published studies. A keyword search in major databases was conducted. Studies reporting depression scores in vegetarians and a non-vegetarian control group were included. Meta-analysis following a conditional random-effects procedure was conducted in R. After duplicates were removed and studies were analyzed for inclusion criteria, k=13 studies with an overall n of 49889 participants (8057 vegetarians and 41832 non-vegetarian controls) were included in the analysis. Random-effects meta-analysis revealed a significant difference between vegetarians and non-vegetarians, with vegetarians showing higher depression scores than non-vegetarians. The heterogeneity between studies was high and geographical variation in study location was low, limiting cross-cultural insights. Vegetarians show higher depression scores than non-vegetarians. However, due to high heterogeneity of published studies, more empirical research is needed before any final conclusions can be drawn. Also, empirical studies from a higher number of different countries would be desirable.

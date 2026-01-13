@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ulcerative colitis
+TITLE: Ulcerative colitis and its treatment.
+PMID: 6108713
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6108713/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ulcerative colitis and its epidemiology, etiology, pathophysiology, diagnosis, clinical findings, complications, treatment, and prognosis are reviewed. Ulcerative colitis, an inflammatory disease of unknown origin that varies in severity and clinical course, occurs most often in patients 30 to 70 years old. It appears to have a genetic component and to involve the immunological system. The cardinal symptom is usually bloody diarrhea, and the disease may be classified by either the severity of an attack, the clinical course, or by anatomic localization of inflammation. Initial treatment of ulcerative colitis generally includes corticosteroids administered either rectally, orally, or parenterally. Oral sulfasalazine has been found useful in treating this condition and is often used for prolonged therapy to prevent relapses. Azathioprine, cromolyn sodium, antidiarrheal/anticholinergic agents, and nutritional supplements are used at times. Surgery is indicated under certain conditions and usually involves panproctocolectomy with permanent ileostomy. The prognosis of ulcerative colitis depends upon the age of the patient, the extent of colonic involvement, and the severity of the attach.

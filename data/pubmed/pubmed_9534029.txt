@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Graves disease
+TITLE: The pathogenesis of Graves' disease.
+PMID: 9534029
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9534029/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Graves' disease, one of the autoimmune thyroid diseases, is caused by the production of IgG autoantibodies directed against the thyrotropin receptor. These antibodies bind to and activate the receptor, causing the autonomous production of thyroid hormones. Despite recent improvements in our understanding of the cellular and molecular basis of autoimmunity, our currently available treatments for Graves' disease have remained largely unchanged over the last 50 years. Nevertheless, new concepts in immune system regulation hold out the prospect in the future for intervention designed to modify, and possibly cure, the underlying disease process.

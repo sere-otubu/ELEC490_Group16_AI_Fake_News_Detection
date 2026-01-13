@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Metformin
+TITLE: Metformin in Antiviral Therapy: Evidence and Perspectives.
+PMID: 39772244
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39772244/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Metformin, a widely used antidiabetic medication, has emerged as a promising broad-spectrum antiviral agent due to its ability to modulate cellular pathways essential for viral replication. By activating AMPK, metformin depletes cellular energy reserves that viruses rely on, effectively limiting the replication of pathogens such as influenza, HIV, SARS-CoV-2, HBV, and HCV. Its role in inhibiting the mTOR pathway, crucial for viral protein synthesis and reactivation, is particularly significant in managing infections caused by HIV, CMV, and EBV. Furthermore, metformin reduces oxidative stress and reactive oxygen species (ROS), which are critical for replicating arboviruses such as Zika and dengue. The drug also regulates immune responses, cellular differentiation, and inflammation, disrupting the life cycle of HPV and potentially other viruses. These diverse mechanisms suppress viral replication, enhance immune system functionality, and contribute to better clinical outcomes. This multifaceted approach highlights metformin's potential as an adjunctive therapy in treating a wide range of viral infections.

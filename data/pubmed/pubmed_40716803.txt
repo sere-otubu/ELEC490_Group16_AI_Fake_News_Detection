@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Measles
+TITLE: Measles Matters: A Clinical Overview and Update.
+PMID: 40716803
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40716803/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Measles is a highly transmissible viral disease that is preventable through vaccination. Despite global initiatives, outbreaks persist, demonstrating the need for high immunization coverage. Spread occurs via respiratory droplets and airborne particles, reinforcing the need for herd immunity. Symptoms include fever, cough, and a distinctive rash. Complications may include pneumonia, encephalitis, and in rare cases, acute disseminated encephalomyelitis and subacute sclerosing panencephalitis. Diagnosis relies on reverse transcription-polymerase chain reaction and serology tests. Two doses of the measles, mumps, and rubella vaccine remains the most effective preventive measure and is essential for controlling and eliminating measles outbreaks.

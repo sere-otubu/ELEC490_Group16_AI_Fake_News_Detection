@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Psychotherapy
+TITLE: Advances in Psychotherapy for Depressed Older Adults.
+PMID: 28726061
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28726061/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+We review recent advances in psychotherapies for depressed older adults, in particular those developed for special populations characterized by chronic medical illness, acute medical illness, cognitive impairment, and suicide risk factors. We review adaptations for psychotherapy to overcome barriers to its accessibility in non-specialty settings such as primary care, homebound or hard-to-reach older adults, and social service settings. Recent evidence supports the effectiveness of psychotherapies that target late-life depression in the context of specific comorbid conditions including COPD, heart failure, Parkinson's disease, stroke and other acute conditions, cognitive impairment, and suicide risk. Growing evidence supports the feasibility, acceptability, and effectiveness of psychotherapy modified for a variety of health care and social service settings. Research supports the benefits of selecting the type of psychotherapy based on a comprehensive assessment of the older adult's psychiatric, medical, functional, and cognitive status, and tailoring psychotherapy to the settings in which older depressed adults are most likely to present.

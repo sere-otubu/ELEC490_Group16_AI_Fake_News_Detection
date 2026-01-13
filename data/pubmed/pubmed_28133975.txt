@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lymphoma
+TITLE: Lymphoma classification update: T-cell lymphomas, Hodgkin lymphomas, and histiocytic/dendritic cell neoplasms.
+PMID: 28133975
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28133975/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lymphomas are classified based on the normal counterpart, or cell of origin, from which they arise. Because lymphocytes have physiologic immune functions that vary both by lineage and by stage of differentiation, the classification of lymphomas arising from these normal lymphoid populations is complex. Recent genomic data have contributed additional depth to this complexity. Areas covered: Lymphoma classification follows the World Health Organization (WHO) system, which reflects international consensus and is based on pathological, genetic, and clinical factors. The present review focuses on the classification of T-cell lymphomas, Hodgkin lymphomas, and histiocytic and dendritic cell neoplasms, summarizing changes reflected in the 2016 revision to the WHO classification. These changes are critical to hematologists and other clinicians who care for patients with these disorders. Expert commentary: Lymphoma classification is a continually evolving field that needs to be responsive to new clinical, pathological, and molecular understanding of lymphoid neoplasia. Among the entities covered in this review, the 2016 revisions in the WHO classification particularly impact T-cell lymphomas, including a new umbrella category of T-follicular helper cell-derived lymphomas and evolving recognition of indolent T-cell lymphomas and lymphoproliferative disorders.

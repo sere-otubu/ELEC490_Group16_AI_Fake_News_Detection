@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Suicide prevention
+TITLE: Suicide and Suicide Prevention From a Global Perspective.
+PMID: 32208759
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32208759/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+<b></b>In this introductory chapter, we provide the background and rationale for the compilation of overviews of national suicide prevention strategies from all geographic regions globally. Currently, suicide is the second leading cause of death among young people aged 15-29 years at global level. Overall, suicide rates in low- and middle-income countries (LMIC) are lower than the rates in high-income countries (HIC) of 11.2 per 100,000 compared with 12.7 per 100,000 population, but the majority of suicide deaths worldwide occur in LMICs. However, there are ongoing challenges in relation to the accuracy of suicide figures in many countries. The rationale for the global approach to suicide prevention is linked to major strategic documents provided by the WHO, including the Global Mental Health Action Plan, 2013-2020, the WHO report Preventing Suicide: A Global Imperative, in 2014, and the United Nations Sustainable Development Goals (SDGs) for 2030, including a target of reducing premature mortality from noncommunicable diseases by one-third, with suicide mortality rate identified as an indicator for this target. In addition, a review is provided of the evidence base and best practice of suicide prevention programs.

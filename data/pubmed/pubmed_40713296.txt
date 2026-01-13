@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Shingles
+TITLE: Shingles vaccination and neuroimmune vulnerability.
+PMID: 40713296
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40713296/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Recent studies report reduced dementia risk following shingles vaccination, suggesting that varicella-zoster virus (VZV) latency contributes to neuroimmune vulnerability. We propose that subclinical VZV reactivation acts as a renewable peripheral immune stressor, amplifying microglial priming in aging brains. Shingles vaccination may suppress this viral reservoir, reducing cumulative inflammatory tone. In this opinion article we contrast this mechanism with trained immunity and highlight how pathogen-specific and systemic effects may converge. Finally, we discuss the role of innate phagocytosis and resolution, suggesting that impaired clearance, rather than activation alone, sustains neuroinflammatory risk. Vaccination may thus modulate innate responsiveness and preserve neuroimmune balance in later life.

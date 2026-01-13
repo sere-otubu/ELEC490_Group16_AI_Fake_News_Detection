@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Calcium requirements
+TITLE: Calcium requirements in humans. Report of original data and a review.
+PMID: 6368085
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6368085/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Presently submitted and previously available data indicate that the recommended calcium requirement of 800 mg/day is inadequate for a large segment of the population, particularly the elderly. With an intake of 800 mg of calcium/day, calcium balance was only slightly positive, without consideration of dermal losses or other risk factors that may play a role in calcium bioavailability and calcium retention. A calcium intake of 1000-1200 mg/day is preferable, as calcium balance increased significantly when calcium intake was increased from 800 to 1200 mg/day; there was no further improvement in calcium balance on higher calcium intakes, up to 2300 mg/day.

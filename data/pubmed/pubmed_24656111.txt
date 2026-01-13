@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Coronary artery disease
+TITLE: The role of coronary artery disease in heart failure.
+PMID: 24656111
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24656111/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Enhanced survival following acute myocardial infarction and the declining prevalence of hypertension and valvular heart disease as contributors to incident heart failure (HF) have fueled the emergence of coronary artery disease (CAD) as the primary risk factor for HF development. Despite the acknowledged role of CAD in the development of HF, the role of coronary revascularization in reducing HF-associated morbidity and mortality remains controversial. The authors review key features of the epidemiology and pathophysiology of CAD in patients with HF as well as the emerging data from recent clinical trials that inform the modern approach to management.

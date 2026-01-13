@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cushings syndrome
+TITLE: Cushing's Syndrome Effects on the Thyroid.
+PMID: 33808529
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33808529/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The most known effects of endogenous Cushing's syndrome are the phenotypic changes and metabolic consequences. However, hypercortisolism can exert important effects on other endocrine axes. The hypothalamus-pituitary-thyroid axis activity can be impaired by the inappropriate cortisol secretion, which determinates the clinical and biochemical features of the "central hypothyroidism". These findings have been confirmed by several clinical studies, which also showed that the cure of hypercortisolism can determine the recovery of normal hypothalamus-pituitary-thyroid axis activity. During active Cushing's syndrome, the "immunological tolerance" guaranteed by the hypercortisolism can mask, in predisposed patients, the development of autoimmune thyroid diseases, which increases in prevalence after the resolution of hypercortisolism. However, the immunological mechanism is not the only factor that contributes to this phenomenon, which probably includes also deiodinase-impaired activity. Cushing's syndrome can also have an indirect impact on thyroid function, considering that some drugs used for the medical control of hypercortisolism are associated with alterations in the thyroid function test. These considerations suggest the utility to check the thyroid function in Cushing's syndrome patients, both during the active disease and after its remission.

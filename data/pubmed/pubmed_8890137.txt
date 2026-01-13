@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Common cold
+TITLE: The common cold.
+PMID: 8890137
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8890137/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The common cold is characterized by symptoms of rhinorrhea, nasal obstruction, sneezing, throat clearing, postnasal drip, and cough. Some of the many viruses that cause colds may cause mild additional symptoms such as sore throat, weakness, dizziness, and tearing. This article presents data concerning the cause, pathogenesis, and treatment of the common cold as well as discussion of the available diagnostic tests and their use in formulating differential diagnoses.

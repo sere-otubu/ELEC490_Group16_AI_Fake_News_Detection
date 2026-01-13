@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lung cancer
+TITLE: Lung Cancer-Epidemiology, Pathogenesis, Treatment and Molecular Aspect (Review of Literature).
+PMID: 40076671
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40076671/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lung cancer is one of the most common malignant cancers in most countries and is the leading cause of death among cancer diseases worldwide. Despite constant progress in diagnosis and therapy, survival rates of patients diagnosed with lung cancer remain unsatisfactory. Numerous epidemiological and experimental studies conducted as early as the 1970s confirm that the most important risk factor for the development of lung cancer is long-term smoking, which remains valid to this day. In the paper, the authors present the latest data on the epidemiology, pathogenesis, treatment and molecular aspects of this cancer. In the last decade, many molecular alterations that are effective in the development of lung cancer have been discovered. In adenocarcinoma, tyrosine kinase inhibitors were developed for EGFR mutations and ALK and ROS1 translocations and were approved for use in the treatment of advanced stage adenocarcinomas. In the case of squamous cell carcinoma, the evaluation of these mutations is not yet being used in clinical practice. In addition, there are ongoing studies concerning many potential therapeutic molecular targets, such as ROS, MET, FGFR, DDR-2 and RET. Constant progress in diagnostic and therapeutic methods gives rise to hopes for an improved prognosis in patients with lung cancer.

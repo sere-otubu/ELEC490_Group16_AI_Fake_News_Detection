@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vertigo
+TITLE: [Functional (psychogenic) vertigo].
+PMID: 28745678
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28745678/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Psychogenic (functional) vertigo is in second place by frequency after benign positional paroxysmal vertigo. It is often difficult to make the diagnosis, diagnostic program is expensive and traditional treatment often is not effective. This literature review covers current concepts on the terminology, clinical signs, pathogenesis and treatment approaches with regard to functional vertigo. Special attention is given to cerebral mechanisms of the pathogenesis including cognitive aspects.

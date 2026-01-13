@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vertigo
+TITLE: Episodic vertigo.
+PMID: 15655395
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15655395/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This review focuses on three neuro-otological syndromes, which are all marked by rapid scientific progress on the one hand but under-recognition or undertreatment on the other: benign paroxysmal positional vertigo and its variants, superior semicircular canal dehiscence syndrome, and migrainous vertigo. The efficacy of Epley's maneuver for treatment of benign paroxysmal positional vertigo has been convincingly demonstrated by a meta-analysis of nine randomized controlled trials. Head vibration during Epley's procedure and keeping upright for 48 h after effective treatment do not improve the outcome. Superior canal dehiscence syndrome presents not only with sound and pressure-induced vertigo but also with conductive hearing loss at low frequencies. Migrainous vertigo may present not only with spontaneous attacks but also with positional vertigo or with chronic dizziness and imbalance. Vestibular rehabilitation has been proven to relieve chronic dizziness and visual vertigo. Recent studies have eliminated several white spots on the neuro-otological map. However, many areas are still unexplored, particularly with regard to treatment of specific vestibular syndromes where randomized controlled trials are just at their beginning.

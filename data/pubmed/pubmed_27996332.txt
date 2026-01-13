@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tetanus shot
+TITLE: DTaP5-IPV-Hib-HepB, a hexavalent vaccine for infants and toddlers.
+PMID: 27996332
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27996332/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Combination vaccines reduce the 'shot burden' and simplify the childhood immunization schedule. Only 5-valent DTaP-based vaccines are licensed in the U.S. Areas covered: A new combination vaccine - DTaP5-IPV-Hib-HepB - is described, which induces antibody responses in infants (given in different schedules, including a 2, 4, and 6-month schedule) that are similar to the respective component vaccines. The vaccine appears to be safe and would be expected to protect against six diseases: diphtheria, tetanus, pertussis, hepatitis B, H influenzae type b, and polio. Administration is associated with higher rates of mild fever, but without significant safety signals. Expert commentary: Incorporation of this hexavalent vaccine into the U.S. schedule could improve coverage rates and timeliness, and addition to the E.U. market would add depth to the available repertoire of combination vaccines.

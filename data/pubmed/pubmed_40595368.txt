@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Aging population challenges
+TITLE: An overview of contemporary theories of ageing.
+PMID: 40595368
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40595368/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ageing is a complex biological process whose underlying mechanisms remain contentious. Nonetheless, due to an ageing global population and the rising incidence of age-related diseases, understanding why we age is one of the most important scientific questions of our time, with profound medical implications. Here, I explore the fundamental nature of the ageing process and provide an overview of modern mechanistic theories. I critically examine two main groups of ageing theories: error-based and program-based theories. I discuss the relevance of these theories in the context of ageing patterns, genetic manipulations and longevity drugs, highlighting how experimental challenges and technological limitations have hindered progress. Overall, there is a pressing and unmet need for a robust theoretical framework in ageing research. Elucidating the cellular and molecular mechanisms of ageing would be crucial for developing effective interventions that slow the ageing process and prevent its associated diseases.

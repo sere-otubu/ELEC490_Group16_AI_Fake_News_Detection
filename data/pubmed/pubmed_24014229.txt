@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dissociative disorders
+TITLE: Dissociative disorders in medical settings.
+PMID: 24014229
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24014229/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Despite the challenges of conducting research on dissociation and the dissociative disorders, our understanding has grown greatly over the past three decades, including our knowledge of the often overlooked sensorimotor manifestations of dissociation, more commonly referred to as somatoform dissociation. This article will first review the definitions and presentations of dissociation in general along with recent research on the concept of somatoform dissociation. Then, each of the dissociative disorders and conversion disorder will be discussed in further detail as well as how they might present in a medical setting. Current recommendations for diagnosis and treatment will also be provided.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cell division meiosis
+TITLE: Meiotic recombination mechanisms.
+PMID: 27180110
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27180110/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Meiosis is a specialized cell division at the origin of the haploid cells that eventually develop into the gametes. It therefore lies at the heart of Mendelian heredity. Recombination and redistribution of the homologous chromosomes arising during meiosis constitute an important source of genetic diversity, conferring to meiosis a particularly important place in the evolution and the diversification of the species. Our understanding of the molecular mechanisms governing meiotic recombination has considerably progressed these last decades, benefiting from complementary approaches led on various model species. An overview of these mechanisms will be provided as well as a discussion on the implications of these recent discoveries.

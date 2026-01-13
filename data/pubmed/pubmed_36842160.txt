@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Prostate cancer
+TITLE: Prospective role of 3βHSD1 in prostate cancer precision medicine.
+PMID: 36842160
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36842160/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Prostate cancer is addicted to androgens. The steroidogenic enzyme 3β-hydroxysteroid dehydrogenase 1 (3βHSD1) recognizes pregnenolone, dehydroepiandrosterone (DHEA), and steroidal medicine abiraterone as substrates to accelerate disease progression. References for this review were identified through searches of PubMed with the search terms "prostate cancer", "HSD3B1", and "3bHSD1" from 1990 until June, 2022. Genotype of 3βHSD1 has been reported to correlate with tumor aggressiveness of advanced prostate cancer in multiple clinical scenarios. The ethnic differences and limitations of using 3βHSD1 genotype as a prognostic biomarker have been discussed here. The activity of 3βHSD1 increases in patients treated with abiraterone and enzalutamide, giving rise to treatment resistance. Further elucidation of 3βHSD1 regulatory mechanisms will shed light on more approaches for disease intervention. We also review the recent advance on 3βHSD1 inhibitors and targeting 3βHSD1 for prostate cancer management. Novel 3βHSD1 inhibitors will be needed to provide additional options for prostate cancer management. 3βHSD1 is both a predictive biomarker and a promising therapeutic target for prostate cancer.

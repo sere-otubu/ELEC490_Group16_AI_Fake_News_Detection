@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pineal gland
+TITLE: Current understanding of pineal gland structure and function in headache.
+PMID: 31370669
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31370669/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The pineal gland plays an important role in biological rhythms, circadian and circannual variations, which are key aspects in several headache disorders. Melatonin, the main pineal secreting hormone, has been extensively studied in primary and secondary headache disorders. Altered melatonin secretion occurs in many headache syndromes. Experimental data show pineal gland and melatonin both interfere in headache animal models, decreasing trigeminal activation. Melatonin has been shown to regulate CGRP and control its release. Melatonin has been used successfully as a treatment for migraine, cluster headaches and other headaches. There is a rationale for including the pineal gland as a relevant brain structure in the mechanisms of headache pathophysiology, and melatonin as a treatment option in primary headache.

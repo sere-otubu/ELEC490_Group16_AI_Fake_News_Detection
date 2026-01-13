@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cystic fibrosis
+TITLE: Cystic fibrosis.
+PMID: 9363078
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9363078/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cystic fibrosis has only been recognized as a distinct clinical entity for less than 60 years. In that period of time, the median survival has improved from a few months to 29 years. This editorial review outlines the clinical multiorgan involvement of cystic fibrosis and current management strategies and introduces the comprehensive articles by the contributing authors of this section on the most rapidly evolving areas in cystic fibrosis. The discussion includes how the cystic fibrosis gene product, the cystic fibrosis transmembrane conductance regulator, produces lung disease; the relationship between genotype and phenotype; the factors that determine prognosis in cystic fibrosis; new treatment modalities for cystic fibrosis; lung transplantation; and the prospects for gene therapy in cystic fibrosis. With rapid advances in our clinical and genetic understanding of cystic fibrosis, it is projected that individuals born with cystic fibrosis today will live into their 40s.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ringworm
+TITLE: Radiation therapy of ringworm of the scalp.
+PMID: 18112454
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18112454/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A recent epidemic of tinea capitis in children has revived a considerable interest in the methods of treatment of this disease. The most efficacious form of therapy for M. audouini infections is roentgen epilation. The various methods of x-ray treatment are briefly presented and compared. A modification of the four-point technique is shown to offer a simple yet safe method of curing ringworm of the scalp. Results with this method compare favorably with the best of those reported by the use of other methods. Cure was effected by this method in all of a group of 125 cases.

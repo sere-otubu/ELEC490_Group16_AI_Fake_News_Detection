@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Melanoma
+TITLE: Multiple primary melanoma: a single centre retrospective review.
+PMID: 29076952
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29076952/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Prognosis has been shown to be worse for patients with multiple primary melanomas than those with a single melanoma. One recent retrospective study showed that older, white men were at higher risk of multiple primary melanomas. In our institution 2057 melanomas were diagnosed between January 1994 and March 2016. We identified 99 (4.8%) patients who had multiple primary melanomas. The average number of melanomas was 2.5 (range: 2-10). The site for first and second melanomas was similar in 30%. We found that subsequent melanomas were more likely to be in situ and thinner in terms of Breslow thickness and Clarks level. The commonest subtypes were superficial spreading and lentigo maligna. The commonest sites involved were the lower limbs. We found no significant difference in age between our total melanoma group and the multiple primary melanoma group (64 and 66 years, respectively). The average time of diagnosis between the first and second melanomas was 33.7 months. Additionally, 70% of second melanomas were diagnosed within 2 years of first diagnosis, highlighting the importance of ongoing skin surveillance in patients with a recent diagnosis of melanoma.

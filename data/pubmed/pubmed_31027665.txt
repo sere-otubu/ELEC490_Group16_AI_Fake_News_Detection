@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lyme disease
+TITLE: Lyme Disease.
+PMID: 31027665
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31027665/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lyme disease is caused by the spirochete Borrelia burgdorferi and is increasing in incidence in the United States. Patient education and early recognition and treatment of the disease are critical to reduce the impact of chronic long-term infection.

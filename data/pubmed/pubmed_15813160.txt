@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Acupuncture
+TITLE: Acupuncture: a clinical review.
+PMID: 15813160
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15813160/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article summarizes the research base, probable mechanism of actions, and clinical applications of acupuncture. It offers the clinician a deeper understanding of appropriate conditions for which acupuncture may be useful, outlines how to integrate acupuncture into a clinical practice, and describes referral and training issues.

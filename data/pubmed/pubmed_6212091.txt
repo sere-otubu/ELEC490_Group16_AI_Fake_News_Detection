@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cell division mitosis
+TITLE: [Cell division and changes of the duration of mitosis in murine Ehrlich ascites carcinoma after a single administration of chalone-containing extract from this tumor].
+PMID: 6212091
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6212091/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Single injection of chalone-containing extract from Ehrlich's ascites carcinoma leads to the occurrence of the three phases in the status of cell reproduction system in the carcinoma: inhibition, stimulation (synchronization) and normalization of the number of mitoses. Injection of the preparation during the period of a higher mitotic activity in the controls results in a less marked (57.1%) and less prolonged (5 h) inhibition of cell division in the carcinoma than administration in the period of low cell proliferation (inhibition 86.4% and 82.5% while its duration 9 h). The existence of the three phases in the changes occurring in cell division after a single exposure to the chalone-containing preparation, including the phase of relative synchronization of cell reproduction has been confirmed by studying the time course of K mitoses. During the cell division inhibition phase the mitosis duration increases 1.5-4.5-fold.

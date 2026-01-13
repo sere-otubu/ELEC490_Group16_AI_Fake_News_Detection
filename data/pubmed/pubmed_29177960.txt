@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Air pollution health effects
+TITLE: Air Pollution and Mortality in China.
+PMID: 29177960
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29177960/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ambient air pollution has been an important environmental issue in most areas of China. This chapter summarized the mortality effects of short-term and long-term exposures to various air pollutants among Chinese population. The literature review identified sufficient information to support significant short-term mortality effects of various air pollutants from time series analyses and case-crossover studies, such as PM<sub>10</sub>, PM<sub>2.5</sub>, SO<sub>2</sub>, NO<sub>2</sub>, and O<sub>3</sub>. On the other hand, though the literature review suggested a positive effect of long-term exposure to air pollution on mortality and lung cancer risk, the evidence has been limited among Chinese population, indicating that more studies, especially cohort studies, are warranted.

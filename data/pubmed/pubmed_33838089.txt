@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Alternative medicine
+TITLE: Complementary and alternative medicine therapies and COVID-19: a systematic review.
+PMID: 33838089
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33838089/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Despite the high prevalence of coronavirus and various treatment approaches, including complementary and alternative medicine (CAM), there is still no definitive treatment for coronavirus. The present study aimed to evaluate the effect of CAM interventions on COVID-19 patients. Four databases (Web of Science, PubMed, Scopus, and EMBASE) were searched from the inception of databases until July 16, 2020. Keywords included complementary and alternative medicine therapies and Coronavirus. Of the 1,137 studies searched, 14 studies performed on 972 COVID-19 patients entered the systematic review final stage. The results showed that different CAM interventions (acupuncture, Traditional Chinese medicine [TCM], relaxation, Qigong) significantly improved various psychological symptoms (depression, anxiety, stress, sleep quality, negative emotions, quality of life) and physical symptoms (inflammatory factors, physical activity, chest pain, and respiratory function) in COVID-19 patients. The results showed that various CAM interventions have a positive effect on improving the various dimensions of coronavirus disease but since there are few studies in this regard, further studies using different CAM approaches are recommended.

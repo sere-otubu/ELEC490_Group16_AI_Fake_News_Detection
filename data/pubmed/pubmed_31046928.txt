@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anorexia nervosa
+TITLE: Medical Complications of Anorexia Nervosa and Bulimia Nervosa.
+PMID: 31046928
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31046928/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Anorexia nervosa and bulimia nervosa are mental illnesses with associated complications affecting all body systems with arguably the highest mortality of all mental health disorders. A comprehensive medical evaluation is an essential first step in the treatment of anorexia nervosa and bulimia nervosa. Weight restoration and cessation of purging behaviors are often essential components in the management of medical complications of these illnesses.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antisocial personality disorder
+TITLE: Antisocial personality disorder: a current review.
+PMID: 24249521
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24249521/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The Diagnostic and Statistical Manual of Mental Disorders (DSM 5) classification of antisocial personality disorder (ASPD) describes individuals who engage in repetitive irresponsible, delinquent, and criminal behavior. The diagnosis is highly controversial, with many researchers and clinicians arguing that the category is too heterogeneous, overinclusive, and demonstrates considerable overlap with other disorders. This review focuses on recent studies that have improved our understanding of the characteristics of individuals who fit the ASPD definition by exploring how subtypes differ and how comorbid conditions influence the presentation of ASPD. In addition, we discuss research on the etiology of ASPD that has identified genetic and environmental factors that may contribute to the development and persistence of antisocial behavior, and brain imaging research that has improved our understanding of the relationships between ASPD and other psychopathology. Finally, we discuss promising preliminary research on treatment for this disorder.

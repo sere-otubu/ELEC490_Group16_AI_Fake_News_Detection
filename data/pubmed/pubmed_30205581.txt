@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Seasonal allergies
+TITLE: Seasonal Allergies and Psychiatric Disorders in the United States.
+PMID: 30205581
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30205581/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Seasonal allergies have been associated with mental health problems, though the evidence is still emergent, particularly in the United States. We analyzed data from the National Comorbidity Survey Replication and the National Latino and Asian American Survey (years 2001⁻2003). Multivariable logistic regression models were used to examine the relations between lifetime allergies and lifetime psychiatric disorders (each disorder in a separate model), adjusting for socio-demographic variables (including region of residence) and tobacco use. Analyses were also stratified to test for effect modification by race and sex. A history of seasonal allergies was associated with greater odds of mood disorders, anxiety disorders, and eating disorders, but not alcohol or substance use disorders, after adjusting for socio-demographic characteristics and tobacco use. The associations between seasonal allergies and mood disorders, substance use disorders, and alcohol use disorders were particularly strong for Latino Americans. The association between seasonal allergies and eating disorders was stronger for men than women. Seasonal allergies are a risk factor for psychiatric disorders. Individuals complaining of seasonal allergies should be screened for early signs of mental health problems and referred to specialized services accordingly.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Psychotherapy
+TITLE: [Mental care: psychotherapy].
+PMID: 40914618
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40914618/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Psychotherapy is one of the treatments offered to patients with functional neurological disorders (FND). Various forms of therapy, such as Eye Movement Neuro-emotional Integration (EMDR) and Cognitive Behavioral Therapy (CBT), enable patients to regain control of their symptoms and the course of their lives.

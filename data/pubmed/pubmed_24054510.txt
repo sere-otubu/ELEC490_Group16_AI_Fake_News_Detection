@@ -1,0 +1,8 @@
+SEARCH_TOPIC: CPR guidelines
+TITLE: International CPR guidelines - perspectives in CPR.
+PMID: 24054510
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24054510/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The International Liaison Committee on Resuscitation (ILCOR) co-ordinates regular reviews of cardiopulmonary resuscitation (CPR) science and publishes consensus on science statements and treatment recommendations. These outputs are used by international resuscitation organisations to generate clinical guidelines. This review will outline the history behind the development of international CPR guidelines and will provide a detailed description of the current guideline generating process. A perspective is provided on the future of this process and the prospects for completely unified international CPR guidelines.

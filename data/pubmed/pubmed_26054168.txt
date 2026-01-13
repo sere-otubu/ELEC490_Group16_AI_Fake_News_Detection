@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rosacea
+TITLE: [Rosacea].
+PMID: 26054168
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26054168/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Rosacea is a common centro-facial dermatosis with a high socio-esthetic impact. Different subtypes are distinguished, classified into grades according to their severity. This classification is essential for therapeutic management. In general, rosacea remains difficult to treat as its pathophysiology is still not entirely understood. Future research is needed for a better understanding of this disease and the development of targeted treatments.

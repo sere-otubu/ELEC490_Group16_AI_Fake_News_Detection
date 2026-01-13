@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Exercise for pregnancy
+TITLE: The Effects of Exercise during Pregnancy on Gestational Diabetes Mellitus, Preeclampsia, and Spontaneous Abortion among Healthy Women-A Systematic Review and Meta-Analysis.
+PMID: 37372656
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37372656/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The aim was to compare the effects of different exercise modalities (aerobic, resistance, aerobic and resistance combined, or mind-body exercise) on gestational diabetes mellitus (GDM), preeclampsia, spontaneous abortion, withdrawal from the study, and adverse events in healthy pregnant women. A systematic search was conducted in February 2022 using MEDLINE, EMBASE, Cochrane library, and SPORT Discus to identify eligible randomized trials. The meta-analysis of 18 studies that examined exercise compared to no exercise showed a reduced risk of GDM (RR: 0.66 (95% CI: 0.50 to 0.86)). No subgroup differences were found regarding modality, intensity, or supervision. Exercise did not reduce the risk of preeclampsia (nine studies, RR: 0.65 (95% CI: 0.42 to 1.03)); however, in subgroup analyses, mind-body exercise and low-intensity exercise seemed to be effective in reduction of preeclampsia. There was no effect of exercise on withdrawal or adverse events found. No studies reported on spontaneous abortion, therefore, exercise during pregnancy is beneficial and safe. In the prevention of GDM, any modality and intensity seem equally effective. Subgroup analyses support an association between mind-body exercise and physical activity with low intensity and reduced risk of preeclampsia, but more high-quality randomized studies are needed. PROSPERO: CRD42022307053.

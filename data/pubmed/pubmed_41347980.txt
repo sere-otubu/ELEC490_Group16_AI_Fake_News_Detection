@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Stroke
+TITLE: Cryptogenic stroke: definitions and management.
+PMID: 41347980
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41347980/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The term cryptogenic strokes refers to ischemic strokes that, after thorough evaluation, do not meet criteria for any of 4 designated major subtypes: stenosis due to large or medium artery atherosclerosis, cardiac pathology that could lead to embolism, presumed intracranial small artery disease (lacunar stroke), and other less common specific conditions. The term embolic strokes of undetermined source (ESUS) was introduced to further refine this classification by specifying the necessary diagnostic evaluation and exclusionary conditions. In patients with cryptogenic stroke/ESUS, nonstenotic atherosclerosis and its attendant risk factors are common. Randomized controlled trials have demonstrated no benefit of oral anticoagulants over aspirin in preventing recurrent stroke in these patients. Patients with cryptogenic stroke/ESUS should be treated with aspirin and aggressive atherosclerosis risk factor management.

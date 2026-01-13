@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Flu shot
+TITLE: Flu shot reminder.
+PMID: 18411487
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18411487/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A good time to get the annual shots is October or November, before the flu season begins.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Platelets
+TITLE: Platelets and inflammation.
+PMID: 9242884
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9242884/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Besides their functions in the haemostatic process and in thrombus formation after an endothelial injury, blood platelets also take part in the processes of inflammation and tissue repair that follows. For this purpose, they closely collaborate with all types of leukocytes. Activated platelets secret chemotactic substances, they facilitate the binding of leukocytes to the endothelium and their subsequent extravasation, and they may influence the inflammatory responses of leukocytes in both stimulating and inhibiting ways. However, platelets themselves also contain an array of potent proinflammatory substances, and therefore they are regarded as mediator and effector cells in inflammation. Their capability to interact with bacteria, parasites, and other foreign materials is possibly a phylogenetic vestige and may explain the existence of IgE-dependent killing mechanisms of platelets. On the other hand, the connection between IgE and platelets, besides the platelet-induced eosinophil infiltration, offers a functional basis for the involvement of platelets in allergic processes, particular in the skin and the airways.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HIIT training
+TITLE: Effect of High-Intensity Interval Training vs. Moderate-Intensity Continuous Training on Fat Loss and Cardiorespiratory Fitness in the Young and Middle-Aged a Systematic Review and Meta-Analysis.
+PMID: 36981649
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36981649/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This systematic review is conducted to evaluate the effect of high-intensity interval training (HIIT) and moderate-intensity continuous training (MICT) on body composition and cardiorespiratory fitness (CRF) in the young and middle-aged. Seven databases were searched from their inception to 22 October 2022 for studies (randomized controlled trials only) with HIIT and MICT intervention. Meta-analysis was carried out for within-group (pre-intervention vs. post-intervention) and between-group (HIIT vs. MICT) comparisons for change in body mass (BM), body mass index (BMI), waist circumference (WC), percent fat mass (PFM), fat mass (FM), fat-free mass (FFM), and CRF. A total of 1738 studies were retrieved from the database, and 29 studies were included in the meta-analysis. Within-group analyses indicated that both HIIT and MICT can bring significant improvement in body composition and CRF, except for FFM. Between-group analyses found that compared to MICT, HIIT brings significant benefits to WC, PFM, and VO<sub>2peak</sub>. The effect of HIIT on fat loss and CRF in the young and middle-aged is similar to or better than MICT, which might be influenced by age (18-45 years), complications (obesity), duration (>6 weeks), frequency, and HIIT interval. Despite the clinical significance of the improvement being limited, HIIT appears to be more time-saving and enjoyable than MICT.

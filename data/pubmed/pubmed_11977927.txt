@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Celiac disease
+TITLE: Coeliac disease.
+PMID: 11977927
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11977927/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Increased awareness of non-classical presentations and more reliable screening tests have led to higher detection rates for coeliac disease in elderly adults. Clinical presentations are influenced largely by the long-standing course of the subclinical disease before diagnosis. In the majority of elderly patients, weight loss, diarrhoea and iron deficiency anaemia are present. With a delay in diagnosis, there are increased risks of associated autoimmune diseases, of neoplasms (mostly small bowel lymphoma) and of metabolic bone diseases. Thyroid disease is the most common autoimmune disease. Lymphoma may be the initial presentation or may complicate the clinical course of well established coeliac disease. Osteopenia is very common at presentation, can be clinically severe and require specific therapy in addition to the gluten-free diet. The high risk of complications in elderly patients with coeliac disease warrants a systematic approach in their investigation and management.

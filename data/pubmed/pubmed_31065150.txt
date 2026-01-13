@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Arthritis
+TITLE: Early Undifferentiated Arthritis: A Developing Country Perspective from Nepal.
+PMID: 31065150
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31065150/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Early undifferentiated arthritis is a group of inflammatory joint disease of less than 3 months duration that do not classify under any of the specific rheumatic or connective tissue disorder. Previously, inflammatory arthritis used to be treated only when there was a clear evidence of damage or deformity occurring with it. Use of disease modifying anti-rheumatic drugs were considered potentially harmful early in the course of arthritis which could be self-limiting. However, with the abundance of data on outcomes of early arthritis and identification of factors that can help to predict those outcomes lead to earlier use of such DMARDs. Better understanding of serological tests like anti-CCP antibodies and imaging modalities like high frequency ultrasound with power doppler and magnetic resonance imaging has increased the diagnostic and prognostic yield of such early arthritis cases. It is now imperative that the risk be assessed early in the course of disease and early DMARDs be instituted for better outcome in these cases. This review analyses the historical evolution of evidence in the management of early undifferentiated arthritis and summarises the treatment approach, monitoring and disease outcomes till date. Keywords: arthritides; Nepal; power doppler; rheumatoid; ultrasonography.

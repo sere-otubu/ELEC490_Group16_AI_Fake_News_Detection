@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sleep apnea
+TITLE: [Sleep-related breathing disorders].
+PMID: 19756060
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19756060/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Sleep-related breathing disorders (SRBD) is a term that includes several different diagnoses. This paper describes aetiology, diagnostics, treatment options and consequences of untreated disease, in children and adults. The paper is based on own clinical experience and literature identified through a non-systematic search of PubMed and various books. The prevalence of SRDB in children and adults is about 10-15% and that for the most serious type, OSAS (Obstructive Sleep Apnoea Syndrome), is about 2-4%. A sleep study is required to confirm the diagnosis. The clinical symptoms of SRBD in adults are heavy snoring, observed apnoeas, gasping for air leading to frequent arousals, disturbed sleep and daytime sleepiness. Children are often hyperactive and have learning and behaviour difficulties. Untreated patients have increased mortality and morbidity. The primary treatment option for patients with medium to serious breathing disorders is continuous positive-pressure ventilation. Other treatment options are oral devices and surgery. In children, surgery (adenotonsilectomy) is the treatment of choice. OSAS is the most severe diagnosis among SRBD. Both adults and children show reduced cognitive function and quality of life. Various treatment options are available.

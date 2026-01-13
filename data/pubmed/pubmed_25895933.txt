@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insomnia
+TITLE: The neurobiology, investigation, and treatment of chronic insomnia.
+PMID: 25895933
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25895933/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Chronic insomnia is defined by difficulties in falling asleep, maintaining sleep, and early morning awakening, and is coupled with daytime consequences such as fatigue, attention deficits, and mood instability. These symptoms persist over a period of at least 3 months (Diagnostic and Statistical Manual 5 criteria). Chronic insomnia can be a symptom of many medical, neurological, and mental disorders. As a disorder, it incurs substantial health-care and occupational costs, and poses substantial risks for the development of cardiovascular and mental disorders, including cognitive deficits. Family and twin studies confirm that chronic insomnia can have a genetic component (heritability coefficients between 42% and 57%), whereas the investigation of autonomous and central nervous system parameters has identified hyperarousal as a final common pathway of the pathophysiology, implicating an imbalance of sleep-wake regulation consisting of either overactivity of the arousal systems, hypoactivity of the sleep-inducing systems, or both. Insomnia treatments include benzodiazepines, benzodiazepine-receptor agonists, and cognitive behavioural therapy. Treatments currently under investigation include transcranial magnetic or electrical brain stimulation, and novel methods to deliver psychological interventions.

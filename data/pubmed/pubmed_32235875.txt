@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Macronutrients
+TITLE: Contribution of macronutrients to obesity: implications for precision nutrition.
+PMID: 32235875
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32235875/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The specific metabolic contribution of consuming different energy-yielding macronutrients (namely, carbohydrates, protein and lipids) to obesity is a matter of active debate. In this Review, we summarize the current research concerning associations between the intake of different macronutrients and weight gain and adiposity. We discuss insights into possible differential mechanistic pathways where macronutrients might act on either appetite or adipogenesis to cause weight gain. We also explore the role of dietary macronutrient distribution on thermogenesis or energy expenditure for weight loss and maintenance. On the basis of the data discussed, we describe a novel way to manage excessive body weight; namely, prescribing personalized diets with different macronutrient compositions according to the individual's genotype and/or enterotype. In this context, the interplay of macronutrient consumption with obesity incidence involves mechanisms that affect appetite, thermogenesis and metabolism, and the outcomes of these mechanisms are altered by an individual's genotype and microbiota. Indeed, the interactions of the genetic make-up and/or microbiota features of a person with specific macronutrient intakes or dietary pattern consumption help to explain individualized responses to macronutrients and food patterns, which might represent key factors for comprehensive precision nutrition recommendations and personalized obesity management.

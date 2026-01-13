@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Borderline personality disorder
+TITLE: The Longitudinal Course of Borderline Personality Disorder.
+PMID: 30447732
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30447732/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Findings from decades of longitudinal research have challenged the long-held notion that borderline personality disorder (BPD) is a chronically disabling condition. Instead, several prospective, long-term follow-up studies have found that most patients with BPD experience a remission from the disorder, and many experience a full recovery over the course of their lives. These studies also indicate that symptoms of BPD wax and wane over time, although more acute, behavioral symptoms of the disorder tend to remit rapidly and recur rarely. Further, findings regarding predictors of good and poor outcomes in BPD could influence further developments in treatments for the disorder.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antisocial personality disorder
+TITLE: Update on Antisocial Personality Disorder.
+PMID: 39230801
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39230801/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Antisocial personality disorder (ASPD) is a characterized by lifelong or recurrent behavioral problems that begin in childhood or early adolescence. This communication provides an overview on ASPD including findings from recent reviews and new research. With regard to DSM-5's Section III Alternative Model of Personality Disorder criteria for ASPD, advocates point to the broader symptom coverage and harmonization with ICD-11; yet critics point to the lack of evidence for improved outcomes. A new report shows that antisocial individuals age faster than non-antisocial peers. ASPD has high heritability and newer molecular studies have found intriguing linkages to genes associated with crucial brain regions. A mentalization-based therapy model has been developed and early work shows promise. ASPD is common, widespread, and disruptive to individuals, families, and society. Chronic and lifelong, ASPD typically lessens in severity with advancing age. Assessment rests on the individual's history because there are no diagnostic tests. ASPD likely results from an interplay of genetic and environmental factors. Brain imaging studies have linked cortical dysfunction to antisocial behavior in crucial brain regions. Medication is sometimes targeted at the individual's aggression and irritability, but a more rational approach is to target co-occurring disorders. Cognitive-behavioral therapy and mentalization-based therapy models have been developed and are being studied.

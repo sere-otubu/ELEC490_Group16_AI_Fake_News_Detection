@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hydration importance
+TITLE: Importance of van der Waals effects on the hydration of metal ions from the Hofmeister series.
+PMID: 30927898
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30927898/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The van der Waals (vdW) interaction plays a crucial role in the description of liquid water. Based on ab initio molecular dynamics simulations, including the non-local and fully self-consistent density-dependent implementation of the Tkatchenko-Scheffler dispersion correction, we systematically studied the aqueous solutions of metal ions (K<sup>+</sup>, Na<sup>+</sup>, and Ca<sup>2+</sup>) from the Hofmeister series. Similar to liquid water, the vdW interactions strengthen the attractions among water molecules in the long-range, leading to the hydrogen bond networks softened in all the ion solutions. However, the degree that the hydration structure is revised by the vdW interactions is distinct for different ions, depending on the strength of short-range interactions between the hydrated ion and surrounding water molecules. Such revisions by the vdW interactions are important for the understanding of biological functionalities of ion channels.

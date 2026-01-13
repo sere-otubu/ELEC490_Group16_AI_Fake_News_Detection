@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cataract surgery
+TITLE: Laser-assisted cataract surgery: benefits and barriers.
+PMID: 24248094
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24248094/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The use of the femtosecond laser (FSL) in cataract surgery may represent the largest advancement in the field since the inception of phacoemulsification. The goal of this review is to outline the benefits of and barriers to this technology. There are several significant potential benefits of the FSL in cataract surgery over conventional manual cataract surgery: precise capsulotomy formation, clear corneal and limbal relaxing incision construction, lens fragmentation, and lens softening. Evidence suggests that refractive benefits include more precise effective lens position as well as reduced effective phacoemulsification time with the use of FSL compared with manual surgery. Patients with conditions such as Fuchs' endothelial dystrophy, pseudoexfoliation, history of trauma, or brunescent cataracts may particularly benefit from this technology. There are significant financial and logistical issues to consider prior to the purchase of a FSL, including the cost of the laser, and charges to patients, and how the laser affects the patient flow in the operating room. The FSL may significantly change the current approach to cataract surgery.

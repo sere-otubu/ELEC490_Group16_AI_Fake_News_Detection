@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Bipolar disorder
+TITLE: Bipolar disorder.
+PMID: 2672748
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2672748/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Bipolar illness is a serious heritable mood disorder characterized by recurrent episodes of depression and mania. The mean age of onset is under 25 years of age, but the period of risk extends from prepuberty to senescence. Fifteen percent of persons with the disorder commit suicide. Bipolar disorder carries an increased risk of cardiovascular disease.

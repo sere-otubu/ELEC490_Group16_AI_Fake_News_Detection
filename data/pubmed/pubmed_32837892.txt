@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Multivitamins
+TITLE: Multivitamins for acute respiratory tract infections: a rapid review.
+PMID: 32837892
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32837892/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+<b>Brief Overview</b> Seven human clinical trials with some risk of bias suggest that multivitamins may be a safe and effective intervention to relieve some symptoms of respiratory tract infections, increase micronutrient status and immune function; however, further research is needed. There is currently insufficient evidence to recommend multivitamins as a therapy for the treatment or prevention of COVID-19. <b>Verdict</b> The overall quality of research examining the effect of prophylactic multivitamin supplementation on the effects of the acute respiratory tract infections (ARTI) is weak. Most of the available research included adults aged 50 years or over recruited through either the community or institutional settings (i.e. hospital facility, residential care facility). The multivitamin supplements used contained at least five vitamins and minerals and were administered between three months and two years (median: 15 months). Based on the available evidence, multivitamin supplementation does not appear to reduce the incidence of ARTI or mortality (both ARTI-related and all-cause). The effect of multivitamins taken before infection on the duration of ARTI is unclear due to conflicting results across studies. Multivitamins may, however, reduce the symptoms associated with ARTI such as headache, conjunctivitis, and activity restriction but not the overall symptom scores. No differences in health service visits, inclusive of primary and tertiary care, has been identified for individuals taking a multivitamin prior to an ARTI.

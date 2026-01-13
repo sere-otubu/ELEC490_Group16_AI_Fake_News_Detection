@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hypertension
+TITLE: [Pulmonary hypertension in the elderly].
+PMID: 25786418
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25786418/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In the past decade, a significant improvement has been done in the management of pulmonary arterial hypertension, a devastating disease. Beside the aging population, one of the next challenges is to develop a specific management of a pulmonary hypertension's suspicion, in the aged patients. In fact, recent data have shown that if pulmonary hypertension were mostly related to chronic heart or lung failure, or pulmonary embolism, some elderly may in fact develop a real pulmonary arterial hypertension. Because of the potential therapies which may be proposed, the evaluation of a pulmonary hypertension's suspicion in the elderly needs a stringent evaluation by trained physicians, in collaboration with geriatricians.

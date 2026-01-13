@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Artificial sweeteners
+TITLE: Chronic Use of Artificial Sweeteners: Pros and Cons.
+PMID: 39339762
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39339762/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Over the past few decades, the scientific community has been highly concerned about the obesity epidemic. Artificial sweeteners are compounds that mimic the sweet taste of sugar but have no calories or carbohydrates; hence, they are very popular among patients suffering from diabetes or obesity, aiming to achieve glycemic and/or weight control. There are four different types of sweeteners: artificial, natural, rare sugars, and polyols. Artificial and natural sweeteners are characterized as non-nutritional sweeteners (NNSs) since they do not contain calories. The extended use of sweeteners has been reported to have a favorable impact on body weight and glycemic control in patients with type 2 diabetes (T2DM) and on tooth decay prevention. However, there is concern regarding their side effects. Several studies have associated artificial sweeteners' consumption with the development of insulin resistance, nonalcoholic fatty liver disease (NAFLD), gastrointestinal symptoms, and certain types of cancer. The present review focuses on the description of different types of sweeteners and the benefits and possible deleterious effects of the chronic consumption of NNSs on children's health. Additionally, possible underlying mechanisms of the unfavorable effects of NNSs on human health are described.

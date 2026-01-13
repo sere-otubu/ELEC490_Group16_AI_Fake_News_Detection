@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HPV infection
+TITLE: Genital HPV infection and related lesions in men.
+PMID: 21962470
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21962470/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Human papillomavirus (HPV) is highly prevalent in men and there is an interest in further understanding the relationship between HPV infection and disease in men, including the development of genital warts, penile intraepithelial neoplasia and invasive penile carcinomas. Genital warts are caused by HPV 6/11 and are the most common clinical manifestation of HPV in men. Though they are benign and not associated with mortality, they are a source of psychosocial distress and physical discomfort. HPV infection can also develop into invasive penile carcinoma which is associated with morbidity and mortality. Approximately 40% of invasive penile carcinomas are attributable to HPV with HPV 16, 18, and 6/11 being the genotypes most commonly detected in penile tumors. Penile carcinomas of the basaloid and warty histologic subtypes are most likely to test positive for HPV. In addition to HPV infection, the risk factors most strongly associated with penile cancer are lack of neonatal circumcision, phimosis (the inability of uncircumcised men to fully retract the foreskin), and anogenital warts. Male vaccination with the quadrivalent HPV vaccine that protects against HPV 6/11/16/18 has been shown to significantly reduce HPV-associated anogenital infection and disease in men. If the quadrivalent vaccine is successfully disseminated to large segments of the young male population, there is the potential for substantial reduction in genital HPV infection and related lesions in men.

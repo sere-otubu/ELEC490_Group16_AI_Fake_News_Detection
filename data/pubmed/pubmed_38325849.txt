@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Concussion
+TITLE: Pupillary dynamics, accommodation and vergence in concussion.
+PMID: 38325849
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38325849/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Concussion, which is usually associated with head injuries, has received considerable attention in recent years because of its possible long-term cognitive and visual consequences. The review summarised the mild traumatic brain injury literature. Pupillary dynamics, which are primarily mediated by the autonomic nervous system, play an important function in regulating the amount of light entering the eye, but they can be dramatically impacted after a concussion. This can result in aberrant pupillary responses, which may have ramifications for light sensitivity, a common post-concussion symptom. In concussed individuals, accommodation and vergence - the visual processes responsible for focusing on near and distant objects - might be interrupted, potentially leading to fuzzy vision, eyestrain, and difficulty with tasks that require precise visual coordination. Understanding the delicate interplay between these three components of vision in the setting of concussions is critical for creating more targeted diagnostic and rehabilitative techniques, ultimately enhancing the quality of life for those who have had head injuries.

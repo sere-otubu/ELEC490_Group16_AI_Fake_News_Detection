@@ -1,0 +1,8 @@
+SEARCH_TOPIC: GMO foods safety
+TITLE: Safety assessment of foods from genetically modified crops in countries with developing economies.
+PMID: 26456807
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26456807/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Population growth particularly in countries with developing economies will result in a need to increase food production by 70% by the year 2050. Biotechnology has been utilized to produce genetically modified (GM) crops for insect and weed control with benefits including increased crop yield and will also be used in emerging countries. A multicomponent safety assessment paradigm has been applied to individual GM crops to determine whether they as safe as foods from non-GM crops. This paper reviews methods to assess the safety of foods from GM crops for safe consumption from the first generation of GM crops. The methods can readily be applied to new products developed within country and this paper will emphasize the concept of data portability; that safety data produced in one geographic location is suitable for safety assessment regardless of where it is utilized.

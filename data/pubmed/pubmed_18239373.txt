@@ -1,0 +1,8 @@
+SEARCH_TOPIC: NSAIDs side effects
+TITLE: [Strategy for development of NSAIDs with lower risk for side effects].
+PMID: 18239373
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18239373/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Nonsteroidal antiinflammatory drugs (NSAIDs) are one of the most frequently used classes of medicines worldwide. The major clinical problem encountered with the use of NSAIDs is gastrointestinal complications. In the USA, about 16,500 people per year die as a result of NSAID-associated gastrointestinal complications. COX-2-specific NSAIDs have been developed as safer for the gastrointestinal tract, although the risk of cardiovascular thrombotic disease has recently been noted with the use of COX-2-specific NSAIDs. To find the strategy for the development of gastrointestinally safe NSAIDs other than COX-2-specific NSAIDs, we examined the molecular mechanism for NSAID-induced gastric ulcer formation. We found that NSAIDs induce gastric mucosal cell death in a manner independent of COX inhibition and that this cytotoxic effect is due to their membrane permeabilization activity, which is not required for the antiinflammatory activity of NSAIDs. Furthermore, we showed that in addition to COX inhibition by NSAIDs, direct cytotoxicity of NSAIDs is required for NSAID-induced gastric ulcer formation. These results suggest that NSAIDs that have neither membrane permeabilization activity nor COX-2 specificity would be safe for both the gastrointestinal tract and cardiovascular system and we are now chemically synthesizing such NSAIDs.

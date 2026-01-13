@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Athletes foot
+TITLE: Foot Conditions in Adults: Common Foot Infections.
+PMID: 41100069
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41100069/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Superficial cutaneous infections of the foot caused by dermatophytes (tinea pedis), viruses (plantar warts), and bacteria (pitted keratolysis) are common in adults. Clinical recognition and treatment of these infections are critical to avoid progression to deeper structures. In the primary care setting, tinea pedis and plantar warts are common; pitted keratolysis is less common. Diagnosis of each of these infections is complicated by their variable presentations, especially on different skin tones. Appropriate treatment of each condition can lead to complete resolution. Initial treatment of these infections focuses on foot hygiene to decrease moisture. Tinea pedis can be effectively treated with topical antifungals. Plantar warts require chemical or surgical destruction of the lesions. Pitted keratolysis is treated with topical antibiotics. Expedited referral to podiatry is critical for refractory infections.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hyperthyroidism
+TITLE: Digoxin in hyperthyroidism.
+PMID: 913019
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/913019/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A patient with chronic atrial fibrillation developed hyperthyroidism. Increasing doses of digoxin were required to maintain satisfactor ventricular rate control. The systemic availability of oral digoxin was decreased in this patient. The metabolism of digoxin was studied in the hyperthyroid rats. The plasma digoxin concentrations were significantly decreased in the hyperthyroid rats. A threefold increase in digoxin excretion in the bile of the hyperthyroid rats was associated with these changes in plasma digoxin concentrations. Conversely, hypothyroid rats excreted less digoxin in the bile when compared with control and hyperthyroid rats. Thus, changes in digoxin absorption and its biliary excretion result, in part, in a decreased therapeutic effect of digoxin based on dose in hyperthyroidism.

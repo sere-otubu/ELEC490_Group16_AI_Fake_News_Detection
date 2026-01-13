@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Suicide prevention
+TITLE: Suicide Prevention in the European Region.
+PMID: 32208758
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32208758/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+<b></b>Although the majority of the world's suicides occur in Asia, suicide and self-harm are major concerns in Europe as well. Suicide accounts for 1.4% of the total number of deaths in Europe, with rates highest among those aged over 70 and also high among those aged 45-59 years. Europe accounts for six of the top ten countries with the highest suicide rates internationally. Although rates of suicide attempts and self-harm are not consistently recorded, evidence from hospital-based studies and school-based surveys highlight their extent and scale. Numerous countries in Europe have developed national suicide prevention strategies and action plans. Some of the suicide prevention activities in Belgium, Estonia, Finland, Scotland, France, Germany, Romania, Russia, Sweden, Ukraine, and Italy are summarized. In the chapter we also highlight novel suicide prevention projects funded by the EU which have advanced our understanding of suicide risk and have developed the evidence base for what works to prevent suicide. Examples include the European Alliance Against Depression (EAAD), Saving and Empowering Young Lives in Europe (SEYLE), Suicide Prevention Through Internet and Media Based Mental Health Promotion (SUPREME), and Reduction of Suicides and Trespasses on Railway Property (RESTRAIL). Future challenges and opportunities for suicide prevention in Europe are also discussed.

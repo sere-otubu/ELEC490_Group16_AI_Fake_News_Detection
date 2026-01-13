@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Carbohydrates types
+TITLE: Sequence and Architectural Control in Glycopolymer Synthesis.
+PMID: 28691393
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28691393/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Glycopolymers are synthetic-carbohydrate-containing materials capable of interacting and binding to specific targeting lectins, which are crucially important in many biologically active processes. Over the last decade, advances in synthetic chemistry and polymerization techniques have enabled the development of sequence and architecturally controlled glycopolymers for different types of bioapplications, such as drug delivery and release purposes, gene therapy, lectin-based biosensors, and much more in the future. These precision glycopolymers are able to mimic structural and functional features of the naturally existing glycocalyx. Furthermore, self-assembled glycopolymers could enhance specific and selective recognition properties on multivalent scaffolds in glycoscience. This mini-review will focus on production methods and recent advances in precision synthesis and self-assembly of glycopolymers. Additionally, possible contributions of single-chain folding in glycopolymers will be discussed as a future prospect.

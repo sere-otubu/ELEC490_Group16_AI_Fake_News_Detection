@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Human brain structure
+TITLE: Imaging the structure of the human anxious brain: a review of findings from neuroscientific personality psychology.
+PMID: 23585212
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23585212/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The emotion of anxiety represents one of the most studied topics in the neurosciences, in part due to its relevance for understanding the evolutionary development of the human brain and its role in the pathogenesis of psychopathological conditions. Structural magnetic resonance imaging (sMRI) has enabled mapping of the anxious human brain and has contributed substantially to the understanding of anxiety. Alongside the fields of clinical psychology/psychiatry, personality psychology aims to support the research endeavor of mapping the anxious brain and has found that individual differences in anxiety-related personality dimensions such as Neuroticism or Harm Avoidance (measured by self-report) are correlated with gray and white matter volumes in different areas of the human brain. This review reveals that structures including parts of the frontal cortex (e.g., the orbitofrontal cortex) and the temporal lobe (e.g., the hippocampus) are often associated with trait anxiety, and it points out the inconsistencies that exist in the personality-sMRI literature on human anxiety. Consequently, we suggest new research strategies to overcome the inconsistencies. This review outlines how results from animal research can guide scientists in developing testable hypotheses in search of the anxious brain. Moreover, genetic imaging is presented as an interesting approach to mapping the anxious brain.

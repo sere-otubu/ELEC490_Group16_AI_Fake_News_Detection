@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vegan diet
+TITLE: The Relationship between Vegetarian Diet and Sports Performance: A Systematic Review.
+PMID: 37960356
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37960356/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In recent years, the vegetarian diet has increased in popularity among athletes. The aim of this review is to ascertain the differences in variables related to performance, nutritional intake, and health in athletes according to whether they are omnivores or vegetarians. A literature search was carried out in different databases: PubMed, Web of Science, Dialnet, and Cochrane. The keywords used were "vegetarian diet", "vegan diet", "exercise", "sport", and "performance". After applying different inclusion criteria, six studies were included in the review. No significant differences were obtained in variables related to physical performance (adherence exercise, Vo2Máx, muscle power, and sprint test) or health (body composition, psychological well-being, and social relationships), but dietary intake was significantly higher in carbohydrates and lower in proteins in vegetarian athletes (<i>p</i> < 0.05). It cannot be affirmed that vegetarian subjects have a higher sports performance, for which more research should be carried out.

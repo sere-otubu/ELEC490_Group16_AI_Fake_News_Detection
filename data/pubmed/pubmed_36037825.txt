@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Prenatal testing
+TITLE: Ethical Aspects of Prenatal DNA Testing.
+PMID: 36037825
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36037825/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cell-free DNA (cfDNA) first-trimester screening for fetal aneuploidies, as a non-invasive, safe, and rather accurate method, has changed prenatal screening policies all over the world. Owing to aggressive marketing, cfDNA screening tests exhibit global popularity and a rapid spread in routine prenatal care. However, wide availability of the tests, together with observed difficulties in the test's interpretation, bring to light several serious ethical concerns. To date it is vital to identify and address the most important ethical, legal, and social issues regarding prenatal screening tests. Furthermore, guidelines and restrictions in certain cfDNA screening advancements that may provide information regarding fetal genetic traits of unknown clinical significance, conditions with variable penetrance, or late-onset conditions, should be considered.

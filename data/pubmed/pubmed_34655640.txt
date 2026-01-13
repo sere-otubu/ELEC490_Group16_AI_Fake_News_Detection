@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Asthma
+TITLE: Advances in asthma: New understandings of asthma's natural history, risk factors, underlying mechanisms, and clinical management.
+PMID: 34655640
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34655640/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The last 2 years yielded a proliferation of high-quality asthma research. These include new understandings of the incidence and natural history of asthma, findings on the effects of exposure to air pollution, allergens, and intake of acetaminophen, soy isoflavones, and polyunsaturated fatty acids, and exposure to microbial products. The past 2 years have benefited from great strides in determining potential mechanisms of asthma development and asthma exacerbations. These novel understandings led to identification and development of exciting new avenues for potential therapeutic intervention. Finally, there has been significant progress made in the development of tools to facilitate the diagnosis of asthma and measurement of airway physiology and in precision diagnostic approaches. Asthma guidelines were updated and new insights into the pharmacologic management of patients, including biologics, were reported. We review the most notable advances in the natural history of asthma, risk factors for the development of asthma, underlying mechanisms, diagnostic approaches, and treatments. Although greater knowledge of the mechanisms underlying responses and nonresponses to novel therapeutics and across asthma phenotypes would be beneficial, the progress over just the past 2 years has been immense and impactful.

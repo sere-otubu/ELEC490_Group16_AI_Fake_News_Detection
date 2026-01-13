@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Carbohydrates types
+TITLE: Nano-carbohydrates: Synthesis and application in genetics, biotechnology, and medicine.
+PMID: 27988019
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27988019/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Combining nanoparticles with carbohydrate has triggered an exponential growth of research activities for the design of novel functional bionanomaterials, nano-carbohydrates. Recent advances in versatile synthesis of glycosylated nanoparticles have paved the way towards diverse biomedical applications. The accessibility of a wide variety of these structured nanosystems, in terms of shape, size, and organization around stable nanoparticles, has readily contributed to their development and application in nanomedicine. Glycosylated gold nanoparticles, glycosylated quantum dots, fullerenes, single-wall nanotubes, and self-assembled glyconanoparticles using amphiphilic glycopolymers or glycodendrimers have received considerable attention for their application in powerful imaging, therapeutic, and biodiagnostic devices. Recently, nano-carbohydrates were used for different types of microarrays to detect proteins and nucleic acids.

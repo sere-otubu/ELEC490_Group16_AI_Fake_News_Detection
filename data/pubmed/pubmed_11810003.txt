@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Stroke
+TITLE: Stroke in Saudi Arabia.
+PMID: 11810003
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11810003/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In this review, the authors summarize 10 years of work on stroke in Saudi Arabia that has led to more than 25 publications. The incidence and prevalence of strokes were low when compared to those reported from Western countries, but this was mainly due to the younger age of the population. The overall distribution of stroke types was not different from that reported in other communities, with the exception of the low incidence of subarachnoid hemorrhage. However, the relatively high frequency of strokes in the young and strokes related to small artery disease, i.e. lacunar infarcts and cerebral hemorrhage, and the high prevalence of diabetes mellitus as a risk factor were quite distinctive. On the other hand, extracranial large artery disease was quite rare. Undetected and untreated hypertension and a low frequency of cigarette smoking in the stroke-prone age group could be one explanation of these findings.

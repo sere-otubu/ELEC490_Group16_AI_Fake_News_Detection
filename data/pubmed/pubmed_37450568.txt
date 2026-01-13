@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vegan diet
+TITLE: Vegetarian and vegan diets: benefits and drawbacks.
+PMID: 37450568
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37450568/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Plant-based diets have become increasingly popular thanks to their purported health benefits and more recently for their positive environmental impact. Prospective studies suggest that consuming vegetarian diets is associated with a reduced risk of developing cardiovascular disease (CVD), diabetes, hypertension, dementia, and cancer. Data from randomized clinical trials have confirmed a protective effect of vegetarian diets for the prevention of diabetes and reductions in weight, blood pressure, glycosylated haemoglobin and low-density lipoprotein cholesterol, but to date, no data are available for cardiovascular event rates and cognitive impairment, and there are very limited data for cancer. Moreover, not all plant-based foods are equally healthy. Unhealthy vegetarian diets poor in specific nutrients (vitamin B12, iron, zinc, and calcium) and/or rich in highly processed and refined foods increase morbidity and mortality. Further mechanistic studies are desirable to understand whether the advantages of healthy, minimally processed vegetarian diets represent an all-or-nothing phenomenon and whether consuming primarily plant-based diets containing small quantities of animal products (e.g. pesco-vegetarian or Mediterranean diets) has beneficial, detrimental, or neutral effects on cardiometabolic health outcomes. Further, mechanistic studies are warranted to enhance our understanding about healthy plant-based food patterns and the biological mechanisms linking dietary factors, CVD, and other metabolic diseases.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hearing aids
+TITLE: Digital hearing aids and future directions for hearing aids.
+PMID: 12528252
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12528252/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In recent years many technical evolutions have been applied in hearing aids. In this paper differences between analog, programmable and fully digital hearing aids, the basic and supplementary functions of a hearing aid, and some important issues and future directions for digital hearing aids will be mentioned.

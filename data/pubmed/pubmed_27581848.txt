@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rest and recovery
+TITLE: The Timing of Cognitive and Physical Rest and Recovery in Concussion.
+PMID: 27581848
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27581848/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Immediate cognitive and physical rest in the concussed patient is almost universally recommended in the concussion literature. The authors conducted a prospective observational in a primary care pediatric office to examine the effect of delayed cognitive and physical rest had on recovery time in pediatric concussion. The authors found that patients who started cognitive and physical rest immediately after injury were more likely to recover within 30 days compared to patients who delayed cognitive and physical rest for 1-7 days after their injury (67% vs 35%, P = .016). Within the group of patients who recovered within 30 days those with immediate cognitive and physical rest recovered 4.6 days sooner than those with delayed cognitive and physical rest (10.29 ± 5.83 vs 14.42 ± 6.15 days, P = .005). These data support the recommendation that cognitive and physical rest should be implemented immediately after injury in concussed patients.

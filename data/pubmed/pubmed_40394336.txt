@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Muscular system
+TITLE: Engineering eukaryotic transposon-encoded Fanzor2 system for genome editing in mammals.
+PMID: 40394336
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40394336/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Eukaryotic transposon-encoded Fanzor proteins hold great promise for genome-engineering applications as a result of their compact size and mechanistic resemblance to TnpB. However, the unmodified Fanzor systems show extremely low activity in mammalian cells. Guided by the predicted structure of a Fanzor2 complex using AlphaFold3, we engineered the NlovFz2 nuclease and its cognate ωRNA to create an evolved enNlovFz2 system, with an expanded target-adjacent motif (TAM) recognition scope (5'-NMYG) and a substantially improved genome-editing efficiency, achieving an 11.1-fold increase over the wild-type NlovFz2, comparable to two previously reported IS200 or IS605 transposon-encoded TnpBs and two CRISPR-Cas12f1 nucleases. Notably, enNlovFz2 efficiently mediated gene disruption in mouse embryos and restored dystrophin expression in a humanized Duchenne muscular dystrophy mouse model with single adeno-associated virus delivery. Our findings underscore the potential of eukaryotic RNA-guided Fanzor2 nucleases as a versatile toolbox for both biological research and therapeutic applications.

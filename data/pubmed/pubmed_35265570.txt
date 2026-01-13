@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HPV vaccine
+TITLE: HPV Vaccine Hesitancy Among Medical Students in China: A Multicenter Survey.
+PMID: 35265570
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35265570/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Human papillomavirus (HPV) is the most common genital tract virus infection and can cause genital warts and cervical cancer. This multicenter study examined HPV information sources, vaccine hesitancy, and the association between the two variables. An online survey of HPV information sources and vaccine hesitancy was conducted among Chinese medical students. The World Health Organization (WHO) Vaccine Hesitancy 3Cs model was used to evaluate reasons for respondents' vaccine hesitancy. A probit model was used to investigate the association between vaccine information sources and vaccine hesitancy. The reported rate of vaccine hesitancy was 62.36%. Convenience was the primary factor for vaccine hesitancy in medical students, and 19% used a single source to obtain vaccine information. A multivariate analysis revealed that master degree and above were 33% less likely to be hesitant about the HPV vaccine than first grade students. Respondents receiving HPV information through doctor were 8% less likely to report vaccine hesitancy than those receiving information from other information channels. HPV vaccine hesitancy requires more attention. Future studies could examine whether increasing vaccination locations and dissemination of information about the safety and effectiveness of HPV vaccines as well as using Internet media would help reduce medical students' vaccine hesitancy and expand HPV vaccine coverage.

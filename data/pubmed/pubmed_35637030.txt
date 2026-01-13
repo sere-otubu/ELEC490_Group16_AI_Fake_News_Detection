@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hemophilia
+TITLE: [Acquired hemophilia and pregnancy: A necessarily multidisciplinary approach].
+PMID: 35637030
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35637030/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The occurrence of acquired hemophilia during pregnancy or postpartum is rare (2 to 10 % in series). It is generally suspected in the presence of haemorrhagic manifestations (especially subcutataneous or mucosal bleeding) associated with an isolated prolongation of the activated partial thromboplastin time (APTT). The diagnosis is confirmed by the association of a low level of factor VIII (FVIII) and the presence of an anti-FVIII inhibitor. Postpartum management is similar to that of other acquired haemophilias: correction of a severe haemorrhagic syndrome by "bypassing" agents, eradication of the inhibitor by corticosteroids alone or in combination with another immunosuppressive agent depending on the residual level of FVIII and the titer of the inhibitor. Management of the forms occurring during pregnancy is based on rare experiences or expert opinions. The management of childbirth is particularly delicate in terms of haemorrhage, especially if the anti-FVIII inhibitor is still present, and must be prepared in a multidisciplinary manner. Finally, as with any acquired hemophilia, a relapse is possible, especially in the year following remission. During a subsequent pregnancy, the risk of recurrence is possible but should not be a contraindication to a new pregnancy.

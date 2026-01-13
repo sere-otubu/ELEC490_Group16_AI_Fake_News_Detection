@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urinary tract infection
+TITLE: Urinary Tract Infection in Male Patients: Challenges in Management.
+PMID: 38575494
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38575494/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Urinary tract infections in male patients share many of the management principles as used in the management of female patients, including the need to accurately define the clinical syndrome, choose empirical therapy based on the severity of illness and the potential for antimicrobial resistance, and consider the need for source control in severely ill patients. The microbiology of the causative organisms is more unpredictable compared to female patients, and data to inform treatment decisions from clinical trials specific to male patients are relatively scarce.

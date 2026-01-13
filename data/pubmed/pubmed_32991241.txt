@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vaccine types
+TITLE: Subcutaneous vaccine administration - an outmoded practice.
+PMID: 32991241
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32991241/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Subcutaneous vaccine (SC) administration is an outmoded practice which complicates vaccine administration recommendations. Local adverse events following immunization (AEFIs) are a recognized determinant of vaccine hesitancy/refusal which can lead to an increased prevalence of vaccine-preventable disease.This extensive narrative review provides high-grade evidence that intramuscular (IM) administration of all vaccine types [adjuvanted, live virus and non-adjuvanted (inactivated whole cell, split cell and subunit)] significantly reduces the likelihood of local adverse events. This, combined with moderate grade evidence that IM injection generates significantly greater immune response compared with SC injection, allows a strong recommendation to be made for the IM injection of all vaccines except BCG and Rotavirus.This will simplify vaccination practice, minimize the inadvertent misadministration of vaccines and potentially improve public trust in vaccination.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Adolescent mental health
+TITLE: Promotion of Mental Health Literacy in Adolescents: A Scoping Review.
+PMID: 34574427
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34574427/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In recent years, there has been an important commitment to the development of programs to promote mental health literacy (MHL) among adolescents, due to the prevalence of mental health problems and the low level of MHL that affects this group. The aim of this study was to map the structure and context of programmes/interventions for promoting MHL among adolescents in school settings. A scoping review was conducted following the guidelines of The Joanna Briggs Institute. We searched for studies on programmes/interventions promoting at least one of the components of MHL of adolescents, written in Portuguese, English or Spanish, published from 2013 to 2020, in MEDLINE, CINAHL Plus with Full Text, SciELO, SCOPUS, OpenGrey, RCAAP and in the article reference lists. This review included 29 articles. The majority of programmes/interventions addressed one or more of the four components of MHL, with the knowledge of mental disorders and stigma reduction components being the most covered; were taught by adolescent's regular teachers; used face to face interventions; had a height variable duration; used non-validated instruments; were implemented in a classroom environment; and showed statistically significant improvements in adolescent's MHL levels. More research is needed to implement/construct programmes/interventions promoting adolescents' MHL concerning knowledge on how to obtain and maintain good mental health.

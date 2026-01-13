@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Carbohydrates types
+TITLE: Carbohydrate mimetics-based glycosyltransferase inhibitors.
+PMID: 11711283
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11711283/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The search for carbohydrate mimetics-based glycosyltransferase inhibitors is a dynamic field that emerged 10 years ago. This review presents a description of the different types of glycosyltransferase inhibitors containing a carbohydrate mimetic (primarily an iminosugar, a carbasugar or a C-glycoside) and data on their biological activity whenever such data are available. The purpose of this account is to foster a synergy between the two expanding research areas of glycomimetics and glycosyltransferases.

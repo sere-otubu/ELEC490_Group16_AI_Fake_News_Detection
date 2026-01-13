@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Panic disorder
+TITLE: Panic disorder and asthma.
+PMID: 10227264
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10227264/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The presence of asthma is a risk factor for the development of panic disorder. The co-occurrence of panic disorder and asthma is greater than would be expected based on their individual prevalence rates. This may be due in part to the important role of respiratory factors in panic disorder. Panic and anxiety can directly exacerbate asthma symptoms through hyperventilation, and are associated with patients' overuse of as-needed asthma medications, with more frequent hospital admissions and longer hospital stays, and with more frequent steroid treatment, all of which are independent of degree of objective pulmonary impairment. This paper reviews the literature on the relationship between panic and anxiety on the one hand, and the experience and management of asthma on the other.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Food labeling
+TITLE: A review of polyols - biotechnological production, food applications, regulation, labeling and health effects.
+PMID: 31210053
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31210053/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Food research is constantly searching for new ways to replace sugar. This is due to the negative connotations of sugar consumption on health which has driven consumer demand for healthier products and is reflected on a national level by the taxation of sugary beverages. Sugar alcohols, a class of polyols, are present in varying levels in many fruits and vegetables and are also added to foods as low calorific sweeteners. The most commonly used polyols in food include sorbitol, mannitol, xylitol, erythritol, maltitol, lactitol and isomalt. Of these, microorganisms can produce sorbitol, mannitol, xylitol and erythritol either naturally or through genetic engineering. Production of polyols by microbes has been the focus of a lot of research for its potential as an alternative to current industrial scale production by chemical synthesis but can also be used for in situ production of natural sweeteners in fermented products using microbes approved for use in foods. This review on the generation of these natural sweetening compounds by microorganisms examines the current understanding and methods of microbial production of polyols that are applicable in the food industry. The review also considers the health benefits and effects of polyol usage and discusses regulations which are applicable to polyol use.

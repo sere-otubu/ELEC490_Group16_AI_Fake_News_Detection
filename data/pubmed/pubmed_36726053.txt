@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Fatty liver disease
+TITLE: Chronic hepatitis B with concurrent metabolic dysfunction-associated fatty liver disease: Challenges and perspectives.
+PMID: 36726053
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36726053/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The prevalence of metabolic dysfunction-associated fatty liver disease (MAFLD) has increased among the general population and chronic hepatitis B (CHB) patients worldwide. Although fatty liver disease is a well-known risk factor for adverse liver outcomes like cirrhosis and hepatocellular carcinoma, its interactions with the hepatitis B virus (HBV) and clinical impacts seem complex. The presence of hepatic steatosis may suppress HBV viral activity, potentially leading to attenuated liver injury. In contrast, the associated co-morbidities like diabetes mellitus or obesity may increase the risk of developing adverse liver outcomes. These findings implicate that components of MAFLD may have diverse effects on the clinical manifestations of CHB. To this end, a clinical strategy is proposed for managing patients with concurrent CHB and MAFLD. This review article discusses the updated evidence regarding disease prevalence, interactions between steatosis and HBV, clinical impacts, and management strategies, aiming at optimizing holistic health care in the CHB population.

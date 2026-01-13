@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Caffeine effects
+TITLE: A comprehensive review of the effects of caffeine on the auditory and vestibular systems.
+PMID: 33888039
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33888039/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Coffee, of which caffeine is a critical component, is probably the most frequently used psychoactive stimulant in the world. The effects of caffeine on the auditory and vestibular system have been investigated under normal and pathological conditions, such as acoustic trauma, ototoxicity, auditory neuropathy, and vestibular disorders, using various tests. Lower incidences of hearing loss and tinnitus have been reported in coffee consumers. The stimulatory effect of caffeine is represented by either a shorter latency or enhanced amplitude in electrophysiological tests of the auditory system. Furthermore, in the vestibular system, oculomotor testing revealed significant effects of caffeine, while other tests did not reveal any significant caffeine effects. It could be that caffeine improves transmission in the auditory and vestibular systems' central pathways. Importantly, the effects of caffeine seem to be dose-dependent. Also, inconsistent findings have been observed regarding caffeine's effects on the auditory and vestibular systems and related disorders. Overall, these findings suggest that caffeine does not strongly influence the peripheral auditory and vestibular systems. Instead, caffeine's effects seem to occur almost solely at the level of the central nervous system.

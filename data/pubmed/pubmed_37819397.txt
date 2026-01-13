@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tendinitis
+TITLE: [Calcific tendinitis].
+PMID: 37819397
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37819397/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Calcific tendinitis (TC) is a common-usually self-limiting-musculoskeletal disease, histopathologically characterized by both deposition and subsequent inflammatory breakdown of calcium crystals in tendons. The disease can cause acute, sometimes excruciating pain and restricted movement in the shoulder joint. Furthermore, 10-30% of patients have a complicated course of the disease. Imaging-based assessment by X‑ray and ultrasound is required to establish the initial diagnosis and differential diagnosis as well as for follow-up. Magnetic resonance imaging (MRI) and, to a lesser degree, computed tomography (CT) complete the imaging work-up for establishing differential diagnoses and detecting complications. The combined evaluation of clinical symptoms and imaging findings is crucial to assess prognosis, plan therapy and detect potential complications. This article provides an overview of imaging-based morphology as related to the different stages of TC, relevant complications and potential pitfalls with respect to comorbidities and differential diagnoses.

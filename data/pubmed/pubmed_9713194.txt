@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Glaucoma
+TITLE: [Phacotopic glaucoma].
+PMID: 9713194
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9713194/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Phacotopic glaucomas or hypertonias due to lens movements are not rarely in ophthalmology. They are often due to a traumatic pathology. They are seldom due to a congenital or acquired zonular disease. It is very important to recognize the pathogenic mechanism for a proper treatment: pupillary block and/or angular block or phacolytic glaucoma. Lens displacement is possible in three different places, that may lead to different causes of hypertonia, that need different treatments. Laser iridotomy, improvement of lens and vitreous surgery changed the prognosis of this diseases.

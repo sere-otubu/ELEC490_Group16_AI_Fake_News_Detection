@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Air pollution health effects
+TITLE: Indoor Air Quality and Health.
+PMID: 29068361
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29068361/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In the last few decades, Indoor Air Quality (IAQ) has received increasing attention from the international scientific community, political institutions, and environmental governances for improving the comfort, health, and wellbeing of building occupants.[...].

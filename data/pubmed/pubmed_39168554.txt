@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Caffeine effects
+TITLE: Coffee and mental disorders: How caffeine affects anxiety and depression.
+PMID: 39168554
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39168554/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Caffeine, the main psychoactive component in coffee, has garnered significant attention for its potential impact on the most prevalent mental health conditions like anxiety and depression. This chapter comprehensively examines the neurobiological effects of caffeine, its influence on anxiety and depression, and relevant clinical studies. Caffeine exerts its psychostimulant effects primarily through antagonizing adenosine receptors, modulating neurotransmitter systems, and influencing intracellular calcium signaling in the brain. Caffeine exhibits dose-dependent effects. While moderate caffeine consumption is safe in healthy adults and may offer benefits for mental health, excessive intake is linked to adverse effects on neurological and psychiatric health and can aggravate symptoms, highlighting the importance of adjusting consumption patterns. High caffeine intake correlates with elevated anxiety levels, especially in individuals predisposed to anxiety disorders. However, the relationship between caffeine consumption and the risk of depression is intricate, with some studies suggesting a potential protective effect of moderate intake, while others find no significant association. Individual variations in caffeine metabolism, sensitivity, and genetic factors considerably impact responses to caffeine. The chapter also explores the therapeutic potential of caffeine as an adjunct treatment and outlines challenges and future research directions in elucidating caffeine's multifaceted role in mental health.

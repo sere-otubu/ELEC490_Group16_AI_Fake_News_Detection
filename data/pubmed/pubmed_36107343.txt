@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Plant based protein
+TITLE: Fluorescent Protein-Based Approaches for Subcellular Protein Localization in Plants.
+PMID: 36107343
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36107343/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Fluorescent proteins (FPs) remarkably advanced the study of cellular biology of plants. The most common application is their use as reporter proteins to determine the subcellular localization of a protein of interest (POI) by endogenous expression of a suitable FP-POI fusion construct in plant cells. In this chapter we describe three approaches, namely, particle bombardment, protoplast transformation, and Agrobacterium infiltration, to transiently express such fusion constructs in plant cells of different species. These approaches are versatile and can be utilized for diverse fluorescent protein-based applications.

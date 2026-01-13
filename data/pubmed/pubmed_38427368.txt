@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Balance exercises
+TITLE: Trunk-oriented Exercises Versus Whole-body Vibration on Abdominal Thickness and Balance in Children with Duchene Muscular Dystrophy.
+PMID: 38427368
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38427368/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Progressive proximal muscle weakening in children with Duchenne muscular dystrophy (DMD) impairs postural adjustments by impairing motor function and preventing ambulation. During daily activities, for gait and dynamic balance, certain postural modifications are required. The objective was to compare the impact of trunk-oriented exercises versus whole-body vibration on abdominal muscle thickness and balance in children with DMD. Participants in this study were 30 boys with DMD, aged 6 to 10 years old. Children were divided into two groups (A and B) randomly. Children in group (A) underwent a prescribed regimen of physical therapy along with trunk-oriented exercises, whereas group (B) received the same regimen as group (A) together with whole-body vibration three times per week for three consecutive months. Balance and the thickness of the abdominal muscles were measured using the Biodex balance system and ultrasonography, respectively, before and after therapy. When compared to the pre-treatment results in both groups, the post-treatment results showed a significant difference in all measured variables (p<0.05). Post-treatment values showed that all of the measured variables significantly differed in favor of group A. Trunk-oriented exercises can improve abdominal thickness and balance more effectively than whole-body vibration in children with DMD. gov ID: NCT05688072.

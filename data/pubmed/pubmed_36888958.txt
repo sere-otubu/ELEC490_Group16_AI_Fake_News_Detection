@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Occupational safety health
+TITLE: Occupational Safety and Health of Women in Mining.
+PMID: 36888958
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36888958/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The mining industry plays a critical role in the U.S. economy, with active mines in every state producing materials such as those used to construct houses and roads, make medicines, and manufacture cars and electronics. Throughout its history, mining has been a male-dominated industry. Recent estimates indicate that between 10% and 17% of miners are women. Previous occupational safety and health (OSH) research has focused primarily on the male experience. In more recent years, the mining industry has engaged in efforts to increase workforce diversity through the recruitment and retention of women miners. To meet the needs of a diverse workforce, it is critically important to identify OSH concerns that are unique to populations that have been understudied and to develop work-related policies and practices that improve their work experiences and health outcomes. The purpose of this article is to describe the specific OSH challenges women as miners face and to discuss how the National Institute for Occupational Safety and Health's (NIOSH) Mining Program is situated to address these challenges through its Mining Program Strategic Plan.

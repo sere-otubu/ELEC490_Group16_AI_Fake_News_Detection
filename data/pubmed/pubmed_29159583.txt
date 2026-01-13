@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Artificial sweeteners
+TITLE: The Association Between Artificial Sweeteners and Obesity.
+PMID: 29159583
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29159583/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The purpose of this paper is to review the epidemiology of obesity and the evolution of artificial sweeteners; to examine the latest research on the effects of artificial sweeteners on the host microbiome, the gut-brain axis, glucose homeostasis, and energy consumption; and to discuss how all of these changes ultimately contribute to obesity. Although artificial sweeteners were developed as a sugar substitute to help reduce insulin resistance and obesity, data in both animal models and humans suggest that the effects of artificial sweeteners may contribute to metabolic syndrome and the obesity epidemic. Artificial sweeteners appear to change the host microbiome, lead to decreased satiety, and alter glucose homeostasis, and are associated with increased caloric consumption and weight gain. Artificial sweeteners are marketed as a healthy alternative to sugar and as a tool for weight loss. Data however suggests that the intended effects do not correlate with what is seen in clinical practice. Future research should focus on the newer plant-based sweeteners, incorporate extended study durations to determine the long-term effects of artificial sweetener consumption, and focus on changes in the microbiome, as that seems to be one of the main driving forces behind nutrient absorption and glucose metabolism.

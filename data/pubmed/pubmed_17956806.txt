@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tinnitus
+TITLE: Tinnitus retraining therapy.
+PMID: 17956806
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17956806/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Tinnitus retraining therapy (TRT) is a specific clinical method based on the neurophysiological model of tinnitus described by Jastreboff (Jastreboff, P.J. (1990). Neurosci. Res., 8: 221-254). The method is aimed at habituation of reactions evoked by tinnitus, and subsequently habituation of the tinnitus perception. Several other methods have been suggested for habituation of tinnitus, but in TRT two components that strictly follow the principles of the neurophysiological model of tinnitus are implemented and necessary: (1) counseling, aimed at reclassification of tinnitus to a category of a neutral signals and (2) sound therapy, aimed at weakening tinnitus-related neuronal activity as suggested by Jastreboff and Hazell (Jastreboff, P.J. and Hazell, J.W.P. (2004). Cambridge University Press, Cambridge). This chapter outlines the theoretical basis of TRT as well as comments on the clinical outcome of the use of TRT for different kinds of tinnitus.

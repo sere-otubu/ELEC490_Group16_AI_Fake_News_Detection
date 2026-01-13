@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cardiovascular fitness
+TITLE: Cardiovascular fitness and type 2 diabetes.
+PMID: 12643170
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12643170/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Exercise has long been recognized as a cornerstone in diabetes care. Even so, modern science is just beginning to understand the physiologic impact cardiovascular fitness has on long-term diabetes management, and the prevention or delay, of type 2 diabetes. Recent advances in research are defining the metabolic pathways involved in insulin signaling and in reducing insulin resistance. Tools and guidelines exist for the health care provider to use when prescribing cardiovascular activities to individuals with type 2 diabetes. The true challenge now lies in assisting individuals in implementing and maintaining safe, therapeutic levels of physical activity.

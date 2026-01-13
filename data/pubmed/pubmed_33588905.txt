@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Nutritional supplements
+TITLE: Could nutritional supplements act as therapeutic adjuvants in COVID-19?
+PMID: 33588905
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33588905/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The role of the immune system and inflammatory response in the pathogenesis of the severe manifestations of coronavirus disease 2019 (COVID-19) is well known. Currently, different therapies active on the immune system are used for the management of COVID-19. The involvement of the immune system also opens the opportunity for the use of nutritional supplements with antimicrobial and immunomodulatory activity. Nutritional supplements with antimicrobial and immunomodulatory activity are promising therapeutic adjuvants for the treatment of COVID-19, and also for the prevention of viral spreading. In particular, the role of vitamin D, probiotics, lactoferrin, and zinc is of significant clinical interest, although there are only a few data on their use in COVID-19 patients. Their molecular actions, together with the results of studies performed on other respiratory infections, strongly suggest their potential utility in COVID-19. This article discusses the main properties of these nutritional supplements and their potential applicability in the prevention and treatment of COVID-19. The supplementation with vitamin D, probiotics, lactoferrin and zinc could have a role both in preventing SARS-CoV-2 infection and in mitigating the clinical course in infected patients, contributing in the prevention of immune-mediated organ damage.

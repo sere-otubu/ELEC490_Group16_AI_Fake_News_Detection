@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immunotherapy
+TITLE: Immunotherapy in Multiple Myeloma.
+PMID: 32138182
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32138182/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Multiple myeloma is a complex disease and immune dysfunction has been known to play an important role in the disease pathogenesis, progression, and drug resistance. Recent efforts in drug development have been focused on immunotherapies to modify the MM disease process. Here, we summarize the emerging immunotherapies in the MM treatment landscape.

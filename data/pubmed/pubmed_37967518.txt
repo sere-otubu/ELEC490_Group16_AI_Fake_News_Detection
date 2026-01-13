@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dengue fever
+TITLE: Autochthonous Dengue Fever in 2 Patients, Rome, Italy.
+PMID: 37967518
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37967518/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Since August 2023, outbreaks of dengue virus (DENV) infection have occurred in Italy. We report 2 autochthonous case-patients and their extended follow-up. Despite persistent DENV detected in blood by PCR, results for antigenomic DENV RNA were negative after day 5, suggesting that a 5-day isolation period is adequate to avoid secondary cases.

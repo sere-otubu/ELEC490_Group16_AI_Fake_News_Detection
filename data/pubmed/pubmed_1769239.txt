@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Angioplasty
+TITLE: Laser balloon angioplasty.
+PMID: 1769239
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1769239/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Unlike conventional transluminal percutaneous angioplasty (PTCA), which applies only intraluminal pressure, laser balloon angioplasty (LBA) employs simultaneous heat and pressure to reopen heavily occluded arterial lumens. The circumferential irradiation of Nd:YAG (1.06 microns) laser light is directly absorbed by approximately 1 to 2 mm of arterial tissue immediately adjacent to the inflated balloon. Such heating by LBA is able to seal disrupted luminal flaps, thermally remodel the luminal surface topology, reduce arterial recoil, selectively (partially) dehydrate thrombus, and possibly even reduce thrombogenicity at atherosclerotic sites. Criteria for successful LBA are defined based on earlier fundamental in vitro experiments to determine effective welding temperature, laser power doses, and exposure period; in addition, the derivation and validity of a three-part optical-thermal model and its application in parametric dosimetry analysis are presented. Though the lumen remodeled by LBA is acutely satisfactory, recurrence of the lesion is problematic chronically. Because of this, LBA is currently most useful as an adjunctive procedure whenever PTCA fails to produce optimal results or causes acute vessel closure. Perhaps, another potential application of the LBA system is to aid localized delivery of pharmacologic agents and their thermal adhesion to superficial tissue at angioplastied sites.

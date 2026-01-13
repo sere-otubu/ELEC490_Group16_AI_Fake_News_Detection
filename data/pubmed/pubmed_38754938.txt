@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pandemic preparedness
+TITLE: Vaccine Confidence as Critical to Pandemic Preparedness and Response.
+PMID: 38754938
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38754938/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Vaccine confidence is a belief that vaccines work, are safe, and are part of a trustworthy medical system. The COVID-19 pandemic exposed the fragility of the public's confidence in vaccines and the vaccine enterprise, limiting the public health impact of vaccination. In this review, we examine the critical nature of vaccine confidence to pandemic preparedness and response.

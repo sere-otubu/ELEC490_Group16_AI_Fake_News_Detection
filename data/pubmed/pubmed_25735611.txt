@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Bulimia nervosa
+TITLE: Bulimia nervosa: online interventions.
+PMID: 25735611
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25735611/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Up to 1% of people in the community may have bulimia nervosa, characterised by an intense preoccupation with body weight, binge-eating episodes, and use of extreme measures to counteract the feared effects of overeating. People with bulimia nervosa are of normal weight or are overweight, making the condition distinct from anorexia nervosa. After 10 years, about half of people with bulimia nervosa will have recovered fully, one third will have made a partial recovery, and 10% to 20% will still have symptoms. We conducted a systematic review and aimed to answer the following clinical question: What are the effects of online interventions for people with bulimia nervosa? We searched: Medline, Embase, The Cochrane Library, and other important databases up to April 2014 (Clinical Evidence reviews are updated periodically; please check our website for the most up-to-date version of this review). We included harms alerts from relevant organisations such as the US Food and Drug Administration (FDA) and the UK Medicines and Healthcare products Regulatory Agency (MHRA). We found eight studies that met our inclusion criteria. We performed a GRADE evaluation of the quality of evidence for interventions. In this systematic review we present information relating to the effectiveness and safety of the following interventions: applications (apps) or online programmes used as an adjunct to face-to-face therapy, delivery of self-help online, and delivery of therapy online.

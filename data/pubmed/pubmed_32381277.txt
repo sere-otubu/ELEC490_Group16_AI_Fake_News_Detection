@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Schizophrenia
+TITLE: Epigenetic Modifications in Schizophrenia and Related Disorders: Molecular Scars of Environmental Exposures and Source of Phenotypic Variability.
+PMID: 32381277
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32381277/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Epigenetic modifications are increasingly recognized to play a role in the etiology and pathophysiology of schizophrenia and other psychiatric disorders with developmental origins. Here, we summarize clinical and preclinical findings of epigenetic alterations in schizophrenia and relevant disease models and discuss their putative origin. Recent findings suggest that certain schizophrenia risk loci can influence stochastic variation in gene expression through epigenetic processes, highlighting the intricate interaction between genetic and epigenetic control of neurodevelopmental trajectories. In addition, a substantial portion of epigenetic alterations in schizophrenia and related disorders may be acquired through environmental factors and may be manifested as molecular "scars." Some of these scars can influence brain functions throughout the entire lifespan and may even be transmitted across generations via epigenetic germline inheritance. Epigenetic modifications, whether caused by genetic or environmental factors, are plausible molecular sources of phenotypic heterogeneity and offer a target for therapeutic interventions. The further elucidation of epigenetic modifications thus may increase our knowledge regarding schizophrenia's heterogeneous etiology and pathophysiology and, in the long term, may advance personalized treatments through the use of biomarker-guided epigenetic interventions.

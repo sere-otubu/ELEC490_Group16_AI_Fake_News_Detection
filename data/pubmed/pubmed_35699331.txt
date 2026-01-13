@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Arthritis
+TITLE: Quo vadis reactive arthritis?
+PMID: 35699331
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35699331/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+We provide an overview of recent articles which describe new thinking regarding HLA-B27-associated reactive arthritis (ReA), including those additional infection-related arthritides triggered by microbes that often are grouped under the term ReA. With the advent and continuation of the pandemic, an increasing number of cases and case series of post-COVID-19 arthritis have been reported and classified as ReA. Further, arthritis after COVID-19 vaccination is a new entity included within the spectrum of ReA. New causative microorganisms identified in case reports include Clostridium difficile, Mycoplasma pneumoniae, Giardia lamblia, Leptospira , and babesiosis. SARS-CoV-2 is emerging as a significant etiologic agent for apparent ReA. It is now clear that comprehensive clinical and laboratory investigations, synovial fluid analyses, and close follow-up of patients all are essential to differentiate ReA from diseases that may present with similar clinical attributes. Further, and importantly, additional research is required to define the wide diversity in causative agents, epidemiology, and rare case presentations of these arthritides. Finally, new classification and diagnostic criteria, and updated treatment recommendations, are essential to the advancement of our understanding of ReA.

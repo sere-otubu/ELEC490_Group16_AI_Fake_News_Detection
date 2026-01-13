@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hearing aids
+TITLE: Recent developments in air-conduction hearing aids.
+PMID: 9170712
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9170712/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+From a history of hearing aids based on analog signal processing, the door has just opened to a new "room," the digital hearing aid room. Previously, the more complex signal processing schemes could be tested only at the lab and rarely in real-life environments. The advent of wearable digital hearing aids primarily means that we have much more powerful tools available now, allowing us to test various ideas for signal processing in true field tests over sufficient durations. Since the different processing schemes will be controlled by software (the program or algorithm that has been stored in the hearing aid), we will be able to design truly blind field tests for the comparison of different processing, thereby avoiding the bias for the new aid versus the old aid which has always plagued clinical trials of hearing aids thus far. It is not very likely that the digital era in hearing aids will solve all problems in a short time. I am convinced that we have just started on a slow process into this "digital room." What, precisely, we will find there of value is hard to tell, but I am equally convinced that the main effects will be of noticeable benefit to the user. It is also very likely that some of the lessons we will learn in our future digital experiments will be useful not only for air-conduction hearing aids, but also for other types of technical aids for the hearing-impaired and the deaf.

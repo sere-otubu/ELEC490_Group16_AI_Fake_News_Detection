@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tonsillitis
+TITLE: Acute tonsillitis.
+PMID: 22338587
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22338587/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Acute tonsillitis is an inflammatory process of the tonsillar tissues and is usually infectious in nature. Acute infections of the palatine tonsils predominantly occur in school-aged children, but patients of any age may be affected. Tonsillitis of viral origin is usually treated with supportive care. Bacterial tonsillitis is most commonly caused by Streptococcus pyogenes. Polymicrobial infections and viral pathogens are also important sources of infection. Penicillins remain the treatment of choice for S. pyogenes tonsillitis, and augmented aminopenicillins have gained utility in concert with the increasing incidence of beta-lactamase producing bacteria. We describe the anatomic features and the immunologic function of the palatine tonsils, including a detailed discussion of history and physical examination findings, treatment recommendations, and possible complications of acute tonsillitis. Establishing an accurate diagnosis and initiating appropriate treatment are key components of managing this common pathologic process.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Global health initiatives
+TITLE: Lessons from Nigeria's Adaptation of Global Health Initiatives during the COVID-19 Pandemic.
+PMID: 36502443
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36502443/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Nigeria receives funds from several global health initiatives that are aimed at addressing elevated risks and overall burden of infectious disease outbreaks. These funds include the Global Fund to Fight AIDS, Tuberculosis and Malaria; US President's Emergency Plan for AIDS Relief; US President's Malaria Initiative; and Global Polio Eradication Initiative. These initiatives have contributed to a substantial reduction in illness and death from HIV, tuberculosis, malaria, and polio. However, Nigeria has experienced mixed success with leveraging the capacities built through these donor-funded vertical programs to respond to new health threats. This report describes experiences using resources from vertical disease programs by the Nigeria Centre for Disease Control in response to the 2014-2016 Ebola outbreak in West Africa and the COVID-19 pandemic. Integrating resources from different disease programs with government-led systems and institutions will improve responses to endemic outbreaks and preparedness for future pandemics in Nigeria.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: ADHD
+TITLE: Adult ADHD: A new disease?
+PMID: 27052374
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27052374/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Until recently, it was believed that attention deficit and hyperactivity disorder (ADHD) are outgrown by the end of adolescence and the beginning of adulthood. The purpose of this review is to describe the characteristics of the disease in adults, depict comorbidities that accompany it, and expand the scope over methods of diagnosis and treatment of these ages. A search was conducted in the PubMed/MEDLINE database for relevant key words 'ADHD', 'attention deficit', 'hyperactivity' and 'adult'. Secondary search parameters were 'comorbid', 'prevalence', 'epidemiology', 'therapy' and 'drug therapy'. Search was limited to 'English' and 'Humans'. Over the years, the persistent nature of the disorder has been clarified, elucidating prevalence rate, gender differences and subtype shifts among adult ADHD population. Nevertheless, even today, there is only limited awareness of the existence of the disorder across one's lifespan, its consequences and the appropriate treatment. Our results emphasise the growing awareness of adult psychosocial impairments due to ADHD symptoms and comorbidities, as well as the need for further collaboration among practitioners and mental health-care professionals to better identify the condition and allow for effective treatment.

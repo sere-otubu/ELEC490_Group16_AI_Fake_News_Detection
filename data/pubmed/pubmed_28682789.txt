@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Environmental health
+TITLE: Environmental health disparities in the Central Appalachian region of the United States.
+PMID: 28682789
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28682789/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Health disparities that cannot be fully explained by socio-behavioral factors persist in the Central Appalachian region of the United States. A review of available studies of environmental impacts on Appalachian health and analysis of recent public data indicates that while disparities exist, most studies of local environmental quality focus on the preservation of nonhuman biodiversity rather than on effects on human health. The limited public health studies available focus primarily on the impacts of coal mining and do not measure personal exposure, constraining the ability to identify causal relationships between environmental conditions and public health. Future efforts must engage community members in examining all potential sources of environmental health disparities to identify effective potential interventions.

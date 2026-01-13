@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hypotension
+TITLE: [Orthostatic hypotension: marker of severity and management of antihypertensive treatment].
+PMID: 22480861
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22480861/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Orthostatic Hypotension (OH) is an independent predictor of cardiovascular disease and of all-cause mortality. It is a marker of poor prognosis in older and middle-aged patients. It should be primarily sought, at diagnosis of hypertension, at therapeutic modification, and when suspected by symptoms. One must make therapeutic decisions in older patients, based on measured blood pressure in standing position. Before blaming the antihypertensive treatment, one must search for other contexts favoring orthostatic hypotension. The antihypertensive treatment in older patients should: be initiated with low dosages and subsequent dose titration, be associated to lifestyle changes, not be associated to medications that have the potential to induce Orthostatic Hypotension, include a clear information about Orthostatic Hypotension (recognition, preventive measures…).

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Processed foods
+TITLE: The Detrimental Impact of Ultra-Processed Foods on the Human Gut Microbiome and Gut Barrier.
+PMID: 40077728
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40077728/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ultra-processed foods (UPFs) have become a widely consumed food category in modern diets. However, their impact on gut health is raising increasing concerns. This review investigates how UPFs impact the gut microbiome and gut barrier, emphasizing gut dysbiosis and increased gut permeability. UPFs, characterized by a high content of synthetic additives and emulsifiers, and low fiber content, are associated with a decrease in microbial diversity, lower levels of beneficial bacteria like <i>Akkermansia muciniphila</i> and <i>Faecalibacterium prausnitzii</i>, and an increase in pro-inflammatory microorganisms. These alterations in the microbial community contribute to persistent inflammation, which is associated with various chronic disorders including metabolic syndrome, irritable bowel syndrome, type 2 diabetes, and colorectal cancer. In addition, UPFs may alter the gut-brain axis, potentially affecting cognitive function and mental health. Dietary modifications incorporating fiber, fermented foods, and probiotics can help mitigate the effects of UPFs. Furthermore, the public needs stricter regulations for banning UPFs, along with well-defined food labels. Further studies are necessary to elucidate the mechanisms connecting UPFs to gut dysbiosis and systemic illnesses, thereby informing evidence-based dietary guidelines.

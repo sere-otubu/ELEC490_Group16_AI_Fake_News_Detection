@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Concussion
+TITLE: Concussion is not associated with elevated rates of lower-extremity musculoskeletal injuries in National Football League Players.
+PMID: 35591786
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35591786/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Emerging evidence has identified an ~2x elevated risk of musculoskeletal (MSK) injury in the year following a concussion. Most of these studies have examined a single college/university athletic department and may lack generalizability to professional sports. Therefore, the purpose of this study was to assess the odds of post-concussion MSK injury utilizing publicly available National Football League (NFL) injury reports. Concussions were identified through a review of published NFL injury reports during the 2015, 2016, and 2017 regular seasons. Concussed players were matched by team and position, and injuries were tracked for both groups for the remainder of the season. A chi-square analysis compared the frequency of MSK injury in both groups and a Cox Proportional Hazard model calculated the risk of sustaining a subsequent MSK injury. There were 322 concussed NFL players who met inclusion criteria and were successfully matched. From the time of concussion through the remainder of the season, 21.4% of the concussed players were injured and 26.4% of control participants were injured. There was no difference in MSK injury rates (p = 0.166), and the relative risk ratio was 0.90 for subsequent injury in the concussion group. There was no difference in the time to event for subsequent MSK between the two groups (p = 0.123). The primary finding of this study was no elevated risk of post-concussion MSK in NFL football players.

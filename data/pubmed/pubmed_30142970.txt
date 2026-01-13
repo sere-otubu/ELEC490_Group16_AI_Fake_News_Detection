@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Atherosclerosis
+TITLE: Research Progress on the Relationship between Atherosclerosis and Inflammation.
+PMID: 30142970
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30142970/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Atherosclerosis is a chronic inflammatory disease; unstable atherosclerotic plaque rupture, vascular stenosis, or occlusion caused by platelet aggregation and thrombosis lead to acute cardiovascular disease. Atherosclerosis-related inflammation is mediated by proinflammatory cytokines, inflammatory signaling pathways, bioactive lipids, and adhesion molecules. This review discusses the effects of inflammation and the systemic inflammatory signaling pathway on atherosclerosis, the role of related signaling pathways in inflammation, the formation of atherosclerosis plaques, and the prospects of treating atherosclerosis by inhibiting inflammation.

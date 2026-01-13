@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ovarian cancer
+TITLE: Ovarian Cancer: An Overview.
+PMID: 32606233
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32606233/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ovarian cancer currently is the fifth leading cause of cancer-related deaths among women in the United States, and approximately 140 000 women die globally per year of ovarian cancer. This debilitating disease presents subtly, and when it is diagnosed, treatment options often are limited. To provide care that is most favorable for the patient, health care professionals must have a basic understanding of the signs and symptoms of ovarian cancer and the imaging tools and treatment options available. This article provides a succinct overview of ovarian cancer, including diagnostic imaging.

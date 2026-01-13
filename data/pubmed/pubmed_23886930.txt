@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Arthritis
+TITLE: [Juvenile idiopathic arthritis].
+PMID: 23886930
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23886930/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Juvenile idiopathic arthritis is a broad term that describes a clinically heterogeneous group of arthritides of unknown cause, which begin before 16 years of age. This term encompasses several disease categories, each of which has distinct clinical signs and, in some cases, genetic background. The cause of disease is still poorly understood but seems to be related to both genetic and environmental factors. Prognosis has greatly improved as a result of substantial progresses in disease management. The most important new development has been the introduction of drugs such as anticytokine agents, which constitute a valuable treatment option for patients who are resistant to conventional antirheumatic agents. Further insights into the disease pathogenesis and treatment will be provided by the continuous advances in the understanding of the mechanisms connected to the immune response and inflammatory process, and by the development of more efficient new drugs.

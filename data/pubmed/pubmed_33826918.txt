@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insulin regulation
+TITLE: The many actions of insulin in skeletal muscle, the paramount tissue determining glycemia.
+PMID: 33826918
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33826918/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+As the principal tissue for insulin-stimulated glucose disposal, skeletal muscle is a primary driver of whole-body glycemic control. Skeletal muscle also uniquely responds to muscle contraction or exercise with increased sensitivity to subsequent insulin stimulation. Insulin's dominating control of glucose metabolism is orchestrated by complex and highly regulated signaling cascades that elicit diverse and unique effects on skeletal muscle. We discuss the discoveries that have led to our current understanding of how insulin promotes glucose uptake in muscle. We also touch upon insulin access to muscle, and insulin signaling toward glycogen, lipid, and protein metabolism. We draw from human and rodent studies in vivo, isolated muscle preparations, and muscle cell cultures to home in on the molecular, biophysical, and structural elements mediating these responses. Finally, we offer some perspective on molecular defects that potentially underlie the failure of muscle to take up glucose efficiently during obesity and type 2 diabetes.

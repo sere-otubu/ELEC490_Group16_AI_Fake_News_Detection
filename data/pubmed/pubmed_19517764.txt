@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Carpal tunnel syndrome
+TITLE: Carpal tunnel syndrome.
+PMID: 19517764
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19517764/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Carpal tunnel syndrome is a very common peripheral neuropathy; however, its symptoms are such that they are often overlooked by patients or misdiagnosed by their primary care physicians or nurse practitioners, leading to progression of the condition so severe that sometimes even surgical options will be of little benefit. This article reviews current literature on carpal tunnel syndrome and its signs and symptoms, diagnosis and differential diagnosis, and treatment options.

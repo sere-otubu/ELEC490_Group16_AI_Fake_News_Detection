@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HIIT training
+TITLE: HIIT is superior than MICT on cardiometabolic health during training and detraining.
+PMID: 33000332
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33000332/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This study investigated the cardiometabolic health of overweight/obese untrained individuals in response to 8 weeks of HIIT and MICT using a field approach, and to 4 weeks of training cessation (TC). Twenty-two subjects performed 8 weeks of moderate intensity continuous training (MICT-n = 11) or high-intensity interval training (HIIT-n = 11) (outdoor running), followed by 4 weeks of TC. Cardiorespiratory fitness, body composition, arterial blood pressure, glucose metabolism and blood lipids were measured pre-training (PRE), post-training (POST) and TC. HIIT improved eight indicators of cardiometabolic health ([Formula: see text], BMI, body fat, visceral fat, systolic blood pressure, total cholesterol, fasting glucose and triglycerides-p  < 0.05) while MICT only three ([Formula: see text], BMI, and visceral fat-p  < 0.05). After 4 weeks of TC, four positive adaptations from HIIT were negatively affected ( [Formula: see text], visceral fat, systolic blood pressure and total cholesterol-p  < 0.05) and three in the MICT group ([Formula: see text], BMI and visceral fat, p  < 0.05). Eight weeks of HIIT performed in a real-world setting promoted a greater number of positive adaptations in cardiometabolic health of individuals with overweight/obese compared to MICT. Most of the positive effects of the HIIT protocol were also found to be longer lasting and maintained after the suspension of high-intensity interval running for 4 weeks. Conversely, all positive effects of MICT protocols were reversed after TC.

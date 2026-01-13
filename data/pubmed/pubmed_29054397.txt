@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immunosuppressants
+TITLE: Tolerance in clinical liver transplantation.
+PMID: 29054397
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29054397/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+While advances in immunosuppressive therapy have lowered the rate of acute rejection following liver transplantation, the consequence has been an increase in morbidity and mortality related to the lifelong need for maintenance immunosuppression. These complications include an increased risk of malignancy, infection, metabolic disorders, and chronic kidney disease, as well as high health care costs associated with these therapies and the required drug monitoring. Given these issues, most clinicians attempt trial and error dose minimization with variable success rates, and there has been significant interest in full drug withdrawal in select patients through research protocols. These strategies would be more successful if immunomodulatory therapies early after transplantation could be developed and if immune activation biomarkers guiding drug tapering were available to personalize these approaches. This review will review the mechanisms of liver transplant tolerance and potential strategies to achieve immunosuppression withdrawal.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Neurotransmitters
+TITLE: Interaction of neurotransmitters and neurochemicals with lymphocytes.
+PMID: 30999218
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30999218/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Neurotransmitters and neurochemicals can act on lymphocytes by binding to receptors expressed by lymphocytes. This review describes lymphocyte expression of receptors for a selection of neurotransmitters and neurochemicals, the anatomical locations where lymphocytes can interact with neurotransmitters, and the effects of the neurotransmitters on lymphocyte function. Implications for health and disease are also discussed.

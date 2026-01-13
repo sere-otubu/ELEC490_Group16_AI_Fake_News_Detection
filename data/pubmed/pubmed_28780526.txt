@@ -1,0 +1,8 @@
+SEARCH_TOPIC: IVF procedure
+TITLE: Voluntary sterilisation and access to IVF in Québec.
+PMID: 28780526
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28780526/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Bill 20, An Act to Enact the Act to promote access to family medicine and specialized medicine services and to amend various legislative provisions relating to assisted procreation, was introduced to reduce costs associated with Québec's healthcare in general and in vitro fertilisation (IVF) in particular. Passed in November 2015, the new law introduces a number of exclusion criteria for access to and funding for IVF treatment. Remarkably, one exclusion criterion-prior voluntary sterilisation-has prompted little critical commentary. The two justifications offered for restricting funding for IVF on the basis of voluntary sterilisation are that (1) there are cheaper options than IVF for sterilised individuals who want children, and (2) society should not have to pay for IVF for persons who are infertile by choice. I argue that both of these justifications are unsatisfactory, insofar as they contravene the chief value underlying, and current practices of, Canadian healthcare, and rely on problematic ascriptions of personal responsibility for health.

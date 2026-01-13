@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Typhoid fever
+TITLE: Neonatal typhoid fever.
+PMID: 7808844
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7808844/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Typhoid fever occurs in children less than 2 years of age but is thought to be a mild, often unrecognized illness. Neonatal typhoid fever is a rare but often life-threatening illness, uniformly fatal in the preantibiotic era. Vertical intrauterine transmission from a typhoid-infected mother is implicated in neonatal typhoid fever. Ten cases at a rural African hospital are presented. Three patients died with two deaths associated with empiric management inappropriate for Salmonella typhi. A second clinical presentation in the neonate is asymptomatic persistent excretion. Infants < or = 3 weeks old may also be infected from an exogenous source and have severe disease. Where typhoid is endemic S. typhi should be considered as a cause of sepsis neonatorum and appropriate antibiotics included in empiric therapy.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Massage therapy
+TITLE: Massage therapy for weight gain in preterm neonates: A systematic review and meta-analysis of randomized controlled trials.
+PMID: 32379694
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32379694/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Weight gain is the main criterion for hospital discharge. This study measured the effectiveness of treating preterm neonates with massage therapy. Systematic review and meta-analysis of randomized controlled trials. Web of Science, Ovid-Medline, CINAHL, ProQuest, and PubMed (up to July 24, 2018). Randomized controlled trials involving preterm infants with very-low-birth weight or low-birth-weight that examined the effect of massage therapy, and at least one outcome assessing infants' weight change or weight gain. Pooled effect estimate from 15 trials with 697 participants showed that massage therapy improved daily weight gain by 5.07 g/day (95% CI 2.19-7.94, p = 0.0005). More benefits were observed when preterm neonates received moderate pressure massage (5.60 g/day, 95% CI 2.64-8.56, p = 0.0002) than when receiving light-pressure therapy (1.08 g/day, 95% CI 0.29-1.86, p = 0.007). Massage therapy is beneficial for preterm infant weight gain.

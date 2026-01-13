@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Clinical trial phases
+TITLE: Reinventing clinical trials: a review of innovative biomarker trial designs in cancer therapies.
+PMID: 25921239
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25921239/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Recently, new clinical trial designs involving biomarkers have been studied and proposed in cancer clinical research, in the hope of incorporating the rapid growing basic research into clinical practices. Journal articles related to various biomarkers and their role in cancer clinical trial, articles and books about statistical issues in trial design, and regulatory website, documents, and guidance for submission of targeted cancer therapies. The drug development process involves four phases. The confirmatory Phase III is essential in regulatory approval of a special treatment. Regulatory agency has restrictions on confirmatory trials 'using adaptive designs'. No rule of thumb to pick the most appropriate design for biomarker-related trials. Statistical issues to solve in new designs. Regulatory acceptance of the 'newly proposed trial designs'. Biomarker-related trial designs that can resolve the statistical issues and satisfy the regulatory requirement.

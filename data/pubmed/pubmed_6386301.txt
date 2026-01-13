@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ulcerative colitis
+TITLE: Ulcerative colitis.
+PMID: 6386301
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6386301/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although the forms of treatment discussed are helpful in alleviating symptoms and reducing inflammation, none is specific for ulcerative colitis. The cause of the disease is unknown at present. When the etiology of ulcerative colitis is uncovered, specific therapy will, hopefully, avoid the local systemic complications of both the disease and treatment.

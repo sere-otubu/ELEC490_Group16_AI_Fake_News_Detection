@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Muscular system
+TITLE: Low immunogenicity of LNP allows repeated administrations of CRISPR-Cas9 mRNA into skeletal muscle in mice.
+PMID: 34880218
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34880218/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Genome editing therapy for Duchenne muscular dystrophy (DMD) holds great promise, however, one major obstacle is delivery of the CRISPR-Cas9/sgRNA system to skeletal muscle tissues. In general, AAV vectors are used for in vivo delivery, but AAV injections cannot be repeated because of neutralization antibodies. Here we report a chemically defined lipid nanoparticle (LNP) system which is able to deliver Cas9 mRNA and sgRNA into skeletal muscle by repeated intramuscular injections. Although the expressions of Cas9 protein and sgRNA were transient, our LNP system could induce stable genomic exon skipping and restore dystrophin protein in a DMD mouse model that harbors a humanized exon sequence. Furthermore, administration of our LNP via limb perfusion method enables to target multiple muscle groups. The repeated administration and low immunogenicity of our LNP system are promising features for a delivery vehicle of CRISPR-Cas9 to treat skeletal muscle disorders.

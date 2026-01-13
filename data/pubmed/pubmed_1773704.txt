@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Protein intake
+TITLE: Influence of dietary protein intake on whole-body protein turnover in humans.
+PMID: 1773704
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1773704/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Methods for measuring rates of protein synthesis and degradation in the whole body of humans with isotopes of carbon and nitrogen are described and attention is drawn to their relative merits and drawbacks for studying the nutritional control of protein metabolism. A review of published work on dietary protein and protein metabolism leads to the conclusion that protein is the major dietary determinant of whole-body protein turnover rates, and that energy intake is comparatively unimportant. Dietary protein affects protein turnover at two levels: an immediate response to the intake of protein in meals and a longer-term adaptation after a change in protein intake. An increase in the level of dietary protein enhances the response to meals, which mainly consists of a decrease in the rate of protein degradation. The adaptation to higher protein intakes involves an increase in the basal (postabsorptive) rates of both synthesis and degradation. Suggestions for future investigation include more detailed studies of the acute and adaptive responses, to facilitate understanding of dietary protein requirements, and the effects of very-high-protein intakes with continued development of techniques for studying protein turnover in individual tissues in humans.

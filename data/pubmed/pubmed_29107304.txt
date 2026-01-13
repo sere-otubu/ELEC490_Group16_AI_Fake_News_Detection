@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pain management
+TITLE: The Role of Pain Classification Systems in Pain Management.
+PMID: 29107304
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29107304/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Pain is a multidimensional experience that can significantly impair an individual's quality of life. This article describes the pain classification systems, including anatomic, etiologic, intensity, duration, pathophysiological, and conditions that are not easily classified. A holistic approach is taken by addressing key components to assist with effective pain management, including the psychological and spiritual aspects of care. A case study scenario demonstrates the implementation of pain classifications in pain management. Also discussed are current controversies, potential genetic impacts, and the barriers chronic pain sufferers face, including addiction, diversion, and socioeconomic factors.

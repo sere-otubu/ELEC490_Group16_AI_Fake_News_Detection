@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cell division mitosis
+TITLE: Observations on cell growth, mitosis, and division in the fungus Basidiobolus ranarum.
+PMID: 13974404
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/13974404/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The paper describes the forward streaming, growth, and division of the vegetative cell of Basidiobolus ranarum. The cell is several hundred microns long and has a single large nucleus. Mitosis is invariably followed by cell division. Both processes have been studied in the living cell by ordinary and phase contrast microscopy. Mitosis is accompanied by a temporary coarsening of the organisation of the cytoplasm and a considerable slowing down of the rate of growth of the cell wall tube. Fixed and stained preparations have shown that there is a large number of small chromosomes and that the mitotic spindle is formed from the nucleolus. Basidiobolus appears suitable for observations on the cell duplication cycle and the physiology of mitosis.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Skeletal system
+TITLE: Brain and Muscle: How Central Nervous System Disorders Can Modify the Skeletal Muscle.
+PMID: 33291835
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33291835/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+It is widely known that nervous and muscular systems work together and that they are strictly dependent in their structure and functions. Consequently, muscles undergo macro and microscopic changes with subsequent alterations after a central nervous system (CNS) disease. Despite this, only a few researchers have addressed the problem of skeletal muscle abnormalities following CNS diseases. The purpose of this review is to summarize the current knowledge on the potential mechanisms responsible for changes in skeletal muscle of patients suffering from some of the most common CSN disorders (Stroke, Multiple Sclerosis, Parkinson's disease). With this purpose, we analyzed the studies published in the last decade. The published studies show an extreme heterogeneity of the assessment modality and examined population. Furthermore, it is evident that thanks to different evaluation methodologies, it is now possible to implement knowledge on muscle morphology, for a long time limited by the requirement of muscle biopsies. This could be the first step to amplify studies aimed to analyze muscle characteristics in CNS disease and developing rehabilitation protocols to prevent and treat the muscle, often neglected in CNS disease.

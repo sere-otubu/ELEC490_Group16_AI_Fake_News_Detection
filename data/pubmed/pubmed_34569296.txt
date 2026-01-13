@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tonsillitis
+TITLE: TikTok Tonsils.
+PMID: 34569296
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34569296/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There has been a subjective increase in the number of patients presenting for tonsil stones to our pediatric otolaryngology clinic. This may be related to frequent viewing of videos on the social media application, TikTok, pertaining to tonsil stones.

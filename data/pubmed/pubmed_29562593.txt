@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Kidney stones
+TITLE: Vitamin D, Hypercalciuria and Kidney Stones.
+PMID: 29562593
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29562593/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The estimated lifetime risk of nephrolithiasis is growing nowadays, and the formation of kidney stones is frequently promoted by hypercalciuria. Vitamin D, and especially its active metabolite calcitriol, increase digestive calcium absorption-as urinary calcium excretion is directly correlated with digestive calcium absorption, vitamin D metabolites could theoretically increase calciuria and promote urinary stone formation. Nevertheless, there was, until recently, low evidence that 25-hydroxyvitamin D serum levels would be correlated with kidney stone formation, even if high calcitriol concentrations are frequently observed in hypercalciuric stone formers. Low 25-hydroxyvitamin D serum levels have been associated with a broad spectrum of diseases, leading to a huge increase in vitamin D prescription in the general population. In parallel, an increased frequency of kidney stone episodes has been observed in prospective studies evaluating vitamin D alone or in association with calcium supplements, and epidemiological studies have identified an association between high 25-hydroxyvitamin D serum levels and kidney stone formation in some groups of patients. Moreover, urinary calcium excretion has been shown to increase in response to vitamin D supplements, at least in some groups of kidney stone formers. It seems likely that predisposed individuals may develop hypercalciuria and kidney stones in response to vitamin D supplements.

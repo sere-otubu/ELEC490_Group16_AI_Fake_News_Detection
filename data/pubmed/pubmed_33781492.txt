@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rheumatoid arthritis
+TITLE: Why It Hurts: The Mechanisms of Pain in Rheumatoid Arthritis.
+PMID: 33781492
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33781492/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Pain is a near-universal feature of rheumatoid arthritis, but peripheral joint inflammation may not suffice to explain the etiology of pain in all patients with rheumatoid arthritis. Inflammation in rheumatoid arthritis releases several algogens that may generate pain. Also, central nervous system processes may play a crucial role in the regulation and perpetuation of pain. Several methods for assessing pain in rheumatoid arthritis exist, and recently the role of assessing therapeutics in treating specific etiologies of pain has gained interest.

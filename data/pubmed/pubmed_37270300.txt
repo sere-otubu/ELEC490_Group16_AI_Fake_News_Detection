@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Male infertility
+TITLE: Imaging in Male Infertility.
+PMID: 37270300
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37270300/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Infertility is defined as inability to conceive despite regular unprotected sexual intercourse for greater than 1 year. Conditions involving the male partner accounts for the infertility in approximately 50% of cases. The goals of imaging in male infertility are to detect treatable/ reversible causes, imaging for sperm retrieval from testis or epididymis for assisted reproductive techniques like in vitro fertilization or intracytoplasmic sperm injection and to provide appropriate genetic counselling for prevention of occurrence of disease in future offspring. The purpose of this article is to describe imaging features in various causes of male infertility to acquaint radiologists with various imaging appearances of causes of male infertility to avoid missing these pathologies.

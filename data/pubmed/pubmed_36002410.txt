@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Plant based protein
+TITLE: [Improving the production of plant-based recombinant protein: a review].
+PMID: 36002410
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36002410/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Recombinant proteins provide new means for disease treatment, while creating considerable economic benefits. Using commercial crops (mainly tobacco), cereal crops, legumes, and vegetable crops to produce recombinant proteins with medicinal value is a hot-spot for research in "molecular farming". Although many recombinant proteins have been expressed in plants, only a small number have been successfully put into use. To overcome the problems that greatly hamper the development of recombinant protein production in plants, researchers have improved expression systems to increase the yield of recombinant proteins. Starting from analyzing the problems of low yield and/or low biological activity of recombinant proteins produced by plants, the optimization strategies to solve these problems were reviewed, and future research directions for improving the yield of recombinant proteins produced by plants were proposed.

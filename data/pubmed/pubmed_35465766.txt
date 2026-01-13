@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Integrative health
+TITLE: A Systematic Literature Review of Health Center Efforts to Address Social Determinants of Health.
+PMID: 35465766
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35465766/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Health centers (HCs) play a crucial and integral role in addressing social determinants of health (SDOH) among vulnerable and underserved populations, yet data on SDOH assessment and subsequent actions is limited. We conducted a systematic review to understand the existing evidence of integration of SDOH into HC primary-care practices. Database searches yielded 3,516 studies, of which 41 articles met the inclusion criteria. A majority of studies showed that HCs primarily captured patient-level rather than community-level SDOH data. Studies also showed that HCs utilized SDOH in electronic health records but capabilities varied widely. A few studies indicated that HCs measured health-related outcomes of integrating SDOH data. The review highlighted that many knowledge gaps exist in the collection, use, and assessment of impact of these data on outcomes, and future research is needed to address this knowledge gap.

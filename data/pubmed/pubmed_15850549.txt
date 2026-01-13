@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insulin therapy
+TITLE: Making the transition from oral to insulin therapy.
+PMID: 15850549
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15850549/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The typically long delay in starting insulin for patients with type 2 diabetes mellitus may be due in part to uncertainty about how best to make the transition from oral therapy to insulin. Recent studies show that when appropriate glycemic targets are sought, with systematic titration of insulin dosage, several methods of beginning insulin may be successful. Notably, either starting with a single injection of basal insulin or starting with 3 injections of short-acting insulin at mealtimes can be effective. Studies also suggest that continuing oral therapies and using insulin analogues rather than human insulins may improve the effectiveness of insulin treatment relative to the rate of hypoglycemia and gain of weight typically seen in this setting. Starting with a single injection of insulin to control basal glycemia while continuing oral therapy is the simplest approach, and lends itself to stepwise addition of mealtime injections as needed to bring most patients to glycemic targets in a logical and practical way. Future studies should consider not only the ability of regimens to reach hemoglobin A(1c) targets but also the burden of adverse effects accompanying this effort with a given method.

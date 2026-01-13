@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Spinal cord injury
+TITLE: Update on Spinal Cord Injury Management.
+PMID: 32235169
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32235169/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The management of acute spinal cord injury requires a multidisciplinary approach to maximize patient outcomes and potential. Treatment of this injury involves both surgical and medical intervention. Medical intervention in acute spinal cord injury is aimed at decreasing the neurotoxic environment that occurs as part of the secondary injury. New neuroregenerative therapies are being developed.

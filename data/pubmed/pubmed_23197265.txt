@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cataract surgery
+TITLE: Cataract surgery in patients with corneal disease.
+PMID: 23197265
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23197265/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Preexisting corneal disease can be exacerbated by cataract surgery and may prevent well tolerated cataract extraction. This article reviews the current literature and describes how corneal epithelial, stromal and endothelial disease may impact and be impacted by cataract surgery while highlighting recommendations for perioperative management and surgical technique. Modifications to surgical techniques can allow for improved intraoperative visualization and safer cataract removal. Cataract surgery can be safely performed in conjunction with newer forms of corneal transplantation such as deep anterior lamellar keratoplasty and endothelial keratoplasty; however, guidelines for when to perform combined surgery have not been established. Appropriate perioperative management and advances in surgical techniques and technologies allow for successful cataract surgery in patients with corneal disease. Signs of corneal disease should be identified preoperatively to allow for surgical planning and optimal visual outcomes.

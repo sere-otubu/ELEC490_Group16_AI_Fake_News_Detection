@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Bipolar disorder
+TITLE: Bipolar disorder in adolescence.
+PMID: 24298757
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24298757/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Bipolar disorder is a serious psychiatric condition that may have onset in childhood. It is important for physicians to recognize the symptoms of bipolar disorder in children and adolescents in order to accurately diagnose this illness early in its course. Evidence regarding the efficacy of various treatments is necessary to guide the management of bipolar disorder in youth. For example, several medications commonly used for adults with bipolar disorder have not shown efficacy for children and adolescents with bipolar disorder. This article reviews the prevalence, diagnosis, course, and treatment of bipolar disorder in children and adolescents and provides physicians with information that will aid in diagnosis and treatment.

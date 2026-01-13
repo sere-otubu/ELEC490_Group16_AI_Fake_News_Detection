@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Coronary artery disease
+TITLE: Myocardial Perfusion and Viability Imaging in Coronary Artery Disease: Clinical Value in Diagnosis, Prognosis, and Therapeutic Guidance.
+PMID: 33864764
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33864764/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Coronary artery disease is a leading cause of morbidity and mortality worldwide. Noninvasive imaging tests play a significant role in diagnosing coronary artery disease, as well as risk stratification and guidance for revascularization. Myocardial perfusion imaging, including single photon emission computed tomography and positron emission tomography, has been widely employed. In this review, we will review test accuracy and clinical significance of these methods for diagnosing and managing coronary artery disease. We will further discuss the comparative usefulness of other noninvasive tests-stress echocardiography, coronary computed tomography angiography, and cardiac magnetic resonance imaging-in the evaluation of ischemia and myocardial viability.

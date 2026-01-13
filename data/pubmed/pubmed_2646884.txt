@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Nicotine dependence
+TITLE: Nicotine dependence.
+PMID: 2646884
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2646884/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Nicotine is a psychoactive drug with effects that reinforce tobacco use despite known adverse health consequences. Nicotine dependence can be effectively treated. Family physicians are in an excellent position to promote both smoking cessation and smoking prevention.

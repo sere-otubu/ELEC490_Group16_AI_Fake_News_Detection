@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Syphilis
+TITLE: Syphilis in Pregnancy and Congenital Syphilis.
+PMID: 39576996
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39576996/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Syphilis, once in decline, is seeing a rapid re-emergence throughout the United States. A sexually transmitted infection caused by the spirochete Treponema pallidum, syphilis infection in pregnancy can result in serious complications and have a profound impact on maternal and neonatal health. As rates of syphilis have increased among people of reproductive age, so too have cases of congenital syphilis. In 2021, congenital syphilis rates in the United States reached a 30-year high.1 This article provides a review of syphilis in pregnancy and congenital syphilis to help clinicians respond to this emerging public health concern.

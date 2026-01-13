@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anorexia nervosa
+TITLE: The endocrine manifestations of anorexia nervosa: mechanisms and management.
+PMID: 27811940
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27811940/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Anorexia nervosa is a psychiatric disorder characterized by altered body image, persistent food restriction and low body weight, and is associated with global endocrine dysregulation in both adolescent girls and women. Dysfunction of the hypothalamic-pituitary axis includes hypogonadotropic hypogonadism with relative oestrogen and androgen deficiency, growth hormone resistance, hypercortisolaemia, non-thyroidal illness syndrome, hyponatraemia and hypooxytocinaemia. Serum levels of leptin, an anorexigenic adipokine, are suppressed and levels of ghrelin, an orexigenic gut peptide, are elevated in women with anorexia nervosa; however, levels of peptide YY, an anorexigenic gut peptide, are paradoxically elevated. Although most, but not all, of these endocrine disturbances are adaptive to the low energy state of chronic starvation and reverse with treatment of the eating disorder, many contribute to impaired skeletal integrity, as well as neuropsychiatric comorbidities, in individuals with anorexia nervosa. Although 5-15% of patients with anorexia nervosa are men, only limited data exist regarding the endocrine impact of the disease in adolescent boys and men. Further research is needed to understand the endocrine determinants of bone loss and neuropsychiatric comorbidities in anorexia nervosa in both women and men, as well as to formulate optimal treatment strategies.

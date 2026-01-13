@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Maternal mortality rates
+TITLE: Causes of Maternal Mortality in Rwanda, 2017-2019.
+PMID: 34623066
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34623066/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To assess the causes of maternal mortality at a referral hospital in Rwanda. A secondary data analysis of 217 women with recorded maternal mortality from 2017 to 2019 was conducted among 11,308 total maternal admissions. Demographics, diagnosis, management, referring hospital source, and outcomes were recorded. The mean (±SD) age of maternal death was 30.7±7.2 years (range 16-57 years). The overall maternal mortality rate was 1.99%, with yearly rates of 2.45%, 2.53%, and 1.84% in 2017, 2018, and 2019, respectively. A significant seasonal variation was noted. Sepsis was the most common cause of maternal death (50%), followed by hemorrhage (19%) and hypertensive disorders (15%). Causes of maternal deaths included preeclampsia (13%) and abortion (8%). Furthermore, 82% of all the deaths were referrals from smaller community hospitals. Maternal death due to sepsis remain a major cause of maternal deaths in Rwanda. Infection prevention and the early diagnosis and management of sepsis must be a priority in reducing maternal mortality.

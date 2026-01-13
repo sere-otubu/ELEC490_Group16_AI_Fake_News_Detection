@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Muscular system
+TITLE: Misregulation of the Ubiquitin-Proteasome System and Autophagy in Muscular Dystrophies Associated with the Dystrophin-Glycoprotein Complex.
+PMID: 40422224
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40422224/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The stability of the sarcolemma is severely impaired in a series of genetic neuromuscular diseases defined as muscular dystrophies. These are characterized by the centralization of skeletal muscle syncytial nuclei, the replacement of muscle fibers with fibrotic tissue, the release of inflammatory cytokines, and the disruption of muscle protein homeostasis, ultimately leading to necrosis and loss of muscle functionality. A specific subgroup of muscular dystrophies is associated with genetic defects in components of the dystrophin-glycoprotein complex (DGC), which plays a crucial role in linking the cytosol to the skeletal muscle basement membrane. In these cases, dystrophin-associated proteins fail to correctly localize to the sarcolemma, resulting in dystrophy characterized by an uncontrolled increase in protein degradation, which can ultimately lead to cell death. In this review, we explore the role of intracellular degradative pathways-primarily the ubiquitin-proteasome and autophagy-lysosome systems-in the progression of DGC-linked muscular dystrophies. The DGC acts as a hub for numerous signaling pathways that regulate various cellular functions, including protein homeostasis. We examine whether the loss of structural stability within the DGC affects key signaling pathways that modulate protein recycling, with a particular emphasis on autophagy.

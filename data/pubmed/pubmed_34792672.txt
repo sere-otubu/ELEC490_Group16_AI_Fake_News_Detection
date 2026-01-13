@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Autoimmune diseases
+TITLE: Deubiquitylating enzymes: potential target in autoimmune diseases.
+PMID: 34792672
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34792672/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The ubiquitin-proteasome pathway is responsible for the turnover of different cellular proteins, such as transport proteins, presentation of antigens to the immune system, control of the cell cycle, and activities that promote cancer. The enzymes which remove ubiquitin, deubiquitylating enzymes (DUBs), play a critical role in central and peripheral immune tolerance to prevent the development of autoimmune diseases and thus present a potential therapeutic target for the treatment of autoimmune diseases. DUBs function by removing ubiquitin(s) from target protein and block ubiquitin chain elongation. The addition and removal of ubiquitin molecules have a significant impact on immune responses. DUBs and E3 ligases both specifically cleave target protein and modulate protein activity and expression. The balance between ubiquitylation and deubiquitylation modulates protein levels and also protein interactions. Dysregulation of the ubiquitin-proteasome pathway results in the development of various autoimmune diseases such as inflammatory bowel diseases (IBD), psoriasis, multiple sclerosis (MS), systemic lupus erythematosus (SLE) and rheumatoid arthritis (RA). This review summarizes the current understanding of ubiquitination in autoimmune diseases and focuses on various DUBs responsible for the progression of autoimmune diseases.

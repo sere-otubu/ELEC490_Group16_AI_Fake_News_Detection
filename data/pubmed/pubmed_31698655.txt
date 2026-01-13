@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hashimotos thyroiditis
+TITLE: A model of the cost of delaying treatment of Hashimotos thyroiditis: thyroid cancer initiation and growth.
+PMID: 31698655
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31698655/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hashimoto's thyroiditis (HT) is an autoimmune disorder that drives the function of thyroid gland to the sequential clinical states:euthyroidism (normal condition), subclinical hypothyroidism (asymptomatic period) and overt hypothyroidism (symptomatic period). In this disease, serum thyroidstimulating hormone (TSH) levels increase monotonically, stimulating the thyroid follicular cells chronically and initiating benign (non-cancerous) thyroid nodules at various sites of the thyroid gland. This process can also encourage growth of papillary thyroid microcarcinoma. Due to prolonged TSH stimulation, thyroid nodules may grow and become clinically relevant without the administration of treatment by thyroid hormone replacement. Papillary thyroid cancer (80% of thyroid cancer) whose incidence is increasing worldwide, is associated with Hashimoto's thyroiditis. A stochastic model is developed here to produce the statistical distribution of thyroid nodule sizes and growth by taking serum TSH value as the continuous input to the model using TSH values from the output of the patientspecific deterministic model developed for the clinical progression of Hashimoto's thyroiditis.

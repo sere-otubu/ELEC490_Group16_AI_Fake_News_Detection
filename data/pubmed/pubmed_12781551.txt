@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hemophilia
+TITLE: Haemophilias A and B.
+PMID: 12781551
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12781551/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The haemophilias are inherited disorders in which one of the coagulation factors is deficient. Although deficiencies of factor VIII (haemophilia A) and factor IX (haemophilia B) are well recognised, von Willebrand's disease is much more common. Rare defects can occur in any of the coagulation factors. In the past, men with haemophilia were likely to die in their youth. With advances in diagnosis, and especially with development of safe and effective treatment, affected individuals can now look forward to a normal life expectancy. Complications of the disorder, particularly the development of antibodies that make treatment ineffective, and of treatment, such as transfusion-transmitted infections, have taken a severe toll on these patients. The future holds the realistic possibility of gene therapy. However, we must not forget that haemophilia is a worldwide disorder that requires significant economic resources not available for the majority.

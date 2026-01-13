@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Childhood obesity
+TITLE: Childhood obesity: increased risk for cardiometabolic disease and cancer in adulthood.
+PMID: 30529454
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30529454/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Prevalence of childhood obesity has worldwide more than doubled since 1980. Underlying factors are complex and are far from completely understood. Strategies to prevent childhood obesity have mainly focused on behavioral intervention; and obesity therapy was mainly based on lifestyle modification to date. However, effects for both have been quite limited so far and no country has succeeded in fighting the obesity epidemy we are facing. Normalization of body weight before onset of puberty is crucial for several reasons: First, obese children and adolescents frequently stay obese until adulthood. Second, obesity during adolescence is significantly associated with increased risk for cardiovascular and metabolic disease such as type 2 diabetes in adulthood. And third, recent data have shown a strong association between higher body mass index (BMI) during adolescence and increased risk for several malignancies such as leukemia, Hodgkin's disease, colorectal cancer, breast cancer and others in adulthood. This review summarizes our current understanding of epidemiology, underlying factors, concomitant disease, as well as available intervention strategies and gives an overview of what has been reached so far and what measures should be undertaken to counteract the obesogenic environment.

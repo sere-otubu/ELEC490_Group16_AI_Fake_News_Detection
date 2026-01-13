@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antivirals
+TITLE: Antivirals for Novel Influenza A Virus Infections.
+PMID: 41102616
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41102616/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Influenza A viruses of animal origin (such as avian or swine influenza A viruses), which are antigenically and genetically distinct from seasonal influenza A viruses and have infected humans, are referred to as novel influenza A viruses. Sporadic human infections with highly pathogenic avian influenza A(H5N1) viruses of a wide spectrum of illness severity in the United States and worldwide have highlighted the need for evidence-based recommendations on the use of antivirals for novel influenza A virus infections. We review the available published data on use of antivirals for humans with novel influenza A virus infections of avian [A(H5N1), A(H5N6), A(H7N7), and A(H7N9) viruses associated with severe human disease] or swine origin, and data from in vivo antiviral studies. We summarize the available evidence on the effectiveness of antiviral treatment and antiviral postexposure prophylaxis of novel influenza A virus infections, discuss considerations for use of combination therapy with antivirals of different mechanisms of action, and identify important questions to improve the evidence base and to further guide use of antivirals for treatment and postexposure prophylaxis of novel influenza A virus infections.

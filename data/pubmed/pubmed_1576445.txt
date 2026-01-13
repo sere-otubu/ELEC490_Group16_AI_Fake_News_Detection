@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urinalysis
+TITLE: Urinalysis.
+PMID: 1576445
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1576445/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Urinalysis has been a component of patient assessment for centuries and continues to have great utility. The analysis of urine is a useful component in the evaluation of a variety of vision disorders and should be considered an important adjunct to the clinical examination for selected patients. The specimen is readily available, and a basic analysis is inexpensive and simple to perform in the office.

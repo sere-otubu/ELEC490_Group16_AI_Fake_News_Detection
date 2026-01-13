@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antipsychotics
+TITLE: Use of Antipsychotics for the Treatment of Behavioral Symptoms of Dementia.
+PMID: 26953213
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26953213/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Antipsychotic medications are widely used in the management of behavioral and psychological symptoms of dementia. While nonpharmacological interventions should be the first-line treatment for behavioral symptoms of dementia, these are often unfeasible and/or ineffective. Conventional and atypical antipsychotic agents appear to have modest to moderate clinical efficacy in the treatment of these symptoms, though it is unclear which individual agents are most effective. No conclusive evidence exists that any available alternative medications are safer and more effective than antipsychotics. A number of studies have shown an increased risk of mortality associated with antipsychotics in patients with behavioral symptoms of dementia, though the observed risk increase may be partially confounded by illness severity and/or preexisting health determinants. The mechanisms of increased mortality risk are not fully established, but are likely to involve cardiovascular events. It is probable, though not certain, that conventional antipsychotics are associated with a greater number of poor outcomes than atypical antipsychotics. In certain patients with refractory behavioral symptoms, antipsychotics are a viable treatment option. Key considerations for antipsychotic prescribing for this population are published in regulatory guidelines, and include minimization of dosage and duration of treatment, continuous reevaluation of symptoms, and involvement of caregivers.

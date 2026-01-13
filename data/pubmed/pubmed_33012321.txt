@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Food allergies
+TITLE: Biologics for the Treatment of Food Allergies.
+PMID: 33012321
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33012321/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Food allergy is increasingly prevalent and poses a life-threatening risk to those afflicted. The health care costs associated with food allergies are also increasing. Current and emerging treatments for food allergies aim at protecting against reactions caused by accidental ingestion and increasing the food allergen reaction threshold, although this protection is often temporary. In the future, ideal biologic therapies would target key mediators of the type II immune pathway, essential in development of the atopic march to prevent development of food allergies. Biologics offering long-term protection against allergic reactions to food are needed, and several agents are already in development.

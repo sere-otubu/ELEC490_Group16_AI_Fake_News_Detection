@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anaphylaxis
+TITLE: Anaphylaxis.
+PMID: 16429000
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16429000/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Anaphylaxis is a severe systemic allergic reaction that can involve multiple systems of the body. Anaphylaxis often is unpredictable, can have a rapid onset, and, if serious enough, can have life-threatening consequences. If an anaphylactic reaction is the result of an antigen antibody response, it is considered anaphylaxis. If the reaction is caused by a nonantibody trigger, it is considered anaphylactoid. Clinically, however, both responses appear the same and require the same management and treatment. With the development of new protein drugs and their use as therapeutic agents, the risk of anaphylaxis will most likely increase. For this reason, the infusion nurse specialist needs to have the knowledge and skills necessary to recognize and respond appropriately when anaphylaxis occurs. This article discusses the history, definition, incidence, risk factors, etiology, pathophysiology, and clinical findings of anaphylaxis. Appropriate prevention, management, and treatment also are discussed, with special attention given to medication-related anaphylaxis.

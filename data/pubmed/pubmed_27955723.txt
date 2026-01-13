@@ -1,0 +1,8 @@
+SEARCH_TOPIC: GMO foods safety
+TITLE: Nutrition: ethical issues and challenges.
+PMID: 27955723
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27955723/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+For nutrition and its associated disciplines, ethical considerations related to research are often complicated by factors that range from the use of experimental research designs that are overly holistic to inextricable links between nutrition research and marketing. As a consequence, there is the need for constant vigilance to assess and deal with apparent conflicts of interest. Also, there are few scientific disciplines that are defined by cultural, religious, or political codifications as is nutrition. Accordingly, examples of historical, cultural, and political events are described that have influenced ethical approaches related to nutrition research. Furthermore, nutrition research questions are often multifaceted and require dealing with complex variables. In this regard, ethical principles and perspectives that have relevance to data acquisition, the publication and translation of nutrition research, and the marketing of nutritional products and concepts are highlighted.

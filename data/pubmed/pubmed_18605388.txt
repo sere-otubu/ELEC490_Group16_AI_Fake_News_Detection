@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Physical therapy
+TITLE: An introduction to physical therapy modalities.
+PMID: 18605388
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18605388/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Timely and appropriate rehabilitation of musculoskeletal injuries is the most effective way of restoring full function and decreasing the likelihood of recurrence of the same injury. Application of specific physical therapy modalities and therapeutic exercises is based on the stages of healing. A typical physical therapy protocol progresses sequentially through the following phases: pain control, restoring range of motion, restoring strength, neuromuscular retraining, and return to full activity. The commonly used modalities reviewed here include heat, cold, ultrasound, phonophoresis, iontophoresis, and electrical stimulation. In this article we provide a basic review of physical therapy modalities.

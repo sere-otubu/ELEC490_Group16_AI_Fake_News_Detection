@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Spinal fusion
+TITLE: Does spinal fusion influence quality of life in neuromuscular scoliosis?
+PMID: 17728678
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17728678/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+: Systematic literature review of articles pertaining to quality of life (QOL) in neuromuscular scoliosis patients that underwent spinal fusion. : To determine if QOL is improved by scoliosis surgery in neuromuscular patients. : The primary focus of most prior studies on neuromuscular scoliosis has been on the technical correction of spinal deformities, and not the child's postoperative performance and function in activities of daily living. : Computer-based English literature search of Google and PubMed databases. : A total of 198 publications in the English literature between 1980 and 2006 were identified from a PubMed and Google Scholar search of QOL in neuromuscular scoliosis patients that underwent spinal fusion. : Spinal fusion improves QOL in CP (Grade C recommendation). Spinal fusion improves QOL in muscular dystrophy (Grade C recommendation). Spinal fusion does not improve QOL in spina bifida (Grade C recommendation).

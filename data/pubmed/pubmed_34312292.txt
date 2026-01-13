@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Trauma informed care
+TITLE: Trauma-Informed Care.
+PMID: 34312292
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34312292/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Most children will experience some type of trauma during childhood, and many children suffer from significant adversities. Research in genetics, neuroscience, and epidemiology all provide evidence that these experiences have effects at the molecular, cellular, and organ level, with consequences on physical, emotional, developmental, and behavioral health across the life span. Trauma-informed care translates that science to inform and improve pediatric care and outcomes. To practically address trauma and promote resilience, pediatric clinicians need tools to assess childhood trauma and adversity experiences as well as practical guidance, resources, and interventions. In this clinical report, we summarize current, practical advice for rendering trauma-informed care across varied medical settings.

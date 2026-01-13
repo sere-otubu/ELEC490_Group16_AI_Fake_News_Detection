@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pacemakers
+TITLE: Physiological pacemakers.
+PMID: 6372669
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6372669/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+It has long been possible to prevent death from bradycardia by using single-chamber ventricular pacemakers. Important advances in dual-chamber pacemaker technology now make physiological control of cardiac output during pacing almost a reality. These pacemakers have properly timed atrial contraction and rate variability and have significant hemodynamic advantages over ventricular pacemakers. The pathophysiology of bradycardia and the current status of physiological pacemakers are reviewed in this article.

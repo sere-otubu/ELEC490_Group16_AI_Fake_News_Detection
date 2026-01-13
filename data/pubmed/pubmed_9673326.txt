@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sinusitis
+TITLE: Nasal disorders and sinusitis.
+PMID: 9673326
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9673326/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article describes applied anatomy, pathophysiology, office evaluation, and management of nose- and sinus-related clinical problems. Common disorders of the nose and the sinuses are reviewed. Special emphasis is placed on the accuracy in ENT evaluation in primary care setting. The idea of rhinosinus disease prevention by means of nasal hygiene is presented.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chronic kidney disease
+TITLE: Blood pressure control in patients with chronic kidney disease.
+PMID: 34153181
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34153181/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Uncontrolled blood pressure (BP) in patients with chronic kidney disease (CKD) can lead to serious adverse outcomes. To prevent the occurrence of cardiovascular events (CVEs), and end-stage kidney disease, achieving an optimal BP level is important. Recently, there has been a paradigm shift in the management of BP largely as a result of the Systolic Blood Pressure Intervention Trial (SPRINT), which showed a reduction in CVEs by lowering systolic BP to 120 mmHg. A lower systolic blood pressure (SBP) target has been accepted by the Kidney Disease: Improving Global Outcomes (KDIGO) 2021 guidelines. However, whether intensive control of SBP targeting < 120 mmHg is also effective in patients with CKD is controversial. Notably, this lower target SBP is associated with a higher risk of adverse kidney outcomes. Unfortunately, there have been no randomized controlled trials on this issue involving only patients with CKD, particularly those with advanced CKD. In this review, we discuss the optimal control of BP in patients with CKD in terms of reduction in death and CVEs as well as attenuation of CKD progression based on the evidence-based literature.

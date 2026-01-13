@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lyme disease
+TITLE: Lyme Disease.
+PMID: 40354663
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40354663/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lyme disease, caused by <i>Borrelia burgdorferi</i>, is the most common vector-borne disease in the United States, and the range of its tick vector continues to expand. Most Lyme disease cases are diagnosed with the onset of the erythema migrans rashes, which can be single or multiple and vary from a homogeneous erythema to bull's-eye patterns. Serologic antibody testing is of low sensitivity at onset but becomes highly sensitive after a few weeks. Early dissemination may lead to neurologic and cardiac complications. Mono- or oligoarticular arthritis may develop in untreated patients. Antibiotic treatment is highly effective, but approximately 10% of treated patients experience persistent symptoms.

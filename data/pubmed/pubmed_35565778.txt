@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Keto diet
+TITLE: Ketogenic Diet and Weight Loss: Is There an Effect on Energy Expenditure?
+PMID: 35565778
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35565778/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A dysregulation between energy intake (EI) and energy expenditure (EE), the two components of the energy balance equation, is one of the mechanisms responsible for the development of obesity. Conservation of energy equilibrium is deemed a dynamic process and alterations of one component (energy intake or energy expenditure) lead to biological and/or behavioral compensatory changes in the counterpart. The interplay between energy demand and caloric intake appears designed to guarantee an adequate fuel supply in variable life contexts. In the past decades, researchers focused their attention on finding efficient strategies to fight the obesity pandemic. The ketogenic or "keto" diet (KD) gained substantial consideration as a potential weight-loss strategy, whereby the concentration of blood ketones (acetoacetate, 3-β-hydroxybutyrate, and acetone) increases as a result of increased fatty acid breakdown and the activity of ketogenic enzymes. It has been hypothesized that during the first phase of KDs when glucose utilization is still prevalent, an increase in EE may occur, due to increased hepatic oxygen consumption for gluconeogenesis and for triglyceride-fatty acid recycling. Later, a decrease in 24-h EE may ensue due to the slowing of gluconeogenesis and increase in fatty acid oxidation, with a reduction of the respiratory quotient and possibly the direct action of additional hormonal signals.

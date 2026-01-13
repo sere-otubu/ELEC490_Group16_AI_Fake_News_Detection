@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gestational Diabetes
+TITLE: Influence of MiRNAs in gestational diabetes mellitus development.
+PMID: 34105757
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34105757/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gestational Diabetes Mellitus (GDM) is a metabolic disorder that is considered a prediabetes state. According to the International Diabetes Federation every year an increase in the number of women diagnosed with gestational diabetes is being noticed. It is known that GDM can cause many complications during pregnancy and labor. What is more, women with GDM history and their offspring are at risk of developing diabetes in the future. A new factor in the pathogenesis of GDM is epigenetics, which is described as changes in gene expression without directly modifying the DNA sequence. One of its regulating mechanisms is based on microRNA (miRNA). A small non-coding RNA sequence that has an influence on protein formation by suppressing gene expression. A better understanding of the miRNA's function could potentially lead to their usage as potential new biomarkers or treatment targets. In this article we review the most significant miRNA molecules in gestational diabetes.

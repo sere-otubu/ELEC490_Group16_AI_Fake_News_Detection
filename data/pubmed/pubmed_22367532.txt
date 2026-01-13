@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vitamin D deficiency
+TITLE: Vitamin D deficiency in burn patients.
+PMID: 22367532
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22367532/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Vitamin D deficiency has been reported in pediatric burn patients; however, no formal studies have been conducted in adult burn populations. The available literature on vitamin D status in burn patients has been reviewed. A literature search was conducted using Medline™, the Cochrane central register of controlled trials, and EMBASE to identify any trials of vitamin D deficiency in burn patients. Six published studies regarding vitamin D status in burn patients were found; however, five of these were in pediatric populations and several did not assess vitamin D levels as a major endpoint. Vitamin D deficiency has been demonstrated to result in itching, muscle weakness, and neuropathy, all of which are common postburn sequelae. The major source of vitamin D is synthesis in the skin with a small amount being absorbed through dietary intake. Population groups are at higher risk of vitamin D deficiency if they have inadequate exposure to UV light or reduced biosynthetic capability due to skin damage. Burn patients fall into both risk groups and also suffer common complaints that overlap with those reported by patients with vitamin D deficiency. Further research in adult burn patients is needed to determine the prevalence of deficiency in this population and whether vitamin D deficiency might influence postburn injury symptoms reported by patients.

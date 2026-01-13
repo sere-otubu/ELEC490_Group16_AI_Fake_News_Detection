@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Telemedicine adoption
+TITLE: Towards Telemedicine Adoption in Korea: 10 Practical Recommendations for Physicians.
+PMID: 33942575
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33942575/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Due to the coronavirus disease 2019 (COVID-19) outbreak, consultation and prescription via telemedicine were temporarily allowed in the Korean population. However, at this point, it is difficult to determine whether telemedicine fulfills its role as a health care strategy. Arguably, if we had enough previous experience with telemedicine or sufficient preparation for its application, telemedicine could be more smoothly and flexibly adopted in the medical field. As it is still not possible to predict when the COVID-19 pandemic will end, phone consultation and prescription are likely to continue for some time. Hence, it is expected that telemedicine will naturally settle in the medical field in the near future. However, as we have noticed during this outbreak, improvised telemedicine without adequate guidance can be confusing to both patients and health professionals, thus reducing the benefit to patients. Medical staff requires preparation on how to appropriately use telemedicine. Thus, here we present some suggestions on implementing and preparing for telemedicine in the medical community.

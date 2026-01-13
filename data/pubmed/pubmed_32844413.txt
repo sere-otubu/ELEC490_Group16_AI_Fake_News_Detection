@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Oral hygiene
+TITLE: Contemporary practices for mechanical oral hygiene to prevent periodontal disease.
+PMID: 32844413
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32844413/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+It is well established that dental plaque on teeth leads to gingivitis and periodontitis, and that several mechanical and chemical methods of plaque control can prevent gingivitis. The aim of the current review is to summarize and synthesize the available scientific evidence supporting practices for mechanical oral hygiene to prevent periodontal diseases. Evidence for contemporary practices of mechanical oral hygiene to prevent periodontal disease relies on studies of gingivitis patients. General recommendations concerning the ideal oral hygiene devices and procedures are still inconclusive. However, toothbrushing and interdental cleaning remain the mainstays of prevention of periodontal diseases. The primary approach requires individually tailored instruction for implementation of a systematic oral hygiene regimen.

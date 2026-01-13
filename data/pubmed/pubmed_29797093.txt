@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Knee replacement
+TITLE: Posterior dislocation following revision total knee replacement arthroplasty: a case report and literature analysis.
+PMID: 29797093
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29797093/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Knee dislocation following total knee replacement arthroplasty is a rare but serious complication. The incidence of dislocation following primary total knee arthroplasty with posterior stabilized implants ranges from 0.15 to 0.5%, and posterior dislocation after revision total knee arthroplasty is even rarer. Here, we report the case of a 76-year-old male who presented with posterior dislocation after posterior stabilized revision total knee arthroplasty.

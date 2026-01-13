@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cardiovascular system
+TITLE: Natriuretic Peptides in the Cardiovascular System: Multifaceted Roles in Physiology, Pathology and Therapeutics.
+PMID: 31426320
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31426320/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The natriuretic peptides (NPs) family includes a class of hormones and their receptors needed for the physiological control of cardiovascular functions. The discovery of NPs provided a fundamental contribution into our understanding of the physiological regulation of blood pressure, and of heart and kidney functions. NPs have also been implicated in the pathogenesis of several cardiovascular diseases (CVDs), including hypertension, atherosclerosis, heart failure, and stroke. A fine comprehension of the molecular mechanisms dependent from NPs and underlying the promotion of cardiovascular damage has contributed to improve our understanding of the molecular basis of all major CVDs. Finally, the opportunity to target NPs in order to develop new therapeutic tools for a better treatment of CVDs has been developed over the years. The current Special Issue of the Journal covers all major aspects of the molecular implications of NPs in physiology and pathology of the cardiovascular system, including NP-based therapeutic approaches.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Zika virus
+TITLE: Zika Virus.
+PMID: 27029595
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27029595/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Zika virus (ZIKV) is an arthropod-borne virus (arbovirus) in the genus Flavivirus and the family Flaviviridae. ZIKV was first isolated from a nonhuman primate in 1947 and from mosquitoes in 1948 in Africa, and ZIKV infections in humans were sporadic for half a century before emerging in the Pacific and the Americas. ZIKV is usually transmitted by the bite of infected mosquitoes. The clinical presentation of Zika fever is nonspecific and can be misdiagnosed as other infectious diseases, especially those due to arboviruses such as dengue and chikungunya. ZIKV infection was associated with only mild illness prior to the large French Polynesian outbreak in 2013 and 2014, when severe neurological complications were reported, and the emergence in Brazil of a dramatic increase in severe congenital malformations (microcephaly) suspected to be associated with ZIKV. Laboratory diagnosis of Zika fever relies on virus isolation or detection of ZIKV-specific RNA. Serological diagnosis is complicated by cross-reactivity among members of the Flavivirus genus. The adaptation of ZIKV to an urban cycle involving humans and domestic mosquito vectors in tropical areas where dengue is endemic suggests that the incidence of ZIKV infections may be underestimated. There is a high potential for ZIKV emergence in urban centers in the tropics that are infested with competent mosquito vectors such as Aedes aegypti and Aedes albopictus.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Food safety guidelines
+TITLE: Safety Assessment of Immune-Mediated Adverse Reactions to Novel Food Proteins.
+PMID: 31005332
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31005332/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Current international guidelines for the risk assessment of biotechnology-derived foods date back to 2003. We present new strategies and directions for assessing immune adverse reactions to novel food proteins. Understanding genetic factors involved in food allergy and the role of the gastrointestinal tract will streamline risk assessment strategies.

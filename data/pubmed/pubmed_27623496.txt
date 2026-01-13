@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Plasma
+TITLE: [The delivery of therapeutic plasma: Therapeutic plasma of today and tomorrow].
+PMID: 27623496
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27623496/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Since plasma for direct therapeutic use comprises no cellular fraction, it has long stood for a standardized and rather simple component; meanwhile, rules for its issuing to patients have long been strict. During the very last years, there has been a paradigm shift as novel indications have raised and possible needs for distinct types of plasma depending on the missing clotting factors in the patient. During the same period of time, plasma inactivated by solvent-detergent, which was a labile component in France, has been re-qualified by European authorities as a plasma derived-drug. The French recommendations for use of plasma - though quite recently revised (2012) - are disputed by some experts and would merit a revisit. This state-of-the art manuscript aims at presenting the novel situation of therapeutic plasma and suggesting possible evolution.

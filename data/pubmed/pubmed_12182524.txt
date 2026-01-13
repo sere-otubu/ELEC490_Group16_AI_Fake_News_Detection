@@ -1,0 +1,8 @@
+SEARCH_TOPIC: ACE inhibitors
+TITLE: Using ACE inhibitors appropriately.
+PMID: 12182524
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12182524/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+When first introduced in 1981, angiotensin-converting enzyme (ACE) inhibitors were indicated only for treatment of refractory hypertension. Since then, they have been shown to reduce morbidity or mortality in congestive heart failure, myocardial infarction, diabetes mellitus, chronic renal insufficiency, and atherosclerotic cardiovascular disease. Pathologies underlying these conditions are, in part, attributable to the renin-angiotensin-aldosterone system. Angiotensin II contributes to endothelial dysfunction. altered renal hemodynamics, and vascular and cardiac hypertrophy. ACE inhibitors attenuate these effects. Clinical outcomes of ACE inhibition include decreases in myocardial infarction (fatal and nonfatal), reinfarction, angina, stroke, end-stage renal disease, and morbidity and mortality associated with heart failure. ACE inhibitors are generally well tolerated and have few contraindications. (Am Fam Physician 2002;66:473.)

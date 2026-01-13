@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Knee replacement
+TITLE: [Focal femoral resurfacing and unicompartmental knee replacement : Between osteotomy and total knee replacement].
+PMID: 33847791
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33847791/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Unicompartmental knee arthroplasty, especially for both femorotibial compartments of the knee, is an established partly joint-saving treatment option for osteoarthritis of the knee if the disease is limited to one compartment. Even smaller implants or resurfacing of the patellofemoral joint have been shown-in smaller patient collectives-to have the potential to yield good clinical results.

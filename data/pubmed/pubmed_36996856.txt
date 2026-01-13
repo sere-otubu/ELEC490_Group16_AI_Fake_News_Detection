@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Macular degeneration
+TITLE: Age-related macular degeneration.
+PMID: 36996856
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36996856/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Age-related macular degeneration is an increasingly important public health issue due to ageing populations and increased longevity. Age-related macular degeneration affects individuals older than 55 years and threatens high-acuity central vision required for important tasks such as reading, driving, and recognising faces. Advances in retinal imaging have identified biomarkers of progression to late age-related macular degeneration. New treatments for neovascular age-related macular degeneration offer potentially longer-lasting effects, and progress is being made towards a treatment for atrophic late age-related macular degeneration. An effective intervention to slow progression in the earlier stages of disease, or to prevent late age-related macular degeneration development remains elusive, and our understanding of underlying mechanistic pathways continues to evolve.

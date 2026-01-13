@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cesarean section
+TITLE: Minimally Invasive Cesarean Section - Extraperitoneal Cesarean Section. The Outcomes of Applying to the Same Patient More than Once. Case Series.
+PMID: 38096918
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38096918/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Extraperitoneal caesarean section (EPCS) provides intraoperative and postoperative advantages to patients compared to transperitoneal (TPCS). Nevertheless, it is less preferred. Extraperitoneal caesarean section (EPCS) is a type of caesarean section performed without entering the peritoneal cavity. In this study, EPCS was successfully performed again in patients who had previously undergone EPCS. This method, which reduces maternal mortality and health expenditures, can be performed more than once.

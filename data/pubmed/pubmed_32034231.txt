@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chromosomes
+TITLE: Extinction of chromosomes due to specialization is a universal occurrence.
+PMID: 32034231
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32034231/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The human X and Y chromosomes evolved from a pair of autosomes approximately 180 million years ago. Despite their shared evolutionary origin, extensive genetic decay has resulted in the human Y chromosome losing 97% of its ancestral genes while gene content and order remain highly conserved on the X chromosome. Five 'stratification' events, most likely inversions, reduced the Y chromosome's ability to recombine with the X chromosome across the majority of its length and subjected its genes to the erosive forces associated with reduced recombination. The remaining functional genes are ubiquitously expressed, functionally coherent, dosage-sensitive genes, or have evolved male-specific functionality. It is unknown, however, whether functional specialization is a degenerative phenomenon unique to sex chromosomes, or if it conveys a potential selective advantage aside from sexual antagonism. We examined the evolution of mammalian orthologs to determine if the selective forces that led to the degeneration of the Y chromosome are unique in the genome. The results of our study suggest these forces are not exclusive to the Y chromosome, and chromosomal degeneration may have occurred throughout our evolutionary history. The reduction of recombination could additionally result in rapid fixation through isolation of specialized functions resulting in a cost-benefit relationship during times of intense selective pressure.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antioxidants
+TITLE: Citrus flavonoids and their antioxidant evaluation.
+PMID: 33435726
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33435726/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The antioxidant ability is the link and bridge connecting a variety of biological activities. Citrus flavonoids play an essential role in regulating oxidative stress and are an important source of daily intake of antioxidant supplements. Many studies have shown that citrus flavonoids promote health through antioxidation. In this review, the biosynthesis, composition and distribution of citrus flavonoids were concluded. The detection methods of antioxidant capacity of citrus flavonoids were divided into four categories: chemical, cellular, animal and clinical antioxidant capacity evaluation systems. The modeling methods, applicable scenarios, and their relative merits were compared based on these four systems. The antioxidant functions of citrus flavonoids under different evaluation systems were also discussed, especially the regulation of the Nrf2-antioxidases pathway. Some shortcomings in the current research were pointed out, and some suggestions for progress were put forward.

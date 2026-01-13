@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Plasma
+TITLE: Plasma for direct therapeutic use, for today and tomorrow: A short critical overview.
+PMID: 30131289
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30131289/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Plasma for direct therapeutic use is a fast-evolving blood component in terms of its production and presentation. More than a dozen forms are available worldwide, which is often overlooked since most countries apply policies making only one or very few forms available for treating patients in need. It is most often reserved for the same three clinical indications, i.e. overall clotting-factor deficiency, reversal of vitamin K antagonists in the context of active bleeding or prior to urgent surgery, and therapeutic plasma exchange. The level of evidence is often less robust than generally acknowledged for such major indications while novel indications are tending to emerge in medical and trauma settings. This short review explores classical views and new prospects opened up by novel presentations and statuses for therapeutic plasma.

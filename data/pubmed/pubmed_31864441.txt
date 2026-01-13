@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rosacea
+TITLE: Is rosacea a systemic disease?
+PMID: 31864441
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31864441/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Rosacea is a chronic inflammatory facial disease occurring world-wide. The incidence of rosacea is increasing with age, with the clinical course being characterized by relapses. The pathogenesis of rosacea is not completely understood, but neurovascular and immunologic mechanisms are involved. Rosacea has a number of known extrinsic triggers that should be avoided, such as sun exposure, heat and cold, alcoholic beverages, and spicy food. Of greater importance is the observation that rosacea may develop as a manifestation of systemic diseases with a significant morbidity and even mortality. Obesity, Helicobacter pylori infection, smoking, and inflammatory bowel disease bear a significant risk for the development of rosacea. Metabolic, psychiatric, and neurologic disorders and certain types of cancer show a significant association with rosacea. The possible link to cardiovascular events is debatable. There are extrafacial and extracutaneous manifestations of rosacea, such as the red scalp syndrome, ocular rosacea, and migraine. Rosacea should be considered a systemic disease.

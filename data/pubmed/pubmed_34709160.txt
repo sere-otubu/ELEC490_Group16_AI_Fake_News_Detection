@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anemia
+TITLE: [Hereditary anaemias].
+PMID: 34709160
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34709160/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hereditary anaemias are the most prevalent genetic disorders worldwide. Until recently, treatment options were mostly supportive or surgical, i.e. splenectomy. Recently, several medical treatments designed for frequent haemoglobinopathies such as thalassaemia and sickle cell disease have become available, and numerous new clinical trials hold promise of many more to come. Even rare anaemias such as pyruvate kinase deficiency have promising clinical trials with targeted therapies. Together, these herald hope for future treatment options for patients living with hereditary anaemias, which is discussed in this review.

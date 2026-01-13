@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Valve replacement
+TITLE: Mitral valve re-repair vs replacement following failed initial repair: a systematic review and meta-analysis.
+PMID: 33028386
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33028386/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The optimal treatment strategy following a failed mitral valve repair remains unclear. This study aims to compare and analyse available studies which report the clinical outcomes post mitral valve re-repair (MVr) or replacement (MVR) after a prior mitral valve repair. Based on PRISMA guidelines, a literature search was performed utilising PubMed, Cochrane and Scopus databases to identify retrospective cohort studies that reported outcomes of MVr and MVR after a prior mitral valve repair. Data regarding operative mortality, clinical outcomes and complications were extracted, synthesized and meta-analysed where appropriate. Eight studies with a total cohort of 1632 patients were used. After analysis, no significant differences in the short term and long-term operative mortality, incidence of stroke, congestive heart failure, Grade 1 and Grade 2 mitral regurgitation, requirement of 3rd mitral valve operation and reoperation due bleeding were found between the two groups. However, a slightly higher incidence of postoperative atrial fibrillation (OR: 0.11, CI: 0.02 to 0.17, I<sup>2</sup> = 0%, p = 0.02) was observed in the MVR group, as compared to the MVr group. MVr appears to be a viable alternative to MVR for mitral valve reoperation, given that they are associated with similar post-operative outcomes.

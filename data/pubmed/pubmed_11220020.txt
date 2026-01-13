@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hormone replacement therapy
+TITLE: Hormone replacement therapy.
+PMID: 11220020
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11220020/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+By the year 2020, more than 45 million American women will be over the age of 50. Many of these women will wrestle with decisions concerning the use of hormone replacement therapy. This report presents a history of hormone replacement therapy use. The report then addresses the benefits, risks, and relative and absolute contraindications associated with hormone therapy. Concluding sections of the report discuss hormone replacement options which are currently available as well as provider considerations when tailoring a therapy regimen to the needs of the patient.

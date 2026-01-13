@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Endometriosis
+TITLE: Dysmenorrhea and Endometriosis in Adolescents.
+PMID: 39510736
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39510736/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Endometriosis is a chronic disorder often beginning in adolescence. Despite the high prevalence of the disease and the symptom burden, adolescents may experience suboptimal management and a delay in diagnosis. The symptoms and laparoscopic findings in adolescents with endometriosis may differ from that of adults. This article aims to equip readers with the tools necessary to diagnose and manage endometriosis in adolescents.

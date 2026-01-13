@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hives
+TITLE: Chronic Inducible Urticaria.
+PMID: 38937008
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38937008/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Chronic inducible urticaria (CIndU) is characterized by the appearance of hives (urticaria) and/or angioedema in response to specific triggers or stimuli. For accurate diagnosis, anamnesis-driven specific, and if available, standardized trigger testings, as well as patient reported outcomes, should be applied. The currently recommended treatment algorithm is the same as for chronic spontaneous urticaria but is largely off-label for CIndU. New, and possibly more disease-specific, treatment options are needed for CIndU patients, who are often severely impacted by their disease. Several clinical trials are currently ongoing.

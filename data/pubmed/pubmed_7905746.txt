@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Basal cell carcinoma
+TITLE: Regression in basal cell carcinoma: an immunohistochemical analysis.
+PMID: 7905746
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7905746/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Spontaneous regression of some cutaneous tumours is well recognized, and is thought to result from an immunological response to the tumour. Regression has previously been noted in basal cell carcinomas, but no studies defining the role of the immune response in the regression of this malignancy have been performed. We have examined 45 primary basal cell carcinomas (BCCs) (20 nodular, 25 superficial) and identified the cellular phenotypes and activation states of the cells infiltrating primary regressing and non-regressing BCCs, by immunocytochemistry. We have found a significantly increased number of CD3+ and CD4+ T cells infiltrating regressing compared with non-regressing tumours, and the expression of interleukin-2 receptor (an early activation marker for T cells) was also increased. There were no significant differences in class II major histocompatibility complex (MHC), CD1, or macrophage antigen expression in these groups. These findings suggest that activated CD4+ cytokine-secreting cells are important in the regression of BCCs.

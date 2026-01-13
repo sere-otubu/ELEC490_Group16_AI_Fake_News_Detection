@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Social determinants of health
+TITLE: Monitoring Social Determinants of Health Assessing Patients and Communities.
+PMID: 37866829
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37866829/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Because of the devastating health effects of social determinants of health (SDoH), it is important for the primary care provider to assess and monitor these types of stressors. This can be done via surveys, geomapping, or various biomarkers. To date, however, each of these methods is fraught with obstacles. There are currently are no validated "best" SDoH screening tools for use in clinical practice. Nor is geomapping, a perfect solution. Although mapping can collect location specific factors, it does not account for the fact that patients may live in one area, work in another and travel frequently to a third.

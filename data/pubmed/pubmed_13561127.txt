@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Alcoholism
+TITLE: Hidden alcoholics.
+PMID: 13561127
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/13561127/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+"Hidden alcoholics"-those who drink surreptitiously to keep their addiction secret-far out-number the overt habitues of skid rows. The former rather than the latter should be considered "typical" alcoholics. Even though they have severe problems, they maintain fairly good employment stability and stability in marriage. Yet they steadily deteriorate. Often "hidden" alcoholics go to physicians because of symptoms referable to alcoholism but contrive to conceal their addiction and so make diagnosis difficult. Hence, physicians observing certain kinds of symptoms that cannot be attributed to a readily observable or demonstrable pathologic change should make searching inquiry as to the patient's drinking habits. For not until the proper diagnosis is made in such cases can there be hope of effective treatment.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pineal gland
+TITLE: Pineal Microdialysis.
+PMID: 36180678
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36180678/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Pineal microdialysis is characterized by the real-time monitoring of melatonin, neurotransmitters, metabolites, and other compounds released by the pineal gland throughout 24 h. It is a technique with great advantages that allows in vivo study of the ongoing pineal gland metabolism. In this chapter, we describe the entire process of pineal microdialysis that includes probe manufacturing, surgical procedure for its implantation, and the sample collection process.

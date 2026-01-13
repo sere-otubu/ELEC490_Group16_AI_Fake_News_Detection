@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Spinal cord injury
+TITLE: Astrocyte-Neuron Interactions in Spinal Cord Injury.
+PMID: 39190077
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39190077/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Spinal cord injuries cause irreversible loss of sensory and motor functions. In mammals, intrinsic and extrinsic inhibitions of neuronal regeneration obstruct neural repair after spinal cord injury. Although astrocytes have been involved in a growing list of vital homeostatic functions in the nervous system, their roles after injury have fascinated and puzzled scientists for decades. Astrocytes undergo long-lasting morphological and functional changes after injury, referred to as reactive astrogliosis. Although reactive astrogliosis is required to contain spinal cord lesions and restore the blood-spinal cord barrier, reactive astrocytes have detrimental effects that inhibit neuronal repair and remyelination. Intriguingly, elevated regenerative capacity is preserved in some non-mammalian vertebrates, where astrocyte-like glial cells display exclusively pro-regenerative effects after injury. A detailed molecular and phenotypic catalog of the continuum of astrocyte reactivity states is an essential first step toward the development of glial cell manipulations for spinal cord repair.

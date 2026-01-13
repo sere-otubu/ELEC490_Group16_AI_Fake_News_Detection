@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sleep hygiene
+TITLE: The translational neuroscience of sleep: A contextual framework.
+PMID: 34709899
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34709899/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Sleep is entwined across many physiologic processes in the brain and periphery, thereby exerting tremendous influence on our well-being. Yet sleep exists in a social-environmental context. Contextualizing sleep health with respect to its determinants—from individual- to societal-level factors—would enable neuroscientists to more effectively translate sleep health into clinical practice. Key challenges and opportunities pertain to (i) recognizing and exploring sleep’s functional roles, (ii) clarifying causal mechanisms in relation to key outcomes, (iii) developing richer model systems, (iv) linking models to known contextual factors, and (v) leveraging advances in multisensory technology. Meeting these challenges and opportunities would help transcend disciplinary boundaries such that social-environmental considerations related to sleep would become an ever-greater presence in the clinic.

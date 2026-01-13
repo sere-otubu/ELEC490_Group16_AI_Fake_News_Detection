@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Atherosclerosis
+TITLE: LDL cholesterol as a causal agent of atherosclerosis.
+PMID: 39043480
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39043480/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Atherosclerosis is a chronic disease that begins in early childhood, and without intervention, progresses throughout life, and inevitably worsens over time, sometimes rapidly. LDL cholesterol, beyond being a cardiovascular risk factor, is a causal agent of atherosclerosis. Without LDL cholesterol there is no atherosclerosis, so the evolution of the disease is modifiable, and even reversible.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rabies
+TITLE: Burden of human rabies disease: its potential prevention by means of Rabipur<sup>®</sup> vaccine.
+PMID: 39758769
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39758769/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Rabies is a zoonotic viral disease transmitted mainly by bites of infected animals, especially dogs, which are responsible for 99% of human cases. Despite being preventable, it remains a neglected disease in low-income countries, with approximately 60,000 deaths per year, mostly concentrated in Africa and Asia. The real worldwide burden of rabies is probably underestimated, as death-reporting systems are inadequate and active surveillance is limited. Rabies prevention implies two main, non-exclusive strategies: (i) dog vaccination, in order to interrupt virus transmission to humans, and (ii) human vaccination i.e. pre-exposure prophylaxis (PrEP) and Post-Esposure Prophylaxis (PEP) through the use of purified cell-culture and embryonated egg-based vaccines (CCEEVs). Rabipur<sup>®</sup> is one of the available anti-rabies vaccines and is indicated for active immunization in individuals of all ages. Its efficacy and safety have been amply demonstrated. In rabies-free countries, PrEP is indicated for individuals who face occupational and/or travel-related exposure to the rabies virus in specific settings or over an extended period. Wider use of human rabies vaccination for PrEP and PEP in conjunction with programs to eradicate rabies from animal populations is the challenging goal in order to reduce the burden of disease and achieve zero rabies.

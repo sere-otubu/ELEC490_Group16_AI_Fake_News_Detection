@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Digestion process
+TITLE: Analysis of Protein Digestion and Absorption Using a Ussing Chamber to Simulate the Environment in the Digestive Tract.
+PMID: 38684386
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38684386/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The Ussing chamber is a tool for analyzing drug absorption. We investigated whether the Ussing chamber can be used to analyze the process from digestion to absorption of protein in the gastrointestinal tract. Mixtures containing infant formula, whole cow's milk, processed soy milk, enteral nutrition, or human breast milk, were placed in the apical membrane side equipped with Caco-2 cells. After the addition of first pepsin then pancreatin, samples from the apical and basal membranes were collected. Infant formula showed the highest digestibility and absorption rate. This may be attributed to the presence of whey protein, which is rapidly digested and absorbed. The digestion and absorption of human breast milk showed different results in each donor, suggesting that digestion and absorption may vary among individuals. We concluded that the Ussing chamber can continuously analyze the process from digestion to absorption of proteins in the gastrointestinal tract.

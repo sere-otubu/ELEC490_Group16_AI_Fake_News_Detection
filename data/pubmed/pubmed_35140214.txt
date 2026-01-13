@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hashimotos thyroiditis
+TITLE: Lymphocyte infiltration and thyrocyte destruction are driven by stromal and immune cell components in Hashimoto's thyroiditis.
+PMID: 35140214
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35140214/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hashimoto's thyroiditis (HT) is the most common autoimmune disease characterized by lymphocytic infiltration and thyrocyte destruction. Dissection of the interaction between the thyroidal stromal microenvironment and the infiltrating immune cells might lead to a better understanding of HT pathogenesis. Here we show, using single-cell RNA-sequencing, that three thyroidal stromal cell subsets, ACKR1<sup>+</sup> endothelial cells and CCL21<sup>+</sup> myofibroblasts and CCL21<sup>+</sup> fibroblasts, contribute to the thyroidal tissue microenvironment in HT. These cell types occupy distinct histological locations within the thyroid gland. Our experiments suggest that they might facilitate lymphocyte trafficking from the blood to thyroid tissues, and T cell zone CCL21<sup>+</sup> fibroblasts may also promote the formation of tertiary lymphoid organs characteristic to HT. Our study also demonstrates the presence of inflammatory macrophages and dendritic cells expressing high levels of IL-1β in the thyroid, which may contribute to thyrocyte destruction in HT patients. Our findings thus provide a deeper insight into the cellular interactions that might prompt the pathogenesis of HT.

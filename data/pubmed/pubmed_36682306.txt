@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Superfoods
+TITLE: On <sup>210</sup>Po and <sup>210</sup>Pb in algae diet supplements - The assessed radiation hazard of aquatic superfoods.
+PMID: 36682306
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36682306/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Algae are believed to give health benefits. However, the studies showed they contain toxic elements, including radionuclides, and may affect human health. The study presents the values of activity concentrations of <sup>210</sup>Po and <sup>210</sup>Pb in the algae supplements available worldwide for adults. The activity concentrations (Bq/kg dw) ranged from 0.07 to 14.5 (<sup>210</sup>Po) and from 0.06 to 8.48 (<sup>210</sup>Pb). Also, the effective radiation doses and the cancer risk from <sup>210</sup>Po and <sup>210</sup>Pb decay ingested with analyzed algal supplements have been assessed. The highest values of annual effective doses have been estimated for <sup>210</sup>Po in the recommended portion of Spirulina (Arthrospira platensis) from China (59.7 μSv/year) and Diatomaceous earth from the USA (50.4 μSv/year). The cancer morbidity and mortality risk ranged from 10<sup>-4</sup> to 10<sup>-8</sup>. The study indicated the activity concentrations of <sup>210</sup>Po and <sup>210</sup>Pb were low, and algae supplements for human consumption could be considered safe food.

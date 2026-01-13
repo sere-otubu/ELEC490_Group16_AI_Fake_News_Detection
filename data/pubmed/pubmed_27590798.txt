@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Life expectancy trends
+TITLE: Trends in Working Life Expectancy in Europe.
+PMID: 27590798
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27590798/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The aim of the article is to analyze past and present developments of working life expectancy (WLE) at age 50 by age, sex, and education in Europe. WLE is also compared with life expectancy (LE) and healthy life expectancy (HLE). WLE is calculated with the Sullivan method. Labor force participation is based on the European Union (EU) Labor Force Survey. WLE at age 50 has been increasing since the mid- to late 1990s in most European countries. Increases were more pronounced among women than men. Differences in WLE by education are substantial. The comparison of WLE, LE, and HLE for the year 2009 reveals that the correlation between WLE and LE is smaller than between WLE and HLE. The analysis of trends in WLE at age 50, particularly when set in relation to remaining LE, provides useful insights about the development of the distribution of economically active and inactive years in Europe's aging societies.

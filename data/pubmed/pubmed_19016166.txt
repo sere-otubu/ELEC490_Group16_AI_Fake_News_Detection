@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Substance abuse
+TITLE: Substance abuse among adolescents.
+PMID: 19016166
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19016166/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Substance use and dependence are among the most prevalent causes of adolescent morbidity and mortality in the United States. This paper provides a review of differences between adolescent and adult substance abuse, prevention and treatment approaches, and future potential directions and needs for more effective programming in the treatment of adolescent substance abuse(1) and dependence on psychoactive substances.

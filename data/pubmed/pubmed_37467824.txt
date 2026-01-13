@@ -1,0 +1,8 @@
+SEARCH_TOPIC: DNA structure
+TITLE: The repetitive structure of DNA clamps: An overlooked protein tandem repeat.
+PMID: 37467824
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37467824/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Structured tandem repeats proteins (STRPs) are a specific kind of tandem repeat proteins characterized by a modular and repetitive three-dimensional structure arrangement. The majority of STRPs adopt solenoid structures, but with the increasing availability of experimental structures and high-quality predicted structural models, more STRP folds can be characterized. Here, we describe "Box repeats", an overlooked STRP fold present in the DNA sliding clamp processivity factors, which has eluded classification although structural data has been available since the late 1990s. Each Box repeat is a β⍺βββ module of about 60 residues, which forms a class V "beads-on-a-string" type STRP. The number of repeats present in processivity factors is organism dependent. Monomers of PCNA proteins in both Archaea and Eukarya have 4 repeats, while the monomers of bacterial beta-sliding clamps have 6 repeats. This new repeat fold has been added to the RepeatsDB database, which now provides structural annotation for 66 Box repeat proteins belonging to different organisms, including viruses.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hemophilia
+TITLE: The gene therapy journey for hemophilia: are we there yet?
+PMID: 23233607
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23233607/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Since the isolation and characterization of the genes for FVIII and FIX some 30 years ago, a longstanding goal of the field has been development of successful gene therapy for the hemophilias. In a landmark study published in 2011, Nathwani et al demonstrated successful conversion of severe hemophilia B to mild or moderate disease in 6 adult males who underwent intravenous infusion of an adeno-associated viral (AAV) vector expressing factor IX. These 6 subjects have now exhibited expression of FIX at levels ranging from 1% to 6% of normal for periods of > 2 years. This review discusses obstacles that were overcome to reach this goal and the next steps in clinical investigation. Safety issues that will need to be addressed before more widespread use of this approach are discussed. Efforts to extend AAV-mediated gene therapy to hemophilia A, and alternate approaches that may be useful for persons with severe liver disease, who may not be candidates for gene transfer to liver, are also discussed.

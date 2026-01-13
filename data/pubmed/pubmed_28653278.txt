@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Psychotherapy
+TITLE: Evidence-Based Psychotherapy: Advantages and Challenges.
+PMID: 28653278
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28653278/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Evidence-based psychotherapies have been shown to be efficacious and cost-effective for a wide range of psychiatric conditions. Psychiatric disorders are prevalent worldwide and associated with high rates of disease burden, as well as elevated rates of co-occurrence with medical disorders, which has led to an increased focus on the need for evidence-based psychotherapies. This chapter focuses on the current state of evidence-based psychotherapy. The strengths and challenges of evidence-based psychotherapy are discussed, as well as misperceptions regarding the approach that may discourage and limit its use. In addition, we review various factors associated with the optimal implementation and application of evidence-based psychotherapies. Lastly, suggestions are provided on ways to advance the evidence-based psychotherapy movement to become truly integrated into practice.

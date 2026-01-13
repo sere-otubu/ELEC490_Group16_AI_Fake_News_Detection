@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hepatitis B
+TITLE: Hepatitis B core-related antigen: Are we near a treatment endpoint?
+PMID: 36158266
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36158266/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Different serological and virological markers in chronic hepatitis B patients guide staging of viral infection, and initiation and response to therapy. Due to the persistence of intrahepatic covalently closed circular DNA (cccDNA) in the hepatocyte nucleus, hepatitis B is not curable. Even after undetectable hepatitis B virus DNA levels, the persistence of hepatitis B surface antigen and novel markers such as hepatitis B core-related antigen (HBcrAg) indicate the persistence of intrahepatic cccDNA. In this study, HBcrAg levels at baseline and after 24 and 48 wk of antiviral therapy predicted hepatitis B e antigen seroconversion. Due to the poor sensitivity of assays and detectable levels in HBsAg-negative patients, the long-term utility of HBcrAg needs future research.

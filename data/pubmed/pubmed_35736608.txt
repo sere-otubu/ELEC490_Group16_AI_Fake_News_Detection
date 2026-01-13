@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HPV vaccine
+TITLE: HPV-Associated Cancer Trends Since Vaccine Initiation.
+PMID: 35736608
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35736608/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Decreasing cervical cancer rates may be associated with human papillomavirus (HPV) vaccine use.It may be too early to evaluate the association between HPV vaccine use and trends in oropharyngeal cancer in men.

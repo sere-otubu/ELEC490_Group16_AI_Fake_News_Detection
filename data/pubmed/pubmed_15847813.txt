@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pneumonia
+TITLE: Radiology of community-acquired pneumonia.
+PMID: 15847813
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15847813/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article reviews the radiographic appearance of common community-acquired pneumonia. Included are the common bacterial pneumonias, tuberculosis, fungal pneumonia, pneumocystis pneumonia, and viral pneumonias. The various radiographic appearances and the clues for differentiating the pneumonias are discussed. Images enhance the discussion.

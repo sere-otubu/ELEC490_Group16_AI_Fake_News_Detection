@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vertigo
+TITLE: Migraine Associated Vertigo.
+PMID: 30947176
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30947176/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This chapter is a brief overview of migraine associated vertigo (MAV), focusing on the points most relevant to the practicing clinician. We review the definition of MAV, theories regarding its underlying pathophysiology, clinical presentation, epidemiology, findings on physical examination and oto vestibular testing, differential diagnosis, management and prognosis.

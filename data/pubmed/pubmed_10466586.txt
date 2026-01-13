@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Placebo effect
+TITLE: The placebo effect.
+PMID: 10466586
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10466586/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Placebos have been traditionally regarded as deceptive therapies and have not been understood in the broader context of social symbols and of interpersonal factors that surround the healing process itself. Although the power of inert substances to heal is well recognized, the placebo effect also influences the outcome of conventional therapies. The role of the placebo in modern medicine is poorly defined because of a lack of a common understanding of what the placebo effect is and because of the negative connotions associated with its use. The response rate to placebo varies by illness. The natural course of disease and patient or physician bias can be misinterpreted as a placebo response. In research, the placebo effect is therapeutic noise to be removed by placebo-controlled trials. Few studies are designed to measure the placebo response rate directly. Placebos are a reminder of how little is known about mind-body interaction. The placebo effect may be one of the most versatile and underused therapeutic tools at the disposal of physicians.

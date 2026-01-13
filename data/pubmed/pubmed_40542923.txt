@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Whey protein
+TITLE: Whey Protein Nutrition in Sports: Action Mechanisms and Gaps in Research.
+PMID: 40542923
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40542923/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Whey protein (WP) is recognized for its rapid digestibility and rich amino acid profile, making it a popular supplement among athletes. Several studies have shown scientific evidence surrounding the physiological effects of WP but important information on its mechanisms of action in exercise performance, recovery, and immune function, optimal dosage and timing, potential side effects/risks, and future directions are necessary. This review articulates WP's composition, types, function, and application, its mechanisms of action in exercise performance, recovery, and immune function, optimal dosage and timing, and potential side effects and risks. Moreover, future directions and gaps in research on WP nutrition in sports are carefully presented. More robust studies are warranted to optimize dosing and timing strategies in specific athletic populations, explore their genetic and metabolic variability, and assess the long-term safety of WP using novel and sustainable technologies. This will enable the scientific community to provide athletes with evidence-based, personalized, and sustainable nutrition strategies, ultimately enhancing performance and recovery.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: mRNA vaccines
+TITLE: mRNA vaccines for infectious diseases - advances, challenges and opportunities.
+PMID: 39367276
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39367276/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The concept of mRNA-based vaccines emerged more than three decades ago. Groundbreaking discoveries and technological advancements over the past 20 years have resolved the major roadblocks that initially delayed application of this new vaccine modality. The rapid development of nucleoside-modified COVID-19 mRNA vaccines demonstrated that this immunization platform is easy to develop, has an acceptable safety profile and can be produced at a large scale. The flexibility and ease of antigen design have enabled mRNA vaccines to enter development for a wide range of viruses as well as for various bacteria and parasites. However, gaps in our knowledge limit the development of next-generation mRNA vaccines with increased potency and safety. A deeper understanding of the mechanisms of action of mRNA vaccines, application of novel technologies enabling rational antigen design, and innovative vaccine delivery strategies and vaccination regimens will likely yield potent novel vaccines against a wide range of pathogens.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hyperthyroidism
+TITLE: Severe fetal and neonatal hyperthyroidism years after surgical treatment of maternal Graves' disease.
+PMID: 24456429
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24456429/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Fetal/neonatal hyperthyroidism is a well-known complication of maternal Graves' disease with high concentrations of TSH-receptor antibodies (TRAb). Few data are available on the management of fetal hyperthyroidism in surgically treated Graves' disease. Clinical, ultrasound and biochemical data are reported in a fetus/neonate whose mother underwent a thyroidectomy > 10 years before and whose sibling was thin and hyperthyroid at birth. Maternal TRAb were persistently > 40 U/l; unequivocal signs of fetal hyperthyroidism were identified at 29 weeks gestational age (GA). The fetus was treated through maternal antithyroid drug (ATD) administration; the dose was reduced gradually once fetal tachycardia and valve dysfunction disappeared and normal T4 was confirmed by fetal blood sampling. Maternal euthyroidism was maintained. The neonate showed normal growth for GA and T4 concentration at birth but severe hyperthyroidism relapsed from day 13 until day 58. TSH remained strongly suppressed throughout the pre- and postnatal course. Prenatal ATD in a taper-off regime allowed normal T4 and growth in a hyperthyroid fetus from a thyroidectomised Graves' mother. Fetal TSH cannot be used to adjust the ATD dose. Prenatal ATD appears to postpone the onset but does not affect the severity or duration of the neonatal hyperthyroid flare.

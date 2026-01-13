@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Genetic screening
+TITLE: Genetic Screening-Emerging Issues.
+PMID: 38790210
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38790210/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In many countries, some form of genetic screening is offered to all or part of the population, either in the form of well-organized screening programs or in a less formalized way. Screening can be offered at different phases of life, such as preconception, prenatal, neonatal and later in life. Screening should only be offered if the advantages outweigh the disadvantages. Technical innovations in testing and treatment are driving changes in the field of prenatal and neonatal screening, where many jurisdictions have organized population-based screening programs. As a result, a greater number and wider range of conditions are being added to the programs, which can benefit couples' reproductive autonomy (preconception and prenatal screening) and improve early diagnosis to prevent irreversible health damage in children (neonatal screening) and in adults (cancer and cascade screening). While many developments in screening are technology-driven, citizens may also express a demand for innovation in screening, as was the case with non-invasive prenatal testing. Relatively new emerging issues for genetic screening, especially if testing is performed using DNA sequencing, relate to organization, data storage and interpretation, benefit-harm ratio and distributive justice, information provision and follow-up, all connected to acceptability in current healthcare systems.

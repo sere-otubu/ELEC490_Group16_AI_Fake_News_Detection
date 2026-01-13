@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rheumatoid arthritis
+TITLE: Adipokines in rheumatoid arthritis.
+PMID: 30657068
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30657068/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Rheumatoid arthritis affects millions of people worldwide and is considered a chronic multisystem disease whose causes are unknown. In general, the main objective of rheumatoid arthritis treatment is to improve the quality of life of patients by relieving pain, maintaining or improving functional capacity, preventing thus, disability. In recent years the role of adipokines in the pathogenesis of rheumatoid arthritis has been discussed but results are still conflicting. Although results from some studies have shown the implications of adipokines in the pathophysiology of autoimmune diseases, including rheumatoid arthritis, their role in the pathogenesis of disease progression is not clear. Thus, this review aimed to describe the association of key adipokines (leptin, resistin, visfatin and adiponectin) and rheumatoid arthritis, given the high prevalence of this disease and the important social impact caused by this chronic disabling disease.

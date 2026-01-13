@@ -1,0 +1,8 @@
+SEARCH_TOPIC: School lunch nutrition
+TITLE: Using predicted marginal effects to assess the impact of rurality and free and reduced lunch eligibility on a school-based nutrition intervention.
+PMID: 35339765
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35339765/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To estimate the impact of a school-based nutrition education intervention in rural schools and schools with high free and reduced lunch (FRL) eligibility rates. As part of the evaluation of the Healthy Schools Healthy Students intervention, 20 schools were randomized to control and intervention conditions. Pre (October 2017) and posttest (April 2018) data were analyzed using multi-level linear regression models to estimate the intervention effect for multiple outcomes controlling for school-level demographic characteristics. We report the predicted marginal effect overall and specifically for rural; high FRL; and rural, high-FRL schools. We observed at least one significant intervention effect for food group knowledge, liking to eat fruit, beliefs about how healthy fruits are, non-taste test fruit preferences, liking to eat vegetables, beliefs about how healthy vegetables are, and taste test vegetable preferences. We observed differential intervention effects for all outcomes except taste test vegetable preferences based on rural and high-FRL status. Interventions do not necessarily have the same impact on all participants. Sub-analyses can reveal these important differential effects, as they have important implications for policymakers, program implementers, and evaluators. Resources and interventions should be allocated where they will have the greatest impact.

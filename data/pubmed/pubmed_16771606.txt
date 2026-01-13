@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pineal gland
+TITLE: A median third eye: pineal gland retraces evolution of vertebrate photoreceptive organs.
+PMID: 16771606
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16771606/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In many vertebrates, the pineal gland serves as a photoreceptive neuroendocrine organ. Morphological and functional similarities between the pineal and retinal photoreceptor cells indicate their close evolutionary relationship, and hence the comparative studies on the pineal gland and the retina are the keys to deciphering the evolutionary traces of the vertebrate photoreceptive organs. Several studies have suggested common genetic and molecular mechanisms responsible for their similarities, but largely unknown are those underlying pineal-specific development and physiological functions. Recent studies have identified several cis-acting DNA elements that participate in transcriptional control of the pineal-specific genes. Genetic approaches in the zebrafish have also contributed to elucidating the genetic network regulating the pineal development and neurogenesis. These efforts toward elucidating the molecular instrumentation intrinsic to the pineal gland, back to back with those to the retina, should lead to a comprehensive understanding of the evolutionary history of the vertebrate photoreceptive structures. This article summarizes the current status of research on these topics.

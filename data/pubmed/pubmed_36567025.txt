@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antivirals
+TITLE: Influenza antivirals and their role in pandemic preparedness.
+PMID: 36567025
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36567025/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Effective antivirals provide crucial benefits during the early phase of an influenza pandemic, when vaccines are still being developed and manufactured. Currently, two classes of viral protein-targeting drugs, neuraminidase inhibitors and polymerase inhibitors, are approved for influenza treatment and post-exposure prophylaxis. Resistance to both classes has been documented, highlighting the need to develop novel antiviral options that may include both viral and host-targeted inhibitors. Such efforts will form the basis of management of seasonal influenza infections and of strategic planning for future influenza pandemics. This review focuses on the two classes of approved antivirals, their drawbacks, and ongoing work to characterize novel agents or combination therapy approaches to address these shortcomings. The importance of these topics in the ongoing process of influenza pandemic planning is also discussed.

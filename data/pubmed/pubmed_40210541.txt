@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Syphilis
+TITLE: Acquired syphilis: update on clinical, diagnostic and therapeutic aspects<sup>⋆</sup>.
+PMID: 40210541
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40210541/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Syphilis, an infection caused by Treponema pallidum, transmitted predominantly through sexual contact, affects several organs, causing skin, mucous membranes and systemic lesions. Despite being a secular disease, it still poses a major challenge for the public health system, since the number of cases continues to increase after years of warnings from the scientific community. Recognizing the clinical manifestations is essential for formulating the clinical hypothesis and diagnostic confirmation with complementary exams. However, recognizing skin lesions is not always simple, given the diversity of clinical manifestations which resemble other diseases. This review presents an overview of the disease, with current epidemiological data, a representation of the various clinical manifestations, a description of the pertinent diagnostic methods for laboratory confirmation, and appropriate therapeutic approaches for each clinical form.

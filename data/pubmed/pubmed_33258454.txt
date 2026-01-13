@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Eczema
+TITLE: Eczema in elderly people.
+PMID: 33258454
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33258454/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Eczema is one of the most common reasons for consultation in older people. Many differential diagnoses must be eliminated, including scabies, bullous pemphigoid, and mycosis fungoides. Contact dermatitis may also be considered and the chemical(s) in question may vary according to the comorbidities involved, in particular, depending on whether or not the patient has a leg ulcer. Drug-induced eczematous eruptions can occur in elderly people, mainly with antihypertensive drugs (calcium inhibitors, diuretics, etc.). Recently, de novo atopic dermatitis has been described in elderly subjects, and the role of pollution has been evoked for these eczemas. Management of eczema in the elderly is challenging, and emollients and dermocorticosteroids are helpful. However, local corticosteroids may have some adverse effects in this vulnerable population, such as skin atrophy, diabetes and hypertension. Phototherapy, when possible, and low-dose methotrexate in particular may be interesting treatment options.

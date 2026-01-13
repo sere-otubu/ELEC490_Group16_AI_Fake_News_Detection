@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cochlear implants
+TITLE: Cochlear implants in children.
+PMID: 8065757
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8065757/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cochlear implants are no longer considered new or experimental technology. Difficulty in evaluating the degree of hearing loss and response to traditional forms of amplification in young children makes pediatric cochlear implant candidacy a complex issue. Cochlear implantation and, in particular, pediatric cochlear implantation, requires a team commitment with contributions from surgeons, audiologists, speech pathologists, psychologists, and special educators. Elements discussed include assessment and candidacy issues, surgical technique, elements of a cochlear implant team, outcome assessment, and potential complications. The decision to perform pediatric cochlear implantation should not be undertaken without serious consideration to the enormous commitment required in both financial and personnel terms.

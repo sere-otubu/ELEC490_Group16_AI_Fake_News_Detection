@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cataract surgery
+TITLE: Femtosecond laser-assisted cataract surgery--current status and future directions.
+PMID: 26409902
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26409902/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Femtosecond laser-assisted cataract surgery (FLACS) putatively offers several advantages over conventional phacoemulsification. We review the current status of FLACS and discuss the evolution of femtosecond lasers in cataract surgery and the currently available femtosecond laser platforms. We summarize the outcomes of FLACS for corneal wound creation, limbal relaxing incisions, capsulotomy, and lens fragmentation. We discuss surgical planning, preoperative considerations, clinical experiences including the learning curve and postoperative outcomes with FLACS, and also the cost effectiveness of FLACS. We present the intraoperative complications and management of challenging cases where FLACS offers an advantage and also speculate on the future directions with FLACS. Further advancements in laser technology to refine its efficacy, advancement in intraocular lens design to harness the potential benefits of FLACS, and a reduction in cost are needed to establish a clear superiority over conventional phacoemulsification.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rare diseases
+TITLE: Biomarkers in Rare Diseases.
+PMID: 33445477
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33445477/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There is no single global definition of a rare disease, and for different geographical areas the definition is based on the disease occurrence in that population [...].

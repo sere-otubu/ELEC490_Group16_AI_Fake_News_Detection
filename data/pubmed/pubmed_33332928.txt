@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Type 1 Diabetes
+TITLE: Adjunctive therapies in type 1 diabetes mellitus.
+PMID: 33332928
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33332928/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Insulin is the mainstay of treatment in people living with type 1 diabetes mellitus due to an immune-mediated loss of beta cells. Yet despite advances in insulin therapy and other technological advances, glycemic control remains difficult to achieve. Therefore, we aim to highlight risks and benefits of adjunctive therapies that may improve type 1 diabetes care. We identified studies assessing clinical outcomes of adjunctive therapies that are both Food and Drug Administration (FDA)-approved and off-label in type 1 diabetes. Adjunctive therapies reviewed included metformin, pramlintide, glucagon-like peptide-1 (GLP-1) receptor agonists and sodium-glucose cotransporter-2 inhibitors. Although insulin is required in people living with type 1 diabetes mellitus, adjunctive therapies may positively impact glycemic control, reduce insulin requirements and lead to weight loss. In addition, the risk of hypoglycemia, gastrointestinal side effects and diabetes ketoacidosis may be increased with the use of these adjunctive therapies. Pramlintide is currently the only FDA-approved adjunctive therapy, whereas others require continued research to better understand risk-to-benefit ratio.

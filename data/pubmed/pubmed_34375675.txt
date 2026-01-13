@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Circadian rhythms
+TITLE: Circadian rhythms and pain.
+PMID: 34375675
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34375675/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The goal of this review is to provide a perspective on the nature and importance of the relationship between the circadian and pain systems. We provide: 1) An overview of the circadian and pain systems, 2) a review of direct and correlative evidence that demonstrates diurnal and circadian rhythms within the pain system; 3) a perspective highlighting the need to consider the role of a proposed feedback loop of circadian rhythm disruption and maladaptive pain; 4) a perspective on the nature of the relationship between circadian rhythms and pain. In summary, we propose that there is no single locus responsible for producing the circadian rhythms of the pain system. Instead, circadian rhythms of pain are a complex result of the distributed rhythms present throughout the pain system, especially those of the descending pain modulatory system, and the rhythms of the systems with which it interacts, including the opioid, endocrine, and immune systems.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Borderline personality disorder
+TITLE: Comorbidity of Borderline Personality Disorder: Current Status and Future Directions.
+PMID: 30447726
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30447726/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Patients with borderline personality disorder have high rates of comorbid mood, anxiety, substance use, and eating disorders. The longitudinal studies conducted on borderline patients over 10 years of prospective follow-up suggest that patients with borderline personality disorder experienced declining rates of Axis I disorders over time, but the rates of these disorders remained high compared with those with other personality disorders. In addition, patients whose borderline personality disorder remitted over time experienced a substantial decline in all comorbid Axis I disorders, but those whose borderline personality disorder did not remit over time, reported stable rates of comorbid disorders.

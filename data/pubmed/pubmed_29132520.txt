@@ -1,0 +1,8 @@
+SEARCH_TOPIC: GERD
+TITLE: Gastroesophageal Reflux Disease.
+PMID: 29132520
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29132520/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gastroesophageal reflux disease (GERD) is a gastrointestinal motility disorder that results from the reflux of stomach contents into the esophagus or oral cavity resulting in symptoms or complications. The typical symptoms of GERD are heartburn and regurgitation of gastric contents into the oropharynx. GERD affects quality of life and may cause erosive esophagitis, esophageal strictures, and Barrett esophagus, a precursor to esophageal adenocarcinoma. GERD is a clinical diagnosis and is most effectively treated with proton-pump inhibitors (PPIs). Long-term use of PPIs is associated with bone fractures, chronic renal disease, acute renal disease, community-acquired pneumonia, and Clostridium difficile intestinal infection.

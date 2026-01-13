@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vitamin D deficiency
+TITLE: Vitamin D deficiency and atrial fibrillation.
+PMID: 25705008
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25705008/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Vitamin D deficiency has been linked with hypertension, coronary artery disease, and stroke, but there is no consensus regarding the possible association between vitamin D deficiency and atrial fibrillation (AF). Vitamin D negatively regulates the renin-angiotensin-aldosterone-system (RAAS), mediates calcium homeostasis, binds to vitamin D receptors on cardiac myocytes, and has antioxidant properties that may reduce levels of reactive oxygen species (ROS) in the atria, which contribute to inflammation and proarrhythmic substrate formation. As vitamin D status is a readily modifiable risk factor this association has potential clinical implications. An extensive search of the literature identified six studies that specifically investigated vitamin D status and AF. Results were equivocal with three studies identifying a positive association between vitamin D deficiency and AF, whilst two studies suggested there may be no association. Additionally, one study indicated that elevated vitamin D levels are associated with AF. Whilst the weight of the evidence suggests that there may be an association between vitamin D deficiency and AF, incomparable study designs and methodological limitations hinder interpretation of the current body of evidence. Further work taking into account considerations raised within this paper is required to better understand the relationship between vitamin D status and AF.

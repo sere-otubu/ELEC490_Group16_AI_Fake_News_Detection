@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Alzheimers disease
+TITLE: Alzheimer's disease.
+PMID: 18004014
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18004014/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Alzheimer's disease is the most prevalent form of dementia. There are significant efforts underway to elucidate the pathogenesis of this disease and to find ways to lessen the impact of the symptoms. This paper summarizes current knowledge regarding the diagnosis and treatment of the disorder.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gambling addiction
+TITLE: Pathological choice: the neuroscience of gambling and gambling addiction.
+PMID: 24198353
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24198353/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gambling is pertinent to neuroscience research for at least two reasons. First, gambling is a naturalistic and pervasive example of risky decision making, and thus gambling games can provide a paradigm for the investigation of human choice behavior and "irrationality." Second, excessive gambling involvement (i.e., pathological gambling) is currently conceptualized as a behavioral addiction, and research on this condition may provide insights into addictive mechanisms in the absence of exogenous drug effects. This article is a summary of topics covered in a Society for Neuroscience minisymposium, focusing on recent advances in understanding the neural basis of gambling behavior, including translational findings in rodents and nonhuman primates, which have begun to delineate neural circuitry and neurochemistry involved.

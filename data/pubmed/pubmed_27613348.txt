@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Substance abuse
+TITLE: Substance Abuse and Trauma.
+PMID: 27613348
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27613348/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There is a strong, bidirectional link between substance abuse and traumatic experiences. Teens with cooccurring substance use disorders (SUDs) and posttraumatic stress disorder (PTSD) have significant functional and psychosocial impairment. Common neurobiological foundations point to the reinforcing cycle of trauma symptoms, substance withdrawal, and substance use. Treatment of teens with these issues should include a systemic and integrated approach to both the SUD and the PTSD.

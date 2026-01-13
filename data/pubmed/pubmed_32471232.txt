@@ -1,0 +1,8 @@
+SEARCH_TOPIC: ALS
+TITLE: CRISPR/Cas9-Mediated Gene Correction to Understand ALS.
+PMID: 32471232
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32471232/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease caused by the death of motor neurons in the spinal cord and brainstem. ALS has a diverse genetic origin; at least 20 genes have been shown to be related to ALS. Most familial and sporadic cases of ALS are caused by variants of the <i>SOD1</i>, <i>C9orf72,</i> <i>FUS</i>, and TARDBP genes. Genome editing using clustered regularly interspaced short palindromic repeats/CRISPR-associated system 9 (CRISPR/Cas9) can provide insights into the underlying genetics and pathophysiology of ALS. By correcting common mutations associated with ALS in animal models and patient-derived induced pluripotent stem cells (iPSCs), CRISPR/Cas9 has been used to verify the effects of ALS-associated mutations and observe phenotype differences between patient-derived and gene-corrected iPSCs. This technology has also been used to create mutations to investigate the pathophysiology of ALS. Here, we review recent studies that have used CRISPR/Cas9 to understand the genetic underpinnings of ALS.

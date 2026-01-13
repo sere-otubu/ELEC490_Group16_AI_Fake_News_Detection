@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Patient data privacy HIPAA
+TITLE: deidentify.
+PMID: 29854113
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29854113/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The increased adoption of Electronic Health Record (EHR) systems offers new opportunities for clinical research. The Health Insurance Portability and Accountability Act (HIPAA) mandates that medical records need to be stripped of personal identifiers in order to be shared. One particular challenge is how to handle free-text medical records. While many methods have been developed, there is a dearth of software tools than can be easily used by practitioners. We present <i>deidentify,</i> a new de-identification tool, which comes with a graphical user interface and runs on all operating systems. Evaluating its algorithm on a gold-standard corpus of nursing notes, we demonstrate its adequate performance with a recall of 0.919 and a precision of 0.645. Since <i>deidentify</i> comes with a pre-trained model, it can be used when no training data is available, but can also be manually configured. This way, it should be convenient to use for de-identification tasks.

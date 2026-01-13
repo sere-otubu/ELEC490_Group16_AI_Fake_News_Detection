@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cataracts
+TITLE: Age-related cataract.
+PMID: 15708105
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15708105/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cataract, opacification of the lens, is one of the commonest causes of loss of useful vision, with an estimated 16 million people worldwide affected. Several risk factors have been identified in addition to increasing age--genetic composition, exposure to ultraviolet light, and diabetes. However, no method to halt the formation of a cataractous lens has been shown to be effective. Nevertheless, advances in surgical removal of cataracts, including small-incision surgery, use of viscoelastics, and the development of intraocular lenses, have made treatment very effective and visual recovery rapid in most cases. Despite these advances, cataract continues to be a leading public-health issue that will grow in importance as the population increases and life expectancy is extended worldwide.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chickenpox
+TITLE: Chickenpox in adults - clinical management.
+PMID: 18555533
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18555533/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Acute varicella zoster virus (VZV) infection, or chickenpox, is still perceived by many as a mild infection of childhood. However, chickenpox is increasingly common in adults and adolescents who together with immunosuppressed individuals are at a higher risk of severe infection. Antiviral therapy is available which both ameliorates symptoms and decreases the severity of chickenpox if administered early in the course of the infection. Passive immunisation with varicella zoster immunoglobulin (VZIG) may prevent or attenuate infection following exposure to varicella of an immunocompromised or pregnant individual or a neonate. Active immunisation is available and is universal in many developed countries. This review reflects current best practice in management of chickenpox in adults by specialist physicians in the UK. The accompanying flowchart has been formulated to guide emergency physicians and general practitioners through the decision-making process regarding treatment and admission for specialist care.

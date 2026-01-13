@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Opioid addiction
+TITLE: Opioid addiction: Who are your real friends?
+PMID: 28552458
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28552458/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Opioid addiction is a chronic and relapsing mental health disorder. However, only some individuals exposed to opioids, either recreationally or during the course of pain management, will develop addiction. The reasons why some individuals develop addiction and some are spared are not fully understood. Studies indicate that it is likely a combination of genetic predispositions and environmental conditions. Given the role of environmental factors in human addiction, this review examines the role of social environments and social interactions in the development of opioid addictive-like behaviors in rodent studies. To date, three major behavioral approaches have been used in these studies, namely social isolation, environmental enrichment, and social housing with a variety of cage-mates that differ in their drug administration conditions. This review highlights the importance of an individual's social network in influencing the outcomes of drug abuse and the need to further elucidate the molecular mechanisms underlying these effects. Better understanding is likely to contribute to the development of novel and more effective treatments for addiction disorders.

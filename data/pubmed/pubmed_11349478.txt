@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Bipolar disorder
+TITLE: Bipolar disorder.
+PMID: 11349478
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11349478/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Bipolar disorder (manic-depressive illness) is a common, recurrent, and severe psychiatric disorder that affects 1% to 3% of the US population. The illness is characterized by episodes of mania, depression, or mixed states (simultaneously occurring manic and depressive symptoms). Bipolar disorder frequently goes unrecognized and untreated for many years without clinical vigilance. New screening tools have been developed to assist physicians in making the diagnosis. Fortunately, several medications are now available to treat the acute mood episodes of bipolar disorder and to prevent further episodes with maintenance treatment.

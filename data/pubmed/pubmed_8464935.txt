@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Substance abuse
+TITLE: Substance abuse among women.
+PMID: 8464935
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8464935/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Physicians' attitudes are important in dealing with issues of substance abuse in women. The primary care physician is in a unique position to take advantage of the doctor-patient relationship and initiate diagnosis and treatment of substance abuse. When the primary care physician is supportive of the patient, both begin from a position of strength. Patients are no more to blame for contracting the disease state than for getting other medical conditions for which they are at risk. Treatment of substance abuse in women must acknowledge that significant differences exist between men and women patients. Most treatment programs have been based on research studies in men. Current efforts are under way to update the information necessary to deal effectively with the problem of substance abuse among women.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Malaria
+TITLE: Malaria's indirect contribution to all-cause mortality in the Andaman Islands during the colonial era.
+PMID: 18599354
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18599354/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Malaria has a substantial secondary effect on other causes of mortality. From the 19th century, malaria epidemics in the Andaman Islands' penal colony were initiated by the brackish swamp-breeding malaria vector Anopheles sundaicus and fuelled by the importation of new prisoners. Malaria was a major determinant of the highly variable all-cause mortality rate (correlation coefficient r(2)=0.60, n=68, p<0.0001) from 1872 to 1939. Directly attributed malaria mortality based on post-mortem examinations rarely exceeded one-fifth of total mortality. Infectious diseases such as pneumonia, tuberculosis, dysentery, and diarrhoea, which combined with malaria made up the majority of all-cause mortality, were positively correlated with malaria incidence over several decades. Deaths secondary to malaria (indirect malaria mortality) were at least as great as mortality directly attributed to malaria infections.

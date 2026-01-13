@@ -1,0 +1,8 @@
+SEARCH_TOPIC: mRNA vaccines
+TITLE: Research progress on the quality control of mRNA vaccines.
+PMID: 38733272
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38733272/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The mRNA vaccine technologies have progressed rapidly in recent years. The COVID-19 pandemic has accelerated the application of mRNA vaccines, with research and development and clinical trials underway for many vaccines. Application of the quality by design (QbD) framework to mRNA vaccine development and establishing standardized quality control protocols for mRNA vaccines are essential for the continued development of high-quality mRNA vaccines. mRNA vaccines include linear mRNA, self-amplifying mRNA, and circular RNA vaccines. This article summarizes the progress of research on quality control of these three types of vaccines and presents associated challenges and considerations. Although there has been rapid progress in research on linear mRNA vaccines, their degradation patterns remain unclear. In addition, standardized assays for key impurities, such as residual dsRNA and T7 RNA polymerase, are still lacking. For self-amplifying mRNA vaccines, a key focus should be control of stability in vivo and in vitro. For circular RNA vaccines, standardized assays, and reference standards for determining degree of circularization should be established and optimized.

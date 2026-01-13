@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Infant mortality reduction
+TITLE: The impact of malnutrition on infant mortality and life expectancy in Africa.
+PMID: 35843043
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35843043/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This study analyzes the impact of malnutrition on infant mortality and life expectancy in a sample of 36 African countries during the 2003 to 2018 period. The economic implications of malnutrition are examined through the vicious cycle of poverty, malnutrition, low productivity, and further malnutrition. It was hypothesized that malnutrition at infancy contributes to high mortality and leads to lower labor productivity in adults through the reduction of their life span, because more and more skilled laborers leave sooner. The results of the two-way, fixed-effect panel model strongly showed that mild or moderate malnutrition reduces infant mortality, whereas severe malnutrition leads to an increase in deaths among children under 5 y. The results show a mitigated impact of malnutrition on life expectancy. Also, growth in the gross domestic product significantly reduced the infant mortality rate, but any increase in income per capita was not followed by a reduction of death in children. Thus, it is recommended 1) to strengthen the entire health system and infrastructure, 2) to promote nutritional training programs, and 3) to reinforce the fight against infectious diseases that mostly affect children.

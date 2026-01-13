@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Atherosclerosis
+TITLE: Exosome-Based Treatment for Atherosclerosis.
+PMID: 35055187
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35055187/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Atherosclerosis is an inflammatory disease in which lipids accumulate on the walls of blood vessels, thickening and clogging these vessels. It is well known that cell-to-cell communication is involved in the pathogenesis of atherosclerosis. Exosomes are extracellular vesicles that deliver various substances (e.g., RNA, DNA, and proteins) from the donor cell to the recipient cell and that play an important role in intercellular communication. Atherosclerosis can be either induced or inhibited through cell-to-cell communication using exosomes. An understanding of the function of exosomes as therapeutic tools and in the pathogenesis of atherosclerosis is necessary to develop new atherosclerosis therapies. In this review, we summarize the studies on the regulation of atherosclerosis through exosomes derived from multiple cells as well as research on exosome-based atherosclerosis treatment.

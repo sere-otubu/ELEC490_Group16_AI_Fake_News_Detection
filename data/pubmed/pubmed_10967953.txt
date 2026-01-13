@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Schizophrenia
+TITLE: Schizophrenia epigenesis?
+PMID: 10967953
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10967953/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+I begin by examining how genetics drives schizophrenia research, and raise both familiar and relatively novel criticisms of the evidence putatively supporting the genetic basis of schizophrenia. In particular, I call attention to a set of concerns about the effects of placentation on concordance rates of schizophrenia in monozygotic twins, which further weakens the case for schizophrenia's so-called strong genetic component. I then underscore two critical points. First, I emphasize the importance of taking seriously considerations about the complexity of both ontogenesis and the development of hereditary diseases. The recognition of developmental constraints and supports is crucial, for attention to development exposes the naivete of too many models of gene action in the aetiology of disease. Secondly, I attend to those schizophreniologists who ignore methodological criticisms and thus presume a genetic basis for schizophrenia, and then seek the 'schizophrenic genotype' lacking an adequate phenotype. In response I attempt to demonstrate the necessity of a sustained effort at characterizing the phenotype of schizophrenia as an enabling condition for the whole enterprise of psychiatric genetics--and for psychiatry itself. Without the organism-level phenotype, research at the level of genes will remain unproductive--assuming of course that research at the genetic level is appropriate at all.

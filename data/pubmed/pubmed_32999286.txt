@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Infectious disease control
+TITLE: Developing infectious disease surveillance systems.
+PMID: 32999286
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32999286/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lessons learnt from the current pandemic will be invaluable to tackle a potential second wave, however, gaps remain in our readiness to face future pandemics. At <i>Nature Communications</i> we wish to support further research providing insights into how national and international systems could be shaped for increased preparedness to both local or global epidemics.

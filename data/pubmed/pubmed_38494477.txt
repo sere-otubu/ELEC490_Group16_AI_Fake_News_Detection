@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Stents
+TITLE: Two stents' dislodgement in the left main coronary artery: a case report.
+PMID: 38494477
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38494477/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Stent dislodgement is a life-threatening complication that can result in coronary artery embolization, stent thrombosis, acute myocardial infarction, and even death. Severely angulated, heavily calcified, and previously stented coronary arteries are associated risk factors. With the development of different lesion preparation techniques and the drug eluting stent era, the reported incidence of stent dislodgement has decreased to < 1% in the last few years. We report a case of a 64-year-old Moroccan man complicated during percutaneous intervention in the left main artery by the loss of two stents. This complication was successfully managed by passing the stent's balloon into the stent and then fully expanding it. In our case, the device's characteristics were involved and could play a role in such complications, but it is still not well understood. The main treatment option is stent retrieval with different available techniques. If retrieval of the stent is impossible, crushing it against the blood vessel wall could be considered.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: RNA function
+TITLE: mRNA transport & local translation in neurons.
+PMID: 28633045
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28633045/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Neurons are amongst the most structurally complex cells and exhibit a high degree of spatial compartmentalization. Also, neurons exhibit rapid and dynamic signaling by processing information in a precise and, sometimes, spatially-restricted manner. The signaling that occurs in axons and dendrites necessitates the maintenance and modification of their local proteomes. Local translation of mRNAs into protein is one solution that neurons use to meet synaptic demand and activity. Here we review some of the key findings and recent discoveries that have shaped our understanding of local translation in neuronal function and highlight important new techniques that might pave the way for new insights.

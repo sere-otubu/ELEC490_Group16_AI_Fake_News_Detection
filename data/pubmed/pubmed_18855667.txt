@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Statins
+TITLE: Statins and stroke.
+PMID: 18855667
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18855667/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Pharmacological studies highlighted pleiotropic effects of statins, that seem to influence atherogenesis not only by increasing atherosclerotic plaque stability but also by modulating endothelial function and inflammation and acting on platelet aggregation and thrombosis. Despite a strong association between increased levels of low-density lipoprotein cholesterol (LDL-C) and the incidence of coronary heart disease (CHD) has been well proven, it not yet established whether serum LDL-C levels are related to stroke incidence. The major aim of this paper is to perform a comprehensive up-to-date review of research papers, meta-analyses and randomized controlled clinical trials reporting the effects of statins in primary and secondary stroke prevention strategies. In addition, our work provides an overview on statin chemical structure, mechanism of action and pharmacological properties, investigating also most common adverse effects and relationship between statin therapy and haemorrhagic stroke risk, in order to assess drugs safety. Although studies are heterogeneous, our analysis shows that statins reduce the risk of stroke occurrence in high risk patients and seem also to reduce stroke recurrence. Moreover, the low incidence and reversibility of adverse effects, and the unclear association with hemorrhagic events, support the safe use of these drugs.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Food allergies
+TITLE: Food allergies.
+PMID: 12228039
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12228039/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Adverse reactions to foods are commonly implicated in the causation of ill health. However, foreign antigens, including food proteins and commensal microbes encountered in the gastrointestinal tract, are usually well tolerated. True food allergies, implying immune-mediated adverse responses to food antigens, do exist, however, and are especially common in infants and young children. Allergic reactions to food manifest clinically in a variety of presentations involving the gastrointestinal, cutaneous, and respiratory systems and in generalized reactions such as anaphylaxis. Both IgE-mediated and non-IgE-mediated immune mechanisms are recognized. Important advances in the clinical features underlying specific food hypersensitivity disorders are reviewed.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Air pollution health effects
+TITLE: Air Pollution Health Risk Assessment (AP-HRA), Principles and Applications.
+PMID: 33671274
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33671274/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Air pollution is a major public health problem. A significant number of epidemiological studies have found a correlation between air quality and a wide variety of adverse health impacts emphasizing a considerable role of air pollution in the disease burden in the general population ranging from subclinical effects to premature death. Health risk assessment of air quality can play a key role at individual and global health promotion and disease prevention levels. The Air Pollution Health Risk Assessment (AP-HRA) forecasts the expected health effect of policies impacting air quality under the various policy, environmental and socio-economic circumstances, making it a key tool for guiding public policy decisions. This paper presents the concept of AP-HRA and offers an outline for the proper conducting of AP-HRA for different scenarios, explaining in broad terms how the health hazards of air emissions and their origins are measured and how air pollution-related impacts are quantified. In this paper, seven widely used AP-HRA tools will be deeply explored, taking into account their spatial resolution, technological factors, pollutants addressed, geographical scale, quantified health effects, method of classification, and operational characteristics. Finally, a comparative analysis of the proposed tools will be conducted, using the SWOT (strengths, weaknesses, opportunities, and threats) method.

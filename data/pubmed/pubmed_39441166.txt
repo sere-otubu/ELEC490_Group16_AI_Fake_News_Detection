@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cesarean section
+TITLE: [Not Available].
+PMID: 39441166
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39441166/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Vaginal delivery after caesarean section (VBAC) is recommended, but the rising rate of uterine rupture calls into question the safety of this practice. To identify risk factors for uterine dehiscence and rupture. This was a prospective, analytical and descriptive observational study, carried out in a tertiary care maternity. We included all parturients with one previous caesarean section undergoing trial of labor. We assessed the quality of the uterine scar which was evaluated after delivery. We included 300 patients with one previous caesarean section undergoing trial of labor. The trial of labor was successful (vaginal delivery) in 50.7% of cases. The uterine scar, assessed after delivery, was of good quality in 79% of cases. We noted 7 cases of uterine rupture, i.e. 2.3% of cases, and dehiscence in 56 patients, i.e. 18.6% of cases. Parity, conditions of previous caesarean section (programmed or emergency) and interpregnancy interval were significantly related to the labor outcome (p=0.004, p=0.001 and p=0.135 respectively). The occurrence of rupture or dehiscence was not significantly related to macrosomia, defined as a neonatal weight greater than 4000g (p=0.135). Knowing the risk factors for uterine dehiscence and rupture would enable the obstetrician to properly assess the situation in order to make the correct decision and avoid neonatal and maternal complications.

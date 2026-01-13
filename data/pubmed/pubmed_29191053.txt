@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Conjunctivitis
+TITLE: Diagnosis and Management of Conjunctivitis for the Dermatologist.
+PMID: 29191053
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29191053/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Atopic dermatitis is a chronic, sometimes relapsing inflammatory skin condition that presents with pruritus and characteristic skin manifestations. Conjunctivitis is a common ocular comorbidity affecting almost half of patients with the risk increasing with atopic dermatitis severity. Recent targeted biologic therapies that successfully treat atopic skin disease, including dupilumab, which blocks interleukin (IL)-4 and IL-13, as well as agents that block IL-13 alone, have been associated with an increased rate of conjunctivitis in clinical trials. Because conjunctivitis commonly occurs in patients with atopic dermatitis and as the treatment with targeted biologic agents may increase the risk or severity of conjunctivitis, it is important that dermatologists recognize symptoms, appreciate treatment options, and know when referral to an ophthalmologist is appropriate.

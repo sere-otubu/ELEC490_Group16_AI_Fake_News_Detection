@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Alzheimers disease
+TITLE: Pathogenesis of Alzheimer's Disease.
+PMID: 36613544
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36613544/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Alzheimer's disease (AD) is the most common type of dementia, accounting for 60% to 80% of all cases [...].

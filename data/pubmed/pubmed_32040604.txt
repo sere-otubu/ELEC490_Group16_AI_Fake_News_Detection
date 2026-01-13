@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Joint replacement
+TITLE: Prosthetic joint infections: diagnosis, management, and complications of the two-stage replacement arthroplasty.
+PMID: 32040604
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32040604/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Despite improved strategies to prevent prosthetic joint infection, as the total number of joint replacements increases, so does the absolute number of infections. Radiography serves as the first-line imaging modality for the assessment of a suspected prosthetic joint infection. Additionally, serial radiographs acquired after a surgery to eradicate a prosthetic joint infection are an important clinical tool. Prosthetic joint infections are often treated with a 2-stage replacement arthroplasty utilizing a prosthesis with antibiotic-loaded acrylic cement. While complications are uncommon with this procedure, imaging may demonstrate periprosthetic fractures, as well as spacer migration, joint dislocation, and spacer fracture. We describe the classification of prosthetic joint infections, the clinical and imaging diagnosis, and treatment strategies. Familiarity with the hardware utilized in the management of the prosthetic joint infection, and its potential complications is fundamental to accurate imaging interpretation.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antisocial personality disorder
+TITLE: The etiology of antisocial personality disorder: The differential roles of adverse childhood experiences and childhood psychopathology.
+PMID: 31079021
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31079021/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Antisocial Personality Disorder (ASPD) is a severe personality disorder with robust associations with crime and violence, but its precise etiology is unknown. Drawing on near-population of federal correctional clients in the Midwestern United States, the current study examined antecedent background factors spanning adverse childhood experiences and childhood psychopathology. Greater adverse childhood experiences were associated with ASPD diagnosis with physical abuse showing associations with ASPD symptoms and sexual abuse with lifetime diagnosis for ASPD. Conduct Disorder was strongly linked to ASPD; however, Oppositional Defiant Disorder and ADHD had null associations. Given the role of environmental factors in the development of ASPD, greater criminological attention should be devoted to understanding how assorted forms of abuse and neglect coupled with childhood psychopathology contribute to ASPD especially given its linkages to severe criminal offending.

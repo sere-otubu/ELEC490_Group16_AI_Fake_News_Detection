@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Major depressive disorder
+TITLE: The genetic basis of major depressive disorder.
+PMID: 36702864
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36702864/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The genetic dissection of major depressive disorder (MDD) ranks as one of the success stories of psychiatric genetics, with genome-wide association studies (GWAS) identifying 178 genetic risk loci and proposing more than 200 candidate genes. However, the GWAS results derive from the analysis of cohorts in which most cases are diagnosed by minimal phenotyping, a method that has low specificity. I review data indicating that there is a large genetic component unique to MDD that remains inaccessible to minimal phenotyping strategies and that the majority of genetic risk loci identified with minimal phenotyping approaches are unlikely to be MDD risk loci. I show that inventive uses of biobank data, novel imputation methods, combined with more interviewer diagnosed cases, can identify loci that contribute to the episodic severe shifts of mood, and neurovegetative and cognitive changes that are central to MDD. Furthermore, new theories about the nature and causes of MDD, drawing upon advances in neuroscience and psychology, can provide handles on how best to interpret and exploit genetic mapping results.

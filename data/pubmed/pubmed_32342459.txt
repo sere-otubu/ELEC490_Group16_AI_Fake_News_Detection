@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sedentary lifestyle risks
+TITLE: Exercise and Stroke.
+PMID: 32342459
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32342459/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Stroke is a leading cause of mortality and morbidity all around the world. Identification of stroke risk factors and protective lifestyles is necessary for optimizing personalized treatment and reducing mortality. Sedentary lifestyle is a well-known modifiable risk factor in primary and secondary stroke prevention. Also, in recent years, exercise has been described as a neuroprotective and neuroreparative factor. Here we summarized the existing available evidence of the relationship between physical activity and stroke.

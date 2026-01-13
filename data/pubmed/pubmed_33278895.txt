@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sciatica
+TITLE: Herpes zoster in patients with sciatica.
+PMID: 33278895
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33278895/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Several diseases are associated with herpes zoster (HZ). However, whether sciatica is a stressor leading to HZ development remains unclear. Here, we evaluated the occurrence of HZ in patients with sciatica. The sciatica cohort consisted of patients first diagnosed as having sciatica between 2000 and 2012. All patients with sciatica were randomly age, sex and index year matched with control individuals without sciatica. The primary outcome was diagnosis of HZ. All individuals were followed until HZ diagnosis, withdrawal from the insurance, death, or December 31, 2013, whichever occurred first. HZ risk in the two cohorts was further analyzed with age, sex and comorbidity stratification. In total, 49,023 patients with sciatica and 49,023 matched controls were included. Female patients were more likely to have HZ development than were male patients [adjusted hazard ratio (HR) = 1.07, 95% confidence interval (CI) = 1.02-1.12]. After adjustments for all the covariates, HZ risk was significantly higher in the sciatica cohort than in the control cohort (adjusted HR = 1.19; 95% CI = 1.12-1.25). Sciatica increased HZ risk. Thus, HZ risk should be addressed whenever physicians encounter patients with sciatica, HZ vaccination should be considered especially those aged over 50.

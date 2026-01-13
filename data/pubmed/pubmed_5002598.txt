@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gonorrhea
+TITLE: Gonococcal tonsillar infections.
+PMID: 5002598
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/5002598/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Neisseria gonorrhoeae were cultured from tonsillar swabs in six men and six women out of 161 consecutive, unselected, Danish patients (95 men and 66 women) suffering from urogenital or rectal gonorrhoea. Gonococci were found in the tonsils in only one out of 49 foreign men with gonorrhoea. Eleven of the Danish patients admitted orogenital contact at their most recent intercourse. The gonococcal complement fixation test was negative in all except two cases. Standard singledose treatment cured the urogenital and rectal infections promptly but failed to cure the tonsillar infection in five cases, and in recalcitrant cases the organisms were demonstrable for some months.

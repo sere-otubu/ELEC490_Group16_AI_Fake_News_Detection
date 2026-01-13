@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Prebiotics
+TITLE: Prebiotics and synbiotics in ulcerative colitis.
+PMID: 27931127
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27931127/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ulcerative colitis (UC) is a chronic inflammatory disease of the colon with unclear pathogenesis. A dysbiotic intestinal microbiota is regarded as a key component in the disease process and there has been significant interest in developing new treatments which target the microbiota. To give an overview of the studies to date investigating prebiotics and synbiotics for the treatment of UC. A literature search of PubMed and related search engines was carried out using the terms "ulcerative colitis" in combination with "prebiotic", "synbiotic" or "dietary fibre". In total 17 studies on humans examining the effect of prebiotics in UC were found. Five major groups could be distinguished. Fructo-oligosaccharides were tried in six studies (mean 35 patients included, range 9-121). One study found a clinical response while two demonstrated indirect evidence of an effect. Germinated barley foodstuff was used in 8 studies (mean 38 patients, range 10-63). One study found an endoscopic response, while four noted a clinical response and two some indirect effects. Galacto-oligosaccharides, lactulose and resveratrol were used in one study each (mean 48 patients, range 41-52). One study found an endoscopic response and one a clinical response. There is yet inadequate evidence - especially in humans - to support any particular prebiotic in the clinical management of UC. However, due to the bulk of evidence supporting the effect of the microbiota on colonic inflammation, there is enough potential to justify further high-quality clinical trials investigating this subject.

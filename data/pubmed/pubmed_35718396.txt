@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mindfulness meditation
+TITLE: Mindfulness Meditation in the Treatment of Chronic Pain.
+PMID: 35718396
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35718396/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Chronic pain is a leading cause of disability in the United States. Limited efficacy associated with pharmacologic management and surgical interventions in refractory patients has led to further exploration of cognitive and behavioral interventions as both an adjunctive and primary therapeutic modality. Mindfulness-based meditation has shown to be effective in reducing pain in randomized studies of chronic pain patients as well as models of experimentally induced pain in healthy participants. These studies have revealed specific neural mechanisms which may explain both short-term and sustained pain relief associated with mindfulness-based interventions.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cortisol
+TITLE: Cortisol's purpose.
+PMID: 9824832
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9824832/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+It is proposed that cortisol's primary purpose is to mobilize the body's defenses against water-losing intestinal diseases and corticosterone's against serum diseases. They do this by inversely controlling those immune cells, enzymes, and hormones, etc. that affect survival during infection. These glucocorticosteroids affect fight-or-flight mobilization as an adjunct made possible because most processes that enhance immunity have a reverse effect on fight-or-flight.

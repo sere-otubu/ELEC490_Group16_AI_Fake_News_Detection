@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Arthroscopy
+TITLE: Perioperative steroid injection in elbow arthroscopy.
+PMID: 38669652
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38669652/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The goal of the present study was to evaluate the incidence of infection after perioperative intra-articular steroid injection during elbow arthroscopy. Starting from May 2019, we prospectively included all patients that underwent an elbow arthroscopy for various indications. All patients received preoperative antibiotics intravenously and a corticosteroid injection immediately after portal closure. Patients who needed ligamentous repair and aged below 18 years old were excluded. Final follow up of all patients was 3 months. In total, 108 elbow arthroscopies were performed in 100 patients. No major complications and 1 minor complication were seen. One patient developed a seroma that resolved spontaneously after 14 days without intervention or antibiotics. In this patient group, a perioperative corticosteroid injection following elbow arthroscopy did not increase the chance of infection.

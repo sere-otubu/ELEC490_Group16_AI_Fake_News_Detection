@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood composition
+TITLE: Mass spectrometry and proteomics in hematology.
+PMID: 30573045
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30573045/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Mass spectrometry-based techniques now enable the unbiased identification of proteins in complex mixtures including proteins isolated from cells and tissues. These powerful tools permit near-complete annotation of proteins expressed in cells, tissues or organs. Further, these techniques permit the interrogation of the numerous posttranslational modifications that govern cell-specific responses to signaling cues and underlie the functional heterogeneity of cellular composition and contribute to biological complexity. Parallel developments in technologies such as mass cytometry and multicolor ion-beam imaging which permit multi-parameter detection of numerous proteins at the single-cell and in situ level respectively, are poised to radically impact our understanding of the functional and translational importance of proteins in hematologic conditions. Importantly, the field of proteomics is poised to realize the immensely powerful opportunities in integration with genomic information that is being discovered at an unprecedented pace for many hematologic conditions.

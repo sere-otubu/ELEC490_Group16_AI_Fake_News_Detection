@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Epilepsy
+TITLE: The global burden of epilepsy report: Implications for low- and middle-income countries.
+PMID: 32088583
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32088583/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The Global Burden of Epilepsy Report estimates that there are 13 million disability adjusted life years due to epilepsy each year. Estimates of years lived with disability attributed to uncontrolled and untreated epilepsies are particularly raised in comparison to controlled epilepsies in countries with low sociodemographic indices. There are 50 million people with epilepsy in the world and of these, 125,000 die each year, and over 80% of these deaths occur in low- and middle-income countries. Overall, a global decline in the number of epilepsy-related deaths has been seen between 1990 and 2016. The least improvements have been, however, recorded in countries with low sociodemographic indices. These countries include 13 African countries, which have recorded an increase in number of epilepsy deaths over the 26 years. The huge burden of untreated and uncontrolled epilepsy and of epilepsy-related deaths in low- and middle-income countries calls for urgent efforts to improve access to epilepsy management.

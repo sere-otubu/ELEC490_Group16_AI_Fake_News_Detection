@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Autism spectrum disorder
+TITLE: Gastrointestinal Issues and Autism Spectrum Disorder.
+PMID: 33526238
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33526238/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gastrointestinal disorders are one of the most common medical conditions that are comorbid with autism spectrum disorders. These comorbidities can cause greater severity in autism spectrum disorder symptoms, other associated clinical manifestations, and lower quality of life if left untreated. Clinicians need to understand how these gastrointestinal issues present and apply effective therapies. Effective treatment of gastrointestinal problems in autism spectrum disorder may result in marked improvements in autism spectrum disorder behavioral outcomes. This article discusses the gastrointestinal disorders commonly associated with autism spectrum disorders, how they present, and studied risk factors.

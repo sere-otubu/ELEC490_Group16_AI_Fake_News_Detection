@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Angioplasty
+TITLE: Pulmonary Vein Angioplasty for Pulmonary Vein Stenosis After Ablation Therapy for Atrial Fibrillation　- A Report of 7 Cases.
+PMID: 35786690
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35786690/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Pulmonary vein (PV) stenosis after atrial fibrillation (AF) ablation is rare; however, it remains a serious complication. PV angioplasty is reportedly an effective therapy; however, a dedicated device for PV angioplasty has not been developed, and the detailed procedural methods remain undetermined. This study describes the symptoms, indications, treatment strategies, and long-term outcomes for PV stenosis after AF ablation. This study retrospectively analyzed 7 patients with PV stenosis after catheter ablation for AF and who had undergone PV angioplasty at our hospital during 2015-2021. PV stenosis occurred in the left superior (5 patients) and left inferior (2 patients) PV. Six patients had hemoptysis, chest pain, and dyspnea. Seven de novo lesions were treated using balloon angioplasty (BA) (3 patients), a bare metal stent (BMS) (3 patients), and a drug-coated balloon (DCB) (1 patient). The restenosis rate was 42.9% (n=3; 2 patients in the BA group and 1 patient in the DCB group). The repeat treatment rate was 28.6% (2 patients in the BA group). Stenting was performed as repeat treatment. One patient with subsequent repeat restenosis development underwent BA. Ten PV angioplasties were performed; there were no major complications. Regarding PV angioplasty after ablation therapy for AF, stenting showed superior long-term PV patency than BA alone; therefore, it should be considered as a standard first-line approach.

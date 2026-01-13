@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Oral hygiene
+TITLE: Impact of oral hygiene instructions on plaque index in adolescents.
+PMID: 32592553
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32592553/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The objective of the study, which consisted of a motivational lecture and hands-on training, was to evaluate the role of oral hygiene education for adolescents. The study population included sixty-two high school students between fourteen and fifteen years of age (thirty males and thirty-two females). The response rate was 76.5%. The measurement of oral hygiene level was performed using the modified Green Vermilion Index (GVI). The values were recorded at baseline, one week, three months, and six months after education through motivational lecture and hands-on training was performed. Descriptive and nonparametric statistical methods were used in statistical analysis. Level of significance was 0.05. At the beginning of the study, the GVI of all examined subjects was 3.52 (SD = 0.70). One week after the motivational lecture and training, it decreased to 2.64 (SD = 0.69). Three months later, the level of plaque index had the lowest value (1.44; SD = 0.66). At the end of the study the level of plaque index increased to 2.52 (SD = 0.86). A significant oral hygiene improvement in adolescents as a result of education was presented. However, due to a decline in oral hygiene level six months after the education, there is a need for educational programmes continuity.

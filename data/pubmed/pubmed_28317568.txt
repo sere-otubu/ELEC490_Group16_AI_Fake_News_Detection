@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dental cavities
+TITLE: Oral Bacterial Infections: Diagnosis and Management.
+PMID: 28317568
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28317568/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The human oral cavity contains more than 500 different bacterial species. These organisms belong to several phyla including Bacteroidetes, Firmicutes, Tenericutes, Actinobacteria, Proteobacteria, Euryarchaeota, Chlamydiae, and Spirochaetes. Many of these have the ability to colonize the gingival crevices and the outer surface of the tooth forming biofilms often leading to dental plaque formation. These bacteria produce acid that erode teeth causing cavities or infections. The diagnosis of these infections is often clinical and antibiotics are used empirically to treat some infections or as prophylaxis. The characterization, definitive diagnosis, and susceptibility testing of oral bacterial infections are valuable in guiding appropriate therapy and in prevention of disease.

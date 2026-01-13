@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Massage therapy
+TITLE: Massage therapy research review.
+PMID: 25172313
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25172313/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Moderate pressure massage has contributed to many positive effects including increased weight gain in preterm infants, reduced pain in different syndromes including fibromyalgia and rheumatoid arthritis, enhanced attentiveness, reduced depression and enhanced immune function (increased natural killer cells and natural killer cell activity).Surprisingly, these recent studies have not been reviewed, highlighting the need for the current review. When moderate and light pressure massage have been compared in laboratory studies, moderate pressure massage reduced depression, anxiety and heart rate, and it altered EEG patterns, as in a relaxation response. Moderate pressure massage has also led to increased vagal activity and decreased cortisol levels. Functional magnetic resonance imaging data have suggested that moderate pressure massage was represented in several brain regions including the amygdala, the hypothalamus and the anterior cingulate cortex, all areas involved in stress and emotion regulation. Further research is needed to identify underlying neurophysiological and biochemical mechanisms associated with moderate pressure massage.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Angioplasty
+TITLE: [Coronary calcified and resistant lesions angioplasty in the outpatient, myth or reality?].
+PMID: 39305712
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39305712/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Progress in coronary angioplasty has enabled outpatients treatment with rates of immediate complications below 1%. This shows a clear improvement in patient's comfort and it represents an important medical and economic gain. Considering the demographic evolution of the population, there is an increasing number of calcified coronary lesions which represent, according to the series, up to a quarter of angioplasties. However, their care is more delicate with a greater risk of complications and procedural failure. In fact, with the difficulties of crossing and with the vascular intrusions related to pre-dilation or sub-dilation stent deployment, the complication risk increases by almost 10% in these cases of angioplasties. Similarly, the death rate at 30 days goes from 4.7% in angioplasty in general up to 24.4% in calcified lesions. Several devices for atherectomy and plaque preparation have been developed in order to better overcome the lesions and better prepare the stent installation at the cost of a risk of complications between 2 and 10%. The three most frequent complications are dissection (1.8 to 7%), slow/no-flow (0.1 to 3%) and coronary perforation (0.2 to 4%). Nevertheless, despite this procedural increased risk, ambulatory angioplasty of calcified complex lesions can become a reality subject to 4-6 hours monitoring in a specialized unit with dedicated protocols.

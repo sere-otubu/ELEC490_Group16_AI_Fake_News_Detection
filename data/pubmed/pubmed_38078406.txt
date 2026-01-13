@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hypothyroidism
+TITLE: Hoffmann's syndrome in subclinical hypothyroidism.
+PMID: 38078406
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38078406/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hypothyroidism is an endocrine disorder which occurs due to a deficiency of thyroid hormones. Hoffmann's syndrome is a rare complication of hypothyroidism - presenting as hypothyroid myopathy. We describe the case of a 20-year-old lactating female, known to have hypothyroidism (diagnosed during her pregnancy and having discontinued treatment following delivery), presenting with complaints of pain, swelling of bilateral calf muscles with cramps in bilateral lower limbs. Symptoms of muscle pseudohypertrophy with muscle stiffness are relatively rare in subclinical hypothyroidism and it is important to identify and diagnose this rare condition, and initiate appropriate treatment.

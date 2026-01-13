@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood tests interpretation
+TITLE: Red blood cell morphology.
+PMID: 23480230
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23480230/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The foundation of laboratory hematologic diagnosis is the complete blood count and review of the peripheral smear. In patients with anemia, the peripheral smear permits interpretation of diagnostically significant red blood cell (RBC) findings. These include assessment of RBC shape, size, color, inclusions, and arrangement. Abnormalities of RBC shape and other RBC features can provide key information in establishing a differential diagnosis. In patients with microcytic anemia, RBC morphology can increase or decrease the diagnostic likelihood of thalassemia. In normocytic anemias, morphology can assist in differentiating among blood loss, marrow failure, and hemolysis-and in hemolysis, RBC findings can suggest specific etiologies. In macrocytic anemias, RBC morphology can help guide the diagnostic considerations to either megaloblastic or nonmegaloblastic causes. Like all laboratory tests, RBC morphologies must be interpreted with caution, particularly in infants and children. When used properly, RBC morphology can be a key tool for laboratory hematology professionals to recommend appropriate clinical and laboratory follow-up and to select the best tests for definitive diagnosis.

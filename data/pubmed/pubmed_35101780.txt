@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Migraine
+TITLE: The complexities of migraine: A debate among migraine researchers: A review.
+PMID: 35101780
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35101780/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Migraine is indeed a neurovascular disorder for which several genes have been identified in this era of Genome-Wide Association Studies (GWAS) and neuroimaging studies have already revealed structural changes and different mechanisms that cause migraine, but the exact cause of this debilitating and disabling neurovascular disorder remained unclear. Low neuronal hyperexcitability ("the migrainous brain") is set and hindered by genetic and environmental factors, respectively. Migraine is also found to be associated with different diseases (co-morbidity). There is still a subject of contention: is migraine a disease of evolution or disease of pathology? This research review seeks to provide a brief overview on the genetics of disorders, structural abnormalities in the brain, CSD-like symptoms, and faulty Trigeminovascular System activation for migraine pain phenotype. This review briefly covered here to provide some ideas that may also be utilized in migraine research and to serve as motivation for future research.

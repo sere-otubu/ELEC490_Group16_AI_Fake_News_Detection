@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Psychiatry medications
+TITLE: Drug-drug interactions between COVID-19 therapeutics and psychotropic medications.
+PMID: 38032183
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38032183/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The coronavirus (COVID-19) pandemic has led to as well as exacerbated mental health disorders, leading to increased use of psychotropic medications. Co-administration of COVID-19 and psychotropic medications may result in drug-drug interactions (DDIs), that may compromise both the safety and efficacy of both medications. This review provides an update of the current evidence on DDIs between COVID-19 and psychotropic medications. The interactions are categorized into pharmacokinetic, pharmacodynamic, and other relevant types. A thorough literature search was conducted using electronic databases to identify relevant studies, and extract data to highlight potential DDIs, clinical implications, and management strategies. Understanding and managing potential DDIs between COVID-19 and psychotropic medications is paramount to ensuring safe and effective treatment of patients with COVID-19 and mental illness. Awareness of the diverse spectrum of DDIs, vigilant monitoring, and judicious dose modifications, while choosing pharmacotherapeutic options with low risk of interaction whenever possible, are necessary. Ongoing and future investigations should continue to review the dynamic landscape of COVID-19 therapeutic modalities and their interactions with psychotropic medications.

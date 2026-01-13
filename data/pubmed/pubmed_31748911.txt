@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Smoking cessation
+TITLE: Impact of Smoking and Smoking Cessation Medications in Aviators.
+PMID: 31748911
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31748911/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To (1) compare the effects of cigarette smoking, nicotine withdrawal, and smoking cessation medications in US civilian and military aviators and (2) review the regulations in place regarding the use of smoking cessation medications for US aviators. Cigarette smoking and associated cessation attempts are associated with multiple hazards in flight to aviators including effects from nicotine intoxication, nicotine withdrawal, carbon monoxide intoxication, and side effects related to smoking cessation medications. Current civilian and military regulations place significant restrictions on the use of smoking cessation medications to aviators; however, recent research suggests that the hazards associated with these medications might be lower than the risk-associated unassisted nicotine withdrawal. An evidence-based approach to smoking cessation may require changing restrictions against smoking cessation medication use in US civilian and military aviators. Use and cessation of smokeless tobacco and e-cigarettes require additional attention and research in this population.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sedentary lifestyle risks
+TITLE: Sedentary lifestyle a disease from xxi century.
+PMID: 31221536
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31221536/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Sedentarism and physical inactivity is highly prevalent globally, and are associated with a wide range of chronic diseases and premature deaths. The interest in sedentary behaviour is justified by a growing body of evidence that points to a relationship between this lifestyle and the increase in the prevalence of obesity, diabetes and cardiovascular disease. It has been known throughout history that being inactive is unhealthy, but nowadays almost one-third of the world's population is inactive, thus representing a major public health problem.

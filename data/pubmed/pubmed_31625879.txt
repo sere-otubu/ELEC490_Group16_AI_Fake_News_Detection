@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Parkinsons disease
+TITLE: [Parkinson's Disease: Clinical Review and Update].
+PMID: 31625879
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31625879/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Parkinson's disease is the second most common neurodegenerative disorder, and a significant increase in its prevalence in the past three decades has been documented. Environmental and genetic factors contribute to the pathophysiology of this disease, and 5% - 10% of cases have a monogenic cause. The diagnosis relies on clinical findings, supported by adequate testing. There is no absolute method to diagnose Parkinson's disease in vivo, except for genetic testing in specific circumstances, whose usefulness is limited to a minority of cases. New diagnostic criteria have been recently proposed with the aim of improving diagnostic accuracy, emphasizing findings that might point to other causes of parkinsonism. The available therapeutic options are clinically useful, as they improve the symptoms as well as the quality of life of patients. After the introduction of levodopa, deep brain stimulation emerged as the second therapy with an important symptomatic impact in the treatment of Parkinson's disease. Non-motor symptoms and motor complications are responsible for a large proportion of disability, so these should be identified and treated. Current scientific research is focused on the identification of disease biomarkers allowing correct and timely diagnosis, and on creating more effective therapies, thus fulfilling current clinical unmet needs. This paper presents an updated review on Parkinson's disease, guiding the readership through current concepts, and allowing their application to daily clinical practice.

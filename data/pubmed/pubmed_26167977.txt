@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Seasonal affective disorder
+TITLE: Tryptophan hydroxylase 2 in seasonal affective disorder: underestimated perspectives?
+PMID: 26167977
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26167977/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Seasonal affective disorder (SAD) is characterized by recurrent depression occurring generally in fall/winter. Numerous pieces of evidence indicate the association of SAD with decreased brain neurotransmitter serotonin (5-HT) system functioning. Tryptophan hydroxylase 2 (TPH2) is the key and rate-limiting enzyme in 5-HT synthesis in the brain. This paper concentrates on the relationship between TPH2 activity and mood disturbances, the association between human TPH2 gene expression and the risk of affective disorder, application of tryptophan to SAD treatment and the animal models of SAD. The main conclusions of this review are as follows: (i) the brain 5-HT deficiency contributes to the mechanism underlying SAD, (ii) TPH2 is involved in the regulation of some kinds of genetically defined affective disorders and (iii) the activation of 5-HT synthesis with exogenous l-tryptophan alone or in combination with light therapy could be effective in SAD treatment. The synergic effect of these combined treatments will have several advantages compared to light or tryptophan therapy alone. First, it is effective in the treatment of patients resistant to light therapy. Secondly, l-tryptophan treatment prolongs the antidepressant effect of light therapy.

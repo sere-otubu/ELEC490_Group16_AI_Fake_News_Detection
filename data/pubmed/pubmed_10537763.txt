@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Glaucoma
+TITLE: Glaucoma genetics: where are we? Where will we go?
+PMID: 10537763
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10537763/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The understanding of the genetic basis of the glaucomas has advanced rapidly. Mutations in the myocilin gene (previously known as TIGR) at the GLC1A locus on chromosome 1q21-q31 occur in a subset of patients with juvenile- and adult-onset primary open-angle glaucoma. Five other genetic localizations for primary open-angle glaucoma have now been reported. In patients with primary congenital glaucoma, mutations have been found in the CYP1B1 gene on chromosome 2p21. At least one other locus for primary congenital glaucoma is mapped. In the developmental glaucomas, mutations in the PITX2 gene on chromosome 4q25 have been associated with Rieger syndrome, iris hypoplasia, and iridogoniodysgenesis. A second locus for Rieger syndrome resides on chromosome 13q14. Mutations in the FKHL7 gene on chromosome 6p25 have been described in patients with Axenfeld-Rieger anomaly. A new ocular finding of glaucoma in pedigrees with the nailpatella syndrome has been described, and mutations in the LMX1B gene on chromosome 9q34 are now known to underlie nail-patella syndrome. Two loci for the pigment dispersion syndrome have been mapped. This paper provides an overview of recent literature, summarizes developments in glaucoma genetics, and addresses their potential relevance to the clinical management of glaucoma.

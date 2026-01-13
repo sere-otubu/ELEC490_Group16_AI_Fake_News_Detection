@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gestational Diabetes
+TITLE: Prevalence of gestational diabetes in the United States and Canada: a systematic review and meta-analysis.
+PMID: 38491497
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38491497/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+An understanding of the prevalence of gestational diabetes mellitus among pregnant women is essential at local, national and international level so that appropriate health care interventions can be planned, financed and delivered. A systematic review and meta-analysis of primary research reporting the prevalence of gestational diabetes mellitus in Canada or the United States were carried out according to Meta-analysis of Observational Studies in Epidemiology guidelines. Four electronic databases were systematically searched in June 2023 to identify articles that reported gestational diabetes mellitus prevalence using universal screening in pregnant women from eligible general population samples. Estimates were combined using a random effects model, and the effects of moderator variables analysed. There were 36 separate samples of women or deliveries (total sample size 1,550,917). Overall mean prevalence of gestational diabetes mellitus was 6.9% (95% CI: 5.7-8.3); 13.7% (95% CI: 10.7-17.3) in studies using a one-step screening strategy, and 5.2% (95% CI: 4.4-6.1) in those using a two-step strategy. Heterogeneity in technical methods between studies produced differences in estimates, as did different diagnostic thresholds used. The meta-analysis suggests a slightly higher prevalence of gestational diabetes mellitus in Canada and the United States, compared to Europe, but highlights the need for standardised protocols for estimating gestational diabetes mellitus prevalence.

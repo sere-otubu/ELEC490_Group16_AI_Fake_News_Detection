@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Massage therapy
+TITLE: Massage therapy in rheumatoid arthritis.
+PMID: 40119884
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40119884/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Rheumatoid arthritis (RA) is a chronic autoimmune disorder characterized by joint inflammation, pain, and reduced mobility. Although pharmacological treatments, such as therapies with disease-modifying antirheumatic drugs and biologic agents, have improved disease outcomes, many patients continue to experience residual symptoms that impair their quality of life. This review examines the role of massage therapy as a complementary intervention in RA, focusing on its clinical benefits and underlying mechanisms. A systematic search of Medline/PubMed, Scopus, and the Directory of Open Access Journals (DOAJ) up to February 2025 was conducted using relevant MeSH terms. Evidence from clinical studies suggests that massage modalities-including Swedish massage, aromatherapy massage, and foot reflexology-can reduce pain, improve joint function, and modulate inflammatory markers (e.g., IL-6, TNF-α) and cortisol levels, thereby promoting neuroendocrine balance and lymphatic drainage. Furthermore, massage therapy may offer additional benefits in managing comorbid conditions and enhancing psychological well-being. This review also underscores the pivotal role of nurse-led care in integrating massage therapy into comprehensive treatment plans, despite existing challenges in training and standardization of protocols. Future research with larger sample sizes and longer follow-up periods is essential to establish robust guidelines and optimize the use of massage therapy as an adjunct treatment in RA.

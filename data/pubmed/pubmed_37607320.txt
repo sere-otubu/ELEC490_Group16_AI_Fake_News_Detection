@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antioxidants
+TITLE: Natural Antioxidant-Based Nanodrug for Atherosclerosis Treatment.
+PMID: 37607320
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37607320/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Natural antioxidants are always considered as candidates for the antioxidative therapy of atherosclerosis (AS) due to their good safety profile. However, restricted to their limited reactive oxygen species (ROS) elimination and rapid metabolism, the natural antioxidants' treatment suffers from the undesirable clinical outcomes. Herein, a new natural antioxidant-based nanodrug (VC@cLAVs) that can overcome above issues is developed to treat AS by loading natural antioxidant vitamin C (VC) into the natural antioxidant lipoic acid (LA)-constructed cross-linked vesicles. This integration not only greatly increases the blood half-life of natural antioxidants, but also amplifies the antioxidation capacity by the mutual recycling of two redox pairs LA/DHLA (reduced form of LA) and VC/DHA (oxidized form of VC). In vivo results disclose that VC@cLAVs decreases the apolipoprotein E-deficient mice's plaque area from 52% to 13%, much lower than those of free VC (≈45%) and LA (≈38%). This natural antioxidant-based nanodrug holds great potential in clinics.

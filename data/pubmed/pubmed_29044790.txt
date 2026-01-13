@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Appendectomy
+TITLE: Acute appendicitis.
+PMID: 29044790
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29044790/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Acute appendicitis is the most common reason for abdominal surgery in children. Luminal obstruction of the appendix progresses to suppurative inflammation and perforation, which causes generalised peritonitis or an appendix mass/abscess. Classical features include periumbilical pain that migrates to the right iliac fossa, anorexia, fever, and tenderness and guarding in the right iliac fossa. Atypical presentations are particularly common in preschool children. A clinical diagnosis is possible in most cases, after a period of active observation if necessary; inflammatory markers and an ultrasound scan are useful investigations when the diagnosis is uncertain. Treatment is by appendicectomy after appropriate fluid resuscitation, analgesia and intravenous antibiotics. Laparoscopic appendicectomy is better than open appendicectomy in most cases because it is associated with less postoperative pain and a shorter hospital stay, but recovery after acute appendicitis is mostly dictated by whether the appendix was perforated or not. Management of the appendix mass remains controversial and not all affected children need an interval appendicectomy. This article discusses tips and pitfalls in diagnosis and addresses many of the controversies that surround the management of this condition.

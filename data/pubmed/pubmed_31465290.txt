@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Platelets
+TITLE: The role of platelets in bleeding in patients with thrombocytopenia and hematological disease.
+PMID: 31465290
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31465290/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This review evaluates the role of platelets in bleeding risk among patients with hematological disease and thrombocytopenia. Platelets are pivotal in primary hemostasis, and possess non-hemostatic properties involved in angiogenesis, tissue repair, inflammation and metastatis. Also, platelets safeguard vascular integrity in inflamed vessels. Overall, bleeding risk depends on the underlying disease, and patients with cancer and platelet count <6-10 × 109/L have a markedly increased bleeding risk, while the platelet count does not correlate with bleeding risk at higher platelet counts. Other factors might affect platelet properties and thus bleeding risk, for example, drugs, low hematocrit, coagulation system impairments or transfusion of dysfunctional donor platelets. For patients with leukemia and immune thrombocytopenia, reduced platelet activation, platelet aggregation, or thrombopoiesis, reflected by the reduced presence of reticulated platelets, are associated with bleeding phenotype. However, mechanistic insight into the cause of reduced platelet function in different thrombocytopenic conditions is sparse, except for some inherited platelet disorders. Promising tools for platelet function studies in thrombocytopenia are flow cytometry and biomarker studies on platelet constituents. An important message from this current paper is that bleeding risk assessment must be tailored to specific patient populations and cannot be applied broadly to all patients with thrombocytopenia.

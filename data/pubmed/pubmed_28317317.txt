@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Caffeine effects
+TITLE: The neuroprotective effects of caffeine in neurodegenerative diseases.
+PMID: 28317317
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28317317/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Caffeine is the most widely used psychostimulant in Western countries, with antioxidant, anti-inflammatory and anti-apoptotic properties. In Alzheimer's disease (AD), caffeine is beneficial in both men and women, in humans and animals. Similar effects of caffeine were observed in men with Parkinson's disease (PD); however, the effect of caffeine in female PD patients is controversial due to caffeine's competition with estrogen for the estrogen-metabolizing enzyme, CYP1A2. Studies conducted in animal models of amyotrophic lateral sclerosis (ALS) showed protective effects of A<sub>2</sub><sub>A</sub> R antagonism. A study found caffeine to be associated with earlier age of onset of Huntington's disease (HD) at intakes >190 mg/d, but studies in animal models have found equivocal results. Caffeine is protective in AD and PD at dosages equivalent to 3-5 mg/kg. However, further research is needed to investigate the effects of caffeine on PD in women. As well, the effects of caffeine in ALS, HD and Machado-Joseph disease need to be further investigated. Caffeine's most salient mechanisms of action relevant to neurodegenerative diseases need to be further explored.

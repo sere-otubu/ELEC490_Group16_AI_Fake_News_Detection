@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Adolescent mental health
+TITLE: Suicide and Suicide Risk in Adolescents.
+PMID: 38073403
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38073403/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Suicide is the second leading cause of death for 10- to 24-year-olds in the United States and is a global public health issue, with a recent declaration of a National State of Emergency in Children's Mental Health by the American Academy of Pediatrics, American Academy of Child and Adolescent Psychiatry, and Children's Hospital Association. This clinical report is an update to the previous American Academy of Pediatrics clinical report, "Suicide and Suicide Attempts in Adolescents." Because pediatricians and pediatric health care providers are at the front line of care for adolescents amid a child and adolescent mental health crisis, and because of the chronic and severe shortage of mental health specialists, it is important that pediatric health care providers become facile with recognizing risk factors associated with suicidality and at-risk populations, screening and further assessment of suicidality as indicated, and evidence-based interventions for patients with suicidal ideation and associated behaviors. Suicide risk can be mitigated by appropriate screening, bolstering of protective factors, indicated treatment, community resources, and referrals to mental health providers when available.

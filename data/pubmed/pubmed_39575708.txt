@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Coronary artery disease
+TITLE: Pathophysiology, Diagnosis, and Management of Coronary Artery Disease in the Setting of Atrial Fibrillation.
+PMID: 39575708
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39575708/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Atrial fibrillation (AF) and coronary artery disease are frequently associated and, when so, lead to a grim prognosis. Recent studies suggest the presence of interconnected pathophysiological pathways between the 2 conditions that can promote and aggravate each other, igniting a vicious cycle. Notwithstanding, in contrast with the attention dedicated to the management of antithrombotic treatment, research on other aspects of coronary artery disease in AF is only recently gaining traction. The clinical impact of correct assessment of coronary artery stenosis in AF is especially high, due to the antithrombotic therapy imposed by both AF and coronary stenting. Until recently, an in-depth characterization of coronary microcirculation in AF was lacking. However, contemporary studies indicate that coronary microvascular dysfunction is a frequent encounter in AF, possibly explaining the ischemic symptoms even in the absence of obstructive coronary artery disease and interfering with the use of pressure-based indices to evaluate the hemodynamic significance of coronary artery stenosis. This comprehensive review addresses our current knowledge on coronary physiology in AF and its repercussion on the invasive management of coronary artery disease in this setting.

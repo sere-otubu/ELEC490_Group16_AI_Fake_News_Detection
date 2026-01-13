@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Adrenaline
+TITLE: One hundred years of adrenaline: the discovery of autoreceptors.
+PMID: 10454061
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10454061/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The active principle of suprenal extract that produces its pressor effects was isolated by the joint research of John Abel in 1899 and Jokichi Takamine in 1901. Within three years Elliott, working in Langley's laboratory, suggested that this active principle, referred to by British physiologists as "adrenaline" and named "Adrenalin" by Takamine, was released from sympathetic nerve terminals to act on smooth muscle cells. However, it was not until 1946 that von Euler showed that demythelated adrenaline (noradrenaline) rather than adrenaline is a sympathetic transmitter. The possibility that this sympathetic transmitter could also act on nerve terminals was not developed until 1971. Research on autoreceptors culminated in the identification of adrenergic receptors on nerve terminals different to those on muscle cells. This paper assesses the contributions that established the idea of the adrenergic autoreceptor, 100 years after the discovery of adrenaline.

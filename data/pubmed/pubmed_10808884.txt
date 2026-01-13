@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Genetic screening
+TITLE: Newborn genetic screening: blessing or curse?
+PMID: 10808884
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10808884/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Newly discovered genes and advances in genetic screening programs prompt many questions reflecting the kinds of ethical dilemmas that go hand in hand with life-changing discoveries. Neonatal genetic screening has been a standard of care for some time, but as our knowledge in the field of genetics expands, should we continue with the same approach? What newborn genetic screening tests should be mandatory, and what are the long-range consequences associated with testing? This article reviews genetic modes of inheritance, outlines and explains the most common newborn screening tests, and enumerates the ethical issues associated with these screening procedures. The role of the neonatal nurse in the newborn genetic screening process is discussed.

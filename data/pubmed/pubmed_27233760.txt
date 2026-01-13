@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Polycystic ovary syndrome
+TITLE: Criteria, prevalence, and phenotypes of polycystic ovary syndrome.
+PMID: 27233760
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27233760/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Polycystic ovary syndrome (PCOS) is a highly prevalent disorder effecting reproductive-aged women worldwide. This article addresses the evolution of the criteria used to diagnosis PCOS; reviews recent advances in the phenotypic approach, specifically in the context of the extended Rotterdam criteria; discusses limitations of the current criteria used to diagnosis, particularly when studying adolescents and women in the peri- and postmenopause; and describes significant strides made in understanding the epidemiology of PCOS. This review recognizes that although there is a high prevalence of PCOS, there is increased variability when using Rotterdam 2003 criteria, owing to limitations in population sampling and approaches used to define PCOS phenotypes. Last, we discuss the distribution of PCOS phenotypes, their morbidity, and the role that referral bias plays in the epidemiology of this syndrome.

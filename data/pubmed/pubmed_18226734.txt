@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cushings syndrome
+TITLE: Cushing's Syndrome.
+PMID: 18226734
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18226734/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cushing's syndrome is a rare endocrine disease characterized by cortisol hypersecretion, induced mainly by a pituitary tumor (Cushing's disease) or, rarely, by an adrenal or an ectopic neuroendocine tumor. Cushing's syndrome is associated with severe morbidities and an increased mortality. The major systemic complications and the main cause of death are represented by cardiovascular disease. The prognosis of the disease is mainly affected by the difficulties in the diagnosis and treatment of the disease, which remain a considerable challenge.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: CPR guidelines
+TITLE: Guidelines for no-CPR orders.
+PMID: 8047036
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8047036/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A no-CPR decision is not synonymous with abandonment and does not, of itself, rescind the obligations of the health care team to provide the highest quality care. Rather, a no-CPR order is best seen as one element of a comprehensive and dynamic management plan which should be reviewed and changed as the patient's medical condition warrants. A no-CPR order, therefore, offers an opportunity to rethink the goals of therapy in the light of discussions with the critically ill patient and his or her family.

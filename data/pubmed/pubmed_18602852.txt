@@ -1,0 +1,8 @@
+SEARCH_TOPIC: X ray imaging
+TITLE: Development of phase-contrast X-ray imaging techniques and potential medical applications.
+PMID: 18602852
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18602852/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A significant improvement over conventional attenuation-based X-ray imaging, which lacks contrast in small objects and soft biological tissues, is obtained by introducing phase-contrast imaging. As recently demonstrated, phase-contrast imaging is characterized by its extraordinary image quality, greatly enhanced contrast, and good soft tissue discrimination with very high spatial resolution down to the micron and even the sub-micron region. The rapid development of compact X-ray sources of high brightness, tuneability, and monochromaticity as well as high-resolution X-ray detectors with high quantum efficiency and improved computational methods is stimulating the development of a new generation of X-ray imaging systems for medical applications. The present paper reviews some intrinsic mechanisms, recent technical developments and potential medical applications of two-, three- and four-dimensional phase-contrast X-ray imaging. Challenging issues in current phase-contrast imaging techniques and key clinical applications are discussed and possible developments of future high-contrast and high spatial and temporal resolution medical X-ray imaging systems are outlined.

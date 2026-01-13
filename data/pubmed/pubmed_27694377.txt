@@ -1,0 +1,8 @@
+SEARCH_TOPIC: BMI accuracy
+TITLE: Obesity prevalence and accuracy of BMI-defined obesity in Russian firefighters.
+PMID: 27694377
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27694377/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+No data exist on obesity or the accuracy of body mass index (BMI) in Russian Federation firefighters. To determine the prevalence of obesity and rates of misclassification of BMI-based obesity status. Career firefighters in the Moscow region completed anthropometric assessments including height, weight, BMI, body fat per cent (BF%) and waist circumference (WC). Using these three methods, we defined obesity as BMI ≥30, BF% >25 and WC >102, respectively. The study group consisted of 167 male firefighters. Obesity prevalence was 22% for BMI [95% confidence interval (CI) 16.9-28.5], 60% for BF% (95% CI 52.5-67.3) and 28% for WC (95% CI 21.3-34.9). False positive rates for BMI-based obesity status were low, with 3% (95% CI -1.1 to 7.1) and 6% (95% CI 1.6-9.9) of non-obese participants defined by BF% and WC standards misidentified as obese using BMI. However, 65% (95% CI 55.7-77.4) of BF%-defined obese participants and 36% (95% CI 22.5-49.9) of WC-defined obese participants were misclassified as non-obese using BMI (i.e. false negatives). Rates of BMI-based obesity in Russian male firefighters were similar to that of males in the general Russian adult male population. Compared with BF% or WC standards, BMI-based obesity classi- fication produced low rates of false positives but demonstrated high rates of false negatives.

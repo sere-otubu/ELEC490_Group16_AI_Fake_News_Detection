@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Wound healing process
+TITLE: Eicosanoids in Skin Wound Healing.
+PMID: 33182690
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33182690/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Wound healing is an important process in the human body to protect against external threats. A dysregulation at any stage of the wound healing process may result in the development of various intractable ulcers or excessive scar formation. Numerous factors such as growth factors, cytokines, and chemokines are involved in this process and play vital roles in tissue repair. Moreover, recent studies have demonstrated that lipid mediators derived from membrane fatty acids are also involved in the process of wound healing. Among these lipid mediators, we focus on eicosanoids such as prostaglandins, thromboxane, leukotrienes, and specialized pro-resolving mediators, which are produced during wound healing processes and play versatile roles in the process. This review article highlights the roles of eicosanoids on skin wound healing, especially focusing on the biosynthetic pathways and biological functions, i.e., inflammation, proliferation, migration, angiogenesis, remodeling, and scarring.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Body composition
+TITLE: Body composition in pregnancy.
+PMID: 8888460
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8888460/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Concern over the influence of pregnancy-related alterations in hydration has prompted questions regarding the accuracy of using standard methods of determining body composition. We sought to investigate whether differences exist between body composition determined at 30 weeks and 39 weeks of gestation and postpartum, when measured by both bioelectrical impedance and hydrostatic weighing. This preliminary assessment of nine subjects suggests that the method used to calculate body composition during pregnancy can alter the influence of gestational age on body composition. The mechanisms underlying the differing results bear further investigation, as does the search for an accurate and reliable method for assessing body composition during pregnancy. Further research addressing these mechanisms is crucial to determining the relationship between changes in maternal fat and both maternal and fetal well-being.

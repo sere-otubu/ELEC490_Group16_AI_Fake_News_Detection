@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chromosomes
+TITLE: Human chromosomes with shorter telomeres and large heterochromatin regions have a higher frequency of acquired somatic cell aneuploidy.
+PMID: 15336914
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15336914/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Both telomere shortening and increases in aneuploidy frequencies have been associated with aging. To test if these chromosomal attributes are correlated, chromosome-specific telomere lengths and aneuploidy frequencies were estimated and compared. Aneuploidy frequencies were determined for 10 autosomes (1, 3, 5, 8, 9, 10, 13, 16, 17, 21) and the X chromosome in lymphocytes, and for chromosomes 17 and X in buccal mucosa cells. Overall, chromosomal loss was seen more often than gain in lymphocytes, with the highest loss rates being observed for chromosomes X (3.03%), 17 (2.00%), and the autosomes having large blocks of heterochromatin (1 [1.93%]; 16 [1.53%]; and 9 [1.05%]). The frequencies of loss were significantly lower in the buccal mucosa cells compared to lymphocytes for chromosomes 17 (P = 0.006) and X (P = 0.003). However, the chromosome 17 trisomy frequencies did not vary between tissues. Using a semi-quantitative FISH assay to estimate chromosome-specific telomere length, a significant negative correlation (r = -0.379; P = 0.007) was seen for chromosomal aneuploidy and telomere length, with chromosomes having higher loss rates being noted to have shorter telomeres. Collectively, these studies show that acquired, spontaneous chromosomal loss is associated with multiple factors including the amount of heterochromatin, the chromosome's telomere length, and tissue-specific factors.

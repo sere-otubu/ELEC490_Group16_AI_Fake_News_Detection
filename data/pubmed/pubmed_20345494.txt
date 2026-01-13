@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Proton pump inhibitors
+TITLE: Proton pump inhibitors and clopidogrel.
+PMID: 20345494
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20345494/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Proton pump inhibitors are often prescribed for patients on clopidogrel to prevent gastrointestinal bleeding complications. Recent data suggest higher rates of adverse cardiovascular events in patients on proton pump inhibitors and clopidogrel, in comparison to patients on clopidogrel only. Both drugs are metabolized by similar pathways of the cytochrome P450 system, so proton pump inhibitors may inhibit the metabolism of clopidogrel to its active metabolite. This article reviews the pharmacodynamic and clinical evidence for this phenomenon.

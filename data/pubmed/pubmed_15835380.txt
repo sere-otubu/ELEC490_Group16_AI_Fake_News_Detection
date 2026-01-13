@@ -1,0 +1,8 @@
+SEARCH_TOPIC: ACE inhibitors
+TITLE: ACE inhibitors and chronotherapy.
+PMID: 15835380
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15835380/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Chronotherapy can improve the effectiveness and reduce the adverse reactions of drugs and actually is used for several conditions including cardiovascular diseases. Although angiotensin converting enzyme (ACE) inhibitors are available for the therapy of patients with hypertension and/or heart failure, these agents have some characteristic adverse effects such as angioedema and dry cough. It has been reported that the dosing of ACE inhibitor at an inactive period has a better protective effect against cardiac hypertrophy in hypertensive rats, and changing dosing time from morning to evening reduces the severity and frequency of the drug-induced dry cough of hypertensive patients treated in the morning. Thus, the dosing of ACE inhibitors in the inactive span is more effective and safe. Dosing in the evening may be an alternative for hypertensives with dry cough with a morning dose of ACE inhibitors, if one ascertains that no circadian hyperamplitude tension is induced by the evening dose of this or any other antihypertensive drug.

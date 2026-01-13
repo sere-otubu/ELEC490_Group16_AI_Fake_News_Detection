@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gestational Diabetes
+TITLE: Gestational Diabetes and Breastfeeding Outcomes: A Systematic Review.
+PMID: 30832484
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30832484/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Studies of gestational diabetes mellitus in relation to breastfeeding are limited, while their findings are inconsistent. This systematic review was conducted to assess the associations between gestational diabetes and breastfeeding outcomes. An initial search of PubMed, Web of Science, and ProQuest identified 518 studies, and after applying the inclusion criteria, 16 studies were finally included in the review. Four studies reported that "exclusive/predominant/full breastfeeding" rates at discharge were lower in mothers with gestational diabetes than in those without gestational diabetes, and 2 studies showed a shorter duration of "exclusive/predominant breastfeeding" in the former than in the latter. However, most studies found no apparent difference in the rate of "breastfeeding initiation", "any breastfeeding" duration, or "any breastfeeding" in hospital and at discharge between mothers with and without gestational diabetes. In summary, mothers with gestational diabetes were less likely to exclusively breastfeed their infants and may have a shorter breastfeeding duration than other mothers.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Typhoid fever
+TITLE: Enteric Fever.
+PMID: 27796818
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27796818/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Enteric fever is an important public-health problem in India. The clinical presentation of typhoid fever is very variable, ranging from fever with little other morbidities to marked toxemia and associated multisystem complications. Fever is present in majority of patients (>90 %) irrespective of their age group. Mortality is higher in younger children. Blood culture remains gold standard for diagnosis. Widal test has low sensitivity and specificity but may be used in second week to support the diagnosis. Emerging resistance to several antibiotics should be kept in mind when selecting antibiotics or revising the treatment. The key preventive strategies are safe water, safe food, personal hygiene, and appropriate sanitation. Vaccination is an additional effective tool for prevention.

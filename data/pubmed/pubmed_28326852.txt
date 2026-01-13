@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sleep hygiene
+TITLE: Sleep outcomes following sleep-hygiene-related interventions for individuals with traumatic brain injury: A systematic review.
+PMID: 28326852
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28326852/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Sleep disturbance is commonly reported following traumatic brain injury (TBI) and can adversely impact health and wellbeing and interfere with the rehabilitation process. As such, effective treatment of sleep disturbance is critical for overall recovery. Sleep hygiene, which is non-invasive, low cost, and low risk, could serve as a suitable first line of treatment for individuals experiencing sleep disturbance post-TBI. To assess the efficacy of sleep hygiene on sleep outcomes post-TBI. PsycINFO, Medline and EMBASE databases were systematically searched using mesh terms and keywords related to 'traumatic brain injury', 'sleep' and 'treatment'. Studies that met inclusion criteria were assessed on their methodological quality using validated assessment tools. Ten studies met inclusion criteria, none of which contained a child or adolescent population. Their methodological quality varied. The following interventions were shown to improve sleep outcomes amongst adults with TBI: Cognitive Behaviour Therapy for Insomnia, blue light therapy, Problem Solving Treatment and combined sleep hygiene and Prazosin. There was mixed evidence for the efficacy of exercise on sleep outcomes. Preliminary findings suggest that some sleep-hygiene-related interventions, either in isolation or in combination with other treatments, may reduce sleep difficulties post-TBI.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Malaria
+TITLE: Animal Models of Malaria-Associated Acute Kidney Injury.
+PMID: 40374463
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40374463/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Malaria-associated acute kidney injury (MAKI) is a critical complication of severe malaria, particularly in infections caused by Plasmodium falciparum, which is responsible for most malaria-related deaths. MAKI affects 40-60% ofs severe malaria cases, significantly increasing mortality, especially in pediatric patients. Its pathogenesis remains unclear, though mechanisms such as hemodynamic disturbances, oxidative stress, and immune responses are implicated. Animal models, particularly murine and nonhuman primates, provide valuable insights into MAKI's underlying processes. Murine models, though not fully replicative of human malaria, allow for the exploration of immune responses, kidney injury biomarkers, and therapeutic approaches. Nonhuman primate models, closer to human physiology, offer additional complexity for studying malaria's renal manifestations. This review critically examines the existing animal models, addressing their strengths and limitations in replicating human MAKI and highlighting the importance of advancing research in this field to develop targeted treatments. Semin Nephrol 36:x-xx © 20XX Elsevier Inc. All rights reserved.

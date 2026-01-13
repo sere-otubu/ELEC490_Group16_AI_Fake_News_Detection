@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HPV infection
+TITLE: HPV infection status among women of all ages in Jinshan District, Shanghai.
+PMID: 39520119
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39520119/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+We explored the prevalence of human papillomavirus (HPV) infection among women in Jinshan District, Shanghai. We analyzed all HPV testing samples sent from our unit between December 2023 and April 2024. We reported the HPV prevalence overall, by age, and by subtype. In total, 3788 women aged 16 to 90 years had HPV test results. The prevalence of infection with any HPV subtype was 17.9%. The HPV prevalence by age group was: ≤30 years, 15.4%; 31-40 years, 14.7%; 41-50 years, 17.0%; 51-60 years, 22.4%; >60 years, 31.0%. Among HPV-positive women, 80.6% had infection with one subtype, 16.4% had dual infection, and 3.1% had three or more subtypes detected. We found 640 cases (16.9%) of infection with high-risk HPV subtypes and 139 cases (5.04%) of infection with low-risk HPV subtypes. The most common high-risk subtypes were HPV 52, 53, 58, and 16; the most common low-risk subtypes were HPV 81, 70, and 42. We detected ≥1 HPV subtype among most women in our study. The prevalence of HPV was lowest in younger women and highest in women age >60 years. Tailored strategies for older women are needed to prevent HPV infection and cervical cancer.

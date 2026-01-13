@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cognitive behavioral therapy
+TITLE: Mechanisms of cognitive behavioural therapy for insomnia.
+PMID: 36866434
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36866434/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although much is known now about behavioural, cognitive and physiological consequences of insomnia, little is known about changes after cognitive behavioural therapy for insomnia on these particular factors. We here report baseline findings on each of these factors in insomnia, after which we address findings on their changes after cognitive behavioural therapy. Sleep restriction remains the strongest determinant of insomnia treatment success. Cognitive interventions addressing dysfunctional beliefs and attitudes about sleep, sleep-related selective attention, worry and rumination further drive effectiveness of cognitive behavioural therapy for insomnia. Future studies should focus on physiological changes after cognitive behavioural therapy for insomnia, such as changes in hyperarousal and brain activity, as literature on these changes is sparse. We introduce a detailed clinical research agenda on how to address this topic.

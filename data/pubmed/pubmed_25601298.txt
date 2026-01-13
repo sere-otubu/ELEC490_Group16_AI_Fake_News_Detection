@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cochlear implants
+TITLE: Considering optogenetic stimulation for cochlear implants.
+PMID: 25601298
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25601298/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Electrical cochlear implants are by far the most successful neuroprostheses and have been implanted in over 300,000 people worldwide. Cochlear implants enable open speech comprehension in most patients but are limited in providing music appreciation and speech understanding in noisy environments. This is generally considered to be due to low frequency resolution as a consequence of wide current spread from stimulation contacts. Accordingly, the number of independently usable stimulation channels is limited to less than a dozen. As light can be conveniently focused, optical stimulation might provide an alternative approach to cochlear implants with increased number of independent stimulation channels. Here, we focus on summarizing recent work on optogenetic stimulation as one way to develop optical cochlear implants. We conclude that proof of principle has been presented for optogenetic stimulation of the cochlea and central auditory neurons in rodents as well as for the technical realization of flexible μLED-based multichannel cochlear implants. Still, much remains to be done in order to advance the technique for auditory research and even more for eventual clinical translation. This article is part of a Special Issue entitled <Lasker Award>.

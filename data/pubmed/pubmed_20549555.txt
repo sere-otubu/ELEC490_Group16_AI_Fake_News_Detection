@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ultrasound
+TITLE: Molecular ultrasound assessment of tumor angiogenesis.
+PMID: 20549555
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20549555/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Angiogenesis, the growth of new blood vessels, plays a critical role in progression of tumor growth and metastasis, making it an attractive target for both cancer imaging and therapy. Several molecular markers, including those that are involved in the angiogenesis signaling pathway and those unique to tumor angiogenic vessels, have been identified and can be used as targets for molecular imaging of cancer. With the introduction of ultrasound contrast agents that can be targeted to those molecular markers, targeted contrast-enhanced ultrasound (molecular ultrasound) imaging has become an attractive imaging modality to non-invasively assess tumor angiogenesis at the molecular level. The advantages of molecular ultrasound imaging such as high temporal and spatial resolution, non-invasiveness, real-time imaging, relatively low cost, lack of ionizing irradiation and wide availability among the imaging community will further expand its roles in cancer imaging and drug development both in preclinical research and future clinical applications.

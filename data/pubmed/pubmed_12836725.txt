@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Eating disorders
+TITLE: Eating disorders.
+PMID: 12836725
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12836725/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Anorexia nervosa, bulimia nervosa, and eating disorders not otherwise specified remain a significant cause of morbidity and mortality in girls and young women. Management of eating disorders typically requires a multidisciplinary team approach, often spear-headed by the clinician initially detecting the illness. This article addresses the definitions and prevalence of eating disorders, tips on recognition and management of medical complications, and reproductive health concerns for these young women. Issues surrounding care of the patient with the female athlete triad, or amenorrhea, osteopenia, and eating disorders, are also discussed.

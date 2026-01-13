@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lung cancer
+TITLE: Immunotherapy for resectable lung cancer.
+PMID: 40334018
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40334018/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lung cancer remains a significant global health challenge, demanding innovative treatment strategies. Immune checkpoint blockade has revolutionized cancer care, leading to improved survival across advanced malignancies and has now become a standard therapy for earlier stage, resectable lung cancer. This review article consolidates the current landscape and future prospects of neoadjuvant and perioperative immunotherapy in lung cancer. The authors outline key findings from clinical trials in resectable lung cancer, including early efficacy, safety profiles, and emerging impact on disease recurrence, and overall survival. Additionally, this review elucidates the challenges encountered, including patient selection criteria, optimal treatment schedules, immune-related adverse events, and impact on surgery. This comprehensive analysis amalgamates current evidence with future directions, providing a roadmap for clinicians, researchers, and stakeholders to navigate the dynamic realm of immunotherapy for surgically resectable lung cancer.

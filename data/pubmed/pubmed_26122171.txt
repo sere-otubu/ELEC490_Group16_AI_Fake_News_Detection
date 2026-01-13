@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Type 1 allergies
+TITLE: Biomarkers for antigen immunotherapy in allergy and type 1 diabetes.
+PMID: 26122171
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26122171/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Allergy and type 1 diabetes are immune mediated diseases that, despite being etiologically distinct, each have inappropriate activation and effector function of antigen-specific T cells in the pathogenic process. Understanding changes in the frequency and phenotype of these cells is critical to improve assessment of disease diagnosis and prognosis and effectively assess immunological response to therapy. In the setting of antigen-specific therapy in allergy and type 1 diabetes, assays to monitor the immunological mechanisms of disease have been improving in recent years, and we are getting closer to an accurate understanding of how the cellular immune response is modulated during treatment. In this review, we summarize the current state of cell-based immune monitoring of antigen therapy trials. We then discuss emerging advances in antigen-specific biomarkers that are transforming our knowledge about allergy and that have the potential to dramatically impact our understanding of T cell-mediated autoimmune diseases, such as type 1 diabetes.

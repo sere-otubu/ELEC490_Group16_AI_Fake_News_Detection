@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HIV AIDS
+TITLE: Exosomes in HIV infection.
+PMID: 34321416
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34321416/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The exosomes play a critical role in HIV infection, which constitute a pathway to release intracellular material and exchange material and information between cells. Exosomes have become a hotspot in the field of AIDS research. This review introduces the formation process of HIV particles and exosomes, and summarizes the role of exosomes in the progression of HIV disease from multiple aspects. Many components of the exosomes involved in HIV transfer and replication affect the occurrence, development, and outcome of AIDS, and are closely related to HIV infection. Exosomes can have a dual impact on HIV infection, and play an important role in activating the latent reservoir of HIV and affecting the chronic inflammation of HIV. The biological information carried by exosomes is also of great significance for the prediction of HIV disease. The present review summarizes the role of exosomes in HIV disease progression in various aspects in order to further understand the underlying mechanism affecting the infection and providing a new idea for the clinical diagnosis and treatment of AIDS.

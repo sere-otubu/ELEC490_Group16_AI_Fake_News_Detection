@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Crohns disease
+TITLE: Location is important: differentiation between ileal and colonic Crohn's disease.
+PMID: 33712743
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33712743/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Crohn's disease can affect any part of the gastrointestinal tract; however, current European and national guidelines worldwide do not differentiate between small-intestinal and colonic Crohn's disease for medical treatment. Data from the past decade provide evidence that ileal Crohn's disease is distinct from colonic Crohn's disease in several intestinal layers. Remarkably, colonic Crohn's disease shows an overlap with regard to disease behaviour with ulcerative colitis, underlining the fact that there is more to inflammatory bowel disease than just Crohn's disease and ulcerative colitis, and that subtypes, possibly defined by location and shared pathophysiology, are also important. This Review provides a structured overview of the differentiation between ileal and colonic Crohn's disease using data in the context of epidemiology, genetics, macroscopic differences such as creeping fat and histological findings, as well as differences in regard to the intestinal barrier including gut microbiota, mucus layer, epithelial cells and infiltrating immune cell populations. We also discuss the translation of these basic findings to the clinic, emphasizing the important role of treatment decisions. Thus, this Review provides a conceptual outlook on a new mechanism-driven classification of Crohn's disease.

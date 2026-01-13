@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Laparoscopic surgery
+TITLE: Laparoscopic surgery for cancer patients.
+PMID: 9371056
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9371056/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Laparoscopy is an effective tool for diagnosis and staging of malignancies. Laparoscopic resection of abdominal tumors has been performed rarely, with two exceptions: laparoscopic adrenalectomy and laparoscopic resection of colorectal cancer. One of the best applications of minimally invasive surgery is the use of laparoscopic techniques for palliation of abdominal cancer. Requiring thorough training and preparation of surgeons and mandating their strict credentialing will reduce the risk of complications from laparoscopic surgery.

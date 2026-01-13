@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Laparoscopic surgery
+TITLE: Laparoscopic surgery for subfertility related to endometriosis: a meta-analysis.
+PMID: 25286781
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25286781/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Endometriosis is the presence of an endometrial gland or stroma in sites other than the uterine cavity and it is frequently diagnosed in infertile women. It has not been well established whether laparoscopic surgery improves fertility. The objective of this study was to assess the effectiveness of laparoscopic surgery for subfertility related to endometriosis. Main electronic databases were searched for randomized and nonrandomized controlled trials. Trials were included if they were randomized or nonrandomized controlled trials that compared the effectiveness of laparoscopic surgery in the treatment of subfertility associated with endometriosis versus other treatment methods or diagnostic laparoscopy only. Six studies were included in this meta-analysis. Outcomes analyzed included live birth rate, pregnancy rate, fetal losses, and surgical complications. An overall advantage of laparoscopic surgery was demonstrated when analyzing live birth rate [relative risk (RR) 1.52, 95% confidence interval (CI) 1.26-1.84, p < 0.01]. An increase in pregnancy rate after laparoscopic surgery was seen (RR of 1.44, 95% CI 1.24-1.68, p < 0.01). No significant difference in foetal losses. The use of laparoscopic surgery in the treatment of subfertility related to minimal endometriosis may increase the chances of future pregnancy and live birth.

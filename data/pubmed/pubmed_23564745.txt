@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Heart anatomy
+TITLE: How useful is YouTube in learning heart anatomy?
+PMID: 23564745
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23564745/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Nowadays more and more modern medical degree programs focus on self-directed and problem-based learning. That requires students to search for high quality and easy to retrieve online resources. YouTube is an emerging platform for learning human anatomy due to easy access and being a free service. The purpose of this study is to make a quantitative and qualitative analysis of the available human heart anatomy videos on YouTube. Using the search engine of the platform we searched for relevant videos using various keywords. Videos with irrelevant content, animal tissue, non-English language, no sound, duplicates, and physiology focused were excluded from further elaboration. The initial search retrieved 55,525 videos, whereas only 294 qualified for further analysis. A unique scoring system was used to assess the anatomical quality and details, general quality, and the general data for each video. Our results indicate that the human heart anatomy videos available on YouTube conveyed our anatomical criteria poorly, whereas the general quality scoring found borderline. Students should be selective when looking up on public video databases as it can prove challenging, time consuming, and the anatomical information may be misleading due to absence of content review. Anatomists and institutions are encouraged to prepare and endorse good quality material and make them available online for the students. The scoring rubric used in the study comprises a valuable tool to faculty members for quality evaluation of heart anatomy videos available on social media platforms.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insulin regulation
+TITLE: Hepatic selective insulin resistance at the intersection of insulin signaling and metabolic dysfunction-associated steatotic liver disease.
+PMID: 38718757
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38718757/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Insulin resistance (IR) is a major pathogenic factor in the progression of MASLD. In the liver, insulin suppresses gluconeogenesis and enhances de novo lipogenesis (DNL). During IR, there is a defect in insulin-mediated suppression of gluconeogenesis, but an unrestrained increase in hepatic lipogenesis persists. The mechanism of increased hepatic steatosis in IR is unclear and remains controversial. The key discrepancy is whether insulin retains its ability to directly regulate hepatic lipogenesis. Blocking insulin/IRS/AKT signaling reduces liver lipid deposition in IR, suggesting insulin can still regulate lipid metabolism; hepatic glucose metabolism that bypasses insulin's action may contribute to lipogenesis; and due to peripheral IR, other tissues are likely to impact liver lipid deposition. We here review the current understanding of insulin's action in governing different aspects of hepatic lipid metabolism under normal and IR states, with the purpose of highlighting the essential issues that remain unsettled.

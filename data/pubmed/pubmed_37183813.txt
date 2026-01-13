@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Generalized anxiety disorder
+TITLE: Pharmacological Treatment of Generalised Anxiety Disorder: Current Practice and Future Directions.
+PMID: 37183813
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37183813/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Generalized Anxiety Disorder (GAD) is a common psychiatric condition, characterized by the presence of general apprehensiveness and excessive worry. Current management consists of a range of pharmacological and psychological treatments. However, many patients do not respond to first-line pharmacological treatments and novel anxiolytic drugs are being developed. In this review, the authors first discuss the diagnostic criteria and epidemiology of GAD. The effective pharmacological treatments for GAD and their tolerability are addressed. Current consensus guidelines for treatment of GAD are discussed, and maintenance treatment, the management of treatment resistance, and specific management of older adults and children/adolescents are considered. Finally, novel anxiolytics under development are discussed, with a focus on those which have entered clinical trials. A range of effective treatments for GAD are available, particularly duloxetine, escitalopram, pregabalin, quetiapine, and venlafaxine. There is a limited evidence base to support the further pharmacological management of patients with GAD who have not responded to initial treatment. Although many novel anxiolytics have progressed to clinical trials, translation from animal models has been mostly unsuccessful. However, the potential of several compounds including certain psychedelics, ketamine, oxytocin, and agents modulating the orexin, endocannabinoid, and immune systems merits further study.

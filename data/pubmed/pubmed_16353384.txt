@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Melanoma
+TITLE: Malignant melanoma of the auricle.
+PMID: 16353384
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16353384/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Malignant melanomas are found in a variety of locations, ranging from sun-exposed skin to the nasal cavity and paranasal sinuses. Melanomas arising in the head and neck region comprise some 20% of all melanomas; of these, 7-15% occur in the vicinity of the external ear (most often on the helix). Auricular melanomas, like those arising elsewhere, are rare in childhood and are most often first diagnosed in men in their 50s. Melanomas of the external ear may present as flat pigmented lesions or as raised mass lesions; amelanotic (non-pigmented) variants exist as well. Auricular melanomas are frequently recognized pathologically as either superficial spreading melanomas or nodular melanomas. These tumors are aggressive, with a propensity for spreading to both regional lymph nodes and distant sites. Key pathologic prognostic features of auricular melanomas include the histological subtype, tumor thickness, level of invasion and presence of ulceration. Therapy includes both aggressive surgical attempts at excision in combination with sentinel node sampling in some instances and perhaps, adjuvant therapy as well. This is a tumor which is often overlooked until late in its course, with tragic consequences; vigilance and aggressive attempts at identifying these tumors at earlier stages are strongly advocated.

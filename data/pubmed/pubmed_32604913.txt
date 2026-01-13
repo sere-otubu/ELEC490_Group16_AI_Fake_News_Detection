@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Psychotherapy
+TITLE: Impact of Psychotherapy on Psychosocial Functioning in Borderline Personality Disorder Patients.
+PMID: 32604913
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32604913/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Borderline Personality Disorder (BPD) significantly impairs functioning. Fortunately, effective treatments are available for borderline symptoms but their effect on functioning should be assessed. The objective of this meta-analysis is to assess the effect of specifically-designed versus non-specifically designed psychotherapies on function in adult patients with BPD. The reference list of Cristea et al. 2017 was used to identify the randomized controlled trials (RCTs) assessing the BPD-specifically-designed psychotherapy versus non-specific psychotherapies in adult BPD patients. Among those, RCTs assessing post-treatment functioning using the Global Assessment of Functioning, Social Adjustment Scale-Self-Report and Inventory of Interpersonal Problems were included. Ten trials (880 participants) were included. Summary effect size was calculated using the measured Hedge's g. The results indicate the BPD patients in the intervention group had a significantly higher (g = 0.41; 95% CI, 0.09-0.73) level of psychosocial functioning after receiving the specifically-designed psychotherapies in comparison with BPD patients in control groups after receiving non-specific psychotherapies. Specifically-designed psychotherapies can improve psychosocial functioning although improvement in measurement of function (i.e., more objective and universal tools) and improvement in psychotherapies (i.e., more focused on general functioning) will be helpful.

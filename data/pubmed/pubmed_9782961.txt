@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Eczema
+TITLE: Hand eczema.
+PMID: 9782961
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9782961/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hand eczema is a common disorder of healthcare providers. The pattern of eczema can help to distinguish endogenous (dyshidrosis, atopy) causes from exogenous (contact irritant and allergic dermatitis) and the common differential diagnoses (psoriasis, fungus infections). Appropriate strength topical steroids, moisturizers, antibacterials, and systemic agents are all used to treat hand eczema depending on the type of eczema and its severity. Patients with contact allergic eczema should be assessed for possible latex allergy.

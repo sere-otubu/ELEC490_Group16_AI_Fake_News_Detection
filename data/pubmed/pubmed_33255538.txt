@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Micronutrients
+TITLE: Micronutrients and Breast Cancer Progression: A Systematic Review.
+PMID: 33255538
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33255538/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Epidemiological studies on micronutrient consumption have reported protective associations in the incidence and/or progression of various cancer types. Supplementation with some of these micronutrients has been analyzed, showing chemoprotection, low toxicity, antiproliferation, and the ability to modify epigenetic signatures in various cancer models. This review investigates the reported effects of micronutrient intake or supplementation in breast cancer progression. A PubMed search was conducted with the keywords "micronutrients breast cancer progression", and the results were analyzed. The selected micronutrients were vitamins (C, D, and E), folic acid, metals (Cu, Fe, Se, and Zn), fatty acids, polyphenols, and iodine. The majority of in vitro models showed antiproliferative, cell-cycle arrest, and antimetastatic effects for almost all the micronutrients analyzed, but these effects do not reflect animal or human studies. Only one clinical trial with vitamin D and one pilot study with molecular iodine showed favorable overall survival and disease-free interval.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chemotherapy
+TITLE: Mitochondria: gatekeepers of response to chemotherapy.
+PMID: 24060597
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24060597/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Mitochondria are cellular organelles that regulate commitment to and execution of apoptosis. The intrinsic apoptotic pathway culminates in the permeabilization of the mitochondrial outer membrane and dismantling of the cell. Apoptosis of cancer cells is a favorable outcome when administering chemotherapeutic treatment, yet the basis for why some cancers are sensitive to chemotherapy whereas others are not has historically been poorly understood. In this review, we present recent work that has demonstrated the importance of mitochondrial apoptotic priming, or how close a cell is to the threshold of apoptosis, in determining whether a cell will undergo apoptosis after chemotherapy treatment. Differential levels of apoptotic priming in tumors create bona fide opportunities and challenges for effective use of targeted and cytotoxic chemotherapies.

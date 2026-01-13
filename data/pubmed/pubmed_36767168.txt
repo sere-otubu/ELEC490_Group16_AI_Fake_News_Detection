@@ -1,0 +1,8 @@
+SEARCH_TOPIC: PTSD
+TITLE: PTSD (Posttraumatic Stress Disorder) in Teachers: A Mini Meta-Analysis during COVID-19.
+PMID: 36767168
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36767168/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Since March 2020, when the World Health Organization (WHO) declared the COVID-19 pandemic, in order to stop the spread of the virus, unprecedented measures were taken worldwide. One of the most important measures was the closure of schools and educational centers around the world in 2020, and very extreme health protocols have been in place in educational centers since they were reopened. From early childhood education to universities, teachers first had to adapt in a short period time to online classes and then continuously readapt to new protocols according to the pandemic situation. This academic environment, in addition to the pandemic situation itself, has favored the emergence of mental disorders such as Post-Traumatic Stress Disorder (PTSD). Medline via PubMed and other databases were searched for studies on the prevalence of PTSD in teachers from 1 December 2019 to 1 October 2022. A total of five studies were included in this review. Our results show a prevalence of PTSD of 11% reported by teachers. No subgroups nor meta-regression analyses were performed due to the insufficient number of studies available. The results suggest that teachers are suffering from PTSD, so it is important to carry out more studies worldwide. Similarly, measures to improve the mental health and well-being of teachers during the pandemic and post-pandemic periods are needed.

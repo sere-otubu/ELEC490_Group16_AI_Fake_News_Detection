@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Whey protein
+TITLE: Invited review: Astringency in whey protein beverages.
+PMID: 32448585
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32448585/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Astringency is the sensation of mouth drying and puckering, and it has also been described as a loss of lubrication in the mouth. Astringency is perceived as an increase in oral friction or roughness. Astringency caused by tannins and other polyphenols has been well documented and studied. Whey proteins are popular for their functional and nutritional quality, but they exhibit astringency, particularly under acidic conditions popular in high acid (pH 3.4) whey protein beverages. Acids cause astringency, but acidic protein beverages have higher astringency than acid alone. Whey proteins are able to interact with salivary proteins, which removes the lubricating saliva layer of the mouth. Whey proteins can also interact directly with epithelial tissue. These various mechanisms of astringency limit whey protein ingredient applications because astringency is undesirable to consumers. A better understanding of the causes of whey protein astringency will improve our ability to produce products that have high consumer liking and deliver excellent nutrition.

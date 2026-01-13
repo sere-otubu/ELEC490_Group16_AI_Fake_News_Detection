@@ -1,0 +1,8 @@
+SEARCH_TOPIC: BMI accuracy
+TITLE: Neurocognitive factors predicting BMI changes from adolescence to young adulthood.
+PMID: 38529547
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38529547/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The objective of this study was to assess whether inhibitory task performance in adolescence could be prospectively related to weight gain in young adulthood. We proposed that this association would differ according to the BMI group in adolescence. A total of 318 adolescents performed the anti-saccade task, and 530 completed the Stroop test. Accuracy and reaction time were assessed for each incentive type (neutral, loss, and reward) in the anti-saccade task and for each trial type (control and incongruent trials) in the Stroop test. Changes in the BMI z score (∆BMI z score) from adolescence to young adulthood were calculated. The relationship between the BMI z score and the anti-saccade task accuracy showed an effect on the ∆BMI z score (β = -0.002, p < 0.05). The neutral and loss accuracies were related to ∆BMI z score in the groups with overweight (all β = -0.004, p = 0.05) and obesity (β = -0.006 and β = -0.005, p < 0.01). The interaction between adolescents' BMI z score with control (β = -0.312, p < 0.001) and incongruent (β = -0.384, p < 0.001) trial reaction times showed an effect on the ∆BMI z score. Control (β = 0.730, p = 0.036) and incongruent (β = 0.535, p = 0.033) trial reaction times were related to ∆BMI z score in the group with overweight. Our findings support the hypothesis that cognitive vulnerability could predict the BMI gain from adolescence to young adulthood.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Trans fats risks
+TITLE: The toxicity of dietary trans fats.
+PMID: 25684416
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25684416/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cardiovascular disease remains the leading cause of death today. Trans fatty acids have been identified as an important cause of cardiovascular disease and the resulting clinical end points such as strokes and heart attacks. Although legislative efforts have limited the trans fats in our diet, significant amounts remain. Understanding the impact trans fats have on our body, therefore, remains a critical focus of study. In addition, paradoxically, recent research has now identified an important cardioprotective role for a sub-category of trans fats, the ruminant trans fats. Learning more about the mechanisms responsible for not only the toxic actions of trans fats but also their potential as beneficial compounds within our diet is essential to modulate cardiovascular disease today.

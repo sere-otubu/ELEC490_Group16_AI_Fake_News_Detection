@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Endoscopy
+TITLE: [Endoscopy and face-lift].
+PMID: 28780042
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28780042/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+For many years, the face-lift has not been the only intervention for facial rejuvenation. It is necessary today to specify the type of face-lift, cervico-facial lifting, frontal lifting or facelift. We will consider in this article the frontal lift and centro-facial lift and its possible execution assisted by endoscopy with therefore minimal scars, hidden in the scalp. We will consider successively its technique, its indications and its results highlighting a very long hold over time.

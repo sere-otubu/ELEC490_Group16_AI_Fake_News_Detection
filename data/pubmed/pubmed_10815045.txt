@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rosacea
+TITLE: Rosacea.
+PMID: 10815045
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10815045/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Rosacea is a common skin disorder most often seen in individuals between the ages of 30 and 60. The condition frequently produces erythema, papules, pustules, and edema of midfacial skin. Ocular rosacea occurs in a high percentage of patients, and is a major cause of red eye. A variety of treatments exist that can eliminate pustules, but no therapy is highly effective in eliminating the vascular flushing associated with rosacea.

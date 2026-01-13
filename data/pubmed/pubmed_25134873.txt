@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Seasonal affective disorder
+TITLE: Seasonal affective disorder, grief reaction, and adjustment disorder.
+PMID: 25134873
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25134873/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Seasonal affective disorder is a subtype of other affective disorders. The most studied treatment is light therapy, although second-generation antidepressants are also an option. Grief reactions are normal for patients experiencing loss, and primary care providers (PCPs) should be aware of both the expected course of grief and the more severe symptoms that indicate complex grief. Adjustment disorder is a time-limited abnormal response to a stressor. PCPs can manage patients with adjustment disorder by arranging counseling, screening for suicidality, assessing for substance abuse, and ruling out other psychiatric diagnoses. At present there are no reliable data to suggest medication management.

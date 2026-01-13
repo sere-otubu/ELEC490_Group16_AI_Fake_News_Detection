@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Placebo effect
+TITLE: The placebo effect in asthma.
+PMID: 24951239
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24951239/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The placebo effect is a complex phenomenon occurring across a variety of clinical conditions. While much placebo research has been conducted in diseases defined by self-report such as depression, chronic pain, and irritable bowel syndrome (IBS), asthma has been proposed as a useful model because of its easily measured objective outcomes. Studies examining the placebo response in asthma have not only contributed to an understanding of the mechanisms behind the placebo response but also shed an interesting light on the current treatment and diagnosis of asthma. This paper will review current literature on placebos in general and specifically on the placebo response in asthma. It focuses on what we know about the mechanisms behind the placebo effect, whether there is a specific portion of the population who responds to placebos, which patient outcomes are influenced by the placebo effect, and whether the effect can be augmented.

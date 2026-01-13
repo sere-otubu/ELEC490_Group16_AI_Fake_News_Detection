@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Healthy fats
+TITLE: Current evidence on healthy eating.
+PMID: 23297654
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23297654/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Large nutritional epidemiology studies, with long-term follow-up to assess major clinical end points, coupled with advances in basic science and clinical trials, have led to important improvements in our understanding of nutrition in primary prevention of chronic disease. Although much work remains, sufficient evidence has accrued to provide solid advice on healthy eating. Good data now support the benefits of diets that are rich in plant sources of fats and protein, fish, nuts, whole grains, and fruits and vegetables; that avoid partially hydrogenated fats; and that limit red meat and refined carbohydrates. The simplistic advice to reduce all fat, or all carbohydrates, has not stood the test of science; strong evidence supports the need to consider fat and carbohydrate quality and different protein sources. This article briefly summarizes major findings from recent years bearing on these issues.

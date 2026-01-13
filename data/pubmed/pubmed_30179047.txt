@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Robotic surgery
+TITLE: Paediatric robotic surgery.
+PMID: 30179047
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30179047/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A review of the current status of robotic surgery use in paediatrics.

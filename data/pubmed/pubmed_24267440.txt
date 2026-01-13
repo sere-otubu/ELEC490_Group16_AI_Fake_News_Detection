@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rural healthcare
+TITLE: Telemedicine and advances in urban and rural healthcare delivery in Africa.
+PMID: 24267440
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24267440/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Telecardiology holds great promise for Africa, from tele-echocardiography and tele-ECG s, to home monitoring and text messaging for medication adherence monitoring. The burden of disease is great and there is an extreme shortage of health professionals. Telemedicine can provide access to scarce specialist care, improve the quality of care in rural areas and reduce the need for rural patients to travel to seek medical attention. International cross border service can alleviate the shortage of doctors. But telecardiology, and telemedicine uptake in general, has been poor in Africa. Legal and ethical issues around local and cross border telemedicine have not been resolved. The literature was reviewed and obstacles to telemedicine in Africa and current telemedicine activities in Africa, are described. There are few sustained telemedicine services in Africa with the exception of tele-education. There is an expectation that mobile phones will facilitate a range of telemedicine activities in Africa. Africa needs telemedicine.

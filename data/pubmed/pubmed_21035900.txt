@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hospice care
+TITLE: Hospice care and the emergency department: rules, regulations, and referrals.
+PMID: 21035900
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21035900/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Emergency clinicians often care for patients with terminal illness who are receiving hospice care and many more patients who may be in need of such care. Hospice care has been shown to successfully address the multidimensional aspects of the end-of-life concerns of terminally ill patients: dying with dignity, dying without pain, reducing the burden on family and caregivers, and achieving a home death, when desired. Traditional emergency medicine training may fail to address hospice as a system of care. When they are unfamiliar with the hospice model, emergency clinicians, patients, and caregivers may find it difficult to properly use and interact with these care services. Potential poor outcomes include the propagation of misleading or inaccurate information about the hospice system and the failure to guide appropriate patient referrals. This article reviews the hospice care service model and benefits offered, who may qualify for hospice care, common emergency presentations in patients under hospice care, and a stepwise approach to initiating a hospice care referral in the emergency department.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Doctor patient communication
+TITLE: Addressing the Diagnostic Miscommunication in Pathology.
+PMID: 33907793
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33907793/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The pathology report serves as a crucial communication tool among a number of stakeholders. It can sometimes be challenging to understand. A communication barrier exists among pathologists, other clinicians, and patients when interpreting the pathology report, leaving both clinicians and patients less empowered when making treatment decisions. Miscommunication can lead to delays in treatment or other costly medical interventions. In this review, we highlight miscommunication in pathology reporting and provide potential solutions to improve communication. Up to one-third of clinicians do not always understand pathology reports. Several causes of report misinterpretation include the use of pathology-specific jargon, different versions of staging or grading systems, and expressions indicative of uncertainty in the pathologist's report. Active communication has proven to be crucial between the clinician and the pathologist to clarify different aspects of the pathology report. Direct communication between pathologists and patients is evolving, with promising success in proof-of-principle studies. Special attention needs to be paid to avoiding inaccuracy while trying to simplify the pathology report. There is a need for active and adequate communication among pathologists, other clinicians, and patients. Clarity and consistency in reporting, quantifying the level of confidence in diagnosis, and avoiding misnomers are key steps toward improving communications.

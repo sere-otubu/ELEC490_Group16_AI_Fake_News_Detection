@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gestational Diabetes
+TITLE: Gestational Diabetes: Underpinning Principles, Surveillance, and Management.
+PMID: 29747732
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29747732/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gestational diabetes mellitus (GDM) is carbohydrate intolerance resulting in hyperglycemia with onset during pregnancy. The article aims to provide clinicians with a working framework to minimize maternal and neonatal morbidity. Landmark historical and recent data are reviewed and presented to provide clinicians with a quick, easy reference for recognition and management of GDM. Data presented tie in insights with underlying pathophysiologic processes leading to GDM. Screening and diagnostic thresholds are discussed along with management upon diagnosis. Good clinical practice regarding screening, diagnosis, and management of GDM effectively reduces risk and improves outcomes of women and fetuses in affected pregnancies.

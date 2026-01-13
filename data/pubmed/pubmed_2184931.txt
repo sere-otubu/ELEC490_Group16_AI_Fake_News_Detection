@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antidepressants
+TITLE: Antidepressants.
+PMID: 2184931
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2184931/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Depressive symptoms are common in the elderly, and depressive illness is the most common of emotional disorders in those of advanced age. This article focuses on the use of antidepressant drugs for the treatment of older depressed patients. To correctly understand the use of antidepressant drugs, it is necessary to first appreciate the medical, neurobiologic, and pharmacologic context within which antidepressant drugs are to be prescribed. Therefore, this article also includes a brief review of the etiology and diagnosis of depression in the elderly.

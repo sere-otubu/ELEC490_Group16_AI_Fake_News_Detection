@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Prostate cancer
+TITLE: Sex Hormones and Prostate Cancer.
+PMID: 31613683
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31613683/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The prostate is an androgen-dependent organ that develops only in male mammals. Prostate cancer is the most common nonskin malignancy in men and the second leading cause of cancer deaths. Metastatic prostate cancer initially retains its androgen dependence, and androgen-deprivation therapy often leads to disease control; however, the cancer inevitably progresses despite treatment as castration-resistant prostate cancer, the lethal form of the disease. Although it was assumed that the cancer became androgen independent during this transition, studies over the last two decades have shown that these tumors evade treatment via mechanisms that augment acquisition of androgens from circulating precursors, increase sensitivity to androgens and androgen precursors, bypass the androgen receptor, or a combination of these mechanisms. This review summarizes the history of prostate cancer research leading to the contemporary view of androgen dependence for prostate cancers and the current treatment approaches based on this modern paradigm.

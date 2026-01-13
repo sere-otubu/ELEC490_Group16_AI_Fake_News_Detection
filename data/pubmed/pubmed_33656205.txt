@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insulin regulation
+TITLE: The regulation of food intake by insulin in the central nervous system.
+PMID: 33656205
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33656205/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Food intake and energy expenditure are regulated by peripheral signals providing feedback on nutrient status and adiposity to the central nervous system. One of these signals is the pancreatic hormone, insulin. Unlike peripheral administration of insulin, which often causes weight gain, central administration of insulin leads to a reduction in food intake and body weight when administered long-term. This is a result of feedback processes in regions of the brain that regulate food intake. Within the hypothalamus, the arcuate nucleus (ARC) contains subpopulations of neurones that produce orexinergic neuropeptides agouti-related peptide (AgRP)/neuropeptide Y (NPY) and anorexigenic neuropeptides, pro-opiomelanocortin (POMC)/cocaine- and amphetamine-regulated transcript (CART). Intracerebroventricular infusion of insulin down-regulates the expression of AgRP/NPY at the same time as up-regulating expression of POMC/CART. Recent evidence suggests that insulin activity within the amygdala may play an important role in regulating energy balance. Insulin infusion into the central nucleus of the amygdala (CeA) can decrease food intake, possibly by modulating activity of NPY and other neurone subpopulations. Insulin signalling within the CeA can also influence stress-induced obesity. Overall, it is evident that the CeA is a critical target for insulin signalling and the regulation of energy balance.

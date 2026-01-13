@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Burnout syndrome
+TITLE: The effect of mindfulness training on burnout syndrome in nursing: A systematic review and meta-analysis.
+PMID: 32026484
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32026484/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To analyse the effect of mindfulness training on levels of burnout among nurses. Burnout syndrome is a common occupational hazard for nursing staff. Mindfulness training has been proposed as a valid intervention for burnout. Systematic review and meta-analysis. The CINAHL, LILACS, Medline, ProQuest, PsycINFO, Scielo and Scopus databases were consulted, using the search equation 'Nurs * AND burnout AND mindfulness'. There was no restriction on the year of publication. Papers were selected for analysis in accordance with the PRISMA guidelines. The meta-analysis was carried out using Review Manager 5.3 software. The sample was of 17 articles including 632 nurses. Mindfulness training reduces levels of burnout, producing lower scores for emotional exhaustion and depersonalization and higher for personal accomplishment. The differences in the means were 1.32 (95% CI: -9.41-6.78), 1.91 (95% CI: -4.50-0.68) and 2.12 (95% CI: -9.91-14.14), respectively, between the intervention and control groups. Mindfulness training reduces the emotional burden and hence levels of burnout, among nurses. However, further randomized clinical trials are required.

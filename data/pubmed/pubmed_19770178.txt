@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Liver function
+TITLE: Current views on type 2 diabetes.
+PMID: 19770178
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19770178/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Type 2 diabetes mellitus (T2DM) affects a large population worldwide. T2DM is a complex heterogeneous group of metabolic disorders including hyperglycemia and impaired insulin action and/or insulin secretion. T2DM causes dysfunctions in multiple organs or tissues. Current theories of T2DM include a defect in insulin-mediated glucose uptake in muscle, a dysfunction of the pancreatic beta-cells, a disruption of secretory function of adipocytes, and an impaired insulin action in liver. The etiology of human T2DM is multifactorial, with genetic background and physical inactivity as two critical components. The pathogenesis of T2DM is not fully understood. Animal models of T2DM have been proved to be useful to study the pathogenesis of, and to find a new therapy for, the disease. Although different animal models share similar characteristics, each mimics a specific aspect of genetic, endocrine, metabolic, and morphologic changes that occur in human T2DM. The purpose of this review is to provide the recent progress and current theories in T2DM and to summarize animal models for studying the pathogenesis of the disease.

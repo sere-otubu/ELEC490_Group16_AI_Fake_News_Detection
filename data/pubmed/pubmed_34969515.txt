@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Biopsy
+TITLE: [Not Available].
+PMID: 34969515
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34969515/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The tumor biopsy remains essential for breast cancer diagnosis and characterization. Indeed, the treatment is decided according to histological subtype, and according to the presence of targetable molecular alterations. Notably, the presence of hormone receptors, ERBB2 hyperexpression or the existence of PIK3CA or ESR1 mutations are among the alterations commonly investigated. But these biological characteristics are determined only partially by tumor biopsy, due to tumor heterogeneity or tumor plasticity that happens spontaneously or under treatment. Liquid biopsy, and in particular circulating tumor DNA and circulating tumor cells, is a non-invasive method to identify and characterize the presence of cancer in the blood. The aim of this review is to determine the value of liquid biopsy to enhance or replace the data provided by a tumor biopsy.

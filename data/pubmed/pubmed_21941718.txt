@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hydration importance
+TITLE: Measuring and managing fluid balance.
+PMID: 21941718
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21941718/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ensuring patients are adequately hydrated is an essential part of nursing care, yet a recent report from the Care Quality Commission found "appalling" levels of care in some NHS hospitals, with health professionals failing to manage dehydration. This article discusses the importance of hydration, and the health implications of dehydration and overhydration. It also provides an overview of fluid balance, including how and why it should be measured, and discusses the importance of accurate fluid balance measurements.

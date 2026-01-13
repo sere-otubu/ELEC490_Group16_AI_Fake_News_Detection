@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Male infertility
+TITLE: Microbiology and immune mechanisms associated with male infertility.
+PMID: 36895560
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36895560/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Up to 50% of infertility is caused by the male side. Varicocele, orchitis, prostatitis, oligospermia, asthenospermia, and azoospermia are common causes of impaired male reproductive function and male infertility. In recent years, more and more studies have shown that microorganisms play an increasingly important role in the occurrence of these diseases. This review will discuss the microbiological changes associated with male infertility from the perspective of etiology, and how microorganisms affect the normal function of the male reproductive system through immune mechanisms. Linking male infertility with microbiome and immunomics can help us recognize the immune response under different disease states, providing more targeted immune target therapy for these diseases, and even the possibility of combined immunotherapy and microbial therapy for male infertility.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dementia
+TITLE: Medicare expenditures attributable to dementia.
+PMID: 30868557
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30868557/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To estimate dementia's incremental cost to the traditional Medicare program. Health and Retirement Study (HRS) survey-linked Medicare part A and B claims from 1991 to 2012. We compared Medicare expenditures for 60 months following a claims-based dementia diagnosis to those for a randomly selected, matched comparison group. We used a cost estimator that accounts for differential survival between individuals with and without dementia and decomposes incremental costs into survival and cost intensity components. Dementia's five-year incremental cost to the traditional Medicare program is approximately $15 700 per patient, nearly half of which is incurred in the first year after diagnosis. Shorter survival with dementia mitigates the incremental cost by about $2650. Increased costs for individuals with dementia were driven by more intensive use of Medicare part A covered services. The incremental cost of dementia was about $7850 higher for females than for males because of sex-specific differential mortality associated with dementia. Dementia's cost to the traditional Medicare program is significant. Interventions that target early identification of dementia and preventable inpatient and post-acute care services could produce substantial savings.

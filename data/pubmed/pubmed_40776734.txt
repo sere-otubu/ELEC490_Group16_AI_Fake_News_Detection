@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antioxidants
+TITLE: The role of vitamin C on the skin.
+PMID: 40776734
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40776734/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Vitamin C (ascorbic acid or ascorbate) plays an important role in regulating the health of the skin, promoting the differentiation of epithelial skin cells (keratinocytes) while contributing a notable role in the reduction of melanin synthesis, leading to antioxidative protection against solar-related skin damage. Vitamin C is only sourced from diet because humans have no ability to synthesise it in vivo. Routine dietary intake choices become key in maintaining the skin's integrity, preventing and treating some of the skin conditions encountered regularly by general practitioners and skin specialists alike. There is a strong association between vitamin C and the ageing process, skin pigmentation, control of certain skin diseases and a role in some skin cancers through antioxidation properties. Literature suggests that topical application of vitamin C in different forms of formulations has been demonstrated to have more clinical effect than oral intake.Contribution: This article spotlights the benefits of a vitamin commonly encountered in topical pharmaceutics, ingested as tablets or as part of our routine diet.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antibiotic resistance
+TITLE: Antibiotic resistance: what, why, where, when and how?
+PMID: 26491083
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26491083/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Antibiotic resistance is a threat to the effective prevention and treatment of an ever-increasing range of infections caused by bacteria, parasites, viruses and fungi. Peer-reviewed journal articles, governmental and professional society publications. There is consensus about the development and spread of antibiotic resistance, the reasons for the development of antibiotic resistance and the clinical impact. There is more debate about the most appropriate way of tackling this increasing problem. This review discusses a number of initiatives (local and global) that are being undertaken to protect the antibiotics we currently have available for use and to encourage the development of newer agents.

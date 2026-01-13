@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pancreas function
+TITLE: Function, Failure, and the Future Potential of Tregs in Type 1 Diabetes.
+PMID: 34016597
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34016597/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Critical insights into the etiology of type 1 diabetes (T1D) came from genome-wide association studies that unequivocally connected genetic susceptibility to immune cell function. At the top of the susceptibility are genes involved in regulatory T-cell (Treg) function and development. The advances in epigenetic and transcriptional analyses have provided increasing evidence for Treg dysfunction in T1D. These are well supported by functional studies in mouse models and analysis of peripheral blood during T1D. For these reasons, Treg-based therapies are at the forefront of research and development and have a tangible probability to deliver a long-sought-after successful immune-targeted treatment for T1D. The current challenge in the field is whether we can directly assess Treg function at the tissue site or make informative interpretations based on peripheral data. Future studies focused on Treg function in pancreatic lymph nodes and pancreas could provide key insight into the ultimate mechanisms underlying Treg failure in T1D. In this Perspective we will provide an overview of current literature regarding Treg development and function in T1D and how this knowledge has been applied to Treg therapies.

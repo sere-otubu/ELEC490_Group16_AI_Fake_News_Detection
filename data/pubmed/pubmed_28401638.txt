@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HIIT training
+TITLE: The effects of high-intensity interval training vs. moderate-intensity continuous training on body composition in overweight and obese adults: a systematic review and meta-analysis.
+PMID: 28401638
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28401638/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The objective of this study is to compare the effects of high-intensity interval training (HIIT) and moderate-intensity continuous training (MICT) for improvements in body composition in overweight and obese adults. Trials comparing HIIT and MICT in overweight or obese participants aged 18-45 years were included. Direct measures (e.g. whole-body fat mass) and indirect measures (e.g. waist circumference) were examined. From 1,334 articles initially screened, 13 were included. Studies averaged 10 weeks × 3 sessions per week training. Both HIIT and MICT elicited significant (p < 0.05) reductions in whole-body fat mass and waist circumference. There were no significant differences between HIIT and MICT for any body composition measure, but HIIT required ~40% less training time commitment. Running training displayed large effects on whole-body fat mass for both HIIT and MICT (standardized mean difference -0.82 and -0.85, respectively), but cycling training did not induce fat loss. Short-term moderate-intensity to high-intensity exercise training can induce modest body composition improvements in overweight and obese individuals without accompanying body-weight changes. HIIT and MICT show similar effectiveness across all body composition measures suggesting that HIIT may be a time-efficient component of weight management programs.

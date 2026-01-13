@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Health insurance systems
+TITLE: Health insurance, endogenous medical progress, health expenditure growth, and welfare.
+PMID: 36638641
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36638641/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+We study the impact of health insurance expansion on medical spending, longevity and welfare in an OLG economy in which individuals purchase health care to lower mortality and medical progress is profit-driven. Three sectors are considered: final goods production; a health care sector, selling medical services to individuals; and an R&D sector, selling increasingly effective medical technology to the health care sector. We calibrate the model to the development of the US economy/health care system from 1965 to 2005 and study numerically the impact of the insurance expansion. We find that more extensive health insurance accounts for a large share of the rise in US health spending but also boosts the rate of medical progress. A welfare analysis shows that while the subsidization of health care through health insurance creates excessive health care spending, the gains in life expectancy brought about by induced medical progress more than compensate for this.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Psychiatry medications
+TITLE: Medications Used for Pediatric Insomnia.
+PMID: 33223070
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33223070/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Pediatric insomnia can affect physical and mental health and cause cognitive deficits, social deficits and decrease quality of life. There are no Food and Drug Administration approved medications approved for pediatric insomnia. Pharmacologic interventions derive mostly from adult data or pediatric case reports. This review focuses on Food and Drug Administration approved prescription drugs (in adults), over-the-counter drugs, and off-label pediatric insomnia drugs. This review helps the clinician learn general principles, practice guidelines, and pharmacologic considerations for medication selection in the pediatric population. Pharmacologic management should be considered in combination with behavior therapy, which is proven to have long-lasting outcomes.

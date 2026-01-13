@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urinary tract infection
+TITLE: [Urinary tract infection and overactive bladder. Is there an association?].
+PMID: 38650421
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38650421/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A discussion of key research findings dedicated to the relationship between urinary tract infection (UTI) and overactive bladder (OAB) is presented in the article. The results of the publications support the concept that UTI may be an underappreciated contributor to the development of OAB in some patients and vice versa. This information raises a number of questions regarding the treatment and diagnosis of OAB and UTI. The main question is the potential use of antibiotics, anti-inflammatory drugs, and other drugs in the treatment of patients with OAB, as well as the rationale for the use of therapy that normalize lower urinary tract (LUT) function in the presence of chronic recurrent UTI.

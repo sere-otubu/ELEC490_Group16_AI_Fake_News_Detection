@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Palliative care
+TITLE: Spirituality in palliative care.
+PMID: 36597069
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36597069/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although being recognized by the World Health Organization as an essential domain of palliative care, spiritual care is still one of the most neglected component of the healthcare system. In this editorial, we set the context and invite contributions for a BMC Palliative Care Collection of articles titled 'Spirituality in Palliative Care'.

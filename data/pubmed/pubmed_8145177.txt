@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Panic disorder
+TITLE: Cognitive treatment for panic disorder.
+PMID: 8145177
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8145177/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Several kinds of evidence indicate that there are important psychological causes of panic disorder as well as the biological causes that have been demonstrated by others. These psychological causes are fears that physical symptoms of anxiety will be followed by an immediate medical emergency: for example, that palpitations will be followed by a heart attack. Evidence is presented to show (a) that such fears are more frequent among panic disorder patients than other anxious patients; (b) that activating the fears can produce panic; and (c) that reducing the fears can attenuate the effects of procedures that produce panic. For panic disorder, cognitive therapy, which reduces these specific fears, gives results comparable to those of imipramine and alprazolam. If further research confirms that these therapeutic effects of cognitive therapy are sustained well beyond the end of treatment, cognitive therapy could be the treatment of choice for panic disorder.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Emergency room triage
+TITLE: Emergency room triage by a medical specialist.
+PMID: 3704590
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3704590/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This is an investigation of the impact of an emergency room triage by a medical specialist. The study encompassed patients who came to the medical section of the emergency room of a large university hospital during a two-week study period and a control period of the same length. The result showed that 36% of the patients could be sent home after the triage, thereby reducing the number of chemical tests and ECG examinations significantly (p less than 0.001). In addition, the patient's average treatment period was shortened by a mean of 63 min. No effect of the triage on hospital use of out-patient visits to the hospital during a one year follow-up period was noted. The triage procedure was safe for, and accepted by the patients, as was demonstrated by follow-ups involving investigation of the death register and personal interviews. The study shows that triage by a specialist is an effective method for reducing hospital service utilization and shortening patient treatment time.

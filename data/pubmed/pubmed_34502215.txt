@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Genetic disorders
+TITLE: p53 Activation in Genetic Disorders: Different Routes to the Same Destination.
+PMID: 34502215
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34502215/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The tumor suppressor p53 is critical for preventing neoplastic transformation and tumor progression. Inappropriate activation of p53, however, has been observed in a number of human inherited disorders that most often affect development of the brain, craniofacial region, limb skeleton, and hematopoietic system. Genes related to these developmental disorders are essentially involved in transcriptional regulation/chromatin remodeling, rRNA metabolism, DNA damage-repair pathways, telomere maintenance, and centrosome biogenesis. Perturbation of these activities or cellular processes may result in p53 accumulation in cell cultures, animal models, and perhaps humans as well. Mouse models of several p53 activation-associated disorders essentially recapitulate human traits, and inactivation of p53 in these models can alleviate disorder-related phenotypes. In the present review, we focus on how dysfunction of the aforementioned biological processes causes developmental defects via excessive p53 activation. Notably, several disease-related genes exert a pleiotropic effect on those cellular processes, which may modulate the magnitude of p53 activation and establish or disrupt regulatory loops. Finally, we discuss potential therapeutic strategies for genetic disorders associated with p53 misactivation.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Atherosclerosis
+TITLE: The immune system in atherosclerosis.
+PMID: 21321594
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21321594/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cardiovascular disease, a leading cause of mortality worldwide, is caused mainly by atherosclerosis, a chronic inflammatory disease of blood vessels. Lesions of atherosclerosis contain macrophages, T cells and other cells of the immune response, together with cholesterol that infiltrates from the blood. Targeted deletion of genes encoding costimulatory factors and proinflammatory cytokines results in less disease in mouse models, whereas interference with regulatory immunity accelerates it. Innate as well as adaptive immune responses have been identified in atherosclerosis, with components of cholesterol-carrying low-density lipoprotein triggering inflammation, T cell activation and antibody production during the course of disease. Studies are now under way to develop new therapies based on these concepts of the involvement of the immune system in atherosclerosis.

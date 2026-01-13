@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Body composition
+TITLE: Body composition by DXA.
+PMID: 28625918
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28625918/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Body composition measurements from DXA have been available since DXA technology was developed 30years ago, but are historically underutilized. Recently, there have been rapid developments in body composition assessment including the analysis and publication of representative data for the US, official usage guidance from the International Society for Clinical Densitometry, and development of regional body composition measures with clinical utility. DXA body composition is much more than whole body percent fat. In this paper celebrating 30years of DXA for body composition, we will review the principles of DXA soft tissue analysis, practical clinical and research applications, and what to look for in the future.

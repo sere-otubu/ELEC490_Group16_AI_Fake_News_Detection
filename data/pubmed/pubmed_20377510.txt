@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antifungals
+TITLE: Quinoline-based antifungals.
+PMID: 20377510
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20377510/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although the assortment of antifungal drugs is broad, the most commonly used agents have major drawbacks. Toxicity, serious side effects or the emergence of drug resistance are amongst them. New drugs and drug candidates under clinical trials do not guarantee better pharmacological parameters. These new medicines may appear effective; however; they may cause serious side effects. This current review is focused on the recent findings in the design of quinoline based antifungal agents. This field seems to be especially interesting as 8-hydroxyquinoline and its metal complexes have been well known as antifungals for years. Structural similarities between quinoline based antifungals and allylamines or homoallylamines, e.g. terbinafine is another interesting fact. Quinoline can be identified in a number of synthetic and natural antifungals, which indicates nature's preference for this fragment and identifying it as one of the so-called privileged structures. We have discussed new trends in the design of quinolines with antifungal properties, their possible targets and the structure activity relationships within the antifungal series developed.

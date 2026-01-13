@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hashimotos thyroiditis
+TITLE: How does Hashimoto's thyroiditis affect bone metabolism?
+PMID: 36509987
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36509987/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Bone marrow contains resident cellular components that are not only involved in bone maintenance but also regulate hematopoiesis and immune responses. The immune system and bone interact with each other, coined osteoimmunology. Hashimoto's thyroiditis (HT) is one of the most common chronic autoimmune diseases which is accompanied by lymphocytic infiltration. It shows elevating thyroid autoantibody levels at an early stage and progresses to thyroid dysfunction ultimately. Different effects exert on bone metabolism during different phases of HT. In this review, we summarized the mechanisms of the long-term effects of HT on bone and the relationship between thyroid autoimmunity and osteoimmunology. For patients with HT, the bone is affected not only by thyroid function and the value of TSH, but also by the setting of the autoimmune background. The autoimmune background implies a breakdown of the mechanisms that control self-reactive system, featuring abnormal immune activation and presence of autoantibodies. The etiology of thyroid autoimmunity and osteoimmunology is complex and involves a number of immune cells, cytokines and chemokines, which regulate the pathogenesis of HT and osteoporosis at the same time, and have potential to affect each other. In addition, vitamin D works as a potent immunomodulator to influence both thyroid immunity and osteoimmunology. We conclude that HT affects bone metabolism at least through endocrine and immune pathways.

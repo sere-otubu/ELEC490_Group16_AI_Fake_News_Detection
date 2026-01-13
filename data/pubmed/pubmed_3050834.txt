@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sinusitis
+TITLE: Chronic sinusitis in the allergic child.
+PMID: 3050834
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3050834/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Chronic inflammation of the paranasal sinuses, especially the maxillary sinuses, is common in children with respiratory allergy. The presence of sinusitis should be suspected in such children when they have chronic night and early morning cough or poorly controlled asthma. Treatment should be aggressive because morbidity can be high.

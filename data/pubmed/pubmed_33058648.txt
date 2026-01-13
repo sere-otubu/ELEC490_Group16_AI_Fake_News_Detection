@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sports nutrition
+TITLE: [Nutrition in sports].
+PMID: 33058648
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33058648/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Nutrition in sports. Recommendations for nutritional intake by athletes, whatever their sports level, first requires ensuring that daily energy expenditure is covered and that nutrition recommendations for health are applied. For endurance athletes, carbohydrate intake before and during exercise plays a decisive role in glucose availability and performance. In strength/power athletes, protein intake is important for optimizing the training responses. For all these athletes, nutritional intakes during recovery ensure good tolerance of training programs. Nutritional supplements are only justified on the basis of scientific evidence, and relate only to products available on the official market and produced in accordance with quality procedures.

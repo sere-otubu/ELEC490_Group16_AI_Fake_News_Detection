@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insomnia
+TITLE: Pediatric Insomnia.
+PMID: 33223056
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33223056/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Insomnia is the most common sleep disorder among all ages; unfortunately, however, child and adolescent insomnia is infrequently addressed. Given the importance of adequate sleep for proper brain development, pediatric populations are particularly vulnerable to the negative effects of insomnia. Therefore, proper clinical assessment and treatment of pediatric insomnia is crucial. This article is the result of a comprehensive literature review and serves as a guide to the disorder and how it presents differently across child development.

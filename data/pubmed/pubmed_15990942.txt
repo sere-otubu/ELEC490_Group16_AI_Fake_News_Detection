@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Colonoscopy
+TITLE: Sedation during colonoscopy.
+PMID: 15990942
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15990942/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In order to perform a proper screening for colonic cancer, repeated colonoscopies are required. Comfort during colonoscopy is very important, so that the patient will accept repeated procedures. Currently, there are 3 types of sedation used during colonoscopy: general anesthesia performed by an anesthesiologist; sedo-analgesia performed by an anesthesiologist or by a gastroenterologist; sedo-analgesia performed by a trained nurse. Sedo-analgesia is the most frequently used type of sedation during colonoscopy worldwide. It is realized by combining midazolam with propofol and/or fentanyl (alfentanyl) or pethidine. According to the data obtained from 34 centers performing colonoscopy in Romania, in 2003, 22,162 colonoscopies were performed: 54.5% without anesthesia, 39.5% with sedation with midazolam and 6% with sedo-analgesia. In a study performed in our department we noticed a significant improvement in the outcome of the colonoscopy when sedo-analgesia was used on a regular basis. The percentage of total colonoscopies (excluding those that could not be continued due to stenosis) was 84.2% when sedation was seldomly performed and 92.3% when sedo-analgesia was regularly used (p=0.042). We believe that the strategy of sedation during colonoscopy in Romania should be changed so that all the patients should benefit from sedo-analgesia, proved to be safe and cost/efficient.

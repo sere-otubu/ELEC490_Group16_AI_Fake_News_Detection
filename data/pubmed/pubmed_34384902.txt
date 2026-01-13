@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hearing loss
+TITLE: Diabetes mellitus and hearing loss: A review.
+PMID: 34384902
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34384902/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Diabetes (type 2) and sensorineural hearing loss are common health problems manifested with ageing. While both type 1 and type 2 diabetes have been associated with hearing loss, a causal link has been difficult to establish. Individuals with diabetes have twice the incidence of hearing loss compared to those without diabetes and those with prediabetes have a 30% higher rate of hearing loss. Whether hearing loss is associated with diabetes independent of glycemic control remains to be determined. Hearing loss has its own set of risk factors and shares others with diabetes. This review will summarize the complex relationship between diabetes and sensorineural hearing loss.

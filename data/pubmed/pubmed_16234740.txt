@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Eczema
+TITLE: Eczema and dry skin in older people: identification and management.
+PMID: 16234740
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16234740/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Skin conditions affect up to 70% of older people. Among the commonest are those which are caused by or present as dry, itchy skin. This article discusses the three most common of these--asteatotic, gravitational and discoid eczemas--and offers straightforward advice that nurses can pass on to their patients for how to mitigate and manage these conditions. Central to this is avoidance of soaps and the use of emollients.

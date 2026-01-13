@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antibiotics classes
+TITLE: Antibiotics in late clinical development.
+PMID: 27687641
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27687641/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Most pharmaceutical companies have stopped or have severely limited investments to discover and develop new antibiotics to treat the increasing prevalence of infections caused by multi-drug resistant bacteria, because the return on investment has been mostly negative for antibiotics that received marketing approved in the last few decades. In contrast, a few small companies have taken on this challenge and are developing new antibiotics. This review describes those antibiotics in late-stage clinical development. Most of them belong to existing antibiotic classes and a few with a narrow spectrum of activity are novel compounds directed against novel targets. The reasons for some of the past failures to find new molecules and a path forward to help attract investments to fund discovery of new antibiotics are described.

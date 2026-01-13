@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Red blood cells
+TITLE: Red blood cells.
+PMID: 12379271
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12379271/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Red blood cells are derived from haemopoietic stem cells in bone marrow. Following a series of maturation steps, directed largely by the hormone erythropoietin (Epo), red cells enucleate and enter the circulatory system. In circulation these small, flexible biconcave cells containing haemoglobin transport O(2) from the lungs to the periphery, and CO(2) back from the periphery to the lungs. The most common disorders associated with red blood cells are anaemias. While there are numerous causes of anaemia, the reduced capacity for gaseous exchange is the underlying theme. Over the past 15 years, recombinant Epo has been used extremely successfully in the treatment of several forms of anaemia. The single gene disorders collectively known as haemoglobinopathies represent one of the best opportunities for gene therapy.

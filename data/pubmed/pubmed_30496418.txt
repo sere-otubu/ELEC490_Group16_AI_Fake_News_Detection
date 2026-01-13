@@ -1,0 +1,8 @@
+SEARCH_TOPIC: E. coli infection
+TITLE: Antibiotics Potentiate Adherent-Invasive E. coli Infection and Expansion.
+PMID: 30496418
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30496418/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Crohn's disease (CD) is an inflammatory bowel disease with a complex etiology. Paradoxically, CD is associated with the use of antibiotics and with an increased abundance of an unusual phenotypic group of Escherichia coli known as adherent-invasive E. coli (AIEC). However, the impact of antibiotics on AIEC infection has not been well studied in controlled models of infection. We infected mice with AIEC before or after treatment with a variety of different classes of antibiotics. We assessed levels of AIEC in the feces and tissues, AIEC localization by immunofluorescence microscopy, and tissue pathology. We found that a wide range of antibiotic classes strongly potentiated initial AIEC infection and expanded AIEC in chronically infected mice. We found that the ability of antibiotics to potentiate AIEC infection did not correlate with a stereotyped shift in the gut bacterial community but was correlated with a decrease in overall diversity and a divergence from the pre-antibiotic state. We found that antibiotic-induced inflammation provided a fitness advantage for AIEC expansion through their use of oxidized metabolites in the postantibiotic period. Our results show that antibiotics can render hosts more susceptible to initial AIEC infection and can worsen infection in previously colonized hosts. AIEC appears to exploit host inflammatory responses that arise in the postantibiotic period, highlighting a previously unknown interaction between CD risk factors.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mood stabilizers
+TITLE: [Mood stabilizers].
+PMID: 19496037
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19496037/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Within recent years the diagnostic concept of bipolar disorders has profoundly changed. The original view of one manic-depressive illness has become more and more a spectrum disorder ranging from personality traits to the full clinical feature of manic-depressive illness. Therefore, prevalence has increased in the general population. However, for differential treatment approaches with mood stabilisers the clinical distinction between bipolar I and bipolar II disorders becomes more and more relevant and, importantly, rapid cycling is a critical criterion for a differential indication of mood stabilisers. In acute treatment the psychopathological features such as euphoric versus dysphoric mania, the severity and the frequency of episodes play an important role for the choice of the mood stabiliser. According to international guidelines Lithium and Valproat are first-line treatment options. In addition, Lamotrigin has become a first-line treatment in special issues such as long-term treatment of bipolar depression. Carbamazepin, however, has lost its first-line place due to the evidence-based data situation and due to the side-effect profile. Within recent years the atypical anti-psychotics were investigated in bipolar disorder. Meanwhile, most of them have an indication for the treatment of acute mania, some of them for bipolar depression. Some studies also point to an efficacy in long-term prophylactic treatment. In summary, the psychopharmacological indications for the differential use of mood stabilisers are becoming more and more complex, therefore clear guidelines are needed.

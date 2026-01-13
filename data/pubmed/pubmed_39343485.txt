@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cognitive rehabilitation
+TITLE: Cognitive Rehabilitation for Adults with a History of Traumatic Brain Injury.
+PMID: 39343485
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39343485/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cognitive rehabilitation following traumatic brain injury (TBI) involves a targeted, individualized approach to address deficits in attention, memory, executive functions, and/or other cognitive domains. This overview highlights the importance of thorough assessment to inform cognitive rehabilitation, a multidimensional approach, and current best practices in intervention strategies. It provides exemplar compensatory strategies for each cognitive domain. In addition to broad clinical practice guidelines, it also addresses unique considerations that may be warranted in some subgroups with TBI. Finally, outcome measurement is summarized.

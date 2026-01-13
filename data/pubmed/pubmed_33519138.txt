@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Colonoscopy
+TITLE: Screening colonoscopy: The present and the future.
+PMID: 33519138
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33519138/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In the United States, colorectal cancer (CRC) is the second leading cause of mortality in men and women. We are now seeing an increasing number of patients with advanced-stage diagnosis and mortality from colorectal cancer before 50 years of age, which requires earlier screening. With the increasing need for CRC screening through colonoscopy, and thus endoscopists, easier and simpler techniques are needed to train proficient endoscopists. The most widely used approach by endoscopists is air insufflation colonoscopy, where air distends the colon to allow visualization of the colonic mucosa. This technique is un-comfortable for patients and requires an anesthetist to administer sedation. In addition, patients commonly complain about discomfort post-op as air escapes into the small bowel and cannot be adequately removed. Current research into the use of water insufflation colonoscopies has proved promising in reducing the need for sedation, decreasing discomfort, and increasing the visibility of the colonic mucosa. Future direction into water insufflation colonoscopies which have shown to be simpler and easier to teach may increase the number of proficient endoscopists in training to serve our aging population.

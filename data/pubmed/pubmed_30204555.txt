@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Grief counseling
+TITLE: What do people really think about grief counseling? Examining community attitudes.
+PMID: 30204555
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30204555/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To understand why bereaved people who are highly distressed significantly underutilize grief counseling and therapy, we surveyed adults (<i>N</i> = 156) to investigate community attitudes toward grief counseling. Overall attitude was positive and women reported a significantly more positive attitude than men; there were no associations between attitude and age, country of birth, previous counseling, or bereavement experience. After controlling for gender, beliefs and affects explained attitudes toward grief counseling; behavioral responses did not. Targeting beliefs about grief counseling may promote positive attitudes so that people most likely to benefit from intervention will be more likely to seek it.

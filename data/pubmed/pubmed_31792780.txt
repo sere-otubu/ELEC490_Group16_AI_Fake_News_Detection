@@ -1,0 +1,8 @@
+SEARCH_TOPIC: DNA structure
+TITLE: Crystal structure of Cas1 in complex with branched DNA.
+PMID: 31792780
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31792780/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cas1 is a key component of the CRISPR adaptation complex, which captures and integrates foreign DNA into the CRISPR array, resulting in the generation of new spacers. We have determined crystal structures of Thermus thermophilus Cas1 involved in new spacer acquisition both in complex with branched DNA and in the free state. Cas1 forms an asymmetric dimer without DNA. Conversely, two asymmetrical dimers bound to two branched DNAs result in the formation of a DNA-mediated tetramer, dimer of structurally asymmetrical dimers, in which the two subunits markedly present different conformations. In the DNA binding complex, the N-terminal domain adopts different orientations with respect to the C-terminal domain in the two monomers that form the dimer. Substrate binding triggers a conformational change in the loop 164-177 segment. This loop is also involved in the 3' fork arm and 5' fork arm strand recognition in monomer A and B, respectively. This study provides important insights into the molecular mechanism of new spacer adaptation.

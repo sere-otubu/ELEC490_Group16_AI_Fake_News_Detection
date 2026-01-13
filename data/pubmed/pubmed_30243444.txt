@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Appendicitis
+TITLE: Evolution and Current Trends in the Management of Acute Appendicitis.
+PMID: 30243444
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30243444/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The treatment of appendicitis has evolved since the first appendectomy in the eighteenth century. It seems to have come full circle with nonoperative management in the era before frequent surgical interventions, to open surgical interventions, minimally invasive interventions, and now back to a renewed interest in nonoperative management of acute appendicitis. Scoring systems to help refine the diagnosis of acute appendicitis and advances in medical imaging have also changed the management of this condition. Scientific investigations into the effects the microbiome of the appendix plays in this disease process are also being considered.

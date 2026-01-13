@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antipsychotics
+TITLE: [Antipsychotics].
+PMID: 37194535
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37194535/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Schizophrenia is a psychiatric disorder that presents with hallucinations, delusions, thought disorders, and cognitive dysfunctions. Antipsychotic monotherapy is effective in the treatment of schizophrenia. In recent years, the main antipsychotics used have been second-generation antipsychotics, also called atypical antipsychotics, which have a slightly lower incidence of side effects. When monotherapy of two or more antipsychotics fails to produce sufficient improvement, a diagnosis of treatment-resistant schizophrenia is made, and clozapine is used.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Traumatic brain injury
+TITLE: Severe traumatic brain injury in children: an evidence-based review of emergency department management.
+PMID: 38885364
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38885364/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+More than 1.7 million traumatic brain injuries occur in adults and children each year in the United States, with approximately 30% occurring in children aged <14 years. Traumatic brain injury is a significant cause of morbidity and mortality in pediatric trauma patients. The early management of severe traumatic brain injury is focused on mitigation and prevention of secondary injury, specifically by avoiding hypotension and hypoxia, which have been associated with poorer outcomes. This review discusses methods to maintain adequate oxygenation, maximize management of intracranial hypertension, and optimize blood pressure in the emergency department to improve neurologic outcomes following pediatric severe traumatic brain injury.

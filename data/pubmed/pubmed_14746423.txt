@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vasectomy
+TITLE: Vasectomy: a "seminal" analysis.
+PMID: 14746423
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/14746423/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Vasectomy is one of the most reliable and cost-effective permanent methods of contraception. Despite its popularity, certain issues pertaining to the procedure remain unresolved. Appropriate selection of candidates for vasectomy requires thorough counseling and screening, though a foolproof method of eliminating dissatisfaction and regret remains a mystery. Debate continues over the relative merits of the various techniques of isolating and sealing the vasal ends. Postoperative complication rates remain minimal regardless of the technique used, and no single strategy attempting to maximize patient compliance with postoperative semen analysis has enjoyed unmitigated success. Long-term consequences, other than regret, are rare. Finally, issues regarding residency training in the procedure and its impact on procedure morbidity are scarcely addressed in the literature. This study reviews the evolution of vasectomy as a contraceptive procedure and attempts to summarize current literature addressing these unresolved issues.

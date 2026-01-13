@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Type 1 Diabetes
+TITLE: Teplizumab: type 1 diabetes mellitus preventable?
+PMID: 37004543
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37004543/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Type 1 diabetes mellitus (T1DM) is an autoimmune condition driven by T lymphocytes that specifically declines the function of beta cells of pancreas. Immunological treatments aim to stop this decline in β-cell function thus preventing TIDM. Although TIDM occur at any age, it is one of the most common chronic disorders in children. T1DM accounts for 5 to 10% of all cases of diabetes amounting 21-42 million affected persons. Teplizumab is a novel drug recently approved by the US FDA for the treatment of T1DM. This drug reduces abnormal glucose tolerance who are at high risk for developing T1DM and have antibodies suggesting an immunological attack on their pancreas. A 14-day infusion of the drug prevents T cells' attack of the insulin-producing cells of the pancreas. Adverse events due to teplizumab reported so far mild and of limited duration. This review gives an overview of the preclinical and clinical research on teplizumab for their role in new-onset T1DM.

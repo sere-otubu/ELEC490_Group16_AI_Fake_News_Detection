@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hydration importance
+TITLE: Hydration shells of carbohydrate polymers studied by calorimetry and terahertz spectroscopy.
+PMID: 31006476
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31006476/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+We present a study of the hydration shells of some carbohydrate polymers of commercial and biological importance, namely, agave fructans, inulin, and maltodextrin, employing terahertz time-domain spectroscopy and differential scanning calorimetry. We observe that the hydration numbers calculated using terahertz spectroscopy are marginally higher than those of the calorimetric values. We attribute this discrepancy to the definition of hydration number, which in a way correlates with the physical process used to quantify it. The aqueous solutions show a non-proportional increase in the absorption coefficient and the hydration number, with a decrease in the carbohydrate concentration. We demonstrate that this behavior is consistent with the "chaotropic" or "structure breaking" model of the hydration shell around the carbohydrates. In addition, the study reveals that agave fructans and inulin have good hydration ability. Given the high glass transition temperature and good hydration ability, these carbohydrates may behave as good bio-protectants and hydrating additives for food and beverages.

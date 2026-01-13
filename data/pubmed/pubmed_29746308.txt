@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cushings syndrome
+TITLE: Structural brain abnormalities in Cushing's syndrome.
+PMID: 29746308
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29746308/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Alongside various physical symptoms, patients with Cushing's disease and Cushing's syndrome display a wide variety of neuropsychiatric and cognitive symptoms, which are indicative of involvement of the central nervous system. The aim of this review is to provide an overview of the structural brain abnormalities that are associated with Cushing's disease and Cushing's syndrome and their relation to behavioral and cognitive symptomatology. In this review, we discuss the gray matter structural abnormalities found in patients with active Cushing's disease and Cushing's syndrome, the reversibility and persistence of these changes and the white matter structural changes related to Cushing's syndrome. Recent findings are of particular interest because they provide more detailed information on localization of the structural changes as well as possible insights into the underlying biological processes. Active Cushing's disease and Cushing's syndrome is related to volume reductions of the hippocampus and in a prefrontal region involving the anterior cingulate cortex (ACC) and medial frontal gyrus (MFG). Whilst there are indications that the reductions in hippocampal volume are partially reversible, the changes in the ACC and MFG appear to be more persistent. In contrast to the volumetric findings, changes in white matter connectivity are typically widespread involving multiple tracts.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Spinal fusion
+TITLE: Complications in spinal fusion.
+PMID: 9756965
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9756965/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Complications in spinal fusion can lead to less than desirable results. The complications of spinal fusion in the cervical and lumbar spine are discussed. Methods of avoiding and correcting complications also are reviewed. Through a better understanding, it is hoped that complications can be prevented.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ovarian cancer
+TITLE: Endometriosis-associated ovarian cancer occurs early during follow-up of endometrial cysts.
+PMID: 31473885
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31473885/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Endometriosis is a risk factor for ovarian cancer. Endometriosis-associated ovarian cancer (EAOC), most commonly clear cell carcinoma, is believed to develop from ovarian endometrial cysts. In this study, we reviewed published cases of EAOC considered to have developed from endometrial cysts, and focused on the observation period. We searched for articles published since January 2000 that reported cases of ovarian cancer thought to have originated from endometrial cysts using PubMed, Web of Science, and Ichushi-Web. The period from the start of follow-up of the endometrial cyst to the diagnosis of ovarian cancer was calculated. Seventy-nine cases were identified from 32 articles. The median period from the diagnosis of endometrial cysts to the diagnosis of ovarian cancer was only 36 months. Approximately 75% of cases developed into cancer within 60 months and most cases developed within 120 months. Our results suggest that clinically detectable cysts subsequently diagnosed as ovarian cancer might already have contained cancer cells. Therefore, the mechanism of EAOC development needs to be re-examined and appropriate management guidelines need to be developed.

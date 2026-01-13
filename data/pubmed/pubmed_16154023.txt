@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Epidemiology basics
+TITLE: Key concepts in genetic epidemiology.
+PMID: 16154023
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16154023/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article is the first in a series of seven that will provide an overview of central concepts and topical issues in modern genetic epidemiology. In this article, we provide an overall framework for investigating the role of familial factors, especially genetic determinants, in the causation of complex diseases such as diabetes. The discrete steps of the framework to be outlined integrate the biological science underlying modern genetics and the population science underpinning mainstream epidemiology. In keeping with the broad readership of The Lancet and the diverse background of today's genetic epidemiologists, we provide introductory sections to equip readers with basic concepts and vocabulary. We anticipate that, depending on their professional background and specialist knowledge, some readers will wish to skip some of this article.

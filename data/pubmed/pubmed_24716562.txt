@@ -1,0 +1,8 @@
+SEARCH_TOPIC: IBS
+TITLE: Pediatric IBS: an overview on pathophysiology, diagnosis and treatment.
+PMID: 24716562
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24716562/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Irritable bowel syndrome (IBS) is a common disorder in children and adults. The pathogenesis and pathophysiology of IBS remains incompletely understood. The biopsychosocial model, which conceptualizes chronic pain as a dysregulation of the gut-brain-homeostasis with peripheral and central factors mutually influencing each other, is the most accepted framework to explain IBS. Twin and family aggregation studies suggest a genetic component that does not exclusively explain the higher prevalence of IBS in certain families. Social learning (environmental factors) and maladaptive coping predispose children to develop IBS with greater disability and more frequent medical consultations. Early-life events constitute an additional risk factor for the development of IBS and other functional gastrointestinal disorders (FGIDs). Children with a history of cow's milk protein hypersensitivity or abdominal surgeries have a higher prevalence of IBS and other FGIDs years later. IBS frequently follows an episode of acute gastrointestinal inflammation (infectious or non-infectious). This article discusses the importance, known pathophysiological mechanisms, clinical approach, and evidence-based therapeutic options for the management of IBS in children and adolescents.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Eczema
+TITLE: [Anal eczema].
+PMID: 34704478
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34704478/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Anal eczema <b>Abstract.</b> In this article, the allergic contact eczema, atopic skin changes, irritative-toxic and vulgar eczema as well as psoriasis inversa are described and illustrated and the associated anamnestic and past medical history information. Furthermore, the pathogen-related perianal streptococcal dermatitis (PSD) and the perianal candidiasis are described.

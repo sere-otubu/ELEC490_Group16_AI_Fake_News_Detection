@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Peer review process
+TITLE: The Peer Review Process.
+PMID: 38538018
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38538018/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The purpose of peer review is to evaluate the scientific merit of the submitted work and to assess suitability for publication. This process is intended to provide an unbiased, independent critique to ensure publication of high-quality manuscripts that demonstrate validity and reliability. Reviewers are subject-matter experts who volunteer their time to participate in peer review. A proper review provides constructive and helpful feedback in a timely manner that authors can use to improve both current and future work. When given the opportunity to revise, authors should carefully consider all comments and adequately address all concerns. This paper provides guidance to clinicians for both aspects of the peer review process: participating as a reviewer and responding to reviewer feedback.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HIV AIDS
+TITLE: Factors influencing HIV-1 phylogenetic clustering.
+PMID: 30882487
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30882487/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A major goal of public health in relation to HIV/AIDS is to prevent new transmissions in communities. Phylogenetic techniques have improved our understanding of the structure and dynamics of HIV transmissions. However, there is still no consensus about phylogenetic methodology, sampling coverage, gene target and/or minimum fragment size. Several studies use a combined methodology, which includes both a genetic or patristic distance cut-off and a branching support threshold to identify phylogenetic clusters. However, the choice about these thresholds remains an inherently subjective process, which affects the results of these studies. There is still a lack of consensus about the genomic region and the size of fragments that should be used, although there seems to be emerging a consensus that using longer segments, allied with the use of a realistic model of evolution and a codon alignment, increases the likelihood of inferring true transmission clusters. The pol gene is still the most used genomic region, but recent studies have suggested that whole genomes and/or sequences from nef and gp41 are also good targets for cluster reconstruction. The development and application of standard methodologies for phylogenetic clustering analysis will advance our understanding of factors associated with HIV transmission. This will lead to the design of more precise public health interventions.

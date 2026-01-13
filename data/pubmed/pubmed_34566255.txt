@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Digital detox
+TITLE: From cognitive overload to digital detox: Psychological implications of telework during the COVID-19 pandemic.
+PMID: 34566255
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34566255/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+For most people, telework during the COVID-19 pandemic necessitates the increased use of digital tools. Although working from home can enhance flexibility, it comes with various psychological challenges, all of which can be substantially exacerbated for people during the COVID-19 pandemic. The increased need to use digital tools can create cognitive overload that may negatively impact work productivity and well-being. The idea of digital detox has received increasing attention in the last few years as a means for recovering from stress caused by the use of digital media. This paper presents an analysis of the relationships between the use of digital work tools, the feeling of cognitive overload, digital detox measures, perceived work performance, and well-being. Results from an online survey (<i>N</i> = 403) conducted during the period of strict lockdown measures in Germany in April and May 2020 indicate that the relationship between the use of text-based tools and well-being, but not perceived job performance, is mediated by cognitive overload. These relationships were not found for the use of videoconferencing tools. However, for users of these tools, the number of digital detox measures moderates the relationship between cognitive overload and the perception of work demands.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insulin regulation
+TITLE: BIOSIMILARS AND NEW INSULIN VERSIONS.
+PMID: 26340139
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26340139/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To provide clinicians with an overview of similar biologic products including biosimilars and new insulin versions available in the U.S. and of key issues associated with such products, including differences in manufacturing and regulatory approaches and their impact on clinical use. We reviewed the relevant clinical and regulatory literature. Patent protections for many biologics including several insulin preparations have or will expire shortly. This opens the door for new insulin versions to enter the U.S. and global marketplace. The development, manufacturing, and approval process for similar biologic products is more complex than for generic versions of small molecules. Most similar biologic products in the U.S. will be submitted for approval under section 351(k), a newly created biosimilar regulatory pathway. However, some biologics, including new insulin versions, will be submitted via the existing 505(b)(2) regulatory pathway. These regulatory pathways have implications for how such products may be labeled, how they may be dispensed, and how patients may perceive them. The immunogenicity of biologics can affect safety and efficacy and can be altered through subtle changes in manufacturing. With the arrival of new insulin versions, health care providers will need to understand the implications of interchangeability, therapeutic equivalence, substitution, switching, and new delivery devices. An understanding of the above topics will be important as physicians, payers, and patients choose between similar versions of a reference listed biologic product.

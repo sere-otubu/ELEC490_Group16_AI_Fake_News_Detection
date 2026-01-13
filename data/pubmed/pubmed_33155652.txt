@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Artificial sweeteners
+TITLE: The Impact of Artificial Sweeteners on Insects.
+PMID: 33155652
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33155652/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Artificial sweeteners are sweet-tasting additives found in consumable products as substitutes for naturally occurring sugars. They are derived from plant extracts or manufactured by chemical synthesis. Ingestion of sweeteners by insects can lead to significant physiological effects, such as mortality, decreased fecundity, and behavioral change. Due to their low toxicity toward humans and the issues associated with conventional insecticide usage, artificial sweeteners have recently gained attention for their potential use as biorational insecticides. Here, we review their impact on insects and potential as novel insecticides.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Circadian rhythms
+TITLE: Circadian rhythms and cancers: the intrinsic links and therapeutic potentials.
+PMID: 35246220
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35246220/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The circadian rhythm is an evolutionarily conserved time-keeping system that comprises a wide variety of processes including sleep-wake cycles, eating-fasting cycles, and activity-rest cycles, coordinating the behavior and physiology of all organs for whole-body homeostasis. Acute disruption of circadian rhythm may lead to transient discomfort, whereas long-term irregular circadian rhythm will result in the dysfunction of the organism, therefore increasing the risks of numerous diseases especially cancers. Indeed, both epidemiological and experimental evidence has demonstrated the intrinsic link between dysregulated circadian rhythm and cancer. Accordingly, a rapidly increasing understanding of the molecular mechanisms of circadian rhythms is opening new options for cancer therapy, possibly by modulating the circadian clock. In this review, we first describe the general regulators of circadian rhythms and their functions on cancer. In addition, we provide insights into the mechanisms underlying how several types of disruption of the circadian rhythm (including sleep-wake, eating-fasting, and activity-rest) can drive cancer progression, which may expand our understanding of cancer development from the clock perspective. Moreover, we also summarize the potential applications of modulating circadian rhythms for cancer treatment, which may provide an optional therapeutic strategy for cancer patients.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pancreas function
+TITLE: The endocrinology of taste receptors.
+PMID: 25707779
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25707779/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Levels of obesity have reached epidemic proportions on a global scale, which has led to considerable increases in health problems and increased risk of several diseases, including cardiovascular and pulmonary diseases, cancer and diabetes mellitus. People with obesity consume more food than is needed to maintain an ideal body weight, despite the discrimination that accompanies being overweight and the wealth of available information that overconsumption is detrimental to health. The relationship between energy expenditure and energy intake throughout an individual's lifetime is far more complicated than previously thought. An improved comprehension of the relationships between taste, palatability, taste receptors and hedonic responses to food might lead to increased understanding of the biological underpinnings of energy acquisition, as well as why humans sometimes eat more than is needed and more than we know is healthy. This Review discusses the role of taste receptors in the tongue, gut, pancreas and brain and their hormonal involvement in taste perception, as well as the relationship between taste perception, overeating and the development of obesity.

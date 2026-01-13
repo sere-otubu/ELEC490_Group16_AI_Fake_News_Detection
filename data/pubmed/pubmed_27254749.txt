@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HIV AIDS
+TITLE: Reducing rates of preventable HIV/AIDS-associated mortality among people living with HIV who inject drugs.
+PMID: 27254749
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27254749/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The modern antiretroviral therapy (ART) era has seen substantial reductions in mortality among people living with HIV. However, HIV-positive people who inject drugs (PWIDs) continue to experience high rates of suboptimal HIV-related outcomes. We review recent findings regarding factors contributing to premature and preventable mortality among HIV-positive PWID, and describe the promise of interventions to improve survival in this group. The current leading causes of death among HIV-positive PWID are HIV/AIDS-related causes, overdose, and liver-related causes, including infection with hepatitis C virus. Elevated mortality levels in this population are driven by social-structural barriers to ART access and adherence, particularly criminalization and stigmatization of drug use. In contexts where opioid substitution therapy and ART adherence support programs are widely accessible, evidence highlights comparable levels of survival among HIV-positive PWID and people living with HIV who do not inject drugs. The life-saving benefits of ART can be realized among HIV-positive PWID when it is paired with strategies that address barriers to evidence-based medical care. Joint administration of ART and opioid substitution therapy, as well as repeal of punitive laws that criminalize drug users, are urgently needed to reduce HIV and injection-related mortality among PWID.

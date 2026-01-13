@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cystic fibrosis
+TITLE: Prevention of osteoporosis in cystic fibrosis.
+PMID: 31567515
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31567515/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The increased life span of patients with cystic fibrosis has lead to the detection of new complications. Osteopenia is present in up to 50% of adult patients with cystic fibrosis, and osteoporosis in 10-34% and can cause a difficult management problem. In children, defects in bone health become apparent generally at adolescence because of suboptimall bone peak mass achievement. Malnutrition, inflammation, vitamin D and vitamin K deficiency, altered sex hormone production, glucocorticoid therapy, and physical inactivity potentiate poor bone health. Monitoring bone mineral density and preventive care of osteoporosis are necessary from childhood to minimize cystic fibrosis-related bone disease in adult cystic fibrosis patients.

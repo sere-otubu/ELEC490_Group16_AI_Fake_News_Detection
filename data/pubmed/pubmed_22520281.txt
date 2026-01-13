@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lymphatic system
+TITLE: Anatomy and physiology of the thoracic lymphatic system.
+PMID: 22520281
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22520281/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The thoracic lymphatic system is one of the most complex and poorly understood systems of the human body, and much is still to be learned, especially in lymphatic physiology. Knowledge of the normal anatomy of this system as well as of its variations is nevertheless important for thoracic surgeons investigating and treating patients with lung or esophageal neoplasms.

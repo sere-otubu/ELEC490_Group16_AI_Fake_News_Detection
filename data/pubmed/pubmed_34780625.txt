@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Occupational therapy
+TITLE: Occupational Therapy Practice Framework: Domain and Process-Fourth Edition.
+PMID: 34780625
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34780625/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The fourth edition of the Occupational Therapy Practice Framework: Domain and Process (hereinafter referred to as the OTPF-4), is an official document of the American Occupational Therapy Association (AOTA). Intended for occupational therapy practitioners and students, other health care professionals, educators, researchers, payers, policymakers, and consumers, the OTPF-4 presents a summary of interrelated constructs that describe occupational therapy practice.

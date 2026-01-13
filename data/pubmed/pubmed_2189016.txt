@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Stents
+TITLE: Coronary stents: a review of recent developments.
+PMID: 2189016
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2189016/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Coronary stent placement is one of the newest treatments for occlusion of the coronary arteries. This technique has the potential to minimize restenosis and reduce or eliminate abrupt closure, common complications of percutaneous transluminal coronary angioplasty (PTCA). Initial studies in Europe in the mid-1980s indicated a problem with restenosis due to thrombosis and intimal hyperplasia in stented arteries. Recent investigational studies of the Palmaz balloon-expandable stent in the United States, however, show great promise in solving those problems. It is hoped that coronary stenting may be used for lesions now treated by coronary artery bypass graft surgery, as well as for improving the outcome of PTCA.

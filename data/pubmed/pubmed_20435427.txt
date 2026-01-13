@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Doctor patient communication
+TITLE: A patient self-assessment tool to measure communication behaviors during doctor visits about hypertension.
+PMID: 20435427
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20435427/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To develop a preliminary version of a post-doctor visit self-assessment tool that patients with hypertension can use to evaluate their communication behaviors. High-quality communication between patient and doctor may have a positive effect on blood pressure control in hypertensive patients. Patients' communicative behaviors such as asking questions influence those of doctors, but most existing measurement tools assess doctors' behaviors rather than patients'. The tool is intended for use by African American or Caucasian American adults with hypertension, regardless of literacy level. The project included theory-based development of the item pool, usability testing (8 individuals), and cognitive response testing (13 additional individuals). After multiple iterations, the preliminary version includes 138 items in 7 theory-based domains. The self-assessment tool is ready for testing of item and scale reliability and validity and consequent item reduction. This tool could prove useful in trials evaluating whether patients with hypertension who learn to be better communicators are more likely to achieve blood pressure control. In addition, because it asks patients to reflect on their use of specific behaviors that can be learned, the tool might also help patients in clinical practice to assume more active roles during their medical interactions.

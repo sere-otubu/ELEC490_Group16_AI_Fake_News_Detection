@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Genetic testing ethics
+TITLE: Genetic testing in neuromuscular disease.
+PMID: 15207873
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15207873/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+With the completion of the human genome, the availability of genetic testing is becoming widespread at a rapid pace. Testing for rare neurologic conditions often is possible. With the availability of this testing, it becomes necessary for the physician to be able to determine the potential benefits of testing and when and what testing is warranted. Understanding testing methods,interpreting complex results, and dealing with the ethical, social,and personal issues that arise for patients and families is critical for their care.

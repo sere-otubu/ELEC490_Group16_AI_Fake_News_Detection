@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cushings syndrome
+TITLE: [Cyclic Cushings syndrome: a case study and overview].
+PMID: 29791181
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29791181/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cushings syndrome and especially Cushing´s disease represent diagnostically and therapeutically complicated medical situations. In some patients, cyclic changes in cortisol production additionally hamper the diagnosis in terms of source identification and management of hormone overproduction. It may not be clear, whether the patient is cured or not even years after the treatment. It is a rare disorder variant, but we assume that it is underdiagnosed and it´s incidence is actually higher. The article deals with a complicated course of diagnosis and treatment in a patient with cyclic Cushings syndrome.Key words: Cushing´s disease - cyclic Cushing´s syndrome - hypercortisolism.

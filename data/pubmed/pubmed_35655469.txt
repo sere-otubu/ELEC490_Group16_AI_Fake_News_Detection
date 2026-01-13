@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Laparoscopic surgery
+TITLE: Robotic Surgery Techniques to Improve Traditional Laparoscopy.
+PMID: 35655469
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35655469/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Laparoscopic instruments and techniques are constantly improving, as the ability to perform minimally invasive surgery is crucial in modern medicine. The progression from open surgery to minimally invasive surgery over the years eventually led to the use of robotic devices to either assist or completely replace patient-side surgery with a separate console. Though robotic surgery has been praised for its surgical outcomes, certain situations limit its use, such as cost-effectiveness or physical space constraints. The objectives of this review were to perform a search and discuss the trends in the literature. A literature search using keywords ((laparoscopic) OR (laparoscopy) OR (minimally invasive)) AND ((instrument) OR (instrumentation) OR (tool) OR (device) OR (apparatus)) AND ((advancement) OR (upgrade)) AND ((hysterectomy) OR (prostatectomy) OR (transoral) OR (cholecystectomy)) AND (robot) in PubMed, looking for trends in advancements or appeals for change. This search provides a framework for these trends to facilitate discussion of ways in which laparoscopic surgery can be improved using the benefits of robotic surgical systems. This allows others to approach the successes of the current robotic systems for laparoscopic surgery with the intention of deriving advancements toward traditional laparoscopic surgery.

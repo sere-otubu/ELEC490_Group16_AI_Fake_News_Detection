@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Plasma
+TITLE: Plasma separation using a membrane.
+PMID: 28923773
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28923773/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Plasma separation using a membrane is clinically used as plasmapheresis therapy, such as plasma exchange (PE), double-filtration plasmapheresis (DFPP), or plasma adsorption (PA) modalities. Plasma separation is performed either by centrifugation or by filtration, which involves a permeable hollow fiber membrane. A plasma separator with a hollow fiber membrane was first developed in Japan in the 1980s. It has been used for more than 30 years with continuous technical modifications. Treatment with a membrane-type plasma separator is a safe and well-established modality for many drug-resistant and/or refractory diseases. Currently, national health insurance covers plasmapheresis for ∼30 diseases in Japan. Membrane-type plasma separators are used not only in Japan but also in many other countries. Plasmapheresis treatments with a membrane-type plasma separator are an important alternative for patients with drug-resistant and/or refractory diseases at present and in the near future.

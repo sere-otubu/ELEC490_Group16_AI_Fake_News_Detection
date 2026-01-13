@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Paleo diet
+TITLE: Therapeutic Implications of Diet in Inflammatory Bowel Disease and Related Immune-Mediated Inflammatory Diseases.
+PMID: 33801883
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33801883/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Despite being a focal issue to patients, the effect of diet on adult inflammatory bowel disease (IBD) remains underexplored with limited guidance. While promising clinical trials are currently underway, there is a need for further evidence-based recommendations. As such, we summarize the current evidence on various diets used in the treatment of IBD and also explore the potential applications of dietary data from related immune-mediated inflammatory diseases (IMIDs), such as rheumatoid arthritis and psoriasis, to provide additional information to inform IBD providers. To date, there have been multiple diets investigated as adjunctive therapy in IBD, but many associated studies are small, non-randomized, and not controlled. Mediterranean, vegetarian/vegan, and reduced-calorie/fasting diets have been studied and have shown some positive results in other IMIDs, which may suggest potential applicability to those with IBD, but larger, well-designed clinical trials are needed for further guidance. Gluten-free and low fermentable oligosaccharides, disaccharides, monosaccharides, and polyols fermentable oligosaccharides, disaccharides, monosaccharides, and polyols (FODMAP)diets do not appear to have an impact on IBD disease activity, but low FODMAP may potentially be helpful for those with concurrent functional gastrointestinal symptoms. Specific carbohydrate diets have been mainly assessed in children but show some potential in small adult studies.

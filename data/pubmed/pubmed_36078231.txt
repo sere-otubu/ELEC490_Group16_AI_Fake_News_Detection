@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mindful eating
+TITLE: Mindful Eating Questionnaire: Validation and Reliability in Romanian Adults.
+PMID: 36078231
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36078231/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Mindful eating may play an important role in long-term weight maintenance. In interventions aiming at weight reduction, increasing the levels of mindful eating was associated with higher levels of success and lower levels of weight rebound in the long run. This study aimed to determine the validity and reliability of a mindful eating questionnaire for Romanian adults using Framson's Mindful Eating Questionnaire (MEQ). To calculate the internal (n = 495) and external (n = 45) reliability, a general population sample was taken. Construct validity was assessed using the "known groups" method: dietitians (n = 70), sports professionals (n = 52), and individuals with overweight and obesity (n = 200). Convergent validity tested the association between the MEQ score and demographic characteristics of the total sample (n = 617). The internal (0.72) and external (0.83) reliability were adequate. Dietitians and sports professionals had overall lower scores, meaning more mindful eating compared to the group of individuals with overweight and obesity. The lower mindful eating practice was associated with the presence of excess weight, suboptimal health status perception, higher levels of stress and younger age. The Romanian version of the MEQ is a reliable and valid tool for measuring mindfulness of eating in adults.

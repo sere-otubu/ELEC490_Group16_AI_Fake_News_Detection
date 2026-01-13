@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rabies
+TITLE: Rabies: known and unknown historical aspects.
+PMID: 41401337
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41401337/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Aim: To provide a comprehensive historical overview of rabies, with a focus on its early recognition, cultural significance, and advancements in treatment from antiquity to the modern era. Materials and Methods: A literature review was conducted using electronic databases such as Scopus and PubMed to gather data on rabies incidence, transmission patterns, and public health interventions across various Latin American countries. The search covered publications from 1950 to 2025. The following keywords and their combinations were used: rabies, hydrophobia, Lyssa, Lyssavirus, history of rabies, rabies vaccine, Louis Pasteur, ancient medicine rabies, rabies Greece, canine rabies, public health interventions. Conclusions: Although significant progress has been made in reducing rabies cases in Latin America through widespread vaccination campaigns and animal control strategies, the disease continues to pose a public health concern in certain areas. This persistence is particularly attributed to challenges in rural and remote regions, bat-mediated transmission, and deficiencies in disease surveillance. Continued investment in preventive measures, public education, and targeted interventions-especially among vulnerable populations-is crucial for achieving the complete elimination of rabies in the region.

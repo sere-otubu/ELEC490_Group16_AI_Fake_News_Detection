@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Medical ethics
+TITLE: [Medical ethics teaching].
+PMID: 19116705
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19116705/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In most European countries, medical ethics has become a more or less established subject in medical school curricula. Accordingly, the need to evaluate its success has arisen. In our paper, we describe the controversial debate about the proper goals of teaching medical ethics. Secondly, we present an overview of current efforts to measure and evaluate the outcome and effect of different medical ethics teaching programmes on medical students and young physicians. We conclude that medical ethics teaching is amenable to a great variety of teaching and evaluation methods. Finally, we argue that medical ethics teaching should include: (1) the teaching of moral reasoning skills, (2) the instruction about relevant ethical knowledge, as well as (3) the development of certain character traits. Methods to evaluate ethical knowledge and moral reasoning skills are readily available, while the evaluation of the development of character traits poses important conceptual difficulties.

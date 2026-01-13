@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood composition
+TITLE: Proteomics: A Tool to Study Platelet Function.
+PMID: 33946341
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33946341/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Platelets are components of the blood that are highly reactive, and they quickly respond to multiple physiological and pathophysiological processes. In the last decade, it became clear that platelets are the key components of circulation, linking hemostasis, innate, and acquired immunity. Protein composition, localization, and activity are crucial for platelet function and regulation. The current state of mass spectrometry-based proteomics has tremendous potential to identify and quantify thousands of proteins from a minimal amount of material, unravel multiple post-translational modifications, and monitor platelet activity during drug treatments. This review focuses on the role of proteomics in understanding the molecular basics of the classical and newly emerging functions of platelets. including the recently described role of platelets in immunology and the development of COVID-19.The state-of-the-art proteomic technologies and their application in studying platelet biogenesis, signaling, and storage are described, and the potential of newly appeared trapped ion mobility spectrometry (TIMS) is highlighted. Additionally, implementing proteomic methods in platelet transfusion medicine, and as a diagnostic and prognostic tool, is discussed.

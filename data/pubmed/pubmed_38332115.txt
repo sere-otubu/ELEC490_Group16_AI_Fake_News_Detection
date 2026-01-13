@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Genetic disorders
+TITLE: Next-generation therapeutics for rare genetic disorders.
+PMID: 38332115
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38332115/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The therapeutic potential of the human genome has been explored through the development of next-generation therapeutics, which have had a high impact on treating genetic disorders. Classical treatments have traditionally focused on common diseases that require repeated treatments. However, with the recent advancements in the development of nucleic acids, utilizing DNA and RNA to modify or correct gene expression in genetic disorders, there has been a paradigm shift in the treatment of rare diseases, offering more potential one-time cure options. Advanced technologies that use CRISPR-Cas 9, antisense oligonucleotides, siRNA, miRNA, and aptamers are promising tools that have achieved successful breakthroughs in the treatment of various genetic disorders. The advancement in the chemistry of these molecules has improved their efficacy, reduced toxicity, and expanded their clinical use across a wide range of tissues in various categories of human disorders. However, challenges persist regarding the safety and efficacy of these advanced technologies in translating into clinical practice. This review mainly focuses on the potential therapies for rare genetic diseases and considers how next-generation techniques enable drug development to achieve long-lasting curative effects through gene inhibition, replacement, and editing.

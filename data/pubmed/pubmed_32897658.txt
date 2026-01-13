@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urinary system
+TITLE: A review of upper urinary tract cytology performance before and after the implementation of The Paris System.
+PMID: 32897658
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32897658/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Urinary cytology (UC) is one of the primary diagnostic modalities used for the screening and surveillance of urothelial carcinoma. Despite its widespread use, UC has suffered from a lack of standardized or reproducible criteria and wide interobserver variability, particularly of the designation of atypical urothelial cells. The Paris System for Reporting Urinary Cytology (TPS), published in 2016, aimed to provide a standardized approach for evaluating UC by creating diagnostic categories with specific cytomorphologic criteria. Recent studies have primarily investigated the application of TPS on lower urinary tract specimens and have mostly shown that TPS implementation has improved the performance of UC specimens. Only a few studies have reported the impact of TPS on upper urinary tract (UUT) cytology. Additionally, there is uncertainty as to which cytological features are most predictive of high-grade urothelial carcinoma (HGUC) in the UUT. This review summarizes the literature regarding the utility and performance of UUT cytology and highlights findings before and after the implementation of TPS.

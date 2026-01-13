@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HPV vaccine
+TITLE: Human Papillomavirus Vaccine Effectiveness Against HPV Infection: Evaluation of One, Two, and Three Doses.
+PMID: 31784749
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31784749/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Highly effective human papillomavirus (HPV) vaccines are used in many national programs in 3- or 2-dose schedules. We examined HPV vaccine effectiveness against HPV prevalence by number of doses. We collected residual liquid-based cytology samples from US women aged 20-29 years who were screened for cervical cancer. Women continuously enrolled from 2006 through the specimen collection date were analyzed. Specimens were tested using the Linear Array assay. We analyzed prevalence of quadrivalent HPV vaccine (4vHPV) types (HPV 6,11,16,18) and other HPV-type categories and determined prevalence ratios (PRs) and 95% confidence intervals (CIs) for 1, 2, and 3 compared with no vaccine doses. Among 4269 women, 1052 (24.6%) were unvaccinated, 2610 (61.1%) received 3 doses, 304 (7.1%) received 2 doses, and 303 (7.1%) received 1 dose. The 4vHPV-type prevalence was 7.4% among unvaccinated women compared with 1.7%, 1.0%, and 1.0% among 1-, 2-, and 3-dose recipients. Among women vaccinated at ≤18 years, adjusted PRs for 1, 2, and 3 doses were 0.06 (95% CI, 0.01-0.42), 0.05 (95% CI, 0.01-0.39), and 0.06 (95% CI, 0.04-0.12). Among women who received their first dose at age ≤18, estimated HPV vaccine effectiveness was high regardless of number of doses.

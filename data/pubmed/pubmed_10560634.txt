@@ -1,0 +1,8 @@
+SEARCH_TOPIC: ALS
+TITLE: Diagnostic challenges in ALS.
+PMID: 10560634
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10560634/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although the essential requirements for diagnosis of amyotrophic lateral sclerosis (ALS) are clearly defined by the El Escorial criteria, many physicians, including neurologists, still miss the diagnosis. Physician misdiagnosis of ALS relates to lack of knowledge about ALS and skill and to diagnostic difficulty. The differential diagnosis must exclude nonmotor neuron diseases and other adult-onset motor neuron diseases with restricted presentations, e.g., progressive bulbar palsy (pure bulbar), progressive muscular atrophy (pure lower motor neuron) and primary lateral sclerosis (pure upper motor neuron), ALS-like syndromes and ALS variants, and adult-onset spinal muscular atrophies. Although the diagnosis of ALS remains a clinical one, laboratory testing can be used to exclude other diseases and to confirm the diagnosis. Such tests include EMG and nerve conduction studies, MRI and CT of the spine and brain, identification of biochemical markers in blood and CSF, and muscle or nerve biopsy. Genetic testing can identify gene defects in some types of familial ALS and in certain other inherited motor neuron diseases that mimic ALS. At present there is no widely accepted protocol for laboratory testing in cases of suspected ALS, but it is hoped that laboratory tests will improve in the future to facilitate earlier confirmation of a diagnosis of ALS. However, correct and early diagnosis of ALS can only be achieved when the first, second, or third physician who sees the patient knows about ALS and includes it in a differential diagnosis.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Narcolepsy
+TITLE: Pediatric narcolepsy.
+PMID: 18375081
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18375081/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Narcolepsy is a disabling disease with a prevalence of 0.05%. It is characterized by excessive daytime sleepiness, cataplexy, sleep paralysis, hypnogogic hallucinations, automatic behavior, and disrupted nocturnal sleep. The presentation can be very variable, making diagnosis difficult. Loss of hypocretin containing neurons in the lateral hypothalamus has been noted in autopsy studies, and the cerebrospinal fluid level of hypocretin is reduced in patients with narcolepsy with cataplexy. New treatment options are available for the many symptoms of this disease. Early recognition and treatment can greatly improve the quality of life of patients with narcolepsy. A detail review of the epidemiology, pathophysiology, and management of narcolepsy in children is presented.

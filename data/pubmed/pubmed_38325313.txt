@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dental cavities
+TITLE: DENTAL CAVITIES IN PEOPLE WITH TYPE 2 DIABETES MELLITUS: AN ANALYSIS OF RISK INDICATORS.
+PMID: 38325313
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38325313/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Diabetes is associated with a greater number of dental cavities. It is unclear, therefore, how potential risk factors such as salivary glucose, glycemic control and blood sugar could impact the onset of dental caries between people that have type 2 diabetes (T2D). Aim of the study - analyzing the risk factors for oral cavity disease in T2D patients. We analyzed the patient data including their dietary habits, dental hygiene practices, age and control of glycemic. The Indian dataset was used. Individual patient observations include the patient's diabetes classification as a range of medical attributes such as age, pregnancy, pedigree, glucose, body mass index, skin, blood pressure and insulin. The research discovered a significant correlation between poorly managed glycemic levels and dental caries are more prevalent in people with T2DM. High sugar consumption and poor oral hygiene habits have been identified as risk factors. These results highlight the need for integrating diabetes treatment measures with dental care to reduce dental caries in this susceptible group. Utilizing dental cavities into account improves oral health and has a positive impact on health outcomes for those with type 2 diabetes.

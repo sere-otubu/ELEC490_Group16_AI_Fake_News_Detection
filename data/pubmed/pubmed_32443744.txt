@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pilates benefits
+TITLE: Effectiveness of A Pilates Training Program on Cognitive and Functional Abilities in Postmenopausal Women.
+PMID: 32443744
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32443744/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The purpose of this study was to determine the effects of a Pilates exercises program on the cognitive and physical functioning of older Spanish women. This study is a randomized clinical trial; a total of 110 women aged ≥60 years were initially allocated to either a Pilates group (PG, n = 55), who underwent a 12-week Pilates exercise program, or to a control group (CG, n = 55), who did not receive any intervention. Global cognitive function (Mini-Mental State Examination), verbal fluency (Isaacs test), executive function (Trail Making Test), functional flexibility (Back Scratch Test and Chair Sit-and-Reach Test), and lower-body strength (30 s Chair-Stand Test) were assessed before and immediately after the intervention period. The main findings of this study suggest that women in the PG (within-group differences) experienced improvements across all the variables examined except for global cognitive function. When compared with the CG (between-group differences), our analysis revealed significant benefits in the PG for all measures except for global cognitive function and functional flexibility (Back Scratch Test). In conclusion, our results suggest that Pilates has the potential to improve both cognitive and functional abilities among Spanish women aged 60 years and over.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Healthy fats
+TITLE: Nutrition: Macronutrients.
+PMID: 38648169
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38648169/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Macronutrients are nutrients the body needs in large quantities, such as fats, carbohydrates, fiber, protein, and water. The exact quantity of macronutrients needed for an individual depends on multiple factors such as height, weight, sex, physical activity level, and medical conditions. For adequate intake, the <i>Dietary Guidelines for Americans, 2020-2025</i> (<i>DGA</i>) recommend an overall healthy eating pattern rather than specific macronutrient amounts. A healthy eating pattern includes consumption of minimally processed, nutrient-dense foods and beverages such as vegetables, fruits, grains, dairy, proteins, and oils. Nutrition labels on food packaging can be used to guide food choices. Healthy dietary patterns have been shown to reduce the risk of diet-related chronic diseases. Consumption of foods containing unsaturated fats, complex carbohydrates, and high levels of fiber is recommended. Protein should be obtained from a variety of sources, particularly plant-based sources. Intake of foods and beverages higher in added sugars, saturated fat, and sodium should be limited. Family physicians should obtain a nutrition history for every patient regardless of body mass index. The evaluation should include a diet assessment questionnaire and information about patient nutrition insight and motivation, dietary intake pattern, metabolic demands, comorbid conditions, and dietary supplement and substance use (eg, caffeine, alcohol). Physicians can counsel patients by sharing current <i>DGA</i> recommendations for following a healthy eating pattern.

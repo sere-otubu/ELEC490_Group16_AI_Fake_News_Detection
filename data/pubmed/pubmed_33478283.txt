@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Herd immunity
+TITLE: Transmission-Blocking Vaccines: Harnessing Herd Immunity for Malaria Elimination.
+PMID: 33478283
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33478283/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Transmission-blocking vaccines (TBV) prevent community spread of malaria by targeting mosquito sexual stage parasites, a life-cycle bottleneck, and will be used in elimination programs. TBV rely on herd immunity to reduce mosquito infections and thereby new infections in both vaccine recipients and non-recipients, but do not provide protection once an individual receives an infectious mosquito bite which complicates clinical development. Here, we describe the concept and biology behind TBV, and we provide an update on clinical development of the leading vaccine candidate antigens. Search terms 'malaria vaccine,' 'sexual stages,' 'transmission blocking vaccine,' 'VIMT' and 'SSM-VIMT' were used for PubMed queries to identify relevant literature. Candidates targeting <i>P. falciparum</i> zygote surface antigen Pfs25, and its <i>P. vivax</i> orthologue Pvs25, induced functional activity in humans that reduced mosquito infection in surrogate assays, but require increased durability to be useful in the field. Candidates targeting gamete surface antigens Pfs230 and Pfs48/45, respectively, are in or nearing clinical trials. Nanoparticle platforms and adjuvants are being explored to enhance immunogenicity. Efficacy trials require special considerations, such as cluster-randomized designs to measure herd immunity that reduces human and mosquito infection rates, while addressing human and mosquito movements as confounding factors.

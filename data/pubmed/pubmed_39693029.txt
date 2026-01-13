@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Aging population challenges
+TITLE: Mineral Supplements in Ageing.
+PMID: 39693029
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39693029/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+With advancing age, achievement of dietary adequacy for all nutrients is increasingly difficult and this is particularly so for minerals. Various factors impede mineral acquisition and absorption including reduced appetite, depressed gastric acid production and dysregulation across a range of signalling pathways in the intestinal mucosa. Minerals are required in sufficient levels since they are critical for the proper functioning of metabolic processes in cells and tissues, including energy metabolism, DNA and protein synthesis, immune function, mobility, and skeletal integrity. When uptake is diminished or loss exceeds absorption, alternative approaches are required to enable individuals to maintain adequate mineral levels. Currently, supplementation has been used effectively in populations for the restoration of levels of some minerals like iron, zinc, and calcium, but these may not be without inherent challenges. Therefore, in this chapter we review the current understanding around the effectiveness of mineral supplementation for the minerals most clinically relevant for the elderly.

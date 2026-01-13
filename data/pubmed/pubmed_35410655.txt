@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Alcohol guidelines
+TITLE: [Alcohol, anxiety, and depression].
+PMID: 35410655
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35410655/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Anxiety, depression, and co-morbid alcohol use disorder (AUD) are frequent and often difficult to diagnose and treat accurately. Diagnosis of anxiety or depression should only be made when the patients have been abstinent for four to six weeks. Patients are treated in general practice, municipal alcohol outpatient clinics, or in psychiatric settings. There are no national guidelines for this organisation in Denmark. Integrated treatment (psychotherapy and/or medical), at which both anxiety or depression and AUD are treated simultaneously by the same therapist (team), seems to be best.

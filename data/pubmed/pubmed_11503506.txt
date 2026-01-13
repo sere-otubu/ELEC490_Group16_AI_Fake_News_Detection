@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood transfusion
+TITLE: [Autologous blood transfusion].
+PMID: 11503506
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11503506/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Autologous blood transfusion techniques are the principal means of reducing allogeneic blood exposure. Those techniques were developed in order to prevent the risk of contamination by viruses, mainly HVB, HCV and HIV. However that risk has become so small that all studies show an exorbitant cost/efficiency ratio. Autologous blood transfusion would therefore be of no interest in terms of public health but a recent experimental study suggested a possible transmission of the BSE agent through blood. Until the matter is settled, the precaution principle means we should prefer alternative techniques to allogeneic blood whenever possible, hence a renewed interest in autologous transfusion.

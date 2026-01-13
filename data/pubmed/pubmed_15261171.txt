@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Acne vulgaris
+TITLE: Acne vulgaris.
+PMID: 15261171
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15261171/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Acne vulgaris is a common inflammatory skin condition that presents management difficulties to cosmetic surgeons. Acute management and treatment focuses on early diagnosis as well as treatment with topical agents, oral antibiotics, hormonal therapy,and nonablative chemical peel and laser applications. The treatment of postinflammatory scarring must be individualized to address potential macular dyschromia, cystic lesions,epithelial bridges, or deep pitted scars. A review of interventional options is presented to apply to the spectrum of acne scarring as well as a review of the literature to address objectively published reports on efficacy.

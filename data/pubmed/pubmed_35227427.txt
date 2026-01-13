@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Healthy fats
+TITLE: Heart-Healthy Diets and the Cardiometabolic Jackpot.
+PMID: 35227427
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35227427/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This review highlights the key components of a heart-healthy diet and presents an evidence-based overview of recent research. Diets that increase plant-based food sources and healthy unsaturated fats consumption and limit foods that are processed and/or high in sodium, refined sugar, and saturated fat are recommended. Dietary modification can be supplemented with lifestyle-based therapies (eg, exercise, time-restricted eating) to maximize clinical benefit and achieve the "cardiometabolic jackpot." Physicians should take into account cultural preferences, affordability and accessibility of foods, and their patients' cultural values or expectations when recommending dietary interventions.

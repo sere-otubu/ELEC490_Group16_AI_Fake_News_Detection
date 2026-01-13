@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Obesity prevention
+TITLE: Overweight and obesity in children and adolescents.
+PMID: 25241606
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25241606/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Obesity among children, adolescents and adults has emerged as one of the most serious public health concerns in the 21st century. The worldwide prevalence of childhood obesity has increased remarkably over the past 3 decades. The growing prevalence of childhood obesity has also led to appearance of obesity-related comorbid disease entities at an early age. Childhood obesity can adversely affect nearly every organ system and often causes serious consequences, including hypertension, dyslipidemia, insulin resistance, dysglycemia, fatty liver disease and psychosocial complications. It is also a major contributor to increasing healthcare expenditures. For all these reasons, it is important to prevent childhood obesity as well as to identify overweight and obese children at an early stage so they can begin treatment and attain and maintain a healthy weight. At present, pharmacotherapy options for treatment of pediatric obesity are very limited. Therefore, establishing a comprehensive management program that emphasizes appropriate nutrition, exercise and behavioral modification is crucial. The physician's role should expand beyond the clinical setting to the community to serve as a role model and to advocate for prevention and early treatment of obesity.

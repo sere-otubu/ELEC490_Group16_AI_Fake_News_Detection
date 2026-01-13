@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Deep vein thrombosis
+TITLE: Neutrophil extracellular traps mediate deep vein thrombosis: from mechanism to therapy.
+PMID: 37680629
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37680629/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Deep venous thrombosis (DVT) is a part of venous thromboembolism (VTE) that clinically manifests as swelling and pain in the lower limbs. The most serious clinical complication of DVT is pulmonary embolism (PE), which has a high mortality rate. To date, its underlying mechanisms are not fully understood, and patients usually present with clinical symptoms only after the formation of the thrombus. Thus, it is essential to understand the underlying mechanisms of deep vein thrombosis for an early diagnosis and treatment of DVT. In recent years, many studies have concluded that Neutrophil Extracellular Traps (NETs) are closely associated with DVT. These are released by neutrophils and, in addition to trapping pathogens, can mediate the formation of deep vein thrombi, thereby blocking blood vessels and leading to the development of disease. Therefore, this paper describes the occurrence and development of NETs and discusses the mechanism of action of NETs on deep vein thrombosis. It aims to provide a direction for improved diagnosis and treatment of deep vein thrombosis in the near future.

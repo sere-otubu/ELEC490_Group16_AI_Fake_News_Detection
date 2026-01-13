@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dialysis
+TITLE: [Risk control of dialysis fluids production in a teledialysis unit].
+PMID: 30655239
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30655239/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The "Centre Hospitalier Francois Dunan" is located on an isolated island and ensures patients care in hemodialysis thanks to telemedicine support. Many research studies have demonstrated the importance of hemodialysis fluids composition to reduce morbidity in patients on chronic hemodialysis. The aim of this study was to identify the risks inherent in the production of dialysis fluids in a particular context, in order to set up an improvement action plan to improve risk control on the production of dialysis fluids. The risk analysis was conducted with the FMECA methodology (Failure Mode, Effects and Criticality Analysis) by a multi professional work group. Three types of risk have been reviewed: technical risks that may impact the production of hemodialysis fluids, health risks linked with chemical composition and health risks due to microbiological contamination of hemodialysis fluids. The work group, in close cooperation with the expert staff of the dialysis center providing telemedicine assistance, has developed an action plan in order to improve the control of the main risks brought to light by the risk analysis. The exhaustive analysis of the risks and their prioritisation have permitted to establish a relevant action plan in this improving quality of dialysis fluids approach. The risk control of dialysis fluids is necessary for the security of dialysis sessions for patients, even more when these sessions are realized by telemedicine in Saint-Pierre-et-Miquelon.

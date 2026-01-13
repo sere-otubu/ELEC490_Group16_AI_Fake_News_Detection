@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Carbohydrates types
+TITLE: Analysis of carbohydrates and glycoconjugates by matrix-assisted laser desorption/ionization mass spectrometry: An update for 2017-2018.
+PMID: 34719822
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34719822/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This review is the tenth update of the original article published in 1999 on the application of matrix-assisted laser desorption/ionization mass spectrometry (MALDI) mass spectrometry to the analysis of carbohydrates and glycoconjugates and brings coverage of the literature to the end of 2018. Also included are papers that describe methods appropriate to glycan and glycoprotein analysis by MALDI, such as sample preparation techniques, even though the ionization method is not MALDI. Topics covered in the first part of the review include general aspects such as theory of the MALDI process, new methods, matrices, derivatization, MALDI imaging, fragmentation and the use of arrays. The second part of the review is devoted to applications to various structural types such as oligo- and poly-saccharides, glycoproteins, glycolipids, glycosides, and biopharmaceuticals. Most of the applications are presented in tabular form. The third part of the review covers medical and industrial applications of the technique, studies of enzyme reactions, and applications to chemical synthesis. The reported work shows increasing use of combined new techniques such as ion mobility and highlights the impact that MALDI imaging is having across a range of diciplines. MALDI is still an ideal technique for carbohydrate analysis and advancements in the technique and the range of applications continue steady progress.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Biopsy
+TITLE: Transvenous biopsy of abdominal-pelvic lesions with no safe percutaneous access: How we do it.
+PMID: 40287257
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40287257/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Recent developments in cancer genomics have allowed for comprehensive genomic profiling of tumors, thereby allowing oncologists to provide targeted therapies for patients with advanced cancers. This has made it even more important to obtain adequate core biopsies of lesions targeted for biopsies. While most lesions can be biopsied safely percutaneously using CT and ultrasound guidance, some lesions do not have a safe percutaneous window, thereby necessitating alternative biopsy techniques, such as transvenous biopsies, to aid in diagnosis and treatment. This review explores the use and technique of the transvenous approach for targeting small abdominal and pelvic masses using intravascular ultrasound guidance.

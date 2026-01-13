@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Healthy fats
+TITLE: Dietary lipids impacts on healthy ageing.
+PMID: 17546469
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17546469/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Healthy ageing is gaining attention in the lipid nutrition field. As in vivo biomarkers of healthy ageing, we have evaluated the survival, learning/memory performance, and physical potencies in rodents fed a diet supplemented with high-linoleic acid (LNA, omega6) safflower oil or high-alpha-linolenic acid (ALA, omega3) perilla oil for long periods. The results suggested that perilla oil with a low omega6/omega3 ratio is beneficial for healthy ageing. In order to address this issue further, we determined the survival of stroke-prone SHR (SHRSP) rats fed a conventional rodent diet supplemented with 10% fat or oil. Survival was longer with omega3-rich oils compared with omega6-rich oils. However, some kinds of vegetable oils and hydrogenated oils shortened the survival of SHRSP rats to an unusual degree (ca. 40% compared with that of omega6-rich oil) that could not be accounted for by the fatty acid and phytosterol composition of the oils. The observed decrease in platelet counts was associated with pathological changes in the kidney and other organs. Dihydro-vitamin K1 is proposed as a likely candidate as a stroke-stimulating factor in hydrogenated oils. Thus, factors other than fatty acids (omega6/omega3 balance) and phytosterols must be taken into account when fats and oils are evaluated in relation to healthy ageing.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: LASIK surgery
+TITLE: The role of corneal innervation in LASIK-induced neuropathic dry eye.
+PMID: 24439045
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24439045/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Almost half the patients who undergo laser in situ keratomileusis (LASIK) experience dry eye following the procedure. However, the etiology of LASIK-induced dry eye is unclear. The purpose of this review is to examine and summarize the current evidence for the etiology of LASIK-induced dry eye, with a focus on ocular surface sensitivity and corneal innervation. Evidence suggests that the alteration of corneal nerves after LASIK is the most likely cause of the subjective symptoms of LASIK-induced dry eye, even though corneal sensitivity and the clinical indicators of dry eye return to apparently normal values within a year due to the partial recovery of the corneal nerve plexus. The hypothesis is explored that dry eye symptoms following LASIK may result from abnormal sensation due to LASIK-induced corneal neuropathy. Other factors, such as alterations in conjunctival goblet cell density, might also contribute to the symptoms and signs of LASIK-induced dry eye. Inter-relationships between nerve morphology, tear neuropeptide levels and dry eye require further investigation. A better understanding of this phenomenon may result in improved management of post-LASIK dry eye.

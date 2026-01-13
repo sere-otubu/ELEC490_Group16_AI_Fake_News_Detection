@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Carbohydrates types
+TITLE: Mitogenic lectins.
+PMID: 14586291
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/14586291/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lectins have captured the attention of a large number of researchers on account of the various exploitable activities that they exhibit, including their proliferative effects on various cell types. Recognition of cell-surface carbohydrates by lectins has broad implications in important biological processes. The ability of lectins to detect subtle variations in carbohydrate structures on the surface of cells and tissues has made them a paradigm for protein-carbohydrate recognition. Lectins display a considerable repertoire of carbohydrate specificities. These characteristics, together with the ability to stimulate lymphocytes as well as other cells, have made lectins an important diagnostic and experimental tool to study the various aspects of cell growth and differentiation, taking lymphocytes as the cell type. Various models of lectin action have been used to explain specific event-driven functions of lectins, which have convincingly elucidated the mechanism of action of lectins in different milieu. This review contains a selective survey of information available on the role of lectins in cell proliferation, with special emphasis on lymphocyte proliferation and the models which have been proposed to elucidate lectin action. The information available clearly justifies the observation that a generalized scheme to explain the diverse roles played by lectins in cell growth and differentiation is still awaited.

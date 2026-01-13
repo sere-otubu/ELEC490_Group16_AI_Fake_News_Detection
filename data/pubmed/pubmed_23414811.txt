@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Syphilis
+TITLE: [Syphilis].
+PMID: 23414811
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23414811/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Syphilis is back since 2000. Early syphilis comprises primary syphilis, secondary syphilis and early latent syphilis (less than 1 year duration). During early phases of syphilis, patients are more contagious and neurologic complications are rare. Early neurosyphilis are mostly represented by uveitis or cranial nerves lesions. Treatment of non-neurologic syphilis are based on intramusculary injection of benzathine-penicilline G: one injection in case of early syphilis, three injections in case of late syphilis. The follow-up after treatment is based on clinical evolution and the titer of VDRL. Intravenously infusion of penicillin G is the only treatment recommended for neurosyphilis.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Adrenal glands
+TITLE: Magnetic resonance imaging of the adrenal glands.
+PMID: 3547995
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3547995/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Applications of nuclear magnetic resonance (NMR) to the adrenal gland have received considerable attention in recent years. Using high field strength magnets and surface coil technology, images of normal and abnormal adrenal glands have been obtained that compare favorably, and in some instances excel, computed tomography (CT) with respect to both image quality and, to a greater degree, differentiation of pathology. This article reviews the current state of magnetic resonance (MR) imaging of normal and abnormal adrenal glands, compares MR with CT imaging, and indicates where NMR spectroscopy has been of greatest value to date in the study of adrenal gland disease.

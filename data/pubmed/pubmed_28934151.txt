@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HPV infection
+TITLE: Natural History of HPV Infection across the Lifespan: Role of Viral Latency.
+PMID: 28934151
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28934151/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Large-scale epidemiologic studies have been invaluable for elaboration of the causal relationship between persistent detection of genital human papillomavirus (HPV) infection and the development of invasive cervical cancer. However, these studies provide limited data to adequately inform models of the individual-level natural history of HPV infection over the course of a lifetime, and particularly ignore the biological distinction between HPV-negative tests and lack of infection (i.e., the possibility of latent, undetectable HPV infection). Using data from more recent epidemiological studies, this review proposes an alternative model of the natural history of genital HPV across the life span. We argue that a more complete elucidation of the age-specific probabilities of the alternative transitions is highly relevant with the expanded use of HPV testing in cervical cancer screening. With routine HPV testing in cervical cancer screening, women commonly transition in and out of HPV detectability, raising concerns for the patient and the provider regarding the source of the positive test result, its prognosis, and effective strategies to prevent future recurrence. Alternative study designs and analytic frameworks are proposed to better understand the frequency and determinants of these transition pathways.

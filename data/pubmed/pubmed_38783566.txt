@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Muscular system
+TITLE: Diagnoses of muscular dystrophy in a veterans health system.
+PMID: 38783566
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38783566/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Early diagnosis of a chronic neuromuscular disease such as muscular dystrophy (MD) generally excludes an individual from active-duty military service. However, it is not known whether veterans are sometimes diagnosed with milder forms of MD at a later timepoint. We aimed to determine the prevalence of MD in a veterans health system. We abstracted clinical and genetic test data on patients who received care for a diagnosis of MD at the North Florida/South Georgia Veterans Health System between 2008 and 2021. We then determined which of these individuals would meet criteria for a definite diagnosis of MD, based on electrodiagnostic testing, muscle biopsy, and genetic testing of the individual or an affected first degree relative. We identified 12 patients with definite MD and 36 with possible or probable MD. The definite cases included myotonic dystrophy type 1 (4), myotonic dystrophy type 2 (3), oculopharyngeal MD (2), Becker MD (1), distal MD (1), and facioscapulohumeral MD (1). At least five of the cases classified as definite developed symptoms after discharge from active duty. Clinicians who care for veterans should be knowledgeable about, and have access to, diagnostic testing and treatment options for MD. When conducting MD surveillance, it is important to include veterans health systems as a data source. Mild cases of MD and those of later onset appear to be compatible in some cases with successful completion of military service.

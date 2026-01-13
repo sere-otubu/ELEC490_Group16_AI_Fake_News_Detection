@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lymphatic system
+TITLE: Lymphatic Anatomy.
+PMID: 27993319
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27993319/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Recent development of new lymphatic imaging and intervention techniques, such as intranodal lymphangiogram, dynamic contrast enhanced magnetic resonance lymphangiography and lymphatic embolization, have resulted in the resurgence of interest in the lymphatic anatomy. The lymphatic system is a continuous maze of interlacing vessels and lymph nodes and is extremely complex and variable. This presents a significant challenge for interpretation of imaging and performance of interventions on this system. There is an embryological reason for this complexity and variability; the lymphatic system sprouts off of primordia from several locations in the body, which later fuse together at different stages of development of the embryo. The lymphatic system can be divided in three distinct parts: soft tissue lymphatics, intestinal lymphatics, and liver lymphatics. Liver and intestinal lymphatics generate approximately 80% of the body lymph and are functionally the most important parts of the lymphatic system. However, their normal anatomy and pathological changes are relatively unknown. In this chapter we will explore the anatomy of these three systems relevant to lymphatic imaging and interventions.

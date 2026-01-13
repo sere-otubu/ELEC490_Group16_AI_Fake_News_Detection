@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Public health policy
+TITLE: Health Equity and the Dynamism of Structural Racism and Public Policy.
+PMID: 36068729
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36068729/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Policy Points Both public policy and structural racism are dynamic systems that reinforce each other. Efforts to address the health effects of structural racism must account for the nature of these systems. Politics and policy are critical for understanding the persistence of racial health inequities and creating policies and interventions that can mitigate the effects of structural racism on health.

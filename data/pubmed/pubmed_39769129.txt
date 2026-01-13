@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Stem cell research
+TITLE: Advances in Stem Cell Research-Insights from the Special Issue "Stem Cells in Health and Disease 2.0".
+PMID: 39769129
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39769129/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Significant progress in stem cell research over the last few decades has opened up new avenues for exploring human physiology and pathophysiology [...].

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Endometriosis
+TITLE: Endometriosis and cancer.
+PMID: 30562557
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30562557/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Endometriosis, characterized by the presence of extra-uterine endometrium, is a common gynecologic disorder in reproductive-age women. Although the detailed molecular mechanism of etiology remains unelucidated, recent studies have gradually revealed both genetic and epigenetic backgrounds of the development of endometriosis. In clinical practice, endometriosis has been recognized as a precursor lesion of several types of malignancies and endometriosis-associated carcinoma. An imbalance between reactive oxygen species and local antioxidants has been reported to contribute to the development of endometriosis-associated carcinoma as well as the pathophysiology of this disease through a systemic inflammatory response in the peritoneal cavity. This review mainly presents an epidemiology, possible etiology of endometriosis, precursor lesions, molecular features, and the association between the microenvironmental accumulations of oxidative stress in endometriosis-associated ovarian cancer progression.

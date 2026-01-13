@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sleep apnea
+TITLE: Management of paediatric sleep-disordered breathing.
+PMID: 38416524
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38416524/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Paediatric sleep-disordered breathing is a common condition which varies in severity from snoring to obstructive sleep apnoea. Paediatric sleep-disordered breathing is usually diagnosed clinically, with investigations such as polysomnography reserved for more complex cases. Management can involve watching and waiting, medical or adjunct treatments and adenotonsillectomy. National working groups have sought to standardise the pathway for surgery and improve the management of surgical and anaesthetic complications. Current guidelines use age, weight and comorbidities to stratify risk for these surgical cases. This article summarises these recommendations and outlines the important factors that indicate cases that may be more suitable for management in secondary and tertiary units. Appropriate case selection will reduce pressure on tertiary units while maintaining training opportunities in district general hospitals.

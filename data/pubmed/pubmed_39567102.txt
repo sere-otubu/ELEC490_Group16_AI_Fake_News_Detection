@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ergonomics
+TITLE: Safety, Ergonomics and Patient Centered Point-of-Care Ultrasound.
+PMID: 39567102
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39567102/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ultrasound imaging is a safe diagnostic tool that has become ubiquitous, in part due to its portability, effectiveness, and safety record. The latter is aided be adherence to regulatory limits, safety guidelines, and the "as low as reasonably achievable" principle. Operators receive feedback on potential tissue heating and mechanical effects through output display standard that shows the thermal index and mechanical index. To prevent the spread of infections, ultrasound transducers require varying levels of disinfection based on procedure invasiveness, following detailed infection control protocols, even in resource-limited settings. Ergonomic sonography practices are emphasized to prevent work-related musculoskeletal disorders (WRMSD), with professional organizations encouraging the use of ergonomically designed equipment and proper body positioning during scans. Operators should understand and properly apply ergonomic practices. Administrators play a key role by providing ergonomic equipment, education on WRMSD prevention, and creating workplace policies.

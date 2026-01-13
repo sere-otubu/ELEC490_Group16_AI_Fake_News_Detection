@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Schizophrenia
+TITLE: Apathy in schizophrenia: A review of neuropsychological and neuroanatomical studies.
+PMID: 28966139
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28966139/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Apathy is a multidimensional symptom composed of cognitive, behavioral, and emotional facets including impaired motivation and reduced goal-directed behavior. Apathy belongs to schizophrenia's negative symptomatology which has received increased attention over the last years including a growing interest in the assessment and the consequences of apathy. Nevertheless, the pathological mechanisms are still insufficiently explored as well as the multidimensional aspect of this symptom. The aim of this article is to provide a review of the main measures used to explore apathy in schizophrenia as well as the cognitive and neural correlates of apathy while taking into account the multidimensionality of this symptom. Studies have shown important correlations between apathy, executive functions and specific brain regions such as the anterior cingulate cortex, orbitofrontal cortex and the ventral and dorsal striatum. Nevertheless, most studies have neglected the multidimensional aspect of apathy, which is assessed as a single-dimension concept. These and other limitations are discussed as well as the main strengths of the current evidence on apathy in schizophrenia.

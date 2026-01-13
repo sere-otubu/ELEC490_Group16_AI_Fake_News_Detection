@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Radiation therapy
+TITLE: Modern Radiation Therapy Planning and Delivery.
+PMID: 31668213
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31668213/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Modern radiation therapy treatment planning and delivery is a complex process that relies on advanced imaging and computing technology as well as expertise from the medical team. The process begins with simulation imaging, in which three-dimensional computed tomography images (or magnetic resonance images in some cases) are used to characterize the patient anatomy. From there, the radiation oncologist delineates the relevant target/tumor volumes and normal tissue and communicates the goals for treatment planning. The planning process attempts to generate a radiation therapy treatment plan that will deliver a therapeutic dose of radiation to the tumor while sparing nearby normal tissue.

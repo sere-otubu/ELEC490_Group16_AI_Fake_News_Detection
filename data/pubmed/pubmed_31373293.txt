@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Meal planning
+TITLE: Cooking and Meal Planning as Predictors of Fruit and Vegetable Intake and BMI in First-Year College Students.
+PMID: 31373293
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31373293/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The objective was to determine if cooking skills and meal planning behaviors are associated with greater fruit and vegetable intake and lower body mass index (BMI) in first-year college students who are at risk for excessive weight gain. A cross-sectional analysis was conducted using baseline data from a multi-state research project aimed at preventing weight gain in first-year college students. Cooking type, frequency and confidence, self-instruction for healthful mealtime behavior intention, self-regulation of healthful mealtime behavior, and cup equivalents of fruits and vegetables (FV) were measured using validated surveys. BMI was calculated from measured height and weight. First-year students (<i>n</i> = 1108) considered at risk for weight gain from eight universities completed baseline assessments within the first month of entering college. Multiple linear regression was used to determine associations among independent variables of cooking patterns, meal planning behaviors, and dependent variables of fruit and vegetable intake and BMI, after controlling for the influence of sex. Cooking more frequently, cooking with greater skills, and practicing meal planning behaviors are associated with greater fruit and vegetable intake and lower BMI in first-year college students. Interventions aimed at improving health in college students may be enhanced by incorporating cooking and meal planning components.

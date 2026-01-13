@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Red blood cells
+TITLE: Red Blood Cells: A Source of Extracellular Vesicles.
+PMID: 28828644
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28828644/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+During their lifetime, like all other cell types, red blood cells (RBCs) release both exosomes and plasma membrane derived EVs (ectosomes). RBC exosomes are formed only during the development of RBCs in bone marrow, and are released following the fusion of microvesicular bodies﻿ (MVB) with the plasma membrane. On the other hand, RBC EVs are generated during normal aging of RBCs in circulation by budding of the plasma membrane due to complement -mediated calcium influx, followed by vesicle shedding. This makes red blood cells and stored red cells a reliable source of EVs for basic and clinical research.

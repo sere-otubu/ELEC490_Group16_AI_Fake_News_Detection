@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cystic fibrosis
+TITLE: Cystic fibrosis: Epidemiology, clinical manifestations, diagnosis and treatment.
+PMID: 37558605
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37558605/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cystic fibrosis is a genetic and multisystemic disease. The main comorbidity in adulthood is respiratory involvement, with the presence of bronchiectasis, chronic bronchial infection and airflow obstruction. Until a decade ago, treatments were aimed at favoring secretion drainage, reducing respiratory exacerbations, controlling chronic bronchial infection and slowing functional deterioration, but with the advent of cystic fibrosis transmembrane conductance regulator (CFTR) modulators, the cystic fibrosis paradigm has changed. This novel treatment goes a step further in the management of this disease, it is able to improve the production of defective CFTR protein and increase its expression on the cell surface, thus achieving a better functioning of ion exchange, fluidizing respiratory secretions and reducing airflow obstruction. In addition, there are currently different lines of research aimed at correcting the genetic defect that causes cystic fibrosis.

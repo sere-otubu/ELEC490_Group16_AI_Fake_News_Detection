@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antibiotics classes
+TITLE: Improving known classes of antibiotics: an optimistic approach for the future.
+PMID: 22748801
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22748801/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+New antibiotic agents are desperately needed to treat the multidrug-resistant pathogens that continue to emerge at alarming rates. Many of the agents that have entered full clinical development since 1995 have been members of previously accepted classes of antibiotics. Among these are a new aminoglycoside (plazomicin), anti-MRSA cephalosporins (ceftobiprole and ceftaroline), a monocyclic β-lactam (BAL30072), the β-lactamase inhibitor combination of tazobactam with the anti-pseudomonal cephalosporin ceftolozane, β-lactam combinations with new non-β-lactam inhibitors (MK-7655 with imipenem, and avibactam with ceftazidime and ceftaroline), new macrolides (cethromycin and solithromycin), oxazolidinones (tedizolid phosphate and radezolid), and quinolones (delafloxacin, nemonoxacin and JNJ-Q2). Resistance and safety issues have been circumvented by some of these new agents that have well-established mechanisms of action and defined pathways leading toward regulatory approval.

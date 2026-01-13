@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Autism spectrum disorder
+TITLE: Age at autism spectrum disorder diagnosis: A systematic review and meta-analysis from 2012 to 2019.
+PMID: 33213190
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33213190/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+We currently assume that the global mean age at diagnosis of autism spectrum disorder ranges from 38 to 120 months. However, this range is based on studies from 1991 to 2012 and measures have since been introduced to reduce the age at autism spectrum disorder diagnosis. We performed a systematic review and meta-analysis (statistical analysis that combines the results of multiple scientific studies) for studies published between 2012 and 2019 to evaluate the current age at autism spectrum disorder diagnosis. We included 56 studies that reported the age at diagnosis for 40 countries (containing 120,540 individuals with autism spectrum disorder). Results showed the current mean age at diagnosis to be 60.48 months (range: 30.90-234.57 months) and 43.18 months (range: 30.90-74.70 months) for studies that only included children aged ⩽10 years. Numerous factors that may influence age at diagnosis (e.g. type of autism spectrum disorder diagnosis, additional diagnoses and gender) were reported by 46 studies, often with conflicting or inconclusive results. Our study is the first to determine the global average age at autism spectrum disorder diagnosis from a meta-analysis. Although progress is being made in the earlier detection of autism spectrum disorder, it requires our constant attention.

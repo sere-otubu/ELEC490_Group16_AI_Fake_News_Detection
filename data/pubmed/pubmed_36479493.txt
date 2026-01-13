@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Binge eating disorder
+TITLE: Gene variants in eating disorders. Focus on anorexia nervosa, bulimia nervosa, and binge-eating disorder.
+PMID: 36479493
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36479493/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Eating disorders such as anorexia nervosa, bulimia nervosa and binge-eating disorder, have a deep social impact, concluding with death in cases of severe disease. Eating disorders affect up to 5% of the population in the industrialized countries, but probably the phenomenon is under-detection and under-diagnosis. Eating disorders are multifactorial disorders, resulting from the interaction between environmental triggers, psychological factors, but there is also a strong genetic component. In fact, genetic factors predispose for approximately 33-84% to anorexia nervosa, 28-83% to bulimia nervosa, and 41-57% to binge eating disorder. Twins and family studies have provided an unassailable proof on the heritability of these disorders. Other types of genetic studies, including genome-wide association studies, whole genome sequencing and linkage analysis, allowed to identify the genes and their variants associated with eating disorders and moreover global collaborative efforts have led to delineate the etiology of these disorders. Next Generation Sequencing technologies can be considered as an ideal diagnostic approach to identify not only the common variants, such as single nucleotide polymorphism, but also rare variants. Here we summarize the present knowledge on the molecular etiology and genetic determinants of eating disorders including serotonergic genes, dopaminergic genes, opioid genes, appetite regulation genes, endocannabinoid genes and vitamin D3.

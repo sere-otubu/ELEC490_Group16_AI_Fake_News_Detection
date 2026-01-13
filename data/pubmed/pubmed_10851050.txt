@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Leukemia
+TITLE: The role of STATs in myeloid differentiation and leukemia.
+PMID: 10851050
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10851050/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Myeloid differentiation is a highly regulated process governed by various cytokines, such as EPO, TPO, G-CSF, IL-3, IL-5 and GM-CSF. These cytokines act in part through activation of the STAT transcription factor family. In particular, various isoforms of STAT3 and STAT5 are activated during myeloid differentiation in a cell-type and maturation-state dependent fashion. In vitro studies have shown that STAT proteins are essential for cytokine-regulated processes such as cellular proliferation, differentiation as well as survival. Similarly, various STAT knock-outs have highlighted the role of STATs in myeloid differentiation in vivo. STATs also appear to play an important role in various myeloid malignancies, which are characterized by arrested maturation and cytokine-independent proliferation of myeloid progenitors. Constitutive activation of STAT3 and/or STAT5 resulting in enhanced transcription of anti-apoptotic- cell-cycle progression genes is likely to contribute to the pathogenesis of various myeloid leukemia's. Oncogene (2000).

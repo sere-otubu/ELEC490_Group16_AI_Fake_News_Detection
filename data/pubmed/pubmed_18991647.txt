@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anemia
+TITLE: The role of oxidative stress in hemolytic anemia.
+PMID: 18991647
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18991647/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The oxidative status of cells is determined by the balance between pro-oxidants and antioxidants. Pro-oxidants, referred to as reactive oxygen species (ROS), are classified into radicals and nonradicals. The radicals are highly reactive due to their tendency to accept or donate an electron and attain stability. When cells experience oxidative stress, ROS, which are generated in excess, may oxidize proteins, lipids and DNA - leading to cell death and organ damage. Oxidative stress is believed to aggravate the symptoms of many diseases, including hemolytic anemias. Oxidative stress was found in the beta-hemoglobinopathies (sickle cell anemia and thalassemia), glucose-6-phosphate dehydrogenase deficiency, hereditary spherocytosis, congenital dyserythropoietic anaemias and Paroxysmal Nocturnal Hemoglobinuria. Although oxidative stress is not the primary etiology of these diseases, oxidative damage to their erythroid cells plays a crucial role in hemolysis due to ineffective erythropoiesis in the bone marrow and short survival of red blood cells (RBC) in the circulation. Moreover, platelets and polymorphonuclear (PMN) white cells are also exposed to oxidative stress. As a result some patients develop thromboembolic phenomena and recurrent bacterial infections in addition to the chronic anemia. In this review we describe the role of oxidative stress and the potential therapeutic potential of anti-oxidants in various hemolytic anemias.

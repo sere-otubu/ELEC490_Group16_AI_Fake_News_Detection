@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HIV AIDS
+TITLE: Pharmacovigilance and global HIV/AIDS.
+PMID: 22627711
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22627711/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This review focuses on current status, progress, challenges and opportunities in global pharmacovigilance for HIV/AIDS treatment. Over 6 million HIV-infected individuals worldwide are on treatment with more than 150 innovator and generic antiretroviral drug products. This achievement is made possible through sponsorship of HIV/AIDS programs [The Global Fund to Fight AIDS, Tuberculosis and Malaria; the President's Emergency Program for AIDS Relief (PEPFAR)] and the availability of generic fixed-dose combination products. The WHO prequalifies generic drug products used by Global Fund programs; the US Food and Drug Administration tentatively approves generic products used by PEPFAR programs through a fast-track review process. Adequate national or regional quality and safety monitoring systems after drug distribution are lacking. The pharmaceutical sector, a significant player in pharmacovigilance in the developed world, has not been engaged. Innovative approaches based on collaboration and partnerships will be needed. Clinic-based or program-based cohort studies, randomized clinical trials and electronic medical records may contribute pharmacovigilance-relevant information. Attention to drug quality and safety is obligatory for long-term program sustainability. Systematic approaches to regional pharmacovigilance that make use of diverse data sources, and collaborative partnerships between industry, clinical and/or research programs and national health authorities can potentially contribute to overall health system strengthening.

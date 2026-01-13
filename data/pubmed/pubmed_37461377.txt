@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vitamin D deficiency
+TITLE: Epigenetic regulation of vitamin D deficiency.
+PMID: 37461377
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37461377/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Tweetable abstract Epigenetic insights into vitamin D deficiency, a global health concern, are described here. This editorial illuminates the role of epigenetic mechanisms in understanding the molecular basis of vitamin D deficiency, shedding light on precision medicine.

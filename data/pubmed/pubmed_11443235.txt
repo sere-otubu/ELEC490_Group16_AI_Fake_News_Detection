@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Intestines function
+TITLE: Of slow waves and spike patches.
+PMID: 11443235
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11443235/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In the small intestines, the major task of the slow wave is to induce mechanical movements in the intestinal wall by generating local calcium spikes. High resolution electrical mapping reveals fundamental differences in propagation between slow waves and calcium spikes. These differences suggest that slow waves and spikes are propagated by different mechanisms through different cell networks.

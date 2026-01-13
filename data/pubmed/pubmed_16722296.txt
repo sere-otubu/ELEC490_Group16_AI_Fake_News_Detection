@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Stroke
+TITLE: Managing stroke in children.
+PMID: 16722296
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16722296/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The incidence of stroke in the pediatric population is estimated at between 2 and 3 per 100,000. Strokes are divided into ischemic or hemmorhagic categories, depending on whether the primary cause is obstruction or bleeding into the brain. Strokes may present with acute, recurrent, or evolving neurological deficits. There is a long and varied list of causes of stroke in children. The major causes of ischemic stroke are cardiac abnormalities and coagulation disorders. Cerebrovascular malformations account for the majority of hemmorhaghic strokes. The workup is guided by the initial history and imaging studies. Treatment is dependent on the specific risk factors identified, and outcome is dependent on the location and extent of the initial insult.

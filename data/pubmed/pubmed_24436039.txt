@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Stomach anatomy
+TITLE: Comparative anatomy, physiology, and mechanisms of disease production of the esophagus, stomach, and small intestine.
+PMID: 24436039
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24436039/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The alimentary system may be thought of as an open-ended tube within a tube that begins at the oral cavity and ends at the anus. Gastrointestinal lumens are potential spaces that accommodate ingested substances and are lined by polarized epithelium that is smooth and shiny (with the exception of the rumen) when healthy and intact. Because xenobiotics most frequently enter the body via ingestion, the gastrointestinal system and its ancillary glands are the first line of defense against foreign materials and pathogens of all types. The anatomic, biochemical, physical, secretory, and endocrinologic properties of the epithelium, resident, and blood-borne effector cells, microbiota, genetic polymorphisms, and gut-associated lymphoid tissue (which comprises one-quarter of the body's total) must be physically or functionally altered for diarrhea to occur. The average person ingests 700 tons of antigens in their lifetime. That enteritis does not occur more often than it does is testimony to the efficacy of gastrointestinal protective systems.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: E. coli infection
+TITLE: Pyroptosis engagement and bladder urothelial cell-derived exosomes recruit mast cells and induce barrier dysfunction of bladder urothelium after uropathogenic <i>E. coli</i> infection.
+PMID: 31241987
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31241987/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The specific regulatory mechanism of bladder urothelial barrier dysfunction after infection with uropathogenic <i>Escherichia coli</i> (UPEC) is still unclear. The cross talk between bladder urothelial cells and mast cells may play an important role during UPEC infection. In this study, the pyroptosis of urothelial cells was investigated after UPEC infection both in vivo and in vitro. The levels of IL-1β and IL-18 in exosomes derived from bladder urothelial cells after UPEC infection were detected. The role of these processes in the recruitment and activation of mast cells was measured. The mechanism of mast cell-induced disruption of bladder epithelial barrier function was also assessed. We found that UPEC infection induced pyroptosis of bladder urothelial cells and led to the release of IL-1β and IL-18 in the form of exosomes, which promoted the migration of mast cells. Tryptase secreted by mast cells aggravated the damage to the barrier function of the bladder urothelium by acting on protease-activated receptor 2 (PAR2). Inhibition of pyroptosis or the tryptase-PAR2 axis reduced the disruption of bladder urothelial barrier function and decreased the bacterial burden. The present study supports a novel mechanism by which pyroptosis-dependent release of exosomes from bladder urothelial cells activates mast cells and regulates bladder urothelial barrier function during UPEC infection.

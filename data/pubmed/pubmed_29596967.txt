@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Endocrine system
+TITLE: Parabens and their effects on the endocrine system.
+PMID: 29596967
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29596967/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Preservatives (ingredients which inhibit growth of microorganisms) are used to prolong shelf life of various foods, cosmetics, and pharmaceutical products. Parabens are one of the most popular preservatives used in the aforementioned products and is currently being used worldwide. Parabens are easily absorbed by the human body. Thus, it is important to discuss about their safety with respect to human physiology. In view of the current literature, which classifies parabens as a group of endocrine disrupting chemicals (EDCs), it seems that the precise assessment of their influence on the human endocrine system is particularly important. Disruption of the endocrine homoeostasis might lead to multidirectional implications causing disruption of fitness and functions of the body. Therefore, in this review article, we aimed to summarize the current literature on properties, occurrence, and metabolism of parabens as well as to present recent progress in knowledge about their influence on the human endocrine system.

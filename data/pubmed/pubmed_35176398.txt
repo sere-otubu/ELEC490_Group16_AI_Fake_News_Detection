@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Skin cancer prevention
+TITLE: Skin cancer: Primary, secondary, and tertiary prevention. Part II.
+PMID: 35176398
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35176398/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Skin cancer is the most commonly diagnosed cancer worldwide. Understanding the natural history of skin cancer will provide a framework for the creation of prevention and control strategies that aim to reduce skin cancer burden. The strategies include health promotion, primary prevention, secondary prevention, and tertiary prevention. Health promotion and primary prevention were covered in the first part of this 2-part review. The second part covers the secondary and tertiary prevention of skin cancer. In particular, preventive strategies centered on the early detection of skin cancer, the prevention of disease progression, clinical surveillance, and educational and behavioral interventions are highlighted. The summaries of existing recommendations, challenges, opportunities, and future directions are discussed.

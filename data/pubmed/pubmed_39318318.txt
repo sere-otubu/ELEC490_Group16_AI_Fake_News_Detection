@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Placebo effect
+TITLE: Analysis of placebo effect of acupuncture.
+PMID: 39318318
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39318318/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Acupuncture is a comprehensive therapy which takes the theory of traditional Chinese medicine as the core. Currently, there is much controversy surrounding the "placebo effect" of acupuncture： some people argue that acupuncture is a "super placebo", while others believe that the so-called placebo effect is just part of the therapeutic effect of acupuncture. To solve the controversy, this article clarified the definition, composition, and research purposes of "placebo acupuncture", pointed out its differences from "sham acupuncture", elucidated the relationship between the placebo effect and the intrinsic efficacy of acupuncture, distinguished the differences between the "observed placebo effect" and the "real placebo effect" in acupuncture clinical trials, and proposed the dilemmas and prospects of implementing "placebo acupuncture" and "sham acupuncture" contrasts at the current stage, in order to provide clues for optimizing randomized controlled trials of acupuncture.

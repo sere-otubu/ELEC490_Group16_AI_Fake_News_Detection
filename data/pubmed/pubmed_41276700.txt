@@ -1,0 +1,8 @@
+SEARCH_TOPIC: White blood cells
+TITLE: White Blood Cells in Neurodegenerative Diseases in the Context of Neuroinflammation.
+PMID: 41276700
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41276700/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Neurodegenerative diseases are a multifactorial problem for modern neurology, due to their unknown etiology, difficult diagnostics, and, consequently, the lack of causal methods of treatment. Rising life expectancy exacerbates the problem by increasing the number of patients, as most of them fall ill in older age. Recent research shows that inflammation, both peripheral and neuroinflammation, may take part in the pathogenetic pathways of disease development. Some studies suggest that the initiation of the process occurs outside of the nervous system and is causally related to the immune system. This review focuses on the role of basic peripheral immune cells, including lymphocytes and neutrophils, in the course of selected central nervous system pathologies and their potential use as a biomarker. Both types of leukocytes not only change their quantity, but, more importantly, their function. Furthermore, they interact with microglial cells that constantly surveil the central nervous system and respond to pathological factors. Their joint action, however, can be either neuroprotective or neurotoxic. This review highlights that the development of neurodegeneration is associated with a dysregulation of the balance between immune cell phenotypes and their interactions. The disturbed immune response does not allow for the organism to correctly control the disease.

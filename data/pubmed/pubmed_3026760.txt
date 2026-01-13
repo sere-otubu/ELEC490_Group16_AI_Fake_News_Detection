@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pneumonia
+TITLE: Overwhelming pneumonia.
+PMID: 3026760
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3026760/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Overwhelming pneumonias remain an important cause of morbidity and mortality. These illnesses may be rapidly fatal; thus, many patients are treated empirically. Although the various etiologic agents cannot be differentiated on the basis of radiographic appearance, epidemiologic information may give a clue to the cause. Community-acquired overwhelming pneumonias are usually due to pyogenic bacteria (especially Streptococcus pneumoniae), mycoplasma, mycobacteria, and fungi. Hospital-acquired pneumonias are usually due to aerobic gram-negative bacilli. If the patient is immunocompromised, Pneumocystis carinii, Candida, and Aspergillus must be considered. Choice of optimal antimicrobial therapy requires that a specific etiology be identified. Gram's stain of sputum is often helpful in the diagnosis of community-acquired pneumonia. Invasive diagnostic techniques such as bronchoscopy and open lung biopsy are often required in nosocomial pneumonias and pneumonias in immunocompromised patients.

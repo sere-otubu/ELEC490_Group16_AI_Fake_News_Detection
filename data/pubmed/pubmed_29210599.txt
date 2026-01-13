@@ -1,0 +1,8 @@
+SEARCH_TOPIC: COPD
+TITLE: Obesity in COPD: Revealed and Unrevealed Issues.
+PMID: 29210599
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29210599/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The interactions between obesity and chronic obstructive pulmonary disease (COPD) are being increasingly explored. In part, this is due to the globally increasing prevalence rates of obesity. The prevalence of obesity in COPD patients is variable, and it seems that obesity is more common in COPD patients compared with subjects who do not have COPD. However, further studies are encouraged in this area due to observed inconsistencies in the current data. In this review, we focus on the knowledge of the effects of obesity on dyspnea, pulmonary function, exercise capacity and exacerbation risk. Reduction of dyspnea is one of the main therapy targets in COPD care. There is still no consensus as to whether obesity has a negative or even a positive effect on dyspnea in COPD patients. It is hypothesized that obese COPD patients might benefit from favourable respiratory mechanics (less lung hyperinflation). However, despite less hyperinflation, obesity seems to have a negative influence on exercise capacity measured with weight-bearing tests. This negative influence is not seen with weight-supported exercise such as cycling. With respect to severe exacerbations, obesity seems to be associated with better survival. In summary, it is concluded that due to differences in study methodology and cohort selection, there are still too many knowledge gaps to develop guidelines for clinical practice. Further exploration is needed to get conclusive answers.

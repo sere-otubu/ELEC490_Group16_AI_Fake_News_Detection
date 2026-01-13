@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anaphylaxis
+TITLE: Anaphylaxis in Pregnancy.
+PMID: 36410997
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36410997/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Anaphylaxis in pregnancy is a rare event, but has important implications for the pregnant patient and fetus. The epidemiology, pathophysiology, diagnosis, and treatment all carry important considerations unique to the pregnant patient. Common culprits of anaphylaxis are primarily medications, particularly antibiotics and anesthetic agents. Diagnosis can be difficult given the relative lack of cutaneous symptoms, and normal physiologic changes in pregnancy such as low blood pressure and tachycardia. Apart from patient positioning, treatment is similar to that of the general population, with a focus on prompt epinephrine administration.

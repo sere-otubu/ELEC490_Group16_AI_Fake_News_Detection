@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antidepressants
+TITLE: Safety of antidepressants.
+PMID: 7622819
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7622819/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There are a number of criteria that can be used when selecting an antidepressant. In particular safety criteria are important, and a distinction can be drawn between "safe" and "less safe" antidepressants. The relative safety of different antidepressants has been assessed by looking at answers to the questions: how safe is the drug in overdose; how dangerous are its side effects at therapeutic dose; and does it have any dangerous interactions with other drugs or substances? Based on current data it can be said with reasonable confidence that fluvoxamine, fluoxetine, paroxetine and moclobemide are "safe" antidepressants, and mianserin and trazodone are also "safe" but to a lesser extent (mainly because of hypnosedation). In conclusion, "safe" antidepressants should be considered as the first choice in the treatment of depression.

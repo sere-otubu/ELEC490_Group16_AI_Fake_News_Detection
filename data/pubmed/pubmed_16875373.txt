@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tetanus shot
+TITLE: [Last minute vaccinations].
+PMID: 16875373
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16875373/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Various vaccinations applied at short notice before a person leaves for a foreign country can still provide full protection from certain diseases. This applies in particular to the generally recommended vaccinations against diphtheria and tetanus; additionally, a booster shot against poliomyelitis also provides complete protection within a few days. Immunization against hepatitis A, yellow fever (in particular Africa), typhoid fever and, where appropriate, meningococci is available at the latest ten days before starting a journey. However, no last-minute protection is possible for hepatitis B, rabies, Japanese encephalitis or TBE.

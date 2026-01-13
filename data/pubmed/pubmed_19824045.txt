@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hearing aids
+TITLE: A contemporary review of hearing aids.
+PMID: 19824045
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19824045/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A contemporary review of hearing aids is provided with a focus on current styles of amplification devices, the goals of a hearing aid fitting and the signal processing schemes that allow the clinician to meet these goals, and the need to couple outside devices to hearing aids. A variety of new features available on hearing aids that improve the listener's experience with amplification are described. Some future challenges in hearing aid design and hearing evaluation are presented.

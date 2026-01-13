@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Suicide prevention
+TITLE: The role of prediction in suicide prevention.
+PMID: 30581289
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30581289/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+It is widely believed that suicide prevention involves the consideration of risk and protective factors and related interventions. Preventative interventions can be classified as "universal" (targeting whole populations), "selective" (targeting higher-risk groups), and "indicated" (protecting individuals). This review explores the range of preventative measures that might be used commensurately with different types of suicide prediction. The author concludes that the best prospects for suicide prevention lie in universal prevention strategies. While risk assessments do generate some information about future suicide, suicide risk categorization results in an unacceptably high false positive rate, misses many fatalities, and therefore, is unable to usefully guide prevention strategies. The assessment of suicidal patients should focus on contemporaneous factors and the needs of the patient, rather than probabilistic notions of suicide risk.

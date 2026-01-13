@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lyme disease
+TITLE: Lyme disease in athletes.
+PMID: 25574885
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25574885/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lyme disease, a bacterial infection transmitted by ticks, is the most common vector-borne disease in the northern hemisphere. Athletes who train or compete in wooded environments in endemic regions are at increased risk of contracting Lyme disease. Variability in clinical presentation, masquerading symptoms, and limitations in testing may lead to misdiagnosis. Early diagnosis and treatment result in full recovery for most patients with Lyme disease; however symptoms may persist for months to years, especially when diagnosis is delayed. This article reviews the epidemiology, clinical manifestations, diagnosis, treatment, and prevention of Lyme disease, with focus on the athletic population.

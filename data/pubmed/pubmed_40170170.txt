@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vaping health risks
+TITLE: Chronic airway inflammatory diseases and e-cigarette use: a review of health risks and mechanisms.
+PMID: 40170170
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40170170/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Chronic airway inflammatory diseases, which primarily include chronic obstructive pulmonary disease (COPD), asthma, allergic rhinitis, and chronic sinusitis, continue to have a high global prevalence, highlighting their significant public health impact. Concurrently, the use of e-cigarettes (tobacco e-cigarettes) has been rising worldwide, with many users perceiving them as a safer alternative to traditional cigarettes. However, accumulating evidence from international studies suggests that e-cigarettes pose substantial health risks. This review aims to explore recent research on the relationship between e-cigarette use and chronic airway inflammatory diseases. The findings indicate that e-cigarette usage increases the risk of developing these conditions. Specifically, studies have shown that e-cigarettes exacerbate airway inflammatory responses, elevate levels of type 2 inflammatory cytokines such as IL-4, IL-5, and IL-13, increase cellular oxidative stress, and impair lung function. These mechanisms may collectively contribute to an increased risk of chronic airway inflammatory diseases potentially associated with e-cigarette use.

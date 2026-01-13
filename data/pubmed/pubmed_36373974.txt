@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Traumatic brain injury
+TITLE: Neurobiological Mechanisms Of Depression Following Traumatic Brain Injury.
+PMID: 36373974
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36373974/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Depression is among the most pervasive and debilitating neuropsychiatric sequelae experienced by patients following a traumatic brain injury (TBI). While the individual mechanisms underlying depression and TBI have been widely studied, the neurobiological bases of depression after TBI remain largely unknown. This article highlights the potential mechanisms of action implicated in depression after TBI. We review putative mechanisms of action including neuroinflammation, neuroendocrine dysregulation, metabolic abnormalities, and neurotransmitter and circuitry dysfunction. We also identify the current limitations in the field and propose directions for future research. An improved understanding of the underlying mechanisms will aid the development of precision-guided and personalized treatments for patients suffering from depression after TBI.

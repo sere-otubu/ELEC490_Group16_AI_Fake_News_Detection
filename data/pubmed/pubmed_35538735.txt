@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antihistamines
+TITLE: Pharmacogenomics for the efficacy and side effects of antihistamines.
+PMID: 35538735
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35538735/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Antihistamines, especially H1 antihistamines, are widely used in the treatment of allergic diseases such as urticaria and allergic rhinitis, mainly for reversing elevated histamine and anti-allergic effects. Antihistamines are generally safe, but some patients experience adverse reactions, such as cardiotoxicity, central inhibition and anticholinergic effects. There are also individual differences in antihistamine efficacy in clinical practice. The concept of individualized medicine has been deeply rooted in people's minds since it was put forward. Pharmacogenomics is the study of the role of inheritance in individual variations in drug response. In recent decades, pharmacogenomics has been developing rapidly, which provides new ideas for individualized medicine. Polymorphisms in the genes encoding metabolic enzymes, transporters and target receptors have been shown to affect the efficacy of antihistamines. In addition, recent evidence suggests that gene polymorphisms influence urticaria susceptibility and antihistamine therapy. Here, we summarize current reports in this area, aiming to contribute to future research in antihistamines and clinical guidance for antihistamines use in individualized medicine.

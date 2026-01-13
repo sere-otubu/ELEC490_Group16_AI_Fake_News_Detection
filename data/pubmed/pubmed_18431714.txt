@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Nicotine dependence
+TITLE: [Mechanisms of nicotine dependence].
+PMID: 18431714
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18431714/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+About 30 % of the population in Western societies smoke. Most smokers do so due to nicotine dependence. In concert with ongoing education about the detrimental consequences of tobacco abuse and further restriction of public smoking, further scientific effort is needed to investigate the mechanisms of nicotine dependence, in order to develop more effective treatments and smoking cessation programmes. This review summarises our current knowledge of the mechanisms of nicotine dependence, focussing mainly on the cellular effects of nicotine and the effects on three neurophysiological systems that contribute to nicotine dependence: a) reward system, b) cognition/attentional networks and c) stress response system. The reward system that is connected with the mood regulatory system is activated by nicotine and other addictive substances. Furthermore, nicotine modulates cognitive networks involved in attention and learning/memory. Most data point to positive effects of acute nicotine administration on these networks. Finally nicotine influences the stress response system, however, the effects depend on the stage of nicotine addiction. Nicotinic modulation of these networks by means of smoking may reflect an attempt to self-medicate clinical or subclinical symptoms in the areas of mood regulation/depression, attention and learning/memory and stress coping, at least in a subset of smokers.

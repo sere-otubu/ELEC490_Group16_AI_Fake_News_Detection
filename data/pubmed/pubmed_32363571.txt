@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vaping health risks
+TITLE: Vaping epidemic: challenges and opportunities.
+PMID: 32363571
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32363571/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article is a timely, concise, and unbiased analysis of the national and international responses to the spate of vaping-related lung illnesses and deaths and the epidemic of teen vaping. In view of the recent outbreak of vaping-related lung injuries and deaths in the USA and the epidemic of teen vaping, the viewpoints and recommendations presented in this article have immediate policy implications in the USA and around the world. The perspectives and recommendations are expected to assist medical communities, public health professionals, and regulatory authorities in addressing complex issues related to vaping regulation, which are intertwined with public health, economy, and politics of nations, worldwide.

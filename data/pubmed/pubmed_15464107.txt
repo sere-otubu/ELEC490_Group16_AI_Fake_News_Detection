@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Nicotine dependence
+TITLE: Cigarette smoking and nicotine dependence.
+PMID: 15464107
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15464107/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Tobacco use is the single most preventable cause of death, disability, and disease in the United States and is projected to be the leading cause of death and disability across all developed countries by the year 2020. Understanding nicotine dependence, its causes, consequences, and effective treatments is critical to the nation's public health agenda. This article presents a brief overview of nicotine dependence with particular emphasis placed on understanding what nicotine dependence is, why it occurs, how it is measured, and how it can be managed through effective treatments.

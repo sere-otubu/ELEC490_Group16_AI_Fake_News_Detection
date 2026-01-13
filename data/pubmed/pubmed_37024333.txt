@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hearing loss
+TITLE: Natural History of Hearing Loss in Sporadic Vestibular Schwannoma.
+PMID: 37024333
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37024333/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hearing loss is the most common and earliest symptom of sporadic vestibular schwannoma (VS). The most common pattern of hearing loss is asymmetric sensorineural hearing loss. Throughout its natural history, patients with serviceable hearing (SH) maintain SH at 94% to 95% after 1 year, 73% to 77% after 2 years, 56% to 66% after 5 years, and 32% to 44% after 10 years. For patients newly diagnosed with VS, it is likely their hearing will worsen despite small initial tumor size or lack of tumor growth.

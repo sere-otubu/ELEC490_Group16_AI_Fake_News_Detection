@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lymphoma
+TITLE: Lymphoma.
+PMID: 27866584
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27866584/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lymphomas may be broadly divided into non-Hodgkin (90%) and Hodgkin (10%) types. Most lymphomas (90%) are of B cell origin but can also be T cell or natural killer cell. Clinical management of indolent and aggressive lymphomas is different. Aggressive lymphomas are more dangerous if left untreated yet a higher cell proliferation rate also renders them more chemosensitive, so they are managed with curative intent. Indolent lymphomas are, for the most part, incurable, such that quality of life must be balanced against toxicity of treatment in deciding when and how to treat.

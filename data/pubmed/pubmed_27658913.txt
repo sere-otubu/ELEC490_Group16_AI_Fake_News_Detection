@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mindfulness meditation
+TITLE: Mindfulness Meditation for Chronic Pain: Systematic Review and Meta-analysis.
+PMID: 27658913
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27658913/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Chronic pain patients increasingly seek treatment through mindfulness meditation. This study aims to synthesize evidence on efficacy and safety of mindfulness meditation interventions for the treatment of chronic pain in adults. We conducted a systematic review on randomized controlled trials (RCTs) with meta-analyses using the Hartung-Knapp-Sidik-Jonkman method for random-effects models. Quality of evidence was assessed using the GRADE approach. Outcomes included pain, depression, quality of life, and analgesic use. Thirty-eight RCTs met inclusion criteria; seven reported on safety. We found low-quality evidence that mindfulness meditation is associated with a small decrease in pain compared with all types of controls in 30 RCTs. Statistically significant effects were also found for depression symptoms and quality of life. While mindfulness meditation improves pain and depression symptoms and quality of life, additional well-designed, rigorous, and large-scale RCTs are needed to decisively provide estimates of the efficacy of mindfulness meditation for chronic pain.

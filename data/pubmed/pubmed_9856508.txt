@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Genetic testing ethics
+TITLE: Genetic testing for renal diseases: medical and ethical considerations.
+PMID: 9856508
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9856508/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Advances in understanding the genetic basis of renal disorders will soon allow for the clinical use of genetic diagnostic testing. In this article, we review renal diseases with a known genetic basis and the current methods available for genetic testing. We then examine the potential medical indications for genetic testing, with special attention to autosomal dominant polycystic kidney disease (ADPKD). Because clinicians will be faced with patients considering genetic testing, we review the ethical considerations regarding genetic testing for renal diseases, recent genetic privacy legislation, and the special role genetic testing may have in transplantation. We conclude with a review of the necessary elements of informed consent, which provides the ethical foundation for patients deciding about genetic testing with the assistance of their physicians.

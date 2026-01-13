@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Coronary artery disease
+TITLE: Interventions for coronary artery disease (surgery vs angioplasty) in diabetic patients.
+PMID: 24582092
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24582092/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Patients with diabetes develop more widespread and more severe atherosclerotic coronary artery disease than patients without diabetes. Medical management of this coronary disease is inferior to revascularization for more complex or more widespread disease. Revascularization by percutaneous intervention (PCI) for patients with diabetes is associated with high mortality and complication rates. Surgical revascularization by coronary artery bypass grafting, yields superior results to PCI for patients with diabetes and coronary artery disease. Patients with diabetes benefit from the same medical management of their coronary artery disease and secondary risk modification as patients without diabetes.

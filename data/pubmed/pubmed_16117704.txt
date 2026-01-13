@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hepatitis A
+TITLE: Prevention of hepatitis A by Havrix: a review.
+PMID: 16117704
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16117704/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hepatitis A is one of the most common vaccine-preventable infectious diseases in the world. With at least 1.5 million cases of hepatitis A worldwide each year, disease management constitutes a substantial economic burden. The first effective vaccine against hepatitis A, Havrix was introduced in 1992. This review summarizes data accumulated following more than a decade of clinical experience with this vaccine and compares clinical data with other currently available hepatitis A vaccines. Based on this data and on the current immunological knowledge, a recent consensus concluded that hepatitis A vaccines induce lifelong protection, and thus booster vaccinations against hepatitis A are unnecessary in fully immunized, healthy people. In view of this, current regulatory recommendations for the use of hepatitis A vaccines are reviewed and possible future strategies identified.

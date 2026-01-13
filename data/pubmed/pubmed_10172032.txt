@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Glaucoma
+TITLE: Glaucoma drainage implants.
+PMID: 10172032
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10172032/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Glaucoma drainage implants provide a useful option in the management of complicated glaucomas for which the risk of failure of conventional filtering surgery is high. The basic design of these devices is similar; a silicone tube shunts aqueous humor from the anterior chamber to a fibrous capsule surrounding a synthetic plate or band positioned at the equatorial region of the globe. The capsule serves as a reservoir for aqueous drainage. Drainage implants have been used in the treatment of various refractory glaucomas, including those associated with aphakia and pseudophakia, prior unsuccessful filtering surgery, anterior segment neovascularization, trauma, youth, uveitis, epithelial downgrowth, iridocorneal endothelial syndrome, vitreoretinal disorders, and penetrating keratoplasty. Modifications in implant design and surgical technique have been developed to limit the occurrence of postoperative complications such as hypotony and its related sequelae, and strabismus.

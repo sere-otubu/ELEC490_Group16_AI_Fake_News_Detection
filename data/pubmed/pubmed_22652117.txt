@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Surgery preparation
+TITLE: A preparation guide for surgical resident and student rotations to underserved regions.
+PMID: 22652117
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22652117/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Interest in global health among surgical residents and medical students is growing. There are numerous opportunities worldwide for both short- and long-term experiences. In order to maximize the learning potential, the authors present a practical guide for residents and students to prepare for a surgical visit, elective, rotation, or mission to an underserved region. The following steps will be outlined:

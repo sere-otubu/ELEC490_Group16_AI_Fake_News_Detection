@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chromosomes
+TITLE: From Human Cytogenetics to Human Chromosomics.
+PMID: 30769866
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30769866/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The concept of "chromosomics" was introduced by Prof. Uwe Claussen in 2005. Herein, the growing insights into human chromosome structure finally lead to a "chromosomic view" of the three-dimensional constitution and plasticity of genes in interphase nuclei are discussed. This review is dedicated to the memory of Prof. Uwe Claussen (30 April 1945⁻20 July 2008). Chromosomics is the study of chromosomes, their three-dimensional positioning in the interphase nucleus, the consequences from plasticity of chromosomal subregions and gene interactions, the influence of chromatin-modification-mediated events on cells, and even individuals, evolution, and disease. Progress achieved in recent years is summarized, including the detection of chromosome-chromosome-interactions which, if damaged, lead to malfunction and disease. However, chromosomics in the Human Genetics field is not progressing presently, as research interest has shifted from single cell to high throughput, genomic approaches. Chromosomics and its impact were predicted correctly in 2005 by Prof. Claussen. Although some progress was achieved, present reconsiderations of the role of the chromosome and the single cell in Human Genetic research are urgently necessary.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Maternal mortality rates
+TITLE: Maternal mortality from preeclampsia/eclampsia.
+PMID: 22280867
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22280867/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Preeclampsia/eclampsia is one of the 3 leading causes of maternal morbidity and mortality worldwide. During the past 50 years, there has been a significant reduction in the rates of eclampsia, maternal mortality, and maternal morbidity in the developed countries. In contrast, the rates of eclampsia, maternal complications, and maternal mortality remain high in the developing countries. These differences are mainly due to universal access to prenatal care, access to timely care, and proper management of patients with preeclampsia-eclampsia in the developed countries. In contrast, most of maternal deaths and complications are due to lack of prenatal care, lack of access to hospital care, lack of resources, and inappropriate diagnosis and management of patients with preeclampsia-eclampsia in the developing countries. Preeclampsia/eclampsia is associated with substantial maternal complications, both acute and long-term. Clear protocols for early detection and management of hypertension in pregnancy at all levels of health care are required for better maternal as well as perinatal outcome. This is especially important in the developing countries.

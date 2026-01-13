@@ -1,0 +1,8 @@
+SEARCH_TOPIC: RNA function
+TITLE: Predicting the functional states of human iPSC-derived neurons with single-cell RNA-seq and electrophysiology.
+PMID: 27698428
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27698428/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Human neural progenitors derived from pluripotent stem cells develop into electrophysiologically active neurons at heterogeneous rates, which can confound disease-relevant discoveries in neurology and psychiatry. By combining patch clamping, morphological and transcriptome analysis on single-human neurons in vitro, we defined a continuum of poor to highly functional electrophysiological states of differentiated neurons. The strong correlations between action potentials, synaptic activity, dendritic complexity and gene expression highlight the importance of methods for isolating functionally comparable neurons for in vitro investigations of brain disorders. Although whole-cell electrophysiology is the gold standard for functional evaluation, it often lacks the scalability required for disease modeling studies. Here, we demonstrate a multimodal machine-learning strategy to identify new molecular features that predict the physiological states of single neurons, independently of the time spent in vitro. As further proof of concept, we selected one of the potential neurophysiological biomarkers identified in this study-GDAP1L1-to isolate highly functional live human neurons in vitro.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hypotension
+TITLE: Orthostatic hypotension in older adults: the role of medications.
+PMID: 33238696
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33238696/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Orthostatic hypotension (OH) is defined as an abnormal blood pressure reduction when standing and is frequently diagnosed in older adults. Pharmacological therapy is one of the main causes of orthostatic blood pressure impairment, leading to iatrogenic OH. Indeed, several medications may induce hypotensive effects and influence the blood pressure response to orthostatism. Hypotensive medications may also overlap with other determinants of OH, thus increasing the burden of symptoms and the risk of complications. Potentially hypotensive medications include both cardiovascular and psychoactive drugs, which are frequently prescribed in older patients. According to the available evidence, the antihypertensive treatment "per se" does not seem to predispose to OH, even if a higher risk is associated with polypharmacy and drug classes such as with diuretics and vasodilators. As concerns psychoactive medications, OH is a well-known adverse effect of tricyclic antidepressants, trazodone and antipsychotics. The knowledge of hemodynamic consequences of drug therapy may be helpful to improve OH treatment. A medication review is advisable in all patients presenting with OH, particularly at advanced age, aiming at optimizing medical treatment with a view to minimize the risk of iatrogenic OH.

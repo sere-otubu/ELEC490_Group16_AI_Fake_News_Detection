@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Leukemia
+TITLE: Epidemiology and environmental risk in hairy cell leukemia.
+PMID: 26614895
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26614895/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hairy cell leukaemia (HCL) is an orphan subtype of leukaemia which constitutes less than 2% of all leukaemia's, with an incidence of less than 1 per 100,000 persons per annum. Median age at presentation is 55 years and it is 3-4 times more frequent in males. It is also more frequently encountered in whites and less in Asians, Africans and Arabs. The epidemiologic data are multi-factorial and influenced by ethnicity and geographical factors. Other reported associations relate to some environmental exposures and possible occupational factors. Smoking appears to have an inverse correlation with the development of hairy cell leukaemia, while farming and exposure to pesticides, petroleum products, diesel and ionizing radiation have also been reported to be associated with an increased risk. National and international collaborative efforts are needed in order to undertake more extensive studies involving larger patient cohorts, aiming to determine the role of occupational and environmental risk factors in the development of this rare form of chronic leukaemia.

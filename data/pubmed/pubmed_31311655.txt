@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immunotherapy
+TITLE: Integrative Approaches to Cancer Immunotherapy.
+PMID: 31311655
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31311655/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cancer immunotherapy aims to arm patients with cancer-fighting immunity. Many new cancer-specific immunotherapeutic drugs have gained approval in the past several years, demonstrating immunotherapy's efficacy and promise as an anticancer modality. Despite these successes, several outstanding questions remain for cancer immunotherapy, including how to make immunotherapy more efficacious in a broader range of cancer types and patients, and how to predict which patients will respond or not respond to therapy. We present a case for integrative systems approaches that will answer these questions. This involves applying mechanistic and statistical modeling, establishing consistent and widely adopted experimental tools to generate systems-level data, and creating sustained mechanisms of support. If implemented, these approaches will lead to major advances in cancer treatment.

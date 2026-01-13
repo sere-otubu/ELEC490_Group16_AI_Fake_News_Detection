@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Speech therapy
+TITLE: Deep learning applications in telerehabilitation speech therapy scenarios.
+PMID: 35853398
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35853398/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Nowadays, many application scenarios benefit from automatic speech recognition (ASR) technology. Within the field of speech therapy, in some cases ASR is exploited in the treatment of dysarthria with the aim of supporting articulation output. However, in presence of atypical speech, standard ASR approaches do not provide any reliable result in terms of voice recognition due to main issues, including: (i) the extreme intra and inter-speakers variability of the speech in presence of speech impairments, such as dysarthria; (ii) the absence of dedicated corpora containing voice samples from users with a speech disability to train a state-of-the-art speech model, particularly in non-English languages. In this paper, we focus on isolated word recognition for native Italian speakers with dysarthria and we exploit an existing mobile app to collect audio data from users with speech disorders while they perform articulation exercises for speech therapy purposes. With this data availability, a convolutional neural network has been trained to spot a small number of keywords within atypical speech, according to a speaker dependent method. Finally, we discuss the benefits of the trained ASR system in tailored telerehabilitation contexts intended for patients with dysarthria who can follow treatment plans under the supervision of remote speech language pathologists.

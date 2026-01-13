@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Binge eating disorder
+TITLE: Binge Eating Disorder in Children and Adolescents.
+PMID: 31443873
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31443873/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Binge eating disorder onset often occurs during adolescence, yet the diagnosis and treatment of the disorder in this age group has been inadequately studied. Criteria and challenges in making the diagnosis in children and adolescents are reviewed, as well as prevalence rates, current treatment options, and complications.

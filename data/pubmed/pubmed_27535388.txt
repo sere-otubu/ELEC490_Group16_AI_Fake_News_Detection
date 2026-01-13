@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lung cancer
+TITLE: Diagnosis and Molecular Classification of Lung Cancer.
+PMID: 27535388
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27535388/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lung cancer is a complex disease composed of diverse histological and molecular types with clinical relevance. The advent of large-scale molecular profiling has been helpful to identify novel molecular targets that can be applied to the treatment of particular lung cancer patients and has helped to reshape the pathological classification of lung cancer. Novel directions include the immunotherapy revolution, which has opened the door for new opportunities for cancer therapy and is also redefining the classification of multiple tumors, including lung cancer. In the present chapter, we will review the main current basis of the pathological diagnosis and classification of lung cancer incorporating the histopathological and molecular dimensions of the disease.

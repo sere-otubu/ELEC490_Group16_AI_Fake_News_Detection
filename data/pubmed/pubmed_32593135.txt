@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sleep hygiene
+TITLE: Sleep hygiene in shift workers: A systematic literature review.
+PMID: 32593135
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32593135/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In response to demand for the '24/7' service availability, shift work has become increasingly common. Given their non-traditional working hours, shift workers sleep at non-traditional times, with significant research undertaken to understand shift worker sleep. However, sleep hygiene in shift workers has been paid little research attention. To investigate shift worker engagement with sleep hygiene, a systematic review using the databases Sage, ScienceDirect, and Scopus was undertaken. The search terms utilised were: shift work, shiftwork, shift-work, sleep hygiene, sleep routine, and sleep habit. Sixteen studies were included for review. Findings show that shift workers frequently report caffeine consumption and daytime napping, in line with best-practice fatigue-management strategies, but contrary to existing sleep hygiene recommendations. Shift workers also altered their bedroom environment to optimise sleep. Diet, exercise, alcohol and nicotine consumption were investigated minimally from a sleep hygiene perspective. Given that shift workers are engaging in practices in-line with current fatigue-management strategies, but contrary to sleep hygiene recommendations, further research is required. Specifically, assessment of the applicability of current sleep hygiene guidelines to shift workers (particularly caffeine and napping recommendations) is required, in addition to the development of shift work-specific sleep hygiene guidelines and interventions for this sleep-vulnerable population.

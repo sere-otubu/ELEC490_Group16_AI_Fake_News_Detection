@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vegan diet
+TITLE: Nutritional Status and the Influence of the Vegan Diet on the Gut Microbiota and Human Health.
+PMID: 32098430
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32098430/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The human gut microbiota is considered a well-known complex ecosystem composed of distinct microbial populations, playing a significant role in most aspects of human health and wellness. Several factors such as infant transitions, dietary habits, age, consumption of probiotics and prebiotics, use of antibiotics, intestinal comorbidities, and even metabolic diseases may continously alter microbiota diversity and function. The study of vegan diet-microbiota interactions is a rapidly evolving field, since plenty of research has been focused on the potential effects of plant-based dietary patterns on the human gut microbiota. It has been reported that well-planned vegan diets and their associated components affect both the bacterial composition and metabolic pathways of gut microbiota. Certain benefits associated with medical disorders but also limitations (including nutritional deficiencies) have been documented. Although the vegan diet may be inadequate in calorific value, it is rich in dietary fiber, polyphenols, and antioxidant vitamins. The aim of the present study was to provide an update of the existing knowledge on nutritional status of vegan diets and the influence of their food components on the human gut microbiota and health.

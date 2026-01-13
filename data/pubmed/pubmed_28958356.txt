@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Spinal cord injury
+TITLE: Trauma: Spinal Cord Injury.
+PMID: 28958356
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28958356/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Injuries to the spinal column and spinal cord frequently occur after high-energy mechanisms of injury, or with lower-energy mechanisms, in select patient populations like the elderly. A focused yet complete neurologic examination during the initial evaluation will guide subsequent diagnostic procedures and early supportive measures to help prevent further injury. For patients with injury to bone and/or ligaments, the initial focus should be spinal immobilization and prevention of inducing injury to the spinal cord. Spinal cord injury is associated with numerous life-threatening complications during the acute and long-term phases of care that all acute care surgeons must recognize.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Skin cancer prevention
+TITLE: Prevention of skin cancer.
+PMID: 3294270
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3294270/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Our understanding of the carcinogenic process as it relates to human skin cancer is growing rapidly. As this understanding increases, so will our ability to alter the process in a positive fashion. Presently, sun exposure is known to be the major carcinogen in human skin. The use of sunscreens is, and will continue to be, the most effective method of preventing human skin cancer. As these agents become more effective, especially against long-wave UV radiation, and as patients begin to use them more conscientiously, we should experience a decrease in skin cancer rates. In addition, a number of chemical agents are presently being investigated as anticarcinogens, especially in those patients who are at high risk for the development of skin cancers. A number of these hold promise as safe and effective chemopreventatives in reducing the morbidity and mortality of cancer in human skin.

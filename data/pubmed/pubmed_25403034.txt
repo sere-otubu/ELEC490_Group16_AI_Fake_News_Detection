@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Athletes foot
+TITLE: Diagnosis and management of tinea infections.
+PMID: 25403034
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25403034/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Tinea infections are caused by dermatophytes and are classified by the involved site. The most common infections in prepubertal children are tinea corporis and tinea capitis, whereas adolescents and adults are more likely to develop tinea cruris, tinea pedis, and tinea unguium (onychomycosis). The clinical diagnosis can be unreliable because tinea infections have many mimics, which can manifest identical lesions. For example, tinea corporis can be confused with eczema, tinea capitis can be confused with alopecia areata, and onychomycosis can be confused with dystrophic toenails from repeated low-level trauma. Physicians should confirm suspected onychomycosis and tinea capitis with a potassium hydroxide preparation or culture. Tinea corporis, tinea cruris, and tinea pedis generally respond to inexpensive topical agents such as terbinafine cream or butenafine cream, but oral antifungal agents may be indicated for extensive disease, failed topical treatment, immunocompromised patients, or severe moccasin-type tinea pedis. Oral terbinafine is first-line therapy for tinea capitis and onychomycosis because of its tolerability, high cure rate, and low cost. However, kerion should be treated with griseofulvin unless Trichophyton has been documented as the pathogen. Failure to treat kerion promptly can lead to scarring and permanent hair loss.

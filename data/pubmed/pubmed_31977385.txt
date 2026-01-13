@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Prostate cancer
+TITLE: Surrogate Endpoints in Localized Prostate Cancer.
+PMID: 31977385
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31977385/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Randomized clinical trials assessing novel therapies in men with localized prostate cancer frequently require large patient numbers and more than a decade of follow-up to demonstrate improvements in overall survival. As the landscape of treatment options for prostate cancer is rapidly changing, clinical trials requiring long follow-up threaten to impede treatment improvements and run the risk of results being obsolete by the time that they are reported in publication. To address these issues, there has been tremendous interest in identifying an intermediate clinical endpoint that can be assessed earlier in the disease course to serve as a robust surrogate for overall survival in men with localized prostate cancer. Herein we review the relevant data for surrogate endpoints in localized prostate cancer, highlighting the work performed by the Intermediate Clinical Endpoints in Cancer of the Prostate Working Group identifying metastasis-free survival as a valid surrogate for men treated for localized prostate cancer.

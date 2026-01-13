@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cardiovascular system
+TITLE: Advances in the study on endogenous sulfur dioxide in the cardiovascular system.
+PMID: 25382339
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25382339/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This review summarized the current advances in understanding the role of the novel gasotransmitter, sulfur dioxide (SO2), in the cardiovascular system. Articles on the advances in the study of the role of endogenous sulfur dioxide in the cardiovascular system were accessed from PubMed and CNKI from 2003 to 2013, using keywords such as "endogenous sulfur dioxide" and "cardiovascular system". Articles with regard to the role of SO2 in the regulation of cardiovascular system were selected. Recently, scientists discovered that an endogenous SO2 pathway is present in the cardiovascular system and exerts physiologically significant effects, such as regulation of the cardiac function and the pathogenesis of various cardiopulmonary diseases such as hypoxic pulmonary hypertension, hypertension, coronary atherosclerosis, and cardiac ischemia-reperfusion (I/R) injury, in the cardiovascular system. Endogenous SO2 is a novel member of the gasotransmitter family in addition to the nitric oxide (NO), carbon monoxide (CO), and hydrogen sulfide (H2S). Studies indicated that it has a role in regulating the cardiovascular disease.

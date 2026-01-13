@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Concussion
+TITLE: Acute Concussion.
+PMID: 38945648
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38945648/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Concussions are the most common type of traumatic brain injury. They result from external force to the head that causes a neuro-metabolic cascade to unfold. This can then lead to a variety of symptoms in the domains of physical, cognition, mood, and sleep. Concussions are a clinical diagnosis but it is important to rule out acute intracranial pathology through a detailed history and physical examination in addition to possible head imaging. Treatment should include an individualized approach that focuses on what domains are affected after concussion.

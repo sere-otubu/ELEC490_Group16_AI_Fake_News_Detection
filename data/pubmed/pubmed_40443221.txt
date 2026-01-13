@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Human brain structure
+TITLE: Human Brain Organoids: Development and Applications.
+PMID: 40443221
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40443221/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Brain organoids are three-dimensional structures generated from pluripotent stem cells, closely resembling the embryonic human brain. They exhibit gene expression patterns and signaling pathways similar to those in the developing human brain, facilitating the study of the molecular mechanisms underlying brain development, as well as genetic and environmental factors underlying developmental disorders. A brain organoid comprises various cell types noted in a developing brain: neurons, astrocytes, microglia, and oligodendrocytes. These cells interact with each other and form complex networks, enabling the investigation of communication among different cell types and their contribution to brain function. Brain organoid structure is also similar to that of a developing human brain, with distinct features resembling regions such as the cortex and ventricles. Alternatively, organoid models cannot completely replicate certain specific stages of brain development, such as brain surface folding and complex neuronal circuitry establishment. Nevertheless, few advancements to improve organoid systems and mimic embryonic human brain complexities have been reported. These include sophisticated culture protocol establishment, brain organoid vascularization and transplantation, regionalized brain organoid assembly into relatively complete brain organoids (<i>e.g.</i>, assembloids). In general, recent advancements in brain organoid technology have demonstrated significant potential for advancing regenerative medicine, drug discovery, and disease modeling.

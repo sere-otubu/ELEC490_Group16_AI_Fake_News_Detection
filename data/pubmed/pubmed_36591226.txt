@@ -1,0 +1,8 @@
+SEARCH_TOPIC: mRNA vaccines
+TITLE: mRNA vaccines for cancer immunotherapy.
+PMID: 36591226
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36591226/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Immunotherapy has emerged as a breakthrough strategy in cancer treatment. mRNA vaccines are an attractive and powerful immunotherapeutic platform against cancer because of their high potency, specificity, versatility, rapid and large-scale development capability, low-cost manufacturing potential, and safety. Recent technological advances in mRNA vaccine design and delivery have accelerated mRNA cancer vaccines' development and clinical application. In this review, we present various cancer vaccine platforms with a focus on nucleic acid vaccines. We discuss rational design and optimization strategies for mRNA cancer vaccine development. We highlight the platforms available for delivery of the mRNA vaccines with a focus on lipid nanoparticles (LNPs) based delivery systems. Finally, we discuss the limitations of mRNA cancer vaccines and future challenges.

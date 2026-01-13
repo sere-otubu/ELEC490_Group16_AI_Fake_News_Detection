@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Breast cancer
+TITLE: Breast cancer: presentation, investigation and management.
+PMID: 35243878
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35243878/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Breast cancer is the most common global malignancy and the leading cause of cancer deaths. Despite this, undergraduate and postgraduate exposure to breast cancer is limited, impacting on the ability of clinicians to accurately recognise, assess and refer appropriate patients. This article provides a comprehensive review of the pathology, epidemiology, clinical presentation, referral pathways and management of breast cancer in the UK. It also describes how to conduct a thorough clinical breast examination.

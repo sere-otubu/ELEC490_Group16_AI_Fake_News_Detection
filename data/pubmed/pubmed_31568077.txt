@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anorexia nervosa
+TITLE: Anorexia nervosa in adolescents: An overview.
+PMID: 31568077
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31568077/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Anorexia nervosa (AN) is an eating disorder that is difficult to treat, and relapse is common. This article addresses management strategies and nursing interventions for adolescents diagnosed with AN.

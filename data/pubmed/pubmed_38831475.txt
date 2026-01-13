@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Neurotransmitters
+TITLE: Imaging Neurotransmitters with Small-Molecule Fluorescent Probes.
+PMID: 38831475
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38831475/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Neurotransmitters play a crucial role in regulating communication between neurons within the brain and central nervous system. Thus, imaging neurotransmitters has become a high priority in neuroscience. This minireview focuses on recent advancements in the development of fluorescent small-molecule fluorescent probes for neurotransmitter imaging and applications of these probes in neuroscience. Innovative approaches for probe design are highlighted as well as attributes which are necessary for practical utility, with a view to inspiring new probe development capable of visualizing neurotransmitters.

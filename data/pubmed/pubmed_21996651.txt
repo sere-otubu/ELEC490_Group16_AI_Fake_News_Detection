@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood donation safety
+TITLE: Adverse events and safety issues in blood donation--a comprehensive review.
+PMID: 21996651
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21996651/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although blood donation is generally safe, a variety of risks and complications exist, the most common being iron deficiency, vasovagal reactions and citrate-related events. In the last decades, extensive efforts have significantly improved recipient and product safety, but there is still great potential to optimise donor care. Many therapies in modern medicine depend on the prompt availability of blood products, therefore it is crucial to maintain a motivated and healthy donor pool in view of a limited number of healthy volunteers willing and able to give blood or blood components. We present a comprehensive review on adverse events addressing all types of blood donation including whole blood, plasma, platelet, peripheral blood stem cell, leucocyte and bone marrow donation. In addition, we outline strategies for the prevention and treatment of these events and give a blueprint for future research in this field.

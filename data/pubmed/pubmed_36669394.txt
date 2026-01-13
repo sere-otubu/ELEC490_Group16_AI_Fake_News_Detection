@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Leukemia
+TITLE: The molecular and clinical significance of the Tie/angiopoietin system in leukemia.
+PMID: 36669394
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36669394/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Angiogenesis and factors affecting it are one of the most critical elements in vascular proliferation. Although they are essential in generating new vessels, their potential to generate solid tumors is accepted as a pathological condition. Leukemia can be an appropriate example of this condition. This study aims to evaluate the Tie/angiopoietin system effect in Leukemia. Leukemia is a pathological condition in which the uncontrolled proliferation of abnormal cells occurs in the bone marrow or lymphatic system. Based on severity and speed of development, many different types of Leukemia have been discovered through years of studying. Acute lymphocytic Leukemia (ALL), acute myeloid Leukemia (AML), chronic lymphocytic Leukemia (CLL), and chronic myeloid Leukemia (CML) are the four main types of Leukemia. Leukemia's function, effects, and medication have been a great concern over the years. Angiogenic factors such as angiopoietin-1 (Ang1), angiopoietin-2 (Ang2), angiopoietin-4 (Ang4), a combination of them and their receptors and their effect on Leukemia are the main purposes discussed in this article.

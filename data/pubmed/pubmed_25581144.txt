@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Opioid addiction
+TITLE: The prescription opioid and heroin crisis: a public health approach to an epidemic of addiction.
+PMID: 25581144
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25581144/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Public health authorities have described, with growing alarm, an unprecedented increase in morbidity and mortality associated with use of opioid pain relievers (OPRs). Efforts to address the opioid crisis have focused mainly on reducing nonmedical OPR use. Too often overlooked, however, is the need for preventing and treating opioid addiction, which occurs in both medical and nonmedical OPR users. Overprescribing of OPRs has led to a sharp increase in the prevalence of opioid addiction, which in turn has been associated with a rise in overdose deaths and heroin use. A multifaceted public health approach that utilizes primary, secondary, and tertiary opioid addiction prevention strategies is required to effectively reduce opioid-related morbidity and mortality. We describe the scope of this public health crisis, its historical context, contributing factors, and lines of evidence indicating the role of addiction in exacerbating morbidity and mortality, and we provide a framework for interventions to address the epidemic of opioid addiction.

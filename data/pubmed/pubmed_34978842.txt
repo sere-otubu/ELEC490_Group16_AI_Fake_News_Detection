@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ebola virus
+TITLE: Ebola virus disease: Current perception of clinical features, diagnosis, pathogenesis, and therapeutics.
+PMID: 34978842
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34978842/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Zoonotic transmission of highly pathogenic viruses, are a cause of deadly epidemics around the globe. These are of particular concern as evident from the recent global pandemic due to Coronavirus disease 2019 (COVID-19). The genus Ebolavirus belongs to the Filoviridae family and its members are known to cause the Ebola virus disease (EVD), a highly contagious disease with a mortality rate of approximately 90%. The similarity of the clinical symptoms to those of various tropical ailments poses a high risk of misdiagnosis. Diagnostic strategies currently utilized include real time reverse transcriptase polymerase chain reaction, amongst others. No specific treatment exists at present, and the management of patients is aimed at the treatment of complications augmented with supportive clinical care. The recent outbreak of EVD in West Africa, which began in 2014, led to accelerated development of vaccines and treatment. In this review, we contemplate the origin of the ebolaviruses, discuss the clinical aspects and treatment of the disease, depict the current diagnostic strategies of the virus, as well discuss its pathogenesis. Keywords: Ebolavirus; viral origin; treatment; pathogenicity of Ebola; Ebola virus disease.

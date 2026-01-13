@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Autoimmune diseases
+TITLE: Rare autoimmune diseases.
+PMID: 20824456
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20824456/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Under the term "autoimmune diseases" are comprised a large number of disorders with variable clinical expression which have in common an autoimmune pathogenesis as defined by direct, indirect or circumstantial evidence. Autoimmune diseases may affect a single organ or may determine a multisystem involvement, and most of them cause significant and chronic morbidity and disability. Another important feature of autoimmune diseases is their propensity to affect more often females than males. Although few of them are quite common and well studied, the majority of autoimmune diseases are rare, and share with rare diseases lack of epidemiology data. The implementation of specific disease registries can help improve the knowledge on epidemiology of these conditions, a crucial step for evaluating health care interventions.

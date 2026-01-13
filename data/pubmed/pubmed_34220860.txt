@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immunosuppressants
+TITLE: Regulatory T Cells in GVHD Therapy.
+PMID: 34220860
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34220860/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Graft <i>versus</i> host disease (GVHD) is a common complication and the leading cause of morbidity and mortality after allogeneic hematopoietic stem cell transplantation (allo-HSCT). Pharmacological immunosuppression used in GVHD prophylaxis and treatment lacks specificity and can increase the likelihood of infection and relapse. Regulatory T lymphocytes (Tregs) play a vital role in restraining excessive immune responses and inducing peripheral immune tolerance. In particular, clinical trials have demonstrated that Tregs can prevent and treat GVHD, without increasing the risk of relapse and infection. Hence, adoptive transfer of Tregs to control GVHD using their immunosuppressive properties represents a promising therapeutic approach. To optimally apply Tregs for control of GVHD, a thorough understanding of their biology is necessary. In this review, we describe the biological characteristics of Tregs, including how the stability of FOXP3 expression can be maintained. We will also discuss the mechanisms underlying Tregs-mediated modulation of GVHD and approaches to effectively increase Tregs' numbers. Finally, we will examine the developing trends in the use of Tregs for clinical therapy.

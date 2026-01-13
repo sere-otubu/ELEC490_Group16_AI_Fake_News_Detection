@@ -1,0 +1,8 @@
+SEARCH_TOPIC: GERD
+TITLE: Obesity and GERD.
+PMID: 24503366
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24503366/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Epidemiologic data have demonstrated that obesity is an important risk factor for the development of gastroesophageal reflux disease (GERD). There is also accumulating data that obesity is associated with complications related to longstanding reflux such as erosive esophagitis, Barrett esophagus, and esophageal adenocarcinoma. Central obesity, rather than body mass index, appears to be more closely associated with these complications. Surgical data are confounded by the concomitant repair of prevalent hiatal hernias in many patients.

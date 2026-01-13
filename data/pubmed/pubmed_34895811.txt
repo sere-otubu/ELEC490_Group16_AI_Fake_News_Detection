@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Creatine
+TITLE: The two sides of creatine in cancer.
+PMID: 34895811
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34895811/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Creatine is a nitrogen-containing organic acid naturally existing in mammals. It can be converted into phosphocreatine to provide energy for muscle and nerve tissues. Creatine and its analog, cyclocreatine, have been considered cancer suppressive metabolites due to their effects on suppression of subcutaneous cancer growth. Recently, emerging studies have demonstrated the promoting effect of creatine on cancer metastasis. Orthotopic mouse models revealed that creatine promoted invasion and metastasis of pancreatic cancer, colorectal cancer, and breast cancer. Thus, creatine possesses considerably complicated roles in cancer progression. In this review, we systematically summarized the role of creatine in tumor progression, which will call to caution when considering creatine supplementation to clinically treat cancer patients.

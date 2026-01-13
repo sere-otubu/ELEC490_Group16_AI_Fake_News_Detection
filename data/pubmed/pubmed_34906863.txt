@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Local anesthesia
+TITLE: Needle tip deformation in local dental anesthesia - A technical note.
+PMID: 34906863
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34906863/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The aim of this in vitro study was to investigate the mechanical deformation rate of dental cannula tips after injection simulation in a new developed animal model. A new mechanical device was designed to define forces (100 g for 60 s) to impact a pigs jaw bone with different cannulas (25-Gauge/27-Gauge) from dental local anaesthesia syringes. 8 different products (100 cannulas each) were evaluated. Cannula tips were examined for deformation under the digital microscope VHX-100 (500-fold magnification). 27G and 27G free flow showed a significantly lower likelihood of bending (OR 0.05; p = 0.0001). Comparing 27G cannulas of the same outer diameter but different inner diameter, large inner diameter produced a significantly higher deformation rate than those of cannulas with a standard inner diameter. 12-38% of the cannulas showed manufacturing defects and production-related deformation. Cannula deformation seems to depend on the inner diameter, bevel and cutting profile. Multiple use of the same cannula could result in more pronounced deformation, increasing the risk of complications during local anesthesia.

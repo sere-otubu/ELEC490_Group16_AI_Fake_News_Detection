@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Keto diet
+TITLE: Ketogenic diet in the treatment of cancer - Where do we stand?
+PMID: 31399389
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31399389/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cancer is one of the greatest public health challenges worldwide, and we still lack complementary approaches to significantly enhance the efficacy of standard anticancer therapies. The ketogenic diet, a high-fat, low-carbohydrate diet with adequate amounts of protein, appears to sensitize most cancers to standard treatment by exploiting the reprogramed metabolism of cancer cells, making the diet a promising candidate as an adjuvant cancer therapy. To critically evaluate available preclinical and clinical evidence regarding the ketogenic diet in the context of cancer therapy. Furthermore, we highlight important mechanisms that could explain the potential antitumor effects of the ketogenic diet. The ketogenic diet probably creates an unfavorable metabolic environment for cancer cells and thus can be regarded as a promising adjuvant as a patient-specific multifactorial therapy. The majority of preclinical and several clinical studies argue for the use of the ketogenic diet in combination with standard therapies based on its potential to enhance the antitumor effects of classic chemo- and radiotherapy, its overall good safety and tolerability and increase in quality of life. However, to further elucidate the mechanisms of the ketogenic diet as a therapy and evaluate its application in clinical practice, more molecular studies as well as uniformly controlled clinical trials are needed.

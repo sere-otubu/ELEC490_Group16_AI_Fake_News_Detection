@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Root canal
+TITLE: A new system for classifying tooth, root and canal anomalies.
+PMID: 29023779
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29023779/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Understanding the normal anatomical features as well as the more unusual developmental anomalies of teeth, roots and root canals is essential for successful root canal treatment. In addition to various types of root canal configuration and accessory canal morphology, a wide range of developmental tooth, root and canal anomalies exists, including C-shaped canals, dens invaginatus, taurodontism, root fusion, dilacerations and palato-gingival grooves. There is a direct association between developmental anomalies and pulp and periradicular diseases that usually require a multidisciplinary treatment approach to achieve a successful outcome. A number of classifications have categorized tooth, root and canal anomalies; however, several important details are often missed making the classifications less than ideal and potentially confusing. Recently, a new coding system for classifying root, root canal and accessory canal morphology has been introduced. The purpose of this article is to introduce a new system for classifying tooth, root and canal anomalies for use in research, clinical practice and training, which can serve as complementary codes to the recently described system for classifying root, as well as main and accessory canal morphology.

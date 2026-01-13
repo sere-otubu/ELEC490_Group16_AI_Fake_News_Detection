@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Trans fats risks
+TITLE: Intake of trans fats and other fatty acids in Mexican adults: results from the 2012 and 2016 National Health and Nutrition Surveys.
+PMID: 39977071
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39977071/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To estimate usual intake and the prevalence of excessive intake (PE) and insufficient intake (PI) of trans fatty acids (FAs) and other dietary FAs in the Mexican adult population in 2012 and 2016, and to compare these time points. Data were collected through dietary recall using the five-step multiple-pass method of the 2012 and 2016 Mexican National Health and Nutrition Surveys. Prevalences were estimated using the Iowa State University method. Linear and logistic regressions were used for analytic comparisons. Both in 2012 and 2016, we observed high PE in trans FA, saturated FA, and total fat. High PI was found for polyunsaturated FA, omega 6, omega 3, Eicosapentaenoic Acid (EPA) + Docosahexaenoic Acid (DHA). In 2016, PE was lower in trans FAs (29.1 vs. 38.4%), total fat (14.9 vs. 17.8%), saturated FAs (45.6 vs. 54.6%). PI was also lower in omega 3 FA (90.7 vs. 92.8%), omega 6 FA (39.8 vs. 62.2%), and EPA + DHA FA (96.3 vs. 99.6%; p<0.05) (p<0.05) vs 2012. Mexican adults showed notably high PE in trans FA, saturated FA, and total fat, as well as high PI in polynsaturated FA, omega 6, omega 3, and EPA. Given the associated health risks, it is critical to implement nutrition policies that regulate trans and saturated FAs in Mexico and faciliate improved dietary quality towards more polyunsaturated and omega 3 FAs, and less trans and saturated FAs.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pregnancy nutrition
+TITLE: Nutrition during Pregnancy and Birth Outcomes.
+PMID: 39947162
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39947162/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The "first 1,000 days" - the duration of pregnancy and the first 2 years of life - is widely recognized as a sensitive period of early life, with implications for health and developmental outcomes throughout the life course. Optimal nutrition during pregnancy is therefore essential to reduce the risk of adverse pregnancy outcomes and support healthy life trajectories. This narrative review summarizes the physiological changes during pregnancy and how these changes affect the energy and nutrient requirements in pregnancy to support maternal, placental, and fetal development and tissue accretion. Recommendations for weight gain and macro- and micronutrient requirements during pregnancy are summarized along with the current evidence.

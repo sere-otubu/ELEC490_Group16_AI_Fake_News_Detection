@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Valve replacement
+TITLE: Modified atrioventricular valve replacement in children.
+PMID: 35830724
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35830724/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+One major challenge of atrioventricular valve replacement in children is the small size of the native valve annulus. In addition, in cases of atrioventricular septal defect, the atrioventricular node (AVN) shifts to a different location, making this condition difficult to treat. This report describes a technique that uses a trapezoid-shaped patch to separate the implanted valve suture-line from the AVN, which allows surgeons to implant larger valves while simultaneously preventing injury to the AVN.

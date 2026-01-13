@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Heart failure
+TITLE: Hypertension and Heart Failure: Prevention, Targets, and Treatment.
+PMID: 31735319
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31735319/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hypertension is possibly the most powerful, modifiable risk factor for the development of heart failure. Chronic hypertension drives cardiac remodeling within the left ventricle resulting in hypertensive heart disease, which ultimately manifests as heart failure. Early detection and appropriate management are necessary to prevent heart failure as well as other cardiovascular diseases. Achieving blood pressure goals in conjunction with using evidence-based treatments can improve clinical outcomes for patients with comorbid hypertension and heart failure.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: MRI scan
+TITLE: EAONO Position Statement on Vestibular Schwannoma: Imaging Assessment. What are the Indications for Performing a Screening MRI Scan for a Potential Vestibular Schwannoma?
+PMID: 29764782
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29764782/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Currently, cerebellopontine angle tumor and, more specifically, vestibular schwannoma is diagnosed using magnetic resonance imaging (MRI). The main reason to perform an MRI scan is to determine asymmetrical sensorineural hearing loss. The extent of asymmetry differs in the presentation of vestibular schwannoma, making it difficult to determine when to perform imaging diagnostics. Several studies have determined the probability of the presence of a cerebellopontine angle lesion using different audiological protocols. Further, there is also a cost aspect: what are the accepted sensitivity and specificity of these protocols? In this study, we reviewed the existing protocols.

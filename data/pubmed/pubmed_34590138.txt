@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hepatitis B
+TITLE: Hepatitis B Vaccines.
+PMID: 34590138
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34590138/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hepatitis B is caused by the hepatitis B virus (HBV), which infects the liver and may lead to chronic liver disease, including cirrhosis and hepatocellular carcinoma. HBV represents a worldwide public health problem, causing major morbidity and mortality. Affordable, safe, and effective, hepatitis B vaccines are the best tools we have to control and prevent hepatitis B. In 2019, coverage of 3 doses of the hepatitis B vaccine reached 85% worldwide compared to around 30% in 2000. The effective implementation of hepatitis B vaccination programs has resulted in a substantial decrease in the HBV carrier rate and hepatitis B-related morbidity and mortality. This article summarizes the great triumphs of the hepatitis B vaccine, the first anticancer and virus-like-particle-based vaccine. In addition, existing unresolved issues and future perspectives on hepatitis B vaccination required for global prevention of HBV infection are discussed.

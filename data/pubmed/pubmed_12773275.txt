@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Fibromyalgia
+TITLE: Fibromyalgia: an overview.
+PMID: 12773275
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12773275/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In this article, the authors review current concepts in fibromyalgia. Findings regarding diagnosis, prevalence, comorbidities, and potential pathophysiologic links are discussed. Although fibromyalgia continues to be a complex disorder, there are specific criteria one must meet. Fibromyalgia questionnaires, along with commonalities of age, gender, menopause status, sleep disturbances, and mood symptoms, may aid in the diagnosis. Additionally, the close relationship between fibromyalgia and other chronic disorders should alert the physician to explore for comorbid illness. The relationship between fibromyalgia and irritable bowel syndrome, migraine headaches, and obesity are addressed. The roles of the hypothalamic-pituitary-axis, potential effects of neurotransmitters, and gender-specific hormones all substantiate this diagnosis and provide clues to causality, as well as venues for future treatment.

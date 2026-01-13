@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Preventive medicine
+TITLE: Credentialing and privileging the preventive medicine physician.
+PMID: 30385153
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30385153/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The practice of preventive medicine remains ill-defined, and the specialty is threatened by a void in the definition of the specialty's practice. The authors propose a cohesive, active identification of skills provided by trained preventive medicine physicians through the credentialing and privileging process. The privileging process should incorporate clinical skills specific to the provider and non-clinical skills based on preventive medicine residency training competency requirements, preventive medicine board certification examination requirements, and the ten essential public health services. The specialty may benefit from development of clinical training based on public health clinical services as well as privileging of physicians in health organization leadership positions.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cognitive behavioral therapy
+TITLE: [Cognitive Behavioral Therapy for Bulimia Nervosa].
+PMID: 31662105
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31662105/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cognitive Behavioral Therapy for Bulimia Nervosa <b>Abstract.</b> Abstract:: Cognitive behavioural therapy for eating disorders is an evidence-based effective method for the treatment of bulimia nervosa. It is based on a multifactorial and behavioal disorder model in which causes, triggering and maintaining conditions are considered and summarized in a behavioral analysis. Symptom-oriented standard procedures are used in the therapy process. Skills such as emotion regulation, interpersonal competence and cognitive techniques are taught. The low self-esteem and body dissatisfaction are of particular importance. Finally, personal goals are worked on with the patient, taking into account individual needs.

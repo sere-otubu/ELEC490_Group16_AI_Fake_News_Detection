@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vaccine types
+TITLE: Overview of vaccine field studies: types of effects and designs.
+PMID: 16892904
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16892904/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Vaccination produces many different types of effects in individuals and in populations. The scientific and public health questions of interest determine the choice of measures of effect and study designs. Here we review some of the various measures and study designs for evaluating different effects of vaccination.

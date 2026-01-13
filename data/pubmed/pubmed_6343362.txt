@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antidepressants
+TITLE: Depression and antidepressants and the elderly.
+PMID: 6343362
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6343362/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Depression is the most common emotional disorder of the elderly. The frequency of grief reaction and the confusion with dementia, hypochondriasis, and sleep disorders complicate both the diagnosis and treatment of depression in older patients. Further, these patients often take medications that can produce or aggravate depression. The choice of antidepressant is based largely on side effects. After evaluating the risk factors, the physician can select a drug on the basis of sedative, anticholinergic, or other side effects. Prior history of response to a particular drug and the physician's experience with particular drugs weight heavily in this decision. Lower initial doses of all medications should be used in the elderly, and dosage should be increased slowly, if possible. These guidelines, derived from clinical experience with tricyclic antidepressants, are presented as a foundation for selecting from the large number of "second generation" antidepressant drugs soon to be available.

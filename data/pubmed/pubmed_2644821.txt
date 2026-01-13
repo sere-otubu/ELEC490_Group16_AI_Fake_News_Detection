@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antacids
+TITLE: A critical look at the clinical use of antacids in acid-peptic disease and gastric acid rebound.
+PMID: 2644821
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2644821/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ancient man found that he could relieve dyspepsia by ingesting minerals that had antacid properties. Calcium carbonate was one of the first of these, as it occurred in relatively pure form in coral and limestone. Antacids were the keystone of medical management until the modern era of ulcer treatment. There has been a renewal of interest in antacids in recent years. Calcium as a component of the diet has come under scrutiny. Antacids have been found to be as effective in promoting healing of ulcer as H2 antagonists, sulcrafate, and colloidal bismuth. With regard to optimal dose in ulcer treatment, doses of antacids from 120 to 1008 mmol/day have been effective. A dose of 120 mmol/day given qid is effective. Low-dose antacids may increase mucosal resistance. The evidence for a specific gastric acid rebound with CaCO3 is based upon flawed assumptions and studies. Stimulation of gastric secretion occurs with all buffers, and this effect is compensated by the remaining buffer. When used properly, CaCO3 is an efficient, inexpensive, and safe antacid.

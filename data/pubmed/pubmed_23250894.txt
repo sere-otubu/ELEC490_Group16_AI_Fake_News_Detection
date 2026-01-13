@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tetanus shot
+TITLE: Who needs a shot ... a review of tetanus immunity in the West of Ireland.
+PMID: 23250894
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23250894/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Tetanus is a rare disease but, in the era of widespread vaccination, largely a preventable one. Immunization programmes in childhood are felt to offer lifelong immunity but it is known that with increased age immunity wanes. We sought to assess immunity in a sample of patients presenting for conditions unrelated to injury to the emergency department covering an area in the West of Ireland. A convenience sample of 216 patients, who presented to the emergency department for complaints unrelated to injury, requiring blood tests for their management was obtained. Using the Protetanus QuickStick® all samples were analysed. No statistical difference between men and women in terms of tetanus immunity (p=0.94) but significant reduction in immunity with increasing age (p<0.001). Those non-immune tended to be older with mean age of 66 years compared to mean age of 46 year for immune. Using logarithmic regression analysis an increase in age of 10 years was associated with 50% reduction in immunity. National guidelines should incorporate this data and explicitly advocate the use of booster doses of tetanus toxoid outside of the normal vaccination programme especially in the elderly.

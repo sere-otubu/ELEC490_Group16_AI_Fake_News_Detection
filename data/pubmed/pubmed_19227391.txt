@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Eating disorders
+TITLE: Eating disorders.
+PMID: 19227391
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19227391/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Adolescents frequently engage in disordered eating behavior at an alarming rate, with many developing partial or full-blown eating disorders. The spectrum of eating disorders includes anorexia nervosa, bulimia nervosa, eating disorders not otherwise specified, and binge-eating disorder. In this article we provide the practitioner with an update on the current state-of-the-art regarding etiology and treatment of eating disorders and address certain clinical controversies that practitioners face on a daily basis.

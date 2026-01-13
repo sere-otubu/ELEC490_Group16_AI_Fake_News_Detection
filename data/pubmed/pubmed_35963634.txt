@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Statins
+TITLE: Safety of Statins and Nonstatins for Treatment of Dyslipidemia.
+PMID: 35963634
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35963634/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article reviews the safety of statins and non-statin medications for management of dyslipidemia. Statins have uncommon serious adverse effects: myopathy/ rhabdomyolysis, which resolve with statin discontinuation, and diabetes, usually in people with risk factors for diabetes. The CVD benefit of statins far exceeds the risk of diabetes. Statin myalgia, without CK elevation, is likely caused by muscle symptoms with another etiology, or the nocebo effect. Notable adverse effects of non-statin medicines include injection site reactions (alirocumab, evolocumab, inclisiran), increased uric acid and gout (bempedoic acid), atrial fibrillation/flutter (omega-3-fatty acids), and myopathy in combination with a statin (gemfibrozil).

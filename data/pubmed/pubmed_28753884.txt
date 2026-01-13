@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urinary system
+TITLE: A Classification System for Urodynamic Evaluation of Lower Urinary Tract System Dysfunction.
+PMID: 28753884
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28753884/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A classification system for lower urinary tract system (LUTS) dysfunction, based on urodynamics, could support the evaluation and management of this pathological condition. A new alphanumerical classification system is proposed for staging neurogenic and non-neurogenic LUTS dysfunction, according to the urodynamic evaluation. This is a proposal based on experience from everyday clinical practice and represents an opinion open to discussion. The purpose of this alphanumerical classification is the establishment of a simple, unified staging system describing all LUTS dysfunction situations, after a urodynamic evaluation, in a way that can help in diagnosis, treatment, health professionals' communication, education, and research. This alphanumerical classification for LUTS dysfunction could become a unified standard and a prerequisite for ensuring the quality of care in all resource settings. Moreover, it would be useful for the future to include a classification as part of LUTS dysfunction registration. A new alphanumerical classification system is presented. The purpose of this classification is the establishment of a simple, unified staging system describing entire lower urinary tract system dysfunction situations in a way that could help in diagnosis, treatment, health professionals' communication, education, and research.

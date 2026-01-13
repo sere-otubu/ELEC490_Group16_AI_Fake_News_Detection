@@ -1,0 +1,8 @@
+SEARCH_TOPIC: mRNA vaccines
+TITLE: Clinical advances and ongoing trials on mRNA vaccines for cancer treatment.
+PMID: 36174631
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36174631/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Years of research exploring mRNA vaccines for cancer treatment in preclinical and clinical trials have set the stage for the rapid development of mRNA vaccines during the COVID-19 pandemic. Therapeutic cancer vaccines based on mRNA are well tolerated, and the inherent advantage in ease of production, which rivals the best available conventional vaccine manufacture methods, renders mRNA vaccines a promising option for cancer immunotherapy. Technological advances have optimised mRNA-based vaccine stability, structure, and delivery methods, and multiple clinical trials investigating mRNA vaccine therapy are now enrolling patients with various cancer diagnoses. Although therapeutic mRNA-based cancer vaccines have not yet been approved for standard treatment, encouraging results from early clinical trials with mRNA vaccines as monotherapy and in combination with checkpoint inhibitors have been obtained. This Review summarises the latest clinical advances in mRNA-based vaccines for cancer treatment and reflects on future perspectives and challenges for this new and promising treatment approach.

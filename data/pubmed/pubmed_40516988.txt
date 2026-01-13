@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Eating disorders
+TITLE: Eating Disorders.
+PMID: 40516988
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40516988/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Eating disorders are incredibly common in patients seeking aesthetic plastic surgery, primarily due to body image dissatisfaction. Plastic surgeons have an important role in recognizing when patients' motivation for aesthetic surgery is rooted in an eating disorder. This article summarizes eating disorders to better equip plastic surgeons to identify patients who may have eating disorders and subsequently connect them with medical, nutritional, and psychological treatment, which are crucial in eating disorder recovery.

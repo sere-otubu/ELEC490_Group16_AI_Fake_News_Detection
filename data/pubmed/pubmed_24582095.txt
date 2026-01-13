@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Polycystic ovary syndrome
+TITLE: Polycystic ovary syndrome.
+PMID: 24582095
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24582095/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Polycystic ovary syndrome (PCOS), a heterogeneous and chronic condition, today affects about 5% of women of reproductive age. PCOS is strongly associated with states of insulin resistance and hyperinsulinemia. Risk factors include genetics, metabolic profiles, and the in utero environment. Long-term consequences of PCOS include metabolic complications such as diabetes, obesity, and cardiovascular disease. Dysregulation of insulin action is closely linked to the pathogenesis of PCOS. However, whether insulin resistance is the causative factor in the development of PCOS remains to be ascertained. Moreover, the mechanism by which insulin resistance may lead to reproductive dysfunction requires further elucidation.

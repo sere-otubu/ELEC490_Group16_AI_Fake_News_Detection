@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cortisol
+TITLE: Determination of cortisol in serum, saliva and urine.
+PMID: 24275191
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24275191/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cortisol is quantitatively the major glucocorticoid product of the adrenal cortex. The main reason to measure cortisol is to diagnose human diseases characterised by deficiency of adrenal steroid excretion in Addison's disease or overproduction in Cushing's syndrome (CS). In both cases a sensitive, accurate and reproducible assay of cortisol is required. Several methods have been described for the quantitative measurement of cortisol in both serum and urine. The most widely used methods in routine clinical laboratories are immunoassays (IA) and enzyme immunoassays (EIA), luminescence and fluorescence assays, which are available in numerous commercial kits and on automated platforms. However, there remains a number of problems in the so-called direct immunoassays if extraction and prepurification are not carried out before the assay. Recently, more specific chromatographic methods have been introduced, such as high pressure liquid chromatographic (HPLC) or liquid chromatography tandem mass spectrometric assays (LC-MS/MS). The high specificity especially of LC-MS/MS facilitates reliable measurement of cortisol both in plasma, urine and saliva samples.

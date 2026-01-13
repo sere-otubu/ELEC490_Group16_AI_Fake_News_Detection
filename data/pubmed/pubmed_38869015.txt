@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Breastfeeding benefits
+TITLE: A systematic review of the benefits of breastfeeding against postpartum depression in low-middle-income countries.
+PMID: 38869015
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38869015/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The positive impact of breastfeeding against postpartum depression has been increasingly reported. However, no studies have systematically and critically examined current evidence on breastfeeding practices' influences on postpartum depression in LMICs. To review the influence of breastfeeding on postpartum depression in LMICs. We searched original research in English published over the last ten years (2012 - 2022) within 8 databases: EBSCOhost, EMBASE, Pubmed, Sage Journals, Science Direct, APA PsycArticles, Taylor & Francis, Google Scholar, and citation tracking. The risk of bias assessment used The Newcastle Ottawa Scale and The Modified Jadad Scale. We followed the PRISMA statement after the protocol had been registered on the PROSPERO. The review included 21 of 11015 articles. Of 21 articles, 16 examined breastfeeding practices, 2 each investigated breastfeeding self-efficacy and breastfeeding education, and 1 each assessed breastfeeding attitude and breastfeeding support. 3 randomized control trials and 5 cohorts revealed that breastfeeding decreased the EPDS scores. However, 4 cross-sectional studies indicated that breastfeeding is nonsignificantly associated with postpartum depression. This review indicated that breastfeeding may alleviate or prevent postpartum depression. Our findings indicated that integrating breastfeeding-related programs and policies into postpartum depression prevention may benefit public health. PROSPERO (CRD42022315143).

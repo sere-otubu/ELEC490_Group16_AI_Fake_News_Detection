@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Eczema
+TITLE: A Review of Hand Eczema Subtypes: Clinical Features, Biomarkers and Treatment Strategies.
+PMID: 39994885
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39994885/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hand eczema is a common dermatological condition that significantly impairs quality of life. The classification of hand eczema has been considered an essential step for its management. The diagnosis of hand eczema relies on the aetiological and clinical features of hand lesions, a process complicated by the heterogeneous presentations and the considerable overlap among its subtypes. However, the investigation of hand eczema biomarkers and the advent of targeted therapies have shed light on the underlying pathogenic mechanisms. This review adopts a subtype-specific approach to hand eczema, addressing clinical, pathogenic and therapeutic factors, with the aim of providing a comprehensive understanding of this heterogeneous condition from the perspective of its subtypes.

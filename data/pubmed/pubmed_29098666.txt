@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gambling addiction
+TITLE: Definition of Substance and Non-substance Addiction.
+PMID: 29098666
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29098666/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Substance addiction (or drug addiction) is a neuropsychiatric disorder characterized by a recurring desire to continue taking the drug despite harmful consequences. Non-substance addiction (or behavioral addiction) covers pathological gambling, food addiction, internet addiction, and mobile phone addiction. Their definition is similar to drug addiction but they differ from each other in specific domains. This review aims to provide a brief overview of past and current definitions of substance and non-substance addiction, and also touches on the topic of diagnosing drug addiction and non-drug addiction, ultimately aiming to further the understanding of the key concepts needed for a foundation to study the biological and psychological underpinnings of addiction disorders.

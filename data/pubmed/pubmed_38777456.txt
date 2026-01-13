@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Micronutrients
+TITLE: LLL 44-1 Micronutrients in clinical nutrition: Trace elements.
+PMID: 38777456
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38777456/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Trace elements are an essential component of metabolism and medical nutrition therapy, with key roles in metabolic pathways, antioxidation, and immunity, which the present course aims at summarizing. Medical nutrition therapy includes the provision of all essential trace elements. The clinical essential issues are summarized for Copper, Iron, Selenium, Zinc, Iodine, Chromium, Molybdenum, and Manganese: the optimal analytical techniques are presented. The delivery of all these elements occurs nearly automatically when the patient is fed with enteral nutrition, but always requires separate prescription in case of parenteral nutrition. Isolated deficiencies may occur, and some patients have increased requirements, therefore a regular monitoring is required. The clinicians should always consider the impact of inflammation on blood levels, mostly lowering them even in absence of deficiency. This text summarises the most relevant clinical manifestations of trace element depletion and deficiency, the difficulties in assessing status, and makes practical recommendations for provision for enteral and parenteral nutrition.

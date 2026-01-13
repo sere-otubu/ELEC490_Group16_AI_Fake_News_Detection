@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Health literacy
+TITLE: The importance of health literacy for self-management: A scoping review of reviews.
+PMID: 34402309
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34402309/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Self-management of chronic diseases is rather complex, especially for patients with limited health literacy. In this review, we aim to disentangle the specific difficulties patients with limited health literacy face in relation to self-management and their associated needs with respect to self-management support. We performed a literature search in five databases. We used a broad definition of health literacy and self-management was categorized into four types of activities: medical management, changing lifestyle, communicating and navigating through the health care system and coping. Included reviews described the relationship between health literacy and different domains of self-management and were published after 2010. A total of 28 reviews were included. Some clear difficulties of patients with limited health literacy emerged, predominantly in the area of medical management (especially adherence), communication and knowledge. Other associations between health literacy and self-management were inconclusive. Barriers from the patients' perspective described mainly medical management and the communication and navigation of the health care system. Patients with limited health literacy experience difficulties with specific domains of self-management. For a better understanding of the relationship between health literacy and self-management, a broader conceptualization of health literacy is warranted, including both cognitive and behavioural aspects.

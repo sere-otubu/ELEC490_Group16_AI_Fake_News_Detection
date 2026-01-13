@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dementia
+TITLE: Social participation and risk of developing dementia.
+PMID: 37202513
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37202513/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The increasing number of people with dementia globally illustrates the urgent need to reduce dementia's scale and impact. Lifetime social participation may affect dementia risk by increasing cognitive reserve, and through brain maintenance by reducing stress and improving cerebrovascular health. It may therefore have important implications for individual behavior and public health policy aimed at reducing dementia burden. Observational study evidence indicates that greater social participation in midlife and late life is associated with 30-50% lower subsequent dementia risk, although some of this may not be causal. Social participation interventions have led to improved cognition but, partly due to short follow-up and small numbers of participants, no reduction in risk of dementia. We summarize the evidence linking social participation with dementia, discuss potential mechanisms by which social participation is likely to reduce and mitigate the impact of neuropathology in the brain, and consider the implications for future clinical and policy dementia prevention interventions.

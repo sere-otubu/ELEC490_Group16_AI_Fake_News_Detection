@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Angioplasty
+TITLE: Ultrasound-guided Angioplasty of Arteriovenous Fistulas for Hemodialysis: Benefits and Limitations.
+PMID: 30496906
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30496906/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ultrasound-guided percutaneous angioplasty of arteriovenous fistulas (AVFs) makes it possible to avoid contrast agents and X-rays, to optimize the puncture site and to locate some stenoses on the fistulography, but is it really useful? Our objective is to report the results of our experience. Between November 2012 and November 2017, all the patients treated according to this method in our center were collected retrospectively. The surgical indications were an insufficient maturation of the AVF, an increase in the venous pressure, an inadequate outflow, difficulties in puncture, a prolonged bleeding time, a flow drop, or an aneurysmal evolution. During this period, 50 patients had 72 ultrasound-guided angioplasties, 64 on native AVFs (88.9%) and 8 on prosthetic AVFs (11.1%). The technical success rate was 100%. The average preoperative flow of AVFs was 506.8 ± 302.2 vs. 955.9 ± 371.4 mL/min after angioplasty. The mean duration of follow-up was 13.4 ± 12.9 months. The cumulative rates of primary, assisted primary, and secondary patency were 43.5%, 68.8%, 81.5% at 1 year and 31.7%, 63.9%, 76.8% at 2 years, respectively. AVF angioplasty under ultrasound guidance only is feasible, effective, and represents an interesting alternative. A controlled study comparing ultrasound guidance with angioplasties performed under conventional angiographic guidance as the reference technique would better clarify the value of this technique.

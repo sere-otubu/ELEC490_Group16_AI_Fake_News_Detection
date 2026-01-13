@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Carbohydrates types
+TITLE: Targeted delivery of oligonucleotides using multivalent protein-carbohydrate interactions.
+PMID: 36723021
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36723021/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cell surface protein-carbohydrate interactions are essential for tissue-specific recognition and endocytosis of viruses, some bacteria and their toxins, and many glycoproteins. Often protein-carbohydrate interactions are multivalent - multiple copies of glycans bind simultaneously to multimeric receptors. Multivalency enhances both affinity and binding specificity, and is of interest for targeted delivery of drugs to specific cell types. The first such example of carbohydrate-mediated drug delivery to reach the clinic is Givosiran, a small interfering ribonucleic acid (siRNA) that is conjugated to a trivalent <i>N</i>-acetylgalactosamine (GalNAc) ligand. This ligand enables efficient uptake of the nucleic acid by the asialoglycoprotein receptor (ASGP-R) on hepatocytes. Synthetic multivalent ligands for ASGP-R were among the first 'cluster glycosides' developed at the birth of multivalent glycoscience around 40 years ago. In this review we trace the history of 'GalNAc targeting' from early academic studies to current pharmaceuticals and consider what other opportunities could follow the success of this delivery technology.

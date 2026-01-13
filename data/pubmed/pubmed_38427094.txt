@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Robotic surgery
+TITLE: Clinical applications of artificial intelligence in robotic surgery.
+PMID: 38427094
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38427094/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Artificial intelligence (AI) is revolutionizing nearly every aspect of modern life. In the medical field, robotic surgery is the sector with some of the most innovative and impactful advancements. In this narrative review, we outline recent contributions of AI to the field of robotic surgery with a particular focus on intraoperative enhancement. AI modeling is allowing surgeons to have advanced intraoperative metrics such as force and tactile measurements, enhanced detection of positive surgical margins, and even allowing for the complete automation of certain steps in surgical procedures. AI is also Query revolutionizing the field of surgical education. AI modeling applied to intraoperative surgical video feeds and instrument kinematics data is allowing for the generation of automated skills assessments. AI also shows promise for the generation and delivery of highly specialized intraoperative surgical feedback for training surgeons. Although the adoption and integration of AI show promise in robotic surgery, it raises important, complex ethical questions. Frameworks for thinking through ethical dilemmas raised by AI are outlined in this review. AI enhancements in robotic surgery is some of the most groundbreaking research happening today, and the studies outlined in this review represent some of the most exciting innovations in recent years.

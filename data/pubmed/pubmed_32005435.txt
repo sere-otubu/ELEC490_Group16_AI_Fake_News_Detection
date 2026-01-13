@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lung cancer
+TITLE: Lung Cancer Staging.
+PMID: 32005435
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32005435/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lung cancer staging is a foundation of patient care, informing management decisions and prognosis. This comprehensive overview of the current 8th edition American Joint Committee on Cancer Cancer Staging Manual addresses common difficulties in staging, such as measuring the invasive component of adenocarcinomas and staging multiple lung nodules.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Contraceptive pills
+TITLE: Obesity and hormonal contraceptive efficacy.
+PMID: 24007251
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24007251/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Obesity is a major public health concern affecting an increasing proportion of reproductive-aged women. Avoiding unintended pregnancy is of major importance, given the increased risks associated with pregnancy, but obesity may affect the efficacy of hormonal contraceptives by altering how these drugs are absorbed, distributed, metabolized or eliminated. Limited data suggest that long-acting, reversible contraceptives maintain excellent efficacy in obese women. Some studies demonstrating altered pharmacokinetic parameters and increased failure rates with combined oral contraceptives, the contraceptive patch and emergency contraceptive pills suggest decreased efficacy of these methods. It is unclear whether bariatric surgery affects hormonal contraceptive efficacy. Obese women should be offered the full range of contraceptive options, with counseling that balances the risks and benefits of each method, including the risk of unintended pregnancy.

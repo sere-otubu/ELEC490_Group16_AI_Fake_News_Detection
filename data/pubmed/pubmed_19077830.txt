@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cataract surgery
+TITLE: Update on veterinary cataract surgery.
+PMID: 19077830
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19077830/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The purpose of this review is not to specifically discuss the techniques of veterinary cataract surgery, but rather to emphasize some of the differences between the veterinary and human cataract patients, procedures and outcomes. In general, veterinary cataract surgery has more similarities than differences when compared to its human counterpart. This is especially true when comparing pediatric cataract patients. Veterinary cataract surgery has changed dramatically in recent years with regards to surgical technique, ocular pharmacology, viscoelastic devices, phacoemulsification, and the most recent advancement, intraocular lens implantation for dogs, cats, and horses. It is hoped that the exchange of information between the human and veterinary specialties can be of benefit to both groups as we all work to improve outcomes and resolve complications.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: E. coli infection
+TITLE: Strongly positive anti-CCP antibodies in patients with sacroiliitis or reactive arthritis post-E. coli infection: A mini case-series based review.
+PMID: 28589668
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28589668/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+We report here on four cases of patients with strongly positive anti-citrullinated cyclic peptides (anti-CCP) antibodies and clinical features of seronegative spondyloarthritis (SpA) and reactive arthritis. The four patients had various clinical presentations: one had an initial diagnosis of seropositive rheumatoid arthritis (RA) with involvement of the sacroiliac joints (similar to previous reports of the association of two diseases); one had a clinical picture of reactive arthritis following an episode of an Escherichia coli positive urinary tract infection; and two had asymmetrical sacroiliitis (SII), but no evidence of peripheral joint involvement (never reported before). In all cases, high titers of anti-CCP antibodies were found. We present a comparison of the clinical manifestations, radiographic features and treatment regimens of these cases. Our report supports previous literature data of possible overlap existing between RA and SpA, but also presents for the first time the association of high titers of anti-CCP antibodies with SII and reactive arthritis in patients with no peripheral small joint involvement.

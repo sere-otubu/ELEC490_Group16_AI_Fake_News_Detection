@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Appendectomy
+TITLE: [Laparoscopic appendectomy].
+PMID: 1829553
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1829553/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Laparoscopic techniques have extended into the operative field of surgery. Appendectomies can be performed laparoscopically. The diagnosis of appendicitis is established and the inflamed organ removed directly. The laparoscopic technique reduces the incidence of unnecessary appendectomies and corresponding morbidity. Compared with conventional appendectomy, laparoscopy leads to less post-operative pain and inability to work. We discuss the first nine patients we treated in this way.

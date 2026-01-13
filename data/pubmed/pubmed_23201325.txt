@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Opioids risks
+TITLE: Prescribing opioids in older people.
+PMID: 23201325
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23201325/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+People are living to older age. Demographic pressures are driving change. Opiate analgesics are the most powerful known pain relievers. Persistent pain, both cancer and non-cancer types is frequent in older adults. The use of opioid analgesics is appropriate in the treatment of moderate to severe persistent pain. The challenge of prescribing opioids in older adults is to understand the factors involved in making appropriate choices and monitoring the beneficial effects of pain relief while managing the side-effects. This article will review the current concepts, evidence and controversies surrounding opiate use in the elderly. An approach is outlined which involves: pain assessment, screening for substance abuse potential, deciding whether you are able to treat your patient without help, starting treatment, monitoring effectiveness of pain control and managing opioid-associated side-effects. The goal of pain management using opioids is the attainment of improved function and quality of life.

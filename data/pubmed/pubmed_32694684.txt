@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Metabolism basics
+TITLE: NAD<sup>+</sup> homeostasis in health and disease.
+PMID: 32694684
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32694684/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The conceptual evolution of nicotinamide adenine dinucleotide (NAD<sup>+</sup>) from being seen as a simple metabolic cofactor to a pivotal cosubstrate for proteins regulating metabolism and longevity, including the sirtuin family of protein deacylases, has led to a new wave of scientific interest in NAD<sup>+</sup>. NAD<sup>+</sup> levels decline during ageing, and alterations in NAD<sup>+</sup> homeostasis can be found in virtually all age-related diseases, including neurodegeneration, diabetes and cancer. In preclinical settings, various strategies to increase NAD<sup>+</sup> levels have shown beneficial effects, thus starting a competitive race to discover marketable NAD<sup>+</sup> boosters to improve healthspan and lifespan. Here, we review the basics of NAD<sup>+</sup> biochemistry and metabolism, and its roles in health and disease, and we discuss current challenges and the future translational potential of NAD<sup>+</sup> research.

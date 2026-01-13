@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Traumatic brain injury
+TITLE: The Current State of Traumatic Brain Injury Biomarker Measurement Methods.
+PMID: 34562909
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34562909/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Traumatic brain injury (TBI) is associated with high rates of morbidity and mortality partially due to the limited tools available for diagnosis and classification. Measuring panels of protein biomarkers released into the bloodstream after injury has been proposed to diagnose TBI, inform treatment decisions, and monitor the progression of the injury. Being able to measure these protein biomarkers at the point-of-care would enable assessment of TBIs from the point-of-injury to the patient's hospital bedside. In this review, we provide a detailed discussion of devices reported in the academic literature and available on the market that have been designed to measure TBI protein biomarkers in various biofluids and contexts. We also assess the challenges associated with TBI biomarker measurement devices and suggest future research directions to encourage translation of these devices to clinical use.

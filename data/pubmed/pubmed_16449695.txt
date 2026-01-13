@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cognitive behavioral therapy
+TITLE: The future of cognitive-behavioural therapy for psychosis: not a quasi-neuroleptic.
+PMID: 16449695
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16449695/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Some 20 trials of cognitive - behavioural therapy (CBT) for psychosis have re-established psychotherapy as a credible treatment for psychosis. However, it is not without its detractors and problems, including uncertainty about the nature of its active ingredients. We believe that the way forward is to abandon the neuroleptic metaphor of CBT for psychosis and to develop targeted interventions that are informed by the growing understanding of the interface between emotion and psychosis.

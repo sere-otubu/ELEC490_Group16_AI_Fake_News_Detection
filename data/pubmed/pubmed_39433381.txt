@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Trauma informed care
+TITLE: Trauma-Informed Strategies in Pediatric Primary Care.
+PMID: 39433381
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39433381/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Child trauma, particularly within the context of the caregiving relationship, can have profound impacts on health, thus pediatric clinicians have a crucial role in recognizing and responding to trauma. Yet, trauma-informed care (TIC) is often described by its guiding principles rather than an approach to implementation. TIC requires the pediatric clinician to not only be familiar with the physiology of trauma, but actively promote resilience and employ strategies for primary prevention, secondary response and tertiary treatment of trauma. This study covers practical approaches to care that allow for promoting resilience, and the recognition, diagnosis and management of trauma.

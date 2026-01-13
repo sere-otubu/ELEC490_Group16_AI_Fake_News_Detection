@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dialysis
+TITLE: Dialysis-induced hypoxaemia.
+PMID: 8272249
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8272249/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A crossover study to compare the effects of seven different dialysers on blood gas conditions during dialysis using acetate-containing dialysate was carried out at five centres in four countries. A significant decrease in pO2 was noted at both 15 and 60 min after the start of dialysis for all dialysers, with the greatest decrease at 60 min. Filtral caused the greatest reduction and F 60 the least change at both 15 and 60 min. These differences were statistically significant according to the ANOVA multiple-range test for variance. pCO2 also declined by 1.0-2.7 mmHg at 15 min and by 0.7-3.8 mmHg at 60 min. The delta pCO2 was comparable across dialysers and no significant differences were found. Although pH showed no change at 15 min, it was slightly but significantly increased at 60 min across all dialysers compared to predialysis values. There were no statistical differences between dialysers. Calculated blood bicarbonate content significantly decreased at 15 min and recovered at 60 min. Along with the greater decrease in pO2, a larger loss of total CO2 was noted for Filtral. On the other hand F 60 caused the least change in total CO2. This difference may be due to membrane characteristics affecting the diffusion coefficient for O2, CO2, and bicarbonate. Multifactorial mechanisms are likely to be involved, but reflex hypoventilation and an increase in O2 consumption also contributed to hypoxaemia in this study.

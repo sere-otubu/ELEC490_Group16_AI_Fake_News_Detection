@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dental implants
+TITLE: Dental Implants and Implant Coatings: A Focus on Their Toxicity and Safety.
+PMID: 36749088
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36749088/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Dental implants are medical devices that are surgically inserted into the patient's jawbone by an orthodontist to act as roots of missing teeth. After the implantation, the maxilla or mandible integrates with the surface of the dental implant. This process, called "osseointegration," is an important period to ensure the long-term use of dental implants and prevent implant failures. Metal implants are the most used implant materials. However, they have disadvantages such as corrosion, metal ion release from metal implant surfaces and associated toxicity. To avoid these adverse effects and improve osseointegration, alternative dental implant materials such as ceramics, polymers, composites, and novel surface modification technologies have been developed. The safety of these materials are also of concern for toxicologists. This review will give general information about dental implant materials, osseointegration and successful implantation process. Moreover, we will focus on the new surface coatings materials for of dental implants and their toxicity and safety concerns will be discussed.

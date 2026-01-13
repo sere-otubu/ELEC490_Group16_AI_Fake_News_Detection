@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Whey protein
+TITLE: Whey Protein Hydrolysate Renovates Age-Related and Scopolamine-Induced Cognitive Impairment.
+PMID: 36904228
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36904228/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Whey protein and its hydrolysates are ubiquitously applied in the food system. However, their effect on cognitive impairment remains unclear. This study aimed to investigate the potential ability of whey protein hydrolysate (WPH) to ameliorate cognitive degeneration. WPH intervention in Crl:CD1 (ICR, Institute for cancer research) mice and aged C57BL/6J mice in a scopolamine-induced cognitive impairment model for 10 days were evaluated. Behavioral tests indicated that WPH intervention improved the cognitive abilities in ICR and aged C57BL/6J mice (<i>p</i> < 0.05). Scopolamine enhanced the A<i>β</i><sub>1-42</sub> level in the brain tissue, and the WPH intervention exhibited a similar therapeutic effect to donepezil in ICR mice. A noticeable reduction occurred in serum A<i>β</i><sub>1-42</sub> level of aged mice treated with WPH. The histopathological study of the hippocampus showed that WPH intervention alleviates neuronal damage. Hippocampus proteomic analysis suggested possible mechanisms of WPH action. The relative abundance of <i>Christensenellaceae,</i> a gut microbe related to Alzheimer's disease, was altered by WPH intervention. This study demonstrated that short-term WPH intake protected against memory impairment induced by scopolamine and aging.

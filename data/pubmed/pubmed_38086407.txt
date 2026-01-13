@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Platelets
+TITLE: Platelets: Physiology and Biochemistry.
+PMID: 38086407
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38086407/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article represents a republication of an article originally published in STH in 2005. This republication is to help celebrate 50 years of publishing for STH. The original abstract follows.Platelets are specialized blood cells that play central roles in physiologic and pathologic processes of hemostasis, inflammation, tumor metastasis, wound healing, and host defense. Activation of platelets is crucial for platelet function that includes a complex interplay of adhesion and signaling molecules. This article gives an overview of the activation processes involved in primary and secondary hemostasis, for example, platelet adhesion, platelet secretion, platelet aggregation, microvesicle formation, and clot retraction/stabilization. In addition, activated platelets are predominantly involved in cross-talk to other blood and vascular cells. Stimulated "sticky" platelets enable recruitment of leukocytes at sites of vascular injury under high shear conditions. Platelet-derived microparticles as well as soluble adhesion molecules, sP-selectin and sCD40L, shed from the surface of activated platelets, are capable of activating, in turn, leukocytes and endothelial cells. This article focuses further on the new view of receptor-mediated thrombin generation of human platelets, necessary for the formation of a stable platelet-fibrin clot during secondary hemostasis. Finally, special emphasis is placed on important stimulatory and inhibitory signaling pathways that modulate platelet function.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cholera
+TITLE: Improving immunization approaches to cholera.
+PMID: 27805467
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27805467/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cholera's impact is greatest in resource-limited countries. In the last decade several large epidemics have led to a global push to improve and implement the tools for cholera prevention and control. Areas covered: PubMed, Google Scholar and the WHO website were searched to review the literature and summarize the current status of cholera vaccines to make recommendations on improving immunization approaches to cholera. Oral cholera vaccines (OCVs) have demonstrated their effectiveness in endemic, outbreak response and emergency settings, highlighting their potential for wider adoption. While two doses of the currently available OCVs are recommended by manufacturers, a single dose would be easier to implement. Encouragingly, recent studies have shown that cold chain requirements may no longer be essential. The establishment of the global OCV stockpile in 2013 has been a major advance in cholera preparedness. New killed and live-attenuated vaccines are being actively explored as candidate vaccines for endemic settings and/or as a traveller's vaccine. The recent advances in cholera vaccination approaches should be considered in the global cholera control strategy. Expert commentary: The development of affordable cholera vaccines is a major success to improve cholera control. New vaccines and country specific interventions will further reduce the burden of this disease globally.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immunotherapy
+TITLE: TGFβ biology in cancer progression and immunotherapy.
+PMID: 32710082
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32710082/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+TGFβ signalling has key roles in cancer progression: most carcinoma cells have inactivated their epithelial antiproliferative response and benefit from increased TGFβ expression and autocrine TGFβ signalling through effects on gene expression, release of immunosuppressive cytokines and epithelial plasticity. As a result, TGFβ enables cancer cell invasion and dissemination, stem cell properties and therapeutic resistance. TGFβ released by cancer cells, stromal fibroblasts and other cells in the tumour microenvironment further promotes cancer progression by shaping the architecture of the tumour and by suppressing the antitumour activities of immune cells, thus generating an immunosuppressive environment that prevents or attenuates the efficacy of anticancer immunotherapies. The repression of TGFβ signalling is therefore considered a prerequisite and major avenue to enhance the efficacy of current and forthcoming immunotherapies, including in tumours comprising cancer cells that are not TGFβ responsive. Herein, we introduce the mechanisms underlying TGFβ signalling in tumours and their microenvironment and discuss approaches to inhibit these signalling mechanisms as well as the use of these approaches in cancer immunotherapies and their potential adverse effects.

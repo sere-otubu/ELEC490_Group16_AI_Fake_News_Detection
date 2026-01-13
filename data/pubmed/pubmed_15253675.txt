@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Whey protein
+TITLE: Therapeutic applications of whey protein.
+PMID: 15253675
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15253675/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Whey, a protein complex derived from milk, is being touted as a functional food with a number of health benefits. The biological components of whey, including lactoferrin, beta-lactoglobulin, alpha-lactalbumin, glycomacropeptide, and immunoglobulins, demonstrate a range of immune-enhancing properties. In addition, whey has the ability to act as an antioxidant, antihypertensive, antitumor, hypolipidemic, antiviral, antibacterial, and chelating agent. The primary mechanism by which whey is thought to exert its effects is by intracellular conversion of the amino acid cysteine to glutathione, a potent intracellular antioxidant. A number of clinical trials have successfully been performed using whey in the treatment of cancer, HIV, hepatitis B, cardiovascular disease, osteoporosis, and as an antimicrobial agent. Whey protein has also exhibited benefit in the arena of exercise performance and enhancement.

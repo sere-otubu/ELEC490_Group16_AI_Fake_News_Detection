@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HIV AIDS
+TITLE: The effects of schistosomiasis on HIV/AIDS infection, progression and transmission.
+PMID: 22327410
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22327410/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The recent findings pertaining to the public health impact of schistosomiasis on the epidemiology of HIV/AIDS are summarized. Both empiric data and mathematical models support the hypothesis that schistosome infections lead to increased susceptibility to infection with HIV-1, a more rapid progression to disease through more vigorous viral replication and immunosuppression, and a higher likelihood of transmitting the infection to others through both vertical and horizontal routes. Different species of schistosome infection vary in the magnitude of their effects on these mechanisms with Schistosoma haematobium playing a greater role for increased susceptibility and transmission because of its association with urogenital disease. Schistosomiasis appears to be a cofactor in the spread and progression of HIV/AIDS in areas wherein both diseases are endemic; increased emphasis on treatment of schistosome infections in persons at risk of HIV/AIDS should be pursued.

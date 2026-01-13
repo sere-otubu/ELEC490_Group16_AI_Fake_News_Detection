@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Diuretics
+TITLE: Diuretic Treatment in Patients with Heart Failure: Current Evidence and Future Directions - Part I: Loop Diuretics.
+PMID: 38240883
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38240883/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Fluid retention or congestion is a major cause of symptoms, poor quality of life, and adverse outcome in patients with heart failure (HF). Despite advances in disease-modifying therapy, the mainstay of treatment for congestion-loop diuretics-has remained largely unchanged for 50 years. In these two articles (part I: loop diuretics and part II: combination therapy), we will review the history of diuretic treatment and the current trial evidence for different diuretic strategies and explore potential future directions of research. We will assess recent trials including DOSE, TRANSFORM, ADVOR, CLOROTIC, OSPREY-AHF, and PUSH-AHF amongst others, and assess how these may influence current practice and future research. There are few data on which to base diuretic therapy in clinical practice. The most robust evidence is for high dose loop diuretic treatment over low-dose treatment for patients admitted to hospital with HF, yet this is not reflected in guidelines. There is an urgent need for more and better research on different diuretic strategies in patients with HF.

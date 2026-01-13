@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Post operative care
+TITLE: A Precision Post-Operative Wellness Monitoring Solution.
+PMID: 31438355
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31438355/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Multiple orthogonal challenges around escalating costs and providing quality care plague healthcare delivery, especially in OECD countries. This research in progress paper addresses the post-operative discharge phase of the patient journey and proffers a technology-enabled model that both supports a quality care experience post-discharge but also prudent management to minimise costly unplanned readmissions and thereby subscribe to a value-based care paradigm. The chosen context is stoma patients but the solution can be easily generalised to other contexts. Next steps include the conduct of clinical trials to establish proof of concept, validity and usability.

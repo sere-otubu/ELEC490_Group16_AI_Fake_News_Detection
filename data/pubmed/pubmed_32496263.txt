@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Telemedicine adoption
+TITLE: Factors affecting the adoption of telemedicine during COVID-19.
+PMID: 32496263
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32496263/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Novel coronavirus disease (COVID-19) has put restriction of travel, and social distancing has become a new normal. This outbreak of the pandemic has made telemedicine more relevant than ever. The objective of this study is to identify the factors affecting the rate of adoption of telemedicine and effect of the COVID-19 on these factors. The research develops five hypotheses to test the influence of a disease outbreak on the rate of telemedicine adoption. The method used for the study is the Wilcoxon signed-rank test, and the sampling method used for the study is purposive sampling. The respondents were taken from a multispecialty clinic in North India and the sample size for the study is 43. The study concludes that patients are seeing more value in the use of telemedicine during COVID-19. They are more willing to experiment with telemedicine and are not intimidated by the technology related to telemedicine.

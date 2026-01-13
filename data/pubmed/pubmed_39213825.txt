@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Type 1 allergies
+TITLE: Neuroimmune recognition of allergens.
+PMID: 39213825
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39213825/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Interactions between the nervous system and the immune system play crucial roles in initiating and directing the type 2 immune response. Sensory neurons can initiate innate and adaptive type 2 immunity through their ability to detect allergens and promote dendritic cell and mast cell responses. Neurons also indirectly promote type 2 inflammation through suppression of type 1 immune responses. Type 2 cytokines promote neuronal function by directly activating or sensitizing neurons. This positive neuroimmune feedback loop may not only enhance allergic inflammation but also promote the system-wide responses of aversion, anaphylaxis, and allergen polysensitization that are characteristic of allergic immunity.

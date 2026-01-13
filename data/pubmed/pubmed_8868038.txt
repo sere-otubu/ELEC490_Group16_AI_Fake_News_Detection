@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hypertension
+TITLE: Tobacco addiction and hypertension.
+PMID: 8868038
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8868038/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The significance of smoking in the hypertensive patient may be unappreciated. The risk of hypertension may be tripled in such patients. Tobacco addiction may also compromise the treatment of hypertensives. The importance of smoking cessation for hypertensive smokers cannot be overemphasized and should be seen as fundamental. Nicotine replacement therapy (NRT), when used appropriately, can enhance the likelihood of cessation. All smokers, but particularly hypertensive smokers, should be advised to quit and offered specific and ongoing assistance in this respect.

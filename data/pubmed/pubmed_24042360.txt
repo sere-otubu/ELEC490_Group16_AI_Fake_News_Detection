@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Bronchitis
+TITLE: Acute bronchitis: Evaluation and management.
+PMID: 24042360
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24042360/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Acute bronchitis affects millions of individuals, significantly impacting patient health and the healthcare industry. Understanding evaluation and treatment guidelines for acute bronchitis allows the nurse practitioner to practice comprehensive care for patients. This article reviews evidence-based practices when caring for the patient with acute bronchitis, promoting optimization of healthy outcomes.

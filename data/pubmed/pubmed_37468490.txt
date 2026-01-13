@@ -1,0 +1,8 @@
+SEARCH_TOPIC: White blood cells
+TITLE: A high-resolution large-scale dataset of pathological and normal white blood cells.
+PMID: 37468490
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37468490/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Microscopic examination plays a significant role in the initial screening for a variety of hematological, as well as non-hematological, diagnoses. Microscopic blood smear examination that is considered a key diagnostic technique, is in recent clinical practice still performed manually, which is not only time consuming, but can lead to human errors. Although automated and semi-automated systems have been developed in recent years, their high purchasing and maintenance costs make them unaffordable for many medical institutions. Even though much research has been conducted lately to explore more accurate and feasible solutions, most researchers had to deal with a lack of medical data. To address the lack of large-scale databases in this field, we created a high-resolution dataset containing a total of 16027 annotated white blood cells. Moreover, the dataset covers overall 9 types of white blood cells, including clinically significant pathological findings. Since we used high-quality acquisition equipment, the dataset provides one of the highest quality images of blood cells, achieving an approximate resolution of 42 pixels per 1 μm.

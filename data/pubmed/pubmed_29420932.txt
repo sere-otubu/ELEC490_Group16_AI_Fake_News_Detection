@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dopamine
+TITLE: Dopamine's Effects on Corticostriatal Synapses during Reward-Based Behaviors.
+PMID: 29420932
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29420932/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Many learned responses depend on the coordinated activation and inhibition of synaptic pathways in the striatum. Local dopamine neurotransmission acts in concert with a variety of neurotransmitters to regulate cortical, thalamic, and limbic excitatory inputs to drive the direct and indirect striatal spiny projection neuron outputs that determine the activity, sequence, and timing of learned behaviors. We review recent advances in the characterization of stereotyped neuronal and operant responses that predict and then obtain rewards. These depend on the local release of dopamine at discrete times during behavioral sequences, which, acting with glutamate, provides a presynaptic filter to select which excitatory synapses are inhibited and which signals pass to indirect pathway circuits. This is followed by dopamine-dependent activation of specific direct pathway circuits to procure a reward. These steps may provide a means by which higher organisms learn behaviors in response to feedback from the environment.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Prostate cancer
+TITLE: Prostate cancer.
+PMID: 21479346
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21479346/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Prostate cancer continues to be a significant public health issue worldwide, particularly in countries where men have life expectancies long enough to clinically manifest the disease. In many countries, it remains one of the leading causes of cancer-related morbidity and mortality. Although significant progress has been made over the past few decades, many elements regarding the diagnosis and management of patients with prostate cancer remain enigmatic. In this Prostate Cancer special issue, our expert authors present and examine clinically relevant topics and look ahead to future research.

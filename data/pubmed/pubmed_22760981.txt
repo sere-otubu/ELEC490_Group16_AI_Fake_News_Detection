@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Trans fats risks
+TITLE: Trans fat involvement in cardiovascular disease.
+PMID: 22760981
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22760981/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Coronary heart disease is becoming a worldwide epidemic and diet and lifestyle are well known contributing factors. Identifying the kinds of foods that may have a cardioprotective or cardiotoxic effect and understanding their molecular mechanisms of action has become of increasing importance. Through largely epidemiological evidence, trans fatty acid (TFA) intake has been associated with a variety of cardiovascular complications including atherosclerosis. Traditionally, industrial TFAs (iTFAs) have been associated with these deleterious cardiovascular effects. However, there is a current body of research that suggests that ruminant trans fats (rTFAs) may have a cardioprotective role within the heart. The molecular mechanisms whereby TFAs are delivering their effects are largely unknown. In the following review, we discuss recent in vitro, animal and epidemiological research to better understand the effect of TFAs in the diet on cardiovascular disease, particularly atherosclerosis.

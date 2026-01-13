@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dengue fever
+TITLE: Vaccination against dengue fever for travellers.
+PMID: 39463237
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39463237/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Dengue fever, endemic to most tropical and subtropical countries, is a major cause of illness in travellers, but severe dengue, hospitalisation and death are considered rare in this population. Two vaccines against dengue fever, Dengvaxia® and Qdenga®, are available. While there is no recommendation for the use of Dengvaxia® in travellers, Qdenga® has been licensed for travellers in many European countries since December 2022, most recently (29 July 2024) in Switzerland by Swissmedic. The Swiss Expert Committee for Travel Medicine (ECTM), having assessed available data on the Qdenga® vaccine, issues the following recommendations: (1) Vaccination against dengue fever virus with Qdenga® is not recommended for persons with no previous dengue fever infection. (2) Vaccination with Qdenga® may be recommended for travellers aged 6 years and older who have evidence of previous dengue infection, defined as (a) a laboratory-confirmed dengue infection (PCR, antigen or seroconversion) or (b) a compatible history of dengue infection with a positive IgG serological test AND expected exposure to a region with significant dengue transmission. Travel medicine advisors should provide clear information in accessible language on the complexity of dengue vaccines and the risk/benefit evaluation for their use in travellers.

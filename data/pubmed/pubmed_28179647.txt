@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Narcolepsy
+TITLE: Narcolepsy.
+PMID: 28179647
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28179647/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Narcolepsy is a chronic sleep disorder that has a typical onset in adolescence and is characterized by excessive daytime sleepiness, which can have severe consequences for the patient. Problems faced by patients with narcolepsy include social stigma associated with this disease, difficulties in obtaining an education and keeping a job, a reduced quality of life and socioeconomic consequences. Two subtypes of narcolepsy have been described (narcolepsy type 1 and narcolepsy type 2), both of which have similar clinical profiles, except for the presence of cataplexy, which occurs only in patients with narcolepsy type 1. The pathogenesis of narcolepsy type 1 is hypothesized to be the autoimmune destruction of the hypocretin-producing neurons in the hypothalamus; this hypothesis is supported by immune-related genetic and environmental factors associated with the disease. However, direct evidence in support of the autoimmune hypothesis is currently unavailable. Diagnosis of narcolepsy encompasses clinical, electrophysiological and biological evaluations, but simpler and faster procedures are needed. Several medications are available for the symptomatic treatment of narcolepsy, all of which have quite good efficacy and safety profiles. However, to date, no treatment hinders or slows disease development. Improved diagnostic tools and increased understanding of the pathogenesis of narcolepsy type 1 are needed and might lead to therapeutic or even preventative interventions.

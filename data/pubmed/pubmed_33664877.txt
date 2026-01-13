@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Atherosclerosis
+TITLE: Exosomes in atherosclerosis: performers, bystanders, biomarkers, and therapeutic targets.
+PMID: 33664877
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33664877/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Exosomes are nanosized lipid vesicles originating from the endosomal system that carry many macromolecules from their parental cells and play important roles in intercellular communication. The functions and underlying mechanisms of exosomes in atherosclerosis have recently been intensively studied. In this review, we briefly introduce exosome biology and then focus on advances in the roles of exosomes in atherosclerosis, specifically exosomal changes associated with atherosclerosis, their cellular origins and potential functional cargos, and their detailed impacts on recipient cells. We also discuss the potential of exosomes as biomarkers and drug carriers for managing atherosclerosis.

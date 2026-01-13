@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Red blood cells
+TITLE: The path from stem cells to red blood cells.
+PMID: 35841459
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35841459/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+As oxygen is essential for energy production in mitochondria, a sufficient amount of oxygen should be continuously delivered to the tissues to maintain life. Therefore, the number of red blood cells which carry the oxygen is considerable, at up to 25 trillion in the body, and 2 million new red blood cells are generated per second.

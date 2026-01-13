@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gene expression
+TITLE: Gene expression assays.
+PMID: 17682345
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17682345/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The study of the profile of gene expression in a cell or tissue at a particular moment gives an insight into the plans of the cell for protein synthesis. Recent technological advances make it possible to analyze the expression of the entire genome in a single experiment. These "gene expression assays" complement or replace previous assays which measured the gene expression of only one gene, or a select group of genes. Within this chapter we outline the development of the gene expression assay and provide examples of the wide range of disciplines in which it is used. An overview of the current technologies is given, and includes an introduction to laser capture microdissection and linear amplification of RNA, both of which have extended the application of gene expression assays. Illustrative examples in the field of cancer and neuroscience highlight the scientific achievements. This technology has made in understanding the pathogenesis of diseases, including breast cancer, Huntington's disease, and schizophrenia. With recent advances including exon arrays to investigate alternative splicing, tiling arrays to investigate novel transcription start sites, and on-chip chromatin immunoprecipitation to investigate DNA-protein interactions, the future of gene expression assays is set to further our understanding of the complexities of gene expression.

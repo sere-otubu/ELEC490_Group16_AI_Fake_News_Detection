@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hearing aids
+TITLE: Music and hearing aids.
+PMID: 25361601
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25361601/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The signal processing and fitting methods used for hearing aids have mainly been designed to optimize the intelligibility of speech. Little attention has been paid to the effectiveness of hearing aids for listening to music. Perhaps as a consequence, many hearing-aid users complain that they are not satisfied with their hearing aids when listening to music. This issue inspired the Internet-based survey presented here. The survey was designed to identify the nature and prevalence of problems associated with listening to live and reproduced music with hearing aids. Responses from 523 hearing-aid users to 21 multiple-choice questions are presented and analyzed, and the relationships between responses to questions regarding music and questions concerned with information about the respondents, their hearing aids, and their hearing loss are described. Large proportions of the respondents reported that they found their hearing aids to be helpful for listening to both live and reproduced music, although less so for the former. The survey also identified problems such as distortion, acoustic feedback, insufficient or excessive gain, unbalanced frequency response, and reduced tone quality. The results indicate that the enjoyment of listening to music with hearing aids could be improved by an increase of the input and output dynamic range, extension of the low-frequency response, and improvement of feedback cancellation and automatic gain control systems.

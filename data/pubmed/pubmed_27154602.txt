@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tinnitus
+TITLE: Neuroscience of Tinnitus.
+PMID: 27154602
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27154602/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Tinnitus is a consequence of changes in auditory and nonauditory neural networks following damage to the cochlea. Homeostatic compensatory mechanisms occur after hearing loss and these mechanisms alter the balance of excitatory and inhibitory neurotransmitters. In many individuals with hearing loss, chronic tinnitus and related phenomena emerge. Some people with tinnitus are disturbed by this subjective sensation. When auditory network dysfunction is coupled with limbic-gating dysfunction, an otherwise meaningless auditory percept such as tinnitus may acquire negative emotional features. The development of effective treatment options is enhanced by the understanding of the neural networks underpinning tinnitus.

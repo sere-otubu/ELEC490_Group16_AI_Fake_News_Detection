@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hormones types
+TITLE: Leucokinins: Multifunctional Neuropeptides and Hormones in Insects and Other Invertebrates.
+PMID: 33546414
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33546414/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Leucokinins (LKs) constitute a neuropeptide family first discovered in a cockroach and later identified in numerous insects and several other invertebrates. The LK receptors are only distantly related to other known receptors. Among insects, there are many examples of species where genes encoding LKs and their receptors are absent. Furthermore, genomics has revealed that LK signaling is lacking in several of the invertebrate phyla and in vertebrates. In insects, the number and complexity of LK-expressing neurons vary, from the simple pattern in the <i>Drosophila</i> larva where the entire CNS has 20 neurons of 3 main types, to cockroaches with about 250 neurons of many different types. Common to all studied insects is the presence or 1-3 pairs of LK-expressing neurosecretory cells in each abdominal neuromere of the ventral nerve cord, that, at least in some insects, regulate secretion in Malpighian tubules. This review summarizes the diverse functional roles of LK signaling in insects, as well as other arthropods and mollusks. These functions include regulation of ion and water homeostasis, feeding, sleep-metabolism interactions, state-dependent memory formation, as well as modulation of gustatory sensitivity and nociception. Other functions are implied by the neuronal distribution of LK, but remain to be investigated.

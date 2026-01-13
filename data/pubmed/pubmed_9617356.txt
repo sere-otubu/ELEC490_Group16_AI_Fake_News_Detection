@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Angioplasty
+TITLE: [Infrapopliteal angioplasty: a forgotten region?].
+PMID: 9617356
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9617356/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although percutaneous transluminal angioplasty (PTA) has become established as an endovascular technique--in the more strict sense as a balloon dilatation but being increasingly supplemented by stent implantations--for many vascular regions, reports on infrapopliteal angioplasties are rather scarce. With the development of hydrophilically coated guide wires, improved catheter materials, and dedicated balloon catheters for infrapopliteal use, dilatation treatments distal of the popliteal artery are now standard procedures. Major advances in peri-interventional drug management have also made their contribution. The initial technical and clinical results obtained are excellent. For the majority of the patients, the main concern is for limb salvage. In this context, infrapopliteal PTA also achieves satisfactory results. However, the long-term results must still be considered as unsatisfactory since recurrences are frequent and require repeat interventions. Therefore new therapeutic strategies are required that can reduce re-stenoses especially in this peripheral vascular segment.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tendinitis
+TITLE: Calcific tendinitis: a pictorial review.
+PMID: 19931132
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19931132/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Calcific tendinitis is caused by the pathologic deposition of calcium hydroxyapatite crystals in tendons and is a common cause of joint pain. The disease typically affects the shoulder and hip, with characteristic imaging findings; however, any joint can be involved. Occasionally, calcific tendinitis can mimic aggressive disorders, such as infection and neoplasm, especially on magnetic resonance imaging. Radiologists should be familiar with the imaging findings to distinguish calcific tendinitis from more aggressive processes. Image-guided percutaneous needle aspiration and steroid injection of calcific tendinitis are useful techniques performed by the radiologist for the treatment of symptomatic cases. Familiarity with these procedures and their imaging appearance is an important aspect in the management of this common disease.

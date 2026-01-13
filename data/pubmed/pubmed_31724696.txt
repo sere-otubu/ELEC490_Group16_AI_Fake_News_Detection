@@ -1,0 +1,8 @@
+SEARCH_TOPIC: DNA structure
+TITLE: A DNA G-quadruplex/i-motif hybrid.
+PMID: 31724696
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31724696/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+DNA can form many structures beyond the canonical Watson-Crick double helix. It is now clear that noncanonical structures are present in genomic DNA and have biological functions. G-rich G-quadruplexes and C-rich i-motifs are the most well-characterized noncanonical DNA motifs that have been detected in vivo with either proscribed or postulated biological roles. Because of their independent sequence requirements, these structures have largely been considered distinct types of quadruplexes. Here, we describe the crystal structure of the DNA oligonucleotide, d(CCAGGCTGCAA), that self-associates to form a quadruplex structure containing two central antiparallel G-tetrads and six i-motif C-C+ base pairs. Solution studies suggest a robust structural motif capable of assembling as a tetramer of individual strands or as a dimer when composed of tandem repeats. This hybrid structure highlights the growing structural diversity of DNA and suggests that biological systems may harbor many functionally important non-duplex structures.

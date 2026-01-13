@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Angioplasty
+TITLE: Long-term follow-up after attempted angioplasty of saphenous vein grafts: the Thoraxcenter experience 1981-1988.
+PMID: 1874267
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1874267/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Between 1981 and 1988, 107 percutaneous transluminal coronary angioplasty (PTCA) procedures, including repeat PTCA, were performed in 84 patients with previous coronary artery bypass grafting (CABG). Fifty-nine patients underwent a first angioplasty of the vein graft alone, and 25 underwent a first PTCA of the graft and one or more native vessels. Seventeen patients underwent two procedures, four patients three procedures and one patient four procedures. In 84 first angioplasties, 133 lesions were attempted; 40 lesions in native vessels and 93 graft lesions (28 ostial stenoses, 33 shaft stenoses, and 32 stenoses at the distal anastomosis). Three patients died during their hospital stay. Two patients underwent emergency CABG. Seven patients sustained an acute myocardial infarction (AMI), among whom five underwent a PTCA of an occluded vessel. The clinical primary success rate per patient was 82%. After five years, 70% of patients were alive. At a median follow-up of 2.1 years, 41% of patients were alive and event-free (no AMI, no repeat CABG, no repeat PTCA). Symptomatic improvement was maintained in 36% of patients. Angioplasty of grafts may be an alternative to re-operation in selected patients with previous bypass surgery.

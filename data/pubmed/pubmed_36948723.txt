@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Patient data privacy HIPAA
+TITLE: Privacy, Data Sharing, and Other Legal Considerations.
+PMID: 36948723
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36948723/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Data privacy in the United States is protected by a patchwork of Federal and state laws. Federal laws protect data based on the type of entity collecting and retaining the information. Unlike the European Union, there is no comprehensive privacy statute. Some statutes, such as the Health Insurance Portability and Accountability have specific requirements others like the Federal Trade Commission Act, only protect against deceptive and unfair business practices. Because of this framework, the use of personal data in the United States requires navigating through a series of complicated Federal and state statutes that are continuously being updated and amended.

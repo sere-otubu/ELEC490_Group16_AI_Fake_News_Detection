@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hepatitis A
+TITLE: Hepatitis A: Epidemiology, Natural History, Unusual Clinical Manifestations, and Prevention.
+PMID: 32389358
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32389358/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hepatitis A virus (HAV) is a positive-strand RNA virus that is transmitted feco-orally through person-to-person contact. Outbreaks are often linked to poor sanitation, overcrowding, or food and water contamination. Infection is often asymptomatic in children, but adults present with jaundice, abdominal pain, hepatitis, and hyperbilirubinemia. Diagnosis is through detection of immunoglobulin M antibodies against HAV, and treatment is supportive. Vaccination is the mainstay of prevention and should be given before exposure whenever possible.

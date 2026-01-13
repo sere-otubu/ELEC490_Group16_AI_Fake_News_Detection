@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Clinical trial phases
+TITLE: The future of drug development: advancing clinical trial design.
+PMID: 19816458
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19816458/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Declining pharmaceutical industry productivity is well recognized by drug developers, regulatory authorities and patient groups. A key part of the problem is that clinical studies are increasingly expensive, driven by the rising costs of conducting Phase II and III trials. It is therefore crucial to ensure that these phases of drug development are conducted more efficiently and cost-effectively, and that attrition rates are reduced. In this article, we argue that moving from the traditional clinical development approach based on sequential, distinct phases towards a more integrated view that uses adaptive design tools to increase flexibility and maximize the use of accumulated knowledge could have an important role in achieving these goals. Applications and examples of the use of these tools--such as Bayesian methodologies--in early- and late-stage drug development are discussed, as well as the advantages, challenges and barriers to their more widespread implementation.

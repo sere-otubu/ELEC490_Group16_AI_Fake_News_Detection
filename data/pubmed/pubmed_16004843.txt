@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Migraine
+TITLE: Retinal migraine.
+PMID: 16004843
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16004843/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Retinal migraine is a primary headache disorder, clinically manifested by attacks of transient monocular visual loss associated with migraine headache. Although isolated reports suggest that retinal migraine is rare, it likely is under-recognized. Retinal migraine usually is reported in women of childbearing age who have a history of migraine with aura. It typically is characterized by negative monocular visual phenomena lasting less than 1 hour. More than half of reported cases with recurrent transient monocular visual loss subsequently experienced permanent monocular visual loss. Although the International Headache Society diagnostic criteria for retinal migraine require reversible visual loss, our findings suggest that irreversible visual loss is part of the retinal migraine spectrum, likely representing an ocular form of migrainous infarction.

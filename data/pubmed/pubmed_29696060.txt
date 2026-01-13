@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Fatty liver disease
+TITLE: Nonalcoholic fatty liver disease: epidemiology, pathogenesis and therapeutic implications.
+PMID: 29696060
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29696060/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The increase of the prevalence of nonalcoholic fatty liver disease in the context of the explosive epidemy of obesity worldwide over the last decades and the emergence of new effective therapies for viral hepatitis has brought this entity to the forefront of hepatologist concerns. Today is a certainty that fatty liver can complicate with cirrhosis and hepatocellular carcinoma; moreover, nonalcoholic fatty liver disease is the main cause of cryptogenic cirrhosis and the second cause of liver transplantation. This review revises the epidemiology of the disease, brings forward some progress in pathogenesis and outlines the directions to be followed in nonalcoholic fatty liver disease prevention and therapy. Today, nonalcoholic fatty liver disease is considered to be the liver manifestation of metabolic syndome, with its same prevalence (20-30%). If the patients do not die through cardiovascular disease, it can lead to serious liver complications.

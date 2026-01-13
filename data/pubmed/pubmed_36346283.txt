@@ -1,0 +1,8 @@
+SEARCH_TOPIC: mRNA vaccines
+TITLE: The Quest for mRNA Vaccines.
+PMID: 36346283
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36346283/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The success of mRNA vaccines against COVID-19 is nothing short of a medical revolution. Given its chemical lability the use of mRNA as a therapeutic has been counterintuitive and met with skepticism. The development of mRNA-based COVID-19 vaccines was the culmination of long and painstaking efforts by many investigators spanning over 30 years and culminating with the seminal studies of Kariko and Weissman. This review will describe one chapter in this saga, studies that have shown that mRNA can function as a therapeutic. It started with our seminal observation that dendritic cells (DCs) transfected with mRNA <i>in vitro</i> administered to mice inhibits tumor growth, and led to first-in-human clinical trials with mRNA vaccines in cancer patients. The clinical development of this patient-specific DCs-mRNA approach and use on a larger scale was hindered by the challenges associated with personalized cell therapies. Confirmed and extended by many investigators, these studies did serve as impetus and motivation that led scientists to persevere, eventually leading to the development of simple, broadly applicable, and highly effective protocols of directly injecting mRNA into patients, culminating in the COVID-19 mRNA vaccines.

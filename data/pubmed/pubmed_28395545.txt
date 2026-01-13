@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lymphoma
+TITLE: Lymphoma classification update: B-cell non-Hodgkin lymphomas.
+PMID: 28395545
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28395545/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lymphomas are classified based on the normal counterpart, or cell of origin, from which they arise. Because lymphocytes have physiologic immune functions that vary both by lineage and by stage of differentiation, the classification of lymphomas arising from these normal lymphoid populations is complex. Recent genomic data have contributed additional complexity. Areas covered: Lymphoma classification follows the World Health Organization (WHO) system, which reflects international consensus and is based on pathological, genetic, and clinical factors. A 2016 revision to the WHO classification of lymphoid neoplasms recently was reported. The present review focuses on B-cell non-Hodgkin lymphomas, the most common group of lymphomas, and summarizes recent changes most relevant to hematologists and other clinicians who care for lymphoma patients. Expert commentary: Lymphoma classification is a continually evolving field that needs to be responsive to new clinical, pathological, and molecular understanding of lymphoid neoplasia. Among the entities covered in this review, the 2016 revision of the WHO classification particularly impact the subclassification and genetic stratification of diffuse large B-cell lymphoma and high-grade B-cell lymphomas, and reflect evolving criteria and nomenclature for indolent B-cell lymphomas and lymphoproliferative disorders.

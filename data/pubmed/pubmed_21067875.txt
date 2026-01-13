@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Electrolytes
+TITLE: Development of latent fingermarks by aqueous electrolytes.
+PMID: 21067875
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21067875/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In this work we present our observations on the interaction between metallic (copper, aluminum, iron, brass, zinc) and non-metallic (glass and plastic) surfaces bearing latent fingermarks and several aqueous electrolytic solutions. Good quality fingermarks could be observed on some of the metallic and even on non-metallic surfaces after such treatment. The influence of factors such as time interval from deposition, pH of the electrolytes, wiping the latent marks prior to processing and the presence of a second metal on the quality and permanence of the developed impressions have been studied. As a rule, sebaceous marks provided much better quality impressions on all the surfaces. Initial explanations based on electrochemical processes are suggested.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Parkinsons disease
+TITLE: Challenges in the diagnosis of Parkinson's disease.
+PMID: 33894193
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33894193/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Parkinson's disease is the second most common neurodegenerative disease and its prevalence has been projected to double over the next 30 years. An accurate diagnosis of Parkinson's disease remains challenging and the characterisation of the earliest stages of the disease is ongoing. Recent developments over the past 5 years include the validation of clinical diagnostic criteria, the introduction and testing of research criteria for prodromal Parkinson's disease, and the identification of genetic subtypes and a growing number of genetic variants associated with risk of Parkinson's disease. Substantial progress has been made in the development of diagnostic biomarkers, and genetic and imaging tests are already part of routine protocols in clinical practice, while novel tissue and fluid markers are under investigation. Parkinson's disease is evolving from a clinical to a biomarker-supported diagnostic entity, for which earlier identification is possible, different subtypes with diverse prognosis are recognised, and novel disease-modifying treatments are in development.

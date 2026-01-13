@@ -1,0 +1,8 @@
+SEARCH_TOPIC: mRNA vaccines
+TITLE: Development of mRNA rabies vaccines.
+PMID: 39069645
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39069645/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Rabies, primarily transmitted to humans by dogs (accounting for 99% of cases). Once rabies occurs, its mortality rate is approximately 100%. Post-exposure prophylaxis (PEP) is critical for preventing the onset of rabies after exposure to rabid animals, and vaccination is a pivotal element of PEP. However, high costs and complex immunization protocols have led to poor adherence to rabies vaccinations. Consequently, there is an urgent need to develop new rabies vaccines that are safe, highly immunogenic, and cost-effective to improve compliance and effectively prevent rabies. In recent years, mRNA vaccines have made significant progress in the structural modification and optimization of delivery systems. Various mRNA vaccines are currently undergoing clinical trials, positioning them as viable alternatives to the traditional rabies vaccines. In this article, we discuss a novel mRNA rabies vaccine currently undergoing clinical and preclinical testing, and evaluate its potential to replace existing vaccines.

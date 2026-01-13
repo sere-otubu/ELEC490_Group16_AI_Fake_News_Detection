@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hashimotos thyroiditis
+TITLE: The Role of Vitamin D in Thyroid Diseases.
+PMID: 28895880
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28895880/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The main role of vitamin D is regulating bone metabolism and calcium and phosphorus homeostasis. Over the past few decades, the importance of vitamin D in non-skeletal actions has been studied, including the role of vitamin D in autoimmune diseases, metabolic syndromes, cardiovascular disease, cancers, and all-cause mortality. Recent evidence has demonstrated an association between low vitamin D status and autoimmune thyroid diseases such as Hashimoto's thyroiditis and Graves' disease, and impaired vitamin D signaling has been reported in thyroid cancers. This review will focus on recent data on the possible role of vitamin D in thyroid diseases, including autoimmune thyroid diseases and thyroid cancers.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Herd immunity
+TITLE: Can Africa achieve herd immunity?
+PMID: 34852844
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34852844/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The World Health Organization described herd immunity, also known as population immunity, as the indirect fortification from an infectious disease that happens when a population is immune either through vaccination or immunity developed through previous exposure to infection. The emergence of COVID-19 vaccine is a step towards the achievement of herd immunity. Over one billion people across the globe have been vaccinated and Africa recorded only 2%. The objective of this article was to develop a forecast of the number of people to be vaccinated to achieve herd immunity in the 13 WHO-identified priority African countries for COVID-19. Herd immunity is achieved when one infected person in a population causes less than one secondary case on average, corresponding to the effective basic reproduction number (R<sub>0</sub>). Vaccine delivery and distribution infrastructure including the cold chain remains weak. Vaccine hesitancy is also one of the limiting factors that may hinder herd immunity in Africa. In order to achieve herd immunity globally, African countries should not be excluded in fair and equal distribution of vaccines. Relevant stakeholders should foster commitment as well as community sensitization on COVID-19 vaccines and integration of COVID-19 vaccines in existing healthcare services.

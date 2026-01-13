@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood transfusion
+TITLE: Transfusion--whence and why.
+PMID: 24393629
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24393629/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The past is prologue. Reviewing the history of transfusion tells us how far we have come, but also where we need to go. The past has been filled with innovation and important discoveries, but is also fraught with stumbling blocks and unintended side effects. Although much has been achieved and transfusion is safer today than ever, nonetheless we are recognizing new potential concerns with transfusion and we are undergoing a paradigm shift in our attitudes, approach and patient management in regard to blood transfusion.

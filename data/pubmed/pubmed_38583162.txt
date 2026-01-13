@@ -1,0 +1,8 @@
+SEARCH_TOPIC: School lunch nutrition
+TITLE: School Nutrition Stakeholders Find Utility in MealSim: An Agent-Based Model.
+PMID: 38583162
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38583162/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To obtain feedback from school nutrition stakeholders on an agent-based model simulating school lunch to inform model refinement and future applications. Qualitative study using online discussion groups. School nutrition professional stakeholders across the US. Twenty-eight school nutrition stakeholders. Perceptions and applicability of MealSim for school nutrition stakeholders to help reduce food waste. Deductive approach followed by inductive analysis of discussion group transcripts. Stakeholders appreciated the customizability of the cafeteria characteristics and suggested adding additional characteristics to best represent the school meal system, such as factors relating to school staff supervision of students during meals. The perceived utility of MealSim was high and included using it to train personnel and to advocate for policy and budgetary changes. However, they viewed MealSim as more representative of elementary than high schools. Stakeholders also provided suggestions for training school nutrition administrators on how to use MealSim and requested opportunities for technical assistance. Although agent-based models were new to the school nutrition stakeholders, MealSim was viewed as a useful tool. Application of these findings will allow the model to meet the intended audience's needs and better estimate the system.

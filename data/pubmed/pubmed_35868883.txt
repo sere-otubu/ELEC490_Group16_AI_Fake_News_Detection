@@ -1,0 +1,8 @@
+SEARCH_TOPIC: General anesthesia
+TITLE: End the confusion: general anaesthesia improves patient outcomes in endovascular thrombectomy.
+PMID: 35868883
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35868883/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Expert physiological and pharmacological care by anaesthetists is required in all stroke endovascular thrombectomy cases. RCTs show clinical benefits in recanalisation rates and functional recovery after endovascular thrombectomy with general anaesthesia compared with sedation. Many stroke centres will require wholesale reorganisation of stroke pathways to ensure anaesthesia services are available for all cases. Anaesthetists have an integral role in improving clinical outcomes in large vessel occlusion stroke.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Down syndrome
+TITLE: Diagnosis and management of Down syndrome.
+PMID: 24127006
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24127006/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Down syndrome is the commonest chromosomal disorder causing mild to moderate intellectual disability, yet it is one of the neglected disorder amongst practicing physicians. Children with Down syndrome when intervened early by speech therapy, physiotherapy and occupational therapy and given proper medical attention for different health issues, can have a better long term outcome as compared to other genetic causes of intellectual disability. This paper would help the general practitioners to identify children with Down syndrome and to manage the common problems associated with this condition.

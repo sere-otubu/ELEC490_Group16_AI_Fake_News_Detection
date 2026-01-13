@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immune system
+TITLE: Nutrition and immune system: from the Mediterranean diet to dietary supplementary through the microbiota.
+PMID: 32691606
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32691606/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The interaction between nutrition and the immune system is very complex. In particular, at every stage of the immune response, specific micronutrients, including vitamins and minerals play a key role and often synergistic, and the deficiency of only one essential nutrient may impair immunity. An individual's overall nutrition status and pattern of dietary intake (comprised of nutrients and non-nutritive bioactive compounds and food) and any supplementation with nutraceuticals including vitamins and minerals, can influence positively or negatively the function of the immune system. This influence can occur at various levels from the innate immune system and adaptive immune system to the microbiome. Although there are conflicting evidence, the current results point out that dietary supplementation with some nutrients such as vitamin D and zinc may modulate immune function. An update on the complex relationship between nutrition, diet, and the immune system through gut microbiota is the aim of this current review. Indeed, we will provide the overview of the link among immune function, nutrition and gut microbiota, paying particular attention at the effect of the Mediterranean diet on the immune system, and finally we will speculate the possible role of the main one functional supplements on immune function.

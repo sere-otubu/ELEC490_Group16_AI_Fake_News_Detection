@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antibiotic resistance
+TITLE: Antibiotic resistance in urban runoff.
+PMID: 30826682
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30826682/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Aquatic ecosystems subjected to anthropogenic pressures are places of rapid evolution of microbial communities and likely hotspots for selection and emergence of antibiotic resistant bacteria. In urban settings, water quality and the risk of infection are generally assessed in sewers and in effluents of wastewater treatment plants. Physical and chemical parameters as well as the presence of antibiotics, antibiotic-resistant bacteria and genes of resistance are driven by urban activities, with adverse effects on aquatic ecosystems. In this paper we review the environmental pressures exerted on bacterial communities in urban runoff waters and discuss the impact of these settings on antibiotic resistance. Considering the worrisome epidemiology of infectious diseases and estimated mortality due to antimicrobial resistance in the coming decades, there is an urgent need to identify all environmental reservoirs of resistant bacteria and resistance genes to complete our knowledge of the epidemiological cycle and of the dynamics of urban antibiotic resistance.

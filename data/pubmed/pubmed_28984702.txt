@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HIV AIDS
+TITLE: Current assessment of heart rate variability and QTc interval length in HIV/AIDS.
+PMID: 28984702
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28984702/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The increasing prevalence of cardiovascular disease comorbidity in persons infected with the HIV has become a global concern. The electrocardiogram (ECG) is increasingly being utilized to provide clinically relevant information regarding cardiac arrhythmias and cardio-autonomic dysfunction. The purpose of this review is to summarize the latest research comparing QT and R-to-R interval length as a function of HIV+ status or antiretroviral therapy (ART) regimen. Prolongation of the corrected QTc interval may be acquired in HIV+ ART-naive individuals, exacerbated by various classes of ART drugs, and is generally predictive of lethal cardiac arrhythmias, with effects observed from childhood to adulthood. Recent literature also suggests the trend of lower heart rate variability in HIV is indicative of cardiorespiratory and inflammatory-immune dysfunction. These emergent studies support the clinical relevance of the ECG across the age and HIV disease spectrum. Furthermore, the reported findings have implications for the management of cardiovascular and chronic inflammatory disease comorbidity in persons living with HIV.

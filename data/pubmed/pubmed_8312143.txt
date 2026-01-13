@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Athletes foot
+TITLE: Tinea pedis.
+PMID: 8312143
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8312143/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Tinea pedis is a term used to encompass several clinically distinctive infections of the skin of the foot. Dermatophytic fungi are primarily responsible for these infections. Several nondermatophytes have been implicated in some patients, particularly for nail infections. The major clinical variants are (1) interdigital infections in which dermatophytes initiate the process by damaging the stratum corneum while the subsequent maceration and leukokeratosis results from overgrowth of bacteria such as Micrococcus sedantarius, Brevibacterium epidermidis, Corynebacterium minutissimum and gram-negative organisms; (2) plantar mocasin type of hyperkeratosis due to T rubrum and found primarily in those with an atopic background; (3) vesiculo-bullous infections in the arch and side of the foot due to an immune response of delayed hypersensitivity to T mentagrophytes.

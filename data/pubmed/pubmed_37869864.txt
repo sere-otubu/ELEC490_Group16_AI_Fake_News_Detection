@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Healthcare accessibility
+TITLE: Mobile Applications for Family Planning.
+PMID: 37869864
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37869864/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Family planning reduces maternal and child morbidity and mortality by promoting pregnancy spacing. The postpartum period is an ideal time for patients to access family planning services. Mobile applications can aid in accessing information about family planning. A review was conducted on PubMed from 2012 to 2022, using keywords "mobile app," "family planning, "contraception,". Numerous studies have found as randomized controlled trials evaluating the use of mobile applications such as Decide + Be Ready in contraception. Other studies focused on healthcare providers' use of mobile apps for postpartum care and monitoring contraceptive methods. Mobile applications in family planning can assist healthcare providers in clinical care delivery is feasible and acceptable, saving time and providing accessible information.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pain management
+TITLE: Pain Management for Orthopedic Injuries.
+PMID: 31757252
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31757252/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Pain management in acute orthopedic injury needs to be tailored to the presentation and patient. Subjective and objective assessment, in conjunction with pathophysiology, should be used to provide symptom control. Ideally, treatment should be administered in an escalating fashion, attempting to manage pain with the lowest dose of the safest medication available. There are also adjunctive therapies, including those that are nonpharmacologic, that can provide additional relief.

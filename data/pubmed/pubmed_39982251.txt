@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Breast cancer
+TITLE: Bilateral Breast Cancer.
+PMID: 39982251
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39982251/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article is a review of the characteristics of bilateral breast cancer (BBC). Synchronous bilateral breast cancer (SBBC) and metachronous bilateral breast cancer (MBBC) account for 2.9-3.9% and 4.1-4.6% of all new breast cancer cases, respectively. The risk factors for SBBC include older patient age and lobular histology. On the other hand, younger age, lobular histology, and positive family history (or genetic factors) are the risk factors for MBBC. Contralateral prophylactic mastectomy in patients with mutations in the <i>BRCA1/2</i> genes has been reported to increase survival rates. The prognosis of patients with SBBC is worse than the prognosis of patients with unilateral breast cancer (UBC). The prognosis of patients with MBBC compared to patients with UBC remains undetermined because the ages of patients and the intervals between the occurrence of two primary breast cancers appear to have a major impact on survival outcomes. The differences between SBBC and MBBC need clarification to increase our understanding of BBCs.

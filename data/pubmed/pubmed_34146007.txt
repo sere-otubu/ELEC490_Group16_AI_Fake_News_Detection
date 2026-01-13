@@ -1,0 +1,8 @@
+SEARCH_TOPIC: LASIK surgery
+TITLE: Complications of laser-assisted <i>in situ</i> keratomileusis.
+PMID: 34146007
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34146007/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Laser-assisted in situ keratomileusis (LASIK) is one of the most commonly performed kerato-refractive surgery globally. Since its introduction in 1990, there has been a constant evolution in its technology to improve the visual outcome. The safety, efficacy, and predictability of LASIK are well known, but complications with this procedure, although rare, are not unknown. Literature review suggests that intraoperative complications include suction loss, free cap, flap tear, buttonhole flap, decentered ablation, central island, interface debris, femtosecond laser-related complications, and others. The postoperative complications include flap striae, flap dislocation, residual refractive error, diffuse lamellar keratitis, microbial keratitis, epithelial ingrowth, refractive regression, corneal ectasia, and others. This review aims to provide a comprehensive knowledge of risk factors, clinical features, and management protocol of all the reported complications of LASIK. This knowledge will help in prevention as well as early identification and timely intervention with the appropriate strategy for achieving optimal visual outcome even in the face of complications.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: RNA function
+TITLE: RNA silencing: small RNA-mediated posttranscriptional regulation of mRNA and the implications for heart electropathophysiology.
+PMID: 19017333
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19017333/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gene silencing refers to the "switching off" of genes within the cell: it can occur at transcriptional and posttranscriptional levels, controlling, respectively, how much mRNA is transcribed from each gene and how much protein is translated from this mRNA. Knowledge of its governing mechanisms is fundamental to our understanding of physiology; moreover, where there is a relevance for pathology, new diagnostic and therapeutic tools may be developed. Recently, families of noncoding RNA (ncRNA)-RNA that does not encode for a protein end-product--have been discovered that function as regulators of gene silencing. This has revolutionized biology by challenging the credence in the centrality of proteins as the regulators of biological processes, and is changing the way we study pathophysiology. In fact, a subfamily of small ncRNAs, called microRNA (miRNA), is now known as one of the most abundant class of regulatory molecules, and over one-third of human genes-including a growing number of key genes of the heart-may be targeted by one or more of the hundreds of miRNAs that exist. Here, we focus on how these small ncRNAs control translation, on the extraordinary consequences this class of regulator is currently known to have on aspects of cardiac excitability, and on the exciting therapeutic potential they have in this field.

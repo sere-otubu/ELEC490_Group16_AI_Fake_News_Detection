@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cardiovascular fitness
+TITLE: Toward characterizing cardiovascular fitness using machine learning based on unobtrusive data.
+PMID: 36862737
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36862737/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cardiopulmonary exercise testing (CPET) is a non-invasive approach to measure the maximum oxygen uptake ([Formula: see text]), which is an index to assess cardiovascular fitness (CF). However, CPET is not available to all populations and cannot be obtained continuously. Thus, wearable sensors are associated with machine learning (ML) algorithms to investigate CF. Therefore, this study aimed to predict CF by using ML algorithms using data obtained by wearable technologies. For this purpose, 43 volunteers with different levels of aerobic power, who wore a wearable device to collect unobtrusive data for 7 days, were evaluated by CPET. Eleven inputs (sex, age, weight, height, and body mass index, breathing rate, minute ventilation, total hip acceleration, walking cadence, heart rate, and tidal volume) were used to predict the [Formula: see text] by support vector regression (SVR). Afterward, the SHapley Additive exPlanations (SHAP) method was used to explain their results. SVR was able to predict the CF, and the SHAP method showed that the inputs related to hemodynamic and anthropometric domains were the most important ones to predict the CF. Therefore, we conclude that the cardiovascular fitness can be predicted by wearable technologies associated with machine learning during unsupervised activities of daily living.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood transfusion
+TITLE: Blood transfusion: the risks and benefits.
+PMID: 8144350
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8144350/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+As greater attention is focused on medical and legal risks of the transfusion process, physicians ordering a blood transfusion must advise their patients thoroughly and clearly of the potential risks involved. Physicians must explain clearly to patients that a zero-risk blood supply is impossible to achieve; patients must understand that all necessary steps practicable have been taken to ensure the safest possible supply.

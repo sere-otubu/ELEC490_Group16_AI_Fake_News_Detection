@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Digestive system
+TITLE: Piezo1 in Digestive System Function and Dysfunction.
+PMID: 37629134
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37629134/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Piezo1, a non-selective cation channel directly activated by mechanical forces, is widely expressed in the digestive system and participates in biological functions physiologically and pathologically. In this review, we summarized the latest insights on Piezo1's cellular effect across the entire digestive system, and discussed the role of Piezo1 in various aspects including ingestion and digestion, material metabolism, enteric nervous system, intestinal barrier, and inflammatory response within digestive system. The goal of this comprehensive review is to provide a solid foundation for future research about Piezo1 in digestive system physiologically and pathologically.

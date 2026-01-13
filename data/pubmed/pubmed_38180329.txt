@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Prebiotics
+TITLE: Prebiotics and sepsis in infants: An updated systematic review and meta-analysis.
+PMID: 38180329
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38180329/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Sepsis is a critical situation, and its treatment and reduction are important clinical issues. Antibiotics are a routine treatment option, but their adverse effects are a concern in pediatric patients, especially infants. Prebiotics might be an alternative option. The aim of this study was to provide an updated systemic review and meta-analysis of randomized controlled trials (RCTs) on the use of prebiotics for sepsis in infants, which could assist clinicians in deciding whether to use this treatment. The study included RCTs related to prebiotics and sepsis in infants. A random effects model and the odds ratio (OR) were applied to estimate the effect of prebiotic use and the incidence of sepsis in infants. The analysis included 16 studies with a total of 6,438 infants. The primary outcome was the OR of sepsis for infants who received prebiotics. The results of the meta-analysis demonstrated that the pooled OR of sepsis was significantly lower for infants who used prebiotics. However, the results indicated a medium level of heterogeneity. The results showed that the use of prebiotics might be associated with a reduction of sepsis in infants. The standardized application of this treatment might be an intriguing topic for future clinical research.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Stem cell research
+TITLE: Stem cell research in stroke: how far from the clinic?
+PMID: 21757669
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21757669/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Stem cell-based approaches hold much promise as potential novel treatments to restore function after stroke. Studies in animal models have shown that stem cell transplantation can improve function by replacing neurons or by trophic actions, modulation of inflammation, promotion of angiogenesis, remyelination and axonal plasticity, and neuroprotection. Endogenous neural stem cells are also potential therapeutic targets because they produce new neurons after stroke. Clinical trials are ongoing but there is currently no proven stem cell-based therapy for stroke. Preclinical studies and clinical research will be needed to optimize the therapeutic benefit and minimize the risks of stem cells in stroke.

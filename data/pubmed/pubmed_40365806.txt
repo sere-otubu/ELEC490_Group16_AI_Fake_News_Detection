@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Personality disorders
+TITLE: [ADHD and personality disorders].
+PMID: 40365806
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40365806/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+ADHD and personality disorders, like emotional unstable personality disorder and dissocial personality disorder, overlap to some extent but they also commonly co-occur in clinical populations. Prevalences, key issues in differential diagnosis, and the different aetiological background of the two categories are presented in this review. In depth, clinical diagnostic evaluation of both disorder syndromes, not only based on use of questionnaires, is needed to sufficiently distinct the separate main categories. In case of co-occurrence treatment, recommendations of both disorders and social support should be considered to achieve a patient-centered approach of the specific needs.

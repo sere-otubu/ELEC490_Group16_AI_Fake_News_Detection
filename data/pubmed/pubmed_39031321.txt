@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insulin regulation
+TITLE: Insulin Icodec: First Approval.
+PMID: 39031321
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39031321/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Insulin icodec (AWIQLI<sup>®</sup>) is an ultra-long-acting basal insulin analogue that is being developed by Novo Nordisk for the treatment of diabetes mellitus. Administered once weekly as a subcutaneous injection, insulin icodec is designed to improve treatment adherence and glycaemic control relative to once-daily insulin analogues. On 7 March 2024, insulin icodec was approved in Switzerland for the treatment of diabetes mellitus in adults. Insulin icodec was approved in Canada on 12 March 2024 for the once-weekly treatment of adults with diabetes mellitus to improve glycaemic control and received EU approval in May 2024 for the treatment of diabetes mellitus in adults. This article summarizes the milestones in the development of insulin icodec leading to this first approval for diabetes mellitus.

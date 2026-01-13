@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Stem cell research
+TITLE: 100 plus years of stem cell research-20 years of ISSCR.
+PMID: 35705014
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35705014/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The International Society for Stem Cell Research (ISSCR) celebrates its 20<sup>th</sup> anniversary in 2022. This review looks back at some of the key developments in stem cell research as well as the evolution of the ISSCR as part of that field. Important discoveries from stem cell research are described, and how the improved understanding of basic stem cell biology translates into new clinical therapies and insights into disease mechanisms is discussed. Finally, the birth and growth of ISSCR into a leading stem cell society and a respected voice for ethics, advocacy, education and policy in stem cell research are described.

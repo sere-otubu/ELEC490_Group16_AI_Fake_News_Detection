@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Maternal mortality rates
+TITLE: How Implicit Bias Contributes to Racial Disparities in Maternal Morbidity and Mortality in the United States.
+PMID: 33237843
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33237843/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Over the past two decades, maternal mortality rates have declined around the world. In the United States, however, 700 women die each year as a result of pregnancy or delivery complications. This represents a 50% increase in the U.S. maternal mortality rate over the same time period. According to the Centers for Disease Control and Prevention (CDC), the pregnancy-related mortality ratios vary significantly by race, with White women experiencing 13.0 deaths per 100,000 births, compared with 42.8 deaths per 100,000 births for Black women, from 2011 to 2015. Multiple studies suggest that implicit bias-defined as the attitudes or stereotypes that affect our understanding, actions, and decisions in an unconscious manner-is most likely a contributing factor to this alarming racial health disparity. The failure to recognize the pain of African American patients, regardless of whether it is conscious or unconscious, has the potential to affect the way obstetrician/gynecologists counsel patients about treatment options when it comes to chronic conditions, contraception, vaginal birth after cesarean delivery, and the management of fibroids. In this article, we will review implicit bias and the impact it can have on health care and health disparities.

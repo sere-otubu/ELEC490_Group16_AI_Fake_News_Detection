@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Weight loss strategies
+TITLE: Dietary Strategies for Weight Loss Maintenance.
+PMID: 31443231
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31443231/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Weight regain after a successful weight loss intervention is very common. Most studies show that, on average, the weight loss attained during a weight loss intervention period is not or is not fully maintained during follow-up. We review what is currently known about dietary strategies for weight loss maintenance, focusing on nutrient composition by means of a systematic review and meta-analysis of studies and discuss other potential strategies that have not been studied so far. Twenty-one studies with 2875 participants who were overweight or obese are included in this systematic review and meta-analysis. Studies investigate increased protein intake (12 studies), lower dietary glycemic index (four studies), green tea (three studies), conjugated linoleic acid (three studies), higher fibre intake (three studies), and other miscellaneous interventions (six studies). The meta-analysis shows a significant beneficial effect of higher protein intake on the prevention of weight regain (SMD (standardized mean difference) -0.17 (95% CI -0.29, -0.05), <i>z</i> = 2.80, <i>p</i> = 0.005), without evidence for heterogeneity among the included studies. No significant effect of the other strategies is detected. Diets that combine higher protein intake with different other potentially beneficial strategies, such as anti-inflammatory or anti-insulinemic diets, may have more robust effects, but these have not been tested in randomized clinical trials yet.

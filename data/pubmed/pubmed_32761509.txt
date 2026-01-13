@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tinnitus
+TITLE: Pharmacotherapy of Tinnitus.
+PMID: 32761509
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32761509/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Tinnitus is a common symptom for which there is in most cases no causal therapy. The search for an improvement of tinnitus through pharmacological interventions has a long tradition. The observation that tinnitus can be transiently suppressed by the use of lidocaine has shown that the symptom is susceptible to pharmacotherapy. So far, however, no medication has been found for either acute or chronic subjective tinnitus that reliably leads to a long-term reduction or even complete disappearance of the symptom for the majority of tinnitus sufferers. Nevertheless, in everyday clinical life, drugs are frequently used, usually off-label, to relieve tinnitus or tinnitus-associated symptoms (e.g. sleep disturbance, depression, anxiety disorder or hearing loss). This chapter shows the different approaches to acute and chronic subjective tinnitus by means of pharmacotherapeutic interventions. Furthermore, this review reports on the scientific studies carried out in this area in recent years and explains the difficulties in finding a suitable medication for most forms of tinnitus. In addition, it reports on the pharmacotherapeutic options for objective tinnitus and describes the development of tinnitus as a side effect of certain drugs. Finally, possible target structures are mentioned, which should possibly be addressed in pharmacological studies in the near future.

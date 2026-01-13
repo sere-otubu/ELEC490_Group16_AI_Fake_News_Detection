@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Bulimia nervosa
+TITLE: Update on Treatments for Adolescent Bulimia Nervosa.
+PMID: 31443872
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31443872/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There are few systematic studies of treatment of bulimia nervosa (BN) in adolescents. Although family-based treatment has demonstrated preliminary evidence to support involvement of caregivers in treatment, there is significant opportunity for improvement in mitigating binge-eating and purging symptoms among adolescents afflicted with BN. When caregivers are unable to participate in treatment, there is evidence that BN-specific cognitive behavioral therapy approaches are helpful for some adolescents. Further research is needed to determine for whom, and under what conditions certain types of family involvement might be most effective in adolescent treatment of BN.

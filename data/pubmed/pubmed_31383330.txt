@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Digestion process
+TITLE: The iso-osmo-resistivity theory of digestion.
+PMID: 31383330
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31383330/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This novel, iso-osmo-resistive theory offers electro-resistivity of food components as a new dimension for digestion. Firstly, fats, carbohydrates and proteins differ markedly in their resistivity, which offers a way to monitor them, especially when digestive enzymes cause consistent and distinctive changes. Secondly the state of iso-resistivity is in theory most likely to pass through the membranes of absorbing cells and be compatible with plasma in portal blood vessels. Hence, the theory proposes that the aim of the digestive process in the upper gut is to present digesta to absorption sites in a state at, or close to, iso-osmo-resistivity. It requires a method of monitoring resistivity which could be achieved by neuronal endings based in the upper gut mucosa. They could be simple nerve endings or, probably less likely, part of the structure of duodenal Brunner's Glands. They would monitor the overall effect of the various digestive processes initiated by the G-protein-coupled receptors (GPCRs). The combination of sensitive electroreceptor and osmoreceptor output would provide a system that would accurately monitor the overall progress of digestion to conserve enzyme production.

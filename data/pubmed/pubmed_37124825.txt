@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Kidney stones
+TITLE: Association between alcohol consumption and kidney stones in American adults: 2007-2016 NHANES.
+PMID: 37124825
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37124825/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To investigate the association between alcohol consumption and kidney stones in American adults. National Health and Nutrition Examination Survey (NHANES) datasets from 2007 to 2016 were utilized. Participants with a history of kidney stones and alcohol consumption aged 20 or older were included. Weighted proportions and regression analysis were used to assess the association between alcohol consumption and kidney stones by adjusting age, gender, race, marital status, education, recreational activities, smoking, and several comorbidities. Eleven population samples (Q1-Q11) were included from the NHANES dataset based on 11 questions compiled from the Alcohol Use Questionnaire (ALQ). In the fully adjusted regression model, none of these 11 samples demonstrated a significant association with urolithiasis, that is, alcohol consumption was not significantly associated with the incidence of kidney stones, even among heavy drinkers. Alcohol consumption is not significantly associated with the prevalence of kidney stones. This finding requires a more adequate sample size and a more detailed review of the history of kidney stones to be further verified.

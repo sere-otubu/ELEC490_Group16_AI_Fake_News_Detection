@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anemia
+TITLE: [Anemia in the newborn infant].
+PMID: 2683002
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2683002/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Neonatal anaemias are frequent. Their mechanism is the same before and after birth, consisting of haemorrhage, haemolysis or abnormal red cell production. These anaemias are serious and may be life-threatening or disabling due to hypovolaemia and tissue hypoxaemia in the foetus or newborn, and to the risk of a possible hyperbilirubinaemia after birth. Blood transfusion in neonates must comply with very strict rules owing to the immunological characteristics of that period of life.

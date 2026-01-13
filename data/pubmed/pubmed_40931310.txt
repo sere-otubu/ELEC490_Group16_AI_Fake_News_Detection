@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Genetic disorders
+TITLE: Organoids in Genetic Disorders: from Disease Modeling to Translational Applications.
+PMID: 40931310
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40931310/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The emergence of organoid models has significantly bridged the gap between traditional cell cultures/animal models and authentic human disease states, particularly for genetic disorders, where their inherent genetic fidelity enables more biologically relevant research directions and enhances translational validity. This review systematically analyzes established organoid models of genetic diseases across organs (e.g., brain, eye, kidney, lung, and heart), highlighting their pivotal roles in identifying novel pathogenic genes, elucidating disease mechanisms, and advancing therapeutic strategies such as drug screening platforms, gene-editing therapies, and organ transplantation strategies. Furthermore, we critically address current limitations-including challenges in recapitulating complex pathologies and scaling production-while underscoring their potential for personalized medicine through multi-omics integration and bioengineering innovations. Although the scope of "genetic diseases" is broad, this synthesis focuses on disorders with well-defined inheritance patterns, such as monogenic disorders, copy number variations (CNVs), and aneuploidies. Despite covering only a subset of these conditions, this review aims to provide researchers with a comprehensive overview of the field, emphasizing how organoid-based approaches could accelerate both mechanistic discoveries and clinical translation in genetic disease research.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tinnitus
+TITLE: Somatic Tinnitus.
+PMID: 29336129
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29336129/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Modulation of tinnitus characteristics such as pitch and loudness has been extensively described following movements of the head, neck and limbs, vertical or horizontal eye gaze, pressure on myofascial trigger points, cutaneous stimulation of the hands, electrical stimulation of the median nerve, and transcranial direct current stimulation. Modulation of tinnitus follows complex interactions between auditory and somatosensory afferents and can be favored by underlying somatic disorders. When tinnitus appears to be preceded or strictly linked to a somatic disorder, and therefore related to problems of the musculoskeletal system rather than of the ear, it is defined somatic tinnitus. A correct diagnosis and treatment of somatic disorders underlying tinnitus play a central role for a correct management of somatic tinnitus. However, the identification of somatic tinnitus may be complex in some cases. In this paper, after a general review of the current evidences for somatic tinnitus available in the literature, we present and discuss some cases of patients in which somatic modulation of tinnitus played a role-although different from case to case-in their tinnitus, describing the diagnostic and therapeutic approaches followed in each individual case and the results obtained, also highlighting unexpected findings and pitfalls that may be encountered when approaching somatic tinnitus patients.

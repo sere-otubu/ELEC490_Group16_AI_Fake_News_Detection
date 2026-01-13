@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gestational Diabetes
+TITLE: Gestational Diabetes: Overview with Emphasis on Medical Management.
+PMID: 33371325
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33371325/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+With the rising trend in obesity, the incidence of gestational diabetes mellitus (GDM) and perinatal complications associated with the condition are also on the rise. Since the early 1900s, much knowledge has been gained about the diagnosis, implications, and management of gestational diabetes with improved outcomes for the mother and fetus. Worldwide, there is variation in the definition of GDM, methods to screen for the condition, and management options. The International Association of Diabetes in Pregnancy Study Groups has published recommendations for a one-step approach to screen pregnant women for GDM, in order to develop outcome-based criteria that can be used internationally. However, management of GDM continues to be varied, and currently several options are available for treatment of hyperglycemia during pregnancy. A review of various aspects of GDM is discussed with a focus on the medical management during pregnancy, as practiced in the United States.

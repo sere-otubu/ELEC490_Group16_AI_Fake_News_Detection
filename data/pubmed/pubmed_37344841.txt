@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Metformin
+TITLE: Metformin and cancer hallmarks: shedding new lights on therapeutic repurposing.
+PMID: 37344841
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37344841/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Metformin is a well-known anti-diabetic drug that has been repurposed for several emerging applications, including as an anti-cancer agent. It boasts the distinct advantages of an excellent safety and tolerability profile and high cost-effectiveness at less than one US dollar per daily dose. Epidemiological evidence reveals that metformin reduces the risk of cancer and decreases cancer-related mortality in patients with diabetes; however, the exact mechanisms are not well understood. Energy metabolism may be central to the mechanism of action. Based on altering whole-body energy metabolism or cellular state, metformin's modes of action can be divided into two broad, non-mutually exclusive categories: "direct effects", which induce a direct effect on cancer cells, independent of blood glucose and insulin levels, and "indirect effects" that arise from systemic metabolic changes depending on blood glucose and insulin levels. In this review, we summarize an updated account of the current knowledge on metformin antitumor action, elaborate on the underlying mechanisms in terms of the hallmarks of cancer, and propose potential applications for repurposing metformin for cancer therapeutics.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chromosomes
+TITLE: B-chromosome evolution.
+PMID: 10724453
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10724453/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+B chromosomes are extra chromosomes to the standard complement that occur in many organisms. They can originate in a number of ways including derivation from autosomes and sex chromosomes in intra- and interspecies crosses. Their subsequent molecular evolution resembles that of univalent sex chromosomes, which involves gene silencing, heterochromatinization and the accumulation of repetitive DNA and transposons. B-chromosome frequencies in populations result from a balance between their transmission rates and their effects on host fitness. Their long-term evolution is considered to be the outcome of selection on the host genome to eliminate B chromosomes or suppress their effects and on the B chromosome's ability to escape through the generation of new variants. Because B chromosomes interact with the standard chromosomes, they can play an important role in genome evolution and may be useful for studying molecular evolutionary processes.

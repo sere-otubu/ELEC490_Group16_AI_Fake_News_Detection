@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Appendectomy
+TITLE: Laparoscopic appendectomy.
+PMID: 10150024
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10150024/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Since early 1987, 62 laparoscopic appendectomies have been performed without any major operative or postoperative complications. Just over half of these patients required hospitalization overnight for observation. The rest went home with activity and dietary restriction for 48 to 72 hours. Indications for the appendectomies included abdominal or pelvic pain or both, with the appendix demonstrating endometriosis, adhesions causing entrapment, or histories compatible with chronic appendicitis. Opportunities for second-look laparoscopies after laparoscopic appendectomy have been accomplished with two patients showing an encouraging lack of adhesion formation in both.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Syphilis
+TITLE: [Syphilis].
+PMID: 27745937
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27745937/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Syphilis is back since the beginning of this century. The epidemic affects mainly men having sex with men with a high proportion of HIV-infected patients. The classification of syphilis distinguishes early syphilis where patients are contagious (primary, secondary and early latent of less than one year) and late syphilis where patients are not (or less) contagious (late latent of more than one year and tertiary). The clinical presentation of syphilis has not changed. However, we must insist on the early forms of neurosyphilis, notably ophthalmic syphilis often under-diagnosed, as it affects the treatment. Serologic tests may be improved but are very helpful for the positive diagnosis and the follow-up after treatment. Treatment of early syphilis is based on one injection of benzathine benzyl penicillin G. Patients who have had syphilis must be regularly followed-up after treatment, as re-infections are common and are often asymptomatic.

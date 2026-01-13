@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hospital infection control
+TITLE: The organization of hospital infection control committees and their importance in Brazil.
+PMID: 11980590
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11980590/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The importance of Hospital Infection Control Committees (HICC) increases every year due to the emergence of multiresistant bacterial strains, hospital outbreaks, and other factors that cause HI. This demonstrates the fragility of the quality of hospital and medical care. Having a well-organized HICC benefits hospitals by improving quality, lowering costs and, most important, reducing patient morbidity and mortality. This review records the history of the development of HICCs, their present organizational structure, and offers recommendations for hte best methods of infection surveillance.

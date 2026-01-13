@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Platelets
+TITLE: [Platelets: biochemistry and physiology].
+PMID: 19132160
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19132160/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article reviews the roles of blood platelets in haemostasis as well as in the pathogenesis of thromboembolic diseases. Besides the basic processes in primary haemostasis, platelet adhesion, platelet secretion, platelet aggregation, clot retraction, the new model of thrombin formation on the platelet surface is presented. The different signal transduction pathways in platelets are a main focus of this review.

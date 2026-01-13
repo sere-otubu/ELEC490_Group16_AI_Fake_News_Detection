@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rural healthcare
+TITLE: Debriefing after critical incidents in rural and remote healthcare settings - a remote clinician perspective.
+PMID: 36945148
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36945148/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Debriefing following a critical incident allows teams to reflect on the experience and to work together to improve future performance. Hot, warm and cold debriefs occur at various stages following the incident - each with its own structure and objectives. Effective debriefing requires training and practice, with a variety of tools available for this purpose. Healthcare professionals working in rural and remote areas face a variety of unique barriers, not encountered by colleagues in urban settings, that may make debriefing challenging. A hypothetical case example illustrates the complexities of a critical incident in a remote service. Evidence-based strategies are outlined to support team members in rural and remote areas to debrief effectively, including the use of technology, formal teaching in university curriculums and regular practice by simulation.

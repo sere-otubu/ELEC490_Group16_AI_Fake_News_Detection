@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Zika virus
+TITLE: Zika virus: what we need to know?
+PMID: 29131357
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29131357/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Zika virus is one of the emerging viruses and is of significant threat to human health globally. It is a mosquito borne flavivirus similar to dengue, yellow fever, and West Nile viruses. It was reported about 5 decades ago and then it spreads to different parts of the world. Large outbreaks were reported on Yap Islands in 2007. Now it has gained wide attention globally by health communities. Major vector for virus transmission is Aedes aegypti mosquito. ZIKV infection is mostly asymptomatic but it is also responsible to cause mild influenza like illness to serious manifestations. There is no specific anti-viral treatment is available for ZIKV infection. The virus disseminates very fast due to which it possesses a serious threat especially in those areas where there is lack of specific immunity against virus. Little knowledge is available on its transmission and pathogenicity. Although virus was discovered years ago but its genomic structure is not clearly understood yet. In this review we focus on the current knowledge of epidemiology of ZIKV, its transmission, its structural biology, different aspects of diagnosis and diagnostic challenges as well as highlighted appropriates antiviral drugs and vaccines regarding treatment.

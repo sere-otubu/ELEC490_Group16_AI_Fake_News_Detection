@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urinary tract infection
+TITLE: Catheter-associated urinary tract infection.
+PMID: 34362659
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34362659/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This guideline contains updated recommendations on the management and prevention of CAUTIs by the Urological Association of Asia and the Asian Association of Urinary Tract Infection and Sexually Transmitted Infection.

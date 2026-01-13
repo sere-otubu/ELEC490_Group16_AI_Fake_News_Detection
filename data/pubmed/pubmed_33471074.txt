@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gene expression
+TITLE: Adversarial generation of gene expression data.
+PMID: 33471074
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33471074/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+High-throughput gene expression can be used to address a wide range of fundamental biological problems, but datasets of an appropriate size are often unavailable. Moreover, existing transcriptomics simulators have been criticized because they fail to emulate key properties of gene expression data. In this article, we develop a method based on a conditional generative adversarial network to generate realistic transcriptomics data for Escherichia coli and humans. We assess the performance of our approach across several tissues and cancer-types. We show that our model preserves several gene expression properties significantly better than widely used simulators, such as SynTReN or GeneNetWeaver. The synthetic data preserve tissue- and cancer-specific properties of transcriptomics data. Moreover, it exhibits real gene clusters and ontologies both at local and global scales, suggesting that the model learns to approximate the gene expression manifold in a biologically meaningful way. Code is available at: https://github.com/rvinas/adversarial-gene-expression. Supplementary data are available at Bioinformatics online.

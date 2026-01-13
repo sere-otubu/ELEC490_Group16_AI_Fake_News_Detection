@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Appendicitis
+TITLE: Neutrophil-to-lymphocyte ratio predicts acute appendicitis and distinguishes between complicated and uncomplicated appendicitis: A systematic review and meta-analysis.
+PMID: 31056211
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31056211/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+to investigate whether Neutrophil-to-lymphocyte ratio (NLR) can predict acute appendicitis and whether it can distinguish between uncomplicated and complicated appendicitis. A search of electronic information sources was conducted to identify all studies reporting NLR in patients with clinical suspicion or confirmed diagnosis of acute appendicitis. We considered two comparisons:1) appendicitis versus no appendicitis; 2) uncomplicated appendicitis versus complicated appendicitis. ROC curve analysis was performed to determine cut-off values of NLR for appendicitis and complicated appendicitis. Seventeen studies, enrolling 8,914 patients were included. NLR of 4.7 was cut-off value for appendicitis with sensitivity of 88.89% and specificity of 90.91% with AUC of 0.96. NLR of 8.8 was cut-off value for complicated appendicitis with sensitivity of 76.92% and specificity 100% with AUC of 0.91. NLR >4.7 was predictor of acute appendicitis (OR:128,P < 0.0001) and, NLR >8.8 was predictor of complicated appendicitis (OR:43,P < 0.0001). NLR predicts both diagnosis and severity of appendicitis. This may have implications for prioritising cases for surgery, for monitoring conservatively treated patients and for patients who do not routinely undergo CT scan (pregnant or paediatric patients).

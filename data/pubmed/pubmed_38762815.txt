@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Kidney stones
+TITLE: Oxalate Metabolism: From Kidney Stones to Cardiovascular Disease.
+PMID: 38762815
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38762815/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Oxalate kidney stones are common and exert a huge burden of morbidity worldwide. However, circulating or excreted concentrations of oxalate are rarely measured. We argue that oxalate and its metabolism are important above and beyond kidney stone formation. There is emerging evidence that increased concentrations of oxalate could be a driver of chronic kidney disease progression. Furthermore, oxalate has been implicated in cardiovascular disease. Thus, the reduction of elevated plasma oxalate concentrations may represent a novel cardioprotective and nephroprotective strategy.

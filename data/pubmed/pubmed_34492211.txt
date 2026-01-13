@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mammography
+TITLE: Current Status of Contrast Enhanced Mammography: A Comprehensive Review.
+PMID: 34492211
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34492211/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The purpose of this article is to provide a detailed and updated review of the physics, techniques, indications, limitations, reporting, implementation and management of contrast enhanced mammography. Contrast enhanced mammography (CEM), is an emerging iodine-based modified dual energy mammography technique. In addition to having the same advantages as standard full-field digital mammography (FFDM), CEM provides information regarding tumor enhancement, relying on tumor angiogenesis, similar to dynamic contrast enhanced magnetic resonance imaging (DCE-MRI). This article reviews current literature on CEM and highlights considerations that are critical to the successful use of this modality. Multiple studies point to the advantage of using CEM in the diagnostic setting of breast imaging, which approaches that of DCE-MRI.

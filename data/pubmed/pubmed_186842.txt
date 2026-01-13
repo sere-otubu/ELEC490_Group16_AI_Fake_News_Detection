@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ultrasound
+TITLE: Ultrasound mammography.
+PMID: 186842
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/186842/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ultrasound mammography was performed with unique, high resolution equipment which displays changes in acoustic properties of tissues through a calibrated gray scale. Color-coded isodensitometry was used to assist in the differential diagnosis. The rate of agreement between the ultrasound and pathological diagnoses was 86.7%. The false negative and false positive rates were 7.6% and 18.5%, respectively. Three problems must be solved before ultrasound mammography can be used as a screening device: First, additional clinical data must be accumulated. Second, the number of ultrasonograms needed for diagnosis must be reduced. Third, special equipment designed for ultrasound mammography must be developed.

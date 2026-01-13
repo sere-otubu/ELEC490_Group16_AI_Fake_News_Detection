@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Appendicitis
+TITLE: A practical score for the early diagnosis of acute appendicitis.
+PMID: 3963537
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3963537/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+We conducted a retrospective study of 305 patients hospitalized with abdominal pain suggestive of acute appendicitis. Signs, symptoms, and laboratory findings were analyzed for specificity, sensitivity, predictive value, and joint probability. The total joint probability, the sum of a true-positive and a true-negative result, was chosen as a diagnostic weight indicative of the accuracy of the test. Eight predictive factors were found to be useful in making the diagnosis of acute appendicitis. Their importance, according to their diagnostic weight, was determined as follows: localized tenderness in the right lower quadrant, leukocytosis, migration of pain, shift to the left, temperature elevation, nausea-vomiting, anorexia-acetone, and direct rebound pain. Based on this weight, we devised a practical diagnostic score that may help in interpreting the confusing picture of acute appendicitis.

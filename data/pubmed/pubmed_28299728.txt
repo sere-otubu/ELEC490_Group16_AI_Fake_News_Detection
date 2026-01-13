@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Electrolytes
+TITLE: Synergistic Effect of Blended Components in Nonaqueous Electrolytes for Lithium Ion Batteries.
+PMID: 28299728
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28299728/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Application of different electrolyte components as blends in nonaqueous electrolyte formulations represents a viable approach towards improving the overall performance and reliability of a lithium ion battery cell. By combining the advantages of different electrolyte constituents, cell chemistry can be optimized and tailored for a specific purpose. In this paper, the current progress on possibilities, advantages, as well as limitations of blended nonaqueous electrolyte formulations, including solvent, salt and additive blends is reviewed and discussed. Emphasis is set on the physicochemical, electrochemical, and safety aspects. In addition, the aim of this review is to provide perspective and possible strategy for further and future development of blended nonaqueous electrolytes with long life, high energy density, high power, and adequate safety at competitive manufacturing costs. The provided overview and perspective on blended nonaqueous electrolyte formulations should encourage researchers to proceed with further and deeper investigations in this promising field of advanced batteries.

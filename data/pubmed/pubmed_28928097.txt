@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Teeth whitening
+TITLE: Tooth colour and whiteness: A review.
+PMID: 28928097
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28928097/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To review current knowledge concerning the application of colour science on tooth colour and whiteness description, measurement, distribution and its psychological impact. "Scopus" databases were searched electronically with the principal keywords tooth, teeth, colour, white, whiteness. Language was restricted to English and original studies and reviews were included. Conference papers and abstracts were excluded. The appearance and colour of teeth are a common concern for patients across many populations and are associated with an increased desire for treatments that improve dental aesthetics, including tooth whitening. The application of colour science in dentistry has allowed the precise description of tooth colour and whiteness. Coupled with the advances in instrumental tooth colour measurement, such as spectrophotometers, colorimeters, spectroradiometers and digital imaging systems, these parameters are quantifiable in a reproducible and robust manner. These principles have been applied to the tooth colour distribution in many study populations, indicating, in general, differences in tooth colour for subject age and gender, but not for ethnicity. Psychophysical studies on tooth colour and whiteness via third party assessment of images indicate that whitened teeth lead to judgements that are more positive on personality traits such as social competence and appeal, intellectual ability and relationship satisfaction.

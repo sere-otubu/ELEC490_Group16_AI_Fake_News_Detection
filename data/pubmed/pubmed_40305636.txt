@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Measles
+TITLE: Measles: An Ongoing Threat.
+PMID: 40305636
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40305636/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Measles is an acute, serious, highly contagious viral infection. Despite the existence of an effective and safe vaccine for more than half a century, measles outbreaks continue in the United States and cases are increasing worldwide. Further, there is a decreasing trend in national measles, mumps, and rubella vaccination coverage among kindergarteners. This article is intended to provide practitioners caring for children with an overview of the history of measles, its current national and international epidemiology, clinical picture, and important complications, as well as methods for prevention. Readers are directed to in-depth reviews for specific detailed recommendations regarding vaccines and biologics mentioned herein. <b>[<i>Pediatr Ann</i>. 2025;54(5):e167-e173.]</b>.

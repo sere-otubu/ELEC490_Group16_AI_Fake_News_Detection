@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Laxatives
+TITLE: Chronic Constipation.
+PMID: 27261894
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27261894/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Chronic constipation is a common disorder that affects approximately 20% of the population and significantly impacts an individual's quality of life. The diagnosis can be made using standard criteria, and in the absence of alarm signs or symptoms, a determination of the underlying etiology/etiologies should be undertaken. In many instances, these will be gleaned from the history and physical examination. Specialized diagnostic testing may be warranted after the failure of initial laxative trials. Many therapeutic classes of laxatives exist with recent analyses indicating that practicing physicians prefer to use over-the-counter therapies in lieu of more strongly evidence-based prescription pharmaceuticals.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Neurotransmitters
+TITLE: Neurotransmitters: emerging targets in cancer.
+PMID: 31527667
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31527667/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Neurotransmitters are conventionally viewed as nerve-secreted substances that mediate the stimulatory or inhibitory neuronal functions through binding to their respective receptors. In the past decades, many novel discoveries come to light elucidating the regulatory roles of neurotransmitters in the physiological and pathological functions of tissues and organs. Notably, emerging data suggest that cancer cells take advantage of the neurotransmitters-initiated signaling pathway to activate uncontrolled proliferation and dissemination. In addition, neurotransmitters can affect immune cells and endothelial cells in the tumor microenvironment to promote tumor progression. Therefore, a better understanding of the mechanisms underlying neurotransmitter function in tumorigenesis, angiogenesis, and inflammation is expected to enable the development of the next generation of antitumor therapies. Here, we summarize the recent important studies on the different neurotransmitters, their respective receptors, target cells, as well as pro/antitumor activity of specific neurotransmitter/receptor axis in cancers and provide perspectives and insights regarding the rationales and strategies of targeting neurotransmitter system to cancer treatment.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tinnitus
+TITLE: [Tinnitus].
+PMID: 14997995
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/14997995/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Tinnitus is an auditory perception without adequate external acoustic sources. The incidence of tinnitus in the general population is high, and can lead to total decompensation in some of the affected patients. Tinnitus is a symptom of an unspecific lesion of the ear or the central auditory system. In many cases, the cause of tinnitus can be inferred from the medical history and from the results of specific medical examines. Nevertheless, in many cases there is still no causal therapy available. As a result, for most patients approaches such as proper counselling, the fitting of hearing aids or tinnitus retraining therapy are adopted.

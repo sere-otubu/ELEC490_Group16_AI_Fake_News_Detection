@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Health equity
+TITLE: Health equity and health system strengthening - Time for a WHO re-think.
+PMID: 33427084
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33427084/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The pursuit of health equity is foundational to the global health enterprise. But while moral concerns over health inequities can galvanise political commitment, how such concerns can or should translate into practice remains less clear. This paper reviews evolving ways that equity goals have featured in key World Health Organization (WHO)-related policy documents, before discussing the heuristic value and empirical traction that the concept of equity can bring to the health system strengthening (HSS) agenda. We argue that while health equity is often presented as the overarching goal of HSS, in practice this is typically circumscribed to the provision of healthcare services. Although health<i>care</i> equity is important, we suggest that this narrow focus risks losing sight of the structural political, social and economic drivers of health and health inequities, as well as the broader contexts of care and complex socio-political mechanisms through which health systems are strengthened. Drawing on new lines of empirical inquiry, we propose that broadening the equity lens for HSS -offers exciting opportunities to put health systems at the heart of a more ambitious equity agenda in global health.

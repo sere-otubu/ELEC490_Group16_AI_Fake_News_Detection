@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anticoagulants
+TITLE: Use of direct oral anticoagulants for treatment of atrial fibrillation in patients with HIV: a review.
+PMID: 28799998
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28799998/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Atrial fibrillation is increasingly common in the ageing population. Patients with atrial fibrillation and HIV have a higher stroke risk, with guidelines recommending anticoagulation in the majority. Whilst anticoagulation options have diversified in the last decade for the general population, there is limited evidence for the safety and efficacy of these medications when used concurrently with antiretroviral therapy. We review the potential for patients with HIV on antiretroviral therapy to have direct-acting oral anticoagulations (DOACs). Several case reports have been published in the past 5 years, as well as theoretical analyses of anticipated drug interactions, which provide a starting point to guide use of DOACs with antiretroviral medications. Caution is needed when prescribing DOACs in patients with atrial fibrillation and HIV due to potential drug interactions. Studies are lacking and current advice is based on case reports, expert opinion and knowledge of theoretical interactions.

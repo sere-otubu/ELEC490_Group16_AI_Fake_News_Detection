@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Spinal cord injury
+TITLE: Microenvironment Imbalance of Spinal Cord Injury.
+PMID: 29871522
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29871522/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Spinal cord injury (SCI), for which there currently is no cure, is a heavy burden on patient physiology and psychology. The microenvironment of the injured spinal cord is complicated. According to our previous work and the advancements in SCI research, 'microenvironment imbalance' is the main cause of the poor regeneration and recovery of SCI. Microenvironment imbalance is defined as an increase in inhibitory factors and decrease in promoting factors for tissues, cells and molecules at different times and spaces. There are imbalance of hemorrhage and ischemia, glial scar formation, demyelination and re-myelination at the tissue's level. The cellular level imbalance involves an imbalance in the differentiation of endogenous stem cells and the transformation phenotypes of microglia and macrophages. The molecular level includes an imbalance of neurotrophic factors and their pro-peptides, cytokines, and chemokines. The imbalanced microenvironment of the spinal cord impairs regeneration and functional recovery. This review will aid in the understanding of the pathological processes involved in and the development of comprehensive treatments for SCI.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Calorie counting
+TITLE: Image-based food monitoring and dietary management for patients living with diabetes: a scoping review of calorie counting applications.
+PMID: 40212724
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40212724/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Accurate dietary intake estimation is crucial for managing weight-related chronic diseases, such as diabetes, where precise measurement of food volume and caloric content is essential. Traditional calorie counting methods are often error-prone and may not meet the specific needs of individuals with diabetes. Recent advancements in computer science offer promising solutions through automated systems that estimate calorie intake from food images using deep learning techniques. These systems provide personalized dietary recommendations, helping individuals with diabetes make informed choices. As smartphones and wearable devices become more accessible, the utilization of electronic apps for dietary monitoring is increasing, highlighting the need for more research into safe, secure, and evidence-based IoT solutions. However, challenges such as standardization, validation across diverse populations, and data privacy concerns need to be addressed. This review focuses on the role of computer science in dietary intake estimation, specifically food segmentation, classification, and volume estimation for calorie calculation. By synthesizing existing literature, this review provides insights into current methods, key challenges, and potential future directions. The review also explores advancements in technology that can improve the accuracy of dietary assessments, contributing to personalized disease management and the prevention of weight-related chronic conditions.

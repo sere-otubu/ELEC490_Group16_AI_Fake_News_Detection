@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Beta blockers
+TITLE: [Beta-blockers in Septic Shock].
+PMID: 30458576
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30458576/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The therapy of patients suffering from sepsis and septic shock is one of the greatest challenges in critical care medicine. In the initial phase of septic shock patients often present with hyperdynamic circulatory conditions with elevated cardiac index, tachycardia and progressive hemodynamic instability. The type of tachycardia differs from atrial fibrillation or flatter to sinus tachycardia. The latter might be persistent even in case of adequate volume therapy according to the surviving sepsis campaign recommendations and may represent an independent pathology due to adrenergic overstimulation. Despite predominantly β<sub>2</sub>-mediated immunomodulatory effects the administration of a selective β<sub>1</sub>-adrenergic blocker may be beneficial in some cases. On the other hand, incautious administration of beta-blockers especially in case of insufficient volume replacement may result in direct negative inotropic effects rapidly aggravating hypotension and shock. This review focused on pharmacology of the β-adrenergic system, the pathophysiological rationale and current literature on clinical practice of the use of beta-blockers in sepsis and septic shock.

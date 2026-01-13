@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Social determinants of health
+TITLE: The Impact of the Social Determinants of Health on Disparities in Inflammatory Bowel Disease.
+PMID: 35307597
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35307597/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The incidence of inflammatory bowel disease (IBD) is rising in racial and ethnic minority groups in the United States, and socioeconomic, racial, and ethnic disparities in IBD are increasingly being identified. In addition, there has been great appreciation for the social determinants of health as contributors to these disparities, and that upstream social determinants of health propagate downstream poor health outcomes in IBD. We propose strategies to achieve health equity in IBD that target the medical trainee, provider, practice, community, industry, and policy levels.

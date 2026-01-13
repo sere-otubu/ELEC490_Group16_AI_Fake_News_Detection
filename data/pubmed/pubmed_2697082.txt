@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Leukemia
+TITLE: [Acute leukemias in humans. I. Definition, etiology, and pathogenesis of acute leukemias. Classification of acute myeloid leukemia].
+PMID: 2697082
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2697082/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The present knowledge of acute leukaemias is critically reviewed. Acute leukaemias are clonal malignant neoplastic diseases which do not originate from transformation of totipotent haematopoietic stem cells, but of progenitors committed to myeloid, T-lymphatic or B-lymphatic differentiation lines. The transforming event seems to be associated with a nonrandom aberrant DNA rearrangement. Although leukaemic population is clonal, originating from a single cell, it exhibits phenotypic, and sometimes even karyotype heterogeneity. In the proposed human acute leukaemias classification leukaemic cells are allocated to a particular differentiation cell line on the basis of a positive finding of the lineage specific differentiation marker. Criteria for common types of acute myeloid leukaemias are described and possible existence of several other types is discussed.

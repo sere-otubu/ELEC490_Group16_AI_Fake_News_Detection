@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hysterectomy
+TITLE: Laparoscopic hysterectomy.
+PMID: 9155939
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9155939/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The terminology of laparoscopically-assisted hysterectomies needs to be simplified and clarified. Laparoscopic hysterectomy should be used as a general term, whereas operative laparoscopy before hysterectomy, laparovaginal, laparoscopic total and subtotal hysterectomy should be used to describe the types of laparoscopic hysterectomy. The complication rates from laparoscopic hysterectomy, abdominal hysterectomy and vaginal hysterectomy are similar. The lower febrile morbidity after laparoscopic hysterectomy may be due to improved pelvic visualization compared to vaginal and abdominal hysterectomy. Controlled trials show that laparoscopic hysterectomy has advantages over abdominal hysterectomy which include reduced pain, reduced hospitalization time and earlier return to work. Most abdominal hysterectomies can be replaced by laparoscopic or vaginal hysterectomies. Whether this happens will depend upon adequate training facilities.

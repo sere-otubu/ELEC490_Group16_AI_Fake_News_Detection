@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Artificial sweeteners
+TITLE: Can Artificial Sweeteners Increase the Risk of Cancer Incidence and Mortality: Evidence from Prospective Studies.
+PMID: 36145117
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36145117/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cancer has become a major challenge in the global disease burden. Artificial sweeteners are a class of chemical compounds that are used as food and beverage addition agent to replace sugar. However, the health effects of consuming artificial sweeteners are still unclear. This meta-analysis was performed to evaluate the role of artificial sweeteners on cancer. The databases PubMed, Cochrane Library, MEDLINE, Web of Science and EMBASE were searched up until July 2022. A Newcastle−Ottawa scale (NOS) was used to estimate the study quality. A total of 25 observational studies were included with a total of 3,739,775 subjects. The intake of artificial sweeteners had no apparent association with overall cancer incidence and mortality. However, in Europe, artificial sweeteners’ intake could increase the risk of cancer incidence (HR/RR = 1.07, 95% CI = [1.02, 1.12], I2 = 25.8%, P = 0.223), which appears to be related to a shift in nutritional behaviors in the countries. Significant results were also observed in subgroups with aspartame and a mixed intake of artificial sweeteners. Moreover, higher risk was observed for artificial sweeteners intake in all-cause mortality (HR/RR =1.13, 95% CI = [1.03, 1.25], I2 = 79.7%, p < 0.001) and a J-shaped association between them was found. More data from well-conducted studies and clinical trials are required.

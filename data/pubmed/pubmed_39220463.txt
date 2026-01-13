@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pandemic preparedness
+TITLE: Pandemic preparedness: why humanities and social sciences matter.
+PMID: 39220463
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39220463/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Whilst many lessons were learned from the COVID-19 pandemic, ongoing reflection is needed to develop and maintain preparedness for future outbreaks. Within the field of infectious disease and public health there remain silos and hierarchies in interdisciplinary work, with the risk that humanities and social sciences remain on the epistemological peripheries. However, these disciplines offer insights, expertise and tools that contribute to understanding responses to disease and uptake of interventions for prevention and treatment. In this Perspective, using examples from our own cross-disciplinary research and engagement programme on vaccine hesitancy in South Africa and the United Kingdom (UK), we propose closer integration of expertise, research and methods from humanities and social sciences into pandemic preparedness.

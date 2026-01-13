@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Paleo diet
+TITLE: Does the Paleo diet affect an athlete's health and sport performance?
+PMID: 37867746
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37867746/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The aim of the study was to assess the impact of an eight-week Paleo diet on the health status (body composition, haematology and biochemistry of blood and urine) and the level of physical capacity (aerobic and anaerobic) of professional handball players. Fifteen athletes were assigned to two groups: 9 in the experimental group (PD) and 6 in the control group (CD). Significant decreases in body mass (BM), body mass index (BMI), and fat mass (FM) as well as an increase in the fat-free mass (FFM) (%) in both groups were observed. There were no significant differences between groups in particular series during the experiment in all haematological and biochemical indicators of blood and urine. Only HDL-C was significantly higher in the last series in the PD compared to the CD (1.63 mmol/l vs. 1.23 mmol/l). In the Wingate test, there were only single intragroup changes, consisting of a significant decrease in the Wt, MAP and Pmean in the experimental group. There were no significant differences between the groups in individual series or intragroup differences during the experiment, determined by the VO<sub>2</sub>max, VEmax, VE ∙ VCO<sub>2</sub> <sup>-1</sup>, RER, and the time of the test with a gradually increasing load on a treadmill, except for a significant decrease of maximum tidal volume (TVmax) in the PD. No adverse effect of the Paleo diet on the health status was found. The use of the Paleo diet slightly adversely affects anaerobic capacity and does not affect the level of aerobic capacity.

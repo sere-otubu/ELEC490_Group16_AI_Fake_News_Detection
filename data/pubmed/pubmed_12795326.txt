@@ -1,0 +1,8 @@
+SEARCH_TOPIC: COPD
+TITLE: COPD: problems in diagnosis and measurement.
+PMID: 12795326
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12795326/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Chronic obstructive pulmonary disease (COPD) is the most rapidly rising cause of death in individuals >65 yrs of age, the most rapidly growing segment of the USA population. Advancing the clinical research agenda for COPD entails careful consideration of several issues and problems: defining COPD, reliance on physiological testing, outcome measurements and comorbidities. In addition, issues pertaining to the recent dramatic increase in chronic obstructive pulmonary disease mortality in females, smoking susceptibility and the relationship of respiratory symptoms with hyperresponsiveness, as well as chronic obstructive pulmonary disease heterogeneity, are discussed.

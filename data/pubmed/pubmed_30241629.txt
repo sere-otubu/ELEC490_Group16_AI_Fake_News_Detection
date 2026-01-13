@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Burnout syndrome
+TITLE: [Burnout syndrome: definition, typology and management].
+PMID: 30241629
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30241629/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although burnout syndrome was first described clinically about sixty years ago, it hasn't yet found its place in the classification of mental disorders. The wide range of clinical signs and aetiopathogenic theories has certainly contributed to this situation. There are different clinical forms of burnout and various therapeutic strategies. Psychiatrists play a key role in the multidisciplinary diagnosis of burnout.

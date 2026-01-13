@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Evidence based medicine
+TITLE: What is evidence-based medicine and why should it be practiced?
+PMID: 11679142
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11679142/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Responding to the limitations of traditional expert recommendations as a guide to clinical practice, evidence-based medicine has presented a paradigm shift in the way clinicians learn and practice medicine. The practice of evidence-based medicine requires careful examination of the evidence, using a set of formal rules applied in an explicit manner. The clinician then judiciously applies the evidence to decision-making, with an understanding of the patient context and values. Using examples pertinent to respiratory therapists, we discuss evidence-based decision-making as a clinical problem-solving strategy, its basis on a hierarchy of evidence, and the interplay of values, preferences, expertise, and circumstances that affect its application. We briefly describe some resources available to obtain evidence reports and to learn to critically appraise and apply them.

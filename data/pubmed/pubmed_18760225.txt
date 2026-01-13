@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pregnancy nutrition
+TITLE: Nutrition during pregnancy.
+PMID: 18760225
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18760225/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Nutritional concerns in pregnancy are gaining increasing importance as problems with obesity, poor nutrition, and improper weight gain during pregnancy have been shown to result in morbidity for mother and infant during the pregnancy. More recent studies show that the impact of poor nutrition in pregnancy extends for decades to follow for the mother and the offspring. Clearly, prevention of problems is the best approach. This article discusses aspects of, and controversies concerning, prenatal weight gain and specific nutrients, and special patient groups who may benefit from intervention by a registered dietitian.

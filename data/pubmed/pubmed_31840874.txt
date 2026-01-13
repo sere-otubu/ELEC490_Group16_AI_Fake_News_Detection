@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Micronutrients
+TITLE: Micronutrients in Liver Disease: Roles, Risk Factors for Deficiency, and Recommendations for Supplementation.
+PMID: 31840874
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31840874/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Micronutrients are essential components of the diet and are required to maintain fundamental bodily functions. Liver disease has a profound effect on nutrient intake, metabolism of nutrients, and nutrition status, often resulting in some degree of malnutrition, including micronutrient deficiency. Vitamin and mineral deficiencies can impair metabolic processes at the cellular and biochemical level even before clinical and physical alterations are seen. It is essential that micronutrient status is evaluated as part of a comprehensive nutrition assessment for all patients with chronic or advanced liver disease. Early intervention to correct suspected or confirmed deficiencies may minimize symptoms and improve clinical outcomes and quality of life. In this narrative review, different types of liver disease and associated micronutrient abnormalities are outlined, and methods of micronutrient assessment and supplementation are discussed.

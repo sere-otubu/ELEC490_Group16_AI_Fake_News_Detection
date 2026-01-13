@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urinary tract infection
+TITLE: Urinary tract infection.
+PMID: 9608899
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9608899/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The approach to urinary tract infection remains a difficult and sometimes controversial issue. One area in particular is accurate diagnosis. In a recent article it was suggested utilizing the "enhanced" urinalysis, not as a replacement to culture but as a potential sensitive predictor to allow therapy to be given while awaiting culture results. Another difficult area is the issue of radiologic evaluation for underlying urologic abnormalities following a urinary tract infection. Previous discussion on this topic has pointed to early evaluation, even after the first urinary tract infection. There now seems to be some reconsideration of when to evaluate children following urinary tract infection. Some reviews, however point to a less aggressive approach. Another area of discussion is the evaluation of siblings of index cases with reflux. Here there is new data suggesting that evaluation of young siblings (under 6 years of age) may yield a relatively high incidence of reflux whereas evaluation of siblings over 6 years of age yields a small percentage of patients with reflux. The question of circumcision is another area of long-term interest in the study of urinary tract infections. Still more data published recently suggests that uncircumcised males have a higher incidence of urinary tract infection. However, this continues to be a point of controversy.

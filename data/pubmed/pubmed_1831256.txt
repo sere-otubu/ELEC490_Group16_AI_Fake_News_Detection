@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Acne vulgaris
+TITLE: Acne vulgaris. Pathogenesis and treatment.
+PMID: 1831256
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1831256/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Acne vulgaris is a multifactorial disease involving abnormalities in follicular keratinization, sebum production, proliferation of Propionibacterium acnes, and inflammation. Treatment is directed toward reversing these underlying pathogenic factors. Therapeutic options include topical comedolytics, topical and systemic antibiotics, hormonal manipulations, and oral retinoids.

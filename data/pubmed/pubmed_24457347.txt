@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Celiac disease
+TITLE: Advances in coeliac disease.
+PMID: 24457347
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24457347/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To summarize the recent advances in coeliac disease. Details of the polygenic nature of coeliac disease with the human leukocyte antigen (HLA) locus as the dominating genetic element have been uncovered. The existence of a large number of non-HLA coeliac disease genes, only partly shared by each individual patient, suggests the genetic heterogeneity of the disease. The critical role for HLA-DQ-restricted CD4 T cells recognizing antigenic gluten peptides is further substantiated. Involvement of CD8 T cells has received new attention. Other components of wheat than gluten, in particular the amylase trypsin inhibitors, may also play a role. The disease is becoming more prevalent. New guidelines state that coeliac disease diagnosis in children can be made on the basis of clinical signs, serology and genetics without the need of biopsy. The clinical entity 'noncoeliac gluten sensitivity' has received much attention, but diagnostic and pathophysiological definitions are still elusive. The risk for mortality and morbidity in coeliac disease is less than previously thought. Our understanding of the basic and clinical aspects of coeliac disease increases. Coeliac disease stands out as a major health problem of almost global occurrence. Case finding, distinguishing coeliac disease from other gluten-sensitive conditions, better care and balanced use of resources are the current challenges.

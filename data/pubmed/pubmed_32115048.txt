@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pain management
+TITLE: Pediatric Pain Management in Plastic Surgery.
+PMID: 32115048
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32115048/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Adequate pediatric pain management is difficult to achieve for a variety of reasons. Pain assessment is more difficult in the pediatric population. There are a variety of different tools that may be used to accurately assess pain. There are many modalities to achieve pain control, including pharmacologic and nonpharmacologic means. These different modalities should be used in unison to achieve pain control. Compartment syndrome is a surgical emergency, and pediatric patients present differently from adult patients. The 3 As (anxiety, agitation, increase in analgesia requirement) should be monitored in all pediatric patients.

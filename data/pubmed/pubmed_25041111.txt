@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Epipen
+TITLE: Comparison of adrenaline auto-injector devices: ease of use and ability to recall use.
+PMID: 25041111
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25041111/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A limited number of adrenaline auto-injectors are currently available. Epipen and Anapen are available in Australia, New Zealand, UK and parts of Europe and Asia. Few studies have compared the performance of these devices. To compare the intuitiveness of use of these devices. A secondary aim was to compare the ability to recall the use of each device after a period of 3 months. A random sample of 100 subjects naïve to both the EpiPen and Anapen were recruited from staff and families attending Royal Children's Hospital, Melbourne Australia. Subjects were randomized to Anapen (n = 53) or EpiPen (n = 47) and asked to demonstrate use of a 'trainer' device (i) prior to and (ii) after receiving training in its correct use. A subset (n = 32) participated in a follow-up study to evaluate (iii) the ability to recall correct use of each device. Most subjects correctly demonstrated all steps in use of the EpiPen and Anapen both prior to (89% vs. 79%, p = 0.17) and after training on use (100% vs. 100%). However, after 3 months, significantly more participants correctly demonstrated use of EpiPen (87%) compared to Anapen (35%) (p = 0.003) and critical errors that would likely result in failure to administer adrenaline were more common with Anapen (59% vs. 13%, p = 0.01). Most study participants correctly demonstrated the use of both devices without prior training. There was greater attrition in correct use of Anapen compared to EpiPen over time. Critical errors in administration were more likely with Anapen than EpiPen.

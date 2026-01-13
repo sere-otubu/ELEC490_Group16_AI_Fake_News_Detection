@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Statins
+TITLE: An updated review of pharmacokinetic drug interactions and pharmacogenetics of statins.
+PMID: 32729746
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32729746/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hydroxymethylglutaryl-coenzyme A reductase inhibitors (statins) lower cholesterol synthesis in patients with hypercholesterolemia. Increased statin exposure is an important risk factor for skeletal muscle toxicity. Potent inhibitors of cytochrome P450 (CYP) 3A4 significantly increase plasma concentrations of the active forms of simvastatin, lovastatin, and atorvastatin. Fluvastatin is metabolized by CYP2C9, whereas pravastatin, rosuvastatin, and pitavastatin are unaffected by inhibition by either CYP. Statins also have different affinities for membrane transporters involved in processes such as intestinal absorption, hepatic absorption, biliary excretion, and renal excretion. In this review, the pharmacokinetic aspects of drug-drug interactions with statins and genetic polymorphisms of CYPs and drug transporters involved in the pharmacokinetics of statins are discussed. Understanding the mechanisms underlying statin interactions can help minimize drug interactions and reduce the adverse side effects caused by statins. Since recent studies have shown the involvement of drug transporters such as OATP and BCRP as well as CYPs in statin pharmacokinetics, further clinical studies focusing on the drug transporters are necessary. The establishment of biomarkers based on novel mechanisms, such as the leakage of microRNAs into the peripheral blood associated with the muscle toxicity, is important for the early detection of statin side effects.

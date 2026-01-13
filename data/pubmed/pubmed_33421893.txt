@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Social anxiety
+TITLE: Cognitive predictors of adolescent social anxiety.
+PMID: 33421893
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33421893/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Identifying psychological processes that maintain social anxiety holds promise for improving treatment outcomes for young people. Experimental and prospective studies in adults suggest negative social cognitions, safety behaviours, self-focused attention, and pre- and post-event processing are all implicated in the maintenance of social anxiety. Despite social anxiety typically starting in adolescence, prospective studies examining these cognitive processes in youth are lacking. The current study examined prospective associations between these five cognitive processes and social anxiety in a sample of 614 participants (53% girls; aged 11-14 years). Psychological processes, social anxiety symptoms, and depressive symptoms were assessed using self-report questionnaires at two time points. Negative social cognitions, safety behaviours, self-focused attention, and post-event processing predicted prospective levels of social anxiety over and above the effect of baseline levels of social anxiety. When these process variables were entered together in a regression model, three of them were independently associated with prospective social anxiety. Neither pre- nor post-event processing independently predicted later social anxiety over and above the effects of other psychological process variables. The findings indicate that these psychological processes are promising targets for treatment in adolescent social anxiety.

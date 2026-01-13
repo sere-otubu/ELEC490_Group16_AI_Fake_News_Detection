@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Eating disorders
+TITLE: Cognitive behavioral therapy for eating disorders.
+PMID: 20599136
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20599136/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cognitive behavioral therapy (CBT) is the leading evidence-based treatment for bulimia nervosa. A new "enhanced" version of the treatment appears to be more potent and has the added advantage of being suitable for all eating disorders, including anorexia nervosa and eating disorder not otherwise specified. This article reviews the evidence supporting CBT in the treatment of eating disorders and provides an account of the "transdiagnostic" theory that underpins the enhanced form of the treatment. It ends with an outline of the treatment's main strategies and procedures.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hydration importance
+TITLE: High-pressure gas hydrates.
+PMID: 18259632
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18259632/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+It has long been known that crystalline hydrates are formed by many simple gases that do not interact strongly with water, and in most cases the gas molecules or atoms occupy 'cages' formed by a framework of water molecules. The majority of these gas hydrates adopt one of two cubic cage structures and are called clathrate hydrates. Notable exceptions are hydrogen and helium which form 'exotic' hydrates with structures based on ice structures, rather than clathrate hydrates, even at low pressures. Clathrate hydrates have been extensively studied because they occur widely in nature, have important industrial applications, and provide insight into water-guest hydrophobic interactions. Until recently, the expectation-based on calculations-had been that all clathrate hydrates were dissociated into ice and gas by the application of pressures of 1 GPa or so. However, over the past five years, studies have shown that this view is incorrect. Instead, all the systems so far studied undergo structural rearrangement to other, new types of hydrate structure that remain stable to much higher pressures than had been thought possible. In this paper we review work on gas hydrates at pressures above 0.5 GPa, identify common trends in transformations and structures, and note areas of uncertainty where further work is needed.

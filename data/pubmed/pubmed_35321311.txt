@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chlamydia
+TITLE: The Impact of Lateral Gene Transfer in <i>Chlamydia</i>.
+PMID: 35321311
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35321311/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lateral gene transfer (LGT) facilitates many processes in bacterial ecology and pathogenesis, especially regarding pathogen evolution and the spread of antibiotic resistance across species. The obligate intracellular chlamydiae, which cause a range of diseases in humans and animals, were historically thought to be highly deficient in this process. However, research over the past few decades has demonstrated that this was not the case. The first reports of homologous recombination in the <i>Chlamydiaceae</i> family were published in the early 1990s. Later, the advent of whole-genome sequencing uncovered clear evidence for LGT in the evolution of the <i>Chlamydiaceae</i>, although the acquisition of tetracycline resistance in <i>Chlamydia (C.) suis</i> is the only recent instance of interphylum LGT. In contrast, genome and <i>in vitro</i> studies have shown that intraspecies DNA exchange occurs frequently and can even cross species barriers between closely related chlamydiae, such as between <i>C. trachomatis</i>, <i>C. muridarum</i>, and <i>C. suis</i>. Additionally, whole-genome analysis led to the identification of various DNA repair and recombination systems in <i>C. trachomatis</i>, but the exact machinery of DNA uptake and homologous recombination in the chlamydiae has yet to be fully elucidated. Here, we reviewed the current state of knowledge concerning LGT in <i>Chlamydia</i> by focusing on the effect of homologous recombination on the chlamydial genome, the recombination machinery, and its potential as a genetic tool for <i>Chlamydia.</i>

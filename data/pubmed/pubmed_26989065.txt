@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antibiotics classes
+TITLE: Tetracycline Antibiotics and Resistance.
+PMID: 26989065
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26989065/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Tetracyclines possess many properties considered ideal for antibiotic drugs, including activity against Gram-positive and -negative pathogens, proven clinical safety, acceptable tolerability, and the availability of intravenous (IV) and oral formulations for most members of the class. As with all antibiotic classes, the antimicrobial activities of tetracyclines are subject to both class-specific and intrinsic antibiotic-resistance mechanisms. Since the discovery of the first tetracyclines more than 60 years ago, ongoing optimization of the core scaffold has produced tetracyclines in clinical use and development that are capable of thwarting many of these resistance mechanisms. New chemistry approaches have enabled the creation of synthetic derivatives with improved in vitro potency and in vivo efficacy, ensuring that the full potential of the class can be explored for use against current and emerging multidrug-resistant (MDR) pathogens, including carbapenem-resistant Enterobacteriaceae, MDR Acinetobacter species, and Pseudomonas aeruginosa.

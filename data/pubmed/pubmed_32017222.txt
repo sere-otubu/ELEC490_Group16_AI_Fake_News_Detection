@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antihistamines
+TITLE: Antihistamines: ABC for the pediatricians.
+PMID: 32017222
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32017222/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Antihistamines are currently one of the most commonly administered drugs in children. They are used to treat symptoms that depend on histamine release, namely allergic diseases, such as rhinitis, asthma, urticaria, and anaphylaxis. It is possible to distinguish first- and second-generation antihistamines. Pharmacological effects and therapeutic indications are similar, but second-generation antihistamines have fewer adverse effects because they are more selective for peripheral H1 receptors. Although they have been on the market for several years, there are still many adverse effects linked to the antihistamine safety profile, especially in the first years of life. Thus, many antihistamines are prescribed off-label, especially in children younger than 2 years of age, which is the age-group where most of the data on drug safety are lacking and many antihistamines are not recommended. This article aims to provide a practical update on the use of antihistamines in children.

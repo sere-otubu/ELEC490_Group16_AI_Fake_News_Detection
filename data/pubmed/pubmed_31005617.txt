@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Whey protein
+TITLE: Whey protein in cancer therapy: A narrative review.
+PMID: 31005617
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31005617/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cancer remains a public health challenge in the identification and development of ideal pharmacological therapies and dietary strategies. The use of whey protein as a dietary strategy is widespread in the field of oncology. The two types of whey protein, sweet or acid, result from several processing techniques and possess distinct protein subfraction compositions. Mechanistically, whey protein subfractions have specific anti-cancer effects. Alpha-lactalbumin, human α-lactalbumin made lethal to tumor cell, bovine α-lactalbumin made lethal to tumor cell, bovine serum albumin, and lactoferrin are whey protein subfractions with potential to hinder tumor pathways. Such effects, however, are principally supported by studies performed in vitro and/or in vivo. In clinical practice, whey protein intake-induced anti-cancer effects are indiscernible. However, whey protein supplementation represents a practical, feasible, and cost-effective approach to mitigate cancer cachexia syndrome. The usefulness of whey protein is evidenced by a greater leucine content and the potential to modulate IGF-1 concentrations, representing important factors towards musculoskeletal hypertrophy. Further clinical trials are warranted and needed to establish the effects of whey protein supplementation as an adjuvant to cancer therapy.

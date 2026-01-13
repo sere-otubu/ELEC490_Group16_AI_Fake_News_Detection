@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Muscular system
+TITLE: Electrical Stimulation of Muscle: Electrophysiology and Rehabilitation.
+PMID: 31799910
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31799910/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The generation of action potentials in intramuscular motor and sensory axons in response to an imposed external current source can evoke muscle contractions and elicit widespread responses throughout the nervous system that impact sensorimotor function. The benefits experienced by individuals exposed to several weeks of treatment with electrical stimulation of muscle suggest that the underlying adaptations involve several physiological systems, but little is known about the specific changes elicited by such interventions.

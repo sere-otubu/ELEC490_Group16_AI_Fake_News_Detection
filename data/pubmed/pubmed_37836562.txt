@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Type 2 Diabetes
+TITLE: Type 1 and Type 2 Diabetes Mellitus: Commonalities, Differences and the Importance of Exercise and Nutrition.
+PMID: 37836562
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37836562/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Diabetes mellitus represents a group of physiological dysfunctions characterized by hyperglycaemia resulting directly from insulin resistance (in the case of type 2 diabetes mellitus-T2DM), inadequate insulin secretion/production, or excessive glucagon secretion (in type 1 diabetes mellitus-T1DM) [...].

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Stem cell research
+TITLE: Advances in haploid embryonic stem cell research†.
+PMID: 35639627
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35639627/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Haploid embryonic stem cells are embryonic stem cells of a special type. Their nuclei contain one complete set of genetic material, and they are capable of self-renewal and differentiation. The emergence of haploid embryonic stem cells has aided research in functional genomics, genetic imprinting, parthenogenesis, genetic screening, and somatic cell nuclear transfer. This article reviews current issues in haploid stem cell research based on reports published in recent years and assesses the potential applications of these cells in somatic cell nuclear transfer, genome imprinting, and parthenogenesis.

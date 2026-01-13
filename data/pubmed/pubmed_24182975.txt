@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vasectomy
+TITLE: Vasectomy.
+PMID: 24182975
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24182975/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article is intended to familiarize the surgeon with all aspects of vasectomy including preoperative counseling, anesthetic techniques, surgical techniques, postoperative follow-up, and postvasectomy semen analysis. The latest literature regarding the complication rates and failure rates of various vas occlusion techniques is also discussed.

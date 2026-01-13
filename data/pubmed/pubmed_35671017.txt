@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Health equity
+TITLE: Health equity research in obstetric anesthesia.
+PMID: 35671017
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35671017/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Health equity is an important priority for obstetric anesthesia, but describing disparities in perinatal care process and health outcome is insufficient to achieve this goal. Conceptualizing and framing disparity is a prerequisite to pose meaningful research questions. We emphasize the need to hypothesize and test which mechanisms and drivers are instrumental for disparities in perinatal processes and outcomes, in order to target, test and refine effective countermeasures. With an emphasis on methodology and measurement, we sketch how health systems and disparity research may advance maternal health equity by narrating, conceptualizing, and investigating social determinants of health as key drivers of perinatal disparity, by identifying the granular mechanism of this disparity, by making the economic case to address them, and by testing specific interventions to advance obstetric health equity. Measuring social determinants of health and meaningful perinatal processes and outcomes precisely and accurately at the individual, family, community/neighborhood level is a prerequisite for healthcare disparity research. A focus on elucidating the precise mechanism driving disparity in processes of obstetric care would inform a more rational effort to promote health equity. Implementation scientists should rigorously investigate in prospective trials, which countermeasures are most efficient and effective in mitigating perinatal outcome disparities.

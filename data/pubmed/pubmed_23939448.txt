@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ulcerative colitis
+TITLE: Ulcerative colitis.
+PMID: 23939448
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23939448/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ulcerative colitis is a chronic inflammatory disease of the colon. The etiology is unknown. Risk factors include a history of recent infection with Salmonella or Campylobacter, living in Western industrialized nations and at higher latitudes, and a family history of the disease. The incidence peaks in early adulthood, but patients can develop the disorder from early childhood through adulthood. Ulcerative colitis often presents with abdominal pain, diarrhea, and hematochezia. It is important to exclude infectious etiologies. Anemia and an elevated erythrocyte sedimentation rate or C-reactive protein level may suggest inflammatory bowel disease, but the absence of laboratory abnormalities does not rule out ulcerative colitis. The diagnosis is suspected clinically and confirmed through endoscopic biopsy. First-line treatment is therapy with 5-aminosalicylic acid. Corticosteroids may be added if 5-aminosalicylic acid therapy is ineffective. Infliximab can be added to induce and sustain remission. Patients with severe or nonresponsive ulcerative colitis should be hospitalized, and intravenous corticosteroids should be given. If medical management has been ineffective, surgical intervention is indicated for severe disease. Patients with ulcerative colitis have an increased risk of colon cancer and should have periodic colonoscopy beginning eight to 10 years after diagnosis.

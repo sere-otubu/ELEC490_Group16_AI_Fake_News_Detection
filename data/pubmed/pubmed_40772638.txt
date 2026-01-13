@@ -1,0 +1,8 @@
+SEARCH_TOPIC: ALS
+TITLE: Genetics of ALS - genes and modifier.
+PMID: 40772638
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40772638/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Amyotrophic lateral sclerosis (ALS) is a complex genetic disorder, and the pace of discoveries is very rapid. This review aims at briefly summarizing our current knowledge, and at discussing the progress of the last two years. Common variation in numerous genes and variants in some nuclear-encoded mitochondrial genes were linked to an increased or modified risk of ALS, respectively. Mitochondrial function, i.e. specific mitochondrial haplotypes and loss-of-function variants in mitochondria-related genes, was identified as potent modifier of ALS survival, but not risk. Pioneering analyses of copy number variations in ALS-related genes revealed an increased load in ALS, but causality is unclear. A rare hyperactive variant of ER stress associated transcription factor CREB3 was linked to both substantially decreased ALS risk and slower disease progression. Furthermore, variants in IGFBP7 were linked to rare "ALS reversals", but existence of such phenotypes is controversial. Common variation increasing ALS risk contributes to our understanding of sporadic ALS, and novel structural variants have the potential to at least partly explain the missing heritability in ALS. Identification of mitochondrial function and ER stress signaling as potent disease modifiers provide valuable starting points for therapeutic approaches beyond targeting single causative genes.

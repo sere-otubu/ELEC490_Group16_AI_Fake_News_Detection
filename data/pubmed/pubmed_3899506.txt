@@ -1,0 +1,8 @@
+SEARCH_TOPIC: IUD
+TITLE: IUD insertion following induced abortion.
+PMID: 3899506
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3899506/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In a multicenter survey, women who received an IUD immediately after abortion were compared with abortion patients who started using oral contraception. Additionally, women receiving a Nova T were compared with women receiving a Multiload 250. Follow-up data were gathered after 6 weeks. Pain was a common phenomenon post-abortum. In the study group of IUD users, complaints about pain were not more frequent than among controls, but if pain was experienced, it was more intense and of longer duration among IUD users. Bleeding immediately following the induced abortion was less frequent among IUD users, but if bleeding occurred, it tended to last longer. The first menstrual period after the induced abortion was heavier and more painful among IUD users. Expulsion of the IUD occurred in 10 cases (3.3%), all of them with the Nova T, none with Multiload. The study did not generate evidence for an increased risk of PID in women receiving an IUD after an induced abortion.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cell division meiosis
+TITLE: The molecular mechanisms driving Plasmodium cell division.
+PMID: 38563493
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38563493/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Malaria, a vector borne disease, is a major global health and socioeconomic problem caused by the apicomplexan protozoan parasite Plasmodium. The parasite alternates between mosquito vector and vertebrate host, with meiosis in the mosquito and proliferative mitotic cell division in both hosts. In the canonical eukaryotic model, cell division is either by open or closed mitosis and karyokinesis is followed by cytokinesis; whereas in Plasmodium closed mitosis is not directly accompanied by concomitant cell division. Key molecular players and regulatory mechanisms of this process have been identified, but the pivotal role of certain protein complexes and the post-translational modifications that modulate their actions are still to be deciphered. Here, we discuss recent evidence for the function of known proteins in Plasmodium cell division and processes that are potential novel targets for therapeutic intervention. We also identify key questions to open new and exciting research to understand divergent Plasmodium cell division.

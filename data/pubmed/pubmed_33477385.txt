@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Beta blockers
+TITLE: Progress in the Enantioseparation of β-Blockers by Chromatographic Methods.
+PMID: 33477385
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33477385/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+β-adrenergic antagonists (β-blockers) with at least one chiral center are an exceedingly important class of drugs used mostly to treat cardiovascular diseases. At least 70 β-blockers have been investigated in history. However, only a few β-blockers, e.g., timolol, are clinically marketed as an optically pure enantiomer. Therefore, the separation of racemates of β-blockers is essential both in the laboratory and industry. Many approaches have been explored to obtain the single enantiomeric β-blocker, including high performance liquid chromatography, supercritical fluid chromatography and simulated moving bed chromatography. In this article, a review is presented on different chromatographic methods applied for the enantioseparation of β-blockers, covering high performance liquid chromatography (HPLC), supercritical fluid chromatography (SFC) and simulated moving bed chromatography (SMB).

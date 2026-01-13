@@ -1,0 +1,8 @@
+SEARCH_TOPIC: NSAIDs side effects
+TITLE: Non-steroidal anti-inflammatory drugs (NSAIDs): A current insight into its molecular mechanism eliciting organ toxicities.
+PMID: 36608735
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36608735/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Non-steroidal anti-inflammatory drugs (NSAIDs) are a class of medications that are routinely been used across the world. Their analgesic, anti-inflammatory, and antipyretic effects have all been well-documented. Moreover, they are been deliberated to have a protective role against various critical diseases such as cancer and cardiovascular diseases. However, the data presented by numerous studies in past have signified the adverse effects of NSAIDs due to overdosing on various systems such as cardiovascular, gastrointestinal, hepatic, renal, neural, etc. Despite substantial studies representing the mechanism behind the clinical risk of NSAIDs, there are very few reviews that have collated comprehensive records of various toxicities caused by overdosing on NSAIDs. As a result, we have presented a comprehensive overview of existing information on NSAIDs in this review. In addition to that, we have concentrated on presenting our understanding of various organ-based toxicities caused due to NSAID's prolonged use/overdosage.

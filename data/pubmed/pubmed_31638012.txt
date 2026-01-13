@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Screen time health
+TITLE: Screen Time in Under-five Children.
+PMID: 31638012
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31638012/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Screen-viewing in childhood is primarily a mean of entertainment, during the unstructured time. We aimed to review the burden of the problem, delineate the associated factors and correlates, evaluate the impact of screen-time on the overall health of under-five children, and the interventions to reduce screen-time. Published articles from January 2009 to June 2018 were searched through PubMed, Clinical Key, Scopus, Embase, and Google Scholar using key Medical Subject Heading words. The burden of screen-time varied from 21% to 98% in the middle-income, and 10% to 93.7% in the high-income countries. The social ecological model was used to illustrate associated factors and correlates including child, caregiver, micro and macro digital-media environment related factors. The interventions included increase in the physical activity, reduction in the body mass index, improving sleep and dietary behaviors etc. The effectiveness of these interventions ranged from 0.3 minutes (standard error 13.3) to -47.16 minutes (standard error 2.01). Clinicians should obtain history of screen-time in children, and advise limiting the screen exposure according to the child's age. There is a need to generate evidence on burden and effectiveness of interventions among children in the Indian settings, owing to the limited data.

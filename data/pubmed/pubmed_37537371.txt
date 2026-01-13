@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Serotonin
+TITLE: The serotonin transporter sustains human brown adipose tissue thermogenesis.
+PMID: 37537371
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37537371/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Activation of brown adipose tissue (BAT) in humans is a strategy to treat obesity and metabolic disease. Here we show that the serotonin transporter (SERT), encoded by SLC6A4, prevents serotonin-mediated suppression of human BAT function. RNA sequencing of human primary brown and white adipocytes shows that SLC6A4 is highly expressed in human, but not murine, brown adipocytes and BAT. Serotonin decreases uncoupled respiration and reduces uncoupling protein 1 via the 5-HT<sub>2B</sub> receptor. SERT inhibition by the selective serotonin reuptake inhibitor (SSRI) sertraline prevents uptake of extracellular serotonin, thereby potentiating serotonin's suppressive effect on brown adipocytes. Furthermore, we see that sertraline reduces BAT activation in healthy volunteers, and SSRI-treated patients demonstrate no <sup>18</sup>F-fluorodeoxyglucose uptake by BAT at room temperature, unlike matched controls. Inhibition of BAT thermogenesis may contribute to SSRI-induced weight gain and metabolic dysfunction, and reducing peripheral serotonin action may be an approach to treat obesity and metabolic disease.

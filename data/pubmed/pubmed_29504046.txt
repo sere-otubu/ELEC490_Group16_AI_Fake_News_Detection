@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Geriatric psychiatry
+TITLE: Advances in Drug Discovery and Development in Geriatric Psychiatry.
+PMID: 29504046
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29504046/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article reviews recent advances in drug discovery and development for geriatric psychiatry. Drug discovery for disorders of the central nervous system is a long and challenging process, with a high attrition rate from the preclinical stages through to marketing a compound. Developing drugs for geriatric neuropsychiatric conditions presents additional challenges, due to the complexity of the symptoms, comorbid diagnoses, and the variability of the population. Despite there being limited success over the past two decades, a number of new approaches have identified potential targets for preclinical development and ultimately clinical testing. Recent approaches have tried to address specific mechanisms that relate to the disease progression. These approaches include combining a number of ligands into to multi-target compounds, or targeting specific types of cells such as protein kinases or myeloid cells. In addition, the increased use of induced pluripotent stem cell cultures has enabled new compounds to be tested on disease-specific tissues, increasing the success rate of the lead compounds going through the preclinical stages. New pharmacological agents designed with advanced screening techniques and the shift towards systems pharmacology is changing the landscape of drug discovery in geriatric psychiatry. There is potential for these new agents to produce targeted effects in the framework of disorders that have long been untreatable.

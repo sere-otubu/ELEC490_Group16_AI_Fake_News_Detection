@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Leukemia
+TITLE: [Antigens associated with human leukemia].
+PMID: 826295
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/826295/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Several clinical observations, such as spontaneous remissions, or transfusion induced remissions and the results obtained by active immunotherapy, suggest that human leukaemia cells may possess tumour specific antigens. In vitro studies have provided evidence for immune reactions to leukaemia in man. However, the antigens involved in such reactions are far from being fully identified. Serological studies of the human leukaemia associated antigens have been developed with xenoantisera raised in a variety of animal species, and with human sera obtained either from patients or from some normal individuals. It appears that the xenoantisera and the few human sera yet obtained do not detect the same antigenic structures. Schematically, one can assume that the rabbit antisera react with antigen(s) common to acute leukaemias or even to the four main leukaemia types; primate antisera react with the lymphoid leukaemias (both acute and chronic) or with the myeloid leukaemias. On the other hand, human sera appear to react in a different way, and several antigenic specificities may thus be detected on the cells of acute lymphoblastic leukaemias. However, these human sera are yet rather rare and do not cover all the varieties of leukaemias. Cross-reactivity with antigens of animal oncornaviruses or of animal leukaemias has been shown with some of the antisera used. The serological identification of human leukaemia associated antigens aims at two different goals: a better control of the promizing immunotherapy attempts as well as a new insight in the etiology of human leukaemias.

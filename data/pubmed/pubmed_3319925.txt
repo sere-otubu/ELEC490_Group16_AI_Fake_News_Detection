@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ergonomics
+TITLE: Physiological ergonomics in nursing.
+PMID: 3319925
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3319925/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The majority of physiological ergonomic studies of nursing are concerned with shift- and night-work and associated circadian rhythm adjustments and influences on job performance. The aerobic demand of medical nursing has not been extensively studied. The aerobic capacity of nurses has not been assessed systematically. Studies of this type are clearly required within an ergonomic framework with particular emphasis on the flexibility and (upper body) strength components of nurses functional capacities in relation to the physical demands of nursing tasks. As health educators, the nursing profession should seriously consider taking a practical lead in espousing the ergonomic process and advocating the health benefits of exercise (together with good diet and smoking cessation.)

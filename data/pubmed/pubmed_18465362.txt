@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Type 2 Diabetes
+TITLE: Type 2 diabetes mellitus as risk factor for colorectal cancer.
+PMID: 18465362
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18465362/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Colorectal cancer occurs more frequently in patients with type 2 diabetes mellitus. The hyperinsulinemia-hypothesis suggests that elevated levels of insulin and free IGF-1 promote proliferation of colon cells and lead to a survival benefit of transformed cells, ultimately resulting in colorectal cancer. In patients with type 2 diabetes mellitus, epidemiological studies show an increased risk for colorectal cancer and an even higher risk if patients are treated with sulphonylureas or insulin. Moreover, tumour progression at hyperinsulinemia is more rapid and tumour-associated mortality is increased. Colorectal cancer can be avoided by screening. Recommendations for colorectal cancer screening should employ the recent epidemiologic evidence. All patients with type 2 diabetes mellitus should be recommended to undergo colonoscopy before starting insulin therapy, and screening intervals should not exceed 5 years. For this concept, a review of the evidence is presented, and a screening algorithm for colorectal cancer in patients with type 2 diabetes mellitus is proposed.

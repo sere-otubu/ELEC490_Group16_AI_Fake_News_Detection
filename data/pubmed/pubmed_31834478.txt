@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Placebo effect
+TITLE: The Powerful Placebo Effect in Cough: Relevance to Treatment and Clinical Trials.
+PMID: 31834478
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31834478/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Interest in the placebo effect of medicines has developed from the use of placebo treatments as controls in clinical trials into a whole new area of research around how placebos fit into a psychosocial model of therapeutics. The large placebo effect associated with cough medicines is both a problem and an opportunity for researchers: a problem for clinical trials on new actives as the active must beat the large placebo effect, and an opportunity for harnessing the placebo effect to produce effective cough medicines without any pharmacologically active ingredient. This review discusses the mechanisms associated with the placebo effect of cough medicines and distinguishes between a 'perceived placebo effect' and a true 'placebo effect'. The efficacy of sweeteners in cough syrups is discussed as well as viscosity, mucoadhesion, and flavoring. The complexity of modern cough medicines is demonstrated by an example of a medicine which contains one active ingredient, and eighteen excipients which provide a complex and intense sensory experience to enhance the placebo effect and complement the pharmacological activity of the medicine.

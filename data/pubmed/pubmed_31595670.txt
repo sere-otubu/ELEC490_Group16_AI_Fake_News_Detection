@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hemophilia
+TITLE: Neuropsychological function in children with hemophilia: A review of the Hemophilia Growth and Development Study and introduction of the current eTHINK study.
+PMID: 31595670
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31595670/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Almost all of what is known about neurologic and cognitive development in hemophilia derives from the Hemophilia Growth and Development Study, conducted during an era when treatment regimens and comorbidities differed significantly from the current environment. Results suggested hemophilia and human immunodeficiency virus had independent effects, and hemophilia negatively impacts academic achievement, attention, and behavior. The introduction of prophylaxis treatment in hemophilia has created the need for re-evaluation of the effects of hemophilia on neurodevelopment and cognition. We outline the Evolving Treatment of Hemophilia's Impact on Neurodevelopment, Intelligence, and Other Cognitive Functions (NCT03660774) study, which aims to meet this need.

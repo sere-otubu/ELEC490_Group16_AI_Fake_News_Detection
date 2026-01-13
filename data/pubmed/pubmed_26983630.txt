@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Diuretics
+TITLE: Diuretics in the treatment of hypertension.
+PMID: 26983630
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26983630/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Diuretics have long been used for the treatment of hypertension. Thiazide diuretics are the most commonly prescribed diuretics for hypertension, but other classes of diuretics may be useful in alternative circumstances. Although diuretics are no longer considered the preferred agent for treatment of hypertension in adults and children, they remain acceptable first-line options. Diuretics effectively decrease blood pressure in hypertensive patients, and in adults with hypertension reduce the risk of adverse cardiovascular outcomes. Because of varied pharmacokinetic and pharmacodynamic differences, chlorthalidone may be the preferred thiazide diuretic in the treatment of primary hypertension. Other types of diuretics (e.g., loop, potassium sparing) may be useful for the treatment of hypertension related to chronic kidney disease (CKD) and other varied conditions. Common side effects of thiazides are mostly dose-related and involve electrolyte and metabolic abnormalities.

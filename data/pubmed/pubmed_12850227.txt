@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Conjunctivitis
+TITLE: Ligneous conjunctivitis.
+PMID: 12850227
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12850227/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ligneous conjunctivitis (McKusick 217090) is a rare form of chronic conjunctivitis characterized by the development of firm fibrin-rich, woody-like pseudomembraneous lesions mainly on the tarsal conjunctivae. Less frequently, similar lesions may occur on other mucous membranes of the body indicating that these manifestations are part of a systemic disease. Histopathological findings from affected humans and (plasminogen-deficient) mice indicate that wound healing, mainly of injured mucosal tissue, is impaired due to markedly decreased (plasmin-mediated) extracellular fibrinolysis. Pseudomembraneous lesions of the eyes and other mucosal tissue mainly contain clotted fibrin(ogen). Actually, systemic plasminogen deficiency has been linked to ligneous conjunctivitis in humans and mice. In one case, ligneous conjunctivitis has been induced by antifibrinolytic treatment with tranexamic acid. Further rare associated disorders of ligneous conjunctivitis are congenital occlusive hydrocephalus and juvenile colloid milium. This review outlines the historical background, clinical characteristics of ligneous conjunctivitis and its associated complications, histological abnormalities of pseudomembraneous lesions, inheritance, hemostasiologic and molecular genetic findings in affected patients, current treatment approaches, and the plasminogen-deficient mouse as an animal model.

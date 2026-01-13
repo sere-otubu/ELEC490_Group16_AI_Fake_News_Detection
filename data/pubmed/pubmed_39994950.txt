@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Organ transplant
+TITLE: How Much Will a Pig Organ Transplant Cost? A Preliminary Estimate of the Cost of Xenotransplantation Versus Allotransplantation in the USA.
+PMID: 39994950
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39994950/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+We reviewed the costs of organ allotransplantation and attempted to estimate the potential costs of xenotransplantation (based on the premise that, when clinically established, the results of pig organ xenotransplantation would be at least equal to those of allotransplantation). The care of patients with end-stage organ failure waiting for an allograft is expensive, particularly if chronic dialysis or mechanical support is required. Xenotransplantation has the potential to eliminate wait times for organ transplants, significantly reduce certain management costs, for example, chronic dialysis, and enable early transplantation before comorbidities develop or increase. The cost of the surgical procurement of a pig organ and its transplantation will be similar to that of allotransplantation, as will the cost of immunosuppressive therapy. The major "unknown" is the cost of purchasing a gene-edited pig organ, which is likely to be considerable. We conclude that there will be significant cost savings for the pretransplant care of an individual patient, but these may be offset by the cost of the gene-edited pig organ. However, the ready availability of an unlimited organ supply will greatly increase the number of transplants carried out each year, thus increasing the overall expenditure on transplantation.

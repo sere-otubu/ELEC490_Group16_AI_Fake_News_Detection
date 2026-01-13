@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vaccination schedules
+TITLE: Pneumococcal vaccination in lung transplant patients.
+PMID: 32133883
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32133883/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+<b>Introduction</b>: This review analyzes the efficacy of pneumococcal vaccinations in lung transplant patients before and after transplantation.<b>Areas covered</b>: This review addresses the risk for respiratory infections, in particular pneumococcal infections, in lung transplantation patients in the context of immunodeficiency and immunosuppressive medication. Vaccination is recommended to counteract the increased risk of pneumococcal infection, and the relevant guidelines are discussed in this review. The design of specific vaccination schedules is required because of the impaired antibody response in specific patient categories.<b>Expert opinion</b>: Lung transplantation candidates should be vaccinated with pneumococcal vaccines prior to transplantation. Currently, the 23-valent pneumococcal polysaccharide vaccine offers the broadest coverage, but the antibody response should be monitored. New generation pneumococcal conjugate vaccines with equally broad serotype coverage could be used in the future. During the post-transplantation period, the immune status of the patients should be monitored regularly, and vaccination should be repeated when indicated.

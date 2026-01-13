@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Screen time health
+TITLE: Screen time and early adolescent mental health, academic, and social outcomes in 9- and 10- year old children: Utilizing the Adolescent Brain Cognitive Development ℠ (ABCD) Study.
+PMID: 34496002
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34496002/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In a technology-driven society, screens are being used more than ever. The high rate of electronic media use among children and adolescents begs the question: is screen time harming our youth? The current study draws from a nationwide sample of 11,875 participants in the United States, aged 9 to 10 years, from the Adolescent Brain Cognitive Development Study (ABCD Study®). We investigate relationships between screen time and mental health, behavioral problems, academic performance, sleep habits, and peer relationships by conducting a series of correlation and regression analyses, controlling for SES and race/ethnicity. We find that more screen time is moderately associated with worse mental health, increased behavioral problems, decreased academic performance, and poorer sleep, but heightened quality of peer relationships. However, effect sizes associated with screen time and the various outcomes were modest; SES was more strongly associated with each outcome measure. Our analyses do not establish causality and the small effect sizes observed suggest that increased screen time is unlikely to be directly harmful to 9-and-10-year-old children.

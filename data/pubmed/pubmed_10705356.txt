@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urban health issues
+TITLE: Urban native American health issues.
+PMID: 10705356
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10705356/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article presents an overview of urban-dwelling American Indians and Alaska Natives, including a summary of data issues and a brief overview of historical and related social changes resulting in migration from reservations to urban areas. A literature search was performed and documented focus groups were held; in addition, Native Sisters' field records from Los Angeles, California, and Denver, Colorado, were reviewed. Urban Indian communities are intertribal and represent over half of the Native American population in the U.S., yet they lack access to sufficient health services. Urban Indian clinics are greatly underfunded. A greater proportion of funding needs to be allocated to community-driven, culturally respectful, multiyear behavioral research to improve the screening, treatment, and survival of American Indian women with breast carcinoma.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Life expectancy trends
+TITLE: Trends of Gaps Between Health-Adjusted Life Expectancy and Life Expectancy at the Regional Level in Korea Using a Group-Based Multi-Trajectory Modeling Approach (2008-2019).
+PMID: 38711316
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38711316/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Health-adjusted life expectancy (HALE) is an indicator of the average lifespan in good health. Through this study, we aimed to identify regional disparities in the gap between HALE and life expectancy, considering the trends that have changed over time in Korea. We employed a group-based multi-trajectory modeling approach to capture trends in the gap between HALE and life expectancy at the regional level from 2008 to 2019. HALE was calculated using incidence-based "years lived with disability." This methodology was also employed in the Korean National Burden of Disease Study. Based on five different information criteria, the most fitted number of trajectory groups was seven, with at least 11 regions in each group. Among the seven groups, one had an exceptionally large gap between HALE and life expectancy compared to that of the others. This group was assigned to 17 regions, of which six were metropolitan cities. Based on the results of this study, we identified regions in which health levels have deteriorated over time, particularly within specific areas of metropolitan cities. These findings can be used to design comprehensive policy interventions for community health promotion and urban regeneration projects in the future.

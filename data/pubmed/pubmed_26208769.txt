@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Evidence based medicine
+TITLE: Evidence-Based Medicine: Rhinoplasty.
+PMID: 26208769
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26208769/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Evidence-based medicine has become increasingly prominent in the climate of modern day healthcare. The practice of evidence-based medicine involves the integration of the best available evidence with clinical experience and expertise to help guide clinical decision-making. The essential tenets of evidence-based medicine can be applied to both functional and aesthetic rhinoplasty. Current outcome measures in functional and aesthetic rhinoplasty, including objective, subjective, and clinician-reported measures, is summarized and the current data is reviewed.

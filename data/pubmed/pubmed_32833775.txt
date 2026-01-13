@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Integumentary system
+TITLE: Systemic Complications of COVID-19.
+PMID: 32833775
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32833775/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Coronavirus disease-2019 (COVID-19) creates severe respiratory distress and often a cascade of other systemic complications impacting several organ systems. The immune response includes a cytokine storm that creates many life-threatening problems including coagulopathies, arrhythmias, and secondary infections. This article discusses the multisystem responses to the physical insults created by this corona virus.

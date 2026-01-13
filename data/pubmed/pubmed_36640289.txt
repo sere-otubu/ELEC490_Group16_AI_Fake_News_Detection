@@ -1,0 +1,8 @@
+SEARCH_TOPIC: CT scan
+TITLE: Extralobar Pulmonary Sequestration.
+PMID: 36640289
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36640289/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Male, 71 year-old, asymptomatic, former smoker and previous history of lung tuberculosis. Referred to outpatient clinic due to left lower lobe consolidation diagnosed on non-contrasted CT scan, with increased uptake on PET-CT. Then, a contrast-enhanced CT scan revealed extralobar pulmonary sequestration with venous drainage to the left azygos vein (Blue arrow) and a double branch arterial supply from the thoracic aorta (Red arrow).

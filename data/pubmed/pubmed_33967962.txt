@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cushings syndrome
+TITLE: Cyclic Cushing's Syndrome - A Diagnostic Challenge.
+PMID: 33967962
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33967962/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cyclic Cushing's syndrome (also known as intermittent or periodic) is a disease characterized by periods of transient hypercortisolemia shifting into periods of normo- and/or hypocortisolemia. Diagnosis of cyclic Cushing's syndrome is based on at least three periods of confirmed hypercortisolemia interspersed by two periods of normocortisolemia. Cyclic Cushing's syndrome is one of the greatest challenges in modern endocrinology due to its diverse clinical picture, unpredictable duration and frequency of phases, and various etiologies. We discuss a diagnostic algorithm for periodic hypercortisolemia with special regard to hair cortisol analysis and desmopressin stimulation test which both seem to be helpful in finding the correct answer.

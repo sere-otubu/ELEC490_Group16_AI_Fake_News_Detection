@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cell division meiosis
+TITLE: Spermatogenesis.
+PMID: 9663765
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9663765/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Spermatogenesis is a complex process involving mitotic cell division, meiosis and the process of spermiogenesis. The regulation of spermatogenesis involves both endocrine and paracrine mechanisms. The endocrine stimulation of spermatogenesis involves both follicle stimulating hormone (FSH) and luteinizing hormone, the latter acting through the intermediary testosterone, produced by the Leydig cells in the testis. Since the germ cells do not possess receptors for FSH and testosterone, the hormonal signals are transduced through the Sertoli cells and peritubular cells by the production of signals that have yet to be defined. Although the hormonal signals are essential for successful spermatogenesis, there is increasing evidence that a multiplicity of growth factors and cytokines are involved in local control mechanisms influencing stem cell renewal by mitosis and the complicated process of the two meiotic cell divisions. The final complex metamorphosis which converts a round cell into the complex structures of the spermatozoa is well defined at a structural level, but the control systems regulating this process still remain to be elucidated.

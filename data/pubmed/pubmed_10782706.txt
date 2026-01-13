@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sinusitis
+TITLE: Sinusitis in adults.
+PMID: 10782706
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10782706/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Symptoms of sinusitis are among the most common reasons for patients presenting to primary care physicians. There is considerable controversy regarding appropriate management of both acute and chronic sinus disease. This article reviews etiologic mechanisms in these conditions and presents recent evidence to provide a logical basis on which to make decisions regarding medical and surgical therapy.

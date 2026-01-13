@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chemotherapy
+TITLE: Neoadjuvant chemotherapy in the treatment of breast cancer.
+PMID: 23464698
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23464698/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Randomized prospective trials have demonstrated that patients with early-stage breast cancer preferring breast conservation can benefit from neoadjuvant chemotherapy, achieving about a 25% complete and greater than 80% partial pathologic response. These responses do not translate into a survival advantage. For earlier stage patients, neoadjuvant chemotherapy's primary advantage is the ability to increase the use of breast conservation. Patients who opt for neoadjuvant chemotherapy should have a clinical and radiographic assessment of the axilla. The inability to predict the extent and pattern of response to chemotherapy requires that surgeons monitor patient response during neoadjuvant chemotherapy to provide optimal surgical planning.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Childhood obesity
+TITLE: Control of childhood obesity and implications for policy in China.
+PMID: 39579776
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39579776/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Prevention and control of childhood obesity in China is complex. Despite numerous existing policy endeavours, particularly Healthy China 2030, accompanied by multiministerial initiatives, childhood obesity persists and even exacerbates. In this paper, we review current national policies, assess progress of the existing system managing childhood weight, and identify implementation challenges. Leveraging insights from existing literature and guided by a PEDALS (ie, problem, evidence-based practice, determinants, actions, long term, and scalability) framework, we propose a strategy to refine and integrate current policies, interventions, and research into a policy framework, embedding evidence-based practices into practical solutions for childhood obesity prevention and control in China.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lymphoma
+TITLE: Plasmablastic lymphoma and related disorders.
+PMID: 21757592
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21757592/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+B-cell lymphomas with plasmablastic features are a heterogeneous group of lymphomas. While they may share overlapping morphologic or immunophenotypic features, distinct clinicopathologic or molecular genetic features exist for some that have allowed their recognition as distinct entities. Session 2 of the 2009 Society for Hematopathology/European Association for Haematopathology Workshop dealt with the theme of plasmablastic lymphomas (PBLs) and related disorders. Topics included human herpesvirus 8-associated Castleman disease and PBLs, PBLs occurring in the setting of HIV infection, anaplastic large cell lymphoma kinase+ diffuse large B-cell lymphoma, and other lymphomas with plasmablastic or plasmacytic features. In this report, we review PBLs and related disorders in the context of submitted cases and illustrate key diagnostic points, highlight controversial areas, and provide recommendations on features that should be assessed and terminology that might be used when dealing with these lymphomas.

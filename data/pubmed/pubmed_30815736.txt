@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Health literacy
+TITLE: Health literacy research in the Eastern Mediterranean Region: an integrative review.
+PMID: 30815736
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30815736/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This integrative review examines health literacy research in the Eastern Mediterranean Region (EMR) and describes: (1) assessments and screening tools used to measure levels of health literacy, and (2) the focus, methods, and findings of health literacy research in the region. A total of 246 records were identified through a systematic search of online databases from 1950 to 2017, to include: ProQuest Middle East and Africa, MEDLINE, PubMed, PsycINFO, Cumulative Index to Nursing and Allied Health Literature (CINAHL), Academic OneFile, Web of Science, Scopus, and Google Scholar. The final sample included 49 full-text articles. This research described 7 studies which used existing or new health literacy measures. Levels of health literacy in the EMR were similar to those for Europe and the United States. Low health literacy in EMR countries was more prevalent among females than males. The relationships between health literacy and knowledge, behavior and health outcomes varied across countries. To our knowledge, this study is the first in the EMR. Appropriately designed studies should better define health literacy needs due to variations in socioeconomic status within subregions. Future health literacy measures must consider stronger psychometric properties to guide development and validation.

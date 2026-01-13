@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dementia
+TITLE: Neuroimaging in Dementias.
+PMID: 30925612
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30925612/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Dementia is a global health issue, the burden of which will worsen with an increasingly aging population. Alzheimer's disease (AD) is the most common dementia, with 50 to 60% of all dementias attributable to AD alone, while the rest are mostly due to frontotemporal lobar dementia, dementia with Lewy bodies, Parkinson's disease dementia, and vascular dementia. Diagnosis of dementias is made clinically with the aid of other testing modalities including neuroimaging. While the role of imaging has traditionally been to exclude reversible causes of dementia, positron emission tomography (PET) with 18-fluorine fluorodeoxyglucose and magnetic resonance imaging now are increasingly used more for definitive diagnosis of dementia in the prodromal stages and to aid with formulating the differential diagnoses. Introduction of molecular imaging modalities such as amyloid PET and tau PET have improved diagnostic certainty in the clinical trial setting and promise to find their way into the clinic in the near future. In this review, we will focus on the multimodality imaging of dementias especially AD and its differential diagnoses.

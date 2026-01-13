@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Celiac disease
+TITLE: Society for the Study of Celiac Disease position statement on gaps and opportunities in coeliac disease.
+PMID: 34526700
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34526700/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Progress has been made in understanding coeliac disease, a relatively frequent and underappreciated immune-mediated condition that occurs in genetically predisposed individuals. However, several gaps remain in knowledge related to diagnosis and management. The gluten-free diet, currently the only available management, is not curative or universally effective (some adherent patients have ongoing duodenal injury). Unprecedented numbers of emerging therapies, including some with novel tolerogenic mechanisms, are currently being investigated in clinical trials. In March 2020, the Celiac Disease Foundation and the Society for the Study of Celiac Disease convened a consensus workshop to identify high-yield areas of research that should be prioritized. Workshop participants included leading experts in clinical practice, academia, government and pharmaceutical development, as well as representatives from patient support groups in North America. This Roadmap summarizes key advances in the field of coeliac disease and provides information on important discussions from the consensus approach to address gaps and opportunities related to the pathogenesis, diagnosis and management of coeliac disease. The morbidity of coeliac disease is often underestimated, which has led to an unmet need to improve the management of these patients. Expanded research funding is needed as coeliac disease is a potentially curable disease.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Weight gain strategies
+TITLE: Strategies to counter antipsychotic-associated weight gain in patients with schizophrenia.
+PMID: 31564170
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31564170/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+<b>Introduction</b>: Patients living with schizophrenia have a marked risk of clinically significant weight gain and obesity compared to the general population. The risks have been highlighted following the introduction of second-generation antipsychotics. In turn, obesity is associated with a higher prevalence of cardiovascular disease, the most common cause of premature mortality in patients with schizophrenia.<b>Areas covered</b>: In this review, the authors outline possible mechanisms that induce obesity in patients with schizophrenia taking antipsychotics. The authors discuss the safety and effectiveness of three main approaches for attenuating antipsychotic-associated weight gain (AAWG), including lifestyle interventions, switching antipsychotics, and augmentation with other medications.<b>Expert opinion</b>: When selecting antipsychotics, effective treatment of psychotic symptoms should be highest priority but obesity and related metabolic comorbidities associated with antipsychotics should not be neglected. Further research into mechanisms of weight gain associated with antipsychotics will guide future treatments for AAWG and development of antipsychotics that produce minimal metabolic adverse effects. With current strategies only producing modest weight loss in already overweight and obese individuals, clinicians should transition to an approach where they aim to prevent weight gain when initiating antipsychotic treatment.

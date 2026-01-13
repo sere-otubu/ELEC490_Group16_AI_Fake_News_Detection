@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Measles
+TITLE: [Measles virus].
+PMID: 41016799
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41016799/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Measles virus is the pathogen that causes measles and is highly infectious. Measles virus uses two molecules as viral receptors: signaling lymphocytic activation molecule, expressed on immune cells, and nectin-4, expressed on epithelial cells. Usage of these receptors is strongly associated with the pathogenesis of measles. Although it remains a leading cause of childhood mortality worldwide, measles elimination is being promoted by the availability of a highly effective live attenuated vaccines. Due to the elimination of measles in many countries, the circulating measles genotypes have been reduced to two, B3 and D8, in recent years. Therefore, in addition to genotyping using the conventional 450-nucleotide N gene region, new methods such as wholegenome sequencing and analysis of the M-F non-coding region are being tested for case association and outbreak tracking. Although measles virus is a single serotype, there are genomic differences among genotypes, including variations in B-cell and T-cell epitopes. However, current live attenuated vaccines remain sufficiently effective against all genotypes. On the other hand, the maintenance of protective immunity in vaccinees may become increasingly important, since vaccine-induced immunity tends to wane over time unlike the more durable immunity following natural infection.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Acupuncture
+TITLE: The immunomodulatory mechanisms for acupuncture practice.
+PMID: 37090714
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37090714/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The system physiology approaches that emerge in western countries in recent years echo the holistic view of ancient Traditional Chinese Medicine (TCM) practices that deal with the root, rather than only the symptoms of diseases. Particularly, TCM practices, including acupuncture, emphasize the mobilization of self-healing mechanisms to bring back body homeostasis. Acupuncture has been practiced for over two thousand years to modulate body physiology <i>via</i> stimulation at specific body regions (acupoints). With the development of various research on acupuncture therapy, its regulatory effect on the immune system has been gradually recognized, especially on immunological diseases, including infectious and allergic diseases. In this study, we reviewed the immunomodulatory mechanism of acupuncture and systematically integrates existing research to respectively elucidate the modulatory mechanisms of acupuncture on the innate immune system, adaptive immune system, and well-known neuroanatomical mechanisms, including intact somatosensory-autonomic reflex pathway. With the advances made in recent systems physiology studies, we now have a great opportunity to gain insight into how acupuncture modulates immunity, and subsequently improves its efficacy.

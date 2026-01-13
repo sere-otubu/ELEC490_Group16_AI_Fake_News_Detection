@@ -1,0 +1,8 @@
+SEARCH_TOPIC: COVID-19
+TITLE: Resolution of coronavirus disease 2019 (COVID-19).
+PMID: 32749914
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32749914/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Coronavirus disease 2019 (COVID-19) was first detected in China in December, 2019, and declared as a pandemic by the World Health Organization (WHO) on March 11, 2020. The current management of COVID-19 is based generally on supportive therapy and treatment to prevent respiratory failure. The effective option of antiviral therapy and vaccination are currently under evaluation and development. A literature search was performed using PubMed between December 1, 2019-June 23, 2020. This review highlights the current state of knowledge on the viral replication and pathogenicity, diagnostic and therapeutic strategies, and management of COVID-19. This review will be of interest to scientists and clinicians and make a significant contribution toward development of vaccines and targeted therapies to contain the pandemic. The exit strategy for a path back to normal life is required, which should involve a multi-prong effort toward development of new treatment and a successful vaccine to protect public health worldwide and prevent future COVID-19 outbreaks. Therefore, the bench to bedside translational research as well as reverse translational works focusing bedside to bench is very important and would provide the foundation for the development of targeted drugs and vaccines for COVID-19 infections.

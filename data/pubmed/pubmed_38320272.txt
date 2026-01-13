@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Malaria
+TITLE: Extracellular Vesicles in Malaria: Shedding Light on Pathogenic Depths.
+PMID: 38320272
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38320272/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Malaria, a life-threatening infectious disease caused by <i>Plasmodium falciparum</i>, remains a significant global health challenge, particularly in tropical and subtropical regions. The epidemiological data for 2021 revealed a staggering toll, with 247 million reported cases and 619,000 fatalities attributed to the disease. This formidable global health challenge continues to perplex researchers seeking a comprehensive understanding of its pathogenesis. Recent investigations have unveiled the pivotal role of extracellular vesicles (EVs) in this intricate landscape. These tiny, membrane-bound vesicles, secreted by diverse cells, emerge as pivotal communicators in malaria's pathogenic orchestra. This Review delves into the multifaceted roles of EVs in malaria pathogenesis, elucidating their impact on disease progression and immune modulation. Insights into EV involvement offer potential therapeutic and diagnostic strategies. Integrating this information identifies targets to mitigate malaria's global impact. Moreover, this Review explores the potential of EVs as diagnostic biomarkers and therapeutic targets in malaria. By deciphering the intricate dialogue facilitated by these vesicles, new avenues for intervention and novel strategies for disease management may emerge.

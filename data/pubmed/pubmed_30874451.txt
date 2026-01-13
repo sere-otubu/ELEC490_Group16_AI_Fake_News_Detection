@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Circadian rhythms
+TITLE: Circadian rhythms: a regulator of gastrointestinal health and dysfunction.
+PMID: 30874451
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30874451/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Circadian rhythms regulate much of gastrointestinal physiology including cell proliferation, motility, digestion, absorption, and electrolyte balance. Disruption of circadian rhythms can have adverse consequences including the promotion of and/or exacerbation of a wide variety of gastrointestinal disorders and diseases. Areas covered: In this review, we evaluate some of the many gastrointestinal functions that are regulated by circadian rhythms and how dysregulation of these functions may contribute to disease. This review also discusses some common gastrointestinal disorders that are known to be influenced by circadian rhythms as well as speculation about the mechanisms by which circadian rhythm disruption promotes dysfunction and disease pathogenesis. We discuss how knowledge of circadian rhythms and the advent of chrono-nutrition, chrono-pharmacology, and chrono-therapeutics might influence clinical practice. Expert opinion: As our knowledge of circadian biology increases, it may be possible to incorporate strategies that take advantage of circadian rhythms and chronotherapy to prevent and/or treat disease.

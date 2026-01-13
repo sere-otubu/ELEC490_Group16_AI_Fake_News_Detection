@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mammography
+TITLE: Contrast-enhanced digital mammography.
+PMID: 24792660
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24792660/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Mammography is the only technology documented to reduce breast cancer mortality. Its sensitivity, however, is 75% to 80% at best and reduced to 30% to 50% in women with dense breasts. MR imaging is a sensitive modality for the detection of breast cancer but cannot be used in all patients. Its sensitivity is due in large part to its ability to detect enhancement of tumor vascularity so cancers can be detected before a mass is present. Contrast-enhanced dual-energy mammography uses the same capability of vascular enhancement and has been demonstrated to be more sensitive than routine mammography.

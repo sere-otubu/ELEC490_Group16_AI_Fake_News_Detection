@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Female infertility
+TITLE: Thyroid dysfunction and female infertility. A comprehensive review.
+PMID: 37866272
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37866272/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Female infertility is defined as the inability to achieve pregnancy following one year of consistent, unprotected sexual intercourse. Among the various endocrine factors contributing to this complex issue, thyroid dysfunction assumes a pivotal and noteworthy role. A narrative review, encompassing 134 articles up to 2023, was conducted utilizing the PubMed/Medline, EMBASE, and Scielo databases. The primary focus of this review was to investigate the effects of thyroid dysfunction on female infertility. Thyroid disorders exert a significant influence on folliculogenesis, fertilization, and implantation processes. Thyroid autoimmunity, although associated with diminished ovarian reserve, does not typically necessitate levothyroxine therapy. On the other hand, both subclinical and overt hypothyroidism often require levothyroxine treatment to enhance fertility and optimize obstetric outcomes. Hyperthyroidism warrants prompt intervention due to its heightened risk of miscarriage. Furthermore, thyroid dysfunction exerts notable effects on assisted reproductive technologies, underscoring the importance of achieving euthyroidism prior to ovarian stimulation. Women presenting with thyroid dysfunction must undergo meticulous and individualized assessments since fertility outcomes, whether achieved through natural conception or assisted reproductive technologies, can be significantly influenced by thyroid-related factors.

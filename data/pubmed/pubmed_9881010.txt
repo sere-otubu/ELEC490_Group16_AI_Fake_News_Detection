@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hypothyroidism
+TITLE: [Autoimmune hypothyroidism].
+PMID: 9881010
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9881010/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Most of the acquired hypothyroidisms are related to chronic lymphocytic thyroiditis which reduce the functional thyroid parenchyma, determine acquired organification disorders or rarely generation of blocking anti-TSH receptor antibodies. In subjects with genetic predisposition, autoimmunization against the thyroid involves recognition of thyroid antigens, cooperation between B and T lymphocytes and production of cytokines. Biologic markers of antithyroid autoimmune disorders are now widely available. Nevertheless therapeutic approach of autoimmune hypothyroidisms is still symptomatic: thyroid hormone is able to correct hypothyroidism, to reduce the volume of goiter if present and also to lower the biological evidence of thyroid autoimmunity.

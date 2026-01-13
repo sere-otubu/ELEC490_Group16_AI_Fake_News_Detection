@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Metabolism basics
+TITLE: Basics of genome-scale metabolic modeling and applications on C1-utilization.
+PMID: 30256945
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30256945/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+It is fundamental to understand the relationship between genotype and phenotype in biology. This requires comprehensive knowledge of metabolic pathways, genetic information and well-defined mathematic modeling. Integration of knowledge on metabolism with mathematical modeling results in genome-scale metabolic models which have proven useful to investigate bacterial metabolism and to engineer bacterial strains capable of producing value-added biochemical. Single carbon substrates such as methane and carbon monoxide have drawn interests and they assumed one of next-generation feedstocks because of their high abundance and low price. The methylotroph and acetogen-based biorefineries hold promises for bioconversion of C1 substrates into biofuels and high value compounds. As an effort on expanding our knowledge on C1 utilization approaches, in silico computational framework of C1-metabolism in methylotrophic and acetogenic bacteria has been developed. In this review, genome-scale metabolic models for C1-utilizing bacteria and well-established analysis tools are presented for potential uses for study of C1 metabolism at the genome scale and its application in metabolic engineering.

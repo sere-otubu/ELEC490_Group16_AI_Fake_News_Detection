@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Health literacy
+TITLE: Adolescent health literacy and health behaviors: A systematic review.
+PMID: 29179126
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29179126/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To systematically review and synthesize literature on the relationship between health literacy and health behaviors in adolescents. Searches in PsychInfo, PUBMED/MEDLINE, and Educational Resources Information Center (ERIC) were conducted. Studies were included if they reported original data on the relationship between health literacy and a health behavior in adolescents, were written in English, and the population did not have a chronic illness or disability. Seventeen studies met inclusionary criteria. Definition and measurement of health literacy, and theoretical frameworks varied across studies. Studies investigated the relationship between functional and media health literacy and adolescent health behaviors, thirteen reported significant, linear relationships. The results suggest that there is a meaningful relationship between health literacy and adolescents' health behaviors. To fully understand the role of health literacy in adolescents' health decision-making, future research should use comprehensive definitions and measures of health literacy, and integrate health behavior and adolescent development theoretical frameworks in study design.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Binge eating disorder
+TITLE: Medical Complications of Binge Eating Disorder.
+PMID: 31046929
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31046929/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Binge eating disorder (BED) is the most common eating disorder and is accompanied by multiple medical comorbidities, many of which are associated with obesity-related diseases. However, the BED itself is likely to confer additional risk factors. BED presents with medical symptoms in virtually every body system and can have devastating consequences on both quality and length of life. This review covers the major comorbidities of BED and highlights areas of ongoing research in this disorder.

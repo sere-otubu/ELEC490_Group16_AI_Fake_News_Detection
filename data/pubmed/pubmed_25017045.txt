@@ -1,0 +1,8 @@
+SEARCH_TOPIC: OCD
+TITLE: The neurobiological link between OCD and ADHD.
+PMID: 25017045
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25017045/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Obsessive compulsive disorder (OCD) and attention deficit hyperactivity disorder (ADHD) are two of the most common neuropsychiatric diseases in paediatric populations. The high comorbidity of ADHD and OCD with each other, especially of ADHD in paediatric OCD, is well described. OCD and ADHD often follow a chronic course with persistent rates of at least 40-50 %. Family studies showed high heritability in ADHD and OCD, and some genetic findings showed similar variants for both disorders of the same pathogenetic mechanisms, whereas other genetic findings may differentiate between ADHD and OCD. Neuropsychological and neuroimaging studies suggest that partly similar executive functions are affected in both disorders. The deficits in the corresponding brain networks may be responsible for the perseverative, compulsive symptoms in OCD but also for the disinhibited and impulsive symptoms characterizing ADHD. This article reviews the current literature of neuroimaging, neurochemical circuitry, neuropsychological and genetic findings considering similarities as well as differences between OCD and ADHD.

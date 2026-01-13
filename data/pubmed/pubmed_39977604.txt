@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Type 1 allergies
+TITLE: Neuroimmune Circuits in Allergic Diseases.
+PMID: 39977604
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39977604/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Communication between the nervous and immune systems is evolutionarily conserved. From primitive eukaryotes to higher mammals, neuroimmune communication utilizes multiple complex and complementary mechanisms to trigger effective but balanced responses to environmental dangers such as allergens and tissue damage. These responses result from a tight integration of the nervous and immune systems, and accumulating evidence suggests that this bidirectional communication is crucial in modulating the initiation and development of allergic inflammation. In this review, we discuss the basic mechanisms of neuroimmune communication, with a focus on the recent advances underlying the importance of such communication in the allergic immune response. We examine neuronal sensing of allergens, how neuropeptides and neurotransmitters regulate allergic immune cell functions, and how inflammatory factors derived from immune cells coordinate complex peripheral and central nervous system responses. Furthermore, we highlight how fundamental aspects of host biology, from aging to circadian rhythm, might affect these pathways. Appreciating neuroimmune communications as an evolutionarily conserved and functionally integrated system that is fundamentally involved in type 2 immunity will provide new insights into allergic inflammation and reveal exciting opportunities for the management of acute and chronic allergic diseases.

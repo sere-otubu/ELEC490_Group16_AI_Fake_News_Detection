@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Diuretics
+TITLE: Diuretics: a review.
+PMID: 22783025
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22783025/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Diuretics, in one form or another, have been around for centuries and this review sets out to chart their development and clinical use. Starting with the physiology of the kidney, it progresses to explain how diuretics actually work, via symports on the inside of the renal tubules. The different classes of diuretics are characterized, along with their mode of action. The clinical use of diuretics in conditions like congestive cardiac failure and hypertension, as well as some rarer, but clinically important, conditions is then examined. An account is given of the adverse effects of diuretics and how they come about. Common adverse effects like hypokalaemia and hyponatraemia are examined in some detail, and other electrolyte disturbances like hypomagnesaemia also gain a mention. Diuretic use in chronic kidney disease is examined and new guidelines that have been introduced are presented. A section on diuretic abuse is included as this is becoming an all too common clinical scenario, and the sometimes tragic consequences of this abuse are emphasized. Diuretics also find a role in the diagnosis of forms of renal tubular acidosis and this role is explored. Finally, a selection of some of the newer approaches to diuretic therapy are presented, often the consequence of the increasing development of molecular biology, and some of the novel compounds - which may be in drug formularies of the future - are revealed.

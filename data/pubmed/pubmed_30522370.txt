@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Opioid addiction
+TITLE: Pharmacotherapy for opioid addiction in community corrections.
+PMID: 30522370
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30522370/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Pharmacotherapy for opioid addiction with methadone, buprenorphine, and naltrexone has proven efficacy in reducing illicit opioid use. These treatments are under-utilized among opioid-addicted individuals on parole, probation, or in drug courts. This paper examines the peer-reviewed literature on the effectiveness of pharmacotherapy for opioid addiction of adults under community-based criminal justice supervision in the US. Compared to general populations, there are relatively few papers addressing the separate impact of pharmacotherapy on individuals under community supervision. Tentative conclusions can be drawn from the extant literature. Reasonable evidence exists that illicit opioid use and self-reported criminal behaviour decline after treatment entry, and that these outcomes are as favourable among individuals under criminal justice supervision as the general treatment population. Surprisingly, there is no conclusive evidence regarding the extent to which pharmacotherapy impacts the likelihood of arrest and incarceration among individuals under supervision. However, given the proven efficacy of these three medications in reducing illicit opioid use and the evidence that, in the general population, methadone and buprenorphine treatment are associated with reduction in overdose mortality, the use of all three pharmacotherapies among patients under criminal justice supervision should be expanded while more data are collected on their impact on arrest and incarceration.

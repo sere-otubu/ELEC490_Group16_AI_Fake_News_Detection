@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lymphatic system
+TITLE: Morphological studies of the cardiac lymphatic system.
+PMID: 2252624
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2252624/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The distribution and structure of the mammalian cardiac lymphatic system have been investigated by puncture injection, intra-arterial injection of silver nitrate, hydrogen peroxide immersion, and light and electron microscopy. The cardiac lymphatic system consists of drainage vessels and lymphatic capillaries. The drainage vessels contain many valves and are mainly situated subepicardially following branches of the coronary artery. The lymphatic capillaries are composed of a thin layer of endothelial cells, and form relatively dense networks in a fishnet arrangement. These lymphatic networks are richer in the ventricles than in the atria, being present in the subepicardial myocardial and subendocardial regions. In addition, networks are found in all cusps of the atrioventricular valves, and in the sinuatrial node and atrioventricular system. The lymphatic system maintains cardiac homeostasis by receiving proteins, electrolytes and excess fluid from the interstitial tissue and returning them to the venous system.

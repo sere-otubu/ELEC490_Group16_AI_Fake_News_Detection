@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hives
+TITLE: Classification, Diagnosis, and Pathology of Angioedema Without Hives.
+PMID: 38937014
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38937014/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A clear disease classification schema coupled with an understanding of the specific mechanisms involved in the different types of angioedema without hives informs the diagnostic assessment. The recommended approach involves several key steps. Foremost is the recognizing of the clinical clues which allow for the differentiation of mast cell-mediated disorders from bradykinin-mediated angioedema. Enhanced vascular permeability related to bradykinin is of critical importance to identify given the implications for disease morbidity and risk of mortality. The ability to efficiently categorize and diagnose all forms of angioedema results in improved patient outcomes.

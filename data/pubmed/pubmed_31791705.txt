@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Protein intake
+TITLE: Protein intake is associated with cognitive functioning in individuals with psychiatric disorders.
+PMID: 31791705
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31791705/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Schizophrenia and bipolar disorder are associated with reduced cognitive functioning which contributes to problems in day-to-day functioning and social outcomes. A paucity of research exists relating dietary factors to cognitive functioning in serious mental illnesses, and results are inconsistent. The study aims to describe the nutritional intake of persons with schizophrenia and those with a recent episode of acute mania and to determine relationships between the intake of protein and other nutrients on cognitive functioning in the psychiatric sample. Persons with schizophrenia and those with acute mania were assessed using a 24-h dietary recall tool to determine their intakes of protein and other nutrients. They were also assessed with a test battery measuring different domains of cognitive functioning. Results indicate that lower amounts of dietary protein intake were associated with reduced cognitive functioning independent of demographic and clinical factors. The association was particularly evident in measures of immediate memory and language. There were not associations between cognitive functioning and other nutritional variables, including total energy, gluten, casein, saturated fat, or sugar intakes. The impact of dietary interventions, including protein intake, on improving cognitive functioning in individuals with psychiatric disorders warrants further investigation.

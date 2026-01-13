@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Borderline personality disorder
+TITLE: [Neurobiology of borderline personality disorder].
+PMID: 24953109
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24953109/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Borderline personality disorder (BPD) is highly prevalent and associated with significant dysfunctional behavior and suicide risk. The association with psychosocial factors is well established, however its neurobiology is not fully unraveled. According with the revised studies, subjects with BPD have structural and functional brain alterations, particularly in areas involved in affective and cognitive regulation and control of impulses. These alterations allow us to understand the psychopathology of this disorder and partly explain its pathogenesis.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Crohns disease
+TITLE: Perianal Crohn's Disease in Children and Adolescents.
+PMID: 32942329
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32942329/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The incidence of Crohn's disease is increasing worldwide. The clinical course of childhood onset Crohn's disease is particularly aggressive with characteristic disease localization in the ileocecal region and colon, often associated with perianal disease. Severe complications of perianal disease include recurrent perianal sepsis, chronic fistulae, fecal incontinence, and rectal strictures that impair quality of life and may require fecal diversion. Care of patients with perianal Crohn's disease requires a multidisciplinary approach with systematic clinical evaluation, endoscopic assessment, and imaging studies followed by combined medical and surgical management. In this review, we provide an update of the epidemiology, pathophysiology, diagnostics, and management of perianal Crohn's disease in children and adolescents.

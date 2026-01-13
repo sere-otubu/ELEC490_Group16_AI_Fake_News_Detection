@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pandemic preparedness
+TITLE: Global Health Priority Box─Proactive Pandemic Preparedness.
+PMID: 39488746
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39488746/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The coronavirus pandemic outbreak of 2019 highlighted the critical importance of preparedness for current and future public health threats (https://www.mmv.org/mmv-open/global-health-priority-box/about-global-health-priority-box). While the main attention for the past few years has been on COVID-19 research, this focus has reduced global resources on research in other areas, including malaria and neglected tropical diseases (NTDs). Such a shift in focus puts at risk the hard-earned progress in global health achieved over the past two decades (https://www.who.int/news-room/spotlight/10-global-health-issues-to-track-in-2021). To address the urgent need for new drugs to combat drug-resistant malaria, emerging zoonotic diseases, and vector control, Medicines for Malaria Venture (MMV) and Innovative Vector Control Consortium (IVCC) assembled a collection of 240 compounds and, in August 2022, launched the Global Health Priority Box (GHPB). This collection of compounds has confirmed activity against emerging pathogens or vectors and is available free of charge. This valuable tool enables researchers worldwide to build on each other's work and save precious time and resources by providing a starting point for the further development of treatments and insecticides. Furthermore, this open access box aligns with two of the many priorities outlined by the World Health Organization (WHO) (https://www.who.int/news-room/spotlight/10-global-health-issues-to-track-in-2021).

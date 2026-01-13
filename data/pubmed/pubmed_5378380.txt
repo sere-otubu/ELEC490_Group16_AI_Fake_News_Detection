@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Carbohydrates types
+TITLE: Yeast cell-wall synthesis.
+PMID: 5378380
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/5378380/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+1. A study of wall synthesis has been made by following the incorporation of radioactive glucose and threonine into the cytoplasm and wall of yeast. 2. Both glucose and threonine are incorporated into a mannan glycopeptide. The glucose is also synthesized into a structural glucan of the wall. 3. The mannan glycopeptide contains high-molecular-weight mannan and low-molecular-weight mannose and oligosaccharide units composed of mannose. Both types of carbohydrate are attached to the peptide. The extent of radioactive incorporation into these different carbohydrate constituents of the glycopeptide remained constant during a pulse-chase experiment. No evidence of a sequential synthesis of oligosaccharides and high-molecular-weight mannan was obtained. 4. Cycloheximide inhibits the incorporation of threonine into the wall but only partially inhibits the incorporation of glucose. Thus not all the polysaccharide deposited into the wall is dependent on a simultaneous peptide synthesis and incorporation. 5. Protoplasts grown in an iso-osmotic medium secreted a mannan polymer that was probably a glycopeptide.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anticoagulants
+TITLE: Major bleeding with old and novel oral anticoagulants: How to manage it. Focus on reversal agents.
+PMID: 29843897
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29843897/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Even though vitamin K antagonists (VKAs) have been employed for >50 years, there is still some uncertainty about the best strategy to reverse anticoagulation due to VKAs in cases of major bleeding. Furthermore, there is also scarce evidence about the most appropriate way to treat serious bleeding associated with non-vitamin K antagonist oral anticoagulants. This review analyses the main advantages and disadvantages of the various forthcoming therapeutic options to restore a normal coagulation status in anticoagulated patients with ongoing serious bleeding. It discusses the role of fresh frozen plasma, prothrombin complex concentrates and recombinant factor VII activated. Moreover, we report updated evidence on antidotes currently available or in development. Finally, this article proposes a comprehensive algorithm that summarizes major bleeding management during treatment with oral anticoagulants.

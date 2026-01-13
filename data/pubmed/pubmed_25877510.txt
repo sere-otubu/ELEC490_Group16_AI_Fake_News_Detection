@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tetanus shot
+TITLE: Tetanus shot may improve glioblastoma treatment.
+PMID: 25877510
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25877510/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Preconditioning the immune system with a tetanus/diphtheria toxoid significantly improved the effectiveness of dendritic cell immunotherapy and extended overall survival in a small, randomized study of patients with glioblastoma.

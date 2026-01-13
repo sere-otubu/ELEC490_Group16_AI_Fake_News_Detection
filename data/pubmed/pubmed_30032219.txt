@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insulin regulation
+TITLE: Chromium.
+PMID: 30032219
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30032219/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Two oxidation states of chromium are considered to be biologically and environmentally relevant based on their stability in the presence of water and oxygen. Compounds containing chromium(6 + ) are mutagenic and carcinogenic when inhaled and potentially when ingested orally in large quantity as well. Chromium as the trivalent will be the focus of this work as it was proposed to be an essential element for mammals ∼60 y ago; however, in the last 2 decades its status has been questioned. Chromium has been postulated to be involved in regulating carbohydrate and lipid (and potentially also protein) metabolism by enhancing insulin's efficacy (1). However, in 2014, the European Food Safety Authority found no convincing evidence that chromium is an essential element (2). Dietary chromium apparently is absorbed via passive diffusion and the extent of absorption is low (∼1%). Chromium is maintained in the bloodstream bound to the protein transferrin. It is generally believed to be delivered to tissues by transferrin via endocytosis (1). No unambiguous animal model of chromium deficiency has been established (2). One limitation in characterizing chromium deficiency in humans is the lack of an accepted biomarker of chromium nutritional status. Attempts to identify a glucose tolerance factor have not provided a chemically defined functional compound that conforms with the proposed physiologic role of chromium as a facilitator of insulin action in vivo.

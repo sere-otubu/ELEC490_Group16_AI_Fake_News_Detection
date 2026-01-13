@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hearing aids
+TITLE: Intelligent hearing aids: the next revolution.
+PMID: 28268284
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28268284/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The first revolution in hearing aids came from nonlinear amplification, which allows better compensation for both soft and loud sounds. The second revolution stemmed from the introduction of digital signal processing, which allows better programmability and more sophisticated algorithms. The third revolution in hearing aids is wireless, which allows seamless connectivity between a pair of hearing aids and with more and more external devices. Each revolution has fundamentally transformed hearing aids and pushed the entire industry forward significantly. Machine learning has received significant attention in recent years and has been applied in many other industries, e.g., robotics, speech recognition, genetics, and crowdsourcing. We argue that the next revolution in hearing aids is machine intelligence. In fact, this revolution is already quietly happening. We will review the development in at least three major areas: applications of machine learning in speech enhancement; applications of machine learning in individualization and customization of signal processing algorithms; applications of machine learning in improving the efficiency and effectiveness of clinical tests. With the advent of the internet of things, the above developments will accelerate. This revolution will bring patient satisfactions to a new level that has never been seen before.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rare diseases
+TITLE: The burden of rare diseases.
+PMID: 30883013
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30883013/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The subject of rare disease numbers is rife with misconceptions, not just in websites and other layman's literature, but also in the medical literature. Various websites mention numbers that are not validated by any solid data, while in turn the medical literature cites the aforementioned websites as sources, thus perpetuating a number of myths about rare diseases and their burden. We review the existing literature on rare disease numbers, in an attempt to demystify the subject. Specifically, we summarize data pertaining to: (a) known number and cumulative prevalence of rare diseases; (b) rare disease-associated mortality; (c) rare disease-associated morbidity, including numbers on health care services related to rare diseases; and (d) orphan drug numbers.

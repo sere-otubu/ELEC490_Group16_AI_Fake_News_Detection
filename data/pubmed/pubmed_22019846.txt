@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Down syndrome
+TITLE: Down syndrome as a model of DNA polymerase beta haploinsufficiency and accelerated aging.
+PMID: 22019846
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22019846/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Down syndrome is a condition of intellectual disability characterized by accelerated aging. As with other aging syndromes, evidence accumulated over the past several decades points to a DNA repair defect inherent in Down syndrome. This evidence has led us to suggest that Down syndrome results in reduced DNA base excision repair (BER) capacity, and that this contributes to the genomic instability and the aging phenotype of Down syndrome. We propose important roles for microRNA and/or folate metabolism and oxidative stress in the dysregulation of BER in Down syndrome. Further, we suggest these pathways are involved in the leukemogenesis of Down syndrome. We have reviewed the role of BER in the processing of oxidative stress, and the impact of folate depletion on BER capacity. Further, we have reviewed the role that loss of BER, specifically DNA polymerase beta, plays in accelerating the rate of aging. Like that seen in the DNA polymerase beta heterozygous mouse, the aging phenotype of Down syndrome is subtle, unlike the aging phenotypes seen in the classical progeroid syndromes and mouse models of aging. As such, Down syndrome may provide a model for elucidating some of the basic mechanisms of aging.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rabies
+TITLE: Rabies: a medical perspective.
+PMID: 30747124
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30747124/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Rabies is an acute neurological infection of humans and animals, caused by rabies virus and usually transmitted by animal bites. After an incubation period usually lasting weeks or longer, a variety of prodromal symptoms may occur. Encephalitic rabies (80% of cases) is associated with episodes of generalised arousal or hyperexcitability and hydrophobia, in which spasms involve the contraction of inspiratory muscles with swallowing. Paralytic rabies (in 20% of cases) is characterised by progressive lower motor neuron weakness. Laboratory investigations are important for confirming an ante mortem diagnosis of rabies. Cardiopulmonary and many other complications, including multiple organ failure, are common in aggressively managed rabies patients in critical care units. No effective therapy is available for rabies and survivors are uncommon. In contrast, preventative measures for rabies are highly effective after recognised exposures.

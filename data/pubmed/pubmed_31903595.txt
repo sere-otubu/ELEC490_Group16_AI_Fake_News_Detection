@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pain management
+TITLE: Acute postoperative pain management.
+PMID: 31903595
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31903595/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Acute postoperative pain is common. Nearly 20 per cent of patients experience severe pain in the first 24 h after surgery, a figure that has remained largely unchanged in the past 30 years. This review aims to present key considerations for postoperative pain management. A narrative review of postoperative pain strategies was undertaken. Searches of the Cochrane Library, PubMed and Google Scholar databases were performed using the terms postoperative care, psychological factor, pain management, acute pain service, analgesia, acute pain and pain assessment. Information on service provision, preoperative planning, pain assessment, and pharmacological and non-pharmacological strategies relevant to acute postoperative pain management in adults is presented, with a focus on enhanced recovery after surgery pathways. Adequate perioperative pain management is integral to patient care and outcomes. Each of the biological, psychological and social dimensions of the pain experience should be considered and understood in order to provide optimum pain management in the postoperative setting.

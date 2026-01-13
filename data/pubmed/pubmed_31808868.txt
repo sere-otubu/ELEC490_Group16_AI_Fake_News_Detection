@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hemophilia
+TITLE: Gene therapy for hemophilia.
+PMID: 31808868
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31808868/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gene therapy offers the potential for a cure for patients with hemophilia by establishing continuous endogenous expression of factor VIII or factor IX (FIX) following transfer of a functional gene to replace the hemophilic patient's own defective gene. The hemophilias are ideally suited for gene therapy because a small increment in blood factor levels (≥5% of normal) is associated with significant amelioration of bleeding phenotype in severely affected patients. In 2011, the St. Jude/UCL phase 1/2 trial was the first to provide clear evidence of a stable dose-dependent increase in FIX levels in patients with severe hemophilia B following a single administration of adeno-associated viral (AAV) vectors. Transgenic FIX expression has remained stable at ∼5% of normal in the high-dose cohort over a 7-year follow-up period, resulting in a substantial reduction in spontaneous bleeding and FIX protein usage without toxicity. This study has been followed by unparalleled advances in gene therapy for hemophilia A and B, leading to clotting factor activity approaching normal or near-normal levels associated with a "zero bleed rates" in previously severely affected patients following a single administration of AAV vectors. Thus, AAV gene therapies are likely to alter the treatment paradigm for hemophilia A and B. This review explores recent progress and the remaining limitations that need to be overcome for wider availability of this novel treatment of inherited bleeding disorders.

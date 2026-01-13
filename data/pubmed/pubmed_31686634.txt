@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Autoimmune diseases
+TITLE: Update on Autoimmune Diseases Pathogenesis.
+PMID: 31686634
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31686634/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Autoimmune diseases result from the interplay of cellular effectors like T and B cells, regulatory cells in addition to molecular factors like cytokines and regulatory molecules. Different electronic databases were searched in a non-systematic way to find out the literature of interest. Pathogenesis of autoimmune diseases involves typical factors such as genetic background including HLA and non HLA system genes, environmental factors such as infectious agents and inflammatory cells mainly T and B lymphocytes abnormally activated leading to immune dysfunction. Other recently reported less typical factors such as micro-RNAs, circular RNAs, myeloperoxidase, vimentine and microbiome dysbiosis seem to be potential target therapies. We aimed in this manuscript to review common factors in the pathogenesis of autoimmune diseases.

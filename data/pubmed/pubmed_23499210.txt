@@ -1,0 +1,8 @@
+SEARCH_TOPIC: OCD
+TITLE: Sleep and obsessive-compulsive disorder (OCD).
+PMID: 23499210
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23499210/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Obsessive-compulsive disorder (OCD) is a chronic mental illness that can have a debilitating effect on daily functioning. A body of research reveals altered sleep behaviour in OCD sufferers; however, findings are inconsistent and there is no consensus on the nature of this relationship. Understanding sleep disturbance in OCD is of critical importance given the known negative consequences of disturbed sleep for mood and emotional wellbeing. A systematic literature search was conducted of five databases for studies assessing sleep in adults diagnosed with OCD. Fourteen studies met inclusion criteria and qualitative data analysis methods were used to identify common themes. There was some evidence of reduced total sleep time and sleep efficiency in OCD patients. Many of the sleep disturbances noted were characteristic of depression. However, some OCD sufferers displayed delayed sleep onset and offset and an increased prevalence of delayed sleep phase disorder (DSPD). Severe OCD symptoms were consistently associated with greater sleep disturbance. While the sleep of OCD patients has not been a major focus to date, the existing literature suggests that addressing sleep disturbance in OCD patients may ensure a holistic approach to treatment, enhance treatment efficacy, mitigate relapse and protect against the onset of co-morbid psychiatric illnesses.

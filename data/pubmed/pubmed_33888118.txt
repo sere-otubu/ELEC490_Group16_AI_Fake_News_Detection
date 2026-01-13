@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Burnout syndrome
+TITLE: Burnout syndrome in Spanish medical students.
+PMID: 33888118
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33888118/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Burnout syndrome is a frequent syndrome related to people that feel a deterioration in their daily activities due to highly demandant psychological requirements in their workplaces. Within last decades, this syndrome has been studied across medical professionals, concluding that stress levels that physicians suffer is high enough to make them develop burnout syndrome. In the case of medical students, there are some recent studies, although with small samples. For this reason, given that this phenomenon may produce a huge impact in medical students' development, the aim of this study is to analyze the influential factors that may contribute to its occurrence. The necessary information was gathered through a web-based questionnaire, divided in two parts. The first part of the survey included questions related to personal aspects of the students. Burnout related questions (second part) were divided in three subscales to evaluate exhaustion, cynicism, and academic efficacy levels. Family support for studying medicine is associated with lower burnout levels in all three scales of the Maslach Burnout Inventory. The number of years spent in the degree show the opposite trend: the more years in the degree, the higher score in all burnout scales. Burnout syndrome is a problem among medical students in Spain that increases with the number of years studying medicine. It should be also noticed that family support and vocational studies are independent factors related to lower levels of burnout.

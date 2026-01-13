@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Typhoid fever
+TITLE: A Systematic Review of Typhoid Fever Occurrence in Africa.
+PMID: 31665777
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31665777/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Our current understanding of the burden and distribution of typhoid fever in Africa relies on extrapolation of data from a small number of population-based incidence rate estimates. However, many other records on the occurrence of typhoid fever are available, and those records contain information that may enrich our understanding of the epidemiology of the disease as well as secular trends in reporting by country and over time. We conducted a systematic review of typhoid fever occurrence in Africa, published in PubMed, Embase, and ProMED (Program for Monitoring Emerging Diseases). At least one episode of culture-confirmed typhoid fever was reported in 42 of 57 African countries during 1900-2018. The number of reports on typhoid fever has increased over time in Africa and was highly heterogeneous between countries and over time. Outbreaks of typhoid fever were reported in 15 countries, with their frequency and size increasing over time. Efforts should be made to leverage existing typhoid data, for example, by incorporating them into models for estimating the burden and distribution of typhoid fever.

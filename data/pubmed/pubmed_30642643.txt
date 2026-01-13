@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Statins
+TITLE: Effect of statins on atherosclerotic plaque.
+PMID: 30642643
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30642643/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lipid lowering therapy has been the mainstay of cardiovascular risk reduction and prevention. Statin drugs have been shown to reduce serum cholesterol along with significant reduction in morbidity and mortality of cardiovascular disease. Whether these benefits are purely through lipid lowering or pleiotropic (cholesterol independent) effects has yet to be fully understood. Advances in cardiac imaging, from intravascular ultrasound to multi-detector coronary computed tomography angiography, have furthered our understanding of statin's effect on atherosclerotic plaque. Notably, statins play a role in plaque regression with reduction in lipid content. These drugs further stabilize atherosclerotic plaque with thickened fibrous caps and macrocalcification that serves to stabilize atheromas.

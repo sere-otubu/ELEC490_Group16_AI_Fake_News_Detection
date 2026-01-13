@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Health literacy
+TITLE: Investigating Health Literacy in Systemic Lupus Erythematosus: a Descriptive Review.
+PMID: 33184709
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33184709/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Inadequate health literacy is common among American adults, but little is known about the impact of health literacy in rheumatic diseases. The purpose of this article is to review studies investigating health literacy and its association with clinical outcomes in systemic lupus erythematosus (SLE). Several validated health literacy measures have been examined in SLE patients. Low health literacy is associated with worse patient-reported outcomes and lower numeracy with higher disease activity. Two studies found no association of low health literacy with medication adherence. One randomized controlled trial tested a medication decision aid among patients with low health literacy. We found a paucity of studies exploring health literacy in SLE. Low health literacy is associated with worse patient-reported outcomes and limited numeracy with higher disease activity in SLE. Further studies are needed exploring the impact of low health literacy on clinical outcomes and the effectiveness of literacy-sensitive interventions.

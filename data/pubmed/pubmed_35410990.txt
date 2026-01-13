@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vaping health risks
+TITLE: Global youth vaping and respiratory health: epidemiology, interventions, and policies.
+PMID: 35410990
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35410990/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+E-cigarette usage (also known as e-cigarettes or vaping products) has increasingly been recognized as a global public health problem. One challenge in particular involves their marketing to minors (teenagers and children) and the rising prevalence of use in this population. E-cigarettes unnecessarily expose minors to health risks, these include respiratory health problems, such as exacerbations of asthma, bronchitis, and respiratory-tract irritation. Nicotine, commonly found in e-cigarettes, is also associated with cognitive impairment and neurodevelopmental problems. E-cigarettes are also risk factors for downstream substance use, including cigarettes and cannabis initiation (the gateway hypothesis), which compounds health risks in dual users. Current public health preventative and intervention studies are limited, and there is a clear need for more interventions that may prevent usage and assist with cessation in this vulnerable population. Physician education and screening uptake should also be enhanced. Stricter public health policy and protection measures are also needed on a global scale to limit e-cigarette exposure in minors.

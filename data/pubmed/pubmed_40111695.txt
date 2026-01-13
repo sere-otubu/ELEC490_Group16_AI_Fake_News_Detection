@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hormones types
+TITLE: Hormonal Environment Shapes the Oral Microbiome.
+PMID: 40111695
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40111695/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hormones are present in oral fluids and undergo dynamic changes throughout life. Hormonal changes can influence the interactions between the microbial community and the host. The oral microbiome is sensitive to changes in the oral environment, and hormonal fluctuations can create conditions that favour the growth of certain types of bacteria over others. Since the gingival niche harbours the resident microbial community in the biofilm form, while saliva has a transient microbiota in the planktonic form, both could modulate the host-microbial interaction under hormonal oscillations.The microbiome and hormones have a dynamic bidirectional interaction. Specific oral microorganisms can metabolize steroid hormones, disrupting their host regulation. Hormones can serve as host-microbial crosstalk related to health and disease. Hormonal imbalances are associated with systemic diseases such as polycystic ovary syndrome, endometriosis, cortisol-related conditions and oral cancer. Elucidating the complex relationship between steroid hormones and the oral microbiome offers valuable insights into the mechanisms of the disease and potential therapeutic avenues for maintaining oral and systemic health.

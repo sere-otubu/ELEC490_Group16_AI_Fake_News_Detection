@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hormone replacement therapy
+TITLE: Thyroid hormone replacement therapy in dialysis/renal insufficiency patients.
+PMID: 40078580
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40078580/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Dialysis/renal insufficiency patients are often accompanied by hypothyroidism due to renal damage, the mechanisms of which are complex. The use of thyroid hormone replacement therapy in such patients has become an important clinical issue. This article reviews the mechanism of hypothyroidism in dialysis/renal insufficiency patients and describes the importance and precautions of thyroid hormone replacement therapy to provide a reference for clinical diagnosis and treatment.

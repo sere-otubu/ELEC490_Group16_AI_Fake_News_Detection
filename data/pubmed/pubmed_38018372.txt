@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood tests interpretation
+TITLE: Validating blood tests as a possible routine diagnostic assay of Alzheimer's disease.
+PMID: 38018372
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38018372/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In recent years, exciting developments in disease modifying treatments for Alzheimer's disease (AD) have made accurate and timely diagnosis of this disease a priority. Blood biomarkers (BBMs) for amyloid pathology using improved immunoassay and mass spectrometry techniques have been an area of intense research for the last 10 years and are coming to the fore, as a real prospect to be used in the clinical diagnostics of the disease. The following review will update and discuss blood biomarkers that will be most useful in diagnosing AD and the context necessary for their implementation. It is clear we now have BBMs, and technology to measure them, that are capable of detecting amyloid pathology in AD. The challenge is to validate them across platforms and populations to incorporate them into clinical practice. It is important that implementation comes with education, we need to give clinicians the tools for appropriate use and interpretation. It is feasible that BBMs will be used to screen populations, initially for clinical trial entry but also therapeutic intervention in the foreseeable future. We now need to focus BBM research on other pathologies to ensure we accelerate the development of therapeutics for all neurodegenerative diseases.

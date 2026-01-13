@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Physical therapy
+TITLE: Physical therapy and rehabilitation in the management of rheumatic disorders.
+PMID: 11092800
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11092800/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Medical interventions focus on causation and disease processes, while rehabilitation, including most elements of physical therapy, is concerned with the consequences of disease. Its goals are to reduce symptoms, improve function and minimize disability. In rheumatology, the rehabilitation perspective mainly concerns patients with back pain, soft tissue and age-related musculoskeletal problems. In inflammatory diseases, anatomical and functional rehabilitation management includes joint protection, the maintenance of physical fitness and the prevention of impairment. This chapter will focus on essential therapeutic options and strategies in the rehabilitation of rheumatic disorders. It includes the evidence-based description of measurement instruments, joint mobilization, muscle techniques and physical modalities.

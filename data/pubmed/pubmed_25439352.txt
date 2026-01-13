@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Asthma
+TITLE: Asthma phenotypes: nonallergic (intrinsic) asthma.
+PMID: 25439352
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25439352/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The definition of nonallergic asthma includes that subset of subjects with asthma and with whom allergic sensitization cannot be demonstrated. These individuals should have negative skin prick test or in vitro specific-IgE test to a panel of seasonal and perennial allergens. Nonallergic asthma occurs in 10% to 33% of individuals with asthma and has a later onset than allergic asthma, with a female predominance. Nonallergic asthma appears to be more severe than allergic asthma in many cases and may be less responsive to standard therapy. Although many of the immunopathologic features of nonallergic asthma are similar to those observed with allergic asthma, some differences have been described, including a higher expression of RANTES in mucosa and bronchoalveolar lavage fluid, as well as a higher GM-CSF receptor alpha expression. Unbiased statistical methods, such as cluster analysis and latent class analysis, indicate that the lack of atopy is not the most important defining factor in assigning an individual to many specific phenotypes but rather is more important in some phenotypes than others, and appears to modulate the clinical expression of the disease. Despite an appreciation of this clinical entity for many years, many of its clinical implications remain unclear.

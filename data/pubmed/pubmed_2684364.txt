@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Thyroid gland
+TITLE: The thyroid gland and the dental practitioner.
+PMID: 2684364
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2684364/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The thyroid gland has an important function in almost every aspect of human physiology. As well, its location in the neck allows for easy evaluation by the dentist. Part I of this paper reviews the normal functions of the thyroid gland as well as systemic effects caused by abnormal function. This is supplemented by easily-acquired methods of physical examination of the thyroid gland suitable for the dental practitioner. Part II is a case report highlighting the potential adverse effects of dental treatment of a patient who had poorly controlled thyroid function following total thyroidectomy.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HIV AIDS
+TITLE: HIV cure: an acceptability scientific agenda.
+PMID: 36503877
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36503877/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Recent years have seen major investments into HIV cure research, seeking a permanent cure or remission. The purpose of this review is to consider how this important research agenda could be broadened to include issues of acceptability and appropriateness for different populations. We discuss how the definitions of cure such as functional cure (remission) or complete cure (viral elimination) could be interpreted differently by various populations. We also discuss the different methods of cure and the importance of including Africa in cure research to ensure that emerging remedies could be trialled and utilized on the continent that bears the brunt of the AIDS pandemic. We propose that the social science research of HIV cure acceptability should be done concurrently with the basic and clinical sciences, to ensure that cure methods consider stakeholder preferences.

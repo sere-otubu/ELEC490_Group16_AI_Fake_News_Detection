@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Health equity
+TITLE: Health Equity and Access to Health Care as a Social Determinant of Health: The Role of the Primary Care Provider.
+PMID: 37866830
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37866830/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Populations of people who suffer poorer health outcomes and increased disease burden, particularly preventable diseases, injury, and violence are experiencing health inequity. Achieving greater health equity by addressing social determinants of health and access to health care is the goal of many primary care physicians, health care advocates, and policy makers. Race, geographic location, age, poverty, disabilities, gender, and mental health are common examples of factors that determine health equity. Access to health care, by itself is a predictor of health outcomes and is influenced by many of the same factors.

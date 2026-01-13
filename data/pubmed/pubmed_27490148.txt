@@ -1,0 +1,8 @@
+SEARCH_TOPIC: White blood cells
+TITLE: Deterministic Migration-Based Separation of White Blood Cells.
+PMID: 27490148
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27490148/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Functional and phenotypic analyses of peripheral white blood cells provide useful clinical information. However, separation of white blood cells from peripheral blood requires a time-consuming, inconvenient process and thus analyses of separated white blood cells are limited in clinical settings. To overcome this limitation, a microfluidic separation platform is developed to enable deterministic migration of white blood cells, directing the cells into designated positions according to a ridge pattern. The platform uses slant ridge structures on the channel top to induce the deterministic migration, which allows efficient and high-throughput separation of white blood cells from unprocessed whole blood. The extent of the deterministic migration under various rheological conditions is explored, enabling highly efficient migration of white blood cells in whole blood and achieving high-throughput separation of the cells (processing 1 mL of whole blood less than 7 min). In the separated cell population, the composition of lymphocyte subpopulations is well preserved, and T cells secrete cytokines without any functional impairment. On the basis of the results, this microfluidic platform is a promising tool for the rapid enrichment of white blood cells, and it is useful for functional and phenotypic analyses of peripheral white blood cells.

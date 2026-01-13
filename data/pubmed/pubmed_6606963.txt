@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Biopsy
+TITLE: Percutaneous biopsy.
+PMID: 6606963
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6606963/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Percutaneous biopsies are the most frequent interventional radiographic procedure. Their increased use is related to new imaging techniques facilitating needle placement, greater safety of small needles, and advances in cytology. Many commonly biopsied sites could not be biopsied 10 years ago. Percutaneous biopsies can be performed with both safety and accuracy. Accuracy rates vary among institutions and according to the organ biopsied, but in general they depend on operator expertise, patient cooperation, number of samples obtained, and close cooperation of the pathologist. The contribution of percutaneous biopsies to more efficient diagnosis and treatment planning indicates they will be used increasingly in the future. The yield and risks of percutaneous biopsy are reviewed, and technical considerations in applications to specific sites are discussed.

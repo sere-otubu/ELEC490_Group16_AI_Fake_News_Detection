@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hypotension
+TITLE: Drug-Related Orthostatic Hypotension: Beyond Anti-Hypertensive Medications.
+PMID: 32894454
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32894454/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Orthostatic hypotension (OH) is an abnormal blood pressure response to standing, which is associated with an increased risk of adverse outcomes such as syncope, falls, cognitive impairment, and mortality. Medical therapy is one the most common causes of OH, since numerous cardiovascular and psychoactive medications may interfere with the blood pressure response to standing, leading to drug-related OH. Additionally, hypotensive medications frequently overlap with other OH risk factors (e.g., advanced age, neurogenic autonomic dysfunction, and comorbidities), thus increasing the risk of symptoms and complications. Consequently, a medication review is recommended as a first-line approach in the diagnostic and therapeutic work-up of OH, with a view to minimizing the risk of drug-related orthostatic blood pressure impairment. If symptoms persist after the review of hypotensive medications, despite adherence to non-pharmacological interventions, specific drug treatment for OH can be considered. In this narrative review we present an overview of drugs acting on the cardiovascular and central nervous system that may potentially impair the orthostatic blood pressure response and we provide practical suggestions that may be helpful to guide medical therapy optimization in patients with OH. In addition, we summarize the available strategies for drug treatment of OH in patients with persistent symptoms despite non-pharmacological interventions.

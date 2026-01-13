@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Processed foods
+TITLE: Ultra-processed foods and health: a comprehensive review.
+PMID: 35658669
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35658669/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Dramatically increasing trends in consumption of ultra-processed foods have been reported across the globe. Public concern about the health consequences of ultra-processed foods is high. This manuscript provides a comprehensive review of trends in global consumption of ultra-processed foods, dietary nutrient profile of ultra-processed foods, demographic, socioeconomic, psychological, and behavioral characteristics of ultra-processed food consumers, current evidence from longitudinal studies at the population level on the association between ultra-processed foods consumption and major health outcomes (including all-cause and cause-specific mortality, cardiovascular disease, overweight and obesity, body composition and fat deposition, diabetes, cancer, and gastrointestinal and other diseases), potential mechanisms linking ultra-processed foods with these outcomes (nutrient displacement, factors that influence adiposity, and processing), and challenges and future research directions. The global trends in consumption of ultra-processed foods, the generally unfavorable nutrient profile of ultra-processed foods, the characteristics of ultra-processed food consumers, the accumulating longitudinal studies associating ultra-processed foods with major health outcomes, and the uncertainties and complexities in putative mechanisms all highlight the need for future high-quality epidemiologic and mechanistic investigations on this topic. It is critical to interpret findings in the light of the totality of evidence.

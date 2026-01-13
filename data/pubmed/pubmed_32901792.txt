@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Speech therapy
+TITLE: Evaluation of physiotherapy and speech therapy treatment in patients with apraxia: a systematic review and meta-analysis.
+PMID: 32901792
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32901792/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Apraxia affects 20% of the right brain-damaged patients and 50% of the left brain-damaged patients. This disorder of motor programming reduces patients' independence and there are few guidelines on the rehabilitative treatment in the physiotherapy and speech therapy field.The aim of this study was to assess which therapeutic interventions are the most effective in stroke patients with apraxia in considering the mentioned purviews. Four databases were systematically searched in order to detect all available studies investigating the physical and speech rehabilitation of patients. The literature research produced five studies including 168 patients for the physiotherapy and 50 for speech therapy fields; two were eligible for meta-analysis. Quality was rated with Jadad, PEDro scale and Cochrane Risk Of Bias Tool. Both for physiotherapy and speech therapy fields, the RCTs interventions obtained statistically significant results for outcomes of interest. Despite this, it is still not possible to determine the best approach due to the low number of patients involved, the lack of maintenance of the results at follow up and the timing of the revaluation period being very short to confirm the efficacy of treatments.

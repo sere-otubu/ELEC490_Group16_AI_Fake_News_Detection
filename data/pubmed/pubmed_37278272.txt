@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immunotherapy
+TITLE: Progress in Guillain-Barré syndrome immunotherapy-A narrative review of new strategies in recent years.
+PMID: 37278272
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37278272/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Guillain - Barré syndrome (GBS) is an immune-mediated neuropathy, the pathology of which is not clear. Both cellular and humoral immunity are involved in the occurrence of the disease, and molecular mimicry is currently the most widely recognized pathogenesis. Intravenous immunoglobulin (IVIg) and plasma exchange (PE) have been proven to be effective in improving the prognosis of patients with GBS, but there has been no progress in the treatment of the disease or strategies to improve the prognosis. New treatment strategies for GBS are mostly immunotherapies, including treatment against antibodies, complement pathways, immune cells and cytokines. Some of the new strategies are being investigated in clinical trials, but none of them have been approved for the treatment of GBS. Here, we summarized the current therapies for GBS, and new immunotherapies for GBS according to pathogenesis.

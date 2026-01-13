@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Metformin
+TITLE: Metformin derivatives - Researchers' friends or foes?
+PMID: 37591450
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37591450/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Metformin has been used for ages to treat diabetes mellitus due to its safety profile and low cost. However, metformin has variable pharmacokinetics in patients, and due to its poor oral absorption, the therapeutic doses are relatively high, causing unpleasant gastrointestinal adverse effects. Therefore, novel derivatives of metformin have been synthesized during the past decades. Particularly, after the mid-2000 s, when organic cation transporters were identified as the main metformin carriers, metformin derivatives have been under intensive investigation. Nevertheless, due to the biguanide structure, derivatives of metformin have been challenging to synthesize. Moreover, the mechanisms of metformin's action are not fully understood to date, and since it has multifunctional properties, the interests have switched to re-purposing for other diseases. Indeed, metformin derivatives have been demonstrated in many cases to be more effective than metformin itself and have the potential to be used in different diseases, including several types of cancers and neurodegenerative diseases. On the other hand, the pleiotropic nature of metformin and its derivatives can also create challenges. Not all properties are fit for all diseases. In this review, the history of the development of metformin-like compounds is summarized, and insights into their potential for future drug discovery are discussed.

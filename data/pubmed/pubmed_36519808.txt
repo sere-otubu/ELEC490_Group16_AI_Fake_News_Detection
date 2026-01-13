@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Plant based protein
+TITLE: Plant-derived extracellular vesicles: Recent advancements and current challenges on their use for biomedical applications.
+PMID: 36519808
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36519808/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Extracellular vesicles (EVs) represent a diverse class of lipid bilayer membrane vesicles released by both animal and plant cells. These ubiquitous vesicles are involved in intercellular communication and transport of various biological cargos, including proteins, lipids, and nucleic acids. In recent years, interest in plant-derived EVs has increased tremendously, as they serve as a scalable and sustainable alternative to EVs derived from mammalian sources. In vitro and in vivo findings have demonstrated that these plant-derived vesicles (PDVs) possess intrinsic therapeutic activities that can potentially treat diseases and improve human health. In addition, PDVs can also act as efficient and biocompatible drug carriers. While preclinical studies have shown promising results, there are still several challenges and knowledge gaps that have to be addressed for the successful translation of PDVs into clinical applications, especially in view of the lack of standardised protocols for material handling and PDV isolation from various plant sources. This review provides the readers with a quick overview of the current understanding and research on PDVs, critically analysing the current challenges and highlighting the immense potential of PDVs as a novel class of therapeutics to treat human diseases. It is expected that this work will guide scientists to address the knowledge gaps currently associated with PDVs and promote new advances in plant-based therapeutic solutions.

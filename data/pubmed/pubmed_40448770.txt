@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rheumatoid arthritis
+TITLE: Models of Rheumatoid Arthritis.
+PMID: 40448770
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40448770/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Mice models induced by immunization are used to study rheumatoid arthritis (RA) and its molecular mechanisms. In this article, we describe three models that mimic the clinical symptoms of human RA and can be applied to genetically modified mice. The collagen-induced arthritis (CIA), K/BxN serum-induced arthritis (SIA), and antigen-induced arthritis (AIA) models will be presented. To achieve this, we will describe their method of induction and how to analyze RA clinical scores and pathology characteristics. Finally, we will briefly discuss the main features and drawbacks of all three models.

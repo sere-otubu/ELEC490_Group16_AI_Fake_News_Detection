@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Keto diet
+TITLE: Ketogenic Diet and Inflammation: Implications for Mood and Anxiety Disorders.
+PMID: 36949325
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36949325/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The ketogenic diet, known as a low-carbohydrate, high-protein, and high-fat diet, drastically restrains the major source of energy for the body, forcing it to burn all excess fat through a process called ketosis-the breaking down of fat into ketone bodies. First suggested as a medical treatment for children suffering from epilepsy, this diet has gained increased popularity as a rapid weight loss strategy. Over the past few years, there have been numerous studies suggesting that the ketogenic diet may provide therapeutic effects for several psychiatric conditions such as mood- and anxiety-related disorders. However, despite significant progress in research, the mechanisms underlying its therapeutic effects remain largely unexplored and are yet to be fully elucidated. This chapter provides an in-depth overview of preclinical and clinical evidence supporting the use of a ketogenic diet in the management of mood and anxiety disorders and discusses its relationship with inflammatory processes and potential mechanisms of actions for its therapeutic effects.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Female infertility
+TITLE: Female infertility.
+PMID: 9922911
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9922911/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article has provided outcome-based evidence using easily understood graphic representation of cumulative pregnancy rates whenever possible for the methods used to investigate and treat female infertility. A scheme of basic routine investigations in specialist practice is developed and clear guidance provided on the choice of treatment for each couple.

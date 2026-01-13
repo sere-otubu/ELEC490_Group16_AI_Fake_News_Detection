@@ -1,0 +1,8 @@
+SEARCH_TOPIC: NSAIDs side effects
+TITLE: NSAID: Current limits to prescription.
+PMID: 38159794
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38159794/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Non-steroidal anti-inflammatory drugs (NSAIDs) are commonly prescribed to alleviate pain and inflammation in conditions like arthritis, migraines, and post-operative recovery. Their mechanism involves inhibiting prostaglandins that contribute to inflammation. NSAIDs are categorized based on their structure, selectivity for COX-1 and COX-2 enzymes, and plasma half-life. They are effective in treating osteoarthritis, spondyloarthritis, and rheumatoid arthritis but might carry an elevated risk of adverse events. Despite their effectiveness, NSAIDs have limitations and risks that warrant cautious consideration. Extensive research has investigated their side effects, and this review aims to examine the current limitations of oral NSAID therapy, including safety profiles, specific scenarios where their use may not be appropriate, and gaps in knowledge. By critically evaluating these aspects, healthcare practitioners can make informed decisions about prescribing NSAIDs, optimizing patient outcomes while minimizing potential risks. This narrative review summarizes existing knowledge and underscores the importance of risk-benefit assessments in NSAID prescribing. Ultimately, the goal is to enhance the rational use of NSAIDs, maximizing benefits while mitigating adverse effects.

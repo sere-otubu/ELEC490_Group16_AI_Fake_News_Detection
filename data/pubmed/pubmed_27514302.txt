@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antidepressants
+TITLE: Antidepressants and Suicidality.
+PMID: 27514302
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27514302/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+We review the evidence that antidepressants either increase or decrease the risk for suicidal ideation and behavior in adolescents. Meta-analyses of randomized clinical trials (RCTs) indicate a small increased risk for suicidal events in adolescents and young adults, but a protective effect in older adults. In contrast, pharmacoepidemiologic studies show a protective effect across the life span. Explanations for occurrence of suicidal events in younger patients and for the apparent contradiction between RCT and pharmacoepidemiologic studies are offered. Guidance for clinicians is provided on explaining the risk-benefit ratio of antidepressants and how to monitor and attenuate for suicidal risk.

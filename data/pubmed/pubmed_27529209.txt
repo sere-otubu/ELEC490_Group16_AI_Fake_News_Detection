@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Acne vulgaris
+TITLE: Treatment Modalities for Acne.
+PMID: 27529209
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27529209/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Acne is a common inflammatory skin disease which affects the pilosebaceous units of the skin. It can have severe psychological effects and can leave the patient with severe skin scarring. There are four well-recognized pathological factors responsible for acne which is also the target for acne therapy. In this review, different treatment options are discussed, including topical (i.e., retinoids, and antibiotics) and systemic (i.e., retinoids, antibiotics, and hormonal) treatments. Since the general public has been showing an increasing interest in more natural and generally safer treatment options, the use of complementary and alternative medicines (CAM) for treating acne was also discussed. The use of physical therapies such as comedone extraction, cryoslush therapy, cryotherapy, electrocauterization, intralesional corticosteroids and optical treatments are also mentioned. Acne has been extensively researched with regards to the disease mechanism as well as treatment options. However, due to the increasing resistance of Propionibacterium acnes towards the available antibiotics, there is a need for new treatment methods. Additionally, the lack of necessary evidence on the efficacy of CAM therapies makes it necessary for researchers to investigate these treatment options further.

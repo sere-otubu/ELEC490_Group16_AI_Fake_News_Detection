@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hepatitis C
+TITLE: Molecular surveillance of hepatitis C.
+PMID: 23321496
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23321496/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+With public health focusing on reduction of morbidity and mortality in the human population, transmission and virulence are major targets of molecular disease surveillance. Current molecular approaches to the detection of HCV transmission are based on phylogenetic analysis of intra-host HCV variants. Next-generation sequencing and mass spectrometry offer significant improvements in accuracy, throughput and cost of the transmission identification. Resistance to interferon (IFN) is an important virulence factor as it is essential for establishment of HCV infection and development of disease. IFN resistance has been shown to be associated quantitatively with epistatic connectivity among sites in the HCV genome, thus paving the way for genetic detection of virulence. Integration of genetic testing with computational models that automatically interpret the complex genetic parameters into transmission events and virulence is fundamental to comprehensive molecular surveillance of hepatitis C.

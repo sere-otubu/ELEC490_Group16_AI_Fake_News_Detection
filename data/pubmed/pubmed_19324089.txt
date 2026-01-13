@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ultrasound
+TITLE: Ultrasound molecular imaging.
+PMID: 19324089
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19324089/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ultrasound molecular imaging is based on the specific acoustic properties of acoustically active, gas-filled microbubbles (ultrasound contrast agents), which can be sensitively imaged with regular ultrasound methods. Modulating shell properties or binding specific probes to the microbubbles allows to target them to histological structures of interest. Due to the size and mode of delivery, microbubbles can mainly target intravascular epitopes. Fortunately, most disease processes result in the expression of such markers on local endothelium of the tissue microvasculature, allowing its targeted contrast ultrasound imaging. Ultrasound molecular imaging is an easy to use and cheap technique which can be made widely available. It is highly sensitive and offers a better spatial and temporal resolution compared to other, in particular nuclear molecular imaging techniques. Specific microbubble properties allow mechanical interaction with the surrounding tissue once the bubble is insonated. This raises safety concerns but bears also potential for therapeutic applications of this technique. The following article reviews the acoustic properties of ultrasound contrast agents and the imaging methods for their detection and quantification. Current concepts of microbubble targeting are discussed and experimental and clinical applications presented.

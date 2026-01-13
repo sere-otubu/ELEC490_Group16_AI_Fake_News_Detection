@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antibiotic resistance
+TITLE: Antibiotic resistance genes in the subgingival microbiome and implications for periodontitis therapy.
+PMID: 37254939
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37254939/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Antibiotic resistance is emerging as a global public threat. However, it remains poorly investigated in the context of periodontal therapy. The aim of the study was to investigate the complete diversity of antibiotic resistance genes in a German population. Thirty-nine volunteers with periodontitis contributed to the present study with one to four periodontal pockets for a total of 124 subgingival samples. Samples were analyzed using shotgun metagenomics. A total of 19 antibiotic resistance genes from six antibiotic classes were detected in subgingival biofilm. Two thirds of the volunteers (n = 26/39) showed antibiotic resistance genes for at least one of the antibiotic classes used for periodontal treatment in dental practice or research: beta-lactam, lincosamide, macrolide, nitroimidazole, and tetracycline. Macrolide was the most abundant class detected (21/39 patients). Findings from our study suggest a high prevalence of antibiotic resistance genes in periodontal pockets from German volunteers. We recommend the development and broader use of molecular diagnostic tests for antibiotic resistance in dental practice to ensure treatment success and to minimize antibiotic resistance.

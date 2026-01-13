@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Maternal mortality rates
+TITLE: Epidemiology of maternal morbidity and mortality.
+PMID: 28823579
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28823579/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Maternal morbidity and mortality remains a significant health care concern in the United States, as the rates continue to rise despite efforts to improve maternal health. In 2013, the United States ranked 60th in maternal mortality worldwide. We review the definitions, rates, trends, and top causes of severe maternal morbidity and mortality, as well as risk factors for adverse maternal outcomes. We describe current local and national initiatives in place to reduce maternal morbidity and mortality and offer suggestions for future research.

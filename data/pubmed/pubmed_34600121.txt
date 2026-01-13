@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Osteoarthritis
+TITLE: How does hip osteoarthritis differ from knee osteoarthritis?
+PMID: 34600121
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34600121/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hip and knee osteoarthritis (OA) are leading causes of global disability. Most research to date has focused on the knee, with results often extrapolated to the hip, and this extends to treatment recommendations in clinical guidelines. Extrapolating results from research on knee OA may limit our understanding of disease characteristics specific to hip OA, thereby constraining development and implementation of effective treatments. This review highlights differences between hip and knee OA with respect to prevalence, prognosis, epigenetics, pathophysiology, anatomical and biomechanical factors, clinical presentation, pain and non-surgical treatment recommendations and management.

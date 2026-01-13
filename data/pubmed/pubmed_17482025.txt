@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Food poisoning
+TITLE: Food poisoning.
+PMID: 17482025
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17482025/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Food poisoning is encountered throughout the world. Many of the toxins responsible for specific food poisoning syndromes are no longer limited to isolated geographic locations. With increased travel and the ease of transporting food products, it is likely that a patient may present to any emergency department with the clinical effects of food poisoning. Recognizing specific food poisoning syndromes allows emergency health care providers not only to initiate appropriate treatment rapidly but also to notify health departments early and thereby prevent further poisoning cases. This article reviews several potential food-borne poisons and describes each agent's mechanism of toxicity, expected clinical presentation, and currently accepted treatment.

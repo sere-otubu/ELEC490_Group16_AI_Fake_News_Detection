@@ -1,0 +1,8 @@
+SEARCH_TOPIC: DNA structure
+TITLE: Structure, function and evolution of the Helix-hairpin-Helix DNA glycosylase superfamily: Piecing together the evolutionary puzzle of DNA base damage repair mechanisms.
+PMID: 34649144
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34649144/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The Base Excision Repair (BER) pathway is a highly conserved DNA repair system targeting chemical base modifications that arise from oxidation, deamination and alkylation reactions. BER features lesion-specific DNA glycosylases (DGs) which recognize and excise modified or inappropriate DNA bases to produce apurinic/apyrimidinic (AP) sites and coordinate AP-site hand-off to subsequent BER pathway enzymes. The DG superfamilies identified have evolved independently to cope with a wide variety of nucleobase chemical modifications. Most DG superfamilies recognize a distinct set of structurally related lesions. In contrast, the Helix-hairpin-Helix (HhH) DG superfamily has the remarkable ability to act upon structurally diverse sets of base modifications. The versatility in substrate recognition of the HhH-DG superfamily has been shaped by motif and domain acquisitions during evolution. In this paper, we review the structural features and catalytic mechanisms of the HhH-DG superfamily and draw a hypothetical reconstruction of the evolutionary path where these DGs developed diverse and unique enzymatic features.

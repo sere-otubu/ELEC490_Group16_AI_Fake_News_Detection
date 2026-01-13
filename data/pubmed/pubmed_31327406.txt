@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Crohns disease
+TITLE: What is the role of histopathology in the evaluation of disease activity in Crohn's disease?
+PMID: 31327406
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31327406/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Assessment of disease activity is essential for developing and determining appropriate therapy in patients with Crohn's disease. Currently, clinical and endoscopic treatment targets have been proposed, whereas histologic assessment of disease activity is not recommended in expert guidelines. Histologic assessment of disease activity has emerged as an important tool in ulcerative colitis as persistent histological inflammation is associated with clinical relapse, corticosteroid use, hospitalisation, and development of dysplasia. Similar data for Crohn's disease is limited but emerging literature suggests that histologic evaluation of disease activity may have value. This review summarizes the recent literature regarding histologic evaluation of disease activity in Crohn's disease. Correlation between histologic, endoscopic, and other markers of disease activity are discussed. Histologic scoring systems in Crohn's disease are described and practical guidance is provided to gastroenterologists and pathologists on how to report and interpret histologic data.

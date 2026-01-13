@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Epilepsy
+TITLE: Familial adult myoclonus epilepsy: Neuroimaging and neuropathological findings.
+PMID: 37096373
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37096373/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Familial adult myoclonus epilepsy (FAME) is characterized by cortical myoclonus and often epileptic seizures, but the pathophysiology of this condition remains uncertain. Here, we review the neuroimaging and neuropathological findings in FAME. Imaging findings, including functional magnetic resonance imaging, are in line with a cortical origin of involuntary tremulous movements (cortical myoclonic tremor) and indicate a complex pattern of cerebellar functional connectivity. Scarce neuropathological reports, mainly from a single family, provide evidence of morphological changes in the Purkinje cells. Cerebellar changes seem to be part of the syndrome, in at least some FAME pedigrees. Cortical hyperexcitability in FAME, resulting in the cardinal clinical symptoms, might be the result of decreased cortical inhibition via the cerebellothalamocortical loop. The pathological findings might share some similarities with other pentanucleotide repeat disorders. The relation with genetic findings in FAME needs to be elucidated.

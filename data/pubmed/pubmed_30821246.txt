@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anesthesia types
+TITLE: [Monitoring pain intensity during general anaesthesia].
+PMID: 30821246
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30821246/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This review summarises the knowledge of pain monitoring during surgery in Denmark. General anaesthesia consists of hypnosis, relaxation and analgesia. The first two can be objectively monitored, but analgesia is traditionally evalu-ated by the anaesthesiologist. Several monitors for as-sessing pain exist, and all types of pain monitoring are superior to traditional evaluation and seem to have several advantages but are still not used routinely in Denmark. The nociception level monitor is multimodal and incorporates movement, heart rate, heart rate variability, pulse plethysmography, skin temperature and galvanic skin response. It has been validated, but further research is needed.

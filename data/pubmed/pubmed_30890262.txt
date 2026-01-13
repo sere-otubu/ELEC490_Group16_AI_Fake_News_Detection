@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Surgery preparation
+TITLE: Assessment of general surgery resident study habits and use of the TrueLearn question bank for American Board of Surgery In-Training exam preparation.
+PMID: 30890262
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30890262/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Little information exists on the value of online question banks in preparing residents for the American Board of Surgery In-Training Examination (ABSITE). We reviewed surgical residents' use of an online question bank (TrueLearn) and compared it to their ABSITE performance. The 2016-2017 records of 44 PGY 2-5 general surgery residents were examined. The total number of TrueLearn questions answered significantly correlated (p < 0.05) with correct answers and percentile rank on the 2017 ABSITE. If a resident was to complete the entire online TL question bank consisting of 1000 questions, the overall percentage correct and overall percentile on the ABSITE is estimated to increase by 3% and 20%, respectively. The use of the TrueLearn question bank is associated with an improved percentage of ABSITE questions answered correctly and improved PGY percentile scores.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antidepressants
+TITLE: Potential of Heterogeneous Compounds as Antidepressants: A Narrative Review.
+PMID: 36430254
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36430254/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Depression is a globally widespread disorder caused by a complicated interplay of social, psychological, and biological factors. Approximately 280 million people are suffering from depression worldwide. Traditional frontline antidepressants targeting monoamine neurotransmitters show unsatisfactory effects. The development and application of novel antidepressants for dissimilar targets are on the agenda. This review characterizes the antidepressant effects of multiple endogenous compounds and/or their targets to provide new insight into the working mechanism of antidepressants. We also discuss perspectives and challenges for the generation of novel antidepressants.

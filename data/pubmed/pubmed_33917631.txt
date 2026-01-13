@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Health literacy
+TITLE: Health Literacy in Pregnant Women: A Systematic Review.
+PMID: 33917631
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33917631/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Health literacy plays a crucial role during pregnancy, as the mother's health behavior influences both her own health and that of her child. To the authors' best knowledge, no comprehensive overview on evidence of the health literacy of pregnant women and its impact on health outcomes during pregnancy exists. Therefore, this review aims to assess health literacy levels in pregnant women, whether health literacy is associated with outcomes during pregnancy and whether effective interventions exist to improve the health literacy of pregnant women. A systematic literature search was conducted in PubMed and EBSCO, resulting in 14 studies. The results show mixed levels of health literacy in pregnant women. Limited health literacy is associated with unhealthy behaviors during pregnancy. Mixed health literacy levels can be attributed to the recruitment site, the number of participants and the measurement tool used. Quality assessment reveals that the quality of the included studies is moderate to good. The review revealed that randomized controlled trials and interventions to improve health literacy in pregnant women are rare or do not exist. This is crucial in the light of the mixed health literacy levels found among pregnant women. Healthcare providers play a key role in this context, as pregnant women with limited health literacy rely on them as sources of health information.

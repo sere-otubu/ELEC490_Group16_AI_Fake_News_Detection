@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Radiation therapy
+TITLE: Magnetic resonance-guided radiation therapy: A review.
+PMID: 31646742
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31646742/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Magnetic resonance-guided radiation therapy (MRgRT) is a promising approach to improving clinical outcomes for patients treated with radiation therapy. The roles of image guidance, adaptive planning and magnetic resonance imaging in radiation therapy have been increasing over the last two decades. Technical advances have led to the feasible combination of magnetic resonance imaging and radiation therapy technologies, leading to improved soft-tissue visualisation, assessment of inter- and intrafraction motion, motion management, online adaptive radiation therapy and the incorporation of functional information into treatment. MRgRT can potentially transform radiation oncology by improving tumour control and quality of life after radiation therapy and increasing convenience of treatment by shortening treatment courses for patients. Multiple groups have developed clinical implementations of MRgRT predominantly in the abdomen and pelvis, with patients having been treated since 2014. While studies of MRgRT have primarily been dosimetric so far, an increasing number of trials are underway examining the potential clinical benefits of MRgRT, with coordinated efforts to rigorously evaluate the benefits of the promising technology. This review discusses the current implementations, studies, potential benefits and challenges of MRgRT.

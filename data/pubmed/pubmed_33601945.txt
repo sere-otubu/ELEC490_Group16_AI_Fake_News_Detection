@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Atherosclerosis
+TITLE: Atherosclerosis and Inflammatory Bowel Disease-Shared Pathogenesis and Implications for Treatment.
+PMID: 33601945
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33601945/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Atherosclerosis and inflammatory bowel disease (IBD) are often regarded as 2 distinct entities. The commonest manifestation of atherosclerosis is ischemic heart disease (IHD), and an association between IHD and IBD has been reported. Atherosclerosis and IBD share common pathophysiological mechanisms in terms of their genetics, immunology, and contributing environmental factors. Factors associated with atherosclerosis are implicated in the development of IBD and vice versa. Therefore, treatments targeting the common pathophysiology pathways may be effective in both conditions. The current review considers the pathophysiological pathways that are shared between the 2 conditions and discusses the implications for treatment and research.

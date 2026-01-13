@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vitamins and minerals
+TITLE: A review of select vitamins and minerals used by postmenopausal women.
+PMID: 20580500
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20580500/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The purpose of this review is to summarize the effectiveness of select vitamins, minerals and trace elements in postmenopausal women for their effects on bone health, cardiovascular health, breast cancer, cognition and vasomotor symptoms. Review of the relevant literature and results from recent clinical studies, as well as critical analyses of published systematic reviews and meta-analyses were obtained from PubMed and Cochrane Library of Reviews. Vitamin A, the B vitamins, vitamin C, calcium, vitamin D, vitamin E, vitamin K, magnesium, selenium and zinc were selected for review. In circumstances where the vitamin, mineral or trace element has not been studied for a given condition, no information was provided. All vitamins, minerals and trace elements play an important role in maintaining health and wellbeing among menopausal women. Adequate dietary intake is essential and supplementation should be considered in women with documented malabsorption syndromes or deficiencies. Based on a review of the literature, supplementation with vitamin C, D, K and calcium can also be recommended for proper maintenance of bone health. The only supplement studied for vasomotor symptoms was vitamin E and this vitamin lacked clinical support. Supplementation in healthy postmenopausal women with vitamins and minerals in diet or pill forms cannot be recommended currently for any other indications.

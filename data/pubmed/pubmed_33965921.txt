@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Patient data privacy HIPAA
+TITLE: Health Data Privacy in the COVID-19 Pandemic Context: Discourses on HIPAA.
+PMID: 33965921
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33965921/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Considering the impacts of the COVID-19 pandemic on health service delivery, the US Office for Civil Rights (OCR) updated the policies on health data processing, and Health Insurance Portability and Accountability Act (HIPAA). In this study, we investigated discourses on HIPAA in relation to COVID-19. Through a search of media sources in the Factiva database, relevant texts were identified. We applied a text mining approach to identify concepts and themes in these texts. Our analysis revealed six central themes, namely, Health, HIPAA, Privacy, Security, Patients, and Need, as well as their associated concepts. Among these, Health was the most frequently discussed theme. It comprised concepts such as public, care, emergency, providers, telehealth, entity, use, discretion, OCR, Health and Human Services (HHS), enforcement, business, and services. Our discourse analysis of media outlets highlights the role of health data privacy law in the response to global public health emergencies and demonstrates how discourse analysis and computational methods can inform health data protection policymaking in the digital health era.

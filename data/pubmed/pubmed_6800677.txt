@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Amniocentesis
+TITLE: Amniocentesis for prenatal diagnosis.
+PMID: 6800677
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6800677/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Amniocentesis is a relatively safe and reliable procedure. However, there probably is a slightly increased risk of fetal loss following amniocentesis (approximately 0.5%). Other risks are minimal. Amniocentesis should be performed by obstetrician-gynecologists familiar with both the indications for the technique of second-trimester genetic amniocentesis. Recent social trends, including the increased availability of medical information to the lay public and the interest of many women in delaying childbearing, will increase public demand for antenatal diagnosis. It is important that obstetrician-gynecologists prepare to meet these demands.

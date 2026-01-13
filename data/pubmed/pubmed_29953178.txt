@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Parkinsons disease
+TITLE: Parkinson’s Disease: Basic knowledge.
+PMID: 29953178
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29953178/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Pharmacotherapy in Parkinson’s disease is complex and requires expertise in all health-care professions. Besides idiopathic Parkinson’s disease (IPD) secondary parkinsonism, monogenetic Parkinson’s disease and atypical syndromes need to be differentiated. The prevalence in the European population is estimated to be approximately 1 %. Lifestyle and age are closely linked to IPD. Neurodegeneration with formation of Lewy-bodies and increased oxidative stress in the pars compacta of the substantia nigra are closely linked to IPD. Lewy-bodies show misfolded α-Synuclein. The balance of glutamate, GABA and dopamine is essential for motor complications. Bradykinesia/akinesia, rigidity, rest tremor and postural instability are typical symptoms along with dissymmetry, shuffling gait and camptocormia, micrographia, aphasia, hypophonia, dysphagia, and hypomimia. Early symptoms are akathisia/restlessness, insomnia, somnolence, hyposmia and neck pain. With further progression of IPD, neurons of the ventral tegmental area are affected and lead to non-motor symptoms, which hence are directly related to the underlying disease. Gastric dysmotility, depression, urinary incontinence, excessive sweating, hallucinations, spasticity, muscle pain and Parkinson’s disease dementia are part of IPD.

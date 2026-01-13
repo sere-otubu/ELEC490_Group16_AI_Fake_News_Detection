@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immune response
+TITLE: Innate Immune Response Following AAV Administration.
+PMID: 31884606
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31884606/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Recombinant adeno-associated virus (rAAV) is a widely used tool for gene delivery due to its high efficiency to transduce postmitotic cells. However, host immune reactions targeting AAV can limit its therapeutic benefit in clinical applications. While most studies focused on adaptive immunity, initial innate immune responses are the first line of defense against viral vectors and help modulate subsequent adaptive immune responses. The understanding of innate immune responses to AAV can potentially improve safety and therapeutic efficiency of AAV. This article provides an overview of innate immune responses to AAV vectors.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cluster headaches
+TITLE: Targeting PACAP: Beyond Migraine to Cluster, Menstrual, and Post-traumatic Headaches.
+PMID: 40100309
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40100309/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The pituitary adenylate cyclase-activating peptide (PACAP) pathway is a critical focus in the pathophysiology of several headache disorders. PACAP influences headache pathophysiology through interactions with distinct receptors (PAC<sub>1</sub>, VPAC<sub>1</sub>, and VPAC<sub>2</sub>) and pathways linked to neurovascular and hormonal regulation. Evidence supports its role in the modulation of trigeminal and parasympathetic systems, implicated in cluster headaches and menstrual migraine, and its involvement in sensitizing pain pathways post trauma in post-traumatic headaches. Early clinical trials targeting PACAP signaling show promise, with one study demonstrating efficacy in migraine prophylaxis. This narrative review synthesizes current evidence while addressing gaps in understanding PACAP's precise mechanisms. Future research should prioritize expanding the scope of PACAP-focused investigations across diverse headache types, aiming to establish it as a therapeutic target for several headache disorders. Success in ongoing and future trials could redefine headache management for millions of underserved patients worldwide.

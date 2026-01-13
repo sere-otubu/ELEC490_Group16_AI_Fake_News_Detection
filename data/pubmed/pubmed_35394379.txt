@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Joint replacement
+TITLE: Understanding Health Economics in Joint Replacement Surgery.
+PMID: 35394379
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35394379/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The number of arthroplasty procedures has been rising at a significant rate, contributing to a notable portion of the nation's health care spending. This growth has contributed to an increase in the number of health care economic studies in the field of adult reconstruction surgery. Although these articles are filled with important information, they can be difficult to understand without a background in business or economics. The goal of this review is to define the common terminology used in health care economic studies, assess their value and benefit in the context of total joint arthroplasty, and highlight shortcomings in the current literature. [<i>Orthopedics</i>. 2022;45(4):e174-e182.].

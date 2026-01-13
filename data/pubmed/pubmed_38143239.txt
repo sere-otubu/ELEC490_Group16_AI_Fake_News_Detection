@@ -1,0 +1,8 @@
+SEARCH_TOPIC: DNA structure
+TITLE: DNA Quadruplex Structure with a Unique Cation Dependency.
+PMID: 38143239
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38143239/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+DNA quadruplex structures provide an additional layer of regulatory control in genome maintenance and gene expression and are widely used in nanotechnology. We report the discovery of an unprecedented tetrastranded structure formed from a native G-rich DNA sequence originating from the telomeric region of Caenorhabditis elegans. The structure is defined by multiple properties that distinguish it from all other known DNA quadruplexes. Most notably, the formation of a stable so-called KNa-quadruplex (KNaQ) requires concurrent coordination of K<sup>+</sup> and Na<sup>+</sup> ions at two distinct binding sites. This structure provides novel insight into G-rich DNA folding under ionic conditions relevant to eukaryotic cell physiology and the structural evolution of telomeric DNA. It highlights the differences between the structural organization of human and nematode telomeric DNA, which should be considered when using C. elegans as a model in telomere biology, particularly in drug screening applications. Additionally, the absence/presence of KNaQ motifs in the host/parasite introduces an intriguing possibility of exploiting the KNaQ fold as a plausible antiparasitic drug target. The structure's unique shape and ion dependency and the possibility of controlling its folding by using low-molecular-weight ligands can be used for the design or discovery of novel recognition DNA elements and sensors.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gallstones
+TITLE: Gallstones: environment, lifestyle and genes.
+PMID: 21734384
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21734384/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gallstone disease represents one of the most common and costly gastroenterological disorders. In Germany, 0.25% of the population undergo cholecystectomy per year, and cholelithiasis incurs annual medical expenses of more than USD 6.5 billion in the United States. The paradigm of environmental risk factors for gallstones has lately been challenged by genetic studies in experimental models and humans. The analysis of more than 40,000 Swedish twin pairs with gallstones demonstrated that genetic factors account for 25% of the phenotypic variance. Since then, studies employing genome-wide association analysis, case-control cohorts and analysis of sib-pairs in families with gallstones have expanded our knowledge of 'gallstone genes'. Indeed, gallstone disease phenotypes are likely to result from the complex interaction of genetic factors, chronic overnutrition with carbohydrates, depletion of dietary fibre and other not fully defined environmental factors including physical inactivity and infections. This hypothesis is supported by the profound increases of cholesterol gallstone prevalence rates in Native Americans, post-war European countries and current urban centres in East Asia, all of which were associated with 'westernized' nutrition. Herein, we summarise the spectrum of environmental and genetic risk factors which should pave the way to 'personalised' strategies for the prevention and therapy of gallstones.

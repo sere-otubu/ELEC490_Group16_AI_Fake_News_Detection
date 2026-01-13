@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Down syndrome
+TITLE: Pneumonia and respiratory infections in Down syndrome: A scoping review of the literature.
+PMID: 33073471
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33073471/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Pneumonia and respiratory infections impact infants and children with Down syndrome; pneumonia is a leading cause of mortality in adults with Down syndrome. We aimed to review the literature to evaluate gaps and address key questions. A series of key questions were formulated a priori to inform the search strategy and review process; addressed prevalence, severity, etiology, risk factors, preventive methods, screening, and financial costs, potential benefits or harms of screening. Using the National Library of Medicine database, PubMed, detailed literature searches on pneumonia and respiratory infections in Down syndrome were performed. Previously identified review articles were also assessed. The quality of available evidence was then evaluated and knowledge gaps were identified. Forty-two relevant original articles were identified which addressed at least one key question. Study details including research design, internal validity, external validity, and relevant results are presented. Pneumonia and respiratory infections are more prevalent and more severe in individuals with Down syndrome compared to healthy controls through literature review, yet there are gaps in the literature regarding the etiology of pneumonia, the infectious organism, risk factors for infection, and to guide options for prevention and screening. There is urgent need for additional research studies in Down syndrome, especially in the time of the current COVID-19 pandemic.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chronic disease management
+TITLE: Self-management education and support in chronic disease management.
+PMID: 22608868
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22608868/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+With the changing health care environment, prevalence of chronic health conditions, and burgeoning challenges of health literacy, obesity, and homelessness, self-management support provides an opportunity for clinicians to enhance effectiveness and, at the same time, to engage patients to participate in managing their own personal care. This article reviews the differences between patient education and self-management and describes easy-to-use strategies that foster patient self-management and can be used by health care providers in the medical setting. It also highlights the importance of linking patients to nonmedical programs and services in the community.

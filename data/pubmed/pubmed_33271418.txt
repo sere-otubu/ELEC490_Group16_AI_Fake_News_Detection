@@ -1,0 +1,8 @@
+SEARCH_TOPIC: X ray imaging
+TITLE: Spectroscopic imaging at compact inverse Compton X-ray sources.
+PMID: 33271418
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33271418/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+While K-edge subtraction (KES) imaging is a commonly applied technique at synchrotron sources, the application of this imaging method in clinical imaging is limited although results have shown its superiority to conventional clinical subtraction imaging. Over the past decades, compact synchrotron X-ray sources, based on inverse Compton scattering, have been developed to fill the gap between conventional X-ray tubes and synchrotron facilities. These so called inverse Compton sources (ICSs) provide a tunable, quasi-monochromatic X-ray beam in a laboratory setting with reduced spatial and financial requirements. This allows for the transfer of imaging techniques that have been limited to synchrotrons until now, like KES imaging, into a laboratory environment. This review article presents the first studies that have successfully performed KES at ICSs. These have shown that KES provides improved image quality in comparison to conventional X-ray imaging. The results indicate that medical imaging could benefit from monochromatic imaging and KES techniques. Currently, the clinical application of KES is limited by the low K-edge energy of available iodine contrast agents. However, several ICSs are under development or already in commissioning which will provide monochromatic X-ray beams with higher X-ray energies and will enable KES using high-Z elements as contrast media. With these developments, KES at an ICS has the ability to become an important tool in pre-clinical research and potentially advancing existing clinical imaging techniques.

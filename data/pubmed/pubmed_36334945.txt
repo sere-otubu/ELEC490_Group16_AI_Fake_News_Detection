@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anemia
+TITLE: Autoimmune haemolytic anaemia.
+PMID: 36334945
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36334945/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Autoimmune haemolytic anaemias (AIHA) are acquired haematological disorders caused by increased peripheral erythrocyte destruction mediated by autoantibodies against erythrocyte antigens. They classified according to aetiology into primary and secondary, and according to the type of antibody and reaction temperature into AIHA due to warm antibodies (w-AIHA) and AIHA due to cold antibodies (c-AIHA). The mainstay of management in w-AIHA remains glucocorticoid therapy, and the early addition of rituximab has shown good results in recent studies. Primary c-AIHA is mainly treated with rituximab, alone or in combination with chemotherapy. New drugs such as Syk inhibitors, anti-FcRn Ig and complement inhibitors are in advanced development and will expand the therapeutic arsenal, especially in refractory or relapsed cases.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lymphatic system
+TITLE: Lymphatic Intervention, the Frontline of Modern Lymphatic Medicine: Part I. History, Anatomy, Physiology, and Diagnostic Imaging of the Lymphatic System.
+PMID: 36725352
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36725352/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Recent advances in lymphatic imaging have provided novel insights into the lymphatic system. Interventional radiology has played a significant role in the development of lymphatic imaging techniques and modalities. Radiologists should be familiar with the basic physiology and anatomy of the lymphatic system to understand the imaging features of lymphatic disorders, which reflect their pathophysiology. This study comprehensively reviews the physiological and anatomical aspects of the human lymphatic system as well as the latest lymphatic imaging techniques.

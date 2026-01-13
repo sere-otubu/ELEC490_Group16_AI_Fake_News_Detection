@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Autism spectrum disorder
+TITLE: An Overview of Autism Spectrum Disorder, Heterogeneity and Treatment Options.
+PMID: 28213805
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28213805/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Since the documented observations of Kanner in 1943, there has been great debate about the diagnoses, the sub-types, and the diagnostic threshold that relates to what is now known as autism spectrum disorder (ASD). Reflecting this complicated history, there has been continual refinement from DSM-III with 'Infantile Autism' to the current DSM-V diagnosis. The disorder is now widely accepted as a complex, pervasive, heterogeneous condition with multiple etiologies, sub-types, and developmental trajectories. Diagnosis remains based on observation of atypical behaviors, with criteria of persistent deficits in social communication and restricted and repetitive patterns of behavior. This review provides a broad overview of the history, prevalence, etiology, clinical presentation, and heterogeneity of ASD. Factors contributing to heterogeneity, including genetic variability, comorbidity, and gender are reviewed. We then explore current evidence-based pharmacological and behavioral treatments for ASD and highlight the complexities of conducting clinical trials that evaluate therapeutic efficacy in ASD populations. Finally, we discuss the potential of a new wave of research examining objective biomarkers to facilitate the evaluation of sub-typing, diagnosis, and treatment response in ASD.

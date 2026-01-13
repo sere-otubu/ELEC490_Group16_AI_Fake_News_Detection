@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anticoagulants
+TITLE: 2017 ACC Expert Consensus Decision Pathway for Periprocedural Management of Anticoagulation in Patients With Nonvalvular Atrial Fibrillation: A Report of the American College of Cardiology Clinical Expert Consensus Document Task Force.
+PMID: 28081965
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28081965/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Periprocedural management of anticoagulation is a common clinical conundrum that involves a multidisciplinary team, cuts across many specialties, and varies greatly between institutions in the way it is practiced. Nowhere is this more evident than in the management of patients with nonvalvular atrial fibrillation. Although they have been found to improve patient outcomes, standardized evidence-based protocols are infrequently in place. The frequency of anticoagulant interruption in preparation for a procedure is high, with an estimated 250,000 patients undergoing temporary interruption annually in North America alone. Knowledge about risk of bleeding and short-term thrombotic risk resides in many specialties, further complicating the issue. Our goal in creating this pathway is to help guide clinicians in the complex decision making in this area. In this document, we aim to: 1) validate the appropriateness of the decision to chronically anticoagulate; 2) guide clinicians in the decision of whether to interrupt anticoagulation; 3) provide direction on how to interrupt anticoagulation with specific guidance for vitamin K antagonists and direct-acting oral anticoagulants; 4) evaluate whether to bridge with a parenteral agent periprocedurally; 5) offer advice on how to bridge; and 6) outline the process of restarting anticoagulation post-procedure.

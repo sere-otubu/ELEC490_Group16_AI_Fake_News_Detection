@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Autoimmune diseases
+TITLE: Salivary gland performance in autoimmune diseases: review and meta-analysis.
+PMID: 30376766
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30376766/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+<b>Objectives</b>: Autoimmune diseases include a spectrum of disorders in which immune response to the autoantigens leads to tissue damage or dysfunction. Xerostomia, salivary gland dysfunction and lack of saliva are some common symptoms associated with many autoimmune diseases.<b>Methods</b>: In this review study, the meta-analysis technique is used to objectively review the relationship between autoimmune diseases and salivary gland dysfunction. We have searched Medline and Embase and Google Scholar. By Revman 5.3, meta-analysis was performed to investigate the salivary flow rate in both stimulatory and non-stimulatory saliva. The sample size obtained from these studies was 130 people with autoimmune diseases and 100 healthy individuals.<b>Results</b>: The results showed a significant decrease in the level of non-stimulatory saliva in people with autoimmune diseases.<b>Conclusions</b>: A complete and comprehensive understanding of the clinical manifestation of systemic diseases is crucial in early diagnosis of diseases and identifying the mechanisms that develop the disease. Other than xerostomia, there is a significant reduction in salivary flow rate in patients with autoimmune diseases. As saliva plays a very important role in oral health and has significant functions, more attention is needed for monitoring and managing of hyposalivation in autoimmune patients.

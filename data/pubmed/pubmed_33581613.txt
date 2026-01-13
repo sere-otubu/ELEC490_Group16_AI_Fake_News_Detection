@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Aging population challenges
+TITLE: Multiple sclerosis and aging: comorbidity and treatment challenges.
+PMID: 33581613
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33581613/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The prevalence of elderly patients with MS is increasing, in conjunction with the ageing general population. This review will examine the principal characteristics of elderly patients with MS and how the concomitant pathologies affect them. Finally, it will assess the impact of the medications on these patients and whether it would be safe to discontinue the disease-modifying treatment. Searches using PubMed were conducted in October 2020 to collect studies assessing the impact of age and comorbidities on patients with MS. Several studies showed that aged patients develop concomitant pathologies that could worsen the disease's prognosis. Also, MS itself may be closely related to cognitive impairment, even though the exact etiopathogenic mechanism of it is still unclear. To date, safety and efficacy of currently available drugs remain unassessed in elderly populations. These treatments may not be beneficial in preventing the progression of disability in ageing people with no signs of inflammatory activity, and discontinuation of treatment is often discussed in this subgroup of patients. The presence of cardiovascular pathology, psychiatric disorders, diabetes or cancer is further associated with increased mortality in MS patients. The diagnosis and treatment of the disease is challenged by both age-related comorbidities and clinical variations compared to younger patients. It may be safe to discontinue treatment in elderly patients with no clinico-radiological activity.

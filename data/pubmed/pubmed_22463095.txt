@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Thyroid gland
+TITLE: [Medicines and thyroid gland].
+PMID: 22463095
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22463095/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+From their primary pharmacological effect, many drugs may also affect the thyroid gland function or the results of thyroid function tests. In addition to the drugs with a known effect on thyroid gland, including thionamides, thyroid hormones, recombinant TSH, iodine, iodide, amiodarone, lithium and heparin, novel compounds, including tyrosin-kinase inhibitors, immunomodulators and cytokines also have adverse effects on the thyroid gland. Novel drugs are then associated with new types of adverse thyroid effects.

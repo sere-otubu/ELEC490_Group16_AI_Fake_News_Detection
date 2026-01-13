@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Salmonella
+TITLE: Salmonella's sensor for host defense molecules.
+PMID: 16096052
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16096052/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The bacterial pathogen Salmonella typhimurium resides within phagosomes in host cells and is able to deflect the host immune response. In this issue of Cell, Bader et al. (2005) decipher an elegant mechanism by which the PhoQ sensor kinase of Salmonella is switched on by host cationic antimicrobial peptides, leading to changes in gene expression that enable Salmonella to combat the host immune response.

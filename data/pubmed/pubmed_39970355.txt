@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gestational Diabetes
+TITLE: Intestinal microbiome in gestational diabetes - review.
+PMID: 39970355
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39970355/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gestational diabetes is one of the most common metabolic complications of pregnancy. Numerous studies have shown the gut microbiota changes significantly during pregnancy and intestinal microbiota also influences the development of diabetes during pregnancy. The aim of this study was to review the studies about gut microbiome in gestational diabetes.

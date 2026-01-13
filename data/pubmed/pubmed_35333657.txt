@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gallstones
+TITLE: Percutaneous Retrieval of Retained Gallstones.
+PMID: 35333657
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35333657/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Laparoscopic cholecystectomy has become the gold standard for patients with gallbladder disease. However, spilled gallstones occur in up to 18% of laparoscopic cholecystectomies, which may result in retained gallstones. Though most do not cause issues, there may be abscess formation from 4 months to 10 years postoperatively. We present a 78-year-old patient who formed a subhepatic abscess 3 months postoperatively from his laparoscopic cholecystectomy secondary to a 1 cm retained gallstone. The abscess was percutaneously drained by interventional radiology (IR), and the stone was subsequently removed by IR using a percutaneous approach. Open and laparoscopic approaches have been previously described for abscess drainage and removal of gallstones. In this case, both the abscess and stone were drained and removed percutaneously by IR. Though this is an uncommon entity, percutaneous decompression can aid in preventing such patients from undergoing additional surgery.

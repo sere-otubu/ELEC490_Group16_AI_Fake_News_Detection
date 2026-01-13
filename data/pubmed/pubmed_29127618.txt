@@ -1,0 +1,8 @@
+SEARCH_TOPIC: GERD
+TITLE: Asthma, GERD and Obesity: Triangle of Inflammation.
+PMID: 29127618
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29127618/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There is increasing prevalence of both asthma and obesity in children globally in recent years. Various epidemiological studies link obesity as a risk factor for asthma and suggest a possible causal association. Obesity asthma phenotype is considered as distinct in view of greater severity and poor asthma control. Various mechanisms underlying this phenotype have been suggested including mechanical effects of obesity and systemic inflammation, but still the exact mechanism is unclear. Also, the comorbidities like gastroesophageal reflux disease (GERD) and sleep disordered breathing (SDB) lead to inflammation in airways and contribute to asthma obesity association. A better understanding of mechanisms by which obesity and GERD lead to inflammation in airways and increase the risk of asthma may provide insight towards targeted treatment approach of these patients.

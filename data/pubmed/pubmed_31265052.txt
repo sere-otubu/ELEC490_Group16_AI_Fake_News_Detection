@@ -1,0 +1,8 @@
+SEARCH_TOPIC: LASIK surgery
+TITLE: Femtosecond laser in refractive corneal surgery.
+PMID: 31265052
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31265052/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The introduction of the femtosecond (fs) laser has revolutionized ophthalmic surgery. With the worldwide application of fs-lasers, clinical outcomes and safety in corneal procedures have improved significantly and they have become an ideal tool for ultra-precise corneal refractive surgery. Flap creation in laser in situ keratomileusis (LASIK) is the most common use of this laser. It can also be used for other corneal refractive procedures including channel creation for the insertion of intrastromal corneal ring segments (ICRS), performing astigmatic keratotomies (AK), femtosecond lenticule extraction including small incision lenticule extraction (SMILE), and the insertion of corneal inlays. This article summarizes recent advanced applications of fs laser technology in corneal refractive surgery.

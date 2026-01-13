@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Valve replacement
+TITLE: [Modern possibilities for transcatheter pulmonary valve replacement].
+PMID: 38344958
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38344958/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The literature review is devoted to transcatheter pulmonary valve replacement. The authors summarize the indications, clinical data and current capabilities of transcatheter pulmonary valve replacement. The authors also overviewed modern valves for transcatheter pulmonary artery replacement. Effectiveness of transcatheter pulmonary valve implantation has been substantiated. Various studies comparing the outcomes of different valve systems for endovascular implantation were analyzed. The authors concluded the prospects for transcatheter pulmonary valve implantation.

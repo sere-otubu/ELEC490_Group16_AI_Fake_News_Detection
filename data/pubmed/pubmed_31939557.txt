@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Type 2 Diabetes
+TITLE: Type 2 diabetes mellitus-related environmental factors and the gut microbiota: emerging evidence and challenges.
+PMID: 31939557
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31939557/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The gut microbiota is a group of over 38 trillion bacterial cells in the human microbiota that plays an important role in the regulation of human metabolism through its symbiotic relationship with the host. Changes in the gut microbial ecosystem are associated with increased susceptibility to metabolic disease in humans. However, the composition of the gut microbiota in those with type 2 diabetes mellitus and in the pathogenesis of metabolic diseases is not well understood. This article reviews the relationship between environmental factors and the gut microbiota in individuals with type 2 diabetes mellitus. Finally, we discuss the goal of treating type 2 diabetes mellitus by modifying the gut microbiota and the challenges that remain in this area.

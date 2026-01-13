@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Acupuncture
+TITLE: Acupuncture for gastrointestinal diseases.
+PMID: 35148031
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35148031/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Acupuncture, an important component of traditional Chinese medicine, has gained growing attention around the world in the past decades. Both manual and electroacupuncture are commonly used in clinical practice, especially by patients with gastrointestinal disorders seeking symptoms control due to disease signs recurrence and/or lack of effective treatments. Currently, patients with functional gastrointestinal disorders, constipation, gastroesophageal reflux disease, inflammatory bowel disease, ileus, acute pancreatitis, and gastroparesis may benefit from acupuncture treatment, as clinically evident, and the most frequently used acupoints are chosen from the large intestine, stomach, bladder, and spleen meridian. The underlying mechanisms of acupuncture involve the neuromodulation, adjustment of gastrointestinal motility and visceral hypersensitivity, anti-inflammation, repairment of gut microbiota, and intestinal barrier. As methodology advanced, cumulative number of well-designed clinical trials has been established, which might help elevating clinicians and gastroenterologists' awareness and perception toward application of acupuncture for gastrointestinal diseases management.

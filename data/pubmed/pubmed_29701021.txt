@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Genetic screening
+TITLE: [Functional genetic screening using CRISPR-Cas9 system].
+PMID: 29701021
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29701021/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Functional genetic screening as an important method for exploring biological processes, diseases development research and functional annotation of genetic elements, has been widely used in pharmaceutical research, new therapeutic targets identifying and screening, and tumor resistance. CRISPR-Cas9 (Clustered regularly interspaced short palindromic repeat sequences/CRISPR-associated protein 9) is the newest tool in the geneticist's toolbox, allowing researchers to edit genome with unprecedented ease, accuracy and high-throughput. CRISPR-Cas9 system provides a high-throughput, practical and efficient tool for the discovery of functionally important genes responsible for certain phenotypes. In this review, we summarize the characterization of CRISPR/Cas9 system and applications of this new genetic toolkit in functional genetic screening.

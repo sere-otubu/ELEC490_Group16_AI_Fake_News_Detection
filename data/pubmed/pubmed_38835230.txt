@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pandemic preparedness
+TITLE: SHEA position statement on pandemic preparedness for policymakers: pandemic data collection, maintenance, and release.
+PMID: 38835230
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38835230/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The Society for Healthcare Epidemiology in America (SHEA) strongly supports modernization of data collection processes and the creation of publicly available data repositories that include a wide variety of data elements and mechanisms for securely storing both cleaned and uncleaned data sets that can be curated as clinical and research needs arise. These elements can be used for clinical research and quality monitoring and to evaluate the impacts of different policies on different outcomes. Achieving these goals will require dedicated, sustained and long-term funding to support data science teams and the creation of central data repositories that include data sets that can be "linked" via a variety of different mechanisms and also data sets that include institutional and state and local policies and procedures. A team-based approach to data science is strongly encouraged and supported to achieve the goal of a sustainable, adaptable national shared data resource.

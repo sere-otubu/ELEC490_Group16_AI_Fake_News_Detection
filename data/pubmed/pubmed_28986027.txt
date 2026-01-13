@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cirrhosis
+TITLE: Cystic Fibrosis-related cirrhosis.
+PMID: 28986027
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28986027/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+While liver involvement is common in cystic fibrosis, the major liver disorder with impact on the clinical outcome of individuals with CF is the development of multilobular cirrhosis with progression to portal hypertension. Interestingly, this is a disorder primarily of children and adolescents. We review the proposed pathogenesis, clinical presentation, diagnostic work-up, medical and surgical management, and complications of CF cirrhosis.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vegetarian diet
+TITLE: The potential impact of a vegetarian diet on glaucoma.
+PMID: 38768761
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38768761/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Treatment of primary open-angle glaucoma has centered on the lowering of intraocular pressure that damages the optic nerve; however, this strategy is not uniformly successful, especially in normal tension glaucoma, and there is interest in antioxidant, anti-inflammatory, and other neuroprotective strategies. Vegetarian diets are known to be rich in antioxidant and anti-inflammatory components and have a number of established health benefits. Thus, it would be reasonable to assume that vegetarian diets would be beneficial in glaucoma, but this approach has not been well studied. We examine the possible role of vegetarian diets and their components in the incidence and progression of glaucoma.

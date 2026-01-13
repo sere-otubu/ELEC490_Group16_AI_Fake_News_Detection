@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Graves disease
+TITLE: Etiopathogenesis of Graves' disease.
+PMID: 14523350
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/14523350/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Graves' disease is an autoimmune disorder, caused by thyroid-stimulating antibodies, which bind to and activate the thyrotropin receptor on thyroid cells, inducing the synthesis and release of thyroid hormones. It is a polygenic and multifactorial disease that develops as a result of complex interaction between genetic susceptibility and environmental and/or endogenous factors. Graves' disease differs from other autoimmune diseases of the thyroid by specific clinical features, including hyperthyroidism, vascular goitre, ophthalmopathy and--less commonly--infiltrative dermopathy. This article discusses current theories, regarding the etiology and pathogenesis of Graves' disease, including possible predisposing factors, autoimmune aspects of Graves' disease, ophthalmopathy, and dermopathy.

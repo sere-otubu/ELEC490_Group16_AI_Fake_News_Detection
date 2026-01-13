@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Macular degeneration
+TITLE: Treatment of dry age-related macular degeneration: A review.
+PMID: 37737509
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37737509/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Age-related macular degeneration is a global disease with a significant societal impact. The advent of anti-vascular endothelial growth factor therapy (anti-VEGF) has revolutionised the treatment of neovascular age-related macular degeneration (nAMD). Dry age-related macular degeneration (dAMD) is being investigated for possible therapeutic options. The therapeutic categories undergoing clinical trials include complement pathway inhibitors, visual cycle modulators, reduction of toxic byproducts, antioxidative therapy, neuroprotective agents, laser therapy, surgical options, gene therapy, stem cell therapy, and miscellaneous treatments. Two intravitreal anti-complement factors (pegcetacoplan and avacincaptad pegol) have recently shown phase 3 clinical trial evidence of a reduction in the growth of geographic atrophy. In this review, we provide an update on treatment options currently undergoing clinical research trials for the management of dAMD and preventing the progression of Geographic Atrophy (GA).

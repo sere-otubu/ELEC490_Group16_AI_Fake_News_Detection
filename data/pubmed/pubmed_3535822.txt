@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rabies
+TITLE: Rabies.
+PMID: 3535822
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3535822/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Medical science has evolved tremendously from the days when local cauterization was used to treat victims of rabies exposure. Indeed, with appropriate wound care and vaccination procedures, human rabies is a preventable disease. Despite these advances, physicians treating the uncommon but very dramatic cases of human rabies have not been so successful. As research in this field continues, our hope must be that not only will rabies be preventable and curable but that other mystifying central nervous system disorders will become better understood as well.

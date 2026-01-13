@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Endometriosis
+TITLE: Endometriosis: Perspective, lights, and shadows of etiology.
+PMID: 29958140
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29958140/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Endometriosis refers to the growth of ectopic endometrial tissue outside the uterine cavity. About 10-15% of female in reproductive age suffer from endometriosis. Several etiologies - such as oxidative stress, inflammatory factors and cytokines, genetic etiology, and hormone role - have been reported for endometriosis. Indeed, oxidative stress leads to abnormalities by the production of ROS and RNS. The mechanism of endometriosis genesis is a complicated process that concerns the alterations in cellular immunity. Also, endometriosis is a hormonal response that illustrates stimulation in steroid hormone production. Genetic polymolymorphisms and epigenetic factors are also important in endometriosis initiation and progression. This review paper presents the role of oxidative stress, reactive oxygen species (ROS), and antioxidants and inflammatory, genetic, and epigenetic factors involved in the initiation and progression of the endometriosis.

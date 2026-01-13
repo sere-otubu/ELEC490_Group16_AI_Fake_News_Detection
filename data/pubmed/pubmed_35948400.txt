@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood pressure regulation
+TITLE: Rodent Thermoregulation: Considerations for Tail-Cuff Blood Pressure Measurements.
+PMID: 35948400
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35948400/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Noninvasive blood pressure measurement devices have gained popularity in recent years as an alternative to radiotelemetry and other invasive blood pressure measurement techniques. While many factors must be considered when choosing a measurement method, specific variables should be evaluated when using a tail-cuff blood pressure technique. Rodents have complex and dynamic thermal biology processes that involve fluctuating vasomotor tone of the tail. This and other factors that affect vascular tone, such as the autonomic response to stress, significantly affect peripheral blood flow. Awareness and consideration of thermoregulatory states and vasomotor tone can increase success and decrease variability when measuring blood pressure measurements using a tail-cuff measurement technique.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immunotherapy
+TITLE: Cancer immunoediting and resistance to T cell-based immunotherapy.
+PMID: 30523282
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30523282/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Anticancer immunotherapies involving the use of immune-checkpoint inhibitors or adoptive cellular transfer have emerged as new therapeutic pillars within oncology. These treatments function by overcoming or relieving tumour-induced immunosuppression, thereby enabling immune-mediated tumour clearance. While often more effective and better tolerated than traditional and targeted therapies, many patients have innate or acquired resistance to immunotherapies. Cancer immunoediting is the process whereby the immune system can both constrain and promote tumour development, which proceeds through three phases termed elimination, equilibrium and escape. Throughout these phases, tumour immunogenicity is edited, and immunosuppressive mechanisms that enable disease progression are acquired. The mechanisms of resistance to immunotherapy seem to broadly overlap with those used by cancers as they undergo immunoediting to evade detection by the immune system. In this Review, we discuss how a deeper understanding of the mechanisms underlying the cancer immunoediting process can provide insight into the development of resistance to immunotherapies and the strategies that can be used to overcome such resistance.

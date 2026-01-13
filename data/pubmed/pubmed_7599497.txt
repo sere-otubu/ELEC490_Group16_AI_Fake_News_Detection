@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Oral hygiene
+TITLE: Oral hygiene.
+PMID: 7599497
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7599497/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The major purpose of oral care is the maintenance of a functional and comfortable oral cavity to enhance self-esteem and reduce bacterial activity in the mouth and the risk of both local and systemic infection.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antifungals
+TITLE: An update on newer antifungals.
+PMID: 39881622
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39881622/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Fungal infections constitute a significant global health threat, with an estimated incidence of 6.5 million invasive fungal infections and 2.5 million associated deaths each year. New antifungal agents are being developed to address the challenges of fungal infections management, driven by the evolving fungal epidemiology, the emergence of antifungal resistance, and the limitations of existing treatments. This review provides a thorough overview of the latest developments in novel antifungal agents, highlighting pivotal evidence obtained from clinical trials. New antifungal agents hold promising future for difficult-to-treat fungal infections, providing for improved bioavailability, pharmacokinetic properties, adverse events and drug interactions, as well as, spectrum of activity. However, further data is needed before incorporating these agents in everyday clinical practice for the management of invasive fungal infections.

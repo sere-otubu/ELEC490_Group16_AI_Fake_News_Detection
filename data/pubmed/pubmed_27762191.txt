@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Electronic health records
+TITLE: Electronic health records in rheumatology: emphasis on automated scoring and additional use.
+PMID: 27762191
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27762191/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Electronic health records are increasingly used and frequently required from various regulatory authorities. Apart from their day-to-day use by health care professionals for routine clinical practice and/or the improvement of quality of care processes, patients with chronic inflammatory disease may become increasingly involved in the data retrieval process by self-monitoring and providing patient-reported (outcome) data. Among key features of electronic health records are automated scoring, visualisation of validated measures, and long-term systematic patient-centered data collection in a structured and standardised manner. Data derived from electronic health records are increasingly incorporated into patient-centered research, registries, and other secondary uses. Thus, electronic health records offer opportunities to improve knowledge and to create new process flows in rheumatology health care. The article summarises some of these opportunities in patient care, as well as an overview of secondary use scenarios. In addition, the article focuses on patients' active involvement in the disease management process via health information applications, reports on patients' perspectives, as well as some legal and regulatory matters concerning electronic health records.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hydration importance
+TITLE: Hydration and dehydration induced changes in porosity of starch microspheres.
+PMID: 35698372
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35698372/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Characterization and tuning of the porosity of amorphous starch materials are important for many applications, including controlled release of encapsulated proteins. The porosities of these materials in dry and hydrated states can have different physicochemical origins and properties. Here, porosities of dry cross-linked starch microspheres and their hydration-induced transformations were characterized by small angle X-ray scattering, scanning electron and optical microscopies, thermogravimetric analysis, sorption calorimetry, nitrogen sorption, and helium-pycnometry. The analyses revealed that dry microspheres consist of porous cores with pore diameters below 100 nm and shells which appeared to be denser but contained wider pores (100-300 nm). The outer crust of the microspheres shell is non-porous, which restricts diffusion of nitrogen, water, and ethanol. Partial hydration triggered an irreversible collapse of dry porosity at 12 wt% water. Further hydration resulted in interfacial changes and promoted wet porosity, related to characteristic distances between polymer chains.

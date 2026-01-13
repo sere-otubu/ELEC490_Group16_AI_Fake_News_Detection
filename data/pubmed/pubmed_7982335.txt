@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood transfusion
+TITLE: Fetal blood transfusion.
+PMID: 7982335
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7982335/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The concept of transfusing the fetus in utero is simple, but its success demands an experienced, dedicated team, with excellent laboratory back-up. High-resolution ultrasound has enabled us to sample fetal blood. This allows immediate, precise assessment and rational treatment of the anemic fetus, with improved outcome for all such fetuses and, particularly, for the hydropic, moribund group. Fetal blood transfusion programs should be concentrated in regional perinatal centers.

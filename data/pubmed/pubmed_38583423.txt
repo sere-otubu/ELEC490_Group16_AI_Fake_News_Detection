@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Proton pump inhibitors
+TITLE: Proton Pump Inhibitors and Kidney Disease: Fact or Fiction?
+PMID: 38583423
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38583423/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Proton pump inhibitors (PPIs) are commonly prescribed medications for dyspepsia and gastroesophageal reflux. There are concerns about their use in the development of chronic kidney disease (CKD). The available published literature fails to support an association with PPI and the development of CKD. Placebo-controlled trials demonstrate no difference in the incidence of CKD between placebo and PPI. If one examines the data according to the Bradford Hill perspective incorporating temporal relationship, the strength of association, dose-response relationship, replacement of findings, cessation of exposure, specificity of the association, and consistency with other knowledge, one can only conclude that there is no consistent relationship between PPI use and the development of CKD, or its progression. There is insufficient evidence to link PPI exposure with the development or progression of CKD.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sedentary lifestyle risks
+TITLE: Food Addiction and Lifestyle Habits among University Students.
+PMID: 33919610
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33919610/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The prevalence of overweight and obesity is increasing in our society, with a complex, multifactorial origin, and associated with greater morbidity and mortality in the population. Food addiction (FA) is a common disorder in overweight/obese people, which appears to be increasingly common in young people. This study analyzed food addiction in a group of young university students and to examine its association with body composition, quality of sleep, adherence to the Mediterranean diet, physical activity/sedentary habits, tobacco or alcohol consumption, and health status. A total of 536 undergraduate nursing students participated in a questionnaire that included the Yale Food Addiction Scale (YFAS 2.0). Up to 6.4% of the students presented FA. Statistically significant associations were observed in the variables for sleep quality odds ratio (OR) 4.8 (95% confidence interval (CI): 1.66-13.87), anxiety/depression OR 8.71 (95% CI: 3.93-19.27), body mass index (BMI) OR 8.32 (95% CI: 3.81-18.15) and sedentary lifestyle OR 2.33 (95% CI: 1.09-5.01). A predictive model was developed after binary logistic regression (area under the ROC curve 0.84 (95% CI: 0.77-0.91). Students with FA presented higher BMI values, worse sleep quality, anxiety or depression problems, and more time spent in sedentary behaviors.

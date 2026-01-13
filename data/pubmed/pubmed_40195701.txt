@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Acne vulgaris
+TITLE: Decoding Acne Vulgaris: Insights into Pathogenesis, Treatment Modalities, Diagnosis and Recent Advancements.
+PMID: 40195701
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40195701/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Acne vulgaris, an alternative term for acne, is a persistent inflammatory skin condition affecting the pilosebaceous unit. Its development involves a combination of factors, including increased sebum production, changes in keratinization leading to comedone formation, colonization of hair follicles by Propionibacterium acnes (P. acnes), and the release of inflammatory mediators in the vicinity of the pilosebaceous unit. This review provides a concise overview of acne, covering its pathogenesis, epidemiology, diagnosis, treatment options, and recent advancements involved in acne. Various therapeutic approaches, encompassing topical, systemic, combination, and hormonal treatments, are employed to address acne. Prolonged use of synthetic medications is common in acne therapy, but their potential for severe side effects prompts a preference for herbal- based treatments. Herbal remedies utilizing extracts of natural origin are considered safer due to their lower toxicity and reduced likelihood of adverse drug reactions. Recent advancements, particularly in personalized medicine and microbiome research have enhanced our understanding and opened new avenues for more effective management. Decoding acne vulgaris has provided insights into its pathogenesis, treatment modalities, diagnostics, and recent advancements. Integrating synthetic and herbal treatments, personalized medicine, microbiome research, and advanced modeling techniques offer promising acne management strategies.

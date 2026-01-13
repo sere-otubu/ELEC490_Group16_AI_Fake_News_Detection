@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Oral hygiene
+TITLE: Improving oral hygiene for patients.
+PMID: 25563127
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25563127/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Systematic reviews and patient safety initiatives recommend that oral hygiene should be part of routine patient care. However, evidence suggests it is often neglected in hospitals and care homes. Research recommends encouraging beliefs that support oral hygiene, and teaching nurses appropriate skills, as necessary prerequisites to implementing best practice in hospital wards. This article describes a pilot study of an educational workshop on oral hygiene. Results from the pilot study suggest that this workshop is a feasible intervention for a service-wide trial. The literature suggests that other interventions are required to complement this approach if nurses are to make oral hygiene a priority in daily patient care.

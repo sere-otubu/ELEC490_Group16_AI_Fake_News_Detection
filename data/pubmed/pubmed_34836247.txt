@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gluten free diet
+TITLE: The Gluten-Free Diet for Celiac Disease and Beyond.
+PMID: 34836247
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34836247/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The gluten-free diet (GFD) has gained popularity beyond its main medical indication as the treatment for gluten-induced immune-mediated disorders such as celiac disease (CD), dermatitis herpetiformis, gluten ataxia, wheat allergy, and non-celiac gluten sensitivity. However, the diet carries some disadvantages such as elevated costs, nutritional deficiencies, and social and psychological barriers. The present work aims to review indications, proven benefits, and adverse events of a gluten-free diet. Close follow-up with patients following the diet is recommended. More data is needed to assess the effectiveness of the diet in managing mental and cognitive disorders and to establish a connection between the brain and gluten.

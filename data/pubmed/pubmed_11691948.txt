@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Electrolytes
+TITLE: Fluid and electrolytes: parenteral fluid therapy.
+PMID: 11691948
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11691948/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Parenteral fluid therapy is a basic component of the care of hospitalized infants and children. Clinicians who care for inpatients must be able to assess the need for parenteral fluid therapy and to specify the composition of fluid and rate of administration. Fluid and electrolyte problems can be challenging but generally can be "tamed" by an organized approach, application of a few principles of physiology, and careful monitoring of the patient. It can be useful to consider separately the amount of fluid needed and the electrolyte composition for maintenance needs, deficit, and ongoing losses. Because maintenance is not as directly related to weight as deficit or as directly measureable as ongoing losses, it tends to cause the most confusion. It will, therefore, be discussed first and in more detail than deficit or ongoing losses.

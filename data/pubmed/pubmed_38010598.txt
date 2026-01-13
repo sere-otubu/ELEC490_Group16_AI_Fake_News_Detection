@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hashimotos thyroiditis
+TITLE: Experimental rat models for Hashimoto's thyroiditis.
+PMID: 38010598
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38010598/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hashimoto's thyroiditis (HT) is an autoimmune thyroid disease characterized by T lymphocyte-mediated destruction of thyroid follicles. To study the pathogenesis of HT and the efficacy of new substances for its treatment, an easily obtained and adequate to the human disease experimental model is needed. The aim of our study was to find out whether it is possible to induce experimental autoimmune thyroiditis (EAT) similar to Hashimoto's thyroiditis by injecting with thyroglobulin (Tg) without using agents that enhance its thyroiditogenicity and without taking into account the genetic sensitivity of animals. Wistar rats were immunized with freshly isolated rat Tg or porcine Tg. In 8 weeks, histological studies of the thyroid and parathyroid glands were performed. Thyroid function and total serum calcium level were also evaluated. Immunization with both rat and porcine freshly isolated Tg caused T lymphocytic infiltration of the thyroid gland, thyroid follicle atrophy and degradation in Wistar rats. EAT caused by porcine Tg was characterized by greater severity than EAT induced with rat Tg. In 55% of rats with porcine Tg-induced EAT, oxyphilic metaplasia was detected in the parathyroid glands. In addition, low total serum calcium was observed in these rats. Two rat models of autoimmune thyroiditis were obtained. EAT caused in Wistar rats by immunization with rat Tg is similar to Hashimoto's thyroiditis. EAT induced with porcine Tg was accompanied by oxyphil cell metaplasia in the parathyroids and hypocalcemia.

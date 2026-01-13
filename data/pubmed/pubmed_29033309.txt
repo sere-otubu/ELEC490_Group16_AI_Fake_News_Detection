@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Prenatal testing
+TITLE: Ethical considerations in prenatal testing: Genomic testing and medical uncertainty.
+PMID: 29033309
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29033309/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Prenatal diagnostic testing has recently progressed from karyotype to routinely available chromosomal microarray, and the potential for fetal whole exome sequencing, both through invasive diagnostic testing and, in some cases, non-invasive prenatal testing. These tests bring beneficence through providing a higher diagnostic yield, often with lower risks of miscarriage than previously available testing, but also raise the question of harms related to an increase in uncertain and unknown results. Some parents-to-be report a desire to learn as much information as possible prenatally, and there may be beneficence in providing them with this information. However, the potential uncertainty these tests may create may raise anxiety and may complicate pregnancy decision-making for both patients and providers. This article reviews current prenatal technologies and the growing research on the clinical and ethical aspects of uncertainty as it relates to expanding prenatal testing options.

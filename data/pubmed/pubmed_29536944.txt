@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Electronic health records
+TITLE: The impact of electronic health records on diagnosis.
+PMID: 29536944
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29536944/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Diagnostic error may be the largest unaddressed patient safety concern in the United States, responsible for an estimated 40,000-80,000 deaths annually. With the electronic health record (EHR) now in near universal use, the goal of this narrative review is to synthesize evidence and opinion regarding the impact of the EHR and health care information technology (health IT) on the diagnostic process and its outcomes. We consider the many ways in which the EHR and health IT facilitate diagnosis and improve the diagnostic process, and conversely the major ways in which it is problematic, including the unintended consequences that contribute to diagnostic error and sometimes patient deaths. We conclude with a summary of suggestions for improving the safety and safe use of these resources for diagnosis in the future.

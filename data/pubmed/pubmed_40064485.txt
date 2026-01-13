@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Migraine
+TITLE: [Women's Life Stages and Migraine].
+PMID: 40064485
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40064485/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Migraine is a neurological disorder characterized by a high degree of disruption to life. The prevalence of migraines is high among women in their 20s to 40s. The hormonal milieu has a substantial effect on migraines in women. An understanding of these hormonal influences at various stages of life (menstrual cycle, pregnancy, puerperium, menopause, and use of hormone therapy) is essential for the management and prevention of migraines. It is important to identify patients' priorities and consider them to select and support treatment options, such as the treatment of severe menstrual migraine, treatment options when complicated by endometriosis, and the choice of medication during pregnancy and lactation.

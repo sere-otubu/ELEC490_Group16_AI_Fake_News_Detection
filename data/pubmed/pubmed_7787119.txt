@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Amniocentesis
+TITLE: Early amniocentesis.
+PMID: 7787119
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7787119/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Amniocentesis before 15 weeks has been introduced in many prenatal diagnosis centres. There are, however, major anatomical differences between the appearance of fetus at 15-16 weeks, when amniocentesis has normally been performed, and in the first and early second trimester. This is mainly because of the presence of extraembryonic coelome and the relatively small amount of amniotic fluid in early pregnancy. Several small cohort studies have indicated no increased fetal loss rate with early amniocentesis. Others have suggested an increased risk of respiratory distress among the newborn. The only randomized study published, however, found a significantly increased rate of fetal losses after early amniocentesis. This incomplete study indicates the urgency of further randomized studies of early amniocentesis. A randomized study comparing early amniocentesis with transabdominal chorionic villus sampling is being undertaken at our centre in Copenhagen using a filter method that reduces the volume of fluid needed for karyotyping.

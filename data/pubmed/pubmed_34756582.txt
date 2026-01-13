@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Appendicitis
+TITLE: Enterobius vermicularis-associated appendicitis: A 22-year case series and comprehensive review of the literature.
+PMID: 34756582
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34756582/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Enterobius vermicularis is known to be associated with appendicitis, however a causal relationship between Enterobius and appendicitis has not been established. The aim of this study was to explore the relationship between appendiceal Enterobius and histologic appendicitis. A retrospective review was performed of all pediatric appendectomies between 1997 and 2019. Patients with diagnosed with Enterobius were included for analysis. Patient demographics, operative findings, and pathologic reports were queried. Data were entered into an encrypted database and subsequently analyzed. A comprehensive review of the literature was also conducted. Thirty-eight cases of Enterobius-associated appendicitis were identified out of 3541 (1.07%). Grossly normal appendices at operation were seen in 27% of patients. Inflammatory infiltrate was noted on histopathology in 78.3%, and Enterobius was considered to be the cause of that inflammation in 68.4%. The comprehensive literature review revealed 19 articles (1.87% incidence) that noted 35% of patients with appendiceal Enterobius had appendicitis on either histopathology or gross evaluation. The high rate of inflammation on pathology found among our patients with pinworm appendicitis suggests an association with presentation as acute appendicitis. Our comprehensive review revealed a higher proportion of Enterobius appendicitis. Treatment with antihelminthic therapy is recommended. Level IV(4)-case series and comprehensive review.

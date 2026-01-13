@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Platelets
+TITLE: Platelets at the intersection of inflammation and coagulation in the APC-mediated response to myocardial ischemia/reperfusion injury.
+PMID: 39143722
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39143722/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Thromboinflammation is a complex pathology associated with inflammation and coagulation. In cases of cardiovascular disease, in particular ischemia-reperfusion injury, thromboinflammation is a common complication. Increased understanding of thromboinflammation depends on an improved concept of the mechanisms of cells and proteins at the axis of coagulation and inflammation. Among these elements are activated protein C and platelets. This review summarizes the complex interactions of activated protein C and platelets regulating thromboinflammation in cardiovascular disease. By unraveling the pathways of platelets and APC in the inflammatory and coagulation cascades, this review summarizes the role of these vital mediators in the development and perpetuation of heart disease and the thromboinflammation-driven complications of cardiovascular disease. Furthermore, this review emphasizes the significance of the counteracting effects of platelets and APC and their combined role in disease states.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: E. coli infection
+TITLE: Biofilm exopolysaccharides alter sensory-neuron-mediated sickness during lung infection.
+PMID: 38518773
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38518773/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Infections of the lung cause observable sickness thought to be secondary to inflammation. Signs of sickness are crucial to alert others via behavioral-immune responses to limit contact with contagious individuals. Gram-negative bacteria produce exopolysaccharide (EPS) that provides microbial protection; however, the impact of EPS on sickness remains uncertain. Using genome-engineered Pseudomonas aeruginosa (P. aeruginosa) strains, we compared EPS-producers versus non-producers and a virulent Escherichia coli (E. coli) lung infection model in male and female mice. EPS-negative P. aeruginosa and virulent E. coli infection caused severe sickness, behavioral alterations, inflammation, and hypothermia mediated by TLR4 detection of the exposed lipopolysaccharide (LPS) in lung TRPV1<sup>+</sup> sensory neurons. However, inflammation did not account for sickness. Stimulation of lung nociceptors induced acute stress responses in the paraventricular hypothalamic nuclei by activating corticotropin-releasing hormone neurons responsible for sickness behavior and hypothermia. Thus, EPS-producing biofilm pathogens evade initiating a lung-brain sensory neuronal response that results in sickness.

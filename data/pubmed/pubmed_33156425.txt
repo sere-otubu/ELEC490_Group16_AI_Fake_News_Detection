@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cluster headaches
+TITLE: [Cluster headaches-proven and novel approaches : A critical evaluation of treatment studies].
+PMID: 33156425
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33156425/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Trigeminal autonomic cephalalgias are characterized by unilateral headaches accompanied by cranial autonomic symptoms and a sense of restlessness. Clinical trials have been conducted on acute therapy and prophylaxis of cluster headache in recent years. Since the other trigeminal autonomic cephalalgias are rare, it is virtually impossible to conduct controlled clinical trials for their investigation. Recent trials provide data on the efficacy of prednisolone, galcanezumab, fremanzeumab and noninvasive vagal nerve stimulation. Methodological difficulties arise in terms of patient recruitment for clinical trials, clinical endpoints and potential differences in the pathophysiology of episodic and chronic cluster headache.

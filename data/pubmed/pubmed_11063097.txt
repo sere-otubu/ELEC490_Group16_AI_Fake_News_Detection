@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Spinal fusion
+TITLE: Electrical bone graft stimulation for spinal fusion: a review.
+PMID: 11063097
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11063097/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although electrical stimulation to aid bone fusion is well established in the treatment of long-bone fractures, its use as an aid in spinal fusion is not as well documented. This article presents the history and scientific basis of electrical stimulation to aid bone fusion and extensively reviews the clinical literature. It is intended to provide an objective review of the indications and limitations of electrical stimulation to enhance spinal fusion and to serve as a reference source for further study.

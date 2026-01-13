@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HPV vaccine
+TITLE: Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices.
+PMID: 25811679
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25811679/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+During its February 2015 meeting, the Advisory Committee on Immunization Practices (ACIP) recommended 9-valent human papillomavirus (HPV) vaccine (9vHPV) (Gardasil 9, Merck and Co., Inc.) as one of three HPV vaccines that can be used for routine vaccination. HPV vaccine is recommended for routine vaccination at age 11 or 12 years. ACIP also recommends vaccination for females aged 13 through 26 years and males aged 13 through 21 years not vaccinated previously. Vaccination is also recommended through age 26 years for men who have sex with men and for immunocompromised persons (including those with HIV infection) if not vaccinated previously. 9vHPV is a noninfectious, virus-like particle (VLP) vaccine. Similar to quadrivalent HPV vaccine (4vHPV), 9vHPV contains HPV 6, 11, 16, and 18 VLPs. In addition, 9vHPV contains HPV 31, 33, 45, 52, and 58 VLPs. 9vHPV was approved by the Food and Drug Administration (FDA) on December 10, 2014, for use in females aged 9 through 26 years and males aged 9 through 15 years. For these recommendations, ACIP reviewed additional data on 9vHPV in males aged 16 through 26 years. 9vHPV and 4vHPV are licensed for use in females and males. Bivalent HPV vaccine (2vHPV), which contains HPV 16, 18 VLPs, is licensed for use in females. This report summarizes evidence considered by ACIP in recommending 9vHPV as one of three HPV vaccines that can be used for vaccination and provides recommendations for vaccine use.

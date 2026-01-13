@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Arthroscopy
+TITLE: Shoulder arthroscopy.
+PMID: 2774447
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2774447/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The results of 50 shoulder arthroscopies are presented. A great variety of different lesions were seen. In 27 of the 50 cases the diagnosis was changed or refined. In particular, unexpected rotator cuff tears and radiolucent loose bodies were found. The presence of Bankart and Hill-Sachs lesions confirmed the diagnosis of recurrent dislocation in clinically subluxing patients with no radiological evidence of dislocation. Shoulder arthroscopy promises to increase diagnostic precision in patients with shoulder pain and may have therapeutic potential with minimal morbidity.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Body composition
+TITLE: Perioperative body composition changes in the multimodal treatment of gastrointestinal cancer.
+PMID: 31028458
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31028458/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Surgical resection and perioperative adjuvant therapy are widely accepted standard treatments for gastrointestinal cancer. However, body composition changes, such as weight loss and skeletal muscle loss, are unavoidable during these treatments. Several studies have shown that perioperative body composition changes are affected by multimodal treatment for gastrointestinal cancer. This review summarizes the background, current status, and future perspectives of perioperative body composition changes in the multimodal treatment of gastrointestinal cancer. Recent studies have described the body composition changes observed in the early period after surgery and during adjuvant therapy. Changes in the body composition might affect adjuvant chemotherapy toxicity after surgery and postoperative complications after neoadjuvant therapy. The mechanisms underlying body composition changes during multimodal therapy are multifactorial and include systemic inflammation, reduced nutrient intake, and physical inactivity. Several approaches have been tested to maintain the body composition, and especially prevent skeletal muscle wasting, during multimodal therapy. Although the ideal approach for managing body composition changes in gastrointestinal cancer patients remains unclear, recent studies support the combination of multiple approaches rather than a single approach.

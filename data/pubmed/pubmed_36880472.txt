@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Healthcare accessibility
+TITLE: Public healthcare (in)accessibility for TB patients: a slum's-eye view.
+PMID: 36880472
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36880472/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The government healthcare system unintentionally excludes the destitute in several ways. In this article, a "slum's-eye" perspective on the public healthcare system is offered through reflections on stories of tuberculosis patients in urban poor neighbourhoods. We hope these stories contribute to discourse on how to strengthen the public healthcare system and make it more accessible for all, especially the poor.

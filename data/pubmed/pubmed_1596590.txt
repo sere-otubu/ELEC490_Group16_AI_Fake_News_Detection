@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anemia
+TITLE: Nutritional anaemias.
+PMID: 1596590
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1596590/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Nutritional anaemia is recognized as a major public health problem throughout the world, especially in developing countries. Infants, young children, menstruating women and, in particular, pregnant women are most frequently affected. Sufficient evidence suggests that iron deficiency is the most common cause of nutritional anaemia in the world. Folate deficiency is considered as the second most common cause. In this chapter we discuss the factors determining nutritional inadequacy in iron and folate requirements versus iron and folate intake, particularly in different age/sex categories; the amounts of iron and folate involved in daily exchange and the role of the diet and physiological and pathological variations in losses and requirements are reviewed. The consequences in terms of health of iron and folate deficiencies and methods for assessing iron and folate status of populations are also presented.

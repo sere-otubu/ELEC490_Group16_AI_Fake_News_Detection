@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cervical cancer
+TITLE: Precision medicine for cervical cancer.
+PMID: 34596094
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34596094/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To summarize the data on precision medicine for cervical cancer including the use of potential biomarkers. We also review ongoing areas of research in cervical cancer therapeutics. In the current clinical practice, programmed death ligand 1 (PD-L1) expression is used to select patients with cervical cancer for treatment with checkpoint inhibitors. However, more recently presented data suggest that PD-L1 may not be a fully accurate biomarker for selection and further analysis is warranted. With the publication of the molecular landscape of cervical cancer, tumor profile-based therapy selection is of greater interest (i.e. targeting PI3K and HER2). In this review, we discuss the role of potential biomarkers for cervical cancer that may assist with the selection of precision therapies. Enrolling patients on active clinical trials will help clarify the role of targeting specific mutations.

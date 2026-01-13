@@ -1,0 +1,8 @@
+SEARCH_TOPIC: General anesthesia
+TITLE: Linking and unlinking the paediatric brain: age-invariant neural correlates of general anaesthesia.
+PMID: 35863952
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35863952/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There is no single electroencephalographic metric for general anaesthesia that is validated for both children and adults. This is, in part, because of the changing electroencephalographic features associated with development. Here, we discuss how alterations in correlated brain activity during general anaesthesia advance our understanding of anaesthetic monitoring and the neurobiology of consciousness.

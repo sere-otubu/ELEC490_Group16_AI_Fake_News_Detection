@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ultrasound
+TITLE: Ultrasound evaluation of deep venous thrombosis.
+PMID: 1736375
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1736375/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ultrasonography has achieved the role of the contemporary diagnostic tool for the assessment of DVT. Routine use of venography to assess for lower extremity clot is very difficult to justify. Long-term follow-up of patients has provided sufficient documentation that ultrasonography can successfully supplant the venogram. Only with regard to calf vein thrombosis is there still uncertainty about the need to occasionally rely on venography. Radiologists must become cognizant of the capabilities of ultrasonography and facile in its interpretation. Performance of this test should be available in every institution. The nonradiological literature is replete with articles documenting the use of venous ultrasonography and encouraging its routine use for venous clot evaluation.

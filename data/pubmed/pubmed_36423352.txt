@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Aerobic exercise
+TITLE: Efficacy of aerobic exercise following concussion: a narrative review.
+PMID: 36423352
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36423352/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Concussion is a type of mild traumatic brain injury which results in symptoms within the physical, cognitive, emotional, and sleep domains. Historically, guidelines established by expert opinion have recommended rest during the initial stages of recovery following a concussion until symptom resolution. However, recent recommendations have shifted to advise an initial period of 24-48 h of rest immediately following concussion with the gradual introduction of light-to-moderate intensity aerobic exercise thereafter. Given the relatively recent transition in recommendations, the aim of this review is to provide an overview of the current literature on the efficacy of aerobic exercise following concussion. The current literature is limited to studies assessing the impact of standardized aerobic exercise following concussion. Upon review, literature suggests participating in aerobic exercise below the point of symptom exacerbation is safe in both the acute and chronic post-concussion symptom stages of recovery and does not delay time to medical clearance. Future large-scale randomized controlled trials assessing the impact of aerobic exercise and differences between males and females would help support the current evidence suggesting aerobic exercise could improve time to recovery following concussion and identify any sex differences in response. As well, future studies with the purpose of identifying optimal aerobic exercise volume and intensity in the treatment of concussion could improve the specificity of the current guidelines.

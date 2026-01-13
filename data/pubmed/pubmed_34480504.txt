@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lung function
+TITLE: Determinants of lung function changes in athletic swimmers. A review.
+PMID: 34480504
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34480504/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To summarise lung function characteristics of athletic swimmers and discuss mechanisms explaining these changes while putting forward the lack of a clear understanding of the precise physiological factors implicated. Literature search until 07.2021 on Medline and EMBASE using keywords swimming, athletes, respiratory physiology, lung development, lung function tests. Relevant articles in French and English were reviewed. We found insufficient data to perform a meta-analysis. However, there is evidence that swimmers have better expiratory flows and increased baseline lung volumes than non-athletes or non-swimmers. Although these features can result from changes in lung development following intense training over the years, the contribution of a genetic predisposition and positive selection cannot be totally excluded. Disentangling the participation of constitutional factors and years of hard training to explain the larger lung volumes of athletic swimmers is in favour of an adaptative response of the lungs to early swim training through modification of the pathway of lung development. There seems to be an optimal window of opportunity before the end of growth for these adaptational changes to occur. Precise mechanisms, and contribution of adaptative change on lung physiology, remain to be further studied.

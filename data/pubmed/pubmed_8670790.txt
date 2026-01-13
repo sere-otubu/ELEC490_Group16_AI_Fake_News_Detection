@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Neurotransmitters
+TITLE: Neurotransmitters in the retina.
+PMID: 8670790
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8670790/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Processing of visual information within the retina depends in large measure upon a complement of chemical neurotransmitters which are released at synaptic contacts between individual neurons. Numerous investigators have participated in the identification of many of these transmitters and their assignment to specific neuronal subpopulations. However, it is now clear that the action of each transmitter depends upon the receptor molecules to which it binds. Multidisciplinary studies are underway to characterize these receptors as well as to investigate transporter molecules which may serve not only to inactivate certain neurotransmitters but may also function in their release.

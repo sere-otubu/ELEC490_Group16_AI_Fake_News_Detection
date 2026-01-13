@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Telemedicine adoption
+TITLE: Exploring the adoption of telemedicine and virtual software for care of outpatients during and after COVID-19 pandemic.
+PMID: 32642981
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32642981/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+As the novel coronavirus disease 2019 (COVID-19) continues to spread across countries, the need for innovative measures to provide high-quality patient care and manage its spread has become more imperative. Software-based systems such as medical software applications could provide valuable suggestion on health-related information to physicians towards improving quality of life, especially for outpatients (e.g., elderly, immunosuppressed, pregnant women). The use of telemedicine and virtual software offers promising potential in the fight against COVID-19. Accordingly, by means of expedited literature and document review, this paper provides implication on the opportunities, application, and challenges of telemedicine and existing virtual software currently adopted as suitable initiatives for reducing the spread of COVID-19. More importantly, findings present factors that impact adoption of telemedicine. The findings suggest that telemedicine and virtual software are capable of decreasing emergency room visits, safeguarding healthcare resources, and lessening the spread of COVID-19 by remotely treating patients during and after the COVID-19 pandemic.

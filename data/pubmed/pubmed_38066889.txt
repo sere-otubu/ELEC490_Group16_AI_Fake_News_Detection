@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Iron deficiency
+TITLE: Identifying and treating iron deficiency anemia in pregnancy.
+PMID: 38066889
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38066889/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Anemia is common during pregnancy, and while most anemia is physiologic, the most common pathologic cause is iron deficiency. The American College of Obstetricians and Gynecologists (ACOG) recommends confirmation of iron deficiency anemia with iron studies when anemia is diagnosed during pregnancy but acknowledges that presumptive treatment for suspected iron deficiency anemia is common in practice. Currently ACOG does not recommend treating iron deficiency without anemia during pregnancy. Though the benefits of treating iron deficiency anemia during pregnancy are clear, the optimal route of iron repletion remains uncertain. Results of ongoing large, randomized trials will help define the optimal route of iron treatment for pregnant patients diagnosed with iron deficiency anemia.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Migraine
+TITLE: Vestibular migraine: who is the patient?
+PMID: 28527080
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28527080/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Vestibular migraine has been classified as a specific entity in which vestibular symptomatology is defined as part of the migrainous disorder. New and appropriate diagnostic criteria have been proposed by the Barany and International Headache Societies. The diagnosis of vestibular migraine mainly depends on the patient history. The NIVE project is a prospectic multicentric study on vestibular migraine. The aim of this project is to evaluate demographics, epidemiology, clinical manifestations of migraine and vertigo in a large cohort of Caucasian patients affected by vestibular migraine.

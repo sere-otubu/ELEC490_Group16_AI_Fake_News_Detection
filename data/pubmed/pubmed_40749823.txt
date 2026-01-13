@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dopamine
+TITLE: Dopamine and its effects on the respiratory system: A narrative literature review.
+PMID: 40749823
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40749823/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Dopamine is a neuromodulator molecule that is involved in several systems in the human body. As a neurotransmitter, it plays a role in regulating reward, pleasure, and motor control in the brain. Beyond its well-known central nervous system functions it significantly influences peripheral systems including kidneys, circulatory system, and notably, immune system. It increases glomerular filtration rate and renal blood flow in the kidneys, while it increases aortic pressure and cardiac output in the circulatory system. Crucially, dopamine and its receptors have been identified on various immune cells, playing a significant immunomodulatory role that contributes to balanced immune responses and has implications in autoimmune diseases and conditions like sepsis. Moreover, in the respiratory system, dopamine plays a significant role in the pathophysiology of major respiratory disorders such as asthma, cystic fibrosis, chronic obstructive pulmonary disease, and lung cancer. Depending on the type of receptor, dopaminergic receptors contribute to the pathophysiology of lung disease. As part of the narrative review, we have identified dopaminergic receptors in the respiratory system, their anatomic locations, and their specific mechanisms of action in the pathophysiology of major respiratory disorders. We have also identified and summarized molecular therapy protocols that can be used in the treatment of these disorders, considering the evolving understanding of dopamine's broad systemic effects.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Suicide prevention
+TITLE: Technology-enhanced suicide prevention interventions: A systematic review.
+PMID: 27377792
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27377792/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Objective Suicide prevention is a high priority. Scalable and sustainable interventions for suicide prevention are needed to set the stage for population-level impact. This systematic review explores how technology-enhanced interventions target suicide risk and protective factors, using the Centers for Disease Control and Prevention (CDC, 2015) Risk and Protective Factors Ecological Model. Methods Information databases (PsycINFO, PubMed and CINAHL) were systematically searched and records including technology-enhanced interventions for suicide prevention ( n = 3764) were reviewed. Records with varying technologies and diverse methodologies were integrated into the search. Results Review of the records resulted in the inclusion of 16 studies that utilized technology-enhanced interventions to address determinants of suicidal behaviour. This includes the use of standalone or, in most cases, adjunct technology-enhanced interventions for suicide prevention delivered by mobile phone application, text message, telephone, computer, web, CD-ROM and video. Conclusion Intervention effectiveness was variable, but several technology-enhanced interventions have demonstrated effectiveness in reducing suicidal ideation and mental health co-morbidities. Large-scale research and evaluation initiatives are needed to evaluate the costs and long-term population-level impact of these interventions.

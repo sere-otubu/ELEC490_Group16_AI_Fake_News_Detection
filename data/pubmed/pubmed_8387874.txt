@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mastectomy
+TITLE: Chest wall recurrence of ductal carcinoma in situ of the breast after mastectomy.
+PMID: 8387874
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8387874/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Optimal management of ductal carcinoma in situ (DCIS) of the breast is a problem that is occurring with greater frequency, mostly because of the increasing use of mammographic screening. The traditional role of mastectomy for DCIS has been challenged by breast-conserving procedures. Regardless of the method of treatment used, local control with complete tumor eradication is the major goal in the management of DCIS. A patient is reported in whom DCIS recurred in residual breast tissue in the chest wall several years after mastectomy. Chest wall recurrence of DCIS within residual breast tissue probably is caused by failure of tumor excision, new primary tumor, or both. This observation underscores that (1) mastectomy may not result in complete removal of breast tissue, and (2) this residual breast tissue may be the substrate for "chest wall recurrences" in some patients with breast cancer.

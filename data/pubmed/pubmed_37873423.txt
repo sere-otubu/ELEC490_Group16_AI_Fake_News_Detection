@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hydration importance
+TITLE: Sequential gentle hydration increases encapsulation in model protocells.
+PMID: 37873423
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37873423/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Small, spherical vesicles are a widely used chassis for the formation of model protocells and investigating the beginning of compartmentalized evolution. Various methods exist for their preparation, with one of the most common approaches being gentle hydration, where thin layers of lipids are hydrated with aqueous solutions and gently agitated to form vesicles. An important benefit to gentle hydration is that the method produces vesicles without introducing any organic contaminants, such as mineral oil, into the lipid bilayer. However, compared to other methods of liposome formation, gentle hydration is much less efficient at encapsulating aqueous cargo. Improving the encapsulation efficiency of gentle hydration would be of broad use for medicine, biotechnology, and protocell research. Here, we describe a method of sequentially hydrating lipid thin films to increase encapsulation efficiency. We demonstrate that sequential gentle hydration significantly improves encapsulation of water-soluble cargo compared to the traditional method, and that this improved efficiency is dependent on buffer composition. Similarly, we also demonstrate how this method can be used to increase concentrations of oleic acid, a fatty acid commonly used in origins of life research, to improve the formation of vesicles in aqueous buffer.

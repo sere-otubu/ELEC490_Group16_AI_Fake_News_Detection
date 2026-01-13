@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Processed foods
+TITLE: Ultra-processed foods and the development of obesity in adults.
+PMID: 36280730
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36280730/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ultra-processed foods (UPF) are ubiquitous in the modern-day food supply and widely consumed. High consumption of these foods has been suggested to contribute to the development of obesity in adults. The purpose of this review is to present and evaluate current literature on the relationship between UPF consumption and adult obesity. Cross-sectional studies (n = 9) among different populations worldwide show a positive association between UPF consumption and obesity. Longitudinal studies (n = 7) further demonstrate a positive association between UPF consumption and development of obesity, suggesting a potential causal influence of UPF consumption on obesity risk. However, only one randomized controlled trial has tested the causality of this association. The study included in this review found greater energy intake and weight gain with consumption of a high UPF diet compared to a high unprocessed food diet. The potential mechanisms by which UPF increase the risk of obesity include increased energy intake due to increased sugar consumption, decreased fiber consumption, and decreased protein density; however, more research is needed. Overall, the evidence identified in the current review consistently support a positive relation between high UPF consumption and obesity. While there is a need for more experimental research to establish causality and elucidate the mechanisms, the sum of the evidence supports a need for research on treatment modalities that include reductions in UPF consumption for the management of adult obesity.

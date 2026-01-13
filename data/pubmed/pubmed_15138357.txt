@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hormone replacement therapy
+TITLE: Hormone replacement therapy and endometrial cancer.
+PMID: 15138357
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15138357/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Postmenopausal hormone replacement therapy (HRT) using unopposed estrogens significantly increases endometrial cancer risk and should not be used in non-hysterectomized women. Even low-potency estrogens (oral estriol) or low-dose unopposed estrogens significantly enhance the risk to develop endometrial cancer. This risk is markedly reduced, when in addition to estrogens, progestins are administered for at least 10 days (better 14 days) per month. In some studies, a normalization of endometrial cancer risk to that of women receiving no HRT was only found when a continuous combined estrogen/progestin replacement was used. The use of progestins for less than 10 days per month and long-cycle regimens, where a progestin is added only every 3 months cannot be recommended. For women needing HRT, estrogen dose should be selected as low as possible and reassessment of the need of HRT should be performed annually.

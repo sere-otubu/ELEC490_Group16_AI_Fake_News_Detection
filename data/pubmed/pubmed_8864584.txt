@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lyme disease
+TITLE: Lyme disease.
+PMID: 8864584
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8864584/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In the United States, there was an increase in the number of reported cases of Lyme disease in 1994 compared with previous years. The majority of cases occurred in the Northeast and Midwest, which are areas with established foci of Borrelia burgdorferi. Advances in the understanding of the epidemiology and ecology of ixodes ticks, the established vector for transmission of Lyme disease, provided strategies for reducing tick populations and the risk of acquiring disease. Dissemination of B. burgdorferi from the site of a tick bite likely occurs, in part, via attachment to host plasmin and subsequent degradation of glycoproteins. Analysis of T cell immune responses in mice contributed to our understanding of differences in disease susceptibility. Vaccination of patients with previous Lyme disease has been found to be safe, and clinical trials of vaccine efficacy are currently under way.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Male infertility
+TITLE: Treating male infertility.
+PMID: 35939554
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35939554/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Most causes of male infertility are treatable, and the goal of many treatments is to restore the ability to conceive naturally. The process of spermatogenesis is essential for human reproduction. A simple sounding process is mediated by a variety of factors, including multiple hormonal influences. Fertility should be discussed with all patients at risk of gonadal failure due to treatment. Ideally, this discussion should be held by a fertility expert with special interest in fertility preservation. This mini review aims to provide the current status of male infertility, the fertility preservation options and the impact of stem cells in it today.

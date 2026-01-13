@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tubal ligation
+TITLE: Histopathologic and Preneoplastic Changes in Tubal Ligation Materials.
+PMID: 38138220
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38138220/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+<i>Background and Objectives:</i> To investigate histopathological changes and serous carcinoma precursors such as secretory cell outgrowths (SCOUTs) and p53 signature in the bilateral tubal ligation (BTL) materials used during cesarean section (S/C). <i>Materials and Methods</i>: In total, 138 patients underwent S/C and tubal sterilization (TS) between October 2020 and May 2021 at Konya City Hospital. Patients' data were obtained from the hospital's system. All data and findings were investigated and statistically evaluated. <i>Results:</i> The mean age was 34.62 years (22-44), the mean gravity was 4.89 (2-15) and the mean parity was 3.46 (1-10). In total, 5.79% SCOUT, 7.24% atypia and 9.42% p53 signatures were observed. Significant correlations were shown between the epithelial cell lineage and age between Ki-67, SCOUT, and gravity; between the Ki-67 results and gravity and parity; and between the p53 score and age. <i>Conclusions</i>: TS is a common, safe, and effective method worldwide. Today, BTL is increasing along with increasing S/C ratios. In addition to the reduced risk of ovarian cancers with ligation alone, precursor lesions such as hyperplasia, SCOUT, p53 signature, and STIL/Serous tubal intraepithelial carcinoma (STIC) are encountered in the ampulla materials obtained. Considering the low rates of re-anastomosis, tubal excision may be recommended instead of ligation in women of relatively higher gravity and age.

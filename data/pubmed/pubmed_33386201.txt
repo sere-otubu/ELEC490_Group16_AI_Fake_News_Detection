@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pilates benefits
+TITLE: Effect of Pilates mat exercise and home exercise programs on pain, functional level, and core muscle thickness in women with chronic low back pain.
+PMID: 33386201
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33386201/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To investigate the effects of Pilates exercise in patients with chronic non-specific low back pain (CNLBP) by training core stabilization muscles in aspects such as: pain, functional level, depression, quality of life, and muscle thickness measured by Ultrasound Imaging (UI) and to compare it with home based exercise. A prospective, randomized-single blinded study included 60 female patients with CNLBP. Patients were randomized into Pilates (group 1) or home exercise group (group 2) three times/week for eight weeks. The evaluations were made at the beginning and end of the treatment. Outcome parameters were VAS, Oswestry Disability Index, Qubec Disability Scale, Short Form-36, Beck Depression Questionnaire, sit and reach, Modified Schöber and sit up tests. Multifidus and abdominal muscle thickness were measured by UI. Significant improvement has been observed in all parameters in both groups. It was found that Group 1 was more effective in terms of all parameters (p < 0.05). Both Pilates and home exercises are effective in treating patients with chronic low back pain. UI can be useful for evaluating the core muscle thickness progression of chronic low back pain patients who are undergoing exercise therapy.

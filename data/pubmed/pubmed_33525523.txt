@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Laxatives
+TITLE: Magnesium Oxide in Constipation.
+PMID: 33525523
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33525523/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Magnesium oxide has been widely used as a laxative for many years in East Asia, yet its prescription has largely been based on empirical knowledge. In recent years, several new laxatives have been developed, which has led to a resurgence in interest and increased scientific evidence surrounding the use of magnesium oxide, which is convenient to administer, of low cost, and safe. Despite these advantages, emerging clinical evidence indicates that the use of magnesium oxide should take account of the most appropriate dose, the serum concentration, drug-drug interactions, and the potential for side effects, especially in the elderly and in patients with renal impairment. The aim of this review is to evaluate the evidence base for the clinical use of magnesium oxide for treating constipation and provide a pragmatic guide to its advantages and disadvantages.

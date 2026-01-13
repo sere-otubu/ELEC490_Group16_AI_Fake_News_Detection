@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Intestines function
+TITLE: Gastrointestinal pacing.
+PMID: 8248832
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8248832/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gastrointestinal pacing has been used to alter motor function and is effective in animal models in modulating gastric emptying, intestinal transit, and absorption. Application of gastrointestinal pacing to disorders of the human stomach and small bowel is an attractive treatment option that may some day become a clinical reality. Several technical problems must be overcome before further clinical testing can proceed.

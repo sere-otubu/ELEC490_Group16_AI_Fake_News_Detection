@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pregnancy nutrition
+TITLE: Preconception and Prenatal Nutrition and Neurodevelopmental Disorders: A Systematic Review and Meta-Analysis.
+PMID: 31319515
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31319515/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Preconception and prenatal nutrition is critical for fetal brain development. However, its associations with offspring neurodevelopmental disorders are not well understood. This study aims to systematically review the associations of preconception and prenatal nutrition with offspring risk of neurodevelopmental disorders. We searched the PubMed and Embase for articles published through March 2019. Nutritional exposures included nutrient intake or status, food intake, or dietary patterns. Neurodevelopmental outcomes included autism spectrum disorders (ASD), attention deficit disorder-hyperactivity (ADHD) and intellectual disabilities. A total of 2169 articles were screened, and 20 articles on ASD and 17 on ADHD were eventually reviewed. We found an overall inverse association between maternal folic acid or multivitamin supplementation and children's risk of ASD; a meta-analysis including six prospective cohort studies estimated an RR of ASD of 0.64 (95% CI: 0.46, 0.90). Data on associations of other dietary factors and ASD, ADHD and related outcomes were inconclusive and warrant future investigation. Future studies should integrate comprehensive and more objective methods to quantify the nutritional exposures and explore alternative study design such as Mendelian randomization to evaluate potential causal effects.

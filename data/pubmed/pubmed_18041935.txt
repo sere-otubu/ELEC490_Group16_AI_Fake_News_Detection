@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Parkinsons disease
+TITLE: Overview of Parkinson's disease.
+PMID: 18041935
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18041935/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This overview of Parkinson's disease is designed to serve as a background to the discussion elsewhere in this supplement on the pharmacotherapy used in its management. Parkinson's disease is a common progressive neurodegenerative condition associated with significant disability and negative impact on quality of life. Although the cause of Parkinson's disease is unknown, the pathologic manifestation involves the loss or dysfunction of dopaminergic neurons in the substantia nigra pars compacta. Characteristic clinical manifestations include difficulty with coordinated movement such as asymmetric resting tremor, rigidity, and bradykinesia. These symptoms and their response to levodopa constitute the basis for a clinical diagnosis of Parkinson's disease. Postural instability and gait abnormalities occur in more advanced disease. Although there is no cure for Parkinson's disease, a number of pharmacologic treatments are available for managing the motor and nonmotor symptoms. Research is under way to assess the disease-modifying ability of both standard and newer treatments.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cell division mitosis
+TITLE: Hoxb1b controls oriented cell division, cell shape and microtubule dynamics in neural tube morphogenesis.
+PMID: 24449840
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24449840/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hox genes are classically ascribed to function in patterning the anterior-posterior axis of bilaterian animals; however, their role in directing molecular mechanisms underlying morphogenesis at the cellular level remains largely unstudied. We unveil a non-classical role for the zebrafish hoxb1b gene, which shares ancestral functions with mammalian Hoxa1, in controlling progenitor cell shape and oriented cell division during zebrafish anterior hindbrain neural tube morphogenesis. This is likely distinct from its role in cell fate acquisition and segment boundary formation. We show that, without affecting major components of apico-basal or planar cell polarity, Hoxb1b regulates mitotic spindle rotation during the oriented neural keel symmetric mitoses that are required for normal neural tube lumen formation in the zebrafish. This function correlates with a non-cell-autonomous requirement for Hoxb1b in regulating microtubule plus-end dynamics in progenitor cells in interphase. We propose that Hox genes can influence global tissue morphogenesis by control of microtubule dynamics in individual cells in vivo.

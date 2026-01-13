@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Proton pump inhibitors
+TITLE: Proton pump inhibitors for upper gastrointestinal bleeding.
+PMID: 31785730
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31785730/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Acute upper gastrointestinal bleeding (UGIB) remains a public health burden with a persistent high mortality despite advances in modern day management. Proton pump inhibitors (PPI) as medical therapy is an attractive adjuvant to endoscopic treatment in UGIB but the method and dose of PPI therapy remains controversial. This chapter aims to describe the current evidence addressing acute PPI use in the management of UGIB. It will explore the evidence behind the timing, the dosage and the mode of administration of PPI during initial UGIB management, prior to and immediately following endoscopy, as well as in the short-term following discharge.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pregnancy nutrition
+TITLE: Nutrition and pregnancy.
+PMID: 18463470
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18463470/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The importance of nutrition during pregnancy with regard to pregnancy outcome has long been acknowledged. This importance has only been further emphasized by the recent changes in food quality and availability, lifestyle changes, and a new understanding of fetal programming on adult outcomes. The impact of the recent obesity epidemic has had a profound effect on the field of medicine, and nowhere may that impact be more critical than the field of obstetrics. We are only beginning to understand how maternal obesity may impact not only immediate pregnancy outcomes, but also life and health course of the offspring. The financial and societal costs will likely be enormous. Much research is needed to understand how these problems can be ameliorated.

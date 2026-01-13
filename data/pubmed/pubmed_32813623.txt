@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sleep paralysis
+TITLE: Sleep paralysis in college students.
+PMID: 32813623
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32813623/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+<b>Objective:</b> We examined the prevalence of sleep paralysis (SP), its association with stress and sleep, and associated subjective experiences and beliefs. <b>Participants:</b> 1,115 college students from a large university in the southwestern United States. The sample was predominantly Hispanic (94%) and female (70%). <b>Methods</b>: Validated measures of life-events stress, self-perceived stress, sleep quality and insomnia were administered to participants online. <b>Results</b>: 35% of students had previously experienced SP and reported greater stress and poorer sleep than those who had never experienced it. Effect sizes were larger when comparing those who had/had not experienced SP within the prior year. <b>Conclusions</b>: Based on our predominantly Hispanic and majority female sample, we found that SP is experienced by approximately one-third of undergraduate students and associated with both higher stress and poorer sleep. We therefore recommend that college health practitioners seek ways to integrate relevant assessment and education into campus health practices.

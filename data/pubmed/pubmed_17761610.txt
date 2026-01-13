@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Carpal tunnel syndrome
+TITLE: Carpal tunnel syndrome.
+PMID: 17761610
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17761610/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Carpal tunnel syndrome is the most common compressive neuropathy of the upper extremity. As a result of median nerve compression, the patient reports pain, weakness, and paresthesias in the hand and digits. The etiology of this condition is multifactorial; anatomic, systemic, and occupational factors have all been implicated. The diagnosis is based on the patient history and physical examination and is confirmed by electrodiagnostic testing. Treatment methods range from observation and splinting, to cortisone injection and splinting, to surgical intervention. Both nonsurgical and surgical management provide symptom relief in most patients. The results of open and endoscopic surgery essentially are equivalent at 3 months; the superiority of one technique over the other has yet to be established.

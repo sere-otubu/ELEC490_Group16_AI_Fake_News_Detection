@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Caffeine effects
+TITLE: A review of caffeine's effects on cognitive, physical and occupational performance.
+PMID: 27612937
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27612937/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Caffeine is consumed by over 80% of U.S. adults. This review examines the effects caffeine has on cognitive and physical function, since most real-world activities require complex decision making, motor processing and movement. Caffeine exerts its effects by blocking adenosine receptors. Following low (∼40mg or ∼0.5mgkg<sup>-1</sup>) to moderate (∼300mg or 4mgkg<sup>-1</sup>) caffeine doses, alertness, vigilance, attention, reaction time and attention improve, but less consistent effects are observed on memory and higher-order executive function, such as judgment and decision making. Effects on physical performance on a vast array of physical performance metrics such as time-to-exhaustion, time-trial, muscle strength and endurance, and high-intensity sprints typical of team sports are evident following doses that exceed about 200mg (∼3mgkg<sup>-1</sup>). Many occupations, including military, first responders, transport workers and factory shift workers, require optimal physical and cognitive function to ensure success, workplace safety and productivity. In these circumstances, that may include restricted sleep, repeated administration of caffeine is an effective strategy to maintain physical and cognitive capabilities.

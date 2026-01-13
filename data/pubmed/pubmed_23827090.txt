@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tinnitus
+TITLE: Tinnitus.
+PMID: 23827090
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23827090/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Tinnitus is a common medical symptom that can be debilitating. Risk factors include hearing loss, ototoxic medication, head injury, and depression. At presentation, the possibilities of otological disease, anxiety, and depression should be considered. No effective drug treatments are available, although much research is underway into mechanisms and possible treatments. Surgical intervention for any otological pathology associated with tinnitus might be effective for that condition, but the tinnitus can persist. Available treatments include hearing aids when hearing loss is identified (even mild or unilateral), wide-band sound therapy, and counselling. Cognitive behavioural therapy (CBT) is indicated for some patients, but availability of tinnitus-specific CBT in the UK is poor. The evidence base is strongest for a combination of sound therapy and CBT-based counselling, although clinical trials are constrained by the heterogeneity of patients with tinnitus.

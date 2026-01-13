@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cognitive behavioral therapy
+TITLE: A Systematic Review of Cognitive Behavioral Therapy and Behavioral Activation Apps for Depression.
+PMID: 27135410
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27135410/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Depression is a common mental health condition for which many mobile apps aim to provide support. This review aims to identify self-help apps available exclusively for people with depression and evaluate those that offer cognitive behavioural therapy (CBT) or behavioural activation (BA). One hundred and seventeen apps have been identified after searching both the scientific literature and the commercial market. 10.26% (n = 12) of these apps identified through our search offer support that seems to be consistent with evidence-based principles of CBT or BA. Taking into account the non existence of effectiveness/efficacy studies, and the low level of adherence to the core ingredients of the CBT/BA models, the utility of these CBT/BA apps are questionable. The usability of reviewed apps is highly variable and they rarely are accompanied by explicit privacy or safety policies. Despite the growing public demand, there is a concerning lack of appropiate CBT or BA apps, especially from a clinical and legal point of view. The application of superior scientific, technological, and legal knowledge is needed to improve the development, testing, and accessibility of apps for people with depression.

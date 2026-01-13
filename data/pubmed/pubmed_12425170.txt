@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Environmental health
+TITLE: International monitoring for environmental health surveillance.
+PMID: 12425170
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12425170/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This paper offers an overview of existing international monitoring systems with relevance for environmental health surveillance. Representative monitoring systems are described that: address areas of chronic and acute exposure, and diseases and behavioural effects resulting from human-environment interactions; have an ecosystem focus with perhaps a secondary motivation of ascertaining human health impacts that may result from ecosystem conditions; and that incorporate socio-demographic and economic data that may reflect population health determinants. General conclusions on the state of environmental surveillance systems and suites of indicators reviewed are provided in relation to their utility for the development of a generic environmental health surveillance system. This review indicates, among other things, that no obvious short list of core indicators exists which spans "environmental health" to provide a sufficient set applicable in a global context. Through a summary of challenges and limitations in existing systems and indicator sets, recommendations are provided for the discussion of indicator selection and organization, and of developing general and widely applicable environmental health monitoring and surveillance systems.

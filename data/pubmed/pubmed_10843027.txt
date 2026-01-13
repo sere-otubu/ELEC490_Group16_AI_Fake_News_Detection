@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Breastfeeding benefits
+TITLE: Benefits of breastfeeding: a review for physicians.
+PMID: 10843027
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10843027/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Physicians can support breastfeeding for their patients by providing prenatal families with accurate and current information on the benefits of breastfeeding, eliminating barriers to breastfeeding in both their office and hospital environments, and recognizing the significant impact the physician may have on the breastfeeding practices of their patients and the support for breastfeeding in their communities.

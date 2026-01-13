@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Biopsy
+TITLE: CT guided mediastinal biopsy facilitated by PET/CT imaging: Our experience.
+PMID: 32716405
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32716405/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The purpose of this retrospective study is to assess the efficacy of mediastinal tumor biopsies guided by computed tomography (CT) and facilitated by positron emission tomography (PET)/CT in our hospital. We also wanted to prove the use of PET/CT in performing such biopsies. Fifty-two patients were biopsied under CT guidance with PET/CT visual co-registration (35) and facilitated PET/CT registration (17). In 49 patients, a diagnosis from the guided biopsy performed was successful and in 3 patients the results were inconclusive. Our results allow us to claim that the accuracy of CT-guided mediastinal biopsies facilitated by PET/CT allow for precise localization of higher tumor metabolism, potentially reduce the number of needle passes needed and increase the success rate of the procedure.

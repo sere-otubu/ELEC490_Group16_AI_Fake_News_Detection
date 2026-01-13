@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sleep paralysis
+TITLE: Recent Insights Into Sleep Paralysis: Mechanisms and Management.
+PMID: 39184697
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39184697/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Sleep paralysis (SP) is a phenomenon wherein individuals awaken from deep sleep but are unable to move or speak, often experiencing vivid hallucinations. This condition, attributed to the persistence of muscle atonia from rapid eye movement (REM) sleep into wakefulness, is associated with factors like sleep deprivation and irregular sleep patterns. While isolated episodes of SP are generally benign, recurrent episodes may warrant clinical attention, particularly when accompanied by distressing symptoms. Despite its prevalence across cultures and its documented association with various medical conditions, SP remains poorly understood by many. This review explores the clinical characteristics, epidemiology, and associated risk factors of SP, drawing from a comprehensive analysis of the existing literature. Additionally, the review discusses potential treatment modalities, including pharmacological interventions and cognitive-behavioral therapy, highlighting the need for further research to enhance our understanding and management of this intriguing phenomenon.

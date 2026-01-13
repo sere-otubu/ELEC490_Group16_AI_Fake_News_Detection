@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Holistic medicine
+TITLE: A short history of clinical holistic medicine.
+PMID: 17982604
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17982604/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Clinical holistic medicine has its roots in the medicine and tradition of Hippocrates. Modern epidemiological research in quality of life, the emerging science of complementary and alternative medicine, the tradition of psychodynamic therapy, and the tradition of bodywork are merging into a new scientific way of treating patients. This approach seems able to help every second patient with physical, mental, existential or sexual health problem in 20 sessions over one year. The paper discusses the development of holistic medicine into scientific holistic medicine with discussion of future research efforts.

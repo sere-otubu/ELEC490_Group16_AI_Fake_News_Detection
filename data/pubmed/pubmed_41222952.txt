@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Maternal mortality rates
+TITLE: Maternal mortality rates due to abortion in Brazil: A 10-years analysis of national databases.
+PMID: 41222952
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41222952/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Abortion complications are significant contributors to maternal deaths (MD), particularly in regions with restrictive abortion laws and limited healthcare access. The impact of these causes on the maternal mortality ratios (MMR) in Brazil is scarce. We evaluated the MMR related to abortion in Brazil from 2012-2022, conducting a cross-sectional study using data from the Ministry of Health, analyzing MD related to abortion and calculating the MMR per 100,000 live births (LB). We evaluated the MMR according to age, skin color, and geographic region of living. Among 19,535 MDs, 663 (3.39 percent) were attributed to abortion. Indigenous (PR 3.23; 95 percent CI 1.94-5.36) and black (PR 1.95; 95 percent CI 1.48-2.58) women exhibited higher MMRs. Women aged 40-49 had the highest MMR (5.85 deaths per 100,000 LB), and North region exhibited a significantly higher MMR (PR 1.44; 95 percent CI 1.15-1.81). Abortion accounted for a small proportion of MD in a 10-year analysis of a Brazilian national database; however, the findings highlighted inequalities in the deaths. The indigenous and black women presented higher MMR; the same was observed among older women, and those who lived in North region of the country.

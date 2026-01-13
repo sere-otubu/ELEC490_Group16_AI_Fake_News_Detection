@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Epilepsy
+TITLE: Global Health: Epilepsy.
+PMID: 29791945
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29791945/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Epilepsy is a frequently misunderstood and highly stigmatized condition. Major treatment gaps exist across the world, most so in areas of financial constraint. Classification permits the best approaches to treatment and to ascertaining prognosis. The International League Against Epilepsy's new classification system emphasizes clinical aspects and utilizes all available resources to determine whether it is a focal or generalized epilepsy. The most important tools are a careful history, clinical examination, electroencephalography, and appropriate neuroimaging. Inadequate, delayed, and incomplete evaluation may lead to misdiagnosis and costly mismanagement. Treatment is generally pharmacological, with approximately 20 to 30% of patients eventually proving refractory to medications and thus becoming potential surgical candidates. The type of epilepsy, age, gender, comorbidities, drug interactions, and drug cost are important factors in choosing an antiepileptic drug (AED). The teratogenic potential of some AEDs, weight gain, and menstrual hormone-related issues are important considerations in women. The impact of AEDs on bone health is critical in all age groups, particularly in the elderly. Psychiatric problems, mostly depression and anxiety, can have a great impact on seizure control and overall quality of life. Finally, effective partnerships and collaborations can bring resources, both human and financial, to regions that would otherwise find it impossible to effect change on their own.

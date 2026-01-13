@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anemia
+TITLE: Anemia of chronic kidney disease: Protocol of study, management and referral to Nephrology.
+PMID: 29128260
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29128260/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The objective of this protocol is to know which test are needed to study an anaemia in a patient with chronic kidney disease, the differential diagnosis of renal anaemia, to know and correct other deficiency anaemias, and the criteria for referral to Nephrology or other specialties of the anaemic patient with chronic kidney disease.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Joint replacement
+TITLE: Advances in total joint replacement in small animals.
+PMID: 22943214
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22943214/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Total joint replacement is now considered a routine surgical option for small animals with advanced joint disease. This review highlights the current state of the art in total hip, elbow and knee replacement in small animals, as well as the potential for application to other joints such as the intervertebral discs, hock and shoulder. Advances in cementless fixation, the use of less-invasive, bone-sparing procedures, and the development of custom implant options for revision surgery and oncologic reconstruction will be discussed. As growth in this field continues, it is important that future developments in total joint replacement are built on a foundation of detailed laboratory evaluation of new implant designs and surgical techniques, objective assessment of clinical outcomes, and a comprehensive, coordinated retrieval program that evaluates both well-functioning and failed joint replacements.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lupus
+TITLE: Systemic lupus erythematosus and pregnancy.
+PMID: 1754814
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1754814/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article critically analyses the data in the literature on pregnancy in women with systemic lupus erythematosus. Based on the results of recent controlled prospective studies, it is apparent that the long-standing opinion that pregnancy induces exacerbation of the disease should be revised. The presence of active disease and/or a significant loss of renal function at conception are not only associated with a high risk of maternal complications, but also with high frequencies of loss of the fetus, as well as pre- and dysmaturity. Recently, the presence of antiphospholipid antibodies, notably the lupus anticoagulant and anticardiolipin antibodies, has been recognized as being important for the occurrence of death of the fetus, in particular, late in the pregnancy. This is probably due to thrombosis occurring in the placental vessels. However, the results of randomized studies on treatment with antithrombotic drugs and/or procedures lowering, antibody levels must be available before we will know whether the presence of these antibodies should be coupled to specific instructions or not. Although there is a strong association between the neonatal lupus syndrome and the presence of anti-SSA antibodies in maternal blood, the finding of anti-SSA antibodies has up to now had no therapeutic implications. It is concluded that pregnancy in SLE deserves extensive preconceptional counseling and close cooperation between the internist, rheumatologist, obstetrician and the neonatologist.

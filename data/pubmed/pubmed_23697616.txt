@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Glaucoma
+TITLE: Update on pediatric glaucoma.
+PMID: 23697616
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23697616/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Pediatric glaucomas are a group of heterogeneous diseases that can be potentially blinding. Their clinical presentation varies widely. Making the correct diagnosis in a timely manner and implementing a proper management plan are crucial in preventing visual loss. This review summarizes current concepts regarding terminology, classification, epidemiology, clinical features, medical and surgical treatment, and recent advances in basic science with an emphasis on the pathogenesis and genetics of pediatric glaucoma.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Preventive medicine
+TITLE: Preventive medicine's equivalence problem.
+PMID: 32184116
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32184116/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The structure of preventive medicine residency training in the U.S. warrants serious examination. U.S. public health and general preventive medicine residencies have suffered a 17% decline in the number of residency programs since 2000, and current residency programs are, on average, half-empty. The required clinical year is not unique to preventive medicine, a basic, undifferentiated MPH for preventive medicine doesn't distinguish the preventive medicine specialist, and practicum year requirements are overly broad and not necessarily specific to the specialty, leaving the specialty vulnerable to equivalence by most other specialties. Strategies including creation of an additional preventive medicine-specific clinical year, developing a new public health degree for the specialty, and more specific practicum rotations, as well as potentially changing the specialty's name and altering the annual structure of training, are proposed along with an equivalence test.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Organic foods
+TITLE: Organic food retailing: to what extent are foods processed and do they contain markers of ultra-processing?
+PMID: 34425721
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34425721/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In France, around 70% of conventional industrial foods are ultra-processed, with no data for organic foods. The objectives of this study were to evaluate the percentage of ultra-processed foods (UPFs) in industrially packaged organic (<i>n</i> = 8554) and conventional (<i>n</i> = 45,791) foods, and to describe their marker of ultra-processing (MUP) profiles. The percentage of UPFs and MUP profiles were determined with the Siga methodology. UPF percentages were 53% in organic foods and 74% in conventional foods, and there was 8% more organic UPFs in conventional stores than in organic stores. The more additive MUPs are used, the greater the quantity of nonadditive MUPs. Conventional UPFs contained twice as many total MUPs as organic UPFs. Main MUPs in organic UPFs were refined oils, extracts and natural aromas, native starches, glucose syrup, lecithins and citric acid. Organic foods are, therefore, overall less ultra-processed although still containing high levels of nonadditive MUPs.

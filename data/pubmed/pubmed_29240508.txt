@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Bulimia nervosa
+TITLE: Medical complications of bulimia nervosa.
+PMID: 29240508
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29240508/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Bulimia nervosa is a psychiatric disorder with many different medical sequelae. This article reviews the principal medical complications associated with bulimia nervosa, and emphasizes the importance of a timely approach to diagnosis and management.

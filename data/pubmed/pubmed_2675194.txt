@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pineal gland
+TITLE: Psychoactive drugs, pineal gland and affective disorders.
+PMID: 2675194
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2675194/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The possibility of pineal gland involvement as a part of "neuroendocrine dysfunction" in some of the psychiatric diseases has received special attention in recent years. The discovery of a cascade of receptors and the action of many psychoactive drugs on pineal gland supports the concept that the pineal gland can be considered as a suitable model system for assessing the action of psychotropic drugs. Psychotropic drugs, particularly antidepressants both tricyclics and monoamine oxidase inhibitors when administered either to animals or to patients suffering from depressive illness affects the pineal gland function and melatonin concentration. This raises the possibility that the beneficial effects of these drugs may relate to their ability to alter the pineal gland function and melatonin secretion. The occurrence of seasonal affective disorders and their response to bright light treatment implicate, melatonin as a "bio-chemical marker" for these disease states. In view of these facts it can be suggested that pineal gland does play an important role in the etiology of mental diseases, especially affective disorders.

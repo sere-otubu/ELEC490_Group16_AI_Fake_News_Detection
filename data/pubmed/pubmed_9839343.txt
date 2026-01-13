@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lymphoma
+TITLE: Lymphoma at the extremes of age.
+PMID: 9839343
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9839343/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To provide a review of the unique features of both Hodgkin's and non-Hodgkin's lymphoma in pediatric and geriatric patient populations. Treatment approaches and nursing care interventions at the extremes of age will be discussed. Review articles, research studies, and book chapters. Lymphoma is a highly heterogeneous malignancy whose classification and management have undergone significant evolution. Of particular concern has been lymphoma's prevalence and treatment at the extremes of age. Appropriate treatment by age and subtype remains controversial. The nursing care of pediatric and geriatric patients with lymphoma presents numerous challenges in education, symptom management, and supportive care.

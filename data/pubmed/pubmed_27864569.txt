@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Self harm
+TITLE: Repeated self-harm in young people: a review.
+PMID: 27864569
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27864569/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This paper provides a review of the rates of self-harm and repeated self-harm among young people. It describes some of the risk factors associated with these behaviours and summarises some of the barriers to delivering optimal treatment. The review concludes that there is an urgent need for the delivery of respectful and evidence-based practice to all young people who present with self-harm. In addition, improved monitoring of self-harm presentations to hospitals across Australia is required in order that robust data are collected and the impact of practice change can be reliably assessed.

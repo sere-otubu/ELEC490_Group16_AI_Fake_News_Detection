@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood pressure regulation
+TITLE: [Baroreflex sensitivity: diagnostic importance, methods of determination and a model of baroreflex blood-pressure regulation].
+PMID: 23821958
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23821958/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Baroreflex regulation of blood pressure primarily moderates its fluctuations and also affects mean blood pressure. Heart rate baroreflex sensitivity is described as changes of the inter-beat interval induced by a change of blood pressure of 1 mmHg (BRS). BRS is decreased in many cardiovascular diseases (hypertension, diabetes mellitus, obesity, cardiac failure, etc.). Decreased BRS in disposed individuals, especially after myocardial infarction, increases the risk of sudden cardiac death. Therefore, early diagnosis of BRS decrease gains in importance. This article describes different methods of determination of baroreflex sensitivity. The methods are based on evaluation of the spontaneous fluctuation of heart rate and blood pressure (spectral, sequential or nonlinear methods), or of primary changes of blood pressure induced by a vasoactive substance or a physiological manoeuvre and corresponding changes of cardiac intervals (Valsalva manoeuvre, phenylephrine administration). Each method has its advantages and disadvantages resulting from a different difficulty of calculation or from inclusion of different deviations in the results, which are not directly linked with baroreflex. Baroreflex regulating total peripheral resistance is less described. A mathematical model of baroreflex blood pressure regulation by fluctuation of heart rate and peripheral resistance is presented in this paper.

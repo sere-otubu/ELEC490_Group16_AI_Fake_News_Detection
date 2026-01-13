@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Respiratory system
+TITLE: Acute respiratory distress syndrome.
+PMID: 28446599
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28446599/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Since its first description, the acute respiratory distress syndrome (ARDS) has been acknowledged to be a major clinical problem in respiratory medicine. From July 2015 to July 2016 almost 300 indexed articles were published on ARDS. This review summarises only eight of them as an arbitrary overview of clinical relevance: definition and epidemiology, risk factors, prevention and treatment. A strict application of definition criteria is crucial, but the diverse resource-setting scenarios foster geographic variability and contrasting outcome data. A large international multicentre prospective cohort study including 50 countries across five continents reported that ARDS is underdiagnosed, and there is potential for improvement in its management. Furthermore, epidemiological data from low-income countries suggest that a revision of the current definition of ARDS is needed in order to improve its recognition and global clinical outcome. In addition to the well-known risk-factors for ARDS, exposure to high ozone levels and low vitamin D plasma concentrations were found to be predisposing circumstances. Drug-based preventive strategies remain a major challenge, since two recent trials on aspirin and statins failed to reduce the incidence in at-risk patients. A new disease-modifying therapy is awaited: some recent studies promised to improve the prognosis of ARDS, but mortality and disabling complications are still high in survivors in intensive care.

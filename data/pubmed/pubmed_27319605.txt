@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Eating disorders
+TITLE: Eating disorders.
+PMID: 27319605
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27319605/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Twenty years have passed from the International Classification of Diseases, Tenth Revision (ICD-10) to the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) and, in the meanwhile, a lot of research data about eating disorders has been published. This article reviews the main modifications to the classification of eating disorders reported in the "Feeding and Eating Disorders" chapter of the DSM-5, and compares them with the ICD-10 diagnostic guidelines. Particularly, we will show that DSM-5 criteria widened the diagnoses of anorexia and bulimia nervosa to less severe forms (so decreasing the frequency of Eating Disorders, Not Otherwise Specified (EDNOS) diagnoses), introduced the new category of Binge Eating Disorder, and incorporated several feeding disorders that were first diagnosed in infancy, childhood, or adolescence. On the whole, the DSM-5 revision should allow the clinician to make more reliable and timely diagnoses for eating disorders.

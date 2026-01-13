@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Environmental health
+TITLE: Environmental health research and the COVID-19 pandemic: A turning point towards sustainability.
+PMID: 33887273
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33887273/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Based on a review of COVID-19 research from an environmental health perspective, this study theorizes the interdependence of the society, environment and health, and presents an integrated framework for environmental health problems arising due to COVID-19. Five guiding principles are proposed for conducting environmental health research, including employing a transdisciplinary approach, embracing complexity and uncertainty, addressing vulnerability, boosting resilience and promoting sustainable development. This study propagates that the pandemic could be an opportunity for sustainable transformation, wherein visionary leadership that facilitates sustainability policies based on environmental health science is required. This study can serve as a consolidated guide for professionals and stakeholders who conduct environmental health research in this challenging field.

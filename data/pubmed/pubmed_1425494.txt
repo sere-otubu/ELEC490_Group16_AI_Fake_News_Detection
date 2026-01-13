@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hormones types
+TITLE: Hormones and epilepsy through the lifetime.
+PMID: 1425494
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1425494/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hormones influence brain function from gestation throughout life and may affect the seizure threshold by altering neuronal excitability. Estrogen enhances and progesterone diminishes neuronal excitability experimentally, whereas testosterone and corticosteroids have less consistent effects. Hormonal effects in the CNS also depend on the region of brain in which the hormone acts. Sites of action for most steroid hormones include the hypothalamus and limbic cortex, providing a mechanism for modulating behavior and endocrine function. Seizure patterns may change at certain life stages, perhaps as a result of alterations in hormones. At puberty, epilepsy and benign rolandic epilepsy often remit, while juvenile myoclonic and photosensitive epilepsy may arise. Other types of epilepsy do not respond predictably to events in the reproductive life or to advancing age. In some women, fluctuations in hormones over the menstrual cycle appear to increase seizure vulnerability, probably reflecting changes in relative amounts of estrogen and progesterone. Seizure patterns can be altered, for better or worse, during pregnancy. Whether this reflects the effects of hormones or changes in levels of antiepileptic drugs is not resolved. More information is needed about changes in established epilepsy at menopause and in the elderly. Better understanding of endocrine effects on seizures over a lifetime should lead to more effective epilepsy therapies.

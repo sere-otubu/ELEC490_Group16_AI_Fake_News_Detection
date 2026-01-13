@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ovarian cancer
+TITLE: Ovarian Cancer: A Heterogeneous Disease.
+PMID: 29020678
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29020678/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ovarian cancer encompasses a collection of neoplasms with distinct clinicopathological and molecular features and prognosis. Despite there being a variety of ovarian cancer subtypes, these are treated as a single disease. Tremendous efforts have been made to characterize these subtypes and identify tumoral pathways and potential biomarkers for therapeutic strategies. As in other cancer types, tumor heterogeneity appears to be very high across subtypes and within a single tumor, representing a major cause of treatment failure. We describe the morphological and molecular heterogeneity among ovarian cancers and discuss recent advances in our understanding of intratumor heterogeneity.

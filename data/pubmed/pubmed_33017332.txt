@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Osteoporosis
+TITLE: Bone Health and Osteoporosis Prevention and Treatment.
+PMID: 33017332
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33017332/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Postmenopausal osteoporosis is a common condition and is associated with increased risk of fracture, including hip and vertebral fractures that in turn can have devastating consequences on morbidity and mortality. In this article, we review the pathogenesis and diagnostic approach to postmenopausal osteoporosis. We review available nonpharmacologic and pharmacologic therapies and we discuss their clinical efficacy and complications, with a detailed discussion of atypical femur fractures and osteonecrosis of the jaw.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Beta blockers
+TITLE: [Beta-blockers after a myocardial infarction: when to discontinue safely?].
+PMID: 33560606
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33560606/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+For decades beta-blockers have been used in the treatment of patients after a myocardial infarction (MI). Current guidelines on the use of beta-blockers after myocardial infarction are based on studies that date back to 3 decades ago. Since then advances in the treatment of myocardial infarction have been made, thanks to the implementation of percutaneous coronary intervention, statins and ACE-inhibitors. This has resulted in increased survival and lower rates of post-MI heart failure. Long-term beta-blocker treatment is a cornerstone for treatment in patients with decreased left ventricular systolic function. However, the efficacy of the long-term treatment in post-MI patients with preserved ventricular function is unknown. Side-effects of beta-blockers can considerably impact patient's quality-of-life. This contribution reviews available data on the efficacy and possibilities for discontinuation of treatment with beta-blockers.

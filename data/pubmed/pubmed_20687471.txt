@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cell division mitosis
+TITLE: Centrosomes, polyploidy and cancer.
+PMID: 20687471
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20687471/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cancer cells are frequently characterized by ploidy changes including tetra-, poly- or aneuploidy. At the same time, malignant cells often contain supernumerary centrosomes. Aneuploidy and centrosome alterations are both hallmarks of tumor aggressiveness and increase with malignant progression. It has been proposed that aneuploidy results from a sequence of events in which failed mitoses produce tetra-/polyploid cells that enter a subsequent cell division with an increased number of centrosomes and hence with an increased risk for multipolar spindle formation and chromosome missegregation. Although this model attempts to integrate several common findings in cancer cells, it has been difficult to prove. Findings that centrosome aberrations can arise in diploid cells and the uncertain proliferative potential of polyploid cells suggest that alternative routes to chromosomal instability may exist. We discuss here recent results on centrosome biogenesis and the possible link between ploidy changes, centrosome aberrations and cancer.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood transfusion
+TITLE: Blood transfusion and blood conservation: cost and utilization issues.
+PMID: 7819825
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7819825/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Approximately 12 million red blood cell units are transfused to nearly 4 million patients annually in the United States (1). The conservation of blood has historically arisen from awareness that the inventory of this resource is limited (2), as well as the knowledge that blood transfusion carries a risk (3). Estimates of current blood transfusion risks (4-12), and the costs of transfusion complications (13-17), are summarized in Table 1. In addition, emphasis on the costs of health care has raised issues related to the costs of blood transfusion (18, 19). Finally, recent guidelines have emphasized that in the elective transfusion setting, no blood transfusion is a desirable outcome (20, 21). Furthermore, these guidelines along with consensus conference recommendations (22) have emphasized that if blood is to be transfused, autologous (the patient's own) blood is preferable to allogeneic (from an anonymous, volunteer donor) blood. Thus, the costs of blood conservation, for which an increasing array of technologic procedures and products have become available (Table 2), have also become an issue (23). The purpose of this review is to provide an overview of emerging data on the cost-effectiveness of blood and blood conservation interventions in order to help identify areas important for future investigation.

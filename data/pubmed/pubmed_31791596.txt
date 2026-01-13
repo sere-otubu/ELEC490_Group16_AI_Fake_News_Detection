@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Endoscopy
+TITLE: American Society for Gastrointestinal Endoscopy guideline on the role of endoscopy in the management of acute colonic pseudo-obstruction and colonic volvulus.
+PMID: 31791596
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31791596/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Colonic volvulus and acute colonic pseudo-obstruction (ACPO) are 2 causes of benign large-bowel obstruction. Colonic volvulus occurs most commonly in the sigmoid colon as a result of bowel twisting along its mesenteric axis. In contrast, the exact pathophysiology of ACPO is poorly understood, with the prevailing hypothesis being altered regulation of colonic function by the autonomic nervous system resulting in colonic distention in the absence of mechanical blockage. Prompt diagnosis and intervention leads to improved outcomes for both diagnoses. Endoscopy may play a role in the evaluation and management of both entities. The purpose of this document from the American Society for Gastrointestinal Endoscopy's Standards of Practice Committee is to provide an update on the evaluation and endoscopic management of sigmoid volvulus and ACPO.

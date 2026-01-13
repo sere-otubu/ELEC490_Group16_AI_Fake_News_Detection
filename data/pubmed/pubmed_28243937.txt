@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Zika virus
+TITLE: Zika virus: An emerging flavivirus.
+PMID: 28243937
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28243937/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Zika virus (ZIKV) is a previously little-known flavivirus closely related to Japanese encephalitis, West Nile, dengue, and yellow fever viruses, all of which are primarily transmitted by blood-sucking mosquitoes. Since its discovery in Uganda in 1947, ZIKV has continued to expand its geographic range, from equatorial Africa and Asia to the Pacific Islands, then further afield to South and Central America and the Caribbean. Currently, ZIKV is actively circulating not only in much of Latin America and its neighbors but also in parts of the Pacific Islands and Southeast Asia. Although ZIKV infection generally causes only mild symptoms in some infected individuals, it is associated with a range of neuroimmunological disorders, including Guillain-Barré syndrome, meningoencephalitis, and myelitis. Recently, maternal ZIKV infection during pregnancy has been linked to neonatal malformations, resulting in various degrees of congenital abnormalities, microcephaly, and even abortion. Despite its emergence as an important public health problem, however, little is known about ZIKV biology, and neither vaccine nor drug is available to control ZIKV infection. This article provides a brief introduction to ZIKV with a major emphasis on its molecular virology, in order to help facilitate the development of diagnostics, therapeutics, and vaccines.

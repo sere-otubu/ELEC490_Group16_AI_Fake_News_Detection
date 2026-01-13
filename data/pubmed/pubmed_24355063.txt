@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Post operative care
+TITLE: Quality of post-operative patient handover in the post-anaesthesia care unit: a prospective analysis.
+PMID: 24355063
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24355063/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Anaesthesiology plays a key role in promoting safe perioperative care. This includes the perioperative phase in the post-anaesthesia care unit (PACU) where problems with incomplete information transfer may have a negative impact on patient safety and can lead to patient harm. The objective of this study was to analyse information transfer during post-operative handovers in the PACU. With a self-developed checklist including 59 items the information transfer during post-operative handovers was documented and subsequently compared with patient information in anaesthesia records during a 2-month period. A total number of 790 handovers with duration of 73 ± 49 s was analysed. Few items were transferred in most of the cases such as type of surgery (97% of the cases), regional anaesthesia (94% of the cases) and cardiac instability (93% of the cases). However, some items were rarely transferred, such as American Society of Anesthesiologists physical status (7% of the cases), initiation of post-operative pain management (12% of the cases), antibiotic therapy (14% of the cases) and fluid management (15% of the cases). There was a slight correlation between amount of information transferred and duration of post-operative handovers (r = 0.5). The study shows that post-operative handovers in the PACU are in most cases incomplete. It appears useful to optimise the post-operative handover process, for example by implementing a standardised handover checklist.

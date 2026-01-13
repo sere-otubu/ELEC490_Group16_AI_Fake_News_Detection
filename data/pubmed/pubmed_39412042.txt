@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ergonomics
+TITLE: Ergonomics in bronchoscopy.
+PMID: 39412042
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39412042/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This study examines ergonomic considerations in bronchoscopic procedures, surveying existing research, injury rates, contributing factors, and practical ergonomic controls. The field of ergonomics examines the relationship between workers and their workplace to enhance productivity and minimize injuries. Bronchoscopists may face ergonomic hazards due to extended periods of maintaining fixed positions, repetitive actions, and the design of both tools and procedure spaces. Studies on the ergonomics of bronchoscopy have revealed a wide range of musculoskeletal issues among practitioners. Those new to the field, including trainees and early-career professionals, may be particularly vulnerable to injuries compared to their more experienced counterparts. Implementing a systematic approach, such as that proposed by the National Institute for Occupational Safety and Health, could help reduce physical stress, discomfort, and the likelihood of musculoskeletal disorders for bronchoscopists. Bronchoscopists increasingly face ergonomic issues in their practice. Despite available measures to address these problems, the field lacks uniform ergonomic guidelines for bronchoscopy. To safeguard bronchoscopists' health and safety from the outset of their careers, more studies and training focused on ergonomics in bronchoscopy are needed.

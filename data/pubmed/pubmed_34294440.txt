@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vertigo
+TITLE: Positional Vertigo.
+PMID: 34294440
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34294440/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Positional vertigo is a complex symptom that may arise from several disorders. In this chapter, we define positional vertigo and provide a comprehensive review of the disorders in the differential diagnosis, including benign paroxysmal positional vertigo, central paroxysmal positional vertigo, cervical vertigo and vertebrobasilar insufficiency, and persistent postural perceptual dizziness.

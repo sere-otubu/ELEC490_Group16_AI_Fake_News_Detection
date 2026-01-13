@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Schizophrenia
+TITLE: Smoking in schizophrenia: recent findings about an old problem.
+PMID: 31135490
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31135490/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Recent epidemiology, biological and clinical findings correlate high cigarette consumption in patients with schizophrenia, impeding both treatment strategies and the effectiveness of antipsychotics. New data suggests that despite world-wide efforts to curb cigarette consumption, smoking in patients with schizophrenia was still high. Recent reports could not confirm earlier findings regarding smoking's beneficial effects on cognitive dysfunction, however, the association between smoking, positive symptoms and suicidal behavior was revealed. As some patients smoked in an attempt to alleviate extrapyramidal symptoms (EPS) and negative symptoms, the molecular studies shared genetic roots correlating smoking and schizophrenia, revealing that smoking may increase the risk of developing schizophrenia. Preclinical and clinical studies clarified the complex relationship between schizophrenia's pathology and nicotine's effects on the human brain. Cigarette smoking continues to adversely affect the health of individuals with schizophrenia. Both smoking and heavy nicotine dependence, given the complex biological findings, might influence symptom severity in patients with schizophrenia. Regardless, ceasing smoking activities is strongly advocated to replace 'self-medication by nicotine' with safer and more effective medications.

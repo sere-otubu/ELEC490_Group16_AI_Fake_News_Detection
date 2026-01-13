@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Local anesthesia
+TITLE: Local anaesthesia of the skin.
+PMID: 2656729
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2656729/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Local anaesthesia of intact skin is of growing importance given the increased use of minor surgical procedures on an out-patient basis. Specific pain receptors (nociceptors) are responsible for sensing cutaneous pain. Mechanisms of pain perception and the role of local anaesthetics in reversibly blocking nociception are considered. Effective routes of administration are dermal infiltration or, more recently, anaesthesia by topical application of specifically formulated preparations which promote percutaneous absorption of the drug (percutaneous local anaesthesia). Although many other topical anaesthetic products are also available these do not permit the anaesthetic to reach the nociceptors underlying the stratum corneum and are therefore only suitable for mucosal anaesthesia or for application to damaged skin. The chemical characteristics of local anaesthesia drugs are identified. Those agents suitable for cutaneous anaesthesia are reviewed with respect to potency, onset and duration of anaesthesia and possible systemic or local adverse reactions.

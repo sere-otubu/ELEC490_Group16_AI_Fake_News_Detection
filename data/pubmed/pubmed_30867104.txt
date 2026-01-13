@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ovarian cancer
+TITLE: Ovarian Cancer: An Integrated Review.
+PMID: 30867104
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30867104/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To provide an overview of the risk factors, modifiable and non-modifiable, for ovarian cancer as well as prevention, diagnostic, treatment, and long-term survivorship concerns. This article will also examine current and future clinical trials surrounding ovarian cancer. A review of articles dated 2006-2018 from CINAHL, UpToDate, and National Comprehensive Cancer Network guidelines. There is no screening test for ovarian cancer and with diagnosis often in the late stages, recurrence is high in this population. Early identification can range from knowing the vague symptoms associated with the cancer to prophylactic surgical removal of at-risk tissue. Standard treatment for ovarian cancer is surgery followed by combination chemotherapy. Although advances are being made, ovarian cancer remains the most fatal female gynecologic cancer. Becoming familiar with and educating women about risk factors and the elusive symptoms of ovarian cancer can increase patient autonomy and advocacy, as well as potentially improve patient outcomes for those affected by ovarian cancer.

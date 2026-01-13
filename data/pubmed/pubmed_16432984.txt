@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Erectile dysfunction
+TITLE: Erectile dysfunction.
+PMID: 16432984
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16432984/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In this era of increased awareness of sexual health, male erectile dysfunction has become a primary care issue. Since erectile dysfunction can be either a physiologic or psychological problem, the general practitioner needs to be prepared for how to approach the evaluation, treatment and overall management for their patients. This manuscript will review the epidemiology, definition, evaluation, and various treatment modalities for erectile dysfunction, including a review of the pharmacologic mechanism of PDE-5 inhibitors such as sildenafil, vardenafil, and tadalafil.

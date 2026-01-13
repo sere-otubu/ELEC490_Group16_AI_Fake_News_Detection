@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Human brain structure
+TITLE: Effect of spaceflight experience on human brain structure, microstructure, and function: systematic review of neuroimaging studies.
+PMID: 38777951
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38777951/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Spaceflight-induced brain changes have been commonly reported in astronauts. The role of microgravity in the alteration of the brain structure, microstructure, and function can be tested with magnetic resonance imaging (MRI) techniques. Here, we aim to provide a comprehensive overview of Spaceflight studies exploring the potential role of brain alterations identified by MRI in astronauts. We conducted a search on PubMed, Web of Science, and Scopus to find neuroimaging correlates of spaceflight experience using MRI. A total of 20 studies (structural MRI n = 8, diffusion-based MRI n = 2, functional MRI n = 1, structural MRI and diffusion-weighted MRI n = 6, structural MRI and functional MRI n = 3) met our inclusion criteria. Overall, the studies showed that regardless of the MRI techniques, mission duration significantly impacts the human brain, prompting the inclusion of various brain regions as features in the analyses. After spaceflight, notable alterations were also observed in the superior occipital gyrus and the precentral gyrus which show alterations in connectivity and activation during spaceflight. The results provided highlight the alterations in brain structure after spaceflight, the unique patterns of brain remodeling, the challenges in drawing unified conclusions, and the impact of microgravity on intracranial cerebrospinal fluid volume.

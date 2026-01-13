@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Childhood obesity
+TITLE: Childhood obesity within the lens of racism.
+PMID: 34927392
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34927392/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Despite decades of research and a multitude of prevention and treatment efforts, childhood obesity in the United States continues to affect nearly 1 in 5 (19.3%) children, with significantly higher rates among Black, Indigenous, and People of Colour communities. This narrative review presents social foundations of structural racism that exacerbate inequity and disparity in the context of childhood obesity. The National Institute of Minority Health and Health Disparities' Research Framework guides the explication of structurally racist mechanisms that influence health disparities and contribute to childhood obesity: biologic and genetic, health behaviours, chronic toxic stress, the built environment, race and cultural identity, and the health care system. Strategies and interventions to combat structural racism and its effects on children and their families are reviewed along with strategies for research and implications for policy change. From our critical review and reflection, the subtle and overt effects of societal structures sustained from years of racism and the impact on the development and resistant nature of childhood obesity compel concerted action.

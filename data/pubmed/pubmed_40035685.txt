@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insulin therapy
+TITLE: Intralesional Insulin Is Superior to Intralesional Botulinum Toxin-A in the Treatment of Keloids.
+PMID: 40035685
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40035685/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Keloids represent a troublesome condition that lacks a proper standard management protocol. Insulin and botulinum toxin A (BTX-A) both have evidence-based anti-scarring effects. Hence, their role in treating keloids needs to be investigated. To compare insulin's efficacy versus BTX-A in treating keloids. Sixty-three patients with keloids were randomly allocated into 3 equal groups. Group A was treated with intralesional insulin, Group B with intralesional BTX-A, and Group C with intralesional corticosteroids, each for 4 monthly sessions. The results were assessed objectively and subjectively using the patient and observer scar assessment scale. All 3 groups showed a statistically significant reduction in volume before and after therapy, with percent changes of 66.6%, 25.3%, and 75% for Groups A, B, and C, respectively. Insulin and corticosteroids were statistically superior to BTX-A in improving pigmentation, reducing thickness, and inducing relief in treated keloids. Both insulin and BTX-A show a promising role in managing keloids, with insulin demonstrating better efficacy. Botulinum toxin A is better recommended as an adjuvant therapy alongside other mainstay treatment modalities. Larger-scale studies are needed to confirm their roles and establish guidelines for their use.

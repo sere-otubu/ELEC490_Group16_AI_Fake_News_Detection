@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Telemedicine adoption
+TITLE: Telemedicine in neuro-ophthalmology.
+PMID: 34419978
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34419978/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The COVID-19 public health emergency accelerated the adoption of telemedicine in neuro-ophthalmology. This review surveys the current telemedicine landscape and discusses associated limitations and opportunities. Logistic considerations and regulatory changes related to the COVID-19 pandemic have spurred a proliferation of tele-neuro-ophthalmic practice. One significant benefit of telemedicine is increased access to the limited number of neuro-ophthalmologists in the country. Certain elements of the neuro-ophthalmic examination can be ascertained during a video visit or through the use of mobile applications. However, data quality can be limited and more direct evaluation of the fundus currently requires the implementation of imaging techniques, such as fundus photography and/or optical coherence tomography. For cases that require it, a 'hybrid' model can be adopted in which patients physically present to designated locations for testing and subsequently participate in televisit with the physician to discuss the assessment and plan. Telemedicine provides an alternate pathway for patients to access the limited resource of neuro-ophthalmic care, and it will likely persist beyond the current COVID-19 pandemic. It has some limitations currently but continued progress in technologic, legal, and reimbursement strategies will hopefully facilitate further adoption.

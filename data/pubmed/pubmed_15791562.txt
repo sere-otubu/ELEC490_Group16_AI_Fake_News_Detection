@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dialysis
+TITLE: Dialysis water as a determinant of the adequacy of dialysis.
+PMID: 15791562
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15791562/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hemodialysis patients are exposed to large volumes of water in the form of dialysate. Contaminants from the dialysate may cross the dialyzer membrane into the blood and have the potential to compromise the adequacy of dialysis. Several chemicals found commonly in drinking water have long been known to be toxic to hemodialysis patients. More recently, it has become apparent that even low levels of bacterial products in dialysate may adversely impact dialysis adequacy through their ability to stimulate an inflammatory response. Minimum levels of water and dialysate quality have been recommended to protect patients from chemical and microbiologic contaminants. Complying with these recommendations requires an appropriately designed water purification and distribution system, combined with a surveillance program designed to maintain dialysate quality.

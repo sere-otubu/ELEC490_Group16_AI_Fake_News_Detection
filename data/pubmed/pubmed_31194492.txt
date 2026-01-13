@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Plantar fasciitis
+TITLE: Plantar Fasciitis.
+PMID: 31194492
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31194492/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Plantar fasciitis is a common problem that one in 10 people will experience in their lifetime. Plantar fasciopathy is an appropriate descriptor because the condition is not inflammatory. Risk factors include limited ankle dorsiflexion, increased body mass index, and standing for prolonged periods of time. Plantar fasciitis is common in runners but can also affect sedentary people. With proper treatment, 80% of patients with plantar fasciitis improve within 12 months. Plantar fasciitis is predominantly a clinical diagnosis. Symptoms are stabbing, nonradiating pain first thing in the morning in the proximal medioplantar surface of the foot; the pain becomes worse at the end of the day. Physical examination findings are often limited to tenderness to palpation of the proximal plantar fascial insertion at the anteromedial calcaneus. Ultrasonography is a reasonable and inexpensive diagnostic tool for patients with pain that persists beyond three months despite treatment. Treatment should start with stretching of the plantar fascia, ice massage, and nonsteroidal anti-inflammatory drugs. Many standard treatments such as night splints and orthoses have not shown benefit over placebo. Recalcitrant plantar fasciitis can be treated with injections, extracorporeal shock wave therapy, or surgical procedures, although evidence is lacking. Endoscopic fasciotomy may be required in patients who continue to have pain that limits activity and function despite exhausting nonoperative treatment options.

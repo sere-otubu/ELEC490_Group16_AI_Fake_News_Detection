@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antifungals
+TITLE: Pharmacokinetics and pharmacodynamics of antifungals.
+PMID: 16984875
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16984875/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Application of pharmacodynamic principles to antifungal drug therapy of Candida and Aspergillus infections has provided and understanding of the relationship between drug dosing and treatment efficacy. Observations of the pharmacodynamics of triazoles and AmB have correlated with the results of clinical trials and have proven useful for validation of in vitro susceptibility breakpoints. Although there remain many unanswered questions regarding antifungal pharmacodynamics, available data suggest usefulness in the application of pharmacodynamics to antifungal clinical development. Future application of these principles should aid in the design of optimal combination antifungal therapies.

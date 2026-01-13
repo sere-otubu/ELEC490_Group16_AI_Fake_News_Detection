@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ebola virus
+TITLE: Ebola virus disease: Biological and diagnostic evolution from 2014 to 2017.
+PMID: 29224715
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29224715/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The Ebola virus disease outbreak observed in West Africa from March 2014 to June 2016 has led to many fundamental and applied research works. Knowledge of this virus has substantially increased. Treatment of many patients in epidemic countries and a few imported cases in developed countries led to developing new diagnostic methods and to adapt laboratory organization and biosafety precautions to perform conventional biological analyses. Clinical and biological monitoring of patients infected with Ebola virus disease helped to determine severity criteria and bad prognosis markers. It also contributed to showing the possibility of viral sanctuaries in patients and the risk of transmission after recovery. After a summary of recent knowledge of environmental and clinical viral persistence, we aimed to present new diagnostic methods and other biological tests that led to highlighting the pathophysiological consequences of Ebola virus disease and its prognostic markers. We also aimed to describe our lab experience in the care of Ebola virus-infected patients, especially technical and logistical changes between 2014 and 2017.

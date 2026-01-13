@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pacemakers
+TITLE: Pacemaker Malfunction-Review of Permanent Pacemakers and Malfunctions Encountered in the Emergency Department.
+PMID: 36396215
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36396215/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Pacemaker malfunction refers to a failure of the pacemaker to perform the desired cardiac pacemaking function. These malfunctions can occur anywhere within the system from the pulse generator and leads to the electrode-myocardium interface. These failures of sensing, capture, and inadequate pacing can have severe hemodynamic consequences, so rapid identification of specific dysfunction is critical to intervention and stabilization. Emergency providers should be aware of pacemaker components, function, basic programming, and types of malfunctions to adequately assess, stabilize, and disposition patients.

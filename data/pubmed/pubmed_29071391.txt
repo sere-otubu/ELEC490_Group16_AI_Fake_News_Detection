@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pregnancy nutrition
+TITLE: Immunometabolism, pregnancy, and nutrition.
+PMID: 29071391
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29071391/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The emerging field of immunometabolism has substantially progressed over the last years and provided pivotal insights into distinct metabolic regulators and reprogramming pathways of immune cell populations in various immunological settings. However, insights into immunometabolic reprogramming in the context of reproduction are still enigmatic. During pregnancy, the maternal immune system needs to actively adapt to the presence of the fetal antigens, i.e., by functional modifications of distinct innate immune cell subsets, the generation of regulatory T cells, and the suppression of an anti-fetal effector T cell response. Considering that metabolic pathways have been shown to affect the functional role of such immune cells in a number of settings, we here review the potential role of immunometabolism with regard to the molecular and cellular mechanisms necessary for successful reproduction. Since immunometabolism holds the potential for a therapeutic approach to alter the course of immune diseases, we further highlight how a targeted metabolic reprogramming of immune cells may be triggered by maternal anthropometric or nutritional aspects.

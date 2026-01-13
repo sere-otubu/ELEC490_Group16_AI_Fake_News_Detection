@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pilates benefits
+TITLE: Benefits of Pilates in Parkinson's Disease: A Systematic Review and Meta-Analysis.
+PMID: 31412676
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31412676/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Pilates may be a beneficial method of exercise for people with Parkinson's disease (PD). However, no studies have critically reviewed the scientific evidence in this regard. The purpose of this study was to conduct a systematic review and meta-analysis on the effectiveness of Pilates as a rehabilitation strategy for PD. A systematic search of the electronic databases PubMed, PEDro, Scopus, and SPORTDiscus was conducted to identify studies related to the effect of Pilates on PD. The search timeframe ranged from the inception of each database to March 2019. The search resulted in the identification of four randomized controlled trials (RCTs) and four non-RCT studies. The methodological quality of the investigations ranged from poor to fair. The descriptive analysis of the eight investigations showed that Pilates resulted in beneficial effects on fitness, balance and functional autonomy. A subsequent meta-analysis on the four RCTs indicated that Pilates was more effective than traditional training programmes in improving lower limb function. Pilates can be safely prescribed for people with mild-to-moderate PD. Preliminary evidence indicates that its practice could have a positive impact on fitness, balance and physical function. Its benefits on lower-body function appear to be superior to those of other conventional exercises. Future randomized studies with greater samples are needed to confirm these observations.

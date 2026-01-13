@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Geriatric psychiatry
+TITLE: Old age psychiatry and geriatric medicine: shared challenges, shared solutions?
+PMID: 28148514
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28148514/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The co-occurrence of physical and mental ill health means there is considerable overlap between the patients that geriatric medicine and old age psychiatry serve. In this editorial we detail similarities between the specialisms, highlight the common challenges facing them and argue that closer alignment holds the potential to improve patient care.

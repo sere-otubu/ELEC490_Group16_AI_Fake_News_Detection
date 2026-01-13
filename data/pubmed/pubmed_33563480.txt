@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rare diseases
+TITLE: Drug Repurposing for Rare Diseases.
+PMID: 33563480
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33563480/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Currently, there are about 7000 identified rare diseases, together affecting 10% of the population. However, fewer than 6% of all rare diseases have an approved treatment option, highlighting their tremendous unmet needs in drug development. The process of repurposing drugs for new indications, compared with the development of novel orphan drugs, is a time-saving and cost-efficient method resulting in higher success rates, which can therefore drastically reduce the risk of drug development for rare diseases. Although drug repurposing is not novel, new strategies have been developed in recent years to do it in a systematic and rational way. Here, we review applied methodologies, recent accomplished progress, and the challenges associated in drug repurposing for rare diseases.

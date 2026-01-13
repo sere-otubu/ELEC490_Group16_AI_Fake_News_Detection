@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Postpartum depression
+TITLE: Postpartum hormonal contraception use and incidence of postpartum depression: a systematic review.
+PMID: 30920314
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30920314/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To evaluate the association between postpartum hormonal contraceptive use and postpartum depression. We searched the literature through March 2018 on the association between postpartum hormonal contraception use and incident postpartum depression. We used the United States Preventive Services Task Force framework to assess study quality. Of 167 articles identified, four met inclusion criteria. Two studies found no differences in rates of postpartum depression between women using postpartum depot medroxyprogesterone and those not using hormonal contraception; however, a study of women receiving injectable norethisterone enanthate immediately postpartum found a 2-3-fold increased risk of depression at 6 weeks, though not at 3 months. One study compared combined hormonal contraception, progestin-only pills (POPs), etonogestrel implants and levonorgestrel intrauterine devices (LNG-IUDs) with no hormonal contraception, and found a 35-44% decreased risk of postpartum depression with POPs and LNG-IUDs, a small increased risk of postpartum antidepressant use among women using the etonogestrel implant and vaginal ring, and a decreased risk of antidepressant use with POPs. Limited evidence found no consistent associations between hormonal contraceptive use and incidence of postpartum depression. Future research would be strengthened by using validated diagnostic measures, careful consideration of confounders, and ensuring adequate follow-up time.

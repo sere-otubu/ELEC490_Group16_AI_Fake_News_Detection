@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Geriatric psychiatry
+TITLE: Geriatric Psychiatry Across the Spectrum: Medical Student, Resident, and Fellow Education.
+PMID: 36396278
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36396278/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The older adult population in the United States is poised to reach 83.7 million by 2050, and up to 20% will suffer from cognitive and mental illnesses. We do not have the workforce available to meet this need; therefore, general psychiatrists will care for many older psychiatric patients. Enhancing learning opportunities during general medical education and residency could improve the knowledge of general psychiatrists and encourage recruitment into geriatric psychiatry. This article outlines geriatric psychiatry education in medical school, residency, and geriatric psychiatry fellowship with suggestions for recruitment into the field, along with recommendations for enhanced learning for general psychiatrists.

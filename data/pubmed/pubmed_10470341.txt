@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cortisol
+TITLE: Cortisol metabolism, cortisol sensitivity and the pathogenesis of leprosy reactions.
+PMID: 10470341
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10470341/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The concentration of cortisol in a tissue is regulated by a reversible enzyme 'shuttle' that can deactivate cortisol by converting it to cortisone, or activate cortisone by converting it to cortisol. The activity of this shuttle, and the direction in which it operates, is regulated by numerous factors including cytokines. This results in large swings in the effective cortisol concentration in sites of inflammation at different phases of an inflammatory response. Thus changes in local cortisol concentration can be largely independent of circulating cortisol levels. The relevant shuttle enzymes are present in skin, blood vessels and nervous tissue, and inhibition of the enzymes in skin enhances the local anti-inflammatory effect of cortisol. We therefore suggest that changes in the activity or direction of action of the shuttle in leprosy lesions may predispose to reactions, requiring exogenous steroid supplements to regain control of the inflammation.

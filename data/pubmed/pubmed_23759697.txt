@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Corticosteroids
+TITLE: Corticosteroids and wound healing: clinical considerations in the perioperative period.
+PMID: 23759697
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23759697/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Determining whether systemic corticosteroids impair wound healing is a clinically relevant topic that has important management implications. We reviewed literature on the effects of corticosteroids on wound healing from animal and human studies searching MEDLINE from 1949 to 2011. Some animal studies show a 30% reduction in wound tensile strength with perioperative corticosteroids at 15 to 40 mg/kg/day. The preponderance of human literature found that high-dose corticosteroid administration for <10 days has no clinically important effect on wound healing. In patients taking chronic corticosteroids for at least 30 days before surgery, their rates of wound complications may be increased 2 to 5 times compared with those not taking corticosteroids. Complication rates may vary depending on dose and duration of steroid use, comorbidities, and types of surgery. Acute, high-dose systemic corticosteroid use likely has no clinically significant effect on wound healing, whereas chronic systemic steroids may impair wound healing in susceptible individuals.

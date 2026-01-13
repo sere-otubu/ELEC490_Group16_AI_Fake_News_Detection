@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Osteoarthritis
+TITLE: Osteoarthritis in the Upper Extremity.
+PMID: 36740213
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36740213/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Osteoarthritis is a common cause of morbidity in an increasingly aging population. Although the weight-bearing joints of the leg and foot are frequently affected by osteoarthritis, degenerative changes in the joints of the upper extremity are likewise common and can be both particularly debilitating for affected individuals and uniquely challenging for the health care providers managing it. The present review seeks to overview the epidemiology, anatomy, diagnosis, and management of osteoarthritis in the joints of the shoulder, elbow, and hand with the intent of providing accessible and relevant information to the range of medical professionals involved in patient care.

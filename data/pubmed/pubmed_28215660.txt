@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Evidence based medicine
+TITLE: Progress in evidence-based medicine: a quarter century on.
+PMID: 28215660
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28215660/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In response to limitations in the understanding and use of published evidence, evidence-based medicine (EBM) began as a movement in the early 1990s. EBM's initial focus was on educating clinicians in the understanding and use of published literature to optimise clinical care, including the science of systematic reviews. EBM progressed to recognise limitations of evidence alone, and has increasingly stressed the need to combine critical appraisal of the evidence with patient's values and preferences through shared decision making. In another progress, EBM incorporated and further developed the science of producing trustworthy clinical practice guidelines pioneered by investigators in the 1980s. EBM's enduring contributions to clinical medicine include placing the practice of medicine on a solid scientific basis, the development of more sophisticated hierarchies of evidence, the recognition of the crucial role of patient values and preferences in clinical decision making, and the development of the methodology for generating trustworthy recommendations.

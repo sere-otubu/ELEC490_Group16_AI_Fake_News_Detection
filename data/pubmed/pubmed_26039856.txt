@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Personality disorders
+TITLE: Personality disorders.
+PMID: 26039856
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26039856/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article reviews the current information about the diagnostic criteria, pathophysiology, and treatment of personality disorders. These disorders are common in the general population and even more common in medical settings. Rigid thinking and inflexible behavior patterns are characteristic of all personality disorders. The related impairment in social adaptation and associated morbidity and mortality are described. Recent advances have led to a change in the way these disorders are classified. Personality disorders are now understood to be heritable and biologically based. Neurobiological, metabolic, and brain structural differences exist in individuals with these disorders. Historically, personality disorders, or Axis II disorders, have been seen as distinct from the more biological Axis I disorders. This multiaxial diagnostic structure has now been abandoned, eliminating the artificial partitioning off of personality disorders. In this article, the epidemiology, etiology, classification, and treatment of the various personality disorders are reviewed. Emphasis is placed on the need for compassion when working with patients with personality disorders and an understanding that the nature of these disorders engenders interpersonal conflict. Although the bulk of available research focuses on borderline personality disorder, significant findings related to a variety of personality disorders are presented.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vitamin D deficiency
+TITLE: Vitamin D deficiency in adults: when to test and how to treat.
+PMID: 20675513
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20675513/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Recent evidence for the nonskeletal effects of vitamin D, coupled with recognition that vitamin D deficiency is common, has revived interest in this hormone. Vitamin D is produced by skin exposed to ultraviolet B radiation or obtained from dietary sources, including supplements. Persons commonly at risk for vitamin D deficiency include those with inadequate sun exposure, limited oral intake, or impaired intestinal absorption. Vitamin D adequacy is best determined by measurement of the 25-hydroxyvitamin D concentration in the blood. Average daily vitamin D intake in the population at large and current dietary reference intake values are often inadequate to maintain optimal vitamin D levels. Clinicians may recommend supplementation but be unsure how to choose the optimal dose and type of vitamin D and how to use testing to monitor therapy. This review outlines strategies to prevent, diagnose, and treat vitamin D deficiency in adults.

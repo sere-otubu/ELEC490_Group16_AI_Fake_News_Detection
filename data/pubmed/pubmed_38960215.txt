@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gonorrhea
+TITLE: Computational prediction of crucial genes involved in gonorrhea infection and neoplastic cell transformation: A multiomics approach.
+PMID: 38960215
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38960215/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Neisseria gonorrheae, the causative agent of genitourinary infections, has been associated with asymptomatic or recurrent infections and has the potential to form biofilms and induce inflammation and cell transformation. Herein, we aimed to use computational analysis to predict novel associations between chronic inflammation caused by gonorrhea infection and neoplastic transformation. Prioritization and gene enrichment strategies based on virulence and resistance genes utilizing essential genes from the DEG and PANTHER databases, respectively, were performed. Using the STRING database, protein‒protein interaction networks were constructed with 55 nodes of bacterial proteins and 72 nodes of proteins involved in the host immune response. MCODE and cytoHubba were used to identify 12 bacterial hub proteins (murA, murB, murC, murD, murE, purN, purL, thyA, uvrB, kdsB, lpxC, and ftsH) and 19 human hub proteins, of which TNF, STAT3 and AKT1 had high significance. The PPI networks are based on the connectivity degree (K), betweenness centrality (BC), and closeness centrality (CC) values. Hub genes are vital for cell survival and growth, and their significance as potential drug targets is discussed. This computational study provides a comprehensive understanding of inflammation and carcinogenesis pathways that are activated during gonorrhea infection.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Thyroid gland
+TITLE: Thyroid surgery in children.
+PMID: 24931349
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24931349/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although surgical conditions of the thyroid gland are uncommon in children, the increased incidence of thyroid cancer, combined with the fact that children's hospitals are increasingly treating older adolescents, means that it is important that all pediatric surgeons have a knowledge of these conditions. Abnormalities of the thyroid can be associated with abnormalities of thyroid function (hyperthyroidism or hypothyroidism) and/or can be associated with symmetrical or asymmetrical enlargement of the gland.

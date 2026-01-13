@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hormones types
+TITLE: Induced Quiescence of Lgr5+ Stem Cells in Intestinal Organoids Enables Differentiation of Hormone-Producing Enteroendocrine Cells.
+PMID: 27939219
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27939219/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lgr5+ adult intestinal stem cells are highly proliferative throughout life. Single Lgr5+ stem cells can be cultured into three-dimensional organoids containing all intestinal epithelial cell types at near-normal ratios. Conditions to generate the main cell types (enterocyte, goblet cells, Paneth cells, and M cells) are well established, but signals to induce the spectrum of hormone-producing enteroendocrine cells (EECs) have remained elusive. Here, we induce Lgr5+ stem cell quiescence in vitro by blocking epidermal growth factor receptor (EGFR) or mitogen-associated protein kinase (MAPK) signaling pathways in organoids and show that their quiescent state is readily reverted. Quiescent Lgr5+ stem cells acquire a distinct molecular signature biased toward EEC differentiation. Indeed, combined inhibition of Wnt, Notch, and MAPK pathways efficiently generates a diversity of EEC hormone-expressing subtypes in vitro. Our observations uncouple Wnt-dependent stem cell maintenance from EGF-dependent proliferation and provide an approach for the study of the elusive EECs in a defined environment.

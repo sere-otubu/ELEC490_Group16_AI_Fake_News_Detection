@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cataracts
+TITLE: [Steroid (glucocorticoid)-induced cataract].
+PMID: 17016018
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17016018/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Glucocorticoids (GC) have been widely used as a therapeutic drug for various diseases. However, there are many complications of GC therapy including cataracts. In a series of studies to elucidate the actions of GC using 15-day-old developing chick embryos, we found that GC produced hyperglycemia, hyperlipemia, osteoporosis, and cataractous lenses with a high incidence (>90%) within 48 h. Cataract formation is caused by oxidative stresses, probably derived from GC effects on the main target organ, the liver, and can be prevented by radical scavengers including ascorbic acid, and insulin. Ascorbic acid does not inhibit the inflammatory and immunosuppressive effects of GC. Therefore by analyzing and decreasing risk factors producing side effects, it will be possible to improve GC therapy without the loss of GC activity.

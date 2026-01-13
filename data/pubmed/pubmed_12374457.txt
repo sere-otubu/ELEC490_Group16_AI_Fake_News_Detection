@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Endocrine system
+TITLE: The endocrine system in diabetes mellitus.
+PMID: 12374457
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12374457/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The pathophysiology of diabetes mellitus is complex and not fully understood. However, it emerges as an abnormal metabolic condition associated with a systemic damage to the vascular bed. Cumulative evidence also reveals that the endocrine system is not intact in patients with diabetes mellitus. It is not clear whether the changes observed in the endocrine system represent a primary defect or reflect the effects of the impaired insulin action and abnormal carbohydrate and lipid metabolism on the hormonal milieu. Review of the literature reveals that the function of the entire endocrine system including the functions of hormones from the hypothalamus, pituitary, adrenal, thyroid, parathyroid, the vitamin D system, the gonads, and the endocrine function of the adipose tissue, is impaired. Good metabolic control and insulin treatment may reverse some of these abnormalities. It remains unanswered as to what extent these changes in the endocrine system contribute to the vascular pathologies observed in individuals affected by diabetes mellitus and whether part of the abnormalities observed in the endocrine system reflect a basic cellular defect in the diabetic syndrome.

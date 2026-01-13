@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urinary system
+TITLE: SARS-CoV-2 infection affects the lower urinary tract and male genital system: A systematic review.
+PMID: 33595134
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33595134/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+PubMed, Scopus, and ISI Web of Knowledge databases were searched to identify studies published up to December 2020 on the involvement of urinary and male genital systems in COVID-19. Sixteen studies involving a total of 575 patients (538 males and 37 females) were included in this systematic review. The COVID-19 phase was available for 479 patients: 426 in the acute and 53 in the recovery phase. De novo lower urinary tract symptoms (LUTS) were observed in 43 patients and deterioration of pre-existing LUTS in 7. Bladder hemorrhage was observed in three patients and acute urinary retention in one. Regarding the male genital system, scrotal discomfort was observed in 8 patients, swelling in 14, pain in 16, and erythema in 1; low flow priapism was observed in 2 patients. Ultrasound examination identified acute orchitis in 10 patients, acute epididymitis in 7, and acute epididymo-orchitis in 16. A case-control study reported that patients with moderate COVID-19 show a significant reduction in sperm concertation, the total number of sperms per ejaculate, progressive motility, and complete motility. In contrast to what is known from the first studies on the subject, this review also includes subsequent studies that give evidence of the involvement of the lower urinary tract and male genital system in COVID-19.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Fibromyalgia
+TITLE: [Fibromyalgia. Diagnostics--disease approach--therapy].
+PMID: 17221348
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17221348/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Fibromyalgia is a complex of symptoms predominantly affecting females and consisting of widespread pain. Etiology and pathogenesis are not sufficiently known yet, however, there is the assumption that fibromyalgia is looked at as being an illness with biological, psychological, and social aspects. Therefore, the treatment of fibromyalgia calls for a multimodal therapy approach. The importance of fibromyalgia has been recognized within the German health system by creating the new ICD code M79.70 and by assigning fibromyalgia its own rheumatologic DRG (I79Z). In future research of fibromyalgia special attention needs to be placed upon gender-specific problems.

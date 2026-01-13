@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Balance exercises
+TITLE: Effects of dual-task aquatic exercises on functional mobility, balance and gait of individuals with Parkinson's disease: A randomized clinical trial with a 3-month follow-up.
+PMID: 30670228
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30670228/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To evaluate the effects of dual-task aquatic exercises on functional mobility, balance and gait of individuals with Parkinson's disease (PD). A randomized, single-blind trial was used. Twenty-eight (28) individuals met the inclusion criteria and were randomized in the Experimental Group (EG) and Control Group (CG). EG was subjected to a dual-task aquatic exercise program, twice a week for 10 weeks. Each session lasted 40 min, in a heated pool (33 °C). The individuals were assessed at the beginning (AS1), after an exercise program (AS2), and after a three-month follow-up (AS3). Functional mobility ("Timed Up & Go" Test, and "Five Times Sit to Stand" Test), balance (Berg Balance Scale) and gait (Dynamic Gait Index) were verified. 25 individuals were analyzed (14 EG and 11 CG). There was a time-group effect of the EG when compared to the CG: TUG (p = 0.03 and p = 0.015 to AS2 and AS3), FTSST (p = 0.001 and p = 0.004, for AS2 and AS3), BBS (p = 0.002 and p = 0.002, for AS2 and AS3), DGI (p = 0.001 and p = 0.003, for AS2 and AS3). The suggested dual-task aquatic exercise program was able to improve functional mobility, balance and gait of individuals with PD, which shows that such type of exercise is a promising possibility of therapy.

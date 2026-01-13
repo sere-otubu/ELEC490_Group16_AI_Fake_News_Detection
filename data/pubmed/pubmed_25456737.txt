@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Metformin
+TITLE: Metformin: from mechanisms of action to therapies.
+PMID: 25456737
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25456737/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Metformin is currently the first-line drug treatment for type 2 diabetes. Besides its glucose-lowering effect, there is interest in actions of the drug of potential relevance to cardiovascular diseases and cancer. However, the underlying mechanisms of action remain elusive. Convincing data place energy metabolism at the center of metformin's mechanism of action in diabetes and may also be of importance in cardiovascular diseases and cancer. Metformin-induced activation of the energy-sensor AMPK is well documented, but may not account for all actions of the drug. Here, we summarize current knowledge about the different AMPK-dependent and AMPK-independent mechanisms underlying metformin action.

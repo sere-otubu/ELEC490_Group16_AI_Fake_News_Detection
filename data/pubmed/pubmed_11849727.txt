@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pancreas function
+TITLE: Cellular function in multicellular system for hormone-secretion: electrophysiological aspect of studies on alpha-, beta- and delta-cells of the pancreatic islet.
+PMID: 11849727
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11849727/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+We review a new method to explore the cellular functions in multicellular system by application of the perforated patch-clamp technique to intact pancreatic islet of Langerhans. Using this approach, the integrity of the islet is preserved and intercellular communication via gap junctions and paracrine processes are maintained. By using low-resistance patch electrodes, rapid current responses can be monitored under voltage-clamp control. We have applied this methodology to answer questions not resolved by patch-clamp experiments on isolated single insulin-secreting beta-cells. First, the role of a K(+)-current dependent on Ca(2+)-influx for the termination of burst of action potentials in beta-cells could be documented. Neither the current, nor the bursting pattern of electrical activity is preserved in isolated beta-cells. Second, the conductance of gap junctions (approximately 1 nS) between beta-cells was determined. Third, electrical properties of glucagon-producing alpha- and somatostatin-secreting delta-cells and the different mechanisms for glucose-sensing in these cells could be explored. The findings emanating from these experiments may have implications for neuroscience research such as the mechanism of oscillatory electrical activity in general and processes involved in the glucose-sensing in some neurons, which response to changes of blood glucose concentration.

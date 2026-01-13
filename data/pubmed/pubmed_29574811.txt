@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Post operative care
+TITLE: Contemporary exodontia.
+PMID: 29574811
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29574811/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Exodontia is a cardinal skill of all dentists. Patients expect extractions to be skillfully and painlessly accomplished every time. It's not necessarily so simple and can be challenging. In this paper we explore contemporary issues of the full process of exodontia including diagnosis, technique, complication minimization as well as management of medically compromised patients with appropriate post-operative care, including pharmacotherapy.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tonsillectomy
+TITLE: Hemorrhage after tonsillectomy: does the surgical technique really matter?
+PMID: 23978795
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23978795/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A thorough review of the publications on surgical techniques used for tonsillectomy is provided, emphasizing randomized studies and meta-analysis. In the assessment of the data it is important to clearly define and categorize the types of posttonsillectomy bleeding (PTB), as well as the various factors that have been associated with increased PTB. In recent audits of a large number of tonsillectomies, the PTB rates seem to concur: 1% early and 2.5% delayed PTB; 10% anamnestic, 2% objective, and 2% re-operation PTB. Objective PTB rates beyond 10% should require an audit. The bipolar technique seems associated with the least early PTB, while the cold technique is associated with the least delayed PTB. Because of the lack of large well-conducted randomized trials, it is difficult to conclude which technique is the best. With electrocautery techniques, the current power should be adjusted to the minimal level providing hemostasis. Surgical techniques for tonsillectomy that should probably be abandoned include monopolar electrocautery, Coblation, various lasers, and the harmonic scalpel. Vessel-sealing systems might hold promise and deserve further evaluation. Tonsillotomy might be associated with less postoperative pain, but the hemorrhagic advantage in randomized studies is not obvious. Tonsil regrowth rates and efficacy to treat obstruction need also further evaluation.

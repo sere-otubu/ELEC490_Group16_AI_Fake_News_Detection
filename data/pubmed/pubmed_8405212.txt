@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hormones types
+TITLE: Endogenous hormones and breast cancer risk.
+PMID: 8405212
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8405212/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There is substantial evidence that high estrogen levels in postmenopausal women are associated with an increase in breast cancer risk, but such a relation has not yet been established in premenopausal women, despite biologic evidence that breast epithelial cell division rates are high during the luteal phase of the menstrual cycle when estradiol and progesterone levels are high. The lack of total consistency among studies that have assessed estrogen differences, whether in breast cancer patients versus controls or in subgroups of the population characterized by different risk profiles for breast cancer, is not unexpected given the extraordinarily complex methodological issues that must be addressed in these studies. There has been a clear evolution over time in the level of sophistication of these types of studies, further decreasing the likelihood of finding consistent patterns in the literature. Other hormones may play an important role in breast cancer development as well. Experimental data are particularly compelling for a role of progesterone and prolactin, but hormonal studies in women are not entirely convincing regarding the role of these two hormones, nor is the literature nearly as extensive as it is for the estrogens. Studies of various androgens are even less consistent. Moreover, such studies suffer from a lack of precise hypotheses regarding how these hormones might directly alter risk.

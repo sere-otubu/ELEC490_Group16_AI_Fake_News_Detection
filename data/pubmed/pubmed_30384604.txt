@@ -1,0 +1,8 @@
+SEARCH_TOPIC: DNA structure
+TITLE: Crystal Structure of a Tetrameric DNA Fold-Back Quadruplex.
+PMID: 30384604
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30384604/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+DNA can adopt many structures beyond the Watson-Crick duplex. However, the bounds of DNA structural diversity and how these structures might regulate biological processes is only beginning to be understood. Here, we describe the 1.05 Å resolution crystal structure of a DNA oligonucleotide that self-associates to form a non-G-quadruplex fold-back structure. Distinct from previously described fold-back quadruplexes, two-fold-back dimers interact through noncanonical and Watson-Crick interactions to form a tetrameric assembly. These interactions include a hexad base pairing arrangement from two C-G-G base triples. The assembly is dependent on divalent cations, and the interface between the dimeric units creates a cavity in which a cation resides. This structure provides new sequence and structural contexts for the formation of fold-back quadruplexes, further highlighting the potential biological importance of this type of noncanonical DNA structure. This structure may also serve as the basis for designing new types of DNA nanoarchitectures or cation sensors based on the strong divalent cation dependence.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Glaucoma
+TITLE: Glaucoma Drainage Implant Surgery.
+PMID: 28442686
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28442686/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Glaucoma drainage implant (GDI) surgery represents a significant advance in the treatment of refractory glaucomas. Recent randomized clinical trials have compared the efficacy and safety of this technique to standard trabeculectomy. Several types of implant are currently available and differ in surface area, shape, composition, and the presence or absence of a flow-restricting valve. Two separate prospective, randomized clinical trials comparing 2 types of GDI have reported results after 5 years of follow-up. GDIs may be placed in the anterior chamber, ciliary sulcus, or pars plana. Several types of patch graft material may be utilized to prevent tube erosion. Potential complications of GDI surgery may relate to immediate or late-onset hypotony, motility disturbances, corneal decompensation, or tube erosion.

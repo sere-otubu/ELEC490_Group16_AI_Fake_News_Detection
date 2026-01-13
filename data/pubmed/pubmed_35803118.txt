@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Medical ethics
+TITLE: Common medical ethics dilemmas: Few reflections from a Saudi perspective.
+PMID: 35803118
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35803118/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Medical ethics plays a crucial role in physicians' daily practice, as it reflects on themselves, their institution, and, most importantly, the outcome of the treatment they provide to their patients. Common medical ethics dilemmas faced in Saudi Arabia include: end-of-life care, patient rights, which comprise autonomy, informed consent, and confidentiality, reproductive ethics, and equity of resources. The identification of flaws within the healthcare system and the implementation of clear guidelines are important to overcome the risk of malpractice and flawed judgment, and ensure the delivery of the best possible care to patients.

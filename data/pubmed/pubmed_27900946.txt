@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Psoriasis
+TITLE: Childhood psoriasis.
+PMID: 27900946
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27900946/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Psoriasis is a common chronic inflammatory skin disease. Recently, few data have been published on epidemiology, comorbidity, or therapy in children with psoriasis. Psoriasis affects up to 2% of children in Europe, even during the first months of life. The link between psoriasis and metabolic comorbidities has been highlighted, notably in relation to excessive weight and obesity. The clinical picture of psoriasis in childhood resembles adult disease, however, some clinical features are noteworthy: neonatal diaper rash is relatively specific, face involvement and guttate psoriasis are more common, plaques are often smaller, and scales are finer and softer than in adults. Napkin, guttate and palmoplantar psoriasis appear to have specific features in childhood and prevalence depends on the age of the child. Although benign, the effect of psoriasis on social interaction can be major, especially in children. Topical therapies are the first line of treatment for skin-limited disease. For chronic cases and more severe cases, phototherapy or traditional biologic systemic treatments must be discussed. The great challenge will be to propose international guidelines to manage these children.

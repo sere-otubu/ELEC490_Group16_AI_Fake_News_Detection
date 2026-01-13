@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hip replacement
+TITLE: Acetabular impaction bone grafting in total hip replacement.
+PMID: 24187364
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24187364/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The increasing need for total hip replacement (THR) in an ageing population will inevitably generate a larger number of revision procedures. The difficulties encountered in dealing with the bone deficient acetabulum are amongst the greatest challenges in hip surgery. The failed acetabular component requires reconstruction to restore the hip centre and improve joint biomechanics. Impaction bone grafting is successful in achieving acetabular reconstruction using both cemented and cementless techniques. Bone graft incorporation restores bone stock whilst providing good component stability. We provide a summary of the evidence and current literature regarding impaction bone grafting using both cemented and cementless techniques in revision THR.

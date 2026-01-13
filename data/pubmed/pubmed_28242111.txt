@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cataract surgery
+TITLE: Cataracts.
+PMID: 28242111
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28242111/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+An estimated 95 million people worldwide are affected by cataract. Cataract still remains the leading cause of blindness in middle-income and low-income countries. With the advancement of surgical technology and techniques, cataract surgery has evolved to small-incisional surgery with rapid visual recovery, good visual outcomes, and minimal complications in most patients. With the development of advanced technology in intraocular lenses, the combined treatment of cataract and astigmatism or presbyopia, or both, is possible. Paediatric cataracts have a different pathogenesis, surgical concerns, and postoperative clinical course from those of age-related cataracts, and the visual outcome is multifactorial and dependent on postoperative visual rehabilitation. New developments in cataract surgery will continue to improve the visual, anatomical, and patient-reported outcomes. Future work should focus on promoting the accessibility and quality of cataract surgery in developing countries.

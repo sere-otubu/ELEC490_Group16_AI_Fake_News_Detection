@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Conjunctivitis
+TITLE: Vernal conjunctivitis.
+PMID: 18282546
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18282546/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Vernal conjunctivitis is a bilateral, seasonal, external ocular inflammatory disease of unknown cause. Afflicted patients experience intense itching, tearing, photophobia, and mucous discharge, and usually demonstrate large cobblestone papillae on their superior tarsal conjunctiva and limbal conjunctiva. It primarily affects children, may be related to atopy, and has environmental and racial predilections. Although usually self-limited, vernal conjunctivitis can result in potentially blinding corneal complications. Treatment of chronic forms of ocular allergies may necessitate collaborative efforts between the ophthalmologist and the allergist or immunologist.

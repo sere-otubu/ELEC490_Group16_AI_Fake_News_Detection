@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Celiac disease
+TITLE: Updates in the diagnosis and management of coeliac disease.
+PMID: 37652646
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37652646/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Coeliac disease is a common autoimmune disorder induced by ingesting gluten, the protein component of wheat, barley, and rye. It is estimated that one-in-hundred people worldwide have coeliac disease, of whom the majority remain undiagnosed. Coeliac disease is characterized by a wide range of gastrointestinal and extraintestinal symptoms but can also present asymptomatically. Diagnosing coeliac disease depends on the concordance of clinical, serological and histopathological data. However, the diagnosis can be challenging and frequently overlooked. Undiagnosed coeliac disease is associated with an increased risk of complications and detrimental effects on quality of life. Early diagnosis and treatment of coeliac disease are necessary to reduce the risk of long-term complications.

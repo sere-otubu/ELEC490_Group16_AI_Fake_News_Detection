@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Intestines function
+TITLE: Intestinal and colonic motor alterations associated with irradiation-induced diarrhoea in rats.
+PMID: 11169122
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11169122/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Localized application of ionizing radiation to the gastrointestinal tract frequently elicits responses, which include diarrhoea. The origin of this symptom is not clear but has been attributed to loss of epithelial integrity, together with alterations in motility and increased secretion. The purpose of this study was to examine whether a 10 Gy abdominal gamma irradiation leads to an inflammatory reaction, and to compare intestinal and colonic motility in controls and abdominally irradiated rats 1, 3 and 7 days after irradiation, using an electromyographic technique. The motility parameters analysed were the frequency and velocity of propagation of migrating myoelectric complexes (MMC) in the jejunum and colonic spike activity (long spike bursts; LSB) per 10 min in fasted rats. The MMC frequency was significantly reduced on days 1 and 7 after irradiation and the MMC pattern was markedly disrupted on day 3. The frequency of colonic LSB was significantly reduced on days 1, 3 and 7. Mouth to anus transit was significantly accelerated on day 3 only and diarrhoea was observed at this time. Myeloperoxidase activity in the jejunum and colon was also increased on this day only. It is concluded that irradiation-induced diarrhoea occurs contemporaneously with disruption of MMC in the small intestine.

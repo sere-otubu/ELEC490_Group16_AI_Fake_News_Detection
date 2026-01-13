@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Opioid addiction
+TITLE: Caenorhabditis elegans for opioid addiction research.
+PMID: 39236640
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39236640/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The problem of drug addiction has become a profound societal problem worldwide. A better understanding of the neurobiological basis of addiction and the discovery of more effective treatments are needed. Recent studies have shown that many mechanisms that underlie addiction exist in more primitive organisms, including the nematode Caenorhabditis elegans (C. elegans). C. elegans is also hypothesized to possess a functional opioid-like system, including the endogenous opioid-like peptide NLP-24 and opioid-like receptor NPR-17. Opioids, such as morphine, are thought to cause addiction-like behavior by activating dopamine nerves in C. elegans via the opioid-like system. Accumulating evidence suggests that C. elegans is an excellent animal model for identifying molecular mechanisms of addiction.

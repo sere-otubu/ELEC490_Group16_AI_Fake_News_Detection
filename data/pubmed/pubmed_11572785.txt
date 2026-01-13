@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Liver function
+TITLE: Conditional transgenic technologies.
+PMID: 11572785
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11572785/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Transgenic technology has been revolutionised by the development of techniques that allow temporo-spatial control of gene deletion or expression in transgenic animals. The ability to switch gene expression 'on' or 'off' in restricted tissues at specific times allows unprecedented flexibility for exploring gene function in both health and disease. As use of these techniques grows in all areas of biomedical research, an understanding of this topic is essential. In this review we examine the theory, application and limitations of these strategies, with particular reference to endocrine research.

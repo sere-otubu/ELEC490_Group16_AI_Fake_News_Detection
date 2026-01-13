@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Psychotherapy
+TITLE: [Psychotherapy after a suicide attempt-current evidence and evaluation].
+PMID: 34878566
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34878566/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Suicide attempts are considered one of the most important risk factors for suicide. Based on this, various psychotherapeutic treatments for persons after a suicide attempt have been developed and evaluated in recent years. In this article, the current state of efficacy research is outlined, examples of successful suicide-focused psychotherapies are presented, and the current state of research and knowledge is critically reflected upon. The results of two recent Cochrane reviews of psychotherapy following self-injurious behavior in childhood, adolescence, and adulthood, as well as findings from 14 other meta-analyses of psychological suicide prevention published in the past five years, are presented.Cognitive behavioral therapy and dialectical behavioral therapy have been shown to be effective. Overall, however, the averaged effect sizes are of small magnitude and various methodological problems make it impossible to draw far-reaching conclusions. In principle, suicide-specific psychotherapy is of particular importance in individual-centered suicide prevention; however, the empirical foundation and dissemination of appropriate programs are still insufficient.

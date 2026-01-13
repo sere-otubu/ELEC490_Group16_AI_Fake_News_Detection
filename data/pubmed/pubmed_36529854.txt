@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mindful eating
+TITLE: Mindful eating for weight loss in women with obesity: a randomised controlled trial.
+PMID: 36529854
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36529854/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Mindful eating (ME) has been linked to improvement in binge eating disorder, but this approach in obesity management has shown conflicting results. Our aim was to assess the effect of ME associated with moderate energy restriction (MER) on weight loss in women with obesity. Metabolic parameters, dietary assessment, eating behaviour, depression, anxiety and stress were also evaluated. A total of 138 women with obesity were randomly assigned to three intervention groups: ME associated with MER (ME + MER), MER and ME, and they were followed up monthly for 6 months. ME + MER joined seven monthly mindfulness-based intervention group sessions each lasting 90 min and received an individualised food plan with MER (deficit of 2092 kJ/d - 500 kcal/d). MER received an individualised food plan with MER (deficit of 2092 kJ/d - 500 kcal/d), and ME joined seven monthly mindfulness-based intervention group sessions each lasting 90 min. Seventy patients completed the intervention. Weight loss was significant, but no statistically significant difference was found between the groups. There was a greater reduction in uncontrolled eating in the ME group than in the MER group and a greater reduction in emotional eating in the ME group than in both the MER and the ME + MER groups. No statistically significant differences were found in the other variables evaluated between groups. The association between ME with energy restriction did not promote greater weight loss than ME or MER.

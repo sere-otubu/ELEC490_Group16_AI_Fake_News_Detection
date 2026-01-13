@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anesthesia types
+TITLE: PEACHY, another fruitful study.
+PMID: 34620501
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34620501/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The results of the PErioperAtive CHildhood ObesitY (PEACHY) study showed an alarmingly high incidence of obesity amongst children presenting for surgical procedures under general anaesthesia in the UK. The study was performed by the Paediatric Anaesthesia Trainee Research Network (PATRN), a network of trainee anaesthetists seeking to quantify important clinical problems. Networks and consortia that facilitate collaboration amongst clinicians and academics working in a wide range of types of hospitals are particularly important in the current era, as they have the potential to gather data rapidly on important clinical problems, and by their size improve the power to identify factors associated with rare complications. Collaboration amongst clinicians within networks instead of competition between clinicians can have wide-ranging benefits that extend beyond research, and can include improvements in training, rapid dissemination of protocols, and knowledge concerning new problems, ultimately improving general standards of care.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immune system
+TITLE: Nutrition and the Immune System: A Complicated Tango.
+PMID: 32204518
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32204518/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Enthusiasm exists for the potential of diet to impact the immune system, prevent disease and its therapeutic potential. Herein, we describe the challenge to nutrition scientists in defining this relationship through case studies of diets and nutrients in the context of allergic and autoimmune diseases. Moderate-quality evidence exists from both human intervention and observational studies to suggest that diet and individual nutrients can influence systemic markers of immune function and inflammation; numerous challenges exist for demonstrating the impact of defined diets and nutrient interventions on clearly influencing immune-mediated-clinical disease endpoints. A growing body of evidence suggests that further consideration of dietary patterns, immune system and gut microbiome composition and function, and subsequent epigenetic modifications are needed to improve our understanding of diet-immune system interactions.

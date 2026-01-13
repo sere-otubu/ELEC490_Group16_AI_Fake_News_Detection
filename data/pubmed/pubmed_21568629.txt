@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tinnitus
+TITLE: Tinnitus and depression.
+PMID: 21568629
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21568629/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Depressive symptoms are common in individuals with tinnitus and may substantially aggravate their distress. The mechanisms, however, by which depression and tinnitus mutually interact are still not fully understood. Here we review neurobiological knowledge relevant for the interplay between depression and tinnitus. Neuroimaging studies confirm the existence of neural circuits that are activated both in depression and tinnitus. Studies of neuroendocrine function demonstrate alterations of the HPA-axis in depression and, more recently, in tinnitus. Studies addressing neurotransmission suggest that the dorsal cochlear nucleus that is typically hyperactive in tinnitus, is also involved in the control of attention and emotional responses via projections to the locus coeruleus, the reticular formation and the raphe nuclei. Impaired hippocampal neurogenesis has been documented in animals with tinnitus after noise trauma, as in animal models of depression. Finally, from investigations of human candidate genes, there is some evidence to suggest that variant BDNF may act as a common susceptibility factor in both disorders. These parallels in the pathophysiology of tinnitus and depression argue against comorbidity by chance and against depression as pure reaction on tinnitus. Instead, they stand for a complex interplay between tinnitus and depression. Implications for tinnitus treatment are discussed.

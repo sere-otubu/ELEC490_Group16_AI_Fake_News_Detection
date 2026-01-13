@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Stomach anatomy
+TITLE: Evaluation of the cynomolgus monkey stomach: recommendations for standard sampling procedures in nonclinical safety studies.
+PMID: 18364462
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18364462/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The cynomolgus macaque is the most commonly used nonhuman primate in nonclinical toxicity testing, but the macroscopic and microscopic anatomy of the stomach in the cynomolgus macaque is poorly described. To develop a reliable sampling method for histologic evaluation of the cynomolgus macaque stomach in regulatory toxicity studies, the stomachs of control animals were prospectively evaluated using an extensive sectioning pattern. The stomach of the cynomolgus macaque differs from that described for the human stomach and has a prominent fundus that lacks parietal cells. A description of the macroscopic and microscopic anatomy is presented along with a recommended sectioning pattern for nonclinical toxicity studies and discussion of species differences. A thorough understanding of normal anatomy and species comparisons are critical to interpretation of potential toxicity findings and assessment of risk in humans.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anesthesia types
+TITLE: Arterial pH and blood gas values in rats under three types of general anesthesia: a chronobiological study.
+PMID: 30044117
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30044117/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The aim of study was to review the status of arterial pH, pO(2) and pCO(2) under general anesthesias in dependence on the light-dark (LD) cycle in spontaneously breathing rats. The experiments were performed using three- to four-month-old pentobarbital(P)-, ketamine/xylazine(K/X)- and zoletil(Z)-anesthetized female Wistar rats after a four-week adaptation to an LD cycle (12 h light:12 h dark). The animals were divided into three experimental groups according to the anesthetic agent used: P (light n=11; dark n=8); K/X (light n=13; dark n=11); and Z (light n=18; dark n=26). pH and blood gases from arterial blood were analyzed. In P anesthesia, LD differences in pH, pO(2), and pCO(2) were eliminated. In K/X anesthesia, parameters showed significant LD differences. In Z anesthesia, LD differences were detected for pH and pO(2) only. Acidosis, hypoxia, and hypercapnia have been reported for all types of anesthesia during the light period. In the dark period, except for P anesthesia, the environment was more stable and values fluctuated within normal ranges. From a chronobiological perspective, P anesthesia was not the most appropriate type of anesthesia in these rat experiments. It eliminated LD differences, and also produced a more acidic environment and more pronounced hypercapnia than K/X and Z anesthesias.

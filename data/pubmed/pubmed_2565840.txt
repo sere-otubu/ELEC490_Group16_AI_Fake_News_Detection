@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Enzymes function
+TITLE: Brevetoxins: unique polyether dinoflagellate toxins.
+PMID: 2565840
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2565840/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Brevetoxins are lipid-soluble polyether marine toxins of unique structure and pharmacological function. Toxins are active in vivo in the nanomolar to picomolar concentration range and in vitro in isolated neuromuscular or giant axon preparations and in single-cell or subcellular model systems. Their effect is excitatory, mediated by the enhancement of cellular Na+ influx. Brevetoxins bind at site 5 on the voltage-sensitive sodium channel, a specificity shared with ciguatoxin. This site is allosterically linked to other natural toxin binding sites on the channel.

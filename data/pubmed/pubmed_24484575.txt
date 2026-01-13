@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urinary tract infection
+TITLE: Diagnosis and management of fungal urinary tract infection.
+PMID: 24484575
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24484575/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+When the terms funguria or fungal urinary tract infection are used, most physicians are referring to candiduria and urinary tract infections due to Candida species. Other fungi, including yeasts and molds can involve the kidney during the course of disseminated infection, but rarely cause symptoms referable to the urinary tract. Candida species appear to be unique in their ability to both colonize and cause invasive disease in the urinary tract. This overview focuses only on candiduria and Candida urinary tract infection because they are common and many times present perplexing management issues.

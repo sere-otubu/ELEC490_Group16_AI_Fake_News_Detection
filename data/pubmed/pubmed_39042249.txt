@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Placebo effect
+TITLE: The Placebo Effect in Exercise and Mental Health Research.
+PMID: 39042249
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39042249/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This chapter describes the placebo effect in the context of physical activity and mental health. Following a brief historical overview, definitions for placebos, placebo effects, and related terminology are discussed. Next, three major methodological challenges posed from studying the placebo effect in the context of exercise are described. Additionally, the role of a primary psychological mechanism of placebo and nocebo effects - expectations - will be summarized through the lens of key terminology. Findings from relevant chronic and acute exercise studies that have measured or manipulated exercise-associated expectations will be presented. The chapter concludes with recommendations for controlling or quantifying the placebo effect in exercise and mental health research and its implications in clinical practice.

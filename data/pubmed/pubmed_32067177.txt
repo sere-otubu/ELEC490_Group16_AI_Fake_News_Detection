@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vitamins and minerals
+TITLE: Supplemental Vitamins and Minerals for Cardiovascular Disease Prevention and Treatment.
+PMID: 32067177
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32067177/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The objective of this study is to explore the current literature supporting the use oral multivitamins and multi/minerals (OMVMs) for cardiovascular diseases (CVD) treatment and prevention. Data on multivitamins, vitamin C and D, coenzyme Q, calcium, and selenium, has showed no consistent benefit for the prevention of CVD, myocardial infarction, or stroke, nor was there a benefit for all-cause mortality to support their routine supplementation. Folic acid alone and B vitamins with folic acid, B<sub>6</sub> and B<sub>12</sub>, reduce stroke, whereas niacin and antioxidants are associated with an increased risk of all-cause mortality. Iron deficiency should be avoided and treated if found, but routine supplementation to those without deficiency is not evidence based. Despite the high supplement use by the general public, there is no evidence to support the routine supplementation of oral multivitamins and multi/minerals (OVMN) for CVD prevention or treatment.

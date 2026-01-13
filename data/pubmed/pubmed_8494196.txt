@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Inflammation mechanism
+TITLE: Mechanism of airway inflammation in asthma.
+PMID: 8494196
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8494196/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Airway inflammation has emerged as an important contributor to mechanisms of asthma. Furthermore, the presence of airway inflammation is present even in the absence of severe symptoms. To study the mechanisms by which bronchial inflammation can occur in asthma, a number of models have been developed including the airway response to antigen in allergic subjects. The pattern that has emerged from such studies indicates prompt pulmonary mast-cell activation and the apparent initiation of an inflammatory response. This inflammatory response develops over hours and is important in the later and more persistent development of bronchial obstruction. The eosinophil is an important cell in this process as are proinflammatory cytokines generated from activated lung mononuclear cells. The consequence of this multiple cell, multiple proinflammatory product interaction is the establishment of a self-perpetuating, redundant process by which asthma severity increases.

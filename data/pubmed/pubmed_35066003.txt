@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insulin regulation
+TITLE: Insulin: The master regulator of glucose metabolism.
+PMID: 35066003
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35066003/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Insulin is the master regulator of glucose, lipid, and protein metabolism. Following ingestion of an oral glucose load or mixed meal, the plasma glucose concentration rises, insulin secretion by the beta cells is stimulated and the hyperinsulinemia, working in concert with hyperglycemia, causes: (i) suppression of endogenous (primarily reflects hepatic) glucose production, (ii) stimulation of glucose uptake by muscle, liver, and adipocytes, (iii) inhibition of lipolysis leading to a decline in plasma FFA concentration which contributes to the suppression of hepatic glucose production and augmentation of muscle glucose uptake, and (iv) vasodilation in muscle, which contributes to enhanced muscle glucose disposal. Herein, the integrated physiologic impact of insulin to maintain normal glucose homeostasis is reviewed and the molecular basis of insulin's diverse actions in muscle, liver, adipocytes, and vasculature are discussed.

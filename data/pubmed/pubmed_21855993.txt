@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Measles
+TITLE: Measles.
+PMID: 21855993
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21855993/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Measles is a highly contagious disease caused by measles virus and is one of the most devastating infectious diseases of man--measles was responsible for millions of deaths annually worldwide before the introduction of the measles vaccines. Remarkable progress in reducing the number of people dying from measles has been made through measles vaccination, with an estimated 164,000 deaths attributed to measles in 2008. This achievement attests to the enormous importance of measles vaccination to public health. However, this progress is threatened by failure to maintain high levels of measles vaccine coverage. Recent measles outbreaks in sub-Saharan Africa, Europe, and the USA show the ease with which measles virus can re-enter communities if high levels of population immunity are not sustained. The major challenges for continued measles control and eventual eradication will be logistical, financial, and the garnering of sufficient political will. These challenges need to be met to ensure that future generations of children do not die of measles.

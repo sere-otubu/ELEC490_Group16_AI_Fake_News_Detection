@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vertigo
+TITLE: [Vertigo and dizziness].
+PMID: 33867417
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33867417/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Pathophysiology of vertigo/dizziness can be understood by eye deviation (nystagmus). In benign paroxysmal positional vertigo, eye deviation of causative semicircular canal stimulation is directly observed. In other peripheral vestibular disorders, eye deviation results from the sum of unilateral all semicircular canal disorders. The central vestibular pathway is controlled by the cerebellum. Thus, in vertigo/dizziness of central origin, not only eye deviation due to impairment of the central vestibular pathway but also deviation due to disinhibition of the pathway from the cerebellum is observed. The cerebellar control on the central vestibular pathway also plays an important role in vestibular compensation. When treating vertigo/dizziness, it is necessary to understand the pathophysiology of the vertigo/dizziness, to set the treatment target based on the pathophysiology, and to intervene for the target.

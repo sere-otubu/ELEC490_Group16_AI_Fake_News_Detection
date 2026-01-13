@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Narcolepsy
+TITLE: [Narcolepsy type 1 and hypocretin neurons].
+PMID: 40025890
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40025890/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Narcolepsy is a neurological sleep disorder characterized by a disrupted sleep-wake cycle. The disorder is subdivided into type 1 (NT1) and type 2, where NT1 is distinguished by cataplexy and low hypocretin levels in the cerebrospinal fluid. Despite lacking indisputable evidence, the scientific consensus regarding the disease pathogenesis revolves around an autoimmune destruction of the hypocretin neurons. This is now being challenged by a study proposing that NT1 instead stems from an epigenetic silencing of the hypocretin gene, suggesting reversibility and thereby having profound implications, as pointed out in this review.

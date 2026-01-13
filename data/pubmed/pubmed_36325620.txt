@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Psychotherapy
+TITLE: Psychotherapy appears to improve symptoms of functional dyspepsia and anxiety: systematic review with meta-analysis.
+PMID: 36325620
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36325620/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This systematic review and meta-analysis examined the efficacy of psychotherapy on symptoms of functional dyspepsia, anxiety, depression and quality of life. We searched Medline, Embase, PsycINFO, Emcare, Ovid Nursing, CINAHL, Cochrane Library, Informit Health Collection and ClinicalTrials.gov on 2 July 2021. Randomised controlled trials that compared psychotherapy to non-psychotherapy interventions in adults with functional dyspepsia were included. Meta-analyses were conducted (using Hedges's g) under random effects models. Overall, 1,575 records were identified after duplicates were removed, with nine randomised controlled trials (n = 786) included. Preliminary meta-analyses showed that psychotherapy outperformed control conditions at post-test and follow-up on functional dyspepsia symptom severity and anxiety symptoms, but no differences emerged for depressive symptoms. The qualitative synthesis showed psychotherapy's promise in improving quality of life in functional dyspepsia. Psychotherapy might have a small to moderate effect on functional dyspepsia symptoms and anxiety at short- and long-term. However, conclusions are limited by the small number of trials with a high risk of bias.

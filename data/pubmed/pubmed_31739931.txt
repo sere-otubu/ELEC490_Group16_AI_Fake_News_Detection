@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Spinal fusion
+TITLE: Stem Cells and Spinal Fusion.
+PMID: 31739931
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31739931/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There are a number of bone regeneration therapeutics available to aid spinal fusion; however, many are associated with pseudarthrosis, inflammation, and other complications. Mesenchymal stem cells for fusion has been promoted to mitigate these risks and achieve successful bony fusion. This article reviews the clinical studies available with use in spinal fusion. Preliminary results demonstrate that stem cells can provide high rates of fusion, comparable to autograft, without associated morbidity. Autologous and allogeneic stem cell sources showed similar rates of fusion in this review. Further research is required to evaluate which clinical situations are the optimum for stem cell use.

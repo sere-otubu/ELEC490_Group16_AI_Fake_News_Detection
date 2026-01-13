@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Personality disorders
+TITLE: Psychotherapy for personality disorders.
+PMID: 21923228
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21923228/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Personality disorders are widely prevalent among those seeking mental health services, resulting in substantial distress and a heavy burden on public assistance and health resources. We conducted a qualitative review of randomized controlled trials (RCTs) of psychosocial interventions for personality disorders. Articles were identified through searches of electronic databases and classified based on the focus of the psychological intervention. Data regarding treatment, participants and outcomes were identified. We identified 33 RCTs that evaluated the efficacy of various psychosocial treatments. Of these studies, 19 focused on treatment of borderline personality disorder, and suggested that there are several efficacious treatments and one well-established treatment for this disorder. In contrast, only five RCTs examined the efficacy of treatments for Cluster C personality disorders, and no RCTs tested the efficacy of treatments for Cluster A personality disorders. Although other personality disorders, especially Cluster A, place heavy demands on public assistance, and in spite of recommendations that psychosocial interventions should be the first line of treatment for these disorders, our review underscored the dearth of treatment research for many of these personality disorders. We highlight some obstacles to such research and suggest directions for future research.

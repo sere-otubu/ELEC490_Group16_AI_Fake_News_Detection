@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antidepressants
+TITLE: The impact of gender on antidepressants.
+PMID: 21374019
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21374019/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There is a large body of literature debating whether and how gender affects the metabolism, side-effect profile, and efficacy of antidepressants. Gender differences in antidepressant pharmacokinetics and efficacy profiles have been attributed to not only anatomic and physiological differences between the sexes, but also behavioral factors, comorbid disorders, and gender-specific conditions, such as pregnancy and menopause. Despite the large body of research on this topic, few definitive conclusions regarding effects of gender on antidepressant treatment exist, and much of this research is incomplete, contradictory, or not fully used to optimize the administration of antidepressants and the response to treatment. This chapter will review the latest research on gender-specific effects of antidepressant treatment, focusing on the overall, gender-related differences in efficacy, metabolism, and side-effect profile of antidepressants, and how these differences can be used to better optimize treatment of depression in a clinical setting.

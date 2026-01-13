@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Emergency room triage
+TITLE: Coronary computed tomography angiography vs functional stress imaging to triage chest pain in the emergency room?
+PMID: 38159831
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38159831/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In patients with a suspected acute coronary syndrome, non-elevated (or uncertain) (NSTE-ACS) high sensitivity cardiac troponin, no ECG changes and no recurrence of chest pain, incorporating a coronary computed tomography angiogram (CCTA) or a non-invasive functional stress imaging test as part of the initial workup should be considered (Class IIA, Level of Evidence A). There are pros and cons with each diagnostic approach. CCTA imaging has high sensitivity for detecting coronary atherosclerosis but may not provide a diagnosis since most patients do not have obstructive coronary disease. Functional imaging is useful to explain symptoms and detect obstructive coronary artery disease, but is not useful to diagnose atherosclerosis.

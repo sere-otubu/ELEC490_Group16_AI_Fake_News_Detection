@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cataracts
+TITLE: Mutations in the human forkhead transcription factor FOXE3 associated with anterior segment ocular dysgenesis and cataracts.
+PMID: 11159941
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11159941/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Dysgenesis of the anterior segment of the eye delineates a spectrum of human developmental disorders that show wide phenotypic and genetic heterogeneity. It is also frequently associated with cataracts and glaucoma resulting in visual disability in childhood. The recently described forkhead transcription factor gene Foxe3 was shown to be involved in the dysgenetic lens phenotype in mice, which is characterized by small cataractic lens and anterior segment anomalies. Here we report an identification and characterization of the human ortholog of this gene, FOXE3. The gene was found to be expressed in the anterior lens epithelium and to be mutated in patients with ocular disorders. An insertion of G in the coding region of the FOXE3 gene that occurred 15 nucleotides upstream of the stop codon was identified in a family with anterior segment ocular dysgenesis and cataracts. The mutation causes a frameshift that results in an abnormal sequence of five terminal amino acids and an addition of 111 amino acids to the predicted protein. The mutation was present in two affected individuals from this family and was not identified in 180 normal control chromosomes.

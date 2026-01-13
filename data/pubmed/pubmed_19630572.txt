@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Nicotine dependence
+TITLE: Nicotine dependence: biology, behavior, and treatment.
+PMID: 19630572
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19630572/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Despite great advances in the understanding and treatment of nicotine dependence, close to 21% of adults in the United States continue to smoke. Tobacco use is the single greatest cause of premature and preventable death in the United States. This article reviews the epidemiology, assessment, neurobiology, genetic etiology, and treatment of nicotine dependence. Enhanced understanding of these dimensions of nicotine dependence may help to advance progress toward lowering the prevalence rate of tobacco use in the U.S. and lowering the rate of tobacco-related morbidity and mortality.

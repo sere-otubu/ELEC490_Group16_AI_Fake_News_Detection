@@ -1,0 +1,8 @@
+SEARCH_TOPIC: GMO foods safety
+TITLE: [Research on Safety Awareness and Current Safety Confirmation Methods for Genome-edited Foods].
+PMID: 39443102
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39443102/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although the safety of genome-edited foods in Japan has been confirmed through pre-submission consultation under the notification process, public perception of safety confirmation methodology has not been investigated to date. Therefore, we created three media to provide information on the safety assurance of genome-edited foods and surveyed the perception of current safety confirmation. In addition, we examined the opinions of researchers in health science on current safety confirmation methods. As a result, 62% of general consumers and 68% of researchers in health science recognized that safety is ensured. Acceptance of genome-edited foods improved when they realized that safety was ensured. Researchers in health science who felt that safety confirmation was insufficient were concerned about the third-party verification. Therefore, it was suggested that in order to boost public understanding of genome-edited foods, it would be useful to inform the public by communicating in an easy-to-understand way the safety assurance approaches being made in pre-submission consultation.

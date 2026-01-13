@@ -1,0 +1,8 @@
+SEARCH_TOPIC: First aid basics
+TITLE: Wilderness Medicine.
+PMID: 26900118
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26900118/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Wilderness medicine encompasses prevention and treatment of illness and injury, education and training, emergency medical services, and search and rescue in the wilderness. Although traumatic injuries, including minor injuries, outnumber medical illness as the cause of morbidity in the wilderness, basic understanding of the prevention and management of injury and illness, including recognition, identification, treatment, initial management, and stabilization, is essential, in addition to the ability to facilitate evacuation of affected patients. An important theme throughout wilderness medicine is planning and preparation for the best- and worst-case scenarios, and being ready for the unexpected.

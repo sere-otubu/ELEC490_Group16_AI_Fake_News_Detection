@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insulin regulation
+TITLE: Evidence against a physiologic role for acute changes in CNS insulin action in the rapid regulation of hepatic glucose production.
+PMID: 22560218
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22560218/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This Perspective will discuss the physiologic relevance of data that suggest CNS insulin action is required for the rapid suppression of hepatic glucose production. It will also review data from experiments on the conscious dog, which show that although the canine brain can sense insulin and, thereby, regulate hepatic glucoregulatory enzyme expression, CNS insulin action is not essential for the rapid suppression of glucose production caused by the hormone. Insulin's direct hepatic effects are dominant, thus it appears that insulin's central effects are redundant in the acute regulation of hepatic glucose metabolism.

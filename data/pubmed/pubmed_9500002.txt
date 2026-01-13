@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Celiac disease
+TITLE: [Celiac disease associated with cutaneous sarcoidosic granuloma].
+PMID: 9500002
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9500002/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Coeliac disease can be associated with numerous internal, skin and mucosa involvements: their physiopathology is often obscure. We report the case of a 14-year old female patient who suffered from a coeliac disease diagnosed in 1988 with considerable improvement with a gluten-free diet. Her two daughters also presented coeliac disease and her sister suffered from nevoid basal cell carcinoma syndrome. Four years later, she presented non pruriginous small nodules over both lower extremities. Skin biopsy revealed a non-caseating granuloma into the derm: we only could evocate sarcoidosis affecting the skin. The dermatological lesions improved during the following weeks with a gluten free diet and relapsed each time this diet was stopped. Many clinical associations with coeliac disease have been described with numerous visceral and skin-mucosa involvements. Eight cases of coeliac disease associated with sarcoidosis affecting the lung have been reported: in five cases, coeliac disease preceded sarcoidosis and in one case sarcoidosis relapsed each time gluten was reintroduced like in our case. This two diseases seem to share immunological and genetic disturbances.

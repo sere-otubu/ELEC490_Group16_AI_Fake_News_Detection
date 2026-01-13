@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Stem cell research
+TITLE: Recognizing the ethical implications of stem cell research: A call for broadening the scope.
+PMID: 34214488
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34214488/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The ethical implications of stem cell research are often described in terms of risks, side effects, safety, and therapeutic value, which are examples of so-called hard impacts. Hard impacts are typically measurable and quantifiable. To understand the broader spectrum of ethical implications of stem cell research on science and society, it is equally important to recognize soft impacts. Soft impacts are the effects on behavior, experiences, actions, moral values, and social structures; these are often indirect effects of stem cell research. The combined notions of hard and soft impacts offer a broader way of thinking about the social and ethical implications of stem cell research and can help to steer stem cell research into a sociable desirable direction. Soft impacts enable researchers to become more aware of the broad range of significant implications involved in their work and deserve equal attention for understanding such ethical and societal effects of stem cell research.

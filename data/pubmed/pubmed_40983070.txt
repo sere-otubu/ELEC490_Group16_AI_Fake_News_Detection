@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insulin therapy
+TITLE: The future of type 1 diabetes therapy.
+PMID: 40983070
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40983070/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The treatment of type 1 diabetes is entering a transformative era. Teplizumab, the first immunotherapy treatment to delay the onset of clinical type 1 diabetes, has been approved by the US Food and Drug Administration. Other immune-based therapies show promise in preserving β-cell function. Public health screening using islet autoantibodies is expanding, enabling earlier diagnosis, reducing diabetic ketoacidosis, and allowing timely introduction of disease-modifying treatments before the need for insulin therapy. β-cell replacement is shifting from traditional transplantation of organ donor islets and the pancreas to stem cell-derived β cells. Bioengineering methods, such as encapsulation, and gene editing to create hypoimmune cells could reduce the need for immunosuppression that has hampered β-cell replacement, and patient-derived stem cells open doors to personalised therapies. Although these innovations have been made available to a small number of patients, scaling them to widespread use remains a challenge. Meanwhile, glucose regulation is improving through the use of automated insulin delivery systems that combine glucose monitoring with insulin pumps. New-generation insulins (those that are ultrarapid, ultralong, and glucose-responsive) improve outcomes by minimising blood sugar fluctuations. Together, these breakthroughs offer renewed hope for improving long-term management and quality of life for people living with type 1 diabetes.

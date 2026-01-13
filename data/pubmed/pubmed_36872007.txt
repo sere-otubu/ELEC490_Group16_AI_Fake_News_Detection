@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Traumatic brain injury
+TITLE: Traumatic Brain Injury: Intraoperative Management and Intensive Care Unit Multimodality Monitoring.
+PMID: 36872007
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36872007/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Traumatic brain injury is a devastating event associated with substantial morbidity. Pathophysiology involves the initial trauma, subsequent inflammatory response, and secondary insults, which worsen brain injury severity. Management entails cardiopulmonary stabilization and diagnostic imaging with targeted interventions, such as decompressive hemicraniectomy, intracranial monitors or drains, and pharmacological agents to reduce intracranial pressure. Anesthesia and intensive care requires control of multiple physiologic variables and evidence-based practices to reduce secondary brain injury. Advances in biomedical engineering have enhanced assessments of cerebral oxygenation, pressure, metabolism, blood flow, and autoregulation. Many centers employ multimodality neuromonitoring for targeted therapies with the hope to improve recovery.

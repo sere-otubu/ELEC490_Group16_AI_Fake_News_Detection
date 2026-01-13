@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Narcolepsy
+TITLE: Narcolepsy.
+PMID: 12587367
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12587367/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Narcolepsy is a chronic disorder of EDS. All patients experience EDS. Other symptoms include cataplexy, sleep paralysis, hypnagogic hallucinations, and disrupted nocturnal sleep. Treatment, usually with stimulants and low-doses of antidepressant medications, can dramatically improve the patient's quality of life. Although only advanced practice nurses may be actively involved in the diagnosis and treatment of this disorder, all nurses can encourage their patients who complain of EDS to consult a specialist in sleep disorders medicine, provide emotional support after diagnosis, and educate patients and their families about narcolepsy and its treatment.

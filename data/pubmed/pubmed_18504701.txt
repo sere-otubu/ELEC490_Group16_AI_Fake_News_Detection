@@ -1,0 +1,8 @@
+SEARCH_TOPIC: IVF procedure
+TITLE: Ultrasound in assisted reproductive technology.
+PMID: 18504701
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18504701/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Transvaginal ultrasound-guided oocyte retrieval is the gold standard for in vitro fertilization (IVF) treatment. Despite its relative safety, oocyte retrieval is associated with risk to the adjacent pelvic organs, bleeding, and pelvic infection. The embryo transfer (ET) procedure is considered a crucial step in an IVF cycle. The success of the ET is dependent upon multiple factors including embryo quality, proper endometrial receptivity, and the technique by which the embryos are transferred. Optimizing the technique of ET would therefore provide the best chance for pregnancy. No standard evidence-based protocol exists, but ET with ultrasound guidance has been shown to significantly increase the chance of embryo implantation, an ongoing pregnancy, and a live birth and to improve the ease of transfer. Identifying appropriate ultrasound-guided simulation training techniques in ET would ensure adequate fellowship training without affecting the outcome of assisted reproductive technology cycles.

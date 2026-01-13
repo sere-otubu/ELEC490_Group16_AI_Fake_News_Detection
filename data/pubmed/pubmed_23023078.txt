@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mood stabilizers
+TITLE: [Mood stabilizers in the treatment of bipolar disorder mixed states].
+PMID: 23023078
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23023078/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Mixed states represent a frequent issue in the context of bipolar disorders (up to 40% of acute phases). They are complex and serious clinical pictures, which pose diagnostic challenges but also require specific treatment interventions. The purpose of this article is to provide an overview of the current literature on the pharmacotherapy of bipolar mixed-states, focusing on mood stabilizers. Literature was identified by searches in MEDLINE (Medical Literature Analysis and Retrieval System Online), using PubMed search engine. Studies are chosen if they contained the keywords: "mixed mania or mixed state(s) or mixed episode(s) treatment or therapy". There was a small number of double-blind, placebo-controlled studies focused on the treatment of mixed states. The majority of available data derives from sub-group analysis made on studies that primarily include manic patients. Nevertheless, current evidences underline that, among mood-stabilizers, valproate, olanzapine and aripiprazole could be considered first-line drugs. Lithium has less evidences about its efficacy in the treatment of mixed states, but it could be a valid choice in combined therapies. There is a need of further researches on the treatment of mixed states. Less restrictive diagnostic criteria could allow to select big sized samples in order to obtain more specific and meaningful data about the efficacy of drug treatments.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Probiotics and gut health
+TITLE: Probiotics and gut microbiota modulation: implications for skin health and disease management.
+PMID: 39988585
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39988585/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The gut microbiota, consisting of a varied population of microorganisms in the digestive tract, is essential for sustaining overall human health, encompassing skin health. This review explored the intricate relationship between gut microbiota and various skin disorders, investigating the pathways through which gut dysbiosis may have impacted the development and progression of these conditions. We focused on the impact of gut microbiota on atopic dermatitis, psoriasis, acne vulgaris, acne rosacea, and melanoma. The review highlighted the potential of probiotics as a therapeutic strategy for modulating gut microbiota composition and, consequently, improving skin health. We discussed the evidence supporting the use of probiotics in managing these skin disorders and explored the mechanisms by which probiotics delivered their positive effects. Finally, we discussed the potential role of gut microbiota in other skin diseases, emphasizing the need for further research to unravel the complex interplay between the gut and the skin. Significant gaps remain in understanding the gut-skin axis, how microbial interactions contribute to skin disorders, and how to effectively manipulate the microbiome for therapeutic purposes. This review provided extensive research on the gut-skin axis, highlighting the promising prospects of modulating gut microbiota as a therapeutic strategy for various dermatological conditions.

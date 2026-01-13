@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Platelets
+TITLE: Human platelets and megakaryocytes express defensin alpha 1.
+PMID: 31116063
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31116063/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Platelets are anucleate cells that have a role in several innate immune functions, including the secretion of proteins with antimicrobial activity. Several studies have demonstrated the ability of platelets to secrete thrombin-induced platelet microbicidal proteins and antimicrobial peptides, like hBD-1. However, the expression and secretion of defensins of the alpha family by platelets have not been fully elucidated. The aim of this study was to characterize the expression of defensin alpha 1 (DEFA1) in human platelets and megakaryocytes. Our data indicate that DEFA1 mRNA and protein are present in peripheral blood platelets and in the megakaryoblastic leukemia cell line (MEG-01). DEFA1 co-localize with α-granules of platelets and MEG-01 cells, and was also detected in cytoplasm of MEG-01 cells. The assay of our <i>in vitro</i> model of platelet-like particles (PLPs) revealed that MEG-01 cells could transfer DEFA1 mRNA to their differentiated PLPs. Furthermore, platelets secreted DEFA1 into the culture medium when activated with thrombin, adenosine diphosphate, and lipopolysaccharide; meanwhile, MEG-01 cells secreted DEFA1 when activated with thrombopoietin. Platelet's secreted DEFA1 can rebind to platelet's surface and have antibacterial activity against the gram-negative bacteria <i>Escherichia coli</i>. In summary, our data indicate that both, human platelets and megakaryocytes, can express and secrete DEFA1. These results suggest a new role of platelets and megakaryocytes in the innate immune response.

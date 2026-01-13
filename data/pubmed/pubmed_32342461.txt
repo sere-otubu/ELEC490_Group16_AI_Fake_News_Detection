@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Osteoarthritis
+TITLE: Exercise and Osteoarthritis.
+PMID: 32342461
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32342461/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Osteoarthritis (OA) is a degenerative disease of the articular cartilage with subchondral bone lesions. Osteoarthritis etiologies are mainly related to age, obesity, strain, trauma, joint congenital anomalies, joint deformities, and other factors. Osteoarthritis seriously affects the quality of life; however, there is no effective way to cure osteoarthritis. Aerobic exercise refers to a dynamic rhythmic exercise involving the large muscle groups of the body with aerobic metabolism. More and more evidence shows that exercise has become a useful tool for the treatment of osteoarthritis. This chapter will discuss the role of exercise in the prevention and treatment of osteoarthritis.

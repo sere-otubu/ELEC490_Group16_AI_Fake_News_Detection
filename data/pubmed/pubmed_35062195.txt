@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Electronic health records
+TITLE: Electronic Health Records and Physician Burnout: A Scoping Review.
+PMID: 35062195
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35062195/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This scoping review aims to identify the causes and consequences of physician burnout resulting from using Electronic Health Records (EHRs), as reported by current literature. We identified studies by searching PubMed, Wiley Online Library, and Google Scholar. Study selection and data extraction were conducted by three reviewers independently. Extracted data was then synthesized narratively. Out of 500 references retrieved, 30 studies met all eligibility criteria. We identified six main causes that lead to physician burnout related to the use of EHRs: EHRs' documentation and related tasks, EHRs' poor design, workload, overtime work, inbox alerts, and alert fatigue. We also identified the following consequences of physician burnout: low-quality care, behavioral issues, mental health complications, substance abuse, career dissatisfaction, costly turnover, and a decline in patient safety and satisfaction.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anaphylaxis
+TITLE: Exercise-induced anaphylaxis.
+PMID: 25841550
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25841550/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Exercise-induced anaphylaxis is an uncommon disorder in which anaphylaxis occurs in response to physical exertion. Food-dependent exercise-induced anaphylaxis is a disorder with similar symptoms, although symptoms develop only if exercise takes place within a few hours of eating and, in most cases, only if a specific food is eaten. Management includes education about safe conditions for exercise, the importance of ceasing exercise immediately if symptoms develop, appropriate use of epinephrine, and, for patients with food-dependent exercise-induced anaphylaxis, avoidance of the culprit food for at least 4 hours before exercise.

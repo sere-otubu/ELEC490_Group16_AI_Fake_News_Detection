@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood pressure regulation
+TITLE: Automated blood pressure measuring devices: how are they clinically validated for accuracy?
+PMID: 36220909
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36220909/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Accurate blood pressure (BP) assessment is essential for the optimal diagnosis and management of hypertension. Contemporary clinical practice guidelines strongly endorse use of automated cuff blood pressure measuring devices (BPMD) as the preferred means of measuring and monitoring BP in the office, at home and with ambulatory blood pressure monitoring. To ensure that they are accurate, automated BPMDs should undergo clinical validation testing, performed using an established clinical validation standard. Unfortunately, most BPMDs sold on the global market have not been clinically validated. Furthermore, in the last thirty years, several different clinical validation protocols have been published, with major differences apparent between these standards, causing controversy with respect to which standard is considered acceptable for clinical validation. Complexly worded standards, multiple revisions, and firewalled access also contribute to a lack of understanding and use of clinical validation standards and the number of expert centers performing clinical validations is small. Recently, joint society collaborations have led to creation of the AAMI/ESH/ISO universal standard for the clinical validation of automated cuff BPMDs. Not only is this unified standard a necessary step, but oversight from regulators and influential stakeholders to ensure that only clinically validated BPMDs can be marketed is additionally needed.

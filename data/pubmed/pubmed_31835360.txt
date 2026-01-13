@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Genetic disorders
+TITLE: Genetic Disorders Associated with Metal Metabolism.
+PMID: 31835360
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31835360/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Genetic disorders associated with metal metabolism form a large group of disorders and mostly result from defects in the proteins/enzymes involved in nutrient metabolism and energy production. These defects can affect different metabolic pathways and cause mild to severe disorders related to metal metabolism. Some disorders have moderate to severe clinical consequences. In severe cases, these elements accumulate in different tissues and organs, particularly the brain. As they are toxic and interfere with normal biological functions, the severity of the disorder increases. However, the human body requires a very small amount of these elements, and a deficiency of or increase in these elements can cause different genetic disorders to occur. Some of the metals discussed in the present review are copper, iron, manganese, zinc, and selenium. These elements may play a key role in the pathology and physiology of the nervous system.

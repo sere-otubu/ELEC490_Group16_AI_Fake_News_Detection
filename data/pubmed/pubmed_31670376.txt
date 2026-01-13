@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Psoriasis
+TITLE: Homocysteine and psoriasis.
+PMID: 31670376
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31670376/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Psoriasis is caused by a complex interplay among the immune system, genetic background, autoantigens, and environmental factors. Recent studies have demonstrated that patients with psoriasis have a significantly higher serum homocysteine (Hcy) level and a higher prevalence of hyperhomocysteinaemia (HHcy). Insufficiency of folic acid and vitamin B12 can be a cause of HHcy in psoriasis. Hcy may promote the immuno-inflammatory process in the pathogenesis of psoriasis by activating Th1 and Th17 cells and neutrophils, while suppressing regulatory T cells. Moreover, Hcy can drive the immuno-inflammatory process by enhancing the production of the pro-inflammatory cytokines in related to psoriasis. Hcy can induce nuclear factor kappa B activation, which is critical in the immunopathogenesis of psoriasis. There may be a link between the oxidative stress state in psoriasis and the effect of HHcy. Hydrogen sulfide (H2S) may play a protective role in the pathogenesis of psoriasis and the deficiency of H2S in psoriasis may be caused by HHcy. As the role of Hcy in the pathogenesis of psoriasis is most likely established, Hcy can be a potential therapeutic target for the treatment of psoriasis. Systemic folinate calcium, a folic acid derivative, and topical vitamin B12 have found to be effective in treating psoriasis.

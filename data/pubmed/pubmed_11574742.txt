@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hypotension
+TITLE: Is postural hypotension a real problem with antihypertensive medication?
+PMID: 11574742
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11574742/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Historically, postural hypotension has been cited as a consideration which might influence the selection of antihypertensive therapy. The common symptoms (dizziness, blackouts, syncope) give cause for concern but they are not attributed to every class of antihypertensive drug. For example, administration of a beta-blocker is not generally associated with symptomatic postural hypotension, whereas the alpha-blocker prazosin was particularly problematical, with a significant and well-recognized risk of first-dose postural effects. Titration from a low starting dose and careful selection/monitoring of patients have been successfully used to circumvent this problem. However, since there is a relatively high incidence of postural hypotensive symptoms in elderly patients in general, it may be a misconception to attribute such symptoms to any particular type of antihypertensive drug. Furthermore, with the newer alpha(1)-blockers, such as doxazosin, which have a more gradual onset of action, there is a markedly reduced tendency for postural hypotension to occur. Thus, it is perhaps time to reassess the real significance of iatrogenic postural hypotension in the selection of antihypertensive therapy.

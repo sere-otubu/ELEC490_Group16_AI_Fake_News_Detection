@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dissociative disorders
+TITLE: Disintegrated experience: the dissociative disorders revisited.
+PMID: 1918616
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1918616/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+We present proposed changes to the dissociative disorders section of the 4th edition of the Diagnostic and Statistical Manual of Mental Disorders and review the concept of pathological and nonpathological dissociation, including empirical findings on the relations between trauma and dissociative phenomenology and between dissociation and hypnosis. The most important proposals include the creation of two new diagnostic entities, brief reactive dissociative disorder and transient dissociative disturbance, and the readoption of the criterion of amnesia for a multiple personality disorder diagnosis. We conclude that further work on dissociative processes will provide an important link between clinical and experimental approaches to human cognition, emotion, and personality.

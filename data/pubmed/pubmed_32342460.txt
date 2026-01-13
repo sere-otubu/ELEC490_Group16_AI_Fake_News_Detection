@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cardiovascular fitness
+TITLE: Exercise and Cardiovascular Protection.
+PMID: 32342460
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32342460/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Accumulating evidence has demonstrated that exercise training not only reduces cardiovascular disease risk but also provides direct endogenous cardiovascular protection. The mechanisms that have been proposed to be responsible for exercise-induced cardioprotection include intrinsic myocardial changes such as increased cytosolic antioxidant capacity and altered mitochondrial phenotype, myokine-mediated metabolic and anti-inflammatory effects in the cardiovascular system, and systemic effects on the cardiovascular system via interorgan cross talk. There remains much to be elucidated in the mechanisms for exercise-afforded cardioprotection. This chapter reviews exercise-induced acute and chronic responses in cardiovascular system, the epidemiological evidence of exercise training and cardiorespiratory fitness in the primary and secondary prevention of cardiovascular diseases, and the current understanding of the mechanisms of exercise-induced cardiovascular protective effects.

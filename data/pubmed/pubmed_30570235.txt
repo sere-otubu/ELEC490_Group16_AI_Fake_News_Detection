@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rheumatoid arthritis
+TITLE: [Rheumatoid arthritis and cardiovascular risk factor : literature review].
+PMID: 30570235
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30570235/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The rheumatoid arthritis remains a common condition and constitutes a diagnostic and therapeutic challenge, especially in the elderly. Rheumatoid arthritis is known to be associated with increased mortality, including coronary and cerebrovascular atherosclerosis. A literature review is conducted on the role of rheumatoid arthritis as a cardiovascular risk factor.

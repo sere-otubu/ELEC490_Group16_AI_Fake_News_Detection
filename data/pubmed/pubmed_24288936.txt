@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Varicose veins
+TITLE: Varicose veins: diagnosis and management.
+PMID: 24288936
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24288936/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Varicose veins affect up to one-third of the UK population. Many health professionals are therefore likely to come into contact with patients who have venous disease and need to understand how to assess, manage and treat this condition. This article discusses the updated guidelines from the National Institute for Health and Care Excellence on how health professionals can best treat patients who present with varicose veins.

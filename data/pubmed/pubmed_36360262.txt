@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Prenatal testing
+TITLE: Prenatal Genetic Testing in the Era of Next Generation Sequencing: A One-Center Canadian Experience.
+PMID: 36360262
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36360262/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The introduction of next generation sequencing (NGS) technologies has revolutionized the practice of Medical Genetics, and despite initial reticence in its application to prenatal genetics (PG), it is becoming gradually routine, subject to availability. Guidance for the clinical implementation of NGS in PG, in particular whole exome sequencing (ES), has been provided by several professional societies with multiple clinical studies quoting a wide range of testing yields. ES was introduced in our tertiary care center in 2017; however, its use in relation to prenatally assessed cases has been limited to the postnatal period. In this study, we review our approach to prenatal testing including the use of microarray (CMA), and NGS technology (gene panels, ES) over a period of three years. The overall diagnostic yield was 30.4%, with 43.2% of those diagnoses being obtained through CMA, and the majority by using NGS technology (42% through gene panels and 16.6% by ES testing, respectively). Of these, 43.4% of the diagnoses were obtained during ongoing pregnancies. Seventy percent of the abnormal pregnancies tested went undiagnosed. We are providing a contemporary, one tertiary care center retrospective view of a real-life PG practice in the context of an evolving use of NGS within a Canadian public health care system that may apply to many similar jurisdictions around the world.

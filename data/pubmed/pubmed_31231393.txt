@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immunosuppressants
+TITLE: Mesenchymal Stromal Cells for Transplant Tolerance.
+PMID: 31231393
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31231393/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In solid organ transplantation lifelong immunosuppression exposes transplant recipients to life-threatening complications, such as infections and malignancies, and to severe side effects. Cellular therapy with mesenchymal stromal cells (MSC) has recently emerged as a promising strategy to regulate anti-donor immune responses, allowing immunosuppressive drug minimization and tolerance induction. In this review we summarize preclinical data on MSC in solid organ transplant models, focusing on potential mechanisms of action of MSC, including down-regulation of effector T-cell response and activation of regulatory pathways. We will also provide an overview of available data on safety and feasibility of MSC therapy in solid organ transplant patients, highlighting the issues that still need to be addressed before establishing MSC as a safe and effective tolerogenic cell therapy in transplantation.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hospice care
+TITLE: Home hospice care.
+PMID: 1722136
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1722136/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Home hospice care, which helps patients with terminal illnesses remain at home, is becoming more common and accepted in the United States. The Medicare hospice benefit reimburses hospices for the care of elderly patients. The goal of hospices is to help the patient and family remain in control of the dying process as much as possible. Palliative care rather than the extension of life is emphasized. Hospice techniques for controlling symptoms such as pain, nausea, and vomiting are discussed in this article.

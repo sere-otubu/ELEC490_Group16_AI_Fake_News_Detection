@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mental health stigma
+TITLE: The effectiveness of mental health disorder stigma-reducing interventions in the healthcare setting: An integrative review.
+PMID: 35688548
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35688548/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Individuals with mental health disorders frequently seek medical treatment in health care settings other than a mental health facility. However, mental health disorder stigmatization is prevalent in the healthcare setting across the globe. Stigmatizing attitudes remain widespread among healthcare professionals who are responsible for delivering patient-centered, quality care. Stigma in the healthcare setting can undermine effective diagnosis, therapy, and optimum health outcomes. Addressing stigma is critical to delivering quality health care in both developed and developing countries. Therefore, it is important to deliver successful anti-stigma education, along with practical strategies, to reduce the stigma of mental health disorders among healthcare professionals. An integrative review was conducted to identify the effectiveness of various interventions used in 10 different countries globally to reduce the stigma of mental health disorders in the healthcare setting.

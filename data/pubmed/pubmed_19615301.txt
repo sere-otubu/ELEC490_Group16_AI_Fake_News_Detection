@@ -1,0 +1,8 @@
+SEARCH_TOPIC: IBS
+TITLE: The burden of IBS: looking at metrics.
+PMID: 19615301
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19615301/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Irritable bowel syndrome (IBS) is a prevalent and expensive condition that significantly impairs health-related quality of life (HRQOL) and reduces work productivity. Based on strict criteria, 7% to 10% of people have IBS worldwide. Community-based data indicate that IBS-diarrhea and IBS-mixed subtypes are more prevalent than IBS-constipation, and that patients may switch among subtype groups. IBS is 1.5 times more common in women than in men, more common in lower socioeconomic groups, and more commonly diagnosed in patients younger than 50 years of age. Patients with IBS visit the doctor more frequently, use more diagnostic tests, consume more medications, miss more workdays, have lower work productivity, are hospitalized more frequently, and consume more overall direct costs than those without IBS. Resource utilization is highest in patients with severe symptoms and poor HRQOL. Treatment decisions should be tailored to the severity of each patient's symptoms and HRQOL decrement.

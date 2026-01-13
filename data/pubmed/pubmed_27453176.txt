@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Carbohydrates types
+TITLE: Systemic localization of seven major types of carbohydrates on cell membranes by dSTORM imaging.
+PMID: 27453176
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27453176/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Carbohydrates on the cell surface control intercellular interactions and play a vital role in various physiological processes. However, their systemic distribution patterns are poorly understood. Through the direct stochastic optical reconstruction microscopy (dSTORM) strategy, we systematically revealed that several types of representative carbohydrates are found in clustered states. Interestingly, the results from dual-color dSTORM imaging indicate that these carbohydrate clusters are prone to connect with one another and eventually form conjoined platforms where different functional glycoproteins aggregate (e.g., epidermal growth factor receptor, (EGFR) and band 3 protein). A thorough understanding of the ensemble distribution of carbohydrates on the cell surface paves the way for elucidating the structure-function relationship of cell membranes and the critical roles of carbohydrates in various physiological and pathological cell processes.

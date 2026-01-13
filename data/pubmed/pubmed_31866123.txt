@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Asthma
+TITLE: [Asthma and obesity in adults].
+PMID: 31866123
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31866123/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Asthma is a chronic inflammatory airway disorder characterized by a multitude of phenotypes. Epidemiological studies show an increase in asthma prevalence in obese patients regardless of age. The association of asthma and obesity is now considered as a phenotype with its own clinical, biological and functional characteristics. Regarding the pathophysiology of asthma and obesity, numerous factors such as nutrition, genetic predisposition, microbiome, ventilatory mechanics and the role of adipose tissue have been identified to explain the heterogeneous characteristics of patients with asthma and obesity. In adult patients with asthma and obesity, respiratory symptoms are particularly prominent and atopy and eosinophilic inflammation is uncommon compared to normal weight asthma patients. Obese asthma patients experience more hospitalizations and use more rescue medications than normal weight asthmatics. Management of asthma in obese patients is complex because these patients have less response to the usual anti-asthmatic treatments. Weight loss through caloric restriction combined with exercise is the main intervention to obtain improvement of asthma outcomes. Bariatric surgery is an invasive procedure with interesting results.

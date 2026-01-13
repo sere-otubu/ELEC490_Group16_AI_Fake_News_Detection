@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Parkinsons disease
+TITLE: The European Physiotherapy Guideline for Parkinson's Disease: Implications for Neurologists.
+PMID: 30149464
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30149464/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The evidence for physiotherapy is growing, showing a positive impact on functional activities involving gait, transfers and balance. Specific recommendations for physiotherapists, physicians and people with Parkinson's disease were published in the European Physiotherapy Guideline for Parkinson's disease. Here, we summarize the referral criteria, highlight the importance of accurate referral to specialized physiotherapists, and emphasize the potential benefits of expert care. As such, this paper offers very practical guidance for clinicians working with Parkinson's disease patients and who consider physiotherapy treatments for their patients.

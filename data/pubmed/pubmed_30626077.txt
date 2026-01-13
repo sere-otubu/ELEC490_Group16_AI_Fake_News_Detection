@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antihistamines
+TITLE: Antihistamines for Allergic Rhinitis Treatment from the Viewpoint of Nonsedative Properties.
+PMID: 30626077
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30626077/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Antihistamines targeting the histamine H₁ receptor play an important role in improving and maintaining the quality of life of patients with allergic rhinitis. For more effective and safer use of second-generation drugs, which are recommended by various guidelines, a classification based on their detailed characteristics is necessary. Antihistamines for first-line therapy should not have central depressant/sedative activities. Sedative properties (drowsiness and impaired performance) are associated with the inhibition of central histamine neurons. Brain H₁ receptor occupancy (H₁RO) is a useful index shown to be correlated with indices based on clinical findings. Antihistamines are classified into non-sedating (<20%), less-sedating (20⁻50%), and sedating (≥50%) groups based on H₁RO. Among the non-sedating group, fexofenadine and bilastine are classified into "non-brain-penetrating antihistamines" based on the H₁RO. These two drugs have many common chemical properties. However, bilastine has more potent binding affinity to the H₁ receptor, and its action tends to last longer. In well-controlled studies using objective indices, bilastine does not affect psychomotor or driving performance even at twice the usual dose (20 mg). Upon selecting antihistamines for allergic rhinitis, various situations should be taken into our consideration. This review summarizes that the non-brain-penetrating antihistamines should be chosen for the first-line therapy of mild allergic rhinitis.

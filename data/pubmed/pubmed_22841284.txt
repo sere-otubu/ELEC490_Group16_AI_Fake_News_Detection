@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antibiotics classes
+TITLE: New classes of antibiotics.
+PMID: 22841284
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22841284/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Several novel chemical classes of antibiotics are currently in human clinical studies. While most are narrow spectrum agents that inhibit unexploited targets, the susceptible pathogens are clinically important, including staphylococci, pseudomonads, and mycobacteria. Given the paucity of antibacterial agents consisting of novel chemical scaffolds that act on established targets, these new antibacterial scaffolds, which are active against new targets, represent an important advance in the battle against antibiotic resistance. Indeed, most of these compounds are unlikely to be subject to existing compound-based or target-based resistance mechanisms.

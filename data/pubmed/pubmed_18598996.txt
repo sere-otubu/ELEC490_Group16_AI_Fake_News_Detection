@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ulcerative colitis
+TITLE: Clinical course of ulcerative colitis.
+PMID: 18598996
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18598996/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To provide a review of studies on prognosis in ulcerative colitis by reviewing the relevant population-based cohort studies. On the basis of incidence and population studies, ulcerative colitis has a favourable clinical course, with good quality of life, a chronic course characterized by at least one relapse, and a surgery rate of 30% after 10 years from diagnosis. Patients affected by severe ulcerative colitis have a higher risk of colectomy, and some clinical variables may predict the disease's clinical course. Most patients respond to steroids and only a low percentage become dependent, or non-responders to steroids. Patients who have a long-lasting ulcerative colitis (>10 years) or are affected by an extensive disease have an increased risk of developing colorectal cancer, while those treated with immunosuppressants for long period of time may have an increased risk of developing lymphomas. Data on mortality in ulcerative colitis patients are not homogeneous, but if a real risk exists it is in patients with extensive or severe disease. The evidence that patients with severe ulcerative colitis are often non-smokers may explain why in one study the mortality rate was lower.

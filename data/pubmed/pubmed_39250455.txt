@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Trauma informed care
+TITLE: Providing trauma-informed care in the acute care setting.
+PMID: 39250455
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39250455/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Events such as the COVID-19 pandemic and the war in Ukraine have increased people's awareness of mental health issues. Psychological trauma impacts patients in the acute care setting through physical and mental health presentations. Trauma is a public health issue crossing all socioeconomic groups and is related to social determinants of health. Trauma-informed care (TIC) is an evidence-based approach to providing care. TIC is within the scope of nursing practice and improves outcomes for patients. However, there is a lack of standard terms or practices within healthcare. Additionally, there is superficial acknowledgment of the need for TIC at the local or national level regarding policy. Nurses need to adopt TIC into practice and advocate for policy change to improve the health and lives of those seeking care.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chiropractic care
+TITLE: Chiropractic Care for the Pregnant Body.
+PMID: 33882524
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33882524/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Chiropractic care is a commonly used treatment modality for musculoskeletal pain in pregnancy. Low back pain, pelvic pain, and other neuromuscular complaints are prevalent in pregnancy and contribute to significant maternal discomfort in many women. Nonpharmacologic therapies to relieve pain are increasingly important during pregnancy because of the opioid epidemic. Chiropractic treatment is one of the potential therapies that offers intervention without medications. This article provides an evidence-based review of the epidemiology of chiropractic use in obstetrics, commonly treated conditions, related physiology of pregnancy, and safety of spinal manipulation.

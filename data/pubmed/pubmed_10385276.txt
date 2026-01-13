@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Obesity prevention
+TITLE: Steps towards the prevention of obesity and associated complications.
+PMID: 10385276
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10385276/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The problem of obesity is often not recognised. For example, the prevalence of obesity in Sweden is estimated to be 10%, but a study of a county of 414358 inhabitants and the records from 41 primary healthcare centres found that only 949 (3.1%) of patients were registered as obese. This is alarming, since overweight and obesity can be easily identified and the prevention and treatment of obesity is crucial in order to prevent type 2 diabetes. A screening programme in Kisa, a district of southern Sweden, found that 45% of men and 32% of women were overweight (BMI 25-30 kg/m2), while 12% of men and 17% of women were obese (BMI >30 kg/m2). Among people without diagnosed diabetes, a family history of obesity emerged in 1384 subjects; 707 were overweight or obese (BMI >25 kg/m2), with 270 of these having abdominal obesity. Of 212 of these patients who agreed to an oral glucose tolerance test, 16 were found to have type 2 diabetes and 70 impaired glucose tolerance. It is vital that primary healthcare teams become more active in developing co-ordinated programmes of identification, registration and long-term management of overweight and obese people.

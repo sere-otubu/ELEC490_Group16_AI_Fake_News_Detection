@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Breast cancer
+TITLE: Breast cancer biomarkers: risk assessment, diagnosis, prognosis, prediction of treatment efficacy and toxicity, and recurrence.
+PMID: 24283956
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24283956/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Breast cancer is the most common cancer amongst women in the United States and around the world. Although widespread use of adjuvant chemotherapeutic and hormonal agents has improved mortality from breast cancer, it remains challenging to determine on an individual basis who will benefit from such treatments and who will be likely to encounter toxicities. With the rising costs of healthcare and the introduction of new targeted therapies, use of biomarkers has emerged as a method of assisting with breast cancer diagnosis, prognosis, prediction of therapeutic response, and surveillance of disease during and after treatment. In the following review, prognostic and therapeutic biomarkers, their utility in the management of patients with breast cancer, and current recommendations regarding their clinical use will be discussed.

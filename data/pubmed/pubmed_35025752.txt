@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Public health policy
+TITLE: A Modelling Framework for Evidence-Based Public Health Policy Making.
+PMID: 35025752
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35025752/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+It is widely recognised that the process of public health policy making (i.e., the analysis, action plan design, execution, monitoring and evaluation of public health policies) should be evidenced based, and supported by data analytics and decision-making tools tailored to it. This is because the management of health conditions and their consequences at a public health policy making level can benefit from such type of analysis of heterogeneous data, including health care devices usage, physiological, cognitive, clinical and medication, personal, behavioural, lifestyle data, occupational and environmental data. In this paper we present a novel approach to public health policy making in a form of an ontology, and an integrated platform for realising this approach. Our solution is model-driven and makes use of big data analytics technology. More specifically, it is based on public health policy decision making (PHPDM) models that steer the public health policy decision making process by defining the data that need to be collected, the ways in which they should be analysed in order to produce the evidence useful for public health policymaking, how this evidence may support or contradict various policy interventions (actions), and the stakeholders involved in the decision-making process. The resulted web-based platform has been implemented using Hadoop, Spark and HBASE, developed in the context of a research programme on public health policy making for the management of hearing loss called EVOTION, funded by the Horizon 2020.

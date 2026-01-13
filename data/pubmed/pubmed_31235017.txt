@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Concussion
+TITLE: Diagnosis of Concussion on the Sidelines.
+PMID: 31235017
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31235017/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The forthcoming discussion will review the current state of the literature surrounding best practice guidelines for diagnosis of sports-related concussions on the sidelines. A sports-related concussive event is a complex process to define, which further increases its diagnostic process. At present there is no singular, gold-standard assessment tool available for the diagnosis of sports-related concussions on the sideline. Current best-practice recommendations suggest the utilization of a multifactorial examination process in a controlled environment. Sideline evaluations must include assessments of symptoms, physical and neurologic status, cognitive function, balance capabilities, and clinical assessments for the presence of cervical spine injuries, skull fractures, and intracranial bleeds. Clinical utility is emerging for involvement of assessments of oculomotor and reaction time function, medical spotters/replay technology, and equipment-based motion/impact sensors. The diagnostic process of sports-related concussions can be enhanced when performed by a sports medicine professional with specific experience with the patient at hand due to increased familiarity with premorbid patient disposition and function. Larger scale research studies with sound methodological processes is needed to further bolster best practice recommendations, with specific attention to the youth demographic.

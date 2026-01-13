@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anemia
+TITLE: Iron, Vitamin B<sub>12</sub>, Folate and Copper Deficiency After Bariatric Surgery and the Impact on Anaemia: a Systematic Review.
+PMID: 32785814
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32785814/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Bariatric surgery may increase the risk of iron, vitamin B<sub>12</sub>, folate and copper deficiencies, which can cause anaemia. This review aims to critique the evidence on the prevalence of these nutritional deficiencies and the impact on anaemia in the first 12 months after surgery. PRISMA and MOOSE frameworks, the NHMRC evidence hierarchy and The Academy of Nutrition and Dietetics bias tool were used to systematically critique current literature. Seventeen studies reported on deficiency prevalence with the majority being of low quality. Important confounders to serum micronutrient levels were not adequately considered. Results on the prevalence of nutritional anaemias were also lacking. Further investigation into the prevalence of iron, vitamin B<sub>12</sub>, folate and copper deficiency and its impact on anaemia in bariatric surgery is needed.

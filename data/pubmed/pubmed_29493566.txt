@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cluster headaches
+TITLE: Cluster headache.
+PMID: 29493566
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29493566/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cluster headache is an excruciating, strictly one-sided pain syndrome with attacks that last between 15 minutes and 180 minutes and that are accompanied by marked ipsilateral cranial autonomic symptoms, such as lacrimation and conjunctival injection. The pain is so severe that female patients describe each attack as worse than childbirth. The past decade has seen remarkable progress in the understanding of the pathophysiological background of cluster headache and has implicated the brain, particularly the hypothalamus, as the generator of both the pain and the autonomic symptoms. Anatomical connections between the hypothalamus and the trigeminovascular system, as well as the parasympathetic nervous system, have also been implicated in cluster headache pathophysiology. The diagnosis of cluster headache involves excluding other primary headaches and secondary headaches and is based primarily on the patient's symptoms. Remarkable progress has been achieved in developing effective treatment options for single cluster attacks and in developing preventive measures, which include pharmacological therapies and neuromodulation.

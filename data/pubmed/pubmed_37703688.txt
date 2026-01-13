@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Skin cancer prevention
+TITLE: Risk factors and early prevention of skin cancer in rural older outdoor workers: A scoping review.
+PMID: 37703688
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37703688/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Skin cancer risk increases with age and prolonged exposure to ultraviolet radiation (UVR), particularly in rural geographical locations and for individuals with light skin complexions. However, the impact of UVR-induced skin cancer risk and sun-protective behaviors in rural older populations working outdoors has yet to be explored. A scoping review was conducted to fill this gap, with 12 articles meeting the inclusion criteria of aged 50 years and older among rural outdoor workers. Skin cancer risk factors, prevention strategies, and barriers to sun-protective behaviors were summarized for each study. The scoping review addressed some key differences in age-related effects of UVR among rural older outdoor workers compared to studies among adults in general. Findings have policy and research implications that highlight the need to design feasible preventive strategies to reduce rural disparities in cancer care and enhance access to preventive services for this high-risk population.

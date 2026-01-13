@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Stroke
+TITLE: Post-stroke immunosuppression: Exploring potential implications beyond infections.
+PMID: 37857561
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37857561/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Stroke is a leading cause of mortality and disability. It occurs when cerebral blood flow is disrupted via vascular occlusion or rupture, causing tissue damage. Research has extensively examined the role of the immune response in stroke pathophysiology, focusing on infiltrated immune cells and inflammatory molecules. However, the stroke's impact on immune physiology remains underexplored. While initially stroke triggers the activation of peripheral inflammation, a subsequent profound immunosuppression occurs in a matter of hours/days. This response, potentially shielding the brain from excessive inflammation, significantly affects stroke patients. Beyond rendering patients more susceptible to infections, immunosuppression generates diverse consequences by disrupting immune system functions that are crucial for organ homeostasis. This review explores the effects of immunosuppression on stroke patients, shedding light on potential issues in immune organs such as the spleen and bone marrow, as well as non-immune organs like the small intestine, liver and heart. By synthesizing existing literature and offering additional insights, this manuscript highlights the multifaceted impact of post-stroke immunosuppression.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Organ donation ethics
+TITLE: Opt-out paradigms for deceased organ donation are ethically incoherent.
+PMID: 34509985
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34509985/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The Organ Donation Act 2019 has introduced an opt-out organ donor register in England, meaning that consent to the donation of organs upon death is presumed unless an objection during life was actively expressed. By assessing the rights of the dead over their organs, the sick to those same organs, and the role of consent in their requisition, this paper interrogates whether such paradigms for deceased organ donation are ethically justifiable. Where legal considerations are applicable, I focus on the recent changes in England as a case in point; however, this paper ultimately challenges the justifiability of opt-out systems in any form, concluding that ethical solutions to organ shortage do not lie in opt-out systems of deceased organ procurement.

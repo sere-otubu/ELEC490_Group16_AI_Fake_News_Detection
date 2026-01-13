@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Processed foods
+TITLE: Ultra-Processed Foods-Dietary Foe or Potential Ally?
+PMID: 38613046
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38613046/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The prevalence of non-communicable diseases (NCDs) has steadily increased in the United States. Health experts attribute the increasing prevalence of NCDs, in part, to the consumption of ultra-processed foods (UPFs) based on epidemiological observations. However, no definitive evidence of causality has been established. Consequently, there is an ongoing debate over whether adverse health outcomes may be due to the low nutrient density per kilocalorie, the processing techniques used during the production of UPFs, taste preference-driven overconsumption of calories, or unidentified factors. Recognizing that "the science is not settled," we propose an investigative process in this narrative review to move the field beyond current controversies and potentially identify the basis of causality. Since many consumers depend on UPFs due to their shelf stability, affordability, availability, ease of use, and safety from pathogens, we also suggest a paradigm for guiding both the formulation of UPFs by food designers and the selection of UPFs by consumers.

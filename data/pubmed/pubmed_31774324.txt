@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Air pollution health effects
+TITLE: Health Benefits of Air Pollution Reduction.
+PMID: 31774324
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31774324/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Air pollution is a grave risk to human health that affects nearly everyone in the world and nearly every organ in the body. Fortunately, it is largely a preventable risk. Reducing pollution at its source can have a rapid and substantial impact on health. Within a few weeks, respiratory and irritation symptoms, such as shortness of breath, cough, phlegm, and sore throat, disappear; school absenteeism, clinic visits, hospitalizations, premature births, cardiovascular illness and death, and all-cause mortality decrease significantly. The interventions are cost-effective. Reducing factors causing air pollution and climate change have strong cobenefits. Although regions with high air pollution have the greatest potential for health benefits, health improvements continue to be associated with pollution decreases even below international standards. The large response to and short time needed for benefits of these interventions emphasize the urgency of improving global air quality and the importance of increasing efforts to reduce pollution at local levels.

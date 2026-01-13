@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Plasma
+TITLE: Plasma supply in the United States.
+PMID: 33071195
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33071195/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This descriptive article summarizes the current state of source plasma collection in the United States. It follows the trend of collections over the past several years, ending at 2019, and also includes the number of source plasma collection centers. Usage and distribution of the plasma is also discussed, along with a brief summary of donor compensation policies in the United States.

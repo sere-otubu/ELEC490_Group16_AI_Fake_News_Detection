@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lymphoma
+TITLE: Early detection of cutaneous lymphoma.
+PMID: 9798206
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9798206/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cutaneous lymphomas comprise a spectrum of diseases characterized by infiltration of the skin by malignant lymphocytes. The clinical manifestations of cutaneous lymphomas vary, and they can mimic benign dermatoses, as well as nodal or visceral malignancies with cutaneous spread. Cutaneous lymphomas are divided into T-cell lymphomas and B-cell lymphomas. Cutaneous T-cell lymphomas include mycosis fungoides, Sézary syndrome, lymphomatoid papulosis, CD30+ large cell lymphoma, and adult T-cell leukemia/lymphoma. The extent and severity of skin manifestations in cutaneous T-cell lymphomas are prognostic indicators of extracutaneous involvement. Primary cutaneous B-cell lymphomas comprise 10% to 25% of all primary cutaneous non-Hodgkin's lymphomas and are classified according to their cell of origin. Most cutaneous B-cell lymphomas have an indolent course and excellent prognosis when compared to their nodal counterparts. Many factors have been implicated in the etiology of cutaneous lymphomas, including chemical and drug exposures, as well as microbial agents, such as the Epstein-Barr virus (EBV), human T-lymphocyte virus-1 (HTLV-1), and Borrelia burgdorferi. Immunohistochemistry and lymphocyte-receptor gene rearrangement studies are useful in distinguishing malignant from benign conditions.

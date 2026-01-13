@@ -1,0 +1,8 @@
+SEARCH_TOPIC: White blood cells
+TITLE: Microcirculation in venous disorders: the role of the white blood cells.
+PMID: 8748882
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8748882/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The haemodynamic hallmark of chronic venous disease in the legs is raised ambulatory venous pressure. This is probably the principal cause of both the symptoms of long-standing varicose veins and the trophic changes round the ankle characteristics of chronic venous insufficiency, presumably by an effect on the microcirculation. The microcirculatory consequences of raised venous pressure include morphological changes, as well as functional abnormalities ranging from haemorheological changes, increased capillary permeability and abnormalities of fibrinogen metabolism to trapping of white blood cells in the dependent legs. This last is now known to be accompanied by sequestration of platelets, which is irreversible. It is postulated that leucocyte activation releases cytokines, leucocyte-derived oxygen free radicals, proteolytic enzymes and platelet activating factor. It has been shown that external compression not only relieves stasis but also decreases white cell trapping. A strategy for management of the complications of venous disease should therefore be aimed at treatment of both the macrocirculatory haemodynamic defect and the microcirculatory abnormalities. The latter is an ideal target for systemic pharmacotherapy.

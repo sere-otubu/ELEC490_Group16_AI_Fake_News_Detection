@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Prebiotics
+TITLE: Dietary fibre as prebiotics in nutrition.
+PMID: 31580563
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31580563/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Trends in dietary nutrition and their personalization are progress in medical science and point out the necessity of adaptation and development of innovations in health system. The main objective of this article is to review the role of dietary fibre as prebiotics in nutrition with different functionality, its influence on modulation of intestinal microbiota, which has an essential role in maintenance of healthy organisms in people of all ages.

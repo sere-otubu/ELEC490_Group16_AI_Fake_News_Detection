@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antivirals
+TITLE: Antivirals against the Chikungunya Virus.
+PMID: 34372513
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34372513/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Chikungunya virus (CHIKV) is a mosquito-transmitted alphavirus that has re-emerged in recent decades, causing large-scale epidemics in many parts of the world. CHIKV infection leads to a febrile disease known as chikungunya fever (CHIKF), which is characterised by severe joint pain and myalgia. As many patients develop a painful chronic stage and neither antiviral drugs nor vaccines are available, the development of a potent CHIKV inhibiting drug is crucial for CHIKF treatment. A comprehensive summary of current antiviral research and development of small-molecule inhibitor against CHIKV is presented in this review. We highlight different approaches used for the identification of such compounds and further discuss the identification and application of promising viral and host targets.

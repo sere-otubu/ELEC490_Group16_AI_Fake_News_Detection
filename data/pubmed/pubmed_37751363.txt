@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HIV AIDS
+TITLE: Progress with induction of HIV broadly neutralizing antibodies in the Duke Consortia for HIV/AIDS Vaccine Development.
+PMID: 37751363
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37751363/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Design of an HIV vaccine that can induce broadly neutralizing antibodies (bnAbs) is a major goal. However, HIV bnAbs are not readily made by the immune system. Rather HIV bnAbs are disfavored by a number of virus and host factors. The purpose of the review is to discuss recent progress made in the design and use of immunogens capable of inducing HIV bnAbs in the Duke Consortia for HIV/AIDS Vaccine Development. New immunogens capable of binding with high affinity to unmutated common ancestors (UCAs) of bnAb B cell lineages have been designed and strategies for stabilization of HIV Env in its prefusion state are being developed. Success is starting to be translated from preclinical studies of UCA-targeting immunogens in animals, to success of initiating bnAb lineages in humans. Recent progress has been made in both immunogen design and in achieving bnAb B cell lineage induction in animal models and now in human clinical trials. With continued progress, a practical HIV/AIDS vaccine may be possible. However, host constraints on full bnAb maturation remain as potential roadblocks for full maturation of some types of bnAbs.

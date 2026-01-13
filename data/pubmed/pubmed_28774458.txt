@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Arthritis
+TITLE: Ultrasound in Arthritis.
+PMID: 28774458
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28774458/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ultrasound is currently performed in everyday rheumatologic practice. It is used for early diagnosis, to monitor treatment results, and to diagnose remission. The spectrum of pathologies seen in arthritis with ultrasound includes early inflammatory features and associated complications. This article discusses the spectrum of ultrasound features of arthritides seen in rheumatoid arthritis and other connective tissue diseases in adults, such as Sjögren syndrome, lupus erythematosus, dermatomyositis, polymyositis, and juvenile idiopathic arthritis. Ultrasound findings in spondyloarthritis, osteoarthritis, and crystal-induced diseases are presented. Ultrasound-guided interventions in patients with arthritis are listed, and the advantages and disadvantages of ultrasound are discussed.

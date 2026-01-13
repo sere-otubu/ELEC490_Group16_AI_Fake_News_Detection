@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lymphatic system
+TITLE: The Lymphatic System In The Brain Clearance Mechanisms - New Therapeutic Perspectives For Alzheimer's Disease.
+PMID: 35410605
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35410605/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Alzheimer's disease (AD) is the most common cause of dementia worldwide. Pathological deposits of neurotoxic proteins within the brain, such as amyloid-ß and hyperphosphorylated tau tangles, are the prominent features in AD. According to recent studies, the newly discovered brain lymphatic system was demonstrated to be crucial in the clearance of metabolic macromolecules from the brain. Meningeal lymphatic vessels located in the dura mater drain the fluid, macromolecules, and immune cells from cerebrospinal fluid (CSF) and transport them, as lymph, to the deep cervical lymph nodes. The lymphatic system provides the perivascular exchange of CSF with interstitial fluid (ISF) and ensures the homeostasis of neuronal interstitial space. In this review, we aim to summarize recent findings on the role of the lymphatic system in AD pathophysiology and discuss possible therapeutic perspectives, targeting the lymphatic clearance mechanisms within the brain.

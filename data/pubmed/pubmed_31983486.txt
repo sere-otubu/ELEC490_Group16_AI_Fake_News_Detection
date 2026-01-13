@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sexual health
+TITLE: Sexual Health Issues in Cancer Survivors.
+PMID: 31983486
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31983486/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To review the sexual health issues cancer survivors may experience, including incidence, association with treatment modalities, and approach to evaluation and treatment. Peer-reviewed journal articles, medical society or government Web sites. Cancer diagnosis and treatment often impacts sexual function and addressing this is a key component of health-related quality of life. Screening, evaluation, and treatment of sexual dysfunction should be incorporated into routine oncologic care.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rubella
+TITLE: [Rubella virus].
+PMID: 9103885
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9103885/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The paper deals with a review article of nervous system disorders caused by rubella virus (RV) infection. The diseases are categorized as acute and chronic, the former consists of acute encephalitis and peripheral neuropathy, and the latter congenital rubella syndrome and progressive rubella panencephalitis. Acute rubella encephalitis occurs one case per 6,000 rubella patients either at viremia or eruption stage which is a demyelinating disease designated as secondary encephalitis. The prognosis of those diseases are not too severe, 80% of the diseases are recovered without any sequels. Congenital rubella syndrome is a congenital malformation syndrome such as cataracts, glaucoma, ventricular and atrial septal defect, mental and motor retardation, hearing difficulty by rubella infection at first trimester of pregnancy. A Japanese case of progressive rubella panencephalitis was reported in Arch Neurol in 1987 by us and died at home after physical and mental deterioration. Although reinfection of rubella virus may occur in mother having antibody to RV during pregnancy who bears possibly baby with congenital rubella syndrome eventually, the best way to decrease patients with RV infection in nervous system is to immunize all people with live RV.

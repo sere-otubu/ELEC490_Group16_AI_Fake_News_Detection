@@ -1,0 +1,8 @@
+SEARCH_TOPIC: GMO foods safety
+TITLE: Transgenes for tea?
+PMID: 15629853
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15629853/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+So far, no compelling scientific evidence has been found to suggest that the consumption of transgenic or genetically modified (GM) plants by animals or humans is more likely to cause harm than is the consumption of their conventional counterparts. Despite this lack of scientific evidence, the economic prospects for GM plants are probably limited in the short term and there is public opposition to the technology. Now is a good time to address several issues concerning GM plants, including the potential for transgenes to migrate from GM plants to gut microbes or to animal or human tissues, the consequences of consuming GM crops, either as fresh plants or as silage, and the problems caused by current legislation on GM labelling and beyond.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hormones types
+TITLE: Roles of hormones in taste signaling.
+PMID: 20865376
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20865376/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Proper nutrition, avoidance of ingesting substances that are harmful to the whole organism, and maintenance of energy homeostasis are crucial for living organisms. Additionally, mammals possess a sophisticated system to control the types and content of food that we swallow. Gustation is a vital sensory skill for determining which food stuffs to ingest and which to avoid, and for maintaining metabolic homeostasis. It is becoming apparent that there is a strong link between metabolic control and flavor perception. Although the gustatory system critically influences food preference, food intake, and metabolic homeostasis, the mechanisms for modulating taste sensitivity by metabolic hormones are just now being explored. It is likely that hormones produced in the tongue influence the amounts and types of food that we eat: the hormones that we associate with appetite control, glucose homeostasis and satiety, such as glucagon-like peptide-1, cholecystokinin, and neuropeptide Y are also produced locally in taste buds. In this report, we will provide an overview of the peptidergic endocrine hormone factors that are present or are known to have effects within the gustatory system, and we will discuss their roles, where known, in taste signaling.

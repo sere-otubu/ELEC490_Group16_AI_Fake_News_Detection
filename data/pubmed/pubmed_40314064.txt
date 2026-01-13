@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Integumentary system
+TITLE: Erythrocyte Extracellular Vesicles Amalgamate into the Hair and Skin to Maintain Homeostasis.
+PMID: 40314064
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40314064/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Erythrocytes are a major cell type in the circulation, numbering between 20 and 30 trillion. The function of erythrocytes is to bring oxygen to the tissues and release carbon dioxide to the lungs. Anaemic patients, who have low levels of erythrocytes, show significant symptoms affecting the hair and skin; however, the detailed relationship between erythrocytes and the integumentary system is not fully understood. Here, we show that erythrocyte extracellular vesicle (EV) can transfer haemoglobin, ABO antigens and keratin into the hair and promote hair regeneration through miR-20a-5p- and miR-22-3p-mediated upregulation of Wnt/β-catenin signalling in dermal papilla cells. Moreover, we show that local injection of autologous erythrocyte EVs ameliorates hair growth in androgenic alopecia (AGA) patients. Interestingly, we found that erythrocyte EVs exit the body from the hair/skin and their membranes contribute to the formation of the outer barrier of the skin. In summary, we identify a previously unknown role of erythrocytes in amalgamating into hair structures and reveal a new therapeutic approach using erythrocyte EVs to promote hair regeneration in AGA patients.

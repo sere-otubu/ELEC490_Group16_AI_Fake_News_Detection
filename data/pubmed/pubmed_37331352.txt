@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood pressure regulation
+TITLE: Connexin 40-Mediated Regulation of Systemic Circulation and Arterial Blood Pressure.
+PMID: 37331352
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37331352/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Vascular system is a complex network in which different cell types and vascular segments must work in concert to regulate blood flow distribution and arterial blood pressure. Although paracrine/autocrine signaling is involved in the regulation of vasomotor tone, direct intercellular communication via gap junctions plays a central role in the control and coordination of vascular function in the microvascular network. Gap junctions are made up by connexin (Cx) proteins, and among the four Cxs expressed in the cardiovascular system (Cx37, Cx40, Cx43, and Cx45), Cx40 has emerged as a critical signaling pathway in the vessel wall. This Cx is predominantly found in the endothelium, but it is involved in the development of the cardiovascular system and in the coordination of endothelial and smooth muscle cell function along the length of the vessels. In addition, Cx40 participates in the control of vasomotor tone through the transmission of electrical signals from the endothelium to the underlying smooth muscle and in the regulation of arterial blood pressure by renin-angiotensin system in afferent arterioles. In this review, we discuss the participation of Cx40-formed channels in the development of cardiovascular system, control and coordination of vascular function, and regulation of arterial blood pressure.

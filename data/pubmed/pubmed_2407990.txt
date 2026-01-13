@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lyme disease
+TITLE: Lyme disease.
+PMID: 2407990
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2407990/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lyme disease is an infectious, immune-mediated, multisystem disease. Recent epidemiologic data confirms that in the United States, Lyme disease is spreading faster than any other infectious disease except AIDS. The bacteria that causes Lyme disease, Borrelia burgdorferi, is transmitted to humans by the bite of the deer tick, Ixodes dammini. If diagnosed and treated in its early stages, Lyme disease is less likely to result in later cardiac, neurologic, and arthritic complications. Arthritic complications account for 60% of all late manifestations. Nurses can play a major role in the prevention and early recognition of this disease. Early treatment with antibiotics can prevent subsequent complications.

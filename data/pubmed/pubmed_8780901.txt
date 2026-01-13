@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Digestion process
+TITLE: Digestion in the newborn.
+PMID: 8780901
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8780901/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although the various aspects of digestion in the newborn have been studied for decades, we still lack quantitative information about the contribution of individual enzymes to the overall process. The information to date indicates that in spite of immaturity of many of the classical digestive mechanisms of the adult, the infant uses a number of compensatory systems to achieve adequate digestion of nutrients (Fig. 1). Thus, whereas in the infant gastric proteolysis is probably extremely limited, intestinal protein digestion is adequate. Although starch supplements are better tolerated in breast-fed infants, because of the compensation provided by human milk amylase, the infant is able to digest lactose and short-chain glucose polymers with endogenous brush border enzymes. Fat digestion is markedly aided by gastric lipase and, in breast-fed infants, the bile salt-dependent lipase of human milk. Thus, in the infant, gastric lipolysis is quantitatively much more significant than in adults. The absorption of human milk whey proteins (and probably also cow milk proteins) is probably associated more with the highly glycosylated form of these proteins than with immaturity of neonatal digestive enzymes.

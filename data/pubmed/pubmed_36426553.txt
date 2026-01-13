@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Endoscopy
+TITLE: [Current Endoscopy Training in Korea and Future Aspects].
+PMID: 36426553
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36426553/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The training of trainees to perform endoscopies is challenging. There is no standardized training program in Korea. Trainees usually learn to perform endoscopies under the supervision of an educator, an expert endoscopist. However, most of educators have never received formal training. For high quality and effecting training, formal training program for educators is needed. Also, specific assessment tools measuring performance and improving training are required. The use of simulators for acquiring, maintaining, and assessing skills in endoscopy has grown over the past decade. Many data suggest that simulation training may accelerate the acquisition of specific technical skills in endoscopy early in training. If we include education using simulators in basic endoscopy education, it will be of great help to shorten the endoscopy training time and improve the endoscopy training environment. A significant portion of medical lawsuits against gastroenterologists in Korea are related to complications related to sedation. Therefore, endoscopy education should include contents related to sedation education. Also, systematic and thorough education program along with assessment tool measuring true competence of sedation in endoscopy is needed. Changes should be made at all levels to improve our endoscopy training system.

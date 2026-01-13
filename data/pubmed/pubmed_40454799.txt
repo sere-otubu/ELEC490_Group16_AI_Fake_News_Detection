@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Surgery preparation
+TITLE: Enhancing Surgical Education Through Artificial Intelligence in the Era of Digital Surgery.
+PMID: 40454799
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40454799/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Artificial Intelligence (AI) is transforming surgical education, playing a pivotal role in the era of digital surgery. This review, conducted from January 2023 to December 2024, examines the integration of AI into surgical training, focusing on its benefits and limitations. Thirteen studies were included, with emphasis on AI's impact in General Surgery training. Digital surgery leverages AI-powered tools such as virtual reality (VR) and augmented reality (AR) to create immersive, simulated environments where residents can practice surgical techniques safely and effectively. These platforms improve technical skills, hand-eye coordination, and error reduction, while personalized AI-driven feedback systems enhance learning and skill assessment. Digital surgery also bridges the gap between theoretical knowledge and clinical application, fostering innovative training methodologies. Despite challenges such as financial constraints and ethical concerns, AI within digital surgery emerges as a transformative force, redefining surgical education and equipping trainees with the expertise needed for modern health care.

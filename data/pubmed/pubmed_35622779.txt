@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mastectomy
+TITLE: The efficacy of oxidized regenerated cellulose (SurgiGuard®) in breast cancer patients who undergo total mastectomy with node surgery: A prospective randomized study in 94 patients.
+PMID: 35622779
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35622779/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Seromas frequently develop in patients who undergo total mastectomy with node surgery. We aimed to prospectively explore whether use of oxidized regenerated cellulose (ORC, SurgiGuard®) affects seroma formation after total mastectomy with node surgery (sentinel lymph node biopsy (SLNB) or axillary lymph node dissection (ALND)). Ninety four breast cancer patients were enrolled in the study who underwent total mastectomy with ALND or SLNB. The patients were randomized into two groups, one treated with ORC plus closed suction drainage and the other with closed suction drainage alone. Mean drainage volume was slightly lower in the ORC group on postoperative day 1 (123 ± 54 vs 143 ± 104 ml), but was slightly higher at all other time points; however, these differences were not significant. Mean total drainage volume in patients treated with ORC plus drainage did not differ from that of patients treated with drainage alone (1134 ± 507 ml vs 1033 ± 643 ml, P = 0.486). Use of ORC (SurgiGuard®) did not significantly alter the risk of seroma formation.

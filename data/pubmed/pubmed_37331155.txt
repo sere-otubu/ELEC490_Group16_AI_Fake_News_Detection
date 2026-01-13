@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Telemedicine adoption
+TITLE: Adoption and utilization of device-assisted telemedicine.
+PMID: 37331155
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37331155/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+We estimate the effect of adopting a digital device for performing medical exams at home during telehealth visits. We match visits of adopters and non-adopters who used the same virtual care clinic but without the device and compare healthcare utilization after the matched visits. We find that device adoption, partially offset by decreased use of other primary care modalities, results in a 12% higher utilization rate of primary care and increased use of antibiotics. But - particularly among adults - adoption lowers the use of urgent care, the emergency room, and hospital care, resulting in no increase in total cost.

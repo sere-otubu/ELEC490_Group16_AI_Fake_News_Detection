@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mammography
+TITLE: Screening Mammography Utilization in the United States.
+PMID: 38416907
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38416907/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Breast cancer is the second leading cause of cancer mortality in adult women in the United States. Screening mammography reduces breast cancer mortality between 22% and 48%; however, screening mammography remains underutilized. Screening mammography utilization data are available from insurance claims, electronic medical records, and patient self-report via surveys, and each data source has unique benefits and challenges. Numerous barriers exist that adversely affect the use of screening mammography in the United States. This article will review screening mammography utilization in the United States, explore factors that impact utilization, and briefly discuss strategies to improve utilization.

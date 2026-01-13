@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cystic fibrosis
+TITLE: Cystic fibrosis year in review 2016.
+PMID: 28608632
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28608632/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In this article, we highlight cystic fibrosis (CF) research and case reports published in Pediatric Pulmonology during 2016. We also include articles from a variety of journals that are thematically related to these articles, or are of special interest to clinicians.

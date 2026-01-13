@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Macronutrients
+TITLE: Efficacy of the Mediterranean Diet Containing Different Macronutrients on Non-Alcoholic Fatty Liver Disease.
+PMID: 39203835
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39203835/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This study aimed to investigate the effects of the typical Mediterranean diet (TMD), low-carbohydrate Mediterranean diet (LCMD), and low-fat Mediterranean diet (LFMD) on biochemical findings, fatty liver index (FLI), anthropometric measurements, and body composition in individuals with obesity with non-alcoholic fatty liver disease (NAFLD) and insulin resistance. This study included 63 participants with obesity with insulin resistance diagnosed with NAFLD by ultrasonography to investigate the effects of an 8-week energy-restricted TMD, LCMD, and LFMD on biochemical findings, FLI, fibrosis-4 index (FIB-4), anthropometric measurements, and body composition. Patients were randomized into three groups and were interviewed face-to-face every week. According to the food consumption records (baseline end), the difference in the amount of sucrose and total fat consumed in the TMD group; the difference in energy intake from sucrose, monounsaturated fatty acids, and oleic acid in the LCMD group; and the difference in energy intake from fiber, sucrose, monounsaturated and polyunsaturated fatty acids, and cholesterol in the LFMD group showed significant correlations with liver enzymes and FLI (<i>p</i> < 0.05). In conclusion, although it has a different macronutrient composition, the Mediterranean diet may positively affect biochemical parameters and FLI in individuals with NAFLD, albeit in different ways.

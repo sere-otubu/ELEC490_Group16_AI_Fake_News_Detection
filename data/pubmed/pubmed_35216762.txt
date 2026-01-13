@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insomnia
+TITLE: Insomnia: Focus on Children.
+PMID: 35216762
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35216762/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Pediatric insomnia is relatively common in general pediatric practice and has an even higher prevalence in those with neurodevelopmental disorders. Detailed sleep history, sleep diary, associated daytime symptoms, and factors contributing to insomnia should be thoroughly evaluated to determine the diagnosis and further plan for management. Behavioral management should be the first step for the management of insomnia in children and adolescents. Although there is no FDA-approved medication for the treatment of insomnia in children, some medications may be prescribed with caution, particularly if behavioral management is not effective, in selected conditions, and if the benefits outweigh the risks.

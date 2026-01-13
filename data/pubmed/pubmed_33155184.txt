@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Keto diet
+TITLE: Ketogenic Diet Therapies for Seizures and Status Epilepticus.
+PMID: 33155184
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33155184/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ketogenic diet therapies are high-fat, low-carbohydrate diets designed to mimic a fasting state. Although initially developed nearly one century ago for seizure management, most clinical trials for the management of drug-resistant epilepsy in children as well as adults have been conducted over the last 3 decades. Moreover, ketogenic diets offer promising new adjunctive strategies in the critical care setting for the resolution of acute status epilepticus when traditional antiseizure drugs and anesthetic agents fail. Here, we review the history of ketogenic diet development, the clinical evidence supporting its use for the treatment of drug-resistant epilepsy in children and adults, and the early evidence supporting ketogenic diet feasibility, safety, and potential efficacy in the management of status epilepticus.

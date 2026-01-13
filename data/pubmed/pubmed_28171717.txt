@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cirrhosis
+TITLE: Reversal of liver cirrhosis: current evidence and expectations.
+PMID: 28171717
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28171717/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In the past, liver cirrhosis was considered an irreversible phenomenon. However, many experimental data have provided evidence of the reversibility of liver fibrosis. Moreover, multiple clinical studies have also shown regression of fibrosis and reversal of cirrhosis on repeated biopsy samples. As various etiologies are associated with liver fibrosis via integrated signaling pathways, a comprehensive understanding of the pathobiology of hepatic fibrogenesis is critical for improving clinical outcomes. Hepatic stellate cells play a central role in hepatic fibrogenesis upon their activation from a quiescent state. Collagen and other extracellular material components from activated hepatic stellate cells are deposited on, and damage, the liver parenchyma and vascular structures. Hence, inactivation of hepatic stellate cells can lead to enhancement of fibrolytic activity and could be a potential target of antifibrotic therapy. In this regard, continued efforts have been made to develop better treatments for underlying liver diseases and antifibrotic agents in multiple clinical and therapeutic trials; the best results may be expected with the integration of such evidence. In this article, we present the underlying mechanisms of fibrosis, current experimental and clinical evidence of the reversibility of liver fibrosis/cirrhosis, and new agents with therapeutic potential for liver fibrosis.

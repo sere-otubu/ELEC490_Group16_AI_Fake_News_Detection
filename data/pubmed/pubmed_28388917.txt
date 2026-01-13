@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Probiotics and gut health
+TITLE: Influence of diet on the gut microbiome and implications for human health.
+PMID: 28388917
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28388917/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Recent studies have suggested that the intestinal microbiome plays an important role in modulating risk of several chronic diseases, including inflammatory bowel disease, obesity, type 2 diabetes, cardiovascular disease, and cancer. At the same time, it is now understood that diet plays a significant role in shaping the microbiome, with experiments showing that dietary alterations can induce large, temporary microbial shifts within 24 h. Given this association, there may be significant therapeutic utility in altering microbial composition through diet. This review systematically evaluates current data regarding the effects of several common dietary components on intestinal microbiota. We show that consumption of particular types of food produces predictable shifts in existing host bacterial genera. Furthermore, the identity of these bacteria affects host immune and metabolic parameters, with broad implications for human health. Familiarity with these associations will be of tremendous use to the practitioner as well as the patient.

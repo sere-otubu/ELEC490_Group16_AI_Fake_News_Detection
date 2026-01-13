@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cataracts
+TITLE: Sunlight and human cataracts.
+PMID: 437948
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/437948/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Studies of the cataractous lenses of humans in three different geographic locations indicate that where the ultraviolet components of sunlight are more intense, dark brown cataracts result at a higher frequency than in locations where they are weak. Individuals exposed to sunlight regularly by virtue of their outdoor occupations seemed to develop this dark brown type of cataract much more frequently than those who work indoors. The biochemical characteristics of all brunescent cataracts were found to be very similar, whether derived from individuals exposed to high or low levels of sunlight. These findings support the idea that exposure to sunlight specifically enhances brunescent cataract development in humans.

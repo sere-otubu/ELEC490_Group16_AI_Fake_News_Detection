@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Electronic health records
+TITLE: Electronic health records-Applications for the allergist/immunologist: All that glitters is not gold.
+PMID: 27401314
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27401314/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A review of existing literature on electronic health records (EHR) demonstrates the lack of a comprehensive analysis of the current status of, and impediments for, physicians, including allergists/immunologists, to adopting a fully functioning system. For physicians to logically embrace the use of EHRs, a comprehensive but straightforward presentation of this complex subject would be helpful. In fact, although there is some evaluative information regarding data derived from EHRs about asthma epidemiology and practice guidelines as well as recording adverse allergic reactions, it is impossible to find one scholarly article that evaluated the use of fully functional EHRs from the perspective of an allergist or immunologist. This analysis presents a review of the background and goals of EHRs and describes the major problems that delayed their widespread acceptance. Necessary solutions to the problems are presented in this article. The potential benefits of better EHRs could foster widespread acceptance and use of these systems.

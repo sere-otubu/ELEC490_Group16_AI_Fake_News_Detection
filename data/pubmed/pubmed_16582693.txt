@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rheumatoid arthritis
+TITLE: Early rheumatoid arthritis.
+PMID: 16582693
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16582693/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This review provides novel and updated information on pathogenesis, referral, and clinical characteristics as well as therapeutic approaches in early rheumatoid arthritis. Early referral is important, but new classification criteria for early rheumatoid arthritis need to be elaborated. Predictive markers for rheumatoid arthritis are still confined to autoantibodies; respective algorithms have been presented. Other biomarkers will still have to prove their usefulness. Magnetic resonance imaging and sonography do not appear to sufficiently distinguish between early rheumatoid and nonrheumatoid arthritis. Rheumatoid arthritis has become milder at presentation in recent years. In its very early stages, the cytokine profile reflects T-cell activation and switches to abundant proinflammatory cytokines thereafter. Disease-modifying antirheumatic drugs plus glucocorticoids are highly effective, as is early use of tumor necrosis factor blockers plus methotrexate. Tight control of disease activity and subsequent therapeutic adjustments are highly effective. Disease activity indices that are simple to calculate have been presented and validated. Early intensive therapy may lead to decrease in disability and cost reduction in rheumatoid arthritis. Understanding of early arthritis is increasing, especially in prognostic and therapeutic respects, and new treatment strategies appear to improve the outcome in patients with early arthritis. Nevertheless, much remains to be studied to better address the issue of early rheumatoid arthritis.

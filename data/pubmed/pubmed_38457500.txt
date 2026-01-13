@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cell division meiosis
+TITLE: Induction of somatic cell haploidy by premature cell division.
+PMID: 38457500
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38457500/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Canonical mitotic and meiotic cell divisions commence with replicated chromosomes consisting of two sister chromatids. Here, we developed and explored a model of premature cell division, where nonreplicated, G<sub>0</sub>/G<sub>1</sub>-stage somatic cell nuclei are transplanted to the metaphase cytoplasm of mouse oocytes. Subsequent cell division generates daughter cells with reduced ploidy. Unexpectedly, genome sequencing analysis revealed proper segregation of homologous chromosomes, resulting in complete haploid genomes. We observed a high occurrence of somatic genome haploidization in nuclei from inbred genetic backgrounds but not in hybrids, emphasizing the importance of sequence homology between homologs. These findings suggest that premature cell division relies on mechanisms similar to meiosis I, where genome haploidization is facilitated by homologous chromosome interactions, recognition, and pairing. Unlike meiosis, no evidence of recombination between somatic cell homologs was detected. Our study offers an alternative in vitro gametogenesis approach by directly reprogramming diploid somatic cells into haploid oocytes.

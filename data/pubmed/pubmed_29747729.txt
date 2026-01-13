@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Genetic disorders
+TITLE: Maternal Genetic Disorders in Pregnancy.
+PMID: 29747729
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29747729/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The life expectancy and quality of life of women with genetic disorders continues to improve, resulting in more women reaching reproductive age and desiring fertility. It is becoming increasingly important that obstetricians become familiar with common genetic disorders and their associated risks in pregnancy. The authors review pregnancy in women with various genetic disorders, including review of pregnancy outcomes, management recommendations, and genetic risk assessment. Most data on pregnancies in women with genetic conditions are based on case reports and literature reviews. Additional studies, including pregnancy registries, are needed to improve our understanding and care of this patient population.

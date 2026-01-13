@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood pressure regulation
+TITLE: Accurate blood pressure measuring devices: Influencing users in the 21st century.
+PMID: 30003706
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30003706/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hypertension is now recognized as a major global cause of morbidity and death. All decisions relating to the epidemiology, diagnosis, and management of hypertension are dependent on being able to measure blood pressure accurately. Scientists have developed protocols to assess the accuracy of blood pressure-measuring devices, but little attention has been given to informing users which devices are accurate and inaccurate. This article identifies a recipient audience of researchers, clinicians, and scientists, the public, healthcare executives and administrators, and consumer and regulatory bodies, and discusses how best to communicate the results of device accuracy to these groups with the aim of improving the accurate measurement of blood pressure.

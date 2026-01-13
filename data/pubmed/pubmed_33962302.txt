@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Trauma informed care
+TITLE: Educational Practices for Providers of Trauma-Informed Care: A Scoping Review.
+PMID: 33962302
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33962302/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+As more is learned about trauma and the ways in which trauma informed care (TIC) is provided, it is important to explore the education and training offered to those individuals who provide TIC. This scoping review examined training provided to individuals who interact with persons aged birth to 21 years old who have experienced or are experiencing trauma. The researchers searched six databases and identified 16 peer-reviewed articles in the areas of medicine/nursing, social work, and education published from 2012 to 2019 that met inclusion criteria. Although most training protocols had a similar foundation, the findings from this review suggested that trauma informed care training practices vary across disciplines. As training approaches varied greatly across disciplines, a conclusion on best practice guidelines cannot be stated for the professional environments.

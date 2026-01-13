@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chromosomes
+TITLE: Transchromosomic technology for genomically humanized animals.
+PMID: 32142854
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32142854/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+"Genomically" humanized animals are invaluable tools for generating human disease models and for biomedical research. Humanized animal models have generally been developed via conventional transgenic technologies; however, conventional gene delivery vectors such as viruses, plasmids, bacterial artificial chromosomes, P1 phase-derived artificial chromosomes, and yeast artificial chromosomes have limitations for transgenic animal creation as their loading gene capacity is restricted, and the expression of transgenes is unstable. Transchromosomic (Tc) techniques using mammalian artificial chromosomes, including human chromosome fragments, human artificial chromosomes, and mouse artificial chromosomes, have overcome these limitations. These tools can carry multiple genes or Mb-sized genomic loci and their associated regulatory elements, which has facilitated the creation of more useful and complex transgenic models for human disease, drug development, and humanized animal research. This review describes the history of Tc animal development, the applications of Tc animals, and future prospects.

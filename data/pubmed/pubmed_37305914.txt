@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immune system
+TITLE: The amphibian immune system.
+PMID: 37305914
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37305914/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Amphibians are at the forefront of bridging the evolutionary gap between mammals and more ancient, jawed vertebrates. Currently, several diseases have targeted amphibians and understanding their immune system has importance beyond their use as a research model. The immune system of the African clawed frog, <i>Xenopus laevis</i>, and that of mammals is well conserved. We know that several features of the adaptive and innate immune system are very similar for both, including the existence of B cells, T cells and innate-like T cells. In particular, the study of the immune system at early stages of development is benefitted by studying <i>X. laevis</i> tadpoles. The tadpoles mainly rely on innate immune mechanisms including pre-set or innate-like T cells until after metamorphosis. In this review we lay out what is known about the innate and adaptive immune system of <i>X. laevis</i> including the lymphoid organs as well as how other amphibian immune systems are similar or different. Furthermore, we will describe how the amphibian immune system responds to some viral, bacterial and fungal insults. This article is part of the theme issue 'Amphibian immunity: stress, disease and ecoimmunology'.

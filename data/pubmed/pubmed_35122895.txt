@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antifungals
+TITLE: Antimicrobials and resistance part II: Antifungals, antivirals, and antiparasitics.
+PMID: 35122895
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35122895/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The available antifungal armamentarium consists of only a few drug classes, many limited in their use by significant toxicities and dangerous drug interactions. Rising opportunistic multidrug-resistant pathogens in the last few decades are further limiting available treatment options in life-threatening invasive fungal diseases. Similarly, antiviral resistance, although uncommon in healthy hosts, remains a challenge in immunocompromised patients with a risk for dissemination and severe disease. As evidenced by a dry pipeline, the gravity of antifungal, antiviral, and antiparasitic resistance has yet to draw the same attention as antibacterial resistance. Resistance disproportionately affects immunocompromised and vulnerable hosts, underscoring the urgent need to develop novel therapeutics. Antifungals, antiparasitics, and antivirals of main significance will be reviewed here, along with resistance concerns and some therapeutic agents under investigation.

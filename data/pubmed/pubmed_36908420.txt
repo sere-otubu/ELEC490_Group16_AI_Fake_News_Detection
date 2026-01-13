@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Doctor patient communication
+TITLE: Patient satisfaction impact indicators from a psychosocial perspective.
+PMID: 36908420
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36908420/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Patient satisfaction plays an important role in improving patient behavior from care, reducing healthcare costs, and improving outcomes. However, since patient satisfaction is a multidimensional concept, it remains unclear which factors are the key indicators of patient satisfaction. The purpose of this study was to verify whether and how patients' psychosocial perceptions of physicians influenced patient satisfaction. In China, 2,256 patients were surveyed on stereotypes of physicians, institutional trust, humanized perception, and communication skills, as well as patient expectations and patient satisfaction. The data were analyzed using structural equation modeling. Stereotypes, institutional trust, and humanized perception have an indirect effect on patient satisfaction through communication, and patient expectations have a direct effect on patient satisfaction. "Patient-centered" communication is the key to improving patient satisfaction, while positive stereotypes at the societal level, standardization of organizational institutions, expression of the doctor's view of humanity in the doctor-patient interaction, and reasonable guidance of patient expectations are important for improving patient satisfaction.

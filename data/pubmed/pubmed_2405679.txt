@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cushings syndrome
+TITLE: Cushing's syndrome and pregnancy.
+PMID: 2405679
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2405679/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Pregnancy is a rare occurrence in women with Cushing's syndrome. Amenorrhea or oligomenorrhea occurs in about 75% of premenopausal women with Cushing's syndrome as a result of suppression of gonadotrophin secretion primarily by excess glucocorticoids. We have reviewed pregnancies in women with Cushing's syndrome (63 cases from the literature and four cases of our own). Since pregnant women without Cushing's syndrome develop some features of Cushing's syndrome, such as hypertension, hyperglycemia, and striae, a high index of clinical suspicion must be maintained to prevent delay in diagnosis. The physiologic changes in adrenocorticosteroid metabolism during pregnancy further complicate the diagnosis. Maternal and fetal risks increase markedly when pregnancy does occur in women with hypercortisolism. However, the wide spectrum of severity of the disease mandates an individualized approach to the therapy in each case.

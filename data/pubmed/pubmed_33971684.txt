@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Deep vein thrombosis
+TITLE: Upper Extremity Deep Vein Thrombosis: Current Knowledge and Future Directions.
+PMID: 33971684
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33971684/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Upper extremity deep vein thrombosis (UEDVT) has been increasing in incidence due to the escalating use of central venous catheters such as peripherally inserted central catheters. UEDVT can be primary idiopathic or secondary to pacemaker leads, intravascular catheters or cancer. In comparison to conventional venous thromboembolism such as lower limb deep vein thrombosis or pulmonary embolism the risk factors, investigations, and management are not well defined. We review current evidence in primary and secondary UEDVT, highlighting areas in need of further research. We also explore the entity of venous thoracic outlet syndrome, which is said to be a risk factor for recurrent primary UEDVT and is the rationale behind surgical interventions.

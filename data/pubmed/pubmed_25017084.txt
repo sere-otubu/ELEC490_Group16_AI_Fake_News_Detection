@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immunosuppressants
+TITLE: Immunosuppression: trends and tolerance?
+PMID: 25017084
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25017084/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Advances in pharmacologic immunosuppression are responsible for the excellent outcomes experienced by recipients of liver transplants. However, long-term follow-up of these patients reveals an increasing burden of morbidity and mortality that is attributable to these drugs. The authors summarize the agents used in contemporary liver transplantation immunosuppression protocols and discuss the emerging trend within the community to minimize or eliminate these agents from use. The authors present recently published data that may provide the foundation for immunosuppression minimization or tolerance induction in the future and review studies that have focused on the utility of biomarkers in guiding immunosuppression management.

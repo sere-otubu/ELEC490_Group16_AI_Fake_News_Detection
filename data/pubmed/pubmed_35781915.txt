@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Organ transplant
+TITLE: Perioperative antibiotic stewardship in the organ transplant setting.
+PMID: 35781915
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35781915/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Solid organ transplant (SOT) recipients can benefit from traditional antimicrobial stewardship (AMS) activities directed to improve judicious perioperative prescribing and management, but evidence is lacking. The aim of this expert opinion review is to provide an update on the current landscape of application of AMS practices for optimization of perioperative prophylaxis (PP). We reviewed the available literature on early postoperative infectious complications in SOT and PP management, on modified perioperative approaches in case of infection or colonization in recipients and donors and on AMS in transplantation PP. SOT recipients are at high risk for early postoperative infectious complications due to the complexity of surgical procedures, severity of end stage organ disease, net state of immunosuppression in the posttransplant period and to the high risk for multidrug resistant organism. Moreover, SOT may be exposed to preservation fluid infections and expected or unexpected donor-derived infections. We summarize main factors to take into account when prescribing transplant PP. Creating personalized PP to avoid unwanted consequences of antimicrobials while improving outcomes is an emerging and critical aspect in SOT setting. Further studies are needed to offer best PP tailored to SOT type and to evaluate interventions efficacy and safety.

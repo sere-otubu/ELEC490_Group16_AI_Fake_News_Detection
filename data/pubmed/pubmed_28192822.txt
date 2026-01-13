@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tinnitus
+TITLE: [Tinnitus - Clinical Symptoms and Therapy].
+PMID: 28192822
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28192822/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Tinnitus is a phantom sound that can be a symptom of various disorders such as hearing loss, cardiovascular diseases, neurological disorders, diabetes or tumors. Because of the inability to divert the auditory attention from tinnitus sound, patients suffer with insomnia, problems with concentration and other psychological conditions, in some extreme cases including major depression symptoms. The auditory character of tinnitus induces the patients to seek help predominantly at the otolaryngologist practice. The first aim of a physician is to establish the cause of tinnitus and to measure its audiological properties. The second aim is to estimate the tinnitus-induced distress and to grade its psychological severity. This manuscript is dedicated to describe the audiological as well as psychological properties of tinnitus, its contemporary classification and the therapeutic methods used in the field.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immunotherapy
+TITLE: Immunotherapy-Related Acute Kidney Injury.
+PMID: 35190109
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35190109/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Nephrotoxicity associated with immunotherapy is increasingly being encountered in clinical practice. Drugs that augment the immune system to eradicate cancer are revolutionary in the field of oncology. Older generation immunotherapies such as high-dose interleukin and interferon-alpha are now being replaced with more effective immune checkpoint inhibitors and chimeric antigen receptor T-cell therapies, which have shown promising results in numerous clinical trials. Unfortunately, these treatments come with a unique baggage of adverse effects including nephrotoxicity. This onconephrology review summarizes the immunotherapies currently in use and their kidney-related toxicities, pathophysiology, and their management.

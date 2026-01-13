@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Maternal mortality rates
+TITLE: Maternal mortality.
+PMID: 22459982
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22459982/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This review summarizes recent developments in maternal mortality surveillance, and draws from recent confidential mortality reports to suggest ways the anesthesiologist can contribute to safer systems of care. Maternal mortality rates appear to be static in much of the developed world, but are increasing in the USA. While improvements in ascertainment explain some of these trends, deferred childbearing, increasing population rates of coexisting disease, multifetal pregnancy, and emerging infections also contribute. Risk is markedly elevated among certain racial and ethnic minorities, due to a confluence of factors that includes behavior, biology, environmental exposures, social circumstances, and the quality of clinical care. Approximately 30-40% of maternal deaths are potentially preventable, and recent maternal mortality reviews suggest specific strategies that may improve outcomes for women suffering from the most common causes of death: cardiovascular disease, hemorrhage, hypertensive disorders of pregnancy, venous thromboembolism, infection, and other medical conditions. A growing number of countries and organizations have established systems for comprehensive maternal death surveillance and confidential review to ensure that each death counts and that the lessons learned are widely disseminated to improve future maternal safety.

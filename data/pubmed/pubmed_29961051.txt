@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Obesity prevention
+TITLE: Prevention Models of Childhood Obesity in Sweden.
+PMID: 29961051
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29961051/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The impact of childhood obesity on the Swedish Health Care system is described. Childhood Obesity and Diabetes Type 2 is increasing for the last 10 years, but not Diabetes Type 1. Thus, prevention is needed. How to define prevention of obesity? Could treatment of childhood obesity be regarded as prevention of adult obesity? Of course it could, but we are lacking a long term follow-up from childhood to adulthood. However, we know that childhood obesity is a risk factor for adult disease. But we need long-lasting results in children to being able to state that we have prevented adult obesity. What about treatment of children with overweight, i.e. defined as the less severe level of an increased body weight as opposed to obesity? There are few if any studies restricting the treatment only to overweight children. Normally, obese children are treated, and some overweight children are added usually to increase the study sample. Then of course promotion of a healthy lifestyle could be of major interest. Finally, the traditional concept of primary prevention seems to be the only solution that is realistic according to many. However, there is no clear pattern when primary prevention works.

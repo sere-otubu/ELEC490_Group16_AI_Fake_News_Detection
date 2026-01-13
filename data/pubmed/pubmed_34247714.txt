@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Traumatic brain injury
+TITLE: Mild Traumatic Brain Injury in Children.
+PMID: 34247714
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34247714/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Mild traumatic brain injury accounts for an estimated 4.8 million cases of pediatric traumatic brain injuries worldwide every year. In the United States, 70% of mild traumatic brain injury cases are due to sports and recreational injuries. Early diagnosis, especially in active children, is critical to preventing recurrent injuries. Management is guided by graded protocols for returning to school and activity. Ninety percent of children recover within 1 month of injury. Promising research has shown that early referral to specialty concussion care and multidisciplinary treatment with physical and occupational therapy may shorten recovery time and improve neurologic outcomes.

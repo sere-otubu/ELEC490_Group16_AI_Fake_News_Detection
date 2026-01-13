@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Platelets
+TITLE: Platelets and platelet-leukocyte interactions in infectious diseases.
+PMID: 40667838
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40667838/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Platelets are essential effector cells in the immune continuum. Understanding platelet roles during infectious diseases is paramount to understanding pathological and protective immune responses. In this review, we compiled recent data about platelets in immune response to infectious diseases. Platelets recognize and respond to pathogens, including viruses, bacteria and parasites, contributing to the assembly of the immune response. Platelet activation and platelet-leukocyte aggregates formation have been observed in naturally infected humans and in experimental models of diseases. In this review we discuss recent findings on the mechanisms and outcomes of platelet activation and platelet-leukocyte interaction in infectious diseases and response to vaccine. Pathogens may modulate platelet response to escape immune surveillance, but platelets still contribute to host defense. We compiled evidence of platelet mediated-pathological responses, but also their contributions to pathogen clearance. We focused on the participation of platelets in pathophysiological and protective responses in infectious diseases of global impact such as COVID-19, HIV-1, viral hemorrhagic fevers, bacterial sepsis and parasite infections. Platelets contribute to protective and pathological responses by regulating innate and adaptive immunity through activation, hyperaggregability and directly interacting with pathogens. Even though many mechanisms underlying platelet roles in infectious disease have been revealed, much remains to be investigated.

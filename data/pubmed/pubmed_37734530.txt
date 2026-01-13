@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Skin cancer prevention
+TITLE: Skin cancer prevention - Recent advances and unmet challenges.
+PMID: 37734530
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37734530/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cutaneous squamous cell carcinoma (cSCC) is the second most common malignancy in the world. Among many identified risk factors, immunosuppression is a major factor that contributes to cSCC development. Organ transplant recipients (OTRs) are at markedly increased risk of developing multiple cSCCs with a propensity for advanced metastatic disease, leading to significant morbidity and mortality. The severity of the cSCC phenotype in OTRs highlights the urgent need to identify effective preventive modalities in this population. Despite recent advances in skin cancer prevention (e.g., nicotinamide) and treatment (e.g., immune checkpoint blockade), these modalities have limited utility in OTRs due to the lack of efficacy or significant side effect. Topical treatments against precancerous skin lesions, actinic keratosis (AK), remain the primary strategy to prevent cSCC in OTRs, which also have significant deficiencies in this population. Herein, we review the epidemiology, risk factors, and current cSCC prevention strategies. We highlight the gaps and future clinical strategies to address cSCC risk in high-risk populations.

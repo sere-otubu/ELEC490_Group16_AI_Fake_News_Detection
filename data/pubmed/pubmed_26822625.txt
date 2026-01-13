@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Robotic surgery
+TITLE: Robotic Surgery for Thoracic Disease.
+PMID: 26822625
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26822625/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Robotic surgeries have developed in the general thoracic field over the past decade, and publications on robotic surgery outcomes have accumulated. However, controversy remains about the application of robotic surgery, with a lack of well-established evidence. Robotic surgery has several advantages such as natural movement of the surgeon's hands when manipulating the robotic arms and instruments controlled by computer-assisted systems. Most studies have reported the feasibility and safety of robotic surgery based on acceptable morbidity and mortality compared to open or video-assisted thoracic surgery (VATS). Furthermore, there are accumulated data to indicate longer operation times and shorter hospital stay in robotic surgery. However, randomized controlled trials between robotic and open or VATS procedures are needed to clarify the advantage of robotic surgery. In this review, we focused the literature about robotic surgery used to treat lung cancer and mediastinal tumor.

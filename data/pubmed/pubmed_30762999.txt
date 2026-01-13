@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vitamin D deficiency
+TITLE: [Vitamin D deficiency and rickets : screening and treatment, practical aspects for clinicians].
+PMID: 30762999
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30762999/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Vitamin D deficiency is increasing in Switzerland. If cases of rickets are scarce, pediatricians are often dealing with patients presenting vitamin D deficiency. The increase in vitamin D deficiency is certainly due to modification of life habits in recent decades. Clinical presentation varies according to age and severity of deficit. Treatments differ based on the level of vitamin D deficiency and symptoms. Vitamin D deficiency rickets is the most common cause of rickets and is predominantly seen in patients with risks factors They are other types of rickets like pseudo-vitamin D deficiency and hypophosphatemic rickets that the clinician needs to recognize. In which situation should the clinician suspect vitamin D deficiency or rickets ? Different types of rickets and practical aspects of treatment are reviewed in this article.

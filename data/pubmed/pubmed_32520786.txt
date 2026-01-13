@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Organ transplant
+TITLE: Precision transplant pathology.
+PMID: 32520786
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32520786/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Transplant pathology contributes substantially to personalized treatment of organ allograft recipients. Rapidly advancing next-generation human leukocyte antigen (HLA) sequencing and pathology are enhancing the abilities to improve donor/recipient matching and allograft monitoring. The present review summarizes the workflow of a prototypical patient through a pathology practice, highlighting histocompatibility assessment and pathologic review of tissues as areas that are evolving to incorporate next-generation technologies while emphasizing critical needs of the field. Successful organ transplantation starts with the most precise pratical donor-recipient histocompatibility matching. Next-generation sequencing provides the highest resolution donor-recipient matching and enables eplet mismatch scores and more precise monitoring of donor-specific antibodies (DSAs) that may arise after transplant. Multiplex labeling combined with hand-crafted machine learning is transforming traditional histopathology. The combination of traditional blood/body fluid laboratory tests, eplet and DSA analysis, traditional and next-generation histopathology, and -omics-based platforms enables risk stratification and identification of early subclinical molecular-based changes that precede a decline in allograft function. Needs include software integration of data derived from diverse platforms that can render the most accurate assessment of allograft health and needs for immunosuppression adjustments.

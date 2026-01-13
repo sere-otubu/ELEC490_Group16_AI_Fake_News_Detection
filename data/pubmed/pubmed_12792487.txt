@@ -1,0 +1,8 @@
+SEARCH_TOPIC: LASIK surgery
+TITLE: LASIK after epikeratophakia.
+PMID: 12792487
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12792487/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To present a case of successful laser in situ keratomileusis (LASIK) performed on a patient with residual hyperopic astigmatism and symptomatic anisometropia after previous epikeratoplasty (epikeratophakia). LASIK was used successfully to treat hyperopic astigmatism after regression of epikeratophakia performed 16 years earlier. Visual acuity improved to 20/30 without correction, and best-corrected visual acuity was 20/25 at the 3-month postoperative visit. LASIK can be used successfully as an alternative treatment to correct residual refractive error after epikeratoplasty.

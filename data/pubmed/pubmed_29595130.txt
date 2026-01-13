@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Prenatal testing
+TITLE: Verification bias.
+PMID: 29595130
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29595130/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article is part of the Catalogue of Bias series. We present a description of verification bias, and outline its potential impact on research studies and the preventive steps to minimise its risk. We also present teaching slides in the online supplementary file. Verification bias (sometimes referred to as 'work-up bias') concerns the test(s) used to confirm a diagnosis within a diagnostic accuracy study. Verification bias occurs when only a proportion of the study participants receive confirmation of the diagnosis by the reference standard test, or if some participants receive a different reference standard test.

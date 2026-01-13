@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Genetic disorders
+TITLE: Root resorptions induced by genetic disorders: A systematic review.
+PMID: 38566363
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38566363/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Root resorption in permanent teeth is a common pathological process that often follows dental trauma or orthodontic treatment. More rarely, root resorption is a feature of genetic disorders and can help with diagnosis. Thus, the present review aims to determine which genetic disorders could induce pathological root resorptions and thus which mutated genes could be associated with them. We conducted a systematic review following the PRISMA guidelines. Articles describing root resorptions in patients with genetic disorders were included from PubMed, Embase, Web of Science, and Google Scholar. We synthesized the genetic disorder, the type, severity, and extent of the resorptions, as well as the other systemic and oral symptoms and histological features. The synthetic analysis included 25 studies among 937 identified records. We analyzed 21 case reports, three case series, and one cohort study. Overall, we highlighted 14 different pathologies with described root resorptions. Depending on the pathology, the sites of resorption, their extent, and their severity showed differences. With 14 genetic pathologies suspected to induce root resorptions, our findings are significant and enrich a previous classification. Among them, three metabolic disorders, three calcium-phosphorus metabolism disorders, and osteolysis disorders were identified.

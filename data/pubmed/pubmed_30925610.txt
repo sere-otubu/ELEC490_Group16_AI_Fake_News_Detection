@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dementia
+TITLE: A Comprehensive Update on Treatment of Dementia.
+PMID: 30925610
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30925610/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Treatment of dementias represents an important but relatively neglected part of neurological care of the elderly population. Individual therapeutic interventions may make only small changes to the quality of life of individuals afflicted with dementia, but when used in combination these interventions synergize and can make a significant difference. Additionally, given the societal scale of the problem of dementia care, the overall impact, in economic and sociological terms, of such therapies is of consequence. Presently there are no disease-modifying treatments for any of the neurodegenerative dementias. Instead, the clinician has several therapeutic tools to mitigate cognitive and behavioral consequences of dementias. There are also strategies to minimize harm to patients with dementia. In this article, we aim to review these tools and place them in the greater context of dementia care.

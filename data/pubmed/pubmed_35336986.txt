@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ebola virus
+TITLE: Therapeutic Strategies against Ebola Virus Infection.
+PMID: 35336986
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35336986/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Since the 2014-2016 epidemic, Ebola virus (EBOV) has spread to several countries and has become a major threat to global health. EBOV is a risk group 4 pathogen, which imposes significant obstacles for the development of countermeasures against the virus. Efforts have been made to develop anti-EBOV immunization and therapeutics, with three vaccines and two antibody-based therapeutics approved in recent years. Nonetheless, the high fatality of Ebola virus disease highlights the need to continuously develop antiviral strategies for the future management of EBOV outbreaks in conjunction with vaccination programs. This review aims to highlight potential EBOV therapeutics and their target(s) of inhibition, serving as a summary of the literature to inform readers of the novel candidates available in the continued search for EBOV antivirals.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Heart failure
+TITLE: Congestive Heart Failure in Children.
+PMID: 30709972
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30709972/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Congestive heart failure is a final common clinical pathway for several diseases in childhood, such as familial cardiomyopathy, viral myocarditis, inborn errors of metabolism, and autoimmune disorders. Early identification and treatment can reduce symptom severity and may affect outcomes. In this review, the clinical characteristics of pediatric heart failure are described, and the initial diagnostic evaluation is outlined. Evidence-based heart failure treatment strategies at various clinical stages are discussed in detail, including the management of acute decompensated heart failure.

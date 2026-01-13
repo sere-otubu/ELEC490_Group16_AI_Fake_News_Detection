@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Parkinsons disease
+TITLE: The history of Parkinson's disease: early clinical descriptions and neurological therapies.
+PMID: 22229124
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22229124/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although components of possible Parkinson's disease can be found in very early documents, the first clear medical description was written in 1817 by James Parkinson. In the mid-1800s, Jean-Martin Charcot was particularly influential in refining and expanding this early description and in disseminating information internationally about Parkinson's disease. He separated Parkinson's disease from multiple sclerosis and other disorders characterized by tremor, and he recognized cases that later would likely be classified among the Parkinsonism-plus syndromes. Early treatments of Parkinson's disease were based on empirical observation, and anticholinergic drugs were used as early as the nineteenth century. The discovery of dopaminergic deficits in Parkinson's disease and the synthetic pathway of dopamine led to the first human trials of levodopa. Further historically important anatomical, biochemical, and physiological studies identified additional pharmacological and neurosurgical targets for Parkinson's disease and allow modern clinicians to offer an array of therapies aimed at improving function in this still incurable disease.

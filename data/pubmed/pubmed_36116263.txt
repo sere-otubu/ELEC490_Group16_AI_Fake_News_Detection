@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urban health issues
+TITLE: Indicators for climate change-driven urban health impact assessment.
+PMID: 36116263
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36116263/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Climate change can cause multiply potential health issues in urban areas, which is the most susceptible environment in terms of the presently increasing climate volatility. Urban greening strategies make an important part of the adaptation strategies which can ameliorate the negative impacts of climate change. It was aimed to study the potential impacts of different kinds of greenings against the adverse effects of climate change, including waterborne, vector-borne diseases, heat-related mortality, and surface ozone concentration in a medium-sized Hungarian city. As greening strategies, large and pocket parks were considered, based on our novel location identifier algorithm for climate risk minimization. A method based on publicly available data sources including satellite pictures, climate scenarios and urban macrostructure has been developed to evaluate the health-related indicator patterns in cities. The modelled future- and current patterns of the indicators have been compared. The results can help the understanding of the possible future state of the studied indicators and the development of adequate greening strategies. Another outcome of the study is that it is not the type of health indicator but its climate sensitivity that determines the extent to which it responds to temperature rises and how effective greening strategies are in addressing the expected problem posed by the factor.

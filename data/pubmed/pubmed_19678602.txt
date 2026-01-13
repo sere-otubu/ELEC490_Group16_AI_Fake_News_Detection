@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Trans fats risks
+TITLE: Dietary fatty acids.
+PMID: 19678602
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19678602/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Fatty acids can be divided into four general categories: saturated, monounsaturated, polyunsaturated, and trans fats. Saturated fatty acids and trans fats are associated with an increased risk of coronary heart disease. Monounsaturated fatty acids and polyunsaturated fatty acids are associated with a decreased risk of coronary heart disease, although these associations are not uniformly supported in the literature. Omega-3 fatty acids, which are a type of polyunsaturated fatty acid, have been studied as potential therapy for a variety of medical conditions because of their suspected anti-inflammatory properties. Omega-3 fatty acids have also been shown to provide some benefit to patients with cystic fibrosis, and may have a protective effect against dementia. Physicians should counsel patients about the importance of avoiding hydrogenated oils and foods containing trans fats because of their association with coronary heart disease in observational studies.

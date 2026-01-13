@@ -1,0 +1,8 @@
+SEARCH_TOPIC: ACE inhibitors
+TITLE: Nitrendipine and ACE inhibitors.
+PMID: 2468881
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2468881/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There is evidence from several studies of the clinical usefulness of an antihypertensive regimen combining a calcium antagonist and an angiotensin converting enzyme (ACE) inhibitor. The mechanisms of this mutual potentiation between agents of these two classes are probably numerous. First, dihydropyridines cause a variable amount of reflex sympathetic activation, whereas ACE inhibitors blunt sympathetic activity at different central and peripheral levels. Second, dihydropyridines produce an almost exclusive arteriolar dilatation, and a more balanced arteriolar and venous dilatation might result from their association with an ACE inhibitor. Finally, stimulation of renin release and the consequent generation of angiotensin II are facilitated by dihydropyridines, and this increased generation of angiotensin II can be blocked by ACE inhibition. More limited information is available on the doses of calcium antagonist and ACE inhibitor that are best suited for combined therapy. Careful studies should be performed to compare the dose-response curves of either agent to be combined and of possible dose combinations, particularly if combinations of agents of the two classes are planned in the same tablet.

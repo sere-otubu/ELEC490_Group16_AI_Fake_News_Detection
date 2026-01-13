@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Contraception methods
+TITLE: Contraception for high risk patients.
+PMID: 32624199
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32624199/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In the context of medically complicated pregnancies, a "high risk patient" is an individual who is at increased risk for having a complicated pregnancy. These patients often experience limited contraceptive counseling and access, despite the fact that most effective contraceptive methods are associated with less risk than that of pregnancy. Free evidence-based resources are available to assist healthcare providers in discerning fact from myth about the risks of contraception. This review covers all available contraceptive methods, with particular focus on the benefits, risks, and attributes most relevant to high risk patients as well as the benefits and risks of initiating contraception post-pregnancy.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Placebo effect
+TITLE: The neurobiology under the placebo effect.
+PMID: 31347615
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31347615/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The placebo effect is a phenomenon of great scientific interest that affects the response in both inactive and active treatments. It is broadly understood as the product of a central integration of positive expectations, reward learning and continuous conditioning inducing physiological changes in the brain. The placebo effect is accepted as a phenomenon which can be harnessed in clinical practice. It has emerged that there is not a single neurobiological mechanism involved in placebo responses, but many depending on the underlying disease. Molecular neuroimaging techniques with positron emission tomography and selective radiotracers have been significant in the understanding of the neurobiological systems involved in the placebo effect. The aim of this review was to summarize the key findings relating to the neurobiology behind the placebo effect.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gene expression
+TITLE: (Differential) Co-Expression Analysis of Gene Expression: A Survey of Best Practices.
+PMID: 30668502
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30668502/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Analysis of gene expression data is widely used in transcriptomic studies to understand functions of molecules inside a cell and interactions among molecules. Differential co-expression analysis studies diseases and phenotypic variations by finding modules of genes whose co-expression patterns vary across conditions. We review the best practices in gene expression data analysis in terms of analysis of (differential) co-expression, co-expression network, differential networking, and differential connectivity considering both microarray and RNA-seq data along with comparisons. We highlight hurdles in RNA-seq data analysis using methods developed for microarrays. We include discussion of necessary tools for gene expression analysis throughout the paper. In addition, we shed light on scRNA-seq data analysis by including preprocessing and scRNA-seq in co-expression analysis along with useful tools specific to scRNA-seq. To get insights, biological interpretation and functional profiling is included. Finally, we provide guidelines for the analyst, along with research issues and challenges which should be addressed.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Carbohydrates types
+TITLE: Coming of age: carbohydrates and immunity.
+PMID: 15682450
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15682450/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Adaptive immune responses have long been considered the "territory" of antigenic proteins, whereas carbohydrates are characterized as T-cell-independent antigens that are not typically recognized by the complete adaptive machinery. The current modus operandi when searching for dominant epitopes is the use of synthetic peptides designed from the primary structure of interesting target proteins; however, there is growing evidence that sugars can also play a critical role in immune recognition. Findings reported in this issue of the European Journal of Immunology begin to shed light on the differences in protein glycosylation that can occur in association with disorders like rheumatoid arthritis and the effect these changes have on collagen recognition by the immune system. Other recent studies have shown that immunodominant glycopeptide "remnant" epitopes as well as glycosylation changes on self-proteins can generate autoimmunity. Finally, some types of carbohydrates are now known to be processed and presented to T cells by class II MHC. Taken together, these advances illustrate a clear importance for carbohydrate recognition in foreign and self antigens by the adaptive immune system. With the common presence of carbohydrate molecules on eukaryotic, prokaryotic, and viral surfaces, the impact of carbohydrates on adaptive immunity is now indisputable.

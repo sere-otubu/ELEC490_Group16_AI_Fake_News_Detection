@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Radiation therapy
+TITLE: Radiation therapy for WHO grade I meningioma.
+PMID: 28758408
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28758408/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Maximal safe resection has long been the cornerstone of treatment for WHO grade I benign meningioma. However, as technology for both imaging and radiation delivery has advanced, radiation therapy has played an increasingly important role in the management of patients with WHO grade I meningioma. Radiation therapy, whether delivered as standard fractionated treatment over several weeks, stereotactic radiosurgery over 1 session, or multisession stereotactic radiation therapy, has been shown to provide excellent local control when used as an adjunct to surgery or as primary treatment. Here, we review the indications for radiation therapy for patients with WHO grade I meningioma, as well as the various techniques that have been developed. We also review the toxicities and late effects associated with treatment.

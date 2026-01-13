@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pain management
+TITLE: Perioperative Pain Management in Hand and Upper Extremity Surgery.
+PMID: 32115058
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32115058/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Perioperative pain management in surgery of the hand and upper extremity relies on a multimodal approach involving systemic, local, and presurgical considerations. A pain management plan should be tailored to each patient. Management of pain of patients undergoing upper extremity surgery begins before surgical intervention and continues postoperatively. Patient education, setting expectations, psychological interventions, and addressing risk factors associated with postoperative pain are critical to successful pain management. Intraoperative anesthesia is accomplished via a variety of means. Cryotherapy, transcutaneous electrical nerve stimulation, acupuncture, massage, and localized heat are used in concert with pharmacologic therapies postoperatively to continue pain management.

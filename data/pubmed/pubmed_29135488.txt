@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Down syndrome
+TITLE: Endocrine manifestations of Down syndrome.
+PMID: 29135488
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29135488/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To summarize the recent developments in endocrine disorders associated with Down syndrome. Current research regarding bone health and Down syndrome continues to show an increased prevalence of low bone mass and highlights the importance of considering short stature when interpreting dual energy x-ray absorptiometry. The underlying cause of low bone density is an area of active research and will shape treatment and preventive measures. Risk of thyroid disease is present throughout the life course in individuals with Down syndrome. New approaches and understanding of the pathophysiology and management of subclinical hypothyroidism continue to be explored. Individuals with Down syndrome are also at risk for other autoimmune conditions, with recent research revealing the role of the increased expression of the Autoimmune Regulatory gene on 21st chromosome. Lastly, Down-syndrome-specific growth charts were recently published and provide a better assessment of growth. Recent research confirms and expands on the previously known endocrinopathies in Down syndrome and provides more insight into potential underlying mechanisms.

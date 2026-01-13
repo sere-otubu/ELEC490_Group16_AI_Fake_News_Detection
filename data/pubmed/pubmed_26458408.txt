@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Basal cell carcinoma
+TITLE: Trends in Non-Melanoma Skin Cancer (Basal Cell Carcinoma and Squamous Cell Carcinoma) in Canada: A Descriptive Analysis of Available Data.
+PMID: 26458408
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26458408/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Despite its increased incidence and status as the most prevalent cancer in Canada, there is a paucity of epidemiological data on non-melanoma skin cancer (NMSC). To assess trends of keratinocyte carcinomas (KC) in Canada over 5 decades. Articles published from 1960 to 2015 on NMSC in Canada were identified through MEDLINE. Six articles met our search criteria. Overall, KC has increased. However, the rate of increase in the past decade has slowed down and decreased in younger age cohorts. Men had higher incidences of KC. In both sexes, the basal cell carcinoma and squamous cell carcinoma ratio was ≥2.5:1. Keratinocyte carcinomas were most commonly located on the head and neck, and increasing rates are occurring on the trunk. The methods of registering skin cancer cases vary among different provinces. Keratinocyte carcinomas incidence is overall increasing; however, there may be evidence that the incidence is leveling off and decreasing in younger age cohorts.

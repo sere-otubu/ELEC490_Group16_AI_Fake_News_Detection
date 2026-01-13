@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Reproductive system
+TITLE: Revolutionizing the female reproductive system research using microfluidic chip platform.
+PMID: 38111049
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38111049/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Comprehensively understanding the female reproductive system is crucial for safeguarding fertility and preventing diseases concerning women's health. With the capacity to simulate the intricate physio- and patho-conditions, and provide diagnostic platforms, microfluidic chips have fundamentally transformed the knowledge and management of female reproductive health, which will ultimately promote the development of more effective assisted reproductive technologies, treatments, and drug screening approaches. This review elucidates diverse microfluidic systems in mimicking the ovary, fallopian tube, uterus, placenta and cervix, and we delve into the culture of follicles and oocytes, gametes' manipulation, cryopreservation, and permeability especially. We investigate the role of microfluidics in endometriosis and hysteromyoma, and explore their applications in ovarian cancer, endometrial cancer and cervical cancer. At last, the current status of assisted reproductive technology and integrated microfluidic devices are introduced briefly. Through delineating the multifarious advantages and challenges of the microfluidic technology, we chart a definitive course for future research in the woman health field. As the microfluidic technology continues to evolve and advance, it holds great promise for revolutionizing the diagnosis and treatment of female reproductive health issues, thus propelling us into a future where we can ultimately optimize the overall wellbeing and health of women everywhere.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cholera
+TITLE: Contrasting Epidemiology of Cholera in Bangladesh and Africa.
+PMID: 34549788
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34549788/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In Bangladesh and West Bengal cholera is seasonal, transmission occurs consistently annually. By contrast, in most African countries, cholera has inconsistent seasonal patterns and long periods without obvious transmission. Transmission patterns in Africa occur during intermittent outbreaks followed by elimination of that genetic lineage. Later another outbreak may occur because of reintroduction of new or evolved lineages from adjacent areas, often by human travelers. These then subsequently undergo subsequent elimination. The frequent elimination and reintroduction has several implications when planning for cholera's elimination including: a) reconsidering concepts of definition of elimination, b) stress on rapid detection and response to outbreaks, c) more effective use of oral cholera vaccine and WASH, d) need to readjust estimates of disease burden for Africa, e) re-examination of water as a reservoir for maintaining endemicity in Africa. This paper reviews major features of cholera's epidemiology in African countries which appear different from the Ganges Delta.

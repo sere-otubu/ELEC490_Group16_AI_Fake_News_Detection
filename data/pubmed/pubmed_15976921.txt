@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dissociative disorders
+TITLE: [Dissociative disorders].
+PMID: 15976921
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15976921/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There are problems with dissociative and conversion disorders with respect to classification, diagnosis, and therapeutic strategies which can only be understood in the historic context of hysteria. Even current diagnostic systems such as the DSM-IV and ICD-10 differ in the classification of such disorders. High prevalence rates ranging from 3% in the general population to 30% in clinical samples underscore their clinical relevance, and traumatic experiences play a major role in the pathogenesis. High rates of comorbid psychiatric disorders, the tendency to chronicity, and concepts of somatization (particularly in patients with conversion disorders) complicate psychotherapeutic approaches. Depending on the treatment goals, both psychodynamic and cognitive-behavioral methods can be applied, supplemented by specific techniques from trauma therapy, e.g. EMDR.

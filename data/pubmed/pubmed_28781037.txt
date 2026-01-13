@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Evidence based medicine
+TITLE: Evidence-Based Advances in Reptile Medicine.
+PMID: 28781037
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28781037/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Evidence-based medicine allows veterinarians to practice high-quality medicine, because the basis for all decision making is quantitative, objective, and reproducible. Case reports and case series are limited in their scope and application. Cross-sectional studies, likewise, cannot provide answers to specific variable testing with a temporal application. It is essential for the reptile specialty to expand into case-control studies, cohort studies, and experimental/intervention studies. Unfortunately, much of the reptile literature remains limited to descriptive studies. This article reviews current evidence-based topics in reptile medicine and shares how everyone practicing in the field can contribute to improving this specialty.

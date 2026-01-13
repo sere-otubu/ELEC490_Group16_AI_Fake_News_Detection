@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Intermittent fasting
+TITLE: The Effect of Intermittent Fasting on Appetite: A Systematic Review and Meta-Analysis.
+PMID: 37299567
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37299567/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Previously, narrative reviews have considered the effects of intermittent fasting on appetite. One suggestion is that intermittent fasting attenuates an increase in appetite that typically accompanies weight loss. Here, we conducted the first systematic review and meta-analysis to quantify the effects of intermittent fasting on appetite, when compared to a continuous energy restriction intervention. Five electronic databases and trial registers were searched in February 2021 and February 2022. Abstracts (N = 2800) were screened and 17 randomized controlled trials (RCTs), consisting of a variety of intermittent fasting regimes, met our inclusion criteria. The total number of participants allocated to interventions was 1111 and all RCTs were judged as having either some concerns or a high risk of bias (Cochrane RoB 2.0 tool). Random effects meta-analyses were conducted on change-from-baseline appetite ratings. There was no clear evidence that intermittent fasting affected hunger (WMD = -3.03; 95% CI [-8.13, 2.08]; <i>p</i> = 0.25; N = 13), fullness (WMD = 3.11; 95% CI [-1.46, 7.69]; <i>p</i> = 0.18; N = 10), desire to eat (WMD = -3.89; 95% CI [-12.62, 4.83]; <i>p</i> = 0.38; N = 6), or prospective food consumption (WMD = -2.82; 95% CI [-3.87, 9.03]; <i>p</i> = 0.43; N = 5), differently to continuous energy restriction interventions. Our results suggest that intermittent fasting does not mitigate an increase in our drive to eat that is often associated with continuous energy restriction.

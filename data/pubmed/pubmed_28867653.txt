@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Schizophrenia
+TITLE: Comprehensive review: Computational modelling of schizophrenia.
+PMID: 28867653
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28867653/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Computational modelling has been used to address: (1) the variety of symptoms observed in schizophrenia using abstract models of behavior (e.g. Bayesian models - top-down descriptive models of psychopathology); (2) the causes of these symptoms using biologically realistic models involving abnormal neuromodulation and/or receptor imbalance (e.g. connectionist and neural networks - bottom-up realistic models of neural processes). These different levels of analysis have been used to answer different questions (i.e. understanding behavioral vs. neurobiological anomalies) about the nature of the disorder. As such, these computational studies have mostly supported diverging hypotheses of schizophrenia's pathophysiology, resulting in a literature that is not always expanding coherently. Some of these hypotheses are however ripe for revision using novel empirical evidence. Here we present a review that first synthesizes the literature of computational modelling for schizophrenia and psychotic symptoms into categories supporting the dopamine, glutamate, GABA, dysconnection and Bayesian inference hypotheses respectively. Secondly, we compare model predictions against the accumulated empirical evidence and finally we identify specific hypotheses that have been left relatively under-investigated.

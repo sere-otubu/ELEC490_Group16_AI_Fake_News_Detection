@@ -1,0 +1,8 @@
+SEARCH_TOPIC: White blood cells
+TITLE: Functional significance of white blood cells in the male and female reproductive tract.
+PMID: 2254398
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2254398/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The functional significance of white blood cells in the modulation of an anti-sperm antibody response, prevention of infection (including HIV) sperm transport/storage and sperm function is extensively discussed. A critical review of the existing literature is presented with future experimental lines of investigation outlined. A lack of controlled clinical studies in the human to validate data from animal species--for example--the involvement of white blood cells in the transport and storage of sperm in the female tract and the possible adverse effect of pathology (i.e. endometriosis) on these functions are presented. In conclusion, with the advent of modern techniques, e.g. monoclonal antibodies and sophisticated sperm function tests, many of the questions raised should be answered in the near future.

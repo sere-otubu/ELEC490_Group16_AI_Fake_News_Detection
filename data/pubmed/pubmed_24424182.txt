@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Graves disease
+TITLE: Diagnosis and classification of Graves' disease.
+PMID: 24424182
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24424182/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Graves' disease (GD) is an autoimmune disorder involving the thyroid gland, typically characterized by the presence of circulating autoantibodies that bind to and stimulate the thyroid hormone receptor (TSHR), resulting in hyperthyroidism and goiter. Organs other than the thyroid can also be affected, leading to the extrathyroidal manifestations of GD, namely Graves' ophthalmopathy, which is observed in ~50% of patients, and Graves' dermopathy and acropachy, which are quite rare. Presumably, the extrathyroidal manifestations of GD are due to autoimmunity against antigens common to the thyroid and other affected organs. Although its exact etiology remains to be completely understood, GD is believed to result from a complex interaction between genetic susceptibility and environmental factors. Clinically, GD is characterized by the manifestations of thyrotoxicosis as well as by its extrathyroidal features when present, the latter making the diagnosis almost unmistakable. In the absence of ophthalmopathy, the diagnosis is generally based on the association of hyperthyroidism and usually diffuse goiter confirmed with serum anti-TSHR autoantibodies (TRAbs). Hyperthyroidism is generally treated with anti-thyroid drugs, but a common long term treatment strategy in patients relapsing after a course of anti-thyroid drugs (60-70%), implies the use of radioactive iodine or surgery.

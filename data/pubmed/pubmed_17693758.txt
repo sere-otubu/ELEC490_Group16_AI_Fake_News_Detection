@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Kidney function
+TITLE: BK channels in the kidney.
+PMID: 17693758
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17693758/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Large, BK (calcium-activated potassium) channels are now regarded as relevant players in many aspects of renal physiology, including potassium secretion. This review will highlight recent discoveries regarding the function and localization of BK in the kidney. Patch clamp electrophysiology has revealed BK in cultured podocytes, glomerular mesangial cells, and in several tubule segments including principal cells (connecting tubules/principal cells), and intercalated cells of connecting tubules and cortical collecting ducts. Flow-induced potassium secretion is mediated by BK in the distal nephron and may be partly the result of shear stress-induced increases in cell calcium concentrations. ROMK-/- and wild-type mice on a high potassium diet exhibit BK-mediated potassium secretion, and studies of BK-alpha-/- and BK-beta1-/- mice suggest that flow-induced potassium secretion is mediated by BK-alpha/beta1, which is specifically localized in the apical membrane of the connecting tubule of the mouse and connecting tubule plus initial cortical collecting duct of the rabbit. BK channels, located in glomerular cells and in many nephron segments, especially mediate potassium secretion in the combined condition of potassium adaptation and high flow. Understanding the molecular makeup of BK in specific renal cells and the dietary and physiological conditions for their expression can yield improved potassium-sparing compounds.

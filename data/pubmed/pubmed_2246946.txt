@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Syphilis
+TITLE: Syphilis in adults.
+PMID: 2246946
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2246946/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article reviews the clinical manifestations of syphilis, diagnostic tests that might help to diagnose accurately the disease, and current recommendations for therapy. The association of syphilis and human immunodeficiency virus infection raises additional questions related to transmission, diagnosis, and therapy of both diseases.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Arthritis
+TITLE: Infection and arthritis.
+PMID: 3330297
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3330297/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The categorization in four classes of association between infection and arthritis (namely infective, post-infective, reactive and idiopathic) seems nowadays to be inadequate to cover the extensive field of interactions between infectious agents and host response resulting in arthritis. This paper is a synthetic review of the subject with particular reference to pathogenetic mechanisms in children. An effort has been accomplished, on the basis of the most recent literature, to define the respective roles of the microbial aggression and the host response in a number of conditions: septic arthritis, viral arthritides, Lyme arthritis, rheumatic fever, Reiter's syndrome, ankylosing spondylitis and rheumatoid arthritis.

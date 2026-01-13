@@ -1,0 +1,8 @@
+SEARCH_TOPIC: COVID-19
+TITLE: COVID-19 pandemic: from origins to outcomes. A comprehensive review of viral pathogenesis, clinical manifestations, diagnostic evaluation, and management.
+PMID: 33664170
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33664170/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2), the causative pathogen for the COVID-19, first emerged in Wuhan, China, in December 2019 and by March 2020, it was declared a pandemic. COVID-19 pandemic has overburdened healthcare systems in most countries and has led to massive economic losses. SARS-CoV-2 transmission typically occurs by respiratory droplets. The average incubation period is 6.4 days and presenting symptoms typically include fever, cough, dyspnea, myalgia or fatigue. While the majority of patients tend to have a mild illness, a minority of patients develop severe hypoxia requiring hospitalization and mechanical ventilation. Management is mostly supportive. However, several direct anti-viral agents, and immunomodulatory therapy with steroids and various cytokine blockers seem promising in early results. However, an effective vaccine has been established, which will help curb the pandemic.

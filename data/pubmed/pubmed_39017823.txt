@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mastectomy
+TITLE: Comparison of locoregional recurrence risk among nipple-sparing mastectomy, skin-sparing mastectomy, and simple mastectomy in patients with ductal carcinoma in situ: a single-center study.
+PMID: 39017823
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39017823/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In invasive breast cancer, there are no differences among the mid- and long-term oncological safety results of nipple-sparing mastectomy (NSM), skin-sparing mastectomy (SSM), and simple mastectomy (SM). There are several reports comparing NSM and SSM with SM in the context of ductal carcinoma in situ (DCIS); however, the eligibility criteria vary among institutions, and there are no reports that compare all three surgical methods simultaneously within the same institution. This study aimed to compare the local recurrence and survival rates of the three techniques (NSM, SSM, and SM) in Japanese patients undergoing mastectomy for DCIS. Patients undergoing NSM, SSM, or SM at our institution between 2006 and 2015 were identified, and their outcomes were analyzed. The mean follow-up period was 80.4 months (standard deviation [SD]: 37.1 months). NSM was performed in 152 cases, SSM in 49, and SM in 44. Five of 245 patients developed local recurrences. Four of these patients had invasive cancer. The primary endpoints of 5-year cumulative local recurrence were 2.4% (95% confidence interval [CI]: 0.0-5.0) for NSM, 2.2% (95% CI: 0.0-6.3) for SSM, and 0% (95% CI: 0.0-0.0) for SM. There were no significant differences among the 5-year local recurrence rates. In this single-center, retrospective study, the oncological safety of SSM and NSM for DCIS was comparable to that of conventional SM.

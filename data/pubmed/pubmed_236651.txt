@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antacids
+TITLE: Pharmacology and clinical use of antacids.
+PMID: 236651
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/236651/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The pharmacology of antacids, with particular reference to their clinical use in treating acid-peptic disease, is discussed. Liquid antacid suspension should be given at least as often as one hour after each meal and at bedtime. Inthe treatment of the acute phase of acid-peptic disease, hourly antacid is recommended. The dose should be planned in terms of milliequivalents of acid neutralizing capacity and should be adjusted according to the type of disease under treatment. All antacids have side effects, the most serious of which are metabolic. In clinical terms, the harmful sustemicside effects of calcium carbonate and sodium bicarbonate outweigh their benefit as neutralizing agents; they should rarely be employed in the treatment of acid-peptic disease. The more common antacid side effects of diarrhea (magnesium hydroxide) and constipation (aluminum hydroxide) are best managed by appropriately alternating the agents or by using one of the various antacid mixtures.

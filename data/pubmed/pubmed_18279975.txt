@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antifungals
+TITLE: Ototopical antifungals and otomycosis: a review.
+PMID: 18279975
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18279975/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There has been an increase in the prevalence of otomycosis in recent years. This has been linked to the extensive use of antibiotic eardrops. Treatment of otomycosis is challenging, and requires a close follow-up. We present a review of the literature on otomycosis, the topical antifungals most commonly used, and discuss their ototoxic potential. Candida albicans and Aspergillus are the most commonly identified organisms. Antifungals from the Azole class seem to be the most effective, followed by Nystatin and Tolnaftate.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Melanoma
+TITLE: Molecular aspects of melanoma.
+PMID: 21549246
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21549246/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Melanoma is the most serious type of skin cancer. Unfortunately, treatment has progressed little and advanced melanoma has appalling survival rates. A goal of molecular analysis is to fully describe the alterations that underpin melanoma's clinical phenotype so that diagnosis can be more accurate, outcome can be predicted with greater confidence, and treatment that is tailored to the patient can be given. This article describes the handful of "signature" changes that are known to occur, describes how some recent studies have shed light on changes beyond this signature, and finally discusses the impact of molecular pathology for practicing histopathologists.

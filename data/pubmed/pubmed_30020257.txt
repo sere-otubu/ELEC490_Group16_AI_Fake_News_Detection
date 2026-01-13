@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Seasonal allergies
+TITLE: Seasonal ocular allergy and pollen counts.
+PMID: 30020257
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30020257/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The purpose of the article is to provide a historical overview of literature regarding pollen sensitization and ocular allergy with an emphasis on developments that have occurred over the past 5 years. Currently, pollen studies have examined the molecular and cellular pathways involved in initiating allergic conjunctivitis to find targets for therapeutics. Studies have also documented the threshold, linear increase and plateau point in the relationship between pollen levels and allergic conjunctivitis symptoms. Traditionally, intact pollen grains are counted as a means of correlating patient symptoms to allergen exposure. However, establishing a dose-response relationship between pollen grain exposure and allergic conjunctivitis has proven to be difficult. It has been observed that ocular allergies induce a two-fold response including early-phase and late-phase IgE-mediated reactions. Sensitization itself is a combination of pollen exposure over time in genetically predisposed individual. However, symptoms appear to reach an asymptotic point at which clinical severity plateaus. More studies are needed to clearly define differences in pollen sensitization by plant species.

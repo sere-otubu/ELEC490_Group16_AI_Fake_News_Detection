@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Infectious disease control
+TITLE: mRNA Vaccine Development for Emerging Animal and Zoonotic Diseases.
+PMID: 35215994
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35215994/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In the prevention and treatment of infectious diseases, mRNA vaccines hold great promise because of their low risk of insertional mutagenesis, high potency, accelerated development cycles, and potential for low-cost manufacture. In past years, several mRNA vaccines have entered clinical trials and have shown promise for offering solutions to combat emerging and re-emerging infectious diseases such as rabies, Zika, and influenza. Recently, the successful application of mRNA vaccines against COVID-19 has further validated the platform and opened the floodgates to mRNA vaccine's potential in infectious disease prevention, especially in the veterinary field. In this review, we describe our current understanding of the mRNA vaccines and the technologies used for mRNA vaccine development. We also provide an overview of mRNA vaccines developed for animal infectious diseases and discuss directions and challenges for the future applications of this promising vaccine platform in the veterinary field.

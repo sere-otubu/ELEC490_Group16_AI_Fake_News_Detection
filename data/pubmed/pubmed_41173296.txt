@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Spinal cord injury
+TITLE: Neonatal Spinal Cord Injury.
+PMID: 41173296
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41173296/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Neonatal spinal cord injury is rare, and diagnosis is often delayed. The causes of spinal cord injury are quite broad including mechanical trauma, ischemia in the prenatal or perinatal period, iatrogenic causes, or other etiologies such as spinal abnormalities or neoplasms. The perinatal history and specific physical examination findings can suggest a diagnosis of neonatal spinal cord injury, which warrants confirmation by magnetic resonance imaging. Management involves supportive care and physical and occupational therapy. Early recognition is paramount to determine the specific cause, manage clinical complications, and prevent continued injury to the spinal cord. In this review, we provide 4 case examples that demonstrate the complex clinical presentations of neonatal spinal cord injury and, at times, the uncertainty of finding a specific mechanism of injury.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hormones types
+TITLE: Olfactory modulation of stress-response neural circuits.
+PMID: 37524867
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37524867/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Stress responses, which are crucial for survival, are evolutionally conserved throughout the animal kingdom. The most common endocrine axis among stress responses is that triggered by corticotropin-releasing hormone neurons (CRHNs) in the hypothalamus. Signals of various stressors are detected by different sensory systems and relayed through individual neural circuits that converge on hypothalamic CRHNs to initiate common stress hormone responses. To investigate the neurocircuitry mechanisms underlying stress hormone responses induced by a variety of stressors, researchers have recently developed new approaches employing retrograde transsynaptic viral tracers, providing a wealth of information about various types of neural circuits that control the activity of CRHNs in response to stress stimuli. Here, we review earlier and more recent findings on the stress neurocircuits that converge on CRHNs, focusing particularly on olfactory systems that excite or suppress the activities of CRHNs and lead to the initiation of stress responses. Because smells are arguably the most important signals that enable animals to properly cope with environmental changes and survive, unveiling the regulatory mechanisms by which smells control stress responses would provide broad insight into how stress-related environmental cues are perceived in the animal brain.

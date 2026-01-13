@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rest and recovery
+TITLE: [Psychological stress and musculoskeletal disorders: psychobiological mechanisms. Lack of rest and recovery greater problem than workload].
+PMID: 12815874
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12815874/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Psychosocial stress is assumed to contribute to musculoskeletal disorders, particularly neck and shoulder pain. Experimental studies show that mental stress induces a significant increase in muscle tension in the trapezius muscle and several explanatory models have been proposed in order to understand the mechanisms linking low sustained muscle tension to musculoskeletal disorders. Recently, it has been demonstrated that the same motor units are activated by mental stress as by physical demands, which means that mental stress may keep low threshold motor units active also during breaks at work and off the job. In the modern society, lack of rest and recovery seems even more important for health than the magnitude of stress and physical demands during work.

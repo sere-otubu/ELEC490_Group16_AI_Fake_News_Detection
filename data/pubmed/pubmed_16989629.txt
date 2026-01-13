@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cholera
+TITLE: Live attenuated oral cholera vaccines.
+PMID: 16989629
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16989629/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Live, orally administered, attenuated vaccine strains of Vibrio cholerae have many theoretical advantages over killed vaccines. A single oral inoculation could result in intestinal colonization and rapid immune responses, obviating the need for repetitive dosing. Live V. cholerae organisms can also respond to the intestinal environment and immunological exposure to in vivo expressed bacterial products, which could result in improved immunological protection against wild-type V. cholerae infection. The concern remains that live oral cholera vaccines may be less effective among partially immune individuals in cholera endemic areas as pre-existing antibodies can inhibit live organisms and decrease colonization of the gut. A number of live oral cholera vaccines have been developed to protect against cholera caused by the classical and El Tor serotypes of V. cholerae O1, including CVD 103-HgR, Peru-15 and V. cholerae 638. A number of live oral cholera vaccines have also been similarly developed to protect against cholera caused by V. cholerae O139, including CVD 112 and Bengal-15. Live, orally administered, attenuated cholera vaccines are in various stages of development and evaluation.

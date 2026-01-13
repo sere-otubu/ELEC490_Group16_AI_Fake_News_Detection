@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rare diseases
+TITLE: How many rare diseases are there?
+PMID: 32020066
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32020066/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A lack of robust knowledge of the number of rare diseases and the number of people affected by them limits the development of approaches to ameliorate the substantial cumulative burden of rare diseases. Here, we call for coordinated efforts to more precisely define rare diseases.

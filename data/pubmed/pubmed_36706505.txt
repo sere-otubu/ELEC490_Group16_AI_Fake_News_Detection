@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blue light effects
+TITLE: The effects of short term blue light treatment on promoting nutrition value in Chinese cabbage.
+PMID: 36706505
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36706505/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Chinese cabbage is a nutrients-rich vegetable with diverse leaf colors. Here, we used widely-targeted metabolomics technology to study the metabolic responses of three Chinese cabbage varieties with representative leaf colors after blue light treatment. The inner leaf color of orange varieties 20S530 and 15S1094 changed from yellow to golden yellow, while no visible color change occurred in the common variety 14S23 after the treatment. A total of 844 metabolites were measured from the leaf samples of these three varieties in a time course study after short term blue light treatment, with kaempferol-4'-O-glucoside, isoquercitrin, hyperin, arbutin, sulforaphane as enriched nutritional metabolites. Orange Chinese cabbage varieties showed additional nutrition enhancement after the treatment. This study is the first to explore the global metabolic responses of Chinese cabbage after blue light treatment, and our findings provided valuable insights on how to effectively use lighting conditions to enhance specific groups of nutrients in vegetables.

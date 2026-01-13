@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Balance exercises
+TITLE: Injury prevention programs that include balance training exercises reduce ankle injury rates among soccer players: a systematic review.
+PMID: 35753965
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35753965/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+What is the effect of injury prevention programs that include balance training exercises on the incidence of ankle injuries among soccer players? Systematic review of randomised trials with meta-analysis. Soccer players of any age, sex or competition level. The experimental intervention was an injury prevention program that included balance training exercises. The control intervention was the soccer team's usual warm-up program. Exposure-based ankle injury rates. Nine articles met the inclusion criteria. The pooled results of injury prevention programs that included balance training exercises among 4,959 soccer players showed a 36% reduction in ankle injury per 1,000 hours of exposure compared to the control group with an injury risk ratio (IRR) of 0.64 (95% CI 0.54 to 0.77). The pooled results of the Fédération Internationale de Football Association (FIFA) injury prevention programs caused a 37% reduction in ankle injury (IRR 0.63, 95% CI 0.48 to 0.84) and balance-training exercises alone cause a 42% reduction in ankle injury (IRR 0.58, 95% CI 0.41 to 0.84). This meta-analysis demonstrates that balance exercises alone or as part of an injury prevention program decrease the risk of ankle injuries. PROSPERO CRD42017054450.

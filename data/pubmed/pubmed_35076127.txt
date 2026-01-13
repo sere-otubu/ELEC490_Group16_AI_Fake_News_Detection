@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Atherosclerosis
+TITLE: Atherosclerosis: Known and unknown.
+PMID: 35076127
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35076127/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Atherosclerotic disease, such as myocardial infarction and stroke, is the number one killer worldwide. Atherosclerosis is considered to be caused by multiple factors, including genetic and environmental factors. In humans, it takes several decades until the clinical complications develop. There are many known risk factors for atherosclerosis, including hypercholesterolemia, hypertension, diabetes and smoking, which are involved in the pathogenesis of atherosclerosis; however, it is generally believed that atherosclerosis is vascular chronic inflammation initiated by interactions of these risk factors and arterial wall cells. In the past 30 years, the molecular mechanisms underlying the pathogenesis of atherosclerosis have been investigated extensively using genetically modified animals, and lipid-reducing drugs, such as statins, have been demonstrated as the most effective for the prevention and treatment of atherosclerosis. However, despite this progress, questions regarding the pathogenesis of atherosclerosis remain and there is a need to develop new animal models and novel therapeutics to treat patients who cannot be effectively treated by statins. In this review, we will focus on two topics of atherosclerosis, "pathology" and "pathogenesis," and discuss unanswered questions.

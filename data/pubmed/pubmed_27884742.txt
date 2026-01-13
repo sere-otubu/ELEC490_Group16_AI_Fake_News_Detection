@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antifungals
+TITLE: Antifungals.
+PMID: 27884742
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27884742/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The need for new antifungal agents is undeniable. Current therapeutic choices for the treatment of invasive fungal infections are limited to three classes of drugs. Most used antifungal agents are not completely effective due to the development of resistance, host toxicity and undesirable side effects that limit their use in medical practice. Invasive fungal infections have significantly increased over the last decades and the mortality rates remain unacceptably high. More threatening, new resistance patterns have been observed including simultaneous resistance to different antifungal classes. In the last years, deeper insights into the molecular mechanisms for fungal resistance and virulence have yielded some new potential targets for antifungal therapeutics. Chemical genomics-based screenings, high throughput screenings of natural products and repurposing of approved drugs are some of the approaches being followed for the discovery of new antifungal molecules. However, despite the emerging need for effective antifungal agents, the current pipeline contains only a few promising molecules, with novel modes of action, in early clinical development stages.

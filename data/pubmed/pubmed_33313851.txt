@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chemotherapy
+TITLE: Adjuvant and neoadjuvant chemotherapy for soft tissue sarcomas: JCOG Bone and Soft Tissue Tumor Study Group.
+PMID: 33313851
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33313851/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The standard therapy for all localized soft tissue sarcomas is surgical resection of the tumor. For patients with soft tissue sarcomas who are at high risk for recurrence and/or metastasis, perioperative chemotherapy is a potential treatment option. Adriamycin plus ifosfamide is currently the most promising chemotherapy regimen for localized soft tissue sarcomas. Randomized controlled trials and meta-analyses of adjuvant postoperative chemotherapy for soft tissue sarcomas have suggested that adjuvant chemotherapy may provide an advantage, however small, compared with surgery alone. On the other hand, recent randomized trials have demonstrated the efficacy of neoadjuvant preoperative chemotherapy using full-dose anthracycline plus ifosfamide for high-risk soft tissue sarcomas and showed survival benefits in patients with large, deep-seated and high-grade soft tissue sarcomas of the trunk and extremities. In this review, adjuvant and neoadjuvant chemotherapies for soft tissue sarcomas and future perspectives are discussed.

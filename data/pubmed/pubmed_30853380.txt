@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Alcohol guidelines
+TITLE: Alcohol withdrawal syndrome management: Is there anything new?
+PMID: 30853380
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30853380/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Patients with alcohol use disorder experience frequently alcohol withdrawal syndrome (AWS), which is a potentially life-threatening condition mainly caused by glutamate overactivity. The aim of therapeutic alcohol withdrawal is the entry into a process of complete and lasting abstinence. Therefore preparing withdrawal is crucial to optimize compliance and efficacy of aftercare. Indeed, performing repeated withdrawal per se without any project of subsequent abstinence may be deleterious, at least because of repeated exposure to glutamate neurotoxicity. Managing AWS mainly consists in anticipating severe withdrawal, decreasing the risk of complications, making this experience as comfortable as possible, preventing from long-term benzodiazepine use, and enhancing motivation to aftercare and long-term abstinence. In particular, there are specific guidelines to choose which benzodiazepine administration approach to adopt (i.e. symptom-triggered, fixed schedule or loading dosage) and which other drugs to deliver (e.g. thiamine, folate, magnesium). Specific precautions should be taken in the elderly.

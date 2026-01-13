@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Public health policy
+TITLE: The politics of public health policy.
+PMID: 16533115
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16533115/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Politics, for better or worse, plays a critical role in health affairs. The purpose of this article is to articulate a role for political analysis of public health issues, ranging from injury and disease prevention to health care reform. It begins by examining how health problems make it onto the policy agenda. Perceptions regarding the severity of the problem, responsibility for the problem, and affected populations all influence governmental responses. Next, it considers how bounded rationality, fragmented political institutions, resistance from concentrated interests, and fiscal constraints usually lead political leaders to adopt incremental policy changes rather than comprehensive reforms even when faced with serious public health problems. It then identifies conditions under which larger-scale transformation of health policy can occur, focusing on critical junctures in policy development and the role of policy entrepreneurs in seizing opportunities for innovation. Finally, it reviews the challenges confronting officials and agencies who are responsible for implementing and administering health policies. Public health professionals who understand the political dimensions of health policy can conduct more realistic research and evaluation, better anticipate opportunities as well as constraints on governmental action, and design more effective policies and programs.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HPV infection
+TITLE: Current trends in the management and prevention of human papillomavirus (HPV) infection.
+PMID: 32862567
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32862567/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Herein, we critically evaluate and discuss current literature in the field of human papillomavirus (HPV) pathogenesis, treatment, and prevention. Screening of the literature and selection of studies was performed until May 31st, 2019. HPV is considered the commonest heterosexual and homosexual sexually transmitted infection globally. Low-risk HPV subtypes are associated with genital warts, whereas persistent infection with high-risk HPV 16 and 18 subtypes is closely associated with premalignant and invasive lesions in the anogenital and oropharyngeal region. E6 and E7 genes are the main drivers of oncogenic transformation in cervix since they promote all aspects of cancer hallmarks. Importantly, the implementation of screening has reduced the HPV-associated disease burden. In this field, a shift from cytology to HPV testing is currently being observed. Furthermore, vaccination programmes have shown high effectiveness in preventing HPV infection and HPV-related lesions, whereas their future implementation on a larger scale would further enhance our primary prevention strategies. Although HPV constitutes an evolving paradigm in cancer prevention, optimizing screening test performance, and cost-effectiveness remains debatable.

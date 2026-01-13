@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Deep vein thrombosis
+TITLE: Deep vein thrombosis in pediatric patients.
+PMID: 29115714
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29115714/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Due to advances in caring for critically ill children and those with chronic diseases, rates of deep vein thrombosis (DVT) are increasing in children. Risk factors consist of central venous catheters, chronic medical conditions, thrombophilia, and various medications. Compression Doppler ultrasonography is the method most commonly used to diagnose DVT, and patients will usually present with pain and swelling of the affected limb. Anticoagulation via subcutaneous injection is the most common treatment regime for children with DVT, and the new, direct oral anticoagulants are currently under investigation. Prevention techniques are not established, but clinical studies are addressing this need.

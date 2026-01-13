@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Asthma
+TITLE: Severe asthma in children: Evaluation and management.
+PMID: 30648539
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30648539/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Severe asthma in children is associated with significant morbidity. Children with severe asthma are at increased risk for adverse outcomes including medication-related side effects, life-threatening exacerbations, and impaired quality of life. It is important to differentiate between severe therapy resistant asthma and difficult-to-treat asthma due to comorbidities. The most common problems that need to be excluded before a diagnosis of severe asthma can be made are poor medication adherence, poor medication technique or incorrect diagnosis of asthma. Difficult to treat asthma is a much more common reason for persistent symptoms and exacerbations and can be managed if comorbidities are clearly addressed. Children with persistent symptoms and exacerbations despite correct inhaler technique and good medical adherence to standard Step 4 asthma therapies according to the guidelines<sup>1,2</sup>, should be referred to an asthma specialist with expertise in severe asthma.

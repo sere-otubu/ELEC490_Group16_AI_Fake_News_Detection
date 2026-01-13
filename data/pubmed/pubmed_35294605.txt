@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Diuretics
+TITLE: Diuretics: a contemporary pharmacological classification?
+PMID: 35294605
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35294605/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Diuretics are drugs that increase the flow of urine. They are commonly used to treat edema, hypertension, and heart failure. Typically, the pharmacological group consists of five classes: thiazide diuretics, loop diuretics, potassium-sparing diuretics, osmotic diuretics, and carbonic anhydrase inhibitors. This traditional classification and the nomenclature of diuretics have not changed over the last decades, which means that it was not adapted to current pharmacological research. Modern approaches in the field of pharmacological nomenclature suggest the introduction of mechanism-based drug class designations, which is not yet reflected in the group of diuretics. Moreover, included drug classes have lost their relevance as diuretic agents. Carbonic anhydrase inhibitors, for example, are mainly used in the treatment of glaucoma. Newer agents such as vasopressin-2 receptor antagonists or SGLT2 inhibitors possess diuretic properties but are not included in the pharmacological group. This review discusses the currentness of the pharmacological classification of diuretics. We elaborate changes in the field of nomenclature, the contemporary medical use of classical diuretics, and new diuretic agents.

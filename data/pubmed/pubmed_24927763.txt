@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Evidence based medicine
+TITLE: Evidence based medicine: a movement in crisis?
+PMID: 24927763
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24927763/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+<b>Trisha Greenhalgh and colleagues</b> argue that, although evidence based medicine has had many benefits, it has also had some negative unintended consequences. They offer a preliminary agenda for the movement’s renaissance, refocusing on providing useable evidence that can be combined with context and professional expertise so that individual patients get optimal treatment

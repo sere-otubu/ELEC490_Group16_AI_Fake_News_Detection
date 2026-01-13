@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gout
+TITLE: Gout.
+PMID: 27112094
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27112094/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gout is a chronic disease of deposition of monosodium urate crystals, which form in the presence of increased urate concentrations. Although environmental factors contribute to hyperuricaemia, renal and gut excretion of urate is central to regulation of serum urate, and genetic factors are important. Activation of the NLRP3 inflammasome and release of interleukin 1β have key roles in initiation of acute gout flares. A "treat to target serum urate" approach is essential for effective gout management; long-term lowering of serum urate to less than 360 μmol/L leads to crystal dissolution and ultimately to suppression of flares. An allopurinol dose-escalation strategy is frequently effective for achieving treatment targets, and several new urate-lowering drugs are also available. Worldwide, rates of initiation and continuation of urate-lowering therapy are very low, and, consequently, achievement of serum urate targets is infrequent. Strategies to improve quality of gout care are needed.

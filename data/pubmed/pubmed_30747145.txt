@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rabies
+TITLE: Rabies pathogenesis and immunology.
+PMID: 30747145
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30747145/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Once clinical disease is manifest, the rabies virus is one of the few pathogens known to science with a near 100% fatality rate and, as such, this zoonotic pathogen has shaped both humanity and the history of science. However, today rabies is still considered to be a neglected tropical disease, despite the fact that it causes more than 59,000 human deaths each year. Although effective vaccines are available to combat the disease, the underlying mechanisms of its pathogenicity and immunology remain poorly defined. In this paper, the existing knowledge of the pathogenesis and immunological response to the rabies virus in infected hosts is described.

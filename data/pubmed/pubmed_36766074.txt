@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Superfoods
+TITLE: 'Superfoods': Reliability of the Information for Consumers Available on the Web.
+PMID: 36766074
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36766074/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The term 'superfoods', used frequently with marketing purposes, is usually associated with foodstuffs with beneficial health properties. 'Superfoods' appears in many information sources, including digital media. The information they provide is easily accessible for consumers through Internet search engines. The objective of this work is to investigate the data that web pages offer to consumers and their accuracy according to current scientific knowledge. The two main search engines were utilized for English language websites search, introducing the term 'superfoods'. In total, 124 search results were found. After applying the selection criteria, 45 web pages were studied. A total of 136 foods were considered as 'superfoods' by sites; 10 of them (kale, spinach, salmon, blueberries, avocado, chia, walnuts, beans, fermented milks and garlic) were mentioned on at least 15 sites. Nutritional and healthy properties displayed on sites were compared to scientific information. In conclusion, websites present the information in a very simplified manner and it is generally not wrong. However, they should offer to consumers comprehensible information without raising false expectations regarding health benefits. In any case, 'superfoods' consumption can have salutary effects as part of a balanced diet.

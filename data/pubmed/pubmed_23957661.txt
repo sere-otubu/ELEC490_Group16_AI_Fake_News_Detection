@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Malaria
+TITLE: Malaria's deadly grip: cytoadhesion of Plasmodium falciparum-infected erythrocytes.
+PMID: 23957661
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23957661/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cytoadhesion of Plasmodium falciparum-infected erythrocytes to host microvasculature is a key virulence determinant. Parasite binding is mediated by a large family of clonally variant adhesion proteins, termed P. falciparum erythrocyte membrane protein 1 (PfEMP1), encoded by var genes and expressed at the infected erythrocyte surface. Although PfEMP1 proteins have extensively diverged under opposing selection pressure to maintain ligand binding while avoiding antibody-mediated detection, recent work has revealed they can be classified into different groups based on chromosome location and domain composition. This grouping reflects functional specialization of PfEMP1 proteins for different human host and microvascular binding niches and appears to be maintained by gene recombination hierarchies. Inone extreme, a specific PfEMP1 variant is associated with placental binding and malaria during pregnancy, while other PfEMP1 subtypes appear to be specialized for infection of malaria naïve hosts. Here, we discuss recent findings on the origins and evolution of the var gene family, the structure-function of PfEMP1 proteins, and a distinct subset of PfEMP1 variants that have been associated with severe childhood malaria.

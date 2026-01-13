@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Binge eating disorder
+TITLE: Binge-eating disorder.
+PMID: 37991516
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37991516/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Binge-eating disorder (BED) has the highest prevalence of any eating disorder in the US today. However, the condition is frequently not recognized as an eating disorder by healthcare providers or patients. Patients with this diagnosis often have significant psychiatric and medical comorbidities that might respond to evidence-based treatments. NPs in primary care with awareness of the diagnostic criteria for BED and knowledge of its assessment and treatment options can coordinate care for patients experiencing this health challenge.

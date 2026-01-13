@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Major depressive disorder
+TITLE: Desvenlafaxine for the treatment of major depressive disorder.
+PMID: 24914479
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24914479/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Major depressive disorder (MDD) is a chronic and debilitating condition often characterized by inadequate treatment. Notwithstanding the availability of more than a dozen first-line agents across disparate classes (e.g., selective serotonin reuptake inhibitors), the majority of individuals with MDD do not achieve and sustain a recovered state. A substantial percentage of MDD patients require a treatment change due to poor efficacy or tolerability. This review focuses on recent (≤ 5 years) literature describing the pharmacokinetics, efficacy, and tolerability of desvenlafaxine , one of the more recently approved antidepressant drugs. Published papers identified via PubMed search and congress presentations were included. Results from short-term, placebo-controlled, MDD trials and randomized withdrawal trials, as well as post hoc analyses in patient subgroups, are reviewed. Desvenlafaxine has been shown to be an effective antidepressant with a favorable safety and tolerability profile in the general MDD population and in important patient subgroups. It has several notable differences from other serotonin-norepinephrine reuptake inhibitors, and those differences suggest populations in which it may have the most clinical benefit.

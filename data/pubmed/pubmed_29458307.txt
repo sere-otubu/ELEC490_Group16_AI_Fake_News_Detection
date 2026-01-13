@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cardiovascular system
+TITLE: Influence of environmental tobacco smoke on morphology and functions of cardiovascular system assessed using diagnostic imaging.
+PMID: 29458307
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29458307/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Exposure to tobacco smoke is a significant problem of environmental medicine. Tobacco smoke contains over one thousand identified chemicals including numerous toxicants. Cardiovascular system diseases are the major cause of general mortality. The recent development of diagnostic imaging provided methods which enable faster and more precise diagnosis of numerous diseases, also those of cardiovascular system. This paper reviews the most significant scientific research concerning relationship between environmental exposure to tobacco smoke and the morphology and function of cardiovascular system carried out using diagnostic imaging methods, i.e. ultrasonography, angiography, computed tomography and magnetic resonance imaging. In the forthcoming future, the studies using current diagnostic imaging methods should contribute to the reliable documentation, followed by the wide-spreading knowledge of the harmful impact of the environmental tobacco smoke exposure on the cardiovascular system.

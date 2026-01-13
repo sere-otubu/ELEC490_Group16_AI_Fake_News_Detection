@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urinary system
+TITLE: Recurrent Urinary Tract Infection: A Mystery in Search of Better Model Systems.
+PMID: 34123879
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34123879/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Urinary tract infections (UTIs) are among the most common infectious diseases worldwide but are significantly understudied. Uropathogenic <i>E. coli</i> (UPEC) accounts for a significant proportion of UTI, but a large number of other species can infect the urinary tract, each of which will have unique host-pathogen interactions with the bladder environment. Given the substantial economic burden of UTI and its increasing antibiotic resistance, there is an urgent need to better understand UTI pathophysiology - especially its tendency to relapse and recur. Most models developed to date use murine infection; few human-relevant models exist. Of these, the majority of <i>in vitro</i> UTI models have utilized cells in static culture, but UTI needs to be studied in the context of the unique aspects of the bladder's biophysical environment (e.g., tissue architecture, urine, fluid flow, and stretch). In this review, we summarize the complexities of recurrent UTI, critically assess current infection models and discuss potential improvements. More advanced human cell-based <i>in vitro</i> models have the potential to enable a better understanding of the etiology of UTI disease and to provide a complementary platform alongside animals for drug screening and the search for better treatments.

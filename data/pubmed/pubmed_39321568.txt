@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Serotonin
+TITLE: Revisiting serotonin's role in spatial memory: A call for sensitive analytical approaches.
+PMID: 39321568
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39321568/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The serotonergic system is involved in various psychiatric and neurological conditions, with serotonergic drugs often used in treatment. These conditions frequently affect spatial memory, which can serve as a model of declarative memory due to well-known cellular components and advanced methods that track neural activity and behavior with high temporal resolution. However, most findings on serotonin's effects on spatial learning and memory come from studies lacking refined analytical techniques and modern approaches needed to uncover the underlying neuronal mechanisms. This In Focus review critically investigates available studies to identify areas for further exploration. It finds that well-established behavioral models could yield more insights with modern tracking and data analysis approaches, while the cellular aspects of spatial memory remain underexplored. The review highlights the complex role of serotonin in spatial memory, which holds the potential for better understanding and treating memory-related disorders.

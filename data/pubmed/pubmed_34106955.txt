@@ -1,0 +1,8 @@
+SEARCH_TOPIC: First aid basics
+TITLE: Implementing psychological first aid ontology.
+PMID: 34106955
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34106955/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This study develops an ontology of Psychological First Aid (PFA) by extracting relevant knowledge from a review of PFA literature. This study was conducted using the PFA ontology development 101 method. This review processes previously-developed PFA studies by consulting Google Scholar, CINHL, PUBMED, and MEDLINE. Protege 5.0 program was used to integrate with ontology development. The developed PFA ontology consisted of eight super classes: Action agenda, Assessment, Concrete method, Disaster type, Disaster disposition, Purpose, Qualification and Skill, Reaction. In total, 166 terms were collected. The eight super classes were divided into 72 classes and 64 subclasses. The composition yielded in a total of 166 axioms (85 logical axioms; 81 declaration axioms). This study provides basic data to guide development and composition of PFA arbitration programs.

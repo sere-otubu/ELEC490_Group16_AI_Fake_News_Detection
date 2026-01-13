@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Bulimia nervosa
+TITLE: [Bulimia nervosa].
+PMID: 16941398
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16941398/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Bulimia nervosa is characterized by episodes of binge eating and compensatory behaviours (self-induced vomiting, laxative misuse, dietary restriction). It has a complex aetiology and is mostly found in young women. Bulimia leads to substantial physical and psychosocial morbidity. Bulimia nervosa needs specialized psychotherapeutic treatment. In most cases outpatient treatment is sufficient, but comorbidity with other psychiatric disturbances has to be taken into account. Additional psychopharmacological interventions might be helpful. After 5 to 10 years about 50% of the patients show complete remissions, 30% partial remissions and about 20% a chronic course of the illness. General practitioners, dentists and gynaecologists should be informed about typical signs of the disorder that is often hidden by the patients.

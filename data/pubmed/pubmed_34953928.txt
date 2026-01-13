@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Social anxiety
+TITLE: Behavioral markers of social anxiety in Cornelia de Lange Syndrome: A brief systematic review.
+PMID: 34953928
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34953928/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There is evidence that social impairments in Cornelia de Lange Syndrome (CdLS) differ from those observed in idiopathic autism as they are characterized mainly by social anxiety. However, the knowledge of the fundamental features of social anxiety symptoms in this target population is limited. This brief systematic review aims to investigate the relationship between social anxiety and CdLS through multiple cross-sectional comparisons. PRISMA-P guidelines were followed, and the literature research was conducted in Pubmed, EBSCOhost, Google Scholar, and ScienceDirect using "Cornelia de Lange Syndrome" or "CdLS" and "social anxiety" as search terms. Six articles met the eligibility criteria. Results show that heightened levels of social anxiety in CdLS individuals occur before and after the social engagement and are mediated by both the nature of the social demand and the familiarity of the examiner they interact with. The interpretation of results is limited by the wide heterogeneity of patients' age and sample size across the reviewed studies, and by the absence of a unique observational procedure to detect behaviors indicative of social anxiety in syndromic individuals. These findings have considerable clinical implications for intervention planning which might be generalized to all people with intellectual disability linked to a genetic syndrome.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cell division mitosis
+TITLE: [Microtubules and mitosis].
+PMID: 393326
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/393326/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The mitotic chromosome movements are discussed in relation with recent studies on tubulins, their assembly and disassembly, and the associated proteins. The role of contractile proteins in the mitotic spindle is considered, and also that of the calcium regulating protein (CDR) which has been demonstrated recently in the mitotic spindle. The study of more "primitive" mitoses underlines the differences between polar and chromosomal MT. The linear growth of the first, and the sliding movements of MT from opposing poles, explain the growth in length of the mitotic figure and the separation of chromosomes. The complex relations between various types of MT and the possibility of biochemical varieties of tubulins, are discussed.

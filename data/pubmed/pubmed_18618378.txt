@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Celiac disease
+TITLE: [Pitfalls in diagnosis of celiac disease].
+PMID: 18618378
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18618378/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Both serology and histology remain cornerstones in the diagnosis of coeliac disease. IgA class antibodies against tissue transglutaminase and endomysium have the highest specificity and sensitivity in comparison with other serological tests. An IgA deficiency in serum must always be excluded. Antigliadin antibodies have, because of their low positive predictive value apart from in early childhood, no value as a diagnostic tool in coeliac disease. Intestinal biopsies should be evaluated according to the revised Marsh criteria. A discrepancy between serology and histology requires a competent evaluation by a gastroenterologist and, if necessary, further diagnostic procedures.

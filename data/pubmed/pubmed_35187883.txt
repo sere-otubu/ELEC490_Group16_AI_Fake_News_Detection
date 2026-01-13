@@ -1,0 +1,8 @@
+SEARCH_TOPIC: E. coli infection
+TITLE: Pathophysiology of enteropathogenic <i>Escherichia coli</i> during a host infection.
+PMID: 35187883
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35187883/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Enteropathogenic <i>Escherichia coli</i> (EPEC) is a major cause of infantile diarrhea in developing countries. However, sporadic outbreaks caused by this microorganism in developed countries are frequently reported recently. As an important zoonotic pathogen, EPEC is being monitored annually in several countries. Hallmark of EPEC infection is formation of attaching and effacing (A/E) lesions on the small intestine. To establish A/E lesions during a gastrointestinal tract (GIT) infeciton, EPEC must thrive in diverse GIT environments. A variety of stress responses by EPEC have been reported. These responses play significant roles in helping E. <i>coli</i> pass through GIT environments and establishing <i>E. coli</i> infection. Stringent response is one of those responses. It is mediated by guanosine tetraphosphate. Interestingly, previous studies have demonstrated that stringent response is a universal virulence regulatory mechanism present in many bacterial pathogens including EPEC. However, biological signficance of a bacterial stringent response in both EPEC and its interaction with the host during a GIT infection is unclear. It needs to be elucidated to broaden our insight to EPEC pathogenesis. In this review, diverse responses, including stringent response, of EPEC during a GIT infection are discussed to provide a new insight into EPEC pathophysiology in the GIT.

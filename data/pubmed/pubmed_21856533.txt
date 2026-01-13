@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Wound healing process
+TITLE: Skin: histology and physiology of wound healing.
+PMID: 21856533
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21856533/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+It is important to understand the histology and physiology of skin for the prediction and optimization of wound healing. Optimal postoperative wound healing to minimize scarring entails minimizing local, systemic, and environmental factors that lead to poor wound healing. Keeping the wound clean and moist, minimizing trauma, and infection are the local wound tenets. Systemic tenets include minimizing medications that inhibit processes of wound healing, maintaining adequate nutrition, pain palliation, UV protection, and smoking cessation. This article presents the dynamic process of wound healing and the basic tenets to minimize scarring.

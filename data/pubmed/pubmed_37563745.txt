@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Statins
+TITLE: Improving statins production: From non-genetic strategies to genetic strategies.
+PMID: 37563745
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37563745/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Statins are lipid-lowering drugs that selectively inhibit 3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase, effectively reducing cholesterol synthesis. With improved nutritional conditions, the demand for statins is increasing in the global market. The use of microbial cell factories for statin biosynthesis has become advantageous due to the rapid advancements in biotechnology. These approaches offer simple operation and easy separation of products. This review provides an overview the strategies for statins production via microbial cell factories, including both traditional fermentation culture (non-genetic) and modern synthetic biology manufacture (genetic). Firstly, the complex fermentation parameters and process control technology on submerged fermentation (SmF) and solid-state fermentation (SSF) are introduced in detail. The potential use of recoverable agricultural wastes/(biomass) as a fermentation substrate in SSF for statin production is emphasized. Additionally, metabolic engineering strategies for constructing robust engineering strains and directed evolution are also discussed. The review highlights the potential and challenges of using microbial cell factories for statin production, and aims to promote greener production modes for statins.

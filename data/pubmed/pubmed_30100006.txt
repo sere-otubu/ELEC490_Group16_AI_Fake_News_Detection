@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Polycystic ovary syndrome
+TITLE: Polycystic Ovary Syndrome.
+PMID: 30100006
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30100006/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Polycystic ovary syndrome (PCOS) is a commonly occurring endocrine disorder characterized by hirsutism, anovulation, and polycystic ovaries. Often comorbid with insulin resistance, dyslipidemia, and obesity, it also carries significant risk for the development of cardiovascular and metabolic sequelae, including diabetes and metabolic syndrome. Traditionally, the treatment of patients with PCOS has focused on relief of symptoms. Here, the criteria for the diagnosis of PCOS are reviewed with an emphasis on the stratification of subtypes by metabolic features. Then treatment options are reviewed according to the management goal: relief of hyperandrogenic symptoms, regulation of menstruation, and restoration of fertility.

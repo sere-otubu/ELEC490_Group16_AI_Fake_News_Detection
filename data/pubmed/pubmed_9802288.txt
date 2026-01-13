@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Seasonal affective disorder
+TITLE: Seasonal affective disorder.
+PMID: 9802288
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9802288/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Seasonal affective disorder (SAD) is a form of recurrent depressive or bipolar disorder, with episodes that vary in severity. Seasonal patterns of depressive episodes are common, but SAD seems to be less common than such patterns suggest. SAD was at first believed to be related to abnormal melatonin metabolism, but later findings did not support this hypothesis. Studies of brain serotonin function support the hypothesis of disturbed activity. The short-allele polymorphism for serotonin transporter is more common in patients with SAD than in healthy people. Atypical depressive symptoms commonly precede impaired functioning, and somatic symptoms are frequently the presenting complaint at visits to family physicians. The best treatment regimens include 2500 Ix of artificial light exposure in the morning. When patients seem to have no response or to prefer another treatment, antidepressants should be considered.

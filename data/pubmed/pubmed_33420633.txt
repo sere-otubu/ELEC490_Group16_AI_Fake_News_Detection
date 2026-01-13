@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Nutritional supplements
+TITLE: Nutritional Supplements and Skeletal Health.
+PMID: 33420633
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33420633/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Nutrition influences skeletal health throughout the lifespan, from the impact of maternal intakes during development, through the development of peak bone mass, to the rate of bone loss during aging. However, there are limited data available on the effects of nutritional supplements on bone density, let alone fracture risk. This review will assess the current literature, focusing on human studies, and emphasizing nutrients where bone density or fracture data are available. Calcium and vitamin D supplements, in combination, reduce fracture risk, particularly in populations with low intakes. Extensive recent analyses have supported the safety of these interventions at recommended intakes. There is growing evidence that specific isoflavones may improve bone density although fracture data are lacking. Multiple other nutrient supplements may benefit skeletal health, but data are limited. The effect size of nutrient interventions are relatively small, requiring large sample sizes for trials with bone outcomes, may be difficult to blind, and the impact of supplementation may depend on baseline intake. However, nutrition is the only intervention that can be implemented life long and on a population wide basis. Further investigation is needed into the potential benefits of nutritional supplements to determine in which settings supplements may add benefit in addition to dietary intakes.

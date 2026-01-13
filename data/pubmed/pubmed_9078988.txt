@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Panic disorder
+TITLE: Toward an integrated neurobiology of panic disorder.
+PMID: 9078988
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9078988/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Panic disorder is a common psychiatric illness that causes considerable short- and long-term morbidity. Although drug treatment and cognitive behavior therapy are beneficial, the etiology of panic disorder and the mechanisms of effective treatment remain unclear. Developments in the preclinical neuroanatomy and neurophysiology of neuronal structures relevant to fear and anxiety promise to provide fresh insights into the neurobiology of panic. In this article, we propose a functional neuroanatomic model of fear and anxiety and review brain imaging studies of panic disorder with this model in mind. In addition, we discuss the implications of integrating functional neuroanatomy and the clinical neurochemistry of panic disorder. An integrated neurobiology of panic disorder will provide a broader conceptual framework with which to tackle the complex questions about the pathophysiology and treatment of this condition.

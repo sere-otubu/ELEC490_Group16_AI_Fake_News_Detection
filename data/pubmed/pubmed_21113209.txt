@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immunosuppressants
+TITLE: [BK-virus-associated Nephropathy].
+PMID: 21113209
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21113209/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The infection by the BK Polyomavirus (BKV) is an emerging problem in kidney transplants that contributes to a chronic loss of kidney grafts, and in which immunosuppression plays a decisive role. Understanding its risk factors and strictly monitoring urine and serological markers of the infection could mitigate the undesirable effects of this disease. In this review, we investigate the clinical and epidemiological aspects of the BKV infection, as well as go over the available prophylactic and treatment methods currently available for controlling the infection in kidney transplant patients that receive modern immunosuppression.

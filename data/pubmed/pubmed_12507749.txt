@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mood stabilizers
+TITLE: Redefining mood stabilization.
+PMID: 12507749
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12507749/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This review considers the definition of the term 'mood-stabilizer' in the context of new pharmacological agents for the treatment of bipolar disorder. Three definitions of a mood-stabilizer are described and the available data from randomized, double-blind, controlled trials for putative mood-stabilizers studied in the treatment of different aspects of bipolar disorder (mania, mixed states, depression, maintenance) are reviewed. No available agent meets the criteria for a comprehensive mood-stabilizer, although lithium comes the closest.

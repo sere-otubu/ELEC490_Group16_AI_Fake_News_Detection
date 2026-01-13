@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cell division meiosis
+TITLE: Meiosis in budding yeast.
+PMID: 37616582
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37616582/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Meiosis is a specialized cell division program that is essential for sexual reproduction. The two meiotic divisions reduce chromosome number by half, typically generating haploid genomes that are packaged into gametes. To achieve this ploidy reduction, meiosis relies on highly unusual chromosomal processes including the pairing of homologous chromosomes, assembly of the synaptonemal complex, programmed formation of DNA breaks followed by their processing into crossovers, and the segregation of homologous chromosomes during the first meiotic division. These processes are embedded in a carefully orchestrated cell differentiation program with multiple interdependencies between DNA metabolism, chromosome morphogenesis, and waves of gene expression that together ensure the correct number of chromosomes is delivered to the next generation. Studies in the budding yeast Saccharomyces cerevisiae have established essentially all fundamental paradigms of meiosis-specific chromosome metabolism and have uncovered components and molecular mechanisms that underlie these conserved processes. Here, we provide an overview of all stages of meiosis in this key model system and highlight how basic mechanisms of genome stability, chromosome architecture, and cell cycle control have been adapted to achieve the unique outcome of meiosis.

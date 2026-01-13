@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Fish oil benefits
+TITLE: Omega-3 Polyunsaturated Fatty Acids and Their Health Benefits.
+PMID: 29350557
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29350557/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Omega-3 polyunsaturated fatty acids (PUFAs) include α-linolenic acid (ALA; 18:3 ω-3), stearidonic acid (SDA; 18:4 ω-3), eicosapentaenoic acid (EPA; 20:5 ω-3), docosapentaenoic acid (DPA; 22:5 ω-3), and docosahexaenoic acid (DHA; 22:6 ω-3). In the past few decades, many epidemiological studies have been conducted on the myriad health benefits of omega-3 PUFAs. In this review, we summarized the structural features, properties, dietary sources, metabolism, and bioavailability of omega-3 PUFAs and their effects on cardiovascular disease, diabetes, cancer, Alzheimer's disease, dementia, depression, visual and neurological development, and maternal and child health. Even though many health benefits of omega-3 PUFAs have been reported in the literature, there are also some controversies about their efficacy and certain benefits to human health.

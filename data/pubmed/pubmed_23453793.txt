@@ -1,0 +1,8 @@
+SEARCH_TOPIC: X ray imaging
+TITLE: Grating-based X-ray phase contrast for biomedical imaging applications.
+PMID: 23453793
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23453793/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In this review article we describe the development of grating-based X-ray phase-contrast imaging, with particular emphasis on potential biomedical applications of the technology. We review the basics of image formation in grating-based phase-contrast and dark-field radiography and present some exemplary multimodal radiography results obtained with laboratory X-ray sources. Furthermore, we discuss the theoretical concepts to extend grating-based multimodal radiography to quantitative transmission, phase-contrast, and dark-field scattering computed tomography.

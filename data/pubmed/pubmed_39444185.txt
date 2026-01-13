@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Wound healing process
+TITLE: Gene Augmentation Techniques to Stimulate Wound Healing Process: Progress and Prospects.
+PMID: 39444185
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39444185/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gene therapy has traditionally been used to treat individuals with late-stage cancers or congenital abnormalities. Numerous prospects for therapeutic genetic modifications have emerged with the discovery that gene therapy applications are far more extensive, particularly in skin and exterior wounds. Cutaneous wound healing is a complex, multistep process involving multiple steps and mediators that operate in a network of activation and inhibition processes. This setting presents a unique obstacle for gene delivery. Many gene delivery strategies have been developed, including liposomal administration, high-pressure injection, viral transfection, and the application of bare DNA. Among several gene transfer techniques, categorical polymers, nanoparticles, and liposomalbased constructs show great promise for non-viral gene transfer in wounds. Clinical experiments have shown that efficient transportation of certain polypeptides to the intended wound location is a crucial factor in wound healing. Genetically engineered cells can be used to produce and control the delivery of specific growth factors, thereby addressing the drawbacks of mechanically administered recombinant growth factors. We have discussed how repair mechanisms are based on molecules and cells, as well as their breakdown, and provided an overview of the methods and research conducted on gene transmission in tissue regeneration.

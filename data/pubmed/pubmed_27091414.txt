@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antidepressants
+TITLE: Antidepressants and Driving in Older Adults: A Systematic Review.
+PMID: 27091414
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27091414/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+With an increasing number of older drivers who are prescribed antidepressants, the potential consequences of antidepressant use on driving skills in an aging population are becoming a pressing issue. We conducted a systematic review using MEDLINE, targeting articles specifically pertaining to antidepressants and driving in a population or subgroup of older adults (≥ 55 years of age). The search yielded 267 references, nine of which pertained to the effects of antidepressants on driving in older adults. The single experimental study found imipramine to have detrimental effects on highway driving, whereas nefazodone did not. Seven of eight population-based studies reported a significant increased risk of involvement in a collision associated with antidepressant use. Although the studies indicated a negative effect of antidepressants on driving, the epidemiological designs cannot exclude the possibility that the underlying illness, generally major depression, is the culprit.

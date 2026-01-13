@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Binge eating disorder
+TITLE: Binge Eating Disorder.
+PMID: 28477651
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28477651/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Binge eating disorder (BED) is the most common eating disorder and an important public health problem. Lifetime prevalence of BED in the United States is 2.6%. In contrast to other eating disorders, the female to male ratio in BED is more balanced. BED co-occurs with a plethora of psychiatric disorders, most commonly mood and anxiety disorders. BED is also associated with obesity and its numerous complications. Although BED is similar in men and women in presentation and treatment outcomes, there are some key neurobiological differences that should be taken in consideration when personalizing treatment.

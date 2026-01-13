@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Aerobic exercise
+TITLE: Effects of aerobic exercise on blood pressure in patients with hypertension: a systematic review and dose-response meta-analysis of randomized trials.
+PMID: 37872373
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37872373/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+We aimed to evaluate the dose-dependent effects of aerobic exercise on systolic (SBP) and diastolic blood pressure (DBP) and haemodynamic factors in adults with hypertension. PubMed, Scopus, and Web of Science were searched to April 2022 for randomized trials of aerobic exercise in adults with hypertension. We conducted a random-effects meta-analysis to estimate mean differences (MDs) and 95%CIs for each 30 min/week increase in aerobic exercise. The certainty of evidence was rated using the GRADE approach. The analysis of 34 trials with 1787 participants indicated that each 30 min/week aerobic exercise reduced SBP by 1.78 mmHg (95%CI: -2.22 to -1.33; n = 34, GRADE=low), DBP by 1.23 mmHg (95%CI: -1.53 to -0.93; n = 34, GRADE=moderate), resting heart rate (MD = -1.08 bpm, 95%CI: -1.46 to -0.71; n = 23, GRADE=low), and mean arterial pressure (MD = -1.37 mmHg, 95%CI: -1.80 to -0.93; n = 9, GRADE = low). A nonlinear dose-dependent decrement was seen on SBP and DBP, with the greatest decrement at 150 min/week (MD<sub>150 min/week</sub> = -7.23 mmHg, 95%CI: -9.08 to -5.39 for SBP and -5.58 mmHg, 95%CI: -6.90 to -4.27 for DBP). Aerobic exercise can lead to a large and clinically important reduction in blood pressure in a dose-dependent manner, with the greatest reduction at 150 min/week. The dose-dependent effects of aerobic exercise on systolic and diastolic blood pressure and haemodynamic factors in adults with hypertension.

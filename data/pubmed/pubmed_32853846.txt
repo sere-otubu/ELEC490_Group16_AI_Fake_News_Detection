@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Reproductive system
+TITLE: Bacterial infection of the male reproductive system causing infertility.
+PMID: 32853846
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32853846/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Bacterial infections play a disruptive and hidden role in male reproductive failure. Different kinds of bacteria are often able to interfere with reproductive function in both sexes and lead to infertility. In this study, to further evaluate the role of bacterial infections in male reproduction we provided an extensive overview of so far researches investigating the effects of bacterial infections on male fertility. We searched Medline, PubMed, Scopus and Google scholar databases to identify the potentially relevant studies on bacterial infections and their implications in male infertility. All the bacteria included in this article have negative effects on the male reproductive function; however, there is ample evidence to blame bacteria such as Escherichia coli, Chlamydia trachomatis, Ureaplasma, Mycoplasma and Staphylococcus aureus for reduced fertility and deterioration of sperm parameters. More studies are needed to clarify the molecular mechanisms by which different bacteria exert their detrimental effects on male reproductive system. Getting more insight into probable mechanisms, would significantly facilitate the production of new, advanced, and effective remedies in the future. In view of all evidence, we strongly suggest increasing awareness among people and considering screening programs for patients seeking fertility both to avoid transmission and to improve fertility outcomes among them.

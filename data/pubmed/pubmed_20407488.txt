@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anesthesia types
+TITLE: Spectral and fractal measures of cerebellar and cerebral activity in various types of anesthesia.
+PMID: 20407488
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20407488/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The features of rat cerebral and cerebellar electrocortical activity (ECoG) under different types of anaesthesia (nembutal, ketamine or zoletil) were examined by the distribution of spectral entropy across frequency bands of ECoG and by calculation of fractal dimension determined on the basis of Higuchi's algorithm. Spectral entropy, as a measure of activity, in the case of cerebrum had greater values than the spectral entropy of cerebellum in low frequency ranges, regardless of the type of applied anesthetic. Various anesthetics evoked different effects on spectral entropy of electrocortical activity: spectral entropy of delta range greatly dominated under nembutal anesthesia, while ketamine or zoletil appeared to affect the spectral entropy of higher frequency ranges. The pronounced effect of ketamine or zoletil anesthesia on spectral entropy of higher frequency was confirmed by the higher values of Higucihi's fractal dimension (FD) of ECoGs, with a tendency of higher FD values in cerebellar activity than cerebral activity.

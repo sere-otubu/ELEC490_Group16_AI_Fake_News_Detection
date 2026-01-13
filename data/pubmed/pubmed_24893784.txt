@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anesthesia types
+TITLE: Ultrasound assessment of gastric content and volume.
+PMID: 24893784
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24893784/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Pulmonary aspiration of gastric content is a serious anaesthetic complication that can lead to significant morbidity and mortality. Aspiration risk assessment is usually based on fasting times. However, fasting guidelines do not apply to urgent or emergent situations and to patients with certain co-morbidities. Gastric content and volume assessment is a new point-of-care ultrasound application that can help determine aspiration risk. This systematic review summarizes the current literature on bedside ultrasound assessment of gastric content and volume relevant to anaesthesia practice. Seventeen articles were identified using predetermined criteria. Studies were classified into those describing the sonographic characteristics of different types of gastric content (empty, clear fluid, solid), and those describing methods for quantitative assessment of gastric volume. A possible algorithm for the clinical application of this new tool is proposed, and areas that require further research are highlighted.

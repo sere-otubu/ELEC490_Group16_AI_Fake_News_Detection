@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Genetic testing ethics
+TITLE: Disclosure of sex when incidentally revealed as part of preimplantation genetic testing (PGT): an Ethics Committee opinion.
+PMID: 30196948
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30196948/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Clinics may develop a policy to disallow selecting which embryos to transfer based on sex and choose to use only embryo quality as selection criteria. Clinics may also develop a policy to use randomization to select those embryos for transfer if more embryos suitable for transfer are available than can be transferred.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chlamydia
+TITLE: <i>Chlamydia trachomatis</i>: a model for intracellular bacterial parasitism.
+PMID: 39976429
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39976429/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+<i>Chlamydia</i> comprises a diverse group of obligate intracellular bacteria that cause infections in animals, including humans. These organisms share fascinating biology, including distinct developmental stages, non-canonical cell surface structures, and adaptations to intracellular parasitism. <i>Chlamydia trachomatis</i> is of particular interest due to its significant clinical importance, causing both ocular and sexually transmitted infections. The strain L2/434/Bu, responsible for lymphogranuloma venereum, is the most common strain used to study chlamydial molecular and cell biology because it grows readily in cell culture and is amenable to genetic manipulation. Indeed, this strain has enabled researchers to tackle fundamental questions about the molecular mechanisms underlying <i>Chlamydia's</i> developmental transitions and biphasic lifecycle and cellular adaptations to obligate intracellular parasitism, including characterizing numerous conserved virulence genes and defining immune responses. However, L2/434/Bu is not representative of <i>C. trachomatis</i> strains that cause urogenital infections in humans, limiting its utility in addressing questions of host tropism and immune evasion in reproductive organs. Recent research efforts are shifting toward understanding the unique attributes of more clinically relevant <i>C. trachomatis</i> genovars.

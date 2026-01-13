@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antihistamines
+TITLE: Allergic Rhinitis.
+PMID: 38816106
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38816106/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Allergic rhinitis is a common ailment in primary and acute care settings. Diagnosis is clinical, by means of history and physical examination. Referral to an allergist is considered when symptoms are difficult to manage and/or confirmation by means of further testing is desired. Management of allergic rhinitis should not be considered trivial, as multiple secondary effects can present as the course progresses. Several treatment modalities exist but should begin with glucocorticoid nasal sprays and systemic second- or third-generation antihistamines.

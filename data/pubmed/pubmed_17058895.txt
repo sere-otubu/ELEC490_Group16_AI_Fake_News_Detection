@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Influenza
+TITLE: [Human influenza].
+PMID: 17058895
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17058895/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Human influenza is one of the most common human infectious diseases, contributing to approximately one million deaths every year. In Germany, each year between 5.000 and 20.000 individuals die from severe influenza infections. In several countries, the morbidity and mortality of influenza is greatly underestimated. This is reflected by general low immunization rates. The emergence of avian influenza against the background of the scenario of a human influenza pandemic has revived public interest in the disease. According to the World Health Organisation, it is only the question on the beginning of a new influenza pandemic. The virus type of the new pandemic is still uncertain and it is also unclear, if a pandemic spread of the virus may be prevented by consistent controlling of avian influenza.

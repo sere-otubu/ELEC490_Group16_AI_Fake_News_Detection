@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Laxatives
+TITLE: Bisacodyl: A review of pharmacology and clinical evidence to guide use in clinical practice in patients with constipation.
+PMID: 33751780
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33751780/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Bisacodyl is a member of the diphenylmethane family and is considered to be a stimulant laxative. It has a dual prokinetic and secretory action and needs to be converted into the active metabolite bis-(p-hydroxyphenyl)-pyridyl-2-methane (BHPM) in the gut to achieve the desired laxative effect. Bisacodyl acts locally in the large bowel by directly enhancing the motility, reducing transit time, and increasing the water content of the stool. A recent network meta-analysis concluded that bisacodyl showed similar efficacy to prucalopride, lubiprostone, linaclotide, tegaserod, velusetrag, elobixibat, and sodium picosulfate for the primary endpoint of ≥3 complete spontaneous bowel movements (CSBM)/week and an increase of ≥1 CSBM/week over baseline. The meta-analysis also found that bisacodyl may be superior to the other laxatives for the secondary endpoint of change from baseline in the number of spontaneous bowel movements per week in patients with chronic constipation. This observation stimulated the authors to review the available literature on bisacodyl, which has been available on the market since the 1950 s. The aim of the current review was to provide an overview of the historic background, structure, function, and mechanism of action of bisacodyl. Additionally, we discuss the important features and studies for bisacodyl to understand its peculiar characteristics and guide its use in clinical practice, but also stimulate research on open questions.

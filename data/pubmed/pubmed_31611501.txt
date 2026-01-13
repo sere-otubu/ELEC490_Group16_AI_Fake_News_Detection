@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cardiovascular system
+TITLE: Physiological significance of ghrelin in the cardiovascular system.
+PMID: 31611501
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31611501/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ghrelin, a growth hormone-releasing peptide first discovered in rat stomach in 1999, is a ligand for the growth hormone secretagogue receptor. It participates in the regulation of diverse processes, including energy balance and body weight maintenance, and appears to be beneficial for the treatment of cardiovascular diseases. In animal models of chronic heart failure, ghrelin improves cardiac function and remodeling; these findings have been recapitulated in human patients. In other animal models, ghrelin effectively diminishes pulmonary hypertension. Moreover, ghrelin administration early after myocardial infarction decreased the frequency of fatal arrhythmia and improved survival rate. In ghrelin-deficient mice, endogenous ghrelin protects against fatal arrhythmia and promotes remodeling after myocardial infarction. Although the mechanisms underlying the effects of ghrelin on the cardiovascular system have not been fully elucidated, its beneficial effects appear to be mediated through regulation of the autonomic nervous system. Ghrelin is a promising therapeutic agent for cardiac diseases.

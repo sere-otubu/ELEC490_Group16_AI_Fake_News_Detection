@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Surgery preparation
+TITLE: The utility of mock oral examinations in preparation for the American Board of Surgery certifying examination.
+PMID: 26686905
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26686905/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Determine the utility of mock oral examinations in preparation for the American Board of Surgery certifying examination (ABS CE). Between 2002 and 2012, blinded data were collected on 63 general surgery residents: 4th and 5th-year mock oral examination scores, first-time pass rates on ABS CE, and an online survey. Fifty-seven residents took the 4th-year mock oral examination: 30 (52.6%) passed and 27 (47.4%) failed, with first-time ABS CE pass rates 93.3% and 81.5% (P = .238). Fifty-nine residents took the 5th-year mock oral examination: 28 (47.5%) passed and 31 (52.5%) failed, with first-time ABS CE pass rates 82.1% and 93.5% (P = .240). Thirty-eight responded to the online survey, 77.1% ranked mock oral examinations as very or extremely helpful with ABS CE preparation. Although mock oral examinations and ABS CE passing rates do not directly correlate, residents perceive the mock oral examinations to be helpful.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Melanoma
+TITLE: Braf(V600E) cooperates with Pten loss to induce metastatic melanoma.
+PMID: 19282848
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19282848/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Mutational activation of BRAF is the earliest and most common genetic alteration in human melanoma. To build a model of human melanoma, we generated mice with conditional melanocyte-specific expression of BRaf(V600E). Upon induction of BRaf(V600E) expression, mice developed benign melanocytic hyperplasias that failed to progress to melanoma over 15-20 months. By contrast, expression of BRaf(V600E) combined with Pten tumor suppressor gene silencing elicited development of melanoma with 100% penetrance, short latency and with metastases observed in lymph nodes and lungs. Melanoma was prevented by inhibitors of mTorc1 (rapamycin) or MEK1/2 (PD325901) but, upon cessation of drug administration, mice developed melanoma, indicating the presence of long-lived melanoma-initiating cells in this system. Notably, combined treatment with rapamycin and PD325901 led to shrinkage of established melanomas. These mice, engineered with a common genetic profile to human melanoma, provide a system to study melanoma's cardinal feature of metastasis and for preclinical evaluation of agents designed to prevent or treat metastatic disease.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Organ donation ethics
+TITLE: [Organ donation after circulatory death].
+PMID: 26810404
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26810404/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Approximately 17 million inhabitants live in the Netherlands. The number of potential organ donors in 1999 was the lowest in Europe with only 10 donors per million inhabitants. Medical associations, public health services, health insurance companies and the government had to find common solutions in order to improve organ allocation, logistics of donations and to increase the number of transplantations. After a prolonged debate on medical ethical issues of organ transplantation, all participants were able to agree on socio-medico-legal regulations for organ donation and transplantation. In addition to improving the procedure for organ donation after brain death (DBD) the most important step was the introduction of organ donation after circulatory death (DCD). Measures such as the introduction of a national organ donor database, improved information to the public, further education on intensive care units (ICU), guidelines for end of life care on the ICU, establishment of transplantation coordinators on site, introduction of autonomous explantation teams and strict procedures on the course of organ donations, answered many practical issues about logistics and responsibilities for DBD and DCD. In 2014 the number of postmortem organ donations rose to 16.4 per million inhabitants. Meanwhile, up to 60 % of organ donations in the Netherlands originate from a DCD procedure compared to approximately 10 % in the USA. This overview article discusses the developments and processes of deceased donation in the Netherlands after 15 years of experience with DCD.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anaphylaxis
+TITLE: Perioperative Anaphylaxis.
+PMID: 34823744
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34823744/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Perioperative anaphylaxis is a potentially life-threatening and under-recognized event most commonly caused by antibiotics, neuromuscular blocking agents, dyes, latex, and disinfectants. This review provides updates in the epidemiology and pathogenesis of perioperative anaphylaxis, discusses culprit agents, and highlights the tenets of management including a comprehensive allergy evaluation.

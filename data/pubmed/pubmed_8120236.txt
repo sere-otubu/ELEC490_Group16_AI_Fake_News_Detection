@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Psoriasis
+TITLE: Psoriasis in China.
+PMID: 8120236
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8120236/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This paper presents a review of the epidemiology, the frequency of HLA antigen, the special clinical forms, the associations, and the treatment of psoriasis in China. Special attention is paid to the practice of treating psoriasis with traditional Chinese medicine and combinations of traditional Chinese and Western medicine.

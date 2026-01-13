@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dopamine
+TITLE: Prediction error in dopamine neurons during associative learning.
+PMID: 37451506
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37451506/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Dopamine neurons have long been thought to facilitate learning by broadcasting reward prediction error (RPE), a teaching signal used in machine learning, but more recent work has advanced alternative models of dopamine's computational role. Here, I revisit this critical issue and review new experimental evidences that tighten the link between dopamine activity and RPE. First, I introduce the recent observation of a gradual backward shift of dopamine activity that had eluded researchers for over a decade. I also discuss several other findings, such as dopamine ramping, that were initially interpreted to conflict but later found to be consistent with RPE. These findings improve our understanding of neural computation in dopamine neurons.

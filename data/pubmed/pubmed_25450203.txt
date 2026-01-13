@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Fatty liver disease
+TITLE: Molecular mechanism of PPARα action and its impact on lipid metabolism, inflammation and fibrosis in non-alcoholic fatty liver disease.
+PMID: 25450203
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25450203/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Peroxisome proliferator-activated receptor α (PPARα) is a ligand-activated transcription factor belonging, together with PPARγ and PPARβ/δ, to the NR1C nuclear receptor subfamily. Many PPARα target genes are involved in fatty acid metabolism in tissues with high oxidative rates such as muscle, heart and liver. PPARα activation, in combination with PPARβ/δ agonism, improves steatosis, inflammation and fibrosis in pre-clinical models of non-alcoholic fatty liver disease, identifying a new potential therapeutic area. In this review, we discuss the transcriptional activation and repression mechanisms by PPARα, the spectrum of target genes and chromatin-binding maps from recent genome-wide studies, paying particular attention to PPARα-regulation of hepatic fatty acid and plasma lipoprotein metabolism during nutritional transition, and of the inflammatory response. The role of PPARα, together with other PPARs, in non-alcoholic steatohepatitis will be discussed in light of available pre-clinical and clinical data.

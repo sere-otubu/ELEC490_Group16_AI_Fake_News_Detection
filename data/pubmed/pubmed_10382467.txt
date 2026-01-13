@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Athletes foot
+TITLE: Common pediatric foot dermatoses.
+PMID: 10382467
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10382467/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The pediatric foot dermatoses known as tinea pedis, shoe dermatitis, and juvenile plantar dermatosis are seen commonly in clinical practice. A knowledge of the clinical presentations and causes of these disorders can help pediatric and family nurse practitioners identify, diagnose, and treat childhood rashes of the feet. The conventional view in pediatrics is that small children rarely have tinea pedis. However, a 1992 study disputes this claim. Any child who has an atypical or persistent foot rash will need a referral or consultation.

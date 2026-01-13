@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Circadian rhythms
+TITLE: Genetics of Circadian Rhythms.
+PMID: 31256785
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31256785/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In mammals, genetic influences of circadian rhythms occur at many levels. A set of core "clock genes" have been identified that form a feedback loop of gene transcription and translation. The core genetic clockwork generates circadian rhythms in cells throughout the body. Polymorphisms in both core clock genes and interacting genes contribute to individual differences in the expression and properties of circadian rhythms. The circadian clock profoundly influences the patterns of gene expression and cellular functions, providing a mechanistic basis for the impact of the genetic circadian system on normal physiological processes as well as the development of diseases.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hepatitis C
+TITLE: Hepatitis C: molecular virology and antiviral targets.
+PMID: 12383770
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12383770/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Chronic hepatitis C is a leading cause of liver cirrhosis and hepatocellular carcinoma worldwide. Although current treatment options are limited, progress in understanding the molecular virology of hepatitis C has led to the identification of novel antiviral targets. Moreover, in vitro and in vivo model systems have been developed that allow systematic evaluation of new therapeutic strategies. This review details current concepts in molecular virology and emerging therapies for hepatitis C.

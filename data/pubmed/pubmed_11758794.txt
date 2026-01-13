@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Erectile dysfunction
+TITLE: Neurogenic erectile dysfunction.
+PMID: 11758794
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11758794/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Penile erection is a neurovascular event modulated by psyche and hormones. Erectile dysfunction (ED) has been classified as psychogenic, arteriogenic, neurogenic, endocrinologic, and cavernosal, based on the organs that are involved in penile erection. Among these types, neurogenic ED may be the most common, probably because a deficiency of neurotransmitters is the final common pathway in many diseases and conditions. This review discusses the physiology, pathophysiology, diagnosis, and treatment of erectile function and dysfunction, as well as strategies for future research.

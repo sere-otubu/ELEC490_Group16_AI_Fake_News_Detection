@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Type 1 allergies
+TITLE: DNA and mRNA vaccination against allergies.
+PMID: 30063806
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30063806/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Allergen-specific immunotherapy, which is performed by subcutaneous injection or sublingual application of allergen extracts, represents an effective treatment against type I allergic diseases. However, due to the long duration and adverse reactions, only a minority of patients decides to undergo this treatment. Alternatively, early prophylactic intervention in young children has been proposed to stop the increase in patient numbers. Plasmid DNA and mRNA vaccines encoding allergens have been shown to induce T helper 1 as well as T regulatory responses, which modulate or counteract allergic T helper 2-biased reactions. With regard to prophylactic immunization, additional safety measurements are required. In contrast to crude extracts, genetic vaccines provide the allergen at high purity. Moreover, by targeting the encoded allergen to subcellular compartments for degradation, release of native allergen can be avoided. Due to inherent safety features, mRNA vaccines could be the candidates of choice for preventive allergy immunizations. The subtle priming of T helper 1 immunity induced by this vaccine type closely resembles responses of non-allergic individuals and-by boosting via natural allergen exposure-could suffice for long-term protection from type I allergy.

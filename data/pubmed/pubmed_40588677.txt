@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Trans fats risks
+TITLE: Health effects associated with consumption of processed meat, sugar-sweetened beverages and trans fatty acids: a Burden of Proof study.
+PMID: 40588677
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40588677/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Previous research suggests detrimental health effects associated with consuming processed foods, including processed meats, sugar-sweetened beverages (SSBs) and trans fatty acids (TFAs). However, systematic characterization of the dose-response relationships between these foods and health outcomes is limited. Here, using Burden of Proof meta-regression methods, we evaluated the associations between processed meat, SSBs and TFAs and three chronic diseases: type 2 diabetes, ischemic heart disease (IHD) and colorectal cancer. We conservatively estimated that-relative to zero consumption-consuming processed meat (at 0.6-57 g d<sup>-1</sup>) was associated with at least an 11% average increase in type 2 diabetes risk and a 7% (at 0.78-55 g d<sup>-1</sup>) increase in colorectal cancer risk. SSB intake (at 1.5-390 g d<sup>-1</sup>) was associated with at least an 8% average increase in type 2 diabetes risk and a 2% (at 0-365 g d<sup>-1</sup>) increase in IHD risk. TFA consumption (at 0.25-2.56% of daily energy intake) was associated with at least a 3% average increase in IHD risk. These associations each received two-star ratings reflecting weak relationships or inconsistent input evidence, highlighting both the need for further research and-given the high burden of these chronic diseases-the merit of continuing to recommend limiting consumption of these foods.

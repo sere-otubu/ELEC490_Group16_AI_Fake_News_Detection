@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antifungals
+TITLE: The safety of oral antifungals for the treatment of onychomycosis.
+PMID: 37925672
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37925672/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Oral antifungals are used for the treatment of moderate-severe onychomycosis. Terbinafine and itraconazole are approved for onychomycosis treatment in North America; additionally, fluconazole is indicated for onychomycosis in Europe. Other oral antifungals such as ketoconazole and griseofulvin are no longer used for the treatment of onychomycosis due to safety concerns and relatively lower efficacy. On 7 March 2023, we conducted a comprehensive search in PubMed and Google Scholar, while also manually examining selected article bibliographies and package inserts. Terbinafine, itraconazole, and fluconazole have several interactions with cytochrome-p450, and either alone, or when co-administered with other drugs these interactions can facilitate a multitude of adverse events. This article identifies possible hepatic, renal, cutaneous, cardiovascular, neurological, hemopoietic, and obstetric adverse events. We have also compared the rates of hepatotoxicity, clinically apparent liver injury, and alanine transaminase elevations between oral antifungals, and recommendations for hepatic monitoring. We recommend laboratory testing of liver function tests prior to the administration of any oral antifungals, especially when clinically indicated. In the event of a first treatment failure, the diagnosis of onychomycosis must be confirmed, and consideration given to antifungal susceptibility testing. Antifungal stewardship will help reduce the incidence of antifungal resistance.

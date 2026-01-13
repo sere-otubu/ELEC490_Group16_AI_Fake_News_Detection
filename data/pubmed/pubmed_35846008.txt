@@ -1,0 +1,8 @@
+SEARCH_TOPIC: BMI accuracy
+TITLE: Influence of Sex, BMI, and Skin Color on the Accuracy of Non-Invasive Cuffless Photoplethysmography-Based Blood Pressure Measurements.
+PMID: 35846008
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35846008/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Vital signs obtained by photoplethysmography-based devices might be influenced by subcutaneous fat and skin color. This observational comparison study aimed to test the accuracy of blood pressure (BP) measurements between a photoplethysmography-based device and cuff-based BP device in ambulatory individuals, coming for a routine BP checkup. Systolic BP (SBP) and diastolic BP (DBP) measurements were stratified based on sex, BMI (<25; 25 ≤BMI<30; 30 ≤kg/m<sup>2</sup>), and skin color (types 1-3 and 4-6 by the Fitzpatrick scale). A total of 1548 measurements were analyzed. Correlations of SBP and DBP between the devices among males/females were between 0.914-0.987 (<i>p</i> < 0.001), and Bland-Altman analysis showed a bias of less than 0.5 mmHg for both sexes. Correlations of SBP and DBP between the devices among BMI groups were between 0.931-0.991 (<i>p</i> < 0.001), and Bland-Altman analysis showed a bias of less than 1 mmHg for all. Correlations of SBP and DBP between the devices among the skin color groups were between 0.936-0.983 (<i>p</i> < 0.001), and Bland-Altman analysis showed a bias of less than 1 mmHg for all. This study shows similar and high agreements between BP measurements obtained using a PPG-based non-invasive cuffless BP device and a cuff-based BP device across sex, BMI, and skin color groups.

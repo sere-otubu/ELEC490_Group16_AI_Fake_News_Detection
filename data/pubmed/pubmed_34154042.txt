@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Osteoporosis
+TITLE: Long-Term Treatment of Postmenopausal Osteoporosis.
+PMID: 34154042
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34154042/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Osteoporosis is an incurable chronic condition, like heart disease, diabetes, or hypertension. A large gap currently exists in the primary prevention of fractures, and studies show that an estimated 80% to 90% of adults do not receive appropriate osteoporosis management even in the secondary prevention setting. Case finding strategies have been developed and effective pharmacological interventions are available. This publication addresses how best to use the pharmacological options available for postmenopausal osteoporosis to provide lifelong fracture protection in patients at high and very high risk of fracture. The benefit of osteoporosis therapies far outweighs the rare risks.

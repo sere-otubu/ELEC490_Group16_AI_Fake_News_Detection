@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dopamine
+TITLE: Multiple dopamine functions at different time courses.
+PMID: 17600522
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17600522/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Many lesion studies report an amazing variety of deficits in behavioral functions that cannot possibly be encoded in great detail by the relatively small number of midbrain dopamine neurons. Although hoping to unravel a single dopamine function underlying these phenomena, electrophysiological and neurochemical studies still give a confusing, mutually exclusive, and partly contradictory account of dopamine's role in behavior. However, the speed of observed phasic dopamine changes varies several thousand fold, which offers a means to differentiate the behavioral relationships according to their time courses. Thus dopamine is involved in mediating the reactivity of the organism to the environment at different time scales, from fast impulse responses related to reward via slower changes with uncertainty, punishment, and possibly movement to the tonic enabling of postsynaptic motor, cognitive, and motivational systems deficient in Parkinson's disease.

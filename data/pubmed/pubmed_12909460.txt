@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hepatitis C
+TITLE: Hepatitis C virus infection: when silence is deception.
+PMID: 12909460
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12909460/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hepatitis C virus (HCV) uses complex and unique mechanisms to prevent, evade or subvert innate and adaptive immune responses and to establish persistent infection and chronic hepatitis. Recently developed experimental systems have significantly facilitated the analysis of HCV replication, virus-host interaction and pathogenesis of chronic hepatitis and have provided new insights into the mechanisms of HCV clearance and persistence.

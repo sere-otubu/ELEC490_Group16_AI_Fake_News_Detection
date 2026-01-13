@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Human brain structure
+TITLE: Expansion and Renormalization of Human Brain Structure During Skill Acquisition.
+PMID: 29149999
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29149999/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Research on human brain changes during skill acquisition has revealed brain volume expansion in task-relevant areas. However, the large number of skills that humans acquire during ontogeny militates against plasticity as a perpetual process of volume growth. Building on animal models and available theories, we promote the expansion-renormalization model for plastic changes in humans. The model predicts an initial increase of gray matter structure, potentially reflecting growth of neural resources like neurons, synapses, and glial cells, which is followed by a selection process operating on this new tissue leading to a complete or partial return to baseline of the overall volume after selection has ended. The model sheds new light on available evidence and current debates and fosters the search for mechanistic explanations.

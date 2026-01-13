@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Diuretics
+TITLE: [Diuretics and kidney diseases].
+PMID: 10894020
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10894020/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The main indications for diuretic treatment of renal patients are edema and hypertension. Pharmacokinetics and pharmacodynamics of diuretics are altered in patients with proteinuria and/or impaired renal function. These patients exhibit avid sodium retention. Diuretics are partially inactivated by binding to proteins in tubular fluid. The natriuretic response to diuretics is limited by counter-regulation, specifically increased proximal tubular reabsorption in response to hypovolemia and increased distal tubular sodium reabsorption in response to increased sodium load. At higher serum creatinine values, thiazides are no longer sufficiently effective in monotherapy. The diuretics of first choice are then loop diuretics, potentially in combination with thiazide diuretics. Potassium-sparing diuretics are contraindicated. The most important side effects of diuretics are hypovolemia with orthostatic hypotension, hypokalemia, metabolic alkalosis, increase of creatinine concentration and (rarely) hyponatremia. Diuretic treatment should be accompanied by reduction of dietary sodium intake. Important points are selection of an adequate dose (in problematic cases dose-finding via urine sodium measurements) and selection of proper dosing intervals. If cases do not respond to loop diuretic monotherapy, combination with thiazide diuretics or intravenous administration of loop diuretics should be considered.

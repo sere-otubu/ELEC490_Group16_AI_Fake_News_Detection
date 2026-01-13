@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Heart anatomy
+TITLE: Pericardial diseases.
+PMID: 22289657
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22289657/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The pericardium provides an enclosed lubricated space for the beating heart and functions to fix the heart in the chest cavity relative to adjacent organs. Pericardial pathophysiology is often manifested in a spectrum of distinct cardiac and systemic disease states. The pericardial response to injury typically involves a spectrum of inflammation with both acute and chronic features and/or fluid accumulation. Recent advances in imaging methods have refined the diagnosis and therapy of pericardial disease. This article presents the anatomy and physiology of pericardial disease and the clinical approach for diagnosis and treatment.

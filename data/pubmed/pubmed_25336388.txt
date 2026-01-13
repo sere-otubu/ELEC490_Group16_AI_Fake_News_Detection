@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gambling addiction
+TITLE: Disordered gambling: the evolving concept of behavioral addiction.
+PMID: 25336388
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25336388/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The reclassification of gambling disorder within the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) addictions category marks an important step for addiction science. The similarities between gambling disorder and the substance use disorders have been well documented. As gambling is unlikely to exert actively damaging effects on the brain, the cognitive sequelae of gambling disorder may provide insights into addictive vulnerabilities; this idea is critically evaluated in light of recent structural imaging data. The second part of the review analyzes a fundamental question of how a behavior can become addictive in the absence of exogenous drug stimulation. The relative potency of drug and nondrug rewards is considered, alongside evidence that cognitive distortions in the processing of chance (for example, the illusion of control and the gambler's fallacy) may constitute an important added ingredient in gambling. Further understanding of these mechanisms at neural and behavioral levels will be critical for the classification of future behavioral addictions, and I consider the current research data for obesity and binge eating, compulsive shopping, and internet gaming disorder.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insomnia
+TITLE: Insomnia.
+PMID: 33683929
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33683929/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Insomnia-the unwelcome experience of difficulty sleeping-is common and can be acute, intermittent, or chronic. Insomnia can be the presenting symptom for several common sleep disorders, but it also often occurs comorbidly with mental and physical health conditions. Evaluating the symptom of insomnia requires assessing-largely by history-whether an underlying condition explains it. <i>Insomnia disorder</i> is the diagnostic term for the symptom of insomnia that merits specific attention. Cognitive behavioral therapy for insomnia is the preferred treatment approach because of its efficacy, safety, and durability of benefit, but pharmaceutical treatments are widely used for insomnia symptoms.

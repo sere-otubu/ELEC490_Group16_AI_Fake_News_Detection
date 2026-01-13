@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Flexibility training
+TITLE: Flexible endoscopic robot.
+PMID: 25627436
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25627436/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Natural orifice transluminal endoscopic surgery (NOTES) is a novel surgical procedure during which abdominal operations can be performed with an endoscope passed through a natural orifice through an internal incision in the stomach, vagina, bladder or colon. NOTES is still evolving and many barriers stand on its way before it can gain acceptance in modern surgical practice. Effective access to the peritoneal cavity, closure techniques of the natural orifice access sites, development of a multitasking platform to accomplish procedures and support for special orientation are only a handful of its known limitations. Although the endoscope and conventional tools are useful for simple procedures, many important and complicated procedures are currently not possible due to limitation of degree of freedom (DOF) of the end effectors. We have developed a Master and Slave Transluminal Endoscopic Robot (MASTER) with nine degrees of freedom (DOF) in end effectors, which are long and flexible so as to enhance endoscopic procedures and NOTES. Using MASTER we have successfully performed endoscopic sub-mucosal dissections (ESD) to segmental hepatectomies in animal models. Thus, the MASTER robotic system shows great potential to perform new surgical procedures that are otherwise not possible with conventional endoscopic tools.

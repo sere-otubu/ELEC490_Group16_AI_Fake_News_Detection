@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Digestive system
+TITLE: Reg proteins and their roles in inflammation and cancer of the human digestive system.
+PMID: 24015602
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24015602/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The regenerating gene (Reg) family is a group of small molecules that includes four members found in various species, although only three are found in human tissues. Their expression is stimulated by certain growth factors or cytokines. The Reg family plays different roles in proliferation, migration, and anti-apoptosis through activating different signaling pathways. Their dysexpression is closely associated with a number of human conditions and diseases such as inflammation and cancer, especially in the human digestive system. Clinically, upregulation of Reg proteins is usually demonstrated in histological sections and sera from cancer patients. Therefore, Reg proteins can predict the progression and prognosis of cancers, especially those of the digestive tract, and can also act as diagnostic markers and therapeutic targets.

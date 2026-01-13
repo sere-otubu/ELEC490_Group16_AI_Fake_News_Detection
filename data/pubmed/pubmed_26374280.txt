@@ -1,0 +1,8 @@
+SEARCH_TOPIC: COPD
+TITLE: COPD and its comorbidities: Impact, measurement and mechanisms.
+PMID: 26374280
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26374280/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Chronic obstructive pulmonary disease (COPD) frequently coexists with other conditions often known as comorbidities. The prevalence of most of the common comorbid conditions that accompany COPD has been widely reported. It is also recognized that comorbidities have significant health and economic consequences. Nevertheless, there is scant research examining how comorbidities should be assessed and managed in the context of COPD. Also, the underlying mechanisms linking COPD with its comorbidities are still not fully understood. Owing to these knowledge gaps, current disease-specific approaches provide clinicians with little guidance in terms of managing comorbid conditions in the clinical care of multi-diseased COPD patients. This review discusses the concepts of comorbidity and multi-morbidity in COPD in relation to the overall clinical outcome of COPD management. It also summarizes some of the currently available clinical scores used to measure comorbid conditions and their prognostic abilities. Furthermore, recent developments in the proposed mechanisms linking COPD with its comorbidities are discussed.

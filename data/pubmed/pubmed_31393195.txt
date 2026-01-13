@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Acne vulgaris
+TITLE: Acne vulgaris: new evidence in pathogenesis and future modalities of treatment.
+PMID: 31393195
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31393195/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Acne vulgaris, a common and chronic disorder of the pilosebaceous unit, affects up to 85% of adolescent and young adults. While a lot is already known about acne and its treatment, still the gaps in our understanding of acne remains. This article will review the emerging evidence in the complex pathogenesis of acne and provide an overview of the potential future therapy in management of acne vulgaris.Key points<b>What is known?</b> <i>Propionibacterium acnes</i> targeted therapy has been the mainstay in the management of acne till now.<b>What is new?</b> Sebocyte activity is controlled via a range of cellular pathways and hormones in addition to androgens. This has opened an array of therapeutic options to be available for treating acne in the near future.

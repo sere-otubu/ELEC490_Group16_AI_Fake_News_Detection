@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Genetic screening
+TITLE: [Genetic screening of adopted individuals].
+PMID: 33829992
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33829992/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Information regarding hereditary disease predisposition is generally inaccessible for adoptees. The lack of family history restricts access to various surveillance programmes and the overall health of the adoptee. Genetic screening of asymptomatic adoptees could be a compensational tool. However, variant classification is difficult, even more so in certain ethnic groups and in cases where there is no knowledge of family history, as summarised in this review. The usefulness of genetic screening of asymptomatic adoptees is still unknown and requires further research for clarification.

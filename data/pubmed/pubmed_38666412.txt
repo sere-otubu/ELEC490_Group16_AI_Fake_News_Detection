@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urinalysis
+TITLE: Performance of Urinalysis Parameters in Predicting Urinary Tract Infection: Does One Size Fit All?
+PMID: 38666412
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38666412/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In a multihospital cohort study of 3392 patients, positive urinalysis parameters had poor positive predictive value for diagnosing urinary tract infection (UTI). Combined urinalysis parameters (pyuria or nitrite) performed better than pyuria alone for ruling out UTI. However, performance of all urinalysis parameters was poor in older women.

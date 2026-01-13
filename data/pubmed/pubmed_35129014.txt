@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lymphoma
+TITLE: Safety considerations with the current treatments for peripheral T-cell lymphoma.
+PMID: 35129014
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35129014/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Peripheral T-Cell Lymphomas (PTCL) constitute a heterogeneous group of aggressive T - and natural killer (NK)-cell disorders and are associated with a poor prognosis. Frontline treatments often consist of anthracycline-based combination chemotherapy with the exception of NK-T cell lymphomas, where such combinations are ineffective due to the presence of P-glycoprotein which leads to multidrug resistance. Infectious and immune mediated side effects might be more pronounced in or unique to T-cell lymphomas due to the selection of agents which target multiple T-cell subtypes and also an immunocompromised state induced by the lymphomas themselves. This review provides a comprehensive overview of safety considerations of treatment regimens used for peripheral T-cell lymphomas. We cover regimens used in both frontline and relapsed settings including combination chemotherapy, single agent chemotherapies and immunotherapies. Treatment of T-cell lymphomas often requires sequencing of several therapies due to lower efficacy of available treatment regimens in curing the disease compared to that seen in B-cell non-Hodgkin lymphomas. In addition, certain complications are more common in T-cell lymphomas due to their unique immunobiology. An understanding of these salient aspects is important for all providers who treat patients with this challenging disease group.

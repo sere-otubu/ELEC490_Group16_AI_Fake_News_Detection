@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Food safety guidelines
+TITLE: [Milk and food security].
+PMID: 25862327
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25862327/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In the history of food security in the EU there is a before and after the White Paper published in January 2000; since then we are witnessing radical new approaches in the Commission strategy to ensure the highest standards of food safety for EU citizens, based on a more coordinated and integrated organization. The basic principle was to extend the application of control measures at all stages of the production chain, which was summarized in the slogan which has since been repeated regularly: 'From Farm to Consumer'. The new guidelines for action were the answer to a series of food crises (dioxin, hormones, BSE...) that called into question the European agri-food system and, what was even more severe, produced a deep distrust of consumers by health risks attached to feeding. Beef and cow's milk, two basic components of the European diet, were the products most affected by the aforementioned crisis, which showed that in those years very few companies paid attention to the quality from the source. In this paper a review of the issues presented at the time, the measures implemented by the White Paper and the path travelled is done, while it raised the need to use safe and quality raw materials, so that consumers have absolute confidence in their food.

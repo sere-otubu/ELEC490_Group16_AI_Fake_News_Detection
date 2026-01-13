@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Aerobic exercise
+TITLE: Aerobic exercise and cognitive functioning in schizophrenia: An updated systematic review and meta-analysis.
+PMID: 35659670
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35659670/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This study serves as an update to a recent systematic review and meta-analysis to summarize the effect of aerobic exercise on cognition in schizophrenia and determine the most effective method of aerobic exercise. We searched for controlled studies investigating the effect of aerobic exercise on cognition in schizophrenia published until January 2021. Fifteen studies were included. A random-effects model was used to estimate the standardized mean differences (SMDs) between cognitive outcomes of aerobic exercises and controls. Compared with controls, aerobic exercises resulted in significant improvements in global cognition (SMD = 0.21), attention/vigilance (SMD = 0.32), working memory (SMD = 0.27), and verbal learning (SMD = 0.30). Significant improvements in global cognition were observed with group exercise (SMD = 0.28), exercise supervised by exercise professionals (SMD = 0.27), as well as with ≥ 90 min/week (SMD = 0.26) and ≥ 12 weeks duration (SMD = 0.22). Our findings provide information beneficial for determining the most effective aerobic exercise method to improve cognition in schizophrenia.

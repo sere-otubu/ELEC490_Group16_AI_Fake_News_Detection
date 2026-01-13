@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gallstones
+TITLE: Gallstones in Patients with Chronic Liver Diseases.
+PMID: 28251162
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28251162/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+With prevalence of 10-20% in adults in developed countries, gallstone disease (GSD) is one of the most prevalent and costly gastrointestinal tract disorders in the world. In addition to gallstone disease, chronic liver disease (CLD) is also an important global public health problem. The reported frequency of gallstone in chronic liver disease tends to be higher. The prevalence of gallstone disease might be related to age, gender, etiology, and severity of liver disease in patients with chronic liver disease. In this review, the aim was to identify the epidemiology, mechanisms, and treatment strategies of gallstone disease in chronic liver disease patients.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Metformin
+TITLE: Benefits of Metformin in Attenuating the Hallmarks of Aging.
+PMID: 32333835
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32333835/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Biological aging involves an interplay of conserved and targetable molecular mechanisms, summarized as the hallmarks of aging. Metformin, a biguanide that combats age-related disorders and improves health span, is the first drug to be tested for its age-targeting effects in the large clinical trial-TAME (targeting aging by metformin). This review focuses on metformin's mechanisms in attenuating hallmarks of aging and their interconnectivity, by improving nutrient sensing, enhancing autophagy and intercellular communication, protecting against macromolecular damage, delaying stem cell aging, modulating mitochondrial function, regulating transcription, and lowering telomere attrition and senescence. These characteristics make metformin an attractive gerotherapeutic to translate to human trials.

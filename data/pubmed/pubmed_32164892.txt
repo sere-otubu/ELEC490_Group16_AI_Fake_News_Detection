@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Diuretics
+TITLE: Diuretic Therapy for Patients With Heart Failure: JACC State-of-the-Art Review.
+PMID: 32164892
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32164892/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Expansion of extracellular fluid volume is central to the pathophysiology of heart failure. Increased extracellular fluid leads to elevated intracardiac filling pressures, resulting in a constellation of signs and symptoms of heart failure referred to as congestion. Loop diuretics are one of the cornerstones of treatments for heart failure, but in contrast to other therapies, robust clinical trial evidence to guide the use of diuretics is sparse. A nuanced understanding of renal physiology and diuretic pharmacokinetics is essential for skillful use of diuretics in the management of heart failure in both the inpatient and outpatient settings. Diuretic resistance, defined as an inadequate quantity of natriuresis despite an adequate diuretic regimen, is a major clinical challenge that generally portends a poor prognosis. In this review, the authors discuss the fundamental mechanisms and physiological principles that underlie the use of diuretic therapy and the available data on the optimal use of diuretics.

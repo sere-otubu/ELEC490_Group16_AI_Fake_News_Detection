@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Probiotics and gut health
+TITLE: Gut Microbiota, Probiotics and Physical Performance in Athletes and Physically Active Individuals.
+PMID: 32992765
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32992765/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Among athletes, nutrition plays a key role, supporting training, performance, and post-exercise recovery. Research has primarily focused on the effects of diet in support of an athletic physique; however, the role played by intestinal microbiota has been much neglected. Emerging evidence has shown an association between the intestinal microbiota composition and physical activity, suggesting that modifications in the gut microbiota composition may contribute to physical performance of the host. Probiotics represent a potential means for beneficially influencing the gut microbiota composition/function but can also impact the overall health of the host. In this review, we provide an overview of the existing studies that have examined the reciprocal interactions between physical activity and gut microbiota. We further evaluate the clinical evidence that supports the effects of probiotics on physical performance, post-exercise recovery, and cognitive outcomes among athletes. In addition, we discuss the mechanisms of action through which probiotics affect exercise outcomes. In summary, beneficial microbes, including probiotics, may promote health in athletes and enhance physical performance and exercise capacity. Furthermore, high-quality clinical studies, with adequate power, remain necessary to uncover the roles that are played by gut microbiota populations and probiotics in physical performance and the modes of action behind their potential benefits.

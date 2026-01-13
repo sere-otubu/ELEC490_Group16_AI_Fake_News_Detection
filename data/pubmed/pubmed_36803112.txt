@@ -1,0 +1,8 @@
+SEARCH_TOPIC: E. coli infection
+TITLE: Identification and characterization of microRNAs, especially gga-miR-181b-5p, in chicken macrophages associated with avian pathogenic <i>E. coli</i> infection.
+PMID: 36803112
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36803112/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Avian pathogenic <i>E. coli</i> (APEC) is a common pathogen in the poultry industry, which can cause substantial economic losses. Recently, emerging evidence showed that miRNAs were involved in various viral and bacterial infections. To elucidate the role of miRNAs in chicken macrophages in response to APEC infection, we attempted to investigate the miRNAs expression pattern upon APEC infection via miRNA-seq, and to identify the molecular mechanism of the important miRNAs by using RT-qPCR, western blotting, dual-luciferase reporter assay, and CCK-8. The results showed that a total of 80 differentially expressed (DE) miRNAs were identified in comparison of APEC vs. wild-type group, which corresponded to 724 target genes. Moreover, the target genes of the identified DE miRNAs were mainly significantly enriched in the MAPK signalling pathway, autophagy-bird, mTOR signalling pathway, ErbB signalling pathway, Wnt signalling pathway, and TGF-beta signalling pathway. Remarkably, gga-miR-181b-5p is able to participate in host immune and inflammatory responses against APEC infection via targeting of <i>TGFBR1</i> to modulate the activation of TGF-beta signalling pathway. Collectively, this study provides a perspective of miRNA expression patterns in chicken macrophages upon APEC infection. These findings provide insight into miRNAs against APEC infection, and gga-miR-181b-5p might be a potential target for treating APEC infection.

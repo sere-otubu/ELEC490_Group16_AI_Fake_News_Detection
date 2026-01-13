@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Parkinsons disease
+TITLE: Parkinson's disease.
+PMID: 9196696
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9196696/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Parkinson's disease is a common disabling disease of old age. The diagnosis of idiopathic Parkinson's disease is based on clinical signs and has poor sensitivity, with about 25% of patients confidently diagnosed as having the disease actually having other conditions such as multi-system atrophy and other parkinsonism-plus syndromes. Benign essential tremor and arteriosclerotic pseudo-parkinsonism can easily be confused with Parkinson's disease. The cause of Parkinson's disease remains unknown. Speculative research highlights the role of oxidative stress and free radical mediated damage to dopaminergic cells. Parkinson's disease is the one neurodegenerative disorder in which drugs have been demonstrated to be of value. There is now a wide variety of drugs and formulations available, including anticholinergics, amantidine, L-dopa, dopamine agonists including apomorphine, selegiline and soon to be available catechol-O-methyltransferase inhibitors. Disabling side-effects of treatment, fluctuations, dyskinesias and psychiatric problems require strategic use of the drugs available. There is an increasing potential for neurosurgical intervention.

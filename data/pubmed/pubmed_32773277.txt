@@ -1,0 +1,8 @@
+SEARCH_TOPIC: GMO foods safety
+TITLE: Underdetermination and evidence-based policy.
+PMID: 32773277
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32773277/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Safety assessment of technologies and interventions is often underdetermined by evidence. For example, scientists have collected evidence concerning genetically modified plants for decades. This evidence was used to ground opposing safety protocols for "stacked genetically modified" plants, in which two or more genetically modified plants are combined. Evidence based policy would thus be rendered more effective by an approach that accounts for underdetermination. Douglas (2012) proposes an explanatory approach, based on the criteria of transparency, empirical competence, internal consistency of explanations, and predictive potency. However, sometimes multiple explanations can satisfy these criteria. We propose an additional criterion based on converse abduction, where explanations are selected on the basis of ontological background assumptions as well as by evidence. We then apply our proposed scheme to the case of the regulation of stacked genetically modified plants. We discuss the implications and suggest follow-up work concerning the generalizability of the approach.

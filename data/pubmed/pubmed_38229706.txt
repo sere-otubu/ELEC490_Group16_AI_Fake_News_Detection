@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Autoimmune diseases
+TITLE: The Application of Nanovaccines in Autoimmune Diseases.
+PMID: 38229706
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38229706/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Autoimmune diseases are diseases caused by the body's chronic immune responses to self-antigens and attacks on the host's own cells, tissues and organs. The dysfunction of innate immunity and adaptive immunity leads to the destruction of autoimmune tolerance, which is the most basic factor leading to pathogenesis. The optimal strategy for autoimmune diseases is to modify the host immune system to restore tolerance. The ideal effect of therapeutic autoimmune diseases is to eliminate the autoantigen-specific spontaneous immune response without interfering with the immune response against other antigens. Therapeutic nanovaccines that produce immune tolerance conform to this principle. Nanomaterials provide a platform for antigen loading and modification due to their unique physical and chemical properties. Nanovaccines based on nanomaterial technology can simultaneously enable antigens and adjuvants to be absorbed by immune cells and induce rapid and durable immunity. Nanovaccines have the advantages of being able to be designed and loaded and of better protecting antigens from premature degradation. Nanovaccines also have the ability to target specific tissues or cells through optimized design. We review the latest research progress of nanovaccines for autoimmune diseases and the design strategies of nanovaccines to promote the development of more effective nanovaccines for autoimmune diseases.

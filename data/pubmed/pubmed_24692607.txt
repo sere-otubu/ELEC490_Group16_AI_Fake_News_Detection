@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Peer review process
+TITLE: Peer review.
+PMID: 24692607
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24692607/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The maintenance of quality and integrity in clinical and basic science research depends upon peer review. This process has stood the test of time and has evolved to meet increasing work loads, and ways of detecting fraud in the scientific community. However, in the 21st century, the emphasis on evidence-based medicine and good science has placed pressure on the ways in which the peer review system is used by most journals. This paper reviews the peer review system and the problems it faces in the digital age, and proposes possible solutions.

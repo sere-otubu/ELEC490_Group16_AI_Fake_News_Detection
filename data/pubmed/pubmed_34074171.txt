@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Social anxiety
+TITLE: Effects of mask-wearing on social anxiety: an exploratory review.
+PMID: 34074171
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34074171/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A unique feature of the global coronavirus pandemic has been the widespread adoption of mask-wearing as a public health measure to minimize the risk of contagion. Little is known about the effects of increased mask-wearing on social interactions, social anxiety, or overall mental health. Explore the potential effects of mask-wearing on social anxiety. We review existing literatures to highlight three preselected sets of factors that may be important in shaping the effects of mask-wearing on social anxiety. These are: (a) people's perceptions of the social norms associated with wearing masks; (b) people's experiences of the degree to which masks prevent accurate interpretation of social and emotional cues; and (c) people's use of masks as a type of <i>safety behavior</i> that enables self-concealment. APA PsycNet and PubMed were searched principally between September and November 2020 for articles describing the relationship between social anxiety, intolerance of uncertainty, ambiguous feedback, and safety behavior use and for research on the relationship between mask-wearing and social norms and social interactions. Information identified as relevant from articles of interest was extracted and included in our review. The effects of mask-wearing on social anxiety are likely to be substantial and clinically relevant.

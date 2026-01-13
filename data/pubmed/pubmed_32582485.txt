@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Generalized anxiety disorder
+TITLE: Using Generalized Anxiety Disorder-2 (GAD-2) and GAD-7 in a Primary Care Setting.
+PMID: 32582485
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32582485/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Anxiety disorders are highly prevalent in the primary care setting and are responsible for significant morbidity as well as a loss of productivity. Evaluation by mental health specialists and behavioral specialists can sometimes be confounded with problems of availability, accessibility, and the patient's hesitancy to talk to new providers due to lack of prior relationship and trust. Primary care providers already have the advantage of being available for their patients, and have built years of trust behind them to strengthen this relationship. The biggest problems which confront primary care are the time constraints as well as the presence of multiple medical demands. This leads to a constant need for tools that facilitate early recognition and diagnosis of mental health disorders while also providing judicious utilization of clinic time. This article attempts to review the use of two of these popular tools: Generalized Anxiety Disorder scale-2 (GAD-2) and GAD-7 in the primary care setting.

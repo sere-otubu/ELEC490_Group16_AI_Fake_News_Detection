@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tonsillitis
+TITLE: Is Helicobacter pylori colonization associated with chronic tonsillitis? - A meta-analysis and systematic review.
+PMID: 35687938
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35687938/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The aim of this study was to investigate the correlation between Helicobacter pylori colonization of tonsillar tissue in chronic tonsillitis and in noninfectious hyperplastic tonsils. All included studies investigated the presence of Helicobacter pylori in tonsillar tissue removed for infectious or noninfectious factors. Included studies must have used an accepted method of testing for Helicobacter pylori. We pooled six eligible studies to perform a traditional meta-analysis. Six studies were included, including 462 patients. Helicobacter pylori does have a significant role in chronic tonsillitis compared with noninfectious indications for tonsillectomy for children population. Detection methods had effects on results. The positive rate of Helicobacter pylori in chronic tonsillitis group was significantly higher than that in simple noninfectious group for the pediatric population, but not for adults. We suspected that chronic tonsillitis is likely to be relevant to Helicobacter pylori.

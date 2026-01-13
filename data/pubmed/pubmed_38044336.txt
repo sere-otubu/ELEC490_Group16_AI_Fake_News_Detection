@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gallstones
+TITLE: Traveling gallstones: review of MR imaging and surgical pathology features of gallstone disease and its complications in the gallbladder and beyond.
+PMID: 38044336
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38044336/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gallstone-related disease comprises a spectrum of conditions resulting from biliary stone formation, leading to obstruction and inflammatory complications. These can significantly impact patient quality of life and carry high morbidity if not accurately detected. Appropriate imaging is essential for evaluating the extent of gallstone disease and assuring appropriate clinical management. Magnetic Resonance Imaging (MRI) techniques (including Magnetic Resonance Cholangiopancreatography (MRCP) are increasingly used for diagnosis of gallstone disease and its complications and provide high contrast resolution and facilitate tissue-level assessment of gallstone disease processes. In this review we seek to delve deep into the spectrum of MR imaging in diagnose of gallstone-related disease within the gallbladder and complications related to migration of the gallstones to the gall bladder neck or cystic duct, common hepatic duct or bile duct (choledocholithiasis) and beyond, including gallstone pancreatitis, gallstone ileus, Bouveret syndrome, and dropped gallstones, by offering key examples from our practice. Furthermore, we will specifically highlight the crucial role of MRI and MRCP for enhancing diagnostic accuracy and improving patient outcomes in gallstone-related disease and showcase relevant surgical pathology specimens of various gallstone related complications.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Graves disease
+TITLE: Graves' disease and pregnancy.
+PMID: 30224035
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30224035/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This section deals with the specificities of managing Graves' disease during pregnancy. Graves' disease incurs risks of fetal, neonatal and maternal complications that are rare but may be severe: fetal hyper- or hypothyroidism, usually first showing as fetal goiter, neonatal dysthyroidism, premature birth and pre-eclampsia. Treatment during pregnancy is based on antithyroid drugs alone, without association to levothyroxine. An history of Graves' disease, whether treated radically or not, with persistent maternal anti-TSH-receptor antibodies must be well identified. Fetal monitoring should be initiated in a multidisciplinary framework that should be continued throughout pregnancy. Neonatal monitoring is also crucial if the mother still shows anti-TSH-receptor antibodies at end of pregnancy or underwent antithyroid treatment. The risk of recurrence of hyperthyroidism in the weeks following delivery requires maternal monitoring. The long-term neuropsychological progression of children of mothers with Graves' disease is poorly known.

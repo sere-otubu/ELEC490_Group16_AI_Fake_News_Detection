@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pineal gland
+TITLE: Pineal Gland Tumor Microenvironment.
+PMID: 34185290
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34185290/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A wide and heterogeneous variety of tumors develop from the pineal gland. Pineal parenchymal tumors, germ cell tumors, and glial tumors represent most of them. The molecular profiles and tumor microenvironment play a key role in the development and progression of pineal gland tumors. Consequently, they represent important factors that may determine the efficacy of the different treatment modalities and the clinical outcome. Current literature is scarce regarding the microenvironment research of pineal gland tumors. Here, we review the cellular and molecular profile of the pineal gland tumor microenvironment.

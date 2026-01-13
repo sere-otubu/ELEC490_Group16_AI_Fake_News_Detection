@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Kidney stones
+TITLE: Kidney stones during pregnancy.
+PMID: 24515090
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24515090/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Kidney stones affect 10% of people at some point in their lives and, for some unfortunate women, this happens during pregnancy. Pregnancy is a complex state and both physiological and mechanical changes alter risk factors for kidney stone formation. When a pregnant woman develops acute nephrolithiasis, the situation is more complicated than in nonpregnant women. Imaging limitations and treatment restrictions mean that special diagnostic and management algorithms are needed upon presentation. Ultrasonography remains the gold-standard first-line diagnostic imaging modality for kidney stones during pregnancy but several second-line alternatives exist. Acute renal colic during pregnancy is associated with risks to both mother and fetus. As such, these patients need to be handled with special attention. First-line management is generally conservative (trial of passage and pain management) and is associated with a high rate of stone passage. Presentation of obstructive nephrolithiasis with associated infection represents a unique and serious clinical situation requiring immediate drainage. If infection is not present and conservative management fails, ureteroscopy can be offered if clinically appropriate, but, in some circumstances, temporary drainage with ureteral stent or nephrostomy tube might be indicated. Shockwave lithotripsy and percutaneous nephrolithotomy are contraindicated during pregnancy.

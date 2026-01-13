@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gene expression
+TITLE: Gene expression variability in clonal populations: Causes and consequences.
+PMID: 26731119
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26731119/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+During the last decade it has been shown that among cell variation in gene expression plays an important role within clonal populations. Here, we provide an overview of the different mechanisms contributing to gene expression variability in clonal populations. These are ranging from inherent variations in the biochemical process of gene expression itself, such as intrinsic noise, extrinsic noise and bistability to individual responses to variations in the local micro-environment, a phenomenon called phenotypic plasticity. Also genotypic variations caused by clonal evolution and phase variation can contribute to gene expression variability. Consequently, gene expression studies need to take these fluctuations in expression into account. However, frequently used techniques for expression quantification, such as microarrays, RNA sequencing, quantitative PCR and gene reporter fusions classically determine the population average of gene expression. Here, we discuss how these techniques can be adapted towards single cell analysis by integration with single cell isolation, RNA amplification and microscopy. Alternatively more qualitative selection-based techniques, such as mutant screenings, in vivo expression technology (IVET) and recombination-based IVET (RIVET) can be applied for detection of genes expressed only within a subpopulation. Finally, differential fluorescence induction (DFI), a protocol specially designed for single cell expression is discussed.

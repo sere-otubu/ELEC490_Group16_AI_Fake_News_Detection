@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Diuretics
+TITLE: The use of diuretics in heart failure with congestion - a position statement from the Heart Failure Association of the European Society of Cardiology.
+PMID: 30600580
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30600580/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The vast majority of acute heart failure episodes are characterized by increasing symptoms and signs of congestion with volume overload. The goal of therapy in those patients is the relief of congestion through achieving a state of euvolaemia, mainly through the use of diuretic therapy. The appropriate use of diuretics however remains challenging, especially when worsening renal function, diuretic resistance and electrolyte disturbances occur. This position paper focuses on the use of diuretics in heart failure with congestion. The manuscript addresses frequently encountered challenges, such as (i) evaluation of congestion and clinical euvolaemia, (ii) assessment of diuretic response/resistance in the treatment of acute heart failure, (iii) an approach towards stepped pharmacologic diuretic strategies, based upon diuretic response, and (iv) management of common electrolyte disturbances. Recommendations are made in line with available guidelines, evidence and expert opinion.

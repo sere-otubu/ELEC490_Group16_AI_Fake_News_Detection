@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Skeletal system
+TITLE: Skeletal Muscle and the Immune System.
+PMID: 40879955
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40879955/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The mammalian immune system consists of anatomical barriers, nonspecific innate immune responses, and highly specific adaptive immune responses that work in concert to protect the host from pathogens and to repair cellular damage. This chapter focuses on the basics of immunology, before turning to aspects of the immune system specifically relevant to skeletal muscle. In skeletal muscle, immune cells are important regulators of damage clearance, satellite cell proliferation and differentiation, and hypertrophy and are therefore integral to muscle adaptation to both pathology and exercise. Skeletal muscle is also a routine route of vaccination, due to its high degree of vascularization, relative lack of adipose tissue, and proximity to draining lymph nodes. Finally, skeletal muscle is an important producer of proteins and metabolites which are released into the extracellular space to modulate immune and other physiological functions both in the local muscle and in distant tissues. Importantly, this is thought to be a mechanism underlying the immune modulatory properties of physical exercise. However, despite our vast knowledge both of immunity and skeletal muscle physiology, comparatively little is known about the relationship between these two important systems.

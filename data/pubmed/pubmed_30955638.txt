@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Whey protein
+TITLE: Whey protein membrane processing methods and membrane fouling mechanism analysis.
+PMID: 30955638
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30955638/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Whey is a byproduct with nutritional value and high organic and saline content. It is an important source of organic contamination in dairy industry. In this paper, we gave an overview of the current use of membrane materials and membrane processing in cheese whey protein recovery and discussed recent developments in membrane technology. Different types of membranes, such as polymers, ceramic membranes and modification membranes, are used for various purposes, such an increasing permeation flux, reducing membrane fouling, and increasing the protein rejection rate, concentration, fractionation and purification of whey protein. New membrane processing methods and integrated membrane methods to recover whey protein were reviewed. Membrane fouling factors during whey protein ultrafiltration process, which included whey protein conformation, membrane filtration conditions and the interaction between proteins and the membrane surface or pores, were also discussed and analyzed to reveal membrane fouling mechanism.

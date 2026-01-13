@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Laparoscopic surgery
+TITLE: The role of emergency laparoscopic surgery for complicated diverticular disease: A systematic review and meta-analysis.
+PMID: 33019419
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33019419/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Laparoscopic surgery develops rapidly in both elective and emergency settings. The study aimed to determine the role of different laparoscopic methods for the emergency treatment of complicated diverticulitis. MEDLINE, EMBASE, Science Citation Index Expanded, and the Cochrane database were searched up to November 2019 to identify all published articles related to the topic. Statistical analysis was performed using Stata 15. Fourteen publications were included in the analysis. Laparoscopic surgery was applied in 425 patients, and 493 patients underwent open colon resection (OCR). Postoperative mortality, morbidity, severe complications, and reoperation rates were not significantly different between the laparoscopic and open surgery groups. Subgroup analysis was performed based on the different laparoscopic methods (laparoscopic colon resection [LCR] and laparoscopic lavage and drainage [LLD]). Subgroup analysis indicated that LCR was superior to OCR in terms of morbidity, while OCR was superior to LLD in terms of severe complications. The safety of laparoscopic surgery for the emergency treatment of complicated diverticulitis is related to different surgical methods. LCR is suggested to be a better choice according to the postoperative outcomes. More definite conclusions can be drawn in future randomized controlled trials.

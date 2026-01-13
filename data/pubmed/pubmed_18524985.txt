@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Plantar fasciitis
+TITLE: Plantar fasciitis: evaluation and treatment.
+PMID: 18524985
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18524985/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Plantar fasciitis is the most common cause of plantar heel pain. Its characteristic features are pain and tenderness, predominately on the medial aspect of the calcaneus near the sole of the heel. Considering a complete differential diagnosis of plantar heel pain is important; a comprehensive history and physical examination guide accurate diagnosis. Many nonsurgical treatment modalities have been used in managing the disorder, including rest, massage, nonsteroidal anti-inflammatory drugs, night splints, heel cups/pads, custom and off-the-shelf orthoses, injections, casts, and physical therapy measures such as shock wave therapy. Most reported treatment outcomes rely on anecdotal experience or combinations of multiple modalities. Nevertheless, nonsurgical management of plantar fasciitis is successful in approximately 90% of patients. Surgical treatment is considered in only a small subset of patients with persistent, severe symptoms refractory to nonsurgical intervention for at least 6 to 12 months.

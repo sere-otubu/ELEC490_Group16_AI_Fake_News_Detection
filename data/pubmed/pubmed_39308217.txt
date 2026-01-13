@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Borderline personality disorder
+TITLE: The interface of autism and (borderline) personality disorder.
+PMID: 39308217
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39308217/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Prominent clinical perspectives posit that the interface of autism and (borderline) personality disorder manifests as either a misdiagnosis of the former as the latter or a comorbidity of both. In this editorial, we integrate these disparate viewpoints by arguing that personality difficulties are inherent to the autistic spectrum.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vasectomy
+TITLE: Demographics of vasectomy--USA and international.
+PMID: 19643232
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19643232/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Vasectomy is safer, simpler, less expensive, and equally as effective as female sterilization--yet it remains one of the least known and least used methods of contraception. Worldwide, an estimated 33 million of married women ages 15 to 49 (less than 3%) rely on their partner's vasectomy for contraception.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Genetic screening
+TITLE: Genetic screening as an adjunct to universal newborn hearing screening: literature review and implications for non-congenital pre-lingual hearing loss.
+PMID: 31264897
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31264897/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+<b>Objective:</b> Universal newborn hearing screening (UNHS) uses otoacoustic emissions testing (OAE) and auditory brainstem response testing (ABR) to screen all newborn infants for hearing loss (HL), but may not identify infants with mild HL at birth or delayed onset HL. The purpose of this review is to examine the role of genetic screening to diagnose children with pre-lingual HL that is not detected at birth by determining the rate of children who pass UNHS but have a positive genetic screening. This includes a summary of the current UNHS and its limitations and a review of genetic mutations and screening technologies used to detect patients with an increased risk of undiagnosed pre-lingual HL.<b>Design:</b> Literature review of studies that compare UNHS with concurrent genetic screening.<b>Study sample:</b> Infants and children with HL<b>Results:</b> Sixteen studies were included encompassing 137,895 infants. Pathogenic mutations were detected in 8.66% of patients. In total, 545 patients passed the UNHS but had a positive genetic screening. The average percentage of patients who passed UNHS but had a positive genetic screening was 1.4%.<b>Conclusions:</b> This review demonstrates the positive impact of concurrent genetic screening with UNHS to identify patients with pre-lingual HL.

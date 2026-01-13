@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Varicose veins
+TITLE: Conservative hemodynamic surgery for varicose veins.
+PMID: 11840423
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11840423/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Conservative hemodynamic surgery for varicose veins is a minimally invasive, nonablative technique that preserves the saphenous vein and helps avoid excision of varicosities. It represents a physiologic approach to the surgical treatment of varicose veins based on knowledge of the underlying venous pathophysiology gained through detailed duplex scanning. A change in venous hemodynamics is attained through fragmentation of the blood column by interruption of the refluxing saphenous trunks, closure of the origin of the refluxing varicose branches, and preservation of the communicating veins that drain the incompetent varicose veins into the deep venous system. After surgery, varicose veins regress through a reduction in hydrostatic pressure and efficient emptying of the superficial system by the musculo-venous pump. Obvious advantages of this technique are that it is done in an ambulatory setting, minimizes the risk of surgical complications, and permits a rapid return to full activity. The long-term hemodynamic improvement and recurrence rate of this technique remain to be established.

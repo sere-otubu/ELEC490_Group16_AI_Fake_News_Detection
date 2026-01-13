@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Electronic health records
+TITLE: A Framework for Evaluating Synthetic Electronic Health Records.
+PMID: 37203694
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37203694/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Synthetic data generation can be applied to Electronic Health Records (EHRs) to obtain synthetic versions that do not compromise patients' privacy. However, the proliferation of synthetic data generation techniques has led to the introduction of a wide variety of methods for evaluating the quality of generated data. This makes the task of evaluating generated data from different models challenging as there is no consensus on the methods used. Hence the need for standard ways of evaluating the generated data. In addition, the available methods do not assess whether dependencies between different variables are maintained in the synthetic data. Furthermore, synthetic time series EHRs (patient encounters) are not well investigated, as the available methods do not consider the temporality of patient encounters. In this work, we present an overview of evaluation methods and propose an evaluation framework to guide the evaluation of synthetic EHRs.

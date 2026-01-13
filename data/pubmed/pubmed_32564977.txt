@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Metabolism basics
+TITLE: Basics and principles of cellular and systemic iron homeostasis.
+PMID: 32564977
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32564977/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Iron is a constituent of many metalloproteins involved in vital metabolic functions. While adequate iron supply is critical for health, accumulation of excess iron promotes oxidative stress and causes tissue injury and disease. Therefore, iron homeostasis needs to be tightly controlled. Mammals have developed elegant homeostatic mechanisms at the cellular and systemic level, which serve to satisfy metabolic needs for iron and to minimize the risks posed by iron's toxicity. Cellular iron metabolism is post-transcriptionally controlled by iron regulatory proteins, IRP1 and IRP2, while systemic iron balance is regulated by the iron hormone hepcidin. This review summarizes basic principles of mammalian iron homeostasis at the cellular and systemic level. Particular attention is given on pathways for hepcidin regulation and on crosstalk between cellular and systemic homeostatic mechanisms.

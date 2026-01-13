@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Platelets
+TITLE: Platelets, Protean Cells with All-Around Functions and Multifaceted Pharmacological Applications.
+PMID: 36901997
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36901997/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Platelets, traditionally known for their roles in hemostasis and coagulation, are the most prevalent blood component after erythrocytes (150,000-400,000 platelets/μL in healthy humans). However, only 10,000 platelets/μL are needed for vessel wall repair and wound healing. Increased knowledge of the platelet's role in hemostasis has led to many advances in understanding that they are crucial mediators in many other physiological processes, such as innate and adaptive immunity. Due to their multiple functions, platelet dysfunction is involved not only in thrombosis, mediating myocardial infarction, stroke, and venous thromboembolism, but also in several other disorders, such as tumors, autoimmune diseases, and neurodegenerative diseases. On the other hand, thanks to their multiple functions, nowadays platelets are therapeutic targets in different pathologies, in addition to atherothrombotic diseases; they can be used as an innovative drug delivery system, and their derivatives, such as platelet lysates and platelet extracellular vesicles (pEVs), can be useful in regenerative medicine and many other fields. The protean role of platelets, from the name of Proteus, a Greek mythological divinity who could take on different shapes or aspects, is precisely the focus of this review.

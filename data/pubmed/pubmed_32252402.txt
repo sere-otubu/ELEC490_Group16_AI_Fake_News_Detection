@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Digestion process
+TITLE: Food, Eating, and the Gastrointestinal Tract.
+PMID: 32252402
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32252402/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Food ingestion induces a metered response of the digestive system. Initially, the upper digestive system reacts to process and extract meal substrates. Later, meal residues not absorbed in the small bowel, pass into the colon and activate the metabolism of resident microbiota. Food consumption also induces sensations that arise before ingestion (e.g., anticipatory reward), during ingestion (e.g., gustation), and most importantly, after the meal (i.e., the postprandial experience). The postprandial experience involves homeostatic sensations (satiety, fullness) with a hedonic dimension (digestive well-being, mood). The factors that determine the postprandial experience are poorly understood, despite their potential role in personalized diets and healthy eating habits. Current data suggest that the characteristics of the meal (amount, palatability, composition), the activity of the digestive system (suited processing), and the receptivity of the eater (influenced by multiple conditioning factors) may be important in this context.

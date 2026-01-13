@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood transfusion
+TITLE: [Transfusion of autologous blood].
+PMID: 18660644
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18660644/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Recently the use of allogeneic (donor) blood transfusion is widely accepted in the clinical practice. Despite of good quality and safety of preparation of allogeneic blood, there are some risks related with transfusion: hemolytic, febrile, and allergic reactions, transfusion related acute lung injury, negative immunomodulatory effect, transmission of infections diseases, dissemination and recurrence of cancer. This is why the indications for donor blood transfusion are restricted, so new safer methods are discovered to avoid or to decrease the heed for allogeneic blood transfusion. Nowadays, there is an increased interest in autologous blood transfusion as the most acceptable alternative to allogeneic blood transfusion. Autologous transfusion is the collection and reinfusion of the patient's own blood (donor and recipient is the same person). Several types of autologous transfusion can be used: preoperative autologous blood donation, acute normovolemic hemodilution, intraoperative blood salvage, postoperative blood salvage. Neverless, autologous transfusion does not protect from all risks, it still remains the safest type of blood transfusion and is important in the strategy of blood conservation.

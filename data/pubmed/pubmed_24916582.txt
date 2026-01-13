@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Trans fats risks
+TITLE: Saturated and trans fats and dementia: a systematic review.
+PMID: 24916582
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24916582/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cognitive disorders of later life are potentially devastating. To estimate the relationship between saturated and trans fat intake and risk of cognitive disorders. PubMed, EMBASE, and the Cochrane Central Register of Controlled Trials were searched for studies reporting saturated or trans fat intake and incident dementia, Alzheimer's disease (AD), or mild cognitive impairment (MCI) or cognitive decline. Only observational studies met the inclusion criteria: 4 for AD or other dementias, 4 for MCI, and 4 for cognitive decline. Saturated fat intake was positively associated with AD risk in 3 of 4 studies, whereas the fourth suggested an inverse relationship. Saturated fat intake was also positively associated with total dementia in 1 of 2 studies, with MCI in 1 of 4 studies, and with cognitive decline in 2 of 4 studies. Relationships between trans fat intake and dementia were examined in 3 reports with mixed results. Several, although not all, prospective studies indicate relationships between saturated and trans fat intake and risk of cognitive disorders.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Red blood cells
+TITLE: Cryopreservation of red blood cells and platelets.
+PMID: 18080478
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18080478/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Blood cells can be regarded as a classical field of application of low-temperature biology. Cryopreservation methods have been developed for different categories of blood cells namely red blood cells (RBCs) (erythrocytes), platelets (thrombocytes), mononuclear cells (i.e., lymphocytes, monocytes), and hematopoietic progenitor cells. This chapter outlines the four most commonly applied techniques for RBCs and two for platelets.

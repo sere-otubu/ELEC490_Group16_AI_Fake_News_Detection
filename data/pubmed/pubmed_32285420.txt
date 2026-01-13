@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Arrhythmia
+TITLE: Non-coding RNA and Cardiac Electrophysiological Disorders.
+PMID: 32285420
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32285420/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cardiac arrhythmias are common diseases affecting millions of people worldwide. A broad and diverse array of arrhythmias exists, ranging from harmless ones such as sinus arrhythmia to fatal disorders such as ventricular fibrillation. The underlying pathophysiology of arrhythmogenesis is complex and still not fully understood. Since their discovery, non-coding RNAs (ncRNAs) and especially microRNAs (miRNAs) came into the spotlight of arrhythmia research as it has been shown that they play an important role in regulating normal development of the cardiac conduction system and are involved in remodeling processes leading to arrhythmias. This chapter will give a brief overview on basic electrophysiologic concepts and will summarize the current knowledge on ncRNAs and their role in arrhythmogenesis.

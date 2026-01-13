@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Organ transplant
+TITLE: Transplantation and immunosuppression: a review of novel transplant-related immunosuppressant drugs.
+PMID: 34415233
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34415233/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Immunosuppressive drugs used in the transplantation period are generally defined as induction and maintenance therapy. The use of immunosuppressants, which are particularly useful and have fewer side effects, decreased both mortality and morbidity. Many drugs such as steroids, calcineurin inhibitors (cyclosporine-A, tacrolimus), antimetabolites (mycophenolate mofetil, azathioprine), and mTOR inhibitors (sirolimus, everolimus) are used as immunosuppressive agents. Although immunosuppressant drugs cause many side effects such as hypertension, infection, and hyperlipidemia, they are the agents that should be used to prevent organ rejection. This shows the importance of individualized drug use. The optimal immunosuppressive therapy post-transplant is not established. Therefore, discovering less toxic but more potent new agents is of great importance, and new experimental and clinical studies are needed in this regard.Our review discussed the mechanism of immunosuppressants, new agents' discovery, and current therapeutic protocols in the transplantation.

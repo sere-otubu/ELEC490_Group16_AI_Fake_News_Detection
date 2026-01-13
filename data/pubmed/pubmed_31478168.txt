@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Laxatives
+TITLE: Appropriate Use of Laxatives in the Older Person.
+PMID: 31478168
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31478168/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Constipation is a common condition, affecting up to half of all older adults during their lifetime. Untreated constipation has significant impacts, decreasing quality of life and potentially leading to urinary and/or faecal incontinence, faecal impaction and, in severe cases, hospitalisation. The increased constipation prevalence among older populations is multifactorial, with a number of age-related factors contributing to the rise in prevalence with aging. Laxatives are the mainstay of constipation management and are commonly used among older populations for both treatment and prevention of constipation. A range of laxative types including bulk forming agents, softeners and emollients, osmotic agents, stimulants, and the newer prokinetic and secretory agents are available. Despite laxatives being freely available without prescription in many countries and commonly used by older individuals, evidence regarding the effectiveness or safety of most laxatives in older populations is lacking. Additionally, age-related changes increase the risk of adverse effects associated with laxatives, such as electrolyte disturbances, among older persons. Caution must be taken when extrapolating recommendations for general adult populations to older populations. Laxative choice for older individuals should be tailored after careful assessment and consideration of comorbid conditions, concomitant medications and the potential for adverse effects.

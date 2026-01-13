@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rheumatoid arthritis
+TITLE: Arthroscopic Synovectomy of Wrist in Rheumatoid Arthritis.
+PMID: 28991588
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28991588/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Rheumatoid arthritis (RA) is a systemic inflammatory disorder affecting multiple joints. Wrist involvement is common. Patients with persistent symptoms despite medical management are candidates for surgery. Synovectomy can provide pain relief and functional improvement for rheumatoid wrist. Arthroscopic synovectomy is a safe and reliable method, with minimal postoperative morbidity. This article reviews the role, technique, and results of arthroscopic synovectomy in the rheumatoid wrist.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Processed foods
+TITLE: Low-Grade Inflammation and Ultra-Processed Foods Consumption: A Review.
+PMID: 36986276
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36986276/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Low-grade inflammation alters the homeostasis of the organism and favors the onset of many chronic diseases. The global growth in the prevalence of noncommunicable diseases in recent years has been accompanied by an increase in the consumption of ultra-processed foods (UPF). Known to be hyperpalatable, economic and ready-to-eat, increased consumption of UPF has already been recognized as a risk factor for several chronic diseases. Different research groups have tried to investigate whether UPF consumption could promote low-grade inflammation and thus favor the development of noncommunicable diseases. Current evidence highlights the adverse health effects of UPF characteristics, not only due to the nutrients provided by a diet rich in UPF, but also due to the non-nutritive components present in UPF and the effect they may have on gut health. This review aims to summarize the available evidence on the possible relationship between excessive UPF consumption and modulation of low-grade inflammation, as potential promoters of chronic disease.

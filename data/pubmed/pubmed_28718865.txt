@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cognitive behavioral therapy
+TITLE: [Low-Intensity Cognitive Behavioral Therapy (LI-CBT) - An Introduction in Concepts and Framework].
+PMID: 28718865
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28718865/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Low-intensity cognitive behavioural therapy (LI-CBT) depicts interventions that aim at increasing access to evidence-based psychological therapies. This is achieved by (1) reducing the amount of time in which the practitioner is in contact with individual patients, (2) using practitioners that have been specifically trained to deliver low intensity interventions and without any prior formal health professional qualifications and (3) use of interventions with varying intensity. Stepped care and collaborative care constitute the organizational frame to deliver low-intensity interventions. Whereas large-scale research and health service projects abroad are focussing on LI-CBT, research in German is lagging far behind. Particularly in the light of the growing demands and utilization of mental health care as well as governmental claims to develop and evaluate new forms of providing mental health services, LI-CBT represents a promising approach.

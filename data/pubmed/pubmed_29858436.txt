@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Fatty liver disease
+TITLE: Non-alcoholic fatty liver disease.
+PMID: 29858436
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29858436/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Non-alcoholic fatty liver disease (NAFLD) has a global prevalence of about 25%. Incidence is increasing with rising levels of obesity, type 2 diabetes and the metabolic syndrome, and NAFLD is predicted to become the leading cause of cirrhosis requiring liver transplantation in the next decade. However, the cardiovascular disease is the most common cause of death and only a minority will develop fibrosis and liver-related complications. Therefore, it is imperative to identify patients with advanced disease using non-invasive markers of fibrosis, which include serology-based tests (eg NAFLD Fibrosis Score and ELF test) and imaging (eg transient elastography). This targets appropriate patients for referral to secondary care for additional investigations such as liver biopsy and specialist care. Lifestyle modification and weight loss remains the cornerstone of management, but we are about to enter a new era of promising pharmacotherapies for NASH and fibrosis.

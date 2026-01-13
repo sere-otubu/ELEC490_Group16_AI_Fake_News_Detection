@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hepatitis A
+TITLE: [Hepatitis A-E: the essentials].
+PMID: 40928399
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40928399/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Viral hepatitis is associated with high morbidity and mortality worldwide. Hepatitis A and E viruses are enterally transmitted and typically cause acute self-limited hepatitis. Hepatitis B, C, and D viruses are parenterally transmitted and can cause chronic hepatitis, with potential progression to cirrhosis and hepatocellular carcinoma. This article provides essential information on the virology, epidemiology, clinical manifestations, diagnosis, treatment, and prevention of hepatitis A-E.

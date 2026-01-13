@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dialysis
+TITLE: Mid-Range Dialysate Flow and Adequacy of Dialysis.
+PMID: 40258360
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40258360/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The primary objective was to investigate the efficiency of a fully integrated, hemodialysis machine that utilizes mid-range dialysate flow rate of 300 mL/min in the acute hospital setting. We conducted a retrospective, single-center pilot study. All veterans with end-stage kidney disease or dialysis-dependent acute kidney injury, who completed ≥3 h of hemodialysis and had pre-dialysis blood urea nitrogen (BUN) >20 mg/dL with available post-dialysis BUN from February 2023 to June 2023 were included. Urea reduction ratio (URR) and single-pool Kt/V were compared between groups with varying dialyzer sizes and duration of treatment. Fifty-nine dialysis sessions were included for analysis. Mean Kt/V and URR for the full cohort were 1.26 ± 0.04 and 60.8 ± 7.3%, respectively. The percentage of sessions achieving minimum adequate clearance per Kt/V and URR criteria were 50.6% and 32.5%, respectively. In the subgroup analysis of dialysis sessions of different filter size (Optiflux™ F160NR or F180NR dialyzers) and varying duration (3, 3.5, 4 h), the percentage of sessions achieving minimum adequate Kt/V in the F160/3.5 h, F180/3.5 h and F180/4 h groups were 44%, 50%, and 58.8%, respectively. The restriction of QD to 300 mL/min may compromise adequacy of dialysis in acute care setting. This may be mitigated by prolonging session times, albeit at the expense of higher resource utilization, and improving the QD:QB ratio. Further studies in a larger hospital cohort are necessary to elucidate these issues.

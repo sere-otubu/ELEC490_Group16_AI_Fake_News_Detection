@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insomnia
+TITLE: Insomnia and Other Sleep Disorders in Older Adults.
+PMID: 36396275
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36396275/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Sleep disruption is common in older adults and is associated with many poor health outcomes. It is vital for providers to understand insomnia and other sleep disorders in this population. This article outlines age-related changes in sleep, and medical, psychiatric, environmental, and psychosocial factors that may impact sleep. It addresses the evaluation of sleep symptoms and diagnosis of sleep disorders. It aims to examine the evidence for non-pharmacological and pharmacologic treatment options for insomnia while weighing factors particularly germane to the aging adult..

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Crohns disease
+TITLE: State-of-the-art surgery for Crohn's disease: Part II-colonic Crohn's disease and associated neoplasms.
+PMID: 35729401
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35729401/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Despite advances in medical therapy, surgery continues to play a vital role in the management of Crohn's disease and its complications. Continuing from Part I of this series (small intestine/ileal disease), we focus next on colonic Crohn's disease and associated neoplasms. We will first review the surgical management of medical-refractory Crohn's colitis and its complications and then examine cancer risk, surveillance, and surgical management of Crohn's-associated colorectal dysplasia and malignancy. We conclude with a discussion of restoration of gastrointestinal continuity following colonic surgery for Crohn's disease.

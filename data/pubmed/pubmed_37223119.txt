@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood composition
+TITLE: Blood cells and hematological parameters of Chiala Mountain Salamander, <i>Batrachuperus karlschmidti</i> (Urodela, Hynobiidae).
+PMID: 37223119
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37223119/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hematological parameters are essential indices for assessing the function of blood and reflecting not only the health status of animal but also their physiological adaptation to the environment. Herein, the composition of blood cells and the hematological parameters of wild <i>Batrachuperus karlschmidti</i> were examined for the first time, and the effects of sex, body size, body mass, and age on the hematological parameters were explored. The morphology and morphometric data of the blood cells, as well as the hematological parameters, of <i>B. karlschmidti</i> were slightly differ from those of its congener. However, hematological differences between sexes were only found in erythrocyte and leukocyte count, and mean cell volume (MCV), which possibly reflecting the need for better oxygen distribution and stronger immune protection for reproduction. Hematocrit (Hct) and mean cell hemoglobin (MCH) were strongly dependent on body mass. These also might have been attributed to higher oxygen requirements with larger body masses. This is a pilot project exploring the hematology of this species that may help establish hematological parameters in future for supporting species protection and monitoring studies, as well as help understanding the physiological adaptation of this species.

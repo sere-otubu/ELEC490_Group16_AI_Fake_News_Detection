@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Fish oil benefits
+TITLE: The fish-oil paradox.
+PMID: 33027227
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33027227/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Increasing interest has focused on the potential cardioprotective effects of the omega-3 fatty acids, eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) on the basis of findings from epidemiology and cohort studies. This review will summarize the findings of contemporary clinical trials of omega-3 fatty acids. Although a large clinical trial performed prior to the widespread use of statins demonstrated cardiovascular benefit with fish oils, subsequent studies have failed to reproduce this result. More recent studies have demonstrated a reduction in cardiovascular risk with administration of high-dose EPA, but not a carboxylic acid formulation containing both EPA and DHA or with lower doses of omega-3 fatty acids. Administration of omega-3 fatty acids differing in either composition or dose produce variable effects on cardiovascular outcomes. This has implications for both the public health and pharmacological approach to cardiovascular prevention.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hearing aids
+TITLE: Bone-anchored hearing aids versus conventional hearing aids.
+PMID: 21389713
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21389713/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hearing amplification technology has been evolving since the 19th century. Currently in most audiology departments, the mainstay of hearing rehabilitation is performed with conventional air and bone conduction aids. These are cost-effective, non-invasive hearing aids but are not without their drawbacks. This chapter explores the advantages and disadvantages of conventional hearing aids compared with the bone-anchored hearing aids. Although the bone-anchored hearing aids are a more expensive invasive option, there is increasing evidence that the benefits outweigh the disadvantages. Users report improved quality of life, health status and audiological rehabilitation.

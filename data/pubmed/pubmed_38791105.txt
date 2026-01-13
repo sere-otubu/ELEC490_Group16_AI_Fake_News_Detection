@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ovarian cancer
+TITLE: PROTACs in Ovarian Cancer: Current Advancements and Future Perspectives.
+PMID: 38791105
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38791105/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ovarian cancer is the deadliest gynecologic malignancy. The majority of patients diagnosed with advanced ovarian cancer will relapse, at which point additional therapies can be administered but, for the most part, these are not curative. As such, a need exists for the development of novel therapeutic options for ovarian cancer patients. Research in the field of targeted protein degradation (TPD) through the use of proteolysis-targeting chimeras (PROTACs) has significantly increased in recent years. The ability of PROTACs to target proteins of interest (POI) for degradation, overcoming limitations such as the incomplete inhibition of POI function and the development of resistance seen with other inhibitors, is of particular interest in cancer research, including ovarian cancer research. This review provides a synopsis of PROTACs tested in ovarian cancer models and highlights PROTACs characterized in other types of cancers with potential high utility in ovarian cancer. Finally, we discuss methods that will help to enable the selective delivery of PROTACs to ovarian cancer and improve the pharmacodynamic properties of these agents.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Medical misinformation
+TITLE: Impact of pictograms on medication adherence: A systematic literature review.
+PMID: 31924384
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31924384/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The aim of this systematic review was to investigate the potential effect of pictograms on patient adherence to medication therapies. PubMed, MEDLINE, Embase, CINAHL, and CENTRAL were searched for relevant articles. Experimental studies testing the use of pictograms in patient counselling regarding medication therapy, which quantitatively measured adherence, were included. Seventeen studies were identified that fulfilled our inclusion criteria. These were heterogeneous with respect to study setting, population size, and the medication regimen tested. All the studies had methodological quality limitations. The pictogram interventions differed with respect to complexity, intervention length, and the measured adherence outcome. Ten studies (58.8 %) reported a statistically significant effect, of the pictogram intervention in question, on patient adherence to medication therapies. Of these, 80 % involved populations at elevated risk for non-adherence. Pictograms used in combination with written and/or oral information can have a positive impact on patient populations that are highly at risk for non-adherence when counselled on the proper use of medicines.

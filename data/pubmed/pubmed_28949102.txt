@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Robotic surgery
+TITLE: Robotic surgery for rectal cancer.
+PMID: 28949102
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28949102/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Laparoscopic surgery has gained acceptance as a less invasive approach in the treatment of colon cancer. However, laparoscopic surgery for rectal cancer, particularly cancer of the lower rectum, is still challenging because of limited accessibility. Robotic surgery overcomes the limitations of laparoscopy associated with anatomy and offers certain advantages, including 3-D imaging, dexterity and ambidextrous capability, lack of tremors, motion scaling, and a short learning curve. Robotic rectal surgery has been reported to reduce conversion rates, particularly in low anterior resection, but it is associated with longer operative times than the conventional laparoscopic approach. Postoperative morbidities are similar between the robotic and conventional laparoscopic approaches, and oncological outcomes such as the quality of the mesorectum and the status of resection margins are also equivalent. The possible superiority of robotic surgery in terms of the preservation of autonomic function has yet to be established in research based on larger numbers of patients. Although robotic rectal surgery is safe, feasible, and appears to overcome some of the technical limitations associated with conventional laparoscopic surgery, the advantages provided by this technical innovation are currently limited. To justify its expensive cost, robotic surgery is more suitable for select patients, such as obese patients, men, those with cancer of the lower rectum, and those receiving preoperative chemoradiotherapy.

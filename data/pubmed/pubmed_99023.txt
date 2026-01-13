@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hepatitis B
+TITLE: Hepatitis B vaccines. On the threshold.
+PMID: 99023
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/99023/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Experimental hepatitis B vaccines have recently been developed and are undergoing preliminary evaluation. These vaccines are unique in that they are prepared from viral antigen purified from the plasmas of human chronic carriers because hepatitis B virus has not been cultivated in vitro. They appear to be safe and antigenic, but care must be exercised in their evaluation because of the potential risks inherent in all vaccines.

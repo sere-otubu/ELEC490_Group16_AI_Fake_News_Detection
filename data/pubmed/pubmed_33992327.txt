@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antioxidants
+TITLE: Drosophila as an emerging model organism for studies of food-derived antioxidants.
+PMID: 33992327
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33992327/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Dietary supplementation with antioxidants provides health benefits by preventing diseases caused by oxidative stress and damage. Consequently, there has been growing interest in the study of antioxidative foods and their active ingredients. Oxidative stress and antioxidative responses are mechanistically conserved from Drosophila to mammals. Therefore, as a well-established model organism with a short life cycle and advantages of genetic manipulation, the fruit fly has been increasingly employed to assess functions of antioxidants in vivo. In this review, the antioxidative defense mechanisms, methods used and assays developed in Drosophila to evaluate antioxidant supplementation, are highlighted. The main manifestations of antioxidation include reduction of reactive species, up-regulation of endogenous antioxidants, inhibition on oxidative damage to biomacromolecules, enhanced resistance against oxidative stress and extension of lifespan, which are related to the activations of nuclear factor erythroid 2-related factor 2-antioxidant response element pathway and other adaptive responses. Moreover, the key considerations and future perspectives for the application of Drosophila models in the studies of food-derived antioxidants are discussed.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cystic fibrosis
+TITLE: Cystic Fibrosis: Translating Molecular Mechanisms into Effective Therapies.
+PMID: 29812963
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29812963/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cystic fibrosis is a genetic disease that affects approximately 75,000 individuals around the world. Long regarded as a lethal and life-limiting disease, with the most severe manifestations expressed in the progressive decline of lung function, treatment advances focusing on airway clearance and management of chronic lung infection have resulted in improved outcomes for individuals with cystic fibrosis. These advances have been realized in conjunction with an improved understanding of the genetic basis of this disease, dating back to the discovery of the cystic fibrosis gene in 1989. The identification of the cystic fibrosis gene and the advancement of our understanding of the resultant cystic fibrosis transmembrane conductance regulator protein have led to the development of a new class of cystic fibrosis therapies designed to directly impact the function of this protein. These therapeutic developments have progressed, targeting the various mutations that can cause cystic fibrosis. These new medications, known as cystic fibrosis transmembrane conductance regulator modulators, have changed the landscape of cystic fibrosis care and cystic fibrosis research. Their demonstrated effect in patients with specific cystic fibrosis mutations has ignited the hope that such therapies will soon be available to more individuals with this disease, moving the cystic fibrosis community significantly closer to the ultimate goal of curing this disease.

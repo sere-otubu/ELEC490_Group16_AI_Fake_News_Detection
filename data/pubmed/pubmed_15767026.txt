@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lupus
+TITLE: Drug-induced lupus.
+PMID: 15767026
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15767026/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Autoantibodies and, less commonly, systemic rheumatic symptoms are associated with treatment with numerous medications and other types of ingested compounds. Distinct syndromes can be distinguished, based on clinical and laboratory features, as well as exposure history. Drug-induced lupus has been reported as a side-effect of long-term therapy with over 40 medications. Its clinical and laboratory features are similar to systemic lupus erythematosus, except that patients fully recover after the offending medication is discontinued. This syndrome differs from typical drug hypersensitivity reactions in that drug-specific T-cells or antibodies are not involved in induction of autoimmunity, it usually requires many months to years of drug exposure, is drug dose-dependent and generally does not result in immune sensitization to the drug. Circumstantial evidence strongly suggests that oxidative metabolites of the parent compound trigger autoimmunity. Several mechanisms for induction of autoimmunity will be discussed, including bystander activation of autoreactive lymphocytes due to drug-specific immunity or to non-specific activation of lymphocytes, direct cytotoxicity with release of autoantigens and disruption of central T-cell tolerance. The latter hypothesis will be supported by a mouse model in which a reactive metabolite of procainamide introduced into the thymus results in lupus-like autoantibody induction. These findings, as well as evidence for thymic function in drug-induced lupus patients, support the concept that abnormalities during T-cell selection in the thymus initiate autoimmunity.

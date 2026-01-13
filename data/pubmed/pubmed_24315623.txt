@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Prenatal testing
+TITLE: New genetic testing in prenatal diagnosis.
+PMID: 24315623
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24315623/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Determining a genetic diagnosis prenatally permits patients to make informed reproductive decisions and to be counseled about possible fetal outcomes. Therefore, it is important for the provider to be aware of the spectrum of genetic conditions and to use appropriate testing modality to obtain specific diagnosis. This article reviews genetic techniques available for prenatal diagnosis such as preimplantation genetic testing, chromosomal microarray, non-invasive prenatal screening, and next-generation sequencing. Chromosomal microarray has emerged as the first diagnostic test for evaluation of multiple congenital anomalies and developmental delay as most of the next-generation sequencing methods do not detect copy-number variants (CNVs). Exome sequencing and whole genome sequencing are time-consuming, so if this needs to be done to obtain an accurate genetic diagnosis, allow sufficient time.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cell division mitosis
+TITLE: Cell division in the healing of the corneal endothelium of cats.
+PMID: 2597071
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2597071/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The pattern of cell division of the corneal endothelium of cats was studied during the first week following scraping of 35.2% to 38.3% of the endothelial cells. A small number of mitoses were found 2 days after scraping (mean +/- SD, 8.2 +/- 6.1 per cornea); the number peaked during the third and the fourth days (148.5 +/- 74.5 and 206.8 +/- 40.1, respectively), sharply decreased on the fifth day to a level of 17.0 +/- 9.5, and further decreased on the sixth and seventh days to 4.2 +/- 1.8 and 3.3 +/- 1.5 mitoses per cornea, respectively. Due essentially to amitotic cell division, a multinuclear cell population, mainly binuclear, appeared and increased to a number of 3999 +/- 746 and 3,129 +/- 877 on the sixth and seventh days, respectively, after scraping. Thus, mitotic and amitotic cell division is an integral part of the posttraumatic regeneration process of the corneal endothelium of cats.

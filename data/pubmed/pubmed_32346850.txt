@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Binge eating disorder
+TITLE: A review of binge eating disorder and obesity.
+PMID: 32346850
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32346850/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Binge eating disorder (BED) is a mental illness characterised by recurrent binge eating episodes in the absence of appropriate compensatory behaviours. Consequently, BED is strongly associated with obesity. The current review aims to provide an update of the most relevant aspects of BED (e.g., clinical profile, aetiology and treatment approaches), in order not only to facilitate a better understanding of the disorder and its clinical consequences, but also to identify potential targets of prevention and intervention. Patients with BED often present high comorbidity with other medical conditions and psychiatric disorders. Numerous risk factors have been associated with the development and maintenance of the disorder. Moreover, although some treatments for BED have proven to be effective in addressing different key aspects of the disorder, the rates of patients that have ever received specific treatment for BED are very low. The factors involved and how to implement effective treatments will be discussed for the purpose of addressing the eating symptomatology and comorbid obesity.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood transfusion
+TITLE: Blood transfusion support in pediatric cardiovascular surgery.
+PMID: 10724785
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10724785/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The majority of children who undergo open-heart surgery with cardiopulmonary bypass (CPB) require perioperative blood transfusion. Blood product requirements are affected by factors such as patient age, underlying cardiac disease, complexity of the surgical procedure, and hemostatic alterations induced by CPB. Transfusion support may include the use of whole blood and/or individual blood components with transfusion practices varying widely based on individual preferences and blood product availability. Approaches to limit allogeneic blood exposure include the use of modified ultrafiltration and smaller bypass circuits, preoperative autologous blood donation and intraoperative blood salvage, and adjunctive antifibrinolytic agents. Potential advantages and disadvantages of the different blood products and pharmacological agents must be considered in managing the pediatric cardiac surgery patient.

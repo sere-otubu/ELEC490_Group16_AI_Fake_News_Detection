@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Spinal fusion
+TITLE: Odontoid Fusion.
+PMID: 30610335
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30610335/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Anterior odontoid screw fixation allows for the internal fixation of unstable odontoid fractures with low morbidity, good fusion rates, and preservation of the atlanto-axial range of motion when applied in appropriate clinical cases. Advances in surgical techniques have allowed for safer, more minimally invasive approaches that reduce the risk of injury to vital prevertebral structures and minimize soft tissue retraction. Moreover, improvements in surgical image guidance technology for spinal surgery that have been applied to odontoid screw placement have helped improve surgeon confidence about exact screw trajectories. In this chapter, we review traditional screw placement techniques and highlight the trends in technical improvements that improve the safety and efficacy of these procedures.

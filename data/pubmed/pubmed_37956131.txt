@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Generalized anxiety disorder
+TITLE: Brazilian Psychiatric Association treatment guidelines for generalized anxiety disorder: perspectives on pharmacological and psychotherapeutic approaches.
+PMID: 37956131
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37956131/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Generalized anxiety disorder is a highly prevalent mental disorder. Previous data indicate that more than 18 million Brazilians suffer from this condition. Traditionally, generalized anxiety disorder has been considered a mild mental health disorder, despite its links to lower life expectancy, cardiovascular disease, and suicide. The aim of this article is to combine elements of systematic and critical reviews to produce a synthesis of the best evidence about generalized anxiety disorder treatment. Systematic reviews, meta-analyses, and randomized controlled trials were included. The descriptor used in the search was "generalized anxiety disorder," which resulted in 4,860 articles and seven other studies, of which 59 were selected. Antidepressants and benzodiazepines were indicated, as was pregabalin, and atypical antipsychotics, such as quetiapine, have been studied. Individual cognitive behavior therapy (third wave) has proven effective. There is extensive literature on many effective treatments for generalized anxiety disorder. The present review summarizes the therapeutic possibilities, emphasizing those available in Brazil. Further studies are needed to compare other available medications, assess psychotherapies and new treatments in greater depth, as well as to assess the ideal duration of therapy.

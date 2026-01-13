@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insulin regulation
+TITLE: Insulin Directs Dichotomous Translational Regulation to Control Human Pluripotent Stem Cell Survival, Proliferation and Pluripotency.
+PMID: 35813470
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35813470/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Insulin is essential for diverse biological processes in human pluripotent stem cells (hPSCs). However, the underlying mechanism of insulin's multitasking ability remains largely unknown. Here, we show that insulin controls hPSC survival and proliferation by modulating RNA translation via distinct pathways. It activates AKT signaling to inhibit RNA translation of pro-apoptotic proteins such as NOXA/PMAIP1, thereby promoting hPSC survival. At the same time, insulin acts via the mTOR pathway to enhance another set of RNA translation for cell proliferation. Consistently, mTOR inhibition by rapamycin results in eIF4E phosphorylation and translational repression. It leads to a dormant state with sustained pluripotency but reduced cell growth. Together, our study uncovered multifaceted regulation by insulin in hPSC survival and proliferation, and highlighted RNA translation as a key step to mediate mitogenic regulation in hPSCs.

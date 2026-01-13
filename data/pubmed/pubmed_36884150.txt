@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gambling addiction
+TITLE: Risk Factors for Gambling Disorder: A Systematic Review.
+PMID: 36884150
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36884150/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gambling disorder is a common and problematic behavioral disorder associated with depression, substance abuse, domestic violence, bankruptcy, and high suicide rates. In the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5), pathological gambling was renamed "gambling disorder" and moved to the Substance-Related and Addiction Disorders chapter to acknowledge that research suggests that pathological gambling and alcohol and drug addiction are related. Therefore, this paper provides a systematic review of risk factors for gambling disorder. Systematic searches of EBSCO, PubMed, and Web of Science identified 33 records that met study inclusion criteria. A revised study acknowledges as risk factors for developing/maintaining a gambling disorder being a single young male, or married for less than 5 years, living alone, having a poor education, and struggling financially.

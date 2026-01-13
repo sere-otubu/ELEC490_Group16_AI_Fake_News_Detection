@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Geriatric psychiatry
+TITLE: Exercise for geriatric psychiatry outpatients: Results from a clinic intervention.
+PMID: 36084544
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36084544/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Exercise is a non-pharmacological intervention that may benefit elderly patients with depression, but the effects of an exercise intervention in geriatric psychiatry outpatients have yet to be tested. Outpatients in a geriatric psychiatry clinic participated in a structured exercise intervention of 50 minutes, twice-weekly, over twelve weeks. Depressive symptoms were assessed at baseline and post-intervention using the Patient Health Questionnaire-9 (PHQ-9). Nine participants had baseline and post-intervention PHQ-9 scores. Mean scores were 5.9 and 2.8 at baseline and post-intervention, respectively (p = 0.03). Exercise intervention for geriatric psychiatry outpatients may improve depressive symptoms. Evidence from controlled interventions is warranted.

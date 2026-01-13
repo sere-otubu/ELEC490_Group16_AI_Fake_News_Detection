@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Protein intake
+TITLE: Influence of dietary protein and fiber intake interactions on the human gut microbiota composition and function: a systematic review and network meta-analysis of randomized controlled trials.
+PMID: 39815995
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39815995/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Quantity and source of dietary protein intakes impact the gut microbiota differently. However, these effects have not been systematically studied. This review aimed to investigate these effects whilst controlling for fiber intake. Seven databases were searched, with 50 and 15 randomized controlled trials selected for the systematic review and network meta-analysis respectively. Most gut microbiota-related outcomes showed no significant differences between different protein and fiber intake combinations. Compared to Normal Protein, High Fiber intakes, High Protein, Low Fiber (HPLF) intakes showed greater fecal valerate (SMD = 0.79, 95% CrI: 0.35, 1.24) and plasma trimethylamine <i>N</i>-oxide (TMAO) (SMD = 2.90, 95% CrI: 0.16, 5.65) levels. HPLF intakes also showed greater fecal propionate (SMD = 0.49, 95% CrI: 0.02, 1.07) and valerate (SMD = 0.79, 95% CrI: 0.31, 1.28) levels compared to High Protein, High Fiber intakes. Greater plasma TMAO levels were observed with greater animal protein intakes. Overall, protein quantity and source do not generally alter the gut microbiota composition, although protein quantity can influence microbiota function via modulations in proteolytic fermentation. Both protein and fiber intake should be considered when assessing the impact of dietary protein on the gut microbiota. This trial was registered at PROSPERO (CRD42023391270).

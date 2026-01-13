@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Arthroscopy
+TITLE: Scope of the Problem: Ankle Arthroscopy.
+PMID: 36534874
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36534874/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ankle arthroscopy has seen increased utilization and application in recent years. Through the advent of improved instrumentation and techniques, indications have been expanded to include the management of traumatic, degenerative, inflammatory, and neoplastic conditions. It is important to review anterior and posterior ankle arthroscopies along with the history, pertinent anatomy, techniques, indications, and complications as well as gain insight into the future of ankle arthroscopy.

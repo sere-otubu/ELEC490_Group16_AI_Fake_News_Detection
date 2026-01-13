@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sinusitis
+TITLE: Anatomic variation in pediatric chronic sinusitis: a CT study.
+PMID: 8834273
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8834273/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The diagnosis of pediatric chronic sinusitis is problematic in very young children who have several of the symptoms consistent with chronic sinusitis. This article addresses only the issues surrounding the imaging, and particularly computed tomographic scanning, of chronic sinusitis in the pediatric population.

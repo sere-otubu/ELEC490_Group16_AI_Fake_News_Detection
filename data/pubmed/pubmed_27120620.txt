@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Salmonella
+TITLE: Dynamic Duo-The Salmonella Cytolethal Distending Toxin Combines ADP-Ribosyltransferase and Nuclease Activities in a Novel Form of the Cytolethal Distending Toxin.
+PMID: 27120620
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27120620/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The cytolethal distending toxin (CDT) is a well characterized bacterial genotoxin encoded by several Gram-negative bacteria, including Salmonella enterica (S. enterica). The CDT produced by Salmonella (S-CDT) differs from the CDT produced by other bacteria, as it utilizes subunits with homology to the pertussis and subtilase toxins, in place of the traditional CdtA and CdtC subunits. Previously, S-CDT was thought to be a unique virulence factor of S. enterica subspecies enterica serotype Typhi, lending to its classification as the "typhoid toxin." Recently, this important virulence factor has been identified and characterized in multiple nontyphoidal Salmonella (NTS) serotypes as well. The significance of S-CDT in salmonellosis with regards to the: (i) distribution of S-CDT encoding genes among NTS serotypes, (ii) contributions to pathogenicity, (iii) regulation of S-CDT expression, and (iv) the public health implication of S-CDT as it relates to disease severity, are reviewed here.

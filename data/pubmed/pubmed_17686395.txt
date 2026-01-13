@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hypothyroidism
+TITLE: Headache attributed to hypothyroidism.
+PMID: 17686395
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17686395/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Clinical and subclinical hypothyroidisms are common conditions in the population. Clinic-based studies suggest that hypothyroidism may be an exacerbating factor for some primary headaches. Furthermore, hypothyroidism may be a risk factor for incident new daily persistent headache. This article reviews the classification of the headaches attributed to hypothyroidism according to the second edition of the International Classification of Headache Disorders. We also review the prevalence, etiology, and principles of treatment of hypothyroidism. Because hypothyroidism is a treatable cause of secondary headaches, doctors should be aware of this relationship.

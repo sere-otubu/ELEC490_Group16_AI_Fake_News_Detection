@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Menopause
+TITLE: Onset of the Menopause Transition: The Earliest Signs and Symptoms.
+PMID: 30401544
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30401544/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although more than 80% of women experience some degree of psychological or physical symptoms around menopause, both women and clinicians have misconceptions about how hormonal changes relate to menopausal symptoms and psychological conditions. Recently, several large-scale, longitudinal studies have been conducted to better characterize symptoms and changes that occur around menopause. This article offers current evidence for symptoms that occur in the early menopause transition, including vasomotor symptoms, mood changes, sleep problems, and changes in sexual functioning.

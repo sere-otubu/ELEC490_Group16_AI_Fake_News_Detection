@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Celiac disease
+TITLE: Gastrointestinal microbiome and gluten in celiac disease.
+PMID: 34647492
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34647492/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Coeliac disease (CD), also known as gluten sensitive enteropathy, is an autoimmune intestinal disease induced by gluten in genetically susceptible individuals. Gluten is a common ingredient in daily diet and is one of the main environmental factors to induce coeliac disease. Adhering to gluten free diet (GFD) is an effective method for treating CD. Microbiota plays an extremely important role in maintaining human health, and diet is the main factor to regulate the composition and function of gut microbiota. Recent studies have shown that gluten metabolism is closely related to gastrointestinal tract (GIT) microbiota. With the increasing prevalence of coeliac disease, there is a need for alternative treatments to GFD. In this review, biological medication of gluten, relationship between gluten and gut microflora, effect of GFD on GIT microflora, and effect of probiotics on CD were reviewed. By analysing the research progress on relationship between gluten and gastrointestinal microbiome in coeliac disease, this review tried to explore the prospective and potential mechanism of microecological agents in treating coeliac disease.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Osteoarthritis
+TITLE: Osteoarthritis of the wrist.
+PMID: 24572852
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24572852/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article reviews pathogenesis and treatment of wrist osteoarthritis. Because there is no cure for osteoarthritis, treatment is directed at symptomatic relief. Surgical treatment is reserved for patients who have failed nonoperative modalities. This article reviews the surgical treatment of wrist osteoarthritis with an emphasis on selection of the appropriate procedure. Literature guiding surgical treatment with patient outcomes is reviewed.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Food allergies
+TITLE: Biologics in Food Allergies: Emerging Therapies.
+PMID: 39389715
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39389715/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Immunoglobuin E (IgE)-mediated food allergies greatly impact patients and their families, causing financial and emotional stress, and placing them at risk for lifethreatening reactions. Until recently, food allergies have been treated with allergen avoidance and emergency treatment of allergic reactions. Omalizumab was recently approved in adults and children greater than one year who are allergic to one or more foods for the prevention of serious allergic reactions in the setting of accidental exposure. Omalizumab also shows promise when combined with oral immunotherapy for possible allergen ingestion. Other classes of biologics and small molecule inhibitors have also demonstrated potential for use in preventing and treating food allergy.

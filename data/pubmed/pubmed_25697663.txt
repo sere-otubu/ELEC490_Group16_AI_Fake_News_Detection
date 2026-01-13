@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Genetic testing ethics
+TITLE: Clinical applications of preimplantation genetic testing.
+PMID: 25697663
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25697663/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Genetic diagnostic technologies are rapidly changing the way medicine is practiced. Preimplantation genetic testing is a well established application of genetic testing within the context of in vitro fertilization cycles. It involves obtaining a cell(s) from a developing embryo in culture, which is then subjected to genetic diagnostic analysis; the resulting information is used to guide which embryos are transferred into the uterus. The potential applications and use of this technology have increased in recent years. Experts agree that preimplantation genetic diagnosis is clinically appropriate for many known genetic disorders. However, some applications of such testing, such as preimplantation genetic screening for aneuploidy, remain controversial. Clinical data suggest that preimplantation genetic screening may be useful, but further studies are needed to quantify the size of the effect and who would benefit most.

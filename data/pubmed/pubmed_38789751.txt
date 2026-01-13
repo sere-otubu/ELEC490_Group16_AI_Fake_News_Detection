@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dental implants
+TITLE: An introduction to dental implants.
+PMID: 38789751
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38789751/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The use of implants to replace missing teeth is now commonplace and practised by clinicians worldwide in both general and specialist practice. There is an abundance of evidence on the general success of implant treatment. As well as reviewing the history of dental implants, this narrative review will discuss the merits and successful placement of tissue-level verses bone-level implants. Furthermore, the article will evaluate the concept and benefits of platform switching for implant treatment. Finally, with the increased placement of implants, this narrative paper will review how different titanium surfaces impact on the risk of peri-implantitis.

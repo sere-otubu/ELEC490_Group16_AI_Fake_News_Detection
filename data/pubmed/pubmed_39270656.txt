@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Metformin
+TITLE: Metformin decelerates aging clock in male monkeys.
+PMID: 39270656
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39270656/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In a rigorous 40-month study, we evaluated the geroprotective effects of metformin on adult male cynomolgus monkeys, addressing a gap in primate aging research. The study encompassed a comprehensive suite of physiological, imaging, histological, and molecular evaluations, substantiating metformin's influence on delaying age-related phenotypes at the organismal level. Specifically, we leveraged pan-tissue transcriptomics, DNA methylomics, plasma proteomics, and metabolomics to develop innovative monkey aging clocks and applied these to gauge metformin's effects on aging. The results highlighted a significant slowing of aging indicators, notably a roughly 6-year regression in brain aging. Metformin exerts a substantial neuroprotective effect, preserving brain structure and enhancing cognitive ability. The geroprotective effects on primate neurons were partially mediated by the activation of Nrf2, a transcription factor with anti-oxidative capabilities. Our research pioneers the systemic reduction of multi-dimensional biological age in primates through metformin, paving the way for advancing pharmaceutical strategies against human aging.

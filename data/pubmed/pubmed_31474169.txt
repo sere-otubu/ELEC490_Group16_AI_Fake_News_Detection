@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Statins
+TITLE: Statins and the potential for higher diabetes mellitus risk.
+PMID: 31474169
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31474169/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+<b>Introduction</b>: 3-Hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase inhibitors (statins) are widely used for cardiovascular disease (CVD) prevention. Long-term use of statins has been linked to the development of diabetes mellitus (DM) which increases CVD risk. <b>Areas covered</b>: We discussed the reported incidence of DM in statin users, various possible mechanisms responsible for the development of DM and the clinical implications of this association on CVD risk. Relevant supporting literature was identified using MEDLINE/EMBASE search. <b>Expert opinion</b>: Data from available RCTs and observational studies suggest a 10-45% higher risk of new-onset DM with statin use compared to nonusers. Several cellular, molecular, and genetic mechanisms, and lifestyle changes have been studied and discussed as potential underlying mechanisms responsible for this elevated DM risk with statin therapy. The mode of the diabetogenic action of statins is still unclear and an interplay of pancreatic and peripheral effects in the pathogenesis of DM is a possibility. Despite these observations, the CVD preventative benefit of statin treatment outweighs the CVD risk associated with of development of new DM. There is a need for further research to identify the exact mechanisms involved so as to specifically target causative factors and individualize treatment.

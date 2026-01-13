@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Psoriasis
+TITLE: Glycobiology of psoriasis: A review.
+PMID: 39808852
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39808852/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Psoriasis is a chronic inflammatory skin disease with etiologies related to genetics, immunity, and the environment. It is characterized by excessive proliferation of keratinocytes and infiltration of inflammatory immune cells. Glycosylation is a post-translational modification of proteins that plays important roles in cell adhesion, signal transduction, and immune cell activation. Abnormal glycosylation is associated with inflammation, tumors, autoimmunity, and several diseases. Glycan profiles and glycosylation-related enzymes are altered in patients with psoriasis. Specific glycan structures, such as glycosaminoglycans and gangliosides, inhibit the development of psoriasis through various pathways. Lectins are glycan-binding proteins that are widely involved in the pathogenesis of psoriasis. The differential serum, epidermal, and dermal expression of galectins in patients with psoriasis distinguishes psoriasis from other nonspecific psoriasis-like dermatitis. This article summarizes relevant literature on psoriasis-related glycans to help clarify the potential molecular mechanisms of psoriasis and identify novel biomarkers and targets for the treatment of psoriasis.

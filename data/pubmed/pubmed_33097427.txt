@@ -1,0 +1,8 @@
+SEARCH_TOPIC: GERD
+TITLE: Esophageal reflux hypersensitivity: Non-GERD or still GERD?
+PMID: 33097427
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33097427/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The most recent iteration of the classifications for functional esophageal disorders, Rome IV, proposed relevant modifications of the previous definitions for Rome III. They specifically considered increased esophageal acid exposure as the marker of gastroesophageal reflux disease (GERD), including the remaining part of non-erosive reflux disease patients with normal acid in the group with functional alterations, considering both reflux hypersensitivity and functional heartburn. However, recent pathophysiological and therapeutic data suggest the need for a return to including reflux hypersensitivity in the GERD spectrum. Indeed, physiologic alterations in esophageal mucosal integrity and chemical clearance, the presence of microscopic esophagitis, and strict symptom-reflux association support the concept that reflux hypersensitivity pertains to GERD. Surgical anti-reflux therapy has resulted in positive outcomes, even in the long term, in patients with reflux hypersensitivity and not in those with functional heartburn. Moreover, clinical trials using neuromodulators have been scarce and provided conflicting results. As a result, the real progress of the Rome IV classifications is in dispute. This article aims to summarize the most recent knowledge of non-erosive reflux disease and reflux hypersensitivity to discuss the utility of Rome IV criteria in the identification and management of functional esophageal disorders.

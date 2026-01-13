@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Epipen
+TITLE: Repeated freezing to very low temperatures does not impact the amount ejected from EpiPen® and Jext® adrenaline autoinjectors.
+PMID: 38875453
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38875453/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+It has previously been shown that EpiPen® autoinjectors are likely to activate normally following up to five excursions to -25°C but data about the post-freezing performance of other brands of adrenaline autoinjectors has not previously been published. Additionally, conditions experienced by polar medics may be substantially colder than this and the performance of adrenaline autoinjectors following more extreme freeze-thaw cycles remains uncharacterised. Investigators in Antarctica and the United Kingdom performed laboratory testing on two brands of adrenaline autoinjector, EpiPen® and Jext® (12 devices of each type). A single freeze-thaw cycle involved freezing the device to -80°C then allowing it to come to room temperature. Devices were exposed to 0, 1, 5 or 15 freeze-thaw cycles. The mass of liquid ejected from each device, when activated, was then measured. No significant differences in the mass of the liquid ejected was found between the test groups. Multiple freeze-thaw cycles to -80°C are unlikely to significantly impact the amount of adrenaline solution expelled from EpiPen® and EpiPen® autoinjectors. This preliminary finding encourages further work investigating the safety and effectiveness of adrenaline autoinjectors after exposure to very low temperatures. This information would be valuable for future polar medics planning and delivering medical provision in extreme environments.

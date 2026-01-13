@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Radiation therapy
+TITLE: Radiation therapy in head and neck cancer.
+PMID: 33632902
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33632902/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This review summarizes the beginning of radiotherapy, techniques of modern radiation therapy with different types, toxicities induced by radiotherapy and their management. Head and neck radiation therapy is still improving for the better management and control of the cancer and induced radiotherapy toxicities.

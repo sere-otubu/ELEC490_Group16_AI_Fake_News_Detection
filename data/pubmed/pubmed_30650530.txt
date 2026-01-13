@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gluten free diet
+TITLE: Gluten-Free Diet: Gaps and Needs for a Healthier Diet.
+PMID: 30650530
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30650530/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The gluten-free diet (GFD) is currently the only effective treatment in remitting the symptoms of coeliac disease (CD), a chronic systemic autoimmune disorder caused by a permanent intolerance to gluten proteins in genetically susceptible individuals. The diet entails the substitution of gluten-containing products with gluten-free-rendered products. However, over recent decades the nutritional profile of gluten-free (GF) food products has been increasingly questioned within the scientific community. The aim of this paper is to review the nutritional profile of gluten-free-rendered products currently available on the market, and discuss the possible relationship thereof with the nutritional status of coeliac patients on a GFD. Key inadequacies of currently available GF products are low protein content and a high fat and salt content. More adequate levels of dietary fiber and sugar than in the past have been reported. Population studies confirmed the above mentioned inadequacies. Further efforts are required to conceive adoptable interventions for product development and reformulation in order to achieve compliance with nutritional recommendations.

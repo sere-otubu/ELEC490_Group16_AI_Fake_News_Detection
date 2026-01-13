@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dental implants
+TITLE: Dental Implants: Enhancing Biological Response Through Surface Modifications.
+PMID: 36216450
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36216450/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Surface characteristics are an important factor for long-term clinical success of dental implants. Alterations of implant surface characteristics accelerate or improve osseointegration by interacting with the physiology of bone healing. Dental implant surfaces have been traditionally modified at the microlevel. Recently, researchers have actively investigated nano-modifications in dental implants. This review explores implant surface modifications that enhance biological response at the interface between a bone and the implant.

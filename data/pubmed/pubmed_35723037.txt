@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Laxatives
+TITLE: Laxatives are Associated with Poorer Polysomnography-derived Sleep Quality.
+PMID: 35723037
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35723037/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To characterize 1) the relationship between laxative use and objective sleep metrics, and 2) the relationship between laxative use and self-reported insomnia symptoms in a convenience sample of middle-aged/elderly patients who completed in-laboratory polysomnography. We cross-sectionally analyzed first-night diagnostic in-laboratory polysomnography data for 2946 patients over the age of 40 (mean age 60.5 years; 48.3% male). Laxative use and medical comorbidities were obtained through self-reported questionnaires. Patient insomnia symptoms were based on self-report. Associations between laxative use and objective sleep continuity were analyzed using multivariable linear regression models. Associations between laxative use and insomnia were assessed using multivariable logistic regression models. After adjusting for age, sex, body mass index, total recording time, and relevant comorbidities, laxative users had a 7.1% lower sleep efficiency (<i>p</i> < 0.001), 25.5-minute higher wake after sleep onset (<i>p</i> < 0.001), and a 29.4-minute lower total sleep time (<i>p</i> < 0.001) than patients not using laxatives. Laxative users were found to be at greater odds of reporting insomnia symptoms (OR = 1.7, <i>p</i> = 0.024) than patients not using laxatives. Laxative use is associated with impairments in objective sleep continuity. Patients using laxatives were also at greater odds of reporting insomnia symptoms.

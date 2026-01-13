@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Measles
+TITLE: Measles pathogenesis, immune suppression and animal models.
+PMID: 32339942
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32339942/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Measles virus causes a disease with seemingly innocent symptoms, such as fever and rash. However, measles immune suppression causes increased susceptibility to opportunistic infections that are responsible for the majority of over 100000 yearly fatalities. The pathogenesis of measles is complex, because measles virus uses multiple receptors to infect different cell types in different phases of the disease. Experimental morbillivirus infections with wild-type viruses in natural host species have demonstrated that direct infection and depletion of memory immune cells causes immune amnesia. This was confirmed in studies of a measles outbreak in unvaccinated children and provides an explanation for epidemiological observations of long-term increases in morbidity and mortality after measles.

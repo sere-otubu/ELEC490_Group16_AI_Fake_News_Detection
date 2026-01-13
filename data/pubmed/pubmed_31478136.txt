@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Digestion process
+TITLE: Structure, development and evolution of the digestive system.
+PMID: 31478136
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31478136/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Living cells depend on a constant supply of energy-rich organic molecules from the environment. Small molecules pass into the interior of the cell via simple diffusion or active transport carried out by membrane bound transporters; macromolecules, or entire cells, are taken up by endocytosis/phagocytosis, and are degraded intracellularly in specialized membrane bound compartments (lysosomes). Whereas all cells are capable of transporting molecules through the membrane, the efficient procurement, digestion and uptake of nutrients have become the function of specialized cell types and organs, forming the digestive system in multicellular animals. In mammals, for example, the digestive system is comprised of glandular organs with classes of cells specialized in the secretion of enzymes for the extracellular digestion of food particles (e.g., exocrine cells of the salivary gland, pancreas), as well as other organs with absorptive function (e.g., small intestine). Numerous other cell types, such as smooth muscle cells, neurons and enteroendocrine cells, are associated with glandular cells and intestinal cells to promote the digestive process.

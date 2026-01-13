@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ultrasound
+TITLE: Application of focused ultrasound for research on pain.
+PMID: 8895227
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8895227/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Short pulses of focused ultrasound can stimulate the superficial and deep-seated receptor structures of human tissues and induce different somatosensory sensations including, in particular, pain sensations. Focused ultrasound as a new artificial stimulus for inducing pain has a number of advantages related with its non-invasiveness, the possibility of the precise control of stimulus parameters and the location of its action. The experimental procedures and the results of the application of focused ultrasound as a painful stimulus in physiological research and in clinical practice are discussed. Data concerning various kinds of pain sensations, values of ultrasound thresholds of pain in different parts of the hand, as well as the discussion of the main effective factors of focused ultrasound responsible for the induction of pain, are presented in this review.

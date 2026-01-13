@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Eating disorders
+TITLE: Male eating disorders in midlife-possible links between excessive sports and hormones.
+PMID: 36790384
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36790384/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although eating disorders were long considered a typical female disorder, it is now clear that men are also affected. However, the literature on eating disorders in men is still very limited, and the actual extent is not known. Even less is known about the epidemiology of eating disorders in older individuals. In this focused review, we will present an update of the available data on disordered eating and eating disorders in middle-aged and older males. In addition, we will highlight the relationship of eating disorders with excessive sports as a purging method of choice for this age group and discuss the impact of age-related hormonal imbalances in aging men.

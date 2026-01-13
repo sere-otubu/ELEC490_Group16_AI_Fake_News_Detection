@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chronic disease management
+TITLE: Key Features Of Peer Support In Chronic Disease Prevention And Management.
+PMID: 26355054
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26355054/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Peer support from community health workers, promotores de salud, and others through community and health care organizations can provide social support and other assistance that enhances health. There is substantial evidence for both the effectiveness and the cost-effectiveness of peer support, as well as for its feasibility, reach, and sustainability. We discuss findings from Peers for Progress, a program of the American Academy of Family Physicians Foundation, to examine when peer support does not work, guide dissemination of peer support programs, and help integrate approaches such as e-health into peer support. Success factors for peer support programs include proactive implementation, attention to participants' emotions, and ongoing supervision. Reaching those whom conventional clinical and preventive services too often fail to reach; reaching whole populations, such as people with diabetes, rather than selected samples; and addressing behavioral health are strengths of peer support that can help achieve health care that is efficient and of high quality. Challenges for policy makers going forward include encouraging workforce development, balancing quality control with maintaining key features of peer support, and ensuring that underresourced organizations can develop and manage peer support programs.

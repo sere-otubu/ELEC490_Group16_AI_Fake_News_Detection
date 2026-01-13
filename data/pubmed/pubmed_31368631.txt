@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mindful eating
+TITLE: Mindful eating and common diet programs lower body weight similarly: Systematic review and meta-analysis.
+PMID: 31368631
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31368631/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Common strategies for reducing body weight rely on limiting energy intake and restricting food choices. However, these strategies have often been proven ineffective in achieving long-term and sustainable weight reduction. More recently, mindful eating as an alternative weight management strategy has gained increasing attention, yet systematic reviews on intuitive or mindful eating published so far present contradictory results. We performed a systematic review and meta-analysis on randomized controlled trials on weight loss programs based on mindful or intuitive eating. We analyzed results using meta-regressions. We included a total of 10 studies and found a significant weight loss effect of mindful/intuitive eating strategies compared with nonintervention controls (-0.348 kg, 95% CI: -0.591 to -0.105, P = 0.005). However, there was no difference compared with conventional diet programs (P = 0.99). Reduction of BMI (-0.137 kg/m<sup>2</sup> , 95% CI: -0.365 to 0.091, P = 0.240) or waist circumference (-0.358 cm, 95% CI: -0.916 to 0.200, P = 0.209) were not statistically significant. Mindful/intuitive eating could be a practical approach to weight control. Limitations of this study include the unbalanced sex, origin, place of residence of the participants, and the short duration of interventions. Future research should aim at investigating long-term effects and include a more heterogeneous study population.

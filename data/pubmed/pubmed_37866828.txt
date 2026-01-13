@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Social determinants of health
+TITLE: Social Determinants of Health: An Overview for the Primary Care Provider.
+PMID: 37866828
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37866828/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Social determinants of health (SDoH) are reflected in how people live (access to health care, economic stability, built environment, food security, climate), learn (the educational environment), work (occupational environment), and play/socialize (social context and digital domain). All of these day-to-day conditions play a vital role in a patient's overall health, and a primary care provider should be prepared to understand their role to screen, assess, and address SDoH in clinical practice.

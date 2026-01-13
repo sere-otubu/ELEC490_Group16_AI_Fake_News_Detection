@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Social determinants of health
+TITLE: Impact of the Social Determinants of Health on Adult Trauma Outcomes.
+PMID: 37127378
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37127378/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Social determinants of health (SDOHs) have been well studied within the literature in the United States but the effects of these determinants of health on patients with trauma have garnered less attention. The interaction between patients with SDOHs and patients with trauma requires clinicians caring for this population to view patients with trauma through a multifaceted lens. The purpose of this article will be to illuminate the drivers of trauma in the adult population and how the SDOHs and the health-care system come together to contribute to disparities in trauma outcomes.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cardiovascular fitness
+TITLE: Cardiovascular health and fitness after stroke.
+PMID: 15735997
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15735997/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Stroke patients have profound cardiovascular and muscular deconditioning, with metabolic fitness levels that are about half those found in age-matched sedentary controls. Physical deconditioning, along with elevated energy demands of hemiparetic gait, define a detrimental combination termed diminished physiological fitness reserve that can greatly limit that can greatly limit performance of activities of daily living. The physiological features that underlie worsening metabolic fitness in the chronic phase of stroke include gross muscular atrophy, altered muscle molecular phenotype, increased intramuscular area fat, elevated tissue inflammatory markers, and diminished peripheral blood flow dynamics. Epidemiological evidence further suggests that the reduced cardiovascular fitness and secondary biological changes in muscle may propagate components of the metabolic syndrome, conferring added morbidity and mortality risk. This article reviews some of the consequences of poor fitness in chronic stroke and the potential biological underpinnings that support a rationale for more aggressive approaches to exercise therapy in this population.

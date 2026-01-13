@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urinary system
+TITLE: Anatomy and physiology of the lower urinary tract.
+PMID: 26003239
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26003239/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Functions of the lower urinary tract to store and periodically eliminate urine are regulated by a complex neural control system in the brain, spinal cord, and peripheral autonomic ganglia that coordinates the activity of smooth and striated muscles of the bladder and urethral outlet. Neural control of micturition is organized as a hierarchic system in which spinal storage mechanisms are in turn regulated by circuitry in the rostral brainstem that initiates reflex voiding. Input from the forebrain triggers voluntary voiding by modulating the brainstem circuitry. Many neural circuits controlling the lower urinary tract exhibit switch-like patterns of activity that turn on and off in an all-or-none manner. The major component of the micturition switching circuit is a spinobulbospinal parasympathetic reflex pathway that has essential connections in the periaqueductal gray and pontine micturition center. A computer model of this circuit that mimics the switching functions of the bladder and urethra at the onset of micturition is described. Micturition occurs involuntarily during the early postnatal period, after which it is regulated voluntarily. Diseases or injuries of the nervous system in adults cause re-emergence of involuntary micturition, leading to urinary incontinence. The mechanisms underlying these pathologic changes are discussed.

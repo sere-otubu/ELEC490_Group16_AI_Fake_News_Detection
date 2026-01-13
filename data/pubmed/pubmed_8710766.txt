@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Amniocentesis
+TITLE: Early amniocentesis: a clinical review.
+PMID: 8710766
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8710766/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Early amniocentesis at less than 14 weeks gestation is becoming more common in prenatal diagnosis populations. Randomized studies are minimal and have not had the power to determine the accuracy and safety of the procedure compared to chorionic villus sampling or mid-trimester amniocentesis. Procedures at 11+0-12+6 weeks should be considered experimental. This clinical review considers the ethics, embryology, and clinical experience (cytogenetics, AFP, AChE, procedure and cytogenetic failures, spontaneous and therapeutic pregnancy losses, congenital anomalies) of early amniocentesis.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dental cavities
+TITLE: Childhood Caries Management.
+PMID: 35886380
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35886380/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Dental caries, also known as tooth decay or cavities, result from the breakdown of teeth due to bacterial acids [...].

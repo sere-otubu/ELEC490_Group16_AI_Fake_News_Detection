@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vaping health risks
+TITLE: World vaping update.
+PMID: 32398544
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32398544/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although death and injury related to e-cigarette use and vaping products has decreased since the peak in 2019, concern over the popularity of electronic nicotine delivery systems (ENDS - a term which includes vape pens, electronic or e-cigarettes, and products that produce vapor for inhaling rather than combusting to produce smoke) continues. ENDS are used as an aid to quit smoking and for harm reduction. This review covers peer-reviewed literature from January 2019 through February 2020 on vaping (the process of using ENDS). Prevalence, risk factors for use, and health risks and benefits from use predominated. Policy articles, commentaries and editorials were excluded from review. E-cigarette or vaping product use-associated lung injury (EVALI)-related injury and death were in the news and literature this year. Because most EVALI-related injury and death occurred among young people who had vaped tetrahydrocannabinol (THC), data from the Healthy Minds (United States) study are reviewed to consider variation in risk factors for vaping THC compared with nicotine. Findings provide up-to-date information on vaping as a way to consume a drug, whether THC or nicotine. Harm reduction benefits were shown in a year-long follow-up of smoking cessation; harms continue to accumulate, including from passive consumption.

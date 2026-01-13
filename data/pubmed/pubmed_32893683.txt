@@ -1,0 +1,8 @@
+SEARCH_TOPIC: GERD
+TITLE: The pharmacotherapeutic management of gastroesophageal reflux disease (GERD).
+PMID: 32893683
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32893683/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gastroesophageal reflux disease (GERD) is a very common worldwide condition, affecting about 15-20% of the whole population, and representing a major burden for health-care systems. Because of its frequency, health physicians - family doctors as well as specialists - should be aware of the different pharmacotherapeutic approaches in managing GERD, according to disease severity. Authors summarize the pharmacological management of GERD in adults, present the different pharmaceutical classes, and review the evidence on efficacy for each treatment according to the most common clinical scenarios: non-erosive gastroesophageal reflux disease (NERD), erosive esophagitis (EE), and proton-pump inhibitor (PPI) refractory GERD. They also provide an overview of treatments under development. To date, PPIs remain the most effective treatment option for both NERD and EE. However, Potassium-Competitive Acid blockers (PCAB) may be considered, with at least similar efficacy in Asian populations. Preliminary data suggest that PCABs could be superior to classic PPIs in patients with severe EE, and may also be of particular interest in the management of PPI-refractory GERD patients. Their definitive role in GERD management, however, still remains to be determined based on properly designed and conducted randomized clinical trials.

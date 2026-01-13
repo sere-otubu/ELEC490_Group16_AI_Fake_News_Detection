@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chronic kidney disease
+TITLE: [Frailty in chronic kidney disease].
+PMID: 33629129
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33629129/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The prevalence of frailty is very high in patients with chronic renal insufficiency and increases with its severity. A number of factors associated with chronic renal insufficiency appear to favor the frequent occurrence of frailty in these patients. In addition to its unfavorable impact on the quality of life, morbidity and mortality, frailty is an important criterion in setting treatment goals for chronic kidney disease as well as in the decision whether to undergo dialysis treatment or conservative treatment without dialysis and also in listing a patient for a kidney transplantation. There is still uncertainty about the measures to improve the effects of frailty in patients with chronic kidney insufficiency. These can vary considerably depending on the stage and course of the kidney disease and external circumstances. Individual physical, psychological or emotional problems can be identified on the basis of a geriatric assessment including a social anamnesis. This forms the foundation for tailored measures, such as advice on how to behave when suffering from kidney disease, training therapy and rehabilitation. Patients with renal insufficiency seem to benefit from the latter to a similar extent as patients without kidney disease. Thus, an early assessment of frailty-associated problems in patients with chronic renal insufficiency could help to identify deficits as soon as possible and, by measures adapted to the situation, to achieve an improvement in the quality of life and/or prognosis of these patients.

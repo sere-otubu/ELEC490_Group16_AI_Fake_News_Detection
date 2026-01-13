@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ulcerative colitis
+TITLE: What is the origin of ulcerative colitis? Still more questions than answers.
+PMID: 17068271
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17068271/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Despite more than a century of existence as a clinical entity, the true origin of ulcerative colitis still remains elusive. Several factors probably contribute to the development of this condition. Recently discovered technologies have clarified the role of bacterial species, which may account for intestinal dysbiosis, as a factor triggering ulcerative colitis. Genetic susceptibility together with abnormal innate immunoreactivity probably comprise the essential prerequisites for the initiation and perpetuation of ulcerative colitis. Although the genetic background has been more clearly recognised in patients with Crohn's disease than in those with ulcerative colitis, some candidate loci associated with ulcerative colitis have also been intensively studied. Additionally, environmental factors may interfere with inherent predispositions to ulcerative colitis, and either suppress or reinforce them. Whatever the origin, the search for the aetiology of ulcerative colitis must have the same goal: the improvement of treatment and the quality of life in patients with ulcerative colitis.

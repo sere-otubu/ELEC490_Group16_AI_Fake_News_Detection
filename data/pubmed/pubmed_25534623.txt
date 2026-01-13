@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Inflammation mechanism
+TITLE: Type 2 inflammation in asthma--present in most, absent in many.
+PMID: 25534623
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25534623/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Asthma is one of the most common chronic immunological diseases in humans, affecting people from childhood to old age. Progress in treating asthma has been relatively slow and treatment guidelines have mostly recommended empirical approaches on the basis of clinical measures of disease severity rather than on the basis of the underlying mechanisms of pathogenesis. An important molecular mechanism of asthma is type 2 inflammation, which occurs in many but not all patients. In this Opinion article, I explore the role of type 2 inflammation in asthma, including lessons learnt from clinical trials of inhibitors of type 2 inflammation. I consider how dichotomizing asthma according to levels of type 2 inflammation--into 'T helper 2 (TH2)-high' and 'TH2-low' subtypes (endotypes)--has shaped our thinking about the pathobiology of asthma and has generated new interest in understanding the mechanisms of disease that are independent of type 2 inflammation.

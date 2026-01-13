@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Reproductive system
+TITLE: The Reproductive System.
+PMID: 26659484
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26659484/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Correct sexual development is arguably the most important trait in an organism's life history since it is directly related to its genetic fitness. The developing gonad houses the germ cells, the only legacy we pass on to subsequent generations. Given the pivotal importance of correct reproductive function, it is confounding that disorders of sex development (DSDs) are among the most common congenital abnormalities in humans (Lee et al. J Pediatr Urol 8(6):611-615, 2012). Urogenital development is a highly complex process involving coordinated interactions between molecular and hormonal pathways in a tightly regulated order. The controls that regulate some of the key events in this process are beginning to be unraveled. This chapter provides an overview of our understanding of urogenital development from the gonads to the urogenital ducts and external genitalia.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Iron deficiency
+TITLE: Iron deficiency, iron deficiency anaemia and anaemia of inflammation - an overview.
+PMID: 38549491
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38549491/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Iron is an essential trace element for various cellular proteins and for biological processes in all cells. Severe iron deficiency (ID) impairs haem synthesis, reduces erythropoiesis and causes iron deficiency anaemia (IDA). Iron restriction in anaemia of inflammation is mainly due to retention of iron in macrophages. This condition is known as 'functional iron deficiency'. A review of studies performed in Europe shows that the prevalence of ID and IDA in young children varies by region. It is more common in eastern than western European countries. This overview summarises information on the need for iron supplementation in children, and the current understanding of the regulatory mechanisms of iron homeostasis and ironrestricted erythropoiesis. The causes of anaemia during infection and the usefulness of classical and new indicators to distinguish absolute from functional iron deficiency are discussed.

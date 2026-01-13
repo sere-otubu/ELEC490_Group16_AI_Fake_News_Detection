@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tetanus shot
+TITLE: Merthiolate hypersensitivity and vaccination.
+PMID: 6447032
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6447032/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Epicutaneous tests with 0.1% merthiolate in petrolatum showed hypersensitivity in 96 of 4647 eczema patients (2.0%) and in seven of 105 healthy recruits (7%). There was a marked preponderance of young age classes in the eczema group. Twelve of 41 merthiolate-positive patients tested reacted to mercury alone, three to thiosalicylic acid alone and one to both. The remaining 25 patients reacted to neither of the individual components although the merthiolate complex as a whole gave a positive test result. Forty-five of the merthiolate-positive patients were tested subcutaneously with 0.5 ml of a 0.01% merthiolate solution, i.e. a dose equal to that contained in one shot of tetanus toxoid, for example. Nine patients developed a local reaction at the site of the injection, and the area became eczematous in four cases. In one of the patients the eczema spread over the body, causing fever. Since merthiolate-sensitive patients also react to merthiolate administered intracutaneously, the vaccinator should avoid the use of a needle whose outer surface has been contaminated when the vaccine was aspirated from the bottle. However, even when this precautionary measure is taken, local reactions can be expected in such a high percentage of merthiolate-sensitive persons that merthiolate in vaccines should be replaced by another antibacterial agent.

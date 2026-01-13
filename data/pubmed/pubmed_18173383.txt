@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Calorie counting
+TITLE: Global calorie counting: a fitting exercise for obese societies.
+PMID: 18173383
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18173383/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Implementation of strategies to address obesity on a global scale has not yet begun in earnest. One key issue is uncertainty about the relative importance of taking aggressive action on the food vs. physical activity side of the energy balance equation, recognizing that interventions in both areas are critical. Using data on obesity prevalence, food availability, and selected economic and sociodemographic indicators from member countries of the Organization for Economic Cooperation and Development, an article in this volume of the Annual Review of Public Health provides estimates and projections to help resolve this uncertainty. The analyses presented support the authors' hypothesis that most of the recent rise in obesity is attributable to excess caloric intake. The implication that policies to curb overconsumption might include deliberate changes in the price structure of the food supply should stimulate debate about our current agricultural and trade paradigms, particularly because any such global policies would also affect the developing world.

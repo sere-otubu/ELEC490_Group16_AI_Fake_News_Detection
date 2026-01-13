@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Addisons disease
+TITLE: [Addison's disease].
+PMID: 22907517
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22907517/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The clinical signs and symptoms of primary adrenal insufficiency are unspecific often causing a delayed diagnosis or even misdiagnosis. In the diagnostic work-up the short synacthen test is regarded as the gold standard. Hydrocortisone and fludrocortisone are the preferred therapy for Addison's disease. The management and surveillance of therapy requires experience and several aspects need to be followed to prevent side effects which might occur due to overtreatment or undertreatment. Very important aspects in therapy are the repeated teaching of the patient and relatives, the issuing of an emergency steroid card and the prescription of a glucocorticoid emergency set. Acute adrenal failure (adrenal crisis), which might be the first manifestation of adrenal insufficiency, is a life-threatening situation requiring immediate glucocorticoid administration and fluid substitution. The most common causes for an adrenal crisis are gastrointestinal infections and fever and discontinuation of glucocorticoid therapy. This article gives an up-to-date overview of diagnostic and therapeutic aspects of Addison's disease.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gestational Diabetes
+TITLE: Gestational diabetes mellitus.
+PMID: 23393668
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23393668/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gestational diabetes mellitus is one of the most common medical problems that results from an increase in the insulin resistance as well as an impairment of the compensatory increase in insulin secretion from the beta cells of the pancreas. It serves as a metabolic stress test that uncovers underlying insulin resistance and beta-cell dysfunction. Gestational diabetes is associated with a variety of maternal and fetal complications, most notably macrosomia. Controversy surrounds the ideal approach for detecting gestational diabetes, andthe approaches recommended for screening and diagnosis are largely based on expert opinion. Controlling maternal glycemia with Medical Nutrition Therapy, close monitoring of blood glucose levels and treatment with insulin if blood glucose levels are not at goal has been shown to decrease fetal and maternal morbidities. Other treatment modalities, such as oral agents, need further study to validate their safety and efficacy. Finally, postpartum management of women with Gestational diabetes is critical because of their markedly increased risk of Type 2 diabetes in the future. Efforts should be made to prevent gestational diabetes in subsequent pregnancies. Because body fat and diet contribute to the risk of gestational diabetes mellitus, patients who lose weight before pregnancy and follow an appropriate diet may lower their risk of gestational diabetes mellitus.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Binge eating disorder
+TITLE: Binge-Eating Disorder.
+PMID: 30704638
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30704638/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Binge-eating disorder (BED), first included as a diagnostic entity in the Diagnostic and Statistical Manual of Mental Disorders Fifth Edition, is characterized by recurrent episodes of binge eating without regular compensatory behaviors to prevent weight gain. With a complex multifactorial etiology, BED is the most frequent eating disorder co-occuring with significant psychopathology, mental and physical comorbidity, obesity, and life impairment. Despite its significance, BED is not sufficiently diagnosed or treated. Evidence-based treatments for BED include psychotherapy and structured self-help treatment, with cognitive-behavioral therapy as most well-established approach, and pharmacotherapy with lisdexamfetamine as FDA approved medication with a limitation of use.

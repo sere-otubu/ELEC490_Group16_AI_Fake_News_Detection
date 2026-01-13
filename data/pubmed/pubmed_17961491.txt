@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Angioplasty
+TITLE: [Saphenous graft angioplasty].
+PMID: 17961491
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17961491/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In our daily practice the rate of saphenous graft angioplasty is less than 5%. This kind of angioplasty is more complex with a higher rate of complications in known fragile patients. Some technical trips and tricks are necessary to easily perform these angioplasties. Main difficulties are the extension of saphenous graft lesions, the risk of distal embolism, coronary slow or no flow and the high rate of restenosis. Pharmacological treatment is disappointing with no efficacy of the Gp IIb-IIa blockers. Otherwhise the use of protection devices is clearly effective and must be used when it is technically possible. With the use of bare metal stents in saphenous graft angioplasty the rate of restenosis is very high. There are some encouraging results with drug eluting stents. But we are still now not allowed to use them in this indication in our daily practice.

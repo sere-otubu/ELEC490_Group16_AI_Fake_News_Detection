@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Angioplasty
+TITLE: Intraoperative angioplasty.
+PMID: 2949843
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2949843/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Of 768 angioplasties performed in our institute, 42 procedures (5%) in 39 patients were performed by a radiologist in the operating room in combination with vascular surgery; 15 ilial, 20 femoral, 5 tibial, 1 renal, and 1 brachiocephalic artery stenoses were treated. Immediate and late successes, as well as the complication rates, were comparable to those of the percutaneous approach. The main reasons for the intraoperative approach were absence of arterial pulsations, ulcerative lesions at the puncture site with risk of peripheral embolisation, and the opportunity of a surgical arteriotomy offering access to an otherwise unreachable stenotic artery. The advantages of intraoperative dilatation in combination with surgery over simple operation are the reduction of operative morbidity and mortality, shortening of the operative time, and improved results by reassuring the in- or outflow of the operated territory. The main disadvantages are the limited fluoroscopic field and the limited mobility of the fluoroscopy device.

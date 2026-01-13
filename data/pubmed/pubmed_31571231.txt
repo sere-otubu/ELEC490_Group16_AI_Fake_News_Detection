@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pregnancy nutrition
+TITLE: The FIGO Pregnancy Obesity and Nutrition Initiative (PONI).
+PMID: 31571231
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31571231/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The activities of the FIGO Pregnancy Obesity and Nutrition Initiative are aimed at reducing all types of malnutrition in women before, during and after pregnancy.

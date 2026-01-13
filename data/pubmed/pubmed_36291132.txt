@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Major depressive disorder
+TITLE: <i>MAOA uVNTR</i> Genetic Variant and Major Depressive Disorder: A Systematic Review.
+PMID: 36291132
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36291132/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Major Depressive Disorder (MDD) is a highly prevalent multifactorial psychopathology affected by neurotransmitter levels. Monoamine Oxidase A (MAOA) influences several neural pathways by modulating these levels. This systematic review (per PRISMA protocol and PECOS strategy) endeavors to understand the <i>MAOA uVNTR</i> polymorphism influence on MDD and evaluate its 3R/3R and 3R* genotypic frequencies fluctuation in MDD patients from different populations. We searched the Web of Science, PubMed, Virtual Health Library, and EMBASE databases for eligible original articles that brought data on genotypic frequencies related to the <i>MAOA uVNTR</i> variant in patients with MDD. We excluded studies with incomplete data (including statistical data), reviews, meta-analyses, and abstracts. Initially, we found 43 articles. After removing duplicates and applying the inclusion/exclusion criteria, seven articles remained. The population samples studied were predominantly Asians, with high 3R and 4R allele frequencies. Notably, we observed higher 3R/3R (female) and 3R* (male) genotype frequencies in the healthy control groups and higher 4R/4R (female) and 4R* (male) genotype frequencies in the MDD groups in the majority of different populations. Despite some similarities in the articles analyzed, there is still no consensus on the <i>MAOA uVNTR</i> variant's role in MDD pathogenesis.

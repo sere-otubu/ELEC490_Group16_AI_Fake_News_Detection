@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HPV infection
+TITLE: HPV infection and disease in men.
+PMID: 8989780
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8989780/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Penile HPV infection and disease are very common in sexually active men, and may be manifest in many forms. Treatment of clinically detectable lesions is advisable not only to relieve symptoms but also to prevent the spread of HPV infection to new sexual partners. Treatment of subclinical disease is more controversial but also may be advisable in some cases given the evidence that these lesions may also harbor infectious virus. In addition, subclinical disease may demonstrate intraepithelial neoplasia, which if left untreated may progress to invasive cancer in a small number of cases. Anal HPV infection and ASIL are very common in high-risk homosexual and bisexual men, particularly among those who are HIV positive. Parallels with cervical HPV infection and disease suggest that anal HSIL may be precancerous, and indeed anal cancer may be as common or more common in this high-risk group as cervical cancer is in women. Further studies are needed to elucidate the natural history of ASIL, the role of immunosuppression in progression to invasive cancer, optimal diagnostic methods, and optimal treatment regimens. Like cervical cancer, anal cancer may be a preventable disease, and implementation of a well-targeted screening program similar to that in place for cervical disease should be considered in the future when appropriate supporting data become available.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cirrhosis
+TITLE: [Cirrhosis and liver fibrosis are potentially reversible].
+PMID: 26617169
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26617169/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cirrhosis is the end result of most chronic liver diseases. Contrary to the general view of liver fibrosis and cirrhosis being irreversible, recent findings have revealed that liver fibrosis can decrease if the cause(s) for the fibrosis formation can be weakened or eliminated. Thus, liver fibrosis and cirrhosis are potentially reversible. This paper reviews current evidence of reversibility in cirrhosis of varying aetiology and the consequence for therapeutic strategies.

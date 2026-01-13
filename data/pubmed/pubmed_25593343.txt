@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Leukemia
+TITLE: Evolutionarily conserved signaling pathways: acting in the shadows of acute myelogenous leukemia's genetic diversity.
+PMID: 25593343
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25593343/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Acute myelogenous leukemia stem cells (AML-LSC) give rise to the leukemic bulk population and maintain disease. Relapse can arise from residual LSCs that have distinct sensitivity and dependencies when compared with the AML bulk. AML-LSCs are driven by genetic and epigenomic changes, and these alterations influence prognosis and clonal selection. Therapies targeting these molecular aberrations have been developed and show promising responses in advanced clinical trials; however, so far success with LSCs has been limited. Besides the genetic diversity, AML-LSCs are critically influenced by the microenvironment, and a third crucial aspect has recently come to the fore: A group of evolutionarily conserved signaling pathways such as canonical Wnt signaling, Notch signaling, or the Hedgehog pathway can be essential for maintenance of AML-LSC but may be redundant for normal hematopoietic stem cells. In addition, early reports suggest also regulators of cell polarity may also influence hematopoietic stem cells and AML biology. Interactions between these pathways have been investigated recently and suggest a network of signaling pathways involved in regulation of self-renewal and response to oncogenic stress. Here, we review how recent discoveries on regulation of AML-LSC-relevant evolutionarily conserved pathways may open opportunities for novel treatment approaches eradicating residual disease.

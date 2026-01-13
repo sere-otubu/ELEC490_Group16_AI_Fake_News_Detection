@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Patient data privacy HIPAA
+TITLE: HIPAA privacy regulations.
+PMID: 16673257
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16673257/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The Health Insurance Portability and Accountability Act of 1996 (HIPAA) impacts all health-care professionals, including speech-language pathologists (SLPs). The administration simplification section of HIPAA includes specific regulations designed to protect the privacy of an individual's health records. These privacy regulations are not designed to impede upon essential health-care practices, but do require that covered providers take reasonable steps to limit the use and disclosure of protected health information. Important aspects of the privacy regulations include the development of facility- or practice-specific privacy policies, the development of a privacy manual, staff training on privacy policies and procedures, and the drafting and posting of a notice of privacy practices. In addition, authorization forms are mandated for instances of use and disclosure of public health information not related to treatment, payment, or health-care operations.

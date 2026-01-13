@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Appendectomy
+TITLE: [Appendectomy in surgical residency. What has changed over the past 10 years?].
+PMID: 26661947
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26661947/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Surgical residents need to train laparoscopic skills for minimally invasive procedures at an early stage. The aim of this study was the investigation and assessment of appendectomy carried out at a university medical center over the previous decade regarding the frequency of operations by residents in training and the type of surgical technique used (laparoscopic vs. open). A retrospective analysis of appendectomies carried out from 2005 to 2014 at the clinic for general, visceral and transplant surgery was performed. Operators were stratified into two groups (group 1: residents and group 2: fellows/attending surgeons). Surgery was classified as laparoscopic or open appendectomy. Out of 1,587 appendectomies analyzed 946 were performed laparoscopically (59.6 %). The percentage of laparoscopic appendectomies increased significantly over the decade analyzed (p < 0.001) and reached 94.4 % in 2014. From 2005 until 2007 the rate of appendectomies by residents was 17.9 % (77 out of 430). Laparoscopic appendectomy was performed in 5.8 % and was only performed by fellows or attending surgeons. From 2008 to 2014 the rate of surgeries by residents significantly increased (p < 0.001) and accounted for 57.6 % (range 19.4-66.9 %). Regardless of the surgical technique used, appendectomy is still a primary training operation for surgical residents. An early and focused training of minimally invasive visceral surgery in the new regulations for continuing medical education starts with laparoscopic appendectomy.

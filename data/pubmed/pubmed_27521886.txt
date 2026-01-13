@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hysterectomy
+TITLE: Current Issues with Hysterectomy.
+PMID: 27521886
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27521886/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hysterectomy is one of the most common gynecologic surgeries. Early adoption of surgical advancements in hysterectomies has raised concerns over safety, quality, and costs. The risk of potential leiomyosarcoma in women undergoing minimally invasive hysterectomy led the US Food and Drug Administration to discourage the use of electronic power morcellator. Minimally invasive hysterectomies have increased substantially despite lack of data supporting its use over other forms of hysterectomy and increased costs. Health care reform is incentivizing providers to improve quality, improve safety, and decrease costs through standardized outcomes and process measures.

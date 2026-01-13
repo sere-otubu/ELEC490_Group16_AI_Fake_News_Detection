@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gene expression
+TITLE: Gene Expression in the Physiology and Pathology of Neurons.
+PMID: 32784968
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32784968/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The expression of genes is the first process governing the molecular and structural specificity of the various types of cells, initiated by their transcription into the corresponding pre-mRNA [...].

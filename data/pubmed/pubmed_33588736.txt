@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Type 1 Diabetes
+TITLE: MicroRNAs and Diabetes Mellitus Type 1.
+PMID: 33588736
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33588736/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Type 1 diabetes mellitus is a multifactorial, progressive, autoimmune disease with a strong genetic feature that can affect multiple organs, including the kidney, eyes, and nerves. Early detection of type 1 diabetes can help critically to avoid serious damages to these organs. MicroRNAs are small RNA molecules that act in post-transcriptional gene regulation by attaching to the complementary sequence in the 3'-untranslated region of their target genes. Alterations in the expression of microRNA coding genes are extensively reported in several diseases, such as type 1 diabetes. Presenting non-invasive biomarkers for early detection of type 1 diabetes by quantifying microRNAs gene expression level can be a significant step in biotechnology and medicine. This review discusses the area of microRNAs dysregulation in type 1 diabetes and affected molecular mechanisms involved in pancreatic islet cell formation and dysregulation in the expression of inflammatory elements as well as pro-inflammatory cytokines.

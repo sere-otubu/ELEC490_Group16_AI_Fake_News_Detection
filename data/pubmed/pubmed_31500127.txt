@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Whey protein
+TITLE: Development and Characterization of Whey Protein-Based Nano-Delivery Systems: A Review.
+PMID: 31500127
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31500127/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Various bioactive compounds (BCs) often possess poor stability and bioavailability, which makes it difficult for them to exert their potential health benefits. These limitations can be countered by the use of nano-delivery systems (NDSs), such as nanoparticles and nanoemulsions. NDSs can protect BCs against harsh environments during food processing and digestion, and thereby, could enhance the bioavailability of BCs. Although various NDSs have been successfully produced with both synthetic and natural materials, it is necessary to fulfill safety criteria in the delivery materials for food applications. Food-grade materials for the production of NDSs, such as milk proteins and carbohydrates, have received much attention due to their low toxicity, biodegradability, and biocompatibility. Among these, whey proteins-from whey, a byproduct of cheese manufacturing-have been considered as excellent delivery material because of their high nutritional value and various functional properties, such as binding capability to various compounds, gelation, emulsifying properties, and barrier effects. Since the functional and physicochemical properties of whey protein-based NDSs, including size and surface charge, can be key factors affecting the applications of NDSs in food, the objectives of this review are to discuss how manufacturing variables can modulate the functional and physicochemical properties of NDSs and bioavailability of encapsulated BCs to produce efficient NDSs for various BCs.

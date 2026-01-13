@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tonsillitis
+TITLE: Cytokine production in patients with recurrent acute tonsillitis: analysis of tonsil samples and blood.
+PMID: 32747802
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32747802/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The aim of this study was to examine T cell function in tonsils of patients with recurrent acute tonsillitis (RAT) or peritonsillar abscess (PTA) by analyzing the cytokine production following T cell receptor (TCR) and co-receptor stimulation with a combination of anti-CD3 and anti-CD28 antibodies. The release of IFN-γ, TNF-α, IL-2, IL-4, IL-6, IL-10 and IL-17A from isolated, stimulated T cells of 27 palatine tonsils (10 RAT, 7 PTA, 10 tonsils without inflammation) was measured via a bead-based flow cytometric analysis. The results were compared with the cytokine release of isolated peripheral T cells in a subset of the same patients (6 PTA, 4 patients without signs of inflammation in the blood). TCR stimulation increased the concentration of released cytokines in tonsil and blood as well as in different forms of inflammation and tissue with no inflammation. Stimulation increased the pro-inflammatory cytokines TNF-α, IFN-γ, and IL-2 more than the anti-inflammatory cytokines IL-4 and IL-10 in tonsil and blood samples in RAT, PTA, and samples without inflammation. Blood of patients with PTA showed a higher pro-inflammatory cytokine level compared to the samples of patients without inflammation. T cells in tonsils are fully responsive and competent for antigen-induced cytokine production in RAT and PTA. One should be aware that tonsillectomy, if indicated, might remove a functioning immune organ. Tonsillotomy might be an alternative even in adults to maintain immunological function.

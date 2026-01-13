@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Panic disorder
+TITLE: [Panic disorder and agoraphobia: understanding and therapy].
+PMID: 40609545
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40609545/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Recurrent and unexpected panic attacks, persistent concerns about their implications, and the avoidance of numerous situations in which panic attacks are particularly feared significantly impact the lives of affected individuals. These symptoms are key characteristics of the co-occurrence of panic disorder and agoraphobia. This article provides an overview of these disorders and discusses effective therapeutic approaches.

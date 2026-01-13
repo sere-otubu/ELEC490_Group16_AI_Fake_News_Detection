@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Iron deficiency
+TITLE: Perinatal Iron Deficiency: Implications for Mothers and Infants.
+PMID: 30759449
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30759449/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Iron deficiency, with or without anemia, is common in pregnant women. In fact, nearly 30% of reproductive-age women are anemic worldwide, and anemia in pregnancy has an estimated global prevalence of 38%. Severe anemia can substantially increase the risk of maternal mortality, and can adversely affect fetal development. In this review, we examine the available data regarding epidemiology and consequences of iron deficiency in mothers and infants, current treatment strategies, and make recommendations for screening and treatment of iron deficiency anemia in gravidas and neonates.

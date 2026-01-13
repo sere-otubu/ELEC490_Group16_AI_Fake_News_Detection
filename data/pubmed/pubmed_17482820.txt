@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chlamydia
+TITLE: Type III secretion à la Chlamydia.
+PMID: 17482820
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17482820/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Type III secretion (T3S) is a mechanism that is central to the biology of the Chlamydiaceae and many other pathogens whose virulence depends on the translocation of toxic effector proteins to cytosolic targets within infected eukaryotic cells. Biomathematical simulations, using a previously described model of contact-dependent, T3S-mediated chlamydial growth and late differentiation, suggest that chlamydiae contained in small non-fusogenic inclusions will persist. Here, we further discuss the model in the context of in vitro-persistent, stress-induced aberrantly enlarged forms and of recent studies using small molecule inhibitors of T3S. A general mechanism is emerging whereby both early- and mid-cycle T3S-mediated activities and late T3S inactivation upon detachment of chlamydiae from the inclusion membrane are crucial for chlamydial intracellular development.

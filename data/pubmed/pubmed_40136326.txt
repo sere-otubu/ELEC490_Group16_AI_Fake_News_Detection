@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cervical cancer
+TITLE: HPV and Cervical Cancer-Biology, Prevention, and Treatment Updates.
+PMID: 40136326
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40136326/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+One of the most significant breakthroughs in cancer research has been the identification of persistent infection with certain human papillomaviruses (HPV) genotypes as the cause of cervical cancer. Since then, a range of diagnostic and therapeutic methods has been developed based on this discovery. This article aims to describe the latest updates in the biology, prevention, and treatment of HPV-related cervical cancer. The current state of knowledge regarding vaccinations, diagnostic tests, and cervical cancer therapies is presented. The latest WHO guidelines on vaccinations are presented, as well as announcements of upcoming changes. The final part of the article summarizes promising new diagnostic and treatment methods, as well as perspectives and the latest research findings on self-administered diagnostic tests, the use of therapeutic vaccines, and circulating cell-free DNA in diagnosis. Despite the significant progress made in recent years, the strategy based on vaccination and testing remains the cornerstone in the fight against HPV-related cervical cancer.

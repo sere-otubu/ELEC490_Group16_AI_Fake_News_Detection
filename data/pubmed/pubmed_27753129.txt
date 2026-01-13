@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Adrenal glands
+TITLE: Accuracy of Ultrasonographic Measurements of Adrenal Glands in Dogs: Comparison with Necroscopic Findings.
+PMID: 27753129
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27753129/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ultrasonographic evaluation of the adrenal glands was performed in 85 dogs, followed by macroscopic and histopathological examination either post-mortem or after adrenalectomy. This retrospective cross-sectional study evaluated the difference between gross and ultrasonographic measurements to determine the diagnostic accuracy of ultrasonography in the evaluation of canine adrenal gland size. The differences were assessed for gland length, thickness at cranial, middle and caudal regions, and surface area. In our sample, ultrasound error accuracy ranged between 0% in measurement of the right adrenal gland surface area and 25.21% for left cranial pole thickness. The parameters with minor errors were caudal pole thickness (3.64% right side and 3.49% left side) and length (5.75% right side and 2.19% left side). The ultrasonographic measurements generally underestimated the actual size of the adrenal glands. No statistically significant differences were observed for measurement errors between normal and pathological adrenal glands. This study confirmed that the caudal pole of both glands is the best parameter for ultrasonographic evaluation of normal and pathological adrenal glands size in dog. Furthermore, the surface area could be considered as a dimensional parameter for better assessment of the complex shape and the global aspect of the adrenal glands, while standardize ultrasonographic projections are needed to measure the cranial pole of both adrenal glands.

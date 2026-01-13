@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Common cold
+TITLE: Is the common cold a clinical entity or a cultural concept?
+PMID: 23441305
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23441305/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Common cold is the most common infectious disease of mankind and the term is widely used in the clinical literature as though it were a defined clinical syndrome. Clinical studies on this syndrome often use elaborate symptom scoring systems to diagnose a common cold. The symptom scores are based on a study conducted over 50 years ago to retrospectively diagnose experimental cold and this method cannot be applied to diagnosis of common cold in the community. Diagnosis of the common cold by virology is not feasible because of the number of viruses and the variability in the disease states caused by the viruses. Because of the familiarity of subjects with common cold and the variability in symptomatology it seems a more reasonable approach to use self-diagnosis of common cold for clinical research studies and accept that the common cold is a cultural concept and not a clinical entity.

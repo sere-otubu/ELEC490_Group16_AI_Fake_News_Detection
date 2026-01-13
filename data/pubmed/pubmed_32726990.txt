@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mediterranean diet
+TITLE: Mediterranean Diet Effects on Type 2 Diabetes Prevention, Disease Progression, and Related Mechanisms. A Review.
+PMID: 32726990
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32726990/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The search for a quality diet has grown over the past decade. Diet is considered one of the pillars for the prevention and progression of several diseases, among them: diabetes. Type 2 diabetes (T2D) is an epidemic of western countries that increases the vulnerability of other diseases, such as cardiovascular and cancer. T2D is associated with lifestyle and diet. The traditional Mediterranean diet has proven its benefits over several cardiovascular risk factors, and specifically on diabetes. This review compiles recent published evidence on the effects of the Mediterranean diet on the incidence and progression of type 2 diabetes (T2D) and its relation with several other cardiovascular healthy diets. We will also focus on how the Mediterranean diet could play a role in T2D-related mechanisms, such as anti-inflammatory or antioxidant compounds, glucagon-like peptide agonist compounds, and changes in gut microbiota. Each component of the Mediterranean diet could be involved in processes related to diabetes homeostasis, many of them sharing common physio-pathological pathways. The importance of this diet within the set of habits of a healthy lifestyle must be emphasized.

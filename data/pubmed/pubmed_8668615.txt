@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urinalysis
+TITLE: Urinalysis. When--and when not--to order.
+PMID: 8668615
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8668615/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although routine urinalysis is common, the results are important in management of only certain diseases. Screening urinalysis to detect asymptomatic bacteriuria is recommended in adults 60 years of age or older, diabetic patients of any age, pregnant women, and adolescents. A positive result for protein on dipstick urinalysis should be evaluated in conjunction with other clinical and laboratory data (eg, the patient's age, physical findings, renal function, results of microscopic urinalysis). Evaluation of hematuria should always include dipstick analysis and microscopic examination of urine. Diabetes screening is best done with measurement of plasma glucose levels. Other available urinalysis tests include measurement of pH, specific gravity, ketones, bilirubin, and urobilinogen. In patients with renal or urinary tract disease, microscopic examination of urinary sediment is important.

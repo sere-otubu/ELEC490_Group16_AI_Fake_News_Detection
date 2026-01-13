@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Emergency room triage
+TITLE: Patient experience of emergency department triage: An integrative review.
+PMID: 38749231
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38749231/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Emergency department (ED) triage is often patients' first contact with a health service and a critical point for patient experience. This review aimed to understand patient experience of ED triage and the waiting room. A systematic six-stage approach guided the integrative review. Medline, CINAHL, EmCare, Scopus, ProQuest, Cochrane Library, and JBI database were systematically searched for primary research published between 2000-2022 that reported patient experience of ED triage and/or waiting room. Quality was assessed using established critical appraisal tools. Data were analysed for descriptive statistics and themes using the constant comparison method. Twenty-nine articles were included. Studies were mostly observational (n = 17), conducted at a single site (n = 23), and involved low-moderate acuity patients (n = 13). Nine interventions were identified. Five themes emerged: 'the who, what and how of triage', 'the patient as a person', 'to know or not to know', 'the waiting game', and 'to leave or not to leave'. Wait times, initiation of assessment and treatment, information provision and interactions with triage staff appeared to have the most impact on patient experience, though patients' desires for each varied. A person-centred approach to triage is recommended.

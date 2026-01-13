@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mastectomy
+TITLE: Prognosis Comparison Between Nipple-Sparing Mastectomy and Total Mastectomy in Breast Cancer: A Case-Control Study After Propensity Score Matching.
+PMID: 34802105
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34802105/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Currently, the operation rate of nipple-sparing mastectomy (NSM) is increasing. However, the long-term prognosis of NSM is not well documented. We utilized the Surveillance, Epidemiology, and End Results (SEER) database to analyze the long-term prognosis of NSM compared with total mastectomy (TM). Population-level data of female breast cancer patients treated with NSM and TM were extracted from 1998 to 2016 from the SEER database. Propensity score matching (PSM) was performed to reduce the influence of selection bias and confounding variables in comparisons. Kaplan-Meier analysis, log-rank test, and Cox proportional hazard regression were performed. A total of 5765 patients underwent NSM, which increased from 266 in 2004-2009 to 5370 in 2010-2016. A total of 134,528 patients underwent TM, and the number of patients undergoing TM continued to decline. The overall survival (OS) and breast cancer-specific survival (BCSS) were similar between the NSM group and the TM group (P = 0.058 and 0.87, respectively). For OS, subgroup analysis showed that patients with age ≥ 46, White race, median household income ≥ $70,000, hormone receptor-positive, and HER2 negative had a better prognosis for treatment with NSM. There was no significant difference in BCSS between the NSM group and the TM group. In recent years, the clinical application of NSM has been increasing. NSM is a proper procedure for breast cancer patients to achieve long-term survival.

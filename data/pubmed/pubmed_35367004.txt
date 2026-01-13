@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rubella
+TITLE: Rubella.
+PMID: 35367004
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35367004/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Rubella is an acute illness caused by rubella virus and characterised by fever and rash. Although rubella is a clinically mild illness, primary rubella virus infection in early pregnancy can result in congenital rubella syndrome, which has serious medical and public health consequences. WHO estimates that approximately 100 000 congenital rubella syndrome cases occur per year. Rubella virus is transmitted through respiratory droplets and direct contact. 25-50% of people infected with rubella virus are asymptomatic. Clinical disease often results in mild, self-limited illness characterised by fever, a generalised erythematous maculopapular rash, and lymphadenopathy. Complications include arthralgia, arthritis, thrombocytopenic purpura, and encephalitis. Common presenting signs and symptoms of congenital rubella syndrome include cataracts, sensorineural hearing impairment, congenital heart disease, jaundice, purpura, hepatosplenomegaly, and microcephaly. Rubella and congenital rubella syndrome can be prevented by rubella-containing vaccines, which are commonly administered in combination with measles vaccine. Although global rubella vaccine coverage reached only 70% in 2020 global rubella eradiation remains an ambitious but achievable goal.

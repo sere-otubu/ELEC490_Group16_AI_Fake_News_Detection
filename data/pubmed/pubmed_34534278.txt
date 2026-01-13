@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Intestines function
+TITLE: Metabolic Homeostasis: It's All in the Timing.
+PMID: 34534278
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34534278/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cross-talk between peripheral tissues is essential to ensure the coordination of nutrient intake with disposition during the feeding period, thereby preventing metabolic disease. This mini-review considers the interactions between the key peripheral tissues that constitute the metabolic clock, each of which is considered in a separate mini-review in this collation of articles published in Endocrinology in 2020 and 2021, by Martchenko et al (Circadian rhythms and the gastrointestinal tract: relationship to metabolism and gut hormones); Alvarez et al (The microbiome as a circadian coordinator of metabolism); Seshadri and Doucette (Circadian regulation of the pancreatic beta cell); McCommis et al (The importance of keeping time in the liver); Oosterman et al (The circadian clock, shift work, and tissue-specific insulin resistance); and Heyde et al (Contributions of white and brown adipose tissues to the circadian regulation of energy metabolism). The use of positive- and negative-feedback signals, both hormonal and metabolic, between these tissues ensures that peripheral metabolic pathways are synchronized with the timing of food intake, thus optimizing nutrient disposition and preventing metabolic disease. Collectively, these articles highlight the critical role played by the circadian clock in maintaining metabolic homeostasis.

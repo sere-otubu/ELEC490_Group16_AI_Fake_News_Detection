@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antioxidants
+TITLE: Oxidative stress and antioxidant strategies in dermatology.
+PMID: 26020527
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26020527/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Oxidative stress results from a prooxidant-antioxidant imbalance, leading to cellular damage. It is mediated by free radicals, such as reactive oxygen species or reactive nitrogen species, that are generated during physiological aerobic metabolism and pathological inflammatory processes. Skin serves as a protective organ that plays an important role in defending both external and internal toxic stimuli and maintaining homeostasis. It is becoming increasingly evident that oxidative stress is involved in numerous skin diseases and that antioxidative strategies can serve as effective and easy methods for improving these conditions. Herein, we review dysregulated antioxidant systems and antioxidative therapeutic strategies in dermatology.

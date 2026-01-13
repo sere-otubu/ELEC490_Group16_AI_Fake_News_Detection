@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tonsillectomy
+TITLE: Pediatric pre-tonsillectomy education programs: A systematic review.
+PMID: 30921630
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30921630/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Over 14,000 tonsillectomies are performed in Ontario annually. Challenges with home postoperative care frequently lead to Emergency Department (ED) visits. A 2013 Ontario Pediatric Health Council recommended the integration of patient education into tonsillectomy care. Understanding the existing educational services is fundamental to optimally implementing such programs into clinical settings. Systematic review of the Ovid Medline, Cochrane, CINAHL and EMBASE Classic databases were conducted using PRISMA guidelines. Our search identified 335 articles. Final inclusion consisted of 10 studies. These studies included eight pre-operative booklets, one smartphone app, three text-message programs, one video program, one internet resource, and three caregiver programs. Most resources improved post-tonsillectomy ED visits, patient anxiety and pain management, while others had no effect on these factors. There is mixed data regarding the efficacy of pre-tonsillectomy education programs on perioperative outcomes. Further research is required to better understand the utility of such programs and their implementation into healthcare settings.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ulcerative colitis
+TITLE: Ulcerative colitis--diagnosis and surgical treatment.
+PMID: 15382597
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15382597/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ulcerative colitis is a serious illness affecting the colon. Extracolonic manifestations include sclerosing cholangitis, arthritis, eye diseases, ankylosing spondylitis, and sacroiliitis. Ulcerative colitis may increase a patient's risk of cancer, depending on the duration and extent of the disease. Surgery is the only definitive way to remove the disease in its entirety. It may be possible for patients who do not wish to have a permanent stoma to undergo a restorative proctocolectomy with ileal pouch-anal anastomosis. Normal bowel physiology, pathophysiology of ulcerative colitis, medical and surgical treatments, and postoperative complications are discussed.

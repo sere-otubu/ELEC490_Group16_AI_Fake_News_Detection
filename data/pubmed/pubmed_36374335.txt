@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pineal gland
+TITLE: The role of pineal gland volume in the development of scoliosis.
+PMID: 36374335
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36374335/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Adolescent idiopathic scoliosis (AIS) is believed to be caused by genetic, neurological, osseous growth anomalies, histological variables including muscle fiber percentage and core structure changes, metabolic and hormonal dysfunction, vestibular dysfunction, and platelet microarchitecture. The objective of this study was to contribute to the determination of the cause of AIS by analyzing the changes in pineal gland volume in AIS cases. Study (AIS) and control group were each comprised of 26 patients who met the inclusion requirements. Scoliosis radiograph and MRI of the pineal glands were used for radiological examinations. The distribution of age, gender, Risser grading for skeletal radiological development, and sexual maturation according to Tanner categorization were uniform and statistically insignificant between groups. When the pineal gland volumes of the cases were evaluated according to age, the AIS group was found to have significantly reduced pineal gland volumes in all age groups. The pineal gland volume was found to be 38.1% lower in the AIS group compared to the control group (p˂0.001). In the AIS group, patients aged 13 years had the lowest pineal gland volume (77.2 ± 13.86 mm<sup>3</sup>), while patients aged 15 years had the highest volume (97.9 ± 16.47 mm<sup>3</sup>). Changes in pineal gland volume support the role of the pineal gland in the etiopathogenesis of AIS.

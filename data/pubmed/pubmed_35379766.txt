@@ -1,0 +1,8 @@
+SEARCH_TOPIC: OCD
+TITLE: OCD and Comorbid Depression: Assessment, Conceptualization, and Cognitive-Behavioral Treatment.
+PMID: 35379766
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35379766/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Many individuals with obsessive-compulsive disorder (OCD) also meet criteria for additional diagnoses. Among the most common co-occurring diagnoses are mood disorders-especially depression. This article focuses on the comorbidity between OCD and major depression. After discussing nature of OCD and depression, the rates and clinical impact of depression on OCD, the conceptualization, assessment, and treatment of OCD when it appears along with depression is covered in detail. The derivation and implementation of a cognitive-behavioral treatment program specifically for depressed OCD patients is described and illustrated using a case example.

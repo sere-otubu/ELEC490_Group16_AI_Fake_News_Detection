@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Digestion process
+TITLE: Anaerobic co-digestion: Current status and perspectives.
+PMID: 33773269
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33773269/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Anaerobic digestion is a long-established technology for the valorization of diverse organic wastes with concomitant generation of valuable resources. However, mono-digestion (i.e., anaerobic digestion using one feedstock) suffers from challenges associated with feedstock characteristics. Co-digestion using multiple feedstocks provides the potential to overcome these limitations. Significant research and development efforts have highlighted several inherent merits of co-digestion, including enhanced digestibility due to synergistic effects of co-substrates, better process stability, and higher nutrient value of the produced co-digestate. However, studies focused on the underlying effects of diverse co-feedstocks on digester performance and stability have not been synthesized so far. This review fills this gap by highlighting the limitations of mono-digestion and critically examining the benefits of co-digestion. Furthermore, this review discusses synergistic effect of co-substrates, characterization of microbial communities, the prediction of biogas production via different kinetic models, and highlights future research directions for the development of a sustainable biorefinery.

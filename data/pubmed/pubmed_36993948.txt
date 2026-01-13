@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HPV vaccine
+TITLE: Immunogenicity, efficacy, and safety of human papillomavirus vaccine: Data from China.
+PMID: 36993948
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36993948/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The incidence rate and mortality rate of cervical cancer have steadily increased in young women in China. Therefore, it is critical to improve HPV vaccination rates, particularly for the younger population. There are currently five types of prophylactic vaccines in China: bivalent HPV vaccine (AS04-HPV-16/18), quadrivalent HPV vaccine, 9-valent HPV vaccine, homemade Escherichia coli-produced HPV bivalent vaccine, and Pichia pastoris produced HPV bivalent vaccine. All these five HPV vaccines have completed relevant clinical trials in China, and have been proven to be generally well-tolerated and immunogenic, efficacious against persistent HPV-related infections and genital precancerous lesions (data for 9-valent HPV vaccine is absent), and have demonstrated acceptable safety profiles, as previously shown in global studies. Given that the HPV vaccination rate in China is still very low, additional HPV vaccine coverage is needed to reduce the incidence and mortality rates of cervical cancer.

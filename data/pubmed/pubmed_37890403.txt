@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Psychiatry medications
+TITLE: Expanded access to investigational drugs in psychiatry: A systematic review.
+PMID: 37890403
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37890403/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Some psychiatric patients have exhausted all approved treatment options. Numerous investigational drugs are currently being developed and tested in clinical trials. However, not all patients can participate in clinical trials. Expanded access programs may provide an opportunity for patients who cannot participate in clinical trials to use investigational drugs as a therapeutic option outside of clinical trials. It is unknown to what extent expanded access occurs in psychiatry. We conducted a systematic literature search on PubMed, Embase, and PscyInfo, with additional information from ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform and FDA/EMA approvals, in order to find all expanded access programs ever conducted, globally, in the field of psychiatry. This resulted in a total of fourteen expanded access programs ever conducted in psychiatry. Given the prevalence of psychiatric disorders, the activity in clinical research in psychiatry, the regulatory framework enabling expanded access, and the impact of psychiatric disorders on patients, their families, and society, we had expected a higher utilization of expanded access. We propose that the psychiatric community, with pharmaceutical industry, should consider establishing and optimizing expanded access programs.

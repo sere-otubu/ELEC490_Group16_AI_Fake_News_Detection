@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Type 2 Diabetes
+TITLE: Type 2 diabetes mellitus and risk of non-Hodgkin lymphoma: a systematic review and meta-analysis.
+PMID: 18611954
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18611954/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Type 2 diabetes mellitus is associated with altered immune function and chronic inflammation. Both of these immune conditions are implicated in the pathogenesis of non-Hodgkin lymphoma. The authors performed a systematic review to summarize findings from the current literature on the association between history of type 2 diabetes mellitus and risk of non-Hodgkin lymphoma. Ten case-control studies and three prospective cohort studies were included in this review. Meta-analysis found that a history of type 2 diabetes mellitus was positively associated with overall non-Hodgkin lymphoma risk. However, there was significant heterogeneity between studies. Study design was an important source of heterogeneity. The rate ratio between type 2 diabetes mellitus and non-Hodgkin lymphoma was found to be 1.18 (95% confidence interval: 0.99, 1.42) among case-control studies and 1.79 (95% confidence interval: 1.30, 2.47) among the prospective cohort studies. Weaknesses were identified in some of the included studies in the areas of case and control selection, measurement of covariates and non-Hodgkin lymphoma, and confounding control. Although a positive association between type 2 diabetes mellitus and risk of non-Hodgkin lymphoma was suggested, the evidence is inconclusive because of methodological limitations of the included case-control studies. More prospective studies with improved control of confounding are needed to confirm these findings.

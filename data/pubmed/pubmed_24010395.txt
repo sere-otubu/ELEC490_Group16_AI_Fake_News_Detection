@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hormones types
+TITLE: Pituitary adenomas: an overview.
+PMID: 24010395
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24010395/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Prolactinomas and nonfunctioning adenomas are the most common types of pituitary adenomas. Patients with pituitary adenomas may present initially with symptoms of endocrine dysfunction such as infertility, decreased libido, and galactorrhea, or with neurologic symptoms such as headache and visual changes. The diagnosis may also be made following imaging done for an unrelated issue in an asymptomatic patient; this is termed a pituitary incidentaloma. Oversecretion of hormones from a dysfunctional pituitary gland may result in classic clinical syndromes, the most common of which are hyperprolactinemia (from oversecretion of prolactin), acromegaly (from excess growth hormone), and Cushing disease (from overproduction of adrenocorticotropic hormone). In the diagnostic approach to a suspected pituitary adenoma, it is important to evaluate complete pituitary function, because hypopituitarism is common. Therapy for pituitary adenomas depends on the specific type of tumor, and should be managed with a team approach to include endocrinology and neurosurgery when indicated. Dopamine agonists are the primary treatment for prolactinomas. Small nonfunctioning adenomas and prolactinomas in asymptomatic patients do not require immediate intervention and can be observed.

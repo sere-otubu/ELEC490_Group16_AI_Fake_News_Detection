@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immune response
+TITLE: Vaccine Delivery and Immune Response Basics.
+PMID: 32959236
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32959236/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In this opening chapter, we outline the basics of vaccine delivery and subsequent immune reactivity. Vaccine delivery is an augmentation to immunization more generally in that a delivery reagent is harnessed to improve administration of the key ingredient (i.e., the antigen) needed to provoke an immune response. In this chapter, we discuss the evolution of vaccine design and how such efforts evolved into targeted administration/delivery of key antigens. We then provide overview descriptions of vaccine immune responses and methods for assessment. More generally, the chapter sets the tone for the remainder of this book, which will focus upon each step of the vaccine process with a special emphasis on how vaccine delivery contributes to overall health outcomes.

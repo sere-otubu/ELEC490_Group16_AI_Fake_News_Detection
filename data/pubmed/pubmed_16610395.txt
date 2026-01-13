@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antidepressants
+TITLE: Side effects of antidepressants: an overview.
+PMID: 16610395
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16610395/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Adverse effects of antidepressant drugs can decrease compliance and delay recovery. It is therefore crucial to consider potential side effects when choosing an antidepressant. Although there is no perfect antidepressant that works quickly and is completely free of adverse reactions, newer antidepressants are safer, better tolerated, and associated with a lower rate of noncompliance.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mumps
+TITLE: Mumps Orchitis: Clinical Aspects and Mechanisms.
+PMID: 33815357
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33815357/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The causative agent of mumps is a single-stranded, non-segmented, negative sense RNA virus belonging to the <i>Paramyxoviridae</i> family. Besides the classic symptom of painfully swollen parotid salivary glands (parotitis) in mumps virus (MuV)-infected men, orchitis is the most common form of extra-salivary gland inflammation. Mumps orchitis frequently occurs in young adult men, and leads to pain and swelling of the testis. The administration of MuV vaccines in children has been proven highly effective in reducing the incidence of mumps. However, a recent global outbreak of mumps and the high rate of orchitis have recently been considered as threats to male fertility. The pathogenesis of mumps orchitis remains largely unclear due to lack of systematic clinical data analysis and animal models studies. The alarming increase in the incidence of mumps orchitis and the high risk of the male fertility have thus become a major health concern. Recent studies have revealed the mechanisms by which MuV-host cells interact and MuV infection induces inflammatory responses in testicular cells. In this mini-review, we highlight advances in our knowledge of the clinical aspects and possible mechanisms of mumps orchitis.

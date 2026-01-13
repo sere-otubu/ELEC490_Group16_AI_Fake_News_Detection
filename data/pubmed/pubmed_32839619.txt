@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Heart anatomy
+TITLE: A population-based phenome-wide association study of cardiac and aortic structure and function.
+PMID: 32839619
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32839619/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Differences in cardiac and aortic structure and function are associated with cardiovascular diseases and a wide range of other types of disease. Here we analyzed cardiovascular magnetic resonance images from a population-based study, the UK Biobank, using an automated machine-learning-based analysis pipeline. We report a comprehensive range of structural and functional phenotypes for the heart and aorta across 26,893 participants, and explore how these phenotypes vary according to sex, age and major cardiovascular risk factors. We extended this analysis with a phenome-wide association study, in which we tested for correlations of a wide range of non-imaging phenotypes of the participants with imaging phenotypes. We further explored the associations of imaging phenotypes with early-life factors, mental health and cognitive function using both observational analysis and Mendelian randomization. Our study illustrates how population-based cardiac and aortic imaging phenotypes can be used to better define cardiovascular disease risks as well as heart-brain health interactions, highlighting new opportunities for studying disease mechanisms and developing image-based biomarkers.

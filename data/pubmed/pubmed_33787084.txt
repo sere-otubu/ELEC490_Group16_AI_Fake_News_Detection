@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Suicide prevention
+TITLE: Suicide prevention in Japan: Government and community measures, and high-risk interventions.
+PMID: 33787084
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33787084/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Suicide is one of the most critical issues worldwide. In Japan, more than 30 000 people died by suicide every year between 1998 and 2011, and the Japanese government, local governments, and various other agencies have been working on suicide prevention programs to reduce the suicide rate. While the number of suicides is still high (more than 20 000 per year), many specialists are striving to further reduce the number of suicides in Japan. The Japanese government has played a central role in suicide prevention through the enactment of several laws, and in recent years, suicide prevention has shifted from government to community-specific measures. This review discusses the suicide prevention measures that have been taken so far: (1) policy strategies for suicide prevention by the Japanese government, (2) community suicide prevention, and (3) strategic studies for suicide prevention. Finally, as shown in the ACTION-J study, we conclude that cooperation among related organizations in the community, not just one institution, is important for future suicide prevention, especially youth suicide prevention.

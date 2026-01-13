@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antibiotic resistance
+TITLE: Antibiotic Resistance and Microbiota Response.
+PMID: 36537602
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36537602/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Use of antibiotics has dramatically eradicated bacterial infections in humans and animals. However, antibiotic overdose and abuse are responsible for the emergence of so-called multi-drug resistant bacteria. Gut microbiota deserves many functions in the host, and among them, integrity of epithelial barrier and enhancement of protective immune responses are included. There is evidence that antibiotic treatment decreases the diversity of gut microbiota species, also provoking metabolic changes, increased susceptibility to colonization and decrease of antimicrobial peptide secretion, leading to antibiotic resistance. In this review, the major mechanisms involved in antibiotic resistance will be illustrated. However, novel findings on the potential use of alternative treatments to overcome antibiotic resistance will be elucidated. In this regard, special emphasis will be placed on microcins, prebiotics, probiotics and postbiotics, as well as phage therapy and fecal microbial transplantation.

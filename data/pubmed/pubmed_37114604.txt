@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hemophilia
+TITLE: [Hemophilia therapy in Italy: what the near future promises.].
+PMID: 37114604
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37114604/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In Italy have materialized changes pertaining to the striking progress for replacement and non-replacement therapies in patients with hemophilia A and B. This editorial looks at further progress that is expected to occur in Italy as elsewhere with the approval of two gene therapies for the hemophilias, as well as the forthcoming approval and availability of a new factor VIII product with a very extended plasma half-life that can be administered no more frequently than once weekly.

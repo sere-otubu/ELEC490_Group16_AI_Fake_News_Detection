@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tetanus shot
+TITLE: Single shot with tetanus toxoid in biodegradable microspheres protects mice despite acid-induced denaturation of the antigen.
+PMID: 9032891
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9032891/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Tetanus toxoid encapsulated in microspheres consisting of biodegradable polyesters, prepared by four different manufacturers were evaluated with respect to antigenic load, in vitro release pattern, antigen integrity and immunogenicity. In vitro release studies over periods up to 140 days indicated that only during the first days tetanus toxoid was released. Although some preparations were designed to release their antigen content in a pulsatile manner, this was never observed in vitro. A single immunization with 0.3 Lf tetanus toxoid in microspheres induced substantial humoral responses, in most cases higher than one immunization with plain tetanus toxoid, sometimes higher than one dose of alum-adsorbed toxoid but always lower than booster immunizations. It is shown that the moderate (no booster effect) performance of the microsphere preparations is probably due to acid induced denaturation of the antigen. Despite this drawback, protection level in mice after challenge with 50 LD50 1 year after one immunization with microspheres was, on average, substantially higher than mice receiving plain tetanus toxoid.

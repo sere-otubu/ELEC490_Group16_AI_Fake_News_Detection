@@ -1,0 +1,8 @@
+SEARCH_TOPIC: ALS
+TITLE: Studying ALS: Current Approaches, Effect on Potential Treatment Strategy.
+PMID: 32383122
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32383122/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Amyotrophic lateral sclerosis (ALS) is one of the most common neurodegenerative diseases, characterized by inevitable progressive paralysis. To date, only two disease modifying therapeutic options are available for the patients with ALS, although they show very modest effect on disease course. The main reason of failure in the field of pharmacological correction of ALS is inability to untangle complex relationships taking place during ALS initiation and progression. Traditional methods of research, based on morphology or transgenic animal models studying provided lots of information about ALS throughout the years. However, translation of these results to humans was unsuccessful due to incomplete recapitulation of molecular pathology and overall inadequacy of the models used in the research.In this review we summarize current knowledge regarding ALS molecular pathology with depiction of novel methods applied recently for the studies. Furthermore we describe present and potential treatment strategies that are based on the recent findings in ALS disease mechanisms.

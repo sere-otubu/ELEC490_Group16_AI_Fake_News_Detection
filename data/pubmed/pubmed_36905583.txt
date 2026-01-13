@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Type 2 Diabetes
+TITLE: [Sarcopenia and type 2 diabetes mellitus in geriatric patients (literature review).].
+PMID: 36905583
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36905583/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+One of the leading geriatric syndromes, which has been included in the International Classification of Diseases ICD-10 since 2016, is sarcopenia. Sarcopenia is a progressive gener-alized disease accompanied by a loss of strength, mass, and skeletal muscle function. This dis-ease can lead to a decrease in working capacity, impaired ability to self-service, disability, and an increased risk of premature death. Type 2 diabetes mellitus (T2DM) plays an important role among the chronic non-infectious pathology of elderly and senile patients. T2DM is a serious health burden for older people, affecting approximately 25% of people over 65 years of age. This percentage is expected to rise sharply in the coming decades due to the increase in the life expectancy of the population observed in recent years. In addition to microvascular and macro-vascular complications, sarcopenia has been described as a new complication of diabetes melli-tus in the elderly. T2DM increases the risk of developing sarcopenia threefold. It is of interest to consider the mechanisms of the relationship between sarcopenia and type 2 diabetes mellitus in geriatric patients.

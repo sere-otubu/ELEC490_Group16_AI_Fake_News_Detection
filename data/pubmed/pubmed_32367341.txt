@@ -1,0 +1,8 @@
+SEARCH_TOPIC: White blood cells
+TITLE: Unlocking the Value of White Blood Cells for Heart Failure Diagnosis.
+PMID: 32367341
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32367341/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cardiovascular disease (CVD) is the single greatest cause of mortality and morbidity worldwide. Inciting 85% of CVD fatalities is heart failure, often resulting in or from a myocardial infarction. Early detection along with pharmacological treatment and lifestyle adaptation can result in better prognosis. Biomarkers are molecular or physiological measures that indicate disease presence, status, and severity. However, not all forms of heart failure are created equal. Current mainstay biomarkers for heart failure, including NT-pro-BNP and ejection fraction, lack sensitivity for many patients. Circulating white blood cells and peripheral blood mononuclear cells (PBMCs) are emerging as surrogate biopsies, reflecting molecular changes in the heart. We discuss the advantages of PBMCs over other sources, as well as limitations and considerations. We urge medical center biobanks to collect, isolate and store circulating white blood cells as a rich source of biomarkers to catalyze the discovery of novel diagnostic tools for heart failure.

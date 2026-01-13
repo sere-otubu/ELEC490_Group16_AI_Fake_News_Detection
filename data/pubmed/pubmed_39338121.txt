@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pandemic preparedness
+TITLE: Epidemic and Pandemic Preparedness and Response in a Multi-Hazard Context: COVID-19 Pandemic as a Point of Reference.
+PMID: 39338121
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39338121/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Infectious diseases manifesting in the form of epidemics or pandemics do not only cause devastating impacts on public health systems but also disrupt the functioning of the socio-economic structure. Further, risks associated with pandemics and epidemics become exacerbated with coincident compound hazards. This study aims to develop a framework that captures key elements and components of epidemic and pandemic preparedness and response systems, focusing on a multi-hazard context. A systematic literature review was used to collect data through peer-reviewed journal articles using three electronic databases, and 17 experts were involved in the validation. Epidemiological surveillance and early detection, risk and vulnerability assessments, preparedness, prediction and decision making, alerts and early warning, preventive strategies, control and mitigation, response, and elimination were identified as key elements associated with epidemic and pandemic preparedness and response systems in a multi-hazard context. All elements appear integrated within three interventional phases: upstream, interface, and downstream. A holistic approach focusing on all interventional phases is required for preparedness and response to pandemics and epidemics to counter their cascading and systemic effects. Further, a paradigm shift in the preparedness for multi-hazards during an epidemic or pandemic is essential due to the multiple challenges posed by concurrent hazards.

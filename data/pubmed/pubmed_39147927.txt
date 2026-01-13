@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Muscular system
+TITLE: Engineered IscB-ωRNA system with expanded target range for base editing.
+PMID: 39147927
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39147927/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+As the evolutionary ancestor of Cas9 nuclease, IscB proteins serve as compact RNA-guided DNA endonucleases and nickases, making them strong candidates for base editing. Nevertheless, the narrow targeting scope limits the application of IscB systems; thus, it is necessary to find more IscBs that recognize different target-adjacent motifs (TAMs). Here, we identified 10 of 19 uncharacterized IscB proteins from uncultured microbes with activity in mammalian cells. Through protein and ωRNA engineering, we further enhanced the activity of IscB ortholog IscB.m16 and expanded its TAM scope from MRNRAA to NNNGNA, resulting in a variant named IscB.m16*. By fusing the deaminase domains with IscB.m16* nickase, we generated IscB.m16*-derived base editors that exhibited robust base-editing efficiency in mammalian cells and effectively restored Duchenne muscular dystrophy proteins in diseased mice through single adeno-associated virus delivery. Thus, this study establishes a set of compact base-editing tools for basic research and therapeutic applications.

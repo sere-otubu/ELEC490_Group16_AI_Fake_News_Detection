@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HIV AIDS
+TITLE: HIV-1 phylogenetics and vaccines.
+PMID: 30925535
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30925535/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although HIV-1 diversity is a critical barrier to HIV-1 vaccine development, implementing vaccine strategies that directly address HIV-1 genetic specificities has been challenging. Here, we discuss the intersection between HIV-1 phylogenetics and vaccine development. We describe the vaccine regimens that are currently tested in two vaccine efficacy trials and recent research highlighting HIV-1 genetic features that were associated with the development of broadly neutralizing antibodies. Compared with how widely HIV-1 diversity is recognized as a critical issue for vaccine research, relatively few genetically informed vaccine solutions have been compared, in part because the lack of correlates of protection against HIV-1 limits the ability to develop and test multiple vaccine candidates in a fully rational manner. Yet, recent findings have provided a better understanding of the viral features associated with the development of broad and potent neutralizing antibodies, offering new avenues for engineering vaccine candidates. Future research should also plan to address potential consequences associated with the rollout of an efficacious vaccine, including the possibility of vaccine resistance spreading in the population.

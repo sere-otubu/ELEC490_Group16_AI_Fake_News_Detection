@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Digestion process
+TITLE: Human digestion--a processing perspective.
+PMID: 26711173
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26711173/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The human digestive system is reviewed in the context of a process with four major unit operations: oral processing to reduce particle size and produce a bolus; gastric processing to initiate chemical and enzymatic breakdown; small intestinal processing to break down macromolecules and absorb nutrients; and fermentation and water removal in the colon. Topics are highlighted about which we need to know more, including effects of aging and dentition on particle size in the bolus, effects of different patterns of food and beverage intake on nutrition, changes in saliva production and composition, mechanical effects of gastric processing, distribution of pH in the stomach, physicochemical and enzymatic effects on nutrient availability and uptake in the small intestine, and the composition, effects of and changes in the microbiota of the colon. Current topics of interest including food synergy, gut-brain interactions, nutritional phenotype and digestion in the elderly are considered. Finally, opportunities for food design based on an understanding of digestive processing are discussed.

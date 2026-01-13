@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Patient data privacy HIPAA
+TITLE: Health privacy is difficult but not impossible in a post-HIPAA data-driven world.
+PMID: 25180726
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25180726/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In the 13 years since their promulgation, the Health Insurance Portability and Accountability Act (HIPAA) rules and their enforcement have shown considerable evolution, as has the context within which they operate. Increasingly, it is the health information circulating outside the HIPAA-protected zone that is concerning: big data based on HIPAA data that have been acquired by public health agencies and then sold; medically inflected data collected from transactions or social media interactions; and the health data curated by patients, such as personal health records or data stored on smartphones. HIPAA does little here, suggesting that the future of health privacy may well be at the state level unless technology or federal legislation can catch up with state-of-the-art privacy regimes, such as the latest proposals from the European Commission.

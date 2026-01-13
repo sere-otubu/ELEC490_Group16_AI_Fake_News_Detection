@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Organ donation ethics
+TITLE: Euthanasia through living organ donation: Ethical, legal, and medical challenges.
+PMID: 30197210
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30197210/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Euthanasia is categorically prohibited in almost all countries throughout the world. In Belgium and the Netherlands, combining euthanasia and subsequent organ donation in a so-called donation after circulatory-death (DCD) procedure is feasible on legal and medical grounds, and is increasingly gaining social and ethical acceptance. However, heart transplantation after DCD is currently not performed in Belgium and the Netherlands after euthanasia due to concerns surrounding the prolonged warm ischemia time associated with DCD and its effect on subsequent heart function. A number of patients who undergo euthanasia explicitly express their wish to donate their organs in a "living organ donation" procedure, which then causes death. Assuming that euthanasia is permitted, as expressed in Dutch and Belgian legislation, this exploratory article addresses whether it is legally and ethically sound to donate organs, especially the heart, as a living donor and to perform euthanasia in the same procedure in a patient who fulfills the due diligence requirements for euthanasia. Organ donation euthanasia (ODE) would then cause death by the associated surgical procedure, and in addition would improve the quality of the other donated organs, a procedure that would fully respect the patient's autonomy.

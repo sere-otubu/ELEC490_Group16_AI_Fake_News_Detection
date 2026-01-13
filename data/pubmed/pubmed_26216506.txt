@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chemotherapy
+TITLE: Chemotherapy in Prostate Cancer.
+PMID: 26216506
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26216506/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+For approximately a decade, chemotherapy has been shown to prolong life in patients with metastatic castration-resistant prostate cancer (mCRPC). Since that time, however, only two agents have proven to prolong life (docetaxel and cabazitaxel). However, in the last year, the addition of chemotherapy to primary hormonal therapy became a standard of care for high-volume castration-sensitive metastatic disease. Here I will review current prostate cancer chemotherapies, mechanisms of resistance to those therapies, and ongoing clinical studies of chemotherapy combinations and novel chemotherapeutics.

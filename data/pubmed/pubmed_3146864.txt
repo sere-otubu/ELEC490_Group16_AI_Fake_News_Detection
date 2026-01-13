@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tonsillitis
+TITLE: Immunological aspects of tonsils and of tonsillitis.
+PMID: 3146864
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3146864/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The human tonsils are responsible for the final antigen-induced differentiation of B-cells to plasma cells. Their main function could be the expansion of memory IgA-B-cells, allowing J-chain expression and final differentiation under secondary signals. IgA/J+-cells have been shown to migrate into mucosal membranes, allowing a protection against microorganisms. Recurrent tonsillitis obviously interferes with this complex immunological network, possibly resulting in a reduced mucosal protection by IgA. Furthermore, bacterial antigens can initiate the liberation of biochemical inflammatory mediators. Among these, arachidonic acid products can play a key role. They can induce epithelial damage and decreased ciliary function. Furthermore, they influence tonsillar immunological reactions.

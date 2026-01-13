@@ -1,0 +1,8 @@
+SEARCH_TOPIC: COVID-19
+TITLE: COVID-19: Advances in diagnostic tools, treatment strategies, and vaccine development.
+PMID: 33410425
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33410425/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+An unprecedented worldwide spread of the SARS-CoV-2 has imposed severe challenges on healthcare facilities and medical infrastructure. The global research community faces urgent calls for the development of rapid diagnostic tools, effective treatment protocols, and most importantly, vaccines against the pathogen. Pooling together expertise across broad domains to innovate effective solutions is the need of the hour. With these requirements in mind, in this review, we provide detailed critical accounts on the leading efforts at developing diagnostics tools, therapeutic agents, and vaccine candidates. Importantly, we furnish the reader with a multidisciplinary perspective on how conventional methods like serology and RT-PCR, as well as cutting-edge technologies like CRISPR/Cas and artificial intelligence/machine learning, are being employed to inform and guide such investigations. We expect this narrative to serve a broad audience of both active and aspiring researchers in the field of biomedical sciences and engineering and help inspire radical new approaches towards effective detection, treatment, and prevention of this global pandemic.

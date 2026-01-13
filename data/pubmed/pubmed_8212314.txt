@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immunosuppressants
+TITLE: Selective immunosuppression.
+PMID: 8212314
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8212314/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Experimental models of autoimmune diseases have demonstrated that such disease can be prevented or treated by selectively interfering with activation of any of these cell types: antigen-presenting cells, autoreactive T cells and regulatory T cells. Luciano Adorini and colleagues discuss these approaches to selective immunosuppression and examine how similar strategies may become applicable to the treatment of human autoimmune diseases.

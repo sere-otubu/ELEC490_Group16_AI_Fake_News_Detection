@@ -1,0 +1,8 @@
+SEARCH_TOPIC: IVF procedure
+TITLE: A qualitative systematic review of coasting, a procedure to avoid ovarian hyperstimulation syndrome in IVF patients.
+PMID: 12078839
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12078839/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+'Coasting', a method which consists of stopping exogenous gonadotrophins and postponing HCG administration until the patient's serum estradiol (E2) level decreases, is often used to prevent ovarian hyperstimulation syndrome (OHSS). We conducted a systematic review to analyse whether there is sufficient evidence to justify the general acceptance of coasting. The studies, which involved 493 patients in 12 studies, are very heterogeneous in the characteristics and number of patients in the ovulation stimulation schemes. The study designs, control groups, selection criteria for coasting and the OHSS classifications were variable. In most studies a threshold value of E2 was used (often 3000 pg/ml) and/or the number of follicles were considered. The fertilization rates (36.7-71%) and the pregnancy rates (20-57%) were acceptable in terms of IVF results in comparison with those of other large IVF databanks. In 16% of the cycles, ascites was described and 2.5% of the patients required hospitalization. In conclusion, while coasting does not avoid totally the risk of OHSS, it decreases its incidence in high-risk patients. Many questions remain unanswered about how coasting should be managed, and we suggest that a randomized prospective multicentre study is required.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Respiratory system
+TITLE: [Characteristics of the fetal and infant respiratory system : What the pediatric anesthetist should know].
+PMID: 38189808
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38189808/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Respiratory complications are the most frequent incidents in pediatric anesthesia after cardiac events. The pediatric respiratory physiology and airway anatomy are responsible for the particular respiratory vulnerability in this stage of life. This article explains the aspects of pulmonary embryogenesis relevant for anesthesia and their impact on the respiration of preterm infants and neonates. The respiratory distress syndrome and bronchopulmonary dysplasia are highlighted as well as the predisposition to apnea of preterm infants and neonates. Due to the anatomical characteristics, the low size ratios and the significantly shorter apnea tolerance, airway management in children frequently represents a challenge. This article gives useful assistance and provides an overview of formulas for calculating the appropriate tube size and depth of insertion. Finally, the pathophysiology and adequate treatment of laryngospasm are explained.

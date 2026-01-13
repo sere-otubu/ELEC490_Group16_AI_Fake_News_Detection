@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Type 1 Diabetes
+TITLE: Gut-Gonad Perturbations in Type-1 Diabetes Mellitus: Role of Dysbiosis, Oxidative Stress, Inflammation and Energy-Dysbalance.
+PMID: 37608613
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37608613/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Type 1 diabetes mellitus is a major metabolic disorder that affects people of all age groups throughout the world. It is responsible for the alterations in male gonadal physiology in experimental models as well as in clinical cases. On the other side, diabetes mellitus has also been associated with perturbations in the gut physiology and microbiota dysbiosis. The accumulating evidence suggests a link between the gut and gonad as evident from the i) experimental data providing insights into type 1 diabetes mellitus induced gut perturbations, ii) link of gut physiology with alterations of testicular health, iii) role of gut microbiota in androgen metabolism in the intestine, and iv) epidemiological evidence linking type 1 diabetes mellitus with inflammatory bowel disease and male infertility. Considering all the pieces of evidence, it is summarized that gut dysbiosis, oxidative stress, inflammation and energy dys-balance are the prime factors involved in the gonadal damage under type 1 diabetes mellitus, in which the gut contributes significantly. Identification of novel biomarkers and intervention of suitable agents targeting these prime factors may be a step forward to restore the gonadal damage in diabetic conditions.

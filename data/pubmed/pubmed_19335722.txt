@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vaccine types
+TITLE: Vaccine immunology.
+PMID: 19335722
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19335722/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article provides a review of immunology to enhance understanding of vaccine efficacy and use, and elaborates on the immune response to vaccination. The use of vaccines to prevent infectious diseases represents a tremendous accomplishment of biomedical science, especially considering the complex interplay of the immune system with innumerable pathogens. Vaccines have allowed for total eradication of one disease and have significantly reduced the incidence of other diseases. In order to have a successful vaccine-based eradication program, the infection must be limited to humans without an animal reservoir and only one or a few strains may exist in viral infection. These strains must have constant antigenic properties. A number of vaccine types exist, both traditional and innovative, and are described herein.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Global health initiatives
+TITLE: Global Health Initiatives of the International Oncology Community.
+PMID: 28561641
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28561641/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cancer has become one of the leading causes of morbidity and mortality in low- and middle-income countries (LMICs), where 60% of the world's total new cases are diagnosed. The challenge for effective control of cancer is multifaceted. It mandates integration of effective cancer prevention, encouraging early detection, and utilization of resource-adapted therapeutic and supportive interventions. In the resource-constrained setting, it becomes challenging to deliver each service optimally, and efficient allocation of resources is the best way to improve the outcome. This concept was translated into action through development of resource-stratified guidelines, pioneered by the Breast Health Global Initiative (BHGI), and later adopted by most oncology societies in an attempt to help physicians deliver the best possible care in a limited-resource setting. Improving outcome entails collaboration between key stakeholders, including the pharmaceutical industry, local and national health authorities, the World Health Organization (WHO), and other nonprofit, patient-oriented organizations. Therefore, we started to observe global health initiatives-led by ASCO, the Union for International Cancer Control (UICC), and the WHO-to address these challenges at the international level. This article discusses some of these initiatives.

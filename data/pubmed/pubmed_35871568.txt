@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Diuretics
+TITLE: [Diuretics-induced beriberi polyneuropathy: a case report].
+PMID: 35871568
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35871568/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A 56-year-old man with an unbalanced diet who preferred chicken was admitted to the hospital because of heart failure. He was treated with diuretics for heart failure, but muscle weakness in bilateral lower extremities appeared and gradually worsened. He was transferred to our hospital for weakness of bilateral lower extremities. Physical examination revealed mild disturbance of consciousness, pitting edema, weakness of bilateral lower extremities, and areflexia. Based on his current medical history and physical examinations, we considered him to have beriberi neuropathy. Treatment with thiamine rapidly resulted in improvement of his neurological symptoms. His blood vitamin B<sub>1</sub> level was 12 ng/ml (normal range 24-66 ng/ml). We diagnosed him with diuretic-induced beriberi neuropathy. Previous reports have shown that diuretic treatment excretes vitamin B<sub>1</sub> in the urine. His report represents a case for neurologists to consider to treat with vitamin B<sub>1</sub> for beriberi neuropathy when muscle weakness is observed during treatment for heart failure receiving diuretics.

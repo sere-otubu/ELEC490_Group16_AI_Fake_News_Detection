@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Glaucoma
+TITLE: Malignant glaucoma.
+PMID: 3317956
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3317956/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The term "malignant glaucoma" referred originally to a rare and highly feared form of glaucoma occurring in certain postoperative patients. Over time the concept of the disease was expanded to include a group of angle closure glaucomas unresponsive to traditional miotic or filtering therapy. The haphazard lumping of many disease entities under such an umbrella term has caused confusion, which we attempt to resolve through a mechanistic approach to elucidating the pathogenesis of malignant glaucoma based on the anatomical location of obstruction to normal aqueous flow; surgical treatments are suggested based on the pathogenesis. Attention is drawn to the role of the vitreous and anterior hyaloid in combination with a block to normal aqueous circulation, redirection of its flow, high intraocular pressure and vitreous swelling in precipitating malignant glaucoma and creating a vicious circle to maintain it. Surgical management is directed to correcting the obstruction to normal aqueous flow and removing aqueous accumulated in the posterior chamber, vitreous or suprachoroidal space.

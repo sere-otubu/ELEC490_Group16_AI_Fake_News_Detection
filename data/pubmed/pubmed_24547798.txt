@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pain management
+TITLE: Interdisciplinary chronic pain management: past, present, and future.
+PMID: 24547798
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24547798/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Chronic pain is a significant and costly problem in the United States as well as throughout the industrialized world. Unfortunately, there have been concerns about the effectiveness of traditional medical interventions, suggesting the need for alternative chronic pain treatment strategies. However, the introduction of the biopsychosocial model of pain during the past decade stimulated the development of more therapeutically effective and cost-effective interdisciplinary chronic pain management programs. In the present article we briefly review the history of pain management, discuss the major components of a "true" interdisciplinary pain management program, focus on the evidence-based outcomes that have documented the effectiveness of such interdisciplinary pain management programs, and note the barriers that have blocked the wider use of such programs. Finally, we discuss future directions in interdisciplinary pain management.

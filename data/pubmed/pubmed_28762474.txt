@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Psoriasis
+TITLE: Adipokines, psoriasis, systemic inflammation, and endothelial dysfunction.
+PMID: 28762474
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28762474/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Adipokines are secreted by white adipose tissue, an active endocrine organ, and play a role in the regulation of metabolic functions such as lipid metabolism, inflammation, and vascular homeostasis. Adipokines are secreted in excess in obesity and contribute to the development of associated comorbidities such as metabolic syndrome and atherosclerosis. Psoriasis, a chronic immune-mediated skin disease, is associated with obesity and increased cardiovascular risk. Understanding the role of adipokines in psoriasis may in part explain the association between psoriasis and cardiovascular disease. This review summarizes the data regarding key adipokines in patients with psoriasis and the change in adipokine profiles with psoriasis therapy. Adipokines may be mediators of cutaneous inflammation suggesting a role in the pathophysiology of psoriasis and the development of comorbidities.

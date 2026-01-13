@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Weight loss strategies
+TITLE: Obesity, Challenges, and Weight-Loss Strategies for Patients With Ventricular Assist Devices.
+PMID: 38904644
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38904644/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+For adults with advanced heart failure, class II/III obesity (body mass index ≥35 kg/m<sup>2</sup>) represents major challenges, and it is even considered a contraindication for heart transplantation (HT) at many centers. This has led to growing interest in preventing and treating obesity to help patients with advanced heart failure become HT candidates. Among all weight-loss strategies, bariatric surgery (BSx) has the greatest weight loss efficacy and has shown value in enabling select patients with left ventricular assist devices (LVADs) and obesity to lose sufficient weight to access HT. Nevertheless, both BSx and antiobesity medications warrant caution in the LVAD population. In this review, the authors describe and interpret the available published reports on the impact of obesity and weight-loss strategies for patients with LVADs from general and HT candidacy standpoints. The authors also provide an overview of the journey of LVAD recipients who undergo BSx and review major aspects of perioperative protocols.

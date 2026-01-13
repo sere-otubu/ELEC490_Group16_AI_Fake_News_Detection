@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Genetic testing ethics
+TITLE: Use of preimplantation genetic testing for polygenic disorders (PGT-P): an Ethics Committee opinion.
+PMID: 41309413
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41309413/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This document discusses the ethical implications as well as the current limits and potential benefits of the use of preimplantation genetic testing for polygenic disorders. It should not be used for nonmedical trait selection. Trait selection is not within the scope of reproductive medicine and will not be discussed in this document.

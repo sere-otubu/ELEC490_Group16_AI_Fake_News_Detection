@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lyme disease
+TITLE: Persistent Symptoms After Treatment of Lyme Disease.
+PMID: 36116839
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36116839/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Most patients with Lyme disease will fully recover with recommended antibiotic therapy. However, some patients report persisting nonspecific symptoms after treatment, referred to as posttreatment Lyme disease symptoms (PTLDs) or syndrome (PTLDS), depending on the degree to which the individual's symptoms impact their quality of life. PTLDs occur in a portion of patients diagnosed with chronic Lyme disease (CLD), a controversial term describing different patient populations, diagnosed based on unvalidated tests and criteria. Practitioners should review the evidence for the Lyme disease diagnosis and not overlook unrelated conditions. Current evidence shows that prolonged antibiotic therapy provides little benefit and carries significant risk. Further research to elucidate the mechanisms underlying persistent symptoms after Lyme disease and to understand CLD is needed.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Plant based protein
+TITLE: The Increasing Impact of Activity-Based Protein Profiling in Plant Science.
+PMID: 26872839
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26872839/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The active proteome dictates plant physiology. Yet, active proteins are difficult to predict based on transcript or protein levels, because protein activities are regulated post-translationally in their microenvironments. Over the past 10 years, activity-based protein profiling (ABPP) is increasingly used in plant science. ABPP monitors the activities of hundreds of plant proteins using tagged chemical probes that react with the active site of proteins in a mechanism-dependent manner. Since labeling is covalent and irreversible, labeled proteins can be detected and identified on protein gels and by mass spectrometry using tagged fluorophores and/or biotin. Here, we discuss general concepts, approaches and practical considerations of ABPP, before we summarize the discoveries made using 40 validated probes representing 14 chemotypes that can monitor the active state of >4,500 plant proteins. These discoveries and new opportunities indicate that this emerging functional proteomic technology is a powerful discovery tool that will have an increasing impact on plant science.

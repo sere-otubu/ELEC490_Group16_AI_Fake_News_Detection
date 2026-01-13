@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Obesity prevention
+TITLE: Prevention and Management of Childhood Obesity.
+PMID: 29457204
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29457204/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Childhood obesity has been recognized as a global pandemic. Preventive strategies have proven to be the most effective public health intervention in curbing this pandemic. A multi-component approach involving dietary modification and advocacy for a healthy lifestyle comprising of regular physical activity, minimizing screen time and behavioral interventions have been found beneficial in preventing obesity. A life-cycle approach has been recommended where preventive interventions go as far back as affecting maternal, fetal and early childhood nutrition and lifestyle. Family, school and community involvement is important for long term results, so is the involvement of government in developing policies that help create an environment and opportunities for healthy diet and physical activity. Management of childhood obesity is challenging. It involves following a structured weight reduction programme individualized for every child, along with adoption of a healthy diet and life style. Anti-obesity drugs have a limited role in childhood years and are not recommended in younger children. Bariatric surgery is reserved for morbidly obese older adolescents but its long term safety data is limited in this age group.

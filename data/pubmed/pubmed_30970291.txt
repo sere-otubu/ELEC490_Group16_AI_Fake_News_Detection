@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Shingles
+TITLE: Understanding the immunology of the Zostavax shingles vaccine.
+PMID: 30970291
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30970291/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Zostavax is a live-attenuated varicella zoster virus (VZV) vaccine recommended for use in adults >50 years of age to prevent shingles. The main risk factor for the development of shingles is age, which correlates with decreasing cell-mediated immunity. These data suggest a predominant role of T cell immunity in controlling VZV latency. However, other components of the immune system may also contribute. In this review, we will discuss how the immune system responds to Zostavax, focusing on recent studies examining innate immunity, transcriptomics, metabolomics, cellular, and humoral immunity.

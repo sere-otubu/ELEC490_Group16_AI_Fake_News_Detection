@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Polycystic ovary syndrome
+TITLE: Polycystic ovary syndrome.
+PMID: 17081931
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17081931/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Polycystic ovary syndrome (PCOS) is a common endocrine disorder, affecting between 4% and 8% of reproductive aged women. This syndrome, a complex disorder with multiple components, including reproductive, metabolic, and cardiovascular manifestations, has long-term health concerns that cross the life span. The diagnostic criteria for PCOS are ovarian dysfunction evidenced by oligomenorrhea or amenorrhea and clinical evidence of androgen excess (e.g., hirsutism and acne) in the absence of other conditions that can cause these same symptoms. This article reviews current knowledge about the pathophysiology, clinical manifestations, diagnosis, and management of this disorder.

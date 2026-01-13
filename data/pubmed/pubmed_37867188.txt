@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Integumentary system
+TITLE: Regulatory T cells in skin regeneration and wound healing.
+PMID: 37867188
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37867188/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+As the body's integumentary system, the skin is vulnerable to injuries. The subsequent wound healing processes aim to restore dermal and epidermal integrity and functionality. To this end, multiple tissue-resident cells and recruited immune cells cooperate to efficiently repair the injured tissue. Such temporally- and spatially-coordinated interplay necessitates tight regulation to prevent collateral damage such as overshooting immune responses and excessive inflammation. In this context, regulatory T cells (Tregs) hold a key role in balancing immune homeostasis and mediating cutaneous wound healing. A comprehensive understanding of Tregs' multifaceted field of activity may help decipher wound pathologies and, ultimately, establish new treatment modalities. Herein, we review the role of Tregs in orchestrating the regeneration of skin adnexa and catalyzing healthy wound repair. Further, we discuss how Tregs operate during fibrosis, keloidosis, and scarring.

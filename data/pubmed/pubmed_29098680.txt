@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gambling addiction
+TITLE: Cognitive-Behavioral Therapy.
+PMID: 29098680
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29098680/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cognitive-behavioral therapy (CBT) is the main method of psychotherapy generally accepted in the field of substance addiction and non-substance addiction. This chapter mainly introduces the methods and technology of cognitive-behavior therapy of substance addiction, especially in order to prevent relapse. In the cognitive-behavior treatment of non-substance addiction, this chapter mainly introduces gambling addiction and food addiction.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pregnancy nutrition
+TITLE: Family medicine obstetrics: pregnancy and nutrition.
+PMID: 22309580
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22309580/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article discusses pregnancy and nutrition in 3 main timeframes, the prepregnancy nutritional health evaluation, nutrition during pregnancy, and nutrition during the puerperium, and also includes comments on nutrition and lactation. This article begins with a brief review of the risks of obesity (increased body mass index [BMI]) and anorexia (decreased BMI), with special attention to these undesired conditions during pregnancy, followed by a section on nutrients other than calories. Information on body weight, minerals, and vitamins during pregnancy is reviewed. This article ends with information on nutrition in the postpartum period.

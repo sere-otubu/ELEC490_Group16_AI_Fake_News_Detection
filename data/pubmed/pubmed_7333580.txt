@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chromosomes
+TITLE: Chromosomes in the Cornelia de Lange syndrome.
+PMID: 7333580
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7333580/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This paper summarizes previous chromosomal studies in patients with the Cornelia de Lange syndrome showing abnormal karyotypes. We report on 45 cases of the Cornelia de Lange syndrome clinically examined by one of us (B.B.) and chromosomally studied using several different methods. Two abnormal karyotypes were found: a girl with a 45,X karyotype and a boy with a (13q14q) translocation which was also found in his phenotypically normal mother and maternal grandmother. Because of recent reports of the duplication 3q syndrome and Cornelia de Lange-like phenotypes, prometaphase chromosomes were studied in 31 patients. All karyotypes were normal. As there was an excess of boys among the younger patients, special examination for the fragile site on X(q28) was carried out. This abnormality was not found. Even though no patients with the dup(3q) syndrome were found among the Cornelia de Lange patients, chromosome studies are recommended especially in connection with genetic counselling. A recurrence rate of 2-5% must still be considered for the Cornelia de Lange syndrome.

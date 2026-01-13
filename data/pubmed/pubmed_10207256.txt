@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Diuretics
+TITLE: Diuretics in renal failure.
+PMID: 10207256
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10207256/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Fluid retention following reduction in the glomerular filtration rate causes extracellular fluid volume expansion that reduces tubular reabsorption by residual nephrons, thereby maintaining the external sodium balance. The price paid for this is salt-dependent hypertension. Thus, loop diuretics are the best treatment for uremic hypertension. Diuretics are also used in chronic renal failure to treat edema due to nephrotic syndrome and congestive heart failure (CHF). In nephrotics, edema is often refractory to diuretics because of low plasma protein, depletion of the intravascular compartment, decrease in the protein-bound fraction of the diuretic in peritubular blood, and increase in tubular fluid. Thus, higher doses are needed. In uremics with CHF the efficacy of diuretics may be hampered because of the reduced renal blood flow. The association of dopamine (1-1.5 microg/kg body weight/min) may overcome this resistance; improvement in cardiac function by dialysis ultrafiltration may also help. Diuretic resistance is sometimes observed; it may be overcome by the following procedures: in CHF by the use of digitalis and/or angiotensin-converting enzyme inhibitors; by substitution of an ineffective loop diuretic for another one; by using larger doses of diuretic; by intravenous infusion rather than bolus therapy, and by a combination of diuretics acting in different segments of the tubule: loop diuretic+thiazide+amiloride. Intravenous infusion of 20% albumin has also been suggested.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Body temperature regulation
+TITLE: Ethanol, body temperature and thermoregulation.
+PMID: 9493506
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9493506/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+1. The effects of ethanol on body temperature (Tb) and on the regulator of Tb are reviewed. 2. The first section considers how ethanol affects cellular function and how temperature modifies these effects. 3. The next section reviews the effects of ethanol on Tb, covering both disruptive effects and effects on regulatory elements. 4. The final section covers recent work that has made use of genetic techniques to elucidate specific aspects of how ethanol affects temperature regulation.

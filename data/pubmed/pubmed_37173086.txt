@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Reproductive system
+TITLE: An overview of the female reproductive system.
+PMID: 37173086
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37173086/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This is the first of two articles providing an overview of the female reproductive system. This article looks at the internal organs associated with the female reproductive system, as well as the vulva. The author describes the relevant pathophysiology and provides an outline of disorders associated with these reproductive organs. The role of health professionals in managing and treating these disorders is discussed, and the importance of providing women-centred care highlighted. A case study and care plan is used to illustrate the importance of individualised care, including history taking, assessment of the presenting symptoms, treatment strategies, health education and advice on follow-up actions. A second article will provide an overview of breasts.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Erectile dysfunction
+TITLE: Lithium and Erectile Dysfunction: An Overview.
+PMID: 35011733
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35011733/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lithium has been a mainstay of therapy for patients with bipolar disorders for several decades. However, it may exert a variety of adverse effects that can affect patients' compliance. Sexual and erectile dysfunction has been reported in several studies by patients who take lithium as monotherapy or combined with other psychotherapeutic agents. The exact mechanisms underlying such side effects of lithium are not completely understood. It seems that both central and peripheral mechanisms are involved in the lithium-related sexual dysfunction. Here, we had an overview of the epidemiology of lithium-related sexual and erectile dysfunction in previous clinical studies as well as possible pathologic pathways that could be involved in this adverse effect of lithium based on the previous preclinical studies. Understanding such mechanisms could potentially open a new avenue for therapies that can overcome lithium-related sexual dysfunction and improve patients' adherence to the medication intake.

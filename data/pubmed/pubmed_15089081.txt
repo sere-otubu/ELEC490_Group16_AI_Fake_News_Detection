@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Evidence based medicine
+TITLE: Evidence-based medicine.
+PMID: 15089081
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15089081/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Evidence-based medicine refers to an explicit process of using and evaluating information to make medical decisions. Evidence-based medicine, perhaps contrary to popular perception, requires its users to embrace uncertainty in medical decision making because information that is simultaneously true and complete cannot be attained. Recognizing medicine's inherent uncertainty, proponents of evidence-based medicine advocate using a five-step process for sound decision making: formulate answerable questions, gather evidence, appraise the evidence, implement the valid evidence, and evaluate the process. The formulation of answerable questions requires categorizing the facts of the case in terms that allow comparison to evidence gathered from prior studies. The appraisal of the evidence uses the tools of clinical epidemiology to assess the validity and applicability of the evidence. Implementation refers to the construction of a clinical plan based on the evidence collected as well as on the physician's judgment and patient's preferences. Finally, evidence-based medicine requires continued evaluation and refinement. The methods of evidence-based medicine are especially germane to contemporary medicine as physicians practice under increasing demands to deliver optimal outcomes yet face an ever-expanding body of medical knowledge.

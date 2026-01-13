@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Valve replacement
+TITLE: Replacement of the Mitral Valve Under One Year of Age: Size Matters.
+PMID: 34116783
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34116783/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Surgical management of mitral valve disease in neonates and infants is challenging. When repair is no longer feasible, replacement may become inevitable, but should only be considered as an option of last resort due to the remarkably high rate of associated morbidity and mortality. Mechanical valves are the preferred choice in large annuli, while stented conduits seem promising in smaller ones. In patients with a preoperative mitral valve annulus equal or larger than 15-16 mm, an intra-annular placement of the smallest mechanical valve available should be attempted. In patients with smaller annuli, the placement of a stented valved conduit seems to display a lower mortality risk. Supra-annular implantation of prostheses should be reserved for exceptional cases and to those familiar with this technique because of the high rate of associated complications.

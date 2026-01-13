@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Influenza
+TITLE: Pathology of human influenza revisited.
+PMID: 19230162
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19230162/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The pathology of human influenza has been studied most intensively during the three pandemics of the last century, the last of which occurred in 1968. It is important to revisit this subject because of the recent emergence of avian H5N1 influenza in humans as well as the threat of a new pandemic. Uncomplicated human influenza virus infection causes transient tracheo-bronchitis, corresponding with predominant virus attachment to tracheal and bronchial epithelial cells. The main complication is extension of viral infection to the alveoli, often with secondary bacterial infection, resulting in severe pneumonia. Complications in extra-respiratory tissues such as encephalopathy, myocarditis, and myopathy occur occasionally. Sensitive molecular and immunological techniques allow us to investigate whether these complications are a direct result of virus infection or an indirect result of severe pneumonia. Human disease from avian influenza virus infections is most severe for subtype H5N1, but also has been reported for H7 and H9 subtypes. In contrast to human influenza viruses, avian H5N1 virus attaches predominantly to alveolar and bronchiolar epithelium, corresponding with diffuse alveolar damage as the primary lesion. Viremia and extra-respiratory complications appear to be more common for infections with avian H5N1 virus than with human influenza viruses. Further understanding and comparison of the pathology of human and avian influenza virus infections only can be achieved by directed and careful pathological analysis of additional influenza cases.

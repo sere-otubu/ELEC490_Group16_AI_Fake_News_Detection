@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Evidence based medicine
+TITLE: Evidence based medicine - decades later.
+PMID: 32008388
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32008388/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+After more than two decades of enthusiasm surrounding the concept of evidence based medicine, wide variation in its implementation is still present. Some have suggested that evidence based medicine may be a failed model. We propose that the highly formulaic approach of evidence based medicine has evolved toward a more personalized, integrated and contextualized method, consistent with the principle of shared decision making advanced by the Institute of Medicine. Evidence based medicine remains an essential prerequisite but ultimately, only the practitioner's clinical expertise, knowledge and practical wisdom will provide the ability to apply general rules of evidence to particular clinical situations.

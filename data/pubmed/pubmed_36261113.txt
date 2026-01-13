@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Burnout syndrome
+TITLE: Documentation Burden in Nursing and Its Role in Clinician Burnout Syndrome.
+PMID: 36261113
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36261113/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The purpose of this study is to understand the relationship between documentation burden and clinician burnout syndrome in nurses working in direct patient care. The Office of the National Coordinator considers documentation burden a high priority problem. However, the presence of documentation burden in nurses working in direct patient care is not well known. Furthermore, the presence of documentation burden has not been linked to the development of clinician burnout syndrome. This paper reports that the results of a cross-sectional survey study comprised of three tools: (1) The burden of documentation for nurses and mid-wives survey, (2) the system usability scale, and (3) Maslach's burnout inventory for medical professionals. Documentation burden has a weak to moderate correlation to clinician burnout syndrome. Furthermore, poor usability of the electronic health record (EHR) is also associated with documentation burden and clinician burnout syndrome. This study suggests that there is a relationship between documentation burden and clinician burnout syndrome. The correlation of poor usability and domains of clinician burnout syndrome implies the need for more work on improving the usability of EHR for nursing documentation. Further study regarding the presence of documentation burden and its correlation to clinician burnout syndrome should focus on specific areas of nursing to understand the drivers of documentation burden variation within and across specialty domains.

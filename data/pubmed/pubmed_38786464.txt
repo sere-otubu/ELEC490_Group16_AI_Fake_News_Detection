@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dengue fever
+TITLE: Emergence of Indigenous Dengue Fever, Niger, October 2023.
+PMID: 38786464
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38786464/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Dengue fever is a growing worldwide public health concern. In mid-October 2023, multiple cases of uncommon febrile illness were reported among patients in Niamey, Niger. Fifteen samples were tested by using molecular methods, from which 7 (46.66%) were confirmed positive for mosquitoborne dengue virus belonging to serotypes 1 and 3.

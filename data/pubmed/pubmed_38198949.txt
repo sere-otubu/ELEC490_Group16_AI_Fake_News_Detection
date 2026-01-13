@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Emergency room triage
+TITLE: Enhancing triage accuracy in emergency nurses: The impact of a game-based triage educational app.
+PMID: 38198949
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38198949/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Digital technology has enabled gamification methods to enhance triage education, reflecting an evolving healthcare landscape. To evaluate the effectiveness of a Gamification Triage Education App (GTEA) as a learning tool for emergency nurses, with a focus on creating an engaging and educationally effective platform for triage training. The GTEA was developed using no-code based software and expanded upon previous iterations, with added features such as points, rankings, instant feedback, and quest-based stories. From December 2021 to March 2022, 27 emergency room nurses from three hospitals in Korea were instructed to use GTEA for 100 min over the course of a week. The effects were measured before and after the intervention. The results demonstrated a significant increase in triage accuracy from 4.3 ± 2.00 to 5.33 ± 1.47 (t = -2.18, p = 0.039), along with a substantial reduction in overtriage (t = 3.11, p = 0.004). Additionally, increases in critical thinking disposition, triage competency, and triage knowledge were observed (t = -3.11, p = 0.004; t = -2.72, p = 0.011; t = -3.14, p = 0.004, respectively). The findings provide robust evidence for the effectiveness of gamification in triage training within emergency nursing.

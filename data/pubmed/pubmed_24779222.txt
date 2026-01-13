@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hyperthyroidism
+TITLE: [Classification and etiology of hyperthyroidism].
+PMID: 24779222
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24779222/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The prevalence of hyperthyroidism in women is between 0.5-2% and it is 10 times less common in men. The most common causes are Graves' disease, toxic multinodular goiter, and autonomously functioning thyroid adenoma. Rare causes of hyperthyroidisms are as follow: pituitary adenoma, autoimmune thyroiditis (Hashitoxicosis), levothyroxine overdose, inadequate iodine supplementation (including amiodaron induced hyperthyroidism, iodine-based contrast media), hCG excess (pregnancy, gestational trophoblastic disease, germ-cell tumors), drug induced hyperthyroidism, differentiated thyroid carcinomas and/or their metastases, struma ovarii, and familial nonautoimmune hyperthyroidism. This article focuses on the current data of etiopathogenesis of hyperthyroidisms. Genetic factors (like HLA-DR3,CD40, CTLA-4, PTPN22, FOXP3 CD25) and thyroid specific genes (thyroglobulin, TSHR, G(s)alpha) and environmental and endogenous factors (such as age, iodine, selenium, emotional stress, smoking, gender, pregnancy, sex hormones, fetal microchimerism, fetal growth, bacterial infections, viral infections, allergies, drugs (alemtuzumab, interferon alpha, iplimumab/tremelimumab, tyrosine kinase inhibitors, denileukindiftitox, thalidomide/lenalidomide, exposition to fallout and radiotherapy) have been described.

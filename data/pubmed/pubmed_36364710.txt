@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Artificial sweeteners
+TITLE: Is the Use of Artificial Sweeteners Beneficial for Patients with Diabetes Mellitus? The Advantages and Disadvantages of Artificial Sweeteners.
+PMID: 36364710
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36364710/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Artificial sweeteners have been developed as substitutes for sugar. Sucralose, acesulfame K (ACE K), aspartame, and saccharin are artificial sweeteners. Previously, artificial sweeteners were thought to be effective in treating obesity and diabetes. Human meta-analyses have reported that artificial sweeteners have no effect on body weight or glycemic control. However, recent studies have shown that artificial sweeteners affect glucose absorption in the intestinal tract as well as insulin and incretin secretion in humans and animals. Moreover, artificial sweeteners alter the composition of the microbiota and worsen the glycemic control owing to changes in the gut microbiota. The early intake of ACE K was also shown to suppress the taste response to sugar. Furthermore, a large cohort study showed that high artificial sweetener intake was associated with all-cause mortality, cardiovascular risk, coronary artery disease risk, cerebrovascular risk, and cancer risk. The role of artificial sweeteners in the treatment of diabetes and obesity should be reconsidered, and the replacement of sugar with artificial sweeteners in patients will require the long-term tracking of not only intake but also changes in blood glucose and weight as well as future guidance based on gut bacteria data. To utilize the beneficial properties of artificial sweeteners in treatment, further studies are needed.

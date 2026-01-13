@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Bronchitis
+TITLE: Acute bronchitis: aetiology, symptoms and treatment.
+PMID: 2653940
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2653940/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There is much discussion about the aetiology, definition and treatment of acute bronchitis. This paper reviews the main issues in the debate. It concludes that bronchitis should be regarded as a collective name for a wide range of syndromes. Whether further differentiation of the clinical diagnosis is meaningful depends largely on whether such differentiation has therapeutic implications. Further research into medical treatment of the different types of acute bronchitis is necessary.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Telemedicine adoption
+TITLE: Adoption of telemedicine services by substance abuse treatment facilities in the U.S.
+PMID: 32811631
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32811631/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To describe trends in licensed substance use treatment facilities' adoption of telemedicine and how adoption varies across local factors, including county-level drug overdose rates, urbanicity measures, and state policy laws. We analyzed data (2016-2019) from the National Directory of Drug and Alcohol Abuse Treatment Facilities. Our main outcome was telemedicine use by a treatment facility. We also captured independent variables from other datasets, including estimated county-level drug poisoning deaths and state-level telemedicine policies. We estimated a multivariable logistic regression model to determine which facility characteristics were associated with offering telemedicine. From 2016 to 2019, an average of 12,334 treatment facilities were included. During this period, the unadjusted proportion of facilities offering telemedicine grew from 13.5% to 17.4% (p < 0.001). In adjusted models, rural location; offering multiple treatment settings; offering pharmacotherapy; and serving both adult and pediatric patients were associated with greater telemedicine adoption (p < 0.05 for all comparisons). Use of telemedicine is increasing steadily among substance use disorder (SUD) treatment facilities; however, uptake is uneven and relatively low. As such, telemedicine may be an underutilized tool to expand access to care for patients with SUDs.

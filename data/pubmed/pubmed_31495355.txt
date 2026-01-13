@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Inhalers
+TITLE: [Inhalers and inhalation techniques in the treatment of asthma and chronic obstructive pulmonary disease].
+PMID: 31495355
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31495355/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A wide catalogue of inhalers is available today as described in this review, but many patients and healthcare professionals do not know how to use inhalers correctly. However, knowledge of the working principles and pros and cons of the various inhaler types may improve patient education and the correct choice of device. Which inhaler is the best suited cannot be determined without measuring the patient's inspiration flow and controlling the ability to coordinate and handle a device. Extra-fine particles from pressurised metered dose inhalers, dry powder inhalers and soft mist inhalers give new perspectives on disease control as optimal coordination, and flow pattern is less crucial.

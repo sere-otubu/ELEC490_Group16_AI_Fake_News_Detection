@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Endocrine system
+TITLE: The endocrine system function disturbances during and after SARS-CoV-2 infection.
+PMID: 35363367
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35363367/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Several receptors for the angiotensin-converting enzyme 2 (ACE2), essential for the penetration of SARS-CoV-2 into cells, are located in the tissues of the endocrine glands. Therefore, it has been suggested that SARS-CoV-2 infection results in the development of hormonal disturbances. To date, several cases of endocrine disturbances related to the dysfunction of all endocrine glands during and after SARS-CoV-2 infection have been described. In this review, we discuss the endocrine system disturbances in patients with COVID-19 and post-COVID-19 syndrome. Based on the case reports described in the literature, patients with COVID-19 may develop endocrine disturbances that are immediately life-threatening. In addition, patients with post-COVID-19 syndrome may develop chronic endocrine disturbances. In summary, the diagnostics of endocrine system disturbances based on clinical symptoms should be taken into account in both patients with COVID-19 and post-COVID-19 syndrome.

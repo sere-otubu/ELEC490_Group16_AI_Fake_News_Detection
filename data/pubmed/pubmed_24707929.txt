@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Epipen
+TITLE: The development and implementation of the Chicago public schools emergency EpiPen® policy.
+PMID: 24707929
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24707929/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Food allergy affects 1 in 13 children, or 2 children per classroom. Food allergies are the leading cause of anaphylaxis, a severe allergic reaction that can result in death. In fact, 25% of first-time anaphylactic reactions among children occur in school. To address this, the Chicago Public Schools (CPS) Office of Student Health and Wellness amended the Administration of Medication Policy in 2012. The CPS Administration of Medication Policy was reviewed and analyzed. The policy allows all CPS district schools to be stocked with EpiPens and authorizes school nurses to administer them to students that the nurse in good faith professionally believes is having a first-time anaphylactic reaction. Although the policy has proven effective, CPS faces challenges during implementation. CPS school nurse coverage is low, and therefore, there are times when no nurse is onsite to administer EpiPen treatment to a student experiencing a first-time reaction. This landmark policy provides quick and easy access to lifesaving treatment and protects nurses from liability in the event of an anaphylactic emergency. A challenge to this policy's utilization includes the lack of funding for daily nurse coverage in each school.

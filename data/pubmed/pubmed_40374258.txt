@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Syphilis
+TITLE: The Resurgence of Syphilis: A Critical Public Health Concern.
+PMID: 40374258
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40374258/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Syphilis, a sexually transmitted infection caused by Treponema pallidum, has become a concerning resurgence in recent years, particularly in the United States. Of significant concern is the steep rise in congenital syphilis cases, which poses grave risks to maternal and neonatal health. This article provides an overview of the epidemiology, risk factors, clinical manifestations, screening methods, and treatment strategies for syphilis, with a specific focus on congenital transmission. Drawing upon current literature and guidelines, the paper underscores the importance of early detection and intervention to prevent adverse outcomes associated with congenital syphilis. Furthermore, the article highlights the challenges in syphilis diagnosis, including the interpretation of serological tests and the management of neurosyphilis. Recommendations for practice, including screening protocols and treatment regimens, are discussed in detail. The conclusion emphasizes the urgent need for collaborative efforts among healthcare providers, public health agencies, and community stakeholders to address the syphilis epidemic effectively. By adhering to evidence-based guidelines and leveraging available resources, clinicians can play a pivotal role in reducing the burden of syphilis and safeguarding the health of vulnerable populations, particularly pregnant women and infants.

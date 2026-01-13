@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Genetic screening
+TITLE: Genetic screening for gynecological cancer: where are we heading?
+PMID: 26638726
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26638726/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The landscape of cancer genetics in gynecological oncology is rapidly changing. The traditional family history-based approach has limitations and misses >50% mutation carriers. This is now being replaced by population-based approaches. The need for changing the clinical paradigm from family history-based to population-based BRCA1/BRCA2 testing in Ashkenazi Jews is supported by data that demonstrate population-based BRCA1/BRCA2 testing does not cause psychological harm and is cost effective. This article covers various genetic testing strategies for gynecological cancers, including population-based approaches, panel and direct-to-consumer testing as well as the need for innovative approaches to genetic counseling. Advances in genetic testing technology and computational analytics have facilitated an integrated systems medicine approach, providing increasing potential for population-based genetic testing, risk stratification, and cancer prevention. Genomic information along-with biological/computational tools will be used to deliver predictive, preventive, personalized and participatory (P4) and precision medicine in the future.

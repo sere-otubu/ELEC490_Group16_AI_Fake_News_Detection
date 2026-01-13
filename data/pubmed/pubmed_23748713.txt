@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Wound healing process
+TITLE: Murine model of wound healing.
+PMID: 23748713
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23748713/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Wound healing and repair are the most complex biological processes that occur in human life. After injury, multiple biological pathways become activated. Impaired wound healing, which occurs in diabetic patients for example, can lead to severe unfavorable outcomes such as amputation. There is, therefore, an increasing impetus to develop novel agents that promote wound repair. The testing of these has been limited to large animal models such as swine, which are often impractical. Mice represent the ideal preclinical model, as they are economical and amenable to genetic manipulation, which allows for mechanistic investigation. However, wound healing in a mouse is fundamentally different to that of humans as it primarily occurs via contraction. Our murine model overcomes this by incorporating a splint around the wound. By splinting the wound, the repair process is then dependent on epithelialization, cellular proliferation and angiogenesis, which closely mirror the biological processes of human wound healing. Whilst requiring consistency and care, this murine model does not involve complicated surgical techniques and allows for the robust testing of promising agents that may, for example, promote angiogenesis or inhibit inflammation. Furthermore, each mouse acts as its own control as two wounds are prepared, enabling the application of both the test compound and the vehicle control on the same animal. In conclusion, we demonstrate a practical, easy-to-learn, and robust model of wound healing, which is comparable to that of humans.

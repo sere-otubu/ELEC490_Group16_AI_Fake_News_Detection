@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Skin cancer prevention
+TITLE: The economics of skin cancer prevention with implications for Australia and New Zealand: where are we now?
+PMID: 35290994
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35290994/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The incidence of skin cancer, including melanoma, continues to climb in white populations around the world, imposing a large and growing burden on health systems and individuals. Harmful exposure to ultraviolet (UV) radiation, mostly solar UV, is the most avoidable cause of skin cancer risk and mortality. Many economic evaluations attest to the favourable benefits for governments and citizens from skin cancer prevention programs. This overview presents the current 'state of play' of the economics of skin cancer prevention. More research is required to document contemporary costs of managing skin cancer in Australia and New Zealand to accurately assess the true savings from primary prevention. New directions are proposed for ways that economics could contribute to the investment case for prevention. The majority of skin cancers are avoidable and curable, yet cost the Australian health economy A$1.7 billion each year. Therefore primary prevention of skin cancers must remain high on the public health agenda.

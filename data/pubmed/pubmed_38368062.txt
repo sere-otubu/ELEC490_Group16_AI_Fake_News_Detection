@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dissociative disorders
+TITLE: Sleep-Related Dissociative Disorders.
+PMID: 38368062
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38368062/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In sleep-related dissociative disorders, phenomena of the psychiatrically defined dissociative disorders emerge during the sleep period. They occur during sustained wakefulness, either in the transition to sleep or following an awakening from sleep. Behaviors during episodes vary widely, and can result in injury to self or others. Daytime dissociative episodes and a background of trauma are almost always present; there is typically major co-existing psychopathology. Diagnosis is based on both clinical history and polysomnography; differential diagnosis primarily involves other parasomnias and nocturnal seizures. Information available about treatment is limited; in a few reported cases, psychological interventions have proven effective.

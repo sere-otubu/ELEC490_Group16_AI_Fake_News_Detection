@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Prostate cancer
+TITLE: Gene Therapy for Prostate Cancer: A Review.
+PMID: 32473623
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32473623/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+According to the American Cancer Society, prostate cancer ranks second in terms of mortality and is a front-runner of newly detected cases. Conventional therapies neither eradicated cancer nor increased the life expectancy of patients obviating the need for less toxic as well as efficient therapies to treat cancer. Gene therapy alone, or in combination with conventional therapies, possesses a strong potential to combat cancer. This review encompasses a brief note on the etiology and conventional therapy of prostate cancer with an emphasis on gene therapy and its suitability for the treatment of prostate cancer. A comprehensive range of gene therapy approaches have been successfully explored for prostate cancer treatment in animal models and this has been well translated into early clinical trials. We have also discussed in brief about specific therapeutic genes and suitable vector systems for gene therapy in prostate cancer. Based on the results of these clinical trials, the application of gene therapy in prostate cancer therapeutics can be satisfactorily established.

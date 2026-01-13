@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lung cancer
+TITLE: Lung cancer in never smokers: disease characteristics and risk factors.
+PMID: 23921082
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23921082/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+It is estimated that approximately 25% of all lung cancer cases are observed in never-smokers and its incidence is expected to increase due to smoking prevention programs. Risk factors for the development of lung cancer described include second-hand smoking, radon exposure, occupational exposure to carcinogens and to cooking oil fumes and indoor coal burning. Other factors reported are infections (HPV and Mycobacterium tuberculosis), hormonal and diatery factors and diabetes mellitus. Having an affected relative also increases the risk for lung cancer while recent studies have identified several single nucleotide polymorphisms associated with increased risk for lung cancer development in never smokers. Distinct clinical, pathology and molecular characteristics are observed in lung cancer in never smokers; more frequently is observed in females and adenocarcinoma is the predominant histology while it has a different pattern of molecular alterations. The purpose of this review is to summarize our current knowledge of this disease.

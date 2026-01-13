@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Prostate cancer
+TITLE: Modeling prostate cancer: What does it take to build an ideal tumor model?
+PMID: 35718268
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35718268/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Prostate cancer is frequently characterized as a multifocal disease with great intratumoral heterogeneity as well as a high propensity to metastasize to bone. Consequently, modeling prostate tumor has remained a challenging task for researchers in this field. In the past decades, genomic advances have led to the identification of key molecular alterations in prostate cancer. Moreover, resistance towards second-generation androgen-deprivation therapy, namely abiraterone and enzalutamide has unveiled androgen receptor-independent diseases with distinctive histopathological and clinical features. In this review, we have critically evaluated the commonly used preclinical models of prostate cancer with respect to their capability of recapitulating the key genomic alterations, histopathological features and bone metastatic potential of human prostate tumors. In addition, we have also discussed the potential use of the emerging organoid models in prostate cancer research, which possess clear advantages over the commonly used preclinical tumor models. We anticipate that no single model can faithfully recapitulate the complexity of prostate cancer, and thus, propose the use of a cost- and time-efficient integrated tumor modeling approach for future prostate cancer investigations.

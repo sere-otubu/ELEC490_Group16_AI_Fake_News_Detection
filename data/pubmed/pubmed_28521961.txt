@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Placebo effect
+TITLE: Placebo effect and therapeutic context: A challenge in clinical research.
+PMID: 28521961
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28521961/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+When we apply a physical or pharmacological treatment, there are many things that may explain the clinical improvement experienced by a patient. The drugs or physical agents applied are important, but we must also add other elements in the context of the patient-therapist relationship. Scientific evidence has proven that the placebo effect exists. This is a true biopsychosocial phenomenon produced by the context in which an intervention is carried out. Biases aside, placebo and nocebo responses are changes in patients' symptoms, due to their participation at the therapeutic meeting, with its rituals, symbols and interactions. This multitude of signals inherent in any intervention, is perceived and interpreted by patients and can create positive or negative expectations.

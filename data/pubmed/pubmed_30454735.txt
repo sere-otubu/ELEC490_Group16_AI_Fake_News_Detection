@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urinary tract infection
+TITLE: Urinary Tract Infections.
+PMID: 30454735
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30454735/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Urinary tract infection (UTI) is the second most common bacterial infection in children and is considered a public health threat given the mounting rates of antibiotic-resistance among uropathogens. This article highlights recent encouraging developments in UTI research. Further work is necessary to translate the discoveries into accessible, cost-effective technologies that will aid clinicians in real-time decision-making.

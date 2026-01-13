@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Male infertility
+TITLE: Male Factor Infertility: What Every OB/GYN Should Know.
+PMID: 37914493
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37914493/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Male factor infertility plays a role in approximately 30% of infertility cases. Various causes of male factor infertility exist including congenital, acquired, idiopathic, or environmental factors. Identifying the underlying etiology of male factor infertility is a key step toward providing appropriate counseling, effective treatment options, and improving outcomes for couples with infertility. Although the recent advances and developments in assisted reproductive technology have undoubtedly improved fertility outcomes, clinicians must understand the scope of reproductive urologists in the evaluation and treatment of male infertility to provide comprehensive counseling, appropriate referral, comprehensive evaluation, and correct surgical sperm retrieval techniques when needed.

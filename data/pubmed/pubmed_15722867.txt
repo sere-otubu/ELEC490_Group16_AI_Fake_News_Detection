@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Public health policy
+TITLE: Policy perspectives on public health for Mexican migrants in California.
+PMID: 15722867
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15722867/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This analysis focuses on public policies that affect primary HIV prevention and access to HIV care for Mexican migrants residing in California. Policy or structural level interventions, as opposed to behavioral or psychologic interventions, help to shape the environment in which people live. We use a conceptual model for policy analysis in public health to understand better the challenges faced by Mexican migrants. We assess potential policy level interventions that may serve as barriers to or facilitators of primary HIV prevention and care for Mexican migrants. Among potential barriers, we discuss restrictions on public health services based on legal immigration status, limits placed on affirmative action in education, and laws limiting travel and immigration. Under potential facilitators, we discuss community and migrant health centers, language access laws, and the use of community-based groups to provide prevention and treatment outreach. We also report on the limited research evaluating the implications of these public policies and ways to organize for more responsive public policies.

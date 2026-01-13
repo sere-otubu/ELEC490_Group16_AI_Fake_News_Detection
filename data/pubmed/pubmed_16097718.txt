@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Bipolar disorder
+TITLE: Bipolar disorder: disease burden.
+PMID: 16097718
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16097718/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Bipolar disorder is a chronic, severe, recurrent mood disorder. Traditional estimates of the prevalence of the disorder may underestimate the actual total disease burden. The condition can occur across a wide spectrum of ages, but the most common age of onset appears to be between the ages of 15 and 19. Bipolar disorder is often underdiagnosed or misdiagnosed, with profound negative clinical and economic consequences. Medical and psychiatric comorbidity is common in patients with bipolar disorder. Functional disability because of bipolar disorder is comparable with that of many chronic medical conditions. It has been estimated that the total annual societal cost of bipolar disorder may be as high as 45 billion dollars.

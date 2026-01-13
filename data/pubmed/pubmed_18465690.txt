@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anorexia nervosa
+TITLE: [Anorexia nervosa].
+PMID: 18465690
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18465690/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Anorexia nervosa is an eating disorder characterized by conscious restriction of food intake, which causes numerous metabolic and hormonal disorders. Knowledge of these changes is important due to growing morbidity and mortality of anorexia. Treatment is difficult and requires cooperation of a group of specialists, including an endocrinologist. The authors presented a clinical picture, view of etiopathogenesis and typical disorders found in patients with this illness. Furthermore, treatment methods were also discussed.

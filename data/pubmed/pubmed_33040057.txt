@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Keto diet
+TITLE: Efficacy of Low-Carbohydrate Ketogenic Diet in the Treatment of Type 2 Diabetes.
+PMID: 33040057
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33040057/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Low-carbohydrate ketogenic diet (LCKD), originally used as a treatment for childhood epilepsy is currently gaining acceptance as a nutritional therapy for obesity and type 2 diabetes. In addition, this diet has a positive effect on body weight, blood glucose level, glycosylated hemoglobin, plasma lipid profile, and neurological disorders. This review focuses on the therapeutic effectiveness, negative effects, and the rationale of using LCKD for the treatment of type 2 diabetes. It is shown that LCKD contributes to the reduction in the intake of insulin and oral antidiabetic drugs in patients with type 2 diabetes. Furthermore, the data presented in this review reveal the efficacy and cost-effectiveness of LCKD in the management of type 2 diabetes.

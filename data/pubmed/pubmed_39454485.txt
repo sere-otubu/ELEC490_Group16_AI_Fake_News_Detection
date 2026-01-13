@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Conjunctivitis
+TITLE: [Viral and chlamydial conjunctivitis].
+PMID: 39454485
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39454485/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Viral conjunctivitis is the most common type of conjunctivitis. It is contagious and is predominantly seen as adenovirus-related conjunctivitis and keratoconjunctivitis (ADV). These infections are the most frequent ocular surface infections and can lead to conjunctival scarring and corneal opacities. Other types of viral conjunctivitis are often secondary to systemic infection and typically resolve spontaneously. Chlamydial conjunctivitis, on the other hand, is dominated by trachoma, which remains endemic in 42 countries and is still the leading cause of infectious blindness worldwide. In industrialized countries, chlamydia can also cause neonatal conjunctivitis and sometimes chronic conjunctivitis, occasionally associated with sexually transmitted diseases. This comprehensive review provides clinicians with essential microbiological, epidemiological, clinical, and therapeutic data on these two major groups of infectious conjunctivitis.

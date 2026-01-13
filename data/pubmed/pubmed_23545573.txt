@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Red blood cells
+TITLE: Erythropoiesis: development and differentiation.
+PMID: 23545573
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23545573/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Through their oxygen delivery function, red blood cells are pivotal to the healthy existence of all vertebrate organisms. These cells are required during all stages of life--embryonic, fetal, neonatal, adolescent, and adult. In the adult, red blood cells are the terminally differentiated end-product cells of a complex hierarchy of hematopoietic progenitors that become progressively restricted to the erythroid lineage. During this stepwise differentiation process, erythroid progenitors undergo enormous expansion, so as to fulfill the daily requirement of ~2 × 10(11) new erythrocytes. How the erythroid lineage is made has been a topic of intense research over the last decades. Developmental studies show that there are two types of red blood cells--embryonic and adult. They develop from distinct hemogenic/hematopoietic progenitors in different anatomical sites and show distinct genetic programs. This article highlights the developmental and differentiation events necessary in the production of hemoglobin-producing red blood cells.

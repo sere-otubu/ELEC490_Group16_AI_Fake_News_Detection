@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Biopsy
+TITLE: Percutaneous biopsy in lung cancer.
+PMID: 12499065
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12499065/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This paper presents current indications, contraindications, technical aspects, complications and yield of diagnosis of percutaneous lung biopsy in the setting of lung cancer. Percutaneous lung biopsy should be performed each time that the therapeutic strategy can be significantly influenced, when the procedure is technically feasible and to patients for which the benefits outweigh the risks, that are pneumothorax and pulmonary haemorrhage. Factors identified as potentially favouring post-biopsy pneumothorax are numerous whereas the use of a needle size larger than 18 gauge is the major risk factor of bleeding. Although a coaxial system is highly suitable in any case, two categories of needles can be used; those providing aspiration and those for core biopsies. Both offer similar yields for the diagnosis of malignancy, but core biopsies are more efficient for the specific diagnosis of benignity and lymphoma. Technical improvements of guidance, needle design and pathological techniques may contribute to lower the size limit of the nodule to be biopsied, to decrease the complication rate and their severity and to increase the yield of diagnosis.

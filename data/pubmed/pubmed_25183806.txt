@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mental health stigma
+TITLE: Stigma and mental health challenges in medical students.
+PMID: 25183806
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25183806/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Despite the perception that medical students and doctors should be 'invincible', mental health challenges are common in this population. Medical students and doctors have low levels of help seeking for their own psychiatric problems often only presenting to mental health services once a crisis arises. Fear of exposure to stigmatisation is a crucial factor contributing to symptom concealment and is a barrier to accessing mental health services. Autobiographical narratives of the 'Wounded Healer' are gaining popularity among medical students and doctors with mental health challenges both as an effective form of adjunctive therapy and as a means to campaign against stigma. Indeed, the results of a randomised controlled trial to assess the efficacy of Coming Out Proud with mental illness revealed immediate positive effects on stigma stress-related variables. We provide an autobiographical narrative from a medical student who has first-hand experience with mental health challenges.

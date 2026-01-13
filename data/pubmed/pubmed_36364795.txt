@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Protein intake
+TITLE: Association of Plant Protein Intake with Change in Physical Performance in Chinese Community-Dwelling Older Adults.
+PMID: 36364795
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36364795/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+(1) Background: Dietary protein intake might be beneficial in optimizing physical performance, yet whether this is dependent on protein source and sex is unclear. We examined the association between dietary protein intake and change in physical performance among Chinese community-dwelling older adults. (2) Methods: This prospective study included older Chinese adults (≥65 years) in Hong Kong. Total, plant and animal protein intakes at baseline were assessed using a food frequency questionnaire. Physical performance at baseline and 4-year follow-up were assessed by the time to complete a 6-m walking test. Adjusted linear regression examined the association between total, plant and animal protein intakes (g/kg of body weight (BW)) and 4-year change in physical performance. (3) Results: 3133 participants (49.8% males) aged 71.8 ± 4.9 years were included. In males, total, plant and animal protein intakes were not associated with a change in physical performance. In females, higher plant protein intake was associated with less decline in physical performance (β 0.723, SE 0.288, <i>p</i> = 0.012). No associations were observed for total animal protein intakes. (4) Conclusion: In Chinese community-dwelling older adults, total and animal protein intakes were not associated with a 4-year change in physical performance. Higher plant protein intake was associated with less decline in physical performance in females.

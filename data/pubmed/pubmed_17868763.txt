@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Personality disorders
+TITLE: Personality disorders.
+PMID: 17868763
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17868763/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Personality disorders are gaining a similar level of attention in the primary care literature as afforded to mood, anxiety, and substance abuse disorders. A personality disorder-comorbid with a medical or other psychiatric diagnosis-presents a challenge for primary care physicians because of diagnostic and treatment dilemmas, as well as management of the physician's interpersonal reaction to the patient. This article reviews research on prevalence, clinical presentation and assessment, and treatment, with specific recommendations for primary care physicians. Strategies to enhance the physician-patient relationship, including the use of empathic skills and the facilitation of physician well-being, are presented. Integrating these tools into routine practice can lead to more satisfying treatment relationships between primary care physicians and patients who have personality disorders.

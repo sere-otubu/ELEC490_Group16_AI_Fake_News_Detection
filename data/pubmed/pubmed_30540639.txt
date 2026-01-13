@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hemorrhoids
+TITLE: Stapled Hemorrhoidectomy Versus Transanal Hemorrhoidal Dearterialization in the Treatment of Hemorrhoids: An Updated Meta-Analysis.
+PMID: 30540639
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30540639/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This meta-analysis aimed to compare the clinical outcomes of stapled hemorrhoidectomy (SH) and transanal hemorrhoidal dearterialization (THD) for treating hemorrhoidal disease. Randomized control trials (RCTs) comparing SH with THD were searched in databases, including MEDLINE, PubMed, Web of Science, EMBASE, and the Cochrane Library database. Nine RCTs, with 1077 patients, were included in this meta-analysis. Nine RCTs, with 1077 patients, were included in this meta-analysis. The bleeding rate in the SH patient group was higher than that in the THD group. No significant difference was detected between SH and THD in terms of operating time, postoperative pain, hospital time, and return-to-work time. The total recurrence rate was higher in the THD group than in the SH group. In conclusion, SH and THD are effective for treating hemorrhoids. SH produces better outcomes in terms of a relatively lower recurrence rate. Future studies with long follow-up periods are needed to confirm these results.

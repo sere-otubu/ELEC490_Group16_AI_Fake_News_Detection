@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Opioids risks
+TITLE: Disorders of gut-brain interaction and the long-term risks of opioids.
+PMID: 31589497
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31589497/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Prescription opioid abuse has become a public health crisis. It is often challenging to manage affected patients as their symptoms are often viewed through a prism of complex psychosocial issues. Clinicians are often unaware of the lack of evidence regarding opioid prescribing for non-cancer pain, and these trends in prescribing have been significantly escalated by pharmaceutical companies and prescribing culture in recent years. Opioid prescribing in the context of disorders of gut-brain interaction (formerly known as functional gastrointestinal disorders) can worsen conditions such as centrally-mediated abdominal pain syndrome and narcotic bowel syndrome. Opioids should not be prescribed to these patients as the harm is significantly greater than the benefit. However, in certain patients, such as those being investigated for organic abdominal pain, a trial of opioids may be indicated. In these groups, an opioid contract should be used, in addition to risk tools to identify those most vulnerable to the negative effects of these drugs. Prevention and treatment of the long-term effects of opioids requires a multidisciplinary approach and health-care professionals should all become 'opioid aware'.

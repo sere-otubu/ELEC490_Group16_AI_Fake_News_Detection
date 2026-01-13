@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Female infertility
+TITLE: Research progress of ferroptosis in female infertility.
+PMID: 39267109
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39267109/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ferroptosis is a novel type of programmed cell death dependent on iron and characterized by the accumulation of lipid peroxides in cells and is closely related to various diseases. Female infertility is a global health concern, which is associated with a variety of factors. The etiology remains unknown in many women with infertility. With further investigation into the pathogenesis of infertility, a growing number of studies have demonstrated the close connections between infertility and ferroptosis. Through a literature review, it is found that ferroptosis is closely involved in endometriosis- and polycystic ovarian syndrome (PCOS)-associated infertility and tubal factor infertility. Iron overload increases the resistance to ferroptosis, and ferroptosis in some cells accelerates endometrial lesion growth. Moreover, iron overload may be hazardous to oocytes. This review may shed some light on the diagnosis and treatment of female infertility.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Palliative care
+TITLE: Primary palliative care in neonatal intensive care.
+PMID: 28162789
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28162789/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article explores the 2014 Institute of Medicine׳s recommendation concerning primary palliative care as integral to all neonates and their families in the intensive care setting. We review trends in neonatology and barriers to implementing palliative care in intensive care settings. Neonatal primary palliative care education should address the unique needs of neonates and their families. The neonatal intensive care unit needs a mixed model of palliative care, where the neonatal team provides primary palliative care and the palliative subspecialist consults for more complex or refractory situations that exceed the primary team׳s skills or available time.

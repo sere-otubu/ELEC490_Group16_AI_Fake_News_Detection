@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Metabolism basics
+TITLE: Triacylglycerol Metabolism in <i>Drosophila melanogaster</i>.
+PMID: 30523167
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30523167/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Triacylglycerol (TAG) is the most important caloric source with respect to energy homeostasis in animals. In addition to its evolutionarily conserved importance as an energy source, TAG turnover is crucial to the metabolism of structural and signaling lipids. These neutral lipids are also key players in development and disease. Here, we review the metabolism of TAG in the <i>Drosophila</i> model system. Recently, the fruit fly has attracted renewed attention in research due to the unique experimental approaches it affords in studying the tissue-autonomous and interorgan regulation of lipid metabolism <i>in vivo</i> Following an overview of the systemic control of fly body fat stores, we will cover lipid anabolic, enzymatic, and regulatory processes, which begin with the dietary lipid breakdown and <i>de novo</i> lipogenesis that results in lipid droplet storage. Next, we focus on lipolytic processes, which mobilize storage TAG to make it metabolically accessible as either an energy source or as a building block for biosynthesis of other lipid classes. Since the buildup and breakdown of fat involves various organs, we highlight avenues of lipid transport, which are at the heart of functional integration of organismic lipid metabolism. Finally, we draw attention to some "missing links" in basic neutral lipid metabolism and conclude with a perspective on how fly research can be exploited to study functional metabolic roles of diverse lipids.

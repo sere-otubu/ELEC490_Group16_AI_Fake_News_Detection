@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Social determinants of health
+TITLE: Social Determinants of Health: Addressing Unmet Needs in Nephrology.
+PMID: 29548780
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29548780/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There is ongoing recognition that a wide array of social, economic, and environmental factors influence individuals' opportunities to engage in health care and healthy behaviors. Despite spending $34 billion annually on the care of patients with end-stage renal disease, the American public and nephrology community remain remarkably complacent about addressing "upstream" factors that influence the prevention, progression, and treatment of chronic kidney diseases. Recently, a growing number of health plans and dialysis providers have begun to embrace population health management; accept greater accountability for health, health care, and health costs; and envision kidney health beyond their traditional roles in care delivery. This narrative offers a framework to evaluate social determinants of health and understand their link to chronic kidney diseases and provides recommendations for integrating social determinants into clinical care and delivery settings to assist vulnerable patients with broad social needs. Addressing unmet social needs with the same intention as treating hypertension, proteinuria, or anemia represents an important step toward making optimal health a palpable reality for all people who are at risk for or affected by chronic kidney diseases.

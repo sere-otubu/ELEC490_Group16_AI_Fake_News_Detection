@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cardiovascular system
+TITLE: Plastic particle impacts on the cardiovascular system and angiogenesis potential.
+PMID: 39126457
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39126457/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The extensive application of plastics in different sectors such as packaging, building, textiles, consumer products, and several industries has increased in recent years. Emerging data have confirmed that plastic wastes and segregates are problematic issues in aquatic and terrestrial ecosystems. The decomposition of plastic particles (PPs) leads to the release of microplastics (MPs) and nanoplastics (NPs) into the surrounding environment and entry of these particles will be problematic in unicellular and multicellular creatures. It was suggested that PPs can easily cross all biological barriers and reach different organs, especially the cardiovascular system, with the potential to modulate several molecular pathways. It is postulated that the direct interaction of PPs with cellular and subcellular components induces genotoxicity and cytotoxicity within the cardiovascular system. Meanwhile, being inert carriers, PPs can intensify the toxicity of other contaminants inside the cardiovascular system. Here, in this review article, several underlying mechanisms related to PP toxicity in the cardiovascular system were discussed in detail.

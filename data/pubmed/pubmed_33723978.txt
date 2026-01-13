@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sugar consumption
+TITLE: Impact of Sugar Tax on Sugar-sweetened Beverage Consumption among Saudi Schoolchildren.
+PMID: 33723978
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33723978/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In 2017, Saudi Arabia introduced a 120% tax on energy drinks and a 50% tax on soft drinks. The impact of this policy on the consumption of sugar-sweetened beverages (SSB) among schoolchildren is not known in this country. The present study evaluated the impact of the excise tax on SSB consumption in the tri-city metropolitan area of Dammam-Khobar-Dhahran, Eastern Province, Saudi Arabia. A repeated cross-sectional design was used to examine the difference between pre- and post-tax SSBs consumption among schoolchildren (12-14 years old) in Dammam-Khobar-Dhahran cities. A beverage-consumption frequency questionnaire was completed by 453 participants before the tax implementation and 334 participants after the tax implementation. The tax on soft drinks was increased by 50% and on energy drinks by 120%. Pre-tax data were collected in May 2017 and post-tax data in April 2018. The proportion of participants who consumed energy drinks was 46.1% (95% CI: 42-51) before tax implementation, decreasing to 38.4% (95% CI: 33-44) after tax implementation, a reduction of nearly 8%. 92.5% (95% CI: 90-95) of the participants consumed soft drinks before tax implementation and 94.6% (95% CI: 92-97) did so after tax implementation, an increase of about 2%. The study showed no statistically significant impact of tax implementation on the consumption of energy drinks and soft drinks in this sample of children.

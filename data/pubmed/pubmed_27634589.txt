@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Epilepsy
+TITLE: Epilepsy coexisting with depression.
+PMID: 27634589
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27634589/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Depression episodes in epilepsy is the most common commorbidity, affecting between 11% and 62% of patients with epilepsy. Although researchers have documented a strong association between epilepsy and psychiatric comorbidities, the nature of this relationship is poorly understood. The manifestation of depression in epilepsy is a complex issue having many interacting neurobiological and psychosocial determinants, including clinical features of epilepsy (seizure frequency, type, foci, or lateralization of foci) and neurochemical or iatrogenic mechanisms. Other risk factors are a family history of psychiatric illness, particularly depression, a lack of control over the seizures and iatrogenic causes (pharmacologic and surgical). In addition, treatment with antiepileptic drugs (AEDs) as well as social coping and adaptation skills have also been recognised as risk factors of depression associated with epilepsy. Epilepsy may foster the development of depression through being exposed to chronic stress. The uncertainty and unpredictability of seizures may instigate sadness, loneliness, despair, low self-esteem, and self-reproach in patients with epilepsy and lead to social isolation, stigmatization, or disability. Often, depression is viewed as a reaction to epilepsy's stigma and the associated poor quality of life. Moreover, patients with epilepsy display a 4-5 higher rate of depression and suicide compared with healthy population.

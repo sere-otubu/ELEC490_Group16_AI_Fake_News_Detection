@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ulcerative colitis
+TITLE: Resolution of ulcerative colitis.
+PMID: 31278430
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31278430/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ulcerative colitis designates an idiopathic chronic inflammatory bowel disease leading to bloody diarrhea and inflammatory alterations mostly restricted to the large intestine. Many studies continue to unravel important aspects of its etiopathogenesis, and recent pharmaceutical developments broaden the arsenal of therapeutic opportunity. In this review, we delve into the cellular and molecular determinants of successful resolution of ulcerative colitis, describing novel insights in each of the phases of mucosal healing starting from damaging insults to the mucosa, epithelial restitution, and its adaption to inflammation as well as lymphocyte-driven maintenance and resolution of chronic inflammation. Additionally, molecular switches from inflammation to resolution are explored, paving the way for future avenues to resolve ulcerative colitis.

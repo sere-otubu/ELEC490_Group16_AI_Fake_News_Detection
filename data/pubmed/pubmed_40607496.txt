@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ebola virus
+TITLE: The Ebola virus - going beyond the bleeding edge.
+PMID: 40607496
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40607496/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The Ebola virus (EBV) genus is responsible for severe viral haemorrhagic illness caused by a group of viruses belonging to the Filoviridae family. Five species have been identified as causative agents for Ebola virus disease (EVD). The EBV (Zaire) strain is the most predominant organism involved in recorded EVD outbreaks and has been reported as the most virulent. EVD was first identified in the Democratic Republic of Congo in 1976 and has occurred in sporadic outbreaks over the last few decades with the most recent episode in Uganda over the period September 2022-January 2023. EVD is zoonotic in nature with bats as reservoir host and humans become infected via a spillover event from contact with infected animals. EVD is transmitted through contact with infected bodily fluids. It is considered fatal with a high mortality and high infectivity rate. Treatment is generally supportive with the availability of intravenous fluids and medicines. Research into vaccine development is ongoing. EVD is a particular public health concern given the potential for global spread during an outbreak.

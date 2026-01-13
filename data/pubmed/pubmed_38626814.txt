@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Reproductive system
+TITLE: Radiation and male reproductive system: Damage and protection.
+PMID: 38626814
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38626814/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Male fertility has been declining in recent decades, and a growing body of research points to environmental and lifestyle factors as the cause. The widespread use of radiation technology may result in more people affected by male infertility, as it is well established that radiation can cause reproductive impairment in men. This article provides a review of radiation-induced damage to male reproduction, and the effects of damage mechanisms and pharmacotherapy. It is hoped that this review will contribute to the understanding of the effects of radiation on male reproduction, and provide information for research into drugs that can protect the reproductive health of males.

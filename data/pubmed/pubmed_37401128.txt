@@ -1,0 +1,8 @@
+SEARCH_TOPIC: mRNA vaccines
+TITLE: Emergence of mRNA vaccines in the management of cancer.
+PMID: 37401128
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37401128/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+mRNA vaccines have been developed as a promising cancer management. It is noted that specification of the antigen sequence of the target antigen is necessary for the design and manufacture of an mRNA vaccine. The steps involved in preparing the mRNA-based cancer vaccines are isolation of the mRNA cancer from the target protein using the nucleic acid RNA-based vaccine, sequence construction to prepare the DNA template, <i>in vitro</i> transcription for protein translation from DNA into mRNA strand, 5' cap addition and poly(A) tailing to stabilize and protect the mRNA from degradation and purification process to remove contaminants produced during preparation. Lipid nanoparticles, lipid/protamine/mRNA nanoparticles, and cell-penetrating peptides have been used to formulate mRNA vaccine and to ensure vaccine stability and delivery to the target site. Delivery of the vaccine to the target site will trigger adaptive and innate immune responses. Two predominant factors of the development of mRNA-based cancer vaccines are intrinsic influence and external influence. In addition, research relating to the dosage, route of administration, and cancer antigen types have been observed to positively impact the development of mRNA vaccine.

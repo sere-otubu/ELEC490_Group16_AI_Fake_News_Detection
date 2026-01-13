@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vaccine types
+TITLE: COVID-19: vaccination problems.
+PMID: 33928745
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33928745/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This minireview addresses problems of financing the vaccine development, regulatory questions, the ethics and efficacy of vaccine prioritization strategies and the coverage of variant viruses by current vaccines. Serious adverse effects observed with adenovirus vectored vaccines and mRNA vaccines in mass vaccination campaigns are reported. The ethical problems of continuing with placebo controlled vaccine trials and alternative clinical trial protocols are discussed as well as concrete vaccination issues such as the splitting of doses, the delaying of the second dose, the immunization with two different vaccine types and the need of vaccinating seropositive subjects. Strategies to increase vaccine acceptance in the population are shortly mentioned.

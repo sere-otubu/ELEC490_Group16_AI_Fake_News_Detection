@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Massage therapy
+TITLE: Massage Therapy for Pain and Function in Patients With Arthritis: A Systematic Review of Randomized Controlled Trials.
+PMID: 28177937
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28177937/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Massage therapy is gaining interest as a therapeutic approach to managing osteoarthritis and rheumatoid arthritis symptoms. To date, there have been no systematic reviews investigating the effects of massage therapy on these conditions. Systematic review was used. The primary aim of this review was to critically appraise and synthesize the current evidence regarding the effects of massage therapy as a stand-alone treatment on pain and functional outcomes among those with osteoarthritis or rheumatoid arthritis. Relevant randomized controlled trials were searched using the electronic databases Google Scholar, MEDLINE, and PEDro. The PEDro scale was used to assess risk of bias, and the quality of evidence was assessed with the GRADE approach. This review found seven randomized controlled trials representing 352 participants who satisfied the inclusion criteria. Risk of bias ranged from four to seven. Our results found low- to moderate-quality evidence that massage therapy is superior to nonactive therapies in reducing pain and improving certain functional outcomes. It is unclear whether massage therapy is more effective than other forms of treatment. There is a need for large, methodologically rigorous randomized controlled trials investigating the effectiveness of massage therapy as an intervention for individuals with arthritis.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: CPR guidelines
+TITLE: Encouraging Hands-Only CPR.
+PMID: 30290112
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30290112/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A study published in Circulation last year found that CPR knowledge and confidence to use hands-only CPR can be increased through large-scale community training.

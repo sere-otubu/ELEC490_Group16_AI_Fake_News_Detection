@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Stroke
+TITLE: Stroke in pregnancy.
+PMID: 17940923
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17940923/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although pregnancy-associated stroke is uncommon, the risk of stroke is greatly increased above the low baseline rate in young patients during late pregnancy and, even more so, during the puerperium. Stroke is a major contributor to the serious morbidity and mortality of pregnancy. The physiological hormonally mediated changes in circulation, vascular tissue structure, and coagulability, and the pathological state of pre-eclampsia-eclampsia contribute to this increased risk of stroke. Pregnancy-associated strokes are roughly evenly divided among hemorrhagic strokes, mainly from rupture of aneurysms and arteriovenous malformations (AVMs); ischemic strokes, mainly from late pregnancy and postpartum cerebral venous thrombosis; and strokes associated with pre-eclampsia-eclampsia, with a contribution from cardioembolism, especially in populations at risk from a high rate of underlying rheumatic valvular heart disease. Awareness of the types of stroke to expect during pregnancy will facilitate early diagnosis. This article discusses the pathogenesis of pregnancy-associated stroke, its epidemiology, and some diagnostic and therapeutic issues unique to pregnancy.

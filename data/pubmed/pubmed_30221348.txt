@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Medical misinformation
+TITLE: Fake News: Medicines Misinformation by the Media.
+PMID: 30221348
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30221348/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Mainstream broadcasting media is a potentially powerful avenue for disseminating wellness education. For example, it can be used for community-based risk management, including preparing for pandemic events. The media can have a considerable positive impact on the public by increasing their health knowledge, changing attitudes and intentions, and influencing health behavior. However, although the broadcasting media can usefully convey prosocial, healthy messages, there is also a risk of propagating incorrect and antisocial, poor public health information.

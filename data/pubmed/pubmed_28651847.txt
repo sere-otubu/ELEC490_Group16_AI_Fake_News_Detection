@@ -1,0 +1,8 @@
+SEARCH_TOPIC: NSAIDs side effects
+TITLE: The Cardiovascular Pharmacology of Nonsteroidal Anti-Inflammatory Drugs.
+PMID: 28651847
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28651847/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The principal molecular mechanisms underlying the cardiovascular (CV) and renal adverse effects of nonsteroidal anti-inflammatory drugs (NSAIDs), such as myocardial infarction and hypertension, are understood in more detail than most side effects of drugs. Less is known, however, about differences in the CV safety profile between chemically distinct NSAIDs and their relative predisposition to complications. In review article, we discuss how heterogeneity in the pharmacokinetics and pharmacodynamics of distinct NSAIDs may be expected to affect their CV risk profile. We consider evidence afforded by studies in model systems, mechanistic clinical trials, a meta-analysis of randomized controlled trials, and two recent large clinical trials, Standard Care vs. Celecoxib Outcome Trial (SCOT) and Prospective Randomized Evaluation of Celecoxib Integrated Safety versus Ibuprofen or Naproxen (PRECISION), designed specifically to compare the CV safety of the cyclooxygenase-2-selective NSAID, celecoxib, with traditional NSAIDs. We conclude that SCOT and PRECISION have apparently not compared equipotent doses and have other limitations that bias them toward underestimation of the relative risk of celecoxib.

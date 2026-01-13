@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hydration importance
+TITLE: Ion Hydration and Ion Pairing as Probed by THz Spectroscopy.
+PMID: 30022575
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30022575/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ion hydration is of pivotal importance for many fundamental processes. Various spectroscopic methods are used to study the retardation of the hydration bond dynamics in the vicinity of anions and cations. Here we introduce THz-FTIR spectroscopy as a powerful method to answer the open questions. We show through dissection of THz spectra that we can pinpoint characteristic absorption features that can be attributed to the rattling modes of strongly hydrating ions within their hydration cages as well as vibrationally induced charge fluctuations in the case of weakly hydrating ions. Further analysis yields information on anion-cation cooperativity, the size of the dynamic hydration shell, as well as the lifetimes of these collective ion-hydration water modes and their connecting thermal bath states. Our study provides evidence for a non-additive behavior, thus questioning the simplified Hofmeister model. THz spectroscopy enables ion pairing to be observed and quantified at a high salt concentration.

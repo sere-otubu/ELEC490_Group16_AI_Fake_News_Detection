@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Melanoma
+TITLE: Ocular melanoma.
+PMID: 12744609
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12744609/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article reviews the current pathogenesis, molecular changes, diagnosis, and treatment of ocular melanomas. Ocular melanomas can involve the eyelid, conjunctiva, intraocular structures, and the orbit. The most common eye melanoma involves the uveal tract and is responsible for approximately 13% of melanoma deaths. Uveal melanomas account for 10% of all melanomas.

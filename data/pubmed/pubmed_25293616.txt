@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Surgery preparation
+TITLE: What is wrong with the training of general surgery?
+PMID: 25293616
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25293616/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The practice of surgery has undergone tumultuous changes over the last 30 years. Disease management, trauma volume, operative techniques, supervision requirements, and allocation of work hours have all changed, resulting in a substantial impact on general surgical training. Changes need to occur in the structure, assessment, and mentorship of future residents to prepare them to enter the marketplace and practice safe medicine with confidence and authority.

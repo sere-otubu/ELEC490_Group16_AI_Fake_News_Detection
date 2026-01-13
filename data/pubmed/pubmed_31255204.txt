@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cushings syndrome
+TITLE: When to Intervene for Subclinical Cushing's Syndrome.
+PMID: 31255204
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31255204/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Without the overt clinical signs and symptoms associated with Cushing's syndrome, the diagnosis of subclinical Cushing's syndrome (SCS) is primarily based on biochemical evaluation. Despite being labeled as "subclinical," SCS is associated with significant morbidity that can be improved with adrenalectomy. Minimally invasive adrenalectomy is associated with low morbidity in the hands of experienced adrenal surgeons and is recommended as the treatment of choice for SCS patients with SCS-associated comorbidities.

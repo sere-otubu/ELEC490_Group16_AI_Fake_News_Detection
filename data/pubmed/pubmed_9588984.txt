@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Root canal
+TITLE: Root canal treatment of a mandibular first molar with three mesial root canals.
+PMID: 9588984
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9588984/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The dynamic concept of the root canal system, describing a variable morphology of multiple root canals inter-connected by anastomoses, has been established as the prevailing state in mandibular molars. This case report presents the treatment of a mandibular first molar with five root canals, of which three were located in the mesial root. A third middle root canal was found between the mesiobuccal and mesiolingual root canals. The morphological pattern of separate apical terminations of the three mesial root canals, as manifested in this case, is a very rare one and seldom encountered.

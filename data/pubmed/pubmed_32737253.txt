@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Food allergies
+TITLE: Food Allergies.
+PMID: 32737253
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32737253/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Food allergy is 1 of the 4 manifestations of the "atopic march," along with eczema, allergic rhinitis, and asthma. Depending on the pathophysiologic immune mechanisms behind a food allergy, it can be classified as immunoglobulin E-mediated, non-immunoglobulin E-mediated, or mixed. The prevalence of food allergies has risen worldwide during the past few decades, becoming a significant global health concern. Patients experiencing food allergies and their caregivers are heavily burdened personally, socially, emotionally, and financially. The health-care system is also considerably affected. Pediatricians, as primary health-care providers, are often challenged with these patients, becoming the first-line for the recognition and management of food allergies. The purpose of this review is to provide a comprehensive summary of food allergies, including the most up-to-date information, recent guidelines, and recommendations.

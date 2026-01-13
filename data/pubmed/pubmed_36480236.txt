@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Health insurance systems
+TITLE: The effect of health financing systems on health system outcomes: A cross-country panel analysis.
+PMID: 36480236
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36480236/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Several low- and middle-income countries are considering health financing system reforms to accelerate progress toward universal health coverage (UHC). However, empirical evidence of the effect of health financing systems on health system outcomes is scarce, partly because it is difficult to quantitatively capture the 'health financing system'. We assign country-year observations to one of three health financing systems (i.e., predominantly out-of-pocket, social health insurance (SHI) or government-financed), using clustering based on out-of-pocket, contributory SHI and non-contributory government expenditure, as a percentage of total health expenditures. We then estimate the effect of these different systems on health system outcomes, using fixed effects regressions. We find that transitions from OOP-dominant to government-financed systems improved most outcomes more than did transitions to SHI systems. Transitions to government financing increases life expectancy (+1.3 years, p < 0.05) and reduces under-5 mortality (-8.7%, p < 0.05) and catastrophic health expenditure incidence (-3.3 percentage points, p < 0.05). Results are robust to several sensitivity tests. It is more likely that increases in non-contributory government financing rather than SHI financing improve health system outcomes. Notable reasons include SHI's higher implementation costs and more limited coverage. These results may raise a warning for policymakers considering SHI reforms to reach UHC.

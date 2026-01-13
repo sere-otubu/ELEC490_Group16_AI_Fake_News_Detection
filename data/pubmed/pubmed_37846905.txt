@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Whey protein
+TITLE: Unlocking the potential of milk whey protein components in colorectal cancer prevention and therapy.
+PMID: 37846905
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37846905/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Extensive research from large prospective cohort studies and meta-analytical investigations over recent decades have consistently indicated that dairy foods have protective effects, reducing the risk of colorectal cancer. Most of the literature has explored the potential role of milk minerals and vitamins in managing colorectal cancer. Yet, there is a paucity of a comprehensive summary of the anticancer attributes of milk protein components and their underlying mechanisms of action. Recent advancements have spotlighted the potential of whey proteins, including β-lactoglobulin, α-lactalbumin, serum albumin, and lactoferrin, as promising candidates for both the prevention and treatment of colorectal cancer. Notably, whey proteins have demonstrated a more pronounced capacity for suppressing carcinogen-induced tumors when compared to casein. Their strong binding affinity enables them to serve as effective carriers for small molecules or drugs targeting colon cancer therapy. Furthermore, numerous studies have underscored the anti-inflammatory and antioxidant prowess of whey proteins in cancer prevention. Additionally, whey proteins have been shown to trigger apoptosis, hinder tumor cell proliferation, and impede metastasis. This comprehensive review, therefore, not only substantiates the significance of incorporating whey protein components into a balanced daily diet but also underscores their potential in safeguarding against the onset and progression of colorectal cancer.

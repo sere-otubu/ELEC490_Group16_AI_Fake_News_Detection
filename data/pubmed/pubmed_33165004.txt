@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lung cancer
+TITLE: Lung cancer in China: current and prospect.
+PMID: 33165004
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33165004/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To describe the current status of lung cancer in China, including incidence, prevention, molecular testing and treatment. Lung cancer presents a major public health issue and an enormous burden on society in China, because of its increasing incidence and high mortality. Several distinct gene profiles were associated with lung cancer in China: high EGFR mutation rate, low KRAS mutation rate and more comorbidity of HBV infection. Thus, local Chinese Society of Clinical Oncology Guidelines with more consideration of drug accessibility, regional development differences were highly recommended for clinical practice. For treatment, targeted therapy has achieved fruitful progress. Immunotherapy in China was a little bit lag behind previously and now there is a surge of immunotherapeutic drugs under investigation. For future, more preventive strategies and more trials considering chrematistics of Chinese lung cancer are needed. There are achievements and shortcomings for lung cancer prevention and treatment in China. More work considering distinct characteristic of lung caner in China are needed.

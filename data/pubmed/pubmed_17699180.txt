@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Heart failure
+TITLE: Clinical epidemiology of heart failure.
+PMID: 17699180
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17699180/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The aim of this paper is to review the clinical epidemiology of heart failure. The last paper comprehensively addressing the epidemiology of heart failure in Heart appeared in 2000. Despite an increase in manuscripts describing epidemiological aspects of heart failure since the 1990s, additional information is still needed, as indicated by various editorials.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sedentary lifestyle risks
+TITLE: Diet, Lifestyle, Smoking.
+PMID: 32274580
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32274580/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cardiovascular disease is the leading cause of death globally The past few decades have shown that especially low- and middle-income countries have undergone rapid industrialization, urbanization, economic development and market globalization. Although these developments led to many positive changes in health outcomes and increased life expectancies, they all also caused inappropriate dietary patterns, physical inactivity and obesity. Evidence shows that a large proportion of the cardiovascular disease burden can be explained by behavioural factors such as low physical activity, unhealthy diet and smoking. Controlling these risk factors from early ages is important for maintaining cardiovascular health. Even in patients with genetic susceptibility to cardiovascular disease, risk factor modification is beneficial.Despite the tremendous advances in the medical treatment of cardiovascular risk factors to reduce overall cardiovascular risk, the modern lifestyle which has led to greater sedentary time, lower participation in active transport and time spent in leisure or purposeful physical activity, unhealthy diets and increased exposure to stress, noise and pollution have diminished the beneficial effects of contemporary medical cardiovascular prevention strategies. Therefore attenuating or eliminating these health risk behaviours and risk factors is imperative in the prevention of cardiovascular diseases.

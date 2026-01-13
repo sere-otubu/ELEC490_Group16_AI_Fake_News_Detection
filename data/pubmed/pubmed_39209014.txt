@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Autoimmune diseases
+TITLE: Predicting autoimmune diseases: A comprehensive review of classic biomarkers and advances in artificial intelligence.
+PMID: 39209014
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39209014/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Autoimmune diseases comprise a spectrum of disorders characterized by the dysregulation of immune tolerance, resulting in tissue or organ damage and inflammation. Their prevalence has been on the rise, significantly impacting patients' quality of life and escalating healthcare costs. Consequently, the prediction of autoimmune diseases has recently garnered substantial interest among researchers. Despite their wide heterogeneity, many autoimmune diseases exhibit a consistent pattern of paraclinical findings that hold predictive value. From serum biomarkers to various machine learning approaches, the array of available methods has been continuously expanding. The emergence of artificial intelligence (AI) presents an exciting new range of possibilities, with notable advancements already underway. The ultimate objective should revolve around disease prevention across all levels. This review provides a comprehensive summary of the most recent data pertaining to the prediction of diverse autoimmune diseases and encompasses both traditional biomarkers and the latest innovations in AI.

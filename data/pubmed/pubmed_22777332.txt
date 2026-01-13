@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Strength training
+TITLE: Resistance training is medicine: effects of strength training on health.
+PMID: 22777332
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22777332/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Inactive adults experience a 3% to 8% loss of muscle mass per decade, accompanied by resting metabolic rate reduction and fat accumulation. Ten weeks of resistance training may increase lean weight by 1.4 kg, increase resting metabolic rate by 7%, and reduce fat weight by 1.8 kg. Benefits of resistance training include improved physical performance, movement control, walking speed, functional independence, cognitive abilities, and self-esteem. Resistance training may assist prevention and management of type 2 diabetes by decreasing visceral fat, reducing HbA1c, increasing the density of glucose transporter type 4, and improving insulin sensitivity. Resistance training may enhance cardiovascular health, by reducing resting blood pressure, decreasing low-density lipoprotein cholesterol and triglycerides, and increasing high-density lipoprotein cholesterol. Resistance training may promote bone development, with studies showing 1% to 3% increase in bone mineral density. Resistance training may be effective for reducing low back pain and easing discomfort associated with arthritis and fibromyalgia and has been shown to reverse specific aging factors in skeletal muscle.

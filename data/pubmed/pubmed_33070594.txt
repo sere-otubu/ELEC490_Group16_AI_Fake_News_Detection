@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hysterectomy
+TITLE: Hysterectomy in Norway 2008-18.
+PMID: 33070594
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33070594/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hysterectomy is a common gynaecological procedure. No Norwegian guidelines for the choice of hysterectomy surgical method exist, but international guidelines recommend minimally invasive surgery. The objective of this study was to investigate the kinds of surgical methods that were used for hysterectomies in the period 2008-18. Furthermore, we wished to identify the scope of robot-assisted hysterectomies and to find out whether salpingectomies are undertaken on a benign indication in Norway. The study is based on data from the Norwegian Patient Registry. Relevant variables for all gynaecological hysterectomies in Norway in the period 2008-18 were collected at the individual level. During the study period, 53 178 hysterectomies were registered in the Norwegian Patient Registry. The proportion of hysterectomies that were performed with minimally invasive techniques increased from 41 % to 73 % during the study period. Robot-assisted hysterectomies accounted for 15 % of the total in 2018. The number of concomitant salpingectomies also increased during the period, and were performed in more than half of all hysterectomies undertaken on a benign indication. Norwegian gynaecologists largely follow international guidelines and recommendations regarding minimally invasive hysterectomy and salpingectomy. Although the total proportion of minimally invasive hysterectomies is now relatively high, there are considerable variations between the different health trusts.

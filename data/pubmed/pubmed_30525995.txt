@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mindfulness meditation
+TITLE: Mindfulness Meditation and Psychopathology.
+PMID: 30525995
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30525995/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Mindfulness meditation is increasingly incorporated into mental health interventions, and theoretical concepts associated with it have influenced basic research on psychopathology. Here, we review the current understanding of mindfulness meditation through the lens of clinical neuroscience, outlining the core capacities targeted by mindfulness meditation and mapping them onto cognitive and affective constructs of the Research Domain Criteria matrix proposed by the National Institute of Mental Health. We review efficacious applications of mindfulness meditation to specific domains of psychopathology including depression, anxiety, chronic pain, and substance abuse, as well as emerging efforts related to attention disorders, traumatic stress, dysregulated eating, and serious mental illness. Priorities for future research include pinpointing mechanisms, refining methodology, and improving implementation. Mindfulness meditation is a promising basis for interventions, with particular potential relevance to psychiatric comorbidity. The successes and challenges of mindfulness meditation research are instructive for broader interactions between contemplative traditions and clinical psychological science.

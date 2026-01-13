@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insulin therapy
+TITLE: Type 1 diabetes mellitus: much progress, many opportunities.
+PMID: 33759815
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33759815/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+As part of the centennial celebration of insulin's discovery, this review summarizes the current understanding of the genetics, pathogenesis, treatment, and outcomes in type 1 diabetes (T1D). T1D results from an autoimmune response that leads to destruction of the β cells in the pancreatic islet and requires lifelong insulin therapy. While much has been learned about T1D, it is now clear that there is considerable heterogeneity in T1D with regard to genetics, pathology, response to immune-based therapies, clinical course, and susceptibility to diabetes-related complications. This Review highlights knowledge gaps and opportunities to improve the understanding of T1D pathogenesis and outlines emerging therapies to treat or prevent T1D and reduce the burden of T1D.

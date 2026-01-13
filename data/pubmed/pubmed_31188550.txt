@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Skin cancer prevention
+TITLE: Skin Cancer: Prevention.
+PMID: 31188550
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31188550/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Primary care physicians play an important role in skin cancer prevention. Counseling on modifiable risk factors and sun-avoidance strategies, particularly for patients with a personal or family history of skin cancer, should be part of preventive medicine. Patients should be educated about selection and application of sunscreen. The American Academy of Dermatology recommends use of water-resistant, broad-spectrum sunscreens with a sun protection factor of 30 or higher. Patients also should be educated about the evidence against use of tanning beds and the potential roles of diet and dietary supplementation in skin cancer prevention. The U.S. Preventive Services Task Force (USPSTF) concluded that the current evidence is insufficient to recommend counseling adults about skin self-examination to prevent skin cancer. However, screening by a physician may be warranted in high-risk patients. The USPSTF recommends that clinicians counsel young adults, adolescents, children, and parents of young children about minimizing exposure to UV radiation for individuals ages 6 months to 24 years with fair skin types to reduce the risk of skin cancer. It also recommends selectively offering counseling to adults older than 24 years with fair skin types. In determining whether counseling is appropriate, the presence of risk factors for skin cancer should be considered.

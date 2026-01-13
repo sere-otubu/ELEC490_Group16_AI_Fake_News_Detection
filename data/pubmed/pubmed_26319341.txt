@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Conjunctivitis
+TITLE: Conjunctivitis.
+PMID: 26319341
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26319341/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Conjunctivitis is the most common cause of red eye in primary care. The 3 most common types of conjunctivitis are viral, allergic, and bacterial, and they can present in either acute or chronic forms; the age of the patient, time of year and physical examination findings are paramount to distinguish the different types of conjunctivitis. Distinguishing between acute viral and bacterial conjunctivitis remains difficult. Patients with prolonged symptoms, poor response to initial management, or evidence of severe disease should be referred to ophthalmology for consultation.

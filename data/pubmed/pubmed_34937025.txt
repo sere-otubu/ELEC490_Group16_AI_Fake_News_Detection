@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Type 1 Diabetes
+TITLE: Impact of Type 1 Diabetes Mellitus on Bone Health in Children.
+PMID: 34937025
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34937025/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This paper gives an overview of the impact of type 1 diabetes on bone health in children and adolescents. Firstly, we analyse studies using dual X-ray absorptiometry to assess bone mineral content and bone mineral density. Then, we discuss modern, non-invasive techniques including peripheral quantitative computer tomography (pQCT) and high-resolution pQCT for the detailed assessment of bone health aspects including bone mass, bone geometry, bone microarchitecture, and bone strength. Thereafter, we explore some of the mechanisms that are responsible for diabetic bone disease in children, like low bone turnover and high sclerostin levels. Finally, we summarize some of the evidence for the importance of microvascular disease in the pathophysiology of diabetic bone disease.

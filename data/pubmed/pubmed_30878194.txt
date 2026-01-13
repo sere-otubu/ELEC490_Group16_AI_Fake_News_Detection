@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cervical cancer
+TITLE: Cervical Cancer: An Overview of Pathophysiology and Management.
+PMID: 30878194
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30878194/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To provide an overview of the etiology, prevention, diagnosis, treatment, and long-term survivorship concerns surrounding cervical cancer. A review of articles dated 2006-2018 from PubMed. The landscape for cervical cancer is changing dramatically because of vaccine-driven prevention. Despite these advances, there are both newly diagnosed individuals as well as survivors of cervical cancer who require continued evidence-based care. Nurses are integral in diverse settings to promote prevention through timely vaccination, as well as to educate patients about the signs, symptoms, and management of cervical cancer when it occurs.

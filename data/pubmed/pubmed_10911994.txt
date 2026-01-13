@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Plant based protein
+TITLE: FLS2: an LRR receptor-like kinase involved in the perception of the bacterial elicitor flagellin in Arabidopsis.
+PMID: 10911994
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10911994/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Flagellin, the main protein of the bacterial flagella, elicits defence responses and alters growth in Arabidopsis seedlings. Previously, we identified the FLS1 locus, which confers flagellin insensitivity in Ws-0. To identify additional components involved in flagellin perception, we screened for flagellin insensitivity mutants in the flagellin-sensitive accession La-er. Here, we describe the identification of a new locus, FLS2, by a map-based strategy. The FLS2 gene is ubiquitously expressed and encodes a putative receptor kinase. FLS2 shares structural and functional homologies with known plant resistance genes and with components involved in the innate immune system of mammals and insects.

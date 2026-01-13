@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antacids
+TITLE: Empiric antacids and reassurance for acute dyspepsia.
+PMID: 3772578
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3772578/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The evaluation of ambulatory patients with dyspepsia frequently includes upper gastrointestinal radiographs (UGIs), a practice of unproven value in low-risk patients. To assess an alternative management strategy without UGIs, 28 patients with upper abdominal pain seen in an adult medical walk-in practice were treated with high-dose antacid therapy for three weeks. The clinical course on antacid therapy was good; 68% of patients reported substantial improvement. Initial requests for UGIs were high among both patients and physicians. Following empiric antacid therapy, requests for UGIs fell from 68% to 32% for patients (p = 0.05) and from 71% to 21% for physicians (p = 0.001). No serious complications were detected after 18 months of follow up. Direct medical charges were reduced by 37%. Empiric antacid therapy for patients at low risk for serious disease relieves dyspepsia and reduces both patient and physician requests for UGIs.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vaccination schedules
+TITLE: Keeping Vaccination Simple: Building French Immunization Schedules, 1959-1999.
+PMID: 33416725
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33416725/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article explores the history of the immunization schedule-a table that orders mandatory and recommended vaccines and their boosters through time. My study focuses on France, from the late 1950s to the 1990s. A couple of conferences at the turn of the 1960s set the parameters for immunization schedules, providing insights into their expected disciplinary functions. In the wake of these conferences, a long series of clinical trials aimed to simplify and rationalize the schedules. These trials were carried out by the International Children's Center (ICC), an institution whose aim transitioned in the mid-1960s from the standardization of the sole vaccine against tuberculosis to the simplification of the expanding immunization device for children. I draw from the ICC's experimental work on schedules to define "simplification" with regard to the notion of standardization.

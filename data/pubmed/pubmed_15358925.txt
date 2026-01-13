@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Substance abuse
+TITLE: Substance abuse in HIV-positive women.
+PMID: 15358925
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15358925/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Early in the U.S. HIV/AIDS pandemic, the role of substance abuse in the spread of AIDS was clearly established. However, the relationship of HIV and substance abuse is more complex than simply noting that injection drug use is a mode of transmission for the virus. HIV infection and substance abuse disorders interact in a complex fashion, with each acting as a potential catalyst or obstacle in the treatment of the other. In this article, we report the results of a qualitative metasynthesis of studies containing information on substance abuse among HIV-positive women, using 74 published and unpublished reports. The data on 1,548 women, who were primarily mothers from minority groups, allowed us to construct a trajectory that describes the events of their lives with regard to substance abuse and its intersection with HIV infection.

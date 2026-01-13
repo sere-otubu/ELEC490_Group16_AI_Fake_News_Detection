@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lymphatic system
+TITLE: The physiology of the lymphatic system.
+PMID: 11489331
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11489331/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This paper presents an overview of the anatomy, physiology, and biology of the lymphatic system specifically relevant to lymphatic drug delivery. We will briefly review the classic fluid and solute transport literature, and also examine the current research in lymphatic endothelial cell biology and tumor metastasis in the lymphatics because of the increasing potential for targeted delivery of immunomodulators, chemotherapeutics, and genetic material to specific lymph nodes (Refs. [1-7]).

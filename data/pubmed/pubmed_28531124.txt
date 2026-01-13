@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Water quality and health
+TITLE: The Occurrence and Diversity of Waterborne Fungi in African Aquatic Systems: Their Impact on Water Quality and Human Health.
+PMID: 28531124
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28531124/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Currently, there is a worldwide growing interest in the occurrence and diversity of fungi and their secondary metabolites in aquatic systems, especially concerning their role in water quality and human health. However, this concern is hampered by the scant information that is available in the literature about aquatic fungi and how they affect water quality. There are only few published reports that link certain species of aquatic fungi to human health. The common aquatic fungal species that have been reported so far in African aquatic systems belong to the hyphomycetes kingdom. This paper thus aims to survey the information about the occurrence and factors that control the distribution of different species of fungi in African aquatic systems, as well as their effect on water quality and the possible metabolic pathways that lead to the formation of toxic secondary metabolites that are responsible for the deterioration of water quality. This review will also investigate the analytical and bioanalytical procedures that have been reported for the identification of different species of waterborne fungi and their secondary metabolites.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hashimotos thyroiditis
+TITLE: Hashimoto's Thyroiditis and Graves' Disease in Genetic Syndromes in Pediatric Age.
+PMID: 33557156
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33557156/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Autoimmune thyroid diseases (AITDs), including Hashimoto's thyroiditis (HT) and Graves' disease (GD), are the most common cause of acquired thyroid disorder during childhood and adolescence. Our purpose was to assess the main features of AITDs when they occur in association with genetic syndromes. We conducted a systematic review of the literature, covering the last 20 years, through MEDLINE via PubMed and EMBASE databases, in order to identify studies focused on the relation between AITDs and genetic syndromes in children and adolescents. From the 1654 references initially identified, 90 articles were selected for our final evaluation. Turner syndrome, Down syndrome, Klinefelter syndrome, neurofibromatosis type 1, Noonan syndrome, 22q11.2 deletion syndrome, Prader-Willi syndrome, Williams syndrome and 18q deletion syndrome were evaluated. Our analysis confirmed that AITDs show peculiar phenotypic patterns when they occur in association with some genetic disorders, especially chromosomopathies. To improve clinical practice and healthcare in children and adolescents with genetic syndromes, an accurate screening and monitoring of thyroid function and autoimmunity should be performed. Furthermore, maintaining adequate thyroid hormone levels is important to avoid aggravating growth and cognitive deficits that are not infrequently present in the syndromes analyzed.

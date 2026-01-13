@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Biopsy
+TITLE: [Endomyocardial biopsy].
+PMID: 1561769
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1561769/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The authors present ten years' experience with endomyocardiac biopsy of the heart (EMB) using the percutaneous, endovasal catheterization needle technique. EMB was performed in 314 patients, a total of 1362 biopsies, and for evaluation 5564 specimens of cardiac tissue were taken. Based on this experience the authors emphasize methodical principles which make expedient, rapid and safe collection of cardiac tissue specimens possible. They also mention the main indication criteria for endomyocardial biopsy. Endomyocardial biopsy is a valuable clinical examination method which, no doubt, holds its place in the series of diagnostic methods of modern cardiological catheterization departments.

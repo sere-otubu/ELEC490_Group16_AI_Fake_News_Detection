@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Plantar fasciitis
+TITLE: Plantar Fasciitis/Fasciosis.
+PMID: 33745651
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33745651/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Many randomized controlled trials demonstrate the effectiveness of conservative treatment of plantar fasciitis. Patients with acute plantar fasciitis generally respond to treatment more rapidly and more predictably than patients with chronic plantar fasciitis. If conservative treatment fails, endoscopic plantar fasciotomy offers patients a more prompt return to activity compared with open procedures.

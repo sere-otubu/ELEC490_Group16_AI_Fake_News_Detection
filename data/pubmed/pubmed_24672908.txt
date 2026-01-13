@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hepatitis B
+TITLE: Hepatitis B: prevalence and pathophysiology.
+PMID: 24672908
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24672908/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Chronic hepatitis B is a growing worldwide public health issue. Its prevalence and the mode of transmission of the virus varies greatly between parts of the world. Prevalence is rising in the UK due to an increase in migration from areas with a high prevalence of chronic hepatitis B. This article, the first of a two-part series, discusses the prevalence and pathophysiology of chronic hepatitis B, as well as recommendations for screening high-risk groups and immunisation against the disease. Part two discusses the management of the virus.

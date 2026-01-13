@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hepatitis C
+TITLE: Hepatitis C.
+PMID: 10987114
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10987114/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In the latter half of the 20th century, HCV emerged as the most common cause of chronic liver disease, and will likely remain so. Since its initial discovery in 1989, rapid progress has been made in our understanding of the virology, epidemiology, natural history, diagnosis, and treatment of HCV. Over the next few decades, as further advancements are made, superior treatment options will become available.

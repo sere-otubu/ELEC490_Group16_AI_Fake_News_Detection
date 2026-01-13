@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Insulin regulation
+TITLE: New insights into the metabolic regulation of insulin action and insulin resistance: role of glucose and amino acids.
+PMID: 1743436
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1743436/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In primary cultured adipocytes, metabolic substrates such as glucose and amino acids have profound effects on modulating insulin's stimulatory actions on glucose uptake and protein synthesis. Insights into how substrates modulate insulin action were recently obtained when we discovered that the routing of incoming glucose through the hexosamine biosynthesis pathway leads to a refractory state over a period of several hours in which the ability of insulin to stimulate glucose uptake is severely impaired--a state known as insulin resistance. Glutamine:fructose-6-phosphate amidotransferase was found to play a central role in the development of insulin resistance as this enzyme catalyzes the first and rate-limiting step in the formation of hexosamine products. Collectively, these results are consistent with the idea that the hexosamine biosynthesis pathway serves as a glucose sensor coupled to a negative feedback system that can limit the extent of glucose uptake in response to hyperglycemic and hyperinsulinemic conditions.

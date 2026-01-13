@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hemophilia
+TITLE: Genetic diagnosis in hemophilia and von Willebrand disease.
+PMID: 27596108
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27596108/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Phenotypic assays are first-line in terms of diagnostic testing for inherited bleeding disorders. However, since the characterization of the genes that encode coagulation factors in the 1980s, significant progress has been made in translating this knowledge for diagnostic and therapeutic purposes. For the hemophilias, molecular genetic testing can be used to determine carrier status, establish a prenatal diagnosis and predict the likelihood of inhibitor development or anaphylaxis in response to infused coagulation factor concentrates. In contrast, for von Willebrand disease (VWD), significant recent advances in our understanding of the molecular genetic basis of the disease have allowed for the development of rational approaches to genetic diagnostics. Questions remain however, about this complex genetic disorder and how to incorporate emerging knowledge into diagnostic strategies.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Life expectancy trends
+TITLE: [Regional differences and trends in healthy life expectancy in Germany].
+PMID: 38607435
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38607435/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Against the background of increasing life expectancy, the question arises in which state of health the additional years of life are spent. The aim of this study is to assess for the first time regional differences in healthy life expectancy for Germany. The concept of healthy life expectancy allows for the combination of regional differences in health status and mortality in a single measure. This article uses the concept of partial healthy life expectancy. We use official data on deaths and population numbers to calculate abridged life tables. Data from the Socio-Economic Panel (SOEP) are used to determine the age- and sex-specific prevalences of health status. Regional differences are analyzed from 2002 to 2019 by dividing Germany into four regions (North, South, East, West). The regional differences in healthy life expectancy in Germany are greater than differences in life expectancy, and trends in healthy life expectancy partly differ from the corresponding trends in mortality. These differences over time also vary according to age: while healthy life expectancy has tended to stagnate and, in some cases, decline among the population aged between 20 and 64, the number and proportion of years in good health has increased among older adults up to the age of 79. There are striking regional differences and trends in the distribution of expected years in good health in Germany. The timely identification of regionally divergent developments could facilitate the implementation of targeted health-promoting measures.

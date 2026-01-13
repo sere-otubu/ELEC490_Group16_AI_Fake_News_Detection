@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Food allergies
+TITLE: Food Allergies: An Example of Translational Research.
+PMID: 33863476
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33863476/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Food allergies have been rising in prevalence since the 1990s, imposing substantial physical, psychosocial, and economic burdens on affected patients and their families. Until recently, the only therapy for food allergy was strict avoidance of the allergenic food. Recent advances in translational studies, however, have led to insights into allergic sensitization and tolerance. This article provides an overview of cutting-edge research into food allergy and immune tolerance mechanisms utilizing mouse models, human studies, and systems biology approaches. This research is being translated and implemented in the clinical setting to improve diagnosis and reduce food allergy's public health burden.

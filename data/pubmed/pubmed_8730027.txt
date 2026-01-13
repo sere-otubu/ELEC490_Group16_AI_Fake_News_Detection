@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Bronchitis
+TITLE: Plastic bronchitis.
+PMID: 8730027
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8730027/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Plastic bronchitis is generally associated with some type of pulmonary disease and improves either spontaneously or with medical therapy. We present a case of plastic bronchitis with no known cause. The patients' symptoms were not responsive to medical therapy but were relieved after right middle lobectomy.

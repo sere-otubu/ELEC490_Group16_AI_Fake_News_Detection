@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Prostate cancer
+TITLE: Focal therapy for prostate cancer: recent advances and future directions.
+PMID: 32558805
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32558805/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Prostate cancer is the most frequently diagnosed cancer in men after skin cancer. Owing to the rising popularity of prostate-specific antigen screening, large numbers of patients are receiving a diagnosis of prostate cancer and undergoing whole-gland treatment. Some patients with a diagnosis of low-risk, localized disease may not benefit from whole-gland treatment, however, given its known morbidity. In response to advances in prostate imaging and evidence suggesting that the prognosis in prostate cancer is related to the index lesion, many patients have begun to opt for focal therapy, which targets a lesion rather than the entire prostate. This "middle ground" of therapy, between active surveillance and whole-gland treatment, is appealing to patients because the risk for side effects is believed to be lower with focal therapy than with whole-gland treatment. This review discusses the oncologic rationale for focal therapy in localized prostate cancer, examines the major therapy modalities, and addresses future directions.

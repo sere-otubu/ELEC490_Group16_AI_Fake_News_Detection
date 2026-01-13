@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Syphilis
+TITLE: Syphilis in Children.
+PMID: 29406973
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29406973/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Syphilis, caused by Treponema pallidum, is transmitted both sexually and transplacentally. Untreated syphilis is a progressive disease that may result in death or disability in children and adults. Syphilis diagnosis requires 2-stage serologic testing for nontreponemal and treponemal antibodies. Congenital syphilis diagnosis requires careful review of maternal testing and treatment, comparison of maternal and neonatal nontreponemal antibody titers, and clinical evaluation of the neonate. In this review, we present the current epidemiology of syphilis, and the clinical manifestations, diagnosis, and management of syphilis as they relate to pediatric practice, specifically, congenital syphilis and acquired syphilis in adolescents and pregnant women.

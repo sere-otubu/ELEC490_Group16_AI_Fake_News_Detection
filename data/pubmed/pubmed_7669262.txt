@@ -1,0 +1,8 @@
+SEARCH_TOPIC: ACE inhibitors
+TITLE: ACE inhibitors. Drug interactions of clinical significance.
+PMID: 7669262
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7669262/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+ACE inhibitors are used widely in the treatment of hypertension and congestive heart failure, but there is only limited information on adverse interactions between ACE inhibitors and other cardiovascular or noncardiovascular drugs. The present article provides an overview of this issue, with emphasis on those interactions having the greatest clinical implications. In patients who have been sodium and/or volume depleted by thiazide or loop diuretics, the additional use of ACE inhibitors can lead to an excessive reduction in blood pressure and symptomatic hypotension. An increase in serum potassium levels may occur after coadministration of potassium-sparing diuretics and ACE inhibitors, resulting in hyperkalaemia especially in patients with renal insufficiency. The incidence of acute renal failure may be associated with ACE inhibitor therapy when these drugs are combined with nonsteroidal anti-inflammatory agents and given to patients whose renal function becomes increasingly dependent on angiotensin II and prostaglandins. There is some evidence, albeit scant, linking ACE inhibitors with the induction of lithium toxicity in patients maintained on lithium, and with the occurrence of severe hypersensitivity reactions in patients undergoing haemodialysis, venom immunisation or concomitant allopurinol therapy.

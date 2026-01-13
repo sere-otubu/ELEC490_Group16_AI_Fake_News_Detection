@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HIV AIDS
+TITLE: Ibalizumab.
+PMID: 29746266
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29746266/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Antiretroviral options for patients infected with multiclass resistant HIV-1 warrant the development of new agents with unique mechanisms of action and modes of delivery. Here we review one such agent, ibalizumab, a parenteral CD4 postattachment inhibitor that has demonstrated efficacy as part of combination antiretroviral therapy in the treatment of HIV-1. In a phase III clinical trial in HIV-infected participants with multiclass antiretroviral drug resistance, the intravenous administration of ibalizumab led to declines in plasma HIV-1 RNA more than 0.5 log in 83% of participants at 1 week. An optimized background antiretroviral regimen was then added, and plasma HIV-1 RNA became less than 50 copies/ml in 43% of participants at 24 weeks. Adverse effects of ibalizumab were uncommon and generally low grade. Ibalizumab was approved by the US Food and Drug Administration on March 16, 2018, under the trade name Trogarzo. Ibalizumab has demonstrated both safety and efficacy in the treatment of HIV-1 infection. Its primary use will be in the setting of multidrug resistant virus as part of combination antiretroviral therapy. Further enhancements of ibalizumab to prolong its clearance and broaden its activity are in development.

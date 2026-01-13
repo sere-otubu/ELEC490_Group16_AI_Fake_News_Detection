@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Superfoods
+TITLE: Spirulina Microalgae and Brain Health: A Scoping Review of Experimental and Clinical Evidence.
+PMID: 34067317
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34067317/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Spirulina microalgae contain a plethora of nutrient and non-nutrient molecules providing brain health benefits. Numerous in vivo evidence has provided support for the brain health potential of spirulina, highlighting antioxidant, anti-inflammatory, and neuroprotective mechanisms. Preliminary clinical studies have also suggested that spirulina can help to reduce mental fatigue, protect the vascular wall of brain vessels from endothelial damage and regulate internal pressure, thus contributing to the prevention and/or mitigating of cerebrovascular conditions. Furthermore, the use of spirulina in malnourished children appears to ameliorate motor, language, and cognitive skills, suggesting a reinforcing role in developmental mechanisms. Evidence of the central effect of spirulina on appetite regulation has also been shown. This review aims to understand the applicative potential of spirulina microalgae in the prevention and mitigation of brain disorders, highlighting the nutritional value of this "superfood", and providing the current knowledge on relevant molecular mechanisms in the brain associated with its dietary introduction.

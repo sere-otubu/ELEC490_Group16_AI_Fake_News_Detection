@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vertigo
+TITLE: Vertigo: Streamlining the Evaluation through Symptom Localization.
+PMID: 34391542
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34391542/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Vertigo is defined as the illusion of internal or external motion. The evaluation of a patient with vertigo in the primary care setting should not necessarily focus on providing a specific diagnosis. Rather, the physician should aim to localize the lesion. This practice streamlines the workup of patients. This article provides detailed information regarding appropriate organ system-based clinical history and the clinical workup of vertigo. Additional signs and symptoms that can facilitate appropriate referral and treatment are highlighted. Although disorder-specific treatments exist the mainstay of therapy for vertigo-induced pathology is physical therapy.

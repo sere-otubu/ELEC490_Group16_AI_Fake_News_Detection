@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Posture correction
+TITLE: Effects of a posture shirt with back active correction keeper on static and dynamic balance in Parkinson's disease.
+PMID: 34776132
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34776132/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Patients with Parkinson's disease (PD) suffer from postural disorders. This study aims at investigating the short- and medium-term effects of a shirt with appropriate tie-rods that allows to correct the posture of the trunk. This is a longitudinal clinical study in which a pressure platform was used to assess the static and dynamic baropodometry and the static stabilometry of 20 patients with PD (70.95 ± 8.39 years old; 13 males, time from the onset of symptoms: 6.95 ± 4.04 years, Unified Parkinson's Disease Rating Scale score: UPDRS = 7.25 ± 6.26) without and with a shirt, specifically designed for improving posture, at baseline and after one month of wearing. The results showed a significant improvement in symmetry of loads (p = 0.015) and an enlargement of the foot contact surface (p = 0.038). A significant correlation was found between the change in forefoot load and time spent daily in wearing the shirt (R = 0.575, p = 0.008), with an optimal value identified at 8 h per day. The use of a postural shirt in patients with PD symmetrized the postural load and enlarged the foot contact surface improving their balance.

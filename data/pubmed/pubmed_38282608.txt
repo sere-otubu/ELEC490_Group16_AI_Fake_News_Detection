@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pregnancy nutrition
+TITLE: Nutrition during pregnancy: Influence on the gut microbiome and fetal development.
+PMID: 38282608
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38282608/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Pregnancy is a finely tuned process, with the health and well-being of the developing fetus determined by the metabolic status and dietary intake of the mother. The maternal gut microbiome is remodeled during pregnancy, and this, coupled with the maternal nutrient intake during gestation shapes the production of metabolites that can cross the placenta and affect fetal development. As posited by the Developmental Origins of Health and Disease Hypothesis, such environmental influences can have major effects on the developing organ systems. When occurring at particularly sensitive gestational time points, these developmental programming events can have long lasting effects on offspring adaptation to the postnatal environment, and major health implications later in life. This review will summarize current knowledge on how pregnancy and maternal dietary intake intrinsically and extrinsically modify maternal gut microbiota composition and metabolite production. Further, we will assess how these factors shape the fetal landscape and ultimately contribute to offspring health. DOHaD, fetal development, metabolites, microbiome, nutrition, pregnancy, short-chain fatty acids.

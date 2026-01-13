@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Food poisoning
+TITLE: [Scombroid food poisoning among hospital personnel].
+PMID: 32613785
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32613785/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Scombroid food poisoning is caused by eating fish with a high concentration of histamine. Histamine is converted from histidine in fish of the Scombroidea family if it is not stored at a sufficiently low temperature. The clinical picture resembles an allergic reaction. Twenty-one of our hospital personnel went to the ER, mostly reporting flushing, headache, palpitations and gastro-intestinal symptoms. They had all eaten tuna salad in the staff canteen. The symptoms appeared to be caused by scombroid food poisoning. As a result of early recognition of the clinical picture and prompt crisis management we were able to prevent the outbreak spreading further.

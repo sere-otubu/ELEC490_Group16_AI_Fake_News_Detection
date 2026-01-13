@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Influenza
+TITLE: Pandemic influenza's 500th anniversary.
+PMID: 21067353
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21067353/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+It is impossible to know with certainty the first time that an influenza virus infected humans or when the first influenza pandemic occurred. However, many historians agree that the year 1510 a.d.-500 years ago-marks the first recognition of pandemic influenza. On this significant anniversary it is timely to ask: what were the circumstances surrounding the emergence of the 1510 pandemic, and what have we learned about this important disease over the subsequent five centuries? We conclude that in recent decades significant progress has been made in diagnosis, prevention, control, and treatment of influenza. It seems likely that, in the foreseeable future, we may be able to greatly reduce the burden of influenza pandemics with improved vaccines and other scientific and public health approaches.

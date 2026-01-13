@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Genetic disorders
+TITLE: Genetic Disorders in Pediatric Rheumatology Clinic: When to Suspect, and Why?
+PMID: 37736825
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37736825/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Just under a decade ago, most children with genetic disorders received a phenotypic diagnosis, often by atlas matching. With advances in genomics (decoding of human genome, easy availability of genetic testing, and reduction in cost of tests), genotypic diagnosis is now a reality. Genetic diseases can lead to non-inflammatory arthritis that can mimic juvenile idiopathic arthritis (JIA). A small but growing number (as newer genes are discovered) of genetic diseases are being diagnosed in children with a seemingly inflammatory musculoskeletal diseases or connective tissue diseases. A high index of suspicion by the pediatrician is most important for early diagnosis of these genetic disorders. In a busy outpatient clinic, it is the atypical presentation of a disease in a child that suggests a possibility of underlying genetic autoinflammatory or autoimmune disease. Correct diagnosis helps the physician, child, parent, and community.

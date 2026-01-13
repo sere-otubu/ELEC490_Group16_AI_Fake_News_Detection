@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cochlear implants
+TITLE: Neural Interface: Frontiers and Applications : Cochlear Implants.
+PMID: 31729676
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31729676/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The theory and implementation of modern cochlear implant are presented in this chapter. Major signal processing strategies of cochlear implants are discussed in detail. Hardware implementation including wireless signal transmission circuit, integrated circuit design of implant circuit, and neural response measurement circuit are provided in the latter part of the chapter. Finally, new technologies that are likely to improve the performance of current cochlear implants are introduced.

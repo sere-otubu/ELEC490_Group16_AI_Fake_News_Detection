@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Anesthesia types
+TITLE: [Anesthesia in ophthalmology].
+PMID: 2615280
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2615280/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ophthalmology is a medical specialty in which diagnostical as well as therapeutical proceedings are not possible without exploiting the advantages of anaesthesiology. We are most frequently using the local anaesthesia--surface or infiltrative. In the last years there appeared reports on the application of acupuncture in ophthalmic surgery. Ophthalmological operations are also performed in general anaesthesia. Advantages and disadvantages of particular types of anaesthesia are discussed.

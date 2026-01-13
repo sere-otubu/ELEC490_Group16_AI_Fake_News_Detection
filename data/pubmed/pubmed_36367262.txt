@@ -1,0 +1,8 @@
+SEARCH_TOPIC: LASIK surgery
+TITLE: Topical Losartan for Treating Corneal Fibrosis (Haze): First Clinical Experience.
+PMID: 36367262
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36367262/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To report the first clinical experience with topical losartan for treating a case of severe corneal haze after complicated laser in situ keratomileusis (LASIK). A 36-year-old woman presented with corneal haze in the left eye after femtosecond laser-assisted LASIK. The left eye had flap dislocation and significant striae, which had been re-lifted. Uncorrected distance visual acuity (UDVA) was 20/200 and corrected distance visual acuity was 20/30 in the left eye at the first presentation, 52 days after the first procedure. A dense layer of subepithelial opacity (haze) was noted in the left cornea. The patient elected to start the off-label treatment with topical losartan 0.8 mg/mL six times per day. Four and one-half months after initiating topical losartan, UDVA improved to 20/30 and CDVA improved to 20/25 in the left eye. A significant reduction of corneal haze was observed at the slit lamp and using Scheimpflug corneal tomography (Pentacam AXL; Oculus Optikgeräte GmbH) and anterior segment optical coherence tomography (Revo NX 130; Optopol). Losartan is an inhibitor of transforming growth factor-β signaling. Topical treatment is promising to treat corneal haze formation after corneal injuries, chemical burns, and surgeries. Further clinical studies are needed to optimize losartan dosages and treatment durations. <b>[<i>J Refract Surg</i>. 2022;38(11):741-746.]</b>.

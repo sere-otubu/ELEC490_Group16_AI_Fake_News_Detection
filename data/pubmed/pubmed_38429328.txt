@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Public health policy
+TITLE: Evaluating public opinions: informing public health policy adaptations in China amid the COVID-19 pandemic.
+PMID: 38429328
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38429328/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Public concern regarding safety policies serious consequences is anticipated to persist over an extended duration. A study examining a case of rapid public health policy adaptation in China during the COVID-19 epidemic was conducted by gathering public opinion data from major social media platforms. A systematic approach to comprehend public opinion was developed. Five fundamental elements and four dimensions were delineated. An indicator system was established utilizing the K-means text clustering model. Public prediction, expectation, and their evolution underlying public concern were elucidated employing TF-IDF text mining models. The HMM elucidated the way public opinion influences policy adjustments. The findings underscore that public concern regarding enduring events undergoes temporal shifts, mirroring the evolution of public opinion towards policy. Public opinion aroused by both the original event and derived events collaboratively influence policy adjustments. In China, public opinion serves as a mechanism for policy feedback and oversight; notably, negative public sentiment plays a pivotal role in expediting policy transitions. These findings aid in refining policies to mitigate emergencies through a feedback loop, thereby averting the emergence of safety risks such as social unrest prompted by public opinion.

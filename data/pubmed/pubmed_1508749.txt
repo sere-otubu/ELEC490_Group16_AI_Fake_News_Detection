@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Celiac disease
+TITLE: [Celiac disease and autoimmunity].
+PMID: 1508749
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1508749/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Immune mechanisms have been invoked to explain coeliac disease and associations between this and other immunologically mediated diseases have been described. A direct relationship proposed is that coeliac disease may be associated with a range of autoimmune disease through the formation of immune complexes in the small intestine. It's more probable a common origin in an inherited predisposition to hypersensitive immuno responses to extrinsic antigens or auto-antigens. The association between coeliac disease and particular histocompatibility antigens was recognised.

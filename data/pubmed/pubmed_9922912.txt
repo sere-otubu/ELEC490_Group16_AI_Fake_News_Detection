@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Polycystic ovary syndrome
+TITLE: Polycystic ovary syndrome.
+PMID: 9922912
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9922912/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Polycystic ovary syndrome is a syndrome and not a disease. It reflects multiple potential etiologies and variable clinical presentations that are reviewed in this article. In addition to menstrual dysfunction and hyperandrogenism, women with polycystic ovary syndrome also may have hypothalamic-pituitary abnormalities, polycystic ovaries on pelvic ultrasonography, infertility, obesity, and insulin resistance. A familial pattern occurs in some cases, suggesting a genetic component to the disorder. The three major pathophysiologic hypotheses that have been proposed to explain the clinical findings of the disorder as well as treatment options are reviewed in this article.

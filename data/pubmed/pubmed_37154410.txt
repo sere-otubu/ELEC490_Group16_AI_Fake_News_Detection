@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Iron deficiency
+TITLE: [Iron deficiency and new dietary habits].
+PMID: 37154410
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37154410/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The prevalence of iron deficiency (ID) is 26-44 percent among young girls in Sweden. Their level of iron intake is lower than the recommended daily intake. Meat has the highest bioavailability of iron. As the consumption of meat is declining, especially amongst women, meat substitutes are increasing. A new study shows that the absorption of the iron indicated on the nutritional information labels of meat substitutes is impaired by high levels of phytates in the products.  Fatigue, headache and reduced cognitive function are symptoms of ID. ID during pregnancy renders the mother ill-equiped for hemorrhage during delivery and increases the risk for pre-term birth and low birth weight. Serum hemoglobin is not sufficient to diagnose iron deficiency without anemia. Ferritin is a cheap test, which should be used more. Regulation of menstrual bleeding and dietary advice should complement the replenishment of iron stores through iron therapy to avoid a negative iron balance.

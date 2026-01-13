@@ -1,0 +1,8 @@
+SEARCH_TOPIC: IBS
+TITLE: [Validation of the IBS-SSS].
+PMID: 24122378
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24122378/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Irritable bowel syndrome (IBS) is a functional gastrointestinal disorder characterised by abdominal pain, associated with stool abnormalities and changes in stool consistency. Diagnosis of IBS is based on characteristic symptoms and exclusion of other gastrointestinal diseases. A number of questionnaires exist to assist diagnosis and assessment of severity of the disease. One of these is the irritable bowel syndrome - severity scoring system (IBS-SSS). The IBS-SSS was validated 1997 in its English version. In the present study, the IBS-SSS has been validated in German language. To do this, a cohort of 60 patients with IBS according to the Rome III criteria, was compared with a control group of healthy individuals (n = 38). We studied sensitivity and reproducibility of the score, as well as the sensitivity to detect changes of symptom severity. The results of the German validation largely reflect the results of the English validation. The German version of the IBS-SSS is also a valid, meaningful and reproducible questionnaire with a high sensitivity to assess changes in symptom severity, especially in IBS patients with moderate symptoms. It is unclear if the IBS-SSS is also a valid questionnaire in IBS patients with severe symptoms because this group of patients was not studied.

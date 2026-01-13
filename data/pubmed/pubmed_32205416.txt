@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Opioid addiction
+TITLE: Genetic Vulnerability to Opioid Addiction.
+PMID: 32205416
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32205416/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Opioid addiction, also referred to as opioid use disorder, continues to be a devastating problem throughout the world. Familial relation and twin studies have revealed opioid addiction, like other addictive diseases, to be profoundly influenced by genetics. Genetics studies of opioid addiction have affirmed the importance of genetics contributors in susceptibility to develop opioid addiction, and also have important implications on treatment for opioid addiction. But the complexity of the interactions of multiple genetic variants across diverse genes, as well as substantial differences in allelic frequencies across populations, thus far limits the predictive value of individual genetics variants.

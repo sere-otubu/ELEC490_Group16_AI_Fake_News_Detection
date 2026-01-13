@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Post operative care
+TITLE: Approaches to the measurement of post-operative recovery.
+PMID: 30522717
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30522717/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Modern recovery assessment has progressed from that which addressed purely physiological restitution in the immediate post-operative period to that which is a multi-dimensional construct existing as a continuum and which follows a predictable trajectory. Recovery tools differ in their derivation, validation and scope of assessment. Importantly, few are validated for repeat measures, an aspect crucial when assessing the temporal nature of modern recovery. Recovery can be assessed as a continuous or dichotomous outcome and as occurring within an individual patient or within a group. Dichotomisation of recovery assessment mandates that a threshold be determined, above which recovery is deemed to have occurred. Ideally, recovery is assessed as a dichotomous outcome using the patient as their own pre-operative comparator, thus allowing recovery assessment at an individual patient, as well as group, level and overall as well as within each recovery domain.

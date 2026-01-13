@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tuberculosis
+TITLE: [Tuberculosis 2006].
+PMID: 17468065
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17468065/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+At present, 8-10 million new cases of tuberculosis and 3 million tuberculosis related deaths occur worldwide. Approximately 90% of patients and deaths occur in the developing countries. In Hungary, 2024 new cases with tuberculosis were detected in 2005. This incidence corresponds to the epidemiological data of western European countries. However, the multidrug and extensively drug resistant bacteria challenged the otherwise effective antimicrobial therapy. In Hungary, 27 new multidrug-, and 3 new extensively drug resistant tuberculoses were detected in 2005. The recommendation of the World Health Organisation and the renewed guideline of the Hungarian Board of Pulmonology include all criteria necessary to the effective prevention, diagnosis and therapy of multidrug-, and extensively drug resistant tuberculoses.

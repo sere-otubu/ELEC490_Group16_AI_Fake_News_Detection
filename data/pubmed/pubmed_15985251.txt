@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hysterectomy
+TITLE: Total and subtotal abdominal hysterectomy.
+PMID: 15985251
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15985251/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hysterectomy is one of the most frequently performed operations in the world, accounting for 500,000-600,000 procedures annually in the USA; the abdominal route for hysterectomy is the preferred route in 60-80% of these operations. Although the number of total abdominal hysterectomies performed annually has decreased, the number of subtotal abdominal hysterectomies increased by >400%. The major indications for abdominal hysterectomy include abnormal uterine bleeding, myomata uteri, adenomyosis, endometriosis, neoplasia, and chronic salpingitis. The basis for selection for subtotal versus total hysterectomy has little in the way of factual data to support it and may actually present some significant disadvantages, such as continued menstruation and cervical prolapse. The detailed technique for performing intrafascial abdominal hysterectomy relies heavily on precise knowledge of pelvic anatomy and compulsive detail to tissue handling. The consistent and correct usage of prophylactic antimicrobials, measures to prevent thromboemboli, and procedures to avoid urinary retention are key to the overall success of the surgery.

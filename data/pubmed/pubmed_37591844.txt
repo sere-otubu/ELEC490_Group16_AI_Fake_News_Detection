@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immunotherapy
+TITLE: Immunotherapy in hematologic malignancies: achievements, challenges and future prospects.
+PMID: 37591844
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37591844/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The immune-cell origin of hematologic malignancies provides a unique avenue for the understanding of both the mechanisms of immune responsiveness and immune escape, which has accelerated the progress of immunotherapy. Several categories of immunotherapies have been developed and are being further evaluated in clinical trials for the treatment of blood cancers, including stem cell transplantation, immune checkpoint inhibitors, antigen-targeted antibodies, antibody-drug conjugates, tumor vaccines, and adoptive cell therapies. These immunotherapies have shown the potential to induce long-term remission in refractory or relapsed patients and have led to a paradigm shift in cancer treatment with great clinical success. Different immunotherapeutic approaches have their advantages but also shortcomings that need to be addressed. To provide clinicians with timely information on these revolutionary therapeutic approaches, the comprehensive review provides historical perspectives on the applications and clinical considerations of the immunotherapy. Here, we first outline the recent advances that have been made in the understanding of the various categories of immunotherapies in the treatment of hematologic malignancies. We further discuss the specific mechanisms of action, summarize the clinical trials and outcomes of immunotherapies in hematologic malignancies, as well as the adverse effects and toxicity management and then provide novel insights into challenges and future directions.

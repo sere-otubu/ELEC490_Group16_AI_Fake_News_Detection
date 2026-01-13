@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Hypertension
+TITLE: Virtual management of hypertension: lessons from the COVID-19 pandemic-International Society of Hypertension position paper endorsed by the World Hypertension League and European Society of Hypertension.
+PMID: 35579481
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35579481/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The coronavirus disease 2019 pandemic caused an unprecedented shift from in person care to delivering healthcare remotely. To limit infectious spread, patients and providers rapidly adopted distant evaluation with online or telephone-based diagnosis and management of hypertension. It is likely that virtual care of chronic diseases including hypertension will continue in some form into the future. The purpose of the International Society of Hypertension's (ISH) position paper is to provide practical guidance on the virtual management of hypertension to improve its diagnosis and blood pressure control based on the currently available evidence and international experts' opinion for nonpregnant adults. Virtual care represents the provision of healthcare services at a distance with communication conducted between healthcare providers, healthcare users and their circle of care. This statement provides consensus guidance on: selecting blood pressure monitoring devices, accurate home blood pressure assessments, delivering patient education virtually, health behavior modification, medication adjustment and long-term virtual monitoring. We further provide recommendations on modalities for the virtual assessment and management of hypertension across the spectrum of resource availability and patient ability.

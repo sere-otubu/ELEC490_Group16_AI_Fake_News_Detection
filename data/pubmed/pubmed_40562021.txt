@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Red blood cells
+TITLE: Red Blood Cells and Their Immunoregulatory Role.
+PMID: 40562021
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40562021/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+<p>The physiological roles played by red blood cells (RBCs), i.e., oxygen transport to all cells and tissues, CO<sub>2</sub> delivery to the lungs, control of pH in blood, and ions transport into and out of the cell membrane, have been investigated extensively over the past decades. The roles mature and immature RBCs play, while in the blood vessels, when they come in contact with other blood and endothelial cells, are only partially known. Here we will focus on the ability of RBC to modulate innate and adaptive immune responses when they interact with cells or molecules encountered during their flow in the vessels. We will outline the possible clinical impact on treatment of some diseases, such as autoimmune diseases, inflammatory pathologies, or tumors, where immunotherapy can be applied. </p>.

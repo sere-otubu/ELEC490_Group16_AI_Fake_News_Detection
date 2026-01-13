@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lactose intolerance
+TITLE: Lactose intolerance.
+PMID: 12018807
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12018807/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Persons with lactose intolerance are unable to digest significant amounts of lactose because of a genetically inadequate amount of the enzyme lactase. Common symptoms include abdominal pain and bloating, excessive flatus, and watery stool following the ingestion of foods containing lactose. Lactase deficiency is present in up to 15 percent of persons of northern European descent, up to 80 percent of blacks and Latinos, and up to 100 percent of American Indians and Asians. A sizable number of adults believe they are lactose intolerant but do not actually have impaired lactose digestion, and some persons with lactase deficiency can tolerate moderate amounts of ingested lactose. A diagnosis of lactose intolerance can usually be made with a careful history supported by dietary manipulation. If necessary, diagnosis can be confirmed by using a breath hydrogen or lactose tolerance test. Treatment consists primarily of avoiding lactose-containing foods. Lactase enzyme supplements may be helpful. The degree of lactose malabsorption varies greatly among patients with lactose intolerance, but most of them can ingest up to 12 oz of milk daily without symptoms. Lactose-intolerant patients must ensure adequate calcium intake.

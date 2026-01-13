@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Air pollution health effects
+TITLE: Air Pollution Control and Public Health Risk Perception: Evidence from the Perspectives of Signal and Implementation Effects.
+PMID: 35270732
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35270732/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The main purposes of government environmental policy include improving the objective natural environment as well as reducing the health risk of the public. A majority of studies have tested the means of achieving the first goal. In this paper, we aimed to gather empirical evidence pertaining to the realization of the second goal by drawing on a quasi-natural experiment that was conducted based on the "Action Plan on Air Pollution Prevention and Control" issued in 2013 (AP2013). The research data came from the tracking data of 17,766 individuals from 112 prefecture-level cities of China in 2012 and 2014. Through ordinal logistic regression and DID analysis, a causal relationship between the AP2013 policy and public health risk perceptions was verified, indicating that this policy can significantly decrease public health risk perceptions. By constructing different subsamples, an inverted U-shaped relationship between the causal effect and the length of the policy implementation window was established, which demonstrated the short-term signal effect and long-term implementation effect of this policy. The conclusions can help with the communication and implementation of a government's policy.

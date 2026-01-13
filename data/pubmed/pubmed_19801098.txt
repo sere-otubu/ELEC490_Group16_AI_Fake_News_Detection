@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Aging population challenges
+TITLE: Ageing populations: the challenges ahead.
+PMID: 19801098
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19801098/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+If the pace of increase in life expectancy in developed countries over the past two centuries continues through the 21st century, most babies born since 2000 in France, Germany, Italy, the UK, the USA, Canada, Japan, and other countries with long life expectancies will celebrate their 100th birthdays. Although trends differ between countries, populations of nearly all such countries are ageing as a result of low fertility, low immigration, and long lives. A key question is: are increases in life expectancy accompanied by a concurrent postponement of functional limitations and disability? The answer is still open, but research suggests that ageing processes are modifiable and that people are living longer without severe disability. This finding, together with technological and medical development and redistribution of work, will be important for our chances to meet the challenges of ageing populations.

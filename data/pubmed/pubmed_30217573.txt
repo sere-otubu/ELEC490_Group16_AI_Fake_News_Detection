@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Corticosteroids
+TITLE: [Corticosteroids in community acquired pneumonia: Where are we in 2018?].
+PMID: 30217573
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30217573/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Community-acquired pneumonia (CAP) is a common infectious disease and one of the main causes of mortality worldwide. Despite an improvement in management globally, mortality remains high especially in severe forms of CAP. Adequate early antibiotics remain the cornerstone of the treatment but adjuvant corticosteroid administration is being considered to counterbalance the systemic inflammatory reaction and modulate the immune response. In the last ten years, several clinical trials and meta-analyses have been conducted in severe and non-severe CAP to assess the efficacy of corticosteroids. The benefits on the duration of hospitalization and the time to clinical stability are quite small and early mortality does not seem to be improved. Corticosteroids should not, therefore, be used routinely in patients with CAP, even in severe cases. However, new therapeutic trials are currently underway.

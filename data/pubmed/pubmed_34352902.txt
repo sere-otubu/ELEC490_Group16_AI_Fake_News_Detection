@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rare diseases
+TITLE: Rare Diseases of the Nose, the Paranasal Sinuses, and the Anterior Skull Base.
+PMID: 34352902
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34352902/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Due to their low incidence and thus resulting limited diagnostic criteria as well as therapeutic options, rare diseases of the nose, the paranasal sinuses, and the anterior skull base are a significant challenge. The value as of which a disease has to be considered as rare amounts to a maximum of 5 patients per 10 000 people. Within these diseases, however, there are extreme differences. Some rare or orphan diseases like for example the inverted papilloma belong to regularly diagnosed and treated diseases of larger departments of oto-rhino-laryngology whereas other rare diseases and malformations have only been described in less than 100 case reports worldwide. This fact emphasizes the necessity of bundling the available experience of diagnostics and therapy. The present article gives an overview about rare diseases of the nose, the paranasal sinuses, and the anterior skull base from the field of diseases/syndromes of the olfactory system, malformations of the nose and paranasal sinuses, ventilation and functional disorders as well as benign and malignant tumors. The classification and data on diagnostic and therapeutic options were established based on the current literature.

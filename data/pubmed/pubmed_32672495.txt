@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HPV vaccine
+TITLE: Human papillomavirus (HPV) and HPV vaccine knowledge, the intention to vaccinate, and HPV vaccination uptake among male college students.
+PMID: 32672495
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32672495/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+<b>Objective</b>This systematic mixed studies review aims to summarize the results of available research on knowledge of the human papillomavirus (HPV) and HPV vaccine, the intention to vaccinate, and HPV vaccination uptake among male college students. <b>Methods</b>: PubMed, ProQuest, EBSCO, PsycINFO, JSTOR, MEDLINE, and Google Scholar searches were performed to identify studies. A total of 39 studies were included in this review. <b>Results</b>: Most studies were cross-sectional (<i>n</i> = 27) and used convenience samples (<i>n</i> = 18). Although many students were aware of HPV and the HPV vaccine, gaps in their knowledge about the mode of transmission, symptoms, risk factors, and HPV vaccine mechanism were evident. The cost of HPV vaccination and concerns about safety and side effects were the most frequently reported barriers to obtaining the vaccination. <b>Conclusion</b>: More effort to increase knowledge about HPV and the uptake of the HPV vaccination among college men in the United States is necessary.

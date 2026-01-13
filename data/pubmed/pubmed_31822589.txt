@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Influenza
+TITLE: Influenza's Newest Trick.
+PMID: 31822589
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31822589/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Influenza A viruses are important pathogens for humans and for many birds and mammals. Hemagglutinin and neuraminidase are the major surface proteins of this enveloped RNA virus. Hemagglutinin requires proteolytic cleavage for activation, but because the viral genome does not encode its own protease, an exogenous serine protease must be provided by host cells. A novel, neuraminidase-dependent mechanism for hemagglutinin activation was described, in which a thrombin-like protease allows an influenza A/H7N6 virus, isolated from a mallard duck, to replicate systemically and induce enhanced disease in avian and mammalian model animals and to replicate <i>in vitro</i> in the absence of trypsin. Thrombin-like protease activation required the N6 neuraminidase, but also required the presence of a thrombin-like cleavage motif in the H7 hemagglutinin. This novel example of neuraminidase-dependent hemagglutinin activation demonstrates the extraordinary evolutionary flexibility of influenza A viruses and is a fascinating example of epistasis between the hemagglutinin and neuraminidase genes.

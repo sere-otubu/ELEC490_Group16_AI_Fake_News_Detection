@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Inhalers
+TITLE: [Inhalers and nebulizers in the children].
+PMID: 12205818
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12205818/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Inhaled way is the most efficient method to deliver drugs for the treatment of respiratory diseases. Pulmonary deposition depends upon the inhalation system and technique. The evaluation of the drug deposition is difficult, particularly in children. Because of irradiation, scintigraphic studies which permit the best approach of the pulmonary deposition are rare in children. Various inhalation systems are available: nebuliser, metered-dose inhaler with or without spacer device, dry powder inhaler. Whatever the system used, the control of asthma will be only possible with the regular evaluation of the child inhalatory technique.

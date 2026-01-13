@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Breast cancer
+TITLE: Breast Cancer: Current Perspectives on the Disease Status.
+PMID: 31456179
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31456179/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Breast cancer is the most frequently diagnosed cancer in women and ranks second among causes for cancer related death in women. Evidence in literature has shown that the past and ongoing research has an enormous implication in improving the clinical outcome in breast cancer. This has been attributed to the progress made in the realm of screening, diagnosis and therapeutic strategies engaged in breast cancer management. However, poor prognosis in TNBC and drug resistance presents major inhibitions which are also current challenges for containing the disease. Similarly, a focal point of concern is the rising rate of breast cancer incidence and mortality among the population of under developed world. In this chapter, an overview of the current practices for the diagnosis and treatment of breast cancer and associated impediments has been provided.

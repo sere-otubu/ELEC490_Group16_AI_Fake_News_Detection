@@ -1,0 +1,8 @@
+SEARCH_TOPIC: ACE inhibitors
+TITLE: [ACE-inhibitors and glucose metabolism].
+PMID: 2408249
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2408249/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+ACE-inhibitors exhibit their blood pressure-lowering activity not only via a reduction of angiotensin II but also via on increase of kinin levels. The latter are known to improve insulin action and hence carbohydrate metabolism in normal volunteers and diabetics. Accordingly, ACE-inhibitors display the same effects. As clinical trials show they are especially useful for the treatment of hypertension in diabetes mellitus.

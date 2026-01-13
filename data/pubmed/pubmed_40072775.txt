@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Leukemia
+TITLE: Revumenib: First Approval.
+PMID: 40072775
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40072775/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Revumenib (Revuforj<sup>®</sup>) is an oral, first-in-class menin inhibitor developed by Syndax Pharmaceuticals for the treatment of KMT2A-rearranged (KMT2Ar) acute leukaemia, NPM1-mutated (NPM1m) acute myeloid leukaemia (AML) and solid tumours. The interaction between menin and the KMT2A protein complex leads to aberrant gene expression, driving leukaemogenic transcription. By blocking this interaction, revumenib promotes differentiation and exerts antileukaemic activity in KMT2Ar acute leukaemias and other menin inhibition-sensitive leukaemias. Revumenib received its first approval on 15 November 2024 in the USA for the treatment of relapsed or refractory (R/R) acute leukaemia with a KMT2A translocation in adult and paediatric patients 1 year and older. This article summarizes the milestones in the development of revumenib leading to this first approval.

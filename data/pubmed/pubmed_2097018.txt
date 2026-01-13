@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Overtraining syndrome
+TITLE: Overtraining syndrome.
+PMID: 2097018
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2097018/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This review discusses the overtraining syndrome which is characterized by fatigue and underperformance precipitated by stress of training. Other stresses, depression and an increased susceptibility to infections may be important. Treatment requires rest and a stress management program over 3 months.

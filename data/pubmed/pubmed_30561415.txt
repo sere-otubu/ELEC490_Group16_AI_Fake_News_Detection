@@ -1,0 +1,8 @@
+SEARCH_TOPIC: GERD
+TITLE: Diagnosis of GERD in typical and atypical manifestations.
+PMID: 30561415
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30561415/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The manifestations of gastroesophageal reflux disease (GERD) have been recently classified into either esophageal or extra-esophageal syndromes. Clinical history, questionnaire data and response to antisecretory therapy are insufficient to make a conclusive diagnosis of GERD. Endoscopy had a low sensitivity. Recently, the availability of multichannel intraluminal impedance and pH-monitoring (MII-pH) has modified the diagnostic approach towards atypical manifestations of GERD. There is a rising consensus that this technique should be considered as the gold standard for GERD diagnosis. Gastrin 17 (G-17) has been proposed as a non-invasive marker of GERD, due to the negative feedback between acid and the hormone. G17 levels seem able to identify patients with acid and non-acid reflux.

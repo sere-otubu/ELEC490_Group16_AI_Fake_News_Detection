@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Adrenaline
+TITLE: Update on epinephrine (adrenaline) for pediatric emergencies.
+PMID: 19444115
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19444115/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Epinephrine (adrenaline) is a medication widely used in the pediatric emergency department. This article reviews the most recent evidence and recommendations behind the many applications of epinephrine as they apply to the care of children in emergency departments. Recent publications address epinephrine's role in the treatment of anaphylaxis, croup, asthma, bronchiolitis and as an adjunct to local anesthesia. Additionally, authors discuss epinephrine autoinjectors and the various routes of epinephrine administration. Epinephrine is the recommended first-line treatment for anaphylaxis and moderate-to-severe croup. Its role in asthma and bronchiolitis is less clear. Traditional beta2-agonists are seen as first-line therapies for moderate bronchiolitis and asthma exacerbations. Epinephrine may have a role for subsets of patients with both of these illnesses. The preferred route for parenteral treatment is intramuscular. Epinephrine is well tolerated as an adjunct to local anesthesia when used in digital blocks in digits with normal perfusion. Although autoinjectors allow faster access to epinephrine for anaphylaxis, there are many issues surrounding their use and indications.

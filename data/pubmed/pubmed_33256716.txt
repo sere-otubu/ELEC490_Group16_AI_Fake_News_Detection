@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood donation safety
+TITLE: The development of a legal framework for blood donation and blood safety in China over 24 years.
+PMID: 33256716
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33256716/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This study analyzes the regulation of and developments in blood donation in China from 1996 to 2019, and demonstrates the government's efforts to improve blood safety. Since the implementation of the Blood Donation Law in 1998, the number of blood donors in China increased by 275% from 1998 to 2018 (from 4 million to 15 million). The principle of no-fault liability was proposed and has been applied since 2010 to the tort liability related to blood transfusion malpractice. In 2015, mutual blood donation accounted for 4.2% of the national collection. However, in some provinces of China, the percentage of mutual blood donation increased from 9.3 to 35.6% in 2016. The National Health Commission canceled mutual blood donation in March of 2018. Since 2015, nucleic acid amplification testing has become a routine test item for screening blood. The Chinese government institutionalized the voluntary non-remunerated donation principle, enacted regulations for the management of blood transfusion, and adopted advanced blood testing technology to sustain blood supply and ensure blood safety. Despite increased blood donation, blood shortages persist. The quality and safety of blood collection can be further improved through the cancellation of mutual blood donation and incentive measures for voluntary non-remunerated donation of blood, which needs facilitation by governmental legislation.

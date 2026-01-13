@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cardiovascular system
+TITLE: Role for primary cilia as flow detectors in the cardiovascular system.
+PMID: 21875563
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21875563/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The cardiovascular system is exposed to biochemical and biomechanical signals. Various sensors for these signals have been described and they contribute to cardiovascular development, maintenance of vessel integrity during adult life, and to pathogenesis. In the past 10years, primary cilia, membrane-covered, rod-like cellular protrusions, were discovered on multiple cell types of the cardiovascular system. Primary cilia are sensory organelles involved in several key (developmental) signaling pathways and in chemo- and mechanosensing on a myriad of cell types. In the embryonic and adult cardiovascular system, they have been demonstrated to function as shear stress sensors on endothelial cells and could act as strain sensors on smooth muscle cells and cardiomyocytes and as chemosensors on fibroblasts. This review will cover their occurrence and elaborate on established and possible functions of primary cilia in the cardiovascular system.

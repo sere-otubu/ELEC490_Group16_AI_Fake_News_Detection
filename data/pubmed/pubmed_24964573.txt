@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vegetarian diet
+TITLE: Health benefits and risk associated with adopting a vegetarian diet.
+PMID: 24964573
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24964573/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+A vegetarian diet may be adopted for various reasons that can include ecological, economic, religious, ethical and health considerations. In the latter case they arise from the desire to lose weight, in tackling obesity, improving physical fitness and/or in reducing the risk of acquiring certain diseases. It has been shown that properly applied vegetarian diet is the most effective way of reducing body mass (expressed as BMI), improving the plasma lipid profile and in decreasing the incidence of high arterial blood pressure, cardiovascular disease, stroke, metabolic syndrome and arteriosclerosis. In addition, improved insulin sensitivity together with lower rates of diabetes and cancer has been observed. Some studies have however found that a vegetarian diet may result in changes adversely affecting the body. These could include; hyperhomocysteinaemia, protein deficiency, anaemia, decreased creatinine content in muscles and menstrual disruption in women who undertake increased physical activity. Some of these changes may decrease the ability for performing activities that require physical effort. Nevertheless, on balance it can be reasonably concluded that the beneficial effects of a vegetarian diet significantly, by far, outweigh the adverse ones. It should also be noted that the term 'vegetarian diet' is not always clearly defined in the literature and it may include many dietary variations.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cataracts
+TITLE: Expression of oxysterols in human lenses: Implications of the sterol pathway in age-related cataracts.
+PMID: 36272497
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36272497/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Lanosterol, an oxysterol molecule, has been proposed to help maintain lens transparency by inhibiting the formation of protein aggregates. This sterol is produced by the enzyme lanosterol synthase and is part of a metabolic pathway that forms cholesterol as a final step. Abnormalities in lanosterol synthase are responsible for congenital cataracts. The αA-crystallin protein, which acts as a molecular chaperone to lanosterol synthase, has been reported to have anti-protein aggregation, anti-inflammatory and anti-apoptotic properties. In this work, we evaluated the correlation of lanosterol synthase and αA-crystallin in human cataractous lenses with the grade of opacity, as well as the expression of lanosterol synthase, farnesyl DPP, geranyl synthase and squalene epoxidase genes. Lanosterol synthase and αA-crystallin were overexpressed in cataractous lenses as well as farnesyl-DP synthase, squalene epoxidase, lanosterol synthase and geranyl synthase genes in cataratous lenses in comparison with normal lenses. Our data confirm that lanosterol synthase and the sterol pathway are upregulated in cataractous lenses. This argues for a functional role of the oxysterol pathway and its products as an important mediator in the pathogenesis of human cataracts.

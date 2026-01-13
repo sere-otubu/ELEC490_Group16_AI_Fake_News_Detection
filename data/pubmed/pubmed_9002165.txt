@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Radiation therapy
+TITLE: Radiation therapy toxicities.
+PMID: 9002165
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9002165/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Since the infancy of radiology and radiation therapy, reactions to radiation have been noted and followed, and attempts have been made to minimize these reactions. We have turned to radiobiologists to explain these reactions and to radiation oncologists to prevent or decrease the normal tissue effects of radiation therapy. Radiation toxicities are divided into early (acute) and late (chronic) reactions; however, it is important to note that severe toxicities are rare and occur typically in less than 5% of veterinary radiation therapy patients.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Life expectancy trends
+TITLE: Trends in Life Expectancy After Allogeneic Blood or Marrow Transplantation.
+PMID: 34792508
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34792508/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Life expectancy for blood or marrow transplant recipients has improved over the past 40 years.

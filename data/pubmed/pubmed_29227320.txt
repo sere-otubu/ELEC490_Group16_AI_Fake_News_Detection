@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Plantar fasciitis
+TITLE: Plantar fasciitis: A review of treatments.
+PMID: 29227320
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29227320/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Plantar fasciitis is the most common cause of heel pain in the United States. Many treatments are available and differ in efficacy and cost. This article discusses the theorized causes for plantar fasciitis and various treatments.

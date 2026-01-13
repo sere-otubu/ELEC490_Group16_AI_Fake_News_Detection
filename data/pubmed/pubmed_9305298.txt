@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Crohns disease
+TITLE: Metastatic Crohn's disease.
+PMID: 9305298
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9305298/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Metastatic Crohn's disease is the term used for granulomatous lesions of Crohn's disease involving sites other than the gastrointestinal tract. Metastatic Crohn's disease has been considered uncommon, when in actuality it may simply be underdiagnosed or misdiagnosed since the clinical findings can be different. We report on three patients with this condition: one with generalized plaques, another with perineal and perianal ulcerations, and a third with a painless forearm nodule.

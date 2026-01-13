@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Vertigo
+TITLE: Peripheral Vertigo.
+PMID: 30454774
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30454774/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article summarizes the systematic assessment of the dizzy patient who presents with peripheral vertigo. It demonstrates the steps and tests necessary using the Triage-Timing-Trigger-Test (Triage + TiTraTe) method to accurately diagnose the underlying most probable cause while ruling out life-threatening causes. Using video support and just-in-time infographics, it demonstrates the Dix-Hallpike, Semont, Epley, and HINTS maneuvers.

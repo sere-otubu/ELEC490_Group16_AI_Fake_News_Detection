@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Arthroscopy
+TITLE: [Complication of arthroscopy of the knee].
+PMID: 15049212
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15049212/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Arthroscopy is an elementary surgical procedure in the management of the knee. Due to its minimal invasiveness the complications are not frequent. However, because of continuously increasing number of arthroscopies being performed worldwide (circa 1,000,000 per year), the total number of complications is significant. More frequent complications accompany particularly more complex and difficult procedures. The percentage of complications after arthroscopy oscilates about 2%. The most common complications are: intraarticular damage, neurological injury, vascular injury, compartment syndrome, instrument breakage, postoperative pain, haemarthrosis, synovitis, thromboembolism, infection, synovial fistula, complex regional pain syndrome 1, infrapatellar contracture syndrome. Current view on the complications of arthroscopy is presented in this paper basing on contemporary literature.

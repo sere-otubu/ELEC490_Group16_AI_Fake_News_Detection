@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antivirals
+TITLE: Recent Advances in Antivirals for Japanese Encephalitis Virus.
+PMID: 37243122
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37243122/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Culex mosquitoes are the primary vectors of the Japanese encephalitis virus (JEV). Since its discovery in 1935, Japanese encephalitis (JE), caused by JEV, has posed a significant threat to human health. Despite the widespread implementation of several JEV vaccines, the transmission chain of JEV in the natural ecosystem has not changed, and the vector of transmission cannot be eradicated. Therefore, JEV is still the focus of attention for flaviviruses. At present, there is no clinically specific drug for JE treatment. JEV infection is a complex interaction between the virus and the host cell, which is the focus of drug design and development. An overview of antivirals that target JEV elements and host factors is presented in this review. In addition, drugs that balance antiviral effects and host protection by regulating innate immunity, inflammation, apoptosis, or necrosis are reviewed to treat JE effectively.

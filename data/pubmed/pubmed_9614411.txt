@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Panic disorder
+TITLE: Panic disorder: effective treatment options.
+PMID: 9614411
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9614411/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Panic disorder is a distressing and debilitating condition with a familial tendency; it may be associated with situational (agoraphobic) avoidance. The diagnosis of panic disorder requires recurrent, unexpected panic attacks and at least one of the following characteristics: persistent concern about having an additional attack (anticipatory anxiety); worry about the implications of an attack or its consequences (e.g., a catastrophic medical or mental consequence) and making a significant change in behavior as a consequence of the attacks. A variety of pharmacologic interventions is available, as are non-pharmacologic cognitive or cognitive-behavioral therapies that have demonstrated safety and efficacy in the treatment of panic disorder. Early detection and thoughtful selection of appropriate first-line interventions can help these patients, who often have been impaired for years, regain their confidence and ability to function in society.

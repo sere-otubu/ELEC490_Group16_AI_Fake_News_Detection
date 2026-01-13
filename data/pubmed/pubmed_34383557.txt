@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Maternal mortality rates
+TITLE: Racial and Ethnic Disparities in Maternal Mortality in the United States Using Enhanced Vital Records, 2016‒2017.
+PMID: 34383557
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34383557/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+<b>Objectives.</b> To better understand racial and ethnic disparities in US maternal mortality. <b>Methods.</b> We analyzed 2016-2017 vital statistics mortality data with cause-of-death literals (actual words written on the death certificate) added. We created a subset of confirmed maternal deaths that had pregnancy mentions in the cause-of-death literals. Primary cause of death was identified and recoded using cause-of-death literals. We examined racial and ethnic disparities both overall and by primary cause. <b>Results.</b> The maternal mortality rate for non-Hispanic Black women was 3.55 times that for non-Hispanic White women. Leading causes of maternal death for non-Hispanic Black women were eclampsia and preeclampsia and postpartum cardiomyopathy with rates 5 times those for non-Hispanic White women. Non-Hispanic Black maternal mortality rates from obstetric embolism and obstetric hemorrhage were 2.3 to 2.6 times those for non-Hispanic White women. Together, these 4 causes accounted for 59% of the non-Hispanic Black‒non-Hispanic White maternal mortality disparity. <b>Conclusions.</b> The prominence of cardiovascular-related conditions among the leading causes of confirmed maternal death, particularly for non-Hispanic Black women, necessitates increased vigilance for cardiovascular problems during the pregnant and postpartum period. Many of these deaths are preventable.

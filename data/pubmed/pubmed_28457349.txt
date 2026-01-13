@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Zika virus
+TITLE: Zika Virus.
+PMID: 28457349
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28457349/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The ongoing epidemic of Zika fever in the Western Hemisphere has drawn considerable attention from the medical and scientific communities as well as the general public, largely because of its association with birth defects and postinfectious sequelae. Since its appearance in Brazil in 2015, Zika virus has spread to more than 45 countries in the Western Hemisphere and has caused countless infections. To date, no treatment or vaccine exists, but a considerable multinational effort to halt Zika virus transmission is underway. This article reviews the basic biology, epidemiology, pathophysiology, diagnosis, and treatment of Zika virus and Zika fever.

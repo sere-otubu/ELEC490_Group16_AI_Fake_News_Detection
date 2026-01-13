@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Muscular system
+TITLE: HCV-related nervous system disorders.
+PMID: 22899946
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22899946/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Chronic infection with hepatitis C virus (HCV) is associated with a wide spectrum of extrahepatic manifestations, affecting different organ systems. Neurological complications occur in a large number of patients and range from peripheral neuropathy to cognitive impairment. Pathogenetic mechanisms responsible for nervous system dysfunction are mainly related to the upregulation of the host immune response with production of autoantibodies, immune complexes, and cryoglobulins. Alternative mechanisms include possible extrahepatic replication of HCV in neural tissues and the effects of circulating inflammatory cytokines and chemokines.

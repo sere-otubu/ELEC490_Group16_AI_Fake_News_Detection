@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Type 1 Diabetes
+TITLE: Implementing Telehealth in Pediatric Type 1 Diabetes Mellitus.
+PMID: 32650864
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32650864/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Management of type 1 diabetes mellitus for pediatric and young adult patients is well suited for telehealth. Diabetes management requires frequent communication with health care providers as well as the interpretation of many types of data that can be measured in the home and shared virtually to the provider by the patient. Telehealth technologies allow for a safe alternative and/or addition to in-person care for youth with diabetes. Telehealth increases access to health care, saves time and money, and results in improvements in rates of appointment adherence, patient satisfaction, and quality of life.

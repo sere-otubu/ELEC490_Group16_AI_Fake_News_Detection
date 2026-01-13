@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Diuretics
+TITLE: Diuretics in States of Volume Overload: Core Curriculum 2022.
+PMID: 35190215
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35190215/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Volume overload, defined as excess total body sodium and water with expansion of extracellular fluid volume, characterizes common disorders such as congestive heart failure, end-stage liver disease, chronic kidney disease, and nephrotic syndrome. Diuretics are the cornerstone of therapy for volume overload and comprise several classes whose mechanisms of action, pharmacokinetics, indications, and adverse effects are essential principles of nephrology. Loop diuretics are typically the first-line treatment in the management of hypervolemia, with additional drug classes indicated in cases of diuretic resistance and electrolyte or acid-base disorders. Separately, clinical trials highlight improved outcomes in some states of volume overload, such as loop diuretics and sodium/glucose cotransporter 2 inhibitors in patients with congestive heart failure. Resistance to diuretics is a frequent, multifactorial clinical challenge that requires creative and physiology-based solutions. In this installment of AJKD's Core Curriculum in Nephrology, we discuss the pharmacology and therapeutic use of diuretics in states of volume overload and strategies to overcome diuretic resistance.

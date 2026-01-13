@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dialysis
+TITLE: Sodium management in dialysis by conductivity.
+PMID: 10452707
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10452707/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The determination of dialysate sodium concentration is one of the challenges of dialysis prescription, because no accurate information on the predialytic sodium overload is available. Too low dialysate sodium is responsible for intradialytic intolerance symptoms, whereas too high sodium may lead to long-term water sodium overload with cardiovascular hazards (hypertension, left heart failure). We propose here a biofeedback system based on noninvasive repeated measures of ionic dialysance and plasma water conductivity used here as a surrogate of plasma water sodium. This system achieves a stable postdialytic sodium pool and subsequently a dialysate sodium concentration adapted to the inter dialytic sodium load. This new tool in dialysate sodium prescription aims at reducing the morbidity related to patient sodium balance impairment.

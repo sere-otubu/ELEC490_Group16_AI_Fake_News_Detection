@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Multiple sclerosis
+TITLE: Multiple Sclerosis: Basic and Clinical.
+PMID: 28674983
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28674983/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Multiple sclerosis (MS) is the most common neurodegenerative disease affecting young adults in our community. It is a complex disease influenced by gender, genetic and environmental factors. MS is a chronic inflammatory disease of the central nervous system caused by aberrant immune activation resulting in damage to myelin sheaths within the brain and spinal cord and axonal loss. The demyelinating insult initially impairs the speed and efficiency of nerve cell function. In the majority of cases, this is followed by an innate endogenous repair response that can restore the myelin sheath and nerve cell function to relatively normal levels. However over time and with subsequent demyelinating events, this capacity is lost ultimately leading to neural degeneration. The influences that oligodendrocytes and myelin exert upon nerve cells to sustain their health and viability have begun to be identified. While immune-directed therapies can reduce the frequency of relapses and development of new lesions, they have little effect upon remyelination and nerve cell repair. This presents the next big challenge in MS therapeutics; complementing immune targeted therapies with strategies that directly target the primary cause of disability, that of remyelination.

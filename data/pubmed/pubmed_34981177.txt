@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urinary system
+TITLE: 2021 update on the urinary tract dilation (UTD) classification system: clarifications, review of the literature, and practical suggestions.
+PMID: 34981177
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34981177/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In 2014, a multidisciplinary consensus on the classification of pre- and postnatal urinary tract dilation (UTD classification) was developed. Its goal was to provide a standardized system for evaluating and reporting urinary tract dilation both in the prenatal and postnatal periods. In this review, we summarize insights learned from the implementation of the UTD classification system since its inception, providing clarifications on common points of confusion. In addition, we review current literature in the clinical validation of the UTD classification system to provide credence for its use in managing fetuses and children with urinary tract dilation.

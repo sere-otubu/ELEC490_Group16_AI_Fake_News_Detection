@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Nicotine dependence
+TITLE: [Nicotine dependence].
+PMID: 26394514
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26394514/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Smoking is the most widespread addictive behavior in the world, and it causes physical and psychological dependence on nicotine. As for physical nicotine dependence, nicotine produces rewarding effects by interacting with nicotinic acetylcholine receptors on neurons in the brain's reward system. Psychological dependence on nicotine comes with a complex psychological procedure that is based on distorted cognition which justifies their smoking behavior. Clinicians should support smokers with willingness to quit smoking comprehensively with this knowledge, although the success rate of smoking cessation is no ideal in general.

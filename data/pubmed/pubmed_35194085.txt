@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chromosomes
+TITLE: Panel of human cell lines with human/mouse artificial chromosomes.
+PMID: 35194085
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35194085/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Human artificial chromosomes (HACs) and mouse artificial chromosomes (MACs) are non-integrating chromosomal gene delivery vectors for molecular biology research. Recently, microcell-mediated chromosome transfer (MMCT) of HACs/MACs has been achieved in various human cells that include human immortalised mesenchymal stem cells (hiMSCs) and human induced pluripotent stem cells (hiPSCs). However, the conventional strategy of gene introduction with HACs/MACs requires laborious and time-consuming stepwise isolation of clones for gene loading into HACs/MACs in donor cell lines (CHO and A9) and then transferring the HAC/MAC into cells via MMCT. To overcome these limitations and accelerate chromosome vector-based functional assays in human cells, we established various human cell lines (HEK293, HT1080, hiMSCs, and hiPSCs) with HACs/MACs that harbour a gene-loading site via MMCT. Model genes, such as tdTomato, TagBFP2, and ELuc, were introduced into these preprepared HAC/MAC-introduced cell lines via the Cre-loxP system or simultaneous insertion of multiple gene-loading vectors. The model genes on the HACs/MACs were stably expressed and the HACs/MACs were stably maintained in the cell lines. Thus, our strategy using this HAC/MAC-containing cell line panel has dramatically simplified and accelerated gene introduction via HACs/MACs.

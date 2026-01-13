@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gonorrhea
+TITLE: [Gonorrhoea].
+PMID: 29798752
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29798752/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gonorrhoea, a condition on the rise, is associated with high morbidity, and the possibility of reproductive sequelae has become a public health problem in Denmark. It is important to perform swabs for gonorrhoea from all relevant anatomical locations, whether or not there are symptoms. Through complete microbiological diagnostics, treatment with recommended antibiotics and partner detection, infection chains can be broken. Whole-genome sequencing in real time will identify outbreaks in high-risk populations.

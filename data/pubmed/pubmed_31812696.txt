@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HPV vaccine
+TITLE: Human papillomavirus vaccine against cervical cancer: Opportunity and challenge.
+PMID: 31812696
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31812696/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cervical cancer is one of the most common cancers threatening women's health, and the persistent infection of high-risk human papillomavirus (HPV) is closely related to the pathogenesis of cervical cancer and many other cancers. The carcinogenesis is a complex process from precancerous lesion to cancer, which provides an excellent window for clinical prevention, diagnosis, and treatment. However, despite the various preventions and treatments such as HPV screening, prophylactic HPV vaccines, surgery, radiotherapy, and chemotherapy, the disease burden remains heavy worldwide. Currently, three types of prophylactic vaccines, quadrivalent HPV vaccine, bivalent HPV vaccine, and a new nonavalent HPV vaccine, are commercially available. Although these vaccines are effective in protecting against 90% of HPV infection, they provide limited benefits to eliminate pre-existing infections. Therefore, new progress has been made in the development of therapeutic vaccines. Therapeutic vaccines differ from prophylactic vaccines in that they aim to stimulate cell-mediated immunity and kill the infected cells rather than neutralizing antibodies. This review aims at systematically covering the progress, current status and future prospects of various vaccines in development for the prevention and treatment of HPV-associated lesions and cancers and laying foundations for the development of the new original vaccine.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Flu shot
+TITLE: Annual flu shot: Does it help patients with COVID-19?
+PMID: 34547161
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34547161/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The impact of annual flu vaccination on the patients' clinical course with COVID-19 and the outcome were tested. A total of 149 patients with COVID-19-positive admitted from March 20 to May 10, 2020, were retrospectively enrolled. Ninety-eight (65.8%) patients received at least a single annual flu shot in the last year, and fifty-one (34.2%) were never vaccinated. On presentation, vaccinated patients were more likely to present with gastrointestinal symptoms (P < .05). There were no significant differences between study groups in laboratory findings or clinical outcomes. In multivariate analysis, receiving the annual shot did not influence risk of intensive care unit admission (OR = 1.17, 95%CI = 0.50-2.72, P = .72), intubation (OR = 1.40, 95%CI = 0.60-3.23, P = .43), complications (OR = 1.08, 95%CI = 0.52-2.26, P = .83) or mortality (OR = 1.29, 95%CI = 0.31-5.29, P = .73). Although the benefits of the influenza vaccine for preventing disease and reducing morbidity in influenza patients are well established, no differences in outcomes for hospitalised patients with COVID-19 who received their annual influenza vaccination versus the non-vaccinated cohort were evident. There is a need for future meta-analyses, including randomised controlled studies in which the number of cases is increased to validate these findings.

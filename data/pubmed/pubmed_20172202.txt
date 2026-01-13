@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chemotherapy
+TITLE: [Chemotherapy's hepatotoxicity: what is the impact on surgery?].
+PMID: 20172202
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20172202/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hepatotoxic effect of oxaliplatin and irinotecan on the non-tumourous liver parenchyma has been reported. These two main drugs have been linked to injuries such as vascular changes (sinusoidal obstruction syndrome (SOS) and chemotherapy-associated steatohepatitis (CASH)). Oxaliplatin-based regimens have been associated with an increased risk of vascular lesions and irinotecan-containing regimens have been also associated with increased risks of steatosis and steatohepatitis. SOS increased morbidity after major liver resection, mostly after administration of more than six cycles of neoadjuvant systemic chemotherapy. CASH increased morbidity and mortality rates after hepatectomy. Preliminary results demonstrated that the addition of targeted molecular therapy (bevacizumab or cetuximab) to conventional chemotherapy does not increase the postoperative morbidity and mortality rates after hepatectomy. Furthermore, there was no additional injury to the non-tumorous liver parenchyma.

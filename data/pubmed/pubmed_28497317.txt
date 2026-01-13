@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Radiation therapy
+TITLE: Role of Radiation Therapy in the Treatment of Hodgkin Lymphoma.
+PMID: 28497317
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28497317/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Radiation therapy has historically been the pillar of curative treatment for Hodgkin lymphoma (HL). With improved efficacy of systemic therapy and the ever-increasing recognition of treatment-related morbidity in long-term survivors, the role of radiotherapy has evolved significantly. Modern combined modality therapy (CMT) with multi-agent chemotherapy followed by involved site radiation therapy (ISRT) to initially involved sites of disease remains the gold standard for the majority of patients with HL. Reduction of long-term treatment-related toxicity has become the major driver in clinical trial design for early-stage HL while improved disease-specific survival remains the goal in patients with more advanced and unfavorable disease. This review will address the data supporting the use of radiotherapy in HL as well as specific methods for reducing late toxicity from radiotherapy.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Biopsy
+TITLE: When to biopsy and when to stop biopsying.
+PMID: 12735502
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12735502/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+With the widespread use of serum prostate-specific antigen (PSA) and transrectal ultrasound-guided needle biopsy of the prostate in men with suspected prostate cancer, physicians are faced with the dilemma of treating a patient with a high index of suspicion of prostate cancer but with an initial set of negative biopsies. For the initial biopsy, the optimal number of biopsy cores for detecting prostate cancer in prostate biopsy remains controversial; it is also often unclear who should undergo a repeat prostatebiopsy and when to stop biopsying.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Glaucoma
+TITLE: [Secondary open-angle glaucoma: pseudoexfoliative glaucoma, pigmentary glaucoma and neovascular glaucoma].
+PMID: 35362756
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35362756/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Secondary open-angle glaucomas are a heterogeneous group of diseases in which a variety of pathophysiological mechanisms result in an elevation of intraocular pressure. This article is the first part of a review of the more common forms of secondary open-angle glaucomas. The pathogenesis, characteristic clinical findings and treatment of pseudoexfoliative glaucoma, pigmentary glaucoma and neovascular glaucoma are discussed. An emphasis is placed on the differences in treatment compared to primary open-angle glaucoma and prophylactic treatment approaches are explained where possible.

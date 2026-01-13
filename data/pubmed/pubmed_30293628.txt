@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Carpal tunnel syndrome
+TITLE: Guiding Treatment for Carpal Tunnel Syndrome.
+PMID: 30293628
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30293628/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Making the correct carpal tunnel syndrome diagnosis is the most important step in treatment. Electrodiagnosis can confirm carpal tunnel syndrome and eliminate mimicking diseases from the differential. Treatment should provide satisfactory pain relief and protection of the median nerve from further deterioration. Electrodiagnosis testing provides information on focal median mononeuropathy at the wrist that could be used to classify carpal tunnel syndrome from mild to severe. The information obtained can help patients to understand and choose treatment in a patient-centered fashion. False positives can cause more harm than false negatives in the case of carpal tunnel syndrome.

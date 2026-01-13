@@ -1,0 +1,8 @@
+SEARCH_TOPIC: ADHD
+TITLE: Prenatal risk factors and genetic causes of ADHD in children.
+PMID: 35235183
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35235183/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Attention deficit/hyperactivity disorder (ADHD) is a common disease among children; it affected 5-7% of the population in 2015. ADHD is a multifactorial disease, and its etiology is still not clearly understood. This narrative review has been done by searching the PubMed and Embase databases using attention deficit/hyperactivity disorder, ADHD, risk factors; genetics; pediatrics; psychiatrics as keywords. ADHD is considered to be a hereditary disorder in which genes play the fundamental role in the pathogenesis; however, findings from genetic-environmental studies support the hypothesis that genetic factors can exert effects on an individual's condition by determining his/her responses to environmental exposures, especially those during the prenatal stage. ADHD is considered as a hereditary disorder in which genes and prenatal risk factors play fundamental roles in the pathogenesis.

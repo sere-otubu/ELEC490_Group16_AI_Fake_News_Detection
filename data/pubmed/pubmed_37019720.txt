@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pain management
+TITLE: Multimodal Approach to Pain Management in Veterinary Rehabilitation.
+PMID: 37019720
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37019720/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Pain recognition, assessment, and management is a primary focus and an integral part of veterinary rehabilitation. Evidence-based pain mitigation protocols will use both pharmacologic tools and nonpharmacologic methods to create a customized, safe, and effective treatment plan. A multimodal, patient-centered approach will allow for the best outcomes for pain relief and improved quality of life.

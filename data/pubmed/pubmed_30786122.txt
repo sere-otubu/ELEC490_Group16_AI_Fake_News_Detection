@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Type 2 Diabetes
+TITLE: Birth weight and risk of type 2 diabetes: A dose-response meta-analysis of cohort studies.
+PMID: 30786122
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30786122/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The association between birth weight and type 2 diabetes mellitus has been debated for several decades. The objective of this systematic review and meta-analysis was to quantitatively clarify the association between birth weight and risk of type 2 diabetes mellitus based on cohort studies. We searched PubMed, Web of Science, and Embase databases for cohort study articles on the association between birth weight and risk of type 2 diabetes mellitus published up to 1 March 2018. Random effects of generalized least square regression models were used to estimate relative risk (RR). Restricted cubic splines were conducted to model the dose-response relationship. We included 21 studies (19 articles) involving 1 041 879 individuals and 35 699 cases of type 2 diabetes mellitus, with follow-up ranged from 6 to 47 years. We identified significant decreasing trend for the highest versus lowest category of birth weight for the association with type 2 diabetes mellitus risk: The risk was reduced by 35% (RR, 0.65; 95% confidence interval [CI], 0.53-0.81) and by 12% (RR 0.88; 95% CI, 0.85-0.91) per 500-g increment in birth weight. Our results showed a dose-response relationship between birth weight and diabetes risk, which was nonlinear (P<sub>nonlinearity</sub>  < 0.001) and L-shaped. With increasing birth weight (<5000 g), the risk of type 2 diabetes mellitus decreased substantially. The association between birth weight and type 2 diabetes mellitus was curvilinear and L-shaped.

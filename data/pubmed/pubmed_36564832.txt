@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Environmental health
+TITLE: Advancing environmental health sciences through implementation science.
+PMID: 36564832
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36564832/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Environmental health sciences have identified and characterized a range of environmental exposures and their associated risk for disease, as well as informed the development of interventions, including recommendations, guidelines, and policies for mitigating exposure. However, these interventions only serve to mitigate exposures and prevent disease if they are effectively disseminated, adopted, implemented, and sustained. Numerous studies have documented the enormous time lag between research and practice, noting that dissemination and implementation are not passive processes but rely on active and intentional strategies. Implementation science seeks to build the knowledge base for understanding strategies to effectively disseminate and implement evidence and evidence-based interventions, and thus, bridge the research-to-practice gap. Environmental health researchers are well positioned to advance health promotion and disease prevention by incorporating implementation science into their work. This article describes the rationale for and key components of implementation science and articulates opportunities to build upon existing efforts to advance environmental health supported by the National Institute of Environmental Health Sciences and National Institutes of Health broadly.

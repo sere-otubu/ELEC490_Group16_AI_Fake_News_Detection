@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Seasonal allergies
+TITLE: Seasonal allergies and mental health: Do small health shocks affect suicidality?
+PMID: 40987249
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40987249/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Suicide rates increased 37% in the US from 2000 to 2018; while structural factors are extensively studied, short-term triggers remain less understood. We examine the impact of small exogenous shocks - allergies triggered by seasonal pollen - on suicides. Pollen allergies diminish cognitive function and disrupt sleep-predictors of suicidality. Combining disparate datasets across 34 localities in the United States from 2006 to 2018, we use a specification with granular fixed effects to identify the effect of pollen on suicides from daily variation in each. We find that as pollen levels rise, the count of suicides in a county increases - up to 7.4% more suicides when pollen levels at their highest levels. We find that individuals with a known mental health condition or treatment have 8.6% higher incidence of suicides on days with highest pollen. We also show that this effect is not spurious - Google searches for allergy and depression symptoms increase substantively as pollen levels rise. These estimates are robust to multiple specifications. As climate change extends and intensifies the pollen season, we expect its impact to more than double the number of suicides by the end of the century. These results point toward the importance of relatively small exogenous shocks on suicidality and the potential for relatively inexpensive and routine health care measures such as allergy testing and treatment to improve mental health.

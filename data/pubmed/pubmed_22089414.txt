@@ -1,0 +1,8 @@
+SEARCH_TOPIC: HPV vaccine
+TITLE: HPV vaccine update: new indications and controversies.
+PMID: 22089414
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22089414/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Human papillomavirus (HPV) has a predilection for infecting epidermal and mucosal surfaces such as those of the anogenital region. HPV causes substantial pre-malignant, malignant, and benign disease in both women and men, ranging from cervical, vulvar, penile, and anal cancers to condyloma acuminata (genital warts). Although HPV vaccination is becoming more common, infection rates remain high in both genders. Perception of HPV vaccine has largely centered on its ability to prevent cervical cancer in women, though indication for its use in men is expanding. The benefits to men include prevention of genital warts and, more recently, regulatory approval was expanded in the US for prevention of anal cancer. Herein, we review HPV vaccine with a focus on its new indication in men and existing controversies.

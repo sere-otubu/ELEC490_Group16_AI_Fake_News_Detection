@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Epilepsy
+TITLE: Antiepileptic Drug Combinations for Epilepsy: Mechanisms, Clinical Strategies, and Future Prospects.
+PMID: 40362274
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40362274/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Epilepsy is a chronic neurological disorder characterized by abnormal neuronal discharge, leading to recurrent and unpredictable disruptions in brain function. Despite over 30 antiepileptic drugs (AEDs), 30% of patients develop drug-resistant epilepsy, requiring combination therapy. This review explores epilepsy's pathogenesis, including neuronal hyperexcitability, neurotransmitter imbalances, and ion channel dysfunction, alongside genetic, inflammatory, immune, and oxidative stress factors. AEDs are classified by mechanisms like voltage-gated ion channel modulation and GABA/glutamate regulation, tracing their evolution from traditional (e.g., phenobarbital) to modern therapies (e.g., lamotrigine). Combination therapy, using complementary mechanisms (e.g., lacosamide with levetiracetam), enhances efficacy but poses risks like drug interactions and cognitive impairment. Integrating molecular biology and pharmacology advances, this review highlights the need for rational drug selection and individualized strategies to improve epilepsy treatment outcomes and patient quality of life. Future directions include personalized treatments, optimized dosage forms, novel drug targets, and multi-target drugs.

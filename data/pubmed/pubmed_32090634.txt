@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rural healthcare
+TITLE: Rural healthcare delivery: Navigating a complex ecosystem.
+PMID: 32090634
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32090634/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Clinical Practice Guidelines (CPGs) provide evidence-based recommendations for Healthcare Providers (HCPs) to utilize when making patient care decisions. Rural providers face challenges in the provision of evidence-based care, including the use of guidelines. The aim of this article is to explore the complexities of providing healthcare in rural areas. This article will focus on a specific aspect of rural maternity care with well-established CPGs, the prevention of Rhesus D factor alloimmunization. An applied health research approach, interpretive description, utilized semistructured interviews with HCPs across the vast geographic region of northern British Columbia. The study found that HCPs are aware of guidelines but face various barriers during implementation. In order to implement guidelines within practice, rural HCPs adapt processes to overcome local barriers. These process adaptations need to be identified and shared across a large health authority with a complex geography and healthcare system to ensure quality of care.

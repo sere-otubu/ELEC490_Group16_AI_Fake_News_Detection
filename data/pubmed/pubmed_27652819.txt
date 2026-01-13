@@ -1,0 +1,8 @@
+SEARCH_TOPIC: NSAIDs side effects
+TITLE: NSAIDs and cardiovascular risk.
+PMID: 27652819
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27652819/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+NSAIDs are the most largely used class of drugs in the world, due to their large use in many diseases, in particular for the systemic inflammatory diseases. Nevertheless, today NSAIDs are less used for some of these diseases, due to several side-effects correlated to these drugs. The antiinflammatory mechanism of NSAIDs consist in the inibhition of two forms of cyclooxygenase, namely COX-1 (its block contributes to an antiplatelet effect) and COX-2 (its block has a greater antiinflammatory, antipyretic and analgesic effect). The COX-2 inhibition might reduce the risk of gastrointestinal toxicity, but several studies have shown the cardiovascular side effects of this inhibition. Mechanisms of the cardiovascular side effects are controversial yet, so the aim of this document is to review side-effects profile of NSAIDs and, specifically, to investigate cardiovascular consequences of NSAIDs use in clinical practice.

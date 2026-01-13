@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Shingles
+TITLE: Shingles vaccine.
+PMID: 20113211
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20113211/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Herpes zoster or shingles is a condition with the potential to result in severe debilitation. It affects approximately 10 - 30% of the population. Until recently there were only treatments to shorten the duration and lessen the symptoms of herpes zoster, but no practical or approved method of prevention for susceptible immunocompetent adults. The live attenuated zoster vaccine (Zostavax, Merck & Co., Inc.) is effective in preventing shingles in individuals 60 years of age and older and recommended by the Center for Disease Control's (CDC) Advisory Committee for Immunization Practices (ACIP). Literature related to the live attenuated zoster vaccine is reviewed from its beginnings in the early 1970s through to the present. Background information on herpes zoster and up to date information on the live attenuated zoster vaccine including pharmacology, efficacy and safety are covered. New areas of research in zoster vaccination are also discussed. The live attenuated zoster vaccine is an effective and well-tolerated method of preventing zoster and the potentially debilitating sequelae and is recommended for immunocompetent patients 60 years of age and older. Ongoing clinical trials are investigating new means of effective prevention.

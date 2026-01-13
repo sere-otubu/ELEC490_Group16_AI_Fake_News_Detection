@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Circadian rhythms
+TITLE: Circadian rhythms: influence on physiology, pharmacology, and therapeutic interventions.
+PMID: 33797011
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33797011/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Circadian rhythms are ubiquitous phenomena that recur daily in a self-sustaining, entrainable, and oscillatory manner, and orchestrate a wide range of molecular, physiological, and behavioral processes. Circadian clocks are comprised of a hierarchical network of central and peripheral clocks that generate, sustain, and synchronize the circadian rhythms. The functioning of the peripheral clock is regulated by signals from autonomic innervation (from the central clock), endocrine networks, feeding, and other external cues. The critical role played by circadian rhythms in maintaining both systemic and tissue-level homeostasis is well established, and disruption of the rhythm has direct consequence for human health, disorders, and diseases. Circadian oscillations in both pharmacokinetics and pharmacodynamic processes are known to affect efficacy and toxicity of several therapeutic agents. A variety of modeling approaches ranging from empirical to more complex systems modeling approaches have been applied to characterize circadian biology and its influence on drug actions, optimize time of dosing, and identify opportunities for pharmacological modulation of the clock mechanisms and their downstream effects. In this review, we summarize current understanding of circadian rhythms and its influence on physiology, pharmacology, and therapeutic interventions, and discuss the role of chronopharmacometrics in gaining new insights into circadian rhythms and its applications in chronopharmacology.

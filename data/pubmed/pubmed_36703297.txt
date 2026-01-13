@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Mindful eating
+TITLE: Mindful eating: A conceptual critical review of the literature, measurement and intervention development.
+PMID: 36703297
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36703297/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+<b>Background:</b> Defining mindful eating and discussing all it entails has proven to be abstract, open-ended and biased to the interpretation of the researchers and authors in the field. Despite some consensus, different interpretations have led to different psychometric tools and practices not descriptive of mindful eating, contributing towards a replication crisis. <b>Aim/Method:</b> This narrative review will draw on the most appropriate definition of mindful eating in the framework of traditional secular mindfulness literature and discuss how mindful eating psychometrics and practices are unsuitable for precise research. <b>Results/Discussion:</b> A proposal and directive of separation between <i>eating behaviours</i> and <i>decision-making</i> in mindful eating as a way of developing evidence-based practices and psychometric tools are proposed for both clinical and non-clinical use.

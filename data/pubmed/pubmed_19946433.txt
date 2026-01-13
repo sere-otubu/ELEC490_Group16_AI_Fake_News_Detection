@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cataract surgery
+TITLE: Cataract surgery with implantation of an artificial lens.
+PMID: 19946433
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19946433/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cataract surgery, the most frequently performed operative procedure worldwide, typically concludes with the implantation of an artificial intraocular lens (IOL) to correct aphakia (absence of the crystalline lens). Selective literature review including current regulations, guidelines and recommendations for cataract surgery. The main symptom of cataract is loss of visual acuity, which usually progresses slowly. It can arise in one eye or both. There is a basic distinction between congenital and acquired cataracts. The probability of developing a cataract rises with age because of biochemical aging processes. The development of a cataract becomes highly likely from the sixth decade of life onward. As no effective medications for cataract are available at present, its current standard treatment is the removal of the clouded lens. In industrialized countries, this is usually done with ultrasound (phacoemulsification), followed by the implantation of an IOL.

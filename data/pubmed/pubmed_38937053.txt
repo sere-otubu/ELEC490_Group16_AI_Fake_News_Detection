@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Social anxiety
+TITLE: Paranoia and Social Anxiety: Predicting Aggressive Behavior.
+PMID: 38937053
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38937053/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Aggression is a transdiagnostic behavior that is associated with poor clinical outcomes. As such, it is important to understand factors that contribute to various manifestations of aggressive behavior. Recent research has revealed a subtype of individuals with social anxiety disorder (SAD) who tend to display relatively high amounts of aggression and experience more severe social anxiety and dysfunction compared to individuals in the prototypical SAD group. The current study used a status threat manipulation along with behavioral indices of aggression to examine the impact of paranoia and social anxiety symptom severity on aggression in a sample of undergraduates with social anxiety (N = 220). Analyses indicated that paranoia uniquely predicted indirect aggression whereas an interaction between social status threat, paranoia, and social anxiety severity uniquely predicted direct aggression. These findings suggest that paranoia may be a particularly important contributor to aggression among individuals with social anxiety.

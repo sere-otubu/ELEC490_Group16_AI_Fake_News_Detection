@@ -1,0 +1,8 @@
+SEARCH_TOPIC: IUD
+TITLE: Treatment of increased menstrual blood loss in IUD users.
+PMID: 3311623
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3311623/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although bleeding problems represent the commonest side effect of IUDs and an important medical reason for discontinuation of use, its pathogenesis still remains incompletely understood and a standard universally acceptable therapy is not yet available. Proper insertion, change in size, material or shape of the IUD, as well as custom fitting to avoid dimensional incompatibilities, did not significantly improve the IUD-associated bleeding problems. Addition of copper to inert devices seemed to slightly improve the bleeding by reducing the antifibrinolytic activity but probably more was achieved through reducing the device size. Hormone-releasing devices appear to reduce the amount of bleeding significantly but a post-insertion phase of irregular spotting is a common complaint. Locally released antifibrinolytic agents were tried in limited investigations but a short period of drug release restricted further evaluation. Systemic administration of antifibrinolytic agents and non-steroidal anti-inflammatory drugs hold promise for the control of IUD-induced menorrhagia. The duration of bleeding and intermenstrual spotting still remains an unresolved clinical problem that requires further evaluation. This area of clinical concern in IUD use needs more in depth understanding and testing of new agents, particularly in the area of local release of antihemorrhagic agents.

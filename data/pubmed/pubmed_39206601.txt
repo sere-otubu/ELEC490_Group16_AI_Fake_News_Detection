@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Deep vein thrombosis
+TITLE: Epidemiology of deep vein thrombosis.
+PMID: 39206601
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39206601/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+<b></b>Deep vein thrombosis (DVT) is a cause of considerable morbidity worldwide. It is a common clinical disease in the daily practice of several medical disciplines including general medicine, angiology, and internal medicine, as well as of interest to public health because of its preventability and its sensitivity to secular changes in the distribution of population risk factors. In this review we present a comprehensive overview of the epidemiological features of DVT, including incidence and risk factors. Additionally, we give an overview of the burden that DVT poses on modern health care systems.

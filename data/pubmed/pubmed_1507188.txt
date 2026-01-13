@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Amniocentesis
+TITLE: Early amniocentesis.
+PMID: 1507188
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1507188/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Early amniocentesis (EA) refers to any genetic amniocentesis performed prior to 15 weeks, 0 days' gestation. Because of technical problems, most practitioners stopped doing amniocenteses prior to 15 weeks' gestation in the late 1970s. The development of ultrasound-monitored needle insertion has allowed improved success and safety of sampling at earlier gestations, and improvements in laboratory techniques have allowed a high degree of success in culturing and processing low-volume samples. We present information on 1,805 early amniocenteses, of which 35% were performed prior to 14 weeks, 0 days' gestation. Our data indicate that with operator experience the success rate of the procedure can be similar to that seen with routine amniocentesis and that laboratory experience is not different from that with routine amniocentesis (RA) as measured by culture success, time to completion and accuracy. Pregnancy outcome, as measured by the gestational age at delivery, mode of delivery, birth weight and Apgar score, is indistinguishable between RA and EA patients. Although a randomized study is needed to accurately evaluate the fetal loss rate, the rate of birth defects and incidence of neonatal complications associated with EA procedures and examination of the crude rates for the above three parameters show that they compare favorably to the rates reported for patients who have undergone chorionic villus sampling or RA.

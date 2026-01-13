@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Carbohydrates types
+TITLE: Carbohydrates effects on nutrition and health functions in pigs.
+PMID: 33899995
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33899995/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The greatest improvement in carbohydrates studies on pig nutrition and health is that carbohydrates are classified more clearly, which is based not only on their chemical structure but also on their physiological characteristics. Besides its primary energy source, different types and structures of carbohydrates are a benefit for nutrition and health functions in pigs, which are involved in promoting growth performance and intestinal functions, regulating the community of gut microbiota, and modulating the lipids and glucose metabolism. The underlying mechanism of carbohydrates regulates the lipids and glucose metabolism through their metabolites (short-chain fatty acids [SCFAs]) and mainly via the SCFAs-GPR43/41-PYY/GLP1, SCFAs-AMP/ATP-AMPK, and SCFAs-AMPK-G6Pase/PEPCK pathways. Emerging research had evaluated an optimal combination in different types and structures of carbohydrates, which could enhance growth performance and nutrient digestibility, promote intestinal functions, and increase the abundances of butyrate-producing bacteria in pigs. Overall, compelling evidence supports the notion that carbohydrates play important roles in both nutrition and health functions in pigs. Moreover, identifying the carbohydrates combinations will be of both theoretical and practical values for developing the technology of carbohydrates balance in pigs.

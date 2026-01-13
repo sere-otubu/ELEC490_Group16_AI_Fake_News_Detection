@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Rheumatoid arthritis
+TITLE: Epigenetics in the pathogenesis of rheumatoid arthritis.
+PMID: 24568138
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24568138/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+An increasing number of studies show that besides the inherited genetic architecture (that is, genomic DNA), various environmental factors significantly contribute to the etiology of rheumatoid arthritis. Epigenetic factors react to external stimuli and form bridges between the environment and the genetic information-harboring DNA. Epigenetic mechanisms are implicated in the final interpretation of the encoded genetic information by regulating gene expression, and alterations in their profile influence the activity of the immune system. Overall, epigenetic mechanisms further increase the well-known complexity of rheumatoid arthritis by providing additional subtle contributions to rheumatoid arthritis susceptibility. Although there are controversies regarding the involvement of epigenetic and genetic factors in rheumatoid arthritis etiology, it is becoming obvious that the two systems (genetic and epigenetic) interact with each other and are ultimately responsible for rheumatoid arthritis development. Here, epigenetic factors and mechanisms involved in rheumatoid arthritis are reviewed and new, potential therapeutic targets are discussed.

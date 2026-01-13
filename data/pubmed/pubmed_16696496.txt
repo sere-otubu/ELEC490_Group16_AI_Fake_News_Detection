@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Flu shot
+TITLE: The flu...and you.
+PMID: 16696496
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16696496/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Seasonal influenza is primarily an upper respiratory illness that recurs yearly in slightly different forms. The "flu shot," or yearly vaccine, is the best precaution for preventing flu. All health care workers at risk are advised to be vaccinated every year. Occasionally more dangerous or even deadly forms develop, possibly leading to epidemics and pandemics. Both type A and B can cause epidemics, but influenza type A has greater potential to develop new and deadly subtypes and is responsible for the current "bird flu" that threatens to mutate to a form capable of a human pandemic. The flu is spread by droplets of oral and respiratory secretions. In dental facilities, in addition to Standard Precautions, Droplet Precautions should be observed when people with highly contagious respiratory infections such as influenza are present. Consistent use of masks and careful hand hygiene, including use of alcohol-based waterless agents in both treatment and public areas by both employees and patients, are the most important precautions to control influenza. CDC Respiratory Hygiene/Cough Etiquette (available in posters from the CDC) is the perfect starting point to inform workers and patients how to keep the dental office "a safe place to be healed" rather than a place to contract the flu.

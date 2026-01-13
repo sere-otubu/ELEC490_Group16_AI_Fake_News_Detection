@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Corticosteroids
+TITLE: Corticosteroids in Sarcoidosis.
+PMID: 26611555
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26611555/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Corticosteroids are the drug of choice for the treatment of sarcoidosis. Because the natural course of sarcoidosis may be self-limiting and/or cause no long-term harm, treatment is not mandatory. Corticosteroids are usually effective for all forms of sarcoidosis, and they work quickly. However, because of the potential toxicities of corticosteroids, alternative medications often need to be considered. Efforts should be made to minimize the corticosteroid dose while keeping the risk of toxicity as low as possible. This article outlines the indications for corticosteroid therapy for sarcoidosis, discusses various dosing regimens, and suggests when alternative corticosteroid agents should be considered.

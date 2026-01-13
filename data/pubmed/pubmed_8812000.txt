@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dementia
+TITLE: Subcortical dementia: a neurobehavioral approach.
+PMID: 8812000
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8812000/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The subcortical dementias are a heterogeneous group of disorders in which the predominant pathological lesions occur in subcortical structures such as basal ganglia, brainstem nuclei, and the cerebellum. When the cerebral cortex is involved, the lesions are most often in the frontal lobes. These pathologic lesions are associated with cognitive changes that include bradyphrenia, personality change (apathy, depression, irritability), memory impairment, and impaired manipulation of acquired knowledge (calculation, abstraction). Aphasia, apraxia, and agnosia are commonly seen in the cortical dementias, but are absent in the subcortical dementias. Progress in research on the anatomy and connectivity of cortical-subcortical structures has led to refinement in our understanding of the cortical dementias. Despite the connectivity between the cortical and subcortical structures, patterns of cognitive impairment in subcortical dementias remain distinct.

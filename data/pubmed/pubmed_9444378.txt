@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Sinusitis
+TITLE: Sinusitis of dental origin.
+PMID: 9444378
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9444378/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Acute or chronic sinusitis may be odontogenic. Bacteria involved in odontogenic sinusitis are specific organisms associated with the teeth (Streptococcus sanguis, Streptococcus salivarius, Streptococcus mutans, anaerobic germs). They are often secondary to an intrasinus foreign body following periodontitis. The treatment is both naso-sinusal and dental. Cysts of the maxilla can also invade the sinus. In particular, radiculo-dental cysts (periapical) must be surgically excised, in some cases associated with a middle meatotomy. Finally, one should look for oro-antral fistulae. The surgical technique for its closure should take into account the reversibility of the sinus lesions.

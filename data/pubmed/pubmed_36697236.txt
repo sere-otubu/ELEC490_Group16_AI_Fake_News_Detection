@@ -1,0 +1,8 @@
+SEARCH_TOPIC: mRNA vaccines
+TITLE: Development of mRNA Vaccines/Therapeutics and Their Delivery System.
+PMID: 36697236
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36697236/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The rapid development of mRNA vaccines has contributed to the management of the current coronavirus disease 2019 (COVID-19) pandemic, suggesting that this technology may be used to manage future outbreaks of infectious diseases. Because the antigens targeted by mRNA vaccines can be easily altered by simply changing the sequence present in the coding region of mRNA structures, it is more appropriate to develop vaccines, especially during rapidly developing outbreaks of infectious diseases. In addition to allowing rapid development, mRNA vaccines have great potential in inducing successful antigen-specific immunity by expressing target antigens in cells and simultaneously triggering immune responses. Indeed, the two COVID-19 mRNA vaccines approved by the U.S. Food and Drug Administration have shown significant efficacy in preventing infections. The ability of mRNAs to produce target proteins that are defective in specific diseases has enabled the development of options to treat intractable diseases. Clinical applications of mRNA vaccines/therapeutics require strategies to safely deliver the RNA molecules into targeted cells. The present review summarizes current knowledge about mRNA vaccines/ therapeutics, their clinical applications, and their delivery strategies.

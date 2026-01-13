@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Occupational therapy
+TITLE: Occupational therapy and primary care.
+PMID: 32799974
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32799974/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This article is the first in a series of two articles about Occupational Therapy and Primary Care. This first article describes the health policy context in which primary health care should be strengthened. A definition of occupational therapy is given and the scope of the profession is explained. Based on a survey amongst the (experts of) member associations of COTEC, an overview is given of the main target groups and how occupational therapy is embedded and organized in different countries. In a position statement it is argued why occupational therapy can and should contribute to a comprehensive integrated primary care and challenges to strengthen the position of the profession are described.

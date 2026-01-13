@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Organic foods
+TITLE: Packaged Foods Labeled as Organic Have a More Healthful Profile Than Their Conventional Counterparts, According to Analysis of Products Sold in the U.S. in 2019-2020.
+PMID: 34578899
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34578899/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The organic food market's recent rapid global growth reflects the public's interest in buying certified organic foods, including packaged products. Our analysis shows that packaged foods containing fewer ingredients associated with negative public health outcomes are more likely to be labeled organic. Previous studies comparing organic and conventional foods focused primarily on nutrient composition. We expanded this research by additionally examining ingredient characteristics, including processing and functional use. Our dataset included nutrition and ingredient data for 8240 organic and 72,205 conventional food products sold in the U.S. from 2019 to 2020. Compared to conventional foods, organic foods in this dataset had lower total sugar, added sugar, saturated fat and sodium content. Using a mixed effects logistic regression, we found that likelihood of classification as organic increased as sodium content, added sugar content and the number of ultra-processed ingredients and cosmetic additives on the product label decreased. Products containing no trans-fat ingredients were more likely to be labeled organic. A product was more likely to be classified "organic" the more potassium it contained. These features of organic foods sold in the U.S. are significant because lower dietary ingestion of ultra-processed foods, added sugar, sodium and trans-fats is associated with improved public health outcomes.

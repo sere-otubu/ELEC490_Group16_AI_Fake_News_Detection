@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cluster headaches
+TITLE: Neurostimulation at pterygopalatine fossa for cluster headaches and cerebrovascular disorders.
+PMID: 24859567
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24859567/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+There are numerous neural structures (parasympathetic, sympathetic, and trigeminal sensory) that are compacted in a small well defined area of the pterygopalatine fossa (PPF). These targets can be readily accessed via minimally invasive neuromodulation techniques making the methods more desirable than neurosurgical deep brain or hypothalamic intervention. Recent research has shed light over the important role of the sphenopalatine ganglion (SPG), which is located within the PPF, in cerebrovascular autonomic physiology as well as in the pathophysiology of different headache disorders (cluster headache, migraine, and trigeminal autonomic cephalalgias). Accordingly, neuromodulation of the autonomic fibers (parasympathetic and sympathetic) may play a key role in the management of headaches, stroke, or cerebral vasospasm. Another important structure within the PPF is the maxillary nerve (V2), which passes through the roof of the fossa. Here the trigeminal system is accessible for a reliable neuromodulation by targeting its second branch -the maxillary nerve- and this could be utilized in various painful conditions of the head and face.

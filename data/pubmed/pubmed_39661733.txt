@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Spinal fusion
+TITLE: Segmental Lordosis Restoration During Lumbar Degenerative Spinal Fusion: Surgical Techniques and Outcomes.
+PMID: 39661733
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39661733/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The science of spinal alignment has progressed rapidly since Jean Doubousset described the cone of economy in the 1970s. It is now clearly established that global and regional spinal alignment are associated with improved patient-reported outcome and rates of success of lumbar spinal fusion. Evidence has now emerged that segmental level-by-level alignment is also associated with positive patient outcomes. As such, restoring sagittal alignment matched to spinopelvic morphology during degenerative lumbar surgery can optimize surgical outcomes by preventing adjacent segment pathology. This review focuses on the vital importance of spinal alignment in different spinal conditions, provides a guide for measurement of spinopelvic parameters, and outlines literature regarding lumbar restoration in degenerative spinal fusion.

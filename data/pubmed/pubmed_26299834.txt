@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Peptic ulcer
+TITLE: [Peptic ulcer disease and stress].
+PMID: 26299834
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26299834/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The discovery that Helicobacter pylori infection is the major cause of peptic ulcer disease revolutionised our views on the etiology and treatment of the disease. This discovery has tempted many experts to conclude that psychological factors and, specifically, stress are unimportant. However, Helicobacter pylori infection alone does not explain fully the incidence and prevalence of peptic ulcer disease. It has been demonstrated that stress can cause peptic ulcer disease even in the absence of Helicobacter pylori infection, supporting a multicausal model of peptic ulcer etiology. Psychological stress among other risk factors can function as a cofactor with Helicobacter pylori infection.

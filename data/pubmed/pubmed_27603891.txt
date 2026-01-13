@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Lactose intolerance
+TITLE: [Lactose intolerance].
+PMID: 27603891
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27603891/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The most common problem limiting milk consumption worldwide is lactose intolerance (LI), which is defined as the experience of gastrointestinal symptoms due to the intake of lactose-containing food. When symptoms ensue the intake of milk, the condition is referred as milk intolerance, and it may or may not be due to LI. The most common cause of LI is primary lactase deficiency which occurs in 30% of Mexican adults when one glass of milk is consumed (12-18 g of lactose). LI occurs in less than 15% of adults after the intake of this dose of lactose. Another cause of lactose intolerance is due to secondary lactase deficiency, which occurs because lactase is reduced due to diseases that affect the intestinal mucosa. Lactose intolerance can be eliminated or significantly reduced by elimination or reduction of the intake of milk and milk containing products. Recent studies demonstrate that when β-casein-A1 contained in milk is hydrolyzed it produces β-casomorphine-7 which is an opioid associated with milk intolerance.

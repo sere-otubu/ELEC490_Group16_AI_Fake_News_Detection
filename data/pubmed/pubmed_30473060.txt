@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dialysis
+TITLE: [Technological innovations in dialysis].
+PMID: 30473060
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30473060/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The history of dialysis, which started only half a century ago, is rich in developments and technological innovations. Thanks to scientific progress and the development of knowledge in the field of dialysis, patient survival will continue to increase and quality of life will continue to improve. More precise purification, reductions in the size and weight of equipment as well as refinement of filtration membranes are a few of the recent and current breakthroughs, and are challenges for further development. Dialysis has a world of opportunities ahead in terms of optimizing processes and new innovations, continuing the progress made in improving patient treatment conditions. Cet article fait partie du numéro supplément Innovations en Néphrologie réalisé avec le soutien institutionnel de Vifor Fresenius Medical Care Renal Pharma.

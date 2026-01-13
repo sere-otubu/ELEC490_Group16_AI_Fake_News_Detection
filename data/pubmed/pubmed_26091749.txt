@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Integumentary system
+TITLE: Connexins and pannexins in the integumentary system: the skin and appendages.
+PMID: 26091749
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26091749/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The integumentary system comprises the skin and its appendages, which includes hair, nails, feathers, sebaceous and eccrine glands. In this review, we focus on the expression profile of connexins and pannexins throughout the integumentary system in mammals, birds and fish. We provide a picture of the complexity of the connexin/pannexin network illustrating functional importance of these proteins in maintaining the integrity of the epidermal barrier. The differential regulation and expression of connexins and pannexins during skin renewal, together with a number of epidermal, hair and nail abnormalities associated with mutations in connexins, emphasize that the correct balance of connexin and pannexin expression is critical for maintenance of the skin and its appendages with both channel and non-channel functions playing profound roles. Changes in connexin expression during both hair and feather regeneration provide suggestions of specialized communication compartments. Finally, we discuss the potential use of zebrafish as a model for connexin skin biology, where evidence mounts that differential connexin expression is involved in skin patterning and pigmentation.

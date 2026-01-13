@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Deep vein thrombosis
+TITLE: Inflammation in deep vein thrombosis: a therapeutic target?
+PMID: 31736432
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31736432/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Deep vein thrombosis is a common disease associated with a variety of complications including post-thrombotic syndrome as a late complication. It is now clear that in addition to classical deep vein thrombosis triggers such as blood flow disturbance, hypercoagulability, and vessel wall changes, inflammation has a key role in the pathophysiology of deep vein thrombosis, and there is a close relationship between inflammation and coagulation. As attested by changes in several plasma biomarkers, inflammation may have a significant role in the development of post-thrombotic syndrome. Here, we review the link between inflammation and deep vein thrombosis and thus the potential value of anti-inflammatory and/or anticoagulant drugs in the treatment of deep vein thrombosis and the prevention of post-thrombotic syndrome.

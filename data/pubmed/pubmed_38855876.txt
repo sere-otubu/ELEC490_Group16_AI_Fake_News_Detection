@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Immunotherapy
+TITLE: Immunotherapy for hepatocellular carcinoma.
+PMID: 38855876
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38855876/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Hepatocellular carcinoma (HCC) is a leading cause of cancer-related deaths worldwide. Its high recurrence rate and lack of effective control drugs result in a 5-year survival rate of only about 10%. HCC is a tumor regulated by the immune system. Significant breakthroughs have occurred in treating solid tumors with immunotherapy in recent years. Various immunotherapies, such as immune checkpoint inhibitors (ICIs), including combination therapies, have demonstrated promising therapeutic effects in both clinical applications and research. Other immunotherapies, such as adoptive cell therapies and oncolytic viruses, are also emerging, offering hope for addressing long-term survival issues in HCC. This article reviews current commonly used immunotherapy strategies and the latest research findings for reference.

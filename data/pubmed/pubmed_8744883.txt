@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Common cold
+TITLE: Antihistamines and the common cold. A review and critique of the literature.
+PMID: 8744883
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8744883/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To determine if antihistamines provided clinically significant relief from the symptoms of the common cold. Structured literature review following standardized guidelines of primary studies published after 1975. Improvements in symptom scores for total symptoms and nasal symptoms over the first three days of a common cold. Three of five studies reporting on sneezing found a statistically significant improvement in the antihistamine group; similarly, three of seven studies reporting on nasal discharge found a statistically significant improvement with therapy. No study reported improvement in total symptom score at the level of p < .05. The validity of these findings was weakened by several flaws in the literature such as inattention to clinical significance and functional impact, inappropriate use of statistical tests, and poorly described methodology. The clinical significance of these improvements was not demonstrated. The primary literature offers little support for the use of antihistamines in the common cold.

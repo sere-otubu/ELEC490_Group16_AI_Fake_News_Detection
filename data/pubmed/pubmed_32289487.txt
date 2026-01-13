@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Whey protein
+TITLE: Whey protein ingestion in elderly diet and the association with physical, performance and clinical outcomes.
+PMID: 32289487
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32289487/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Nutrition is critical to the health of the elderly, since most of them have a deficiency in key nutrient. The use of whey protein may be a food strategy to increase protein intake. The objective of this work was to evaluate the ingestion of whey protein for the elderly and the association with physical performance and clinical outcomes. A systematic review was conducted in order to find papers that shed some light in the correlation between whey protein and the elderly. population: elderly; intervention: use of whey protein when compared to control group; outcome: related to health, nutrition, or quality of life. PubMed, with papers published in the last 5 years. (elder OR senior OR elderly OR aging OR aged OR old OR older) AND (whey OR "whey protein"). 35 papers were selected of which 22 had a physical performance outcome and 13 had clinical outcomes. Studies indicate that whey protein supplements promote protein synthesis in the elderly, improving muscle performance and aerobic capacity, protecting against sarcopenia and reducing the risk for falls. In the papers studied, the age group considered to be elderly was ≥65 years in 27 papers and ≥60 years in the other 8 papers. Whey protein also appears to contribute to improved health, recovery from disease, prevention of cardiovascular and metabolic risks, and hepatic steatosis complications. Data suggest that whey protein supplements may be promising for the health improvement of the elderly.

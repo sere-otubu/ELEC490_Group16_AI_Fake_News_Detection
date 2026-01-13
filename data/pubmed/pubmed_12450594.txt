@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Ultrasound
+TITLE: Evolving applications for contrast ultrasound.
+PMID: 12450594
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12450594/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Future clinical applications for contrast-enhanced ultrasound will likely expand beyond perfusion imaging. There has been considerable progress in the past few years in the development of site-targeted microbubbles, such that instead of passing unimpeded through the circulation, they attach to specific markers of disease. Accumulation of targeted microbubbles in diseased tissue can allow noninvasive ultrasound imaging of molecular and cellular processes. In this review, the strategies for designing site-targeted microbubbles and the early experience with molecular imaging will be discussed. The use of microbubbles and ultrasound for therapeutic purposes is also just now being realized. A promising development is the ability to package either drugs or genes into or onto microbubble contrast agents. Conceptually, ultrasound-mediated destruction of microbubble vehicles will provide focal release in a tissue of interest and may facilitate extravascular sojourn of the therapeutic agent. Preliminary experience using microbubbles as vectors for gene delivery is also reviewed.

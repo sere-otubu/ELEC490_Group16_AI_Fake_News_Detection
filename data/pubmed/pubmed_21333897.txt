@@ -1,0 +1,8 @@
+SEARCH_TOPIC: IBS
+TITLE: Epidemiology of IBS.
+PMID: 21333897
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21333897/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Irritable bowel syndrome (IBS) is a common functional gastrointestinal (GI) disorder. Because not everyone needs to seek care, population-based studies are needed to truly understand the epidemiology of IBS. About 10% of the population has IBS at any one time and about 200 people per 100,000 will receive an initial diagnosis of IBS over the course of a year. IBS patients are more frequently younger in age, and a female predominance has been observed in Western countries and tertiary care settings. IBS patients commonly report overlapping upper GI, as well as a variety of non-GI, complaints.

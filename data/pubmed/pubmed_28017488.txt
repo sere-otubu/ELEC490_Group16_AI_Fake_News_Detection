@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Alternative medicine
+TITLE: Complementary and Alternative Medicine in the School-Age Child With Autism.
+PMID: 28017488
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28017488/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This case study examines some common complementary and alternative treatments used in the management of behavioral and gastrointestinal symptoms associated with autism including food selectivity, abdominal pain, nausea, gastroesophageal reflux, constipation, and diarrhea. The current literature on the safety and efficacy of these treatments for pediatric patients is reviewed. This study examines therapies including gluten-free and casein-free diet, probiotics, vitamin B12, omega-3 fatty acid supplementation, chelation therapy, acupuncture, and chiropractic manipulations used in treating these core symptoms of autism.

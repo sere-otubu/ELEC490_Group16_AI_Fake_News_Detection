@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antacids
+TITLE: Cimetidine for stress-ulcer prophylaxis.
+PMID: 6375965
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6375965/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although cimetidine is more effective than a placebo for the prophylaxis of stress-induced ulcers, it has no advantage over titrated antacid dosing. Several comparative studies even suggest that combining cimetidine with antacid is no more effective than use of full-dose antacid. Therefore, we recommend prophylactic use of cimetidine only when very large dosages of antacid are required, in order to minimize acid-base disturbances.

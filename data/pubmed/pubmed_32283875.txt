@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Probiotics and gut health
+TITLE: Breast Milk, a Source of Beneficial Microbes and Associated Benefits for Infant Health.
+PMID: 32283875
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32283875/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Human breast milk is considered the optimum feeding regime for newborn infants due to its ability to provide complete nutrition and many bioactive health factors. Breast feeding is associated with improved infant health and immune development, less incidences of gastrointestinal disease and lower mortality rates than formula fed infants. As well as providing fundamental nutrients to the growing infant, breast milk is a source of commensal bacteria which further enhance infant health by preventing pathogen adhesion and promoting gut colonisation of beneficial microbes. While breast milk was initially considered a sterile fluid and microbes isolated were considered contaminants, it is now widely accepted that breast milk is home to its own unique microbiome. The origins of bacteria in breast milk have been subject to much debate, however, the possibility of an entero-mammary pathway allowing for transfer of microbes from maternal gut to the mammary gland is one potential pathway. Human milk derived strains can be regarded as potential probiotics; therefore, many studies have focused on isolating strains from milk for subsequent use in infant health and nutrition markets. This review aims to discuss mammary gland development in preparation for lactation as well as explore the microbial composition and origins of the human milk microbiota with a focus on probiotic development.

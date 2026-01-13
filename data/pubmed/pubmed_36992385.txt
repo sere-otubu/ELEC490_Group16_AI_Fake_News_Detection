@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Conjunctivitis
+TITLE: Viral Conjunctivitis.
+PMID: 36992385
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36992385/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Viruses account for 80% of all cases of acute conjunctivitis and adenovirus; enterovirus and herpes virus are the common causative agents. In general, viral conjunctivitis spreads easily. Therefore, to control the spread, it is crucial to quickly diagnose illnesses, strictly implement hand washing laws, and sanitize surfaces. Swelling of the lid margin and ciliary injection are subjective symptoms, and eye discharge is frequently serofibrinous. Preauricular lymph node swelling can occasionally occur. Approximately 80% of cases of viral conjunctivitis are caused by adenoviruses. Adenoviral conjunctivitis may become a big global concern and may cause a pandemic. Diagnosis of herpes simplex viral conjunctivitis is crucial for using corticosteroid eye solution as a treatment for adenovirus conjunctivitis. Although specific treatments are not always accessible, early diagnosis of viral conjunctivitis may help to alleviate short-term symptoms and avoid long-term consequences.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antivirals
+TITLE: An Overview of Antivirals against Monkeypox Virus and Other Orthopoxviruses.
+PMID: 36961984
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36961984/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The current monkeypox outbreaks during the COVID-19 pandemic have reignited interest in orthopoxvirus antivirals. Monkeypox belongs to the <i>Orthopoxvirus</i> genus of the Poxviridae family, which also includes the variola virus, vaccinia virus, and cowpox virus. Two orally bioavailable drugs, tecovirimat and brincidofovir, have been approved for treating smallpox infections. Given their human safety profiles and in vivo antiviral efficacy in animal models, both drugs have also been recommended to treat monkeypox infection. To facilitate the development of additional orthopoxvirus antivirals, we summarize the antiviral activity, mechanism of action, and mechanism of resistance of orthopoxvirus antivirals. This perspective covers both direct-acting and host-targeting antivirals with an emphasis on drug candidates showing in vivo antiviral efficacy in animal models. We hope to speed the orthopoxvirus antiviral drug discovery by providing medicinal chemists with insights into prioritizing proper drug targets and hits for further development.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gout
+TITLE: Gout: one year in review 2025.
+PMID: 40153315
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40153315/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The incidence of gout has increased steadily over the last decades and its management is still unsatisfactory. Growing evidence highlights the multifactorial etiology of this disease encompassing genetic predisposition, environmental stimuli and gut dysbiosis. Recent advances in biomolecular and computer sciences allowed to gain more and more genetic, epigenetic, transcriptomic, proteomics and metabolomics insights into hyperuricaemia and gout-related molecular mechanisms. Moreover, the interplay between gout and cardiovascular, metabolic and renal diseases may potentially offer novel targets for anti-inflammatory and urate-lowering therapies.This annual review aims to provide the latest updates on gout research, epidemiology, genetics, molecular mechanisms, diagnostic approach, and therapeutic advances.

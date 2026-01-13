@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Stroke
+TITLE: Neuroimaging Modalities Used for Ischemic Stroke Diagnosis and Monitoring.
+PMID: 38003957
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38003957/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Strokes are one of the global leading causes of physical or mental impairment and fatality, classified into hemorrhagic and ischemic strokes. Ischemic strokes happen when a thrombus blocks or plugs an artery and interrupts or reduces blood supply to the brain tissue. Deciding on the imaging modality which will be used for stroke detection depends on the expertise and availability of staff and the infrastructure of hospitals. Magnetic resonance imaging provides valuable information, and its sensitivity for smaller infarcts is greater, while computed tomography is more extensively used, since it can promptly exclude acute cerebral hemorrhages and is more favorable speed-wise. The aim of this article was to give information about the neuroimaging modalities used for the diagnosis and monitoring of ischemic strokes. We reviewed the available literature and presented the use of computed tomography, CT angiography, CT perfusion, magnetic resonance imaging, MR angiography and MR perfusion for the detection of ischemic strokes and their monitoring in different phases of stroke development.

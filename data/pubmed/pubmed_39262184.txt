@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Beta blockers
+TITLE: [Beta-blockers and hypertension : an old actor returns to the stage].
+PMID: 39262184
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39262184/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+For decades beta-blockers are a heterogenous group of drugs with diverse pharmacological properties, used in the treatment of high blood pressure. However, their benefit as therapy for hypertension without concomitant compelling indications is controversial. In this article we will discuss the concept of sympathetic overdrive and the theoretical rationale of the use of beta-blockers as antihypertensive drugs. The differences between beta-blockers' generations in terms of anti-hypertensive efficacy and side effects are discussed. Finally, we review the position of the last European guidelines published in 2023 about beta-blockers in the management of arterial hypertension.

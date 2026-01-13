@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Evidence based medicine
+TITLE: What is evidence-based medicine?
+PMID: 12227116
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12227116/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Evidence-based practice requires clinical expertise, common sense, understanding of the circumstances and values of the patient, and judicious application of the best available evidence. This article discusses evidence-based medicine as an explicit and formal problem-solving strategy.

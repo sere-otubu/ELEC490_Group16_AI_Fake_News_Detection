@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Blood thinners
+TITLE: Hand Corticosteroid Injections in Patients on "Blood Thinners".
+PMID: 30880479
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30880479/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+<b>Background:</b> Our study aims to identify any influence that anticoagulation and antiplatelet ("blood thinner") medications have on hand and wrist corticosteroid injection complication rates. <b>Methods:</b> This retrospective chart review looked at patients between the ages of 18 and 89 years who received corticosteroid injections in the hand or wrist between 2013 and 2017, noting anticoagulation and antiplatelet use, demographics, injection placement, and surgical intervention. <b>Results:</b> Only 152 (20.9%) of the 726 diagnoses that were treated needed eventual surgical intervention. There were 12 overall reported complications after 1473 injections (0.8%). There were 6 complications after 433 injections (1.6%) placed in patients on blood thinners and 6 complications after 1040 injections (0.6%) placed in patients not on blood thinners. <b>Conclusions:</b> With the complication rate of corticosteroid injections being so low, even in patients taking "blood thinners," the fear of adverse reactions should not preclude a physician from using this treatment modality to prevent surgical intervention.

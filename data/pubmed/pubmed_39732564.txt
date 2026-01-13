@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cirrhosis
+TITLE: Liver Cirrhosis: ancient disease, new challenge.
+PMID: 39732564
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39732564/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Liver cirrhosis is a common cause of morbidity and mortality worldwide. Excessive alcohol consumption and metabolic associated steatotic liver disease are the most common etiological factors of cirrhosis in our region. Cirrhosis occurs in two well-differentiated phases, compensated and decompensated, depending on the absence or presence of complications, respectively. Current therapeutic strategies are aimed at controlling these complications (such as ascites, hepatic encephalopathy, bacterial infections, or digestive hemorrhage, among others) or performing a liver transplant if there are no contraindications. However, it is important to eliminate the etiological factor responsible for the disease, as this can lead to the disappearance of complications, a state known as recompensation. This article proposes an updated review of the epidemiology of cirrhosis and its main causes, and offers an overview of the clinical features and treatment of the disease's complications, in addition to outlining future lines of research in this field.

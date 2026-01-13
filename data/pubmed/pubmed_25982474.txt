@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Urinary system
+TITLE: [Ultrasound of the urinary system].
+PMID: 25982474
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25982474/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ultrasound techniques are able to provide a fairly complete examination of the urinary system, achieving a high sensitivity in relevant-pathology detection, especially in the kidney, bladder and prostate. Early detection of pathologies such as tumors or urinary tract obstructions, sometimes even before their clinical manifestation, has improved their management and prognosis in many cases. This, added to its low cost and harmlessness, makes ultrasound ideal for early approaches and follow-up of a wide number of urinary system pathologies. In this article, the ultrasound characteristics of the main urinary system pathologies that can be diagnosed by this technique, are reviewed.

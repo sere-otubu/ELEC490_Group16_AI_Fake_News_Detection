@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Bipolar disorder
+TITLE: Bipolar disorder: An evolutionary psychoneuroimmunological approach.
+PMID: 33421542
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33421542/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Bipolar disorder is a mental health disorder characterized by extreme shifts in mood, high suicide rate, sleep problems, and dysfunction of psychological traits like self-esteem (feeling inferior when depressed and superior when manic). Bipolar disorder is rare among populations that have not adopted contemporary Western lifestyles, which supports the hypothesis that bipolar disorder results from a mismatch between Homo sapiens's evolutionary and current environments. Recent studies have connected bipolar disorder with low-grade inflammation, the malfunctioning of the internal clock, and the resulting sleep disturbances. Stress is often a triggering factor for mania and sleep problems, but stress also causes low-grade inflammation. Since inflammation desynchronizes the internal clock, chronic stress and inflammation are the primary biological mechanisms behind bipolar disorder. Chronic stress and inflammation are driven by contemporary Western lifestyles, including stressful social environments, unhealthy dietary patterns, limited physical activity, and obesity. The treatment of bipolar disorder should focus on reducing stress, stress sensitivity, and inflammation by lifestyle changes rather than just temporarily alleviating symptoms with psychopharmacological interventions.

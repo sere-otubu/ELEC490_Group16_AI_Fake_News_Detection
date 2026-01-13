@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gestational Diabetes
+TITLE: Gestational diabetes mellitus.
+PMID: 23536513
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23536513/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gestational diabetes mellitus, defined as diabetes diagnosed during pregnancy that is not clearly overt diabetes, is becoming more common as the epidemic of obesity and type 2 diabetes continues. Newly proposed diagnostic criteria will, if adopted universally, further increase the prevalence of this condition. Much controversy surrounds the diagnosis and management of gestational diabetes. This review provides information regarding various approaches to the diagnosis of gestational diabetes and the recommendations of a number of professional organizations. The implications of gestational diabetes for both the mother and the offspring are described. Approaches to self-monitoring of blood glucose concentrations and treatment with diet, oral medications, and insulin injections are covered. Management of glucose metabolism during labor and the postpartum period are discussed, and an approach to determining the timing of delivery and the mode of delivery is outlined. This review provides an overview of current controversies as well as current recommendations for gestational diabetes care.

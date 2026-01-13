@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Physical therapy
+TITLE: Practical Rehabilitation and Physical Therapy for the General Equine Practitioner.
+PMID: 26898959
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26898959/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Physical treatment and rehabilitation play major roles in recovery and maintenance of the equine athlete, and many therapeutic measures are accessible by the veterinarian in general practice. An accurate diagnosis of the condition undergoing treatment is a requirement, and measurable parameters obtained at diagnosis allows for quantification of treatment outcomes. Therapeutic modalities accessible to the general practicing veterinarian are reviewed. Mechanisms of action, indications, and treatment protocols of thermal therapy, therapeutic ultrasound, extracorporeal shock wave, and laser are discussed. Manipulative therapies, including stretching and use of core strengthening exercises and equipment, are outlined.

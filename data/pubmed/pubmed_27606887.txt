@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gum disease
+TITLE: Self-awareness of "Gum Disease" Among US Adults.
+PMID: 27606887
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27606887/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To assess the extent of self-awareness of gum disease among adults in the United States. Data were from the 2009-2012 National Health and Nutrition Examination Survey. The outcome variable is self-awareness of gum disease. Multivariate logistic regression models were used to examine the relationship between self-awareness and clinically diagnosed periodontitis. The analytical sample included 6876 participants. Among those participants (30 years or older) who were classified as having periodontitis, 27% (95% confidence interval [CI], 24.4-29.8) were self-aware of the disease (positive predicted value = 25%). Of those who self-reported having gum disease, 14.1% had a diagnosis of periodontitis (sensitivity = 75%). Older adults were less likely to be aware of gum disease (P < .05). Non-Hispanic blacks (adjusted odds ratio [AOR] = 0.67; 95% CI, 0.53-0.85) were less likely to be aware of the disease than non-Hispanic whites. Adults with diabetes (AOR = 1.61; 95% CI, 1.25-2.06), or with lung disease (AOR = 1.61; 95% CI, 1.25-2.08), or current smokers (AOR = 1.72; 95% CI, 1.29-2.31) were more likely to be aware of the disease. The study showed that self-awareness of gum disease among adults was low. Our study findings suggest that there is a great need to improve oral health knowledge and awareness among the adult population in the United States.

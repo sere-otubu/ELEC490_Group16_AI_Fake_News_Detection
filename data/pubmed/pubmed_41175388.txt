@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cataract surgery
+TITLE: Manual small incision cataract surgery.
+PMID: 41175388
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41175388/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To provide an updated review of manual small incision cataract surgery (MSICS), including training innovations, advancements in surgical techniques, system-level performance, and equity implications in global cataract care. As global cataract burden continues to rise, MSICS has gained traction as a cost-effective and scalable solution, particularly in low and middle-income countries (LMICs). Simulator-based training and new surgical tools have enhanced early proficiency among trainees. Recent data highlight MSICS as a procedure with comparable complication rates and patient-reported satisfaction to phacoemulsification, assuming proficiency of the surgeon. Key research gaps persist in skill transferability, long-term outcomes, and sex disparities in access. MSICS remains a pivotal surgical technique in the fight against global cataract blindness. Its affordability and adaptability to resource-limited settings make it a critical part of international efforts to expand cataract surgical coverage and promote equitable eye care delivery.

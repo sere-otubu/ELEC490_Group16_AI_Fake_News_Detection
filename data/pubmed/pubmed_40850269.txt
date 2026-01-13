@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dopamine
+TITLE: How dopamine guides our social world.
+PMID: 40850269
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40850269/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Many species, including humans, rely on social interactions to thrive and survive. These life interactions engage many neural systems, including those used for learning, cognition, and innate behaviors that are fundamentally guided by rewarding processes. Dopamine, a neuromodulator critical for signaling natural rewards, orchestrates a variety of social functions in both health and disease states. Recent advances in tools to manipulate brain circuits and molecular biology in behaving animals have opened new paths to understanding dopamine's role in social functions. In this review, we will discuss recent cross-species studies that are beginning to uncover the role of dopamine and its substrates across 4 main social domains: reward, decision making, stress, and dominance. Finally, we consider the potential implications of this current body of literature for dopamine-associated dysfunctions in neuropsychiatric disorders that impact social interactions. SIGNIFICANCE STATEMENT: As the field of social neuroscience progresses, dopamine and its associated mechanisms emerge as central regulatory entities guiding diverse social behaviors and offer vital clues to their mechanistic processes at the molecular, cellular, and network levels. In this review, the dopamine correlates of social domains were framed in a timely and concise manner while highlighting the gaps in knowledge and future research opportunities in the biology of dopamine that are most relevant to our social world.

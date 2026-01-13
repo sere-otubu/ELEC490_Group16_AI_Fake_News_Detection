@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Arrhythmia
+TITLE: Cardiac Arrhythmias: Diagnosis, Symptoms, and Treatments.
+PMID: 25737133
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25737133/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The cardiac arrhythmia is characterized by irregular rhythm of heartbeat which could be either too slow (<60 beats/min) or too fast (>100 beats/min) and can happen at any age. The use of pacemaker and defibrillators devices has been suggested for heart arrhythmias patients. The antiarrhythmic medications have been reported for the treatment of cardiac arrhythmias or irregular heartbeats. The diagnosis, symptoms, and treatments of cardiac arrhythmias as well as the radiofrequency ablation, tachycardia, Brugada syndrome, arterial fibrillation, and recent research on the genetics of cardiac arrhythmias have been described here.

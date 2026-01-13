@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Menopause
+TITLE: Menopause transition: Physiology and symptoms.
+PMID: 35382992
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35382992/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+With life expectancy for women on the rise, most women will experience menopausal transition and spend a significant number of years of their life in the menopausal phase. Menopausal transition involves a myriad of physical, endocrine, and psychological changes which are influenced by ethnic, psychological, and socio-cultural factors. Every woman's experience of the menopausal transition is unique, and a one-size-fits-all approach to the management of symptoms does not work. An understanding of the pathophysiology and severity of menopausal symptoms and the benefits and risks associated with both hormonal and non-hormonal treatments is important when individualising treatment options for menopausal symptoms.

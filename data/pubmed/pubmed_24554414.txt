@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cervical cancer
+TITLE: Epigenetics and cervical cancer: from pathogenesis to therapy.
+PMID: 24554414
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24554414/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Although human papillomavirus (HPV) infection has been found in most of the cervical cancer cases, additional genetic and epigenetic changes are required for disease progression. Previously, it was thought that only genetic mutation plays a key role in cervical cancer development. But recent advances in the biology of cervical cancer revealed that epigenetic alteration is common in cervical carcinogenesis and metastasis. Epigenetic alteration due to aberrant DNA methylation and histone modification has been extensively studied in cervical cancer. Recent research strategies keep insight into noncoding RNAs, especially miRNA and lncRNA. At the same time, interest has been grown to study the utility of these changes as biomarkers to determine disease progression as well as use them as the therapeutic targets. This study has been aimed to review the recent progress of epigenetic study for cervical cancer research including role of these epigenetic changes in disease progression, their prognostic values, and their use in targeted therapy.

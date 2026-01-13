@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Paleo diet
+TITLE: Paleolithic Diet-Effect on the Health Status and Performance of Athletes?
+PMID: 33801152
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33801152/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The aim of this meta-analysis was to review the impact of a Paleolithic diet (PD) on selected health indicators (body composition, lipid profile, blood pressure, and carbohydrate metabolism) in the short and long term of nutrition intervention in healthy and unhealthy adults. A systematic review of randomized controlled trials of 21 full-text original human studies was conducted. Both the PD and a variety of healthy diets (control diets (CDs)) caused reduction in anthropometric parameters, both in the short and long term. For many indicators, such as weight (body mass (BM)), body mass index (BMI), and waist circumference (WC), impact was stronger and especially found in the short term. All diets caused a decrease in total cholesterol (TC), low-density lipoprotein cholesterol (LDL-C), and triglycerides (TG), albeit the impact of PD was stronger. Among long-term studies, only PD cased a decline in TC and LDL-C. Impact on blood pressure was observed mainly in the short term. PD caused a decrease in fasting plasma (fP) glucose, fP insulin, and homeostasis model assessment of insulin resistance (HOMA-IR) and glycated hemoglobin (HbA1c) in the short run, contrary to CD. In the long term, only PD caused a decrease in fP glucose and fP insulin. Lower positive impact of PD on performance was observed in the group without exercise. Positive effects of the PD on health and the lack of experiments among professional athletes require longer-term interventions to determine the effect of the Paleo diet on athletic performance.

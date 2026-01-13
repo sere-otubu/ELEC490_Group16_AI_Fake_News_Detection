@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chemotherapy
+TITLE: Nanoparticle-Delivered Chemotherapy: Old Drugs in New Packages.
+PMID: 28299757
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28299757/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cytotoxic chemotherapies have a narrow therapeutic window, with high peaks and troughs of plasma concentration. Novel nanoparticle formulations of cytotoxic chemotherapy drugs can enhance pharmacokinetic characteristics and facilitate passive targeting of drugs to tumors via the enhanced permeability and retention effect, thus mitigating toxicity. Nanoparticle vehicles currently in clinical use or undergoing clinical investigation for anticancer therapies include liposomes, polymeric micelles, protein-drug nanoparticles, and dendrimers. Multiple nanoparticle formulations of existing cytotoxic chemotherapies are approved for use in several indications, with clinical data indeed showing optimization of pharmacokinetics and different toxicity profiles compared with their parent drugs. There are also many new nanoparticle drug formulations in development and undergoing early- and late-phase clinical trials, including several that utilize active targeting or triggered release based on environmental stimuli. Here, we review the rationale for nanoparticle formulations of existing or previously investigated cytotoxic drugs, describe currently approved nanoparticle formulations of drugs, and discuss some of the most promising clinical trials currently underway.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Contraception methods
+TITLE: Advances in contraception.
+PMID: 10958006
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10958006/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Many safe and effective contraceptive methods are currently available, and a stream of new products is being introduced to the market. This article presents the histories, descriptions, and future trends for oral contraceptive pills, hormonal implants and injections, and intrauterine devices. Other methods discussed include barrier methods, spermicides, and emergency contraception, and permanent sterilization.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: COVID-19
+TITLE: Update in COVID-19 in the intensive care unit from the 2020 HELLENIC Athens International symposium.
+PMID: 33172592
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33172592/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The 2020 International Web Scientific Event in COVID-19 pandemic in critically ill patients aimed at updating the information and knowledge on the COVID-19 pandemic in the intensive care unit. Experts reviewed the latest literature relating to the COVID-19 pandemic in critically ill patients, such as epidemiology, pathophysiology, phenotypes of infection, COVID-19 as a systematic infection, molecular diagnosis, mechanical ventilation, thromboprophylaxis, COVID-19 associated co-infections, immunotherapy, plasma treatment, catheter-related bloodstream infections, artificial intelligence for COVID-19, and vaccination. Antiviral therapy and co-infections are out of the scope of this review. In this review, each of these issues is discussed with key messages regarding management and further research being presented after a brief review of available evidence.

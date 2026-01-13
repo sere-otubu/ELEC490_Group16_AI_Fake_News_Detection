@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Pilates benefits
+TITLE: The optimal exercise intervention for sleep quality in adults: A systematic review and network meta-analysis.
+PMID: 38641082
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38641082/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The impact of various exercise modalities on the improvement of sleep quality in adults remains controversial. This study aimed to perform a network meta-analysis to analyze the effects of different exercise interventions on sleep quality in adults. The PubMed, Cochrane, Embase, Web of Science, and EBSCO databases were searched for studies published from March 18, 1993, to March 18, 2023. The Cochrane risk of bias tool was used to assess the quality of the included studies. Then, a random-effects network meta-analysis was conducted within a frequentist framework. A total of 2142 participants from 27 randomized controlled trials were included in the analysis. Exercise modalities such as Pilates, yoga, and traditional Chinese exercises were found to significantly improve sleep quality when compared to a no-exercise control group, with Pilates exhibiting the most potent effect at a 95.3% improvement level. This study demonstrates that exercise interventions are effective in enhancing sleep quality in adults. Adapting exercise to individual preferences and needs may maximize the sleep-related benefits of the activity. The review was registered with PROSPERO, registration number CRD42023434565.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Respiratory system
+TITLE: Fibrosing interstitial lung diseases: knowns and unknowns.
+PMID: 30814139
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30814139/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Patients with certain types of fibrosing interstitial lung disease (ILD) are at risk of developing a progressive phenotype characterised by self-sustaining fibrosis, decline in lung function, worsening quality of life, and early mortality. It has been proposed that such progressive fibrosing ILDs, which show commonalities in clinical behaviour and in the pathogenetic mechanisms that drive progressive fibrosis, may be "lumped" together for the purposes of clinical research and, potentially, for treatment. At present, no drugs are approved for the treatment of ILDs other than nintedanib and pirfenidone for the treatment of idiopathic pulmonary fibrosis. For other progressive fibrosing ILDs, the mainstay of drug therapy is immunosuppression. However, it is postulated that, once the response to lung injury in fibrosing ILDs has reached the stage at which fibrosis has become progressive and self-sustaining, targeted antifibrotic therapy would be required to slow disease progression. Nintedanib, an intracellular inhibitor of tyrosine kinases, has shown antifibrotic, anti-inflammatory and vascular remodelling effects in several non-clinical models of fibrosis, irrespective of the trigger for the injury. Ongoing clinical trials will provide insight into the role of antifibrotic treatment with nintedanib or pirfenidone in the management of fibrosing ILDs with a progressive phenotype.

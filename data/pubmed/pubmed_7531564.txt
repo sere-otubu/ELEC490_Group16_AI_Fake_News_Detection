@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Cholera
+TITLE: Cholera: current epidemiology.
+PMID: 7531564
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7531564/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Cholera remains an important cause of morbidity and mortality worldwide. Its epidemiology has changed in the 1990s, with the spread of the seventh pandemic to the western hemisphere and the emergence of a new serogroup, Vibrio cholerae O139. The spread of cholera may be rapid and unpredictable because of aeroplane travel, international shipping, and the migration of people due to war or political unrest. Increasing amounts of largely untreated faeces from growing human populations favour cholera's survival. Most of the world has inadequate sanitation, and future prospects are undermined by the impact of international debt on ailing economies. Furthermore, because cholera is difficult to eradicate from water it is likely to remain a serious threat to public health for some time. Progress is being made in the development of oral vaccines against V. cholerae O1 and serogroup O139.

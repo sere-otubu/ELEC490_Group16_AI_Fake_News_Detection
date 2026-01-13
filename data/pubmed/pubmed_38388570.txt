@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Processed foods
+TITLE: Ultra-processed foods and food additives in gut health and disease.
+PMID: 38388570
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38388570/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Ultra-processed foods (UPFs) and food additives have become ubiquitous components of the modern human diet. There is increasing evidence of an association between diets rich in UPFs and gut disease, including inflammatory bowel disease, colorectal cancer and irritable bowel syndrome. Food additives are added to many UPFs and have themselves been shown to affect gut health. For example, evidence shows that some emulsifiers, sweeteners, colours, and microparticles and nanoparticles have effects on a range of outcomes, including the gut microbiome, intestinal permeability and intestinal inflammation. Broadly speaking, evidence for the effect of UPFs on gut disease comes from observational epidemiological studies, whereas, by contrast, evidence for the effect of food additives comes largely from preclinical studies conducted in vitro or in animal models. Fewer studies have investigated the effect of UPFs or food additives on gut health and disease in human intervention studies. Hence, the aim of this article is to critically review the evidence for the effects of UPF and food additives on gut health and disease and to discuss the clinical application of these findings.

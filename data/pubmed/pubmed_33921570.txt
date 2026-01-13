@@ -1,0 +1,8 @@
+SEARCH_TOPIC: School lunch nutrition
+TITLE: The School Nutrition and Meal Cost Study-I: Overview of Findings Related to Improving Diet Quality, Weight, and Disparities in US Children and Policy Implications.
+PMID: 33921570
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33921570/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The national school breakfast and lunch programs administered by the United States Department of Agriculture (USDA) are a cornerstone of the nation's nutrition safety net for children from low-income families [...].

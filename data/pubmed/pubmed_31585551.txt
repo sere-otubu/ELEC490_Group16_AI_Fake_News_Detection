@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Endocrine system
+TITLE: Urocortins in the mammalian endocrine system.
+PMID: 31585551
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31585551/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Urocortins (Ucns), peptides belonging to the corticotropin-releasing hormone (CRH) family, are classified into Ucn1, Ucn2, and Ucn3. They are involved in regulating several body functions by binding to two G protein-coupled receptors: receptor type 1 (CRHR1) and type 2 (CRHR2). In this review, we provide a historical overview of research on Ucns and their receptors in the mammalian endocrine system. Although the literature on the topic is limited, we focused our attention particularly on the main role of Ucns and their receptors in regulating the hypothalamic-pituitary-adrenal and thyroid axes, reproductive organs, pancreas, gastrointestinal tract, and other tissues characterized by "diffuse" endocrine cells in mammals. The prominent function of these peptides in health conditions led us to also hypothesize an action of Ucn agonists/antagonists in stress and in various diseases with its critical consequences on behavior and physiology. The potential role of the urocortinergic system is an intriguing topic that deserves further in-depth investigations to develop novel strategies for preventing stress-related conditions and treating endocrine diseases.

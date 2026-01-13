@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Social determinants of health
+TITLE: Social Determinants of Health, Diet, and Health Outcome.
+PMID: 39519475
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39519475/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+This Special Issue delves into the intricate relationship between social determinants of health (SDOHs), diet, and health outcomes through 13 articles authored by scholars from 10 countries across five continents [...].

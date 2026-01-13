@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Breast cancer
+TITLE: A comprehensive overview of metaplastic breast cancer: Features and treatments.
+PMID: 38735837
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38735837/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Metaplastic breast cancer is a rare, aggressive, and chemotherapy-resistant subtype of breast cancers, accounting for less than 1% of invasive breast cancers, characterized by adenocarcinoma with spindle cells, squamous epithelium, and/or mesenchymal tissue differentiation. The majority of metaplastic breast cancers exhibit the characteristics of triple-negative breast cancer and have unfavorable prognoses with a lower survival rate. This subtype often displays gene alterations in the PI3K/AKT pathway, Wnt/β-catenin pathway, and cell cycle dysregulation and demonstrates epithelial-mesenchymal transition, immune response changes, TP53 mutation, EGFR amplification, and so on. Currently, the optimal treatment of metaplastic breast cancer remains uncertain. This article provides a comprehensive review on the clinical features, molecular characteristics, invasion and metastasis patterns, and prognosis of metaplastic breast cancer, as well as recent advancements in treatment strategies.

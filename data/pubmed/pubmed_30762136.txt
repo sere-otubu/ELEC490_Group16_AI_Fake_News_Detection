@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dementia
+TITLE: Dementia spectrum disorders: lessons learnt from decades with PET research.
+PMID: 30762136
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30762136/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The dementia spectrum encompasses a range of disorders with complex diagnosis, pathophysiology and limited treatment options. Positron emission tomography (PET) imaging provides insights into specific neurodegenerative processes underlying dementia disorders in vivo. Here we focus on some of the most common dementias: Alzheimer's disease, Parkinsonism dementias including Parkinson's disease with dementia, dementia with Lewy bodies, progressive supranuclear palsy and corticobasal syndrome, and frontotemporal lobe degeneration. PET tracers have been developed to target specific proteinopathies (amyloid, tau and α-synuclein), glucose metabolism, cholinergic system and neuroinflammation. Studies have shown distinct imaging abnormalities can be detected early, in some cases prior to symptom onset, allowing disease progression to be monitored and providing the potential to predict symptom onset. Furthermore, advances in PET imaging have identified potential therapeutic targets and novel methods to accurately discriminate between different types of dementias in vivo. There are promising imaging markers with a clinical application on the horizon, however, further studies are required before they can be implantation into clinical practice.

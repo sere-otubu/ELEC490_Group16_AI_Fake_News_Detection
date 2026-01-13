@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Dengue fever
+TITLE: Dengue hemorrhagic fever: a growing global menace.
+PMID: 38017595
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38017595/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Dengue virus is an arthropod-borne virus, transmitted by Aedes aegypti among humans. In this review, we discussed the epidemiology of dengue hemorrhagic fever (DHF) as well as the disease's natural history, cycles of transmission, clinical diagnosis, aetiology, prevention, therapy, and management. A systematic literature search was done by databases such as PubMed and Google Scholar using search terms, 'dengue fever', 'symptoms and causes of dengue fever', 'dengue virus transmission', and 'strategies to control dengue'. We reviewed relevant literature to identify hazards related to DHF and the most recent recommendations for its management and prevention. Clinical signs and symptoms of dengue infection range from mild dengue fever (DF) to potentially lethal conditions like DHF or dengue shock syndrome (DSS). Acute-onset high fever, muscle and joint pain, myalgia, a rash on the skin, hemorrhagic episodes, and circulatory shock are among the most common symptoms. An early diagnosis is vital to lower mortality. As dengue virus infections are self-limiting, but in tropical and subtropical areas, dengue infection has become a public health concern. Hence, developing and executing long-term control policies that can reduce the global burden of DHF is a major issue for public health specialists everywhere.

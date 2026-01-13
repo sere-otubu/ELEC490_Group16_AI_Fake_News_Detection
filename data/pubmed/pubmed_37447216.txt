@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Processed foods
+TITLE: Ultra-Processed Foods, Diet Quality and Human Health.
+PMID: 37447216
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37447216/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+The increase in the volume of industrially processed products in the global food supply has coincided with an increasing prevalence of obesity and non-communicable diseases in many countries, suggesting that ultra-processed foods (UPF) consumption may be detrimental to human health [...].

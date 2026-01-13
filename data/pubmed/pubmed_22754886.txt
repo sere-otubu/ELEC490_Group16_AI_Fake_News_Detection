@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Seasonal allergies
+TITLE: Clinical inquiries. Intranasal steroids vs antihistamines: which is better for seasonal allergies and conjunctivitis?
+PMID: 22754886
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22754886/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Intranasal steroids provide better relief for adult sufferers, according to nonstandardized, nonclinically validated scales. Steroids reduce subjective total nasal symptom scores (TNSS)--representing sneezing, itching, congestion, and rhinorrhea--by about 25% more than placebo, whereas oral antihistamines decrease TNSS by 5% to 10% (strength of recommendation [SOR]: B, systematic review of randomized controlled trials [RCTs], most without clinically validated or standardized outcome measures). Intranasal steroids improve subjective eye symptom scores as well as (or better than) oral antihistamines in adults who also have allergic conjunctivitis (SOR: A, systematic review, RCTs).

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Kidney function
+TITLE: The amphibian diluting segment.
+PMID: 3284387
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3284387/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Diluting segments function to reabsorb NaCl and to reduce the osmolality of tubule fluid. These segments in amphibians are important in the conservation of NaCl. The diluting segment of mammals, the thick ascending limb, besides being an important site for the reabsorption of NaCl, supplies the energy that enables the kidney to excrete a concentrated urine. We focus in this review on the mechanisms involved in cellular and paracellular transport of Na+, K+, Cl-, and H+ in the amphibian diluting segment and how the transport of these ions is regulated. Also discussed is the action of loop diuretics and hormones on both transepithelial and cellular function. The large size of amphibian cells and their viability in various artificial conditions have allowed experiments to be performed that are not possible in the mammalian kidney, providing important information on the mechanisms of ion transport common to both mammalian thick ascending limb and amphibian diluting segment.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Macular degeneration
+TITLE: Age-Related Macular Degeneration.
+PMID: 26319344
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26319344/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Age-related macular degeneration (AMD) is the leading cause of vision loss in the elderly. AMD is diagnosed based on characteristic retinal findings in individuals older than 50. Early detection and treatment are critical in increasing the likelihood of retaining good and functional vision.

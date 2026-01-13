@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gallstones
+TITLE: Genetics of Gallstones.
+PMID: 40149408
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40149408/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Gallstone disease (GSD) is a common gastrointestinal disorder affecting approximately 10-20% of the global adult population, characterized by the presence of gallstones, predominantly cholesterol-based, in the gallbladder and/or biliary ducts. While many patients remain asymptomatic, more than 20% develop clinical symptoms such as abdominal pain, nausea, vomiting, jaundice, and anorexia, potentially leading to severe complications like acute cholecystitis and biliary pancreatitis. GSD has a significant genetic predisposition, with the variable prevalence of the disease according to ethnicity being highest in American and European countries and lowest in Asian and African populations. Numerous genes encoding membrane transporters involved in bile metabolism are associated with GSD, including in particular members of ATP-binding cassette transporters and others, which affect bile lithogenicity and contribute to the development of gallstones. Specific mutations in these genes are linked to an increased risk of gallstone formation, especially in individuals with certain hereditary conditions such as hemolytic diseases, thyroid disorders, and hyperparathyroidism. Advances in genetic studies have identified new variants that influence the risk of cholelithiasis, although the exact mechanisms remain partially understood in many cases. This review briefly summarizes the genetic causes of cholelithiasis, highlighting various pathogenetic mechanisms. It presents the currently used treatments and the potential implications of widely applied genetic diagnostics.

@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Chemotherapy
+TITLE: [Management of chemotherapy side effects and their long-term sequelae].
+PMID: 34185118
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34185118/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Various chemotherapies are used to treat testicular cancer. The most common therapy regimens are BEP (cisplatin, etoposide, bleomycin), carboplatin mono (AUC 7), PEI (cisplatin, etoposide, ifosfamide), TIP (cisplatin, ifosfamide, paclitaxel) and GOP (gemcitabine, oxaliplatin, paclitaxel). This is accompanied by acute and late toxicities. These include general side effects such as anemia, neutropenia, nausea, vomiting, diarrhea, mucositis or paravasation as well as special toxicities like ototoxicity, nephrotoxicity, pulmonary toxicity, neurotoxicity or Raynaud's syndrome. Since young men are usually affected, the possible long-term consequences such as hypogonadism, infertility or the metabolic syndrome are very relevant. Accordingly, adequate management of the possible side effects and long-term consequences in the context of the use of chemotherapy is essential.

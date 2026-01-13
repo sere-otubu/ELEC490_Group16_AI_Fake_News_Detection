@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gluten free diet
+TITLE: Nutritional Considerations of the Gluten-Free Diet.
+PMID: 30711211
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30711211/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Celiac disease (CD) is an autoimmune-related disease causing inflammation in the small intestine triggered by the ingestion of gluten in the diet. The gluten-free diet (GFD) is the only treatment. Nutritional deficiencies of macronutrients and micronutrients are frequently found in untreated or newly diagnosed CD. A registered dietitian nutritionist is uniquely qualified to educate on the GFD and assess and support nutritional status at diagnosis and long term as well as helping patients with nonresponsive CD. Quality of life is important to address in individuals with CD because the GFD affects all aspects of life.

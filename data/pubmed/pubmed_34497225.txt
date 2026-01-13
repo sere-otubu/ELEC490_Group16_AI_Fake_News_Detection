@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Medical ethics
+TITLE: [Medical ethics and research ethics].
+PMID: 34497225
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34497225/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Medical ethics are important for medical professionals and can be classified into two subcategories, which are: "Research Ethics," referring to the norms that researchers should follow when engaging in research activities, and "Clinical Ethics," which are mainly norms that should be followed in routine clinical practice. Rules are the basic component of ethics and are an agreement that is enacted after the fact. On the other hand, the development of new medical care strategies requires novelty and originality. Research includes unknown and unpracticed topics; therefore, new problems arise, which are often not possible to deal with by simply following the established rules. Medical professionals need to be ethical so that they can anticipate new problems and make decisions without the rules. This can be done by understanding the background against which the rules have been formed and its preamble.

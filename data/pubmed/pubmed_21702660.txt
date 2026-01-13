@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Asthma
+TITLE: Asthma-related comorbidities.
+PMID: 21702660
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21702660/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Asthma is often associated with various comorbidities. The most frequently reported asthma comorbid conditions include rhinitis, sinusitis, gastroesophageal reflux disease, obstructive sleep apnea, hormonal disorders and psychopathologies. These conditions may, first: share a common pathophysiological mechanism with asthma; second: influence asthma control, its phenotype and response to treatment; and third: be more prevalent in asthmatic patients but without obvious influence on this disease. For many of these, how they interact with asthma remains to be further documented, particularly for severe asthma. If considered relevant, they should, however, be treated appropriately. Further research is needed on the relationships between these conditions and asthma.

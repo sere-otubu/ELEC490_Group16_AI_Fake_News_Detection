@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Plantar fasciitis
+TITLE: Plantar fasciitis.
+PMID: 23131221
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23131221/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+In this article we look at the aetiology of plantar fasciitis, the other common differentials for heel pain and the evidence available to support each of the major management options. We also review the literature and discuss the condition. A literature search was performed using PubMed and MEDLINE(®). The following keywords were used, singly or in combination: 'plantar fasciitis', 'plantar heel pain', 'heel spur'. To maximise the search, backward chaining of reference lists from retrieved papers was also undertaken. Plantar fasciitis is a common and often disabling condition. Because the natural history of plantar fasciitis is not understood, it is difficult to distinguish between those patients who recover spontaneously and those who respond to formal treatment. Surgical release of the plantar fascia is effective in the small proportion of patients who do not respond to conservative measures. New techniques such as endoscopic plantar release and extracorporeal shockwave therapy may have a role but the limited availability of equipment and skills means that most patients will continue to be treated by more traditional techniques.

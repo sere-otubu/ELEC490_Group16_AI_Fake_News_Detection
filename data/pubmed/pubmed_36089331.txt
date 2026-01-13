@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Health insurance systems
+TITLE: Health insurance system and resilience to epidemics.
+PMID: 36089331
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36089331/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+We theoretically analyze the resilience (efficiency) of health insurance systems and diverse factors including trace and test technology, infection and contagion rates, and social distancing/lockdown policy, in coping with contagious diseases like COVID-19. Our findings can be summarized as follows. First, public insurance is more resilient than market insurance, as the former's investment in test technology is made at the social optimum, whereas the latter's investment is less. The decentralized behavior of competing insurers leads to a less resilient outcome. Second, resilience decreases as the market becomes more competitive because the externality effect becomes more severe. Third, a higher contagion rate, a more cost-efficient test technology or a higher initial infection rate unless it is not too high, leads to a higher test accuracy level. Fourth, the socially optimal social distancing/lockdown policy is determined by comparison between its relative costs and the benefit from contagion reduction.

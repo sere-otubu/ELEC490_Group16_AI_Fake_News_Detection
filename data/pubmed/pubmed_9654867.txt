@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Gestational Diabetes
+TITLE: Gestational diabetes.
+PMID: 9654867
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9654867/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+To review the detection, diagnosis, and clinical management of gestational diabetes. MEDLINE, Gestational Diabetes Guideline Review, 1968-1998. By the author. By the author. Gestational diabetes is a common complication of pregnancy, occurring in 2% to 6% of pregnancies. Uncontrolled gestational diabetes is associated with increased infant morbidity and mortality, macrosomia, and cesarean deliveries, and is a strong marker for the future development of maternal diabetes mellitus. Women with risk factors for gestational diabetes should be screened for glucose intolerance at 24 to 28 weeks' gestation. If a screening plasma glucose concentration is 140 mg/dL or greater one hour after a 50 gram oral glucose load, then a diagnostic 100 gram, three-hour oral glucose tolerance test should be performed. Medical nutrition therapy is the cornerstone of management and must be designed to meet individual needs. Self-monitoring of blood glucose should be taught to and performed by all women with gestational diabetes. Insulin, which does not readily cross the placental barrier, is the drug therapy of choice in women failing medical nutrition therapy. Pharmacists can optimize overall care by educating, monitoring, and intervening or assisting the patient in the management of gestational diabetes.

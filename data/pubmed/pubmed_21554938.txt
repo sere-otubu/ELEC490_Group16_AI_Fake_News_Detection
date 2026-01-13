@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Tetanus shot
+TITLE: Single shot tetanus vaccine manufactured by a supercritical fluid encapsulation technology.
+PMID: 21554938
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21554938/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Single shot vaccines of tetanus toxoid (TT) were manufactured using the NanoMix process - a low temperature solvent free encapsulation technology using supercritical fluids. The formulations were injected into mice, and compared to multiple injections of a commercially available alum adsorbed TT vaccine. After 5 months the antibody titres were found to be similar for both the alum adsorbed and microparticle formulations, demonstrating for the first time the potential of formulating antigens in PLA microparticles using the supercritical fluid (NanoMix) technique to produce single shot vaccines. The results are likely to be due to the maintenance of toxoid bioactivity and some degree of sustained release of the encapsulated antigens, resulting in repeated stimulation of antigen presenting cells eliminating the need for multiple immunisations. This demonstrates the potential of this supercritical fluid processing technique to reduce the need for booster doses in a vaccine regimen.

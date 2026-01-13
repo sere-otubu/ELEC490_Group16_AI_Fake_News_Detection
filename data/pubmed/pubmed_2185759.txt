@@ -1,0 +1,8 @@
+SEARCH_TOPIC: Antacids
+TITLE: New approach for the in vitro evaluation of antacids.
+PMID: 2185759
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2185759/
+TYPE: PubMed Medical Abstract
+
+ABSTRACT:
+Evidence is given that the in vitro evaluation of antacids has been incomplete, not regarding physiopathological conditions. As a consequence arbitrary antacid potency classifications were introduced and in clinical practice high dosages of antacid drugs were prescribed. The main reason is that the in vitro evaluation procedures used did not take into account the actual conditions of gastric acid secretion. The proposed methods allow to assess antacid activity under conditions similar to those during gastric secretion. "Pharmacologically", the capacity of binding H+ ions in acid milieu can be quantified and the antacid mechanism can be characterized. "Therapeutical efficacy" might be analysed under acid conditions taking into account gastric intraluminal flux variations by using the "artificial stomach" model. This procedure also allows to evaluate the influence of gastric protein content on antacid activity and to simulate the actual gastric conditions by using human gastric juice as gastric content and as simulated "secretion". The antacid-induced resistance to acidification largely corresponds to the therapeutical antacid activity. Data obtained with aluminum containing antacids are presented.
