@@ -265,7 +265,7 @@ class RAGRepository:
                         display_name = clean.replace("_", "/") # Show cleaner path as title
                         source_link = reconstructed_url
 
-                    # 4. Extract page number (existing logic)
+                    # 4. Extract page number
                     page = (
                         node_metadata.get("page")
                         or node_metadata.get("page_number")

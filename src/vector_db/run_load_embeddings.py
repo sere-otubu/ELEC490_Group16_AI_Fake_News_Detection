@@ -1,12 +1,16 @@
 """Script to load and index documents into the RAG vector database.
 
-This script processes all documents in the data folder and indexes them
-into the vector store for RAG operations.
+This script processes documents in the data folder and indexes them
+into the vector store. It uses a tracking file to support incremental loading,
+skipping files that have already been processed and haven't changed.
 """
 
 import logging
 import sys
+import json
+import hashlib
 from pathlib import Path
+from typing import Dict, List, Tuple
 from llama_index.core import SimpleDirectoryReader
 from llama_index.core.schema import Document
 
@@ -23,50 +27,37 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+TRACKING_FILE_NAME = "indexing_state.json"
 
 class DocumentLoader:
     """Handles loading and processing of documents."""
 
     def __init__(self) -> None:
         """Initialize the document loader."""
+        # Add all formats you scrape/use
         self.supported_extensions = {
             ".pdf",
             ".txt",
             ".md",
-            ".html",
-            ".json",
-            ".xml",
-            ".csv",
-            ".xls",
-            ".xlsx",
-            ".ppt",
-            ".pptx",
-            ".doc",
-            ".docx",
-            ".odt",
-            ".ods",
-            ".odp",
-            ".odg",
-            ".odf",
         }
 
+    def get_file_hash(self, file_path: Path) -> str:
+        """Calculate MD5 hash of a file to detect changes."""
+        hash_md5 = hashlib.md5()
+        try:
+            with open(file_path, "rb") as f:
+                for chunk in iter(lambda: f.read(4096), b""):
+                    hash_md5.update(chunk)
+            return hash_md5.hexdigest()
+        except Exception as e:
+            logger.warning(f"Could not hash file {file_path}: {e}")
+            return ""
+
     def get_document_files(self, directory_path: str) -> list[Path]:
-        """Get all supported document files from the directory.
-
-        Args:
-            directory_path: Path to the directory containing documents
-
-        Returns:
-            List of Path objects for supported document files
-        """
+        """Get all supported document files from the directory."""
         directory = Path(directory_path)
-
-        if not directory.exists():
-            logger.warning(f"Directory {directory_path} does not exist")
-            return []
-
-        if not directory.is_dir():
-            logger.error(f"Path {directory_path} is not a directory")
+        if not directory.exists() or not directory.is_dir():
+            logger.error(f"Invalid directory: {directory_path}")
             return []
 
         document_files = []
@@ -74,84 +65,129 @@ class DocumentLoader:
             if (
                 file_path.is_file()
                 and file_path.suffix.lower() in self.supported_extensions
+                and file_path.name != TRACKING_FILE_NAME # Ignore the tracking file itself
             ):
                 document_files.append(file_path)
 
-        logger.info(f"Found {len(document_files)} document files in {directory_path}")
         return document_files
 
     def load_specific_document(self, file_path: Path) -> list[Document]:
-        """Load a specific document file.
-
-        Args:
-            file_path: Path to the document file
-
-        Returns:
-            List of Document objects
-        """
+        """Load a specific document file using LlamaIndex."""
         try:
-            if not file_path.exists():
-                logger.error(f"File {file_path} does not exist")
-                return []
-
             reader = SimpleDirectoryReader(
                 input_files=[str(file_path)], recursive=False
             )
-
             documents = reader.load_data()
-            logger.info(f"Loaded {len(documents)} documents from {file_path}")
             return documents
-
         except Exception as e:
             logger.error(f"Failed to load document {file_path}: {e}")
             return []
 
 
-def load_and_index_documents(rag_service: RAGService) -> bool:
-    """Main function to load and index documents.
+def load_indexing_state(data_path: Path) -> Dict[str, str]:
+    """Load the tracking file that maps filenames to their hashes."""
+    tracking_file = data_path / TRACKING_FILE_NAME
+    if tracking_file.exists():
+        try:
+            with open(tracking_file, "r") as f:
+                return json.load(f)
+        except Exception as e:
+            logger.warning(f"Could not read tracking file: {e}. Starting fresh.")
+    return {}
 
-    Returns:
-        bool: True if successful, False otherwise
-    """
+
+def save_indexing_state(data_path: Path, state: Dict[str, str]):
+    """Save the current state of indexed files."""
+    tracking_file = data_path / TRACKING_FILE_NAME
     try:
-        logger.info("Starting document loading and indexing process")
+        with open(tracking_file, "w") as f:
+            json.dump(state, f, indent=2)
+    except Exception as e:
+        logger.error(f"Could not save tracking file: {e}")
+
+
+def load_and_index_documents(rag_service: RAGService) -> bool:
+    """Main function to load and index ONLY new or changed documents."""
+    try:
+        logger.info("Starting smart document loading process...")
 
         loader = DocumentLoader()
-
-        health = rag_service.get_health_status(include_index=False)
-        logger.info(f"Repository health: {health}")
-
-        if not all(health.values()):
-            logger.error("Repository health check failed")
-            return False
-
         data_path = Path(settings.DATA_FOLDER)
-        document_files = loader.get_document_files(str(data_path))
+        
+        # 1. Load the history of what we've already done
+        indexed_state = load_indexing_state(data_path)
+        
+        # 2. Scan for files
+        all_files = loader.get_document_files(str(data_path))
+        logger.info(f"Found {len(all_files)} total files in data folder.")
 
-        all_documents = []
-        for file_path in document_files:
-            logger.info(f"Loading document: {file_path}")
+        # 3. Filter for new or changed files
+        files_to_process = []
+        skipped_count = 0
+        new_state = indexed_state.copy()
+
+        # Temporary list to update state only if successful
+        pending_state_updates = {}
+
+        for file_path in all_files:
+            file_key = str(file_path.relative_to(data_path))
+            current_hash = loader.get_file_hash(file_path)
+
+            # If file is in history and hash matches, skip it
+            if file_key in indexed_state and indexed_state[file_key] == current_hash:
+                skipped_count += 1
+                continue
+            
+            # Otherwise, add to process list
+            files_to_process.append(file_path)
+            pending_state_updates[file_key] = current_hash
+
+        if skipped_count > 0:
+            logger.info(f"Skipping {skipped_count} files that are already indexed and unchanged.")
+
+        if not files_to_process:
+            logger.info("No new or modified documents found. System is up to date.")
+            return True
+
+        logger.info(f"Preparing to index {len(files_to_process)} new/modified documents...")
+
+        # 4. Load content only for the new files
+        new_documents = []
+        for file_path in files_to_process:
+            logger.info(f"Loading content: {file_path.name}")
             docs = loader.load_specific_document(file_path)
-            all_documents.extend(docs)
+            new_documents.extend(docs)
 
-        if not all_documents:
-            logger.error("No documents were loaded")
-            return False
+        if not new_documents:
+            logger.warning("Files were detected but no content could be extracted.")
+            return True
 
-        logger.info(f"Indexing {len(all_documents)} documents into vector store")
-        success = rag_service.index_documents(all_documents)
+        # 5. Index the new content
+        logger.info(f"Sending {len(new_documents)} document chunks to embedding model...")
+        success = rag_service.index_documents(new_documents)
 
+        # 6. Update the tracking file if successful
         if success:
-            logger.info("Document indexing completed successfully")
+            new_state.update(pending_state_updates)
+            
+            # Optional: Clean up state for files that were deleted from disk
+            # current_keys = {str(p.relative_to(data_path)) for p in all_files}
+            # keys_to_remove = [k for k in new_state.keys() if k not in current_keys]
+            # for k in keys_to_remove:
+            #     del new_state[k]
+
+            save_indexing_state(data_path, new_state)
+            
+            logger.info("✓ Indexing complete and tracking file updated.")
             doc_count = rag_service.get_document_count()
             logger.info(f"Total documents in vector store: {doc_count}")
         else:
-            logger.error("Document indexing failed")
+            logger.error("Indexing failed. Tracking file was NOT updated (will retry next time).")
 
         return success
 
     except Exception as e:
-        logger.error(f"Document loading and indexing failed: {e}")
+        logger.error(f"Process failed: {e}")
         return False
 
 
@@ -159,17 +195,15 @@ def main() -> None:
     """Main entry point."""
     try:
         logger.info("=" * 50)
-        logger.info("Capstone Project - Document Loading Script")
+        logger.info("Capstone Project - Incremental Document Loader")
         logger.info("=" * 50)
         rag_service: RAGService = get_rag_service()
 
         success = load_and_index_documents(rag_service)
 
         if success:
-            logger.info("✓ Document loading and indexing completed successfully")
             sys.exit(0)
         else:
-            logger.error("✗ Document loading and indexing failed")
             sys.exit(1)
 
     except KeyboardInterrupt:
