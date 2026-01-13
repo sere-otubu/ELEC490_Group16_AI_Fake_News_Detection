@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 8165771)
+    QUESTION: Ultrasound in squamous cell carcinoma of the penis; a useful addition to clinical staging?
+    CONTEXT: As part of the staging procedure in squamous cell carcinoma of the penis, we assessed the role of ultrasound examination, in particular its role in assessing the extent and the invasion into the corpora.
+    ANSWER: While ultrasound examination is inexpensive and easily done, it is not accurate enough for staging small penile cancers located at the glans penis. However, for larger tumors ultrasound can be a useful addition to physical examination by delineating reliably the anatomic relations of the tumor to structures such as the tunica albuginea, corpus cavernosum, and urethra.
+    

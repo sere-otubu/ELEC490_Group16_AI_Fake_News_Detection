@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 27281318)
+    QUESTION: Can Flexible Instruments Create Adequate Femoral Tunnel Lengths at 90° of Knee Flexion in Anterior Cruciate Ligament Reconstruction?
+    CONTEXT: This study aims to study femoral tunnel lengths drilled with a flexible reamer and the distance to important lateral structures obtained by flexing the knee at various angles and by drilling the guide pins arthroscopically to resemble clinical practice. The purpose of this cadaveric study was twofold: 1. to determine whether femoral tunnel lengths of greater than 20 mm can be created with a flexible reamer system at 90 ° of knee flexion and 2. to determine whether the lateral structures of the knee are safe with this technique.
+    ANSWER: This study that shows that adequate femoral tunnel lengths can be safely created without knee hyperflex - ion using flexible instruments via an anteromedial portal.
+    

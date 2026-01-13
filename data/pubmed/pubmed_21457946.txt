@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21457946)
+    QUESTION: Are there progressive brain changes in schizophrenia?
+    CONTEXT: It is well established that schizophrenia is associated with structural brain abnormalities, but whether these are static or progress over time remains controversial.
+    ANSWER: These findings suggest that schizophrenia is associated with progressive structural brain abnormalities, affecting both gray and white matter. We found no evidence to suggest progressive medial temporal lobe involvement but did find evidence that this may be partly explained by heterogeneity between studies in patient age and illness duration. The causes and clinical correlates of these progressive brain changes should now be the focus of investigation.
+    

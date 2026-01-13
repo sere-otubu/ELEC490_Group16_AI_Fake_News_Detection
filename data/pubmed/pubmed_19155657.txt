@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19155657)
+    QUESTION: Does accompanying metabolic syndrome contribute to heart dimensions in hypertensive patients?
+    CONTEXT: Metabolic syndrome (MetS) is associated with increased risk for cardiovascular events. We evaluated heart dimensions in hypertensive patients with MetS.
+    ANSWER: Left ventricular dimensions are not influenced by MetS. Rather than MetS, hypertension is primarily responsible for changes in left ventricular dimensions. However, left atrial enlargement is more prominent in patients with MetS, suggesting that each MetS criterion contributes to left ventricular diastolic dysfunction.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26348845)
+    QUESTION: Pap smears with glandular cell abnormalities: Are they detected by rapid prescreening?
+    CONTEXT: Rapid prescreening (RPS) is one of the quality assurance (QA) methods used in gynecologic cytology. The efficacy of RPS has been previously studied but mostly with respect to squamous lesions; in fact, there has been no study so far specifically looking at the sensitivity of RPS for detecting glandular cell abnormalities.
+    ANSWER: Pap smears with glandular cell abnormalities are often flagged as abnormal by RPS, and this results in a sensitivity of 36.4% (at the AGC threshold). Most importantly, some cases of AGC are detected on Pap smears by RPS only, and this demonstrates that RPS is a valuable QA method.
+    

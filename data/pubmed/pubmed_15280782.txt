@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 15280782)
+    QUESTION: Is unsafe sexual behaviour increasing among HIV-infected individuals?
+    CONTEXT: The number of new diagnoses of HIV infection is rising in the northwestern hemisphere and it is becoming increasingly important to understand the mechanisms behind this trend.
+    ANSWER: There was no evidence of a trend in unsafe sex behaviour over time. However, several subgroups were identified as being more likely to report unsafe sex and should be targeted for specific interventions.
+    

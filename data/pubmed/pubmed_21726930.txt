@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21726930)
+    QUESTION: Is endometrial polyp formation associated with increased expression of vascular endothelial growth factor and transforming growth factor-beta1?
+    CONTEXT: Endometrial polyp is a common cause of abnormal uterine bleeding, but the etiology and pathogenesis remain unclear. Vascular endothelial growth factor (VEGF) is angiogenic, related to thick walled vessels and transforming growth factor-beta1 (TGF-β1) is related to fibrotic tissue, which are characteristics of endometrial polyps. The primary objective of this study was to find out if endometrial polyp formation is associated with increased expression of VEGF or TGF-β1, or both. A secondary objective is to determine if the changes are related to steroid receptor expression.
+    ANSWER: There was increased expression of TGF-β1 and VEGF in polyps compared to adjacent normal endometrial tissue. It suggested that these cytokines might play a role in endometrial polyp formation. In addition, there was a significant correlation between steroid receptor expression and VEGF and TGF-β1 expression.
+    

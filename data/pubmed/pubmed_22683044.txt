@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 22683044)
+    QUESTION: Does open access publishing increase the impact of scientific articles?
+    CONTEXT: Some studies suggest that open access articles are more often cited than non-open access articles. However, the relationship between open access and citations count in a discipline such as intensive care medicine has not been studied to date. The present article analyzes the effect of open access publishing of scientific articles in intensive care medicine journals in terms of citations count.
+    ANSWER: Open access publishing and the Hirsch index of the first signing author increase the impact of scientific articles. The open access advantage is greater for the more highly cited articles, and appears in the 30-35 months after publication.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23506394)
+    QUESTION: Malnutrition, a new inducer for arterial calcification in hemodialysis patients?
+    CONTEXT: Arterial calcification is a significant cardiovascular risk factor in hemodialysis patients. A series of factors are involved in the process of arterial calcification; however, the relationship between malnutrition and arterial calcification is still unclear.
+    ANSWER: Malnutrition is prevalent in hemodialysis patients and is associated with arterial calcification and the expressions of BMP2 and MGP in calcified radial arteries. Malnutrition may be a new inducer candidate for arterial calcification in hemodialysis patients.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 11882828)
+    QUESTION: Does tranexamic acid reduce desmopressin-induced hyperfibrinolysis?
+    CONTEXT: Desmopressin releases tissue-type plasminogen activator, which augments cardiopulmonary bypass--associated hyperfibrinolysis, causing excessive bleeding. Combined use of desmopressin with prior administration of the antifibrinolytic drug tranexamic acid may decrease fibrinolytic activity and might improve postoperative hemostasis.
+    ANSWER: Tranexamic acid administration significantly reduces desmopressin and bypass-induced hyperfibrinolysis. Combined use of tranexamic acid and desmopressin decreases both postoperative blood loss and transfusion requirement.
+    

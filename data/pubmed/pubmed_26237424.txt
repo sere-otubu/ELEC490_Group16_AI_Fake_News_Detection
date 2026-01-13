@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26237424)
+    QUESTION: Does patient-prosthesis mismatch after aortic valve replacement affect survival and quality of life in elderly patients?
+    CONTEXT: To evaluate the impact of patient-prosthesis mismatch (PPM) on survival, functional status, and quality of life (QoL) after aortic valve replacement (AVR) with small prosthesis size in elderly patients.
+    ANSWER: PPM after AVR does not affect survival, functional status, and QoL in patients aged at least 75 years. Surgical procedures, often time-consuming, contemplated to prevent PPM, may therefore be not justified in this patient subgroup.
+    

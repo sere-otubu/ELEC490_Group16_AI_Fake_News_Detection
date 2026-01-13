@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 28027677)
+    QUESTION: Do prerecorded lecture VODcasts affect lecture attendance of first-yearpre-clinical Graduate Entry to Medicine students?
+    CONTEXT: There is increasing concern amongst educators that the provision of recorded lectures may reduce student attendance of live lectures. We therefore sought to determine if the provision of prerecorded lecture video podcasts (VODcasts) to first-year Graduate Entry to Medicine (GEM) students, affected attendance at 21 Physiology lectures within three separate pre-clinical modules.
+    ANSWER: Therefore, we conclude that the attendance of pre-clinical GEM students at live lectures is not significantly impacted upon by the provision of lecture VODcasts, with most students viewing them as useful revision tools rather than as a replacement for live lectures.
+    

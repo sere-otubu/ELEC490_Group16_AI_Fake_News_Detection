@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 22011946)
+    QUESTION: Does a preoperative medically supervised weight loss program improve bariatric surgery outcomes?
+    CONTEXT: Many insurance payors mandate that bariatric surgery candidates undergo a medically supervised weight management (MSWM) program as a prerequisite for surgery. However, there is little evidence to support this requirement. We evaluated in a randomized controlled trial the hypothesis that participation in a MSWM program does not predict outcomes after laparoscopic adjustable gastric banding (LAGB) in a publicly insured population.
+    ANSWER: MSWM does not appear to confer additional benefit as compared to the standard preoperative bariatric surgery protocol in terms of weight loss and most behavioral outcomes after LAGB in our patient population.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26818046)
+    QUESTION: Could Adult European Pharmacoresistant Epilepsy Patients Be Treated With Higher Doses of Zonisamide?
+    CONTEXT: To examine the clinical effect (efficacy and tolerability) of high doses of zonisamide (ZNS) (>500 mg/d) in adult patients with pharmacoresistant epilepsy.
+    ANSWER: High doses of ZNS are effective and safe in pharmacoresistant epileptic patients. Therapeutic drug monitoring of ZNS may be considered at therapeutic failure.
+    

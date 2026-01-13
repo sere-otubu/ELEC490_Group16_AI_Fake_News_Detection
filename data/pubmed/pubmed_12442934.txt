@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 12442934)
+    QUESTION: Does ibuprofen increase perioperative blood loss during hip arthroplasty?
+    CONTEXT: To determine whether prior exposure of non-steroidal anti-inflammatory drugs increases perioperative blood loss associated with major orthopaedic surgery.
+    ANSWER: Pretreatment with ibuprofen before elective total hip surgery increases the perioperative blood loss significantly. Early discontinuation of non-selective non-steroidal anti-inflammatory drugs is advised.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 9278754)
+    QUESTION: Are head and neck specific quality of life measures necessary?
+    CONTEXT: The purpose of this study was to determine whether head and neck-specific health status domains are distinct from those assessed by general measures of quality-of-life (QOL).
+    ANSWER: Head and neck-specific QOL measures are necessary and should include domains that reflect ES, SC, and AP.
+    

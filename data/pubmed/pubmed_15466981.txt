@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 15466981)
+    QUESTION: Prostate-specific antigen and free prostate-specific antigen in the early detection of prostate cancer: do combination tests improve detection?
+    CONTEXT: The combined use of free and total prostate-specific antigen (PSA) in early detection of prostate cancer has been controversial. This article systematically evaluates the discriminating capacity of a large number of combination tests.
+    ANSWER: Tests combining total and percent free PSA show modest overall improvements over total PSA. However, utilization of percent free PSA below a PSA threshold of 4 ng/mL could translate into a practically important reduction in unnecessary biopsies without sacrificing cancers detected.
+    

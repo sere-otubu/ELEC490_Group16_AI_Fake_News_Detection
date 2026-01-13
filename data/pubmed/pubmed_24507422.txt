@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24507422)
+    QUESTION: Can shape analysis differentiate free-floating internal carotid artery thrombus from atherosclerotic plaque in patients evaluated with CTA for stroke or transient ischemic attack?
+    CONTEXT: Patients presenting with transient ischemic attack or stroke may have symptom-related lesions on acute computed tomography angiography (CTA) such as free-floating intraluminal thrombus (FFT). It is difficult to distinguish FFT from carotid plaque, but the distinction is critical as management differs. By contouring the shape of these vascular lesions ("virtual endarterectomy"), advanced morphometric analysis can be performed. The objective of our study is to determine whether quantitative shape analysis can accurately differentiate FFT from atherosclerotic plaque.
+    ANSWER: We identified five quantitative shape descriptors of carotid FFT. This shape "signature" shows potential for supplementing conventional lesion characterization in cases of suspected FFT.
+    

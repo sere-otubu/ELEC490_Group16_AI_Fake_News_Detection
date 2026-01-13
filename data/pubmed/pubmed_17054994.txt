@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17054994)
+    QUESTION: Does frozen section alter surgical management of multinodular thyroid disease?
+    CONTEXT: Frozen section (FS) evaluation during thyroid surgery is often used to guide intraoperative management. We sought to determine the utility of FS in patients undergoing thyroidectomy for multinodular thyroid disease.
+    ANSWER: While FS was commonly used in patients undergoing thyroidectomy at our institution, in no patient over the last decade did FS correctly alter the intraoperative management. Given the time required to perform FS and the cost associated with it, we believe that routine FS should not be performed in these patients.
+    

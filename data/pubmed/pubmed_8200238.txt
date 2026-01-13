@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 8200238)
+    QUESTION: Must early postoperative oral intake be limited to laparoscopy?
+    CONTEXT: This prospective, randomized study was designed to evaluate whether or not early postoperative feeding (claimed as a unique benefit of laparoscopic surgery) is possible after laparotomy and colorectal resection.
+    ANSWER: Early oral intake is possible after laparotomy and colorectal resection. Thus, the laparoscopic surgeon's claim of early tolerated oral intake may not be unique to laparoscopy.
+    

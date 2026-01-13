@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23252468)
+    QUESTION: Do episodic migraineurs selectively attend to headache-related visual stimuli?
+    CONTEXT: To assess pain-related attentional biases among individuals with episodic migraine.
+    ANSWER: In light of the large sample size and prior pilot testing of presented images, results suggest that episodic migraineurs do not differentially attend to headache-related facial stimuli. Given modest evidence of attentional biases among chronic headache samples, these findings suggest potential differences in attentional processing between chronic and episodic headache subforms.
+    

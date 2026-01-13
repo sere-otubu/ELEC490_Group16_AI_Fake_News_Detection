@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21900017)
+    QUESTION: Does lung ischemia and reperfusion have an impact on coronary flow?
+    CONTEXT: Ischemia-reperfusion (IR) injury remains a major cause of early morbidity and mortality after lung transplantation with poorly documented extrapulmonary repercussions. To determine the hemodynamic effect due to lung IR injury, we performed a quantitative coronary blood-flow analysis in a swine model of in situ lung ischemia and reperfusion.
+    ANSWER: In situ lung IR has a marked negative impact on coronary blood flow, hemodynamics, and inflammatory profile. In addition, to the best of our knowledge, this is the first study where coronary blood flow is directly measured during lung IR, revealing the associated increased cardiac risk.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18928979)
+    QUESTION: Can myometrial electrical activity identify patients in preterm labor?
+    CONTEXT: The objective of the study was to determine whether myometrial electrical activity can differentiate false from true preterm labor.
+    ANSWER: Measuring myometrial electrical activity may enhance identification of patients in true premature labor.
+    

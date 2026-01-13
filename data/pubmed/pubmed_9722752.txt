@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 9722752)
+    QUESTION: Does bone anchor fixation improve the outcome of percutaneous bladder neck suspension in female stress urinary incontinence?
+    CONTEXT: To evaluate the outcome of a new modification of percutaneous needle suspension, using a bone anchor system for fixing the suture at the public bone, and to compare the results with those published previously.
+    ANSWER: The poor success rate in the study corresponds with the long-term results of conventional or modified needle suspension procedures and does not reinforce the optimistic results of bone anchoring published recently. Because of the poorer long-term results from percutaneous needle suspension than from other techniques of open retropubic bladder neck suspension, it remains questionable whether percutaneous needle suspension should be considered a first-line procedure for the treatment of female stress urinary incontinence.
+    

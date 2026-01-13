@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 16968183)
+    QUESTION: Is laparoscopic cholecystectomy safe and acceptable as a day case procedure?
+    CONTEXT: This study reviewed the results of performing day case laparoscopic cholecystectomy to assess the feasibility and safety of the procedure as a day case.
+    ANSWER: Day case laparoscopic cholecystectomy is safe, feasible, and cost-effective when patients are carefully selected. It provides good patient satisfaction.
+    

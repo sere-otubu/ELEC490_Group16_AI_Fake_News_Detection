@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 22513023)
+    QUESTION: Do Indigenous Australians age prematurely?
+    CONTEXT: To assess whether Indigenous Australians age prematurely compared with other Australians, as implied by Australian Government aged care policy, which uses age 50 years and over for population-based planning for Indigenous people compared with 70 years for non-indigenous people.
+    ANSWER: The idea that Indigenous people age prematurely is not well supported by this study of a series of discrete conditions. The current focus and type of services provided by the aged care sector may not be the best way to respond to the excessive burden of chronic disease and disability of middle-aged Indigenous people.
+    

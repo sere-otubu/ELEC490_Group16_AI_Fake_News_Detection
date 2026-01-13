@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 2503176)
+    QUESTION: Inhibin: a new circulating marker of hydatidiform mole?
+    CONTEXT: To define the concentrations of inhibin in serum and tissue of patients with hydatidiform mole and assess their value as a clinical marker of the condition.
+    ANSWER: In this small study serum inhibin concentrations higher than those found in the early follicular phase one to two weeks after evacuation of a hydatidiform mole seemed to be specific for persistent trophoblastic disease. Further data are needed to confirm these promising results.
+    

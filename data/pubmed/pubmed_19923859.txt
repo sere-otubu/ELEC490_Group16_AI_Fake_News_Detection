@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19923859)
+    QUESTION: Can T-cell deficiency affect spatial learning ability following toluene exposure?
+    CONTEXT: The present studywas designed to investigate the possible role of T cells in spatial learning ability in mouse after toluene exposure.
+    ANSWER: These results indicate that T-cell deficiency may affect spatial learning performance following toluene exposure.
+    

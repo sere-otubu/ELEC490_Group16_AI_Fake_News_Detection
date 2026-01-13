@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26304701)
+    QUESTION: Can nurse-led preoperative education reduce anxiety and postoperative complications of patients undergoing cardiac surgery?
+    CONTEXT: The effect of preoperative education on anxiety and postoperative outcomes of cardiac surgery patients remains unclear.AIM: The aim of the study was to estimate the effectiveness of a nurse-led preoperative education on anxiety and postoperative outcomes.
+    ANSWER: Preoperative education delivered by nurses reduced anxiety and postoperative complications of patients undergoing cardiac surgery, but it was not effective in reducing readmissions or length of stay.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19444061)
+    QUESTION: Does ossification of the posterior longitudinal ligament affect the neurological outcome after traumatic cervical cord injury?
+    CONTEXT: Retrospective outcome measurement study.
+    ANSWER: No evidence was found for OPLL to have any effect on the initial neurologic status or recovery in motor function after traumatic cervical cord injury, suggesting that the neurologic outcome is not significantly dependent on canal space.
+    

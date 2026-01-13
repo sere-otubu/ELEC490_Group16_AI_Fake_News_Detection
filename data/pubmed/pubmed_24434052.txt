@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24434052)
+    QUESTION: Are we seeing the effects of public awareness campaigns?
+    CONTEXT: The last 20 years has seen a marked improvement in skin cancer awareness campaigns. We sought to establish whether this has affected the presenting Breslow thickness of malignant melanoma in the South West.
+    ANSWER: The proportion of thin 0-1 mm melanomas presenting in South West England has significantly increased from 2003 to 2012. There is no significant change in the thick>4 mm melanomas. This may be a result of increased public awareness due to effective public health campaigns which has significant prognostic and financial implications.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 11776681)
+    QUESTION: Is intrapartum vibroacoustic stimulation an effective predictor of fetal acidosis?
+    CONTEXT: The hypothesis of this prospective study is that intrapartum vibroacoustic stimulation (VAS) is an effective predictor of fetal acidosis during labor. Various clinical conditions, such as term versus preterm gestation, first stage versus second stage of labor, and fetal heart rate (FHR) variable decelerations versus late decelerations will be tested.
+    ANSWER: We found that intrapartum VAS was an effective predictor of fetal acidosis in cases of FHR variable decelerations, but its predictability for fetal acidosis in cases of FHR late decelerations was limited. Both VAS and fetal blood pH are good predictors of neonatal morbidity.
+    

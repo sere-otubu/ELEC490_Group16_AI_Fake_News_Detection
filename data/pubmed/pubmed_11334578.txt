@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 11334578)
+    QUESTION: Is there awareness of pharmaceutical expenditure in the reformed primary care system?
+    CONTEXT: To evaluate the effectiveness of feeding information on pharmacy back to primary care doctors in order to create awareness (knowledge) of pharmaceutical expenditure (PE).
+    ANSWER: In view of the results, it is concluded that there is no awareness of PE among the doctors in the reformed PC in our area. This poses a question over the efficacy of feed-back of pharmacy information in order to create this awareness. This information needs to be more frequent and richer in content, and to be complemented by other measures.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17306983)
+    QUESTION: Is size-reducing ascending aortoplasty with external reinforcement an option in modern aortic surgery?
+    CONTEXT: Enlargement of the ascending aorta is often combined with valvular, coronary, or other cardiac diseases. Reduction aortoplasty can be an optional therapy; however, indications regarding the diameter of aorta, the history of dilatation (poststenosis, bicuspid aortic valve), or the intraoperative management (wall excision, reduction suture, external reinforcement) are not established.
+    ANSWER: As demonstrated in this study, size reduction of the ascending aorta using aortoplasty with external reinforcement is a safe procedure with excellent long-term results. It is a therapeutic option in modern aortic surgery in patients with poststenotic dilatation of the aorta without impairment of the sinotubular junction of the aortic valve and root.
+    

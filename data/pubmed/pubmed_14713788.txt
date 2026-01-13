@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 14713788)
+    QUESTION: Is year of radical prostatectomy a predictor of outcome in prostate cancer?
+    CONTEXT: We examined whether the year in which radical prostatectomy (RP) was performed is a predictor of treatment outcome after controlling for standard prognostic factors.
+    ANSWER: When controlling for preoperative features, the year in which RP was performed is a predictor of outcome on multivariate analysis. This effect could not be explained by stage migration.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 22532370)
+    QUESTION: Are increased carotid artery pulsatility and resistance indexes early signs of vascular abnormalities in young obese males?
+    CONTEXT: To provide insight into the factors by which obesity in itself may directly lead to early arterial damage, we aimed to determine early sonographic markers of obesity-related vascular dysfunction in young obese males.
+    ANSWER: Our results suggest that depressed vessel compliance and increased vascular resistance are features of young, obese, normotensive subjects independently of and in addition to cardiovascular risk factors. As changes in arterial wall properties may be incipient in young obese subjects, future studies will be required to demonstrate whether early intervention such as diet and exercise in this population can improve vascular functions.
+    

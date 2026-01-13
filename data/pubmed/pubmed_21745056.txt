@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21745056)
+    QUESTION: Global Longitudinal Pathway: has medical education curriculum influenced medical students' skills and attitudes toward culturally diverse populations?
+    CONTEXT: The Pathway represents a longitudinal program for medical students, consisting of both domestic and international experiences with poor populations. A previous study reported no significant attitudinal changes toward the medically indigent between Pathway and non-Pathway students.
+    ANSWER: Clear and distinct differences between the two studied groups were found indicating the root of this increased confidence may have developed due to exposure to the Pathway program.
+    

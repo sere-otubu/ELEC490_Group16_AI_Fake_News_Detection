@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 10593212)
+    QUESTION: Does loss of consciousness predict neuropsychological decrements after concussion?
+    CONTEXT: To investigate the importance of loss of consciousness (LOC) in predicting neuropsychological test performance in a large sample of patients with head injury.
+    ANSWER: The results of this study cast doubt on the importance of LOC as a predictor of neuropsychological test performance during the acute phase of recovery from mild traumatic brain injury. Neuropsychological testing procedures have been shown to be sensitive in measuring cognitive sequelae of mild traumatic brain injury (concussion) in athletes. The failure of this study to find any relationship between LOC and neuropsychological functioning in a large sample of patients with mild head trauma calls into question the assignment of primary importance to LOC in grading severity of concussion. This study also does not provide support for the use of guidelines that rely heavily on LOC in making return-to-play decisions. Continued research is necessary to determine the relative importance of markers of concussion in athletes.
+    

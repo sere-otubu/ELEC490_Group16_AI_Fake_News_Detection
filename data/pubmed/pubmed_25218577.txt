@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25218577)
+    QUESTION: Preservation of the PCL when performing cruciate-retaining TKA: Is the tibial tuberosity a reliable predictor of the PCL footprint location?
+    CONTEXT: Reconstruction of the joint line is crucial in total knee arthroplasty (TKA). A routine height of tibial cut to maintain the natural joint line may compromise the preservation of the PCL. Since the PCL footprint is not accessible prior to tibial osteotomy, it seems beneficial to identify a reliable extraarticular anatomic landmark for predicting the PCL footprint and being visible within standard TKA approach. The fibula head predicts reliably the location of PCL footprint; however, it is not accessible during TKA. The aim of this study now was to analyze whether the tibial tuberosity can serve as a reliable referencing landmark to estimate the PCL footprint height prior to tibial cut.
+    ANSWER: Current surgical techniques of tibial preparation may result in partial or total PCL damage. Tibial tuberosity is a useful anatomical landmark to locate the PCL footprint and to predict the probability of its detachment pre-, intra-, and postoperatively. This knowledge might be useful to predict and avoid instability, consecutive pain, and dissatisfaction after TKA related to PCL insufficiency.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 20605051)
+    QUESTION: Does case-mix based reimbursement stimulate the development of process-oriented care delivery?
+    CONTEXT: Reimbursement based on the total care of a patient during an acute episode of illness is believed to stimulate management and clinicians to reduce quality problems like waiting times and poor coordination of care delivery. Although many studies already show that this kind of case-mix based reimbursement leads to more efficiency, it remains unclear whether care coordination improved as well. This study aims to explore whether case-mix based reimbursement stimulates development of care coordination by the use of care programmes, and a process-oriented way of working.
+    ANSWER: This study demonstrates that hospital management can stimulate the development of care programmes by the adoption of case-mix reimbursement within hospitals' budgeting processes. Future research is recommended to confirm this finding and to determine whether the establishment of care programmes will in time indeed lead to a more process-oriented view of professionals.
+    

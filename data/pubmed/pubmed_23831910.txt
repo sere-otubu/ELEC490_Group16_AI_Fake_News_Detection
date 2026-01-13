@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23831910)
+    QUESTION: Double balloon enteroscopy: is it efficacious and safe in a community setting?
+    CONTEXT: From March 2007 to January 2011, 88 DBE procedures were performed on 66 patients. Indications included evaluation anemia/gastrointestinal bleed, small bowel IBD and dilation of strictures. Video-capsule endoscopy (VCE) was used prior to DBE in 43 of the 66 patients prior to DBE evaluation.
+    ANSWER: DBE appears to be equally safe and effective when performed in the community setting as compared to a tertiary referral center with a comparable yield, efficacy, and complication rate.
+    

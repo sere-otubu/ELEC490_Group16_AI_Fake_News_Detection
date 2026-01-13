@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17192736)
+    QUESTION: Is fluoroscopy essential for retrieval of lower ureteric stones?
+    CONTEXT: The aim of this study was to assess the efficacy of ureteroscopy for lower ureteric stones without the use of fluoroscopy.
+    ANSWER: To uphold the notion for radiation exposure to be as low as reasonably achievable, ureteroscopic stone retrieval can safely be done without the use of fluoroscopy in a significant number of patients.
+    

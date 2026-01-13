@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24783217)
+    QUESTION: Can ki-67 play a role in prediction of breast cancer patients' response to neoadjuvant chemotherapy?
+    CONTEXT: Currently the choice of breast cancer therapy is based on prognostic factors. The proliferation marker Ki-67 is used increasingly to determine the method of therapy. The current study analyses the predictive value of Ki-67 in foreseeing breast cancer patients' responses to neoadjuvant chemotherapy.
+    ANSWER: Our data shows that the Ki-67 value predicts the response to neoadjuvant chemotherapy as a function of the molecular subtype, reflecting the daily routine concerning Ki-67 and its impressing potential and limitation as a predictive marker for neoadjuvant chemotherapy response.
+    

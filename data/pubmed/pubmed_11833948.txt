@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 11833948)
+    QUESTION: Does a delay in transfer to a rehabilitation unit for older people affect outcome after fracture of the proximal femur?
+    CONTEXT: To detemine the relationship between delay in transfer to rehabilitation wards and outcome for patients aged over 75 years with fracture of the proximal femur.
+    ANSWER: Delay in transfer to a rehabilitation ward was associated with a disproportionate increase in total hospital length of stay for patients aged over 75 with fracture of the proximal femur.
+    

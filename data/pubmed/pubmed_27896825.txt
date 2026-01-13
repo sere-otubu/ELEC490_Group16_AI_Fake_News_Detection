@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 27896825)
+    QUESTION: Is it time to reconsider lobectomy in low-risk paediatric thyroid cancer?
+    CONTEXT: Current guidelines recommend total thyroidectomy for nearly all children with well-differentiated thyroid cancer (WDTC). These guidelines, however, derive from older data accrued prior to current high-resolution imaging. We speculate that there is a subpopulation of children who may be adequately treated with lobectomy.
+    ANSWER: Ultrasound and histopathology identify a substantial population that may be candidates for lobectomy, avoiding the risks and potential medical and psychosocial morbidity associated with total thyroidectomy. We propose a clinical framework to stimulate discussion of lobectomy as an option for low-risk patients.
+    

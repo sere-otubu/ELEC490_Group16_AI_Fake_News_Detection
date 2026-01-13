@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 22154448)
+    QUESTION: Epidural analgesia for surgical treatment of peritoneal carcinomatosis: a risky technique?
+    CONTEXT: To study the risks of haemodynamic instability, and the possible occurrence of spinal haematoma, meningitis and epidural abscess when epidural analgesia is performed for cytoreductive surgery and hyperthermic intraperitoneal chemotherapy (HIPEC).
+    ANSWER: In this series of 35 patients, the use of epidural analgesia for HIPEC does not seem to be associated with a worse risk of haemodynamic instability, spinal haematoma, meningitis or epidural abscess. HIPEC with platinum salt is not incompatible with the safety of epidural analgesia, with an optimized fluid management peroperatively and the following of perimedullary anesthesia practice guidelines.
+    

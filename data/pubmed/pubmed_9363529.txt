@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 9363529)
+    QUESTION: Does psychological distress predict disability?
+    CONTEXT: To evaluate psychological distress as a predictor of disability due to common chronic disorders.
+    ANSWER: Psychological distress is an independent risk factor for disability. Its predictive significance varies between disorders leading to functional deterioration. The association mechanisms are likely to vary from one disorder to another.
+    

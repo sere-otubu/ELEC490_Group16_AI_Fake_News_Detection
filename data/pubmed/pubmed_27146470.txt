@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 27146470)
+    QUESTION: Are tuberculosis patients adherent to prescribed treatments in China?
+    CONTEXT: Tuberculosis (TB) patients face numerous difficulties adhering to the long-term, rigorous TB treatment regimen. Findings on TB patients' treatment adherence vary across existing literature and official reports. The present study attempted to determine the actual treatment adherence of new TB patients and to identify factors leading to non-adherence.
+    ANSWER: Despite recent efforts, a large proportion of newly confirmed TB patients could not adhere to standard TB treatment, and patients' lost to follow-up was still a serious problem. Poor treatment supervision and heavy financial burden might be the main causes for non-adherence. More needs to be done to enhance treatment supervision policies and financial supports to both health providers and TB patients.
+    

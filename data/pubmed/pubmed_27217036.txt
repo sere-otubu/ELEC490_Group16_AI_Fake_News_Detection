@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 27217036)
+    QUESTION: Neoadjuvant Imatinib in Locally Advanced Gastrointestinal stromal Tumours, Will Kit Mutation Analysis Be a Pathfinder?
+    CONTEXT: Longer duration of neoadjuvant (NA) imatinib (IM) used for locally advanced (LA) gastrointestinal stromal tumours (GIST) is not based on biology of the tumour reflected by kit mutation analysis.
+    ANSWER: Upfront evaluation of kit mutation status may help us in delineating separate treatment strategies for potentially biologically different tumours and assessing the correct timing of surgery for this subset of GIST.
+    

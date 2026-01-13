@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 10922093)
+    QUESTION: Does open access endoscopy close the door to an adequately informed patient?
+    CONTEXT: The use of open access endoscopy is increasing. Its effect on the adequacy of patient informed consent, procedure acceptance and the impact on subsequent communication/transfer of procedure results to the patient have not been evaluated. The aim of our study was to compare the extent of preknowledge of procedures and test explanation, patient medical complexity, information transfer and overall patient satisfaction between a patient group referred for outpatient open access endoscopy versus a patient group from a gastrointestinal (GI) subspecialty clinic.
+    ANSWER: Patients undergoing open access procedures are less likely to be properly informed about their endoscopic procedure. Our results indicate that with open access endoscopy, a defined mechanism needs to be in place for communication of endoscopic results to the patient.
+    

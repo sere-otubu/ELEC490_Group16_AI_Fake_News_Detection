@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26556589)
+    QUESTION: Does type 1 diabetes mellitus affect Achilles tendon response to a 10 km run?
+    CONTEXT: Achilles tendon structure deteriorates 2-days after maximal loading in elite athletes. The load-response behaviour of tendons may be altered in type 1 diabetes mellitus (T1DM) as hyperglycaemia accelerates collagen cross-linking. This study compared Achilles tendon load-response in participants with T1DM and controls.
+    ANSWER: Active individuals with T1DM do not have a heightened Achilles tendon response to load, which suggests no increased risk of tendon injury. We cannot extrapolate these findings to sedentary individuals with T1DM.
+    

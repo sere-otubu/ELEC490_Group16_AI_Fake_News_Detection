@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 10781708)
+    QUESTION: Thrombosis prophylaxis in hospitalised medical patients: does prophylaxis in all patients make sense?
+    CONTEXT: Most studies on thrombosis prophylaxis focus on postoperative venous thrombosis. In medical wards thrombosis prophylaxis is generally restricted to patients who are immobilised. Our primary aim was to investigate the incidence of venous thrombosis in a general internal ward, to assess whether more rigorous prophylaxis would be feasible.
+    ANSWER: The incidence of venous thrombosis during hospitalisation in a department of general internal medicine is low and does not justify prophylaxis in all internal patients. Cancer is a strong risk factor for hospital-acquired thrombosis in the medical ward. Further studies may answer the question as to whether thrombosis prophylaxis in this subgroup is feasible.
+    

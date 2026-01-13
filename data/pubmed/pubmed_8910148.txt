@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 8910148)
+    QUESTION: Transesophageal echocardiographic assessment of left ventricular function in brain-dead patients: are marginally acceptable hearts suitable for transplantation?
+    CONTEXT: The brain-dead donor supply has become one of the criteria limiting the performance of heart transplantation. Conventional screening criteria are too limiting and exclude suitable heart donors. Echocardiography is now widely available and is a reliable tool to assess left ventricular dysfunction in brain-dead donors. Yet few data are available on the degree of left ventricular dysfunction where a transplantation is possible.
+    ANSWER: TEE is useful to assess left ventricular function in potential brain-dead donors. An FAC less than 50% is present in 36% of potential heart donors. Because left ventricular dysfunction is often reversible shortly after transplantation, an FAC below 50% may not necessarily preclude the use of hearts for transplantation.
+    

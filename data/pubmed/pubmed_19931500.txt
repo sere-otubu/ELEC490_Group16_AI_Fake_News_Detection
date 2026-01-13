@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19931500)
+    QUESTION: Can the condition of the cell microenvironment of mediastinal lymph nodes help predict the risk of metastases in non-small cell lung cancer?
+    CONTEXT: The aim of this study was to analyze the properties of the immune cell microenvironment of regional lymph nodes (LNs) positive for lung cancer.
+    ANSWER: The preliminary results of this study suggest that this approach may be helpful as an independent tumor staging factor. It is also worth noting that part of the staging process could also be based on features describing the immune cells in the peripheral blood.
+    

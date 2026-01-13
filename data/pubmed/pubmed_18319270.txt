@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18319270)
+    QUESTION: Does confined placental mosaicism account for adverse perinatal outcomes in IVF pregnancies?
+    CONTEXT: IVF singletons have poorer perinatal outcomes than singletons from spontaneous conceptions. This may be due to the influence of ovarian stimulation on the chromosomal constitution of the embryos which could be translated into localized chromosomal anomalies in the placenta. The aim of this study was to compare the incidence of confined placental mosaicism (CPM) in IVF/ICSI pregnancies and spontaneous conceptions.
+    ANSWER: The incidence of CPM is not increased in IVF/ICSI pregnancies compared with spontaneous conceptions. CPM probably does not account for the adverse perinatal outcomes following IVF/ICSI.
+    

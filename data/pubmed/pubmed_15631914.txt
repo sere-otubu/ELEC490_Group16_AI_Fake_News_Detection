@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 15631914)
+    QUESTION: Is the clinically positive axilla in breast cancer really a contraindication to sentinel lymph node biopsy?
+    CONTEXT: Clinically positive axillary nodes are widely considered a contraindication to sentinel lymph node (SLN) biopsy in breast cancer, yet no data support this mandate. In fact, data from the era of axillary lymph node dissection (ALND) suggest that clinical examination of the axilla is falsely positive in as many as 30% of cases. Here we report the results of SLN biopsy in a selected group of breast cancer patients with palpable axillary nodes classified as either moderately or highly suspicious for metastasis.
+    ANSWER: Clinical axillary examination in breast cancer is subject to false-positive results, and is by itself insufficient justification for axillary lymph node dissection. If other means of preoperative assessment such as palpation- or image-guided fine needle aspiration are negative or indeterminate, then SLN biopsy deserves wider consideration as an alternative to routine axillary lymph node dissection in the clinically node-positive setting.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21689015)
+    QUESTION: Can dogs prime autistic children for therapy?
+    CONTEXT: Canine-assisted therapy has been receiving growing attention as a means of aiding children with autism spectrum disorder (ASD). Yet, only limited studies have been done and a great deal of literature related to this intervention is anecdotal. The present study aims at providing additional quantitative evidence on the potential of dogs to positively modulate the behavior of children with ASD.SETTINGS/
+    ANSWER: These findings are in accordance with previous experimental work and provide additional support for the assertion that dogs can prime autistic children for therapy. Ultimately, this study may contribute toward a change for full acceptance of canine-assisted therapy programs within the medical milieu. Additional studies using a similar research protocol on more autistic children will certainly help professionals to work on the most effective methods to individually serve this population through canine-assisted interventions.
+    

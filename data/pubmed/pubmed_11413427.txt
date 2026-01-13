@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 11413427)
+    QUESTION: Does transverse apex coincide with coronal apex levels (regional or global) in adolescent idiopathic scoliosis?
+    CONTEXT: Cross-sectional.
+    ANSWER: This study demonstrated that the regional or global apex of a given curve is the most rotated level in only a minority of the curves. The most rotated level may be as far as two levels from the global apex and one level from the regional apex.
+    

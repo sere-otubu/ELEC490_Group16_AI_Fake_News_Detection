@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17342562)
+    QUESTION: The clinical significance of bile duct sludge: is it different from bile duct stones?
+    CONTEXT: Some patients with suspected common bile duct (CBD) stones are found to have sludge and no stones. Although sludge in the gallbladder is a precursor of gallbladder stones, the significance of bile duct sludge (BDS) is poorly defined. This study aimed to compare BDS with bile duct stones in terms of frequency, associated risk factors, and clinical outcome after endoscopic therapy.
+    ANSWER: The findings indicate that the clinical significance of symptomatic BDS is similar to that of CBD stones. Bile duct sludge seems to be an early stage of choledocholithiasis.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 10834864)
+    QUESTION: Risk factors for avascular necrosis of bone in patients with systemic lupus erythematosus: is there a role for antiphospholipid antibodies?
+    CONTEXT: Avascular necrosis of bone (AVN) is a well known complication in patients with systemic lupus erythematosus (SLE).
+    ANSWER: Incorporating an adjustment for corticosteroid use we were unable to show a link between the presence of aPL and the development of AVN in patients with SLE.
+    

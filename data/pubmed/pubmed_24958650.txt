@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24958650)
+    QUESTION: May mean platelet volume levels be a predictor in the diagnosis of pelvic inflammatory disease?
+    CONTEXT: Our aim in this study was to investigate whether mean platelet volume (MPV) value could be used as an early marker to predict pelvic inflammatory disease (PID).
+    ANSWER: Since the MPV value was significantly decreased in patients with PID, it may serve as an additional and even more valuable marker than leukocyte count in the diagnosis of PID.
+    

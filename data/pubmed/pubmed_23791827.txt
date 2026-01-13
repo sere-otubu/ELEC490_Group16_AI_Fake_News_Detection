@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23791827)
+    QUESTION: Inpatient versus outpatient management of neutropenic fever in gynecologic oncology patients: is risk stratification useful?
+    CONTEXT: This study aimed to evaluate the utility of risk stratification of gynecologic oncology patients with neutropenic fever (NF).
+    ANSWER: Based on this pilot data, MASCC score appears promising in determining suitability for outpatient management of NF in gynecologic oncology patients. Prospective study is ongoing to confirm safety and determine impact on cost.
+    

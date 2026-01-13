@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24374414)
+    QUESTION: Does health information exchange reduce redundant imaging?
+    CONTEXT: Broad-based electronic health information exchange (HIE), in which patients' clinical data follow them between care delivery settings, is expected to produce large quality gains and cost savings. Although these benefits are assumed to result from reducing redundant care, there is limited supporting empirical evidence.
+    ANSWER: HIE was associated with reduced repeat imaging in EDs. This study is among the first to find empirical support for this anticipated benefit of HIE.
+    

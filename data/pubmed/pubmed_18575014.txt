@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18575014)
+    QUESTION: Nasal polyposis: is there an inheritance pattern?
+    CONTEXT: Nasal Polyposis (NP) is defined as a chronic inflammatory disease of sinonasal mucosa leading to diffuse formation of benign polyps. Although family histories are frequently suggested in medical literature, no specific study focused on this point has been reported. The purpose of this study is to determine whether a hereditary factor could be implied for NP in a family where several members were affected. We included 99 members of this family.
+    ANSWER: Regarding the pedigree, we discuss different modes of inheritance. The presence of consanguineous unions in this family suggests the possibility of a common ancestor and thus a recessive autosomal mode of inheritance.
+    

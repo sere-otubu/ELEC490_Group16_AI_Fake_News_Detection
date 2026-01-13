@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 9483814)
+    QUESTION: Does para-cervical block offer additional advantages in abortion induction with gemeprost in the 2nd trimester?
+    CONTEXT: Uterus-specific synthetic Prostaglandin analogues (gemeprost, sulproston etc.) have been widely employed for termination of pregnancy in the second trimester. Since paracervical anaesthesia may be useful during this procedure, we investigated in this prospective randomised study its impact on the clinical course of abortion and pain especially in the late first and second stage of labour.
+    ANSWER: Paracervical anaesthesia is a method for analgesia during second trimester abortion with a low rate of side effects. It can shorten the duration of last period of second trimester abortion in some cases but has no impact on the perception of pain nor requirement of analgesics and so with only limited benefit in second trimester abortion with vaginal gemeprost.
+    

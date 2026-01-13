@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21739621)
+    QUESTION: Does obesity predict knee pain over fourteen years in women, independently of radiographic changes?
+    CONTEXT: To examine longitudinal patterns in body mass index (BMI) over 14 years and its association with knee pain in the Chingford Study.
+    ANSWER: Over 14 years, a higher BMI predicts knee pain at Y15 in women, independently of radiographic knee OA. When adjusted, the association was significant in bilateral, not unilateral, knee pain, suggesting alternative pathologic mechanisms may exist. The longitudinal effect of BMI on knee pain at Y15 is equally important at any time point, which may assist reducing the population burden of knee pain.
+    

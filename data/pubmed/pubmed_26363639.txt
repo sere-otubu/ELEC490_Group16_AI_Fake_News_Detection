@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26363639)
+    QUESTION: Is aerobic workload positively related to ambulatory blood pressure?
+    CONTEXT: Cardiovascular disease is prevalent among workers with high levels of occupational physical activity. The increased risk may be due to a high relative aerobic workload, possibly leading to increased blood pressure. However, studies investigating the relation between relative aerobic workload and ambulatory blood pressure (ABP) are lacking. The aim was to explore the relationship between objectively measured relative aerobic workload and ABP.
+    ANSWER: Because workers may have an elevated relative aerobic workload for several hours each working day, this relationship may elucidate a mechanism behind the increased risk for cardiovascular disease among workers exposed to high levels of occupational physical activity.
+    

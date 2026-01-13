@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21459725)
+    QUESTION: Xanthogranulomatous cholecystitis: a premalignant condition?
+    CONTEXT: Xanthogranulomatous cholecystitis (XGC) is an uncommon variant of chronic cholecystitis, characterized by marked thickening of the gallbladder wall and dense local adhesions. It often mimics a gallbladder carcinoma (GBC), and may coexist with GBC, leading to a diagnostic dilemma. Furthermore, the premalignant nature of this entity is not known. This study was undertaken to assess the p53, PCNA and beta-catenin expression in XGC in comparison to GBC and chronic inflammation.
+    ANSWER: The expression of p53, PCNA and beta-catenin in XGC was significantly different from GBC and similar to chronic cholecystitis, thus indicating the inflammatory nature of XGC and may not support a premalignant nature of the lesion.
+    

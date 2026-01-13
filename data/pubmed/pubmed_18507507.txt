@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18507507)
+    QUESTION: The promise of specialty pharmaceuticals: are they worth the price?
+    CONTEXT: Specialty pharmaceuticals have evolved beyond their status as niche drugs designed to treat rare conditions and are now poised to become the standard of care in a wide variety of common chronic illnesses. Due in part to the cost of these therapies, payers are increasingly demanding evidence of their value. Determining the value of these medications is hampered by a lack of robust pharmacoeconomic data.
+    ANSWER: Current evidence suggests that when used in targeted patient populations, specialty pharmaceuticals may represent a good health care value.
+    

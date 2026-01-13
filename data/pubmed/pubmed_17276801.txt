@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17276801)
+    QUESTION: Can elevated troponin I levels predict complicated clinical course and inhospital mortality in patients with acute pulmonary embolism?
+    CONTEXT: The purpose of this study was to evaluate the value of elevated cardiac troponin I (cTnI) for prediction of complicated clinical course and in-hospital mortality in patients with confirmed acute pulmonary embolism (PE).
+    ANSWER: Our results indicate that elevated cTnI levels are associated with higher risk for inhospital mortality and complicated clinical course. Troponin I may play an important role for the risk assessment of patients with PE. The idea that an elevation in cTnI levels is a valuable parameter for the risk stratification of patients with PE needs to be examined in larger prospective studies.
+    

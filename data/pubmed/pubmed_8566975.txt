@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 8566975)
+    QUESTION: Serovar specific immunity to Neisseria gonorrhoeae: does it exist?
+    CONTEXT: To determine whether the host immune response to gonorrhoea provides limited serovar specific protection from reinfection.
+    ANSWER: We found no evidence of serovar specific immunity in our population. It remains possible that populations with a higher prevalence of gonorrhoea and more frequent infections may have a quantitatively greater immune response.
+    

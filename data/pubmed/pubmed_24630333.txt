@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24630333)
+    QUESTION: Comparing femoral version after intramedullary nailing performed by trauma-trained and non-trauma trained surgeons: is there a difference?
+    CONTEXT: As with some procedures, trauma fellowship training and greater surgeon experience may result in better outcomes following intramedullary nailing (IMN) of diaphyseal femur fractures. However, surgeons with such training and experience may not always be available to all patients. The purpose of this study is to determine whether trauma training affects the post-operative difference in femoral version (DFV) following IMN.
+    ANSWER: Post-operative version or percentage of DFV>15° did not significantly differ following IMN of diaphyseal femur fractures between surgeons with and without trauma fellowship training. However, prospective data that removes the inherent bias that the more complex cases are left for the traumatologists are required before a definitive comparison is made.
+    

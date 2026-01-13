@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25432938)
+    QUESTION: Did Chile's traffic law reform push police enforcement?
+    CONTEXT: The objective of the current study is to determine to what extent the reduction of Chile's traffic fatalities and injuries during 2000-2012 was related to the police traffic enforcement increment registered after the introduction of its 2005 traffic law reform.
+    ANSWER: Findings suggest that traffic law reforms in order to have an effect on both traffic fatality and injury rates reduction require changes in police enforcement practices. Last, this case also illustrates how the diffusion of successful road safety practices globally promoted by WHO and World Bank can be an important influence for enhancing national road safety practices.
+    

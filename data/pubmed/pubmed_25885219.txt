@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25885219)
+    QUESTION: Maternal creatine homeostasis is altered during gestation in the spiny mouse: is this a metabolic adaptation to pregnancy?
+    CONTEXT: Pregnancy induces adaptations in maternal metabolism to meet the increased need for nutrients by the placenta and fetus. Creatine is an important intracellular metabolite obtained from the diet and also synthesised endogenously. Experimental evidence suggests that the fetus relies on a maternal supply of creatine for much of gestation. However, the impact of pregnancy on maternal creatine homeostasis is unclear. We hypothesise that alteration of maternal creatine homeostasis occurs during pregnancy to ensure adequate levels of this essential substrate are available for maternal tissues, the placenta and fetus. This study aimed to describe maternal creatine homeostasis from mid to late gestation in the precocial spiny mouse.
+    ANSWER: Change of maternal creatine status (increased creatine synthesis and reduced creatine excretion) may be a necessary adjustment of maternal physiology to pregnancy to meet the metabolic demands of maternal tissues, the placenta and developing fetus.
+    

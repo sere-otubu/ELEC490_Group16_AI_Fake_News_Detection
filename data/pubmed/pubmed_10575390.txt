@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 10575390)
+    QUESTION: Do follow-up recommendations for abnormal Papanicolaou smears influence patient adherence?
+    CONTEXT: To compare adherence to follow-up recommendations for colposcopy or repeated Papanicolaou (Pap) smears for women with previously abnormal Pap smear results.
+    ANSWER: Adherence to follow-up was low in this family planning clinic population, no matter what type of follow-up was advised. Adherence was improved by the use of up to 3 reminders. Allocating resources to effective methods for improving adherence to follow-up of abnormal results may be more important than which follow-up procedure is recommended.
+    

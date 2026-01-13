@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 15388567)
+    QUESTION: Are sports medicine journals relevant and applicable to practitioners and athletes?
+    CONTEXT: To examine the evidence base of sports medicine research and assess how relevant and applicable it is to everyday practice.
+    ANSWER: There is a dearth of studies addressing diagnostic and treatment interventions in the sports medicine literature. The evidence base for sports medicine must continue to increase in terms of volume and quality.
+    

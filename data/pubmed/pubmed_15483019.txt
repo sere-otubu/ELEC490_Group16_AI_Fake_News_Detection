@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 15483019)
+    QUESTION: Is eligibility for a chemotherapy protocol a good prognostic factor for invasive bladder cancer after radical cystectomy?
+    CONTEXT: To assess whether eligibility to an adjuvant chemotherapy protocol in itself represents a good prognostic factor after radical cystectomy for bladder cancer.
+    ANSWER: These data suggest that being willing and fit enough for a chemotherapy protocol is a good prognostic factor for invasive bladder cancer. This eligibility bias emphasizes the need for prospective, randomized trials, and indicates that single-group studies using historical or matched controls have to be interpreted with caution.
+    

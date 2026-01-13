@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 14872327)
+    QUESTION: Is pain a clinically relevant problem in general adult psychiatry?
+    CONTEXT: To study the prevalence of pain and risk factors for pain in psychiatric patients in a psychiatric hospital.
+    ANSWER: We found evidence that pain can be a significant clinical problem in psychiatric patients which seems to be underestimated in psychiatry. The investigated patients in general adult psychiatry are characterized by specific risk factors different from clinical subpopulations of other disciplines.
+    

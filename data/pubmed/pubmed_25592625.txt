@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25592625)
+    QUESTION: Is cardiovascular evaluation necessary prior to and during beta-blocker therapy for infantile hemangiomas?
+    CONTEXT: Although consensus guidelines for pretreatment evaluation and monitoring of propranolol therapy in patients with infantile hemangiomas (IH) have been formulated, little is known about the cardiovascular side effects.
+    ANSWER: Pretreatment ECG is of limited value for patients with an unremarkable cardiovascular history and a normal heart rate and blood pressure. Hypotension may occur during treatment.
+    

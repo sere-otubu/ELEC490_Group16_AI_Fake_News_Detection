@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19653482)
+    QUESTION: Do familiar teammates request and accept more backup?
+    CONTEXT: The present study investigated factors that explain when and why different groups of teammates are more likely to request and accept backup from one another when needed in an environment characterized by extreme time pressure and severe consequences of error: commercial air traffic control (ATC).
+    ANSWER: Transactive memory theory extends to high-stress environments in which members' expertise is highly overlapping. Teammates' shared mental models about one another increase the likelihood that they will request and accept backup.
+    

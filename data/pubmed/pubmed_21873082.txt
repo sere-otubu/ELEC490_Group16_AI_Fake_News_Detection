@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21873082)
+    QUESTION: Is the h-index predictive of greater NIH funding success among academic radiologists?
+    CONTEXT: Despite rapid adoption of the Hirsch index (h-index) as a measure of academic success, the correlations between the h-index and other metrics of productivity remain poorly understood. The aims of this study were to determine whether h-indices were associated with greater National Institutes of Health (NIH) funding success among academic radiologists.
+    ANSWER: Having obtained at least one NIH grant was associated with a higher h-index, yet multiple or large grants, such as those for program projects, were not predictive of higher h-indices.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24606627)
+    QUESTION: The objective structured clinical examination: can physician-examiners participate from a distance?
+    CONTEXT: Currently, a 'pedagogical gap' exists in distributed medical education in that distance educators teach medical students but typically do not have the opportunity to assess them in large-scale examinations such as the objective structured clinical examination (OSCE). We developed a remote examiner OSCE (reOSCE) that was integrated into a traditional OSCE to establish whether remote examination technology may be used to bridge this gap. The purpose of this study was to explore whether remote physician-examiners can replace on-site physician-examiners in an OSCE, and to determine the feasibility of this new examination method.
+    ANSWER: This preliminary study demonstrated that OSCE ratings by LEs and REs were reasonably comparable when using checklists. Remote examination may be a feasible and acceptable way of assessing students' clinical skills, but further validity evidence will be required before it can be recommended for use in high-stakes examinations.
+    

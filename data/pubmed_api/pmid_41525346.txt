@@ -1,0 +1,3 @@
+Title: Leveraging information technology to promote the safe and effective use of vaccines.
+
+Abstract: The Institute for Safe Medication Practices (ISMP) collected data about vaccine-related errors, resulting in a new targeted medication safety best practice for vaccine error prevention strategies. ISMP best practice 22 includes 10 interventions that should be implemented to safeguard against vaccine-related errors in the inpatient and outpatient settings. The goal of this publication is to outline operational and electronic health record (EHR)-based interventions that have been successfully implemented to mitigate vaccine errors.

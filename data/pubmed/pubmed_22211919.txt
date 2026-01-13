@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 22211919)
+    QUESTION: Actinobaculum schaalii, a cause of urinary tract infections in children?
+    CONTEXT: Urine samples were examined by wet smear microscopy, incubated in 5% CO(2) for 1-2 days, and species-specific real-time polymerase chain reaction (PCR) for A. schaalii was performed.
+    ANSWER: Actinobaculum schaalii is CO(2)-dependent. Therefore, if there are clinical symptoms and/or a negative culture despite the presence of leucocytes in the urine, Gram staining and incubation in 5% CO(2) or species-specific real-time PCR should be performed to identify A. schaalii.
+    

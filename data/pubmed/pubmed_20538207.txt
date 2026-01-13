@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 20538207)
+    QUESTION: Should temperature be monitorized during kidney allograft preservation?
+    CONTEXT: It is generally considered that kidney grafts should be preserved at 4 degrees C during cold storage. However, actual temperature conditions are not known. We decided to study the temperature levels during preservation with the Biotainer storage can and Vitalpack transport pack.
+    ANSWER: The new storage can affords more stable temperature levels when compared to the formerly used can. Since temperature is stable during conservation, continuous monitoring in everyday practice does not seem warranted.
+    

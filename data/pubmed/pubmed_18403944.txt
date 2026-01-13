@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18403944)
+    QUESTION: Gluten tolerance in adult patients with celiac disease 20 years after diagnosis?
+    CONTEXT: Celiac disease (CD) is believed to be a permanent intolerance to gluten. A number of patients, however, discontinue the gluten-free diet (GFD) without developing symptoms or signs. The aim of our study was to investigate whether CD patients are capable of developing tolerance to gluten.
+    ANSWER: Development of tolerance to gluten seems possible in some patients with CD. Further follow-up will show whether this tolerance is permanent or only a long-term return to latency. This feature may be associated with genetic characteristics, especially with HLA genotypes that differ from DQ2 or DQ8. More insight into the mechanisms of the development of gluten tolerance may help to distinguish those CD patients that might not require life-long GFD.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23449952)
+    QUESTION: Contrast-enhanced MR imaging of hand and finger joints in patients with early rheumatoid arthritis: do we really need a full dose of gadobenate dimeglumine for assessing synovial enhancement at 3 T?
+    CONTEXT: To investigate the diagnostic value of a half dose compared with a full dose of gadobenate dimeglumine in the assessment of synovitis or tenosynovitis in the wrist and finger joints in patients with early rheumatoid arthritis (RA) and a disease activity score greater than 3.2.
+    ANSWER: Postcontrast synovial SIs showed high correlation between half dose and full dose, and image quality was rated identically. Therefore, half-dose gadobenate dimeglumine at 3-T MR imaging may be sufficient for assessing synovitis or tenosynovitis in early RA.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 11138995)
+    QUESTION: Is alexithymia a risk factor for unexplained physical symptoms in general medical outpatients?
+    CONTEXT: Alexithymia is presumed to play an important predisposing role in the pathogenesis of medically unexplained physical symptoms. However, no research on alexithymia has been done among general medical outpatients who present with medically unexplained physical symptoms as their main problem and in which anxiety and depression have been considered as possible confounding factors. This study investigated whether patients with medically unexplained physical symptoms are more alexithymic than those with explained symptoms and whether, in patients with unexplained symptoms, alexithymia is associated with subjective health experience and use of medical services.
+    ANSWER: In the majority of patients with medically unexplained physical symptoms, alexithymia does not play a role of clinical significance. Patients with unexplained physical symptoms are heterogeneous with respect to psychiatric syndrome pathology and probably also with respect to personality pathology.
+    

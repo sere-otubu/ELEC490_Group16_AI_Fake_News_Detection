@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 9745063)
+    QUESTION: Is laparoscopic sonography a reliable and sensitive procedure for staging colorectal cancer?
+    CONTEXT: Laparoscopic colectomy has developed rapidly with the explosion of technology. In most cases, laparoscopic resection is performed for colorectal cancer. Intraoperative staging during laparoscopic procedure is limited. Laparoscopic ultrasonography (LUS) represents the only real alternative to manual palpation during laparoscopic surgery.
+    ANSWER: The results obtained in this study demonstrate that LUS is an accurate and highly sensitive procedure in staging colorectal cancer, providing a useful and reliable diagnostic tool complementary to laparoscopy.
+    

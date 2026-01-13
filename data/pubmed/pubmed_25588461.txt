@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25588461)
+    QUESTION: Can transcranial direct current stimulation be useful in differentiating unresponsive wakefulness syndrome from minimally conscious state patients?
+    CONTEXT: Disorders of consciousness (DOC) diagnosis relies on the presence or absence of purposeful motor responsiveness, which characterizes the minimally conscious state (MCS) and the unresponsive wakefulness syndrome (UWS), respectively. Functional neuroimaging studies have raised the question of possible residual conscious awareness also in clinically-defined UWS patients. The aim of our study was to identify electrophysiological parameters, by means of a transcranial magnetic stimulation approach, which might potentially express the presence of residual networks sustaining fragmentary behavioral patterns, even when no conscious behavior can be observed.
+    ANSWER: a-tDCS could be useful in identifying residual connectivity markers in clinically-defined UWS, who may lack of purposeful behavior as a result of a motor-output failure.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 10456814)
+    QUESTION: Does desflurane alter left ventricular function when used to control surgical stimulation during aortic surgery?
+    CONTEXT: Although desflurane is commonly used to control surgically induced hypertension, its effects on left ventricular (LV) function have not been investigated in this clinical situation. The purpose of the present study was to evaluate the LV function response to desflurane, when used to control intraoperative hypertension.
+    ANSWER: This study demonstrates that in patients at risk for cardiac morbidity undergoing vascular surgery, desflurane is effective to control intraoperative hypertension without fear of major cardiac depressant effect.
+    

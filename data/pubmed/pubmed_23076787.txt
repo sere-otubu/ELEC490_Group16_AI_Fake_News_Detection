@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23076787)
+    QUESTION: Can increases in the cigarette tax rate be linked to cigarette retail prices?
+    CONTEXT: To explain China's cigarette pricing mechanism and the role of the Chinese State Tobacco Monopoly Administration (STMA) on cigarette pricing and taxation.
+    ANSWER: Numerous studies have found that taxation is one of the most effective policy instruments for tobacco control. However, these findings come from countries that have market economies where market forces determine prices and influence how cigarette taxes are passed to the consumers in retail prices. China's tobacco industry is not a market economy; therefore, non-market forces and the current Chinese tobacco monopoly system determine cigarette prices. The result is that tax increases do not necessarily get passed on to the retail price.
+    

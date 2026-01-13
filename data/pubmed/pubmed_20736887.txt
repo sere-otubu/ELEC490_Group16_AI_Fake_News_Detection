@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 20736887)
+    QUESTION: Is decompressive surgery effective for spinal cord sarcoidosis accompanied with compressive cervical myelopathy?
+    CONTEXT: A retrospective multicenter study of series of 12 patients with spinal cord sarcoidosis who underwent surgery.
+    ANSWER: The effect of decompression for spinal cord sarcoidosis with compressive myelopathy was not evident. Early diagnosis for sarcoidosis from other organ and steroid therapy should be needed.
+    

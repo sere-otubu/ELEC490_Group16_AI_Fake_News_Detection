@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17894828)
+    QUESTION: Serum angiotensin-converting enzyme and frequency of severe hypoglycaemia in Type 1 diabetes: does a relationship exist?
+    CONTEXT: An association has been described between elevated serum angiotensin-converting enzyme (ACE) and an increased risk of severe hypoglycaemia (SH). To ascertain whether this reported association could be replicated in a different country, it was re-examined in 300 individuals with Type 1 diabetes.
+    ANSWER: The present survey showed a weak relationship between serum ACE and the frequency of SH, the clinical relevance of which is unclear. This limits the proposed role for serum ACE as an index of risk for SH.
+    

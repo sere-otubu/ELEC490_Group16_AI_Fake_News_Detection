@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24139705)
+    QUESTION: Telemedicine and type 1 diabetes: is technology per se sufficient to improve glycaemic control?
+    CONTEXT: Each patient received a smartphone with an insulin dose advisor (IDA) and with (G3 group) or without (G2 group) the telemonitoring/teleconsultation function. Patients were classified as "high users" if the proportion of "informed" meals using the IDA exceeded 67% (median) and as "low users" if not. Also analyzed was the respective impact of the IDA function and teleconsultations on the final HbA1c levels.
+    ANSWER: The Diabeo system improved glycaemic control in both high and low users who avidly used the IDA function, while the greatest improvement was seen in the low users who had the motivational support of teleconsultations.
+    

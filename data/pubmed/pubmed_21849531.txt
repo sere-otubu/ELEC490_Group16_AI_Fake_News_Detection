@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21849531)
+    QUESTION: Does growth hormone replacement therapy reduce mortality in adults with growth hormone deficiency?
+    CONTEXT: Adults with GH deficiency (GHD) have a decreased life expectancy. The effect of GH treatment on mortality remains to be established.
+    ANSWER: GHD men receiving GH treatment have a mortality rate not different from the background population. In women, after exclusion of high-risk patients, mortality was not different from the background population except for CVD. Mortality due to malignancies was not elevated in adults receiving GH treatment. Next to gender, the heterogeneous etiology is of influence on mortality in GHD adults with GH treatment.
+    

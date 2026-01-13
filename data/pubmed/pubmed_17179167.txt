@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17179167)
+    QUESTION: Human papillomavirus and pterygium. Is the virus a risk factor?
+    CONTEXT: Pterygium is a disease of unknown origin and pathogenesis that might be vision threatening. It is characterised by a wing-like conjunctival overgrowth of the cornea. Several studies have investigated human papillomavirus (HPV) as a risk factor for the development of pterygia, but the results are inconclusive.AIM: To investigate a large sample of pterygia for the presence of HPV in order to clarify the putative association between pterygia and HPV.
+    ANSWER: The low presence of HPV DNA in pterygia does not support the hypothesis that HPV is involved in the development of pterygia in Denmark.
+    

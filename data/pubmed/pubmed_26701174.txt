@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26701174)
+    QUESTION: Inpatient Pediatric Tonsillectomy: Does Hospital Type Affect Cost and Outcomes of Care?
+    CONTEXT: To ascertain whether hospital type is associated with differences in total cost and outcomes for inpatient tonsillectomy.
+    ANSWER: Significant differences in costs, outcomes, and patient factors exist for inpatient tonsillectomy based on hospital type. Although reasons for these differences are not discernable using isolated claims data, findings provide a foundation to further evaluate patient, institutional, and system-level factors that may reduce cost of care and improve value for inpatient tonsillectomy.
+    

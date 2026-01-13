@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 9142039)
+    QUESTION: Does pediatric housestaff experience influence tests ordered for infants in the neonatal intensive care unit?
+    CONTEXT: To assess the relationship between the experience of pediatric housestaff and tests ordered on infants in the neonatal intensive care unit (ICU).
+    ANSWER: Interns order significantly more arterial blood gases per infant than junior and senior residents on-call in the neonatal ICU. Additional study is required to see if the experience of housestaff is associated with a broader array of neonatal outcomes, such as morbidity and mortality.
+    

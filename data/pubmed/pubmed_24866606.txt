@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24866606)
+    QUESTION: Do emergency ultrasound fellowship programs impact emergency medicine residents' ultrasound education?
+    CONTEXT: Recent years have seen a rapid proliferation of emergency ultrasound (EUS) programs in the United States. To date, there is no evidence supporting that EUS fellowships enhance residents' ultrasound (US) educational experiences. The purpose of this study was to determine the impact of EUS fellowships on emergency medicine (EM) residents' US education.
+    ANSWER: Emergency US fellowship programs had a positive impact on residents' US educational experiences. Emergency medicine residents performed more scans overall and also used bedside US for more advanced applications in programs with EUS fellowships.
+    

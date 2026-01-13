@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 7860319)
+    QUESTION: Measuring hospital mortality rates: are 30-day data enough?
+    CONTEXT: We compare 30-day and 180-day postadmission hospital mortality rates for all Medicare patients and those in three categories of cardiac care: coronary artery bypass graft surgery, acute myocardial infarction, and congestive heart failure. DATA SOURCES/
+    ANSWER: Using data on cumulative hospital mortality from 180 days postadmission does not yield a different perspective from using data from 30 days postadmission for the conditions we studied.
+    

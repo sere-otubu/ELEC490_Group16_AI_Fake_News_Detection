@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25985014)
+    QUESTION: Is ganglionated plexi ablation during Maze IV procedure beneficial for postoperative long-term stable sinus rhythm?
+    CONTEXT: We investigated the role of surgical ablation targeting the autonomous nervous system during a Cox-Maze IV procedure in the maintenance of sinus rhythm at long-term follow-up.
+    ANSWER: GP ablation did not prove to be beneficial for postoperative stable NSR. A complete left atrial lesion set and biatrial ablation are advisable for improving rhythm outcomes. Randomized controlled trials are necessary to confirm our findings.
+    

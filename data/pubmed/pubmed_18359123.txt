@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18359123)
+    QUESTION: Is it better to be big?
+    CONTEXT: Swedish hospital mergers seem to stem from a conviction among policy makers that bigger hospitals lead to lower average costs and improved clinical outcomes. The effects of mergers in the form of multisited hospitals have not been systematically evaluated. The purpose of this article is to contribute to this area of knowledge by exploring responses to the merger of Blekinge Hospital.
+    ANSWER: The employees believe the merger has neither generated economy of scale advantages nor substantial quality improvement. Instead, it seems more rewarding to promote cross-functional collaboration together with clinical specialisation. Needs for both integration and differentiation could thereby be fulfilled.
+    

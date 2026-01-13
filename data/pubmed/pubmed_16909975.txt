@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 16909975)
+    QUESTION: Can dose reduction to one parotid gland prevent xerostomia?
+    CONTEXT: Dryness of the mouth is one of the most distressing chronic toxicities of radiation therapy in head and neck cancers. In this study, parotid function was assessed in patients with locally advanced head and neck cancers undergoing intensity-modulated radiotherapy (IMRT) with or without chemotherapy. Parotid function was assessed with the help of a questionnaire and parotid scintigraphy, especially with regards to unilateral sparing of the parotid gland.
+    ANSWER: Minimising the radiation dose to one of the parotid glands with the help of IMRT in patients with advanced head and neck cancers can prevent xerostomia in most patients and parotid scintigraphy is a useful method of documenting xerostomia.
+    

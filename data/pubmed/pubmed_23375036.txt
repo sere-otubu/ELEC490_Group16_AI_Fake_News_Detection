@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23375036)
+    QUESTION: An HIV1/2 point of care test on sputum for screening TB/HIV co-infection in Central India - Will it work?
+    CONTEXT: To determine whether the OraQuick® HIV-1/2 Assay (OraSure Technologies, Inc., Bethlehem, PA, USA) in sputum is a valid tool for HIV surveillance among TB patients.
+    ANSWER: This testing method may provide a useful strategy for conducting HIV surveillance in possible co-infected TB patients at peripheral centres. Since there is no investment on infrastructure, it may be possible for paramedical health professionals to carry out the test, particularly in areas with low HIV endemicity.
+    

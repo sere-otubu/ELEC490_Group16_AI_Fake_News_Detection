@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 11481599)
+    QUESTION: Acute respiratory distress syndrome in children with malignancy--can we predict outcome?
+    CONTEXT: The purpose of this study was to delineate early respiratory predictors of mortality in children with hemato-oncology malignancy who developed acute respiratory distress syndrome (ARDS).
+    ANSWER: Peak inspiratory pressure, PEEP, and ventilation index values could distinguish survivors from nonsurvivors by day 3. This may assist in early application of supportive nonconventional therapies in children with malignancy and ARDS.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 20121683)
+    QUESTION: Are patients willing participants in the new wave of community-based medical education in regional and rural Australia?
+    CONTEXT: Community-based medical education is growing to meet the increased demand for quality clinical education in expanded settings, and its sustainability relies on patient participation. This study investigated patients' views on being used as an educational resource for teaching medical students.
+    ANSWER: Patients in regional and rural settings were willing partners in developing skills of junior medical students, who had greater involvement in patient consultations than previously reported for urban students. Our study extends the findings from urban general practice that patients are underutilised partners in community-based medical training. The support of patients from regional and rural settings could facilitate the expansion of primary care-based medical education in these areas of workforce need.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 28247485)
+    QUESTION: Is the first urinary albumin/creatinine ratio (ACR) in women with suspected preeclampsia a prognostic factor for maternal and neonatal adverse outcome?
+    CONTEXT: The aim of this study was to determine the prognostic value of the first urinary albumin/creatinine ratio (ACR) for adverse maternal and neonatal outcomes and how it relates to other prognostic factors.
+    ANSWER: ACR is an independent prognostic factor for maternal and neonatal adverse outcomes in suspected preeclampsia. ACR may be useful to inform risk predictions within a prognostic model.
+    

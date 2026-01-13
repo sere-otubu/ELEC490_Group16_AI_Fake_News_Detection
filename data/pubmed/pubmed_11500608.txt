@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 11500608)
+    QUESTION: Does short-term treatment with proton pump inhibitors cause rebound aggravation of symptoms?
+    CONTEXT: Rebound acid hypersecretion might occur after treatment with proton pump inhibitors. This study looks for a rebound aggravation of symptoms after short-term treatment with lansoprazole.STUDY: Sixty-two patients (19 men and 43 women; mean age, 54 years; range, 32-77 years) with heartburn and regurgitation and normal upper endoscopy findings were studied in a randomized, double-blind, placebo-controlled trial with a crossover design. There were two 5-day treatment periods with lansoprazole 60 mg once daily or placebo in random order, separated by a 9-day washout period. Reflux, total, and antacid scores were calculated for each of the treatment periods. Higher scores during the placebo period in the group given lansoprazole first than in the group given placebo first indicated a rebound aggravation of symptoms.
+    ANSWER: There is no indication of a rebound aggravation of symptoms 12 to 14 days after a 5-day treatment with lansoprazole 60 mg once daily in patients with reflux symptoms.
+    

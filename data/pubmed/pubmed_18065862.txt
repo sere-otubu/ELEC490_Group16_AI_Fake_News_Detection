@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18065862)
+    QUESTION: Can the postoperative pain level be predicted preoperatively?
+    CONTEXT: We searched for factors present preoperatively which could be used to predict the intensity of postoperative pain.
+    ANSWER: Significant postoperative pain can be expected in the following situations: pain after prior surgery, presence of chronic pain sustained for more than six months, intense preoperative pain, state of depression.
+    

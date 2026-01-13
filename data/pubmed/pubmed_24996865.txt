@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24996865)
+    QUESTION: Assessing joint line positions by means of the contralateral knee: a new approach for planning knee revision surgery?
+    CONTEXT: Reconstructing the natural joint line in knee revision surgery improves clinical and functional outcome but may be challenging when both cartilage and bone were removed during previous operations. Assessing joint lines (JLs) by means of bony landmarks is inadvisable because of large variations in human anatomy. Because of the inherent symmetry of the human body, we hypothesised that JLs may be directly assessed by measuring the distances from the bony landmarks to the JL of the contralateral knee by means of radiographic images.
+    ANSWER: As a new assessment method, we have suggested to assess the JL by means of radiographs of the contralateral knee. The most precise parameter was found to be the distance between the fibular head and the JL. The level of arthritis, age, gender, visibility of the landmarks, and misalignment did not influence measurement accuracy. This parameter is the first tibia-related landmark for assessing the JL, which advantageously corresponds to the tibia-first technique in revision surgery.
+    

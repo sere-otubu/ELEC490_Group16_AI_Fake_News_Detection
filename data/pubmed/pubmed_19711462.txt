@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19711462)
+    QUESTION: Standardizing care in medical oncology: are Web-based systems the answer?
+    CONTEXT: Medical oncology is embracing information technology to standardize care and improve patient outcomes, with a range of Web-based systems used internationally. The authors' aim was to determine the factors affecting the uptake and use of a Web-based protocol system for medical oncology in the Australian setting.
+    ANSWER: Although the provision of high-quality evidence-based resources, electronic or otherwise, is essential for standardizing care and improving patient outcomes, the authors' findings demonstrate that this alone does not ensure uptake. It is important to understand end-users, the environment in which they operate, and the basic infrastructure required to implement such a system. Implementation must also be accompanied by continuing education and endorsement to ensure both long-term sustainability and use of the system to its full potential.
+    

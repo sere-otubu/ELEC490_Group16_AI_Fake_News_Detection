@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 12805495)
+    QUESTION: Can patients be anticoagulated after intracerebral hemorrhage?
+    CONTEXT: Warfarin increases both the likelihood and the mortality of intracerebral hemorrhage (ICH), particularly in patients with a history of prior ICH. In light of this consideration, should a patient with both a history of ICH and a clear indication for anticoagulation such as nonvalvular atrial fibrillation be anticoagulated? In the absence of data from a clinical trial, we used a decision-analysis model to compare the expected values of 2 treatment strategies-warfarin and no anticoagulation-for such patients.
+    ANSWER: Survivors of lobar ICH with atrial fibrillation should not be offered long-term anticoagulation. Similarly, most patients with deep hemispheric ICH and atrial fibrillation should not receive anticoagulant therapy. However, patients with deep hemispheric ICH at particularly high risk for thromboembolic stroke or low risk of ICH recurrence might benefit from long-term anticoagulation.
+    

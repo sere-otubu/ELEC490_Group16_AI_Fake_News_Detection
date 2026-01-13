@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 16097998)
+    QUESTION: Is coeliac disease screening in risk groups justified?
+    CONTEXT: The benefits of serologic screening for coeliac disease in asymptomatic individuals are debatable.AIM: To investigate dietary compliance, quality of life and bone mineral density after long-term treatment in coeliac disease patients found by screening in risk groups.
+    ANSWER: Long-term dietary compliance in screen-detected patients was good. Quality of life and bone mineral density were comparable with those in non-coeliac subjects and the general population. Active screening in coeliac disease risk groups seems to be reasonable rather than harmful.
+    

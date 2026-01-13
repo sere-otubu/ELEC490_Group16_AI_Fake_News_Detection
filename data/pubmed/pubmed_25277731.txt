@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25277731)
+    QUESTION: Sternal fracture in growing children : A rare and often overlooked fracture?
+    CONTEXT: Sternal fractures in childhood are rare. The aim of the study was to investigate the accident mechanism, the detection of radiological and sonographical criteria and consideration of associated injuries.
+    ANSWER: Isolated sternal fractures in childhood are often due to typical age-related traumatic incidents. Ultrasonography is a useful diagnostic tool for fracture detection and radiography is the method of choice for visualization of the extent of the dislocation.
+    

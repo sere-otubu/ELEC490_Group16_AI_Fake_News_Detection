@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25669733)
+    QUESTION: Can distal ureteral diameter predict reflux resolution after endoscopic injection?
+    CONTEXT: To test the predictive value of distal ureteral diameter (UD) on reflux resolution after endoscopic injection in children with primary vesicoureteral reflux (VUR).
+    ANSWER: UDR provides an objective measurement of VUR and appears as a predictive tool of success after endoscopic injection.
+    

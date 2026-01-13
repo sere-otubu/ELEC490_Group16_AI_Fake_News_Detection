@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19398929)
+    QUESTION: Can the growth rate of a gallbladder polyp predict a neoplastic polyp?
+    CONTEXT: Cholecystectomy for GB polyps that are larger than 10 mm is generally recommended because of the high probability of neoplasm. In contrast, a follow-up strategy is preferred for GB polyps smaller than 10 mm. However, there are no treatment guidelines for polyps that grow in size during the follow-up period.STUDY: We retrospectively investigated 145 patients with GB polyps who underwent at least 1 ultrasonographic follow-up examination over an interval greater than 6 months, before cholecystectomy at Samsung medical center, South Korea, from 1994 to 2007. The growth rate was determined based on the change in size per time interval between 2 ultrasonographic examinations (mm/mo).
+    ANSWER: Patient's age (>60 y) and large polyp size (>10 mm) were significant predictive factors for neoplastic GB polyps. GB polyps less than 10 mm in diameter do not require surgical intervention simply because they grow.
+    

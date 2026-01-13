@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18388848)
+    QUESTION: Does having a regular primary care clinician improve quality of preventive care for young children?
+    CONTEXT: This study examines whether having a regular clinician for preventive care is associated with quality of care for young children, as measured by interpersonal quality ratings and content of anticipatory guidance.
+    ANSWER: Having a regular primary care clinician is embraced in pediatrics, although team care among physicians is also widely practiced. For young children, having a regular clinician is associated with modest gains in interpersonal quality and no differences in content of anticipatory guidance. The benefit of having a regular clinician may primarily occur in interpersonal quality for subgroups of young children.
+    

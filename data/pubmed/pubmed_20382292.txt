@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 20382292)
+    QUESTION: Knee extensor strength, dynamic stability, and functional ambulation: are they related in Parkinson's disease?
+    CONTEXT: To evaluate the relationship between knee extensor strength, postural stability, functional ambulation, and disease severity in Parkinson's disease (PD).
+    ANSWER: These findings suggest a malleable relationship between knee extensor strength, dynamic stability, and disease severity in PD. Although strength is only one piece of the puzzle in the functional outcome of PD, these findings may assist clinicians in designing appropriate interventions aimed at increasing function and decreasing fall risk in PD.
+    

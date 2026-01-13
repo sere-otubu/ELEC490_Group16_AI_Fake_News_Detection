@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26879871)
+    QUESTION: Does depression diagnosis and antidepressant prescribing vary by location?
+    CONTEXT: Studies have linked ethnic differences in depression rates with neighbourhood ethnic density although results have not been conclusive. We looked at this using a novel approach analysing whole population data covering just over one million GP patients in four London boroughs.
+    ANSWER: New depression diagnosis and antidepressant use was shown to be less likely in areas of higher own-ethnic density for some, but not all, ethnic groups.
+    

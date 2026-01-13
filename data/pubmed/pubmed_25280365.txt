@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25280365)
+    QUESTION: Reporting and interpreting red blood cell morphology: is there discordance between clinical pathologists and clinicians?
+    CONTEXT: Clinical pathologists (CPs) report RBC morphologic (RBC-M) changes to assist clinicians in prioritizing differential diagnoses. However, reporting is subjective, semiquantitative, and potentially biased. Reporting decisions vary among CPs, and reports may not be interpreted by clinicians as intended.
+    ANSWER: Important differences about the clinical relevance of certain RBC-M terms exist between clinicians and CPs. Inclusion of interpretive comments on CBC reports is the clearest way to ensure that RBC-M changes are interpreted as intended by the CP. Reporting practices should be examined critically to improve communication, transparency, and ultimately medical decisions.
+    

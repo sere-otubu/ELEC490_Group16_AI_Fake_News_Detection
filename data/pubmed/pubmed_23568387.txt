@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23568387)
+    QUESTION: Is bicompartmental knee arthroplasty more favourable to knee muscle strength and physical performance compared to total knee arthroplasty?
+    CONTEXT: Bicompartmental knee arthroplasty features bone and ligament sparing as unicompartmental knee arthroplasty and is presumably better in the recovery of muscle strength and function compared to total knee arthroplasty (TKA) though not previously reported in the literature. The aim of the study was to compare isokinetic knee muscle strength and physical performance in patients who underwent either bicompartmental knee arthroplasty or TKA.
+    ANSWER: Although theoretically plausible, bicompartmental knee arthroplasty was not superior in knee muscle strength and physical performance at 1 year compared with total knee arthroplasty.
+    

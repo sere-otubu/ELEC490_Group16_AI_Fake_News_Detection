@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 15052394)
+    QUESTION: Are higher rates of depression in women accounted for by differential symptom reporting?
+    CONTEXT: The gender difference in prevalence and incidence rates of depression is one of the most consistent findings in psychiatric epidemiology. We sought to examine whether any gender differences in symptom profile might account for this difference in rates.
+    ANSWER: Men and women in this community sample reported similar patterns of depressive symptoms. No evidence that the presentation of depressive symptoms differs by gender was found.
+    

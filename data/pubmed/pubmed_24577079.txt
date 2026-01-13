@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24577079)
+    QUESTION: Does strategy training reduce age-related deficits in working memory?
+    CONTEXT: Older adults typically perform worse on measures of working memory (WM) than do young adults; however, age-related differences in WM performance might be reduced if older adults use effective encoding strategies.
+    ANSWER: Strategy training can boost WM performance, and its benefits appear to arise from strategy-specific effects and not from domain-general gains in cognitive ability.
+    

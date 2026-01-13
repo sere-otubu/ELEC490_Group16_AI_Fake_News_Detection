@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 14551704)
+    QUESTION: Can communication with terminally ill patients be taught?
+    CONTEXT: Communication with terminally ill patients is a main responsibility of physicians. However, many physicians feel insufficiently prepared for this task. Models of courses resulting in improvements of communicative skills of participants have been published mainly in the Anglo-American literature. This study describes the realization of a 2-day course model based on the experiences of the first three courses of this kind in Rhineland-Palatinate, and analyzes changes of participants' communication behavior.
+    ANSWER: The realized communication skills courses resulted in relevant changes in communication behaviour and self-confidence of participants. Communication with terminally ill patients can be taught.
+    

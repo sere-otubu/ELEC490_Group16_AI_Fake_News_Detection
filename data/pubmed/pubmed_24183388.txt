@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24183388)
+    QUESTION: Is the Hawkins sign able to predict necrosis in fractures of the neck of the astragalus?
+    CONTEXT: To assess if the Hawkins sign can predict whether or not astragalus fractures of the neck will develop avascular necrosis. It is also assessed whether the occurrence of this complication is related to the displacement of the fracture, soft tissue injury, or delay in the reduction or surgery. The results were compared with those found in the literature.
+    ANSWER: A positive Hawkins sign rules out that the fractured talus has developed avascular necrosis, but its absence does not confirm it.
+    

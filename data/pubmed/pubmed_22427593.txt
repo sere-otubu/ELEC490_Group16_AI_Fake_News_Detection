@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 22427593)
+    QUESTION: Are normally sighted, visually impaired, and blind pedestrians accurate and reliable at making street crossing decisions?
+    CONTEXT: The purpose of this study is to measure the accuracy and reliability of normally sighted, visually impaired, and blind pedestrians at making street crossing decisions using visual and/or auditory information.
+    ANSWER: Our data suggested that visually impaired pedestrians can make accurate and reliable street crossing decisions like those of normally sighted pedestrians. When using auditory information only, all subjects significantly overestimated the vehicular gap time. Our finding that blind pedestrians performed significantly worse than either the normally sighted or visually impaired subjects under the hearing only condition suggested that they may benefit from training to improve their detection ability and/or interpretation of vehicular gap times.
+    

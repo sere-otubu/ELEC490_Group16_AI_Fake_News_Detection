@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 15125825)
+    QUESTION: Starting insulin in type 2 diabetes: continue oral hypoglycemic agents?
+    CONTEXT: To evaluate the effects of insulin 30/70 twice daily or bedtime isophane (NPH) insulin plus continued sulfonylurea and metformin in patients with type 2 diabetes in primary care.
+    ANSWER: Bedtime NPH insulin added to maximal therapy with sulfonylurea and metformin is an effective, simple, well-tolerated approach for patients with uncontrolled type 2 diabetes.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18019905)
+    QUESTION: The use of audit to identify maternal mortality in different settings: is it just a difference between the rich and the poor?
+    CONTEXT: To illustrate how maternal mortality audit identifies different causes of and contributing factors to maternal deaths in different settings in low- and high-income countries and how this can lead to local solutions in reducing maternal deaths.
+    ANSWER: Differences in maternal mortality are more than just differences between the rich and poor. Acknowledging the magnitude of maternal mortality and harnessing a strong political will to tackle the issues are important factors. However, there is no single, general solution to reduce maternal mortality, and identification of problems needs to be promoted through audit, both national and local.
+    

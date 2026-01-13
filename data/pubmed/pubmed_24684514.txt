@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24684514)
+    QUESTION: Should all patients be optimized to the same preoperative hemoglobin level to avoid transfusion in primary knee arthroplasty?
+    CONTEXT: Optimization of the preoperative hemoglobin (Hb) level is an effective way to reduce allogeneic transfusion in total knee arthroplasty (TKA) though the procedure is expensive, requires close monitoring and is often inconvenient for patients with reduced mobility. Our aim was to investigate the value of preoperative Hb levels to predict transfusion and thereby tailoring Hb optimization to patient characteristics.
+    ANSWER: Not all the patients undergoing TKA who receive tranexamic acid need the same preoperative Hb optimization target. Two easily available factors, such as the ASA score and the Hb level, can help individualize the Hb optimization target.
+    

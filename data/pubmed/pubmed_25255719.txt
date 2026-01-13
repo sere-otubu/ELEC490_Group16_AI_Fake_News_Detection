@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25255719)
+    QUESTION: Hearing loss: an unknown complication of pre-eclampsia?
+    CONTEXT: This prospective case-control study consisted of 33 patients with pre-eclampsia and 32 normotensive pregnant patients as controls. All of the subjects underwent otoscopic examinations - pure tone audiometry (0.25-16 kHz) and transient evoked otoacoustic emission (1-4 kHz) tests - during their third trimester of pregnancy.
+    ANSWER: Pre-eclampsia is a potential risk factor for cochlear damage and sensorineural hearing loss. Further studies that include routine audiological examinations are needed in these patients.
+    

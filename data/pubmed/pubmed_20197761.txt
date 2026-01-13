@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 20197761)
+    QUESTION: Is irritable bowel syndrome a diagnosis of exclusion?
+    CONTEXT: Guidelines emphasize that irritable bowel syndrome (IBS) is not a diagnosis of exclusion and encourage clinicians to make a positive diagnosis using the Rome criteria alone. Yet many clinicians are concerned about overlooking alternative diagnoses. We measured beliefs about whether IBS is a diagnosis of exclusion, and measured testing proclivity between IBS experts and community providers.
+    ANSWER: Most community providers believe IBS is a diagnosis of exclusion; this belief is associated with increased resource use. Experts comply more closely with guidelines to diagnose IBS with minimal testing. This disconnect suggests that better implementation of guidelines is warranted to minimize variation and improve cost-effectiveness of care.
+    

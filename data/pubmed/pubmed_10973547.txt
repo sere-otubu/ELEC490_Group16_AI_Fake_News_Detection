@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 10973547)
+    QUESTION: Are patients with Werlhof's disease at increased risk for bleeding complications when undergoing cardiac surgery?
+    CONTEXT: It is generally assumed, that patients with Werlhof's disease (WD) are at increased risk for bleeding complications when undergoing cardiac surgery with extracorporeal circulation. Therefore we performed this case control study to estimate the real risk for bleeding complications of these patients.
+    ANSWER: Patients with WD may possibly undergo cardiac surgery without a markedly enhanced risk for bleeding complications despite a more than usual transfusion requirement and significantly lower platelet counts perioperatively.
+    

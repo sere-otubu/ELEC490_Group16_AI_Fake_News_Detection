@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26215326)
+    QUESTION: Does the clinical presentation of a prior preterm birth predict risk in a subsequent pregnancy?
+    CONTEXT: The objective of the study was to determine whether risk of recurrent preterm birth differs based on the clinical presentation of a prior spontaneous preterm birth (SPTB): advanced cervical dilatation (ACD), preterm premature rupture of membranes (PPROM), or preterm labor (PTL).
+    ANSWER: Patients with a history of ACD are at an increased risk of having recurrent preterm birth and cervical shortening in a subsequent pregnancy compared with women with prior preterm birth associated PPROM or PTL.
+    

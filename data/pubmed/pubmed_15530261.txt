@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 15530261)
+    QUESTION: Does screening or surveillance for primary hepatocellular carcinoma with ultrasonography improve the prognosis of patients?
+    CONTEXT: The purpose of this paper is to evaluate the efficacy of ultrasonographic screening for primary hepatocellular carcinoma.
+    ANSWER: The significant impact of ultrasonographic screening on mortality reduction was demonstrated. These findings strongly suggest that early detection of hepatocellular carcinoma by ultrasound may improve the prognosis of patients with hepatocellular carcinoma.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 27554179)
+    QUESTION: Is routine dissection of the station 9 lymph nodes really necessary for primary lung cancer?
+    CONTEXT: Mediastinal lymph node dissection is an essential component of lung cancer surgery; however, choosing mediastinal lymph nodes stations to be dissected is subjective. We carried out this research to investigate the need for dissection of station 9 lymph nodes during lung cancer surgery.
+    ANSWER: The metastasis rate of station 9 lymph nodes was significantly lower than other mediastinal stations in lung cancer patients. The metastasis status of station 9 had no significant influence on tumor staging or prognosis. Routine dissection of station 9 lymph nodes may not be necessary, especially in patients with a low T stage, upper or middle lobe tumors, or without intrapulmonary lymph node metastasis.
+    

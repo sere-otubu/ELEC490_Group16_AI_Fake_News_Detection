@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23348330)
+    QUESTION: Nasal fractures:  is closed reduction satisfying?
+    CONTEXT: This study aims to evaluate the efficacy of closed reduction and the effects of timing and fracture types on patient satisfaction.
+    ANSWER: Closed reduction is an easy and sufficient treatment for nasal fractures, especially for mild nasal fractures. Early intervention raises the patient satisfaction rate.
+    

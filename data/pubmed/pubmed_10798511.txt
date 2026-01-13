@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 10798511)
+    QUESTION: Blunt trauma in intoxicated patients: is computed tomography of the abdomen always necessary?
+    CONTEXT: Physical examination to detect abdominal injuries has been considered unreliable in alcohol-intoxicated trauma patients. Computed tomography (CT) plays the primary role in these abdominal evaluations.
+    ANSWER: The incidence of abdominal injury in intoxicated, hemodynamically stable, blunt trauma patients with a normal abdominal examination and normal mentation is low. Physical examination and attention to clinical risk factors allow accurate abdominal evaluation without CT.
+    

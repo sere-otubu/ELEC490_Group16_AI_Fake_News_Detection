@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21194998)
+    QUESTION: Does minimal access major surgery in the newborn hurt less?
+    CONTEXT: Minimal access surgery (MAS) in adults is associated with less postoperative pain in comparison to conventional 'open' surgery. It is not known whether this holds true for neonates as well. Less pain would imply that opioid consumption can be reduced, which has a beneficial effect on morbidity.AIM: To evaluate potential differences in' opioid consumption between neonates undergoing thoracoscopic minimal access surgery or conventional surgery of esophageal atresia (EA) and congenital diaphragmatic hernia (CDH).
+    ANSWER: Minimal access surgery for the repair of esophageal atresia or congenital diaphragmatic hernia is not associated with less cumulative opioid doses.
+    

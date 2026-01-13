@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26175531)
+    QUESTION: Is Aspiration Thrombectomy Beneficial in Patients Undergoing Primary Percutaneous Coronary Intervention?
+    CONTEXT: It is unclear whether intravenous glycoprotein IIb/IIIa inhibitors or ischemic time might modify any clinical benefits observed with aspiration thrombectomy before primary percutaneous coronary intervention (PCI) in patients with ST-segment-elevation myocardial infarction.
+    ANSWER: Aspiration thrombectomy before primary PCI is not associated with any benefit on clinical end points and might increase the risk of stroke. Concomitant administration of intravenous glycoprotein IIb/IIIa inhibitors and ischemic time did not seem to influence any potential benefits observed with aspiration thrombectomy.
+    

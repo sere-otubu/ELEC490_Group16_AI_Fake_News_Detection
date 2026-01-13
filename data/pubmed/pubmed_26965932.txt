@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26965932)
+    QUESTION: Is Bare-Metal Stent Implantation Still Justifiable in High Bleeding Risk Patients Undergoing Percutaneous Coronary Intervention?
+    CONTEXT: This study sought to investigate the ischemic and bleeding outcomes of patients fulfilling high bleeding risk (HBR) criteria who were randomized to zotarolimus-eluting Endeavor Sprint stent (E-ZES) or bare-metal stent (BMS) implantation followed by an abbreviated dual antiplatelet therapy (DAPT) duration for stable or unstable coronary artery disease.
+    ANSWER: Among HBR patients with stable or unstable coronary artery disease, E-ZES implantation provides superior efficacy and safety as compared with conventional BMS. (Zotarolimus-Eluting Endeavor Sprint Stent in Uncertain DES Candidates [ZEUS]; NCT01385319).
+    

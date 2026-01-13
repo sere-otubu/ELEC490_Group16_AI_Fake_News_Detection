@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18784527)
+    QUESTION: Can mandibular depiction be improved by changing the thickness of double-oblique computed tomography images?
+    CONTEXT: Multislice helical computed tomography (CT), which can provide detailed 2-D and 3-D reconstructed images, is useful in imaging diagnosis for dental implant treatment. Therefore, in this study, it was performed to clarify the mandibular depiction of double-oblique reconstructed images when changing their thickness.
+    ANSWER: We concluded that depiction of the superior wall of the mandibular canal cannot be improved by changing the thickness of images.
+    

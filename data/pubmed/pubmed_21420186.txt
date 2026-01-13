@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21420186)
+    QUESTION: Could ADMA levels in young adults born preterm predict an early endothelial dysfunction?
+    CONTEXT: Sporadic data present in literature report how preterm birth and low birth weight are risk factors for the development of cardiovascular diseases in later life. High levels of asymmetric dimethylarginine (ADMA), a strong inhibitor of nitric oxide synthesis, are associated with the future development of adverse cardiovascular events and cardiac death.
+    ANSWER: Our findings reveal a significant decrease in ADMA levels of ex-ELBW subjects compared to C, underlining a probable correlation with preterm birth and low birth weight. Taken together, these results may underlie the onset of early circulatory dysfunction predictive of increased cardiovascular risk.
+    

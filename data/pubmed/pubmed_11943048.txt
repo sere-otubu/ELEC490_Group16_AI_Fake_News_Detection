@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 11943048)
+    QUESTION: Does receipt of hospice care in nursing homes improve the management of pain at the end of life?
+    CONTEXT: To compare analgesic management of daily pain for dying nursing home residents enrolled and not enrolled in Medicare hospice.
+    ANSWER: Findings suggest that analgesic management of daily pain is better for nursing home residents enrolled in hospice than for those not enrolled in hospice.The prescribing practices portrayed by this study reveal that many dying nursing home residents in daily pain are receiving no analgesic treatment or are receiving analgesic treatment inconsistent with AMDA and other pain management guidelines. Improving the analgesic management of pain in nursing homes is essential if high-quality end-of-life care in nursing homes is to be achieved.
+    

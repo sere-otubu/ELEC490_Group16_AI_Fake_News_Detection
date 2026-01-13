@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21398266)
+    QUESTION: Do symptoms matter when considering patients for phase I clinical trials?
+    CONTEXT: Older adults (OA) with advanced cancer (AC) undergoing phase I clinical trials (PICT) have poor prognosis. There are no studies which describe symptoms experienced by OA.
+    ANSWER: Older adults enrolled in PICT with more symptoms may sacrifice QOL for experimental treatment.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 11034241)
+    QUESTION: Is routine intraoperative frozen-section examination of sentinel lymph nodes in breast cancer worthwhile?
+    CONTEXT: Routine intraoperative frozen section (FS) of sentinel lymph nodes (SLN) can detect metastatic disease, allowing immediate axillary dissection and avoiding the need for reoperation. Routine FS is also costly, increases operative time, and is subject to false-negative results. We examined the benefit of routine intraoperative FS among the first 1000 patients at Memorial Sloan Kettering Cancer Center who had SLN biopsy for breast cancer.
+    ANSWER: In breast cancer patients having SLN biopsy, the failure of routine intraoperative FS is largely the failure to detect micrometastatic disease. The benefit of routine intraoperative FS increases with tumor size. Routine FS may not be indicated in patients with the smallest invasive cancers.
+    

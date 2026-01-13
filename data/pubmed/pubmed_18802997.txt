@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18802997)
+    QUESTION: Can calprotectin predict relapse risk in inflammatory bowel disease?
+    CONTEXT: Assessing the clinical course of inflammatory bowel disease (IBD) patients consists of periodical clinical evaluations and laboratory tests. We aimed to assess the role of calprotectin tests in predicting clinical relapse in IBD patients.
+    ANSWER: Measuring calprotectin may help to identify UC and colonic CD patients at higher risk of clinical relapse.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24922528)
+    QUESTION: The association of puberty and young adolescent alcohol use: do parents have a moderating role?
+    CONTEXT: To explore the extent to which parent-adolescent emotional closeness, family conflict, and parental permissiveness moderate the association of puberty and alcohol use in adolescents (aged 10-14).
+    ANSWER: Puberty and family factors were strong predictors of adolescent alcohol use, but family factors did not account for variation in the association of pubertal stage and alcohol use.
+    

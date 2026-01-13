@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26505821)
+    QUESTION: Are Biochemical Markers of Bone Turnover Representative of Bone Histomorphometry in 370 Postmenopausal Women?
+    CONTEXT: The levels of bone formation and resorption can be assessed at the tissue level by bone histomorphometry on transiliac bone biopsies. Systemic biochemical markers of bone turnover reflect the overall bone formation and resorption at the level of the entire skeleton but cannot discriminate the different skeletal compartments.
+    ANSWER: Bone turnover markers were significantly but modestly associated with bone turnover parameters measured in iliac cancellous bone. The iliac crest bone may not represent perfectly the whole bone turnover.
+    

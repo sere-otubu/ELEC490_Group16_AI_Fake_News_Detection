@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24695920)
+    QUESTION: Does anterior laxity of the uninjured knee influence clinical outcomes of ACL reconstruction?
+    CONTEXT: The purpose of this study was to evaluate the association between the postoperative outcomes of anterior cruciate ligament (ACL) reconstruction and the anterior laxity of the uninjured knee.
+    ANSWER: Greater anterior laxity of the uninjured knee was associated with poorer stability and functional outcomes after ACL reconstruction. Excessive anterior laxity of the uninjured knee thus appears to represent a risk factor for inferior outcomes.
+    

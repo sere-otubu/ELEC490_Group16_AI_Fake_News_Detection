@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23774337)
+    QUESTION: Does the central venous pressure predict fluid responsiveness?
+    CONTEXT: Despite a previous meta-analysis that concluded that central venous pressure should not be used to make clinical decisions regarding fluid management, central venous pressure continues to be recommended for this purpose.AIM: To perform an updated meta-analysis incorporating recent studies that investigated indices predictive of fluid responsiveness. A priori subgroup analysis was planned according to the location where the study was performed (ICU or operating room).
+    ANSWER: There are no data to support the widespread practice of using central venous pressure to guide fluid therapy. This approach to fluid resuscitation should be abandoned.
+    

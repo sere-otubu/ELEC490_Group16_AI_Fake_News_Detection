@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17244100)
+    QUESTION: Can patient coaching reduce racial/ethnic disparities in cancer pain control?
+    CONTEXT: Minority patients with cancer experience worse control of their pain than do their white counterparts. This disparity may, in part, reflect more miscommunication between minority patients and their physicians. Therefore, we examined whether patient coaching could reduce disparities in pain control in a secondary analysis of a randomized controlled trial.
+    ANSWER: Patient coaching offers promise as a means of reducing racial/ethnic disparities in pain control. Larger studies are needed to validate these findings and to explore possible mechanisms.
+    

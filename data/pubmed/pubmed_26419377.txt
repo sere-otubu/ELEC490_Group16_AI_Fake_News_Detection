@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26419377)
+    QUESTION: Are pelvic anatomical structures in danger during arthroscopic acetabular labral repair?
+    CONTEXT: The purpose of this study was to evaluate safe depth for suture anchor insertion during acetabular labral repair and to determine the neighbouring structures at risk during drilling and anchor insertion.
+    ANSWER: It is anatomically possible that some pelvic structures sustain iatrogenic injury during acetabular drilling for anchor placement. Being aware of mean pelvic vault is important in which drilling after excessive pincer rim trimming could easily decrease the depth of acetabular bone without a standard. Careful drilling by using stopped drill bit is crucial to prevent iatrogenic injury.
+    

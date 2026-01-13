@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 15381614)
+    QUESTION: Cutaneous melanoma in a multiethnic population: is this a different disease?
+    CONTEXT: Cutaneous melanoma in nonwhite persons has a manifestation and a prognosis that are different than those of cutaneous melanoma in white persons.
+    ANSWER: In a multiethnic population, cutaneous melanoma in nonwhite persons is unusual but not rare. Although the diagnoses are distinctly different at initial examinations, suggesting a potential biological component, stage-for-stage outcomes are similar between white and nonwhite persons and suggest a need for early diagnostic interventions with unusual pigmented lesions in nonwhite persons.
+    

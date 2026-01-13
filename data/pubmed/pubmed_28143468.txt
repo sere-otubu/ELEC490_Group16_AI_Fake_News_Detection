@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 28143468)
+    QUESTION: Are performance measurement systems useful?
+    CONTEXT: Prior literature identified the use of Performance Measurement Systems (PMS) as crucial in addressing improved processes of care. Moreover, a strategic use of PMS has been found to enhance quality, compared to non-strategic use, although a clear understanding of this linkage is still to be achieved. This paper deals with the test of direct and indirect models related to the link between the strategic use of PMS and the level of improved processes in health care organizations. Indirect models were mediated by the degree of perceived managerial discretion.
+    ANSWER: This study contributes to the literature investigating the design and implementation of a non-financial measurement tool, such as the non-financial information included into a balanced scorecard (BSC), in health care organizations. Managers in health care organizations can benefit from the strategic use of PMS to effectively allocate their time to strategic opportunities and threats, which might arise and affect organizational, output-related performance, such as improving processes.
+    

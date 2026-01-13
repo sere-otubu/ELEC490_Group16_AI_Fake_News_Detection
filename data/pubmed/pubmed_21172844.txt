@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21172844)
+    QUESTION: Does TDP-43 type confer a distinct pattern of atrophy in frontotemporal lobar degeneration?
+    CONTEXT: To determine whether TDP-43 type is associated with distinct patterns of brain atrophy on MRI in subjects with pathologically confirmed frontotemporal lobar degeneration (FTLD).
+    ANSWER: Although there are different patterns of atrophy across the different FTLD-TDP types, it appears that genetic and pathologic factors may also affect the patterns of atrophy.
+    

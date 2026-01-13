@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24751724)
+    QUESTION: Does ethnicity affect where people with cancer die?
+    CONTEXT: Ageing is a growing issue for people from UK black, Asian and minority ethnic (BAME) groups. The health experiences of these groups are recognised as a 'tracer' to measure success in end of life patient-preferred outcomes that includes place of death (PoD).AIM: To examine patterns in PoD among BAME groups who died of cancer.
+    ANSWER: Location of death varies by country of birth. BAME groups are more likely to die in a hospital and less likely to die at home or in a hospice. Further investigation is needed to determine whether these differences result from patient-centred preferences, or other environment or service-related factors. This knowledge will enable strategies to be developed to improve access to relevant palliative care and related services, where necessary.
+    

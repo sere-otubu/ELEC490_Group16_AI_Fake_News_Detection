@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19615731)
+    QUESTION: Does higher body mass index contribute to worse asthma control in an urban population?
+    CONTEXT: Epidemiologic findings support a positive association between asthma and obesity.
+    ANSWER: Using 4 validated asthma control questionnaires, we failed to find an association between obesity and asthma control in an urban population with asthma. Weight loss may not be an appropriate strategy to improve asthma control in this population.
+    

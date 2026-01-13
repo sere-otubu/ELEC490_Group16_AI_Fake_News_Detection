@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 12848629)
+    QUESTION: Is a 9-month treatment sufficient in tuberculous enterocolitis?
+    CONTEXT: Tuberculosis has increased in parallel with the acquired immunodeficiency syndrome epidemic and the use of immunosuppressive therapy, and the growing incidence of extra-pulmonary tuberculosis, especially with intestinal involvement, reflects this trend. However, the duration of anti-tuberculous therapy has not been clarified in intestinal tuberculosis.AIM: To compare the efficacy of different treatment durations in tuberculous enterocolitis in terms of response and recurrence rates.
+    ANSWER: Tuberculous enterocolitis can be managed by 9-month chemotherapy without disease recurrence. Further investigations are needed in immunocompromised patients.
+    

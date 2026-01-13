@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23719685)
+    QUESTION: Does high-dose radiotherapy benefit palliative lung cancer patients?
+    CONTEXT: The present analysis compares two palliative treatment concepts for lung cancer in terms of overall survival.
+    ANSWER: The palliative treatment concept of 25 Gy applied in 5 fractions is sufficient for radiation of lung cancer, given that there was no obvious survival improvement in patients treated with the higher total dose regimen.
+    

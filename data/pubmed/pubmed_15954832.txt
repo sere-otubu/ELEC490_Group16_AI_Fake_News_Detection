@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 15954832)
+    QUESTION: Is minilaparoscopic inguinal hernia repair feasible?
+    CONTEXT: Laparoscopy has rapidly emerged as the preferred surgical approach to a number of different diseases because it allows for a correct diagnosis and proper treatment. It seems to be moving toward the use of mini-instruments (5 mm or less in diameter). The aim of this paper is to illustrate retrospectively the results of an initial experience of minilaparoscopic transabdominal preperitoneal (miniTAPP) repair of groin hernia defects performed at two institutions.
+    ANSWER: While limited by its retrospective design, the present study indicates that the minilaparoscopic approach to groin hernia repair is safe and effective, making miniTAPP a challenging alternative to laparoscopy in the approach to groin hernia repair.
+    

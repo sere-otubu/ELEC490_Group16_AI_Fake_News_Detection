@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21951591)
+    QUESTION: Motor performance in chronic low back pain: is there an influence of pain-related cognitions?
+    CONTEXT: Chronic low back pain (CLBP) is often accompanied by an abnormal motor performance. However, it has not been clarified yet whether these deviations also occur during motor tasks not involving the back and whether the performance is influenced by pain and pain-related cognitions. Therefore, the aim of the present study is to get insight in the contribution of both pain experience and pain-related cognitions to general motor task performance in CLBP.
+    ANSWER: It can be concluded that CLBP patients in general have worse motor task performance compared to healthy subjects and that provoking pain-related cognitions further worsened performance.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23379759)
+    QUESTION: Can early second-look tympanoplasty reduce the rate of conversion to modified radical mastoidectomy?
+    CONTEXT: The aims of the study were to report the rates of recurrent and residual cholesteatoma following primary CAT surgery and to report the rate of conversion to a modified radical mastoidectomy.
+    ANSWER: Combined approach tympanoplasty (CAT) allows for successful treatment of cholesteatoma with rates of recurrent and residual disease comparable to open mastoid surgery. Early timing of second-look procedures allows easier removal of any recurrent or residual disease, which reduces the conversion rate to open mastoidectomy.
+    

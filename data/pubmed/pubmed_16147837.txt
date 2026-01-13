@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 16147837)
+    QUESTION: Is grandmultiparity an independent risk factor for adverse perinatal outcomes?
+    CONTEXT: To compare maternal and neonatal outcomes among grandmultiparous women to those of multiparous women 30 years or older.
+    ANSWER: Grandmultiparous women had increased maternal and neonatal morbidity, and neonatal mortality even after controlling for confounders, suggesting a need for closer observation than regular multiparous patients during labor and delivery.
+    

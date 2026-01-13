@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18603989)
+    QUESTION: Can homemade alcohol (Raksi) be useful for preserving dead bodies?
+    CONTEXT: Embalming is the through disinfection and art of preserving bodies after death using chemical substances. It keeps a body life like in appearance during the time it lies in a state prior to funeral.
+    ANSWER: It is concluded from the study that this knowledge if applied to dead human subjects, may preserve dead bodies temporarily allowing delayed funeral.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26285789)
+    QUESTION: Does Molecular Genotype Provide Useful Information in the Management of Radioiodine Refractory Thyroid Cancers?
+    CONTEXT: Whether mutation status should be used to guide therapy is an important issue in many cancers. We correlated mutation profile in radioiodine-refractory (RAIR) metastatic thyroid cancers (TCs) with patient outcome and response to tyrosine kinase inhibitors (TKIs), and discussed the results with other published data.
+    ANSWER: Patients with BRAF-mutant PTC had a significantly longer PFS than BRAF wild-type when treated with TKIs. However, due to the small number of BRAF-mutant patients, further investigations are required, especially to understand the potential positive effect of BRAF mutations in RAIR TC patients while having a negative prognostic impact in RAI-sensitive PTC patients.
+    

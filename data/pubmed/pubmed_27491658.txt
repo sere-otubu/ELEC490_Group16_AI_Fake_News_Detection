@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 27491658)
+    QUESTION: Can predilatation in transcatheter aortic valve implantation be omitted?
+    CONTEXT: The use of a balloon expandable stent valve includes balloon predilatation of the aortic stenosis before valve deployment. The aim of the study was to see whether or not balloon predilatation is necessary in transcatheter aortic valve replacement (TAVI).
+    ANSWER: TAVI can be performed safely without balloon predilatation and with the same early results as achieved with the standard procedure including balloon predilatation. The reduction in the number of pacing periods required may be beneficial for the patient.
+    

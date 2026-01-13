@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 11149643)
+    QUESTION: Is semi-closed endarterectomy of the superficial femoral artery combined with a short venous bypass in case of insufficient venous material an acceptable alternative for limb-threatening ischemia?
+    CONTEXT: The aim of this study was to analyse the results of infragenual arterial revascularisation using semiclosed endarterectomy of the superficial femoral artery combined with a short venous bypass in patients with critical leg ischemia and insufficient venous material for a straightforward femorocrural reconstruction.
+    ANSWER: In patients with limb-threatening ischemia and lack of venous material for a straightforward venous femorocrural bypass, semi-closed endarterectomy of the superficial femoral artery combined with a short popliteo-crural bypass provides a good alternative.
+    

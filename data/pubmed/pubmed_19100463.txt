@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19100463)
+    QUESTION: Is the affinity column-mediated immunoassay method suitable as an alternative to the microparticle enzyme immunoassay method as a blood tacrolimus assay?
+    CONTEXT: Tacrolimus is a potent immunosuppressive drug used in organ transplantation. Because of its substantial toxic effects, narrow therapeutic index, and interindividual pharmacokinetic variability, therapeutic drug monitoring of whole-blood tacrolimus concentrations has been recommended. We investigated the comparability of the results of 2 immunoassay systems, affinity column-mediated immunoassay (ACMIA) and microparticle enzyme immunoassay (MEIA), comparing differences in the tacrolimus concentrations measured by the 2 methods in relation to the hematologic and biochemical values of hepatic and renal functions.
+    ANSWER: The ACMIA method used for a tacrolimus assay is precise and has advantages, including the lack of a required pretreatment procedure. Furthermore, it is only slightly influenced by the hematologic or biochemical status of the samples.
+    

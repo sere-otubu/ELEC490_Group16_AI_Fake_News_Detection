@@ -1,0 +1,3 @@
+Title: Using Artificial Intelligence to Adjudicate Major Adverse Cardiovascular Events in Clinical Trials.
+
+Abstract: Major adverse cardiovascular events (MACE)-cardiovascular (CV) death, nonfatal myocardial infarction (MI), and nonfatal stroke-are highly relevant clinical outcomes. In global randomized trials, medical records review by a physician clinical events committee (CEC) is the conventional standard for adjudicating MACE but is labor intensive. Automated adjudication with the use of artificial intelligence (AI) could reduce cost and improve reproducibility.

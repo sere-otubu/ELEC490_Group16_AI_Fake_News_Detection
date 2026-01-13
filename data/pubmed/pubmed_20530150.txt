@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 20530150)
+    QUESTION: Is cholecystectomy really an indication for concomitant splenectomy in mild hereditary spherocytosis?
+    CONTEXT: Children referred with symptomatic gallstones complicating HS between April 1999 and April 2009 were prospectively identified and reviewed retrospectively. During this period, the policy was to undertake concomitant splenectomy only if indicated for haematological reasons and not simply because of planned cholecystectomy.
+    ANSWER: The advice to perform a concomitant splenectomy in children with mild HS undergoing cholecystectomy for symptomatic gallstones needs revisiting. In the era of minimal access surgery, the need for splenectomy in such children should be judged on its own merits.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24901580)
+    QUESTION: Is scintigraphy a guideline method in determining amputation levels in diabetic foot?
+    CONTEXT: In this study, we aimed to evaluate the potential use of a 3-phase bone scintigraphy method to determine the level of amputation on treatment cost, morbidity and mortality, reamputation rates, and the duration of hospitalization in diabetic foot.
+    ANSWER: We conclude that 3-phase bone scintigraphy prior to surgery could be a useful method to determine the amputation level in a diabetic foot. We conclude that further, comparative, more comprehensive, long-term, and controlled studies are required.
+    

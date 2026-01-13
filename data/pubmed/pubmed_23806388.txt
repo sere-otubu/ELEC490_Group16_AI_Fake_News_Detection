@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23806388)
+    QUESTION: Do nomograms designed to predict biochemical recurrence (BCR) do a better job of predicting more clinically relevant prostate cancer outcomes than BCR?
+    CONTEXT: To examine the ability of various postoperative nomograms to predict prostate cancer-specific mortality (PCSM) and to validate that they could predict aggressive biochemical recurrence (BCR). Prostate-specific antigen (PSA), grade, and stage are the classic triad used to predict BCR after radical prostatectomy (RP). Multiple nomograms use these to predict risk of BCR. A previous study showed that several nomograms could predict aggressive BCR (prostate-specific antigen doubling time [PSADT] <9 months) more accurately than BCR. However, it remains unknown if they can predict more definitive endpoints, such as PCSM.
+    ANSWER: Currently available nomograms used to predict BCR accurately predict PCSM and other more clinically relevant endpoints. Moreover, not only do they significantly predict PCSM, but do so with generally greater accuracy than BCR.
+    

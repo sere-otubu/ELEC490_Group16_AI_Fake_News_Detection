@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21481154)
+    QUESTION: Improvements in survival of gynaecological cancer in the Anglia region of England: are these an effect of centralisation of care and use of multidisciplinary management?
+    CONTEXT: Our hypothesis is that the adoption of Department of Health (DH) guidance has led to an improvement in outcome in gynaecological cancer survival.
+    ANSWER: The adoption of the 1999 guidance on gynaecological cancer, which included multidisciplinary case management and centralisation of surgery, resulted in a marked step-change improvement in survival of gynaecological cancer in an area of eastern England in 2000.
+    

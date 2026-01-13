@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25981682)
+    QUESTION: Preparing patients at high risk of falls for discharge home after rehabilitation: Do we meet the guidelines?
+    CONTEXT: Medical records of 121 people who received inpatient rehabilitation were retrospectively screened; records of 50 people discharged home and at high falls risk (fall in last 12 months, fall preceding/during admission) were audited. Data extracted included falls risk identification during rehabilitation and in discharge documentation; falls risk factors assessed; and fall prevention strategies implemented.
+    ANSWER: There was little evidence that people at high risk of falls received systematic falls risk assessment during rehabilitation. When a risk was identified, generally a strategy was implemented. However, failure to assess some risk factors might have limited fall prevention strategies offered. Failure to adequately address risks during hospitalization could contribute to falls post-discharge. Geriatr Gerontol Int 2016; 16: 570-576.
+    

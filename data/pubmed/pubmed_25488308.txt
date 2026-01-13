@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25488308)
+    QUESTION: Can bone thickness and inter-radicular space affect miniscrew placement in posterior mandibular sites?
+    CONTEXT: The proper angle of miniscrew insertion is important for cortical anchorage, patient safety, and biomechanical control. The purposes of this study are to report the alveolar process thickness and inter-radicular space in the posterior region of the mandible, to assess the impact of different miniscrew insertion angle protocols, and to identify differences between the genders or types of malocclusion.
+    ANSWER: The results of this study suggest that the safest areas for the placement of miniscrews are between the first and second premolars and between the first and second molars, regardless of the angle of insertion.
+    

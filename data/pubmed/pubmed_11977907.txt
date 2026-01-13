@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 11977907)
+    QUESTION: Subclavian steal syndrome: can the blood pressure difference between arms predict the severity of steal?
+    CONTEXT: A side-to-side difference in systolic brachial arterial blood pressure is a common finding in subclavian artery stenosis and is frequently used as a screening tool for subclavian steal syndrome (SSS). It was the goal of this retrospective study to investigate the relationship between different vertebral artery waveform types and the side-to-side difference in systolic blood pressure in patients with sonographically proven SSS.
+    ANSWER: Brachial systolic blood pressure difference is related to the severity of SSS and can be used as a screening tool for SSS. However, it performed better in severe steal than milder steal phenomena.
+    

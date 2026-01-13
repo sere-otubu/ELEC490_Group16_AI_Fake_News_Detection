@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18307476)
+    QUESTION: Upstream solutions: does the supplemental security income program reduce disability in the elderly?
+    CONTEXT: The robust relationship between socioeconomic factors and health suggests that social and economic policies might substantially affect health, while other evidence suggests that medical care, the main focus of current health policy, may not be the primary determinant of population health. Income support policies are one promising avenue to improve population health. This study examines whether the federal cash transfer program to poor elderly, the Supplemental Security Income (SSI) program, affects old-age disability.
+    ANSWER: Income support policy may be a significant new lever for improving population health, especially that of lower-income persons. Even though the findings are robust, further analyses are needed to confirm their reliability. Future research should examine a variety of different income support policies, as well as whether a broader range of social and economic policies affect health.
+    

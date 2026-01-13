@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 9854965)
+    QUESTION: Dementia and aphasia in motor neuron disease: an underrecognised association?
+    CONTEXT: To determine the prevalence and nature of global cognitive dysfunction and language deficits in an unselected population based cohort of patients with motor neuron disease (MND).
+    ANSWER: The prevalence of cognitive impairment in MND in this population based study of an unselected cohort was higher than has been previously reported. Language deficits, especially anomia, may be relatively frequent in the MND population. Aphasia in MND may be masked by dysarthria and missed if not specifically examined.
+    

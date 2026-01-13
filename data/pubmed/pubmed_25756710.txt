@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25756710)
+    QUESTION: Can emergency physicians accurately and reliably assess acute vertigo in the emergency department?
+    CONTEXT: To validate a clinical diagnostic tool, used by emergency physicians (EPs), to diagnose the central cause of patients presenting with vertigo, and to determine interrater reliability of this tool.
+    ANSWER: In the hands of EPs, STANDING showed a good inter-observer agreement and accuracy validated against the local standard of care.
+    

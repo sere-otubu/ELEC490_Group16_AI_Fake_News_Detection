@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 14612308)
+    QUESTION: Can PRISM predict length of PICU stay?
+    CONTEXT: PRISM is claimed to score disease severity which has attributed an impact on length of PICU stay (LOS).
+    ANSWER: The ANN with its intrinsic ability to detect non-linear correlation, and to relate specific item patterns to LOS, outperformed linear statistics but was still disappointing in estimating individual LOS. It might be speculated that therapeutic intervention modulates the natural course of the disease thus counteracting both disease severity as initially scored by PRISM, and LOS. This being true, the inverse of the correlation between PRISM (or PRISM based LOS estimate) and LOS might be a candidate indicator of quality of care.
+    

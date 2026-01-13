@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23792130)
+    QUESTION: Can magnetic resonance-ultrasound fusion biopsy improve cancer detection in enlarged prostates?
+    CONTEXT: Patients with an enlarged prostate and suspicion of prostate cancer pose a diagnostic dilemma. The prostate cancer detection rate of systematic 12-core transrectal ultrasound guided biopsy is between 30% and 40%. For prostates greater than 40 cc this decreases to 30% or less. Magnetic resonance-ultrasound fusion biopsy has shown superior prostate cancer detection rates. We defined the detection rate of magnetic resonance-ultrasound fusion biopsy in men with an enlarged prostate gland.
+    ANSWER: Transrectal ultrasound guided and fusion biopsy cancer detection rates decreased with increasing prostate volume. However, magnetic resonance-ultrasound fusion biopsy had a higher prostate cancer detection rate compared to that of transrectal ultrasound guided biopsy in the literature. Magnetic resonance-ultrasound fusion biopsy represents a promising solution for patients with suspicion of prostate cancer and an enlarged prostate.
+    

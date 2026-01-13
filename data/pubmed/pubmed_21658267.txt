@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21658267)
+    QUESTION: Do improvements in outreach, clinical, and family and community-based services predict improvements in child survival?
+    CONTEXT: There are three main service delivery channels: clinical services, outreach, and family and community. To determine which delivery channels are associated with the greatest reductions in under-5 mortality rates (U5MR), we used data from sequential population-based surveys to examine the correlation between changes in coverage of clinical, outreach, and family and community services and in U5MR for 27 high-burden countries.
+    ANSWER: Our findings support the importance of increasing access to clinical services, certain outreach services and breastfeeding and, in Africa, of improving nutritional status. Integrated programs that emphasize these services may lead to substantial mortality declines.
+    

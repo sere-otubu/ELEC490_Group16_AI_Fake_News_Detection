@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 15879722)
+    QUESTION: Is cytokeratin immunoreactivity useful in the diagnosis of short-segment Barrett's oesophagus in Korea?
+    CONTEXT: Cytokeratin 7/20 staining has been reported to be helpful in diagnosing Barrett's oesophagus and gastric intestinal metaplasia. However, this is still a matter of some controversy.
+    ANSWER: Barrett's cytokeratin 7/20 pattern can be a useful marker for the diagnosis of short-segment Barrett's oesophagus, although the false positive or false negative rate is approximately 25%.
+    

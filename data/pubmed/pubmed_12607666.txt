@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 12607666)
+    QUESTION: Is extended aortic replacement in acute type A dissection justifiable?
+    CONTEXT: The aim of this study was to evaluate the effectiveness of our surgical strategy for acute aortic dissection based on the extent of the dissection and the site of the entry, with special emphasis on resection of all dissected aortic segments if technically possible.
+    ANSWER: Extended replacement of the dissected ascending aorta and aortic arch can be done with good early and midterm results, even though it requires a complex surgical technique. Therefore we advocate complete replacement of the dissected parts of the aorta in all patients in whom this is technically possible.
+    

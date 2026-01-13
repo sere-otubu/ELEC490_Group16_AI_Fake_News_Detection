@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 15703931)
+    QUESTION: Does diabetes mellitus influence the efficacy of FDG-PET in the diagnosis of cervical cancer?
+    CONTEXT: Compared with computed tomography (CT) and magnetic resonance imaging (MRI), positron emission tomography (PET) may have additional value in the assessment of primary and recurrent cervical cancer. However, the degree of tumour uptake of (18)F-2-fluoro-2-deoxy-D: -glucose (FDG) uptake is sometimes influenced by diabetes mellitus (DM). Therefore, we conducted this prospective study to compare the diagnostic ability of FDG-PET in patients with cervical cancer complicated by DM and those without DM.
+    ANSWER: In comparison with its accuracy in non-DM patients, the accuracy of PET in cervical cancer patients with mild to moderate DM was not significantly reduced.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 27184293)
+    QUESTION: Does microbial contamination influence the success of the hematopoietic cell transplantation outcomes?
+    CONTEXT: Microbial contamination can be a marker for faulty process and is assumed to play an important role in the collection of hematopoietic progenitor cell (HPC) and infusion procedure. We aimed to determine the microbial contamination rates and evaluate the success of hematopoietic cell transplantation (HCT) in patients who received contaminated products.PATIENTS-
+    ANSWER: The use of contaminated products with antibiotic prophylaxis may be safe in terms of the first day of fever, duration of fever, neutrophil, platelet engraftment and duration of hospitalization.
+    

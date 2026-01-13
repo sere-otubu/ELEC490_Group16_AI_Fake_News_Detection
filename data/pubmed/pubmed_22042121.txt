@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 22042121)
+    QUESTION: Perioperative care in an animal model for training in abdominal surgery: is it necessary a preoperative fasting?
+    CONTEXT: Demonstrate that the rabbit may be used in the training of surgery, in addition to present its perioperative care.
+    ANSWER: The rabbit is a good model to be used in training of surgery, with a low morbi-mortality, able to be anesthetized intramuscularly, with no need of pre-operative fasting and does not present hypoglycemia even with the extended fasting period.
+    

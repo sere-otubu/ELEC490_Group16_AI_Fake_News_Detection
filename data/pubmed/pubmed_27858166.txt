@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 27858166)
+    QUESTION: Traumatic aortic injury: does the anatomy of the aortic arch influence aortic trauma severity?
+    CONTEXT: Traumatic aortic injury (TAI) is a rare but life-threatening type of injury. We investigate whether the anatomy of the aortic arch influences the severity of aortic injury.
+    ANSWER: The severity of TAI is influenced by the sharpness of the aortic arch. There is an inverse relationship between the severity of aortic injury and the aortic arch index.
+    

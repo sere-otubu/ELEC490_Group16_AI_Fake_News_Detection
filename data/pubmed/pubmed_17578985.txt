@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17578985)
+    QUESTION: Parasacral sciatic nerve block: does the elicited motor response predict the success rate?
+    CONTEXT: In this prospective, randomized, double-blind study, we compared the tibial and the peroneal evoked motor response with regard to efficacy of sciatic nerve block using the parasacral approach.
+    ANSWER: Eliciting a tibial motor response predicts a higher success rate than eliciting a peroneal motor response with parasacral sciatic nerve block.
+    

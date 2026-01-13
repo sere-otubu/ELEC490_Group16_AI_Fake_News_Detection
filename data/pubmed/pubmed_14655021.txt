@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 14655021)
+    QUESTION: Juvenile ankylosing spondylitis--is it the same disease as adult ankylosing spondylitis?
+    CONTEXT: Juvenile and adult forms of ankylosing spondylitis (AS) have been shown to have different clinical presentation and outcome in Caucasians. We did this retrospective analysis to see if similar differences exist in the Indian population.
+    ANSWER: In this group of subjects, juvenile AS had onset more often with oligoarthritis and enthesitis than with spinal disease. Hip and knee joint involvement was more common in JAS than AAS.
+    

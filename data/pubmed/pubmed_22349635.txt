@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 22349635)
+    QUESTION: Do elderly patients benefit from surgery in addition to radiotherapy for treatment of metastatic spinal cord compression?
+    CONTEXT: Treatment of elderly cancer patients has gained importance. One question regarding the treatment of metastatic spinal cord compression (MSCC) is whether elderly patients benefit from surgery in addition to radiotherapy? In attempting to answer this question, we performed a matched-pair analysis comparing surgery followed by radiotherapy to radiotherapy alone.
+    ANSWER: Elderly patients with MSCC did not benefit from surgery in addition to radiotherapy regarding functional outcome, local control of MSCC, or survival.
+    

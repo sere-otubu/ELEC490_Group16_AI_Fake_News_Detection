@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17559449)
+    QUESTION: Are sugars-free medicines more erosive than sugars-containing medicines?
+    CONTEXT: The reduced use of sugars-containing (SC) liquid medicines has increased the use of other dose forms, potentially resulting in more widespread dental effects, including tooth wear. The aim of this study was to assess the erosive potential of 97 paediatric medicines in vitro.
+    ANSWER: Paediatric SF medicines were not more erosive than SC medicines in vitro; a more significant predictor of their erosive potential was dose form.
+    

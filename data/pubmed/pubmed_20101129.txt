@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 20101129)
+    QUESTION: Is prophylactic fixation a cost-effective method to prevent a future contralateral fragility hip fracture?
+    CONTEXT: : A previous hip fracture more than doubles the risk of a contralateral hip fracture. Pharmacologic and environmental interventions to prevent hip fracture have documented poor compliance. The purpose of this study was to examine the cost-effectiveness of prophylactic fixation of the uninjured hip to prevent contralateral hip fracture.
+    ANSWER: : Prophylactic fixation with a cephalomedullary nail was not found to be cost-effective for the average older woman who sustained a hip fracture. However, it may be appropriate for select patient populations. The study supports the need for basic science and clinical trials investigating the effectiveness of prophylactic fixation for patient populations at higher lifetime risk for contralateral hip fracture.
+    

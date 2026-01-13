@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 16241924)
+    QUESTION: Does parity increase insulin resistance during pregnancy?
+    CONTEXT: To study the effect of parity on impairment of insulin sensitivity during pregnancy and on the risk of gestational diabetes (GDM).
+    ANSWER: Parity is not directly linked to insulin sensitivity deterioration, to CP/FPG increase during pregnancy, or to GDM appearance, although it is linked through the mediation of progressive ageing and weight gain either before or during pregnancy, when there is a sufficiently long time interval between pregnancies.
+    

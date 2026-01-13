@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 10381996)
+    QUESTION: Clinician assessment for acute chest syndrome in febrile patients with sickle cell disease: is it accurate enough?
+    CONTEXT: To determine whether the use of empiric chest radiography (CXR) is of significant value in detecting clinically unsuspected acute chest syndrome (ACS) in febrile patients with sickle cell disease (SCD).
+    ANSWER: ACS is common in patients with SCD who present with fever and was grossly underestimated by evaluating physicians. History and physical examination appear to be of little value in defining which febrile patients require CXR. In view of the mortality and morbidity associated with ACS, empiric CXR should be considered when evaluating a febrile patient with SCD.
+    

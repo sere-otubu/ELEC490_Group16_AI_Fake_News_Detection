@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 22972546)
+    QUESTION: Do approved doctors and medical referees in the UK agree when assessing a seafarer's fitness?
+    CONTEXT: The seafaring industry remains a hazardous occupation that requires sophisticated systems of risk and fitness assessment. This study aims to investigate the extent of agreement between Approved Doctors (ADs) and Medical Referees (MRs) when they assess a seafarer's fitness.
+    ANSWER: This study found that there was poor agreement between the AD's decision and the subsequent MR's decision regarding the fitness of those seafarers who decided to appeal against the AD's initial assessment. The reasons for this are considered.
+    

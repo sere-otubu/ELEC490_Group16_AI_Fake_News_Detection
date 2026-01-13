@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 16971978)
+    QUESTION: Are complex coronary lesions more frequent in patients with diabetes mellitus?
+    CONTEXT: Coronary atherosclerotic burden is excessive in diabetic patients. Diabetes mellitus (DM) is an independent predictor for both death and myocardial infarction. It is not known whether the prevalence of complex coronary lesions, such as bifurcation and ostial lesions, is different in diabetics from nondiabetics.
+    ANSWER: Complex coronary lesions such as bifurcation and ostial lesions were significantly more common in diabetic patients than in nondiabetic patients. Greater age and the presence of DM were independent predictors for these complex lesions. These results may help to explain the poor prognosis of coronary artery disease among diabetic patients.
+    

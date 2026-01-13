@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 2224269)
+    QUESTION: Should general practitioners call patients by their first names?
+    CONTEXT: To assess the acceptability to patients of the use of patients' first names by doctors and doctors' first names by patients in general practice.
+    ANSWER: General practitioners should consider using patients' first names more often, particularly with younger patients.
+    

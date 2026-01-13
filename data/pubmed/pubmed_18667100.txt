@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18667100)
+    QUESTION: Do risk factors for suicidal behavior differ by affective disorder polarity?
+    CONTEXT: Suicide is a leading cause of death and has been strongly associated with affective disorders. The influence of affective disorder polarity on subsequent suicide attempts or completions and any differential effect of suicide risk factors by polarity were assessed in a prospective cohort.
+    ANSWER: Bipolarity does not independently influence risk of suicidal behavior or alter the influence of well-established suicide risk factors within affective disorders. Suicide risk assessment strategies may continue to appraise these common risk factors without regard to mood polarity.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21368683)
+    QUESTION: Are patients with serious mental illness more likely to be admitted to nursing homes with more deficiencies in care?
+    CONTEXT: Patients diagnosed with serious mental illness (SMI) who qualify for nursing home placement tend to require high levels of both psychiatric and nursing care. However, it is unknown whether they are equally likely to be admitted to nursing homes with adequate quality of care compared with other patients.
+    ANSWER: Patients diagnosed with schizophrenia or bipolar disorder (ie, SMI) were more likely than other patients to be admitted to nursing homes with higher deficiency citations for both overall quality and clinical care quality. Further research is necessary to understand the reasons behind the disparity in quality of nursing home care associated with SMI.
+    

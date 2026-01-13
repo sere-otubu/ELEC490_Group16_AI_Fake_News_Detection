@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 16414216)
+    QUESTION: Are endometrial polyps from pre-menopausal women similar to post-menopausal women?
+    CONTEXT: Do endometrial polyps from pre- and post-menopausal women have similar immunohistochemical expression of oestrogen and progesterone receptors (ER, PR) and markers of cellular proliferation/apoptosis (Ki67 and Bcl-2).
+    ANSWER: Pre- and post-menopausal polyps exhibit differing hormone receptor and proliferation markers, presumably a result of their hormonal milieu. However, both groups appear to have lost the usual control mechanisms for apoptotic regulation, this appears to be responsible for their growth.
+    

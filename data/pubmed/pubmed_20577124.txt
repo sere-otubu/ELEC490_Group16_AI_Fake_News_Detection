@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 20577124)
+    QUESTION: Is leptin involved in phagocytic NADPH oxidase overactivity in obesity?
+    CONTEXT: Hyperleptinemia and oxidative stress play a major role in the development of cardiovascular diseases in obesity. This study aimed to investigate whether there is a relationship between plasma levels of leptin and phagocytic nicotinamide adenine dinucleotide phosphate (NADPH) oxidase activity, and its potential relevance in the vascular remodeling in obese patients.
+    ANSWER: These findings show that phagocytic NADPH oxidase activity is increased in obesity and is related to preclinical atherosclerosis in this condition. We also suggest that hyperleptinemia may contribute to phagocytic NADPH oxidase overactivity in obesity.
+    

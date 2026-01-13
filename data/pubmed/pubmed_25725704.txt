@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25725704)
+    QUESTION: Can clinical supervision sustain our workforce in the current healthcare landscape?
+    CONTEXT: Clinical supervision is widely recognised as a mechanism for providing professional support, professional development and clinical governance for healthcare workers. There have been limited studies about the effectiveness of clinical supervision for allied health and minimal studies conducted within the Australian health context. The aim of the present study was to identify whether clinical supervision was perceived to be effective by allied health professionals and to identify components that contributed to effectiveness. Participants completed an anonymous online questionnaire, administered through the health service's intranet.
+    ANSWER: The results of the study demonstrate that when clinical supervision uses best practice principles, it can provide professional support for allied health workers, even during times of rapid organisational change.
+    

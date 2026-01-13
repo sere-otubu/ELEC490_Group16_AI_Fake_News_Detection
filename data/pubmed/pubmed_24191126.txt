@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24191126)
+    QUESTION: Is CA72-4 a useful biomarker in differential diagnosis between ovarian endometrioma and epithelial ovarian cancer?
+    CONTEXT: Surgical excision of ovarian endometriomas in patients desiring pregnancy has recently been criticized because of the risk of damage to healthy ovarian tissue and consequent reduction of ovarian reserve. A correct diagnosis in cases not scheduled for surgery is therefore mandatory in order to avoid unexpected ovarian cancer misdiagnosis. Endometriosis is often associated with high levels of CA125. This marker is therefore not useful for discriminating ovarian endometrioma from ovarian malignancy. The aim of this study was to establish if the serum marker CA72-4 could be helpful in the differential diagnosis between ovarian endometriosis and epithelial ovarian cancer.
+    ANSWER: This study suggests that CA72-4 determination can be useful to confirm the benign nature of ovarian endometriomas in women with high CA125 levels.
+    

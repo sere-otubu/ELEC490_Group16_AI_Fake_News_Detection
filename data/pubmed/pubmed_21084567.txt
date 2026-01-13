@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21084567)
+    QUESTION: Are stroke patients' reports of home blood pressure readings reliable?
+    CONTEXT: Home blood pressure (BP) monitoring is gaining increasing popularity among patients and may be useful in hypertension management. Little is known about the reliability of stroke patients' records of home BP monitoring.
+    ANSWER: This group of elderly stroke patients were able to record their BPs reliably at home. Any bias was small and would be unlikely to affect management. Since BP readings in a GP surgery are often a poor indication of true BP, GPs might consider using hypertensive patients' records of home BP monitoring to help guide treatment decisions.
+    

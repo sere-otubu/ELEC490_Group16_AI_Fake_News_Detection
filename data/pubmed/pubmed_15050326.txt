@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 15050326)
+    QUESTION: Does radiotherapy around the time of pregnancy for Hodgkin's disease modify the risk of breast cancer?
+    CONTEXT: To determine whether the risk of secondary breast cancer after radiotherapy (RT) for Hodgkin's disease is greater among women who underwent RT around time of pregnancy.
+    ANSWER: The results of this study indicate that the risk of breast cancer after RT is greater with irradiation around the time of pregnancy. This suggests that pregnancy is a time of increased sensitivity of breast tissue to the carcinogenic effects of radiation. Because of the small sample size and limited follow-up, additional studies are recommended to confirm these findings.
+    

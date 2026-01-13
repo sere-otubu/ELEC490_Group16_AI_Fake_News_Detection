@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17593459)
+    QUESTION: Is double-balloon enteroscopy an accurate method to diagnose small-bowel disorders?
+    CONTEXT: The aim of this study was to analyze the contribution of the double-balloon enteroscopy (DBE) for diagnosis of the small bowel disorders.
+    ANSWER: 1. DBE is a safe and and accurate method to diagnose small bowel disorders; 2. this method permits chromoscopy, biopsies and treatment of the lesions.
+    

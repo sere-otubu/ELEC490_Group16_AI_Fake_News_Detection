@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18719011)
+    QUESTION: Do overweight children necessarily make overweight adults?
+    CONTEXT: To compare growth curves of body mass index from children to adolescents, and then to young adults, in Japanese girls and women in birth cohorts born from 1930 to 1999.
+    ANSWER: An overweight birth cohort in childhood does not necessarily continue to be overweight in young adulthood. Not only secular trends in body mass index at fixed ages but also growth curves for wide age ranges by birth cohorts should be considered to study obesity and thinness. Growth curves by birth cohorts were produced by a repeated cross sectional annual survey over nearly six decades.
+    

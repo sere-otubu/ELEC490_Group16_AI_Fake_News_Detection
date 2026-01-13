@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25274085)
+    QUESTION: Can multiple SNP testing in BRCA2 and BRCA1 female carriers be used to improve risk prediction models in conjunction with clinical assessment?
+    CONTEXT: Several single nucleotide polymorphisms (SNPs) at different loci have been associated with breast cancer susceptibility, accounting for around 10% of the familial component. Recent studies have found direct associations between specific SNPs and breast cancer in BRCA1/2 mutation carriers. Our aim was to determine whether validated susceptibility SNP scores improve the predictive ability of risk models in comparison/conjunction to other clinical/demographic information.
+    ANSWER: Random survival forests did not yield higher performance compared to Cox proportional hazards. We found improvement in prediction performance when coupling the genetic SNP score with clinical/demographic markers, which warrants further investigation.
+    

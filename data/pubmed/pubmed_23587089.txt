@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23587089)
+    QUESTION: School food policy at Dutch primary schools: room for improvement?
+    CONTEXT: Schools can play an important role in the prevention of obesity, e.g. by providing an environment that stimulates healthy eating habits and by developing a food policy to provide such an environment. The effectiveness of a school food policy is affected by the content of the policy, its implementation and its support by parents, teachers and principals. The aim of this study is to detect opportunities to improve the school food policy and/or implementation at Dutch primary schools. Therefore, this study explores the school food policy and investigates schools' (teachers and principals) and parents' opinion on the school food policy.
+    ANSWER: Dutch primary schools could play a more important role in fostering healthy eating habits among children. The school food policy could be improved by clearly formulating food rules, simplifying supervision of the food rules, and defining how to enforce the food rules. In addition, the school food policy will only influence children's dietary behaviour if both the school and the parents support the policy.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 22237146)
+    QUESTION: Can serum be used for analyzing the EGFR mutation status in patients with advanced non-small cell lung cancer?
+    CONTEXT: Epidermal growth factor receptor (EGFR) mutations as prognostic or predictive marker in patients with non-small cell lung cancer (NSCLC) have been used widely. However, it may be difficult to get tumor tissue for analyzing the status of EGFR mutation status in large proportion of patients with advanced disease.
+    ANSWER: Serum sample might be alternatively used in the difficult time of getting tumor tissue for analyzing the status of EGFR mutation status in patients with advanced NSCLC.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 11146778)
+    QUESTION: Risk stratification in emergency surgical patients: is the APACHE II score a reliable marker of physiological impairment?
+    CONTEXT: The APACHE II (Acute Physiology and Chronic Health Evaluation II) score used as an intensive care unit (ICU) admission score in emergency surgical patients is not independent of the effects of treatment and might lead to considerable bias in the comparability of defined groups of patients and in the evaluation of treatment policies. Postoperative monitoring with the APACHE II score is clinically irrelevant.
+    ANSWER: For risk stratification in emergency surgical patients, it is essential to measure the APACHE II score before surgical treatment. Longitudinal APACHE II scoring reveals continuous improvement of the score in surviving patients but has no therapeutic relevance in the individual patient.
+    

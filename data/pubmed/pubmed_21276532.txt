@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21276532)
+    QUESTION: Does preoperative anemia adversely affect colon and rectal surgery outcomes?
+    CONTEXT: Complications associated with blood transfusions have resulted in widespread acceptance of low hematocrit levels in surgical patients. However, preoperative anemia seems to be a risk factor for adverse postoperative outcomes in certain surgical patients. This study investigated the National Surgical Quality Improvement Program (NSQIP) database to determine if preoperative anemia in patients undergoing open and laparoscopic colectomies is an independent predictor for an adverse composite outcome (CO) consisting of myocardial infarction, stroke, progressive renal insufficiency or death within 30 days of operation, or for an increased hospital length of stay (LOS).
+    ANSWER: This large multicenter database analysis suggests that the presence of severe and moderate and even mild preoperative anemia is an independent risk factor for complications and a longer hospital stay after colon surgery.
+    

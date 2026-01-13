@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24270957)
+    QUESTION: Is combined therapy more effective than growth hormone or hyperbaric oxygen alone in the healing of left ischemic and non-ischemic colonic anastomoses?
+    CONTEXT: Our aim was to investigate the effects of growth hormone (GH), hyperbaric oxygen and combined therapy on normal and ischemic colonic anastomoses in rats.
+    ANSWER: Combined treatment with recombinant human growth hormone and hyperbaric oxygen resulted in a favorable therapeutic effect on the healing of ischemic colonic anastomoses.
+    

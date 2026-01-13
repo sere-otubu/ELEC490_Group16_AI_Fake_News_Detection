@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 11247896)
+    QUESTION: Can APC mutation analysis contribute to therapeutic decisions in familial adenomatous polyposis?
+    CONTEXT: In familial adenomatous polyposis (FAP), correlations between site of mutation in the adenomatous polyposis coli (APC) gene and severity of colonic polyposis or extracolonic manifestations are well known. While mutation analysis is important for predictive diagnosis in persons at risk, its relevance for clinical management of individual patients is open to question.
+    ANSWER: As age at manifestation and course of the disease may be rather variable, even in carriers of identical germline mutations, therapeutic decisions should be based on colonoscopic findings in individual patients rather than on the site of mutation. However, in patients with mutations within codons 1445-1580, it may be advisable to postpone elective colectomy because desmoids may arise through surgical intervention.
+    

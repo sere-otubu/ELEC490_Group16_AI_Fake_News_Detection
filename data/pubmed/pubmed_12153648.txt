@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 12153648)
+    QUESTION: Does birth center care during a woman's first pregnancy have any impact on her future reproduction?
+    CONTEXT: Women's experiences of childbirth may affect their future reproduction, and the model of care affects their experiences, suggesting that a causal link may exist between model of care and future reproduction. The study objective was to examine whether the birth center model of care during a woman's first pregnancy affects whether or not she has a second baby, and on the spacing to the next birth.
+    ANSWER: A woman's model of care, such as birth center care, during her first pregnancy does not seem to be a sufficiently important factor to affect subsequent reproduction in Sweden.
+    

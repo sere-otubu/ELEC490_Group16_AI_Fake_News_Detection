@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24237112)
+    QUESTION: Do provider service networks result in lower expenditures compared with HMOs or primary care case management in Florida's Medicaid program?
+    CONTEXT: To determine the impact of Florida's Medicaid Demonstration 4 years post-implementation on per member per month (PMPM) Medicaid expenditures and whether receiving care through HMOs versus provider service networks (PSNs) in the Demonstration was associated with PMPM expenditures.DATA: Florida Medicaid claims from two fiscal years prior to implementation of the Demonstration (FY0405, FY0506) and the first four fiscal years after implementation (FY0607-FY0910) from two urban Demonstration counties and two urban non-Demonstration counties.
+    ANSWER: The Medicaid Demonstration in Florida appears to result in lower PMPM expenditures. Demonstration PSNs generated slightly greater reductions in expenditures compared to Demonstration HMOs. PSNs appear to be a promising model for delivering care to Medicaid enrollees.
+    

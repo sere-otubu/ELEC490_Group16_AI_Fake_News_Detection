@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25887165)
+    QUESTION: Does Sensation Return to the Nasal Tip After Microfat Grafting?
+    CONTEXT: Patients usually complain about numbness in the nasal tip after microfat injections. The present study evaluated the severity of the numbness in the nasal tip after the procedure.
+    ANSWER: Postoperative numbness occurs in most patients receiving nasal microfat injections. Partial to complete recovery of nasal tip sensation can be expected to occur over a 3-month period.
+    

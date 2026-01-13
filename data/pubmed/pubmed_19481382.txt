@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19481382)
+    QUESTION: Is the Androgen Deficiency of Aging Men (ADAM) questionnaire useful for the screening of partial androgenic deficiency of aging men?
+    CONTEXT: Androgen serum levels significantly decrease in older men, causing quality of life impairment and increasing the risk of chronic disease. This disorder is defined as PADAM (Partial Androgen Deficiency of Aging Men).
+    ANSWER: In this series, in accordance to available testosterone, the prevalence of PADAM was determined to be high, in which the ADAM questionnaire rendered a low diagnostic efficiency. PADAM diagnosis could be clinically suspected when symptoms of sexual dysfunction are present.
+    

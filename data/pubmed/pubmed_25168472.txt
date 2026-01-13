@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25168472)
+    QUESTION: Can static foot posture measurements predict regional plantar surface area?
+    CONTEXT: The intent of this study was to determine if the use of a single or combination of static foot posture measurements can be used to predict rearfoot, midfoot, and forefoot plantar surface area in individuals with pronated or normal foot types.
+    ANSWER: The results indicate that clinicians can use a combination of simple, reliable and time efficient foot measures to explain 79% and 85% of the plantar surface area in the forefoot and midfoot, respectively.
+    

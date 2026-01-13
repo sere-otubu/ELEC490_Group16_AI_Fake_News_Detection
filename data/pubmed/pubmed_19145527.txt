@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19145527)
+    QUESTION: Do emergency medical services professionals think they should participate in disease prevention?
+    CONTEXT: The primary objective of the study was to determine emergency medical services (EMS) professionals' opinions regarding participation in disease and injury prevention programs. A secondary objective was to determine the proportion of EMS professionals who had participated in disease prevention programs.
+    ANSWER: The majority of EMS professionals thought that they should participate in disease and injury prevention programs. The respondents were mixed as to whether prevention services should be provided while on emergency calls, but those with experience providing these services were more likely to agree with providing them during emergency calls.
+    

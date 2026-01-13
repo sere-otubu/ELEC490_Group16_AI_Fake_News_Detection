@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23539689)
+    QUESTION: Cold preparation use in young children after FDA warnings: do concerns still exist?
+    CONTEXT: To characterize the use and delivery of cough and cold medicines in children younger than 6 presenting to an inner-city pediatric emergency department (PED) following 2007 FDA warnings.
+    ANSWER: Despite current recommendations, cough and cold medicines are still used in children younger than 6 years of age. A significant portion of caregivers report that they are still unaware of public warnings, potential side effects, and interactions with other medications.
+    

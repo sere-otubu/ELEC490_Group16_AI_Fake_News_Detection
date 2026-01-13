@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26518378)
+    QUESTION: Are Reviewers' Scores Influenced by Citations to Their Own Work?
+    CONTEXT: Academic medical researchers are judged by how often their publications are cited in the literature. When serving as journal reviewers, they may be more favorably disposed to manuscripts that cite their work. We investigate whether manuscripts that contain a citation to the reviewer's work receive higher evaluations than those that do not and whether peer reviewers encourage authors to cite that reviewer's work.
+    ANSWER: In a leading specialty journal, cited reviewers gave higher scores than noncited reviewers. However, this was likely due to their being assigned higher-quality manuscripts and not because they were cited in the manuscript. Reviewer requests that their work be cited were rare.
+    

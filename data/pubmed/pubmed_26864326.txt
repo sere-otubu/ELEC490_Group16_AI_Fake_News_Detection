@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26864326)
+    QUESTION: Predicting admission at triage: are nurses better than a simple objective score?
+    CONTEXT: In this single-centre prospective study, triage nurses estimated the probability of admission using a 100 mm visual analogue scale (VAS), and GAPS was generated automatically from triage data. We compared calibration using rank sum tests, discrimination using area under receiver operating characteristic curves (AUC) and accuracy with McNemar's test.
+    ANSWER: GAPS, a simple clinical score, is a better predictor of admission than triage nurses, unless the nurse is sure about the outcome, in which case their clinical judgement should be respected.
+    

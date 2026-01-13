@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23517744)
+    QUESTION: Is solitary kidney really more resistant to ischemia?
+    CONTEXT: To our knowledge there are no evidence-based medicine data to date to critically judge the vulnerability of a solitary kidney to warm ischemia compared to paired kidneys.
+    ANSWER: Solitary kidney in a canine model is more resistant to ischemia than paired kidneys based on radiological, pathological and genetic evidence.
+    

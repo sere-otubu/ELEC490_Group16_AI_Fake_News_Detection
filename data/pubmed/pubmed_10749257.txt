@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 10749257)
+    QUESTION: Has the mammography quality standards act affected the mammography quality in North Carolina?
+    CONTEXT: The United States Food and Drug Administration implemented federal regulations governing mammography under the Mammography Quality Standards Act (MQSA) of 1992. During 1995, its first year in implementation, we examined the impact of the MQSA on the quality of mammography in North Carolina.
+    ANSWER: In 1995, the first year that the MQSA was in effect, there was a significant improvement in the quality of mammography in North Carolina. This improvement probably resulted from facilities' compliance with federal regulations.
+    

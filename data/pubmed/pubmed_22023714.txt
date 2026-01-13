@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 22023714)
+    QUESTION: Does delivery mode affect women's postpartum quality of life in rural China?
+    CONTEXT: To explore the impact of delivery mode on women's postpartum quality of life in rural China and probe factors influencing postnatal quality of life.
+    ANSWER: Delivery mode did not affect postpartum quality of life in rural China. Socio-cultural determinants may contribute more in influencing postnatal quality of life.
+    

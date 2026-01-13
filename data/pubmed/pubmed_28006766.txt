@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 28006766)
+    QUESTION: Is Overexpression of Ki-67 a Prognostic Biomarker of Upper Tract Urinary Carcinoma?
+    CONTEXT: Upper tract urinary carcinoma (UTUC) is a relatively uncommon but aggressive disease. The Ki-67 antigen is a classic marker of cellular proliferation, but there is still controversy regarding the significance and importance of Ki-67 in tumor progression.
+    ANSWER: In conclusion, high Ki-67 expression was associated with poor survival in patients with UTUC, as well as a high risk of disease progression, although these findings need to be interpreted with caution. Large-scale, adequately designed, prospective trials are needed to further confirm the value of Ki-67 in prognosis of UTUC patients.
+    

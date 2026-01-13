@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21166749)
+    QUESTION: Is patient outcome compromised during the initial experience with robot-assisted radical cystectomy?
+    CONTEXT: • Robot-assisted radical cystectomy (RARC) remains controversial in terms of oncologic outcomes, especially during the initial experience. The purpose of this study was to evaluate the impact of initial experience of robotic cystectomy programs on oncologic outcomes and overall survival.
+    ANSWER: • Initial experience with RARC did not affect the incidence of positive surgical margins, operative/postoperative complications, or overall survival in a single-institution series.
+    

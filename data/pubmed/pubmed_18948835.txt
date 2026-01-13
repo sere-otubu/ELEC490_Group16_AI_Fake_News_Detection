@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18948835)
+    QUESTION: Does somatostatin confer insulinostatic effects of neuromedin u in the rat pancreas?
+    CONTEXT: Neuromedin U (NmU) is a neuropeptide with anorexigenic activity. Two receptor subtypes (NmUR1 and NmUR2) confer the effects of NmU on target cells. We have recently demonstrated that NmU reduces insulin secretion from isolated pancreatic islets. Aim of our current study is to investigate the role of somatostatin at mediating the effects of NmU on insulin secretion.
+    ANSWER: Neuromedin U reduces insulin and increases somatostatin secretion. Blockade of somatostatin action abolishes the inhibition of insulin secretion by NmU. The results of the study suggest that somatostatin mediates the inhibitory action of NmU on insulin secretion.
+    

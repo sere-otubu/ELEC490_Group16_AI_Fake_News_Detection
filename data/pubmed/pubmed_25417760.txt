@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25417760)
+    QUESTION: Risk factors for major depression during midlife among a community sample of women with and without prior major depression: are they the same or different?
+    CONTEXT: Women's vulnerability for a first lifetime-onset of major depressive disorder (MDD) during midlife is substantial. It is unclear whether risk factors differ for first lifetime-onset and recurrent MDD. Identifying these risk factors can provide more focused depression screening and earlier intervention. This study aims to evaluate whether lifetime psychiatric and health histories, personality traits, menopausal status and factors that vary over time, e.g. symptoms, are independent risk factors for first-onset or recurrent MDD across 13 annual follow-ups.
+    ANSWER: The menopausal transition warrants attention as a period of vulnerability to MDD recurrence, while health factors and VMS should be considered important risk factors for first lifetime-onset of MDD during midlife.
+    

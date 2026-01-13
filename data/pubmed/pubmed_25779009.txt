@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25779009)
+    QUESTION: Bactericidal activity of 3 cutaneous/mucosal antiseptic solutions in the presence of interfering substances: Improvement of the NF EN 13727 European Standard?
+    CONTEXT: There is no standard protocol for the evaluation of antiseptics used for skin and mucous membranes in the presence of interfering substances. Our objective was to suggest trial conditions adapted from the NF EN 13727 standard, for the evaluation of antiseptics used in gynecology and dermatology.
+    ANSWER: Adapting the NF EN 13727 standard allowed assessing the 3 tested solutions: only CB was bactericidal in dirty conditions. This study proved the possibility of validating antiseptic choice in vitro, in current practice conditions, for adjunctive treatment of skin and mucous membranes disorders, primarily of bacterial origin or with a potential of superinfection.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 9427037)
+    QUESTION: Are endothelial cell patterns of astrocytomas indicative of grade?
+    CONTEXT: The most common primary brain tumors in children and adults are of astrocytic origin. Classic histologic grading schemes for astrocytomas have included evaluating the presence or absence of nuclear abnormalities, mitoses, vascular endothelial proliferation, and tumor necrosis.
+    ANSWER: Evaluation of astrocytomas utilizing antibody to vWF and confocal microscopy aids in the grading of these neoplasms.
+    

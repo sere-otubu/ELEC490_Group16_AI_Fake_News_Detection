@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 15488260)
+    QUESTION: Is the type of remission after a major depressive episode an important risk factor to relapses in a 4-year follow up?
+    CONTEXT: Rates of relapse and predictive relapse factors were studied over more than 4 years in a sample of Spanish outpatients with DSM-III-R criteria for unipolar major depressive episode.
+    ANSWER: At medium term, relapse rates for a major depressive episode are high. Partial remission after a depressive episode seems to be an important predictive factor for relapses in a 4-year follow-up.
+    

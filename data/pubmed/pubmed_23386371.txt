@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23386371)
+    QUESTION: CPAP therapy in patients with idiopathic pulmonary fibrosis and obstructive sleep apnea: does it offer a better quality of life and sleep?
+    CONTEXT: The recent literature shows an increased incidence of obstructive sleep apnea (OSA) in patients with idiopathic pulmonary fibrosis (IPF). On the other hand, there are no published studies related to continuous positive airway pressure (CPAP) treatment in this patient group. Our aim was to assess the effect of CPAP on sleep and overall life quality parameters in IPF patients with OSA and to recognize and overcome possible difficulties in CPAP initiation and acceptance by these patients.
+    ANSWER: Effective CPAP treatment in IPF patients with OSA results in a significant improvement in daily living activities based on the FOSQ, namely an OSA-specific follow-up instrument. Improvement was also noted in other questionnaires assessing quality of life, though not to a statistically significant degree, probably because of the multifactorial influences of IPF on physical and mental health. The probability of poor CPAP compliance was high and could only be eliminated with intense follow-up by the CPAP clinic staff.
+    

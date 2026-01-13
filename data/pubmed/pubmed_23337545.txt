@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23337545)
+    QUESTION: Is acute fibrinous and organizing pneumonia the expression of immune dysregulation?
+    CONTEXT: Acute fibrinous and organizing pneumonia (AFOP) is a recently described histologic pattern of diffuse pulmonary disease. In children, all cases reported to date have been fatal. In this study, we describe the first nonfatal AFOP in a child and review the literature.
+    ANSWER: Aplastic anemia is associated with a variety of autoimmune syndromes. The sequence of events in our patient suggests that the hepatic failure, AFOP, and the VSAA may all have been part of an autoimmune syndrome. AFOP could be the result of immune dysregulation in this pediatric case with favorable outcome after immunosuppressive therapy and hematopoietic stem cell transplantation.
+    

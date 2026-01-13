@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25251991)
+    QUESTION: Emergency double-balloon enteroscopy combined with real-time viewing of capsule endoscopy: a feasible combined approach in acute overt-obscure gastrointestinal bleeding?
+    CONTEXT: There are few data concerning emergency double-balloon enteroscopy (DBE) and its usefulness in the management of severe acute obscure gastrointestinal bleeding (OGIB). The aim of this retrospective study was to evaluate emergency DBE and capsule endoscopy (CE) in patients with overt OGIB, analyzing the feasibility of this combined approach.
+    ANSWER: Emergency DBE is feasible, safe and effective in acute OGIB and may avoid major surgery, diagnosing and successfully treating most patients. Combined approach with RT viewing by CE is especially useful to identify recurrent bleeding vascular lesions such as DL that may be easily misdiagnosed by non-emergency DBE.
+    

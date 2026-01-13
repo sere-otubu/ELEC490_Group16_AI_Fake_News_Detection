@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17715311)
+    QUESTION: Is fetal anatomic assessment on follow-up antepartum sonograms clinically useful?
+    CONTEXT: The purpose of this study was to evaluate the clinical usefulness of a fetal anatomic survey on follow-up antepartum sonograms.
+    ANSWER: A fetal anatomic survey on follow-up sonograms may identify unanticipated fetal anomalies, especially when the indication is for fetal growth.
+    

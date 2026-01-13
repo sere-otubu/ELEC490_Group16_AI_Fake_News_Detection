@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 11729377)
+    QUESTION: Is there still a need for living-related liver transplantation in children?
+    CONTEXT: To assess and compare the value of split-liver transplantation (SLT) and living-related liver transplantation (LRT).
+    ANSWER: The short- and long-term outcomes after LRT and SLT did not differ significantly. To avoid the risk for the donor in LRT, SLT represents the first-line therapy in pediatric liver transplantation in countries where cadaveric organs are available. LRT provides a solution for urgent cases in which a cadaveric graft cannot be found in time or if the choice of the optimal time point for transplantation is vital.
+    

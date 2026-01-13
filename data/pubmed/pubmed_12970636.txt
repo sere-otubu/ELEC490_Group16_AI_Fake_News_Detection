@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 12970636)
+    QUESTION: Does early discharge with nurse home visits affect adequacy of newborn metabolic screening?
+    CONTEXT: To examine the impact of early discharge on newborn metabolic screening.
+    ANSWER: In this well established early discharge program with nurse home visits, newborn metabolic screening is not compromised by early discharge.
+    

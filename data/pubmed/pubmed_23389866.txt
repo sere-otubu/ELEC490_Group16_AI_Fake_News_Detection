@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23389866)
+    QUESTION: Chemoradiotherapy in the management of locally advanced squamous cell carcinoma esophagus: is surgical resection required?
+    CONTEXT: The present study aims to evaluate benefit of adding surgery to chemoradiotherapy alone in management of carcinoma esophagus.
+    ANSWER: The study suggests that there is no difference in clinical toxicity profiles or survival outcomes with either definitive chemoradiotherapy or chemoradiation followed by surgery in management of locally advanced esophageal cancer.
+    

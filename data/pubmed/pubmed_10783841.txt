@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 10783841)
+    QUESTION: Is there a relationship between rheumatoid arthritis and periodontal disease?
+    CONTEXT: 1,412 individuals attending the University of Queensland's School of Dentistry were assessed for the prevalence of periodontal disease and rheumatoid arthritis. Analysis of data obtained from a self-reported health questionnaire and dental records was carried out and included: number of individuals referred for advanced periodontal care (test group); number of individuals attending for routine dentistry; determination of rheumatoid arthritis, cardiovascular disease and diabetes mellitus through self-reporting and assessment of prescription medications; assessment of periodontal disease through assessment of existing oral radiographs.
+    ANSWER: Based on data derived from self-reported health conditions, and not withstanding the limitations of such a study, we conclude that there is good evidence to suggest that individuals with moderate to severe periodontal disease are at higher risk of suffering from rheumatoid arthritis and vice versa.
+    

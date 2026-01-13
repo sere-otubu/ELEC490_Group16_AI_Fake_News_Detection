@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 28011794)
+    QUESTION: Can Ambu self-inflating bag and Neopuff infant resuscitator provide adequate and safe manual inflations for infants up to 10 kg weight?
+    CONTEXT: Manual resuscitation devices for infants and newborns must be able to provide adequate ventilation in a safe and consistent manner across a wide range of patient sizes (0.5-10 kg) and differing clinical states. There are little comparative data assessing biomechanical performance of common infant manual resuscitation devices across the manufacturers' recommended operating weight ranges. We aimed to compare performance of the Ambu self-inflating bag (SIB) with the Neopuff T-piece resuscitator in three resuscitation models.
+    ANSWER: The Ambu SIB was able to accurately deliver targeted pressures across all three models from preterm to infant. The Neopuff infant resuscitator was unable to deliver the targeted pressures in the infant model developing clinically significant levels of inadvertent PEEP which may pose risk during infant resuscitation.
+    

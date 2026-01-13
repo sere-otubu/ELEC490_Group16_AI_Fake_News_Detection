@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19054501)
+    QUESTION: Is motion perception deficit in schizophrenia a consequence of eye-tracking abnormality?
+    CONTEXT: Studies have shown that schizophrenia patients have motion perception deficit, which was thought to cause eye-tracking abnormality in schizophrenia. However, eye movement closely interacts with motion perception. The known eye-tracking difficulties in schizophrenia patients may interact with their motion perception.
+    ANSWER: Speed discrimination, per se, is not impaired in schizophrenia patients. The observed abnormality appears to be a consequence of impairment in generating or integrating the feedback information from eye movements. This study introduces a novel approach to motion perception studies and highlights the importance of concurrently measuring eye movements to understand interactions between these two systems; the results argue for a conceptual revision regarding motion perception abnormality in schizophrenia.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 27615402)
+    QUESTION: Does the familial transmission of drinking patterns persist into young adulthood?
+    CONTEXT: Parental drinking has been shown to be associated with offspring drinking. However, the relationship appears to be more complex than often assumed and few studies have tracked it over longer time periods.
+    ANSWER: The association between familial drinking and offspring drinking in young adulthood exhibits clear non-linear trends. Changes in the lower part of the familial drinking distribution are strongly related to drinking in young adults, but the actual levels of drinking in drinking families appear less important in shaping the drinking patterns of the offspring in young adulthood.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19142546)
+    QUESTION: Does quantitative left ventricular regional wall motion change after fibrous tissue resection in endomyocardial fibrosis?
+    CONTEXT: We compared left ventricular regional wall motion, the global left ventricular ejection fraction, and the New York Heart Association functional class pre- and postoperatively.
+    ANSWER: Although endomyocardial fibrosis patients have improved clinical symptoms after surgery, the global left ventricular ejection fraction and regional wall motion in these patients do not change. This finding suggests that other explanations, such as improvements in diastolic function, may be operational.
+    

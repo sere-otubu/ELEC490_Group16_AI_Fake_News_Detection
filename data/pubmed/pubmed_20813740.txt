@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 20813740)
+    QUESTION: Does β-catenin have a role in pathogenesis of sebaceous cell carcinoma of the eyelid?
+    CONTEXT: 48 cases of SbCC were analysed immunohistochemically using monoclonal β-catenin antibody and the results correlated with tumour size, histopathological differentiation, orbital invasion and pagetoid spread.
+    ANSWER: Cytoplasmic overexpression of β-catenin was observed in the majority of the cases of SbCC of eyelid, and this correlated significantly with tumour size. The authors therefore hypothesise that β-catenin overexpression in SbCC of eyelid may be a result of Wnt/β-catenin pathway dysregulation. However, its role both in the development of sebaceous cell carcinoma of the eyelid as well as its prognosis needs to be explored further.
+    

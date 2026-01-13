@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18568239)
+    QUESTION: Is the ability to perform transurethral resection of the prostate influenced by the surgeon's previous experience?
+    CONTEXT: To evaluate the influence of the urologist's experience on the surgical results and complications of transurethral resection of the prostate (TURP).
+    ANSWER: The senior urologist was capable of resecting four times more tissue per time unit than the more inexperienced surgeons. Therefore, a surgeon's experience may be important to reduce the risk of secondary TURP due to recurring adenomas or adenomas that were incompletely resected. However, the incidence of complications was the same between the three groups.
+    

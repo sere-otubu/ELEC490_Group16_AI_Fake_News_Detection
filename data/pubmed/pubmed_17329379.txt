@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17329379)
+    QUESTION: Are the GFRUP's recommendations for withholding or withdrawing treatments in critically ill children applicable?
+    CONTEXT: To evaluate feasibility of the guidelines of the Groupe Francophone de Réanimation et Urgence Pédiatriques (French-speaking group of paediatric intensive and emergency care; GFRUP) for limitation of treatments in the paediatric intensive care unit (PICU).
+    ANSWER: GFRUPs procedure was applicable in most cases. The main difficulties were anticipating the correct date for the meeting and involving nurses in the procedure. Children for whom the procedure was interrupted because of clinical improvement and who survived in poor condition without a formal decision pointed out the need for medical criteria for questioning, which should systematically lead to a formal decision-making process.
+    

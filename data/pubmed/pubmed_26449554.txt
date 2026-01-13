@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26449554)
+    QUESTION: Does either obesity or OSA severity influence the response of autotitrating CPAP machines in very obese subjects?
+    CONTEXT: The pressures delivered by autotitrating continuous positive airways pressure (CPAP) devices not only treat obstructive sleep apnoea (OSA) effectively but also give potentially interesting physiological information about the forces impinging on the pharynx. In earlier work from this unit, we used correlations between autoCPAP pressure and both OSA severity and obesity, to construct an algorithm to estimate the fixed CPAP pressure a patient required for subsequent clinical use. We wished to discover if these relationships could be reliably extended to a much more obese group.
+    ANSWER: In this population, neither BMI nor neck circumference nor waist circumference is predictive of autoCPAP pressure. Therefore, the previously derived algorithm does not adequately predict the fixed CPAP pressure for subsequent clinical use in these obese individuals. In addition, some subjects without OSA generated high autoCPAP pressures, and thus, the correlation between OSA severity and autoCPAP pressure was only moderate.
+    

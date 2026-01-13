@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24739448)
+    QUESTION: Have antiepileptic drug prescription claims changed following the FDA suicidality warning?
+    CONTEXT: In January 2008, the Food and Drug Administration (FDA) communicated concerns and, in May 2009, issued a warning about an increased risk of suicidality for all antiepileptic drugs (AEDs). This research evaluated the association between the FDA suicidality communications and the AED prescription claims among members with epilepsy and/or psychiatric disorder.
+    ANSWER: During the time period considered, the FDA AED-related suicidality warning does not appear to have significantly affected prescription claims of AED medications for the study population.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 22504515)
+    QUESTION: Endovenous laser ablation in the treatment of small saphenous varicose veins: does site of access influence early outcomes?
+    CONTEXT: The study was performed to evaluate the clinical and technical efficacy of endovenous laser ablation (EVLA) of small saphenous varicosities, particularly in relation to the site of endovenous access.
+    ANSWER: The site of access in our study does not appear to influence complications specifically neural injury or recurrence rates.
+    

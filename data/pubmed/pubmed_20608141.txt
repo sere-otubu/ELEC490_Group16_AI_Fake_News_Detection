@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 20608141)
+    QUESTION: PSA repeatedly fluctuating levels are reassuring enough to avoid biopsy?
+    CONTEXT: Prostate-specific antigen (PSA) levels can show wide fluctuations when repeatedly measured. Here we investigatewd if: (a) biopsy timing influences the prostate cancer (PC) detection rate in patients with fluctuating PSA (flu-PSA) in comparison with patients with steadily increasing PSA (si-PSA); (b) PSA slope estimated in patients with flu-PSA predicts a different risk of cancer detection; (c) flu-PSA and si-PSA patients develop PC in topographically different sites; (d) the behaviour of pre-operative PSA is an expression of a disease with defferent characteristics to the following radical prostatectomy.
+    ANSWER: Our study demonstrates no difference in PC detection rate at repeat biopsy between patients with flu or si-PSA levels. PSA Slope, PSAV and PSADT were not found helpful tools in cancer detection.
+    

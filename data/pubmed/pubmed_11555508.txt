@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 11555508)
+    QUESTION: Do inhaled corticosteroids affect perception of dyspnea during bronchoconstriction in asthma?
+    CONTEXT: Some of the disagreements on the perception of dyspnea (PD) during bronchoconstriction in asthma patients could depend on the interrelationships among the following: (1) the influence of baseline airflow obstruction on the patient's ability to detect any further increase in airway resistance; (2) the effect of eosinophilic inflammation on the airway; (3) bronchial hyperresponsiveness (BHR); and (4) the effect of inhaled corticosteroids (ICSs).
+    ANSWER: We have shown that eosinophilic inflammation of the airway wall may increase PD and that the association of eosinophil counts with ICSs may result in lessening the PD.
+    

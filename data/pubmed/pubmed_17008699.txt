@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17008699)
+    QUESTION: Do patients with localized prostate cancer treatment really want more aggressive treatment?
+    CONTEXT: Examine whether patients with prostate cancer choose the more aggressive of two radiotherapeutic options, whether this choice is reasoned, and what the determinants of the choice are.
+    ANSWER: Most patients with localized prostate cancer prefer the lower radiation dose. Our findings indicate that many patients attach more weight to specific quality-of-life aspects (eg, GI toxicity) than to improving survival. Treatment preferences of patients with localized prostate cancer can and should be involved in radiotherapy decision making.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 9381529)
+    QUESTION: Immune suppression by lysosomotropic amines and cyclosporine on T-cell responses to minor and major histocompatibility antigens: does synergy exist?
+    CONTEXT: Using murine models, we have shown that the lysosomotropic amine, chloroquine, is effective in the prevention of graft-versus-host disease (GVHD) mediated by donor T cells reactive with recipient minor histocompatibility antigens (MiHCs). Because lysosomotropic amines can suppress major histocompatibility complex (MHC) class II antigen presentation, their mechanism of action is potentially different from current immune suppressant drugs used to control GVHD such as cyclosporine.
+    ANSWER: Lysosomotropic amines in combination with cyclosporine appear to be synergistic in the suppression of T-cell proliferation to MiHC and MHC. Use of chloroquine in combination with cyclosporine may result in improved control of GVHD.
+    

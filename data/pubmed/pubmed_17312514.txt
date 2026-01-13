@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17312514)
+    QUESTION: Does quilting suture prevent seroma in abdominoplasty?
+    CONTEXT: Seroma is the most frequent complication in abdominoplasty. Some patients are more prone to develop this complication. Ultrasound is a well-known method with which to diagnose seroma in the abdominal wall. The purpose of this study was to verify the efficacy of the use of quilting suture to prevent seroma.
+    ANSWER: The quilting suture seems to be an efficient technique with which to prevent seroma formation.
+    

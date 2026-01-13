@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23222920)
+    QUESTION: Pancreas retransplantation:  a second chance for diabetic patients?
+    CONTEXT: If pancreas transplantation is a validated alternative for type 1 diabetic patients with end-stage renal disease, the management of patients who have lost their primary graft is poorly defined. This study aims at evaluating pancreas retransplantation outcome.
+    ANSWER: Pancreas retransplantation is a safe procedure with acceptable graft survival that should be proposed to diabetic patients who have lost their primary graft.
+    

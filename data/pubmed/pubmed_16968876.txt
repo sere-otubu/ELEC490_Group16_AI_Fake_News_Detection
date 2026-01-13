@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 16968876)
+    QUESTION: Is a patient's self-reported health-related quality of life a prognostic factor for survival in non-small-cell lung cancer patients?
+    CONTEXT: The aim of this prognostic factor analysis was to investigate if a patient's self-reported health-related quality of life (HRQOL) provided independent prognostic information for survival in non-small cell lung cancer (NSCLC) patients.
+    ANSWER: The results suggest that patients' self-reported HRQOL provide independent prognostic information for survival. This finding supports the collection of such data in routine clinical practice.
+    

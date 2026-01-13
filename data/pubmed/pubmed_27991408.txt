@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 27991408)
+    QUESTION: Do dermatomyositis and polymyositis affect similar thigh muscles?
+    CONTEXT: Dermatomyositis (DM) and polymyositis (PM) commonly cause weakness of the thigh muscles. However, it is debated whether DM and PM affect similar thigh muscles. Muscle oedema on fat-suppressed MRI sequences is thought to represent active inflammation. In this study, we aimed to assess which thigh muscle groups are preferentially inflamed in DM and PM, respectively, using short-tau inversion-recovery MRI sequences.
+    ANSWER: Compared with PM, DM affects more thigh muscles, except those of the posterior compartment, which are equally involved in both disorders. These findings may be useful to target physiotherapy at the more frequently affected muscles.
+    

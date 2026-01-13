@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 11926574)
+    QUESTION: Are hepatitis G virus and TT virus involved in cryptogenic chronic liver disease?
+    CONTEXT: Hepatitis G virus can cause chronic infection in man but the role of this agent in chronic liver disease is poorly understood. Little is known about the relation of another newly discovered agent, the TT virus, with chronic liver disease.AIM: To investigate the rate of infection with hepatitis G virus and TT virus in patients with cryptogenic chronic liver disease.
+    ANSWER: In Southern Italy, hepatitis G virus infection is widespread among patients with chronic hepatitis, independently of parenteral risk factors. Its frequency in subjects with cryptogenic liver disease parallels that observed in hepatitis C virus chronic liver disease, thus ruling out an aetiologic role of hepatitis G virus. TT virus infection is uncommon in patients with cryptogenic or hepatitis C virus-related liver disease who do not have a history of parenteral exposure.
+    

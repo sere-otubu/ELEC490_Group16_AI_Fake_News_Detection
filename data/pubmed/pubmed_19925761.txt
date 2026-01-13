@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19925761)
+    QUESTION: Diagnostic and therapeutic ureteroscopy: is dilatation of ureteral meatus always necessary?
+    CONTEXT: To assess the feasibility and safety of diagnostic or therapeutic semirigid ureteroscopy without ureteral meatus dilatation.
+    ANSWER: In selected cases, ureteroscopy may be performed without ureteral meatus dilatation with success and morbidity rates similar to when the procedure is performed with meatal dilatation.
+    

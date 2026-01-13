@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17279467)
+    QUESTION: Can bisphosphonate treatment be stopped in a growing child with skeletal fragility?
+    CONTEXT: Cyclical pamidronate therapy in a 2-year-old child with skeletal fragility resulted in remodelling of vertebral fractures and improvement in bone mineral density (BMD) at distal radial and spinal sites. The BMD at both sites decreased precipitously within 24 months of stopping treatment, raising the question as to whether bisphosphonates can be stopped in a growing child with skeletal fragility.
+    ANSWER: The patient has been restarted on IV APD therapy. This case has led us to consider whether bisphosphonate therapy can be discontinued in a child with fragility fractures before his/her linear growth has ceased?
+    

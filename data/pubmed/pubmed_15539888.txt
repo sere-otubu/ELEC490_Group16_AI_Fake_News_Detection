@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 15539888)
+    QUESTION: Is the atopy patch test with house dust mites specific for atopic dermatitis?
+    CONTEXT: The atopy patch test (APT), namely the patch test with aeroallergens, is regarded as specific for patients with atopic dermatitis (AD), but small numbers of positive APT were reported in the past also in atopic subjects without dermatitis and in healthy persons.
+    ANSWER: These observations lead to conclude that the APT with HDM is positive also in non-AD subjects but it is probably more specific for AD.
+    

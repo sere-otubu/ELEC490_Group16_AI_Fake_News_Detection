@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19131405)
+    QUESTION: Diffusion-weighted echo-planar MR imaging of primary parotid gland tumors: is a prediction of different histologic subtypes possible?
+    CONTEXT: Our aim was to determine the value of echo-planar diffusion-weighted MR imaging (epiDWI) in differentiating various types of primary parotid gland tumors.
+    ANSWER: epiDWI has the potential to differentiate pleomorphic adenoma and myoepithelial adenomas from all other examined entities. Due to an overlap not only within the group of benign and malignant lesions but also between groups, diagnoses should not be addressed on the basis of ADC values solely. Therefore, further studies combining DWI, morphologic criteria, and probably other MR imaging techniques seem warranted.
+    

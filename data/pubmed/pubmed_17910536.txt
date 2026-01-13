@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17910536)
+    QUESTION: Adults with mild intellectual disabilities: can their reading comprehension ability be improved?
+    CONTEXT: Adults with a mild intellectual disability (ID) often show poor decoding and reading comprehension skills. The goal of this study was to investigate the effects of teaching text comprehension strategies to these adults. Specific research goals were to determine (1) the effects of two instruction conditions, i.e. strategy instruction to individuals and strategy instruction in small groups in a reciprocal teaching context; (2) intervention programme effects on specific strategy tests (so-called direct effects), and possible differences between strategies; (3) (long-term) transfer effects of the programme on general reading comprehension ability; and (4) the regression of general text comprehension by the variables of technical reading, IQ, reading comprehension of sentences (RCS), and pretest and posttest scores on the strategies taught.
+    ANSWER: The presently used intervention programme provides a good starting point for adults with ID to become better readers.
+    

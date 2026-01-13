@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 10757151)
+    QUESTION: Does ischemic preconditioning require reperfusion before index ischemia?
+    CONTEXT: Ischemic preconditioning (IP) is initiated through one or several short bouts of ischemia and reperfusion which precede a prolonged ischemia. To test whether a reperfusion must precede the prolonged index ischemia, a series without reperfusion (intraischemic preconditioning: IIP) and a series with gradual onset of ischemia, i.e. ramp ischemia (RI), which is possibly related to the development of hibernation, was compared to conventional IP (CIP).
+    ANSWER: The preconditioning effect (infarct size reduction) appears not to depend on intermittent reperfusion. Thus, the protective mechanism of IP develops during the initial ischemia that precedes the index ischemia. Alternatively, low-flow ischemia is effectively a sort of reperfusion.
+    

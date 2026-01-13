@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23870157)
+    QUESTION: Are intraoperative precursor events associated with postoperative major adverse events?
+    CONTEXT: Precursor events are undesirable events that can lead to a subsequent adverse event and have been associated with postoperative mortality. The purpose of the present study was to determine whether precursor events are associated with a composite endpoint of major adverse cardiac events (MACE) (death, acute renal failure, stroke, infection) in a low- to medium-risk coronary artery bypass grafting, valve, and valve plus coronary artery bypass grafting population. These events might be targets for strategies aimed at quality improvement.
+    ANSWER: Patients undergoing cardiac surgery who are exposed to intraoperative precursor events were more likely to experience a postoperative MACE. Quality improvement techniques aimed at mitigating the consequences of precursor events might improve the surgical outcomes for cardiac surgical patients.
+    

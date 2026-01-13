@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24073931)
+    QUESTION: Is the covering of the resection margin after distal pancreatectomy advantageous?
+    CONTEXT: In recent years, many advances in pancreatic surgery have been achieved. Nevertheless, the rate of pancreatic fistula following pancreatic tail resection does not differ between various techniques, still reaching up to 30% in prospective multicentric studies. Taking into account contradictory results concerning the usefulness of covering resection margins after distal pancreatectomy, we sought to perform a systematic, retrospective analysis of patients that underwent distal pancreatectomy at our center.
+    ANSWER: The results show no significant difference in the fistula rate after covering of the resection margin after distal pancreatectomy, which contributes to the picture of an unsolved problem.
+    

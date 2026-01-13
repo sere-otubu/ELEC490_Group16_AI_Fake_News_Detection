@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23860049)
+    QUESTION: Do we need imaging to diagnose appendicitis in children?
+    CONTEXT: To evaluate the role of clinical assessment with selective use of imaging studies in the management of suspected acute appendicitis in children.
+    ANSWER: Clinical assessment is the key to diagnose appendicitis. Nevertheless, in girls older than 10 years, selected use of imaging should be implemented to avoid unnecessary appendectomies. Imaging of choice in equivocal cases should be ultrasonography.
+    

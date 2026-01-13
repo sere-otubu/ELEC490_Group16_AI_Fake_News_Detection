@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 12221908)
+    QUESTION: The HELPP syndrome--evidence of a possible systemic inflammatory response in pre-eclampsia?
+    CONTEXT: The principal causes of morbidity and mortality during pregnancy in Mexico, are preeclampsia/eclampsia, obstetric hemorrhage and puerperium complications; this is, 62% of maternal deaths in last years. HELLP syndrome was observed between 5 to 25% of the mortality in pregnancies of 36 weeks or less.
+    ANSWER: We found an important renal damage, low platelets, elevated liver enzymes in women with two or more pregnancies. Then we propose there are similarities between HELLP syndrome and Systemic Inflammatory Response Syndrome (SIRS) because they could have the same pathophysiology.
+    

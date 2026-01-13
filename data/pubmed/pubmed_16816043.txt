@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 16816043)
+    QUESTION: Do French lay people and health professionals find it acceptable to breach confidentiality to protect a patient's wife from a sexually transmitted disease?
+    CONTEXT: To determine under what conditions lay people and health professionals find it acceptable for a physician to breach confidentiality to protect the wife of a patient with a sexually transmitted disease (STD).
+    ANSWER: Most people in France are influenced by situational factors when deciding if a physician should breach confidentiality to protect the spouse of a patient infected with STD.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 9569972)
+    QUESTION: Proliferative index obtained by DNA image cytometry. Does it add prognostic information in Auer IV breast cancer?
+    CONTEXT: To investigate whether the S + G2/M fraction (proliferative index) is a prognostic determinant in breast cancers classified as Auer IV.
+    ANSWER: According to ICM-DNA values corresponding to the S + G2/M region, patients with breast cancers classified as Auer IV can be divided into subgroups with different tumor characteristics and prognoses.
+    

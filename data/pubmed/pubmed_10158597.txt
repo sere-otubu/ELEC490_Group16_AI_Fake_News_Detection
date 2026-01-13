@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 10158597)
+    QUESTION: Does a dedicated discharge coordinator improve the quality of hospital discharge?
+    CONTEXT: To evaluate the effectiveness of the role of a discharge coordinator whose sole responsibility was to plan and coordinate the discharge of patients from medical wards.
+    ANSWER: The introduction of a discharge coordinator improved the quality of discharge planning, but at additional cost.
+    

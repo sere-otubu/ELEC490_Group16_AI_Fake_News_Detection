@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 11296674)
+    QUESTION: Prostatic syndrome and pleural effusion: are they different diseases?
+    CONTEXT: To report an uncommon association of prostate and lung cancer.
+    ANSWER: Although the association of prostate and lung cancer is uncommon, the possibility of synchronous tumors should be considered in patients with urinary and pulmonary symptoms suggestive of neoplasm. It is important to determine if the lesion is a metastasis, since the prognosis depends on the second tumor.
+    

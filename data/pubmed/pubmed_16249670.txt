@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 16249670)
+    QUESTION: Does the investing layer of the deep cervical fascia exist?
+    CONTEXT: The placement of the superficial cervical plexus block has been the subject of controversy. Although the investing cervical fascia has been considered as an impenetrable barrier, clinically, the placement of the block deep or superficial to the fascia provides the same effective anesthesia. The underlying mechanism is unclear. The aim of this study was to investigate the three-dimensional organization of connective tissues in the anterior region of the neck.
+    ANSWER: This study provides anatomical evidence to indicate that the so-called investing cervical fascia does not exist in the anterior triangle of the neck. Taking the previous reports together, the authors' findings strongly suggest that deep potential spaces in the neck are directly continuous with the subcutaneous tissue.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17355582)
+    QUESTION: Does ambulatory process of care predict health-related quality of life outcomes for patients with chronic disease?
+    CONTEXT: The validity of quality of care measurement has important implications for practicing clinicians, their patients, and all involved with health care delivery. We used empirical data from managed care patients enrolled in west coast physician organizations to test the hypothesis that observed changes in health-related quality of life across a 2.5-year window reflecting process of care.DATA SOURCES/
+    ANSWER: The use of instrumental variables allowed us to demonstrate a significant relationship between better ambulatory process of care and better health-related quality of life. This finding underscores the importance of efforts to improve the process of care.
+    

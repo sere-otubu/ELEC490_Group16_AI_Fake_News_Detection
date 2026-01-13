@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 22301406)
+    QUESTION: CYP2D6*4 allele and breast cancer risk: is there any association?
+    CONTEXT: CYP2D6 is an important cytochrome P450 enzyme. These enzymes catalyse the oxidative biotransformation of about 25% of clinically important drugs as well as the metabolism of numerous environmental chemical carcinogens. The most frequent null allele of CYP2D6 in European populations, CYP2D6*4, has been studied here in order to elucidate whether a relationship exists between this allele and the risk of developing breast cancer in a Spanish population.
+    ANSWER: A possible decreased transformation of procarcinogens by CYP2D6*4 poor metabolisers could result in a protective effect against carcinogens.
+    

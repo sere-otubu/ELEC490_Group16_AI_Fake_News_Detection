@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25311479)
+    QUESTION: The inverse equity hypothesis: does it apply to coverage of cancer screening in middle-income countries?
+    CONTEXT: It is uncertain whether the inverse equity hypothesis-the idea that new health interventions are initially primarily accessed by the rich, but that inequalities narrow with diffusion to the poor-holds true for cancer screening in low and middle income countries (LMICs).This study examines the relationship between overall coverage and economic inequalities in coverage of cancer screening in four middle-income countries.
+    ANSWER: Economic inequalities in breast and cervical cancer screening are low in LMICs with high screening coverage. These findings are consistent with the inverse equity hypothesis and indicate that high levels of equity in cancer screening are feasible even in countries with high income inequality.
+    

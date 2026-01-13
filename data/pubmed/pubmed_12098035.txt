@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 12098035)
+    QUESTION: Does a special interest in laparoscopy affect the treatment of acute cholecystitis?
+    CONTEXT: We tested the hypothesis that the treatment of patients with acute cholecystitis (AC) would be improved under the care of laparoscopic specialists.
+    ANSWER: Patients with AC are more likely to undergo successful LC if cared for by a surgeon with an interest in laparoscopy. However, length of hospital stay is influenced more by patient factors in a multivariate model.
+    

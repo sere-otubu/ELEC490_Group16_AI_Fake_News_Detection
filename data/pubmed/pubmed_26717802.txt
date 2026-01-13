@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26717802)
+    QUESTION: After CLASS--Is a voluntary public insurance program a realistic way to meet the long-term support and service needs of adults with disabilities?
+    CONTEXT: The CLASS Act, which was part of the Affordable Care Act of 2010, established a voluntary personal assistance services (PAS) insurance program. However, concerns about enrollment and adverse selection led to repeal of the CLASS Act in 2013.
+    ANSWER: While more than a quarter of the middle-aged adult population said they were interested in PAS insurance, actual participation would be highly dependent on premium rates. The current lack of publicly subsidized insurance for long-term care and personal assistance services remains a serious gap in the disability service system.
+    

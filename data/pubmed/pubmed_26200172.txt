@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26200172)
+    QUESTION: Can biofeedback training of psychophysiological responses enhance athletes' sport performance?
+    CONTEXT: In recent years, biofeedback has become increasingly popular for its proven success in peak performance training - the psychophysiological preparation of athletes for high-stakes sport competitions, such as the Olympic games. The aim of this research was to test whether an 8-week period of exposure to biofeedback training could improve the psychophysiological control over competitive anxiety and enhance athletic performance in participating subjects.
+    ANSWER: One year following completion of the training program, all participants from the experimental group indicated that they were still using the biofeedback - psycho-regulation skills. Furthermore, these participants uniformly reported believing that these skills had enhanced their athletic performance and general well-being.
+    

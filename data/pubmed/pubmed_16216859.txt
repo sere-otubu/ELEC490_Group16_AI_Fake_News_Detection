@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 16216859)
+    QUESTION: Does a well developed collateral circulation predispose to restenosis after percutaneous coronary intervention?
+    CONTEXT: To evaluate whether a well developed collateral circulation predisposes to restenosis after percutaneous coronary intervention (PCI).
+    ANSWER: A well developed collateral circulation does not predict an increased risk of restenosis after PCI.
+    

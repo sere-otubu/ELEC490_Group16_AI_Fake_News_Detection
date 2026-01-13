@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19468282)
+    QUESTION: Is determination between complete and incomplete traumatic spinal cord injury clinically relevant?
+    CONTEXT: Prospective multicenter longitudinal cohort study.
+    ANSWER: Out of the four sacral sparing criteria, the acute phase anal sensory score measurements do not contribute significantly to the prognosis of independent ambulation. The combination of the acute phase voluntary anal contraction and the S4-5 LT and PP scores, predicts significantly better chronic phase-independent ambulation outcomes than the currently used distinction between complete and incomplete SCI.
+    

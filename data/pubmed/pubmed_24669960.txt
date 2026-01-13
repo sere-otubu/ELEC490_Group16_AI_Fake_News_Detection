@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24669960)
+    QUESTION: Does the sex of acute stroke patients influence the effectiveness of rt-PA?
+    CONTEXT: Women have been reported to show more frequent recanalization and better recovery after intravenous (IV) recombinant tissue plasminogen activator (rt-PA) treatment for acute stroke compared with men. To investigate this we studied a series of stroke patients receiving IV rt-PA and undergoing acute transcranial doppler (TCD) examination.
+    ANSWER: In our study; sex is not a significant predictor of recanalization rate, time to recanalization or 3-month outcome in stroke patients following IV rt-PA.
+    

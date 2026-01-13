@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17971187)
+    QUESTION: Cholesterol screening in school children: is family history reliable to choose the ones to screen?
+    CONTEXT: The study was carried on 2096 school children (1043 male, 1053 female) in Ankara. Their mean age was 9.03 years. Demographic properties of the study group and their families were determined and the serum lipid levels of the subjects were obtained. The relation between these demographic properties and lipid levels were investigated.
+    ANSWER: We suggest that regardless of family history, all children over 5 years should be screened for hyperlipidemia. Education about hyperlipidemia and precautions for its complications should be given to both children and families. The best and easiest way to reach children is to screen them at schools. School is also a good place for education of children about hyperlipidemia and risk factors.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17551944)
+    QUESTION: Doppler examination of uteroplacental circulation in early pregnancy: can it predict adverse outcome?
+    CONTEXT: To determine whether spectral Doppler measurements obtained from bilateral uterine, arcuate, radial, and spiral arteries in early gestation correlate with adverse pregnancy outcome.
+    ANSWER: Transvaginal Doppler examination can detect hemodynamic changes in uteroplacental circulation associated with subsequent adverse pregnancy outcome.
+    

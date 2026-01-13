@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21904069)
+    QUESTION: Spleen-preserving distal pancreatectomy with resection of the splenic vessels. Should one rely on the short gastric arteries?
+    CONTEXT: Knowing the collaterals is essential for a spleen-preserving distal pancreatectomy with resection of the splenic vessels.
+    ANSWER: Experimental, intra- and postoperative instrumental investigations did not show the short gastric arteries to be engaged in the blood supply to the spleen after a spleen-preserving distal pancreatectomy with resection of the splenic vessels. In all cases, the left gastroepiploic artery was the main collateral vessel.
+    

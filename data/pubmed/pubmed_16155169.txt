@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 16155169)
+    QUESTION: Percutaneous ethanol injection for benign cystic thyroid nodules: is aspiration of ethanol-mixed fluid advantageous?
+    CONTEXT: We evaluated the differences between percutaneous ethanol injection with and without aspiration of ethanol-mixed fluid for treatment of benign cystic thyroid nodules.
+    ANSWER: Percutaneous ethanol injection without aspiration of ethanol-mixed fluid seems to be the preferable method of treatment of benign cystic thyroid nodules from the perspective of both the physician and the patient.
+    

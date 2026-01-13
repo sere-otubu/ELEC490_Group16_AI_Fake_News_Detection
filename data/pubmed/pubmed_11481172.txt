@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 11481172)
+    QUESTION: Does the manic/mixed episode distinction in bipolar disorder patients run true over time?
+    CONTEXT: The authors sought to determine whether the manic/mixed episode distinction in patients with bipolar disorder runs true over time.
+    ANSWER: These data suggest a pattern of diagnostic stability over time for manic and mixed episodes in patients with bipolar disorder. Careful prospective studies of this issue are needed.
+    

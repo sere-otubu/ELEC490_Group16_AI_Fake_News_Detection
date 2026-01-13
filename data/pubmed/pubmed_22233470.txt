@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 22233470)
+    QUESTION: Does the distribution of health care benefits in Kenya meet the principles of universal coverage?
+    CONTEXT: The 58th World Health Assembly called for all health systems to move towards universal coverage where everyone has access to key promotive, preventive, curative and rehabilitative health interventions at an affordable cost. Universal coverage involves ensuring that health care benefits are distributed on the basis of need for care and not on ability to pay. The distribution of health care benefits is therefore an important policy question, which health systems should address. The aim of this study is to assess the distribution of health care benefits in the Kenyan health system, compare changes over two time periods and demonstrate the extent to which the distribution meets the principles of universal coverage.
+    ANSWER: The principles of universal coverage require that all should benefit from health care according to need. The Kenyan health sector is clearly inequitable and benefits are not distributed on the basis of need. Deliberate efforts should be directed to restructuring the Kenyan health system to address access barriers and ensure that all Kenyans benefit from health care when they need it.
+    

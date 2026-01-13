@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24336869)
+    QUESTION: Can routinely collected ambulance data about assaults contribute to reduction in community violence?
+    CONTEXT: The 'law of spatiotemporal concentrations of events' introduced major preventative shifts in policing communities. 'Hotspots' are at the forefront of these developments yet somewhat understudied in emergency medicine. Furthermore, little is known about interagency 'data-crossover', despite some developments through the Cardiff Model. Can police-ED interagency data-sharing be used to reduce community-violence using a hotspots methodology?
+    ANSWER: A hotspots approach to sharing data circumvents the problem of disclosing person-identifiable data between different agencies. Practically, at least half of ambulance hotspots are unknown to the police; if causal, it suggests that data sharing leads to both reduced community violence by way of prevention (such as through anticipatory patrols or problem-oriented policing), particularly of more severe assaults, and improved efficiency of resource deployment.
+    

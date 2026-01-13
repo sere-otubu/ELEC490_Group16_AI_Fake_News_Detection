@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17462393)
+    QUESTION: Does normothermic normokalemic simultaneous antegrade/retrograde perfusion improve myocardial oxygenation and energy metabolism for hypertrophied hearts?
+    CONTEXT: Beating-heart valve surgery appears to be a promising technique for protection of hypertrophied hearts. Normothermic normokalemic simultaneous antegrade/retrograde perfusion (NNSP) may improve myocardial perfusion. However, its effects on myocardial oxygenation and energy metabolism remain unclear. The present study was to determine whether NNSP improved myocardial oxygenation and energy metabolism of hypertrophied hearts relative to normothermic normokalemic antegrade perfusion (NNAP).
+    ANSWER: Normothermic normokalemic simultaneous antegrade/retrograde perfusion did not improve, but slightly impaired myocardial oxygenation and energy metabolism of beating hypertrophied hearts relative to NNAP. Therefore, NNSP for protection of beating hypertrophied hearts during valve surgery should be used with extra caution.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25150098)
+    QUESTION: Can common carotid intima media thickness serve as an indicator of both cardiovascular phenotype and risk among black Africans?
+    CONTEXT: It is not known whether common carotid intima media thickness (CIMT) can serve as a surrogate marker of cardiovascular risk among black Africans. Therefore, we examined whether CIMT differed significantly among individuals with distinct cardiovascular phenotype and correlated significantly with traditional cardiovascular risk factors in a black African population.
+    ANSWER: Our findings support CIMT as a significant indicator of both cardiovascular risk and phenotype among adult black Africans. However, specific thresholds need to be defined based on prospective studies.
+    

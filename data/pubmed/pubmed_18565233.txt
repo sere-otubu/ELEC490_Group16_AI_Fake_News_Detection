@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18565233)
+    QUESTION: Does the lipid-lowering peroxisome proliferator-activated receptors ligand bezafibrate prevent colon cancer in patients with coronary artery disease?
+    CONTEXT: Epidemiologic studies have suggested that hypertriglyceridemia and insulin resistance are related to the development of colon cancer. Nuclear peroxisome proliferator-activated receptors (PPAR), which play a central role in lipid and glucose metabolism, had been hypothesized as being involved in colon cancerogenesis. In animal studies the lipid-lowering PPAR ligand bezafibrate suppressed colonic tumors. However, the effect of bezafibrate on colon cancer development in humans is unknown. Therefore, we proposed to investigate a possible preventive effect of bezafibrate on the development of colon cancer in patients with coronary artery disease during a 6-year follow-up.
+    ANSWER: Our data, derived from patients with coronary artery disease, support the hypothesis regarding a possible preventive effect of bezafibrate on the development of colon cancer.
+    

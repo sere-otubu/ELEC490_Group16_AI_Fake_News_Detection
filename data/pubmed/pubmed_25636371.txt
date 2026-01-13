@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25636371)
+    QUESTION: Is it possible to stop treatment with nucleos(t)ide analogs in patients with e-antigen negative chronic hepatitis B?
+    CONTEXT: Treatment of HBeAg-negative chronic hepatitis B (CHB) with nucleos(t)ide analogues (NA) is usually indefinite, since the loss of HBsAg, as a criterion for its discontinuation, is a rare event. Recent evidence suggests that discontinuing NA therapy may be feasible in selected patients.
+    ANSWER: The results suggest that NA treatment can be stopped in selected patients with CHB as long as they are not cirrhotic, have completed a minimum period of treatment, have normal ALT and sustained undetectable DNA. These patients should be closely monitored during the first year and then indefinitely.
+    

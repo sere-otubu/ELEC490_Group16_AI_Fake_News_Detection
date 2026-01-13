@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18693227)
+    QUESTION: Does a geriatric oncology consultation modify the cancer treatment plan for elderly patients?
+    CONTEXT: This study was performed to describe the treatment plan modifications after a geriatric oncology clinic. Assessment of health and functional status and cancer assessment was performed in older cancer patients referred to a cancer center.
+    ANSWER: The geriatric oncology consultation led to a modification of the cancer treatment plan in more than one third of cases. Further studies are needed to determine whether these modifications improve the outcome of these older patients.
+    

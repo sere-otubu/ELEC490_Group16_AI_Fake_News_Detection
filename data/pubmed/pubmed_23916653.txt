@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23916653)
+    QUESTION: Orthostatic myoclonus: an underrecognized cause of unsteadiness?
+    CONTEXT: Recently, orthostatic myoclonus (OM) has been suggested as a cause of gait impairment and unsteadiness in neurodegenerative diseases. The aim of this study was to investigate the frequency of orthostatic myoclonus, its clinical characteristics and the underlying associated neurological disorders.
+    ANSWER: Orthostatic myoclonus is often underdiagnosed and can be considered a possible cause of unsteadiness in subjects with neurodegenerative diseases. Electromyography surface recording is thereby an aid for investigating unsteadiness of unknown origin.
+    

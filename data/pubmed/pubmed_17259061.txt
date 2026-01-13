@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17259061)
+    QUESTION: Cigarettes and cinema: does parental restriction of R-rated movie viewing reduce adolescent smoking susceptibility?
+    CONTEXT: To examine the relationship between exposure to pro-smoking messages in media and susceptibility to smoking adoption among middle school students. The hypothesis that parental restriction of R-rated movie viewing is associated with lower adolescent smoking susceptibility was tested.
+    ANSWER: Parental restriction of R-rated movie viewing is associated with both lower adolescent smoking susceptibility and lower smoking rates.
+    

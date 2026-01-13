@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21593045)
+    QUESTION: Do women with ovaries of polycystic morphology without any other features of PCOS benefit from short-term metformin co-treatment during IVF?
+    CONTEXT: Women with ovaries of polycystic morphology (PCO), without any other features of polycystic ovary syndrome (PCOS), respond similarly to women with PCOS when stimulated with exogenous gonadotrophins, and both groups share various endocrinological disturbances underlying their pathology. In women with PCOS, metformin co-treatment during IVF has been shown to increase pregnancy rates and reduce the risk of ovarian hyperstimulation syndrome (OHSS). The aim of this study was to investigate whether metformin co-treatment before and during IVF can also increase the live birth rate (LBR) and lower severe OHSS rates for women with PCO, but no other manifestations of PCOS.
+    ANSWER: There appears to be no benefit in metformin co-treatment before and during IVF in women with PCO without any other features of PCOS. Clinical Trials.gov: NCT01046032.
+    

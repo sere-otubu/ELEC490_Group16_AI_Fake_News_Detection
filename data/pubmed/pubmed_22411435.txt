@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 22411435)
+    QUESTION: Comparative safety of infliximab and etanercept on the risk of serious infections: does the association vary by patient characteristics?
+    CONTEXT: Infliximab, a chimeric monoclonal anti-TNFα antibody, has been found to increase the risk of serious infections compared with the TNF receptor fusion protein etanercept in some studies. It is unclear whether the risk varies by patient characteristics. We conducted a study to address this question.
+    ANSWER: An increased risk of serious infections associated with infliximab relative to etanercept did not appear to be modified by patients' sex, race/ethnicity, body mass index, or smoking status. There was an indication that the increased risk might be limited to patients<65 years. Additional studies are warranted to verify or refute this finding.
+    

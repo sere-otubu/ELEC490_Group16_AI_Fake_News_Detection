@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24698298)
+    QUESTION: MR arthrography of the shoulder: do we need local anesthesia?
+    CONTEXT: To assess pain intensity with and without subcutaneous local anesthesia prior to intraarticular administration of contrast medium for magnetic resonance arthrography (MRa) of the shoulder.
+    ANSWER: Local anesthesia is not required to lower a patient's pain intensity when applying intra-articular contrast media for MR arthrography of the shoulder. This could result in reduced costs and a reduced risk of adverse reactions, without an impact on patient comfort.
+    

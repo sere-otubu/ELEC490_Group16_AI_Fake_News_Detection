@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 20571467)
+    QUESTION: Is it appropriate to implant kidneys from elderly donors in young recipients?
+    CONTEXT: Kidneys from elderly donors tend to be implanted in recipients who are also elderly. We present the results obtained after 10 years of evolution on transplanting elderly kidneys into young recipients.
+    ANSWER: We conclude that patient and graft survival on transplanting kidneys from elderly donors to young recipients is superimposable on that obtained with young donors. However, renal function is better in the group of young donors.
+    

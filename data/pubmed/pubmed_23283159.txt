@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23283159)
+    QUESTION: Is obesity a risk factor for wheezing among adolescents?
+    CONTEXT: To investigate the effect of obesity at the start of adolescence on the prevalence, incidence and maintenance of chest wheezing among individuals aged 11-15 years in a birth cohort in a developing country.
+    ANSWER: Since obesity at the start of adolescence is associated with asthma symptom persistence, prevention and treatment of obesity may reduce avoidable healthcare costs and disease burden.
+    

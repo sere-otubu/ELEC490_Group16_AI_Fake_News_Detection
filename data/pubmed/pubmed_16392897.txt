@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 16392897)
+    QUESTION: BCRABL transcript detection by quantitative real-time PCR : are correlated results possible from homebrew assays?
+    CONTEXT: Quantitative real-time PCR has become the predominant molecular technique to monitor BCRABL levels in response to treatment in Ph(+) leukemia patients. However, without some form of standardized methodology between laboratories, the correlation of results is difficult.
+    ANSWER: These results suggest that quantitative real-time PCR assays for BCRABL detection can be comparable between laboratories despite significant differences in methodologies if the same positive control cell line and quality control gene are used. It is imperative that some level of assay standardization be adopted between laboratories, not only for patients who are monitored at different facilities, but also for larger investigative studies in which hematologic, cytogenetic and molecular responses are to be compared.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17453263)
+    QUESTION: Are physician estimates of asthma severity less accurate in black than in white patients?
+    CONTEXT: Racial differences in asthma care are not fully explained by socioeconomic status, care access, and insurance status. Appropriate care requires accurate physician estimates of severity. It is unknown if accuracy of physician estimates differs between black and white patients, and how this relates to asthma care disparities.
+    ANSWER: Biased estimates of asthma severity may contribute to racially disparate asthma care. Interventions to improve physicians' assessments of asthma severity and patient-physician communication may minimize racial disparities in asthma care.
+    

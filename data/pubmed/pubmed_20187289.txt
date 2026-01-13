@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 20187289)
+    QUESTION: Prescriptions as a proxy for asthma in children: a good choice?
+    CONTEXT: Stock et al. (Eur Respir J 25:47-53, 2005) recently estimated asthma prevalence in Germany using claims data on prescriptions and hospital diagnoses and found high prevalence peaks in infants. Our objective was to critically assess and discuss various aspects of identifying children with asthma using prescription data.
+    ANSWER: When additional validation studies were taken into account, asthma medications were found to be prescribed not only for asthma but also for other respiratory diseases. In addition, not all children with current asthma had prescriptions. We therefore conclude that asthma medications are therefore not a good proxy for the disease.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24809662)
+    QUESTION: Does concomitant anterior/apical repair during midurethral sling improve the overactive bladder component of mixed incontinence?
+    CONTEXT: Midurethral sling (MUS) can improve overactive bladder (OAB) symptoms. It is unclear if anterior/apical prolapse (AA) repair provides additional benefit. We hypothesized that women with mixed urinary incontinence (MUI) experience greater improvement in the OAB component of their symptoms after concomitant MUS and AA repair compared with MUS alone.
+    ANSWER: In women with bothersome MUI, concomitant AA repair does not result in additional improvement in OAB symptoms over MUS alone. Patients with postoperative complications exhibit less improvement in OAB symptoms.
+    

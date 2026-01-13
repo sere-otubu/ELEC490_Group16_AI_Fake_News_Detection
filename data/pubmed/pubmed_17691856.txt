@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17691856)
+    QUESTION: Midwives' competence: is it affected by working in a rural location?
+    CONTEXT: Rising health care costs and the need to consolidate expertise in tertiary services have led to the centralisation of services. In the UK, the result has been that many rural maternity units have become midwife-led. A key consideration is that midwives have the skills to competently and confidently provide maternity services in rural areas, which may be geographically isolated and where the midwife may only see a small number of pregnant women each year. Our objective was to compare the views of midwives in rural and urban settings, regarding their competence and confidence with respect to 'competencies' identified as being those which all professionals should have in order to provide effective and safe care for low-risk women.
+    ANSWER: It is often assumed that midwives in rural areas where there are fewer deliveries, will be less competent and confident in their practice. Our exploratory study suggests that the issue of competence is far more complex and deserves further attention.
+    

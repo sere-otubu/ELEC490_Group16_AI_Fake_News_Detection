@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 22644412)
+    QUESTION: Hepatic arterial embolization for unresectable hepatocellular carcinomas: do technical factors affect prognosis?
+    CONTEXT: To evaluate retrospectively whether technical factors of hepatic arterial embolization affect the prognosis of patients with hepatocellular carcinoma (HCC).
+    ANSWER: Selective embolization contributes to survival in patients with HCCs.
+    

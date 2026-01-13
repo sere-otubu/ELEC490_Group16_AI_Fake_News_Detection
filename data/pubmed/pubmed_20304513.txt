@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 20304513)
+    QUESTION: Is (18)F-FDG a surrogate tracer to measure tumor hypoxia?
+    CONTEXT: Fluorodeoxyglucose (FDG) has been reported as a surrogate tracer to measure tumor hypoxia with positron emission tomography (PET). The hypothesis is that there is an increased uptake of FDG under hypoxic conditions secondary to enhanced glycolysis, compensating the hypoxia-induced loss of cellular energy production. Several studies have already addressed this issue, some with conflicting results. This study aimed to compare the tracers (14)C-EF3 and (18)F-FDG to detect hypoxia in mouse tumor models.
+    ANSWER: This study showed that FDG is not a good surrogate tracer for tumor hypoxia under either ambient or hypoxic conditions. Only specific hypoxia tracers should be used to measure tumor hypoxia.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 12630042)
+    QUESTION: Does body mass index (BMI) influence morbidity and long-term survival in gastric cancer patients after gastrectomy?
+    CONTEXT: The long-term survival of patients with gastric cancer is governed by various factors, such as the clinical stage of the cancer, the patient's nutritional state, and the treatment and may be governed by the volume of intraperitoneal adipose tissue. The aim of this study is to clarify the relationship between the degree of the patients' body mass index and their long-term survival.
+    ANSWER: The body mass index is one of the prognostic factors of stage 2 and stage 3a gastric cancer. However, it does not appear to be useful for determining the prognosis of stage 1a, 1b, 3b, and 4a gastric cancers.
+    

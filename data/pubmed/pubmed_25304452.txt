@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25304452)
+    QUESTION: Nutritional assessment of gluten-free diet. Is gluten-free diet deficient in some nutrient?
+    CONTEXT: The gluten-free diet has traditionally been accepted as a healthy diet, but there are articles advocating that it may have some nutritional deficiencies. The current study assesses whether there was any change in the contributions of calories, essential elements, proportion of fatty acids, vitamins, minerals and fiber in children who were diagnosed with celiac diseases, comparing the diet with gluten prior one year after diagnosis with the diet without gluten to the year of diagnosis. The level of clinical or analytical impact that nutritional deficits could have was also assessed.
+    ANSWER: The gluten-free diet has minimal deficiencies, similar to those present in the diet with gluten, with an improvement in the lipid profile by increasing the proportion of monounsaturated fatty acids to the detriment of saturated fatty acids.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 12626177)
+    QUESTION: Can the Internet be used to improve sexual health awareness in web-wise young people?
+    CONTEXT: To assess Internet use amongst young people to determine whether it would be a practical way to provide sex education and information.
+    ANSWER: The Internet would be a practical and accessible way of delivering sexual health education to young people, particularly if it is incorporated into activities and websites they enjoy.
+    

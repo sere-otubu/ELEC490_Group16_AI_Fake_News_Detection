@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 12684740)
+    QUESTION: Cue-induced behavioural activation: a novel model of alcohol craving?
+    CONTEXT: Alcohol-associated cues elicit craving in human addicts but little is known about craving mechanisms. Current animal models focus on relapse and this may confound the effect of environmental cues. OBJECTIVES. To develop a model to study the effects of environmental cues on alcohol consumption in animals not experiencing withdrawal or relapse.
+    ANSWER: Cue-induced behavioural activation was specific to alcohol cues, reproducible, persistent and could be blocked by naltrexone, and its correlation with human self-report of craving makes it a potentially useful model for studying alcohol craving.
+    

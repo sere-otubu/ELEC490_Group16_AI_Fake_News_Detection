@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18269157)
+    QUESTION: Biomechanical and wound healing characteristics of corneas after excimer laser keratorefractive surgery: is there a difference between advanced surface ablation and sub-Bowman's keratomileusis?
+    CONTEXT: To describe the biomechanical and wound healing characteristics of corneas after excimer laser keratorefractive surgery.
+    ANSWER: Ophthalmic pathology and basic science research show that SBK and ASA are improvements in excimer laser keratorefractive surgery compared to conventional LASIK or PRK, particularly with regard to maintaining corneal biomechanics and perhaps moderately reducing the risk of corneal haze. However, most of the disadvantages caused by wound healing issues remain.
+    

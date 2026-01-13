@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 10548670)
+    QUESTION: Does the National Institutes of Health Stroke Scale favor left hemisphere strokes?
+    CONTEXT: The National Institutes of Health Stroke Scale (NIHSS) is a valid, reproducible scale that measures neurological deficit. Of 42 possible points, 7 points are directly related to measurement of language compared with only 2 points related to neglect.
+    ANSWER: For a given NIHSS score, the median volume of right hemisphere strokes is consistently larger than the median volume of left hemisphere strokes. The clinical implications of our finding need further exploration.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19027440)
+    QUESTION: Can we predict which head and neck cancer survivors develop fears of recurrence?
+    CONTEXT: The objectives of this study were to investigate longitudinal predictors of fear of recurrence in survivors of head and neck cancer (HNC) using Leventhal's Common Sense Model (CSM) as a framework. The research questions were as follows: (a) to what extent do HNC patients report fear of cancer recurrence? (b) To what extent are fears of recurrence manifestations of illness-related anxiety? (c) Are fears of recurrence closely related to current symptoms, disease, and treatment-related factors, or psychological/socio-demographic factors? (d) What factors are predictive of long-term fears of recurrence?
+    ANSWER: Although components of the CSM (cognitive and emotional representations, coping strategies) were associated with fears of recurrence, optimism was found to be the strongest predictor of fear, independent of anxiety and level of fear reported prior to treatment.
+    

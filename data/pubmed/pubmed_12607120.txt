@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 12607120)
+    QUESTION: Does anastomotic leakage affect functional outcome after rectal resection for cancer?
+    CONTEXT: Anastomotic leakage is the most threatening early complication in sphincter-preserving rectal cancer surgery. While the oncological consequences have been well examined, only few data exist about the functional outcome.
+    ANSWER: Continence function remained undisturbed after anastomotic leakage due to rectal resection
+    

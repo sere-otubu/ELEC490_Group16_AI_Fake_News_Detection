@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 27908583)
+    QUESTION: Should lower limb fractures be treated surgically in patients with chronic spinal injuries?
+    CONTEXT: To report the outcomes of surgical treatment of lower limb fractures in patients with chronic spinal cord injuries.
+    ANSWER: Chronic spinal cord injuries patients with lower limb fractures who are treated surgically achieved a more reliable consolidation, practically a free range of motion, low rate of cutaneous complications, and pain associated with the fracture. This allows a quick return to the previous standard of living, and should be considered as an alternative to orthopaedic treatment in these patients.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 16432652)
+    QUESTION: Transgastric endoscopic splenectomy: is it possible?
+    CONTEXT: We have previously reported the feasibility of diagnostic and therapeutic peritoneoscopy including liver biopsy, gastrojejunostomy, and tubal ligation by an oral transgastric approach. We present results of per-oral transgastric splenectomy in a porcine model. The goal of this study was to determine the technical feasibility of per-oral transgastric splenectomy using a flexible endoscope.
+    ANSWER: Transgastric endoscopic splenectomy in a porcine model appears technically feasible. Additional long-term survival experiments are planned.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 14976655)
+    QUESTION: Delayed peripheral facial palsy in the stapes surgery: can it be prevented?
+    CONTEXT: The aim of this study was to evaluate poststapedectomy-delayed facial palsy etiopathogenesis, risk factors, evolution, and prevention.
+    ANSWER: Poststapedectomy-delayed facial palsy is likely caused by a reactivation of HSV-1, latent within the geniculate ganglion. The activation of the latent virus is more frequent in patients with a history of herpes labialis and can be prevented by an adequate acyclovir therapy.
+    

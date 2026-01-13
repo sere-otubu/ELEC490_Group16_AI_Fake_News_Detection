@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26601554)
+    QUESTION: Do viral infections have a role in benign paroxysmal positional vertigo?
+    CONTEXT: To investigate the role of viral infection in benign paroxysmal positional vertigo (BPPV).
+    ANSWER: BPPV is associated with positive viral serology, particularly during certain months of the year, mainly in spring and autumn. Viral infection might promote BPPV attacks due to the development of vestibulopathy or induce secondary BPPV via viral infection-related neurolabyrinthitis.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26222664)
+    QUESTION: The Deformity Angular Ratio: Does It Correlate With High-Risk Cases for Potential Spinal Cord Monitoring Alerts in Pediatric 3-Column Thoracic Spinal Deformity Corrective Surgery?
+    CONTEXT: A retrospective analysis.
+    ANSWER: In patients undergoing 3-column osteotomies for severe spinal deformities, the DAR was predictive of patients developing intraoperative motor evoked potential alerts. Identifying accurate radiographical, patient, and procedural risk factors in the correction of severe deformities can help prepare the surgical team to improve safety and outcomes when carrying out complex spinal corrections.
+    

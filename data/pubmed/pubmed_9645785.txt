@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 9645785)
+    QUESTION: Is a mandatory general surgery rotation necessary in the surgical clerkship?
+    CONTEXT: Changes in the spectrum of general surgery and the delivery of surgical care have placed the requirement for a mandatory general surgery rotation in the surgical clerkship in question.
+    ANSWER: Effective undergraduate surgical education can be offered in many specialty settings. Removal of the requirement for general surgery in clerkship may lead to a more effective use of all educational opportunities. A careful analysis of local programs and facilities is necessary before suggesting this change to other institutions.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 27592038)
+    QUESTION: Does multi-modal cervical physical therapy improve tinnitus in patients with cervicogenic somatic tinnitus?
+    CONTEXT: Tinnitus can be related to many different aetiologies such as hearing loss or a noise trauma, but it can also be related to the somatosensory system of the cervical spine, called cervicogenic somatic tinnitus (CST). Case studies suggest a positive effect of cervical spine treatment on tinnitus complaints in patients with CST, but no experimental studies are available.
+    ANSWER: Cervical physical therapy can have a positive effect on subjective tinnitus complaints in patients with a combination of tinnitus and neck complaints. Larger studies, using more responsive outcome measures, are however necessary to prove this effect.
+    

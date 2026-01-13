@@ -1,0 +1,3 @@
+Title: Digital Health Communication and Vaccine Confidence in Mexico Using Aggregated Randomized Brand Lift Studies: Secondary Analysis.
+
+Abstract: Digital vaccination campaigns are increasingly used to address declining vaccine confidence, yet evidence from large-scale, real-world interventions in middle-income countries is limited. Meta's Brand Lift Studies (BLS), which use randomized test-control exposure, provide Bayesian estimates of attitudinal shifts resulting from digital content. Mexico, with over 88.6 million active internet users, provides a setting to evaluate the impact of targeted campaigns on vaccine attitudes.

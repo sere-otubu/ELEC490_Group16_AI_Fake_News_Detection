@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18534072)
+    QUESTION: Do general practice characteristics influence uptake of an information technology (IT) innovation in primary care?
+    CONTEXT: Recent evaluations of IT innovations in primary care have highlighted variations between centres and practices in uptake and use. We evaluated whether structural characteristics of a general practice were associated with variations in use of a web-based clinical information system underpinning a Managed Clinical Network in diabetes, between the years 2001 and 2003.
+    ANSWER: The analyses show that structural characteristics of a practice are not associated with uptake of a new IT facility, but that its use may be influenced by post-graduate education in the relevant clinical condition. For this diabetes system at least, practice nurse use was critical in spreading uptake beyond initial GP enthusiasts and for sustained and rising use in subsequent years.
+    

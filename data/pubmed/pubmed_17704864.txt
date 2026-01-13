@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17704864)
+    QUESTION: Is laparoscopic adrenalectomy safe and effective for adrenal masses larger than 7 cm?
+    CONTEXT: Laparoscopic adrenalectomy (LA) has become the gold standard treatment for small (less than 6 cm) adrenal masses. However, the role of LA for large-volume (more than 6 cm) masses has not been well defined. Our aim was to evaluate, retrospectively, the outcome of LA for adrenal lesions larger than 7 cm.
+    ANSWER: LA for adrenal masses larger than 7 cm is a safe and feasible technique, offering successful outcome in terms of intraoperative and postoperative morbidity, hospital stay and cosmesis for patients; it seems to replicate open surgical oncological principles demonstrating similar outcomes as survival rate and recurrence rate, when adrenal cortical carcinoma were treated. The main contraindication for this approach is the evidence, radiologically and intraoperatively, of local infiltration of periadrenal tissue.
+    

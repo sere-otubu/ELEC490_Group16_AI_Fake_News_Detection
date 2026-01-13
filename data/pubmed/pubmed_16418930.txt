@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 16418930)
+    QUESTION: Landolt C and snellen e acuity: differences in strabismus amblyopia?
+    CONTEXT: Assessment of visual acuity depends on the optotypes used for measurement. The ability to recognize different optotypes differs even if their critical details appear under the same visual angle. Since optotypes are evaluated on individuals with good visual acuity and without eye disorders, differences in the lower visual acuity range cannot be excluded. In this study, visual acuity measured with the Snellen E was compared to the Landolt C acuity.
+    ANSWER: Using the charts described, there was only a slight overestimation of visual acuity by the Snellen E compared to the Landolt C, even in strabismus amblyopia. Small differences in the lower visual acuity range have to be considered.
+    

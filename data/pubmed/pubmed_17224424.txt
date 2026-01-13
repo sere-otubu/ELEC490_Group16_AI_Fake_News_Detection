@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17224424)
+    QUESTION: Effects of exercise training on heart rate and QT interval in healthy young individuals: are there gender differences?
+    CONTEXT: The aim of the present study was to assess the effects of exercise training on heart rate, QT interval, and on the relation between ventricular repolarization and heart rate in men and women.
+    ANSWER: The results of this study suggest that the cardiovascular response to exercise training may be different in men and women. Women may benefit more from interventions aimed to increase physical activity as a tool for prevention of cardiovascular morbidity and mortality.
+    

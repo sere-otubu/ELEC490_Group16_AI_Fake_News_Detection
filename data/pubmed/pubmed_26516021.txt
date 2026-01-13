@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26516021)
+    QUESTION: Does evidence-based practice improve patient outcomes?
+    CONTEXT: Evidence-based practice (EBP) is widely promoted, but does EBP produce better patient outcomes? We report a natural experiment when part of the internal medicine service in a hospital was reorganized in 2003 to form an EBP unit, the rest of the service remaining unchanged. The units attended similar patients until 2012 permitting comparisons of outcomes and activity.
+    ANSWER: The EBP unit was associated with better patient outcomes and more efficient performance than achieved by the same physicians previously or by SP concurrently.
+    

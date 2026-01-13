@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25499207)
+    QUESTION: Is neck pain associated with worse health-related quality of life 6 months later?
+    CONTEXT: Current evidence suggests that neck pain is negatively associated with health-related quality of life (HRQoL). However, these studies are cross-sectional and do not inform the association between neck pain and future HRQoL.
+    ANSWER: We found that neck pain was negatively associated with physical but not mental HRQoL. Our analysis suggests that neck pain may be a contributor of future poor physical HRQoL in the population. Raising awareness of the possible future impact of neck pain on physical HRQoL is important for health-care providers and policy makers with respect to the management of neck pain in populations.
+    

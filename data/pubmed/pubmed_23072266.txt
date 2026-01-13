@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23072266)
+    QUESTION: Has the use of complementary and alternative medicine therapies by U.S. adults with chronic disease-related functional limitations changed from 2002 to 2007?
+    CONTEXT: This study examined changes in the use of complementary and alternative medicine (CAM) therapies by U.S. adults aged 18 years or older with chronic disease-related functional limitations between 2002 and 2007.
+    ANSWER: Among U.S. adults with chronic disease-related functional limitations, the overall increase in CAM use from 2002 to 2007 was significant, particularly among those with changing and maintaining body position limitations.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26867834)
+    QUESTION: Is Alveolar Macrophage Phagocytic Dysfunction in Children With Protracted Bacterial Bronchitis a Forerunner to Bronchiectasis?
+    CONTEXT: Children with recurrent protracted bacterial bronchitis (PBB) and bronchiectasis share common features, and PBB is likely a forerunner to bronchiectasis. Both diseases are associated with neutrophilic inflammation and frequent isolation of potentially pathogenic microorganisms, including nontypeable Haemophilus influenzae (NTHi), from the lower airway. Defective alveolar macrophage phagocytosis of apoptotic bronchial epithelial cells (efferocytosis), as found in other chronic lung diseases, may also contribute to tissue damage and neutrophil persistence. Thus, in children with bronchiectasis or PBB and in control subjects, we quantified the phagocytosis of airway apoptotic cells and NTHi by alveolar macrophages and related the phagocytic capacity to clinical and airway inflammation.
+    ANSWER: A reduced alveolar macrophage phagocytic host response to apoptotic cells or NTHi may contribute to neutrophilic inflammation and NTHi colonization in both PBB and bronchiectasis. Whether this mechanism also contributes to the progression of PBB to bronchiectasis remains unknown.
+    

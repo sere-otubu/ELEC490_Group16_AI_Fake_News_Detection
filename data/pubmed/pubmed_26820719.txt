@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26820719)
+    QUESTION: Colorectal cancer in young patients: is it a distinct clinical entity?
+    CONTEXT: The incidence of colorectal cancer in young patients is increasing. It remains unclear if the disease has unique features in this age group.
+    ANSWER: Colorectal cancer among young patients may constitute a distinct clinical entity. Further research is needed to validate our findings and define the optimal approach in this population.
+    

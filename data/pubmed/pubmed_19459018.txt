@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19459018)
+    QUESTION: Very high serum CA 19-9 levels: a contraindication to pancreaticoduodenectomy?
+    CONTEXT: From 2000 to 2007, 344 patients underwent pancreatoduodenectomy for PA. Fifty-three patients (elevated group) had preoperatively elevated serum CA 19-9 levels (>400 IU/ml) after resolution of obstructive jaundice. Of these, 27 patients had high levels (400-899 IU/ml (HL)) and 26 patients had very high levels>or=900 IU/ml (VHL). Fifty patients with normal preoperative serum CA 19-9 levels (<37 IU/ml) comprised the control group.
+    ANSWER: Patients who normalized their CA19-9 levels postoperatively had equivalent survival to patients with normal preoperative CA 19-9 levels. Preoperative serum CA 19-9 level by itself should not preclude surgery in patients who have undergone careful preoperative staging.
+    

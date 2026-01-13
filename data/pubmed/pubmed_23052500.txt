@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23052500)
+    QUESTION: Staging laparoscopy in patients with hepatocellular carcinoma: is it useful?
+    CONTEXT: Staging laparoscopy (SL) is not regularly performed for patients with hepatocellular carcinoma (HCC). It may change treatment strategy, preventing unnecessary open exploration. An additional advantage of SL is possible biopsy of the nontumorous liver to assess fibrosis/cirrhosis. This study aimed to determine whether SL for patients with HCC still is useful.
+    ANSWER: The overall yield of SL for HCC was 7 %, and the accuracy was 27 %. When accurate imaging methods are available and additional percutaneous liver biopsy is implemented as a standard procedure in the preoperative workup of patients with HCC, the benefit of SL will become even less.
+    

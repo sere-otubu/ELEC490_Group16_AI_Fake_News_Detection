@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17274051)
+    QUESTION: Metastatic carcinoma to the cervical nodes from an unknown head and neck primary site: Is there a need for neck dissection?
+    CONTEXT: The aim of the study was to evaluate the outcomes and patterns of failure in patients with metastatic carcinoma to cervical lymph nodes from an unknown head and neck primary origin, who were treated curatively with radiotherapy, with or without neck dissection.
+    ANSWER: In our experience, definitive radiotherapy to the neck and the potential mucosal sites, whether preceded by neck dissection or not, is effective to achieve a good local control rate in the unknown primary cancer of the head and neck. The indication for neck dissection, in particular for early nodal stage, is controversial.
+    

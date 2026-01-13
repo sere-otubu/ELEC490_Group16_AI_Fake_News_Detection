@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 16713745)
+    QUESTION: Do cytokine concentrations in pancreatic juice predict the presence of pancreatic diseases?
+    CONTEXT: Cytokine concentration in pancreatic juice of patients with pancreatic disease is unknown. Secretin stimulation allows endoscopic collection of pancreatic juice secreted into the duodenum. We aimed to evaluate the cytokine concentrations in pancreatic juice of patients with abdominal pain to discriminate presence from absence of pancreatic disease.
+    ANSWER: Cytokine levels can be measured in pancreatic juice obtained from the duodenum without direct cannulation of the pancreatic duct. Interleukin-8 concentration in pancreatic juice can be used to discriminate between normal pancreas and patients with pancreatic disease. This is a relatively simple and noninvasive method to aid in the diagnosis of pancreatic diseases.
+    

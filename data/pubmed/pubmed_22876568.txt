@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 22876568)
+    QUESTION: Is vitamin D deficiency a feature of pediatric celiac disease?
+    CONTEXT: Celiac disease (CD) is an autoimmune enteropathy characterized by villus atrophy and malabsorption of essential nutrients. Vitamin D deficiency has been described in autoimmune diseases, but its status in prepubertal children with CD has not been adequately studied.
+    ANSWER: Our data showed no difference in 25(OH) D levels between normal children and those with CD when adjusted for body mass index.
+    

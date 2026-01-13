@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 27338535)
+    QUESTION: Do risk calculators accurately predict surgical site occurrences?
+    CONTEXT: Current risk assessment models for surgical site occurrence (SSO) and surgical site infection (SSI) after open ventral hernia repair (VHR) have limited external validation. Our aim was to determine (1) whether existing models stratify patients into groups by risk and (2) which model best predicts the rate of SSO and SSI.
+    ANSWER: All five existing predictive models have limited ability to risk-stratify patients and accurately assess risk of SSO. However, both the VHRS and ACS-NSQIP demonstrate modest success in identifying patients at risk for SSI. Continued model refinement is needed to improve the two highest performing models (VHRS and ACS-NSQIP) along with investigation to determine whether modifications to perioperative management based on risk stratification can improve outcomes.
+    

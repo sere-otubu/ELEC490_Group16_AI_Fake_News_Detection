@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 15223725)
+    QUESTION: Does blood pressure change in treated hypertensive patients depending on whether it is measured by a physician or a nurse?
+    CONTEXT: To determine whether there are differences between blood pressure (BP) measured by the nurse (NBP), BP measured by the physician (PBP) and self-measured BP in treated hypertensive patients and, if found, to evaluate their clinical importance.
+    ANSWER: Systolic BP measured by the nurse in treated hypertensive patients is significantly lower than the readings obtained by the physician, and are almost identical to ambulatory BP monitoring. Blood pressure determination by the nurse is desirable not only for diagnosis but also to evaluate the level of control of blood pressure during the follow-up of treated hypertensive patients.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18570208)
+    QUESTION: Is severe macrosomia manifested at 11-14 weeks of gestation?
+    CONTEXT: To determine the association between fetal biometry in the first or early second trimester and severe macrosomia at delivery.
+    ANSWER: Severe macrosomia apparently manifests as early as 11-14 weeks' gestation.
+    

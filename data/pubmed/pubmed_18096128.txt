@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18096128)
+    QUESTION: Cervical spine fractures in geriatric blunt trauma patients with low-energy mechanism: are clinical predictors adequate?
+    CONTEXT: Studies have identified clinical predictors to guide radiologic evaluation of the cervical spine in geriatric patients. We hypothesized that clinical predictors are not adequate in the identification of cervical spine fractures in geriatric blunt trauma patients with low-energy mechanism.
+    ANSWER: Clinical predictors appear inadequate for the evaluation of the cervical spine in geriatric trauma patients with low-energy mechanism.
+    

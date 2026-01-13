@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 12690589)
+    QUESTION: Can continuous physical training counteract aging effect on myoelectric fatigue?
+    CONTEXT: To compare the myoelectric onset of muscle fatigue in physically active trained young skiers with respect to elderly skiers and to test whether continuous training can counteract the selective loss of type II muscle fibers usually observed with aging.
+    ANSWER: It appears possible that aging skeletal muscles subjected to continuous exercise develop an adaptive response that counteracts the selective loss of type II muscle fibers usually observed in the muscles of elderly sedentary subjects. Our results suggest that physical activity could be considered in the elderly within a broad rehabilitative framework in which appropriate and even tailored physical training could be planned to counteract the physiologic effects of aging on muscle fiber distribution.
+    

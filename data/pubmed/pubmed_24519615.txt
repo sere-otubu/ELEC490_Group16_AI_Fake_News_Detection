@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24519615)
+    QUESTION: Does patella position influence ligament balancing in total knee arthroplasty?
+    CONTEXT: In vivo comparative gap measurements were performed in three different patella positions (reduced, subluxated and everted) using offset-type-force-controlled-spreader-system.
+    ANSWER: The gaps in patella eversion demonstrated smaller gaps both in knee extension and flexion position compared to the gaps of patella reduction position. The amount of decreased gaps was more definite in knee flexion position. Therefore, the intraoperative patellar positioning has influence on the measurement of the joint gap. Keeping the patella in reduced position is important during gap balancing.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21074975)
+    QUESTION: Ultra high risk (UHR) for psychosis criteria: are there different levels of risk for transition to psychosis?
+    CONTEXT: The ultra high risk (UHR) for psychosis criteria have been validated in a number of studies. However, it is not known whether particular UHR criteria (Attenuated Psychotic Symptoms (APS), Brief Limited Intermittent Psychotic Symptoms (BLIPS) or Trait vulnerability criteria), or combination of criteria, is associated with a higher risk of transition to psychosis. The current study investigated this issue over a 6-month follow-up period. We hypothesised that the risk of transition would increase in the following order: Trait alone<APS alone<APS+Trait<BLIPS.
+    ANSWER: Our data suggest that UHR intake criteria predict transition over 6 months in the order of Trait alone<APS<BLIPS. The fact that BLIPS patients are at the highest risk of transition over the short term is consistent with the "early" versus "late" prodrome model. It also indicates that particular clinical attention may need to be paid to BLIPS patients, especially early in the course of treatment.
+    

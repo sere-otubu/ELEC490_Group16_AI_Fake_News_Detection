@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17062225)
+    QUESTION: Thoracic and thoracoabdominal aneurysm repair: is reimplantation of spinal cord arteries a waste of time?
+    CONTEXT: The impact of different strategies for management of intercostal and lumbar arteries during repair of thoracic and thoracoabdominal aortic aneurysms (TAA/A) on the prevention of paraplegia remains poorly understood.
+    ANSWER: With monitoring of MEP and SSEP, sacrifice--without reimplantation--of as many as 15 intercostal and lumbar arteries during TAA/A repair is safe, resulting in acceptably low rates of immediate and delayed paraplegia. This experience suggests that routine surgical implantation of segmental vessels is not indicated, and that, with evolving understanding of spinal cord perfusion, endovascular repair of the entire thoracic aorta should ultimately be possible without spinal cord injury.
+    

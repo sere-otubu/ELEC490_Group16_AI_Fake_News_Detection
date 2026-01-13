@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21952349)
+    QUESTION: Remote ischemic postconditioning: does it protect against ischemic damage in percutaneous coronary revascularization?
+    CONTEXT: Myocardial damage that is associated with percutaneous coronary intervention (PCI) partially affects the results of the procedure, and is related to medium-term cardiovascular death. Remote postischemic conditioning might reduce the myocardial lesions that are associated with PCI, but perhaps less so in diabetics. The aim of this study was to evaluate the protective effect of remote postischemic conditioning in patients undergoing elective PCI for stable angina or non-ST elevation acute coronary syndrome with troponin<1 ng/ml at the time of randomization.
+    ANSWER: This clinical trial evaluated the possible reduction in intervention-related myocardial damage that was attributable to remote postischemic conditioning.
+    

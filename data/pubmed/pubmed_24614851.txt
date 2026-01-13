@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24614851)
+    QUESTION: Prognostic factors for cervical spondylotic amyotrophy: are signs of spinal cord involvement associated with the neurological prognosis?
+    CONTEXT: The purpose of this study was to clarify the prognostic factors for cervical spondylotic amyotrophy (CSA).
+    ANSWER: The presence of a high signal intensity change on T2-weighted MRI and the pyramidal tract sign can be used as prognostic factors for patients with CSA.
+    

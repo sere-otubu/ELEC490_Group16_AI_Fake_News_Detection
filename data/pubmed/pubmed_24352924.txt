@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24352924)
+    QUESTION: Is portable ultrasonography accurate in the evaluation of Schanz pin placement during extremity fracture fixation in austere environments?
+    CONTEXT: The purpose of this study was to investigate the efficacy of ultrasonography to confirm Schanz pin placement in a cadaveric model, and the interobserver repeatability of the ultrasound methodology.
+    ANSWER: Despite the statistical imparity of pin protrusion measurement via ultrasound compared to that of gross dissection, a consideration of the clinical relevance of ultrasound measurement bias during an austere operating theatre leads to the conclusion that ultrasonography is an adequate methodology for Schanz pin protrusion measurement.
+    

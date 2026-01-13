@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24449622)
+    QUESTION: Is there a relationship between serum paraoxonase level and epicardial fat tissue thickness?
+    CONTEXT: This study aimed to show the relationship between serum paraoxonase 1 level and the epicardial fat tissue thickness.
+    ANSWER: Serum PON 1 level is not correlated with the epicardial fat tissue thickness. But PON 1 level is lower in patients with epicardial fat tissue thickness 7 mm and over. Therefore, increased atherosclerosis progression can be found among patients with 7 mm and higher epicardial fat tissue thickness.
+    

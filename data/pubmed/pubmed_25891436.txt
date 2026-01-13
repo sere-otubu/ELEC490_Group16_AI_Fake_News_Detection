@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25891436)
+    QUESTION: Is serum total bilirubin useful to differentiate cardioembolic stroke from other stroke subtypes?
+    CONTEXT: Previous studies have reported that the total bilirubin (TB) level is associated with coronary artery disease, heart failure and atrial fibrillation. These heart diseases can produce cardiogenic cerebral embolism and cause cardioembolic stroke. However, whether the serum TB could be a biomarker to differentiate cardioembolic stroke from other stroke subtypes is unclear.
+    ANSWER: Serum TB level was independently associated with cardioembolic stroke. The combination of clinical data and serum TB may be a feasible strategy to diagnose cardioembolic stroke in the acute phase.
+    

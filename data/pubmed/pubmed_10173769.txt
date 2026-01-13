@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 10173769)
+    QUESTION: Longer term quality of life and outcome in stroke patients: is the Barthel index alone an adequate measure of outcome?
+    CONTEXT: To consider whether the Barthel Index alone provides sufficient information about the long term outcome of stroke.
+    ANSWER: The place of the Barthel index as the standard outcome measure for populations of stroke patients is still justified for long term follow up, and may be a proxy for different outcome measures intended for the assessment of other domains.
+    

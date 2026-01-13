@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 22075911)
+    QUESTION: Is there a differential in the dental health of new recruits to the British Armed Forces?
+    CONTEXT: Figures from the British Defence Dental Services reveal that serving personnel in the British Army have a persistently lower level of dental fitness than those in the Royal Navy or the Royal Air Force. No research had been undertaken to ascertain if this reflects the oral health of recruits joining each Service. This study aimed to pilot a process for collecting dental and sociodemographic data from new recruits to each Service and examine the null hypothesis that no differences in dental health existed.
+    ANSWER: A significant difference in dental health between recruits to each Service does exist and is a likely to be a reflection of the sociodemographic background from which they are drawn.
+    

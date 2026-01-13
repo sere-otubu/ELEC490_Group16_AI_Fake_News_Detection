@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 9003088)
+    QUESTION: Immunohistochemical assessment of steroid hormone receptors in tissues of the anal canal. Implications for anal incontinence?
+    CONTEXT: A prerequisite for a hormonal influence on anal continence in women is the presence of hormone receptors in the tissues of the anal canal. Using immunohistochemical techniques, we demonstrated and localized estrogen and progesterone receptors (ER, PR) in tissue sections of the anal canal.
+    ANSWER: Expression of ER is a constitutional feature of the connective tissue and smooth muscle cells of the anal continence organ. Estrogen receptors and PR are not detectable in the striated muscle fibers of the external anal sphincter in either sex. The presence of ER in the stroma and smooth muscles of the anal canal suggests that these tissues are targets for estrogen. This constitutes a theoretical basis for the beneficial effects of estrogen and progestin replacement on anal continence in postmenopausal women.
+    

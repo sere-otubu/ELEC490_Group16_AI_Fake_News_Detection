@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17489316)
+    QUESTION: Is tumour expression of VEGF associated with venous invasion and survival in pT3 renal cell carcinoma?
+    CONTEXT: To determine whether there is a relationship between VEGF expression and renal vein and vena cava invasion in stage pT3 renal cell carcinoma and to evaluate the impact of VEGF expression on survival in pT3 renal cell carcinoma.
+    ANSWER: Progression of a pT3 tumour into the renal vein and vena cava is not associated with increased tumour expression of VEGF. However, VEGF is an independent prognostic factor in this group of poor prognosis renal tumours.
+    

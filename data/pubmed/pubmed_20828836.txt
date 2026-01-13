@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 20828836)
+    QUESTION: Is discordance in TEOAE and AABR outcomes predictable in newborns?
+    CONTEXT: To determine the perinatal predictors of discordant screening outcomes based on a two-stage screening protocol with transient-evoked otoacoustic emissions (TEOAE) and automated auditory brainstem response (AABR).
+    ANSWER: Given the available screening technologies, discordant TEOAE and AABR may be inevitable for some categories of hearing loss among apparently healthy newborns whose mothers received prenatal care. The potential limitations of perinatal morbidities as basis of targeted screening for such cases therefore merit further consideration.
+    

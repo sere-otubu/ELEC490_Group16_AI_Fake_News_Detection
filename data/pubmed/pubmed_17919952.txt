@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17919952)
+    QUESTION: Are reports of mechanical dysfunction in chronic oro-facial pain related to somatisation?
+    CONTEXT: (i) To examine the association between self-reported mechanical factors and chronic oro-facial pain. (ii) To test the hypothesis that this relationship could be explained by: (a) reporting of psychological factors, (b) common association of self-reported mechanical factors with other unexplained syndromes.
+    ANSWER: Self-reported mechanical factors associated with chronic oro-facial pain are confounded, in part, by psychological factors and are equally common across other frequently unexplained syndromes. They may represent another feature of somatisation. Therefore the use of extensive invasive therapy such as occlusal adjustments and surgery to change mechanical factors may not be justified in many cases.
+    

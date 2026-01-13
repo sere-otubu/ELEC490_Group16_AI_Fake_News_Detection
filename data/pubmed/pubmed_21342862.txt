@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21342862)
+    QUESTION: Is EQ-5D a valid quality of life instrument in patients with acute coronary syndrome?
+    CONTEXT: To evaluate the construct validity of the Turkish version of the EQ-5D in patients with acute coronary syndrome.
+    ANSWER: The Turkish version of the EQ-5D-based utility score seems to be a valid instrument in the assessment of quality of life studies in patients with acute coronary syndrome.
+    

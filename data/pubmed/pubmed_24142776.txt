@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 24142776)
+    QUESTION: Steroids in aminoglycoside-containing ear drops: do they reduce cochlear toxicity?
+    CONTEXT: To determine whether betamethasone (BM) reduces the cochlear toxicity of otic gentamicin (GM) if given together.
+    ANSWER: Our data suggest that hearing loss caused by GM otic drops may be reduced by the inclusion of BM and benzalkonium chloride. Our finding that BM alone was associated with hearing loss suggests that the benzalkonium chloride may be the protective agent in combination otic drops.
+    

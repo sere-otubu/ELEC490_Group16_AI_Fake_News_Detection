@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 16678696)
+    QUESTION: Continuity of care experience of residents in an academic vascular department: are trainees learning complete surgical care?
+    CONTEXT: It is widely accepted that exemplary surgical care involves a surgeon's involvement in the preoperative, perioperative, and postoperative periods. In an era of ever-expanding therapeutic modalities available to the vascular surgeon, it is important that trainees gain experience in preoperative decision-making and how this affects a patient's operative and postoperative course. The purpose of this study was to define the current experience of residents on a vascular surgery service regarding the continuity of care they are able to provide for patients and the factors affecting this experience.
+    ANSWER: The continuity-of-care experiences of vascular trainees are suboptimal. This is especially true for postoperative clinic assessment. Same-day admission surgery accounted for most of the cases and was associated with the poorest continuity of care. To provide complete surgical training in an era of changing therapeutic modalities and same-day admission surgery, vascular programs must be creative in structuring training to include adequate ambulatory experience.
+    

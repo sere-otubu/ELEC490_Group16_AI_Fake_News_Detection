@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 22227642)
+    QUESTION: Can we measure mesopic pupil size with the cobalt blue light slit-lamp biomicroscopy method?
+    CONTEXT: The aim of this work is to assess a previously described slit-lamp biomicroscopy-based method (SLBM) for measuring pupil diameter and compare it to Colvard infrared pupillometry (CIP).
+    ANSWER: Although the SLBM is quite repeatable, it underestimates mesopic pupil size and shows a too wide range of agreement with CIP. SLBM shows low sensitivity in detecting pupils larger than 6 mm, which may be misleading when planning anterior segment surgery. Previous grading-consensus training strategies may increase interrater reproducibility, and compensation for the systematic underestimation could improve accuracy of the SLBM.
+    

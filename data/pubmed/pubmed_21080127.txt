@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21080127)
+    QUESTION: Can implant retention be recommended for treatment of infected TKA?
+    CONTEXT: Retention treatment is reportedly associated with lower infection control rates than two-stage revision. However, the studies on which this presumption are based depend on comparisons of historical rather than concurrent controls.QUESTIONS/
+    ANSWER: Although initial infection control rate was substantially lower in the retention group than the removal group, final results were comparable at latest followup. We believe retention treatment can be selectively considered for non-S. aureus infection, and when applied in selected patients, polyethylene exchange should be performed.
+    

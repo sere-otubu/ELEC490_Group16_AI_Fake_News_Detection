@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 15708048)
+    QUESTION: Does prior benign prostate biopsy predict outcome for patients treated with radical perineal prostatectomy?
+    CONTEXT: To determine the effect of prior benign prostate biopsies on the surgical and clinical outcomes of patients treated with radical perineal prostatectomy for prostate cancer.
+    ANSWER: A prior benign prostate biopsy may be independently associated with more favorable surgical and biochemical outcomes after prostatectomy. Additional studies are needed to confirm these findings.
+    

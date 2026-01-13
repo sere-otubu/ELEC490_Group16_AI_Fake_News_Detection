@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 23234860)
+    QUESTION: Delays in time to primary treatment after a diagnosis of breast cancer: does it impact survival?
+    CONTEXT: Treatment delays in breast cancer are generally thought to affect prognosis but the impact on survival remains unclear. Indicators for breast cancer care include time to primary treatment. The purpose of this study was to evaluate whether time to primary treatment (TPT) in breast cancer impacts survival.
+    ANSWER: Time to primary treatment after a diagnosis of breast cancer had no impact on overall survival. Further studies on care before diagnosis are important in drawing up meaningful quality indicators.
+    

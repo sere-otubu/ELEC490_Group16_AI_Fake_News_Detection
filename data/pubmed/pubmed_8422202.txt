@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 8422202)
+    QUESTION: Metered-dose inhalers. Do health care providers know what to teach?
+    CONTEXT: The specific aim of this investigation was to evaluate the proficiency of health care providers and patients in the proper use of metered-dose inhalers.
+    ANSWER: This study confirms that a large percentage of patients use metered-dose inhalers improperly. It also demonstrates a significant lack of understanding by health care providers of the proper use of metered-dose inhalers. Furthermore, this study supports the use of respiratory care practitioners in the outpatient setting, since they were the most proficient among all the health care providers in the proper use of metered-dose inhalers.
+    

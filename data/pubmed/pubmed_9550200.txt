@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 9550200)
+    QUESTION: Does lunar position influence the time of delivery?
+    CONTEXT: To study the relationship between lunar position and the day of delivery; to investigate the synodic distribution of spontaneous deliveries, especially in relation to the presence of a full moon.
+    ANSWER: In this paper the effect of lunar phases on the time of delivery is shown. This influence seems to be especially relevant in the case of multiparae and plurigravidae. Nevertheless, it is too weak to allow for prediction regarding the days with the highest frequency of deliveries.
+    

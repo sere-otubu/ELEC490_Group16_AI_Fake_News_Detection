@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19836806)
+    QUESTION: Should prostate specific antigen be adjusted for body mass index?
+    CONTEXT: Obesity may be associated with lower prostate specific antigen through hemodilution. We examined the relationship between body mass index and prostate specific antigen by age in men without prostate cancer in a longitudinal aging study to determine whether prostate specific antigen must be adjusted for body mass index.
+    ANSWER: Consistent with prior studies, we found an inverse relationship between obesity and serum prostate specific antigen. However, the magnitude of the difference was small. Thus, adjusting prostate specific antigen for body mass index does not appear warranted.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 7482275)
+    QUESTION: Necrotizing fasciitis: an indication for hyperbaric oxygenation therapy?
+    CONTEXT: The accepted treatment protocol for necrotizing fasciitis (NF) consists of extensive surgery and wide spectrum antibiotics. Hyperbaric oxygenation (HBO) has been recommended as adjuvant therapy for NF, improving patient mortality and outcome. However, the beneficial effect of HBO for NF remains controversial.
+    ANSWER: The results of this study cast doubt on the suggested advantage of HBO in reducing patient mortality and morbidity when used as adjuvant therapy for NF.
+    

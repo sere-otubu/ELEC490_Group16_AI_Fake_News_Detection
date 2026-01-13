@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 10375486)
+    QUESTION: Are variations in the use of carotid endarterectomy explained by population Need?
+    CONTEXT: to describe variation in utilisation of carotid endarterectomy (CEA) within two English health regions and explore relationships between use, need and proximity to services.
+    ANSWER: use of CEA varies widely, depending on area of residence. Variation is not a consequence of differences in need, but reflects clinical practice and supply of services. There is evidence to suggest unmet need for CEA.
+    

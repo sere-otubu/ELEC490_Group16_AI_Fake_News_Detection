@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19504993)
+    QUESTION: It's Fournier's gangrene still dangerous?
+    CONTEXT: Fournier's gangrene is known to have an impact in the morbidity and despite antibiotics and aggressive debridement, the mortality rate remains high.
+    ANSWER: The interval from the onset of clinical symptoms to the initial surgical intervention seems to be the most important prognostic factor with a significant impact on outcome. Despite extensive therapeutic efforts, Fournier's gangrene remains a surgical emergency and early recognition with prompt radical debridement is the mainstays of management.
+    

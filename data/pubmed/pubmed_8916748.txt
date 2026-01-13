@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 8916748)
+    QUESTION: Do socioeconomic differences in mortality persist after retirement?
+    CONTEXT: To assess the risk of death associated with work based and non-work based measures of socioeconomic status before and after retirement age.
+    ANSWER: Socioeconomic differences in mortality persist beyond retirement age and in magnitude increase with age. Social differentials in mortality based on an occupational status measure seem to decrease to a greater degree after retirement than those based on a non-work measure. This suggests that alongside other socioeconomic factors work itself may play an important part in generating social inequalities in health in men of working age.
+    

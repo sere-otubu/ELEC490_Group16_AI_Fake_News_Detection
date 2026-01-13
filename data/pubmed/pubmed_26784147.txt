@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26784147)
+    QUESTION: Target Serum Urate: Do Gout Patients Know Their Goal?
+    CONTEXT: To examine gout patients' knowledge of their condition, including the central role of achieving and maintaining the serum urate (SU) goal with the use of urate-lowering therapy (ULT).
+    ANSWER: There is a knowledge deficit regarding the SU treatment goal among gout patients receiving ULT, despite generally high levels of other gout-specific knowledge. SU goal information may be an important and underutilized concept among providers treating gout patients.
+    

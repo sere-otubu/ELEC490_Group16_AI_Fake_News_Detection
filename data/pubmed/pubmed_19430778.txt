@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19430778)
+    QUESTION: Can magnetic resonance imaging accurately predict concordant pain provocation during provocative disc injection?
+    CONTEXT: To correlate magnetic resonance (MR) image findings with pain response by provocation discography in patients with discogenic low back pain, with an emphasis on the combination analysis of a high intensity zone (HIZ) and disc contour abnormalities.
+    ANSWER: The proposed MR classification is useful to predict a disc with concordant pain. Disc protrusion with HIZ on MR imaging predicted positive discography in patients with discogenic low back pain.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18843057)
+    QUESTION: Can you deliver accurate tidal volume by manual resuscitator?
+    CONTEXT: One of the problems with manual resuscitators is the difficulty in achieving accurate volume delivery. The volume delivered to the patient varies by the physical characteristics of the person and method. This study was designed to compare tidal volumes delivered by the squeezing method, physical characteristics and education and practice levels.
+    ANSWER: The tidal volume delivered by a manual resuscitator shows large variations. There were significant differences in the volume delivered by compression methods, but physical characteristics are not a predictor of tidal volume delivery. The manual resuscitator is not a suitable device for accurate ventilation.
+    

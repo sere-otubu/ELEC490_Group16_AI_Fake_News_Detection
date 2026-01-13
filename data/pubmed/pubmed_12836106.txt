@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 12836106)
+    QUESTION: Does the leukocyte count correlate with the severity of injury?
+    CONTEXT: Injury severity score (ISS), Glasgow coma score (GCS), and revised trauma score (RTS) are the most frequently used methods to evaluate the severity of injury in blunt trauma patients. ISS is too complicated to assess easily and GCS and RTS are easy to assess but somewhat subjective. White blood cell count (WBC) is an easy, quick and objective test. This study was performed to evaluate the significance of the WBC count at presentation in the blunt trauma patients.
+    ANSWER: The leukocyte count at presentation can be used as an adjunct in the evaluation of the severity of injury in blunt trauma patients.
+    

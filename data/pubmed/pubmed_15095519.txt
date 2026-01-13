@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 15095519)
+    QUESTION: Are patients with diabetes receiving the same message from dietitians and nurses?
+    CONTEXT: The purpose of this study was to determine if registered dietitian (RD) and registered nurse (RN) certified diabetes educators (CDEs) provide similar recommendations regarding carbohydrates and dietary supplements to individuals with diabetes.
+    ANSWER: Although some differences existed, RD and RN CDEs are making similar overall recommendations in the treatment of individuals with diabetes.
+    

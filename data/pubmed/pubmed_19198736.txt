@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19198736)
+    QUESTION: Is being small for gestational age a risk factor for retinopathy of prematurity?
+    CONTEXT: To analyze prevalence and risk factors for retinopathy of prematurity (ROP) among preterm infants born small for gestational age (SGA) and appropriate for gestational age (AGA).
+    ANSWER: This study has shown that being SGA was not a significant risk factor for any stage ROP or for severe ROP in this cohort and, also, that the risk factors for ROP were similar among SGA and AGA very-low-birth-weight preterm babies.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 8921484)
+    QUESTION: Does gestational age misclassification explain the difference in birthweights for Australian aborigines and whites?
+    CONTEXT: After 34 weeks gestation, summary measures of location for birthweight (e.g means and centiles) increase more slowly for Australian Aborigines than for whites. A similar pattern has been observed for blacks in the US. This study tests whether the reported pattern is due to differential misclassification of gestational age.
+    ANSWER: Gestational age misclassification is an unlikely explanation for the reported divergence in average birth-weights for Aborigines and whites. The results might help with the interpretation of other between-population comparisons.
+    

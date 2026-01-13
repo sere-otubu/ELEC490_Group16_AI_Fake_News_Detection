@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26907557)
+    QUESTION: Can a Novel Surgical Approach to the Temporomandibular Joint Improve Access and Reduce Complications?
+    CONTEXT: This clinical study investigated whether the vascular-guided multilayer preauricular approach (VMPA) to the temporomandibular joint (TMJ) could improve access and decrease complications.
+    ANSWER: The VMPA can provide direct access and favorable visibility to the TMJ region and yield good esthetic and functional results. The VMPA can be considered the approach of choice for common TMJ surgeries.
+    

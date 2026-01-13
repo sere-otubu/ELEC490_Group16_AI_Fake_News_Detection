@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 16151770)
+    QUESTION: Memory-provoked rCBF-SPECT as a diagnostic tool in Alzheimer's disease?
+    CONTEXT: Alzheimer's disease (AD) is a primary degenerative disease that progressively affects all brain functions, with devastating consequences for the patient, the patient's family and society. Rest regional cerebral blood flow (rCBF) could have a strategic role in differentiating between AD patients and normal controls, but its use for this purpose has a low discriminatory capacity. The purpose of this study was to evaluate whether the diagnostic sensitivity of rCBF single-photon emission computed tomography (SPECT) could be increased by using an episodic memory task provocation, i.e. memory-provoked rCBF-SPECT (MP-SPECT).
+    ANSWER: Memory provocation increased the sensitivity of rCBF-SPECT for the detection of AD-related blood flow changes in the brain at the group level. Further studies are needed to evaluate MP-SPECT as a diagnostic tool at the individual level. If a higher sensitivity for AD at the individual level is verified in future studies, a single MP-SPECT study might be sufficient in the clinical setting.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 16100194)
+    QUESTION: Are physicians aware of the side effects of angiotensin-converting enzyme inhibitors?
+    CONTEXT: Angiotensin-converting enzyme inhibitors (ACE-I) are considered safe, but they are associated with characteristic side effects, namely cough and angioedema, usually requiring discontinuation. We perceived that referrals for these side effects have become more and more frequent; therefore, we evaluated the degree of knowledge on the safety of ACE-I in different medical categories.
+    ANSWER: Overall, there was a poor knowledge of the side effects of ACE-I. This may account for the increased referrals for chronic cough and angioedema.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 11566686)
+    QUESTION: In vivo visualization of pyloric mucosal hypertrophy in infants with hypertrophic pyloric stenosis: is there an etiologic role?
+    CONTEXT: Infantile hypertrophic pyloric stenosis (IHPS) is a common condition which presents in infants at 2-12 weeks of postnatal life, and whose cause remains obscure. Multiple associated abnormalities have been recognized within the external hypertrophied pyloric muscle layer, but the internal component of the pyloric mucosa has received scant attention in the literature to date. Our purpose in this study was to show that pyloric mucosal redundancy is a constant finding in infants with IHPS, to discuss its possible cause, and to explore the hypothesis of a relationship between pyloric mucosal redundancy and the development of IHPS.
+    ANSWER: Mucosal redundancy is a constant associated finding in IHPS. Although the origin of the redundancy and a cause-and-effect relationship are difficult to establish, our findings support the hypothesis that hypergastrinemia may be implicated in the pathogenesis of IHPS, and suggest that mucosal thickening could be implicated as one of the initiating factors in its development.
+    

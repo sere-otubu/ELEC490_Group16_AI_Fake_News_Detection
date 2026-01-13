@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25793749)
+    QUESTION: Do Web-based and clinic samples of gay men living with HIV differ on self-reported physical and psychological symptoms?
+    CONTEXT: Although the Internet is commonly used to recruit samples in studies of human immunodeficiency virus (HIV)-related risk behaviors, it has not been used to measure patient-reported well-being. As the burden of long-term chronic HIV infection rises, the Internet may offer enormous potential for recruitment to research and interventions.
+    ANSWER: Our data have revealed a number of differences. Compared to the clinic sample, the Web-based sample had worse psychological symptom burden, younger average age, higher prevalence of employment, and a lower proportion on ART. For future research, we recommend that Web-based data collection should include the demographic variables that we note differed between samples. In addition, we recognize that each recruitment method may bring inherent sampling bias, with clinic populations differing by geographical location and reflecting those accessing regular medical care, and Web-based sampling recruiting those with greater Internet access and identifying survey materials through specific searches and contact with specific websites.
+    

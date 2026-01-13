@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 22302761)
+    QUESTION: Can fractional lasers enhance transdermal absorption of topical lidocaine in an in vivo animal model?
+    CONTEXT: It has been shown in vitro that pretreatment of skin with fractional lasers enhances transdermal delivery of drugs. The aim of this study is to demonstrate in vivo firstly that laser enhances transdermal drug absorption and secondly that this can be manipulated by altering laser settings.STUDY DESIGN/
+    ANSWER: This study demonstrates that laser pretreatment significantly increases absorption of topical lidocaine so that it is detectable in the blood and that manipulating laser settings can affect drug absorption. Future work will look at translating this effect into clinical benefit.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25859857)
+    QUESTION: Could the extent of lymphadenectomy be modified by neoadjuvant chemotherapy in cervical cancer?
+    CONTEXT: The effect of neoadjuvant chemotherapy (NACT) on topographical distribution patterns of lymph node metastasis in cervical cancer was unknown.
+    ANSWER: The frequency and topographic distribution of LNM are not modified by NACT, and clinical non-responders showed more involved LNs. A systemic and extensive lymphadenectomy should be performed in patients treated with NACT plus surgery regardless of the response to NACT.
+    

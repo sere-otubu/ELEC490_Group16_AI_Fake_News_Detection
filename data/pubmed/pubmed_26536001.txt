@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26536001)
+    QUESTION: Is There an Additional Value of Using Somatostatin Receptor Subtype 2a Immunohistochemistry Compared to Somatostatin Receptor Scintigraphy Uptake in Predicting Gastroenteropancreatic Neuroendocrine Tumor Response?
+    CONTEXT: It is unknown whether tumoral somatostatin receptor subtype 2a (sst2a) immunohistochemistry (IHC) has additional value compared to somatostatin receptor scintigraphy (SRS) uptake using OctreoScan® in predicting response to peptide receptor radiotherapy using 177Lu-octreotate (PRRT) in patients with gastroenteropancreatic neuroendocrine tumors (GEP-NETs). The aims of this study were: (1) to establish the percentage of sst2a immunopositivity in GEP-NET samples of PRRT-treated patients, (2) to determine the relationship between best GEP-NET response using RECIST 1.0 criteria 1 year after PRRT and tumoral sst2a IHC, and (3) to compare characteristics of patients with sst2a IHC-negative and -positive tumors.
+    ANSWER: sst2a IHC of tumor samples has no additional value compared to SRS uptake using OctreoScan® in predicting tumor response after PRRT.
+    

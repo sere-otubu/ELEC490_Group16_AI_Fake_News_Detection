@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18926458)
+    QUESTION: Are octogenarians at high risk for carotid endarterectomy?
+    CONTEXT: Several prospective randomized trials have proved carotid endarterectomy to be safe and effective for both symptomatic and asymptomatic patients younger than 80 years of age. Recently, carotid artery stenting (CAS) has been approved for use in selected high-risk patients. It has been proposed that being an octogenarian places patients in this high-risk category.
+    ANSWER: Combined end points for adverse events are acceptable in the octogenarian. Carotid endarterectomy remains the gold standard for treatment of extracranial carotid disease in all age groups. Age alone should not place patients in the high-risk category for carotid endarterectomy.
+    

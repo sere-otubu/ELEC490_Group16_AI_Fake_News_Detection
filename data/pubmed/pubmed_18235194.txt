@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18235194)
+    QUESTION: Is a specialised training of phonological awareness indicated in every preschool child?
+    CONTEXT: In a prospective study 218 preschool children were enrolled (stratified in 2 training programs, one specialized for phonologic awareness in order to prevent dyslexia, the other consisting in training of general perception) during the last year of kindergarten. After finishing the first grade 131 children were compared in their reading and writing abilities.
+    ANSWER: A specialized training program to improve phonologic awareness as a basis for reading and writing in every kindergarten and preschool child seems to be unnecessary. However, children with temporary hearing deficits benefit from such a program. For all other children general perception training may be sufficient.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18179827)
+    QUESTION: Does topical ropivacaine reduce the post-tonsillectomy morbidity in pediatric patients?
+    CONTEXT: To determine whether post-operative administration of topical ropivacaine hydrochloride decreases morbidity following adenotonsillectomy.
+    ANSWER: Locally 1.0% ropivacaine administration significantly relieves the pain of pediatric tonsillectomy and, it is a safe and effective method. High concentrations of ropivaciane may produce clinically significant pain relief. It is more effective to reduce of post-operative analgesic requirement after first hour.
+    

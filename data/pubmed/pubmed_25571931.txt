@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25571931)
+    QUESTION: Do elderly patients call 911 when presented with clinical scenarios suggestive of acute stroke?
+    CONTEXT: Among patients with acute stroke symptoms, delay in hospital admission is the main obstacle for the use of thrombolytic therapy and other interventions associated with decreased mortality and disability. The primary aim of this study was to assess whether an elderly clinical population correctly endorsed the response to call for emergency services when presented with signs and symptoms of stroke using a standardized questionnaire.
+    ANSWER: These results suggest the need to provide interventions that are specifically designed to increase awareness of potential stroke signs and symptoms and appropriate subsequent clinical actions.
+    

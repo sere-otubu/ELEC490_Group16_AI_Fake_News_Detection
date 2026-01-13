@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21823940)
+    QUESTION: Department of Transportation vs self-reported data on motor vehicle collisions and driving convictions for stroke survivors: do they agree?
+    CONTEXT: Research on stroke survivors' driving safety has typically used either self-reports or government records, but the extent to which the 2 may differ is not known. We compared government records and self-reports of motor vehicle collisions and driving convictions in a sample of stroke survivors.
+    ANSWER: In our population of stroke survivors, self-reports of motor vehicle collisions and driving convictions differed from government records. In future studies, the use of both government and self-reported data would ensure a more accurate picture of driving safety post-stroke.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 26923375)
+    QUESTION: Is non-invasive diagnosis of esophageal varices in patients with compensated hepatic cirrhosis possible by duplex Doppler ultrasonography?
+    CONTEXT: Esophageal varices are present in 30% to 40% of patients in compensated cirrhosis (Child-Pugh class A) and in 60% to 85% of patients in decompensated cirrhosis (Child-Pugh classes B and C). It is important to identify patients with compensated cirrhosis at risk for esophageal varix development. We evaluated the accuracy of a duplex Doppler ultrasonographic index for predicting the presence or absence of esophageal varices in patients with compensated hepatic cirrhosis (Child-Pugh class A) by using endoscopy as the reference standard.
+    ANSWER: The SPI was accurate in predicting the presence or absence of esophageal varices in patients with compensated cirrhosis.
+    

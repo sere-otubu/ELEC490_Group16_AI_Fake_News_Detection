@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19103915)
+    QUESTION: Are home sampling kits for sexually transmitted infections acceptable among men who have sex with men?
+    CONTEXT: There is an urgent need to increase opportunistic screening for sexually transmitted infections (STIs) in community settings, particularly for those who are at increased risk including men who have sex with men (MSM). The aim of this qualitative study was to explore whether home sampling kits (HSK) for multiple bacterial STIs are potentially acceptable among MSM and to identify any concerns regarding their use. This study was developed as part of a formative evaluation of HSKs.
+    ANSWER: The widespread acceptability of using HSKs for the diagnosis of STIs could have important public health impacts in terms of earlier diagnosis of asymptomatic infections and thus a decrease in the rate of onward transmission. In addition, HSKs could potentially optimize the use of genitourinary medicine services and facilitate patient choice.
+    

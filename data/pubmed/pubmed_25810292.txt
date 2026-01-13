@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25810292)
+    QUESTION: Is minimally invasive mitral valve repair with artificial chords reproducible and applicable in routine surgery?
+    CONTEXT: Traditional resectional techniques and chordal transfer are difficult to apply in video-assisted mitral valve repair. Using artificial chords appears easier in this setting. The purpose of this study was to review the effectiveness and reproducibility of neochordal repair as a routine approach to minimally invasive mitral repair, and to assess the stability of neochord implantation using the figure-of-eight suture without pledgets in this setting.
+    ANSWER: Minimally invasive mitral valve repair using neochords provided a high rate of repair, reproducible results in a routine cardiac surgery setting and stable repair during follow-up. This has become our preferred technique for mitral valve surgery.
+    

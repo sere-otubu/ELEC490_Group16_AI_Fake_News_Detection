@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 18086459)
+    QUESTION: Long-term significance of postictal psychotic episodes II. Are they predictive of interictal psychotic episodes?
+    CONTEXT: The aim of this study was to determine whether postictal psychotic episodes (PIPE) are predictive of the development of interictal psychotic episodes (IPE).
+    ANSWER: A history of PIPE may be a risk factor for the development of IPE. Yet, the disappearance of significance on multivariate analysis indicates that it is not an independent predictor.
+    

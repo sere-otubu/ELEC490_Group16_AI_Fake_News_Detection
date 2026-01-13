@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 19268855)
+    QUESTION: Application of computer-aided diagnosis (CAD) in MR-mammography (MRM): do we really need whole lesion time curve distribution analysis?
+    CONTEXT: The identification of the most suspect enhancing part of a lesion is regarded as a major diagnostic criterion in dynamic magnetic resonance mammography. Computer-aided diagnosis (CAD) software allows the semi-automatic analysis of the kinetic characteristics of complete enhancing lesions, providing additional information about lesion vasculature. The diagnostic value of this information has not yet been quantified.
+    ANSWER: The integration of whole-lesion dynamic data tends to improve specificity. However, no statistical significance backs up this finding.
+    

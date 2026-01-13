@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17502203)
+    QUESTION: Cholestasis associated with small bowel atresia: do we always need to investigate?
+    CONTEXT: Cholestasis occurs frequently in patients with small bowel atresia (SBA) and is often attributed to prolonged parental nutrition. When severe or prolonged, patients may undergo unnecessary intensive or invasive investigation. We characterized cholestasis and analyzed the pertinence of investigating this patient population.
+    ANSWER: Small bowel atresia is frequently associated with postoperative cholestasis that will resolve with time. We recommend a more selective and expectant approach to SBA-associated cholestasis to minimize unnecessary investigations.
+    

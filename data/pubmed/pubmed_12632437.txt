@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 12632437)
+    QUESTION: Are environmental factors important in primary systemic vasculitis?
+    CONTEXT: To investigate the association between primary systemic vasculitis (PSV) and environmental risk factors.
+    ANSWER: A significant association between farming and PSV has been identified for the first time. Results also support previously reported associations with silica, solvents, and allergy.
+    

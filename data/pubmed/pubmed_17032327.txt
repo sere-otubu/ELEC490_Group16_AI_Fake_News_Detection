@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 17032327)
+    QUESTION: Do supervised colorectal trainees differ from consultants in terms of quality of TME surgery?
+    CONTEXT: The quality of surgical excision is held to be a major determinant of outcome following surgery for rectal cancer. Macroscopic examination of the excised mesorectum allows for reproducible assessment of the quality of surgery. We aimed to determine whether quality of excision undertaken by colorectal trainees under supervision was comparable with that performed by consultants, as measured using mesorectal grades.
+    ANSWER: We conclude that the quality of rectal cancer excision, as defined by mesorectal grades, achieved by supervised colorectal trainees is comparable with that achieved by consultants.
+    

@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 15141797)
+    QUESTION: Can we rely on arterial line sampling in performing activated plasma thromboplastin time after cardiac surgery?
+    CONTEXT: Arterial catheters are routinely used to sample blood for clotting studies in most cardiothoracic intensive care units. The clotting profile in surgical bleeding after cardiac surgery influences further management. Aspiration and discard of a certain amount of blood from the line, prior to sampling, are assumed to clear heparin contamination. We have investigated this assumption through analysis of the clotting profile by simultaneous arterial line and peripheral venous samples.
+    ANSWER: Samples withdrawn from heparinized arterial lines cannot be relied upon for APTT ratio results.
+    

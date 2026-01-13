@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 9603166)
+    QUESTION: Should all human immunodeficiency virus-infected patients with end-stage renal disease be excluded from transplantation?
+    CONTEXT: Human immunodeficiency virus (HIV)-infected patients have generally been excluded from transplantation. Recent advances in the management and prognosis of these patients suggest that this policy should be reevaluated.
+    ANSWER: The great majority of U.S. renal transplant centers will not transplant kidneys to HIV-infected patients with end-stage renal disease, even if their infection is asymptomatic. However, advances in the management of HIV infection and a review of relevant ethical issues suggest that this approach should be reconsidered.
+    

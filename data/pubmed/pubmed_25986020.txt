@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 25986020)
+    QUESTION: Is zero central line-associated bloodstream infection rate sustainable?
+    CONTEXT: Adoption and implementation of evidence-based measures for catheter care leads to reductions in central line-associated bloodstream infection (CLABSI) rates in the NICU. The purpose of this study is to evaluate whether this rate reduction is sustainable for at least 1 year and to identify key determinants of this sustainability at the NICU of the Floating Hospital for Children at Tufts Medical Center.
+    ANSWER: High-quality training, strict compliance with evidence-based guidelines, and thorough documentation is associated with significant reductions in CLABSIs. Mindful organizing may lead to a better understanding of what goes into a unit's ability to handle peak demands and sustain extraordinary performance in the long-term.
+    

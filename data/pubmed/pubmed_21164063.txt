@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 21164063)
+    QUESTION: Is there a role for fondaparinux in perioperative bridging?
+    CONTEXT: A possible role for fondaparinux as a bridging agent in the perioperative setting is explored.
+    ANSWER: The role of fondaparinux in perioperative bridge therapy has not been established, and there are some important limitations to its use as a routine bridging agent.
+    

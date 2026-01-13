@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 15041506)
+    QUESTION: Is fear of anaphylactic shock discouraging surgeons from more widely adopting percutaneous and laparoscopic techniques in the treatment of liver hydatid cyst?
+    CONTEXT: Sources of reports about laparoscopic and percutaneous treatment of liver hydatid cysts are limited to just a few countries. To address the reason behind this, we carried out a survey of 30 surgeons in northern Jordan.
+    ANSWER: The seemingly exaggerated traditional fear of anaphylaxis seems to discourage surgeons from more widely adopting minimal access techniques for the treatment of hydatid cyst.
+    

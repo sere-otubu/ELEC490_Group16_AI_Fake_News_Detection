@@ -1,0 +1,6 @@
+
+    SOURCE: PubMed QA (ID: 27394685)
+    QUESTION: Bony defects in chronic anterior posttraumatic dislocation of the shoulder: Is there a correlation between humeral and glenoidal lesions?
+    CONTEXT: The prevalence of combined humeral and glenoid defects varies between 79 and 84 % in case of chronic posttraumatic anterior shoulder instability. The main goal of this study was to evaluate the relationship between humeral and glenoid defects based on quantitative radiological criteria.
+    ANSWER: Humeral and glenoid bone defects were not correlated. Inter-observer reliability was excellent for the D/R ratio and good for the D1/D2 ratio.
+    
