@@ -15,13 +15,17 @@ import {
   ChevronUp,
   Download,
   FileText,
-  Sparkles,
   History,
   Lightbulb,
   BookOpen,
   Menu,
   X,
   Settings,
+  Shield,
+  CheckCircle2,
+  Activity,
+  Stethoscope,
+  ExternalLink,
 } from "lucide-react";
 import {
   useQueryHistory,
@@ -42,11 +46,20 @@ const SourceDocumentCard = ({ doc, index }: SourceDocumentCardProps) => {
   const [isExpanded, setIsExpanded] = useState(false);
   const docPosition = index + 1;
 
-  const handleDownload = () => {
-    const downloadUrl = `/files/download/${encodeURIComponent(
-      doc.metadata.file_name
-    )}`;
-    window.open(downloadUrl, "_blank");
+  // Check if the source is a web link
+  const isWebLink = doc.metadata.source?.startsWith("http");
+
+  const handleAction = () => {
+    if (isWebLink && doc.metadata.source) {
+      // Open URL in new tab
+      window.open(doc.metadata.source, "_blank");
+    } else {
+      // Fallback: Download file
+      const downloadUrl = `/files/download/${encodeURIComponent(
+        doc.metadata.file_name
+      )}`;
+      window.open(downloadUrl, "_blank");
+    }
   };
 
   const getRelevanceBadgeVariant = (score: number) => {
@@ -72,9 +85,21 @@ const SourceDocumentCard = ({ doc, index }: SourceDocumentCardProps) => {
           <div className="space-y-1">
             <div className="flex items-center gap-2 text-foreground">
               <FileText className="h-4 w-4 text-primary" />
-              <span className="text-sm font-semibold leading-tight">
-                {doc.metadata.file_name}
-              </span>
+              {/* Make title clickable if it's a link */}
+              {isWebLink ? (
+                <a 
+                  href={doc.metadata.source || "#"} 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="text-sm font-semibold leading-tight hover:underline hover:text-primary transition-colors"
+                >
+                  {doc.metadata.file_name}
+                </a>
+              ) : (
+                <span className="text-sm font-semibold leading-tight">
+                  {doc.metadata.file_name}
+                </span>
+              )}
             </div>
             {doc.metadata.page && (
               <span className="text-xs text-muted-foreground">
@@ -91,14 +116,25 @@ const SourceDocumentCard = ({ doc, index }: SourceDocumentCardProps) => {
             >
               {getRelevanceLabel(doc.score)}
             </Badge>
+            
+            {/* Dynamic Button: Visit Source vs Save PDF */}
             <Button
               variant="ghost"
               size="sm"
-              onClick={handleDownload}
+              onClick={handleAction}
               className="h-7 px-2 text-[11px] hover:bg-primary/10"
             >
-              <Download className="mr-1 h-3 w-3" />
-              Save PDF
+              {isWebLink ? (
+                <>
+                  <ExternalLink className="mr-1 h-3 w-3" />
+                  Visit Source
+                </>
+              ) : (
+                <>
+                  <Download className="mr-1 h-3 w-3" />
+                  Save PDF
+                </>
+              )}
             </Button>
           </div>
           <div className="flex items-center gap-2">
@@ -324,10 +360,13 @@ function App() {
 
   return (
     <div className="relative min-h-screen overflow-hidden bg-background text-foreground">
-      <div aria-hidden="true" className="pointer-events-none absolute inset-0">
-        <div className="absolute -left-24 -top-32 h-72 w-72 rounded-full bg-accent/35 blur-3xl opacity-60" />
-        <div className="absolute right-[-6rem] top-1/3 h-80 w-80 rounded-full bg-primary/30 blur-3xl opacity-60" />
-        <div className="absolute bottom-[-5rem] left-1/2 h-72 w-72 -translate-x-1/2 rounded-full bg-secondary/30 blur-3xl opacity-60" />
+      {/* Professional gradient background effects */}
+      <div aria-hidden="true" className="pointer-events-none absolute inset-0 overflow-hidden">
+        <div className="absolute -left-24 -top-32 h-96 w-96 rounded-full bg-primary/20 blur-3xl opacity-40" />
+        <div className="absolute right-[-8rem] top-1/3 h-[28rem] w-[28rem] rounded-full bg-secondary/15 blur-3xl opacity-50" />
+        <div className="absolute bottom-[-6rem] left-1/2 h-80 w-80 -translate-x-1/2 rounded-full bg-accent/20 blur-3xl opacity-40" />
+        {/* Subtle grid pattern for professional look */}
+        <div className="absolute inset-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:24px_24px]" />
       </div>
 
       <div className="relative z-10 flex min-h-screen w-full">
@@ -394,9 +433,12 @@ function App() {
                     >
                       <Menu className="h-5 w-5" />
                     </Button>
-                    <h1 className="text-2xl font-semibold leading-tight">
-                      Medical Information Checker
-                    </h1>
+                    <div className="flex items-center gap-2">
+                      <Shield className="h-6 w-6 text-primary" />
+                      <h1 className="text-2xl font-semibold leading-tight">
+                        Medical Information Checker
+                      </h1>
+                    </div>
                   </div>
                   <p className="text-sm text-muted-foreground pl-12">
                     Verify medical claims, check treatment accuracy, and get
@@ -526,8 +568,8 @@ function App() {
                 <div className="flex items-center gap-3">
                   <div className="space-y-3">
                     <span className="inline-flex items-center gap-2 rounded-full border border-primary/40 bg-primary/10 px-3 py-1 text-[11px] font-semibold uppercase tracking-wide text-primary">
-                      <Sparkles className="h-3.5 w-3.5" />
-                      Conversation
+                      <Activity className="h-3.5 w-3.5" />
+                      Analysis Session
                     </span>
                     <div>
                       <h2 className="text-xl font-semibold tracking-tight md:text-2xl lg:text-3xl">
@@ -565,22 +607,26 @@ function App() {
                 </div>
               </div>
               {showWelcomeState && (
-                <div className="mt-8 rounded-3xl border border-border/50 bg-background/50 p-8 text-center backdrop-blur md:p-10">
-                  <div className="mx-auto max-w-2xl space-y-6">
-                    <div className="inline-flex items-center gap-2 rounded-full border border-accent/40 bg-accent/15 px-4 py-1 text-[11px] font-semibold uppercase tracking-wide text-accent-foreground/90">
-                      <Bot className="h-4 w-4 text-accent-foreground/90" />
-                      Welcome aboard
+                <div className="mt-8 rounded-3xl border border-primary/20 bg-gradient-to-br from-card/80 to-card/40 p-8 text-center backdrop-blur md:p-12">
+                  <div className="mx-auto max-w-2xl space-y-8">
+                    <div className="inline-flex items-center gap-2 rounded-full border border-primary/40 bg-primary/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-wide text-primary">
+                      <Shield className="h-4 w-4" />
+                      <span>Evidence-Based Verification</span>
                     </div>
-                    <div className="space-y-3">
-                      <h3 className="text-2xl font-semibold md:text-3xl">
-                        Your medical misinformation checker
-                      </h3>
-                      <p className="text-sm text-muted-foreground md:text-base">
-                        Verify medical claims, check treatment information, or get
-                        evidence-based answers backed by reliable medical sources.
+                    <div className="space-y-4">
+                      <div className="flex items-center justify-center gap-3">
+                        <Stethoscope className="h-8 w-8 text-primary md:h-10 md:w-10" />
+                        <h3 className="text-3xl font-bold md:text-4xl bg-gradient-to-r from-foreground to-foreground/80 bg-clip-text text-transparent">
+                          Medical Claim Verifier
+                        </h3>
+                      </div>
+                      <p className="text-base text-muted-foreground md:text-lg leading-relaxed max-w-xl mx-auto">
+                        Verify medical claims with confidence. Our AI-powered system analyzes 
+                        claims against peer-reviewed medical literature to provide accurate, 
+                        evidence-based assessments.
                       </p>
                     </div>
-                    <div className="flex flex-wrap justify-center gap-3">
+                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-4">
                       {suggestionPills.map((suggestion) => (
                         <Button
                           key={suggestion}
@@ -588,11 +634,26 @@ function App() {
                           variant="outline"
                           size="sm"
                           onClick={() => handleSuggestionClick(suggestion)}
-                          className="rounded-full border-border/60 bg-background/70 text-xs text-muted-foreground transition hover:border-primary/50 hover:bg-primary/10 hover:text-foreground"
+                          className="rounded-xl border-border/60 bg-background/70 text-sm text-foreground/90 transition-all hover:border-primary/50 hover:bg-primary/10 hover:text-foreground hover:shadow-md hover:scale-[1.02]"
                         >
+                          <CheckCircle2 className="mr-2 h-4 w-4 text-primary" />
                           {suggestion}
                         </Button>
                       ))}
+                    </div>
+                    <div className="flex items-center justify-center gap-6 pt-4 text-xs text-muted-foreground">
+                      <div className="flex items-center gap-2">
+                        <Activity className="h-4 w-4 text-accent" />
+                        <span>Real-time Analysis</span>
+                      </div>
+                      <div className="flex items-center gap-2">
+                        <BookOpen className="h-4 w-4 text-primary" />
+                        <span>Peer-Reviewed Sources</span>
+                      </div>
+                      <div className="flex items-center gap-2">
+                        <Shield className="h-4 w-4 text-accent" />
+                        <span>Verified Accuracy</span>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -640,9 +701,17 @@ function App() {
                             }`}
                           >
                             <div className="flex items-center gap-2 text-xs uppercase tracking-wide text-muted-foreground/80">
-                              {message.type === "assistant"
-                                ? "Medical Information Checker"
-                                : "You"}
+                              {message.type === "assistant" ? (
+                                <>
+                                  <Shield className="h-3 w-3 text-primary" />
+                                  <span>Medical Verifier</span>
+                                </>
+                              ) : (
+                                <>
+                                  <User className="h-3 w-3 text-secondary" />
+                                  <span>You</span>
+                                </>
+                              )}
                             </div>
                             <div
                               className={`rounded-2xl border px-4 py-3 text-sm leading-relaxed shadow-sm transition ${
@@ -672,7 +741,8 @@ function App() {
                         </Avatar>
                         <div className="flex max-w-[78%] flex-col gap-2">
                           <div className="flex items-center gap-2 text-xs uppercase tracking-wide text-muted-foreground/80">
-                            Medical Information Checker
+                            <Shield className="h-3 w-3 text-primary" />
+                            <span>Medical Verifier</span>
                           </div>
                           <div className="rounded-2xl border border-border/60 bg-background/65 px-4 py-3 backdrop-blur">
                             <div className="flex items-center gap-2 text-sm">
@@ -726,11 +796,11 @@ function App() {
                 <div className="flex flex-col gap-3 sm:flex-row">
                   <div className="relative flex-1">
                     <Input
-                      placeholder="Verify a medical claim or check health information..."
+                      placeholder="Enter a medical claim to verify (e.g., 'Long-term use of ibuprofen causes autism')..."
                       value={inputMessage}
                       onChange={(e) => setInputMessage(e.target.value)}
                       onKeyDown={handleKeyDown}
-                      className="h-12 rounded-2xl border-border/60 bg-background/70 pr-16 text-sm shadow-inner shadow-black/30 backdrop-blur"
+                      className="h-12 rounded-2xl border-border/60 bg-background/80 pr-16 text-sm shadow-inner shadow-black/20 backdrop-blur transition-all focus:border-primary/60 focus:ring-2 focus:ring-primary/20"
                       disabled={isSendingMessage}
                     />
                     <div className="pointer-events-none absolute inset-y-0 right-4 hidden items-center gap-2 text-[11px] text-muted-foreground sm:flex">
