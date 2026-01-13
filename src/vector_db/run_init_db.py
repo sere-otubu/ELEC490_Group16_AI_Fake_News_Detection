@@ -6,11 +6,12 @@ This script creates the database tables if they don't exist and handles schema c
 import logging
 import sys
 from pathlib import Path
+
+sys.path.append(str(Path(__file__).parent.parent.parent))
+
 from sqlalchemy import inspect, text
 from sqlmodel import SQLModel, create_engine
 from src.config import settings
-
-sys.path.append(str(Path(__file__).parent.parent.parent))
 
 # Configure logging
 logging.basicConfig(
