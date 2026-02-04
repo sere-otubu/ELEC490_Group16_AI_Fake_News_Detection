@@ -310,8 +310,8 @@ function App() {
 
       setCurrentMessages((prev) => [...prev, tempUserMessage]);
 
-      // Send query to API
-      const response = await sendQuery({ query: queryText, top_k: 2 });
+      // Send query to API. Always show 3 top results.
+      const response = await sendQuery({ query: queryText, top_k: 3 });
 
       if (response) {
         // Replace temp message with real messages

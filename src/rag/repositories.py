@@ -213,7 +213,8 @@ class RAGRepository:
 
             logger.info(f"Executing query: '{query_request.query[:50]}...'")
 
-            optimized_top_k = min(query_request.top_k * 2, 15)
+            # Adjust top_k to be at least 3 and at most 15
+            optimized_top_k = min(query_request.top_k * 2 + 1, 15)
 
             query_engine = self.index.as_query_engine(
                 text_qa_template=RAG_PROMPT_TEMPLATE,
