@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Osteoarthritis
-TITLE: Feline Osteoarthritis Management.
-PMID: 36964025
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36964025/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Feline osteoarthritis is common; despite vague clinical signs, it can result in mobility impairment and quality of life concerns. An integrative approach to management may include analgesic medications, dietary modifications, nutraceuticals, environmental modifications, physical rehabilitation, acupuncture, and regenerative medicine. Management of concurrent disease and consideration for patient tolerance and owner compliance are critical in formulating a treatment plan in cats with osteoarthritis.

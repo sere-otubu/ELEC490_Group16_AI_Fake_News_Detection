@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dental cavities
-TITLE: Molecular dynamics studies of polysaccharide carrier based on starch in dental cavities.
-PMID: 30308285
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30308285/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Health is an important element that influences the level of development in a community. Studies show that tooth decay has been prevalent recently. Starch incorporating curcumin can serve as an alternative approach in preventing the activity of Streptococcus mutans attributed to biofilm and plaque formation on teeth. In this research, the performance of starch nanoparticle as a carrier for curcumin, a natural anti-inflammatory and a strong antioxidant agent, in decreasing dental caries was simulated. In the first stage, the conformational rearrangements of molecules and their interactions with other molecular species in a range of environments were examined via computational techniques and molecular dynamics (MD) simulation. The charts of energy, temperature, density, cell size and the radial distribution function (RDF) derived from the simulation, confirmed that during 5 initial steps there was a stable binding between the curcumin and starch in the presence of bacteria. The energy released in the starch formed nanosphere is very high, and this indicates a full reaction in the system. However, the density-decreasing trend of nanosystem suggests that it can effectively inhibit the activity of microorganism.

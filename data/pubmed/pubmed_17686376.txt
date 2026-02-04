@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Beta blockers
-TITLE: The vasodilatory beta-blockers.
-PMID: 17686376
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17686376/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although well established in treating hypertension and cardiovascular (CV) disease, clinical trial data suggest that beta-blockers (eg, atenolol) may be less effective than other antihypertensive classes in reducing stroke and CV mortality despite similar blood pressure (BP) reductions. One possible explanation is that atenolol is less effective in reducing central aortic pressure. Newer vasodilating beta-blockers may prove more effective in reducing central pressure and cardiovascular events. Carvedilol and labetalol appear to cause vasodilation through alpha(1)-receptor blockade; nebivolol induces endothelium-dependent vasodilation by stimulating nitric oxide bioactivity. Their favorable hemodynamic profile includes reduction of peripheral vascular resistance (PVR) while maintaining or improving cardiac output (CO), stroke volume, and left ventricular function, whereas nonvasodilating beta-blockers tend to raise PVR and reduce CO and left ventricular function. Compared with conventional beta-blockers, vasodilating beta-blockers have beneficial hemodynamic effects including decreased pressure wave reflection from the periphery, leading to decreases in central aortic blood pressure. Larger trials are needed to determine whether reduced central pressure will translate into improved CV outcomes compared with nonvasodilating beta-blockers.

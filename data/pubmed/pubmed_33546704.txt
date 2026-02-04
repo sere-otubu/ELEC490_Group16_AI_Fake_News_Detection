@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immune response
-TITLE: The cancer metabolic reprogramming and immune response.
-PMID: 33546704
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33546704/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The overlapping metabolic reprogramming of cancer and immune cells is a putative determinant of the antitumor immune response in cancer. Increased evidence suggests that cancer metabolism not only plays a crucial role in cancer signaling for sustaining tumorigenesis and survival, but also has wider implications in the regulation of antitumor immune response through both the release of metabolites and affecting the expression of immune molecules, such as lactate, PGE<sub>2</sub>, arginine, etc. Actually, this energetic interplay between tumor and immune cells leads to metabolic competition in the tumor ecosystem, limiting nutrient availability and leading to microenvironmental acidosis, which hinders immune cell function. More interestingly, metabolic reprogramming is also indispensable in the process of maintaining self and body homeostasis by various types of immune cells. At present, more and more studies pointed out that immune cell would undergo metabolic reprogramming during the process of proliferation, differentiation, and execution of effector functions, which is essential to the immune response. Herein, we discuss how metabolic reprogramming of cancer cells and immune cells regulate antitumor immune response and the possible approaches to targeting metabolic pathways in the context of anticancer immunotherapy. We also describe hypothetical combination treatments between immunotherapy and metabolic intervening that could be used to better unleash the potential of anticancer therapies.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Exercise for pregnancy
-TITLE: Pelvic floor training to prevent stress urinary incontinence: A systematic review.
-PMID: 38556125
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38556125/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Stress urinary incontinence (SUI) is a common disorder in women that has a negative impact on quality of life. Pregnancy and childbirth are considered important risk factors that directly affect the pelvic floor during pregnancy and labour, increasing the risk of pelvic floor dysfunction, with prevalence rates of SUI in the postpartum period ranging from 30 to 47% during the first 12 months. To determine the effectiveness of pelvic floor muscle training (PFMT) in the prevention of SUI in women during the antenatal and postnatal period by reviewing and evaluating the available scientific literature. This is a systematic review, using only randomised controlled trials. We searched the databases Pubmed, Scopus, Cochrane and PEDro. We reviewed 7 prospective studies in English and Portuguese, which included 1,401 pregnant women of legal age who underwent PFMT to prevent SUI. The results allowed us to establish that PFMT is used for pelvic floor muscles and that this intervention, applied with the appropriate methodology, can prevent or cure SUI. The application of PFMT in an early stage of pregnancy has positive effects on the continence capacity after delivery.

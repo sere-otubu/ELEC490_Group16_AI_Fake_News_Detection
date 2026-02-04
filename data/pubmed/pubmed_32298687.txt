@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sexual health
-TITLE: Sexual health of women with schizophrenia: A review.
-PMID: 32298687
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32298687/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Women with schizophrenia experience low rates of sexual satisfaction and high rates of sexual dysfunction. They are at high risk for adverse sexual health outcomes including unplanned pregnancies, induced abortions, and human immunodeficiency virus (HIV), and face higher rates of sexual violence and various forms of intimate partner violence. This review explores the complex and intersecting biopsychosocial risk factors that explain these outcomes among women with schizophrenia, including factors related to the illness itself, antipsychotic medications, medical and psychiatric comorbidities, stigma, childhood trauma, and social determinants of health including poverty and housing instability. Sexual health interventions designed to help women with schizophrenia achieve pleasurable and safe sexual experiences, free of coercion, discrimination and violence are few and far between, suggesting opportunities for future development in this area.

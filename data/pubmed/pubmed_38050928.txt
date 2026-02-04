@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Medical misinformation
-TITLE: Medication literacy and its social contextuality.
-PMID: 38050928
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38050928/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This article aims to contribute to the discussion about medication literacy, by focussing on the social contextuality of the information mobilised in the use of medicines. We aim to explore the social construction processes of medication literacy, as an essential dimension for a more layperson-centred approach in the promotion of literacy in this field. This approach is justified by the growing social and cultural dissemination of medication use, the diversification of its uses beyond health and illness, and the increasing degree of lay autonomy in managing its use. The article is organised in two main sections. In the first section, we review the <i>social history</i> of medication literacy, including a discussion of the social contextuality of literacy phenomena. In the second section, the analysis of social contextuality is operationalised with a focus on information, covering: (i) ways of relating to institutional information and sources of information about medication; (ii) contexts of sociability in which information is shared and validated. This analysis is empirically supported by selected results from two research projects, conducted in Portugal, on the consumption of medicines and dietary supplements for performance purposes - that is, for the management and/or improvement of cognitive, bodily or relational performance.

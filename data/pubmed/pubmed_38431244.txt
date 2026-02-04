@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hypertension
-TITLE: siRNA as potential therapeutic strategy for hypertension.
-PMID: 38431244
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38431244/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hypertension, a well-known cardiovascular disorder noticed by rise in blood pressure, poses a significant global health challenge. The development RNA interfering (RNAi)-based therapies offers a ground-breaking molecular tool, holds promise for addressing hypertension's intricate molecular mechanisms. Harnessing the power of small interfering RNA (siRNA), researchers aim to selectively target and modulate genes associated with hypertension. Furthermore, they aim to downregulate the levels of mRNA by activating cellular nucleases in response to sequence homology between the siRNA and the corresponding mRNA molecule. As a result, genes involved in the cause of disorders linked to a known genetic background can be silenced using siRNA strategy. In the realm of hypertension, siRNA therapy emerges as a potential therapy for prognostics, diagnostics and treatments. It plays an important role in execution of targeting suppression of genes involved in vascular tone regulation, sodium handling, and pathways contributing to high blood pressure. A clinical trial involving intervention like angiotensinogen siRNA (AGT siRNA) is currently being carried out to treat hypertension. Genetic correlations between uromodulin (UMOD) and hypertension are investigated as emerging Non AGT siRNA target. Furthermore, expression of UMOD is responsible for regulation of sodium by modulating the tumor necrosis factor-α and regulating the Na + -K + -2Cl-cotransporter (NKCC2) in the thick ascending limb, which makes it an important target for blood pressure regulation.

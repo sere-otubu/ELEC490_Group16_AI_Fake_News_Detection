@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cataracts
-TITLE: Lens alpha-neoproteins.
-PMID: 2460813
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2460813/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The formation of lens alpha-neoprotein molecules which are built by the association of A and B subunit chains of alpha-crystallin but have a different quaternary structure than the native protein is a posttranslational process that progresses through the life span. Alpha-neoproteins occur regularly in all mature mammalian lenses tested. The mechanisms that have been identified for the formation of alpha neoproteins are imbalance in the biosynthesis of A- to B-chains, which leads to a ratio of less than 2A-chains to 1B-chain, and derivation of the chains after their initial association into native alpha-crystallin. In terms of quantity of neoproteins, no significant differences have been found between lenses with developing cataracts and normal control lenses of corresponding age. The possibility that there are structural differences between alpha-neoproteins in normal and cataractous lenses of the same age, as well as potential differences among alpha-neoproteins isolated from normal lenses of different ages, are presently under investigation.

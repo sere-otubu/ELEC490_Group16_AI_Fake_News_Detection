@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Healthcare accessibility
-TITLE: Improving the prognosis of health care in the USA.
-PMID: 32061298
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32061298/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although health care expenditure per capita is higher in the USA than in any other country, more than 37 million Americans do not have health insurance, and 41 million more have inadequate access to care. Efforts are ongoing to repeal the Affordable Care Act which would exacerbate health-care inequities. By contrast, a universal system, such as that proposed in the Medicare for All Act, has the potential to transform the availability and efficiency of American health-care services. Taking into account both the costs of coverage expansion and the savings that would be achieved through the Medicare for All Act, we calculate that a single-payer, universal health-care system is likely to lead to a 13% savings in national health-care expenditure, equivalent to more than US$450 billion annually (based on the value of the US$ in 2017). The entire system could be funded with less financial outlay than is incurred by employers and households paying for health-care premiums combined with existing government allocations. This shift to single-payer health care would provide the greatest relief to lower-income households. Furthermore, we estimate that ensuring health-care access for all Americans would save more than 68 000 lives and 1·73 million life-years every year compared with the status quo.

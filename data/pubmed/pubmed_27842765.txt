@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Metabolism basics
-TITLE: Drug Metabolism in the Liver.
-PMID: 27842765
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27842765/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Metabolism is a biotransformation process, where endogenous and exogenous compounds are converted to more polar products to facilitate their elimination from the body. The process of metabolism is divided into 3 phases. Phase I metabolism involves functionalization reactions. Phase II drug metabolism is a conjugation reaction. Phase III refers to transporter-mediated elimination of drug and/or metabolites from body normally via liver, gut, kidney, or lung. This review presents basic information on drug-metabolizing enzymes and potential factors that might affect the metabolic capacities of the enzyme or alter drug response or drug-mediated toxicities.

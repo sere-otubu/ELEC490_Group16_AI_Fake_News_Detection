@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 10877371)
-    QUESTION: Does head positioning influence anterior chamber depth in pseudoexfoliation syndrome?
-    CONTEXT: Phacodonesis can occur in pseudoexfoliation syndrome because of impaired zonular support. This study investigates whether the increased mobility of the lens influences anterior chamber depth in patients with pseudoexfoliation while assuming a prone position.
-    ANSWER: In patients with clinically apparent unilateral pseudoexfoliation, the lens seems to be more mobile in the affected eye. This results in a shallower anterior chamber when the head is placed in a prone position. Whether this fact might potentially lead to transient pupillary block when engaging in activities such as facing down while reading warrants further study.
-    

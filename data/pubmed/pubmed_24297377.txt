@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chlamydia
-TITLE: New insights into Chlamydia and arthritis. Promise of a cure?
-PMID: 24297377
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24297377/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chlamydia trachomatis and Chlamydia pneumoniae together comprise the most frequent causative pathogens that elicit reactive arthritis (ReA). Advances in our understanding of the molecular biology/molecular genetics of these organisms have improved significantly the ability to detect chlamydiae in the joint for diagnostic purposes, as well as extending our current understanding of the pathogenic processes they elicit in the joint and elsewhere. An important aspect of the latter is that synovial chlamydiae infect the joint in an unusual but metabolically active state. While some standard treatments can provide a palliative effect on the ReA disease phenotype, many reports have indicated that standard antibiotic treatment does not provide a cure. Of critical importance, however, two recent reports of controlled clinical trials demonstrated that Chlamydia-ReA can be treated successfully using combination antibiotic therapy. These observations offer the opportunity of a cure for this disease, thereby increasing the practical importance of awareness and diagnosis of the spondyloarthritis caused by Chlamydia. In this viewpoint, we provide an overview of recent key findings in the epidemiology, pathophysiology, clinical manifestations, diagnosis and treatment of Chlamydia-induced arthritis. Our intention is for these insights to be translated rapidly into clinical practice to overcome misdiagnosis and underdiagnosis of the disease, and for them to stimulate the continued development of a cure.

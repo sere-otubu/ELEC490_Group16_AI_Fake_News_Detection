@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Seasonal affective disorder
-TITLE: Alcoholism and seasonal affective disorder.
-PMID: 14671737
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/14671737/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Seasonal changes in mood and behavior (seasonality) may be closely related to alcoholism. Some patients with alcoholism have a seasonal pattern to their alcohol misuse. They may be self-medicating an underlying seasonal affective disorder (SAD) with alcohol or manifesting a seasonal pattern to alcohol-induced depression. Both genetic and environmental factors play a role in the etiology and pathogenesis of alcoholism and SAD, operating, at least in part, through the brain serotonergic system. Family and molecular genetic studies suggest that there may be a genetic link between seasonality and alcoholism. Certain environmental and social factors may contribute to the development of seasonality in patients with alcoholism. The fact that SAD and alcoholism may be comorbid shows the importance of a thorough diagnostic interview. Both mental health and drug and alcohol professionals should be provided with education to assist with appropriate identification, management, and referral of patients presenting with comorbid alcoholism and SAD.

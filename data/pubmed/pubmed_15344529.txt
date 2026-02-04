@@ -1,8 +1,0 @@
-SEARCH_TOPIC: GERD
-TITLE: [GERD guideline].
-PMID: 15344529
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15344529/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-GERD guideline 2002 was defined by the experts in Japan after GERD Guideline Workshop 2002, based on the increased incidence of GERD in clinical practice in Japan and concentration of articles from Japanese patients. In the workshop, GERD was defined as follows; Gastroesophageal reflux disease (GERD) indicates those who have physical complications due to gastro-esophageal reflux and/or those who have impairment in their healthy life due to symptoms related to gastroesophageal reflux. In the diagnostic arm, evaluation of subjective symptom was placed as the most important. In the therapeutic arm, proton pump inhibitor (PPI) was named as the first line choice of medicine.

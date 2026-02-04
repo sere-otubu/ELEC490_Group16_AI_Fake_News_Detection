@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Endocrine system
-TITLE: The clandestine organs of the endocrine system.
-PMID: 28822775
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28822775/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review analyzes what could be regarded as the "clandestine organs" of the endocrine system: the gut microbiome, the immune system, and the stress system. The immune system is very closely related to the endocrine system, with many intertwined processes and signals. Many researchers now consider the microbiome as an 'organ' that affects the organism at many different levels. While stress is certainly not an organ, it affects so many processes, including endocrine-related processes, that the stress response system deserved a special section in this review. Understanding the connections, effects, and feedback mechanisms between the different "clandestine organs" and the endocrine system will provide us with a better understanding of how an organism functions, as well as reinforce the idea that there are no independent organs or systems, but a complex, interacting network of molecules, cells, tissues, signaling pathways, and mechanisms that constitute an individual.

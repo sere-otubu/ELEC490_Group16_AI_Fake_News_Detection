@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 1571683)
-    QUESTION: Storage of vaccines in the community: weak link in the cold chain?
-    CONTEXT: To assess quality of storage of vaccines in the community.
-    ANSWER: Vaccines were exposed to temperatures that may reduce their potency. Safe storage of vaccines in the clinics cannot be ensured without adhering to the recommended guidelines. Provision of adequate equipment and training for staff in maintaining the "cold chain" and the use and care of equipment are important components of a successful immunisation programme.
-    

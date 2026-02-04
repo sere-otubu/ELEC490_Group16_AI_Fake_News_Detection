@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Maternal mortality rates
-TITLE: U.S. Infant and Maternal Mortality Rates: Shamefully (and Unnecessarily) Bad and Getting Worse.
-PMID: 31188102
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31188102/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The U.S. rate is now higher than infant mortality rates in Antigua or Cuba. Furthermore, the overall U.S. rate masks significant disparities. The infant mortality rate of non-Hispanic black infants is 11.2 per 1,000 live births, which is comparable to the rate in Libya or Tunisia.

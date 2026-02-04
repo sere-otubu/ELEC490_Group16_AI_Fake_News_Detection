@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Posture correction
-TITLE: Active self-correction of spinal posture in pain-free women in response to the command "straighten your back".
-PMID: 27700244
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27700244/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Evidence is limited regarding the regional changes in spinal posture after self-correction. The aim of the present study was to evaluate whether active self-correction improved standing and sitting spinal posture. Photogrammetry was used to assess regional spinal curvatures and vertical global spine orientation (GSO) in 42 asymptotic women aged 20-24 years. Upper thoracic spine angle and GSO increased in response to self-correction, while the thoracolumbar and lumbosacral angles decreased. Self-correction in the standing position resulted in decreased inclination of the upper thoracic and thoracolumbar spinal angles. Correction of sitting posture reduced the angle of the upper thoracic spine and GSO. The effects of active self-correction on spinal curvature and GSO were different for the standing versus sitting position; the greatest effects of active correction were noted in the thoracic spine. Balanced and lordotic postures were most prevalent in the habitual and actively self-corrected standing positions, whereas the kyphotic posture was most prevalent in the habitual sitting position, indicative that self-correction back posture in the standing position could be an important health-related daily activity, especially during prolonged sitting.

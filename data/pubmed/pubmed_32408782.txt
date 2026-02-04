@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Endometriosis
-TITLE: Endometriosis: What is the Influence of Immune Cells?
-PMID: 32408782
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32408782/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-<b>Background</b>: Endometriosis does not have a well-established physiopathology. It has been addressed that endometriosis is an inflammatory disease, where endocrine-immunological interactions are probably involved in the pathogenesis of the disease. The role of the immune system in endometriosis has been suggested to play an important role in both initiation and progression of the disease.<b>Methods</b>: A search for the following keywords was performed in the PubMed database: "endometriosis", "endometriosis and ovarian cancer", "endometriosis and immunology", and "endometriosis and cytokines".<b>Results</b>: The articles identified were published in English between 1921 and 2020. We selected 100 articles for further analysis.<b>Conclusion</b>: The recognition of the direct involvement of these two important physiological mechanisms causes a change in the pathophysiological focus of the disease. Researching the activities of numerous cells involved in immune reactions may offer new therapeutic targets.

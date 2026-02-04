@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hearing loss
-TITLE: Hearing Loss and Tinnitus.
-PMID: 34391534
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34391534/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A focused history, otoscopic and tuning fork examination and formal hearing testing are the diagnostic pillars for the workup of hearing loss and tinnitus. The causes of hearing loss and tinnitus are varied and range from relatively common age-related hearing loss to rare tumors of the brain and skull base. In this chapter, the authors explain the diagnostic workup of hearing loss and tinnitus, review the pathophysiology of the most common causes, and describe the treatments available.

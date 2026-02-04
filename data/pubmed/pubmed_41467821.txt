@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Borderline personality disorder
-TITLE: [Borderline personality disorder].
-PMID: 41467821
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41467821/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Borderline Personality Disorder (BPD) is common, affecting 2 to 6 % of the general population, with a high prevalence in psychiatric settings. It is characterized by emotional, relational instability and impulsivity, often associated with suicidal behaviors and comorbid disorders (anxiety, depression, addictions). Understanding BPD relies on the concept of relational hypersensitivity, rooted in an altered self-concept. The biopsychosocial approach explains its origins through the interaction between genetic vulnerability and emotional invalidation during childhood, exacerbated by trauma. Treatment primarily involves cognitive-behavioral therapies (CBT), such as Dialectical Behavior Therapy (DBT), which promote emotional regulation and reduce self-harming behaviors. Management should include thorough evaluation and education focused on relational hypersensitivity. Although limited, pharmacological treatments can address specific dimensions of BPD but require cautious prescription.

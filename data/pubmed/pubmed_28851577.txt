@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Bulimia nervosa
-TITLE: Anorexia nervosa and bulimia nervosa: A meta-analysis of executive functioning.
-PMID: 28851577
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28851577/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Research investigating the link between eating disorder (ED) diagnosis and executive dysfunction has had conflicting results, yet no meta-analyses have examined the overall association of ED pathology with executive functioning (EF). Effect sizes were extracted from 32 studies comparing ED groups (27 of anorexia nervosa, 9 of bulimia nervosa) with controls to determine the grand mean effect on EF. Analyses included effects for individual EF measures, as well as an age-based subgroup analysis. There was a medium effect of ED diagnosis on executive functioning, with bulimia nervosa demonstrating a larger effect (Hedges's g=-0.70) than anorexia nervosa (g=-0.41). Within anorexia nervosa studies, subgroup analyses were conducted for age and diagnostic subtype. The effect of anorexia nervosa on EF was largest in adults; however, subgroup differences for age were not significant. Anorexia and bulimia nervosa are associated with EF deficits, which are particularly notable for individuals with bulimia nervosa. The present analysis includes recommendations for future studies regarding study design and EF measurement.

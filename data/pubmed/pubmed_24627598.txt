@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hepatitis C
-TITLE: Hepatitis C virus, mitochondria and auto/mitophagy: exploiting a host defense mechanism.
-PMID: 24627598
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24627598/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hepatitis C virus (HCV) is the major reason for liver transplantation and the main cause of liver-related morbidity and mortality in a great number of countries. As for the other viruses, this pathogen interferes in more than one process and in more than one way with host cell biology. A mounting body of evidence points, in particular, toward the drastic alterations of mitochondrial physiology and functions that virus is able to induce, albeit the mechanisms have partly remained elusive. Role of the mitochondria in immunity and in quality control systems, as autophagy, as well as the strategies that HCV has evolved to evade and even to manipulate mitochondrial surveillance for its benefit, highlights the importance of deepening the mechanisms that modulate this virus-mitochondrion interaction, not only to intensify our knowledge of the HCV infection pathogenesis but also to design efficient antiviral strategies.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hives
-TITLE: Chronic spontaneous urticaria guidelines: What is new?
-PMID: 36481045
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36481045/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Urticaria is a heterogeneous inflammatory disorder that can be acute or chronic and is defined by the appearance of wheals, angioedema, or both. Very recently, the newest update and revision of the international European Academy of Allergy and Clinical Immunology/Global Allergy and Asthma European Network/European Dermatology Forum/Asia Pacific Association of Allergy Asthma Clinical Immunology guideline for the definition, classification, diagnosis, and management of urticaria was published. It aims to help primary care physicians and specialists in the management of their patients with urticaria. The guideline applied the Grading of Recommendations Assessment Development and Evaluations approach to developing consensus recommendations. These recommendations were then discussed in a Delphi conference that included more than 250 specialists in the field, and they are endorsed by more than 50 international societies. Here, we highlight changes from previous versions of the international urticaria guideline and their impact on clinical practice.

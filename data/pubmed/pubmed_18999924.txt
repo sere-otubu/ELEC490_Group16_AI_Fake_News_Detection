@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Prenatal testing
-TITLE: Prenatal diagnosis: update on invasive versus noninvasive fetal diagnostic testing from maternal blood.
-PMID: 18999924
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18999924/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The modern obstetrics care includes noninvasive prenatal diagnosis testing such as first trimester screening performed between 11 and 14 weeks' gestation and second trimester screening performed between 15 and 20 weeks. In these screening tests, biochemical markers are measured in the maternal blood with or without ultrasound for fetal nuchal translucency with reported accuracy of up to 90%. Invasive procedures, including amniocentesis or chorionic villi sampling, are used to achieve over 99% accuracy. During these procedures direct fetal material is examined and, therefore, these tests are highly accurate with the caveat of a small risk for pregnancy loss. Much research now focuses on other noninvasive highly accurate and risk-free tests that will identify fetal material in the maternal blood. Fetal cells and fetal DNA/RNA provide fetal information but are hard to find in an overwhelming background of maternal cells and in the absence of specific fetal cell markers. The most experience has been accumulated with fetal rhesus and fetal sex determination from maternal blood, with an accuracy of up to 100% by using gene sequences that are absent from maternal blood. Although not clinically applicable yet, fetal cells, fetal DNA/RNA and fetal proteomics in combination with cutting edge technology are described to prenatally diagnose aneuploidies and single-gene disorders.

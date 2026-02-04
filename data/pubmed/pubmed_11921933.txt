@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Local anesthesia
-TITLE: [Practical aspects of local anesthesia. Infiltration anesthesia].
-PMID: 11921933
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11921933/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Local anaesthesia through infiltration is daily practiced in dentistry. Infiltration anaesthesia is effective in gums, mucosa and teeth, in the upper jaw and in the front part of the lower jaw. An amount of 0.3-0.5 ml of anaesthetics including vasoconstrictor is sufficient for 1-2 hours. The method is safe; only few contra-indications are known. Infiltration anaesthesia seldom leads to complications. Intravascular injection cannot entirely be excluded. Therefore slow injection and subsequent observation of the patient's reactions are required.

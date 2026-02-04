@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anticoagulants
-TITLE: Tromboc@t Working Group recommendations for management in patients receiving direct oral anticoagulants.
-PMID: 29602444
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29602444/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In recent years, direct oral anticoagulants (DOACs) have become an alternative to vitamin K antagonists (VKA) for the prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation (NVAF) as well as for prevention and treatment of deep venous thrombosis. Pivotal trials have demonstrated non-inferiority and potential superiority compared to warfarin, which increases the options of anticoagulant treatment. In our setting, the Anticoagulant Treatment Units (ATUs) and Primary Care Centres (PCCs) play an important role in the education, follow-up, adherence control and management in special situations of anticoagulated patients. These considerations have motivated us to elaborate the present consensus document that aims to establish clear recommendations that incorporate the findings of scientific research into clinical practice to improve the quality of care in the field of anticoagulation. A group of experts from the Catalan Thrombosis Group (TROMBOC@T) reviewed all published literature from 2009 to 2016, in order to provide recommendations based on clinical evidence. As a result of the project, a set of practical recommendations have been established that will facilitate treatment, education, follow-up and management in special situations of anticoagulated patients with ACODs. Progressive increase in the use of DOACs calls for measures to establish and homogenise clinical management guidelines for patients anticoagulated with DOACs in ATUs and PCCs.

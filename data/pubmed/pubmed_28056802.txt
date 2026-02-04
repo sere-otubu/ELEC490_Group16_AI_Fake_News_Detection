@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 28056802)
-    QUESTION: Is non-HDL-cholesterol a better predictor of long-term outcome in patients after acute myocardial infarction compared to LDL-cholesterol?
-    CONTEXT: It has recently been shown that non-high density lipoprotein cholesterol (non-HDL-C) may be a better predictor of cardiovascular risk than low density lipoprotein cholesterol (LDL-C). Based on known ethic differences in lipid parameters and cardiovascular risk prediction, we sought to study the predictability of attaining non-HDL-C target and long-term major adverse cardiovascular event (MACE) in Thai patients after acute myocardial infarction (AMI) compared to attaining LDL-C target.
-    ANSWER: Non-attaining non-HDL-C goal predicted MACE at long-term follow-up after AMI whereas non-attaining LDL-C goal was not associated with the higher risk. Therefore, non-HDL-C may be a more suitable target of dyslipidemia treatment than LDL-C in patients after AMI.
-    

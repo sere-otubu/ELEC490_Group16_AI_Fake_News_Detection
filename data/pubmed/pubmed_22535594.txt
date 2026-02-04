@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cushings syndrome
-TITLE: Subclinical Cushing's syndrome.
-PMID: 22535594
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22535594/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Subclinical Cushing's syndrome (SCS) refers to subtle autonomous cortisol hypersecretion that is insufficient to generate the typical, clinically recognizable overt syndrome. Diagnosis of SCS is challenging. The combination of 1 mg overnight dexamethasone suppression test, serum ACTH level, and urinary cortisol level are used to diagnose SCS. Laparoscopic adrenalectomy is the treatment of choice for SCS. Patients with adrenal incidentalomas and SCS should be treated with perioperative steroids to prevent post-operative hypocortisolism.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood donation safety
-TITLE: Autologous blood donation.
-PMID: 15922898
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15922898/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Preoperative autologous blood donation has become accepted as a standard practice in elective surgery. Subsequent improvements in blood safety and evolving surgical techniques resulting in less blood loss have caused a national decline in preoperative autologous blood donation by approximately 50%. Nevertheless, the continuing emergence of new pathogens and the potential for severe blood inventory shortages continue to give preoperative autologous blood donation an important role in blood conservation strategies.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22668712)
-    QUESTION: Internal derangement of the temporomandibular joint: is there still a place for ultrasound?
-    CONTEXT: The aim of this study was to assess the diagnostic value of articular sounds, standardized clinical examination, and standardized articular ultrasound in the detection of internal derangements of the temporomandibular joint.
-    ANSWER: The present study does not support the recommendation of ultrasound as a conclusive diagnostic tool for internal derangements of the temporomandibular joint.
-    

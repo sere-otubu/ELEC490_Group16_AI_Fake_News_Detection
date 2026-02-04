@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19854401)
-    QUESTION: Attaining negative margins in breast-conservation operations: is there a consensus among breast surgeons?
-    CONTEXT: The purpose of this survey was to ascertain the most common surgical practices for attaining negative (tumor-free) surgical margins in patients desiring breast-conservation treatment for breast cancer to see if a consensus exists for optimal treatment of patients.
-    ANSWER: Results of this survey highlight the wide variety of practice patterns in the US for handling surgical margins in breast-conservation treatment. This issue remains controversial, with no prevailing standard of care. Consequently, additional study is needed in the modern era of multimodality treatment to examine the minimal amount of surgical treatment necessary, in conjunction with chemotherapy and radiation, to attain adequate local control rates in breast-conservation treatment.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Autism spectrum disorder
-TITLE: Autism Spectrum Disorder and Sleep.
-PMID: 38302207
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38302207/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Children and adolescents with autism spectrum disorder (ASD) experience sleep disturbances, particularly insomnia, at rates much higher than the general population. Daytime behavioral problems and parental stress are associated with the resultant sleep deprivation. Behavioral interventions, parental education, and melatonin are effective treatments. The epidemiology of sleep disturbances in youth with ASD is reviewed in this article as well as the latest in treatments.

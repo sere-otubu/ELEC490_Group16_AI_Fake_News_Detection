@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Air pollution health effects
-TITLE: Air pollution: impact and prevention.
-PMID: 22726103
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22726103/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Air pollution is becoming a major health problem that affects millions of people worldwide. In support of this observation, the World Health Organization estimates that every year, 2.4 million people die because of the effects of air pollution on health. Mitigation strategies such as changes in diesel engine technology could result in fewer premature mortalities, as suggested by the US Environmental Protection Agency. This review: (i) discusses the impact of air pollution on respiratory disease; (ii) provides evidence that reducing air pollution may have a positive impact on the prevention of disease; and (iii) demonstrates the impact concerted polices may have on population health when governments take actions to reduce air pollution.

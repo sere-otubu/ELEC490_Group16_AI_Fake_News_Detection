@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mindfulness meditation
-TITLE: Mindfulness meditation and the immune system: a systematic review of randomized controlled trials.
-PMID: 26799456
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26799456/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Mindfulness meditation represents a mental training framework for cultivating the state of mindful awareness in daily life. Recently, there has been a surge of interest in how mindfulness meditation improves human health and well-being. Although studies have shown that mindfulness meditation can improve self-reported measures of disease symptomatology, the effect that mindfulness meditation has on biological mechanisms underlying human aging and disease is less clear. To address this issue, we conducted the first comprehensive review of randomized controlled trials examining the effects of mindfulness meditation on immune system parameters, with a specific focus on five outcomes: (1) circulating and stimulated inflammatory proteins, (2) cellular transcription factors and gene expression, (3) immune cell count, (4) immune cell aging, and (5) antibody response. This analysis revealed substantial heterogeneity across studies with respect to patient population, study design, and assay procedures. The findings suggest possible effects of mindfulness meditation on specific markers of inflammation, cell-mediated immunity, and biological aging, but these results are tentative and require further replication. On the basis of this analysis, we describe the limitations of existing work and suggest possible avenues for future research. Mindfulness meditation may be salutogenic for immune system dynamics, but additional work is needed to examine these effects.

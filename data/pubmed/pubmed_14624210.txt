@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hormone replacement therapy
-TITLE: Hormone replacement therapy update: who should we be prescribing this to now?
-PMID: 14624210
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/14624210/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To summarize results from the Women's Health Initiative trial and other recent randomized placebo-controlled trials of hormone replacement therapy, which fundamentally changed our understanding of its risks and benefits. The Women's Health Initiative study for the first time provided evidence of harmful effects of hormone replacement therapy on the cardiovascular system and also confirmed significantly increased risk of breast cancer which was previously documented in a metaanalysis. Most recent studies indicate a particularly harmful effect of combined estrogen/progestin regimens in terms of increased breast cancer risk. The effects of hormone replacement therapy on coronary heart disease, stroke, venous thromboembolism, breast cancer, gallbladder, diabetes, cognitive function, health-related quality of life, colorectal cancer, osteoporosis and menopausal symptoms are discussed briefly. The emphasis is on providing concise clinical guidelines for hormone replacement therapy use in new circumstances. We also discuss some alternative therapeutic modalities for women who have menopausal symptoms, but contraindications for hormone replacement therapy.

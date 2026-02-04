@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Heart failure
-TITLE: Advanced heart failure: state of the art and future directions.
-PMID: 35229539
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35229539/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Advanced heart failure is a clinical challenge that requires a pathophysiological-based approach. As the field has been the subject of multiple reviews, the objective of this paper is not to duplicate these publications but rather to offer practical tips for the clinical cardiologist to enable the optimal management of patients with advanced heart failure. Advanced heart failure is defined as a clinical syndrome characterized by severe and persistent symptoms, most commonly with severe ventricular dysfunction, despite optimized medical therapy. This review covers the management of the advanced heart failure patient from pharmacologic therapy with disease-modifying drugs, to the use of electrical therapy devices, percutaneous valve repair and finally to the role of left ventricular assist devices and heart transplantation. The review also explores future directions in the management of advanced heart failure, including translational perspectives for the treatment of this syndrome.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Schizophrenia
-TITLE: Role of melatonin in schizophrenia.
-PMID: 23698762
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23698762/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Schizophrenia is a chronic mental disease that disturbs several cognitive functions, such as memory, thought, perception and volition. Schizophrenia's biological etiology is multifactorial and is still under investigation. Melatonin has been involved in schizophrenia since the first decades of the twentieth century. Research into melatonin regarding schizophrenia has followed two different approaches. The first approach is related to the use of melatonin as a biological marker. The second approach deals with the clinical applications of melatonin as a drug treatment. In this paper, both aspects of melatonin application are reviewed. Its clinical use in schizophrenia is emphasized.

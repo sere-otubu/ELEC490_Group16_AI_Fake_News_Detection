@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Contraception methods
-TITLE: Contraception.
-PMID: 3054957
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3054957/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The technology of fertility control has made dramatic strides in the past 25 years, offering a wider variety of safe, effective contraceptive choices than ever before. Lower dose oral contraceptives, new barrier techniques, and improved IUDs have been important recent advances, and new methods of hormonal delivery offer promise for the future. However, the search for safer, more effective, and more convenient contraceptive options must continue as a high research priority.

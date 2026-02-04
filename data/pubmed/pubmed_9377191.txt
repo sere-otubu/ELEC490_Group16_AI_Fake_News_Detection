@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Down syndrome
-TITLE: Down syndrome: a review of the literature.
-PMID: 9377191
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9377191/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review of the literature on Down syndrome focuses on various systemic anomalies and oral anomalies, its clinical manifestations, and recommendations for persons with Down syndrome. From the time Down syndrome was diagnosed by phenotype to the present when karyotyping distinguishes chromosomal subgroups, increasingly sophisticated tests and treatments have influenced the lives of Down syndrome patients. Medical advances, special educational programs, and increasing social acceptance of disabled people in the community have resulted in current trends of normalization and deinstitutionalization of these patients. Once a dentist is familiar with a patient's medical history and takes needed precautions, these patients can be treated routinely in a dental office.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mammography
-TITLE: Digital mammography.
-PMID: 12116601
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12116601/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Digital mammography, using novel detector technology, has been shown to be at least as sensitive as screen-film mammography for detecting early breast cancer. However, there are barriers to overcome, particularly in soft-copy display, workstation design, and equipment cost. These problems are actively being addressed and are solvable, eventually allowing digital mammography to assume a "prime time" role.

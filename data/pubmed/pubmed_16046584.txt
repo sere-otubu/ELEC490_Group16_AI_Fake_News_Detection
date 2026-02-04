@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 16046584)
-    QUESTION: Menopausal hormone therapy and irregular endometrial bleeding: a potential role for uterine natural killer cells?
-    CONTEXT: Irregular bleeding affects many users of combined menopausal hormone therapy (HT) and commonly leads to invasive and expensive investigations to exclude underlying malignancy. In most cases no abnormality is found.
-    ANSWER: Little is known about the mechanisms underlying irregular bleeding in HT users. This is the first report of uNK cells and their association with regulating cytokines in postmenopausal endometrium and demonstrates a possible mechanism by which HT may induce irregular bleeding.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immunosuppressants
-TITLE: Tolerogenic Therapies in Cardiac Transplantation.
-PMID: 40362208
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40362208/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Heart transplantation remains the gold-standard treatment for end-stage heart failure, yet long-term graft survival is hindered by chronic rejection and the morbidity and mortality caused by lifelong immunosuppression. While advances in medical and device-based therapies have reduced the overall need for transplantation, patients who ultimately require a transplant often present with more advanced disease and comorbidities. Recent advances in tolerance-inducing strategies offer promising avenues to improve allograft acceptance, while minimizing immunosuppressive toxicity. This review explores novel approaches aiming to achieve long-term immunological tolerance, including co-stimulation blockade, mixed chimerism, regulatory T-cell (Treg) therapies, thymic transplantation, and double-organ transplantation. These strategies seek to promote donor-specific unresponsiveness and mitigate chronic rejection. Additionally, expanding the donor pool remains a critical challenge in addressing organ shortages. Innovations such as ABO-incompatible heart transplantation are revolutionizing the field by increasing donor availability and accessibility. In this article, we discuss the mechanistic basis, clinical advancements, and challenges of these approaches, highlighting their potential to transform the future of heart transplantation with emphasis on clinical translation.

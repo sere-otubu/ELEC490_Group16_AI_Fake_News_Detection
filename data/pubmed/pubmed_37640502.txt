@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lactose intolerance
-TITLE: Lactose Intolerance - Single Nucleotide Polymorphisms and Treatment.
-PMID: 37640502
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37640502/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The majority (about 70%) of the world's population suffers from lactose intolerance. Lactose intolerance leads to long-term discomfort when consuming milk and dairy products, and hence, to their avoidance. Consequently, the intake of important nutrients is reduced, which potentially has a negative impact on the overall health. Knowing the condition - lactose intolerance - will prevent people from unnecessarily restricting dairy products in their diets. In this study, lactose synthesis and catabolism in the human body are presented, also the types of lactose intolerance, as well as the methods of diagnosing this condition, are discussed. Special attention is paid to the genetic causes of this discomfort and to the tests that can be performed. Solutions for the treatment of lactose intolerance have also been proposed, both up-to-date and easily applicable, as well as future developments.

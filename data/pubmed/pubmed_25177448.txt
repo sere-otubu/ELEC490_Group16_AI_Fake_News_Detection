@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Carpal tunnel syndrome
-TITLE: Current approaches for carpal tunnel syndrome.
-PMID: 25177448
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25177448/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-With advancement in biomechanical and biological research on idiopathic carpal tunnel syndrome, the insight on the pathophysiology of carpal tunnel syndrome has gained much clinical relevance. Open carpal tunnel release is still a gold standard procedure for carpal tunnel syndrome, which has evolved into mini-open procedure with development of new devices. Endoscopic carpal tunnel release has become popular in recent practice of hand surgery with an advantage of early recovery of hand function with minimal morbidity. However, endoscopic carpal tunnel release has its own limitation such as long learning curve with obvious surgical risk reported in the literature. In this review article, various treatment protocols for idiopathic carpal tunnel syndrome are presented with special highlight on endoscopic carpal tunnel release, which is gaining popularity in current practice.

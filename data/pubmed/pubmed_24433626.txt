@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24433626)
-    QUESTION: Prevalence of chronic conditions among Medicare Part A beneficiaries in 2008 and 2010: are Medicare beneficiaries getting sicker?
-    CONTEXT: Medicare beneficiaries who have chronic conditions are responsible for a disproportionate share of Medicare fee-for-service expenditures. The objective of this study was to analyze the change in the health of Medicare beneficiaries enrolled in Part A (hospital insurance) between 2008 and 2010 by comparing the prevalence of 11 chronic conditions.
-    ANSWER: Analyzing the prevalence of 11 chronic conditions by using Medicare claims data provides a monitoring tool that can guide health care providers and policy makers in devising strategies to address chronic conditions and rising health care costs.
-    

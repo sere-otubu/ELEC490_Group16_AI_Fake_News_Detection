@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21618245)
-    QUESTION: Does surgery or radiation therapy impact survival for patients with extrapulmonary small cell cancers?
-    CONTEXT: Extrapulmonary small cell carcinomas (EPSCC) are rare tumors where therapy remains poorly defined. We sought to determine the impact of surgical extirpation and radiation therapy for outcomes of EPSCC.
-    ANSWER: Although outcomes for EPSCC remains poor, both surgery and radiation is shown to significantly improve median, 5- and 10-year survival rates. EPSCC patients who are potential candidates for surgical resection or radiation therapy may benefit from these treatments.
-    

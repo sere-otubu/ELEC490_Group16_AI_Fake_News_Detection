@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sun safety
-TITLE: Sun Exposure and Sun Safety Habits Among Adults in Singapore: A Cross-Sectional Study.
-PMID: 32112066
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32112066/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sun exposure increases skin cancer risk. Studies have shown that demographic factors influence sun safety behaviour but there is a paucity of such data in Singapore. We aimed to identify sociodemographic predictors of sun safety habits in Singapore. A total of 2328 adults participated in a cross-sectional survey on time spent under the sun and sun safety habits (using protective headgear, body attire, umbrellas and sunscreens). A composite Sun Protection Score (higher scores represented better habits [range, 0-15]) and the average daily hours (ADH) of sun exposure were derived from the data. The relationship between the Sun Protection Score and ADH of sun exposure with sociodemographic factors was analysed using univariate (Mann-Whitney U or Kruskal-Wallis tests), multiple linear and logistic regression analyses. The following statistically significant variables predicted a lower Sun Protection Score: men (β = -1.48, <i>P</i> <0.001), Indians (β = -1.04, <i>P</i> <0.001), history of diabetes (β = -0.60, <i>P</i> = 0.007) and people who do not consume alcohol (β = 0.31, <i>P</i> = 0.03). Younger adults (β = -0.2, <i>P</i> <0.001), men (β = 0.80, <i>P</i> <0.001), darker skin type (β = 0.27, <i>P</i> <0.001) and lower education level (β = -0.18, <i>P</i> <0.001) were statistically significant variables that predicted a longer ADH of sun exposure. The study has identified sociodemographic predictors of sun safety habits in Singapore.

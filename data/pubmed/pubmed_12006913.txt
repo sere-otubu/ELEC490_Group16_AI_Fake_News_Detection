@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12006913)
-    QUESTION: Do lipids, blood pressure, diabetes, and smoking confer equal risk of myocardial infarction in women as in men?
-    CONTEXT: Studies on coronary risk factors in men and women are mainly based on mortality data and few compare results of both sexes with consistent study design and diagnostic criteria. This study assesses the major risk factors for coronary events in men and women from the Reykjavik Study.
-    ANSWER: This large study of the major risk factors compared between the sexes demonstrates similar relative risk of myocardial infarction associated with cholesterol for both sexes, however, the relative risk is higher in women for many other risk factors such as smoking, diabetes, elevated triglycerides and left ventricular hypertrophy.
-    

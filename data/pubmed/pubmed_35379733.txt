@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Athletes foot
-TITLE: Diagnosis and Management of Plantar Dermatoses.
-PMID: 35379733
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35379733/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Plantar dermatoses (PD) are common, occurring either spontaneously on healthy skin or developing secondarily from previously established foot disease. PD share similar symptoms and morphology, making them challenging to differentiate. A few of the most frequently encountered PD include tinea pedis, psoriasis, contact dermatitis, dyshidrotic dermatitis (or recurrent vesicular palmoplantar dermatitis), and juvenile plantar dermatosis. This review offers practical advice for diagnosing and treating the most common PD in the primary care office.

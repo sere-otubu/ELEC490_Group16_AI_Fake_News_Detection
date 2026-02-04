@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Intestines function
-TITLE: Enteric neurophysiology.
-PMID: 6150644
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6150644/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Enteric neurophysiology is an emerging subspecialty of gastrointestinal biology. As such, it offers many investigative challenges and opportunities for advancement of understanding of gastrointestinal function. This review is organized to present the current status of enteric neurophysiology, to explain the controversies, and to explore the directions in which the subspecialty appears to be advancing. Current concepts of structural-functional relationships of the neuronal constituents of the enteric nervous system are presented in conjunction with electrophysiological and synaptic mechanisms. Relations between electrical and synaptic behavior of the neurons and information handling and integrative function within the local circuits are explored. Emergent properties of the system are considered in view of indications that the subsets of internuncial circuits that control each gastrointestinal effector are interconnected to ensure appropriate behavior that achieves coordination for optimal performance of the whole organ.

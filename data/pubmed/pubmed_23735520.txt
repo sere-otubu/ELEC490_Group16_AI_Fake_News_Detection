@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23735520)
-    QUESTION: Can mental imagery functional magnetic resonance imaging predict recovery in patients with disorders of consciousness?
-    CONTEXT: To determine the potential prognostic value of using functional magnetic resonance imaging (fMRI) to identify patients with disorders of consciousness, who show potential for recovery.
-    ANSWER: The fMRI paradigm mental imagery displays a high concordance with the further clinical course of patients in a VS. All 5 patients in a VS who showed significant activation of ROIs had a favorable further course until the end of the observation period. We therefore propose the term "functional minimally conscious state" for these patients. They may benefit from rehabilitation treatment. In cases where no significant activation was seen, the method has no prognostic value. Prediction of the clinical course of patients in an MCS by fMRI was considerably less accurate than in patients in a VS.
-    

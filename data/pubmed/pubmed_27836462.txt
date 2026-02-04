@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ADHD
-TITLE: Clock genes, ADHD and aggression.
-PMID: 27836462
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27836462/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Attention deficit/hyperactivity disorder (ADHD) is frequently associated with comorbid aggression and sleep disturbances. The sleep/wake cycle is under the control of the circadian system which is moderated by clock genes. Clock genes can regulate the transcription of monoamine oxidase A, which is involved in the degradation of monoamines. Disturbances in monoamine interaction with clock genes in those with monoamine gene polymorphisms may regulate susceptibility of ADHD and comorbid aggression/sleep disturbances. While monoamines influence circadian rhythm and clock gene expression, circadian rhythm components modulate aggressive behavior, and altered clock genes expression have been associated with ADHD. We propose a mechanism by which circadian rhythm and clock gene expression may influence ADHD and comorbid aggression through the modulation of neurotransmitters. The role of clock genes in ADHD patients with comorbid aggression awaits further research; therefore we also indicate directions for future studies to help increase understanding of the underlying mechanisms in ADHD with comorbid aggression and sleep disturbances.

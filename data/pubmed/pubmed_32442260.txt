@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Narcolepsy
-TITLE: Narcolepsy type 1: what have we learned from genetics?
-PMID: 32442260
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32442260/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Type-1 narcolepsy is a severe neurological disorder with distinct characteristic of loss of hypocretin neurotransmitter. Genetic analysis in type-1 narcolepsy have revealed a unique signal pointing toward autoimmune, rather than psychiatric origin. While type-1 narcolepsy has been intensively studied, the other subtypes of hypersomnolence, narcolepsy, and hypersomnia are less thoroughly understood. This review summarizes the latest breakthroughs in the field in narcolepsy. The goal of this article is to help the reader to understand better the risk from genetic factors and their interplay with immune, genetic, and epidemiological aspects in narcolepsy.

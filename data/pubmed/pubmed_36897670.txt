@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Acupuncture
-TITLE: Application of fMRI techniques in the study of acupuncture for gynecological diseases: A review.
-PMID: 36897670
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36897670/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Acupuncture therapy, as a characteristic of Chinese medical therapy, has a long history and remarkable effect in the treatment of gynecological diseases, and so far, it has formed a complete treatment system, but its efficacy and mechanism of action remain unclear. Functional magnetic resonance imaging, a visual technique, provides an objective basis for the study of acupuncture in the treatment of gynecological diseases. This paper summarizes the current status of acupuncture in the treatment of gynecological diseases and summarizes the progress of functional magnetic resonance imaging research related to acupuncture in the treatment of gynecological diseases in the past 10 years, mainly including the common types of gynecological diseases in acupuncture clinics, and the commonly used acupuncture points. This study is expected to provide literature support for subsequent research on the central mechanisms of acupuncture in the treatment of gynecological diseases.

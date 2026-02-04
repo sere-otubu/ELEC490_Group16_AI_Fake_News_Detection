@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 15995461)
-    QUESTION: Do some U.S. states have higher/lower injury mortality rates than others?
-    CONTEXT: This article examines the hypothesis that the six U.S. states with the highest rates of road traffic deaths (group 1 states) also had above-average rates of other forms of injury such as falling, poisoning, drowning, fire, suffocation, homicide, and suicide, and also for the retail trade and construction industries. The converse, second hypothesis, for the six states with the lowest rates of road traffic deaths (group 2 states) is also examined.
-    ANSWER: Group 1 states are likely to exhibit above-average rates for most other categories of injury death, whereas group 2 states are even more likely to exhibit below-average rates for most other categories of injury death.
-    

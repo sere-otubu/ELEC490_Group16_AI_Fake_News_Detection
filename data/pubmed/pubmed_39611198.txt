@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sexual health
-TITLE: Associations between sexual health and well-being: a systematic review.
-PMID: 39611198
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39611198/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To investigate the associations between sexual health dimensions, and overall health and well-being. In February 2024, we systematically searched Scopus, PsyArticles, PsycINFO®, PubMed®, Web of Science and LILACS for articles reporting on associations between sexual health, health and well-being indicators. We applied no language restrictions and followed the 2020 Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. To assess the risk of bias in the included studies, we used the Risk Of Bias In Non-randomized Studies - of Exposures tool. Of 23 930 unique titles identified, 63 studies met the inclusion criteria. We grouped the results into two categories: (i) sexual and physical health; and (ii) sexual and psychological health. The results consistently showed strong correlations between sexual health, overall health and well-being. Almost all studies found significant associations between positive sexual health indicators and lower depression and anxiety, higher quality of life, and greater life satisfaction among men and women, including older adults, pregnant women, and same-sex and mixed-sex couples. Findings indicate that emphasizing a positive perspective on sexual health and highlighting its benefits should be regarded as an important component of the effort to improve overall health and well-being for everyone.

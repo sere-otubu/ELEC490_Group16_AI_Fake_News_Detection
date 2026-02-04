@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Digital detox
-TITLE: Digital detox: The effect of smartphone abstinence on mood, anxiety, and craving.
-PMID: 31430621
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31430621/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Whether behavioural addictions should be conceptualised using a similar framework to substance-related addictions remains a topic of considerable debate. Previous literature has developed criteria, which allows any new behavioural addiction to be considered analogous to substance-related addictions. These imply that abstinence from a related object (e.g., smartphones for heavy smartphone users) would lead to mood fluctuations alongside increased levels of anxiety and craving. In a sample of smartphone users, we measured three variables (mood, anxiety, and craving) on four occasions, which included a 24-hour period of smartphone abstinence. Only craving was affected following a short period of abstinence. The results suggest that heavy smartphone usage does not fulfil the criteria required to be considered an addiction. This may have implications for other behavioural addictions.

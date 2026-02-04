@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20297950)
-    QUESTION: Proof of concept study: does fenofibrate have a role in sleep apnoea syndrome?
-    CONTEXT: To investigate the effect of fenofibrate on sleep apnoea indices.
-    ANSWER: The consistent direction of change in sleep indices in this proof-of-concept study may support further investigation of fenofibrate in moderate to severe sleep apnoea syndrome.
-    

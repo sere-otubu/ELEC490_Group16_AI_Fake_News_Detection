@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17323047)
-    QUESTION: Does invasive diagnosis of nosocomial pneumonia during off-hours delay treatment?
-    CONTEXT: We examined whether invasive lung-specimen collection-to-treatment times for intensive care unit patients with suspected ventilator-associated pneumonia (VAP) differ with to the work shift during which specimens were collected. We compared weekday day shifts and off-hours (from 6:30 p.m. to 8:29 a.m. the next day for night shifts, from Saturday 1:00 p.m. to Monday 8:29 a.m. for weekends, and from 8:30 a.m. to 8:29 a.m. the following morning for public holidays).
-    ANSWER: An invasive strategy based on bronchoscopy to diagnose VAP was not associated with a longer time to first appropriate antibiotic administration when clinical suspicion of VAP occurs during off-hours.
-    

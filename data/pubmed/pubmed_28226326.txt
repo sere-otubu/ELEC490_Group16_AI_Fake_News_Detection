@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Psoriasis
-TITLE: Psoriasis and Obesity.
-PMID: 28226326
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28226326/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Psoriasis is a common chronic inflammatory skin disease with a complex pathogenesis consisting of a genetic component, immune dysfunction, and environmental factors. It is associated with numerous comorbidities including psoriatic arthritis, cardiovascular disease, metabolic syndrome, and obesity. Evidence suggests that obesity is a risk factor for incident psoriasis, aggravates existing psoriasis, and that weight reduction may improve the severity of psoriasis in overweight individuals. Excess body weight may interfere with the medical treatment used in psoriasis and adds to the cardiovascular risk profile in these patients, which underscores the importance of effective weight control regimens. In this review we examine the current literature with regard to the association between obesity and psoriasis.

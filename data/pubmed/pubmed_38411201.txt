@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Arthritis
-TITLE: Management of postinfectious inflammatory arthritis.
-PMID: 38411201
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38411201/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Postinfectious inflammatory arthritis can result from various pathogens, including bacteria, viruses, fungi, and parasites. Prompt identification and treatment of acute infection is vital, but some cases progress to chronic arthritis despite successful treatment of infection. Postinfectious inflammatory arthritis varies from mild, self-limited arthralgia to severe, refractory arthritis, necessitating ongoing disease-modifying treatment. This review explores the spectrum of postinfectious inflammatory arthritis to provide insights into effective management. Research continues regarding the benefit of antimicrobial therapy, beyond treatment of the acute infection, to diminish the severity of postinfectious inflammatory arthritis. Following treatment of acute infection, most cases are self-limited so treatment is symptomatic. However, a difficult-to-predict fraction of cases develop chronic postinfectious inflammatory arthritis that can be challenging to manage. Recently, as more biologic, and targeted synthetic DMARDs have become available, treatment options have expanded. In this article, we use the term 'postinfectious inflammatory arthritis' rather than 'reactive arthritis' because it describes a broader spectrum of diseases and emphasizes the common pathogenesis of a postinfectious inflammatory process. We summarize the conventional therapies and recent management developments for the most frequently encountered postinfectious inflammatory arthritides.

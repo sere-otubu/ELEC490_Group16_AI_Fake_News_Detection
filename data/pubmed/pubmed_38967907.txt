@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fatty liver disease
-TITLE: Epidemiology and diagnosis of metabolic dysfunction-associated fatty liver disease.
-PMID: 38967907
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38967907/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The most common chronic liver illness worldwide is metabolic dysfunction linked to fatty liver disease (MAFLD), which is poorly understood by doctors and patients. Many people with this disease develop steatohepatitis, cirrhosis and its consequences, as well as extrahepatic manifestations; these conditions are particularly common if they are linked to diabetes mellitus or obesity. A breakthrough with numerous benefits is the switch from NAFLD to MAFLD in terms of terminology and methodology. The diagnosis of MAFLD is based on affirmative criteria; unlike NAFLD, it is no longer based on exclusion. The diagnosis of MAFLD and the evaluation of steatosis and fibrosis is achieved using liver biopsy and non-invasive laboratory or radiographic techniques. We briefly address the most recent developments in MAFLD epidemiology and diagnosis.

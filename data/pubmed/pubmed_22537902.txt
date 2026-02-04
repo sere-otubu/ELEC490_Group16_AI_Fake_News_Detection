@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22537902)
-    QUESTION: Colorectal cancer with synchronous liver metastases: does global management at the same centre improve results?
-    CONTEXT: Synchronous liver metastases (SLM) occur in 20% of colorectal cancers (CRC). Resection of SLM and CLC can be undertaken at different centres (separate management, SM) or at the same centre (global management, GM).
-    ANSWER: GM of CRC and SLM was associated with fewer procedures but did not influence overall survival. SM was associated with a longer delay and increased use of chemotherapy between procedures, suggesting that more rigorous selection of SM patients for surgery may explain the higher disease-free survival after SLM resection.
-    

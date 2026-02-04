@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antifungals
-TITLE: Hepatotoxicity of Antibiotics and Antifungals and Their Safe Use in Hepatic Impairment.
-PMID: 38740371
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38740371/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-<i>Idiosyncratic</i> drug-induced liver injury (DILI) is a rare and unpredictable form of hepatotoxicity. While its clinical course is usually benign, cases leading to liver transplantation or death can occur. Based on modern prospective registries, antimicrobials including antibiotics and antifungals are frequently implicated as common causes. Amoxicillin-clavulanate ranks as the most common cause for DILI in the Western World. Although the absolute risk of hepatotoxicity of these agents is low, as their usage is quite high, it is not uncommon for practitioners to encounter liver injury following the initiation of antibiotic or antifungal therapy. In this review article, mechanisms of hepatoxicity are presented. The adverse hepatic effects of well-established antibiotic and antifungal agents are described, including their frequency, severity, and pattern of injury and their HLA risks. We also review the drug labeling and prescription guidance from regulatory bodies, with a focus on individuals with hepatic impairment.

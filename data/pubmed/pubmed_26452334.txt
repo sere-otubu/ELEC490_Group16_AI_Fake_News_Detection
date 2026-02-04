@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26452334)
-    QUESTION: Measurement of head and neck paragangliomas: is volumetric analysis worth the effort?
-    CONTEXT: The aim of this study was to assess the reproducibility of different measurement methods and define the most workable technique for measuring head and neck paragangliomas, to determine the best method for evaluating tumour growth. The evaluation of tumour growth is vital for a 'wait-and-scan' policy, a management strategy that became increasingly important.
-    ANSWER: Due to a relatively good reproducibility, fast and easy application, we found the linear dimension method to be the most pragmatic approach for evaluation of growth of carotid and vagal body paragangliomas. For jugulotympanic tumours, the preferred method is manual area tracing. However, volumetric changes of these tumours may be of less clinical importance than changes in relation to surrounding anatomical structures.
-    

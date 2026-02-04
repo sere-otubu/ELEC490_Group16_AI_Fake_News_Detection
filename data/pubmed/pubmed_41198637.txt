@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Diuretics
-TITLE: The role of diuretics in ICUs: when? which? how?
-PMID: 41198637
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41198637/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The diuretic agents are commonly used in ICUs for various purposes. Despite the widespread utilization of diuretics, there remains substantial ambiguity regarding their indications, ICU-related changes in their pharmacodynamics and pharmacokinetics, dosing, form, and timing of administration, the differences in their utilities based on each organ failure, and their monitoring and safety issues. In the recent past, there have been several clinical trials and large registries or systematic reviews with a focus on the use of diuretic agents in ICUs. In this review article, we outline the essential changes in drug behavior during critical illnesses and organ failures, describe the indications of their use in ICUs (management of fluid overload, electrolyte imbalances, or diagnostic or prognostic tests), assess the impact of different organ failures on the utility and effectiveness of diuretics, review major recent clinical trials related to diuretic comparison, use of multiple classes of diuretics, and monitoring and safety of their use. We also provide some information regarding the safety and adverse effects of diuretic use in the ICU and outline the importance of individualizing their use during critical illnesses.

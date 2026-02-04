@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ultrasound
-TITLE: WFUMB Position Paper. Learning Gastrointestinal Ultrasound: Theory and Practice.
-PMID: 27742140
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27742140/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gastrointestinal ultrasound (GIUS) is an ultrasound application that has been practiced for more than 30 years. Recently, GIUS has enjoyed a resurgence of interest, and there is now strong evidence of its utility and accuracy as a diagnostic tool for multiple indications. The method of learning GIUS is not standardised and may incorporate mentorship, didactic teaching and e-learning. Simulation, using either low- or high-fidelity models, can also play a key role in practicing and honing novice GIUS skills. A course for training as well as establishing and evaluating competency in GIUS is proposed in the manuscript, based on established learning theory practice. We describe the broad utility of GIUS in clinical medicine, including a review of the literature and existing meta-analyses. Further, the manuscript calls for agreement on international standards regarding education, training and indications.

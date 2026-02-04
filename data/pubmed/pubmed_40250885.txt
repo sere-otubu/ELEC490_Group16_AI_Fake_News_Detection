@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Adrenal glands
-TITLE: Adrenal Anatomy and Physiology.
-PMID: 40250885
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40250885/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The adrenal glands are paired endocrine organs that play a vital role in maintaining homeostasis by regulating blood pressure, metabolism, electrolyte balance, and the body's response to stress. Each gland comprises the adrenal cortex, which produces steroid hormones, and the adrenal medulla, responsible for catecholamine synthesis. The cortex is further divided into three functional zones, the zona glomerulosa (mineralocorticoids), zona fasciculata (glucocorticoids), and zona reticularis (androgens), while the medulla secretes adrenaline, noradrenaline, and dopamine under sympathetic control. This article aims to provide a comprehensive overview of the adrenal glands, including their anatomical structure, embryological development, vascular supply, microscopic architecture, and physiological function. Additionally, the historical evolution of adrenal research and the impact of modern molecular advancements are discussed. Understanding the anatomy and function of adrenal gland is crucial for diagnosing and managing adrenal disorders, including hormonal deficiencies, hypersecretion syndromes, and adrenal neoplasms.

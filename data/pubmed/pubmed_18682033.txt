@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Skeletal system
-TITLE: Osteoimmunology: cytokines and the skeletal system.
-PMID: 18682033
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18682033/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-It has become clear that complex interactions underlie the relationship between the skeletal and immune systems. This is particularly true for the development of immune cells in the bone marrow as well as the functions of bone cells in skeletal homeostasis and pathologies. Because these two disciplines developed independently, investigators with an interest in either often do not fully appreciate the influence of the other system on the functions of the tissue that they are studying. With these issues in mind, this review will focus on several key areas that are mediated by crosstalk between the bone and immune systems. A more complete appreciation of the interactions between immune and bone cells should lead to better therapeutic strategies for diseases that affect either or both systems.

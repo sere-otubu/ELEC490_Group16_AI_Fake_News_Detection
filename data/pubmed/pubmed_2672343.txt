@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Corticosteroids
-TITLE: Corticosteroids in rheumatoid arthritis.
-PMID: 2672343
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2672343/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This report has presented evidence to support a disease-modifying role for corticosteroids in rheumatoid arthritis. It would appear that the efficacy of these agents in retarding the destructive course of rheumatoid disease has been substantially underestimated. Consideration for more liberal use of corticosteroids in the management of rheumatoid arthritis is warranted. Further study on new approaches to corticosteroid delivery is proposed.

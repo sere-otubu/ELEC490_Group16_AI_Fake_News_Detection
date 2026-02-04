@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26859535)
-    QUESTION: Screening History Among Women with Invasive Cervical Cancer in an Academic Medical Center: Will We Miss Cancers Following Updated Guidelines?
-    CONTEXT: Updated guidelines for the screening and management of cervical cancer in the United States recommend starting Papanicolaou (Pap) testing at age 21 and screening less frequently with less aggressive management for abnormalities. We sought to examine updated Pap test screening guidelines and how they may affect the detection of invasive cervical cancer, especially among women<30 years of age.
-    ANSWER: In this small retrospective study, updated Pap test screening guidelines would not have missed invasive cancer on average among screened women age 30 and older. However, young patients aged 21-29 years may be at increased risk of developing IAC of the cervix between the recommended screening intervals.
-    

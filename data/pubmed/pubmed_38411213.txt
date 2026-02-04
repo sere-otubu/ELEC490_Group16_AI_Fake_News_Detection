@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Inhalers
-TITLE: Digital inhalers for asthma management.
-PMID: 38411213
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38411213/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although digital inhaler systems for asthma management have been commercially available for over a decade, their current use in clinical practice is limited. This review outlines barriers and offers potential solutions to their implementation. Digital inhaler systems demonstrate increased controller medication adherence, decreased quick-relief medication use, and improved asthma control. Use of digital inhaler systems is supported by data from large clinical trials demonstrating improved asthma outcomes. Navigating telemedicine during the coronavirus disease 2019 pandemic has led to advances clearing the path for increased adoption of digital inhaler systems. Progress in areas including patient education and onboarding, clinical management, coding and billing, privacy and security have facilitated implementation in clinical practice.

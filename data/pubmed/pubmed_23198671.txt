@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Seasonal affective disorder
-TITLE: Seasonal affective disorder.
-PMID: 23198671
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23198671/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Seasonal affective disorder is a combination of biologic and mood disturbances with a seasonal pattern, typically occurring in the autumn and winter with remission in the spring or summer. In a given year, about 5 percent of the U.S. population experiences seasonal affective disorder, with symptoms present for about 40 percent of the year. Although the condition is seasonally limited, patients may have significant impairment from the associated depressive symptoms. Treatment can improve these symptoms and also may be used as prophylaxis before the subsequent autumn and winter seasons. Light therapy is generally well tolerated, with most patients experiencing clinical improvement within one to two weeks after the start of treatment. To avoid relapse, light therapy should continue through the end of the winter season until spontaneous remission of symptoms in the spring or summer. Pharmacotherapy with antidepressants and cognitive behavior therapy are also appropriate treatment options and have been shown to be as effective as light therapy. Because of the comparable effectiveness of treatment options, first-line management should be guided by patient preference.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Micronutrients
-TITLE: Trace Mineral Micronutrients and Chronic Periodontitis-a Review.
-PMID: 27580897
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27580897/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Trace mineral micronutrients are imperative for optimum host response. Populations worldwide are prone to their insufficiency owing to lifestyle changes or poor nutritional intake. Balanced levels of trace minerals like iron (Fe), zinc (Zn), selenium (Se) and copper (Cu) are essential to prevent progression of chronic conditions like periodontitis. Their excess as well as deficiency is detrimental to periodontal health. This is specifically true in relation to Fe. Furthermore, some trace elements, e.g. Se, Zn and Cu are integral components of antioxidant enzymes and prevent reactive oxygen species induced destruction of tissues. Their deficiency can worsen periodontitis associated with systemic conditions like diabetes mellitus. With this background, the present review first focusses on the role of four trace minerals, namely, Fe, Zn, Se and Cu in periodontal health followed by an appraisal of the data from case control studies related to their association with chronic periodontitis.

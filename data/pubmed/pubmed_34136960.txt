@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Conjunctivitis
-TITLE: Allergic Conjunctivitis: An Update.
-PMID: 34136960
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34136960/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Conjunctivitis is a frequent disease of the eye with the typical clinical sign being the "red eye" and comprises a very heterogeneous group with different causes. In general, infectious conjunctivitis must be strictly differentiated from non-infectious conjunctivitis. Allergic conjunctivitis is a subtype of non-infectious conjunctivitis and imposes as an acute, intermittent or chronic, inflammation which is most frequently caused by airborne allergens. The leading clinical sign is chemosis, and patients typically complain about itching. Allergic conjunctivitis is often a reaction to topical and systemic drugs or cosmetics as well as animal hairs from cats and/or dogs. Allergic conjunctivitis is sub-classified into the following forms: seasonal allergic conjunctivitis (also termed: hay fever conjunctivitis), atopic conjunctivitis, vernal conjunctivitis, upper limbal (kerato-) conjunctivitis, and conjunctivitis associated with various oculomucocutaneous syndromes. In each form, there are distinctive features in: clinical appearance, generating agent(s), as well as treatment as listed here.

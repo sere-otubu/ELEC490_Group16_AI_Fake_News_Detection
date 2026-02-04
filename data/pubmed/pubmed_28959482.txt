@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep apnea
-TITLE: Sleep apnoea and stroke.
-PMID: 28959482
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28959482/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sleep disorders have been known to physicians for a long time. In his famous aphorisms, Hippocrates said "Sleep or watchfulness exceeding that which is customary, augurs unfavorably". Modern medicine has been able to disentangle some of the phenomena that disturb sleep. Among the most notable offenders is sleep apnoea that has gained prominence in the past few decades. It is being proposed as one of the potentially modifiable risk factors for vascular diseases including stroke. The pathological mechanisms linking sleep apnoea to vascular risk factors include hypoxia, cardiac arrhythmias, dysautonomia, impaired glucose tolerance, hypertension, dyslipidaemia and inflammation. In this article, we review literature linking sleep apnoea and stroke, including sleep apnoea as a risk factor for primary prevention with the potential to improve outcome after acute stroke and as a secondary risk factor, amenable to modification and hence vascular risk reduction.

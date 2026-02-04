@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Stress management
-TITLE: Cardiac stress testing for the diagnosis and management of coronary artery disease: a reference for the primary care physician.
-PMID: 22267098
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22267098/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Choosing the appropriate stress test is important in the workup of patients with possible myocardial ischemia. This choice often is challenging and sometimes confusing because of the plethora of tests and guidelines available. We present a broad overview of commonly available stress tests and indications to help physicians select the most appropriate stress test for their patients.

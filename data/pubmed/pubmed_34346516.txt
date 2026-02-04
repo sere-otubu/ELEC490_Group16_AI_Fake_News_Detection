@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lymphoma
-TITLE: Diagnosis and prognostic stratification of cutaneous lymphoma.
-PMID: 34346516
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34346516/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Primary cutaneous lymphomas are a heterogenous group of non-Hodgkin's lymphoma of both T/natural killer-cell and B-cell origin and defined to primarily present in the skin without extracutaneous involvement at diagnosis. In contrast to nodal non-Hodgkin's lymphoma, cutaneous T-cell lymphomas (CTCL) are more generally seen than cutaneous B-cell lymphomas (CBCL). CTCL and CBCL have various subtypes and each subtype has specifically characteristic clinical, pathological, and prognostic features. The diagnostic methods and staging evaluation of cutaneous lymphomas is mostly common in various guidelines created by professional societies. The diagnosis is made comprehensively based on clinical, pathological, laboratory, radiological, and genetic findings. On the other hand, definite prognostic stratification has not been completely established yet in most cutaneous lymphomas. This article focuses on the general and novel diagnostic methods and the current findings about prognostic factors and stratification in cutaneous lymphomas.

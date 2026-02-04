@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Emergency room triage
-TITLE: Triage tool for suspected COVID-19 patients in the emergency room: AIFELL score.
-PMID: 32828735
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32828735/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Clinical prediction scores support the assessment of patients in the emergency setting to determine the need for further diagnostic and therapeutic steps. During the current COVID-19 pandemic, physicians in emergency rooms (ER) of many hospitals have a considerably higher patient load and need to decide within a short time frame whom to hospitalize. Based on our clinical experiences in dealing with COVID-19 patients at the University Hospital in Zurich, we created a triage score with the acronym "AIFELL" consisting of clinical, radiological and laboratory findings. The score was then evaluated in a retrospective analysis of 122 consecutive patients with suspected COVID-19 from March until mid-April 2020. Descriptive statistics, Student's t-test, ANOVA and Scheffe's post-hoc analysis confirmed the diagnostic power of the score. The results suggest that the AIFELL score has potential as a triage tool in the ER setting intended to select probable COVID-19 cases for hospitalization in spontaneously presenting or referred patients with acute respiratory symptoms.

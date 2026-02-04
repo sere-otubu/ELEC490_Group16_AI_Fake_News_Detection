@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 15151701)
-    QUESTION: Profiling quality of care: Is there a role for peer review?
-    CONTEXT: We sought to develop a more reliable structured implicit chart review instrument for use in assessing the quality of care for chronic disease and to examine if ratings are more reliable for conditions in which the evidence base for practice is more developed.
-    ANSWER: For conditions with a well-developed quality of care evidence base, such as hypertension and diabetes, a single structured implicit review to assess the quality of care over a period of time is moderately reliable. This method could be a reasonable complement or alternative to explicit indicator approaches for assessing and comparing quality of care. Structured implicit review, like explicit quality measures, must be used more cautiously for illnesses for which the evidence base is less well developed, such as COPD and acute, short-course illnesses.
-    

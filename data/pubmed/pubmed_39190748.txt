@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Health insurance systems
-TITLE: Health insurance system fragmentation and COVID-19 mortality: Evidence from Peru.
-PMID: 39190748
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39190748/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Peru has a fragmented health insurance system in which most insureds can only access the providers in their insurer's network. The two largest sub-systems covered about 53% and 30% of the population at the start of the pandemic; however, some individuals have dual insurance and can thereby access both sets of providers. We use data on 24.7 million individuals who belonged to one or both sub-systems to investigate the effect of dual insurance on COVID-19 mortality. We estimate recursive bivariate probit models using the difference in the distance to the nearest hospital in the two insurance sub-systems as Instrumental Variable. The effect of dual insurance was to reduce COVID-19 mortality risk by 0.23% compared with the sample mean risk of 0.54%. This implies that the 133,128 COVID-19 deaths in the sample would have been reduced by 56,418 (95%CI: 34,894, 78,069) if all individuals in the sample had dual insurance.

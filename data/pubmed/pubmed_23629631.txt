@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Schizophrenia
-TITLE: [Schizophrenia--a mild encephalitis?].
-PMID: 23629631
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23629631/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The mild encephalitis (ME) hypothesis describes a subgroup of severe psychiatric disorders, with a focus on a subgroup of schizophrenias, in which low-level neuroinflammation (LLNI) represents the core in pathogenesis. LLNI is increasingly recognised in experimental neuroimmunology and is in principle able to explain various types of psychopathology. Epidemiology and course of schizophrenia are well compatible with the ME hypothesis, indirectly indicating that the ME subgroup may be rather large. With the ME model connected is a set of three contributing factors: genes, environment (especially infectious agents) and the immune system. The type of psychopathology observed in the individual case may heavily depend upon other conditions, e. g. pre-existing vulnerabilities. The first large-scale epidemiological study in psychiatry identified two factors during lifetime, severe infectious diseases and autoimmune diseases, as risk factors. This and clinical findings more and more support the ME hypothesis, e. g., activated monocytes or proteome changes in blood and slight CSF pathologies in more than 60 % of therapy-resistant schizophrenia, or activated microglia and dysconnectivity in neuroimaging.

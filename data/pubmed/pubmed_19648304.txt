@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19648304)
-    QUESTION: Does sonographic needle guidance affect the clinical outcome of intraarticular injections?
-    CONTEXT: This randomized controlled study addressed whether sonographic needle guidance affected clinical outcomes of intraarticular (IA) joint injections.
-    ANSWER: Sonographic needle guidance significantly improves the performance and outcomes of outpatient IA injections in a clinically significant manner.
-    

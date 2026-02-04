@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sedentary lifestyle risks
-TITLE: Association of genetic risk, lifestyle, and their interaction with obesity and obesity-related morbidities.
-PMID: 38959863
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38959863/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The extent to which modifiable lifestyle factors offset the determined genetic risk of obesity and obesity-related morbidities remains unknown. We explored how the interaction between genetic and lifestyle factors influences the risk of obesity and obesity-related morbidities. The polygenic score for body mass index was calculated to quantify inherited susceptibility to obesity in 338,645 UK Biobank European participants, and a composite lifestyle score was derived from five obesogenic factors (physical activity, diet, sedentary behavior, alcohol consumption, and sleep duration). We observed significant interaction between high genetic risk and poor lifestyles (p<sub>interaction</sub> < 0.001). Absolute differences in obesity risk between those who adhere to healthy lifestyles and those who do not had gradually expanded with an increase in polygenic score. Despite a high genetic risk for obesity, individuals can prevent obesity-related morbidities by adhering to a healthy lifestyle and maintaining a normal body weight. Healthy lifestyles should be promoted irrespective of genetic background.

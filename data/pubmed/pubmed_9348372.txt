@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Evidence based medicine
-TITLE: What is evidence-based medicine?
-PMID: 9348372
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9348372/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This is the first in a series of articles on evidence-based medicine. This series is intended to act as a primer for the novice who needs to understand more about the applications of this exciting new concept to the field of gynecology. The first article provides an overview of the field; future installments will discuss specific applications and techniques with regard to evidence-based medicine, and the assets and liabilities of putting this method into practice. It is hoped that the reader will find the material both practical and provocative.

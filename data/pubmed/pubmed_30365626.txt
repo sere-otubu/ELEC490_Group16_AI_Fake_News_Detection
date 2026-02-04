@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cortisol
-TITLE: Basal cortisol levels and the relationship with clinical symptoms in multiple sclerosis: a systematic review.
-PMID: 30365626
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30365626/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Multiple sclerosis (MS) is a demyelinating, progressive and neurodegenerative disease. A disturbance on the hypothalamic-pituitary-adrenal axis can be observed in patients with MS, showing altered cortisol levels. We aimed to identify basal cortisol levels and verify the relationship with clinical symptoms in patients with MS. A systematic search was conducted in the databases: Pubmed, Web of Science and SCOPUS. Both higher and lower cortisol levels were associated with MS. Higher cortisol levels were associated with depression and anxiety, while lower levels were associated with depression, fatigue and urinary dysfunction. Higher cortisol levels may be associated with the progression and severity of MS.

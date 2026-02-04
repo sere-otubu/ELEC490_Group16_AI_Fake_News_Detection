@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Arthritis
-TITLE: Imaging of Temporomandibular Joint Inflammatory Arthritis.
-PMID: 41161932
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41161932/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Diagnostic imaging work-up in TMJ arthritides often begins with panoramic radiography, while CBCT is often preferred over traditional radiographic techniques. MRI is the most appropriate for assessing the soft tissues of the TMJ and its surroundings. The clinical presentation of temporomandibular joint (TMJ) arthritis can vary depending on the underlying cause and most of these clinical symptoms are similar in different arthritides, especially in autoimmune diseases. Rheumatoid arthritis (RA) typically presents with well-defined erosions on the condyle and the glenoid fossa, narrowing of the joint space, and destruction of condyle in end stage disease. MRI shows pannus formation causing erosions. Juvenile idiopathic arthritis (JIA) typically occurs in children and adolescents and may present with different clinical and radiographic characteristics compared to adult RA. Significant facial growth disturbances may lead to asymmetry and impaired growth of the jaws.

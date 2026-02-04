@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chromosomes
-TITLE: New Y chromosomes and early stages of sex chromosome differentiation: sex determination in Megaselia.
-PMID: 20876997
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20876997/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The phorid fly Megaselia scalaris is a laboratory model for the turnover and early differentiation of sex chromosomes. Isolates from the field have an XY sex-determining mechanism with chromosome pair 2 acting as X and Y chromosomes. The sex chromosomes are homomorphic but display early signs of sex chromosome differentiation: a low level of molecular differences between X and Y. The male-determining function (M), maps to the distal part of the Y chromosome's short arm. In laboratory cultures, new Y chromosomes with no signs of a molecular differentiation arise at a low rate, probably by transposition of M to these chromosomes. Downstream of the primary signal, the homologue of the Drosophila doublesex (dsx) is part of the sex-determining pathway while Sex-lethal (Sxl), though structurally conserved, is not.

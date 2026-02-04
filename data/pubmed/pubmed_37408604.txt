@@ -1,8 +1,0 @@
-SEARCH_TOPIC: COPD
-TITLE: Prognostic Biomarkers Based on Proteomic Technology in COPD: A Recent Review.
-PMID: 37408604
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37408604/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chronic obstructive pulmonary disease (COPD) is a common heterogeneous respiratory disease which is characterized by persistent and incompletely reversible airflow limitation. Due to the heterogeneity and phenotypic complexity of COPD, traditional diagnostic methods provide limited information and pose a great challenge to clinical management. In recent years, with the development of omics technologies, proteomics, metabolomics, transcriptomics, etc., have been widely used in the study of COPD, providing great help to discover new biomarkers and elucidate the complex mechanisms of COPD. In this review, we summarize the prognostic biomarkers of COPD based on proteomic studies in recent years and evaluate their association with COPD prognosis. Finally, we present the prospects and challenges of COPD prognostic-related studies. This review is expected to provide cutting-edge evidence in prognostic evaluation of clinical patients with COPD and to inform future proteomic studies on prognostic biomarkers of COPD.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Reproductive system
-TITLE: Augmentation of the Female Reproductive System Using Honey: A Mini Systematic Review.
-PMID: 33513715
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33513715/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Phytochemical contents of honey are presumed to be beneficial to the female reproductive system (FRS). However, the biological effects of honey supplementation (HS) in vivo on the FRS remain unclear. This review aims to investigate the current literature on the effects of HS on the FRS, particularly on the sex hormone profile and reproductive organs (uterus and vagina). A systematic literature search using Scopus, MEDLINE via Ovid and Cochrane Library databases was conducted. Records were screened and identified for preclinical and clinical studies addressing the effects of HS on the FRS. Data on populations, interventions, outcomes and methodological quality were extracted. Studies were synthesised using tables and written summaries. Of the 198 identified records, six fulfilled the inclusion criteria. All six records were used for data extraction: two experimental studies using rats as the model organism and four human clinical studies of honey on female reproductive health. HS elevated the progesterone levels, restrained body weight increase, prevented uterine and vaginal atrophies in ovariectomised rats, attenuated symptoms of candidiasis and improved oxidative status in patients. Current evidence shows that short-term HS following surgical or physiological menopause exerts an oestrogenic, antioxidant and anti-inflammatory effect on the FRS. However, insufficient long-term studies preclude any definitive conclusions.

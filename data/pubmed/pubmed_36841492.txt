@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep hygiene
-TITLE: Sleep physiology, pathophysiology, and sleep hygiene.
-PMID: 36841492
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36841492/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Despite sleep's fundamental role in maintaining and improving physical and mental health, many people get less than the recommended amount of sleep or suffer from sleeping disorders. This review highlights sleep's instrumental biological functions, various sleep problems, and sleep hygiene and lifestyle interventions that can help improve sleep quality. Quality sleep allows for improved cardiovascular health, mental health, cognition, memory consolidation, immunity, reproductive health, and hormone regulation. Sleep disorders, such as insomnia, sleep apnea, and circadian-rhythm-disorders, or disrupted sleep from lifestyle choices, environmental conditions, or other medical issues can lead to significant morbidity and can contribute to or exacerbate medical and psychiatric conditions. The best treatment for long-term sleep improvement is proper sleep hygiene through behavior and sleep habit modification. Recommendations to improve sleep include achieving 7 to 9 h of sleep, maintaining a consistent sleep/wake schedule, a regular bedtime routine, engaging in regular exercise, and adopting a contemplative practice. In addition, avoiding many substances late in the day can help improve sleep. Caffeine, alcohol, heavy meals, and light exposure later in the day are associated with fragmented poor-quality sleep. These sleep hygiene practices can promote better quality and duration of sleep, with corresponding health benefits.

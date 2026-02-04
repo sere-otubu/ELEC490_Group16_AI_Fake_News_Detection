@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sugar consumption
-TITLE: [Health effects of sugar consumption and possible alternatives].
-PMID: 31498044
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31498044/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Health effects of sugar consumption and possible alternatives <b>Abstract.</b> A wide range of chronic diseases is associated with sugar consumption: Caries, obesity, metabolic syndrome with impaired glucose tolerance and / or diabetes, elevated blood, lipids arterial, hypertension, hepatic steatosis and cardiovascular morbidity and mortality. There is an urgent need to reduce sugar consumption. Sugar surrogates may help achieving this goal. However, artificial sweeteners seem to be associated with adverse metabolic effects such as insulin resistance, obesity, and altered gut microbiota composition. Naturally occurring sweeteners such as xylitol, erythritol and rare sugars are possibly more favorable, but have to be studied in detail.

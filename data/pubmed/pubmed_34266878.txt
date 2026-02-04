@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cognitive behavioral therapy
-TITLE: Evidence-based practice in cognitive-behavioural therapy.
-PMID: 34266878
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34266878/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cognitive-behavioural therapy (CBT) is a practical, goal-focused approach that helps children understand the relationship between their thoughts, feelings and behaviours. The aim is to identify the dysfunctional and distorted cognitions associated with their psychological problems and to create more functional and balanced cognitive patterns that create less emotional distress and more helpful behaviours. CBT has strong evidence as an effective intervention for children and adolescents with emotional problems. The benefits for children with physical health and chronic conditions appear promising, although further research is required to substantiate these gains.

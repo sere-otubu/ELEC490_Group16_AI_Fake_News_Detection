@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antivirals
-TITLE: Norovirus antivirals: Where are we now?
-PMID: 30584800
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30584800/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Human noroviruses inflict a significant health burden on society and are responsible for approximately 699 million infections and over 200 000 estimated deaths worldwide each year. Yet despite significant research efforts, approved vaccines or antivirals to combat this pathogen are still lacking. Safe and effective antivirals are not available, particularly for chronically infected immunocompromised individuals, and for prophylactic applications to protect high-risk and vulnerable populations in outbreak settings. Since the discovery of human norovirus in 1972, the lack of a cell culture system has hindered biological research and antiviral studies for many years. Recent breakthroughs in culturing human norovirus have been encouraging, however, further development and optimization of these novel methodologies are required to facilitate more robust replication levels, that will enable reliable serological and replication studies, as well as advances in antiviral development. In the last few years, considerable progress has been made toward the development of norovirus antivirals, inviting an updated review. This review focuses on potential therapeutics that have been reported since 2010, which were examined across at least two model systems used for studying human norovirus or its enzymes. In addition, we have placed emphasis on antiviral compounds with a defined chemical structure. We include a comprehensive outline of direct-acting antivirals and offer a discussion of host-modulating compounds, a rapidly expanding and promising area of antiviral research.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vitamin D deficiency
-TITLE: Vitamin D deficiency in children and adolescents: epidemiology, impact and treatment.
-PMID: 18175220
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18175220/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Vitamin D deficiency is highly prevalent among children and adolescents worldwide. The high rates of vitamin D deficiency during childhood are of major public health relevance, given the growing evidence that vitamin D deficiency may play a key role in the pathophysiology of many chronic diseases beyond rickets, including autoimmune conditions, cardiovascular diseases, and cancer. Identification, treatment, and prevention of vitamin D deficiency in childhood may therefore have profound health effects throughout the life span. In this review, we discuss the definitions, epidemiology, clinical implications, and treatment of vitamin D deficiency in children and adolescents.

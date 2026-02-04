@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hysterectomy
-TITLE: Preoperative teaching and hysterectomy outcomes.
-PMID: 12817743
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12817743/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This study used a theoretical model to determine whether an efficacy-enhancing teaching protocol was effective in improving immediate postoperative behaviors and selected short- and long-term health outcomes in women who underwent abdominal hysterectomies. The model used was the self-efficacy theory of Albert Bandura, PhD. One hundred eight patients in a 486-bed teaching hospital in the Midwest who underwent hysterectomies participated. The participation rate was 85%, and the attrition rate was 17% during the six-month study. The major finding was that participants in the efficacy-enhancing teaching group ambulated significantly longer than participants in the usual care group. This is an important finding because the most prevalent postoperative complications after hysterectomy are atelectasis, pneumonia, paralytic ileus, and deep vein thrombosis, and postoperative ambulation has been shown to decrease or prevent all of these complications. This finding could affect the overall health status of women undergoing hysterectomies.

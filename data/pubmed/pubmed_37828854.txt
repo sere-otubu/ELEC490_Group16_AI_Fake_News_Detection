@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Intermittent fasting
-TITLE: Intermittent fasting in health and disease.
-PMID: 37828854
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37828854/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Intermittent fasting, a new-age dietary concept derived from an age-old tradition, involves repetitive cycles of fasting/calorie restriction and eating. We aim to take a deep dive into the biological responses to intermittent fasting, delineate the disease-modifying and cognitive effects of intermittent fasting, and also shed light on the possible side effects. Numerous <i>in vitro</i> and <i>in vivo</i> studies were reviewed, followed by an in-depth analysis, and compilation of their implications in health and disease. Intermittent fasting improves the body's stress tolerance, which is further amplified with exercise. It impacts various pathological conditions like cancer, obesity, diabetes, cardiovascular disease, and neurodegenerative diseases. During dietary restriction, the human body experiences a metabolic switch due to the depletion of liver glycogen, which promotes a shift towards utilising fatty acids and ketones in the system, thereby significantly impacting adiposity, ageing and the immune response to various diseases.

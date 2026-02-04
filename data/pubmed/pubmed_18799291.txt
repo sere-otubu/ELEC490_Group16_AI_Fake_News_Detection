@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18799291)
-    QUESTION: Is the histidine triad nucleotide-binding protein 1 (HINT1) gene a candidate for schizophrenia?
-    CONTEXT: : The histidine triad nucleotide-binding protein 1, HINT1, hydrolyzes adenosine 5'-monophosphoramidate substrates such as AMP-morpholidate. The human HINT1 gene is located on chromosome 5q31.2, a region implicated in linkage studies of schizophrenia. HINT1 had been shown to have different expression in postmortem brains between schizophrenia patients and unaffected controls. It was also found to be associated with the dysregulation of postsynaptic dopamine transmission, thus suggesting a potential role in several neuropsychiatric diseases.
-    ANSWER: : Data from both association and expression studies suggested that variants at HINT1 may be associated with schizophrenia and the associations may be sex-specific. However, the markers showing associations were in high LD to the SPEC2/PDZ-GEF2/ACSL6 locus reported previously in the same samples. This made it difficult to separate the association signals amongst these genes. Other independent studies may be necessary to distinguish these candidate genes.
-    

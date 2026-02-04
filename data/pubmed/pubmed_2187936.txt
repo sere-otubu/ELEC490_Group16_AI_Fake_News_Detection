@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tinnitus
-TITLE: Tinnitus.
-PMID: 2187936
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2187936/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although tinnitus is usually a benign finding, it can have an extremely adverse effect on a patient's life. Tinnitis is a symptom that can have many different etiologies. This communication deals with the etiology, diagnosis, and available treatment of the condition.

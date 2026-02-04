@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21431987)
-    QUESTION: Preoperative staging of patients with liver metastases of colorectal carcinoma. Does PET/CT really add something to multidetector CT?
-    CONTEXT: This study was designed to determine prospectively whether the systematic use of PET/CT associated with conventional techniques could improve the accuracy of staging in patients with liver metastases of colorectal carcinoma. We also assessed the impact on the therapeutic strategy.
-    ANSWER: PET/CT has a limited role in hepatic staging of LMCRC. Although PET-CT has higher sensitivity for the detection of extrahepatic disease in some anatomic locations, its results are hampered by its low PPV. PET/CT provided additional useful information in 8% of the cases but also incorrect and potentially harmful data in 9% of the staging. Our findings support a more selective use of PET/CT, basically in patients with high risk of local recurrence.
-    

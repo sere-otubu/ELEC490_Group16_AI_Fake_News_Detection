@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 9542484)
-    QUESTION: Does successful completion of the Perinatal Education Programme result in improved obstetric practice?
-    CONTEXT: To determine whether successful completion of the Perinatal Education Programme (PEP) improves obstetric practice.
-    ANSWER: Completion of the obstetric manual of the PEP improved the knowledge of the midwives but no alteration in practice was detected.
-    

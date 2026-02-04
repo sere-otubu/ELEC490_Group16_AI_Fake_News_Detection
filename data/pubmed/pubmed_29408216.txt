@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cervical cancer
-TITLE: Cervical Cancer Screening: What's New? Updates for the Busy Clinician.
-PMID: 29408216
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29408216/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In the United States, 12,000 women are diagnosed with cervical cancer each year, even though the screening for this disease is safe and effective. There are 3 types of screening options available: cervical cytology (Papanicolaou or "Pap" test), Pap/HPV (human papillomavirus) co-test, and HPV-only test. With simplified options such as HPV-only screening, providers who have been reluctant to incorporate cervical cancer screening into their primary care practice may feel more comfortable with offering these services to women. In this article we review the different cervical cancer screening options that are now available and summarize the various changes in guidelines over the last decade.

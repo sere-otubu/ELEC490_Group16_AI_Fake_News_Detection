@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Emotional intelligence
-TITLE: Emotional Intelligence and Simulation.
-PMID: 26210976
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26210976/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Emotional intelligence (EI) is an established concept in the business literature with evidence that it is an important factor in determining career achievement. There is increasing interest in the role that EI has in medical training, but it is still a nascent field. This article reviews the EI literature most relevant to surgical training and proposes that simulation offers many benefits to the development of EI. Although there are many unanswered questions, it is expected that future research will demonstrate the effectiveness of using simulation to develop EI within surgery.

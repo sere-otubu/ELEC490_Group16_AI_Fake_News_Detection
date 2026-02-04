@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gonorrhea
-TITLE: Gonorrhea in the newborn.
-PMID: 3147611
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3147611/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gonorrhea prevalence in pregnant women in the United States is generally low (less than 1%), although the prevalence in certain subsets of the population remains a matter of concern. Rates of 10% have been found in some central city adolescent prenatal clinics. Rates as high as this are quite often found in developing countries. The risks of transmission to the newborn are well studied for ophthalmia neonatorum and are 30%-40%. The risks of disseminated gonococcal infection of the newborn (sepsis or arthritis) are unmeasured, but are clearly rare events. In developing countries, maternal gonorrheal infection has been linked to premature delivery, which had been previously suggested in earlier studies in the United States. There is no evidence that the increasing occurrence of penicillinase-producing Neisseria gonorrheae (PPNG) affects maternal-neonatal transmission other than to require alternative therapy.

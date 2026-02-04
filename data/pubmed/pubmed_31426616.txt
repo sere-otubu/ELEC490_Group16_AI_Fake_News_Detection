@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Food allergies
-TITLE: Component-Resolved Diagnosis in Food Allergies.
-PMID: 31426616
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31426616/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Component-resolved diagnostics (CRD) in food allergies is an approach utilized to characterize the molecular components of each allergen involved in a specific IgE (sIgE)-mediated response. In the clinical practice, CRD can improve diagnostic accuracy and assist the physician in many aspects of the allergy work-up. CRD allows for discriminatory co-sensitization versus cross-sensitization phenomena and can be useful to stratify the clinical risk associated with a specific sensitization pattern, in addition to the oral food challenge (OFC). Despite this, there are still some unmet needs, such as the risk of over-prescribing unnecessary elimination diets and adrenaline auto-injectors. Moreover, up until now, none of the identified sIgE cutoff have shown a specificity and sensitivity profile as accurate as the OFC, which is the gold standard in diagnosing food allergies. In light of this, the aim of this review is to summarize the most relevant concepts in the field of CRD in food allergy and to provide a practical approach useful in clinical practice.

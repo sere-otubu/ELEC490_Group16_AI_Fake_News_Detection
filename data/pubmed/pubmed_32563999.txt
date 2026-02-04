@@ -1,8 +1,0 @@
-SEARCH_TOPIC: COVID-19
-TITLE: Origin, transmission, diagnosis and management of coronavirus disease 2019 (COVID-19).
-PMID: 32563999
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32563999/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Coronavirus has emerged as a global health threat due to its accelerated geographic spread over the last two decades. This article reviews the current state of knowledge concerning the origin, transmission, diagnosis and management of coronavirus disease 2019 (COVID-19). Historically, it has caused two pandemics: severe acute respiratory syndrome and Middle East respiratory syndrome followed by the present COVID-19 that emerged from China. The virus is believed to be acquired from zoonotic source and spreads through direct and contact transmission. The symptomatic phase manifests with fever, cough and myalgia to severe respiratory failure. The diagnosis is confirmed using reverse transcriptase PCR. Management of COVID-19 is mainly by supportive therapy along with mechanical ventilation in severe cases. Preventive strategies form the major role in reducing the public spread of virus along with successful disease isolation and community containment. Development of a vaccine to eliminate the virus from the host still remains an ongoing challenge.

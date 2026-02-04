@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Grief counseling
-TITLE: Development of a Scale of Nurses' Competency in Anticipatory Grief Counseling for Caregivers of Patients with Terminal Cancer.
-PMID: 36673632
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36673632/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Anticipatory grief leads to a highly stressful and conflicting experience among caregivers of patients with terminal cancer. Nurses lack the competency to assess and manage the caregivers’ psychological problems, which in turn affects the caregivers’ quality of life. A scale assessing the anticipatory grief counseling competency among nurses is unavailable. In this study, an Anticipatory Grief Counseling Competency Scale (AGCCS) was developed for nurses. The Scale (AGCCS) was translated into Chinese and then revised. Psychometric testing of the scale was conducted on 252 nurses who participated in the care of patients with terminal cancer at a regional teaching hospital in Southern Taiwan. The data were analyzed using descriptive statistics, reliability, and Pearson’s correlation, and principal component analysis and analysis of variance were performed. Item- and scale-content validity indexes were 0.99 and 0.93, respectively. The Cronbach α of internal consistency was 0.981. The final 53-item AGCCS had five factors, which accounted for 70.81% of the total variance. The Pearson correlation coefficients of these factors ranged between 0.406 and 0.880 (p < 0.001). The AGCCS can be used to evaluate the aforementioned competency for improving caregivers’ quality of care. It can also facilitate in-service education planning and evaluation.

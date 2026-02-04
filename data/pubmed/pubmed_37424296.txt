@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Processed foods
-TITLE: How and why ultra-processed foods harm human health.
-PMID: 37424296
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37424296/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The analysis of food using a perspective centred on nutrients seems inadequate for understanding the dietary transition and its impact on the growth of obesity and chronic diseases. Industrial food processing is now proposed as the key to explain the relationship between food and health. The NOVA food classification considers the degree and the purpose of food processing, which includes physical, biological and chemical processes used after foods are separated from nature, and before being consumed or prepared as dishes and meals. NOVA has four food groups: (1) unprocessed and minimally processed foods; (2) processed culinary ingredients; (3) processed foods and (4) ultra-processed foods, which are formulations made mostly or entirely from substances derived from group 1 foods and additives, with little if any intact group 1 food. Many investigations linking high ultra-processed food consumption with deterioration of diets and adverse health outcomes are reinforced by prospective studies, systematic reviews and meta-analyses. There are various plausible explanations of why diets high in ultra-processed foods are harmful. Their production and consumption continue to rise worldwide. Efficient and effective public policies and actions that reduce production and consumption of ultra-processed products are needed, to protect human health now and in future.

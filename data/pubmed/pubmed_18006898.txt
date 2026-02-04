@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chemotherapy
-TITLE: Effective oral chemotherapy for breast cancer: pillars of strength.
-PMID: 18006898
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18006898/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Traditionally, anticancer therapy has been dominated by intravenous drug therapy. However, oral agents provide an attractive approach to chemotherapy and use of oral treatments is increasing. We discuss the benefits and challenges of oral chemotherapy from the perspectives of patients, healthcare providers and healthcare funders. Important issues include patient preference, efficacy, compliance, bioavailability, reimbursement, use in special patient populations, financial and staff time savings and flexibility of dosing. We review data for traditional oral agents (e.g. cyclophosphamide, methotrexate), newer oral chemotherapies (e.g. capecitabine), oral formulations of traditionally intravenous agents (e.g. vinorelbine, idarubicin) and new biologic agents under evaluation in breast cancer (e.g. tyrosine kinase inhibitors). Lastly, we review studies of all-oral combination regimens. The wealth of data available and the increasing use of oral agents in breast cancer suggest that many of the concerns and perceptions about oral therapy, including efficacy and bioavailability, have been overcome, and that oral therapy will play a major role in breast cancer management in the future in both the metastatic and adjuvant settings.

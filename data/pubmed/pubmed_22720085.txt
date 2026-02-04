@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22720085)
-    QUESTION: Does insulin resistance drive the association between hyperglycemia and cardiovascular risk?
-    CONTEXT: Several studies have shown associations between hyperglycemia and risk of cardiovascular disease (CVD) and mortality, yet glucose-lowering treatment does little to mitigate this risk. We examined whether associations between hyperglycemia and CVD risk were explained by underlying insulin resistance.
-    ANSWER: The association between plasma glucose levels and CVD risk is mainly explained by insulin resistance, which raises the question of whether glucose lowering per se without changes in the processes that underlie hyperglycemia should be the sole clinical paradigm in the treatment of type 2 diabetes or its prevention.
-    

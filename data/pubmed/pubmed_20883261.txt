@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Skin cancer prevention
-TITLE: Ultraviolet radiation and skin cancer.
-PMID: 20883261
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20883261/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Skin cancer is the most common type of cancer in fair-skinned populations in many parts of the world. The incidence, morbidity and mortality rates of skin cancers are increasing and, therefore, pose a significant public health concern. Ultraviolet radiation (UVR) is the major etiologic agent in the development of skin cancers. UVR causes DNA damage and genetic mutations, which subsequently lead to skin cancer. A clearer understanding of UVR is crucial in the prevention of skin cancer. This article reviews UVR, its damaging effects on the skin and its relationship to UV immunosuppression and skin cancer. Several factors influence the amount of UVR reaching the earth's surface, including ozone depletion, UV light elevation, latitude, altitude, and weather conditions. The current treatment modalities utilizing UVR (i.e. phototherapy) can also predispose to skin cancers. Unnecessary exposure to the sun and artificial UVR (tanning lamps) are important personal attributable risks. This article aims to provide a comprehensive overview of skin cancer with an emphasis on carefully evaluated statistics, the epidemiology of UVR-induced skin cancers, incidence rates, risk factors, and preventative behaviors & strategies, including personal behavioral modifications and public educational initiatives.

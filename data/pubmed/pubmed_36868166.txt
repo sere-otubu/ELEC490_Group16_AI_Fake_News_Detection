@@ -1,8 +1,0 @@
-SEARCH_TOPIC: HPV infection
-TITLE: Human papillomavirus in cancer: Infection, disease transmission, and progress in vaccines.
-PMID: 36868166
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36868166/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Human papillomaviruses (HPVs) infect epithelial cells of human beings, and their replication cycle is associated with epithelial differentiation. More than 200 genotypes of HPVs were identified, and each of these HPVs shows distinct specificity for tissues and infection. HPV infection was involved in the development of lesions on the feet, genital warts and hands. The evidence of HPV infection revealed the role of HPVs in neck and head squamous cell carcinoma, esophageal cancer, cervical cancer, head and neck cancer, brain and lung tumours. The independent traditional risk factors, various clinical outcomes, and increased prevalence among certain populations and geographical regions have led increasing interest in HPV infection. The mode of HPVs transmission remains unclear. Moreover, in recent years, vertical transmission of HPVs was reported. This review concludes present knowledge about HPV infection, virulence strains, clinical significance of HPVs, and mode of transmission, and vaccination strategies.

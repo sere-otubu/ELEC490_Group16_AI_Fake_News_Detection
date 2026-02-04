@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mental health stigma
-TITLE: Mental Health Public Stigma in US Jewish Communities.
-PMID: 36044705
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36044705/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Stigma is a multifaceted barrier for individuals living with mental illness, contributing to negative stereotypes, prejudice, and discrimination, and is underinvestigated in minority ethnic groups. This study examines the stigma within the US Jewish communities, specifically the following: a) differences in public stigma dimensions based on mental illness ( e.g. , major depressive disorder, anxiety disorder, schizophrenia, or alcohol use disorder) and sex; and b) whether participant characteristics influence the public stigma. A community-based sample of 317 self-identified Jewish individuals participated in an experimental randomized vignette survey on stigma and help-seeking beliefs toward various mental illness. Findings indicate differences in stigma based on stigmatized individuals' sex and diagnosis as well as participants' demographics. Schizophrenia and alcohol use disorder were stigmatized similarly, with lower stigma for depression and the least stigma toward anxiety. Of interest, younger males have the most treatability and professional efficacy stigma, and tailored stigma-reducing interventions are recommended.

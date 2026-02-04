@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23972333)
-    QUESTION: Has the prevalence of health care services use increased over the last decade (2001-2009) in elderly people?
-    CONTEXT: (1) To describe the prevalence of general practitioner visits and hospitalization according to sex and age groups; (2) to identify which factors are independently associated with a higher use of health care services among elderly Spanish; and (3) to study the time trends in the prevalence of use of health care services 2001-2009.
-    ANSWER: The current study revealed an increase in health care services utilization from 2001 to 2009 in the older Spanish population.
-    

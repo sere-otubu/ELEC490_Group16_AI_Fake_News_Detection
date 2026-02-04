@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lyme disease
-TITLE: Clinical spectrum of Lyme disease.
-PMID: 30456435
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30456435/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Lyme disease (borreliosis) is one of the most common vector-borne diseases worldwide. Its incidence and geographic expansion has been steadily increasing in the last decades. Lyme disease is caused by Borrelia burgdorferi sensu lato, a heterogeneous group of which three genospecies have been systematically associated to Lyme disease: B. burgdorferi sensu stricto Borrelia afzelii and Borrelia garinii. Geographical distribution and clinical manifestations vary according to the species involved. Lyme disease clinical manifestations may be divided into three stages. Early localized stage is characterized by erythema migrans in the tick bite site. Early disseminated stage may present multiple erythema migrans lesions, borrelial lymphocytoma, lyme neuroborreliosis, carditis, or arthritis. The late disseminated stage manifests with acordermatitis chronica atrophicans, lyme arthritis, and neurological symptoms. Diagnosis is challenging due to the varied clinical manifestations it may present and usually involves a two-step serological approach. In the current review, we present a thorough revision of the clinical manifestations Lyme disease may present. Additionally, history, microbiology, diagnosis, post-treatment Lyme disease syndrome, treatment, and prognosis are discussed.

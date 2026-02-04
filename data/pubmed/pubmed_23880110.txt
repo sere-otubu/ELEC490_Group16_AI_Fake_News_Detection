@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hearing aids
-TITLE: Some characteristics of amplified music through hearing aids.
-PMID: 23880110
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23880110/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hearing aids are a relatively non-invasive means of reducing the negative effects of hearing loss on an individual who does not require a cochlear implant. Music amplified through hearing aids has some interesting characteristics but high fidelity is not typically one of them. This poses a serious problem for the investigator who wants to perform research on music with hearing impaired individuals who wear hearing aids. If the signal at the tympanic membrane is somewhat distorted then this has consequences for the assessment of music processing when examining both the peripheral and the central auditory system. In this review article on the subject of hearing aids and music, some of the acoustical differences between speech and music will be described. Following this, a discussion about what hearing aids do well and also less well for music as an input will be presented. Finally, some recommendations are made about what can be done for hearing-impaired individuals who wear hearing aids to listen to music.

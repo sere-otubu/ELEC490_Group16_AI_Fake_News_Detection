@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Infant mortality reduction
-TITLE: Sex differences in infant mortality in Spitalfields, London, 1750-1839.
-PMID: 21939581
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21939581/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This study examines sex differences in infant mortality in Spitalfields, London, and the estimated contribution of endogenous and exogenous factors to neonatal and infant mortality using the biometric model from 1750 to 1839. There was a marked decline in the risk of death during infancy and the neonatal period for both sexes during the study period. There was significant excess male infant mortality compared with that of females in the 1750-59 cohort, estimated from baptism and burial registers, but not in later cohorts. Similarly, males had higher neonatal mortality rates than females in 1750-59 but not in later cohorts. Biometric analyses suggest that the observed decrease in neonatal mortality in both sexes was caused by a reduction in both endogenous and exogenous causes of death. The contribution of maternal health and breast-feeding practices to the observed patterns of mortality is discussed in the light of available evidence.

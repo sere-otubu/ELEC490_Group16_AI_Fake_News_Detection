@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gene expression
-TITLE: Speciation and changes in male gene expression in <i>Drosophila</i>.
-PMID: 32730707
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32730707/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-It has long been acknowledged that changes in the regulation of gene expression may account for major organismal differences. However, we still do not fully understand how changes in gene expression evolve and how do such changes influence organisms' differences. We are even less aware of the impact such changes might have in restricting gene flow between species. Here, we focus on studies of gene expression and speciation in the <i>Drosophila</i> model. We review studies that have identified gene interactions in post-mating reproductive isolation and speciation, particularly those that modulate male gene expression. We also address studies that have experimentally manipulated changes in gene expression to test their effect in post-mating reproductive isolation. We highlight the need for a more in-depth analysis of the role of selection causing disrupted gene expression of such candidate genes in sterile/inviable hybrids. Moreover, we discuss the relevance to incorporate more routinely assays that simultaneously evaluate the potential effects of environmental factors and genetic background in modulating plastic responses in male genes and their potential role in speciation.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Suicide prevention
-TITLE: [Suicide prevention and assisted suicide - incompatible?].
-PMID: 39806132
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39806132/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The principles of suicide prevention and easy access to assisted suicide are not compatible. Although suicide prevention does not aim to prevent suicide at all costs, it is fundamentally geared towards supporting people in existential crises and emergency situations in developing options for a successful life. Based on empirical facts on suicide and suicidal ideation in old age as well as clinical psychodynamic theories on the understanding of suicide, the corresponding foundations of assisted suicide are presented. After a brief introduction to the basic principles of suicide prevention, the relationship between suicide prevention and assisted suicide is explained and described. Based on the empirical knowledge of specific emergencies that can lead to a request for assisted suicide, possibilities of universal, selective and indicated suicide prevention are derived for this field.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Statins
-TITLE: [Statins and mitochondria].
-PMID: 28132458
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28132458/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The aim of this review is to report on influence of statins on mitochondria function. Statins are serum cholesterol-lowering drugs. They act by competitively inhibiting 3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase (EC 1.1.1.88), the first committed enzyme of the mevalonate pathway. In this way, statins inhibit the endogenous cholesterol synthesis. Emerging evidence suggest that statins impair mitochondria, which is demonstrated by abnormal mitochondrial morphology, decreased oxidative phosphorylation capacity and yield, decreased mitochondrial membrane potential and activation of intrinsic apoptotic pathway. Mechanisms of statin-induced mitochondrial dysfunction are not fully understood. The following causes are proposed: (i) deficiency of coenzyme Q10, an important electron carrier of mitochondrial respiratory chain; (ii) inhibition of respiratory chain complexes; (iii) inhibitory effect on protein prenylation; and (iv) induction of mitochondrial apoptosis pathway. These phenomena could play a significant role in the etiology of statin-induced disease, especially myopathy. Studies on statin-induced mitochondrial apoptosis could be useful in developing a new cancer therapy.

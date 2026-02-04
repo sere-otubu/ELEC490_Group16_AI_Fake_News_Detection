@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rheumatoid arthritis
-TITLE: Rheumatoid arthritis and anaesthesia.
-PMID: 22070585
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22070585/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There has been a great deal of progress in our understanding and management of rheumatoid arthritis in recent years. The peri-operative management of rheumatoid arthritis patients can be challenging and anaesthetists need to be familiar with recent developments and potential risks of this multi system disease.

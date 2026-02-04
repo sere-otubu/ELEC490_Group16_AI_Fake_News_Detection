@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18708308)
-    QUESTION: Can surgeon familiarization with current evidence lead to a change in practice?
-    CONTEXT: Despite evidence against its utility, many surgeons continue to employ prophylactic nasogastric decompression in elective colonic resection. This study aimed to establish whether an easy and practical intervention, mailing out a summary of current evidence to surgeons, can change surgeons practice to bring it more in line with current evidence.
-    ANSWER: This study has shown that mailing out a summary of current evidence to surgeons concerning a certain issue is not sufficient to lead to a change in practice.
-    

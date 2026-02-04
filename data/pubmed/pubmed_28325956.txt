@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urinary system
-TITLE: Interstitial cells of Cajal and telocytes in the urinary system: facts and distribution.
-PMID: 28325956
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28325956/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Current knowledge confirms the existence of interstitial cells of Cajal (ICCs) and telocytes in the urinary system (kidneys, ureter and urinary bladder). Therefore, summarizing of available data can be helpful in understanding of pathophysiology of urological disorders. Telocytes (TCs) are a newly discovered type of cell with numerous functions, described in vertebrates (fish, reptiles, birds, mammals, including human). Despite unique characteristics, they have own differences in morphology and properties in urinary bladder and other organs of the urinary system. This review summarizes particular features of ICCs and TCs in the urinary system, emphasizing their involvement in physiological and pathophysiological processes of the urinary bladder.

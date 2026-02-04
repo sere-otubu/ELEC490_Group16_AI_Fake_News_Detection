@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 10354335)
-    QUESTION: Can medical students contribute to quality assurance programmes in day surgery?
-    CONTEXT: Health care delivery has undertaken a major shift from inpatient management to ambulatory surgical care with increasing emphasis on quality assurance (QA) processes. Educational opportunities for medical undergraduate programmes are being sought in the day surgery environment. Our study was undertaken to explore ways in which senior medical students can actively contribute to QA processes as part of an undergraduate day surgery educational programme.
-    ANSWER: Our study confirms that students are able to identify QA issues and propose solutions. We recommend that students have a formally recognized place in day surgery QA programmes, to close the QA loop and to adequately prepare them for medical practice in the 21st century.
-    

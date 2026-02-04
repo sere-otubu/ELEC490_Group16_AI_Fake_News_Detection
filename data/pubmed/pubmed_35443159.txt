@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cushings syndrome
-TITLE: Impact of Cushing's syndrome on fertility and pregnancy.
-PMID: 35443159
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35443159/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cushing's syndrome is defined by an endogenous or exogenous hypercortisolism. Increased cortisol, as well as increased androgens will have a negative impact on the pulsatile secretion of GnRH, thus leading to an increased risk of infertility. However, pregnancy can occur in a woman with Cushing's syndrome: it is a challenging situation, because of the numerous consequences which can be observed in the mother (increased risk of gestational diabetes, hypertension, eclampsia… in addition to the specific complications of hypercortisolism) and in the fetus (intrauterine growth retardation, prematurity). In contrast, Cushing's syndrome can also appear during pregnancy. It is a very rare situation: the diagnosis is challenging because of the numerous hormonal changes induced by pregnancy on cortisol levels. The objective of this brief review will be to detail the mechanisms of infertility due to hypercortisolism, the diagnostic methods of Cushing's syndrome during pregnancy, the maternal and fetal consequences of hypercortisolism during pregnancy, and finally the potential means of contraception that can be proposed.

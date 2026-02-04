@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Beta blockers
-TITLE: Misconceptions and Facts About Beta-Blockers.
-PMID: 30817899
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30817899/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Beta-blockers are commonly used medications, and they have been traditionally considered "cardioprotective." Their clinical use appears to be more widespread than the available evidence base supporting their role in cardioprotection. Beta-blockers counteract neurohumoral activation in heart failure with reduced ejection fraction and offer both symptomatic improvement and reduction in adverse events. On the other hand, the use of beta-blockers in uncomplicated hypertension results in suboptimal outcomes compared to the established first-line antihypertensive agents. Providers at all levels should be familiar with common misconceptions regarding beta-blocker use in routine clinical practice.

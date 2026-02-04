@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 9444542)
-    QUESTION: Does hippocampal atrophy on MRI predict cognitive decline?
-    CONTEXT: To investigate whether the presence of hippocampal atrophy (HCA) on MRI in Alzheimer's disease (AD) leads to a more rapid decline in cognitive function. To investigate whether cognitively unimpaired controls and depressed subjects with HCA are at higher risk than those without HCA of developing dementia.
-    ANSWER: HCA was not found to be a predictor of subsequent cognitive decline in this series.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Psoriasis
-TITLE: Psoriasis and Papulosquamous Disorders.
-PMID: 40835291
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40835291/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Psoriasis is a chronic, inflammatory skin disease with a significant impact on quality of life. Psoriasis affects about 3% of the US population. Psoriasis is caused by an interaction between genetic and environmental triggers. Lifestyle modification and topical therapies such as emollients, topical corticosteroids, vitamin D analogues, and calcineurin inhibitors are used for limited disease. More severe psoriasis may require systemic therapy with available oral or biologic therapy.

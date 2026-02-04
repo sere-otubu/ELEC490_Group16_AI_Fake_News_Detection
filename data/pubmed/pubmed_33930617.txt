@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Autism spectrum disorder
-TITLE: Reviewing the association between aluminum adjuvants in the vaccines and autism spectrum disorder.
-PMID: 33930617
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33930617/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The manuscript reviews the association between aluminum adjuvants (AlAd) in vaccines and autism spectrum disorder (ASD). Aluminum (Al) is neurotoxic. Infants who have received AlAd in vaccines show a higher rate of ASD. The behavior of mice changes with Al injection. Patients suffering from ASD have higher concentrations of Al in their brains. Thus, AlAd is an etiologic factor in ASD. Immune efficacy led to the use of the AlAd in vaccines; however, the safety of those who are vaccinated with such vaccines has not been considered. The mechanisms of action of AlAd and the pharmacodynamics of injected AlAd used in vaccines are not well-characterized. The association between aluminum adjuvants in the vaccines and autism spectrum disorder is suggested by multiple lines of evidence.

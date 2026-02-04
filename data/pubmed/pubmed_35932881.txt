@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Syphilis
-TITLE: Syphilis in pregnancy: an ongoing public health threat.
-PMID: 35932881
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35932881/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Syphilis is a treponemal infection that can be acquired sexually, hematogenously, or via vertical transmission from mother to infant. Despite evidence-based curative treatment options with penicillin, it remains a public health threat with increasing prevalence over recent years. Congenital syphilis, a condition where a fetus acquires the infection during pregnancy, can lead to stillbirth, miscarriage, preterm birth, birth defects, and lifelong physical or neurologic changes. Congenital syphilis rates in the United States increased by 261% from 2013 to 2018 and continue to increase in 2021. The only recommended treatment for syphilis in pregnancy is benzathine penicillin G because evidence of decreased risk of congenital syphilis with other modalities is lacking. Testing for syphilis is complex and includes either the reverse-sequence algorithm or the traditional algorithm. Determination of the clinical stage of syphilis includes incorporation of the previous treatment sequence and physical examination. The goal of this review was to discuss the current evidence about optimal treatment and testing during pregnancy to optimize maternal health and prevent congenital syphilis.

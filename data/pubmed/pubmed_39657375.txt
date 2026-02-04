@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Seasonal allergies
-TITLE: Driving under the influence of allergies: the effect of seasonal pollen on traffic fatalities.
-PMID: 39657375
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39657375/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Traffic fatalities are the leading cause of mortality in the United States despite being preventable. While several policies have been introduced to improve traffic safety and their effects have been well documented, the role of transitory health shocks or situational factors at explaining variations in fatal traffic accidents has been understudied. Exploring daily variation in city-specific pollen counts, this study finds novel evidence that traffic fatalities increase on days in which the local pollen count is particularly high. We find that the effects are present in accidents involving private vehicles and occur most frequently on the weekends, suggesting potentially the missed opportunity to avoid these fatalities. We do not find similar effects for fleet vehicles. These findings remain robust to alternative specifications and alternative definitions of high pollen count. Taken together, this study finds evidence that a prevalent and transitory exogenous health-shock, namely pollen allergies, increases traffic fatalities. Given our lack of evidence of avoidance, these effects are not mechanical and are likely driven by cognitive impairments that arise as a result of seasonal allergies.

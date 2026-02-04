@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Prebiotics
-TITLE: Prebiotics: Comprehensive analysis of sources, structural characteristics and mechanistic roles in disease regulation.
-PMID: 39447658
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39447658/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Prebiotics are nondigestible components that comprise short-chain carbohydrates, primarily oligosaccharides, which are converted into beneficial compounds by probiotics. Various plant substances with prebiotic properties provide substantial health benefits and are used to prevent different diseases and for medical and clinical applications. Consuming prebiotics gives impeccable benefits since it aids in gut microbial balance. Prebiotic research is primarily concerned with the influence of intestinal disorders. The proposed review will describe recent data on the sources, structures, implementation of prebiotics and potential mechanisms in preventing and treating various disorders, with an emphasis on the gut microbiome. Prebiotics have a distinctive impact on the gastro intestine by explicitly encouraging the growth of probiotic organisms like Bifidobacteria and Lactobacilli. This in turn augments the body's inherent ability to fend off harmful pathogens. Prebiotic carbohydrates may also provide other non-specific advantages due to their fermentation in the large intestine. Additional in vivo research is needed to fully comprehend the interactions between prebiotics and probiotics ingested by hosts to improve their nutritional and therapeutic benefits.

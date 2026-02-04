@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Macular degeneration
-TITLE: Age-related macular degeneration.
-PMID: 9683972
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9683972/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Macular degeneration is now responsible for approximately 95% of blindness and partial sighted registrations in the UK. This review has been written specifically to make the general medical community of the UK aware of the prevalence and clinical manifestations of aged-related macular degeneration. The review encompasses the risk factors, the disabilities and problems experienced by suffers of the condition and current therapeutic options. Age related macular degeneration increases in prevalence in our community from 0% among people under 55 years old to 18.5% among those 85 years or older. There is a marked female preponderance. The exudative form of the disorder is commoner. Treatment remains supportive for most patients with macular degeneration although a minority will benefit from macular laser photocoagulation.

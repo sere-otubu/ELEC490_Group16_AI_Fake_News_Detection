@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19608436)
-    QUESTION: Chemical shift MRI: is there any contribution to morphologic evaluation of solid breast masses?
-    CONTEXT: To investigate the contribution of chemical shift magnetic resonance imaging for assessment of the margins of solid breast masses by benefiting from India ink artifact.
-    ANSWER: Chemical shift subtraction can contribute to routine dynamic contrast subtraction in morphologic analysis particularly for the evaluation of margins of benign lesions in fatty breasts. It can also help in morphologic analysis of masses in dense breast.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chemotherapy
-TITLE: [Chemotherapy for metastatic breast cancer].
-PMID: 16770091
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16770091/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The treatment of metastatic breast cancer aims to relieve symptoms by controlling disease and prolonging survival with better QOL. The meta-analysis demonstrated the significant advantage for overall survival by chemotherapy with a longer period. It means that chemotherapy can prolong survival. The major chemotherapies contain anthracyclines or taxanes. For HER 2-overexpressing breast cancer, a standard treatment utilizes trastuzumab-containing chemotherapy. The other active agents include vinorelbine, capecitabine, S-1, mitomycin and gemcitabine. Bisphosphonates combined with chemotherapy or hormone therapy are able to alleviate pain or complications of osteolytic bone metastasis. Experimental agents, such as monoclonal antibody or small molecular kinase inhibitor, are investigated for clinical use. The treatments, either chemotherapy or hormone therapy, could be performed in sequence in order to minimize toxicities and maximize efficacy. In selecting the most appropriate treatment for metastatic breast cancer, it is recommended to consider patients' preference by providing the correct information on the status of disease, efficacy and toxicities of chemotherapy.

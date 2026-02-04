@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22186742)
-    QUESTION: Does a colonoscopy after acute diverticulitis affect its management?
-    CONTEXT: Medical records of 220 patients hospitalized for acute diverticulitis between June 1, 2002 and September 1, 2009 were reviewed. Acute diverticulitis was diagnosed by clinical criteria and characteristic CT findings. Fifteen patients were excluded either because of questionable CT or hematochezia. Mean age was 61.8±14.3 years (61% females). Clinical parameters, laboratory results, imaging, endoscopic and histopathological reports, and long-term patients' outcome were analyzed.
-    ANSWER: Our results suggest that colonoscopy does not affect the management of patients with acute diverticulitis nor alter the outcome. The current practice of a routine colonoscopy after acute diverticulitis, diagnosed by typical clinical symptoms and CT needs to be reevaluated.
-    

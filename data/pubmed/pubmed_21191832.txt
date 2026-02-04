@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Polycystic ovary syndrome
-TITLE: Polycystic ovary syndrome.
-PMID: 21191832
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21191832/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Polycystic ovary syndrome (PCOS) is a common gynecologic endocrinopathy. The pathogenesis of PCOS is associated with both heredity and environment. PCOS has adverse impacts on female endocrine, reproduction, and metabolism. PCOS can impact women's reproductive health, leading to anovulatory infertility and higher rate of early pregnancy loss. PCOS has additional metabolic derangements, such as insulin resistance, impaired glucose tolerance, and dyslipidemia. The risks of diabetes, cardiovascular disease, hypertension, metabolic syndrome, and endometrial cancer among PCOS patients are significantly increased as well.

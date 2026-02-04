@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vaccine types
-TITLE: Vaccine Ingredients: Components that Influence Vaccine Efficacy.
-PMID: 27488583
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27488583/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Vaccination is defined as the administration of an antigenic material in order to stimulate the immune system, leading to the development of adaptive immunity to a pathogen. Vaccines can prevent or reduce morbidity from a vast number of infections. This manuscript presents an analysis of vaccine types and vaccine substances, concentrating on individual components including the active ingredient, adjuvants, preservatives, stabilizers, inactivators, antibiotics, diluents and other substances. While many papers have been published on individual vaccine components, this review provides detail on a wide range of the most commonly-used vaccine ingredients and components that have been tested in clinical trials.

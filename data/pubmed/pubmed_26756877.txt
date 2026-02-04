@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antibiotics classes
-TITLE: Probiotics for the Prevention of Antibiotic-Associated Diarrhea in Children.
-PMID: 26756877
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26756877/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This article provides recommendations, developed by the Working Group (WG) on Probiotics of the European Society for Pediatric Gastroenterology, Hepatology, and Nutrition, for the use of probiotics for the prevention of antibiotic-associated diarrhea (AAD) in children based on a systematic review of previously completed systematic reviews and of randomized controlled trials published subsequently to these reviews. The use of probiotics for the treatment of AAD is not covered. The recommendations were formulated only if at least 2 randomized controlled trials that used a given probiotic (with strain specification) were available. The quality of evidence (QoE) was assessed using the Grading of Recommendations Assessment, Development, and Evaluation guidelines. If the use of probiotics for preventing AAD is considered because of the existence of risk factors such as class of antibiotic(s), duration of antibiotic treatment, age, need for hospitalization, comorbidities, or previous episodes of AAD diarrhea, the WG recommends using Lactobacillus rhamnosus GG (moderate QoE, strong recommendation) or Saccharomyces boulardii (moderate QoE, strong recommendation). If the use of probiotics for preventing Clostridium difficile-associated diarrhea is considered, the WG suggests using S boulardii (low QoE, conditional recommendation). Other strains or combinations of strains have been tested, but sufficient evidence is still lacking.

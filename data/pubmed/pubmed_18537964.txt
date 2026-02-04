@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18537964)
-    QUESTION: Does a physician's specialty influence the recording of medication history in patients' case notes?
-    CONTEXT: To determine the impact of a physician's specialty on the frequency and depth of medication history documented in patient medical records.
-    ANSWER: Physicians appear to document more frequently and in greater depth medication history information that may aid the diagnostic tasks in their specific specialty. Researchers and other users of medication history data documented in patients' medical records by physicians may want to take special cognizance of this phenomenon.
-    

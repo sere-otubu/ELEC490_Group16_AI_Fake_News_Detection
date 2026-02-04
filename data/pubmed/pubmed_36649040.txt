@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Malaria
-TITLE: An Overview of Malaria Transmission Mechanisms, Control, and Modeling.
-PMID: 36649040
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36649040/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In sub-Saharan Africa, malaria is a leading cause of mortality and morbidity. As a result of the interplay between many factors, the control of this disease can be challenging. However, few studies have demonstrated malaria's complexity, control, and modeling although this perspective could lead to effective policy recommendations. This paper aims to be a didactic material providing the reader with an overview of malaria. More importantly, using a system approach lens, we intend to highlight the debated topics and the multifaceted thematic aspects of malaria transmission mechanisms, while showing the control approaches used as well as the model supporting the dynamics of malaria. As there is a large amount of information on each subject, we have attempted to provide a basic understanding of malaria that needs to be further developed. Nevertheless, this study illustrates the importance of using a multidisciplinary approach to designing next-generation malaria control policies.

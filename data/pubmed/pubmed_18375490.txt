@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18375490)
-    QUESTION: Are laboratories reporting serum quantitative hCG results correctly?
-    CONTEXT: Human chorionic gonadotropin (hCG) is a heterodimeric glycoprotein hormone that exists in multiple forms. Immunoassays commonly used in clinical laboratories measure intact hCG, total beta hCG (intact hCG + hCG free beta-subunit), and/or hCG free beta-subunit. Measurement of serum concentrations of hCG is useful for confirmation and monitoring of pregnancy, diagnosis of trophoblastic diseases and monitoring of the efficacy of treatment, and prenatal screening. Correctly reporting results for the various forms of hCG is clinically important.
-    ANSWER: Many factors contribute to the erroneous reporting of hCG results, including (a) the complexity of hCG molecule and confusion of nomenclature on the various forms of hCG; (b) laboratory personnel's lack of awareness of the distinctions of the forms of hCG and failure to recognize the specificity of assays for their measurement; (c) lack of clarity and uniformity in manufacturers' reagent labeling; and (d) most product inserts' lack of information on the specificity of each method to the various forms of hCG.
-    

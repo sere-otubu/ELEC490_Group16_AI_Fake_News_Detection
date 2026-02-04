@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23810330)
-    QUESTION: Is intraoperative neuromonitoring associated with better functional outcome in patients undergoing open TME?
-    CONTEXT: Intraoperative neuromonitoring (IONM) aims to control nerve-sparing total mesorectal excision (TME) for rectal cancer in order to improve patients' functional outcome. This study was designed to compare the urogenital and anorectal functional outcome of TME with and without IONM of innervation to the bladder and the internal anal sphincter.
-    ANSWER: In this study TME with IONM was associated with significant lower rates of urinary and anorectal dysfunction. Prospective randomized trials are mandatory to evaluate the definite role of IONM in rectal cancer surgery.
-    

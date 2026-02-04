@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Colonoscopy
-TITLE: [New Colonoscopy Devices to Improve Colon Neoplasm Detection].
-PMID: 28025471
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28025471/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Early detection and removal of adenomatous polyps can prevent the development of colorectal cancer. However, it is fairly common-up to 20%-for polyps to be undetected in a colonoscopy due to poor visualization of the proximal aspect of colonic folds and anatomical flexures. To overcome these limitations, many new endoscopes and accessories have been developed. A wide-angle colonoscopy did not improve the detection of adenoma compared with the standard colonoscopy. An extra-wide angle and Retroview colonoscopies showed a significantly lower miss rate of polyps in the colon model. However, clinical trials are mandatory in the future. The recently introduced full spectrum endoscopy system showed a significantly higher adenoma detection rate than the standard forward-viewing colonoscopy. In accessories, The cap-assisted colonoscopy showed only a marginal or no benefit on the detection of polyps and adenomas. In contrast, a colonoscopy with Endocuff, EndoRings, and G-eye have showed significantly lower adenoma miss rates. The Third Eye, which provides additional retrograde viewing, has revealed a significant improvement in the detection of adenoma and polyp. However, the Third Eye Retroscope was limited by its deployment through the working channel of the scope. Recently, the Third Eye Panoramic cap, which was designed to overcome the limitation of the Third Eye Retroscope, was introduced. In the future, this would be needed to evaluate the effectiveness, efficiency and safety for these new colonoscopies and accessories.

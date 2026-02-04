@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Epidemiology basics
-TITLE: Statistics: an introduction to basic principles.
-PMID: 34039698
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34039698/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The essential principles of statistics as applied to surveys, studies, sampling, epidemiology, screening, and trials are described and explained.

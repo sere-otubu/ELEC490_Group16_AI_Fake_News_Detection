@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gluten free diet
-TITLE: A Review on the Gluten-Free Diet: Technological and Nutritional Challenges.
-PMID: 30279384
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30279384/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Consumers, food manufacturers and health professionals are uniquely influenced by the growing popularity of the gluten-free diet. Consumer expectations have urged the food industry to continuously adjust and improve the formulations and processing techniques used in gluten-free product manufacturing. Health experts have been interested in the nutritional adequacy of the diet, as well as its effectiveness in managing gluten-related disorders and other conditions. In this review, we aim to provide a clear picture of the current motivations behind the use of gluten-free diets, as well as the technological and nutritional challenges of the diet as a whole. Alternative starches and flours, hydrocolloids, and fiber sources were found to play a complex role in mimicking the functional and sensory effects of gluten in gluten-free products. However, the quality of gluten-free alternatives is often still inferior to the gluten-containing products. Furthermore, the gluten-free diet has demonstrated benefits in managing some gluten-related disorders, though nutritional imbalances have been reported. As there is limited evidence supporting the use of the gluten-free diet beyond its role in managing gluten-related disorders, consumers are urged to be mindful of the sensorial limitations and nutritional inadequacies of the diet despite ongoing strategies to improve them.

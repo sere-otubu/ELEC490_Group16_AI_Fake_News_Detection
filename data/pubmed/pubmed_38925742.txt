@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Radiation therapy
-TITLE: Contemporary Role of Radiation Therapy in Testicular Cancer.
-PMID: 38925742
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38925742/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Testicular cancer is a rare but curable male malignancy. Seminoma represents the majority of germ cell tumors and is considered radiation sensitive. Radiation treatment plays a role in adjuvant therapy after orchiectomy of stage I, IIA, and IIB seminomas. Radiation dose de-escalation has been effective in preventing tumor recurrences while also limiting acute and long-term toxicities. However, long-term risks, including the prevailing concern of secondary malignancy risk, between adjuvant radiation and chemotherapy play a role in recommendations. Ongoing work continues to be performed to reduce radiation field and dose in combination with chemotherapy while still maintaining excellent outcomes.

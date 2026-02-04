@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Opioids risks
-TITLE: Intrathecal Drug Delivery.
-PMID: 31435916
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31435916/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Targeted intrathecal (IT) drug delivery systems (IDDS) are well established as an effective treatment of patients with chronic nonmalignant or malignant pain, and as a tool for management of patients with severe spasticity. The risk to benefit ratio of IDD makes it a relatively safe therapy for both cancer- and noncancer-related pain, but it is not free of risks, so it should be managed at specific centers. Recent technological advances, new therapeutic applications, reported complications, and the costs as well as maintenance required for this therapy require the need to stay up to date about new recommendations that may improve outcomes. This chapter reviews all technological issues regarding IDDS implantation with follow-up and pharmacological recommendations published during recent years that provide evidence-based decision-making process in the management of chronic pain and spasticity in patients.

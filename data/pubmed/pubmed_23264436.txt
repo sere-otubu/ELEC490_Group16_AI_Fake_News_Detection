@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23264436)
-    QUESTION: Follow-up of patients with new cardiovascular implantable electronic devices: are experts' recommendations implemented in routine clinical practice?
-    CONTEXT: A 2008 expert consensus statement outlined the minimum frequency of follow-up of patients with cardiovascular implantable electronic devices (CIEDs).
-    ANSWER: Although most Medicare beneficiaries who received a new CIED between 2005 and 2009 did not have an initial in-person CIED follow-up visit within 2 to 12 weeks after device implantation, the rate of initial follow-up improved appreciably over time. This CIED follow-up visit was significantly more common in white patients than in patients of other races.
-    

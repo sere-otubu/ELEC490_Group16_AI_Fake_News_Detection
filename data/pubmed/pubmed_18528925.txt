@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Autoimmune diseases
-TITLE: Autoimmune liver diseases.
-PMID: 18528925
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18528925/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The liver was one of the earliest recognized sites among autoimmune diseases yet autoimmune hepatitis, primary biliary cirrhosis, primary sclerosing cholangitis, and their overlap forms, are still problematic in diagnosis and causation. The contributions herein comprise 'pairs of articles' on clinical characteristics, and concepts of etiopathogenesis, for each of the above diseases, together with childhood autoimmune liver disease, overlaps, interpretations of diagnostic serology, and liver transplantation. This issue is timely, since we are witnessing an ever increasing applicability of immunology to a wide variety of chronic diseases, hepatic and non-hepatic, in both developed and developing countries. The 11 invited expert review articles capture the changing features over recent years of the autoimmune liver diseases, the underlying immunomolecular mechanisms of development, the potent albeit still unexplained genetic influences, the expanding repertoire of immunoserological diagnostic markers, and the increasingly effective therapeutic possibilities.

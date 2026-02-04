@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cell division meiosis
-TITLE: Centrosomes in Reproduction.
-PMID: 36525112
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36525112/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Centrosome functions are vitally important for all aspects of reproduction with essential functions during meiosis, fertilization, cell division, centrosome remodeling during cellular polarization for tissue formation, and all stages of subsequent embryo development. Any defects in centrosome organization and dynamics can result in meiotic spindle formation errors, meiotic division errors, infertility, subfertility, arrested or failed development, and predisposition to various diseases including cancer. These aspects of reproduction will be addressed in more detail in the following sections.

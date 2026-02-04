@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Heart failure
-TITLE: Diagnosis and Management of Pediatric Heart Failure.
-PMID: 36922473
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36922473/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Heart failure is a highly morbid syndrome, recognized as a major cause of adult mortality. Heart failure in pediatric patients, whether in the setting of congenital or acquired heart disease, is similarly associated with high mortality and resource utilization. Understanding the clinical presentation, diagnosis, and initial stabilization of pediatric heart failure is paramount for any acute care clinician as it may mimic common childhood ailments like viral respiratory or gastrointestinal illnesses. Pediatric heart failure occurs in patients with palliated or unpalliated congenital heart disease, familial or acquired cardiomyopathy, acquired valve disease, and myocarditis. This review will focus on heart failure in pediatric patients with structurally normal hearts and will summarize what is known about patterns of presentation, etiologies, diagnostic evaluation, and the acute and chronic management of this highly morbid syndrome.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gum disease
-TITLE: Non-plaque-induced gingival diseases.
-PMID: 29926945
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29926945/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-While plaque-induced gingivitis is one of the most common human inflammatory diseases, several non-plaque-induced gingival diseases are less common but often of major significance for patients. The non-plaque-induced gingival lesions are often manifestations of systemic conditions, but they may also represent pathologic changes limited to gingival tissues. A classification is proposed, based on the etiology of the lesions and includes: Genetic/Developmental disorders; Specific infections; Inflammatory and immune conditions and lesions; Reactive processes; Neoplasms; Endocrine, Nutritional and metabolic diseases; Traumatic lesions; and Gingival pigmentation.

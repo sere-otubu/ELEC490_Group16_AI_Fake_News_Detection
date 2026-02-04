@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lymphoma
-TITLE: Pathology of lymphoma progression.
-PMID: 11318894
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11318894/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Reflecting the stepwise process of oncogenesis, lymphomas may cumulatively develop a more aggressive phenotype during the course of disease, a process referred to as lymphoma progression. Although morphological, clinical and biological aspects of lymphoma progression do not always overlap, changes in lymphoma morphology frequently indicate alterations in the clinical and biological behaviour of the disease. Indolent and aggressive lymphomas in disease progression can either be clonally related or represent clonally unrelated neoplasms. We propose to use the term 'lymphoma progression' in a biological sense denoting only clonal development of and within a lymphoma entity. The term 'composite lymphoma' should be used as a merely descriptive morphological designation for different lymphoma entities in one individual irrespective of clonal relationship. Many types of aggressive B-cell non-Hodgkin's lymphomas and Hodgkin's lymphomas are reported to secondarily develop in lymphoma progression. Genetic changes associated with lymphoma progression frequently abrogate the differentiating effects of alterations occurring in indolent lymphomas, leading to increased cell proliferation. Within different lymphoma entities, high-risk disease variants mimicking lymphoma progression exist.

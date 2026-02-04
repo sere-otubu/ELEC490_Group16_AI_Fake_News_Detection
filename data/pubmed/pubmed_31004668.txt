@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chemotherapy
-TITLE: Immunological consequences of chemotherapy: Single drugs, combination therapies and nanoparticle-based treatments.
-PMID: 31004668
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31004668/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The tumor environment has been shown to employ several immunosuppressive mechanisms to evade cancer treatments. While immunotherapies actively reverse such mechanisms and polarize the immune system against malignant cells, combining immunotherapy with certain chemotherapeutics can lead to increased efficacy compared to either treatment alone. Low-dose chemotherapy demonstrates several immunogenic effects that can favorably potentiate immunotherapies. However, the clinical benefits of such therapies are confounded by treatment complexity and marginal improvements. The highly complex relationship between chemotherapeutic drug dosing and subsequent immunological consequences is often generalized, thus limiting their efficacy and potential. Also, continuous monitoring of the immunological impact is crucial for designing superior synergies while optimizing chemotherapeutic combinations or chemotherapeutics in novel delivery systems. In this review, we summarize the existing literature on the immunological outcomes of chemotherapies administered individually, in combination regimens, and in formulation with novel delivery agents. Further, we discuss the relevance of key parameters including dosage, schedule, and tumor models, and describe their clinical implications with an emphasis on approaches and evaluations that are crucial for developing effective immune-stimulating therapies.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hypotension
-TITLE: High blood pressure and syncope: orthostatic hypotension as a link.
-PMID: 27374043
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27374043/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The prevalence of hypertension increases with the age. Diagnostic criteria are the same as for the young, but in older adults isolated systolic hypertension is more frequent, due to loss of vascular compliance. Blood pressure should be measured on both sides in the seated position, moreover in the supine and upright position to detect orthostatic hypotension. Ambulatory blood pressure monitoring is useful to detect white coat hypertension and masked hypertension, to tailor the treatment and search for diurnal and nocturnal blood pressure pattern abnormalities. Given that frailty can affect the relationship between blood pressure and mortality, the clinician should properly evaluate and monitor physical performance and cognitive status, throughout specific tools, as the Fried Frailty Phenotype, aiming at a systolic blood pressure target between 130 and 150 mmHg. Before starting hypotensive drugs, a careful risk and benefits' evaluation should be performed given the high risk of hypertension and hypotension consequences and the frequent coexistence of orthostatic hypotension, which predisposes to syncope and falls.

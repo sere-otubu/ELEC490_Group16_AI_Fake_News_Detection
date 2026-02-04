@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gallstones
-TITLE: [Gallstones].
-PMID: 39435710
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39435710/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In the present paper 10 questions regarding gallstones will be answered. The questions relate to the symptoms, diagnostic approach and treatment of gallstones. Additionally, the management of complicated gallstone disease such as cholecystitis, cholangitis or pancreatitis will be discussed. The aim of this work is to provide insight into the multidisciplinary management of gallstone disease including outcomes of treatment. Since the prevalence of gallstones is rising rapidly, it is of importance both in primary as in secondary care to provide our patients with an optimal selection for the most appropriate treatment.

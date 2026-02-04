@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rubella
-TITLE: Congenital rubella.
-PMID: 1102644
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1102644/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The original concept of the rubella syndrome as a triad of abnormalities affecting the eye, heart, and hearing organs has changed dramatically in the past 30 years. This paper describes the various clinical manifestations of congenital rubella now recognized and the varied consequences of rubella virus infection upon the fetus. The pathogenesis of intrauterine rubella is discussed in relation to the immunologic response of the fetus and to possible mechanisms of cell and tissue damage. The need for preventive measures is discussed in relation to the total number of children damaged annually and the importance of multiple defects leading to severe handicaps. Active immunization procedures to prevent congenital rubella defects are reviewed, with comments on the differences between vaccination policies in the United Kingdom and in the United States. The importance of surveillance of congenital rubella defects is emphasized; details of the National Rubella Surveillance Scheme in the United Kingdom are discussed.

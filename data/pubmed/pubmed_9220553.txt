@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Melanoma
-TITLE: Variants of melanoma.
-PMID: 9220553
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9220553/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The current classification of malignant melanomas gives recognition to superficial spreading melanoma, lentigo maligna melanoma, acral lentiginous melanoma, and nodular types. In addition, neurotropic and desmoplastic types are recognized. The relativity inherent in the diagnosis of melanoma, provides the basis for the classification of melanomas on the basis of size. Lesions measuring 1 mm or less in vertical dimensions are unlikely to metastasize; they qualify as borderline melanocytic neoplasia of indeterminant malignant potential. The current classification has little relevancy to the category of variant nevi with the exceptions of malignant cellular blue nevus and melanoma arising in giant congenital nevi. A classification of variant melanomas as related to variant nevi is proposed. From a different perspective, a classification of melanomas with attention to nesting and cytological patterns in vertical growth is proposed: this alternate approach gives recognition to lesions that might otherwise be classified as "nevoid" melanomas. It also provides a default category for lesions that might otherwise be assigned to the Spitz nevus-like category. All of these tools for the manipulation of the real and virtual images of melanomas have been emphasized in the concept of minimal deviation melanoma.

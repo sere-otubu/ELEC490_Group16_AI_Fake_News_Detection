@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Infant mortality reduction
-TITLE: Changing speed of reduction in under-5 mortality rates over the 20th century.
-PMID: 32661135
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32661135/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Declines from high levels of under-5 mortality rate (U5MR) first occurred in Western Europe. Knowledge and technologies gained from early mortality reductions could accelerate the U5MR decline for countries that followed. We explored whether average annual reduction (AAR) in U5MR increased between countries over time in the 20th century. We used U5MR time series from the Human Mortality Database and United Nations for 110 countries experiencing a decline from 100 to 50 under-5 deaths per 1000 live births during the 20th century. Between 1907 and 1938, the AAR was 2.61 (95% CI 2.09, 3.13) deaths per 1000 live births per year on average and increased by 0.06 (95% CI 0.02, 0.10) deaths for each year that passed before the decline started. Countries going through the decline in 1938-1968 and 1968-1999 showed an AAR of 3.96 and 3.67 (95% CI 3.37, 4.54 and 3.26, 4.07), respectively, with no increase in AAR. Acceleration in U5MR reduction was apparent in today's high-income countries, indicating that greater similarities and capacity may have facilitated the adaptation of mortality reducing knowledge and technologies. Greater emphasis on simple and individual-level interventions or more difficult circumstances may also explain the lack of acceleration in mortality reduction after 1950.

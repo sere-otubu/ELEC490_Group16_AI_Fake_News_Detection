@@ -1,8 +1,0 @@
-SEARCH_TOPIC: mRNA vaccines
-TITLE: mRNA vaccines in the rheumatologist's future.
-PMID: 38040517
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38040517/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Vaccines taking advantage of mRNA technology have been long in development. To review the status of approved mRNA vaccines for infectious diseases as well as those in development. Systematic literature review of clinical and immunologic studies of mRNA vaccines against infectious diseases. Currently approved mRNA vaccines include those against SARS CoV-2 virus. They are immunogenic and provide good protection against severe disease. A number of mRNA vaccines for influenza are in development including in phase 3 studies. Other such vaccines in development include those targeting Epstein-Barr Virus (EBV), Cytomegalovirus (CMV), varicella (VZV), and respiratory syncytial virus (RSV). Many of these vaccines will likely be indicated for immunosuppressed populations including those with autoimmune inflammatory diseases. A number of mRNA vaccines against viral pathogens are in early to late phase development. The ability to rapidly change vaccine constituents and target complex targets, make mRNA vaccines likely to be adopted in the future.

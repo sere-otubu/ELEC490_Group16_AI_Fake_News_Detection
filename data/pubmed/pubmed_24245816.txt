@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24245816)
-    QUESTION: Is trabecular bone related to primary stability of miniscrews?
-    CONTEXT: To compare the primary stability of miniscrews inserted into bone blocks of different bone mineral densities (BMDs) with and without cortical bone, and investigate whether some trabecular properties could influence primary stability.
-    ANSWER: Cancellous bone plays an important role in primary stability of mini-implants in the presence or absence of cortical bone.
-    

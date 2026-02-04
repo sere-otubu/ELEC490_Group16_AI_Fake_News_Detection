@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lyme disease
-TITLE: Lyme disease: a review.
-PMID: 20425509
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20425509/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Lyme disease is the most common vector-borne illness in the United States and is also endemic in Europe and Asia. It is caused by the spirochete Borrelia burgdorferi and transmitted by the bite of the Ixodes (deer) tick. It occurs most frequently during spring and summer and may involve the skin, nervous system, heart, and joints. This article reviews the pathogenesis, epidemiology, clinical manifestations, diagnosis, treatment, and prevention of Lyme disease.

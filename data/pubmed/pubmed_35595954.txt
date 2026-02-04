@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Reproductive system
-TITLE: TRPV1 in male reproductive system: focus on sperm function.
-PMID: 35595954
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35595954/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The transient receptor potential vanilloid 1 (TRPV1) is a receptor used to perceive external noxious stimuli and participates in the regulation of various pathophysiological mechanisms in vivo by integrating multiple signals. The explosive growth in knowledge of TRPV1 stemmed from research on neuronal pain and heat sensation over the last decades and is being expanded tremendously in peripheral tissue research. The discovery that TRPV1 is functionally active in male animal and human reproductive tissues have attracted increasing attention in recent years. Indeed, many studies have indicated that TRPV1 is an endocannabinoid receptor that mediates Anandamide's regulation of sperm function. Other characteristics of the TRPV1 channel itself, such as calcium penetration and temperature sensitivity, have also been investigated, especially the possibility that TRPV1 could act as a mediator for sperm thermotaxis. In addition, some reproductive diseases appear to be related to the protective effects of TRPV1 on oxidative stress and heat stress. A better understanding of TRPV1 in these areas should provide strategies for tackling male infertility. This paper is the first to review the expression and mechanism of TRPV1 in the male reproductive system from molecular and cellular perspectives. A focus is given on sperm function, including calcium homeostasis, crosstalk with endocannabinoid system, participation in cholesterol-related sperm maturation, and thermotaxis, hoping to capture the current situation of this rapidly developing field.

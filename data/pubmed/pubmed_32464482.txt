@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gene expression
-TITLE: Gene expression signatures: A tool for analysis of breast cancer prognosis and therapy.
-PMID: 32464482
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32464482/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Breast Cancer is the most predominant female cancer in developed as well as developing countries. The treatment strategies of breast cancers depends on an array of factors like age at diagnosis, menstrual status, dietary pattern, immunological response, genetic variations of the cancer cells etc. Recent technological advancements in cancer diagnosis lead to the emergence of gene expression pattern for better understanding of the tumor behavior. It has not only bolstered the prognosis, but also the early diagnosis and therapy. The accuracy in disease prognosis can be boosted when gene expression signatures are combined with traditional clinicopathological features. This review explains how the evolution of gene expression signatures for breast cancers, its advantages and future prospects. In addition, an overview of currently available gene expression signature analysis tools and consolidated information on their current status and specific benefits, that can be availed for breast cancer diagnosis are also discussed.

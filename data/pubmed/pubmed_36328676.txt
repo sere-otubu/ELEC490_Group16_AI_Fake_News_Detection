@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Maternal mortality rates
-TITLE: Maternal Mortality in Low and Middle-Income Countries.
-PMID: 36328676
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36328676/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Despite a 38% decrease in global maternal mortality during the last decade, rates remain unacceptably high with greater than 800 maternal deaths occurring each day. There exists significant regional variation among rates and causes of maternal mortality, and the vast majority occurs in low-income and middle-income countries. The leading causes of direct maternal mortality are hemorrhage, hypertensive disorders of pregnancy, sepsis, complications of abortion, and thromboembolism. Eliminating preventable maternal mortality hinges on improving clinical management of these life-threatening obstetric conditions, as well as addressing the complex social and economic barriers that pregnant women face to access quality care.

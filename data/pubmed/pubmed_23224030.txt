@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23224030)
-    QUESTION: Do European people with type 1 diabetes consume a high atherogenic diet?
-    CONTEXT: Individuals with type 1 diabetes have a high risk of developing cardiovascular diseases, and it has been reported that they consume a high atherogenic diet. We examined how nutrient intake and adherence to current European nutritional recommendations evolved in a large cohort of European individuals with type 1 diabetes over a period of 7 years.SUBJECTS/
-    ANSWER: European individuals with type 1 diabetes consume a high atherogenic diet as few patients met recommendations for dietary fibre and saturated fat. This study showed minor changes in dietary nutrients and energy intakes over a period of 7 years. Nutrition education needs particular focus on strategies to increase dietary fibre and reduce saturated fat to exploit their potential benefit.
-    

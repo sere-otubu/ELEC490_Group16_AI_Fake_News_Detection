@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep paralysis
-TITLE: Nightmare Disorder and Isolated Sleep Paralysis.
-PMID: 33230689
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33230689/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nightmare disorder and recurrent isolated sleep paralysis are rapid eye movement (REM) parasomnias that cause significant distress to those who suffer from them. Nightmare disorder can cause insomnia due to fear of falling asleep through dread of nightmare occurrence. Hyperarousal and impaired fear extinction are involved in nightmare generation, as well as brain areas involved in emotion regulation. Nightmare disorder is particularly frequent in psychiatric disorders and posttraumatic stress disorder. Nonmedication treatment, in particular imagery rehearsal therapy, is especially effective. Isolated sleep paralysis is experienced at least once by up to 40% of the general population, whereas recurrence is less frequent. Isolated sleep paralysis can be accompanied by very intense and vivid hallucinations. Sleep paralysis represents a dissociated state, with persistence of REM atonia into wakefulness. Variations in circadian rhythm genes might be involved in their pathogenesis. Predisposing factors include sleep deprivation, irregular sleep-wake schedules, and jetlag. The most effective therapy consists of avoiding those factors.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep apnea
-TITLE: Sleep apnoea and the neurologist.
-PMID: 27974377
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27974377/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There is increasing awareness and interest in the complex and extensive inter-relationships between sleep disorders and neurological disorders. This review focuses on the clinical interactions between obstructive sleep apnoea and stroke, headaches, epilepsy, cognition and idiopathic Parkinson's disease. We highlight to the neurologist the importance of taking a sleep history and considering the diagnosis and treatment of obstructive sleep apnoea.

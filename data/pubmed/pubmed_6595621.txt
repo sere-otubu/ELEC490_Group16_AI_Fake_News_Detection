@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Root canal
-TITLE: Root canal anatomy of the human permanent teeth.
-PMID: 6595621
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6595621/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Two thousand four hundred human permanent teeth were decalcified, injected with dye, and cleared in order to determine the number of root canals and their different types, the ramifications of the main root canals, the location of apical foramina and transverse anastomoses, and the frequency of apical deltas.

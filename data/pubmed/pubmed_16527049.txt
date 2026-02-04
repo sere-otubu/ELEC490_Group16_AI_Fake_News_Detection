@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chickenpox
-TITLE: [Update on chickenpox].
-PMID: 16527049
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16527049/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Primary infection by varicella-zoster virus causes chickenpox and herpes zoster. At 14 years of age, 91% of the population have already suffered the illness and after 30 years, more than 95% have done so. In 1999, the hospitalization rate was 2.4 per 1,000 chickenpox cases in those under 14 and 15.5 per 1,000 cases in those over 14. A total of 73% of deaths recorded during the period 1991-2000 were in the older than 14 year old group. Efficacy of varicella vaccine after a 7-8 years period is 87%; a milder case of chickenpox (breakthrough) can appear in vaccinated people 42 days after vaccination. The introduction of the vaccine may be proposed to stop or decrease virus circulation among the population or to decrease complications and mortality from chickenpox. According to the objective proposed, different strategies that imply risks and benefits should be conducted.

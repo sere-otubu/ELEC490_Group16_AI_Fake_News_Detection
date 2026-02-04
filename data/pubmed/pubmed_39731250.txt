@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Macular degeneration
-TITLE: [Neuroprotective therapy for age-related macular degeneration].
-PMID: 39731250
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39731250/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Age-related macular degeneration (AMD) is a chronic multifactorial degenerative eye disease and one of the leading causes of irreversible blindness worldwide. Despite extensive research, there is no consensus on the predominant pathological mechanism leading to photoreceptor death. AMD is associated with molecular and cellular disruptions that ultimately result in photoreceptor degeneration. This review summarizes data from international and Russian studies on the pathophysiological mechanisms underlying the development and progression of photoreceptor degeneration, presents scientific developments in therapeutic correction of these disturbances, and highlights promising avenues for pharmacological retinal neuroprotection that require further validation in clinical studies.

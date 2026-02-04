@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alzheimers disease
-TITLE: Inflammatory Processes in Alzheimer's Disease-Pathomechanism, Diagnosis and Treatment: A Review.
-PMID: 37047492
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37047492/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Alzheimer's disease is one of the most commonly diagnosed cases of senile dementia in the world. It is an incurable process, most often leading to death. This disease is multifactorial, and one factor of this is inflammation. Numerous mediators secreted by inflammatory cells can cause neuronal degeneration. Neuritis may coexist with other mechanisms of Alzheimer's disease, contributing to disease progression, and may also directly underlie AD. Although much has been established about the inflammatory processes in the pathogenesis of AD, many aspects remain unexplained. The work is devoted in particular to the pathomechanism of inflammation and its role in diagnosis and treatment. An in-depth and detailed understanding of the pathomechanism of neuroinflammation in Alzheimer's disease may help in the development of diagnostic methods for early diagnosis and may contribute to the development of new therapeutic strategies for the disease.

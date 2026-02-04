@@ -1,8 +1,0 @@
-SEARCH_TOPIC: X ray imaging
-TITLE: Contrast and scatter in x-ray imaging.
-PMID: 2028065
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2028065/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The effect of scattered radiation on x-ray image contrast is reviewed. Without scatter control, the information content of x-ray images is severely compromised. Typical grid performance in general radiography and mammography and grid selection considerations are presented. Contrast can be significantly improved and patient dose reduced if more efficient methods of scatter control can be developed. This can be accomplished in chest radiography with scanning slit and improved grid techniques, in mammography with multiple scanning slit techniques, and in abdominal radiography with scanning grid techniques.

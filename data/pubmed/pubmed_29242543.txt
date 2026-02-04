@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immune system
-TITLE: The twilight of immunity: emerging concepts in aging of the immune system.
-PMID: 29242543
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29242543/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Immunosenescence is a series of age-related changes that affect the immune system and, with time, lead to increased vulnerability to infectious diseases. This Review addresses recent developments in the understanding of age-related changes that affect key components of immunity, including the effect of aging on cells of the (mostly adaptive) immune system, on soluble molecules that guide the maintenance and function of the immune system and on lymphoid organs that coordinate both the maintenance of lymphocytes and the initiation of immune responses. I further address the effect of the metagenome and exposome as key modifiers of immune-system aging and discuss a conceptual framework in which age-related changes in immunity might also affect the basic rules by which the immune system operates.

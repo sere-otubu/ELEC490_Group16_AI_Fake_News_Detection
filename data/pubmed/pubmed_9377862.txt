@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Celiac disease
-TITLE: [Celiac disease and lymphoma: review of the literature].
-PMID: 9377862
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9377862/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A review of literature concerning the relationship between coeliac disease and lymphoma has been done. There is a general agreement on the greater risk for development of malignant lymphoma in coeliac patients than in general population. The traditional debate around the question of whether or not T cell lymphoma may be a cause or an effect of coeliac disease to be continued. The recently results are suggestive of a protective role for a gluten-free-diet against malignancy in coeliac disease and give further support for advising all patients to adhere to a strict gluten-free-diet for life.

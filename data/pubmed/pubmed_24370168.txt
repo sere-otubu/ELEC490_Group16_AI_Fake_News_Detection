@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Knee replacement
-TITLE: Current concepts in knee replacement: complications.
-PMID: 24370168
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24370168/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The purposes of this article are to review current concepts of knee replacement, including features of traditional and newer prosthetic designs, materials, and surgical techniques; illustrate normal and abnormal postoperative imaging findings; and to relate the complications to current understanding of how and why these failures occur. Complications after knee replacement may be asymptomatic. For this reason, assessment with postoperative imaging is important. The foundation of radiologic interpretation of knee replacement is knowledge of the physiologic purpose, orthopedic trends, imaging findings, and complications.

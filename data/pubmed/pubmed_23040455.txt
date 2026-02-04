@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Erectile dysfunction
-TITLE: Erectile dysfunction.
-PMID: 23040455
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23040455/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Erectile dysfunction is a common clinical entity that affects mainly men older than 40 years. In addition to the classical causes of erectile dysfunction, such as diabetes mellitus and hypertension, several common lifestyle factors, such as obesity, limited or an absence of physical exercise, and lower urinary tract symptoms, have been linked to the development of erectile dysfunction. Substantial steps have been taken in the study of the association between erectile dysfunction and cardiovascular disease. Erectile dysfunction is a strong predictor for coronary artery disease, and cardiovascular assessment of a non-cardiac patient presenting with erectile dysfunction is now recommended. Substantial advances have occurred in the understanding of the pathophysiology of erectile dysfunction that ultimately led to the development of successful oral therapies, namely the phosphodiesterase type 5 inhibitors. However, oral phosphodiesterase type 5 inhibitors have limitations, and present research is thus investigating cutting-edge therapeutic strategies including gene and cell-based technologies with the aim of discovering a cure for erectile dysfunction.

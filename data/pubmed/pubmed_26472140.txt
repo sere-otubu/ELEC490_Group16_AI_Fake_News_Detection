@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Psoriasis
-TITLE: Nail psoriasis.
-PMID: 26472140
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26472140/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nail psoriasis affects nearly 80% of patients with plaque psoriasis and is even more prevalent in patients with psoriatic arthritis. Nail psoriasis is not simply a cosmetic problem but one that effects the structure and function of the nail, resulting in negative psychological effects. The first level in management of nail psoriasis is patient education. The hierarchy of nail psoriasis therapy begins with topical medication followed by devices, intralesional injections, and small molecules. For nail psoriasis patients unresponsive to these treatments, and especially in patients with severe plaque psoriasis, biologics are safe and effective options.

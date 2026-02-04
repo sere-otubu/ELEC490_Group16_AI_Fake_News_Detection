@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Female infertility
-TITLE: Endocrine disorders & female infertility.
-PMID: 22115162
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22115162/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Female infertility occurs in about 37% of all infertile couples and ovulatory disorders account for more than half of these. The ovaries are in continuous interaction with the other endocrine organs. The interplay may account for infertility occurring at different levels and may render the diagnosis of infertility a difficult exercise for the involved physician. A hypothalamic cause of female infertility should be considered in an appropriate clinical context, with tests pointing to a hypogonadotropic hypogonadism. It can be functional, physiological or related to organic causes. Hyperprolactinemia has well characterized effects on the normal gonadal function and treatment is well established. Acromegaly and Cushing's disease may impair fertility at different levels, mechanisms involved however remain ill defined. Thyroid disorders, both hyperthyroidism and hypothyroidism, can interact with the ovaries, through a direct effect on ovarian function, but autoimmunity may be involved, as well as alterations of the sex hormone binding protein levels. Primary ovarian disorders, such as the polycystic ovary syndrome and primary ovarian insufficiency are frequent diseases, for which novel treatments are currently being developed and discussed. We will propose an algorithm for the diagnosis and approach of the female patient presenting with infertility on the basis of the available evidence in literature.

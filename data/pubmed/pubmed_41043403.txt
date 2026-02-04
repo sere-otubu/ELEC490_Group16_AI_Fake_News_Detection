@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Stem cell research
-TITLE: Stem cell research in space: Advancing regenerative medicine beyond Earth.
-PMID: 41043403
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41043403/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Spaceflight provides a unique environment that profoundly influences stem cell biology. Experiments aboard the International Space Station (ISS) and in simulated microgravity have revealed altered stem cell proliferation, differentiation, and stress responses, unveiling possibilities for modeling impacts of spaceflight and harnessing microgravity for biomanufacturing. Stem cell-derived organoids and tissue models flown in space are yielding insights into development, disease, and aging mechanisms, while in-space biomanufacturing efforts demonstrate accelerated stem cell expansion and tissue formation for potential translational and clinical applications. Finally, as humanity prepares for long-duration lunar and Martian missions, space-based stem cell research offers transformative biomedical applications but also raises new technical, regulatory, workforce development, and ethical challenges.

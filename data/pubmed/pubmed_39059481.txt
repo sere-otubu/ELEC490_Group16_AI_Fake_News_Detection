@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cortisol
-TITLE: Cortisol: Biosensing and detection strategies.
-PMID: 39059481
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39059481/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cortisol, a crucial steroid hormone synthesized by the adrenal glands, has diverse impacts on multiple physiological processes, such as metabolism, immune function, and stress management. Disruption in cortisol levels can result in conditions like Cushing's syndrome and Addison's disease. This review provides an in-depth exploration of cortisol, covering its structure, various forms in the body, detection methodologies, and emerging trends in cancer treatment and detection. Various techniques for cortisol detection, including electrochemical, chromatographic, and immunoassay methods were discussed and highlighted for their merits and applications. Electrochemical immunosensing emerges as a promising approach, which offered high sensitivity and low detection limits. Moreover, the review delves into the intricate relationship between cortisol and cancer, emphasizing cortisol's role in cancer progression and treatment outcomes. Lastly, the utilization of biomarkers, in-silico modeling, and machine learning for electrochemical cortisol detection were explored, which showcased innovative strategies for stress monitoring and healthcare advancement.

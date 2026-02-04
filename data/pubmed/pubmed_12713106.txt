@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Glaucoma
-TITLE: Childhood glaucoma.
-PMID: 12713106
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12713106/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The childhood glaucomas represent of variety of glaucoma subtypes that can cause serious and permanent visual damage. Early detection and treatment of infantile glaucoma is essential to preserve vision. The clinical signs and symptoms of infantile glaucoma are recognizable by nonophthalmologists but may be confused with other common clinical entities. Surgical and occasionally medical interventions can control raised intraocular pressure and thus prevent permanent glaucoma damage to the eye. Amblyopia is a common reason for permanent visual loss in this disease and needs to be treated aggressively as well.

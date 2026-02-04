@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Basal cell carcinoma
-TITLE: Differential senescence capacities in meibomian gland carcinoma and basal cell carcinoma.
-PMID: 26437300
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26437300/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Meibomian gland carcinoma (MGC) and basal cell carcinoma (BCC) are common eyelid carcinomas that exhibit highly dissimilar degrees of proliferation and prognoses. We address here the question of the differential mechanisms between these two eyelid cancers that explain their different outcome. A total of 102 confirmed MGC and 175 diagnosed BCC cases were analyzed. Twenty confirmed MGC and twenty diagnosed BCC cases were collected to determine the telomere length, the presence of senescent cells, and the expression levels of the telomere capping shelterin complex, P53, and the E3 ubiquitin ligase Siah1. Decreased protein levels of the shelterin subunits, shortened telomere length, over-expressed Ki-67, and Bcl2 as well as mutations in P53 were detected both in MGC and BCC. It suggests that the decreased protein levels of the shelterin complex and the shortened telomere length contribute to the tumorigenesis of MGC and BCC. However, several parameters distinguish MGC from BCC samples: (i) the mRNA level of the shelterin subunits decreased in MGC but it increased in BCC; (ii) P53 was more highly mutated in MGC; (iii) Siah1 mRNA was over-expressed in BCC; (iv) BCC samples contain a higher level of senescent cells; (v) Ki-67 and Bcl2 expression were lower in BCC. These results support a model where a preserved P53 checkpoint in BCC leads to cellular senescence and reduced tumor proliferation as compared to MGC.

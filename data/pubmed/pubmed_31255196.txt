@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hashimotos thyroiditis
-TITLE: The Role of Surgery in Autoimmune Conditions of the Thyroid.
-PMID: 31255196
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31255196/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The two most common autoimmune conditions of the thyroid include chronic lymphocytic (Hashimoto's) thyroiditis and Graves' disease. Both conditions can be treated medically, but surgery plays an important role. Hashimoto's thyroiditis and Graves' disease are mediated by autoantibodies that interact directly with the thyroid, creating inflammation and impacting thyroid function. Patients may develop large goiters with compressive symptoms or malignancy requiring surgical intervention. In addition, there are several surgical indications specific to Hashimoto's and Graves' Disease.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25156467)
-    QUESTION: Should early extubation be the goal for children after congenital cardiac surgery?
-    CONTEXT: We sought to determine the feasibility and assess the clinical outcomes associated with an early extubation strategy for all children undergoing congenital heart surgery, including neonates (age,<30 days).
-    ANSWER: Most children undergoing congenital heart surgery can be extubated in the operating room. Most neonates, including many undergoing complex procedures, can be extubated within the first 24 hours after surgery. Early extubation was associated with low morbidity rates and short lengths of intensive care unit and hospital stays.
-    

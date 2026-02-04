@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anaerobic exercise
-TITLE: The effect of music on anaerobic exercise performance and muscular endurance.
-PMID: 31818058
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31818058/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Music has been shown to improve aerobic and anaerobic exercise performance; however, music's effect on resistance training exercise, gender differences, and heart rate (HR) is less understood. The purpose of this study was to examine the effects of self-selected music on anaerobic exercise performance using a bench press (BP) protocol and the Wingate anaerobic test (WAT). Fifteen (8 men; 7 women) healthy, college-aged students between 18-25 years old (20.1±1.79 yrs) participated in this study. Testing consisted of two trials (music [M]; no music [NM]] completed in a randomized order. Each participant performed the BP for a maximum number of repetitions using 70% one-repetition maximum for five sets. After a 10 min rest period, a 30 s Wingate anaerobic Test (WAT) was completed. During the M condition, there was a significant increase in total work (M: 16121.8±4287.3 kJ; NM: 15021.7±4370.6 kJ; P=0.024), relative peak power (M: 44.6±8.4 W; NM: 41.4±8.4 W; P=0.014), and the total number of bench press repetitions (M: 41.7±8.7 reps; NM: 38.3±8.1 reps; P=0.001). HR recovery following the WAT protocol was significantly quicker after the WAT protocol during the M condition (M: 256.2±54.5 sec.; NM 293.3±22.3 sec.; P=0.022). There was no significant condition as for gender interaction for any of the variables assessed. Listening to self-selected music improved exercise performance during the BP and the WAT. Music also hastened HR recovery following the WAT.

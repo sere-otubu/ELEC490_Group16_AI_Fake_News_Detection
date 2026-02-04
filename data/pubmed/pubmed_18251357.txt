@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18251357)
-    QUESTION: Does histologic chorioamnionitis correspond to clinical chorioamnionitis?
-    CONTEXT: To evaluate the degree to which histologic chorioamnionitis, a frequent finding in placentas submitted for histopathologic evaluation, correlates with clinical indicators of infection in the mother.
-    ANSWER: Histologic chorioamnionitis is a reliable indicator of infection whether or not it is clinically apparent.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: LASIK surgery
-TITLE: Biology of keratorefractive surgery- PRK, PTK, LASIK, SMILE, inlays and other refractive procedures.
-PMID: 32653492
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32653492/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The outcomes of refractive surgical procedures to improve uncorrected vision in patients-including photorefractive keratectomy (PRK), laser in-situ keratomileusis (LASIK), Small Incision Lenticule Extraction (SMILE) and corneal inlay procedures-is in large part determined by the corneal wound healing response after surgery. The wound healing response varies depending on the type of surgery, the level of intended correction of refractive error, the post-operative inflammatory response, generation of opacity producing myofibroblasts and likely poorly understood genetic factors. This article details what is known about these specific wound healing responses that include apoptosis of keratocytes and myofibroblasts, mitosis of corneal fibroblasts and myofibroblast precursors, the development of myofibroblasts from keratocyte-derived corneal fibroblasts and bone marrow-derived fibrocytes, deposition of disordered extracellular matrix by corneal fibroblasts and myofibroblasts, healing of the epithelial injury, and regeneration of the epithelial basement membrane. Problems with epithelial and stromal cellular viability and function that are altered by corneal inlays are also discussed. A better understanding of the wound healing response in refractive surgical procedures is likely to lead to better treatments to improve outcomes, limit complications of keratorefractive surgical procedures, and improve the safety and efficiency of refractive surgical procedures.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25155638)
-    QUESTION: Can routine offering of influenza vaccination in office-based settings reduce racial and ethnic disparities in adult influenza vaccination?
-    CONTEXT: Influenza vaccination remains below the federally targeted levels outlined in Healthy People 2020. Compared to non-Hispanic whites, racial and ethnic minorities are less likely to be vaccinated for influenza, despite being at increased risk for influenza-related complications and death. Also, vaccinated minorities are more likely to receive influenza vaccinations in office-based settings and less likely to use non-medical vaccination locations compared to non-Hispanic white vaccine users.
-    ANSWER: Improved office-based practices regarding influenza vaccination could significantly impact Healthy People 2020 goals by increasing influenza vaccine uptake and reducing corresponding racial and ethnic disparities.
-    

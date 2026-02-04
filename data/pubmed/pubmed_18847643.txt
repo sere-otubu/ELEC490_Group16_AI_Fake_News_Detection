@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18847643)
-    QUESTION: Therapeutic anticoagulation in the trauma patient: is it safe?
-    CONTEXT: Trauma patients who require therapeutic anticoagulation pose a difficult treatment problem. The purpose of this study was to determine: (1) the incidence of complications using therapeutic anticoagulation in trauma patients, and (2) if any patient factors are associated with these complications.
-    ANSWER: Trauma patients have a significant complication rate related to anticoagulation therapy, and predicting which patients will develop a complication remains unclear. Prospective studies are needed to determine which treatment regimen, if any, is appropriate to safely anticoagulate this high risk population.
-    

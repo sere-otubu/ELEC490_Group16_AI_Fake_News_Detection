@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hysterectomy
-TITLE: Robotic versus laparoscopic hysterectomy: a review of recent comparative studies.
-PMID: 21666467
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21666467/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To illustrate the current stand on robotic versus conventional laparoscopic hysterectomy regarding operating times, clinical outcome and costs. Only six studies were reviewed, as there are only few recent studies comparing robotic with laparoscopic hysterectomy and most are retrospective. Apart from one multicentre study with over 36  000 patients, 350 institutions and numerous surgeons, most studies were performed with few cases by one or two surgeons at one or two hospitals. Operating times for robotic hysterectomies generally were longer, ranging from 89.9 to 267  min. Surgery time for conventional laparoscopic hysterectomies was between 83 and 206  min. In all studies, clinical outcomes such as blood loss, complications or hospital stay of both the robotic and the conventional laparoscopic procedure were similar. Only two studies compared costs and both came up with very similar findings. Cost for a robot-assisted hysterectomy is approximately 2600 USD higher than that for conventional laparoscopic hysterectomy not including investment and amortization. Robotic and conventional laparoscopic hysterectomy are essentially equivalent regarding surgical and clinical outcome. Operating times are slightly higher and costs are significantly higher for the robotic procedure.

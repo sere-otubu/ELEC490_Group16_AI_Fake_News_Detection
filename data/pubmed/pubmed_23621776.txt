@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23621776)
-    QUESTION: Does a history of unintended pregnancy lessen the likelihood of desire for sterilization reversal?
-    CONTEXT: Unintended pregnancy has been significantly associated with subsequent female sterilization. Whether women who are sterilized after experiencing an unintended pregnancy are less likely to express desire for sterilization reversal is unknown.
-    ANSWER: Among women who had undergone tubal sterilization, a prior history of unintended pregnancy did not decrease desire for sterilization reversal.
-    

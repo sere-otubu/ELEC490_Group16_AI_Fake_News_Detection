@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Measles
-TITLE: Measles re-emerges and recommendation of vaccination.
-PMID: 31569091
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31569091/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Measles is a highly infectious viral illness and is one of the world's most contagious diseases that can affect all people if they have not been vaccinated or have not had it before. Before measles vaccine became available in 1963, major epidemic occurred approximately every 2 to 3 years and thus 99% of the people were thought to have been infected naturally with measles virus and got immune for life. In 2000, measles was declared eliminated from the United States, and yet 1215 cases have been reported from 30 states as of August 22, 2019. Currently, there are several large measles outbreaks universally, and some people who were not immune and they need to get their measles, mumps, rubella (MMR) vaccine to prevent measles outbreaks. As vaccination coverage increases, the average age of measles infection can change to adolescents and young adults. In addition, the protective antibodies derived from vaccination might decrease gradually, and the risk of measles infection in young adults is increasing regardless of international travelling.

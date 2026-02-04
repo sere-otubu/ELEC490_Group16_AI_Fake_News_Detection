@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Corticosteroids
-TITLE: Corticosteroids in septic shock: a double-edged sword.
-PMID: 40586240
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40586240/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Corticosteroid therapy remains controversial in the management of septic shock. The putative benefits of glucocorticoids on immunomodulation and rescue of hypothalamic-pituitary-adrenal (HPA) axis dysregulation has made it an attractive target for clinical research. However, conflicting trial results have introduced uncertainty into clinical guidance, while risk of harm continues to be a concern. This review summarizes and interprets the current body of evidence for the role of corticosteroid therapy in septic shock and suggests future directions for continued investigation. Updated guidelines continue to recommend corticosteroids in septic shock, but more robust data for corticosteroids have emerged in community acquired pneumonia (CAP) and acute respiratory distress syndrome (ARDS), which may account for some of the benefit seen in trials on septic shock. Systematic reviews have suggested potential benefits of combination therapy with fludrocortisone, but further research is needed. Significant variation exists in corticosteroid prescribing practices across providers and ICU settings. Many uncertainties remain regarding utility of corticosteroids in septic shock. However, they remain a tool for refractory shock in appropriate patients where benefits outweigh harm. Future research should focus on individualized approaches to corticosteroid therapy.

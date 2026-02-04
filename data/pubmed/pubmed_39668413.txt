@@ -1,8 +1,0 @@
-SEARCH_TOPIC: mRNA vaccines
-TITLE: mRNA vaccines as cancer therapies.
-PMID: 39668413
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39668413/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cancer remains a major global health challenge, with conventional treatments like chemotherapy and radiotherapy often hindered by significant side effects, lack of specificity, and limited efficacy in advanced cases. Among emerging therapeutic strategies, mRNA vaccines have shown remarkable potential due to their adaptability, rapid production, and capability for personalized cancer treatment. This review provides an in-depth analysis of messenger RNA (mRNA) vaccines as a therapeutic approach for cancer immunotherapy, focusing on their molecular biology, classification, mechanisms, and clinical studies. Derived from reported literature and data on clinicaltrials.gov, it examines studies on mRNA vaccines encoding tumor-specific antigens (TSAs), tumor-associated antigens (TAAs), immunomodulators, and chimeric antigen receptors (CARs) across various cancer types. The review highlights the ability of mRNA vaccines to encode TSAs and TAAs, enabling personalized cancer treatments, and classifies these vaccines into non-replicating and self-amplifying types. It further explores their mechanisms of action, including antigen presentation and immune activation, while emphasizing findings from clinical studies that demonstrate the potential of mRNA vaccines in cancer therapy. Despite their promise, challenges remain in enhancing delivery systems, improving immunogenicity, and addressing tumor heterogeneity. Overcoming these obstacles will require further investigation to fully harness the potential of mRNA vaccines in personalized cancer treatment.

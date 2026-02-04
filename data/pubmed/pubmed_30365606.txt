@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Root canal
-TITLE: Unprepared root canal surface areas: causes, clinical implications, and therapeutic strategies.
-PMID: 30365606
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30365606/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chemomechanical preparation is intended to clean, disinfect, and shape the root canal. This step is of utmost importance during treatment of infected teeth with apical periodontitis, because treatment outcome depends on how effectively the clinician eliminates bacteria, their products, and necrotic tissue that would serve as substrate for bacterial regrowth. Nonetheless, curvatures and complex internal anatomical variations of the root canal system can pose a high degree of difficulty in reaching these goals. In infected teeth, bacteria may persist not only in difficult-to-reach areas such as isthmuses, ramifications, dentinal tubules, and recesses from C-shaped or oval/flattened canals, but also in areas of the main canal wall that remain untouched by instruments. If bacteria withstand chemomechanical procedures, there is an augmented risk for post-treatment apical periodontitis. This article discloses the reasons why some areas remain unprepared by instruments and discusses strategies to circumvent this issue and enhance infection control during endodontic treatment/retreatment of teeth with apical periodontitis.

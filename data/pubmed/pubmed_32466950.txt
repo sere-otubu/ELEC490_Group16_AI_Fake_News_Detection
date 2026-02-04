@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Carbohydrates types
-TITLE: Evaluation of carbohydrates and quality parameters in six types of commercial teas by targeted statistical analysis.
-PMID: 32466950
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32466950/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The content of low molecular weight carbohydrates (LMWC) of six types of tea produced from the leaves of Camellia sinensis were analyzed by hydrophilic interaction chromatography (HILIC) coupled to mass spectrometry. Quantities of sucrose, glucose, fructose, myo-inositol, maltose, mannitol, raffinose, galactinol, and stachyose were determined in samples of white, yellow, green, black, oolong, and dark tea. Sucrose was the most abundant carbohydrate in all types of tea. The concentration of all measured carbohydrates except mannitol was lowest in dark tea samples. Correlation analyses using quantitative data of LMWCs, antioxidant activity, and color parameters were performed on black tea samples to evaluate the interaction of different quality parameters. Carbohydrates depletion was observed during tea processing with formation of Amadori compounds with theanine.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hormone replacement therapy
-TITLE: The effects of estrogen and hormone replacement therapy on cardiovascular systems.
-PMID: 33191784
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33191784/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Postmenopausal women have an increased risk of cardiovascular disease, which is believed to correlate with lower estrogen level. There are conflicting data regarding hormone replacement therapy (HRT) based on the timing of this therapy. After large randomized trials showed no cardiovascular benefit of hormone replacement, estrogen replacement therapy was dramatically reduced even though starting hormone replacement in early postmenopausal period had shown significant benefit. There are hardly any reviews discussing in detail the effect of HRT on cardiovascular system while briefly discussing other effects of this therapy in postmenopausal women. The novelty of this review is the comprehensive discussion of this effect that can help researchers and clinicians to design future research or trials. In this manuscript, the effect of HRT on cardiovascular system in clinical trials and basic science will be reported and potentially erroneous conclusions drawn by various studies will be discussed. Furthermore, various noncardiovascular effect of HRT will be analyzed.

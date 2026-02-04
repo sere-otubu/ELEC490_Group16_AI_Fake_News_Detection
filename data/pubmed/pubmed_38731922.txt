@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hashimotos thyroiditis
-TITLE: Autoimmunity, New Potential Biomarkers and the Thyroid Gland-The Perspective of Hashimoto's Thyroiditis and Its Treatment.
-PMID: 38731922
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38731922/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Autoimmune thyroid disease (AITD) is the most common organic specific illness of the thyroid gland. It may manifest as the overproduction or the decline of thyroxine and triiodothyronine. Hyperthyroidism develops due to the overproduction of hormones as an answer to the presence of stimulatory antibodies against the TSH receptor. Hashimoto's thyroiditis (HT) is generally characterized by the presence of thyroid peroxidase and thyroglobulin antibodies, with a concomitant infiltration of lymphocytes in the thyroid. Due to the progressive destruction of cells, AITD can lead to subclinical or overt hypothyroidism. Pathophysiology of AITD is extremely complicated and still not fully understood, with genetic, environmental and epigenetic factors involved in its development. Due to increasing incidence and social awareness of this pathology, there is an urgent need to expand the background concerning AITD. A growing body of evidence suggests possible ways of treatment apart from traditional approaches. Simultaneously, the role of potential new biomarkers in the diagnosis and monitoring of AITD has been highlighted recently, too. Therefore, we decided to review therapeutic trends in the course of AITD based on its pathophysiological mechanisms, mainly focusing on HT. Another aim was to summarize the state of knowledge regarding the role of new biomarkers in this condition.

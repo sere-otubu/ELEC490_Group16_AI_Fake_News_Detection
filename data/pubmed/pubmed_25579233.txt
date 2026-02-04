@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Menopause
-TITLE: Obesity and menopause.
-PMID: 25579233
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25579233/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Over the recent decades, the prevalence of obesity in the United States has increased to epidemic proportions to more than 35% of adults, along with an increased risk of a number of health conditions, including hypertension, adverse lipid concentrations, and type 2 diabetes. The relationships between menopausal transition, weight gain, and obesity are reported but incompletely understood. The association between menopause and these measures has been the subject of many studies, along with examining their effect on reproductive hormones and menopausal symptoms. The purpose of this review is to summarize what is published in the literature on this subject and examine it through: (1) the possible impact of obesity on the timing of menopause; (2) the effect of obesity on menopausal symptoms and reproductive hormones around the time of menopause; and (3) the effect of menopause on obesity, weight gain, and body composition.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cirrhosis
-TITLE: Pathogenesis of liver cirrhosis.
-PMID: 24966602
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24966602/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Liver cirrhosis is the final pathological result of various chronic liver diseases, and fibrosis is the precursor of cirrhosis. Many types of cells, cytokines and miRNAs are involved in the initiation and progression of liver fibrosis and cirrhosis. Activation of hepatic stellate cells (HSCs) is a pivotal event in fibrosis. Defenestration and capillarization of liver sinusoidal endothelial cells are major contributing factors to hepatic dysfunction in liver cirrhosis. Activated Kupffer cells destroy hepatocytes and stimulate the activation of HSCs. Repeated cycles of apoptosis and regeneration of hepatocytes contribute to pathogenesis of cirrhosis. At the molecular level, many cytokines are involved in mediation of signaling pathways that regulate activation of HSCs and fibrogenesis. Recently, miRNAs as a post-transcriptional regulator have been found to play a key role in fibrosis and cirrhosis. Robust animal models of liver fibrosis and cirrhosis, as well as the recently identified critical cellular and molecular factors involved in the development of liver fibrosis and cirrhosis will facilitate the development of more effective therapeutic approaches for these conditions.

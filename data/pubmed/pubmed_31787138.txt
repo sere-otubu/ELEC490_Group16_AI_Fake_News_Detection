@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Plant based protein
-TITLE: Protein S-nitrosylation in plant abiotic stresses.
-PMID: 31787138
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31787138/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Plants are exposed to various environmental stresses that affect crop growth and production. During stress, various physiological and biochemical changes including the production of nitric oxide (NO), take place. It is clear that NO could work through either transcriptional or post-translational level. The redox-based post-translational modification S-nitrosylation - the covalent attachment of an NO moiety to a reactive cysteine thiol of a protein to form an S-nitrosothiol (SNO) - has attracted increasing attention in the regulation of abiotic stress signalling. So far, the relevance of S-nitrosylation of certain proteins has been investigated under abiotic stress. In this work, we focus on the current state of knowledge regarding S-nitrosylation in plants under abiotic stress, and provide a better understanding of the relevance of S-nitrosylation in plant response to abiotic stress.

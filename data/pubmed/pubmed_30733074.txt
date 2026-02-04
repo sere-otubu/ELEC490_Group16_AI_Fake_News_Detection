@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Atherosclerosis
-TITLE: Inflammation, infection and atherosclerosis.
-PMID: 30733074
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30733074/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Atherosclerotic cardiovascular disease is a leading cause of death in much of the world. Adoption of a healthy lifestyle and cholesterol lowering are the key measures used to prevent major complications of atherosclerosis. Recent data have identified a critical role for inflammation mediated through activation of both innate and adaptive immune pathways in the pathophysiology of atherosclerosis opening up opportunities for development of anti-inflammatory interventions that could supplement risk factor modification and lipid lowering as an approach to further reducing the burden of atherosclerotic cardiovascular disease.

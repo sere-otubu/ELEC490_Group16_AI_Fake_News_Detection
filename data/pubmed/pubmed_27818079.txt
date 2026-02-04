@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 27818079)
-    QUESTION: Is the Retromandibular Transparotid Approach a Reliable Option for the Surgical Treatment of Condylar Fractures?
-    CONTEXT: This study evaluated the outcomes and complications of the surgical treatment of condylar fractures by the retromandibular transparotid approach. The authors hypothesized that such an approach would be safe and reliable for the treatment of most condylar fractures.
-    ANSWER: According to the results of the present study, the retromandibular transparotid approach is a viable and safe approach for the surgical treatment of condylar fractures.
-    

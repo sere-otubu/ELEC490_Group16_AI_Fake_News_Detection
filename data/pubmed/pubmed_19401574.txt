@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19401574)
-    QUESTION: Gadofosveset-enhanced MR angiography of carotid arteries: does steady-state imaging improve accuracy of first-pass imaging?
-    CONTEXT: To evaluate the diagnostic accuracy of gadofosveset-enhanced magnetic resonance (MR) angiography in the assessment of carotid artery stenosis, with digital subtraction angiography (DSA) as the reference standard, and to determine the value of reading first-pass, steady-state, and "combined" (first-pass plus steady-state) MR angiograms.
-    ANSWER: Gadofosveset-enhanced MR angiography is a promising technique for imaging carotid artery stenosis. Steady-state image reading is superior to first-pass image reading, but the combined reading protocol is more accurate.
-    

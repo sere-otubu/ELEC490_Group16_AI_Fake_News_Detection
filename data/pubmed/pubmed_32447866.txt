@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Food allergies
-TITLE: Physiopathology of food allergies.
-PMID: 32447866
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32447866/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Food allergy is adverse reaction to certain foods and it arise from a specific immune response, including reactions mediated by immunoglobulin (Ig) E, by cells, or by both. Although individuals of all ages can develop it, the pediatric population is the most affected by it; with a prevalence of 6 to 8 %. In homeostatic conditions, the organism has tolerance and regulation pathways that hinder food components from causing damage or adverse immune reactions. However, under specific conditions such as genetic predisposition, environmental factors, dietary patterns, or premature exposure to certain foods, tolerance is not developed and aberrant and excessive immune responses to food antigens happen. Understanding the complex physiopathological mechanisms that are present during the establishment and evolution of food allergies allows the identification of potential therapeutic targets and the development of more effective therapies aimed to modify the natural course of the allergy and to improve the patients' quality of life. The objective of this review is to give an updated vision of the existing knowledge about predisposition, sensitization pathways, manifestations, and therapies in IgE-mediated food allergies, delving into the molecular and cellular mechanisms of its physiopathology.

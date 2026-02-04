@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antisocial personality disorder
-TITLE: Antisocial Personality Disorder in Older Adults: A Critical Review.
-PMID: 28954596
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28954596/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Antisocial personality disorder (ASPD) has enormous negative impacts on the affected individuals, their loved ones, and society. This burden is intensified by the social and functional changes related to age. The lower prevalence of ASPD in older adults compared to younger adults is well-documented. This discrepancy, often attributed solely to antisocial "burnout," contributes to the lack of attention given to this disorder in older adults and may signify difficulty measuring ASPD in this population. These measurement issues likely stem from problems with the validity of the diagnostic criteria for older adults which may not effectively capture changes that occur with age. This review focuses on the current literature surrounding the validity of ASPD criteria with older adults and relevant concepts, including the connection between criminality and ASPD. Issues with screening tools and the measurement of ASPD caused by problems with the criteria are also discussed. Finally, recommendations for improvement, including use of dimensional models of personality disorders, a potential geriatric subclassification of criteria, and modification of the existing criteria are presented with clinical implications and suggestions for future research.

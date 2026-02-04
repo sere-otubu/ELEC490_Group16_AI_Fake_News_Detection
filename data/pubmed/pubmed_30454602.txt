@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hormones types
-TITLE: Thermoregulation and age.
-PMID: 30454602
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30454602/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The thermoregulatory functions may vary with age. Thermosensitivity is active in neonates and children; both heat production and heat loss effector mechanisms are functional but easily exhaustable. Proportional and lasting defense against thermal challenges is difficult, and both hypothermia and hyperthermia may easily develop. Febrile or hypothermic responses to infections or endotoxin can also develop, together with confusion. In small children febrile convulsions may be dangerous. In old age the resting body temperature may be lower than in young adults. Further, thermosensitivity decreases, the thresholds for activating skin vasomotor and evaporative responses or metabolism are shifted, and responses to thermal challenges are delayed or insufficient: both hypothermia and hyperthermia may develop easily. Infection-induced fevers are often limited or absent, or replaced by hypothermia. Various types of brain damage may induce special forms of hypothermia, hyperthermia, or severe fever. Impaired mental state often accompanies hypothermia and hyperthermia, and may occasionally be a dominant feature of infection (instead of the most commonly observed fever). Aging brings about a turning point in women's life: the menopause. The well-known influence of regular hormonal cycles on the thermoregulation of a woman of fertile age gives way to menopausal hot flushes caused by estrogen withdrawal. Not all details of this thermoregulatory anomaly are fully understood yet.

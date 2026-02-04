@@ -1,8 +1,0 @@
-SEARCH_TOPIC: NSAIDs side effects
-TITLE: Adverse effects of nonsteroidal antiinflammatory drugs: an update of gastrointestinal, cardiovascular and renal complications.
-PMID: 24393558
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24393558/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Non-steroidal anti-inflammatory drugs (NSAIDs) are used chronically to reduce pain and inflammation in patients with arthritic conditions, and also acutely as analgesics by many patients. Both therapeutic and adverse effects of NSAIDs are due to inhibition of cyclooxygenase (COX) enzyme. NSAIDs are classified as non-selective and COX-2-selective inhibitors (COXIBS) based on their extent of selectivity for COX inhibition. However, regardless of their COX selectivity, reports are still appearing on the GI side effect of NSAIDs particularly on the lower gastrointestinal (GI) tract and the harmful role of their controlled release formulations. In addition, previously unpublished data stored in the sponsor's files, question the GI sparing properties of rofecoxib, a COXIB that has been withdrawn due to cardiovascular (CV) side effects. Presently, the major side effects of NSAIDs are the GI complications, renal disturbances and CV events. There is a tendency to believe that all NSAIDs are associated with renal and CV side effects, a belief that is not supported by solid evidence. Indeed, lower but still therapeutics doses of some NSAIDs may be cardioprotective. In this review, we briefly discuss the GI toxicity of the NSAIDs and assess their renal and CV adverse effects in more detail.

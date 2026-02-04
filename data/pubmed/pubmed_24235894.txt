@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24235894)
-    QUESTION: Is there a first night effect on sleep bruxism?
-    CONTEXT: Sleep bruxism (SB) is reported to vary in frequency over time. The aim of this study was to assess the first night effect on SB.
-    ANSWER: The results showed no overall first night effect on severity of RMMA frequency in young and healthy patients with SB. In clinical practice, one-night sleep recording may be sufficient for moderate-high frequency SB patients. However, low RMMA frequency in the first night could be confirmed by a second night based on the patient's medical and dental history.
-    

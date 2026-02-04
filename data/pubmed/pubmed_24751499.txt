@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hearing aids
-TITLE: Managing age-related hearing loss: how to use hearing aids efficiently - a mini-review.
-PMID: 24751499
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24751499/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Using hearing aids may contribute to better functioning in the everyday lives of hearing-impaired older individuals. We introduce an integrative concept for the efficient use of hearing aids that involves both satisfaction with, and behaviour towards, hearing aids. We review theoretical and empirical work on the predictors of the efficient use of hearing aids in everyday life. Furthermore, we contend that the use of hearing aids requires improved understanding of the variability of hearing demands within specific contexts of everyday life (e.g. conversation with family members, listening to music). The efficiency of hearing aid use thus depends on the fit of situational demands, personal resources, and the specific configuration of the hearing aid device. We propose an integrative person-environment-fit model that advances concepts of selection, optimisation, and compensation to hearing aid efficiency. We discuss the implications of this model for research and for practitioners in the field of gerontology.

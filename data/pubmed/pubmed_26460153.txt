@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26460153)
-    QUESTION: Cardiac reoperations in octogenarians: Do they really benefit?
-    CONTEXT: We retrospectively identified 84 consecutive patients aged ≥80 years, who underwent a cardiac reoperation at the department for Cardiothoracic Surgery in the Heart&Vessel Center Bad Bevensen between January 2007 and 2013. Demographic profiles as well as operative data were analyzed, and the patients were prospectively followed. Patient's functional status and quality of life were assessed with the Barthel Index, New York Heart Association class and the short form-12 questionnaire.
-    ANSWER: Despite high perioperative mortality, results document a sustainable recovery of the survivors offering the prospect of a highly independent and satisfying life. Therefore, advanced age alone should not be a contraindication for redo cardiac interventions. Geriatr Gerontol Int 2016; 16: 1138-1144.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Posture correction
-TITLE: Comparison of postural assessment and awareness in individuals receiving posture training using the digital AI posture assessment and correction system.
-PMID: 39318138
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39318138/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-<i>Objectives.</i> This study aimed to compare postural assessment and postural awareness using the artificial intelligence posture evaluation and correction system (APECS) in individuals receiving posture training. <i>Methods.</i> Participants' physical characteristics were recorded. The participants' posture was evaluated with APECS and the New York posture rating chart test (NYPR), and their body and postural awareness was evaluated with the body awareness questionnaire (BAQ), postural awareness form (PAF) and postural habits and awareness scale (PHAS). <i>Results.</i> In the study, results of the PAF (<i>p</i> = 0.000), BAQ (<i>p</i> = 0.013) and PHAS (<i>p</i> = 0.033) were found to be different between the groups. While the groups were similar in the PHAS sub-dimension of postural habit (<i>p</i> = 0.331), there was a significant difference between the groups in postural awareness (<i>p</i> = 0.04). NYPR results of the participants in the group receiving posture training were similar to those in the group not receiving posture training (<i>p</i> = 0.45). <i>Conclusion.</i> Postural deviations measured by digital posture assessment in individuals receiving posture training were significantly different in the group receiving posture training. Postural awareness and body awareness were better in individuals who received posture training than in individuals who did not receive posture training.

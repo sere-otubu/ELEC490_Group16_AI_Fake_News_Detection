@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Organ donation ethics
-TITLE: Incentivizing living organ donation.
-PMID: 19300256
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19300256/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The number of organs available for the patients on the transplant waitlist remains at a disproportionate low. All possible methods to curtail this shortage, including providing donors with incentives, have been proposed. This article reviews recent publications addressing the benefits and risks involved in incentivizing living donation. The debate about the ethics, feasibility, and possible models for compensating organ donors has been prominent in recent literature. As certain countries take lead on this initiative, others are cautiously weighing in on the impact implementations of such policies may have on the society, especially on the underprivileged. The shortage of organs has resulted in proposal of strategies that encroach on certain moral and ethical principles. Providing incentives to donors is one such strategy that is likely to receive a lot of attention in the next few years.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Stomach anatomy
-TITLE: Colobine forestomach anatomy and diet.
-PMID: 31424606
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31424606/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Colobine monkeys have complex, multichambered, foregut-fermenting stomachs with either three ("tripartite") or four ("quadripartite," adding the praesaccus) chambers where a commensal microbiome digests plant cell walls and possibly detoxifies defensive plant chemicals. Although different potential functions for the praesaccus have been suggested, little evidence exists to support any of the proposed functions. To address the issue of the function of the praesaccus, we collated literature data on diet and compared tripartite and quadripartite species. Our results suggest that the praesaccus is an adaptation to a dietary niche with a particularly high reliance on leaves as fallback foods in colobine clades with quadripartite stomachs, and a higher reliance on fruits/seeds as foods at times of high fruit availability in clades with tripartite stomachs. This supports the notion that a large gut capacity is an important characteristic by which folivores survive on a high fiber diet, and that this large gut capacity may not be necessary for some species if there are seasonal peaks in fruit availability.

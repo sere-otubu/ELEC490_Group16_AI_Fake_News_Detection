@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Neurotransmitters
-TITLE: Relationship of neurotransmitters to the symptoms of major depressive disorder.
-PMID: 18494537
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18494537/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A relationship appears to exist between the 3 main monoamine neurotransmitters in the brain (i.e., dopamine, norepinephrine, and serotonin) and specific symptoms of major depressive disorder. Specific symptoms are associated with the increase or decrease of specific neurotransmitters, which suggests that specific symptoms of depression could be assigned to specific neurochemical mechanisms, and subsequently specific antidepressant drugs could target symptom-specific neurotransmitters. Research on electroconvulsive therapy has supported a correlation between neurotransmitters and depression symptoms. A 2-dimensional model of neurotransmitter functions is discussed that describes depression as a mixture of 2 separate components--negative affect and the loss of positive affect--that can be considered in relation to the 3 amine neurotransmitters. Owing to the different methods of action of available antidepressant agents and the depression symptoms thought to be associated with dopamine, serotonin, and norepinephrine, current treatments can be targeted toward patients' specific symptoms.

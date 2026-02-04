@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Heart anatomy
-TITLE: Comparative and developmental anatomy of cardiac lymphatics.
-PMID: 24592145
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24592145/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The role of the cardiac lymphatic system has been recently appreciated since lymphatic disturbances take part in various heart pathologies. This review presents the current knowledge about normal anatomy and structure of lymphatics and their prenatal development for a better understanding of the proper functioning of this system in relation to coronary circulation. Lymphatics of the heart consist of terminal capillaries of various diameters, capillary plexuses that drain continuously subendocardial, myocardial, and subepicardial areas, and draining (collecting) vessels that lead the lymph out of the heart. There are interspecies differences in the distribution of lymphatic capillaries, especially near the valves, as well as differences in the routes and number of draining vessels. In some species, subendocardial areas contain fewer lymphatic capillaries as compared to subepicardial parts of the heart. In all species there is at least one collector vessel draining lymph from the subepicardial plexuses and running along the anterior interventricular septum under the left auricle and further along the pulmonary trunk outside the heart and terminating in the right venous angle. The second collector assumes a different route in various species. In most mammalian species the collectors run along major branches of coronary arteries, have valves and a discontinuous layer of smooth muscle cells.

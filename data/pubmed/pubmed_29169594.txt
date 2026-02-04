@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Carpal tunnel syndrome
-TITLE: Carpal Tunnel Syndrome and Distal Radius Fractures.
-PMID: 29169594
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29169594/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Carpal tunnel syndrome (CTS) after distal radius fractures can present in 3 forms: acute, transient, and delayed. Acute CTS requires an emergent carpal tunnel release. Many patients with transient CTS after distal radius fracture do not require surgical release of the carpal tunnel once the fracture is repaired. Prophylactic carpal tunnel release in the absence of signs and symptoms of CTS after a distal radius fracture is not indicated. For patients with delayed CTS after a distal radius fracture, all possible causes of nerve compression should be considered and addressed in standard fashion.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Digestion process
-TITLE: Mechanisms of starch digestion by α-amylase-Structural basis for kinetic properties.
-PMID: 25751598
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25751598/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Recent studies of the mechanisms determining the rate and extent of starch digestion by α-amylase are reviewed in the light of current widely-used classifications for (a) the proportions of rapidly-digestible (RDS), slowly-digestible (SDS), and resistant starch (RS) based on in vitro digestibility, and (b) the types of resistant starch (RS 1,2,3,4…) based on physical and/or chemical form. Based on methodological advances and new mechanistic insights, it is proposed that both classification systems should be modified. Kinetic analysis of digestion profiles provides a robust set of parameters that should replace the classification of starch as a combination of RDS, SDS, and RS from a single enzyme digestion experiment. This should involve determination of the minimum number of kinetic processes needed to describe the full digestion profile, together with the proportion of starch involved in each process, and the kinetic properties of each process. The current classification of resistant starch types as RS1,2,3,4 should be replaced by one which recognizes the essential kinetic nature of RS (enzyme digestion rate vs. small intestinal passage rate), and that there are two fundamental origins for resistance based on (i) rate-determining access/binding of enzyme to substrate and (ii) rate-determining conversion of substrate to product once bound.

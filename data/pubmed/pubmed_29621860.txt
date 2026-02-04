@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tinnitus
-TITLE: A review of tinnitus.
-PMID: 29621860
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29621860/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Tinnitus is one of the most common otological symptoms. In recent times our understanding of tinnitus has significantly progressed. Tinnitus may be defined as conscious awareness of a sound in the absence of an external auditory stimulus. People with tinnitus almost always seek the attention of their general practitioner, who is best placed to assess, investigate and provide appropriate counselling. The aim of this article is to define and provide guidelines on causes, assessment, appropriate investigation and management of tinnitus. Tinnitus may be categorised as subjective, objective, primary or secondary. The assessment of tinnitus begins by determining which of these types with the patient presents with. All patients with tinnitus warrant formal audiometric assessment, and a proportion will warrant further imaging. Management requires treatment of reversible causes. Those with subjective, bothersome chronic tinnitus require tinnitus-specific therapies.

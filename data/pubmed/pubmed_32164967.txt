@@ -1,8 +1,0 @@
-SEARCH_TOPIC: NSAIDs side effects
-TITLE: Meloxicam.
-PMID: 32164967
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32164967/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Meloxicam, an oxicam derivative: 4-Hydroxy-2-methyl-N-(5-methyl-2-thiazolyl)-2H-1,2- benzothiazine-3-carboxamide 1,1-dioxide, is a nonsteroidal anti-inflammatory drug (NSAID). It is a selective inhibitor of cyclooxygenase-2 (COX-2). It is used in the management of rheumatoid arthritis, acute exacerbations of osteoarthritis, ankylosing spondylitis and juvenile idiopathic arthritis. It is given in a single oral dose of 7.5mg, increased if necessary to a maximum of 15mg daily (7.5mg in the elderly). It may also be given by rectal suppository in doses similar to those used orally. The reported side effects of meloxicam are similar to those of nonsteroidal anti-inflammatory drugs (NSAIDs), such as abdominal pain, anemia, and edema. There is also an increased risk of serious gastrointestinal (GI) adverse events, including ulceration and bleeding. This profile is prepared to discuss and explain physical characteristics, Proprietary and nonproprietary names of meloxicam. It also includes methods of preparation, thermal and spectral behavior, methods of analysis, pharmacokinetics, metabolism, excretion and pharmacology.

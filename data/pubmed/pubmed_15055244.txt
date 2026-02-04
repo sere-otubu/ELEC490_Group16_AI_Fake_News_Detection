@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fish oil benefits
-TITLE: Fish oil supplementation: evidence for health benefits.
-PMID: 15055244
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15055244/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Many health claims for fish oil (which contains omega-3 fatty acids) in conditions from Alzheimer disease to Zellweger syndrome are based on indirect evidence. But the evidence is direct for a benefit in coronary heart disease prevention, and the American Heart Association recently issued guidelines for the intake of omega-3 oils. This article answers a series of questions that health care professionals often ask regarding fish oil, such as what are proper dosages, and are there risks of ingesting pollutants by eating more fish or using supplements?

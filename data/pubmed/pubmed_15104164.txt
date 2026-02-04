@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dopamine
-TITLE: Dopamine and retinal function.
-PMID: 15104164
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15104164/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review summarizes the experimental evidence in support of dopamine's role as a chemical messenger for light adaptation. Dopamine is released by a unique set of amacrine cells and activates D1 and D2 dopamine receptors distributed throughout the retina. Multiple dopamine-dependent physiological mechanisms result in an increased signal flow through cone circuits and a diminution of signal flow through rod circuits. Dopamine also has multiple trophic roles in retinal function related to circadian rhythmicity, cell survival and eye growth. In a reciprocal way, the health of the dopaminergic neurons depends on their receiving light-driven synaptic inputs. Dopamine neurons appear early in development, become functional in advance of the animal's onset of vision and begin to die in aging animals. Some diseases affecting photoreceptor function also diminish day/night differences in dopamine release and turnover. A reduction in retinal dopamine, as occurs in Parkinsonian patients, results in reduced visual contrast sensitivity.

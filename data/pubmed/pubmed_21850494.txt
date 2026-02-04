@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21850494)
-    QUESTION: Hepatorenal syndrome: are we missing some prognostic factors?
-    CONTEXT: Hepatorenal syndrome (HRS) is the functional renal failure associated with advanced cirrhosis and has also been described in fulminant hepatic failure. Without liver transplantation its prognosis is dismal. Our study included patients with type 1 HRS associated with cirrhosis, who were not liver transplant candidates.AIM: To identify variables associated with improved survival.
-    ANSWER: We report for the first time ESLD etiology as a prognostic factor for survival. The renal function (expressed as serum creatinine) and urinary Na (<5 mEq/l) at the time of diagnosis were found to be associated with survival, suggesting that early treatment might increase survival.
-    

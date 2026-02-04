@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18284441)
-    QUESTION: Expression of c-kit protooncogen in hepatitis B virus-induced chronic hepatitis, cirrhosis and hepatocellular carcinoma: has it a diagnostic role?
-    CONTEXT: Paraffin-embedded tissues in Cukurova University Faculty of Medicine Department of Pathology between January 2002 and February 2006 were searched restrospectively to investigate this issue. We performed immunohistochemistry on biopsies of 125 patients with HBV infection, grouped as: mild, moderate and severe hepatitis, cirrhosis and HCC, 25 patients in each of them, using anti c-kit monoclonal antibody. The severity of parenchymal inflammation and of interface hepatitis was semiquantitatively graded on a haematoxylin and eosin stained paraffin sections. Additionally, 50 more HCC, formed on HBV basis, were studied to determine the prevalence of c-kit overexpression.
-    ANSWER: C-kit positivity was observed in the mitotic, proliferating and also dysplastic hepatic cells. These results suggest that c-kit expression may be used as an early diagnostic indicator for HBV induced HCC.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: COPD
-TITLE: Contemporary Concise Review 2022: Chronic obstructive pulmonary disease.
-PMID: 36922031
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36922031/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-International respiratory organizations now recommend using lower limit of normal and standardized residuals to diagnose airflow obstruction and COPD though using a fixed ratio <0.7 is simpler and robustly predicts important clinical outcomes. The most common COPD comorbidities are coronary artery calcification, emphysema and bronchiectasis. COPD patients with psychological (high anxiety and depression) and cachectic (underweight and osteoporotic) comorbidity have higher mortality and exacerbate more. Serum eosinophil count remains an important COPD biomarker and we have greater clarity about normal eosinophil levels in COPD and the wider population. Criteria for entry into COPD clinical trials continue to exclude many patients, in particular those at greater risk of exacerbation and death. The effect of hyperinflation on cardiac function impacts COPD mortality and is an important target for successful lung volume reduction procedures.

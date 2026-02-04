@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Osteoporosis
-TITLE: Postmenopausal Osteoporosis: A Review of Latest Guidelines.
-PMID: 39448132
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39448132/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Osteoporosis is characterized by increased bone turnover and reduced bone mass, leading to skeletal fragility and heightened fracture risk. It is a growing public health concern with expectations for a continued significant rise of fractures by 50% in 2030. Diagnosis is typically based on body mineral density with a T-score of -2.5 or lower indicating osteoporosis. Treatment duration varies, and is determined by careful monitoring of fracture risk and timing for potential drug holidays. Emerging therapies and ongoing research continue to evolve the landscape of osteoporosis management, aiming to reduce fracture risk and improve patient outcomes.

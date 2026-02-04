@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Arrhythmia
-TITLE: Emerging biomarkers for cardiac arrhythmias.
-PMID: 31786205
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31786205/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cardiac arrhythmias are associated with substantial morbidity and mortality. Recent advances in the pathophysiological understanding of cardiac arrhythmia indicate that inflammation, fibrosis, and even autoimmune mechanisms could facilitate the development of arrhythmias by interfering either with fibroblast activation-related electrical remodeling or with the function of different cardiac ion channels, leading to the emerging concepts of autoimmune and inflammatory channelopathies. In this descriptive review, we considered recent data of the literature focusing on biomarkers reflecting the degree of inflammation, myocardial stretch, fibrosis and sustained B-cell activation as potential additional diagnostic, risk stratification tools and potential therapeutic targets in cardiac arrhythmia.

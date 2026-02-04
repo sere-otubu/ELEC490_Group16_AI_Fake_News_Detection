@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26471488)
-    QUESTION: Does Mammographic Density have an Impact on the Margin Re-excision Rate After Breast-Conserving Surgery?
-    CONTEXT: Limited and conflicting data exist on an association between mammographic density (MD) and re-excision rates after breast-conserving surgery (BCS). Additionally, the correlation of MD with resection of unnecessary margins during initial BCS is unknown.
-    ANSWER: Mammographic density is not associated with an increased need for re-excision or resection of unnecessary margins at initial BCS.
-    

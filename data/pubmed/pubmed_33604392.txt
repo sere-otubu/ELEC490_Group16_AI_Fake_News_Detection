@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Basal cell carcinoma
-TITLE: p75NTR/proBDNF Modulates Basal Cell Carcinoma (BCC) Immune Microenvironment via Necroptosis Signaling Pathway.
-PMID: 33604392
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33604392/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Basal cell carcinoma (BCC) is the most common skin cancer. While most of the basal cell carcinomas were localized lesion and can be easily managed, the treatment options to the advanced basal cell carcinomas are still remarkably limited. In recent years, proBDNF and its receptor p75NTR have been reported to play important roles in various diseases, including cancers and psychotic disorders. However, the role of p75NTR/proBDNF signaling in basal cell carcinoma remains unclear. Here, we found that the expression level of p75NTR/proBDNF was decreased in basal cell carcinoma patient samples and cell lines. In vitro study showed overexpression of p75NTR/proBDNF could significantly facilitate tumor cell death, including inflammatory-silent apoptosis and lytic inflammatory activated necroptosis. In vivo study showed overexpression of p75NTR/proBDNF dramatically promotes tumor-associated macrophage (M1) and T cell recruitment in a syngeneic mouse model of BCC. These results show a crucial role for p75NTR/proBDNF signaling in basal cell carcinoma immune microenvironment.

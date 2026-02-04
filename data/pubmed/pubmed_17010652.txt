@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood transfusion
-TITLE: [Blood transfusion and ethics: new questions].
-PMID: 17010652
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17010652/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chairman to the French Institutional Review Board, Professor Didier Sicard raises blood donation issues from an ethical standpoint. The contaminated blood scandal focused on the necessity of reducing transfusion risks and regarded blood safety as an ethical mandatory requirement, a debatable subject to deal with. The author proposes to reconsider the nature of unpaid blood donations while advising not to scorn the remunerated gift when such is the case. As for the use of blood, he questions the solutions based on a zero risk perspective, in particular an excessive auto-transfusional practice or a restrictive use of blood, lately regarded as essential. Starting from the blood donation concern this article leads us to think over both our society's fears and the precautionary principle abuses.

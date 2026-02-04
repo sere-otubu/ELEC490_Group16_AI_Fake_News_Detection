@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Inflammation mechanism
-TITLE: Peripheral inflammation and blood-brain barrier disruption: effects and mechanisms.
-PMID: 33381913
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33381913/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The blood-brain barrier (BBB) is an important physiological barrier that separates the central nervous system (CNS) from the peripheral circulation, which contains inflammatory mediators and immune cells. The BBB regulates cellular and molecular exchange between the blood vessels and brain parenchyma. Normal functioning of the BBB is crucial for the homeostasis and proper function of the brain. It has been demonstrated that peripheral inflammation can disrupt the BBB by various pathways, resulting in different CNS diseases. Recently, clinical research also showed CNS complications following SARS-CoV-2 infection and chimeric antigen receptor (CAR)-T cell therapy, which both lead to a cytokine storm in the circulation. Therefore, elucidation of the mechanisms underlying the BBB disruption induced by peripheral inflammation will provide an important basis for protecting the CNS in the context of exacerbated peripheral inflammatory diseases. In the present review, we first summarize the physiological properties of the BBB that makes the CNS an immune-privileged organ. We then discuss the relevance of peripheral inflammation-induced BBB disruption to various CNS diseases. Finally, we elaborate various factors and mechanisms of peripheral inflammation that disrupt the BBB.

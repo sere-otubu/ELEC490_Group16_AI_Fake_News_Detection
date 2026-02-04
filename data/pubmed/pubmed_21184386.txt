@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Appendicitis
-TITLE: [Acute appendicitis - changes in epidemiology, diagnosis and therapy].
-PMID: 21184386
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21184386/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Appendicitis is the most common cause of an -acute abdomen. Around 135 000 patients undergo appendectomy in Germany every year. Acute -appendicitis shows changes in epidemiology, -diagnosis and therapy. Epidemiological data indicate a continuing decrease in the incidence of acute non-perforated appendicitis. The incidence of perforated appendicitis has remained constant despite laparoscopy and imaging diagnostics. The status of sonography and CT scanning is increasing in the diagnosis of appendicitis. But there are differences between the sensitivity and specifity of study results and the clinical routine. The in-crease of imaging diagnostics does not correlate with a decrease in the incidence of perforated -appendicitis. Laparoscopic appendectomy has -developed as a dominant method for operative therapy. There is no proof of a higher rate of postoperative intraabdominal abscesses any more. The use of a stapler is mostly required for appendical stump closure.

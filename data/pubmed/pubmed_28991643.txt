@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lung function
-TITLE: The Effects of Aging on Lung Structure and Function.
-PMID: 28991643
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28991643/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Growth of the segment of the population older than 65 years has led to intensified interest in understanding the biology of aging. This article is focused on age-related alterations in lung structure that produce predictable changes in physiologic function, both at rest and during exercise. Increased insight into the physiology of the healthy aging lung should ultimately lead to improved methods of lung function assessment in the elderly (defined as those older than 65 years) as well as better understanding of the manifestations and possibly even the treatment of geriatric lung disease.

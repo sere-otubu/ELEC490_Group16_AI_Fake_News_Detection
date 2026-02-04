@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gout
-TITLE: Gout.
-PMID: 40063960
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40063960/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gout is characterized by deposition of monosodium urate (MSU) crystals in or around joints, tendons, bursae, and other tissues, resulting in painful recurrent flares and tissue damage. Gout is the most common form of inflammatory arthritis, with a prevalence of 5.1% in the United States, affecting 12.1 million adults. When urate levels exceed the limit of solubility (6.8 mg/dL [400 μmol/L]), MSU crystals may form or grow. Gout flares are the result of inflammatory responses to MSU crystals. The primary method to prevent and reduce gout flares, tophi, chronic inflammatory arthritis, and joint damage is to reduce urate levels below the saturation threshold. The pathophysiology of gout is well understood, and inexpensive and effective therapies are available. However, outcomes for patients with gout remain poorly optimized.

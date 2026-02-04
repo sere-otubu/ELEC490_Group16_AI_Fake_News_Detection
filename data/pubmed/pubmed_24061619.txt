@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24061619)
-    QUESTION: Location and number of sutures placed for hiatal hernia repair during laparoscopic adjustable gastric banding: does it matter?
-    CONTEXT: It has been demonstrated that hiatal hernia repair (HHR) during laparoscopic adjustable gastric banding (LAGB) decreases the rate of reoperation. However, the technical aspects (location and number of sutures) are not standardized. It is unknown whether such technical details are associated with differing rates of reoperation for band-related problems.
-    ANSWER: Patients with fewer or anterior sutures have shorter OR times. However, 30-day readmission, band-related reoperation, and postoperative weight loss were unaffected by number or location of suture. The technical aspects of HHR did not appear to be associated with readmission or reoperation, and therefore a standardized approach may not be necessary.
-    

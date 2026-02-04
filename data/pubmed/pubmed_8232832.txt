@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mood stabilizers
-TITLE: The action of mood-stabilizers in affective disorders: an integrative view as a challenge.
-PMID: 8232832
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8232832/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-One of the main challenges in the psychopharmacology of affective disorders is to explain the partial similarity of the profiles of action of the different mood-stabilizers lithium, carbamazepine, and valproate, and possibly also calcium antagonists like verapamil and nimodipine. Elucidation of this problem requires understanding the basic neurobiological mechanisms underlying the pathogenesis of affective disorders and would also imply elucidating the modes of action of the different compounds. However, we are far from reaching such an understanding.

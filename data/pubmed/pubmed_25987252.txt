@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Colonoscopy
-TITLE: Colonoscopy in rural communities: a systematic review of the frequency and quality.
-PMID: 25987252
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25987252/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In this systematic review, the authors review studies of rural colonoscopy to determine specialty types providing rural colonoscopy and the quality of these procedures. A systematic MEDLINE search was conducted for articles pertaining to rural colonoscopy. Inclusion criteria were rural location, report of quality outcomes, or report of endoscopy workforce in rural areas. Two investigators independently reviewed and abstracted included articles. The following information was obtained from each study: author identification, citation, study design, source of funding, study duration and follow-up, study population, sample size, study setting, population characteristics, outcomes and results. Standard abstraction forms were used to summarize and assess the quality of evidence. From 121 articles in the MEDLINE search, 11 met inclusion criteria. One additional article found from a reference list was included. Eleven articles from three countries reported on 8703 colonoscopies performed by 25 rural generalists. Reach-the-cecum rates (RCR) ranged from 36% to 96.5% with more recent studies showing higher RCRs. Adenoma detection rates ranged from 16.6% to 46%. The rate of complications was low in all studies. One study of the rural endoscopist workforce reported that general surgeons performed most rural colonoscopies in Canada. Rural generalist physicians can safely and effectively perform colonoscopies. More research is needed on the rural endoscopist workforce.

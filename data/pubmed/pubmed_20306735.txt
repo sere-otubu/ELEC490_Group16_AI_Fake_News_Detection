@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20306735)
-    QUESTION: Fulfilling human resources development goal in West Africa: can the training of ophthalmologist diplomates be improved?
-    CONTEXT: To ascertain the perspectives of Trainee Ophthalmologist Diplomats (TOD) on the Ophthalmic Diploma Training (ODT) in West Africa with a view to improving the programme.
-    ANSWER: The ODT programme ensures ophthalmic manpower for secondary eye care level despite challenges. The stakeholders should look into problems facing the programme in order to improve it.
-    

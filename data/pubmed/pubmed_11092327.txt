@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Salmonella
-TITLE: Salmonella penetration of egg shells and proliferation in broiler hatching eggs--a review.
-PMID: 11092327
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11092327/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The presence of salmonellae in fertile broiler hatching eggs has been clearly identified as a critical control point in the salmonellae contamination of broiler chickens. This paper reviews the published research studies on a) the penetration and proliferation of salmonellae in hatching eggs, b) the consequences of this contamination on the contamination of the final product, and c) the egg's defenses against invading salmonellae. A better understanding of the material in this review paper will assist poultry researchers and the poultry industry in continuing to make progress in reducing and eliminating salmonellae from fertile hatching eggs, hatcheries, and breeder flocks.

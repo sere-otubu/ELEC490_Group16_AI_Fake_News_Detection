@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tendinitis
-TITLE: Proximal Hamstring Injuries.
-PMID: 33673891
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33673891/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Proximal hamstring injuries can present as chronic tendinosis, acute strain, partial tendinous avulsions, or complete 3-tendon rupture. Nonoperative management for chronic insertional tendinosis and low-grade tears includes activity modification, anti-inflammatories, and physical therapy. Platelet-rich plasma injections, corticosteroid injections, dry needling, and shock wave therapy are newer therapies that also may provide benefit. Surgical indications include complete, proximal avulsions; partial avulsions with least 2 tendons injured with more than 2 cm of retraction in young, active patients; and partial avulsion injuries or chronic tendinosis that have failed nonoperative management. Surgical management entails open primary repair, endoscopic primary repair, or augmentation/reconstruction.

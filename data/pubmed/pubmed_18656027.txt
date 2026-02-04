@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Thyroid gland
-TITLE: Cross-sectional imaging of the thyroid gland.
-PMID: 18656027
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18656027/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Directed imaging is useful in assessing the thyroid gland. Nuclear scintigraphy reveals functional information about the thyroid gland, while cross-sectional imaging, including ultrasound, CT, and MR imaging provide important adjunctive anatomic information about the thyroid as well as about related structures in the neck, including the presence or absence of cervical and mediastinal lymphadenopathy, or extension of thyroid disease into adjacent soft tissues or the mediastinum. This article reviews the anatomy and physiology of the thyroid gland and addresses issues related to diseases affecting the thyroid gland, with an emphasis on neoplasms and the role of cross-sectional MR and CT imaging in the assessment of thyroid neoplasia.

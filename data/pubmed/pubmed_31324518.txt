@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gonorrhea
-TITLE: Kissing, saliva exchange, and transmission of Neisseria gonorrhoeae.
-PMID: 31324518
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31324518/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Data from mathematical models suggest that kissing and saliva exchange during sexual activity might be major contributors to community gonorrhoea morbidity. Although there is little evidence to support this, it provokes discussion of the potential role of the oropharynx in gonorrhoea control. Improved sensitivity and ease of diagnostic testing, as well as increased screening for extragenital infections among men who have sex with men, have increased awareness of the high frequency of oropharyngeal gonorrhoea. However, there are insufficient data to determine the mechanisms of transmission for these infections. Innovative studies that use quantitative microbiological techniques are needed to accurately assess how oral gonorrhoea or saliva exchange in infected people contribute to the morbidity of gonorrhoea in the community. More empirical data on pharyngeal gonorrhoea infections, and the role of transmission to and from the oropharynx, are needed to inform prevention planning.

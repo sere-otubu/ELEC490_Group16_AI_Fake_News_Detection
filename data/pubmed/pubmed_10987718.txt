@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lyme disease
-TITLE: Lyme disease.
-PMID: 10987718
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10987718/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Lyme disease, which is caused by Borrelia burgdorferi and transmitted in the United States primarily by Ixodes scapularis (the deer tick), is the most common vector borne disease in the United States. Its most frequent manifestation, a characteristic, expanding annular rash (erythema migrans), sometimes accompanied by myalgia, arthralgia, and malaise, occurs in nearly 90% of persons with symptomatic infection. Other manifestations of Lyme disease include seventh cranial nerve palsy, aseptic meningitis, and arthritis. Extensive coverage in the press about the serious effects of Lyme disease has led to widespread anxiety about this illness that is far out of proportion to the actual morbidity that it causes. This problem is exacerbated by the frequent use of serological tests to eliminate the possible diagnosis of Lyme disease in persons with only nonspecific symptoms (such as arthralgia or fatigue) who have a very low probability that Lyme disease is the cause of their symptoms. Consequently, misdiagnosis is frequent and is the most common cause of failure of treatment. The prognosis for most persons with Lyme disease is excellent.

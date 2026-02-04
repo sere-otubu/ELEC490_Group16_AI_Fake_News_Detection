@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24298614)
-    QUESTION: Is the 7th TNM edition suitable for biological predictor in early gastric cancer?
-    CONTEXT: The clinical and prognostic value of the previous node classification of TNM staging in early gastric cancer (EGC) has been less definitive. The aim was to assess the suitability of the revised node staging for prediction of clinical behavior of EGC.
-    ANSWER: Upstaging in EGC based on the revised TNM staging reflects more aggressive biological behavior of cancer. The new TNM staging system may be informative in prediction of biological behavior of EGC as well as prognosis and survival.
-    

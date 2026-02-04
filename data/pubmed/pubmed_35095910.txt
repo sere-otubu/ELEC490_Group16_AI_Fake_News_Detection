@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Acupuncture
-TITLE: Anti-Inflammatory Effects of Acupuncture at ST36 Point: A Literature Review in Animal Studies.
-PMID: 35095910
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35095910/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-So far, a number of acupuncture studies have shown anti-inflammatory effects of acupuncture treatment, mostly known at specific point ST36. However, there is no literature that oversaw the inflammation-regulatory effects of acupuncture in each tissue. Therefore, we investigated how acupuncture at specific acupoint ST36 regulates inflammation and its underlying mechanisms. We searched literatures on PubMed until July 2021 using the keywords "animal, acupuncture, ST36, inflammation, immune," and 292 literatures were searched. We ultimately selected 69 studies to determine the anti-inflammatory actions of acupuncture at ST36 and classified the changes of inflammatory mediators according to target regions. Forty-three studies were included in body fluids, 27 studies in the digestive system, 17 studies in the nervous system, and 30 studies in other tissues or organs. In this review, we found that acupuncture at ST36 has clinical benefits in relieving inflammation through several mechanisms such as vagus nerve activation, toll-like receptor 4 (TLR4)/NF-κB signaling, macrophage polarization, mitogen-activated protein kinase (MAPK) signaling pathway, and cholinergic anti-inflammatory pathway. We expect that these data will inform further studies related to ST36 acupuncture on inflammation.

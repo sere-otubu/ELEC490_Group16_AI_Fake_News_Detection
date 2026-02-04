@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dengue fever
-TITLE: Dengue Fever Presenting As Acute Febrile Illness In Neonates: A Case Series From Pakistant.
-PMID: 37876082
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37876082/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Dengue fever is a mosquito-borne disease caused by flavivirus. It primarily infects people living in tropical and subtropical areas and can be transmitted vertically or horizontally to new-borns. We discuss the clinical spectrum, treatment, and outcomes of five neonates who presented with dengue fever at Aga Khan Hospital for Women in Karimabad, Karachi, Pakistan, during the 2021 post- monsoon season (October to December). Dengue infection was confirmed via positive NS1 antigen test. All new-borns had fever, flushing, and thrombocytopenia. Capillary leak syndrome and haemorrhagic complications occurred in one case. Two babies required oxygen support, with one mortality. Due to the severity of the disease in this population, we suggest that dengue fever should be evaluated as a differential diagnosis in neonates with sepsis and thrombocytopenia, especially in high-risk or endemic areas. Critical management strategies for neonatal dengue fever are the same as those for other paediatric patients and include judicious use of intravenous fluids and inotropes.

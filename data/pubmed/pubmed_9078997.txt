@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Panic disorder
-TITLE: Treatment-resistant panic disorder.
-PMID: 9078997
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9078997/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although effective pharmacologic and psychosocial treatments are available for panic disorder, many patients continue to experience residual anxiety symptoms, recurrent panic attacks, or continuing impairment and distress. Selecting the appropriate treatment for such patients can be confounded by factors such as comorbid disorders (both psychiatric and medical), psychosocial complications, and physiologic provocations. The clinician must assess these factors before an optimal therapeutic strategy can be designed.

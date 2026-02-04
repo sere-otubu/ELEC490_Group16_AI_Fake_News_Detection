@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Air pollution health effects
-TITLE: Ambient air pollution and infant health: a narrative review.
-PMID: 37169689
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37169689/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The extensive evidence regarding the effects of ambient air pollution on child health is well documented, but limited review summarized their health effects during infancy. Symptoms or health conditions attributed to ambient air pollution in infancy could result in the progression of severe diseases during childhood. Here, we reviewed previous empirical epidemiological studies and/or reviews for evaluating the linkages between ambient air pollution and various infant outcomes including adverse birth outcomes, infant morbidity and mortality, early respiratory health, early allergic symptoms, early neurodevelopment, early infant growth and other relevant outcomes. Patterns of the associations varied by different pollutants (i.e., particles and gaseous pollutants), exposure periods (i.e., pregnancy and postpartum) and exposure lengths (i.e., long-term and short-term). Protection of infant health requires that paediatricians, researchers, and policy makers understand to what extent infants are affected by ambient air pollution, and a call for action is still necessary to reduce ambient air pollution.

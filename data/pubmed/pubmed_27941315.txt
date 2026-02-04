@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Laparoscopic surgery
-TITLE: Laparoscopic versus Open Surgery for Diverticulitis: A Systematic Review and Meta-Analysis.
-PMID: 27941315
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27941315/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The study aimed to perform a meta-analysis comparing laparoscopic and open surgery for diverticulitis. Studies comparing the outcomes of laparoscopic surgery versus open surgery for diverticulitis that reported quantitative data were included. Outcome measures were mortality and morbidity rates and length of hospital stay. Four randomized controlled trials - 3 prospective and 21 retrospective - were included in the analysis. The total numbers of patients ranged from 5 to 14,562 in the laparoscopic groups and from 4 to 110,172 in the open surgery groups, and the mean patient age ranged from 38.9 to 78 years. Overall analysis revealed that laparoscopic surgery was associated with lower mortality (pooled OR 0.40, 95% CI 0.25-0.63, p < 0.001) and a lower overall morbidity rate (pooled OR 0.65, 95% CI 0.51-0.82, p < 0.001) than open surgery. Laparoscopic surgery was associated with a higher anastomotic bleeding rate, but lower rates of ileus, anastomotic leakage, small bowel obstruction, wound infection, fascial dehiscence and intra-abdominal abscesses. Length of hospital stay was less with laparoscopic surgery. The current meta-analysis supports the use of laparoscopy for the treatment of diverticulitis. The results, however, should be interpreted with caution.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Osteoporosis
-TITLE: Postmenopausal Osteoporosis: Latest Guidelines.
-PMID: 34023036
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34023036/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Significant development has occurred in the treatment of postmenopausal osteoporosis. We review the most recent guidelines from the American Association of Clinical Endocrinologists/American College of Endocrinology, Endocrine Society, and the European Society for Clinical and Economic Aspects of Osteoporosis and Osteoarthritis/International Osteoporosis Foundation Guidelines.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fatty liver disease
-TITLE: Atherosclerosis and Non-Alcoholic Fatty Liver Disease.
-PMID: 35476909
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35476909/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Non-alcoholic fatty liver disease (NAFLD) is a common disease defined by excess fat deposition in the liver. The course of NAFLD is not fully understood, however, some pathogenic mechanisms have been identified. Accumulation of fat in liver cells is associated with insulin resistance, central obesity, triglyceride accumulation in the liver and hepatic fatty acid metabolism dysregulation that cause steatosis. The other process leads to hepatocyte inflammation and necrosis, which leads to severe hepatic disease; non-alcoholic steatohepatitis. Many clinical studies have underlined the link between NAFLD and atherosclerosis. NAFLD may alter the balance lipid-glucose metabolism as well as increase the risk of hypertension and systemic inflammation. This results in a greater risk of vascular events. The present review considers the link between NAFLD and atherosclerosis.

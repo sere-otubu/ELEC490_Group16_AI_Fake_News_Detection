@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23347337)
-    QUESTION: Is intensive chemotherapy safe for rural cancer patients?
-    CONTEXT: To provide equality of cancer care to rural patients, Townsville Cancer Centre administers intensive chemotherapy regimens to rural patients with node-positive breast and metastatic colorectal cancers at the same doses as urban patients. Side-effects were usually managed by rural general practitioners locally.AIM: The aim is to determine the safety of this practice by comparing the profile of serious adverse events and dose intensities between urban and rural patients at the Townsville Cancer Centre.
-    ANSWER: It appears safe to administer intensive chemotherapy regimens at standard doses to rural patients without increased morbidity or mortality. Support for general practitioners through phone or videoconferencing may reduce the safety concerns.
-    

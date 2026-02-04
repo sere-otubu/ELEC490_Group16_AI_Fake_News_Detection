@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vaccination schedules
-TITLE: Who and when to vaccinate against influenza.
-PMID: 32109627
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32109627/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Known since Hippocrates and of continuing public health importance, influenza remains a major cause of morbidity and mortality worldwide, and large segments of the human population are affected every year. Vaccination is the most effective means of preventing influenza infection. Today, many countries have implemented annual influenza vaccination programs, and there is increasing awareness of the potential societal and health benefits of vaccinating pregnant women, children aged 6 months to 5 years, older adults, and persons with underlying medical conditions that make them vulnerable to serious complications of influenza. In this non-systematic review, we summarize data on influenza epidemiology and influenza vaccine immunogenicity, efficacy/effectiveness, and safety in the main high-risk groups. We also discuss the optimal time to vaccinate and the effect of pre-existing immunity on vaccine response.

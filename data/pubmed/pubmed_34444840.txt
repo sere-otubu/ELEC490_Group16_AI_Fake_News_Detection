@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mediterranean diet
-TITLE: Special Issue "Mediterranean Diet and Metabolic Diseases".
-PMID: 34444840
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34444840/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The Mediterranean diet (MD) has been considered among the healthiest dietary patterns since a little over 50 years ago, Ancel Keys-as the key figure-provided evidence for the beneficial effects of the MD [...].

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gene expression
-TITLE: Light-mediated control of Gene expression in mammalian cells.
-PMID: 31923448
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31923448/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Taking advantage of the recent development of genetically-defined photo-activatable actuator molecules, cellular functions, including gene expression, can be controlled by exposure to light. Such optogenetic strategies enable precise temporal and spatial manipulation of targeted single cells or groups of cells at a level hitherto impossible. In this review, we introduce light-controllable gene expression systems exploiting blue or red/far-red wavelengths and discuss their inherent properties potentially affecting induced downstream gene expression patterns. We also discuss recent advances in optical devices that will extend the application of optical gene expression control technologies into many different areas of biology and medicine.

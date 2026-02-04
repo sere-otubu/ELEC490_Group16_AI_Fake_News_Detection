@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Reproductive system
-TITLE: Human Female Reproductive System Organoids: Applications in Developmental Biology, Disease Modelling, and Drug Discovery.
-PMID: 32929605
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32929605/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Organoid technique has achieved significant progress in recent years, owing to the rapid development of the three-dimensional (3D) culture techniques in adult stem cells (ASCs) and pluripotent stem cells (PSCs) that are capable of self-renewal and induced differentiation. However, our understanding of human female reproductive system organoids is in its infancy. Recently, scientists have established self-organizing 3D organoids for human endometrium, fallopian tubes, oocyte, and trophoblasts by culturing stem cells with a cocktail of cytokines in a 3D scaffold. These organoids express multicellular biomarkers and show functional characteristics similar to those of their origin organs, which provide potential avenues to explore reproductive system development, disease modelling, and patient-specific therapy. Nevertheless, advanced culture methods, such as co-culture system, 3D bioprinting and organoid-on-a-chip technology, remain to be explored, and more efforts should be made for further elucidation of cell-cell crosstalk. This review describes the development and applications of human female reproductive system organoids. Graphical abstract Figure: Applications in developmental biology, disease modelling, and drug discovery of human female reproductive system organoids. ASCs: adult stem cells; PSCs: pluripotent stem cells.

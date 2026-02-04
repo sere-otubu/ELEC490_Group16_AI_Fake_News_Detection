@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 27884344)
-    QUESTION: Do resident's leadership skills relate to ratings of technical skill?
-    CONTEXT: This study sought to compare general surgery research residents' survey information regarding self-efficacy ratings to their observed performance during a simulated small bowel repair. Their observed performance ratings were based on their leadership skills in directing their assistant.
-    ANSWER: General surgery research residents' intraoperative leadership skills showed significant correlations to their perceptions of skill decay and task difficulty during a bowel repair. Evaluating resident's directional instructions may provide an additional individualized intraoperative assessment metric. Further evaluation relating to operative performance outcomes is warranted.
-    

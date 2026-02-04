@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Crohns disease
-TITLE: Pediatric Management of Crohn's Disease.
-PMID: 35595422
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35595422/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Pediatric Crohn's disease is often more severe, requires higher levels of immunosuppression, and is associated with greater morbidity compared with adult Crohn's disease. Unique considerations in pediatric Crohn's disease include growth impairment, pubertal delay, bone disease, longevity of disease burden, and psychosocial impact. Treatment options are limited, requiring off-label use of therapy in this challenging patient population. Understanding the medications available, the existing evidence supporting their use, and side effects is important. There is tremendous potential for growth and improvement in this field and it is essential that all gastroenterologists have an understanding of this complex and unique patient population.

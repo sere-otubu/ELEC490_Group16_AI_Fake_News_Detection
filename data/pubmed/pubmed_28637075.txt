@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vitamins and minerals
-TITLE: [Vitamins and Minerals in Oncology].
-PMID: 28637075
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28637075/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The use of vitamins and minerals to prevent cancer as well as their supportive use in oncological patients is widespread and often occurs without the knowledge of the treating physician. Beyond general recommendations with regard to a balanced and healthy diet, no evidence exists supporting the use of vitamins and minerals in the prevention of cancer. Furthermore, the diet of oncological patients should contain vitamins and minerals of the same quantity as for healthy individuals. In particular, there is currently no rationale for a high-dosage administration of antioxidants.

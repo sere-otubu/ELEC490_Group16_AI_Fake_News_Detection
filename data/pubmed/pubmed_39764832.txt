@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Iron deficiency
-TITLE: Diagnosing iron deficiency: Controversies and novel metrics.
-PMID: 39764832
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39764832/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Iron deficiency, a pervasive global health issue, necessitates precise and reliable diagnostic methods, especially in clinical and surgical settings. This review examines an array of established markers of iron status, encapsulating parameters such as serum iron, ferritin, transferrin, and transferrin saturation alongside novel biomarkers like soluble transferrin receptor, zinc protoporphyrin, and hepcidin. We further scrutinise the potential and limitations of routine and novel diagnostic tools and strategies in distinguishing different anaemic conditions, such as iron deficiency anaemia, iron-restricted erythropoiesis, and anaemia of inflammation. Through a critical lens, we elucidate the current paradigms and pressing questions surrounding the diagnostic criteria and clinical ramifications of iron metabolism. By weaving together the nuances and diverging perspectives within the domain of iron deficiency diagnosis and management, this review aspires to foster a clearer understanding that can steer improved patient care and shape the trajectory of future research in this vital field.

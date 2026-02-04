@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Leukemia
-TITLE: [Epidemiology of acute lymphoid leukemia].
-PMID: 1480809
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1480809/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Acute lymphocytic leukaemia (ALL) has a bimodal age incidence. It constitutes the majority of leukaemias diagnosed in childhood but less than 5% of adult leukaemia. Distinction between lymphocytic and myeloid forms of acute leukaemia in routine statistics has only been possible since 1968. There is no adequate study on the aetiology of acute lymphocytic leukaemia in adults. Apart from ionizing radiation and certain genetic conditions, risk factors for ALL are poorly understood. While Greaves' biological hypothesis offers some insight into childhood ALL, the causes of adult ALL are obscure. An epidemiological study of adult ALL is proposed, with particular emphasis on environmental risk factors and recent biological markers of ALL, in order to advance understanding of this leukaemia.

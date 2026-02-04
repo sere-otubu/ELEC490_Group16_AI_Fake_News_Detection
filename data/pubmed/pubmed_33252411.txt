@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Stroke
-TITLE: Embolic Stroke of Undetermined Source: A Primer for Nursing.
-PMID: 33252411
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33252411/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-BACKGROUND: Cryptogenic stroke has been used to identify ischemic strokes with no identified cause; however, this classification is limited by the lack of a standardized and thorough evaluation. Embolic Stroke of Undetermined Source is used to define those strokes with no identified cause after a standardized diagnostic workup. METHODS: We conducted a literature review from January 1, 2014, to July 31, 2020 including the term "ESUS." RESULTS: Embolic stroke of undetermined source accounts for approximately 25% of ischemic strokes and is used to classify patients with no identified cause of stroke despite routine brain imaging, noninvasive vascular imaging of the head and neck, a minimum of 24 hours of cardiac monitoring, and echocardiography. Studies have shown that these strokes may be caused by occult atrial fibrillation, occult malignancy, and other hypercoagulable states but are often identified after hospital discharge. The risk of recurrent stroke in ESUS patients remains high at 4.5% per year on single antiplatelet therapy. Ongoing research aims to identify biomarkers that can identify ESUS subgroups who may benefit from alternative antithrombotic therapies. CONCLUSION: Because of the complexity of the evaluation and the uncertainty associated with an unknown cause of stroke, neuroscience nurses caring for these patients should be familiar with ESUS and educate the patient about the condition and the importance of complying with all prescribed treatments, tests, and subsequent follow-up appointments after discharge.

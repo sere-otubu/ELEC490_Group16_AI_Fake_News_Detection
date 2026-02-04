@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Intermittent fasting
-TITLE: Intermittent fasting triggers interorgan communication to suppress hair follicle regeneration.
-PMID: 39674178
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39674178/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Intermittent fasting has gained global popularity for its potential health benefits, although its impact on somatic stem cells and tissue biology remains elusive. Here, we report that commonly used intermittent fasting regimens inhibit hair follicle regeneration by selectively inducing apoptosis in activated hair follicle stem cells (HFSCs). This effect is independent of calorie reduction, circadian rhythm alterations, or the mTORC1 cellular nutrient-sensing mechanism. Instead, fasting activates crosstalk between adrenal glands and dermal adipocytes in the skin, triggering the rapid release of free fatty acids into the niche, which in turn disrupts the normal metabolism of HFSCs and elevates their cellular reactive oxygen species levels, causing oxidative damage and apoptosis. A randomized clinical trial (NCT05800730) indicates that intermittent fasting inhibits human hair growth. Our study uncovers an inhibitory effect of intermittent fasting on tissue regeneration and identifies interorgan communication that eliminates activated HFSCs and halts tissue regeneration during periods of unstable nutrient supply.

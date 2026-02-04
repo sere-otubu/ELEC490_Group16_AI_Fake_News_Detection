@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fatty liver disease
-TITLE: Non-alcoholic fatty liver disease: the pathologist's perspective.
-PMID: 36384146
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36384146/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Non-alcoholic fatty liver disease (NAFLD) is a spectrum of diseases characterized by fatty accumulation in hepatocytes, ranging from steatosis, non-alcoholic steatohepatitis, to cirrhosis. While histopathological evaluation of liver biopsies plays a central role in the diagnosis of NAFLD, limitations such as the problem of interobserver variability still exist and active research is underway to improve the diagnostic utility of liver biopsies. In this article, we provide a comprehensive overview of the histopathological features of NAFLD, the current grading and staging systems, and discuss the present and future roles of liver biopsies in the diagnosis and prognostication of NAFLD.

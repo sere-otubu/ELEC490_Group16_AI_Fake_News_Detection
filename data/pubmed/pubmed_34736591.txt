@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fatty liver disease
-TITLE: Pediatric Nonalcoholic Fatty Liver Disease.
-PMID: 34736591
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34736591/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Obesity has led fatty liver disease to become the most common chronic liver disease in children worldwide. Pediatric professional organizations have agreed that screening for fatty liver disease in children is the need of the hour. Once identified, prevention is key through appropriate dietary and activity prescriptions. Research continues to identify key pathways and genetic risk factors that predispose certain children to the more severe manifestations of this silent epidemic. We hope these novel observations lead to breakthrough treatments for these children that are severely impacted, such that they may no longer need liver transplantation as young adults.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19351635)
-    QUESTION: Do older patients receive adequate stroke care?
-    CONTEXT: National guidelines and government directives have adopted policies for urgent assessment of patients with a transient ischaemic attack or minor stroke not admitted to hospital. The risk of recurrent stroke increases substantially with age, as does the potential benefit of secondary prevention. In order to develop effective strategies for older patients, it is important to identify how stroke care is currently provided for this patient group.
-    ANSWER: Older patients were less likely to receive diagnostic investigations and lifestyle modification advice than younger patients. Guidelines need to be adopted to ensure prompt evidence-based stroke care in the outpatient setting.
-    

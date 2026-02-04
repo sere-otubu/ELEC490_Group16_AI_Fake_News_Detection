@@ -1,8 +1,0 @@
-SEARCH_TOPIC: E. coli infection
-TITLE: Cecropin-like antimicrobial peptide protects mice from lethal E.coli infection.
-PMID: 31344137
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31344137/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Resistance of pathogenic bacteria to standard antibiotics is an issue of great concern, and new treatments for bacterial infections are needed. Antimicrobial peptides (AMPs) are small, cationic, and amphipathic molecules expressed by metazoans that kill pathogens. They are a key part of the innate immune system in both vertebrates and invertebrates. Due to their low toxicity and broad antimicrobial activities, there has been increasing attention to their therapeutic usage. Our previous research demonstrated that four peptides-DAN1, DAN2, HOLO1 and LOUDEF1-derived from recently sequenced arthropod genomes exhibited potent antimicrobial effects in-vitro. In this study, we show that DAN2 protected 100% of mice when it was administered at a concentration of 20 mg/kg thirty minutes after the inoculation of a lethal dose of E. coli intraperitoneally. Lower concentrations of DAN2-10mg/kg and 5mg/kg protected more than 2/3s of the mice. All three dose levels reduced bacterial loads in blood and peritoneal fluid by 10-fold or more when counted six hours after bacterial challenge. We determined that DAN2 acts by compromising the integrity of the E. coli membrane. This study supports the potential of DAN2 peptide as a therapeutic agent for treating antibiotic resistant Gram-negative bacterial infections.

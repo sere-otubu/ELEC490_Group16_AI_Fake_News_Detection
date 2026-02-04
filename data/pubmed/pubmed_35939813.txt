@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Eating disorders
-TITLE: Eating Disorders.
-PMID: 35939813
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35939813/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Eating disorders are common behavioral disorders associated with substantial psychological and physical morbidity and mortality. Persons with eating disorders frequently present to primary care providers, who may also be responsible for their general medical management. This article reviews the diagnosis, medical assessment, and treatment of the most common eating disorders.

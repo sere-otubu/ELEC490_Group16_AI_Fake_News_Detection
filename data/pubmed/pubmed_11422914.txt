@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hormone replacement therapy
-TITLE: Hormone replacement therapy in postmenopausal women with end-stage renal disease: a review of the issues.
-PMID: 11422914
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11422914/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hormone replacement is an integral part of therapies to prevent osteoporosis in postmenopausal women and may be considered a component in the treatment of dyslipidemia, cardiovascular disease, and possibly cognitive function. The indications for, and efficacy and prescription of, hormone replacement therapy in postmenopausal women with ESRD have been infrequently studied and less than 10% of postmenopausal women on dialysis are receiving hormone replacement. Small studies suggest that hormone replacement therapy is valuable in treating the dyslipidemia of women on dialysis, but indicate that a reduction in the dosage of hormone replacement may be needed. A potential role for hormone replacement therapy in the treatment and/or prevention of osteoporosis and sexual dysfunction in postmenopausal women on dialysis exists as well.

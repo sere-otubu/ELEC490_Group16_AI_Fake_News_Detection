@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ultrasound
-TITLE: [Novel dianostics and therapeutics with ultrasound technologies and nanotechnologies].
-PMID: 24292170
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24292170/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Ultrasound is a good tool for theranostics due to have multi-potency both of diagnostics with sonography and therapeutics with high intensity focused ultrasound (HIFU). In addition, microbubbles and nanobubbles are utilized as not only contrast imaging agent but also enhancer of drug and gene delivery by combination of ultrasound. Recently, we developed novel liposomal nanobubbles (Bubble liposomes) which were containing perfluoropropane. Bubble liposomes induced jet stream by low intensity ultrasound exposure and resulted in enhancing permeability of cell membrane. This phenomenon has been utilized as driving force for drug and gene delivery. On the other hand, the combination of Bubble liposomes and high intensity ultrasound induces strong jet stream and increase temperature. This condition can directly damage to tumor cells, we are applying this for cancer therapy. Therefore, their combination has potency for various cancer therapies such as gene therapy, immunotherapy and hyperthermia. In this review, we discuss about cancer therapy by the combination of Bubble liposomes and ultrasound.

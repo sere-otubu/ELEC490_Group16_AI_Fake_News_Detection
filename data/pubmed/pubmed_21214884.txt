@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21214884)
-    QUESTION: Can 'high-risk' human papillomaviruses (HPVs) be detected in human breast milk?
-    CONTEXT: Using polymerase chain reaction techniques, we evaluated the presence of HPV infection in human breast milk collected from 21 HPV-positive and 11 HPV-negative mothers.
-    ANSWER: This preliminary case-control study indicates the absence of mucosal 'high-risk' HPV types in human breast milk.
-    

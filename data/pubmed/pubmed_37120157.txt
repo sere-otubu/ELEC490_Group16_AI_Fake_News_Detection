@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Insomnia
-TITLE: Insomnia in Infancy, Childhood, and Adolescence.
-PMID: 37120157
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37120157/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Insomnia is the most prevalent sleep disorder in youth, tends to persist over time, and is associated with a myriad of adverse outcomes. This paper synthesizes the current evidence regarding the phenomenology, prevalence, assessment, consequences, cause, and treatment of pediatric insomnia, highlighting areas that warrant further research and addressing the unique characteristics of this disorder in infants, children, and adolescents.

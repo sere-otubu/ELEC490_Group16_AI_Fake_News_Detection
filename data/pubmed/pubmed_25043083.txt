@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25043083)
-    QUESTION: Are failures of anterior cruciate ligament reconstruction associated with steep posterior tibial slopes?
-    CONTEXT: Recently, increasing number of literature has identified the posterior tibial slope (PTS) as one of the risk factors of primary anterior cruciate ligament (ACL) injury. However, few studies concerning the association between failure of ACL reconstruction (ACLR) and PTS have been published. The objective of this study was to explore the association between the failure of ACLR and PTS at a minimum of two years follow-up.
-    ANSWER: Both medial and lateral PTS were significantly steeper in failures of ACLR than the control group. Medial or lateral PTS ≥5° was a new risk factor of ACLR failure.
-    

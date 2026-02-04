@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Migraine
-TITLE: Vestibular migraine: the most frequent entity of episodic vertigo.
-PMID: 27083888
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27083888/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Vestibular migraine (VM) is the most common cause of episodic vertigo in adults as well as in children. The diagnostic criteria of the consensus document of the International Bárány Society for Neuro-Otology and the International Headache Society (2012) combine the typical signs and symptoms of migraine with the vestibular symptoms lasting 5 min to 72 h and exclusion criteria. Although VM accounts for 7% of patients seen in dizziness clinics and 9% of patients seen in headache clinics it is still underdiagnosed. This review provides an actual overview on the pathophysiology, the clinical characteristics to establish the diagnosis, the differential diagnosis, and the treatment of VM.

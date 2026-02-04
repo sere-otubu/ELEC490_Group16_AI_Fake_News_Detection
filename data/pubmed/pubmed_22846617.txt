@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Appendicitis
-TITLE: Stump appendicitis: a review.
-PMID: 22846617
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22846617/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Acute appendicitis is perhaps the commonest cause of acute abdomen and surgical intervention in the form of open or laparoscopic appendicectomy. Stump appendicitis is an uncommon late complication of appendicectomy; where inflammation occurs in the remaining appendicular stump. Delayed diagnosis of this condition may result in serious complications. This literature review has looked into the clinical presentation, diagnosis and treatment of Stump appendicitis.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hearing loss
-TITLE: Hearing loss.
-PMID: 30185631
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30185631/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hearing loss affects one in six people in the UK and is a significant disease burden. In addition to communication problems, there is also an association with depression and dementia. Clinical assessment with targeted history and examination can identify the characteristics and cause of hearing loss, and complementary audiological testing can confirm its type and severity. Retrocochlear screening is recommended for sudden, rapidly progressive or asymmetric sensorineural hearing loss. Medical or surgical therapies may be indicated in cases of conductive hearing loss, while hearing assistive devices and hearing aids are the mainstay of rehabilitation for sensorineural hearing loss.

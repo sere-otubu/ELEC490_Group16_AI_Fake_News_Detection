@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mental health stigma
-TITLE: Mental health: The burden of social stigma.
-PMID: 33591577
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33591577/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The burden of mental health has two facets, social and psychological. Social stigma causes individuals who suspect to be suffering from a mental condition to conceal it, importantly by seeking care from a nonspecialist provider willing to diagnose it as physical disease. In this way, social stigma adds to both the direct and indirect cost of mental health. A microeconomic model depicting an individual who searches for an accommodating provider leads to the prediction that individuals undertake more search in response to a higher degree of social stigma. However, this holds only in the absence of errors in decision-making, typically as long as mental impairment is not too serious. While government and employers have an incentive to reduce the burden of social stigma, their efforts therefore need to focus on persons with a degree of mental impairment that still allows them to avoid errors in pursuing their own interest.

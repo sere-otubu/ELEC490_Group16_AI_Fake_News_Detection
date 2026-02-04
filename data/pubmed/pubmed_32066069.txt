@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Healthy fats
-TITLE: Healthy fats and exclusion-zone size.
-PMID: 32066069
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32066069/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A fourth phase of water, labeled exclusion-zone or "EZ," extends from hydrophilic surfaces. Salient features include exclusion of colloidal and molecular solutes, and characteristic light absorbance at 270 nm. In cell systems, EZ water interfaces with membranes, macromolecules, and organelles, and its buildup appears to be vital for function. For years thought to build health, fats have gained a negative reputation over the last few decades. While their exact role in health remains unclear, now they have become more accepted. We tested several fats for their capacity to generate EZ water. Large EZs formed next to ghee, coconut oil, lard, organic clarified butter, and 'Brain Octane®' oil. Cold ghee surfaces produced especially large EZs. Thus, EZ growth, confirmed by microsphere exclusion and UV-VIS absorbance spectroscopy of samples flanking the fat, may be an important factor in cellular hydration and might well underlie the health-promoting function of fats.

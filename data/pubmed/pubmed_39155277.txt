@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rest and recovery
-TITLE: Reproducibility of autonomic cardiovascular function and hemodynamics at rest and during recovery from exercise.
-PMID: 39155277
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39155277/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Smartwatches and home-based blood pressure (BP) devices have permitted easy use of heart rate variability (HRV) and BP to identify the recovery status of users after acute exercise training. The reproducibility of HRV and BP after exercise in healthy young participants is not well known. Eighteen participants (age 27 ± 6 years, female n = 8) performed test and retest aerobic exercises (cycling, 30 min, 60% of peak workload, W) and a control session in randomized order. RMSSD, high and low-frequency power of RR intervals, and BP were measured at rest and 30-60 min after interventions. The relative reproducibility was assessed by the intraclass correlation coefficient (ICC) and 95% confidence interval (95% CI). The absolute reproducibility was evaluated using the coefficient of variation (CV%). HRV indices revealed moderate-to-excellent reproducibility at rest (ICC 0.81-0.86; 95% CI 0.53-0.95) but not after exercise (ICC -0.06 to 0.60; 95% CI -1.85 to 0.85). Systolic BP had a good-to-excellent reproducibility before (ICC 0.93; 95% CI 0.81-0.98, CV% 4.2) and after exercise (ICC 0.93; 95% CI 0.81-0.97, CV% 4.2). The reproducibility of HRV indices is poor after exercise in young participants. However, the reproducibility of BP is excellent at rest and after aerobic exercise.

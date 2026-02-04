@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12765819)
-    QUESTION: Spinal subdural hematoma: a sequela of a ruptured intracranial aneurysm?
-    CONTEXT: A case of spinal subdural hematoma (SSDH) following subarachnoid hemorrhage (SAH) because of a ruptured internal carotid aneurysm is described. Such a case has never been reported.
-    ANSWER: Although the exact mechanism of SSDH in this case is unclear, we speculate that this SSDH was a hematoma that migrated from the intracranial subdural space. Low CSF pressure because of continuous drainage and intrathecal thrombolytic therapy may have played an important role in the migration of the hematoma through the spinal canal. It is important to recognize the SSDH as a possible complication of the SAH accompanied with intracranial subdural hematoma.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Self harm
-TITLE: Self-harm in young people.
-PMID: 25114299
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25114299/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Self-harm is a common problem among young people with many presenting to clinical services via general hospitals, but many more do not come to the attention of clinical services at all. Self-harm is strongly associated with completed suicide so it is extremely important that patients are assessed and treated for this problem effectively. Despite the scale of the problem in young people, there is a very limited evidence base on what interventions may help them to recover from self-harm. The evidence is discussed here and some recommendations are made about how to engage clinically with young people who self-harm from assessment to therapeutic intervention.

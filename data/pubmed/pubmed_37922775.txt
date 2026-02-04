@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Contraceptive pills
-TITLE: Emergency contraception - A review.
-PMID: 37922775
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37922775/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Emergency contraception (EC), or postcoital contraception, is a therapy aimed at preventing unintended pregnancy after an act of unprotected or under-protected sexual intercourse. Options include both emergency contraceptive pills (most commonly containing levonorgestrel or ulipristal acetate) and insertion of an intrauterine device. The aim of this paper is to summarize current evidence surrounding the use of emergency contraceptives and to present an evidence-based approach to EC provision. Emergency contraception is a safe and effective option in preventing unwanted pregnancy, irrespective of age, weight, or breastfeeding status. Efforts should be made to increase their availability, as well as knowledge of these methods, both among patients and healthcare providers.

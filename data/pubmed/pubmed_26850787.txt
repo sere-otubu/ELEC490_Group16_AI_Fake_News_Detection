@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Panic disorder
-TITLE: Treatment-resistant panic disorder: clinical significance, concept and management.
-PMID: 26850787
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26850787/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Panic disorder is commonly prevalent in the population, but the treatment response for panic disorder in clinical practice is much less effective than that in our imagination. Increasing evidence suggested existence of a chronic or remitting-relapsing clinical course in panic disorder. In this systematic review, we re-examine the definition of treatment-resistant panic disorder, and present the potential risk factors related to the treatment resistance, including the characteristics of panic disorder, other psychiatric and physical comorbidities, and psychosocial stresses. Furthermore, we summarize the potential pathophysiologies, such as genetic susceptibility, altered brain functioning, brain-derived neurotrophic factor, and long-term inflammation, to explain the treatment resistance. Finally, we conclude the current therapeutic strategies for treating treatment-resistant panic disorder from pharmacological and non-pharmacological views.

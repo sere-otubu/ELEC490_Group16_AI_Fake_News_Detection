@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Health literacy
-TITLE: Health literacy in pediatric dermatology: challenges and opportunities.
-PMID: 37036282
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37036282/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Health literacy influences how children and families participate in their medical care, use health services, and overall health outcomes. Health literacy is underexplored in pediatric dermatology. In this scoping review, we provide examples of how limited health literacy can be a barrier to patient care in pediatric dermatology and how to mitigate its effects. Limited health literacy is associated with worse health outcomes, decreased medication adherence, and decreased use of the healthcare system versus those with adequate health literacy. Materials created to help patients understand their medical conditions and treatment options often are written at a reading level far above that of the average patient and caregiver. Given the reading level of patient-facing materials, those with limited health literacy are more susceptible to medication administration errors, with omissions or incorrect dosing being most frequent to occur. There is limited research about how skills related to health literacy, including numeracy and electronic health literacy, can be addressed in pediatric dermatology. Health literacy impacts patient care, treatment, and adherence in pediatric dermatology. This article gives examples of how to address common challenges in the pediatric dermatology clinic and presents areas for further research and improvement.

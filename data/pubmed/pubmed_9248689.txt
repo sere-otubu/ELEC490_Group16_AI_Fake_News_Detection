@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Root canal
-TITLE: The resected root surface. The issue of canal isthmuses.
-PMID: 9248689
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9248689/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Incomplete debridement of the canal isthmus is responsible for some surgical and nonsurgical endodontic failures. This article reviews the formation of canals isthmus and the new classification system. Recent research findings regarding the incidence of isthmus at different root end levels are included.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Robotic surgery
-TITLE: Complications of Robotic Surgery.
-PMID: 32169190
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32169190/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Robotic-assisted surgery has represented a revolution for surgical practice and minimally invasive surgery. The case volume is increasing exponentially and the numbers continue to grow particularly owing to urology and general surgery subspecialties. Nonetheless, robotic surgery is not exempt from complications, which can occur during the preoperative, intraoperative, and postoperative periods, and in particular with issues related to patient preparation, team dynamics, equipment failure, complications related to the surgical act, and surgical outcomes.

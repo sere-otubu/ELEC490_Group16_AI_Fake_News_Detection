@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Personality disorders
-TITLE: Personality disorders.
-PMID: 39648553
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39648553/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-An overview of changes in the classification of personality disorders from ICD-10 to ICD-11 is presented. The new classification incorporates a dimensional approach centred on severity with five domains available to describe personality pathology. The potential clinical utility of the new approach is discussed.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Massage therapy
-TITLE: Massage therapy has short-term benefits for people with common musculoskeletal disorders compared to no treatment: a systematic review.
-PMID: 26093806
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26093806/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Is massage therapy effective for people with musculoskeletal disorders compared to any other treatment or no treatment? Systematic review of randomised clinical trials. People with musculoskeletal disorders. Massage therapy (manual manipulation of the soft tissues) as a stand-alone intervention. The primary outcomes were pain and function. The 26 eligible randomised trials involved 2565 participants. The mean sample size was 95 participants (range 16 to 579) per study; 10 studies were considered to be at low risk of bias. Overall, low-to-moderate-level evidence indicated that massage reduces pain in the short term compared to no treatment in people with shoulder pain and osteoarthritis of the knee, but not in those with low back pain or neck pain. Furthermore, low-to-moderate-level evidence indicated that massage improves function in the short term compared to no treatment in people with low back pain, knee arthritis or shoulder pain. Low-to-very-low-level evidence from single studies indicated no clear benefits of massage over acupuncture, joint mobilisation, manipulation or relaxation therapy in people with fibromyalgia, low back pain and general musculoskeletal pain. Massage therapy, as a stand-alone treatment, reduces pain and improves function compared to no treatment in some musculoskeletal conditions. When massage is compared to another active treatment, no clear benefit was evident.

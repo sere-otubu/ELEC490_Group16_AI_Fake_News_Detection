@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Muscular system
-TITLE: CRISPR-Cas9 Gene Therapy for Duchenne Muscular Dystrophy.
-PMID: 35165856
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35165856/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Discovery of the CRISPR-Cas (clustered regularly interspaced short palindromic repeat, CRISPR-associated) system a decade ago has opened new possibilities in the field of precision medicine. CRISPR-Cas was initially identified in bacteria and archaea to play a protective role against foreign genetic elements during viral infections. The application of this technique for the correction of different mutations found in the Duchenne muscular dystrophy (DMD) gene led to the development of several potential therapeutic approaches for DMD patients. The mutations responsible for Duchenne muscular dystrophy mainly include exon deletions (70% of patients) and point mutations (about 30% of patients). The CRISPR-Cas 9 technology is becoming increasingly precise and is acquiring diverse functions through novel innovations such as base editing and prime editing. However, questions remain about its translation to the clinic. Current research addressing off-target editing, efficient muscle-specific delivery, immune response to nucleases, and vector challenges may eventually lead to the clinical use of the CRISPR-Cas9 technology. In this review, we present recent CRISPR-Cas9 strategies to restore dystrophin expression in vitro and in animal models of DMD.

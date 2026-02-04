@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pregnancy nutrition
-TITLE: Myths about nutrition in pregnancy.
-PMID: 27147241
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27147241/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Many women have incorrect knowledge about nutrition in pregnancy owing to false beliefs derived from popular practices. More than 90% of our cohort of pregnant women during early pregnancy (<12 weeks of gestational age) gave at least one incorrect answer to the five questions relative to common myths about nutrition in pregnancy. Education was inversely associated with the percentage of incorrect answers, and the lowest percentage of any mistakes was found in the small number of women who received nutritional information by a dietician. In conclusion, the usual sources of information about nutrition in pregnancy are not adequate to overcome the false beliefs acquired by traditions.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Addisons disease
-TITLE: Replacement therapy in Addison's disease.
-PMID: 14640913
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/14640913/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Addison's disease or primary adrenal insufficiency is a rare disease, which is usually caused by autoimmune destruction of the adrenal cortex. The clinical picture is caused by deficiency of cortisol and aldosterone. These deficiencies are accompanied by adrenal androgen depletion of yet unknown significance. The current therapy is the replacement of glucocorticoids and mineralocorticoids, but the available drugs do not restore the normal diurnal variations in serum hormone levels. The clinical consequences of the grossly unphysiological replacement therapy are largely unknown. Many patients with Addison's disease on standard replacement therapy complain of fatigue, weariness, and reduced stress tolerance. One particular concern has been negative effects on both bone metabolism due to over-replacement of glucocorticoids and androgen depletion. This review discusses the evidence for the current drug and dosage recommendations. Current recommended daily starting dose for hydrocortisone and cortisone acetate are 20 and 25 mg, respectively, divided into two or preferably three doses. The mineralocorticoid depletion should be treated with fludrocortisone 0.05-2.0 mg/day [DOSAGE ERROR CORRECTED]. Replacement of dehydroepiandrosterone 20-50 mg has been advocated in adrenal failure, but the evidence for benefit is weak.

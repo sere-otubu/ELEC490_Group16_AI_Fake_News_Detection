@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Maternal mortality rates
-TITLE: Maternal Mortality in Africa: Regional Trends (2000-2017).
-PMID: 36293727
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36293727/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-United Nations Sustainable Development Goals state that by 2030, the global maternal mortality rate (MMR) should be lower than 70 per 100,000 live births. MMR is still one of Africa's leading causes of death among women. The leading causes of maternal mortality in Africa are hemorrhage and eclampsia. This research aims to study regional trends in maternal mortality (MM) in Africa. We extracted data for maternal mortality rates per 100,000 births from the United Nations Children's Fund (UNICEF) databank from 2000 to 2017, 2017 being the last date available. Joinpoint regression was used to study the trends and estimate the annual percent change (APC). Maternal mortality has decreased in Africa over the study period by an average APC of -3.0% (95% CI -2.9; -3,2%). All regions showed significant downward trends, with the greatest decreases in the South. Only the North African region is close to the United Nations' sustainable development goals for Maternal mortality. The remaining Sub-Saharan African regions are still far from achieving the goals. Maternal mortality has decreased in Africa, especially in the South African region. The only region close to the United Nations' target is the North African region. The remaining Sub-Saharan African regions are still far from achieving the goals. The West African region needs more extraordinary efforts to achieve the goals of the United Nations. Policies should ensure that all pregnant women have antenatal visits and give birth in a health facility staffed by specialized personnel.

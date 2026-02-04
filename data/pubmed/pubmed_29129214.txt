@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Balance exercises
-TITLE: Exercise and Older Adults.
-PMID: 29129214
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29129214/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Regular exercise is essential for healthy aging and offers many health benefits, including reduced risk of all-cause mortality, chronic disease, and premature death. Because physical inactivity is prevalent, greater focus is needed on integrating exercise into care plans and counseling, and developing partnerships that support exercise opportunities. Older adults should be as physically active as their abilities and conditions allow. For substantial health benefits, older adults need to do aerobic, muscle-strengthening, and stretching exercises weekly, and balance activities as needed. Appropriate planning must take account of factors such as prescribed medications, nutrition, injuries, hip and knee arthroplasties, and chronic conditions.

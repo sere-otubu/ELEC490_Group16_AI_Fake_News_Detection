@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Beta blockers
-TITLE: Beta-blockers in septic shock: a review.
-PMID: 25152109
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25152109/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In septic shock, high adrenergic stress is associated with cardiovascular and systemic adverse effects, which can negatively affect the results. Beta-adrenergic receptor block has been shown to be effective in controlling the disproportionate increase in heart rate, maintaining a favorable hemodynamic profile and apparently improving the efficiency of the cardiovascular system in order to maintain tissue perfusion. They have also been shown to modulate favorably catecholamine-induced immunosuppression and to decrease insulin resistance, protein catabolism, and proinflammatory cytokine expression associated with cardiovascular dysfunction. Selective beta-1 blockers appear to provide better results than non-selective blockers, even suggesting a positive impact on mortality. Future clinical trials are still needed to confirm these findings and define the scope of their benefits.

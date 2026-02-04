@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 11438275)
-    QUESTION: Does patient position during liver surgery influence the risk of venous air embolism?
-    CONTEXT: It is generally believed that positioning of the patient in a head-down tilt (Trendelenberg position) decreases the likelihood of a venous air embolism during liver resection.
-    ANSWER: The effect on venous pressures caused by the change in patient positioning alone during liver surgery does not affect the risk of venous air embolism.
-    

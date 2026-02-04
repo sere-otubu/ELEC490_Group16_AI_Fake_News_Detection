@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lymphoma
-TITLE: Orbital lymphoma.
-PMID: 30144455
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30144455/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Orbital lymphomas constitute 50-60% of ocular adnexal lymphomas. A total of 2211 cases of orbital lymphoma with a known subtype have been reported in the last 24 years (1994-2017). The vast majority of orbital lymphomas are of B-cell origin (97%), of which extranodal marginal zone B-cell lymphoma (EMZL) (59%) is the most common subtype, followed by diffuse large B-cell lymphoma (23%), follicular lymphoma (9%), and mantle cell lymphoma (5%). Orbital lymphoma is primarily a disease of the elderly. Gender distribution varies according to lymphoma subtype. However, extranodal marginal zone B-cell lymphoma (53%) and follicular lymphoma (75%) show a female predominance, whereas diffuse large B-cell lymphoma shows an even gender distribution. Mantle cell lymphoma has a striking male predominance of 80%. The histopathological subtype and the clinical stage of the disease are the best indicators of prognosis and patient outcome. Low-grade lymphomas such as extranodal marginal zone B-cell lymphoma and FL have a good prognosis, whereas high-grade lymphomas (diffuse large B-cell lymphoma and mantle cell lymphoma) are associated with a poor prognosis. When managing solitary low-grade lymphomas, radiotherapy is the treatment of choice. Chemotherapy, with or without radiotherapy, should be chosen for disseminated and high-grade lymphomas.

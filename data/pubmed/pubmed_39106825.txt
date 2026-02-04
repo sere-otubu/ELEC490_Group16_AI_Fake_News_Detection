@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Influenza
-TITLE: Ecology and evolution of avian influenza viruses.
-PMID: 39106825
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39106825/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Four types of influenza virus have been identified in nature: influenza A, B, and C viruses are capable of infecting humans, and influenzas A and B cause annual epidemics (seasonal flu) in humans; however, influenza D is currently known to infect only pigs and cattle. The influenza A viruses (IAVs) are of greatest importance to humans, causing widespread significant morbidity and mortality, and have been responsible for at least five pandemics documented since the beginning of the 20th century (Table 1). The H1N1 and H3N2 IAVs continue to circulate in humans as seasonal influenza. In addition to humans, IAVs have a wide range of host animal species in nature, especially wild aquatic birds, the reservoir hosts of IAVs. The IAVs isolated from or adapted to an avian host are named avian influenza viruses (AIVs), and are of great concern owing to their involvement in the genesis of pandemic and outbreak strains. Moreover, the majority of AIVs persist in wild birds and domestic poultry, and novel variants continue to emerge in birds and other hosts, posing non-negligible threats to host ecology and public health.

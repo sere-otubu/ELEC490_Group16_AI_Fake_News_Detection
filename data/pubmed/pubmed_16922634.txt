@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Macular degeneration
-TITLE: Macular degeneration.
-PMID: 16922634
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16922634/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Macular degeneration is a term that describes a large group of conditions that are collectively the most common cause of irreversible vision loss in the developed world. Approximately one in three people will be affected to some degree by the time they reach 75 years of age. Many forms of macular degeneration have a significant genetic component, and a large amount of progress has recently been made in understanding the genes involved. In the future, genetic testing may allow specific preventive treatments to be delivered to individuals at risk, decades before the disease would ordinarily become manifest.

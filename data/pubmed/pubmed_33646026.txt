@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rosacea
-TITLE: Rosacea.
-PMID: 33646026
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33646026/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rosacea is a common cutaneous condition affecting predominantly the face. It is historically characterised into four subtypes: erythematotelangiectatic, papulopustular, phymatous and ocular rosacea. This article describes the pathophysiology, clinical features and current treatment options for rosacea, and discusses updated diagnostic criteria. General guidance is required on the need to avoid possible triggers including dietary and environmental triggers. The strongest evidence supports the use of 0.75% metronidazole, topical azelaic acid or topical ivermectin for inflammatory rosacea. Erythema should be treated with brimonidine tartrate gel, oral medication such as beta blockers or vascular laser and light-based therapy. Oral doxycycline 40 mg modified release can be used as monotherapy or in combination with other treatments for recalcitrant disease. Further understanding of the pathogenesis of rosacea could allow identification and targeted avoidance of triggers and the development of new treatment modalities.

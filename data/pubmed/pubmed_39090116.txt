@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Metabolism basics
-TITLE: Emerging mechanisms and promising approaches in pancreatic cancer metabolism.
-PMID: 39090116
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39090116/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Pancreatic cancer is an aggressive cancer with a poor prognosis. Metabolic abnormalities are one of the hallmarks of pancreatic cancer, and pancreatic cancer cells can adapt to biosynthesis, energy intake, and redox needs through metabolic reprogramming to tolerate nutrient deficiency and hypoxic microenvironments. Pancreatic cancer cells can use glucose, amino acids, and lipids as energy to maintain malignant growth. Moreover, they also metabolically interact with cells in the tumour microenvironment to change cell fate, promote tumour progression, and even affect immune responses. Importantly, metabolic changes at the body level deserve more attention. Basic research and clinical trials based on targeted metabolic therapy or in combination with other treatments are in full swing. A more comprehensive and in-depth understanding of the metabolic regulation of pancreatic cancer cells will not only enrich the understanding of the mechanisms of disease progression but also provide inspiration for new diagnostic and therapeutic approaches.

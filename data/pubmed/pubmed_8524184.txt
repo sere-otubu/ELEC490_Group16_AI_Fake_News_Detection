@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cell division mitosis
-TITLE: Progression of cancer.
-PMID: 8524184
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8524184/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Carcinoma constitution originates in the hetero duplication mitoses which divide non-maturable stem cells into two different types of daughter cells: maturable and non-maturable cancerous stem cells. Throughout the progression of such mitoses the organoid continuity of the cancer depends only on the non-maturable daughter stem cells, not on the maturable ones. This type of cancer can be considered non-progressive or to be in the incubation stage, as it only enables cancer tissue to preserve its organoid continuity without allowing progressive growth. However, when an occasional mitotic phase of the hetero-duplication mitotic progression undergoes genuine cell-phase duplication mitosis, this non-progressive or incubation stage of cancer is converted to a progressive type of cancer. This conversion is dependent on the reappearance of the complete mitotic condition of the mitotic maturation promoting system (MMPS) containing an abnormal supplement. Thus, a thorough investigation of the abnormal supplement and the reappearance of the complete mitotical condition is an essential part of research efforts to prevent and eradicate cancer.

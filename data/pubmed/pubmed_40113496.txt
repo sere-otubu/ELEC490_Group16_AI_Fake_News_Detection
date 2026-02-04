@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antifungals
-TITLE: Current Antifungals and the Developing Pipeline.
-PMID: 40113496
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40113496/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Prevention and management of invasive fungal infections is challenging due to the complexity of at-risk patient population, high morbidity and mortality of these infections, and pharmacologic aspects of available antifungal agents. While there has been substantial investment in antifungal drug development over past 20 years, the ideal antifungal remains elusive. Clinicians must be aware of differences in spectrum of activity, pharmacokinetic/dynamic dosing, toxicity, resistance, and drug interaction profiles of antifungals to use them most effectively. This article will review key features of U.S. Food and Drug Administration-approved and pipeline antifungals to facilitate an understanding of their role in treatment and/or prevention of invasive fungal infections.

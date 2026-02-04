@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Burnout syndrome
-TITLE: Burnout syndrome among medical residents: A systematic review and meta-analysis.
-PMID: 30418984
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30418984/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Burnout is a psychological syndrome that is very common among medical residents. It consists of emotional exhaustion (EE), depersonalization (DP) and reduced personal accomplishment (PA). To estimate burnout among different medical residency specialties. A systematic review with meta-analysis was performed following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. A search of bibliographic databases and grey literature was conducted, from inception to March 2018. The following databases were accessed: Embase, PubMed, Web of Science, Google Scholar and Scopus, and 3,575 studies were found. Methodological quality was evaluated by Agency for Healthcare Research and Quality Methodology Checklist for Cross-Sectional/Prevalence Study. In the final analysis, 26 papers were included. Their references were checked for additional studies, but none were included. 4,664 medical residents were included. High DP, EE and low PA proportions were compared. Specialties were distributed into three groups of different levels of burnout prevalence: general surgery, anesthesiology, obstetrics/gynecology and orthopedics (40.8%); internal medicine, plastic surgery and pediatrics (30.0%); and otolaryngology and neurology (15.4%). Overall burnout prevalence found for all specialties was 35.7%. The prevalence of burnout syndrome was significantly higher among surgical/urgency residencies than in clinical specialties. CRD42018090270.

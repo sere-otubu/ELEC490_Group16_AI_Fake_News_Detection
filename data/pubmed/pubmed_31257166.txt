@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hashimotos thyroiditis
-TITLE: Microbiota and Thyroid Interaction in Health and Disease.
-PMID: 31257166
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31257166/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The microbiota has been identified as an important factor in health and in a variety of diseases. An altered microbiota composition increases the prevalence of Hashimoto's thyroiditis (HT) and Graves' disease (GD). Microbes influence thyroid hormone levels by regulating iodine uptake, degradation, and enterohepatic cycling. In addition, there is a pronounced influence of minerals on interactions between host and microbiota, particularly selenium, iron, and zinc. In manifest thyroid disorders, the microbiota may affect L-thyroxine uptake and influence the action of propylthiouracil (PTU). Although it is relatively well documented that thyroid disorders are linked to the composition of the microbiota, the role of specific genera and the potential use of therapies targeting the microbiota are less clear.

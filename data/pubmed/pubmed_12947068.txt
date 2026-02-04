@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12947068)
-    QUESTION: Do older men benefit from curative therapy of localized prostate cancer?
-    CONTEXT: Prior decision-analytic models are based on outdated or suboptimal efficacy, patient preference, and comorbidity data. We estimated life expectancy (LE) and quality-adjusted life expectancy (QALE) associated with available treatments for localized prostate cancer in men aged>/= 65 years, adjusting for Gleason score, patient preferences, and comorbidity.
-    ANSWER: Potentially curative therapy results in significantly improved LE and QALE for older men with few comorbidities and moderately or poorly differentiated localized prostate cancer. Age should not be a barrier to treatment in this group.
-    

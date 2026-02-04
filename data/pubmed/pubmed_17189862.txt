@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cell division mitosis
-TITLE: Analysis of the cell division cycle in Drosophila.
-PMID: 17189862
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17189862/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Drosophila melanogaster presents in an unparalleled opportunity to study the regulation of the cell division cycle in the context of cellular differentiation, growth regulation and the development of a multicellular organism. The complexity of Drosophila cell cycles and the large number of techniques available can, however, be overwhelming. We aim to provide here (1) an overview of cell cycle regulation and techniques in Drosophila and (2) a detailed description of techniques we recently used to study embryonic mitoses.

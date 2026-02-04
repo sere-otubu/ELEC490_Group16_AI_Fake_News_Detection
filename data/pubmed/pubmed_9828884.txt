@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alternative medicine
-TITLE: The essence of alternative medicine. A dermatologist's view from Germany.
-PMID: 9828884
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9828884/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In Germany, alternative medicine is presently very popular and is supported by the federal government. When deliberating on the essence of alternative medicine we should simultaneously reflect on the intellectual and moral basis of regular medicine. To provide an epistemological demarcation of the 2 fields, the following 12 theses are advanced: (1) alternative and regular medicine are speaking different languages; (2) alternative medicine is not unconventional medicine; (3) the paradigm of regular medicine is rational thinking; (4) the paradigm of alternative medicine is irrational thinking; (5) the present popularity of alternative medicine can be explained by romanticism; (6) some concepts of alternative medicine are falsifiable and others are not; (7) alternative medicine and evidence-based medicine are mutually exclusive; (8) the placebo effect is an important factor in regular medicine and the exclusive therapeutic principle of alternative medicine; (9) regular and alternative medicine have different aims: coming of age vs faithfulness; (10) alternative medicine is not always safe; (11) alternative medicine is not economic; and (12) alternative medicine will always exist. The fact that alternative methods are presently an integral part of medicine as taught at German universities, as well as of the physician's fee schedule, represents a collective aberration of mind that hopefully will last for only a short time.

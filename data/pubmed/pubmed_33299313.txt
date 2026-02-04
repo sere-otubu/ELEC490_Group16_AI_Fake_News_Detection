@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Wound healing process
-TITLE: Potential Applications of Nanomaterials and Technology for Diabetic Wound Healing.
-PMID: 33299313
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33299313/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Diabetic wound shows delayed and incomplete healing processes, which in turn exposes patients to an environment with a high risk of infection. This article has summarized current developments of nanoparticles/hydrogels and nanotechnology used for promoting the wound healing process in either diabetic animal models or patients with diabetes mellitus. These nanoparticles/hydrogels promote diabetic wound healing by loading bioactive molecules (such as growth factors, genes, proteins/peptides, stem cells/exosomes, etc.) and non-bioactive substances (metal ions, oxygen, nitric oxide, etc.). Among them, smart hydrogels (a very promising method for loading many types of bioactive components) are currently favored by researchers. In addition, nanoparticles/hydrogels can be combined with some technology (including PTT, LBL self-assembly technique and 3D-printing technology) to treat diabetic wound repair. By reviewing the recent literatures, we also proposed new strategies for improving multifunctional treatment of diabetic wounds in the future.

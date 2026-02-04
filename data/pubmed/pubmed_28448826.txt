@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Generalized anxiety disorder
-TITLE: Generalized Anxiety Disorder, worry and attention to threat: A systematic review.
-PMID: 28448826
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28448826/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Among anxious populations, attention has been demonstrated to be preferentially biased to threatening material compared to neutral or other valenced material. Individuals who have high levels of trait worry, such as those with Generalized Anxiety Disorder (GAD), may be biased to threat but research has produced equivocal findings. This review aimed to systematically review the extant experimental literature to establish the current evidence of attentional bias to threat among trait worriers compared to healthy controls and other clinical populations. Twenty-nine published articles were included in the final review. There was strong evidence of a bias to threat among GAD patients compared to other groups and this was found across most experimental paradigms. Few studies had investigated this bias in non-clinical trait worriers. Among GAD patients this bias to threat was most strongly evidenced when visual threat material was in a verbal-linguistic format (i.e., words) rather than when in pictorial form (i.e., images or faces). The bias was also found across several domains of negative material, supporting the general nature of worry. Further research should look to examine the specific components of the threat bias in GAD, as well as investigating the bias to threat in trait worriers.

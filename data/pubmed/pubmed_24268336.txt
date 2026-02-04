@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Bronchitis
-TITLE: Canine chronic bronchitis.
-PMID: 24268336
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24268336/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chronic bronchitis is a syndrome defined by cough on most days for at least 2 months where no specific cause can be identified. Older small breed dogs are most commonly affected, but bronchitis is also documented in midsized and larger breed dogs. Diagnostic testing includes physical examination, laboratory testing, radiography, and airway evaluation via bronchoscopy, cytology, and culture. Treatment is directed at reducing exposure to irritants, reducing airway inflammation, and controlling cough.

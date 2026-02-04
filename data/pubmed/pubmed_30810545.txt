@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Smoking cessation
-TITLE: SMOKING CESSATION TREATMENTS: CURRENT PSYCHOLOGICAL AND PHARMACOLOGICAL OPTIONS.
-PMID: 30810545
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30810545/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Smoking is considered an epidemic, indeed, one of the most important public health problems worldwide. It is also the most significant preventable cause of death, of a high number of premature deaths, and avoidable chronic diseases. It is considered an enormous economic burden for the world. To provide an overview of smoking-cessation treatments, including pharmacological and psychological options, and to gather current scientific evidence available on them. Research included reviewing publications from 2007-2018 in four databases using algorithms related to bupropion, varenicline, nicotine replacement therapy, smoking cessation, psychological treatment, motivational interview, cognitive-behavioral therapy and clinical guidelines for smoking treatment. Meta-analyses or systematic reviews and randomized or quasi-randomized trials were selected. We also included clinical guidelines for smoking treatment from Mexico and other countries. After refining the search, 37 articles met the criteria and were included in the review. The results were grouped by type of intervention. It is necessary to conduct research on combinations of both kinds of treatment with an integral, multidisciplinary vision. Current standard for smoking cessation is a combined psychological and pharmacological treatment.

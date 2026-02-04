@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Biopsy
-TITLE: [Basic concepts in skin biopsy. Part I].
-PMID: 21798488
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21798488/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The aim of these reviews is to describe the reasons for performing skin biopsy, to provide indications for the choice of area to be biopsied and the preparation of the sample, and to summarize the various complications of dermatologic surgery. In addition, we present a guide for selecting the biopsy technique based on the suspected diagnosis and on the area to be biopsied. Finally, the various artifacts that can complicate interpretation of results are described, together with the methods used to prevent their appearance insofar as is possible. The aim of this guide is to improve the diagnostic yield of biopsies and to highlight the importance of a correct clinical-histological correlation.

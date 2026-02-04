@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Endocrine system
-TITLE: The endocrine system and associated disorders.
-PMID: 35333557
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35333557/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The endocrine system and the hormones it produces control a range of processes in the body, as well as helping to maintain homeostasis. When this complex system is disrupted, including by changes associated with ageing, disease may result. This article provides an overview of the endocrine systems, key glands and hormones, and some of the problems that can arise from disruption to the system. A case study is provided to illustrate one possible presentation of endocrine disruption, in the form of diabetes-associated complications.

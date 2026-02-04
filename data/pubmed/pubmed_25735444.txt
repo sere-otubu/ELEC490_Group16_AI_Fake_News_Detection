@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25735444)
-    QUESTION: Rectal cancer threatening or affecting the prostatic plane: is partial prostatectomy oncologically adequate?
-    CONTEXT: A multicentre, retrospective study was conducted of patients with rectal cancer threatening or affecting the prostatic plane, but not the bladder, judged by magnetic resonance imaging (MRI). The use of preoperative chemoradiotherapy and the type of urologic resection were correlated with the status of the pathological circumferential resection margin (CRM) and local recurrence.
-    ANSWER: Preoperative chemoradiation is mandatory in male patients with a threatened or affected anterior circumferential margin on preoperative MRI. In patients with preoperative prostatic infiltration, prostatic resection is necessary. In this group of patients partial prostatectomy seems to be oncologically safe.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Plant based protein
-TITLE: Plant-based biopharming of recombinant human lactoferrin.
-PMID: 24803187
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24803187/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Recombinant proteins are currently recognized as pharmaceuticals, enzymes, food constituents, nutritional additives, antibodies and other valuable products for industry, healthcare, research, and everyday life. Lactoferrin (Lf), one of the promising human milk proteins, occupies the expanding biotechnological food market niche due to its important versatile properties. Lf shows antiviral, antimicrobial, antiprotozoal and antioxidant activities, modulates cell growth rate, binds glycosaminoglycans and lipopolysaccharides, and also inputs into the innate/specific immune responses. Development of highly efficient human recombinant Lf expression systems employing yeasts, filamentous fungi and undoubtedly higher plants as bioreactors for the large-scale Lf production is a biotechnological challenge. This review highlights the advantages and disadvantages of the existing non-animal Lf expression systems from the standpoint of protein yield and its biological activity. Special emphasis is put on the benefits of monocot plant system for Lf expression and the biosafety aspects of the transgenic Lf-expressing plants.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Conjunctivitis
-TITLE: Conjunctivitis: Diagnosis and Management.
-PMID: 39172671
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39172671/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Conjunctivitis caused by viruses, bacteria, or allergies is one of the most common eye conditions in primary care. There is no single sign or symptom that accurately differentiates viral from bacterial conjunctivitis. A comprehensive history and physical examination can guide diagnosis. Viral and allergic conjunctivitis are more common in adults and typically present with watery discharge. Supportive care options for viral conjunctivitis include artificial tears, cold compresses, and antihistamine eye drops. Strict personal hygiene, including frequent handwashing, is essential to decrease the risk of transmission. Topical antihistamines with mast cell-stabilizing activity are the treatment of choice for allergic conjunctivitis. Bacterial conjunctivitis is more common in children and typically presents as mucopurulent discharge with the eyelids matted shut. Delayed antibiotic prescribing has been found to have similar symptom control as immediate prescribing. Ophthalmology referral is indicated for conjunctivitis in a neonate or patients with severe pain, decreased vision, recent ocular surgery, vesicular rash on the eyelids or nose, history of rheumatologic disease, or immunocompromised state.

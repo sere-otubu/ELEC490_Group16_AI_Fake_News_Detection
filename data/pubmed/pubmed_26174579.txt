@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Concussion
-TITLE: Diagnosis and management of paediatric concussion.
-PMID: 26174579
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26174579/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Heightened recognition of concussions and concerns about their sequelae in children has become an increasing community and public health concern. Biomarkers and clinical tests are being explored, but the diagnosis of concussion in the emergency department continues to be based on clinical signs and symptoms. While the majority of children go on to recover from post-concussive symptoms within 2 weeks, it is unclear which patients with concussion will go on to develop short- or long-term sequelae. A number of more or less evidence-based guidelines have become available which seek to guide clinicians on how to manage children post-concussion. In general, care after the emergency department is focused on reducing the risk of re-injury and rest until cerebral recovery with a graduated return to school and then play.

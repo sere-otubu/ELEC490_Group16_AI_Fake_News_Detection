@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Basal cell carcinoma
-TITLE: Photodynamic Therapy for Basal Cell Carcinoma: The Clinical Context for Future Research Priorities.
-PMID: 33218174
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33218174/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Photodynamic therapy (PDT) is an established treatment option for low-risk basal cell carcinoma (BCC). BCC is the most common human cancer and also a convenient cancer in which to study PDT treatment. This review clarifies challenges to researchers evident from the clinical use of PDT in BCC treatment. It outlines the context of PDT and how PDT treatments for BCC have been developed hitherto. The sections examine the development of systemic and subsequently topical photosensitizers, light delivery regimens, and the use of PDT in different patient populations and subtypes of BCC. The outcomes of topical PDT are discussed in comparison with alternative treatments, and topical PDT applications in combination and adjuvant therapy are considered. The intention is to summarize the clinical relevance and expose areas of research need in the BCC context, ultimately to facilitate improvements in PDT treatment.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Colonoscopy
-TITLE: Colonoscopy adverse events: are we getting the full picture?
-PMID: 32693644
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32693644/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Colonoscopy adverse events (AEs) are commonly underreported and standardised reporting is rarely used. We aimed to investigate AEs associated with colonoscopy in a real world setting, using the American Society of Gastrointestinal Endoscopy (ASGE) lexicon. This retrospective cohort study of AEs related to outpatient colonoscopies performed in the North Denmark Region from 2015 to 2018 identified AEs from readmission within eight days or death within 30 days of colonoscopy. AEs were investigated in electronic health records and categorised, attributed and graded according to the ASGE lexicon. Of 49,445 colonoscopies performed, 1141 were potentially associated with AEs (23.07‰). Electronic health record review left 489 AEs attributed to colonoscopy (9.9‰); categorised as cardiovascular (0.65‰), pulmonary (0.36‰), thromboembolic (0.10‰), instrumental incl. perforations (0.99‰), bleeding (3.07‰), infection (0.87‰), drug reactions (0.04‰), pain (2.00‰), integument (damage to skin/bones) (0.34‰) and other (1.62‰) AEs. Ten (0.20‰) AEs were fatal, but only one was procedure related (perforation). All shearing force perforations occurred in the sigmoid colon. Most polypectomy perforations occurred in the caecum (60%). Colonoscopy carries important procedure and non-procedure related risks. Non-procedure related AEs are likely underreported. Better attention to patients with pre-existing diseases and further colonoscopist training may lower AE rates. A standardised colonoscopy AE reporting system is warranted.

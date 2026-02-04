@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Intermittent fasting
-TITLE: Intermittent fasting and ketone bodies.
-PMID: 40769644
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40769644/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Intermittent fasting (IF) is a dietary intervention based on time-restricted energy intake. Over the years, IF has been widely investigated as a non-pharmacological approach to increasing life expectancy and promoting brain health. The underlying mechanisms by which IF promotes its beneficial effects are attributed to hormesis, an evolutionary adaptive strategy that regulates cellular responses to stress. These effects include elevated levels of brain-derived neurotrophic factor (BDNF), enhanced neurogenesis and autophagy, increased synaptic plasticity, and improved cognitive functions such as memory and learning. The metabolic switch induced by IF promotes the production of ketone bodies (β-hydroxybutyrate, acetoacetate, and acetone), which serve as alternative energy substrate for the central nervous system (CNS) and modulator of vital processes, including cellular homeostasis, inflammation, and oxidative stress. The two most common neurodegenerative diseases, Alzheimer's Disease (AD) and Parkinson's Disease (PD), are characterized by mitochondrial dysfunction, neuroinflammation and energy deficits. IF has shown a promising therapeutic approach through its neuroprotective and anti-inflammatory effects, which need to be further assessed. Through similar mechanisms, IF appears to exert an antidepressant effect by regulating monoamines in limbic regions, and inhibiting neuroinflammation.

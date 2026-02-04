@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Placebo effect
-TITLE: Placebo Effect: Theory, Mechanisms and Teleological Roots.
-PMID: 30146049
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30146049/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Why pain can be relieved with placebos is heavily debated. The term "placebo effect," implies that the placebo treatment induces pain relief which is imprecise because it is the mental cueing to the context of treatment and not the placebo itself that can reduce pain. This essay reverts to fundamentals of perception that have been used to explain how context generates predictions that can in turn effect the process of processing, organizing and interpreting of sensory inputs received from the periphery. We reinterpret placebo effect as a neurobiological phenomenon that occurs through the process of reward and aversive learning. The brain uses learnt information to generate predictions. The perceptual processes adjust the experience of pain to fit with the predictions generated from prior information. Placebo effect is thus understandably a result of the expectations and mental states that result from engaging in the process of treatment. These processes have teleological roots in ancient medicine and are the context that produces these responses is transforming with the evolution of modern medicine. Thus, when placebo effect is observed, the potent agent that induces pain reduction is not the placebo itself, but the mental cueing to the context of taking treatment.

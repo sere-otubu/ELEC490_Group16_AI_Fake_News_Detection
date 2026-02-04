@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Probiotics and gut health
-TITLE: The Role of Probiotics in Skin Health and Related Gut-Skin Axis: A Review.
-PMID: 37513540
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37513540/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Aging skin, wrinkles, pigmentation, and dryness are problems that plague people, and researchers are working to solve them. Recent studies have shown that intestinal microbiota homeostasis can influence skin health, demonstrating the existence of a gut-skin axis. Recently, improving skin health through probiotic interventions has been proposed, and micro-ecological skin care is becoming a popular concept. By regulating skin health and gut-skin axis interactions, probiotics can be used as potential management tools to suppress and improve skin diseases in multiple ways, including decreasing oxidative stress, suppressing inflammatory responses, and keeping immune effects. The purpose of this paper is to provide a comprehensive review of the application and mechanisms of probiotic-mediated gut microbiota homeostasis in skin care and to offer a theoretical basis for the application of probiotics in skin care.

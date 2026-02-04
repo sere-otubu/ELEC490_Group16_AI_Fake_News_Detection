@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gonorrhea
-TITLE: Gonococcal Infection and Ventriculoperitoneal Shunts.
-PMID: 35797550
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35797550/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Neisseria gonorrhoea e and Chlamydia trachomatis are pathogens commonly isolated in pelvic inflammatory disease. Neisseria gonorrhoea e may uncommonly spread outside the urogenital tract to cause complications. We present 2 cases of adolescents with ventriculoperitoneal shunt infection due to N. gonorrhoea e, requiring shunt externalization.

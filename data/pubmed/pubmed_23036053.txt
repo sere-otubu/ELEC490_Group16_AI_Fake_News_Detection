@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Digestive system
-TITLE: The complexities of hydrolytic enzymes from the termite digestive system.
-PMID: 23036053
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23036053/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The main challenge in second generation bioethanol production is the efficient breakdown of cellulose to sugar monomers (hydrolysis). Due to the recalcitrant character of cellulose, feedstock pretreatment and adapted hydrolysis steps are needed to obtain fermentable sugar monomers. The conventional industrial production process of second-generation bioethanol from biomass comprises several steps: thermochemical pretreatment, enzymatic hydrolysis and sugar fermentation. This process is undergoing continuous optimization in order to increase the bioethanol yield and reduce the economic cost. Therefore, the discovery of new enzymes with high lignocellulytic activity or new strategies is extremely important. In nature, wood-feeding termites have developed a sophisticated and efficient cellulose degrading system in terms of the rate and extent of cellulose hydrolysis and exploitation. This system, which represents a model for digestive symbiosis has attracted the attention of biofuel researchers. This review describes the termite digestive system, gut symbionts, termite enzyme resources, in vitro studies of isolated enzymes and lignin degradation in termites.

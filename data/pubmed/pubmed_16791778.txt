@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hearing loss
-TITLE: Nonorganic hearing loss.
-PMID: 16791778
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16791778/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nonorganic hearing loss is a decrease in hearing that is unexplained by anatomic or physiologic abnormalities, or both. The term is synonymous with functional hearing loss and pseudohypacusis. The demographics and potential etiologies of nonorganic hearing loss are described. History and physical findings that indicate a functional hearing loss are also discussed. A review of the anatomy and physiology of the auditory system is provided as a background for the discussed objective tests of hearing thresholds. Finally, conditions that may mimic functional hearing loss are described in detail.

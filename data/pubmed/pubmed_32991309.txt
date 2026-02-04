@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gallstones
-TITLE: [Gallstones - review].
-PMID: 32991309
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32991309/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The prevalence of gallstones is 20 % making it one of the most common causes for admissions to surgical wards. It seems that admissions and operations for gallstone disease are increasing. Gallstones are formed in the gallbladder but can also form in the biliary tree and most are made of cholesterol which is absorbed from the diet. Risk factors for gallstones and gallstone related disease are for example female gender, obesity and rapid weight loss. Most patients with gallstones never experience any symptoms but the risk of presenting with complications related to gallstones is two percent per year. Patients with gallstones can present with pain or other more serious complications that demand surgical treatment and follow-up. This article will cover pathophysiology, complications, diagnosis and treatment of gallstone disease.

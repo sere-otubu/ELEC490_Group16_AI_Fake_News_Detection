@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21880023)
-    QUESTION: Does exercise during pregnancy prevent postnatal depression?
-    CONTEXT: To study whether exercise during pregnancy reduces the risk of postnatal depression.
-    ANSWER: We did not find a lower prevalence of high EPDS scores among women randomized to regular exercise during pregnancy compared with the control group. However, a subgroup of women in the intervention group who did not exercise regularly prior to pregnancy had a reduced risk of postnatal depression.
-    

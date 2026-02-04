@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Multiple sclerosis
-TITLE: Multiple Sclerosis.
-PMID: 34097429
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34097429/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Many groundbreaking advances have occurred in the field of multiple sclerosis since this series last reviewed the disorder in 2014. The U.S. Food and Drug Administration has approved 7 new medications for relapsing-remitting multiple sclerosis and approved the first medication for primary progressive multiple sclerosis. The McDonald criteria for diagnosing multiple sclerosis were updated in 2017. New blood tests can now differentiate patients with multiple sclerosis from those with neuromyelitis optica spectrum disorder, and 3 new medications have been approved specifically for the latter disorder. Also, new medications for treating the symptoms of multiple sclerosis have been introduced.

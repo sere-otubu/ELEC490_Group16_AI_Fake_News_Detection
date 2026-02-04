@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Reproductive system
-TITLE: Fertilization, reproductive system, and pregnancy in familial Mediterranean fever: Clinical state of art.
-PMID: 37405693
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37405693/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Systemic autoinflammatory diseases have always been one of the most striking and challenging aspects of the art of medicine. Among this fascinating constellation of diseases, familial Mediterranean fever (FMF) is the most common. FMF involves the reproductive system and may cause fertility problems. With the start of the interleukin (IL)-1 inhibitors era, there is a need to reorganize our knowledge on FMF management, particularly in pregnant patients and those experiencing fertilization problems. The primary aim of this review is to gather recent information on the effects of FMF on fertilization and the reproductive system, as well as to shed light on the management of pregnancy in FMF patients.

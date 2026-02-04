@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Panic disorder
-TITLE: Brain Mechanisms Underlying Panic Attack and Panic Disorder.
-PMID: 37477800
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37477800/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Panic disorder is a psychiatric disorder characterized by recurrent panic attacks, with a prevalence of ~ 4% in the general population, causing heavy personal and socioeconomic burdens. The similarities of animal defense responses to clinical panic attack symptoms in humans make it possible to translate neuroanatomical pathways identified in animal studies to panic disorder in humans. Therefore, in this review we first present a basic overview of panic disorder in humans including the main subtypes, models commonly used to trigger panic attacks, related hypotheses, the neurotransmitter systems that may be involved, and the current clinical treatments to give the reader a comprehensive understanding of panic disorder. The animal section introduces the models that trigger panic-like behavior in animals and the brain regions that may be involved, providing insights for future elucidation of the neural circuit mechanisms behind panic attacks.

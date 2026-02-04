@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Diuretics
-TITLE: Diuretics and salt transport along the nephron.
-PMID: 22099504
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22099504/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The clinical use of diuretics almost uniformly predated the localization of their site of action. The consequence of diuretic specificity predicts clinical application and side effect, and the proximity of the sodium transporters, one to the next, often dictates potency or diuretic efficiency. All diuretics function by inhibiting the normal transport of sodium from the filtrate into the renal tubular cells. This movement of sodium into the renal epithelial cells on the apical side is facilitated by a series of transporters whose function is, in turn, dependent on the adenosine triphosphate (ATP)-dependent Na-K cotransporter on the basolateral side of the cell. Our growing understanding of the physiology of sodium transport has spawned new possibilities for diuretic development.

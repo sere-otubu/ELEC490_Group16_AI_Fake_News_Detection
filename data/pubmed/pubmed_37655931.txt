@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antibiotic resistance
-TITLE: [Development of antibiotic resistance in animals not receiving antibiotic therapy].
-PMID: 37655931
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37655931/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The fight against antibiotic resistance in the animal sector over the last ten years in France (Ecoantibio plans) has largely focused on reducing the veterinary use of antibiotics. However, antibiotic resistance in an animal is not necessarily due to antibiotic therapy, but can also result from the transmission of resistant bacteria or resistance plasmids. Several examples illustrate the importance of this transmission of antibiotic resistance in the animal world, which are detailed in this communication. Like in human medicine, this nosocomial transmission can be observed in veterinary care institutions, as well as in animal husbandry. It also explains the presence of antibiotic resistance on the surface of foodstuffs, which by definition are not treated with antibiotics. At the international level, countries that are very virtuous in their use of veterinary antibiotics can display high levels of antibiotic resistance through the importation of carrier animals. Finally, the presence of antibiotic resistance in wildlife is likewise explained by contamination and not by antibiotic treatment. All these situations demonstrate that, in addition to paying attention to antibiotic prescription, an equally important facet of the fight against antibiotic resistance is to control the transmission routes of resistant bacteria.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Prenatal testing
-TITLE: Prenatal Counseling for Congenital Clubfoot.
-PMID: 40432674
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40432674/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Congenital clubfoot is a common deformity that affects 1 in 1000 newborns and is frequently detected prenatally during routine prenatal care. A wide variety of detection methods and testing are used to identify clubfoot and other congenital anomalies in the fetus, including complete ultrasonography, amniocentesis, chorionic villus sampling, or cell-free DNA. Newer studies have associated certain genome sequences to clubfoot specifically. It is important for orthopaedic surgeons to understand the implications of the various tests to provide the appropriate prenatal counseling. Early prenatal detection of clubfoot can help parents prepare for the demands of caring for a child with clubfoot and build trust between families and clinicians, ultimately leading to better, patient-centered care for their children. (1)Prompt recognition and treatment of congenital clubfoot is imperative to facilitate optimal treatment.(2)Prenatal diagnosis usually consists of sonography of the plantar surface of both feet at 13-16 weeks' gestation.(3)Additional post-natal testing may be indicated in patients with neurological impairment or syndromic features.(4)Genetic markers such as PITX1, RBM10, HOX, and CASP (among others) have been identified as involved in clubfoot development and have implications on prenatal testing and counseling.

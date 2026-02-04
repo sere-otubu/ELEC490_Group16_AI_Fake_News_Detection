@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Global health initiatives
-TITLE: Machines matter too: including biomedical engineering partnerships in global health initiatives.
-PMID: 39424578
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39424578/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-As the global burden of disease shifts from communicable to non-communicable diseases and trauma-related debility, the global health-care community has increasingly advocated for equitable access to surgical services. Much of this attention has focused on bolstering clinical and research expertise through the expansion of clinical training programmes and research resources. However, despite the crucial role of equipment, including medical devices, in safe clinical care, comparatively little attention has been paid to sustainably bridging the biomedical and technical gaps that exist in global health. Although closing these gaps with locally driven solutions is the goal, the reality in many settings is that partnerships between institutions in high-income countries and low-income and middle-income countries currently remain necessary. Thus, this Viewpoint provides guidelines conscious to biomedical engineering for institutions looking to expand or begin global health initiatives with the Partners In Health Five S's-staff, stuff, space, systems, and social support-framework for health systems strengthening as a guide. We focus first on initiatives involving staff, stuff, and space, encouraging institutions to ask, listen, and enable, through a set of questions and actionable recommendations. Then, we urge institutions to strengthen systems and social support, underscoring the need for wider societal scaffolding to support and sustain initiatives beyond initial efforts.

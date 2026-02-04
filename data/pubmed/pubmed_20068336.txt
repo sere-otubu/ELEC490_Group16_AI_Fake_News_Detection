@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hepatitis A
-TITLE: Hepatitis A: clinical manifestations and management.
-PMID: 20068336
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20068336/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Due to improved living conditions and subsequent changes in hepatitis A epidemiology, the disease burden of hepatitis A is increasing in many regions. Recently, Korea has faced a large, community-wide outbreak of hepatitis A, which has prompted a vaccination program. The clinical spectrum of hepatitis A virus infection ranges from asymptomatic infection to fulminant hepatitis. Clinical manifestations depend on the age of the host: less than 30% of infected young children are symptomatic, while about 80% of infected adults manifest severe hepatitis with remarkably elevated serum aminotransferases. Fulminant hepatitis is rare, with a reported incidence from 0.015 to 0.5%. Atypical manifestations include relapsing hepatitis and prolonged cholestasis, and complicated cases with acute kidney injury have been reported. Extrahepatic manifestations, such as autoimmune hemolytic anemia, aplastic anemia, pure red cell aplasia, pleural or pericardial effusion, acute reactive arthritis, acute pancreatitis, acalculous cholecystitis, mononeuritis, and Guillain-Barré syndrome, have been rarely reported. Management of hepatitis A includes general supportive care, and critical decisions regarding liver transplantation await further studies on prognostic predictors. Fundamental management of hepatitis A is active vaccination. However, a vaccination program should be adapted to the regional situation, according to differing epidemiology and disease burden.

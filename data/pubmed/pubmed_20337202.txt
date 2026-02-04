@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20337202)
-    QUESTION: Continuation of pregnancy after antenatal corticosteroid administration: opportunity for rescue?
-    CONTEXT: To determine the duration of continuing pregnancy after antenatal corticosteroid (AC) administration and to evaluate the potential opportunity for rescue AC.
-    ANSWER: Rescue AC may apply to only 18% of cases, and we identified subsets of more likely candidates.
-    

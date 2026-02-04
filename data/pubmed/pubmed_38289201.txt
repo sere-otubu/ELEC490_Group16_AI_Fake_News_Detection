@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Male infertility
-TITLE: Sperm DNA Fragmentation: causes, evaluation and management in male infertility.
-PMID: 38289201
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38289201/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Male infertility is a great matter of concern as out of 15% of infertile couples in the reproductive age, about 40% are contributed by male factors alone. For DNA condensation during spermatogenesis, constrained DNA nicking is required, which if increased beyond certain level results in infertility in men. High sperm DNA Fragmentation (SDF) majorly contributes to male infertility and its association with regards to poor natural conception and assisted reproductive technology (ART) outcomes is equivocal. Apoptosis, protamination failure and the excess of reactive oxygen species (ROS) are considered to be the main causes of SDF. It's testing came into existence because of the limitations of the conventional methods in explaining infertility in normozoospermic infertile individuals. Over the past 25 years, SDF's several testing strategies have been proposed to diagnose the aetiology of infertility. Various treatments combined with sperm selection techniques are being used alone or in combination to reduce DNA fragmentation index (DFI) and obtain spermatozoa with high quality chromatin for assisted reproduction. This review summarises SDF's main causes, its impact on fertility and clinical outcomes in assisted reproduction, the need to perform test, testing procedures, and the treatment strategies.

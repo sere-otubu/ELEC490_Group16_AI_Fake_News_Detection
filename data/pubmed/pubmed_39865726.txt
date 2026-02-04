@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ulcerative colitis
-TITLE: Comprehensive care of ulcerative colitis: new treatment strategies.
-PMID: 39865726
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39865726/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Ulcerative colitis is a chronic inflammatory condition of the colon driven by aberrant immune activation. Although advanced medical therapies form the cornerstone of ulcerative colitis management, unmet needs include failure to induce and sustain remission in a substantial proportion of patients and in managing acute severe ulcerative colitis. We review new treatment strategies that might improve patient outcomes in the management of moderate-to-severe ulcerative colitis. A literature search was conducted using the PubMed database, including studies published from inception to October 2024, selected for their relevance. Recognizing current limitations, this article reviews strategies to improve treatment outcomes in ulcerative colitis using advanced therapies. These approaches include early treatment initiation, dose optimization, positioning newer agents as first-line therapies, combination therapy, targeting novel therapeutic endpoints, and the management of acute severe ulcerative colitis. The strategies discussed may contribute to establishing new standards of care aimed at achieving long-term remission and enhancing patient outcomes. Personalized therapy, which tailors treatment based on individual disease characteristics and risk factors, is anticipated to become a critical aspect of delivering more effective care in the future.

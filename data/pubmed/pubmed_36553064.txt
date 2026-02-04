@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Prenatal testing
-TITLE: Maternal Copy Number Imbalances in Non-Invasive Prenatal Testing: Do They Matter?
-PMID: 36553064
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36553064/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Non-invasive prenatal testing (NIPT) has become a routine practice in screening for common aneuploidies of chromosomes 21, 18, and 13 and gonosomes X and Y in fetuses worldwide since 2015 and has even expanded to include smaller subchromosomal events. In fact, the fetal fraction represents only a small proportion of cell-free DNA on a predominant background of maternal DNA. Unlike fetal findings that have to be confirmed using invasive testing, it has been well documented that NIPT provides information on maternal mosaicism, occult malignancies, and hidden health conditions due to copy number variations (CNVs) with diagnostic resolution. Although large duplications or deletions associated with certain medical conditions or syndromes are usually well recognized and easy to interpret, very little is known about small, relatively common copy number variations on the order of a few hundred kilobases and their potential impact on human health. We analyzed data from 6422 NIPT patient samples with a CNV detection resolution of 200 kb for the maternal genome and identified 942 distinct CNVs; 328 occurred repeatedly. We defined them as multiple occurring variants (MOVs). We scrutinized the most common ones, compared them with frequencies in the gnomAD SVs v2.1, dbVar, and DGV population databases, and analyzed them with an emphasis on genomic content and potential association with specific phenotypes.

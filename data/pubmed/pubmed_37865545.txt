@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Smoking cessation
-TITLE: Preoperative intervention for smoking cessation: A systematic review.
-PMID: 37865545
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37865545/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Smoking is associated with increased postoperative complications. Pre-surgical smoking cessation remains a challenge. Our aim was to summarize pre-hospital smoking cessation interventions and impact on smoking cessation rates. Independent review of English language articles identified from systematic searches of MEDLINE, PubMed, PsycInfo, Embase, Web of Science, and Cumulative Index to Nursing & Allied Health Literature databases from 1998 to 2019 was performed (PROSPERO registration number CRD42021247927). Studies of adult patients enrolled in a pre-hospital smoking cessation intervention were included. Studies with historical controls or only self-reported outcomes were excluded. Nine articles including 1762 patients were identified. Exhaled CO was used to confirm cessation. Six studies reported smoking status day of surgery. Interventions included NRT, hand-held technology, e-cigarettes, decision aids/counseling and medications. Four studies demonstrated a difference in smoking cessation rates. Ethics and study appraisal were assessed using ROB2. Based on the variability of interventions, settings, and outcomes, best practice for successful pre-hospital smoking cessation in surgery clinics would benefit from ongoing investigation.

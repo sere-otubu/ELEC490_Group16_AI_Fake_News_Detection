@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Coronary artery disease
-TITLE: Coronary endothelial dysfunction in non-obstructive coronary artery disease: Risk, pathogenesis, diagnosis and therapy.
-PMID: 26675331
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26675331/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Up to half of patients with signs and symptoms of stable ischemic heart disease have non-obstructive coronary artery disease (NoCAD). Recent evidence demonstrates that two-thirds of patients with NoCAD have demonstrable coronary endothelial dysfunction represented by microvascular or diffuse epicardial spasm following acetylcholine challenge. Patients with coronary endothelial dysfunction are recognized to have significant health services use and morbidity as well as increased risk of developing flow-limiting coronary artery disease and myocardial events, including death. Currently, there are few centers that test for this etiology owing to lack of knowledge, limited evidence for treatment options and invasive diagnostic strategies. This article reviews the pathophysiology, epidemiology, diagnosis and treatment of coronary endothelial dysfunction as a subgroup of NoCAD.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 14599616)
-    QUESTION: Can a practicing surgeon detect early lymphedema reliably?
-    CONTEXT: Lymphedema may be identified by simpler circumference changes as compared with changes in limb volume.
-    ANSWER: An increase of 5% in circumference measurements identified the most potential lymphedema cases compared with an academic trial.
-    

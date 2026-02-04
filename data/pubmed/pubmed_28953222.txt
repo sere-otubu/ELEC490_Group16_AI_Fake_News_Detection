@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fatty liver disease
-TITLE: Animal Models of Nonalcoholic Fatty Liver Disease-A Starter's Guide.
-PMID: 28953222
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28953222/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nonalcoholic fatty liver disease (NAFLD) constitutes a major health concern with the increasing incidence of obesity and diabetes in many Western countries, reaching a prevalence of up to 30% in the general population. Animal models have played a vital role in elucidating the pathophysiological mechanisms of NAFLD and continue to do so. A myriad of different models exists, each with its advantages and disadvantages. This review presents a brief overview of these models with a particular focus on the basic mechanisms and physical, biochemical and histological phenotype. Both nutritional and chemically induced, as well as genetic models are examined, including models combining different approaches.

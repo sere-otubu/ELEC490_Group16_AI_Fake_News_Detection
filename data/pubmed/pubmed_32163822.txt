@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Probiotics and gut health
-TITLE: The gut microbiota and mental health in adults.
-PMID: 32163822
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32163822/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A growing body of evidence point toward the bidirectional gut microbiota-brain axis playing a role in mental health. Most of this research is conducted on animals why we in this review summarize and comment upon recent studies evaluating the gut microbiome in mental health in humans. Further support for the relevance of the bidirectional gut microbiota-brain communication in mood disorders has been presented, such as the effect of probiotics on brain connectivity and mental health outcomes and pregnancy related stress on gut microbiota in the newborn child. However, the heterogeneity between studies precludes conclusions regarding differences in microbiota composition in mental disease and health and many of the studies are limited by a cross-sectional design, small sample sizes and multiple comparisons. Thus, well-designed longitudinal studies with larger sample size, accounting for confounders are needed.

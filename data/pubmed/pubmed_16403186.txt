@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 16403186)
-    QUESTION: Are the arginine vasopressin V1a receptor microsatellites related to hypersexuality in children with a prepubertal and early adolescent bipolar disorder phenotype?
-    CONTEXT: To examine family-based transmission of the number of 5' flanking arginine vasopressin V1a receptor (AVPR1A) microsatellites, which include [(GATA)(14)] and complex [(CT)(4)-TT-(CT)(8)-(GT)(24)]repeats, in probands with a prepubertal and early adolescent bipolar disorder phenotype (PEA-BP). Preferential transmission of the number of AVPR1A microsatellite repeats to hypersexual and uninhibited people-seeking probands was hypothesized, based on reports from preclinical work in the literature.
-    ANSWER: Preferential transmission of AVPR1A to hypersexual or uninhibited people-seeking probands was not supported.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mumps
-TITLE: Recent Surge in Mumps Cases in India: Need for Urgent Remedial Measures.
-PMID: 38597102
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38597102/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Mumps is a global public health problem caused by mumps virus, a member of paramyxoviridae family. MMR (Mumps, Measles, Rubella), an effective vaccine, has been incorporated into routine immunization schedules in over 100 countries. On the contrary, in India, vaccine against mumps has not been included in the routine immunization schedule as mumps is still not viewed as a significant public health problem by the government to warrant such an intervention. An increasing number of mumps outbreaks being reported from many parts of the country in the recent past, is matter of concern. The current paper reviews the situation of mumps in India including the recent surge, and discusses the remedial measures to contain these outbreaks. We conclude that inclusion of Mumps component as MMR vaccine in the Universal Immunization Programme of India along with strengthening surveillance is required to tackle the situation.

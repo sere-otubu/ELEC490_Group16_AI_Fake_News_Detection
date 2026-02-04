@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Flexibility training
-TITLE: Needlescopic appendectomy.
-PMID: 12811662
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12811662/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In this paper, we compare our experience with the techniques of needlescopic appendectomy (NA) (2-mm instruments) for the treatment of acute appendicitis with the more conventional approach of a laparoscopic appendectomy (LA). We did a retrospective review of patients who underwent NA for the diagnosis of acute appendicitis between August 1996 and January 2002. Variables including operative time, blood loss, postoperative time to discharge, intra- and postoperative complications were analyzed and compared to data from control patients who had undergone an LA for acute appendicitis. The NA group had a longer average operating time (54.5 +/- l3 vs. 42.5 +/- 12.6 min, p = 0.0001) and a longer postoperative hospital stay (2.1 +/- 1.4 vs. 1.3 +/- 1.1 days, p = 0.01). Blood loss was similar for the two groups. With the exception of superior cosmesis, NA appears to have little advantage over the better-established LA; moreover, it has some disadvantages. A clearer benefit of this procedure over LA, as well as improvements in instrumentation, needs to be shown before it can be widely accepted.

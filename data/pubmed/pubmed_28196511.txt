@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 28196511)
-    QUESTION: Antiretroviral therapy related adverse effects: Can sub-Saharan Africa cope with the new "test and treat" policy of the World Health Organization?
-    CONTEXT: Recent studies have shown that early antiretroviral therapy (ART) initiation results in significant HIV transmission reduction. This is the rationale behind the "test and treat" policy of the World Health Organization (WHO). Implementation of this policy will lead to an increased incidence of ART-related adverse effects, especially in sub-Saharan Africa (SSA). Is the region yet ready to cope with such a challenging issue?
-    ANSWER: While SSA would be the first region to experience the huge benefits of implementing the "test and treat" policy of the WHO, the region is not yet prepared to manage the consequential increased burden of ART-related toxic and metabolic complications. Urgent measures should be taken to fill the lacunae if SSA is not to become over-burdened by the consequences of the "test and treat" policy.
-    

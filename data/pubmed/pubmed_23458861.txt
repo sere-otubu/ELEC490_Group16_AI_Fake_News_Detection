@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urinalysis
-TITLE: Urinalysis interpretation for pediatricians.
-PMID: 23458861
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23458861/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-CME EDUCATIONAL OBJECTIVES: 1.Cost-effectively evaluate microscopic hematuria and proteinuria.2.Recognize important conditions associated with isolated microscopic hematuria.3.Review important conditions associated with asymptomatic proteinuria.

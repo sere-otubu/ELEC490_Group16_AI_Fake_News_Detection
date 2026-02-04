@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Emergency room triage
-TITLE: Geriatric Trauma.
-PMID: 27475011
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27475011/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Within the next 15 years, 1 in 5 Americans will be over age 65. $34 billion will be spent yearly on trauma care of this age group. This section covers situations in trauma unique to the geriatric population, who are often under-triaged and have significant injuries underestimated. Topics covered include age-related pathophysiological changes, underlying existing medical conditions and certain daily medications that increase the risk of serious injury in elderly trauma patients. Diagnostic evaluation of this group requires liberal testing, imaging, and a multidisciplinary team approach. Topics germane to geriatric trauma including hypothermia, elder abuse, and depression and suicide are also covered.

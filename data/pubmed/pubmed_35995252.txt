@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Health literacy
-TITLE: Health literacy and ophthalmology: A scoping review.
-PMID: 35995252
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35995252/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-As of 2020, it is estimated that 43.3 million people are blind, and an additional 553 million have mild to severe vision impairment.<sup>50</sup> At least 1 billion worldwide have a vision impairment that could have been prevented or has yet to be addressed.<sup>54</sup> Poor health literacy may be a significant contributor to the prevalence of eye disease. With implications on disease burden, progression, and health outcomes, a greater understanding of the role health literacy plays in ophthalmology is needed. This is the first scoping review to assess the impact of health literacy on eye health outcomes and blindness, including ocular screening rates and/or follow-up rates, treatment adherence, and self-care practices. PubMed, Embase, and CINAHL databases were searched systematically through November 12, 2021, and we evaluated the association between health literacy and ophthalmic outcomes in 4 domains: clinical outcomes, treatment adherence rates, screening and/or follow-up rates, and self-care practices. There is evidence to suggest that health literacy is associated with ophthalmic outcomes in all these domains. To better understand how health literacy impacts eye health, further longitudinal studies examining the effect of health literacy (using standardized health literacy measures) on ophthalmic outcomes are needed. We believe a specific ophthalmic health literacy survey could help achieve this goal and help target interventions to ultimately improve outcomes among ophthalmology patients.

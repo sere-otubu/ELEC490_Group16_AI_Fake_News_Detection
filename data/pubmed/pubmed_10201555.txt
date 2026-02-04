@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 10201555)
-    QUESTION: Is low serum chloride level a risk factor for cardiovascular mortality?
-    CONTEXT: Serum chloride level is routinely assayed in clinical laboratories in the management of patients with kidney disorders and with metabolic diseases. It is a biological parameter that is easily, precisely and relatively cheaply measured. The epidemiological features of serum chloride levels have not been studied before.
-    ANSWER: This s the first report from a population-based study to indicate that there is an association between serum chloride level and the incidence of total, CVD and non-CVD mortalities. The risk ratio for CVD mortality associated with a low serum chloride level was comparable to or higher than those observed for well-established CVD risk factors.
-    

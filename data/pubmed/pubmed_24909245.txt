@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Placebo effect
-TITLE: Placebo and nocebo effect: a mini-review.
-PMID: 24909245
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24909245/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-It is well-known that placebo is a substance without medical effects, which benefits the health status because of the patient's belief that the substance is effective and that the nocebo is defined as a substance without medical effects but which worsenes the health status of the person taking it by the negative beliefs and expectations of the patient. Starting with the history of the placebo effect and giving a review of the most significant studies reporting about the placebo effect from 1939-2013 it was our intention to give the all-around look on this phenomena discussing the neurobiological and other theories of its origin and concentrating especially on the field of psychiatry and finally coming to conclusions regarding the conductance of clinical trials and ethics. Regarding psychiatry, the placebo effect has a substantial role in most of psychiatric conditions including depression, anxiety, addictions, and contrary to what may have been expected, schizophrenia. Likewise, the nocebo effect is not to be neglected as the studies are being conducted to identify the factors causing it so it could be prevented.

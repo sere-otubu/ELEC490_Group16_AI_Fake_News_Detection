@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Corticosteroids
-TITLE: Oral Corticosteroids for Skin Disease in the Older Population: Minimizing Potential Adverse Effects.
-PMID: 39285122
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39285122/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Corticosteroids play a crucial role as anti-inflammatory and immunomodulatory agents in dermatology and other medical specialties; however, their therapeutic benefits are accompanied by significant risks, especially in older adults. This review examines the broad spectrum of adverse effects (AEs) associated with oral corticosteroid therapy and offers strategies to prevent, monitor, and manage these issues effectively in older adults. AEs associated with systemic corticosteroids include immune suppression, gastrointestinal problems, hyperglycemia, insulin resistance, weight gain, cardiovascular complications, ocular issues, osteoporosis, osteonecrosis, muscle weakness, collagen impairment, psychiatric symptoms, and adrenal suppression. To minimize these AEs, tailored dosing and duration, frequent monitoring, and additional preventative measures can be employed to optimize corticosteroid treatment. By customizing management plans to the specific needs and risk factors associated with each patient, clinicians can promote the safe and effective use of oral corticosteroids, ultimately improving outcomes and quality of life in patients with inflammatory dermatologic disorders.

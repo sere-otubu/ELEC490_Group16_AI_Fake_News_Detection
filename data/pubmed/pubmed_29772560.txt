@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sugar consumption
-TITLE: Impact of sugar on the body, brain, and behavior.
-PMID: 29772560
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29772560/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sugar is highly palatable and rewarding, both in its taste and nutritive input. Excessive sugar consumption, however, may trigger neuroadaptations in the reward system that decouple eating behavior from caloric needs and leads to compulsive overeating. Excessive sugar intake is in turn associated with adverse health conditions, including obesity, metabolic syndrome, and inflammatory diseases. This review aims to use recent evidence to connect sugar's impact on the body, brain, and behavior to elucidate how and why sugar consumption has been implicated in addictive behaviors and poor health outcomes.

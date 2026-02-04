@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Red blood cells
-TITLE: Red blood cells join the ranks as immune sentinels.
-PMID: 34702989
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34702989/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-New research shows that red blood cells express surface TLR9 that binds cell-free DNA, leading to erythrophagocytosis and innate immune activation.

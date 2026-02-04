@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antacids
-TITLE: Gastric emptying of two radiolabelled antacids.
-PMID: 1650740
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1650740/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The rate of gastric emptying of two antacids, magaldrate and Maalox, was investigated using scintigraphy. Successful labelling of the antacids was carried out with 99mTc. The stability of the 99mTc-labelled antacids was satisfactory and there was no difference in antacid capacity between the labelled and unlabelled antacids. The studies were carried out on 15 healthy male volunteers. After an eight hour fast each subject ingested a standardised meal of 95.7 MJ (400 kcal). One hour later 10 ml of one of the two antacids previously labelled with 99mTc was administered. Serial detection by anterior and posterior projection of the amount of antacid retained in the stomach was performed to determine gastric emptying of antacid. One week later the study was repeated under the same conditions with the other antacid also labelled with 99mTc. The mean (SD) percentages of antacid retained in the stomach fit a linear model with a t1/2 of 86.6 (15.3) minutes for magaldrate and 52.3 (5.2) minutes for Maalox (p less than 0.01). When the mean percentages of retention at six time intervals were compared for both antacids, it was found that Maalox emptied much faster (p less than 0.01 at 15 and 30 minutes, p less than 0.02 at 45, 60, 75, and 90 minutes).

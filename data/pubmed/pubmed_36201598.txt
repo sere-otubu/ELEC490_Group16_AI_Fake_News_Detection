@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Metformin
-TITLE: Metformin's Impact on the Microvascular Response to Insulin.
-PMID: 36201598
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36201598/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Metformin improves insulin's action on whole-body glucose metabolism in various insulin-resistant populations. The detailed cellular mechanism(s) for its metabolic actions are multiple and still incompletely understood. Beyond metabolic actions, metformin also impacts microvascular function. However, the effects of metformin on microvascular function and microvascular insulin action specifically are poorly defined. In this mini-review, we summarize what is currently known about metformin's beneficial impact on both microvascular function and the microvascular response to insulin while highlighting methodologic issues in the literature that limit straightforward mechanistic understanding of these effects. We examine potential mechanisms for these effects based on pharmacologically dosed studies and propose that metformin may improve human microvascular insulin resistance by attenuating oxidative stress, inflammation, and endothelial dysfunction. Finally, we explore several important evidence gaps and discuss avenues for future investigation that may clarify whether metformin's ability to improve microvascular insulin sensitivity is linked to its positive impact on vascular outcomes.

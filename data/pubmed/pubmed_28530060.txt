@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ringworm
-TITLE: [THE TRUTH ABOUT THE RINGWORM AFFAIR].
-PMID: 28530060
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28530060/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Ringworm of the scalp (Tinea Capitis), a fungal skin ailment that appears on the scalp, was treated until the early sixties by radiation therapy. It was discovered during the seventies that radiation treatment for ringworm may be associated with a higher risk of cancerous and benign tumors in the head and neck area for patients undergoing treatment. In 1995, Israel enacted a law to compensate ringworm irradiation patients which provided monetary compensation for those who were treated between 1946 and 1960. "The Ringworm Affair" focuses on the issue of radiation treatment for ringworm and the social perceptions surrounding the ethnic identity of the patients. Common opinion in Israel holds that the target population for these treatments was limited to the children of North African immigrants, and that the treatment was intentionally administered despite knowledge of its health hazards. Furthermore, according to these beliefs, over 100,000 children of immigrants were treated. This paper examines these common arguments in light of historical and research-based data regarding the ethnic background and total number of patients treated. Moreover, this paper will examine the argument that a mass operation took place to cure those children only in Israel between 1946 and 1960. As evidence will show, these arguments are unfounded. Notably, radiation therapy was used worldwide; other populations in Israel as well as other Jewish communities in Europe and North Africa were exposed to the same treatment since the 20's. The total number of patients in Israel is less than 100,000.

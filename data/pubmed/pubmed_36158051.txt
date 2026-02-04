@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Prenatal testing
-TITLE: Prenatal Silver-Russell Syndrome in a Chinese Family Identified by Non-Invasive Prenatal Testing.
-PMID: 36158051
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36158051/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Russell-Silver syndrome (SRS) is a rare condition characterized by poor growth before and after birth along with multiple physical and psychosocial characteristics such as short stature, characteristic facial features, body asymmetry, feeding difficulties, and learning disabilities. In this study, we report a family with 2 recurrent SRS pregnancies due to a derivative chromosome 15 that is the result of a maternally derived t(11;15) translocation, detected by non-invasive prenatal testing (NIPT). The 2 SRS fetuses were diagnosed by chromosomal microarray analysis, but a balanced, reciprocal translocation of the mother was disclosed by the combination of routine karyotyping and FISH. This study demonstrates that NIPT has the ability to identify submicroscopic copy number variations (CNVs) in fetuses, which in some cases may result from a parent being a balanced rearrangement carrier. Because of the differences in resolution and the various benefits and limitations of each genetic technique, great care must be taken when deciding on which test(s) to employ in family studies.

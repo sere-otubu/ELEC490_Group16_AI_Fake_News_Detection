@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22350859)
-    QUESTION: Can pictorial warning labels on cigarette packages address smoking-related health disparities?
-    CONTEXT: The objective of this study was to determine the most effective content of pictorial health warning labels (HWLs) and whether educational attainment moderates these effects.
-    ANSWER: Pictorial HWLs with didactic textual forms seem to work better than those with testimonial narratives. Future research should determine which pictorial HWL content has the greatest real-world impact among consumers from disadvantaged groups, including assessment of how HWL content should change to maintain its impact as tobacco control environments strengthen and consumer awareness of smoking-related risks increases.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Shingles
-TITLE: The recombinant shingles vaccine is associated with lower risk of dementia.
-PMID: 39053634
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39053634/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There is emerging evidence that the live herpes zoster (shingles) vaccine might protect against dementia. However, the existing data are limited and refer only to the live vaccine, which is now discontinued in the United States and many other countries in favor of a recombinant vaccine. Whether the recombinant shingles vaccine protects against dementia remains unknown. Here we used a natural experiment opportunity created by the rapid transition from the use of live to the use of recombinant vaccines to compare the risk of dementia between vaccine types. We show that the recombinant vaccine is associated with a significantly lower risk of dementia in the 6 years post-vaccination. Specifically, receiving the recombinant vaccine is associated with a 17% increase in diagnosis-free time, translating into 164 additional days lived without a diagnosis of dementia in those subsequently affected. The recombinant shingles vaccine was also associated with lower risks of dementia than were two other vaccines commonly used in older people: influenza and tetanus-diphtheria-pertussis vaccines. The effect was robust across multiple secondary analyses, and was present in both men and women but was greater in women. These findings should stimulate studies investigating the mechanisms underpinning the protection and could facilitate the design of a large-scale randomized control trial to confirm the possible additional benefit of the recombinant shingles vaccine.

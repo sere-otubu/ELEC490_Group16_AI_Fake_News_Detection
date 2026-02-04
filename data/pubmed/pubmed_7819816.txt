@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Platelets
-TITLE: Use of single donor platelets.
-PMID: 7819816
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7819816/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Advances in apheresis technology have made single donor platelets easier to obtain and therefore more plentiful. There are some hypothesized advantages to single donor platelets including reduced disease transmission, reduced alloimmunization, and superior function and storage characteristics. These ideas have swayed some to insist that single donor platelets should become the routine platelet transfusion component. While support exists for some of these benefits, there is no consensus that the risks to donors, the difficulties of setting up a program, and the expenses are sufficiently outweighed that the conversion of blood banks to a single donor platelet supply is merited. The major advantage to single donor platelets is that the selection of certain donor characteristics, such as HLA compatibility, is facilitated since a total dose of platelets is coming from one donor.

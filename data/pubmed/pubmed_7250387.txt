@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Protein intake
-TITLE: Protein-induced hypercalciuria.
-PMID: 7250387
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7250387/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Under controlled dietary conditions the level of dietary protein has a profound and sustained effect on urinary calcium and calcium retention of man. Young adults achieve calcium balance at low intakes of 500 mg calcium and 700 to 1,000 mg phosphorus when protein intake is 50 g. Large calcium losses occur at the same calcium and phosphorus intakes when the protein intake is increased approximately threefold. The protein-induced hypercalciuria is due mainly to a decrease in fractional renal tubular reabsorption of calcium, although an increase in glomerular filtration rate is also involved. The changes in kidney function appear to result from the catabolism of excess dietary sulfur amino acids to sulfate and the subsequent excretion of sulfate in the urine. An increase in both protein and phosphorus intakes has a much less dramatic effect on urinary calcium and calcium retention than an increase in protein intake alone. An increase in dietary phosphorus greatly reduces urinary calcium by increasing the fractional renal tubular reabsorption of calcium. It appears therefore that high protein intakes may increase the requirements for both calcium and phosphorus.

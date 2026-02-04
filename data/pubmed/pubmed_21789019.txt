@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21789019)
-    QUESTION: Do elderly cancer patients have different care needs compared with younger ones?
-    CONTEXT: The increasingly older population confronts oncologists with an imposing challenge: older cancer patients have specific healthcare needs both independent of and associated with the diagnosis of cancer. The aim of the present study is to examine whether elderly versus younger cancer patients have different needs with respect to attendance, treatment and information.
-    ANSWER: Elderly patients have informational and relational needs similar to those of younger patients. In fact, most of the whole sample flagged up the need for higher levels of satisfaction especially concerning a better dialogue with health staff, along with a new factor: the need to talk to people with the same illness.
-    

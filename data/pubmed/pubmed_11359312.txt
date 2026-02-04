@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cesarean section
-TITLE: Indications for caesarean section.
-PMID: 11359312
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11359312/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Caesarean section rates are rising. Caesarean section confers an increase in maternal mortality and morbidity as well as having considerable financial implications. Caesarean section is usually justified by the assumed benefit for the fetus. These benefits are often unquantified and based on scanty evidence. The changing trends in the rates of caesarean section for various indications may be explained partly by improved anaesthetic and neonatal techniques. Cultural changes and expectations in the general population and obstetricians' fear of litigation may have made the changing rate and indications for caesarean section seem more acceptable. There is little research evidence in this area. The evidence that caesarean section is the optimal mode of delivery for various major indications is critically examined. The obstetrician is under an obligation to share the evidence that caesarean section is the optimum mode of delivery with the pregnant woman and her birth attendants to allow the woman to make wise decisions about her management.

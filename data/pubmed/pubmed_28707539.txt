@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 28707539)
-    QUESTION: Visceral adipose tissue area measurement at a single level: can it represent visceral adipose tissue volume?
-    CONTEXT: Measurement of visceral adipose tissue (VAT) needs to be accurate and sensitive to change for risk monitoring. The purpose of this study is to determine the CT slice location where VAT area can best reflect changes in VAT volume and body weight.
-    ANSWER: VAT area measurement at a single level 3 cm above the lower margin of the L3 vertebra is feasible and can reflect changes in VAT volume and body weight. Advances in knowledge: As VAT area at a CT slice 3cm above the lower margin of L3 can best reflect interval changes in VAT volume and body weight, VAT area measurement should be selected at this location.
-    

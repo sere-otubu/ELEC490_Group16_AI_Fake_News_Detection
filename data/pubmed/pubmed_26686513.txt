@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26686513)
-    QUESTION: Cycloplegic autorefraction in young adults: is it mandatory?
-    CONTEXT: The precise correction of refractive error is especially important in young adults. It is unclear whether cycloplegic refraction is necessary in this age group. The purpose of this study was to compare the non-cycloplegic and cycloplegic spherical equivalent (SE) refractive error measured in young adults.
-    ANSWER: Young hypermetropic adults possessed +1 to +2 D of latent hypermetropia. In contrast, young myopic adults revealed pseudomyopia of -0.5 D. Cycloplegic refraction should be performed in young hypermetropic adults complaining of various signs of asthenopia.
-    

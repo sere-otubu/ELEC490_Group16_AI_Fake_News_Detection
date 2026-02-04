@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Insulin therapy
-TITLE: Chronic intermittent intravenous insulin therapy: a new frontier in diabetes therapy.
-PMID: 11469701
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11469701/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The limited success achieved in controlling diabetes and its complications with conventional insulin therapy suggests the need for reevaluation of the appropriateness of insulin administration protocols. Indeed, conventional subcutaneous insulin administration produces slowly changing blood insulin levels and suboptimal hepatocyte insulinization resulting in impaired hepatic capacity for processing incoming dietary glucose. The novel approach to insulin administration known as chronic intermittent intravenous insulin therapy (CIIIT) delivers insulin in a pulsatile fashion and achieves physiological insulin concentration in the portal vein. Done as a weekly outpatient procedure combined with daily intensive subcutaneous insulin therapy, this procedure has been shown to (1) significantly improve glycemic control while decreasing the incidence of hypoglycemic events, (2) improve hypertension control, (3) slow the progression of overt diabetic nephropathy, and (4) reverse some manifestations of diabetic autonomic neuropathy (e.g., abnormal circadian blood pressure pattern, severe postural hypotension, and hypoglycemia unawareness).

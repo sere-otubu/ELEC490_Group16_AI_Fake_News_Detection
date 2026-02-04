@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Respiratory system
-TITLE: Acute Respiratory Distress Syndrome: Bench-to-Bedside Approaches to Improve Drug Development.
-PMID: 29484641
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29484641/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Despite 50 years of extensive research, no definite drug is currently available to treat acute respiratory distress syndrome (ARDS), and the supportive therapies remain the mainstay of treatment. To improve drug development for ARDS, researchers need to deeply analyze the "omics" approaches, reevaluate the suitable therapeutic targets, resolve the problems of inadequate animal modeling, develop the strategies to reduce the heterogeneity, and reconsider new therapeutic and analytical approaches for better designs of clinical trials.

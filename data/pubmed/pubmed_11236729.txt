@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Breastfeeding benefits
-TITLE: Given the benefits of breastfeeding, what contraindications exist?
-PMID: 11236729
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11236729/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Breastfeeding is not contraindicated in association with environmental hazards in the United States under ordinary circumstances. Unusual massive exposure should be assessed on an individual basis. In the face of any possible contraindication to breastfeeding, the tremendous benefits of being breastfed should be compared with the theoretic risk for the hazard involved and a decision made on an individual basis.

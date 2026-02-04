@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hysterectomy
-TITLE: Laparoscopic hysterectomy.
-PMID: 1341510
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1341510/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Approximately 600,000 hysterectomies are performed each year in the United States, more than 75% of which are removed via an open laparotomy. Most hysterectomies that currently require an abdominal approach may be performed with laparoscopic dissection of part or all of the abdominal portion, followed by vaginal removal of the specimen. Indications for laparoscopic-guided hysterectomy include endometriosis, extensive fibroid disease, adnexal masses, adhesions from prior surgery, or inflammatory disease. Laparoscopic hysterectomy may also be considered for stage I endometrial, ovarian, and cervical cancer.

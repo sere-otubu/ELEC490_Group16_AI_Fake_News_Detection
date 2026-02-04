@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Male infertility
-TITLE: Metabolomics of male infertility.
-PMID: 38431200
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38431200/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review explores the use of metabolomics in male infertility. Metabolomics, an evolving omics technology that targets the products of cellular metabolism, is valuable for elucidating underlying pathophysiology of many disorders including male infertility. The identification of reliable biomarkers is essential for accurate diagnosis and for developing precision therapeutics for those afflicted by reproductive dysfunction. Unfortunately, despite significant progress to date, the intricate relationships between these metabolic pathways and male infertility remain elusive. It is clear, however, that additional research is required to more fully characterize the role of metabolomics in this disorder and in the potential development of targeted therapies for precision medicine.

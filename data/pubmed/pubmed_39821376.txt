@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immunotherapy
-TITLE: Current advancements in cellular immunotherapy for autoimmune disease.
-PMID: 39821376
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39821376/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The management of autoimmune diseases is currently limited by therapies that largely suppress the immune system, often resulting in partial and temporary remissions. Cellular immunotherapies offer a targeted approach by redirecting immune cells to correct the underlying autoimmunity. This review explores the latest advances in cellular immunotherapies for autoimmune diseases, focusing on various strategies, such as the use of chimeric antigen receptor (CAR) T cells, chimeric auto-antibody receptor (CAAR) T cells, regulatory T cells (Tregs), and tolerogenic dendritic cells (TolDCs). We review recent preclinical studies and results from clinical trials that demonstrate the potential for these therapies to either deplete autoreactive cells or promote immune tolerance through broad or selective targeting of immune cell populations. Key challenges such as ensuring specificity, preventing off-target effects, and improving the longevity of therapeutic effects are discussed. The evolving landscape of cellular immunotherapies holds promise for more durable treatment responses and increased specificity for autoimmune disease treatment.

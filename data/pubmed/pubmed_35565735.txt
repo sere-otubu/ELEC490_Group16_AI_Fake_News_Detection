@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pregnancy nutrition
-TITLE: Nutrition during Pregnancy and Lactation: Epigenetic Effects on Infants' Immune System in Food Allergy.
-PMID: 35565735
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35565735/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Food allergies are an increasing health problem worldwide. They are multifactorial diseases, in which the genome alone does not explain the development of the disease, but a genetic predisposition and various environmental factors contribute to their onset. Environmental factors, in particular nutritional factors, in the early stages of life are recognized as key elements in the etiology of food allergies. There is growing evidence advising that nutrition can affect the risk of developing food allergies through epigenetic mechanisms elicited by the nutritional factors themselves or by modulating the gut microbiota and its functional products. Gut microbiota and postbiotics can in turn influence the risk of food allergy development through epigenetic mechanisms. Epigenetic programming accounts not only for the short-term effects on the individual's health status, but also for those observed in adulthood. The first thousand days of life represent an important window of susceptibility in which environmental factors, including nutritional ones, can influence the risk of developing allergies through epigenetic mechanisms. From this point of view, it represents an interesting window of opportunity and intervention. This review reports the main nutritional factors that in the early stages of life can influence immune oral tolerance through the modulation of epigenetic mechanisms.

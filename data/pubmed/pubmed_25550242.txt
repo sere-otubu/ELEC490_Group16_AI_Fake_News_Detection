@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dissociative disorders
-TITLE: [Dissociative disorders and affective disorders].
-PMID: 25550242
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25550242/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The phenomenology of dissociative disorders may be complex and sometimes confusing. We describe here two cases who were initially misdiagnosed. The first case concerned a 61 year-old woman, who was initially diagnosed as an isolated dissociative fugue and was actually suffering from severe major depressive episode. The second case concerned a 55 year-old man, who was suffering from type I bipolar disorder and polyvascular disease, and was initially diagnosed as dissociative fugue in a mooddestabilization context, while it was finally a stroke. Yet dissociative disorders as affective disorder comorbidity are relatively unknown. We made a review on this topic. Dissociative disorders are often studied through psycho-trauma issues. Litterature is rare on affective illness comorbid with dissociative disorders, but highlight the link between bipolar and dissociative disorders. The later comorbidity often refers to an early onset subtype with also comorbid panic and depersonalization-derealization disorder. Besides, unipolar patients suffering from dissociative symptoms have more often cyclothymic affective temperament. Despite the limits of such studies dissociative symptoms-BD association seems to correspond to a clinical reality and further works on this topic may be warranted.

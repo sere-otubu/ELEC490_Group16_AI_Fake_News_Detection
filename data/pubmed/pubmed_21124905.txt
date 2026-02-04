@@ -1,8 +1,0 @@
-SEARCH_TOPIC: RNA function
-TITLE: Regulatory BC1 RNA and the fragile X mental retardation protein: convergent functionality in brain.
-PMID: 21124905
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21124905/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-BC RNAs and the fragile X mental retardation protein (FMRP) are translational repressors that have been implicated in the control of local protein synthesis at the synapse. Work with BC1 and Fmr1 animal models has revealed that phenotypical consequences resulting from the absence of either BC1 RNA or FMRP are remarkably similar. To establish functional interactions between BC1 RNA and FMRP is important for our understanding of how local protein synthesis regulates neuronal excitability. We generated BC1-/- Fmr1-/- double knockout (dKO) mice. We examined such animals, lacking both BC1 RNA and FMRP, in comparison with single knockout (sKO) animals lacking either one repressor. Analysis of neural phenotypical output revealed that at least three attributes of brain functionality are subject to control by both BC1 RNA and FMRP: neuronal network excitability, epileptogenesis, and place learning. The severity of CA3 pyramidal cell hyperexcitability was significantly higher in BC1-/- Fmr1-/- dKO preparations than in the respective sKO preparations, as was seizure susceptibility of BC1-/- Fmr1-/- dKO animals in response to auditory stimulation. In place learning, BC1-/- Fmr1-/- dKO animals were severely impaired, in contrast to BC1-/- or Fmr1-/- sKO animals which exhibited only mild deficits. Our data indicate that BC1 RNA and FMRP operate in sequential-independent fashion. They suggest that the molecular interplay between two translational repressors directly impacts brain functionality.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Reproductive system
-TITLE: Effects of micro(nano)plastics on the reproductive system: A review.
-PMID: 37285987
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37285987/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Microplastics (100nm-5 mm) and nanoplastics (1-100 nm) are collectively referred to as micro(nano)plastics (MNPs), which are refractory to degradation, easy to migration, small in size, strong in adsorption, and can widely present in human living environment. A number of studies have confirmed that MNPs can be exposed to the human body through a variety of routes, and can penetrate various barriers to enter the reproductive system, suggesting that MNPs may pose potential harm to human reproductive health. Current studies most were limited to phenotypic studies and their subjects were basically lower marine organisms and mammals. Therefore, in order to provide theoretical base for further exploring the effects of MNPs on the human reproductive system, this paper searched the relevant literature at home and abroad, mainly analyzed rodent experiments, and concluded that the main exposure routes of MNPs are dietary intake, air inhalation, skin contact and medical plastics. After entering the reproductive system, MNPs produce reproductive toxicity mainly through oxidative stress, inflammation, metabolic disorders, cytotoxicity and other mechanisms. More work is required to comprehensively identify the exposure routes, improve the detection methods to evaluate the effective exposure and deeply study the specific mechanisms of toxic effects, withing the aim of conducting relevant studies at the population level in the next step.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mental health stigma
-TITLE: Mental Health Without Well-being.
-PMID: 34668012
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34668012/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-What is it to be mentally healthy? In the ongoing movement to promote mental health, to reduce stigma, and to establish parity between mental and physical health, there is a clear enthusiasm about this concept and a recognition of its value in human life. However, it is often unclear what mental health means in all these efforts and whether there is a single concept underlying them. Sometimes, the initiatives for the sake of mental health are aimed just at reducing mental illness, thus implicitly identifying mental health with the absence of diagnosable psychiatric disease. More ambitiously, there are high-profile proposals to adopt a positive definition, identifying mental health with psychic or even overall well-being. We argue against both: a definition of mental health as mere absence of mental illness is too thin, too undemanding, and too closely linked to psychiatric value judgments, while the definition in terms of well-being is too demanding and potentially oppressive. As a compromise, we sketch out a middle position. On this view, mental health is a primary good, that is, the psychological preconditions of pursuing any conception of the good life, including well-being, without being identical to well-being.

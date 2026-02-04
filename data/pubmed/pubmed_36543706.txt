@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Whey protein
-TITLE: Effects of whey protein supplementation on adiposity, body weight, and glycemic parameters: A synthesis of evidence.
-PMID: 36543706
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36543706/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The aim of this review was to analyze the evidence of whey protein supplementation on body weight, fat mass, lean mass and glycemic parameters in subjects with overweight or type 2 diabetes mellitus (T2DM) undergoing calorie restriction or with ad libitum intake. Overweight and obesity are considered risk factors for the development of chronic noncommunicable diseases such as T2DM. Calorie restriction is a dietary therapy that reduces weight and fat mass, promotes the improvement of glycemic parameters, and decreases muscle mass. The maintenance of muscle mass during weight loss is necessary in view of its implication in preventing chronic diseases and improving functional capacity and quality of life. The effects of increased protein consumption on attenuating muscle loss and reducing body fat during calorie restriction or ad libitum intake in overweight individuals are discussed. Some studies have demonstrated the positive effects of whey protein supplementation on improving satiety and postprandial glycemic control in short term; however, it remains unclear whether long-term whey protein supplementation can positively affect glycemic parameters. Although whey protein is considered to have a high nutritional quality, its effects in the treatment of overweight, obese individuals and those with T2DM undergoing calorie restriction or ad libitum intake are still inconclusive.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Trauma informed care
-TITLE: Trauma-Informed Social Work Practice.
-PMID: 28339563
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28339563/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Social workers frequently encounter clients with a history of trauma. Trauma-informed care is a way of providing services by which social workers recognize the prevalence of early adversity in the lives of clients, view presenting problems as symptoms of maladaptive coping, and understand how early trauma shapes a client's fundamental beliefs about the world and affects his or her psychosocial functioning across the life span. Trauma-informed social work incorporates core principles of safety, trust, collaboration, choice, and empowerment and delivers services in a manner that avoids inadvertently repeating unhealthy interpersonal dynamics in the helping relationship. Trauma-informed social work can be integrated into all sorts of existing models of evidence-based services across populations and agency settings, can strengthen the therapeutic alliance, and facilitates posttraumatic growth.

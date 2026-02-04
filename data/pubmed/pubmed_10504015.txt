@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tinnitus
-TITLE: Tinnitus in childhood.
-PMID: 10504015
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10504015/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Tinnitus is a common symptom in adults and there is a wealth of published information on the pathogenesis and management of the condition. Tinnitus in childhood is likewise quite common when children are directly asked about the symptom. However, children rarely spontaneously complain of tinnitus. Little is known about effective management strategies for paediatric tinnitus. We review the literature regarding the prevalence and nature of paediatric tinnitus and suggest a logical and practical approach to managing this symptom.

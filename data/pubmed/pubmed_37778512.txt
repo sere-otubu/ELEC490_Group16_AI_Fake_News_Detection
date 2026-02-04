@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anticoagulants
-TITLE: Anticoagulation in chronic kidney disease: current status and future perspectives.
-PMID: 37778512
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37778512/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chronic kidney disease (CKD) is being diagnosed increasingly worldwide. It is often identified in individuals with comorbidities, which may increase the already heightened risk of thrombosis and hemorrhage associated with CKD. Oral anticoagulation is an effective means of reducing rates of ischemic stroke and systemic embolism in patients with atrial fibrillation and minimizes the morbidity and mortality caused by venous thromboembolic disease. Despite the proven benefits in the majority of patients, these have not been so clearly realized in patients with CKD due to the precarious balance between bleeding and thromboembolic complications. In this review, the current status of anticoagulant utilization in CKD is examined, and some practical recommendations are put forward to assist in the decision-making process of safely anticoagulating patients with CKD diagnosed with atrial fibrillation and venous thromboembolism.

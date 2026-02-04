@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 16498158)
-    QUESTION: Is atropine needed with ketamine sedation?
-    CONTEXT: To compare atropine with placebo as an adjunct to ketamine sedation in children undergoing minor painful procedures. Outcome measures included hypersalivation, side effect profile, parental/patient satisfaction, and procedural success rate.
-    ANSWER: Ketamine sedation was successful and well tolerated in all cases. The use of atropine as an adjunct for intramuscular ketamine sedation in children significantly reduces hypersalivation and may lower the incidence of post-procedural vomiting. Atropine is associated with a higher incidence of a transient rash. No serious adverse events were noted.
-    

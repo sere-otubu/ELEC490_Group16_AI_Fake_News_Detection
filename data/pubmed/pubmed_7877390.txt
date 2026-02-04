@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cluster headaches
-TITLE: Headaches.
-PMID: 7877390
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7877390/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Headaches are a common problem that can be disabling. The clinical features and treatment of migraine, cluster, and tension headaches are presented in this article. Emphasis is placed on the newer drugs available for acute and prophylactic treatment of these headaches. Features of headaches associated with intracranial aneurysms, temporal arteritis, cerebrovascular accidents, brain tumors, and temporomandibular disorders are also discussed.

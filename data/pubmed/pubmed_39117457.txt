@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Serotonin
-TITLE: Striatal Serotonin Release Signals Reward Value.
-PMID: 39117457
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39117457/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Serotonin modulates diverse phenotypes and functions including depressive, aggressive, impulsive, and feeding behaviors, all of which have reward-related components. To date, research has focused on understanding these effects by measuring and manipulating dorsal raphe serotonin neurons and using single-receptor approaches. These studies have led to a better understanding of the heterogeneity of serotonin actions on behavior; however, they leave open many questions about the timing and location of serotonin's actions modulating the neural circuits that drive these behaviors. Recent advances in genetically encoded fluorescent biosensors, including the GPCR activation-based sensor for serotonin (GRAB-5-HT), enable the measurement of serotonin release in mice on a timescale compatible with a single rewarding event without corelease confounds. Given substantial evidence from slice electrophysiology experiments showing that serotonin influences neural activity of the striatal circuitry, and the known role of the dorsal medial striatal (DMS) in reward-directed behavior, we focused on understanding the parameters and timing that govern serotonin release in the DMS in the context of reward consumption, external reward value, internal state, and cued reward. Overall, we found that serotonin release is associated with each of these and encodes reward anticipation, value, approach, and consumption in the DMS.

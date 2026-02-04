@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pineal gland
-TITLE: Revisiting the pineal gland: a review of calcification, masses, precocious puberty, and melatonin functions.
-PMID: 31714865
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31714865/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-<b>Introduction:</b> The pineal gland, an endocrine organ of the posterior cranial fossa famously involved in sleep and wakefulness, has continually been a topic of scientific advancement and curiosity. <b>Methods:</b> We review present an up-to-date review including the anatomy, embryology, and physiology of the pineal gland and its ability to secrete hormones including melatonin, pathophysiology of pineal gland tumors, cysts, and calcifications, their clinical presentation including their association with parkinsonism and precocious puberty, and various treatment approaches. <b>Results:</b> Exploring the biochemistry of melatonin, various calcification morphologies, and pineal tumors may uncover a wider role and the exhaustive case study consolidation allows clinicians to carefully review the literature and aid their treatment approaches. <b>Conclusion:</b> It is imperative that clinicians and diagnosticians are able to distinguish manifestations of an overlooked gland.

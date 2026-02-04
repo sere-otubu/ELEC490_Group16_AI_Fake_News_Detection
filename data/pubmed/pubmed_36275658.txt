@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Type 1 Diabetes
-TITLE: Lipid metabolism in type 1 diabetes mellitus: Pathogenetic and therapeutic implications.
-PMID: 36275658
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36275658/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Type 1 diabetes mellitus (T1DM) is a chronic autoimmune disease with insulin deficiency due to pancreatic β cell destruction. Multiple independent cohort studies revealed specific lipid spectrum alterations prior to islet autoimmunity in T1DM. Except for serving as building blocks for membrane biogenesis, accumulative evidence suggests lipids and their derivatives can also modulate different biological processes in the progression of T1DM, such as inflammation responses, immune attacks, and β cell vulnerability. However, the types of lipids are huge and majority of them have been largely unexplored in T1DM. In this review, based on the lipid classification system, we summarize the clinical evidence on dyslipidemia related to T1DM and elucidate the potential mechanisms by which they participate in regulating inflammation responses, modulating lymphocyte function and influencing β cell susceptibility to apoptosis and dysfunction. This review systematically recapitulates the role and mechanisms of various lipids in T1DM, providing new therapeutic approaches for T1DM from a nutritional perspective.

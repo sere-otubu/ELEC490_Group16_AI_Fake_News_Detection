@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Insomnia
-TITLE: Animal models of human insomnia.
-PMID: 36748845
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36748845/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Insomnia disorder (chronic sleep continuity disturbance) is a debilitating condition affecting 5%-10% of the adult population worldwide. To date, researchers have attempted to model insomnia in animals through breeding strategies that create pathologically short-sleeping individuals or with drugs and environmental contexts that directly impose sleeplessness. While these approaches have been invaluable for identifying insomnia susceptibility genes and mapping the neural networks that underpin sleep-wake regulation, they fail to capture concurrently several of the core clinical diagnostic features of insomnia disorder in humans, where sleep continuity disturbance is self-perpetuating, occurs despite adequate sleep opportunity, and is often not accompanied by significant changes in sleep duration or architecture. In the present review, we discuss these issues and then outline ways animal models can be used to develop approaches that are more ecologically valid in their recapitulation of chronic insomnia's natural aetiology and pathophysiology. Conditioning of self-generated sleep loss with these methods promises to create a better understanding of the neuroadaptations that maintain insomnia, including potentially within the infralimbic cortex, a substrate at the crossroads of threat habituation and sleep.

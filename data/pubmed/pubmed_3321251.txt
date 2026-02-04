@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep apnea
-TITLE: [Sleep apnea syndromes in adults].
-PMID: 3321251
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3321251/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sleep apnoea syndromes are a frequent disease, with an incidence of more than 1% in the adult population, a strong male predominance, and a maximal frequency between 40 and 60 years. Their clinical manifestations are dominated by snoring and daytime sleepiness, at times associated with morning headaches, intellectual deficiency, sexual impotence. Obesity, hypertension and polycythemia are not uncommon. These patients are at risk for accidents due to sleepiness, sudden death due to sleep apnoea-related cardiac arrhythmias, ischemic attacks related to hypertension and polycythemia and right heart failure secondary to pulmonary hypertension and alveolar hypoventilation. The most frequent form of sleep apnoea syndromes include obstructive and mixed apnoeas. Their mechanism involves both anatomic factors (upper airway narrowing) and functional factors (defective activation of upper airways dilatory muscles) which lead to upper airway occlusion upon inspiration during sleep. Two therapeutic strategies are possible: a surgical one, uvulopalatopharyngoplasty, the efficacy of which is inconstant and unpredictable and nasal continuous positive airway pressure, which is constantly efficacious but constraining. Central sleep apnoea syndromes are rare, less clearly defined and more difficult to treat.

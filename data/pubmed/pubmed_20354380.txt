@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20354380)
-    QUESTION: Do women residents delay childbearing due to perceived career threats?
-    CONTEXT: To assess gender differences among residents regarding their plans to have children during residency and determine the most influential reasons for these differences.
-    ANSWER: Women residents intentionally postpone pregnancy because of perceived threats to their careers. Medical educators should be aware of these findings when counseling female trainees.
-    

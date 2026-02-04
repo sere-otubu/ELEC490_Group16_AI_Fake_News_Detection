@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Peer review process
-TITLE: Reimagining peer review as an expert elicitation process.
-PMID: 35382867
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35382867/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Journal peer review regulates the flow of ideas through an academic discipline and thus has the power to shape what a research community knows, actively investigates, and recommends to policymakers and the wider public. We might assume that editors can identify the 'best' experts and rely on them for peer review. But decades of research on both expert decision-making and peer review suggests they cannot. In the absence of a clear criterion for demarcating reliable, insightful, and accurate expert assessors of research quality, the best safeguard against unwanted biases and uneven power distributions is to introduce greater transparency and structure into the process. This paper argues that peer review would therefore benefit from applying a series of evidence-based recommendations from the empirical literature on structured expert elicitation. We highlight individual and group characteristics that contribute to higher quality judgements, and elements of elicitation protocols that reduce bias, promote constructive discussion, and enable opinions to be objectively and transparently aggregated.

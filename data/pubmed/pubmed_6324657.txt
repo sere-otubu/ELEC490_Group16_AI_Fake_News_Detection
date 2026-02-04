@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pancreas function
-TITLE: Regulatory mechanisms in pancreas and salivary acini.
-PMID: 6324657
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6324657/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Pancreas and salivary glands have highly developed regulatory mechanisms for the acute control of secretion of macromolecules and electrolytes, although other longer-term biosynthetic functions are also clearly regulated. The concepts of receptors and second messengers are clearly established, although receptors as molecular entities are just beginning to be characterized. While the functions activated are clearly organ or cell specific, the control systems clearly are not. The molecular mechanisms or effectors by which secretion is stimulated are still largely unknown. In the case of macromolecular secretion, emphasis is currently focused on cyclic AMP and Ca2+-activated phosphorylation of cellular substrates. In the case of electrolyte secretion, attention is centered on the ion channels and carriers by which ions enter cells and on the energy dependent Na-K pump which carries out active ion extrusion.

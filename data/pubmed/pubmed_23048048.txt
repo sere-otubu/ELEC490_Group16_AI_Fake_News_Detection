@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23048048)
-    QUESTION: Risky sexual behavior among college students With ADHD: is the mother-child relationship protective?
-    CONTEXT: This study examined the extent to which ADHD was associated with risky sexual behaviors (RSBs) in a sample of 92 undergraduates with (n = 44) and without (n = 48) ADHD. Mother-child relationship quality was examined as a potential moderator.
-    ANSWER: Results suggest that female college students with ADHD are at risk for unprotected sex. Moreover, a positive mother-child relationship may be protective for college students with ADHD in relation to RSB.
-    

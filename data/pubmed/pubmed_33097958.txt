@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Arthritis
-TITLE: Ankle arthritis - an important signpost in rheumatologic practice.
-PMID: 33097958
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33097958/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Ankle arthritis is a useful clinical signpost to differential diagnosis in rheumatic disease. Biomechanical features and differences in cartilage physiology compared with the knee may confer protection of the ankle joint from factors predisposing to certain arthritides. The prevalence of ankle OA is low, and usually secondary to trauma. Primary OA of the ankle should be investigated for underlying causes, especially haemochromatosis. New presentations of inflammatory mono/oligo arthritis involving the ankle are more likely due to undifferentiated arthritis or spondyloarthritis than RA, and gout over CPPD. The ankle is often involved in bacterial and viral causes of septic arthritis, especially bacterial, chikungunya and HIV infection, but rarely tuberculosis. Periarticular hind foot swelling can be confused with ankle arthritis, exemplified by Lofgren's syndrome and hypertrophic osteoarthropathy where swelling is due to subcutaneous oedema and osteitis respectively, and the ankle joint is rarely involved.

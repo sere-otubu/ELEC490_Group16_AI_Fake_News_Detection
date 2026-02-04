@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dengue fever
-TITLE: Dengue fever.
-PMID: 9155462
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9155462/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Dengue fever, and its more serious haemorrhagic form, is increasingly being found among UK travellers to tropical and sub-tropical countries. This Update examines transmission, the main symptoms and nursing care of affected people.

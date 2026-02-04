@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24747511)
-    QUESTION: Updating emotional content in working memory: a depression-specific deficit?
-    CONTEXT: Interference from irrelevant negative material might be a key mechanism underlying intrusive ruminative thoughts in depression. Considering commonalities between depression and social anxiety and the presence of similar intrusive thoughts in social anxiety, the current study was designed to assess whether interference from irrelevant material in working memory is specific to depression or is also present in social anxiety disorder.
-    ANSWER: The results indicate that difficulties removing irrelevant material from working memory might be unique to depression, and the ability to inhibit irrelevant information is relatively preserved in social anxiety disorder.
-    

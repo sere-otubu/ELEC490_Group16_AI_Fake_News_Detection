@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cluster headaches
-TITLE: Cluster and related headaches.
-PMID: 11480270
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11480270/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The disorders described in this article are relatively rare, but probably are more common than previously thought. Because these disorders cause significant pain and disability and treatment response differs from that of migraine, tension-type, and cluster headaches, recognition is essential. Table 1 lists the important clinical features of these syndromes and contrasts them with cluster headache, the disorder for which they are often confused.

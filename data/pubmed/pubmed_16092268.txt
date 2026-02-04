@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Organic foods
-TITLE: Determinants of consumer behavior related to organic foods.
-PMID: 16092268
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16092268/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There have been many studies of what influences consumers in their decisions to purchase or consume organic foods, mainly concerned with fresh organic foods. These show a discrepancy between attitudes and behavior with people being positive about organic foods but often not purchasing them. This discrepancy seems to be explained by the fact that consumers do not consider "organically produced" to be an important purchase criterion, that organic foods are not perceived to surpass conventional foods regarding taste and shelf life (two qualities rated to be of great importance), and because of the perceived premium prices of organic foods. In two Swedish studies, health benefits were demonstrated to be more strongly related to attitudes and behavior toward organic foods than were perceived environmental benefits. A new European Union (EU) project will investigate the influences on both fresh and processed organic foods and investigate the role of moral, ethical, and affective influences on choice across eight EU countries.

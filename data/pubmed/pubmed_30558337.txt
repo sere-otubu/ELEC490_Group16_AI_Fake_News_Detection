@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lactose intolerance
-TITLE: Lactose Intolerance, Dairy Avoidance, and Treatment Options.
-PMID: 30558337
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30558337/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Lactose intolerance refers to symptoms related to the consumption of lactose-containing dairy foods, which are the most common source for this disaccharide. While four causes are described, the most common is the genetically-determined adult onset lactose maldigestion due to loss of intestinal lactase governed by control of the gene by a 14,000 kb promoter region on chromosome 2. Gastrointestinal symptoms from lactose have expanded to include systemic effects and have also been confounded by other food intolerances or functional gastrointestinal disorders. Partly because lactose maldigestion is often interpreted as lactose intolerance (symptoms), focus of therapy for these symptoms starts with lactose restriction. However, withholding of dairy foods completely is not appropriate due to a more favorable impact on health. Industrial efforts to substitute with plant-based products is not completely successful at this time. This narrative article reviews the complexities of the perception of lactose intolerance, its epidemiology, and pathogenesis. Treatments are discussed, including the inappropriateness of dairy avoidance. In conjunction, effects of dairy products on 19 common diseases are reviewed. Different methods of treatment, lactose-reduced products, plant-based dairy substitutes, adaptation, prebiotics, exogenous lactase, probiotics, and some other dietary interventions are further discussed.

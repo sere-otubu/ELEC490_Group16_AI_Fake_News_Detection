@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cardiovascular fitness
-TITLE: Perspectives on cardiovascular fitness and SCI.
-PMID: 2258731
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2258731/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The purpose of these papers is to review and discuss the fundamental concepts and problems underlying cardiovascular fitness and spinal cord injury. Particular attention is paid to several modes of exercise available to individuals with spinal cord injury (SCI)--voluntary arm-crank and wheelchair ergometry, electrical stimulation leg cycle ergometry, and combined voluntary arm-cranking and electrical stimulation leg (hybrid) exercise. The effects of level of injury, active muscle mass, and sympathetic dysfunction upon acute central hemodynamic adjustments during exercise testing and chronic training adaptations are discussed for both quadriplegics and paraplegics. Several topics for future research are suggested.

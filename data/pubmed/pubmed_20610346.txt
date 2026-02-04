@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alzheimers disease
-TITLE: Alzheimer's disease: clinical trials and drug development.
-PMID: 20610346
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20610346/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Alzheimer's disease is the most common cause of dementia in elderly people. Research into Alzheimer's disease therapy has been at least partly successful in terms of developing symptomatic treatments, but has also had several failures in terms of developing disease-modifying therapies. These successes and failures have led to debate about the potential deficiencies in our understanding of the pathogenesis of Alzheimer's disease and potential pitfalls in diagnosis, choice of therapeutic targets, development of drug candidates, and design of clinical trials. Many clinical and experimental studies are ongoing, but we need to acknowledge that a single cure for Alzheimer's disease is unlikely to be found and that the approach to drug development for this disorder needs to be reconsidered. Preclinical research is constantly providing us with new information on pieces of the complex Alzheimer's disease puzzle, and an analysis of this information might reveal patterns of pharmacological interactions instead of single potential drug targets. Several promising randomised controlled trials are ongoing, and the increased collaboration between pharmaceutical companies, basic researchers, and clinical researchers has the potential to bring us closer to developing an optimum pharmaceutical approach for the treatment of Alzheimer's disease.

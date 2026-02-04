@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25489696)
-    QUESTION: Does radiotherapy of the primary rectal cancer affect prognosis after pelvic exenteration for recurrent rectal cancer?
-    CONTEXT: Radiotherapy reduces local recurrence rates but is also capable of short- and long-term toxicity. It may also render treatment of local recurrence more challenging if it develops despite previous radiotherapy.
-    ANSWER: Patients who previously received radiotherapy for primary rectal cancer treatment have worse oncologic outcomes than those who had not received radiotherapy after pelvic exenteration for locally recurrent rectal cancer.
-    

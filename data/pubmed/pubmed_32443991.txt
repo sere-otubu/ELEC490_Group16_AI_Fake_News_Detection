@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Autism spectrum disorder
-TITLE: Autism Spectrum Disorder: Characteristics, Associated Behaviors, and Early Intervention.
-PMID: 32443991
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32443991/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Autism spectrum disorder (ASD) is characterized by deficits in social communication and interaction and the presence of restricted and repetitive patterns of behavior and interests. Currently, ASD affects 1 in 59 individuals and can be a costly disorder across one's lifetime. Because of the prevalence, costs, and range of behavioral needs, early intervention is vital to teach skills across a variety of domains and prevent the development or exacerbation of behavioral deficits and excesses. Interventions based on applied behavior analysis have the most empirical support; several strategies to teach social skills, communication, and adaptive skills are discussed.

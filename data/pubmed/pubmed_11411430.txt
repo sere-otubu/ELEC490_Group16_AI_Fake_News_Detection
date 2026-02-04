@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 11411430)
-    QUESTION: Antral follicle assessment as a tool for predicting outcome in IVF--is it a better predictor than age and FSH?
-    CONTEXT: The purpose of this study is to determine if baseline antral follicle assessment may serve as additional information in predicting in vitro fertilization outcome.
-    ANSWER: In vitro fertilization outcome is strongly correlated with both maternal ages, basal cycle, day 3 follicle, stimulated hormone, and antral follicle assessment. Antral follicle assessment was a better predictor of in vitro fertilization outcome than were age or follicle stimulated hormone. Antral follicle assessment may provide a marker for ovarian age that is distinct from chronological age or hormonal markers.
-    

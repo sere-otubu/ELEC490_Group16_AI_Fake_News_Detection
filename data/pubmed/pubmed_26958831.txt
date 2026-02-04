@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cataracts
-TITLE: Lens regeneration using endogenous stem cells with gain of visual function.
-PMID: 26958831
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26958831/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The repair and regeneration of tissues using endogenous stem cells represents an ultimate goal in regenerative medicine. To our knowledge, human lens regeneration has not yet been demonstrated. Currently, the only treatment for cataracts, the leading cause of blindness worldwide, is to extract the cataractous lens and implant an artificial intraocular lens. However, this procedure poses notable risks of complications. Here we isolate lens epithelial stem/progenitor cells (LECs) in mammals and show that Pax6 and Bmi1 are required for LEC renewal. We design a surgical method of cataract removal that preserves endogenous LECs and achieves functional lens regeneration in rabbits and macaques, as well as in human infants with cataracts. Our method differs conceptually from current practice, as it preserves endogenous LECs and their natural environment maximally, and regenerates lenses with visual function. Our approach demonstrates a novel treatment strategy for cataracts and provides a new paradigm for tissue regeneration using endogenous stem cells.

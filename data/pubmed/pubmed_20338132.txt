@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Stents
-TITLE: Role of superficial femoral artery stents in the management of arterial occlusive disease: review of current evidence.
-PMID: 20338132
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20338132/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The objectives of this study were to compare the 1-year patency of superficial femoral artery (SFA) stent placement with percutaneous transluminal angioplasty (PTA) alone and to attempt to define the role of stents in arterial occlusive disease. Literature searches of the Embase, Medline, and Cochrane databases identified relevant articles, which were split into two subgroups: those containing case-controlled matches for stenting and PTA and those considering only stent placement. The review conformed to the QUORUM statement. One-year patency rates were 219 of 383 (57%) in the stented group and 319 of 607 (53%) in the PTA group for matched cases (odds ratio 1.206 [95% CI 0.932-1.559; p = .115]). The patency of stents deployed secondarily was 554 of 909 (61%). The combined 1-year patency of primary and secondary SFA stents for matched and unmatched case series was 816 of 1,282 (64%). One-year patency rates following stent placement or PTA alone in well-matched patient groups demonstrated no significant difference. This would suggest that the routine use of primary SFA stenting should be undertaken only in selected cases and should mainly be used in "bailout" situations or for complex lesions where surgery is precluded. However, the studies used displayed a high degree of heterogeneity, and some used stent technology that is now considered obsolete. Ongoing randomized controlled trials will provide a more definitive answer to this important problem.

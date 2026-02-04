@@ -1,8 +1,0 @@
-SEARCH_TOPIC: First aid basics
-TITLE: 2024 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations: Summary From the Basic Life Support; Advanced Life Support; Pediatric Life Support; Neonatal Life Support; Education, Implementation, and Teams; and First Aid Task Forces.
-PMID: 39540293
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39540293/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This is the eighth annual summary of the International Liaison Committee on Resuscitation International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations; a more comprehensive review was done in 2020. This latest summary addresses the most recent published resuscitation evidence reviewed by the International Liaison Committee on Resuscitation task force science experts. Members from 6 International Liaison Committee on Resuscitation task forces have assessed, discussed, and debated the quality of the evidence, using Grading of Recommendations Assessment, Development, and Evaluation criteria, and their statements include consensus treatment recommendations. Insights into the deliberations of the task forces are provided in the Justification and Evidence-to-Decision Framework Highlights sections. In addition, the task forces list priority knowledge gaps for further research.

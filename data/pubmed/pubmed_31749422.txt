@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Female infertility
-TITLE: Exosomes and Female Infertility.
-PMID: 31749422
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31749422/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Exosomes are small Extracellular Vesicles (EVs) (40-100 nm) secreted by living cells and mediate the transmission of information between cells. The number and contents of exosomes are associated with diseases such as inflammatory diseases, cancer, metabolic diseases and what we are focusing in this passage-female infertility. This review focused on the role of exosomes in oocyte development, declined ovarian function, PCOS, uterine diseases, endometrial receptivity and fallopian tube dysfunction in the female. We conducted an extensive search for research articles involving relationships between exosomes and female infertility on the bibliographic database. It has been reported that exosomes can act as a potential therapeutic device to carry cargoes to treat female infertility. However, the pathophysiological mechanisms of exosomes in female infertility have not been entirely elucidated. Further researches are needed to explore the etiology and provide evidence for potential clinical treatment. This review systematically summarized the role exosomes play in female infertility and its potential as drug delivery.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Salmonella
-TITLE: Seeing is understanding: Salmonella's way to penetrate the intestinal epithelium.
-PMID: 28939439
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28939439/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The molecular processes that govern host-microbial interaction illustrate not only the sophisticated and multifaceted mechanisms that protect the host from infection, but also the elaborated features of microbial pathogens that have evolved to overcome or evade the host's immune system. Here we focus on Salmonella that like other enteric pathogens must overcome the intestinal mucosal immune system, a surface constantly on alert and evolved to restrict the enteric microbiota. We discuss the initial step of Salmonella infection, the penetration of the intestinal epithelial barrier and the models used to study this fascinating aspect of microbial pathogenesis.

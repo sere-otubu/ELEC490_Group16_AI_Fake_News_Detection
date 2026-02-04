@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Down syndrome
-TITLE: What people with Down Syndrome can teach us about cardiopulmonary disease.
-PMID: 28223397
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28223397/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Down syndrome is the most common chromosomal abnormality among live-born infants. Through full or partial trisomy of chromosome 21, Down syndrome is associated with cognitive impairment, congenital malformations (particularly cardiovascular) and dysmorphic features. Immune disturbances in Down syndrome account for an enormous disease burden ranging from quality-of-life issues (autoimmune alopecia) to more serious health issues (autoimmune thyroiditis) and life-threatening issues (leukaemia, respiratory tract infections and pulmonary hypertension). Cardiovascular and pulmonary diseases account for ∼75% of the mortality seen in persons with Down syndrome. This review summarises the cardiovascular, respiratory and immune challenges faced by individuals with Down syndrome, and the genetic underpinnings of their pathobiology. We strongly advocate increased comparative studies of cardiopulmonary disease in persons with and without Down syndrome, as we believe these will lead to new strategies to prevent and treat diseases affecting millions of people worldwide.

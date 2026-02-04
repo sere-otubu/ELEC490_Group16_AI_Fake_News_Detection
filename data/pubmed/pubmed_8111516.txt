@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 8111516)
-    QUESTION: Do family physicians make good sentinels for influenza?
-    CONTEXT: To determine whether volunteer family physician reports of the frequency of influenza-like illness (ILI) usefully supplement information from other influenza surveillance systems conducted by the Centers for Disease Control and Prevention.
-    ANSWER: Family physicians provide sensitive, timely, and accurate community influenza morbidity data that complement data from other surveillance systems. This information enables monitoring of the type, timing, and intensity of influenza activity and can help health care workers implement prevention or control measures.
-    

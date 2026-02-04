@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Eating disorders
-TITLE: Adolescent Eating Disorders: Early Identification and Management in Primary Care.
-PMID: 37855407
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37855407/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Eating disorders are complex, potentially life-threatening conditions characterized by disruptive eating behaviors that significantly impact physical and psychosocial functioning. The adolescent population is at an increased risk of developing eating disorders because of developmental changes affecting their perception. Eating disorders are associated with devastating medical complications and high mortality rates if left untreated. As the prevalence of eating disorders among adolescents continues to increase, it is important that clinicians are knowledgeable about early signs of disordered eating and facilitate timely evaluation and care coordination. Newly released clinical guidelines from the American Academy of Pediatrics are reviewed for early identification and management of eating disorders in children and adolescents. The epidemiology, risk factors, and medical complications for common eating disorders in primary care such as anorexia nervosa, bulimia nervosa, and binge eating disorder, are presented. An approach to screening for eating disorders, clinical assessment, and treatment options are outlined.

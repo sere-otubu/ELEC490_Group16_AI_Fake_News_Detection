@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 27288618)
-    QUESTION: Is inhaled prophylactic heparin useful for prevention and Management of Pneumonia in ventilated ICU patients?
-    CONTEXT: To determine whether prophylactic inhaled heparin is effective for the prevention and treatment of pneumonia patients receiving mechanical ventilation (MV) in the intensive care unit.
-    ANSWER: Nebulized heparin cannot be recommended for prophylaxis against VAP or to hasten recovery from pneumonia in patients receiving MV.
-    

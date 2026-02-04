@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Childhood obesity
-TITLE: Childhood Obesity, Diabetes. and Cardiovascular Disease Risk.
-PMID: 37319430
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37319430/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This mini-review aims to briefly summarize the pathophysiology of childhood obesity, type 2 diabetes mellitus (T2DM), and cardiovascular disease (CVD) risk in children and adolescents. Recent data on efficacy of lifestyle interventions, medications, and metabolic surgery for obesity, T2DM, and CVD risk factors are also reviewed. We conducted a PubMed search of English-language original and review articles relevant to childhood obesity, T2DM, and CVD risk factors, and biomarkers in children with an emphasis on recent publications. Childhood obesity arises from an intricate interaction between genetic, physiologic, environmental, and socioeconomic factors. The rise in the prevalence of childhood obesity is associated with the development of comorbidities including T2DM and CVD at an early age. A multipronged approach is central to the detection, monitoring, and management of childhood obesity and associated adverse metabolic consequences.

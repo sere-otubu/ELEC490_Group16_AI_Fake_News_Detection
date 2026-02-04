@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25406780)
-    QUESTION: Does skin care frequency affect the severity of incontinence-associated dermatitis in critically ill patients?
-    CONTEXT: Incontinence-associated dermatitis (IAD) is a potentially serious skin injury that can lead to pressure ulcers (PUs). Multiple studies have indicated the need for evidence to find the most effective skin care protocol to reduce the incidence and severity of IAD in critically ill patients.
-    ANSWER: The researchers studied a defined skin care protocol using a cleanser with aloe vera and a cleansing lotion, followed by application of either a moisture barrier with silicone or skin protectant with zinc oxide and menthol, undertaken at two different frequencies. Data revealed the incidence of moderate IAD was decreased in the experimental group (receiving the skin protocol every 6 hours and p.r.n.).
-    

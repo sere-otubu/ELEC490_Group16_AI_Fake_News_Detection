@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Social anxiety
-TITLE: Social anxiety is associated with greater peripheral oxytocin reactivity to psychosocial stress.
-PMID: 35306471
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35306471/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To date, it has been difficult to establish reliable biomarkers associated with specific forms of psychopathology. Social anxiety, for example, is associated with inconsistent biological responses to psychosocial stress on markers including cortisol and salivary alpha-amylase. Thus, it is critical that studies identify more reliable biomarkers that index patterns associated with social anxiety. Two potential candidates are the neuropeptides oxytocin and vasopressin, which have been implicated in stress responsivity across species. Studies have demonstrated a reliable increase in oxytocin, and a surrogate marker for vasopressin, following engagement in the most widely used lab-based psychosocial stress paradigm: the Trier Social Stress Test (TSST). However, no study has examined whether social anxiety moderates peripheral oxytocin or vasopressin reactivity to psychosocial stress. In 101 young adult participants, dimensionally assessed social anxiety was associated with greater plasma oxytocin, but not vasopressin, reactivity to the TSST. Results were maintained following the inclusion of depression as a covariate. Findings suggest that studying changes in peripheral oxytocin concentrations may be a method of differentiating individuals with higher levels of social anxiety.

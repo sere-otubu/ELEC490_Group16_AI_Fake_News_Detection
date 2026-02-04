@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Healthcare accessibility
-TITLE: Inequality and the health-care system in the USA.
-PMID: 28402825
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28402825/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Widening economic inequality in the USA has been accompanied by increasing disparities in health outcomes. The life expectancy of the wealthiest Americans now exceeds that of the poorest by 10-15 years. This report, part of a Series on health and inequality in the USA, focuses on how the health-care system, which could reduce income-based disparities in health, instead often exacerbates them. Other articles in this Series address population health inequalities, and the health effects of racism, mass incarceration, and the Affordable Care Act (ACA). Poor Americans have worse access to care than do wealthy Americans, partly because many remain uninsured despite coverage expansions since 2010 due to the ACA. For individuals with private insurance, rising premiums and cost sharing have undermined wage gains and driven many households into debt and even bankruptcy. Meanwhile, the share of health-care resources devoted to care of the wealthy has risen. Additional reforms that move forward, rather than backward, from the ACA are sorely needed to mitigate health and health-care inequalities and reduce the financial burdens of medical care borne by non-wealthy Americans.

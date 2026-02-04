@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Carbohydrates types
-TITLE: Bioethanol production from fermentable sugar juice.
-PMID: 24715820
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24715820/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Bioethanol production from renewable sources to be used in transportation is now an increasing demand worldwide due to continuous depletion of fossil fuels, economic and political crises, and growing concern on environmental safety. Mainly, three types of raw materials, that is, sugar juice, starchy crops, and lignocellulosic materials, are being used for this purpose. This paper will investigate ethanol production from free sugar containing juices obtained from some energy crops such as sugarcane, sugar beet, and sweet sorghum that are the most attractive choice because of their cost-effectiveness and feasibility to use. Three types of fermentation process (batch, fed-batch, and continuous) are employed in ethanol production from these sugar juices. The most common microorganism used in fermentation from its history is the yeast, especially, Saccharomyces cerevisiae, though the bacterial species Zymomonas mobilis is also potentially used nowadays for this purpose. A number of factors related to the fermentation greatly influences the process and their optimization is the key point for efficient ethanol production from these feedstocks.

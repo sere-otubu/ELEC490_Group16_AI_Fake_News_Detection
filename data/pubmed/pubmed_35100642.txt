@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Addisons disease
-TITLE: [Adrenal gland diseases: Addison's Disease].
-PMID: 35100642
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35100642/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Addison's disease typically results from the autoimmune destruction of the adrenal cortex and requires lifelong replacement with glucocorticoids and mineralocorticoids. Main symptoms are non-specific and, therefore, often overlooked or misleading. Patients are frequently not diagnosed until experiencing a life-threatening adrenal crisis. This article highlights the essential clinical characteristics, diagnostic aspects and principles of management of adrenal insufficiency.

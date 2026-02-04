@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antibiotic resistance
-TITLE: General principles of antibiotic resistance in bacteria.
-PMID: 24847651
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24847651/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Given the impact of antibiotic resistance on human health, its study is of great interest from a clinical view- point. In addition, antibiotic resistance is one of the few examples of evolution that can be studied in real time. Knowing the general principles involved in the acquisition of antibiotic resistance is therefore of interest to clinicians, evolutionary biologists and ecologists. The origin of antibiotic resistance genes now possessed by human pathogens can be traced back to environmental microorganisms. Consequently, a full understanding of the evolution of antibiotic resistance requires the study of natural environments as well as clinical ecosystems. Updated information on the evolutionary mechanisms behind resistance, indicates that ecological connectivity, founder effect and fitness costs are important bottle- necks that modulate the transfer of resistance from environmental microorganisms to pathogens.

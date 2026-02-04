@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Neurotransmitters
-TITLE: Therapeutics of Neurotransmitters in Alzheimer's Disease.
-PMID: 28211810
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28211810/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Alzheimer's disease (AD) is a progressive neurodegenerative disease, characterized by the loss of memory, multiple cognitive impairments and changes in the personality and behavior. Several decades of intense research have revealed that multiple cellular changes are involved in disease process, including synaptic damage, mitochondrial abnormalities and inflammatory responses, in addition to formation and accumulation of amyloid-β (Aβ) and phosphorylated tau. Although tremendous progress has been made in understanding the impact of neurotransmitters in the progression and pathogenesis of AD, we still do not have a drug molecule associated with neurotransmitter(s) that can delay disease process in elderly individuals and/or restore cognitive functions in AD patients. The purpose of our article is to assess the latest developments in neurotransmitters research using cell and mouse models of AD. We also updated the current status of clinical trials using neurotransmitters' agonists/antagonists in AD.

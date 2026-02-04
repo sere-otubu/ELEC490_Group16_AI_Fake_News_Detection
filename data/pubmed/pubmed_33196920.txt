@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Laparoscopic surgery
-TITLE: Laparoscopic surgery for splenic injuries in the era of non-operative management: current status and future perspectives.
-PMID: 33196920
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33196920/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The spleen is one of the organs most commonly injured by blunt abdominal trauma. It plays an important role in immune response to infections, especially those sustained by encapsulated bacteria. Nonoperative management (NOM), comprising clinical and radiological observation with or without angioembolization, is the treatment of choice for traumatic splenic injury in patients who are hemodynamically stable. However, this strategy carries a risk of failure, especially for high-grade injuries. No clear predictors of failure have been identified, but minimally invasive surgery for splenic injury is gaining popularity. Laparoscopic surgery has been proposed as an alternative to open surgery for hemodynamically stable patients who require surgery, such as after failed NOM. We reviewed research articles on laparoscopic surgery for hemodynamically stable patients with splenic trauma to explore the current knowledge about this topic. After presenting an overview of the treatments for splenic trauma and the immunological function of the spleen, we try to identify the future indications for laparoscopic surgery in the era of NOM.

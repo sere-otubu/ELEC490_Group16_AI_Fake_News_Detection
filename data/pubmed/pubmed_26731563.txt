@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ovarian cancer
-TITLE: Ovarian cancer: epidemiology and risk factors.
-PMID: 26731563
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26731563/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The present overview of ovarian cancer epidemiology summarizes the main results for a network of case-control studies in Italy and from the Collaborative Group on Epidemiological Studies of Ovarian Cancer. There are consistent inverse relations between parity, oral contraceptive use and the risk of ovarian cancer. For other menstrual and hormonal factors (i.e. early age at menarche and late menopause), there are established associations, but of limited impact on ovarian cancer incidence on a population level. Serous and endometrioid ovarian cancers (but not mucinous or clear cell types) are related to current and recent use of hormone replacement therapy in menopause. There are no strong associations with alcohol and tobacco overall, but a direct link for tobacco with (borderline) mucinous cancers, of limited impact, however, on overall ovarian cancer mortality. There are direct associations of ovarian cancer risk with height and BMI, as well as possible relations with selected dietary factors - in the absence, however, of consistent findings - and a possible inverse association with physical activity. There is a strong association with a family history of ovarian cancer (and a few selected other neoplasms, including colorectum and endometrium). Recognized risk factors explain only a limited proportion of ovarian cancer cases on a population level. A key reason for the recent favourable trends of ovarian cancer incidence and mortality in several high-income countries is the widespread use of oral contraceptive in the generations born after 1930.

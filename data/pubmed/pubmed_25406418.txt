@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Evidence based medicine
-TITLE: Underdetermination in evidence-based medicine.
-PMID: 25406418
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25406418/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This article explores the philosophical implications of evidence-based medicine's (EBM's) epistemology in terms of the problem of underdetermination of theory by evidence as expounded by the Duhem-Quine thesis. EBM hierarchies of evidence privilege clinical research over basic science, exacerbating the problem of underdetermination. Because of severe underdetermination, EBM is unable to meaningfully test core medical beliefs that form the basis of our understanding of disease and therapeutics. As a result, EBM adopts an epistemic attitude that is sceptical of explanations from the basic biological sciences, and is relegated to a view of disease at a population level. EBM's epistemic attitude provides a limited research heuristic by preventing the development of a theoretical framework required for understanding disease mechanism and integrating knowledge to develop new therapies. Medical epistemology should remain pluralistic and include complementary approaches of basic science and clinical research, thus avoiding the limited epistemic attitude entailed by EBM hierarchies.

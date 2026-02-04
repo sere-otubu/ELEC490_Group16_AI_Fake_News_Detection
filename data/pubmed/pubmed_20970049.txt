@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Endocrine system
-TITLE: Endocrine system and obesity.
-PMID: 20970049
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20970049/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Obesity is associated with significant alterations in endocrine function. An association with type 2 diabetes mellitus and dyslipidemia has been well documented. This article highlights the complexities of treating endocrine system disorders in obese patients.

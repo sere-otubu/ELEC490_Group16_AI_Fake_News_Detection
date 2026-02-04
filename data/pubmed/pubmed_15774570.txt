@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 15774570)
-    QUESTION: Does increased use of private health care reduce the demand for NHS care?
-    CONTEXT: The use of the private sector for health care is increasing, but it is unclear whether this will reduce demand on the NHS. The aim of this study was to examine the relationship between private and NHS outpatient referral rates accounting for their association with deprivation.
-    ANSWER: Increased private health care activity does not reduce the demand for NHS care: NHS and private referral rates were positively associated with each other after adjusting for age, deprivation and practice.
-    

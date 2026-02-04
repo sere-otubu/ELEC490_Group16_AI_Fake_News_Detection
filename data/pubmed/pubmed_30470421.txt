@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Traumatic brain injury
-TITLE: Rehabilitation of Cognitive Dysfunction Following Traumatic Brain Injury.
-PMID: 30470421
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30470421/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This article outlines key principles and considerations in the rehabilitation of cognitive challenges following mild, moderate, and severe traumatic brain injuries, with a focus on the needs of the service member and veteran population. The authors highlight specific evidence-based strategies and interventions and provide functional examples to support implementation. By emphasizing the array of tools and resources that have been designed to address cognitive challenges in the service member and veteran population, they focus on optimizing cognition to support successful community reintegration and the resumption of a full and meaningful life.

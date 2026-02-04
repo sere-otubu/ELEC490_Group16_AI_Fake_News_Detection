@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Seasonal allergies
-TITLE: Inhalant allergies in children.
-PMID: 21621062
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21621062/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Children with chronic or recurrent upper respiratory inflammatory disease (rhinitis) should be considered for inhalant allergies. Risk factors for inhalant allergies in children include a first-degree relative with allergies, food allergy in infancy, and atopic dermatitis. Although inhalant allergies are rare in infancy, inhalant allergies are common in older children and impair quality of life and productivity. Differentiating between viral and allergic rhinitis can be challenging in children, but the child's age, history, and risk factors can provide helpful information. Allergic rhinitis is a risk factor for asthma, and if one is present, medical consideration of the other is warranted.

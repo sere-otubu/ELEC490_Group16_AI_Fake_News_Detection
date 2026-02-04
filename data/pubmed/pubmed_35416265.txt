@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Angioplasty
-TITLE: Microvascular Patch Graft Angioplasty of the Common Carotid Arteries in Rats.
-PMID: 35416265
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35416265/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To provide a training model for microvascular patch graft angioplasty of the common carotid arteries (CCAs) in rats. Using male Sprague-Dawley rats (n=20), an oval-shaped arterial patch 3 mm in length and 1.2 mm in width was prepared from a segment of left CCA, and a linear longitudinal arteriotomy 3 mm in length was made along the anterior aspect of the right CCA, then the arterial patch graft was anastomosed to the right CCA with 10-0 sutures in an interrupted fashion. Patency was assessed immediately and 30 minutes after the procedure. All microvascular patch graft angioplasties of the rat common carotid arteries were successful, and all the patency rates immediately after the operation and thirty minutes after the restoration of blood flow were 100%. The training model for microvascular patch angioplasty with rat CCAs can serve as a training tool for mastering the procedure, and this technique could provide an alternative strategy for the surgical repair of microvascular aneurysms and microvascular vessel injuries.

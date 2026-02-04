@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Plant based protein
-TITLE: Glyco-Engineering of Plant-Based Expression Systems.
-PMID: 30069741
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30069741/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Most secreted proteins in eukaryotes are glycosylated, and after a number of common biosynthesis steps the glycan structures mature in a species-dependent manner. Therefore, human therapeutic proteins produced in plants often carry plant-like rather than human-like glycans, which can affect protein stability, biological function, and immunogenicity. The glyco-engineering of plant-based expression systems began as a strategy to eliminate plant-like glycans and produce human proteins with authentic or at least compatible glycan structures. The precise replication of human glycans is challenging, owing to the absence of a pathway in plants for the synthesis of sialylated proteins and the necessary precursors, but this can now be achieved by the coordinated expression of multiple human enzymes. Although the research community has focused on the removal of plant glycans and their replacement with human counterparts, the presence of plant glycans on proteins can also provide benefits, such as boosting the immunogenicity of some vaccines, facilitating the interaction between therapeutic proteins and their receptors, and increasing the efficacy of antibody effector functions. Graphical Abstract Typical structures of native mammalian and plant glycans with symbols indicating sugar residues identified by their short form and single-letter codes. Both glycans contain fucose, albeit with different linkages.

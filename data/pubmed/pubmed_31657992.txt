@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Type 1 Diabetes
-TITLE: Type 1 Diabetes Mellitus (Juvenile Diabetes) - A Review for the Pediatric Oral Health Provider.
-PMID: 31657992
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31657992/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-<b>Objective</b>: To describe the significance of type 1 diabetes mellitus (juvenile diabetes) to the pediatric oral health provider. <b>Relevance</b>: The oral health provider must be aware of type 1 diabetes mellitus (T1DM) characteristics, influence of on oral health, each patient pre-operative diabetic management, symptoms and treatment of hypo and hyper-glycemia, and the clinical implications before, during and after treatment of children with T1DM. <b>Study design</b>: A review of the scientific literature about the T1DM influence on dental development, caries prevalence, gingival and periodontal diseases, wound healing, salivary and taste dysfunction, oral infections, and the factors that must be taken in consideration before, during and after oral treatment of children with T1DM is presented. <b>Conclusion</b>: The increasing prevalence of T1DB in children strongly emphasizes the need for oral health providers to be aware of the complicacy of the treatment aimed to obtain and maintain acceptable blood glucose levels in diabetic children, the effect of diabetes on the oral cavity, the possible serious complications due to hypo- or hyper glycemia before, during and after oral treatments, the effect of stress on blood glucose levels, and the special behavioral interaction between the diabetic child, his/her family and the oral health providers.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cataract surgery
-TITLE: How much does cataract surgery contribute to intraocular pressure lowering?
-PMID: 38018796
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38018796/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To review the literature evaluating the effect of cataract surgery on intraocular pressure (IOP) in patients with glaucoma. Recent high-quality secondary analyses of large and primary trials continue to show IOP lowering following cataract surgery. Likewise, cataract surgery remains a key treatment for angle closure glaucoma. Some micro-invasive glaucoma surgeries (MIGS) have strong evidence to be performed at the time of cataract surgery. Data clarifying when these surgeries should be combined with cataract surgery is emerging. The mechanism underlying IOP lowering after cataract surgery remains unclear. Patients who are glaucoma suspects with visually significant cataracts would benefit from cataract surgery alone. Those with mild-moderate damage on 1-2 classes of medications would most likely benefit from additional MIGS. Patients with advanced disease would benefit from cataract surgery and a choice of additional surgery, which depends on disease status and patient factors. Clear lens extraction is becoming a more accepted practice as a primary procedure for patients with angle closure and high IOP or glaucoma. The role of additional MIGS in angle closure needs further study.

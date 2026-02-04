@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Smoking cessation
-TITLE: Smoking cessation.
-PMID: 11490141
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11490141/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Smoking cessation has been shown to be cost effective, even in older individuals. It is therefore important that this health promotion is not missed in this vulnerable group.

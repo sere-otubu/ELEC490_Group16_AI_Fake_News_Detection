@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Root canal
-TITLE: 'Usage' testing of root canal sealing materials--a personal view.
-PMID: 1280657
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1280657/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A number of systems for the biological testing of dental materials have been suggested. This paper reviews the protocols suggested in the ISO standards for the in-use or 'usage' tests for root canal sealing materials.

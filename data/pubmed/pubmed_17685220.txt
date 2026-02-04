@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chromosomes
-TITLE: [Comparative chromosomics].
-PMID: 17685220
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17685220/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In the presented review features of the organization and evolution of chromosomes and genomes of animals, first of all mammals are discussed. Modern basic approaches to comparative genomes mapping are described.

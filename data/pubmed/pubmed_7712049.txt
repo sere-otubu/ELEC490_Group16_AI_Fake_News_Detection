@@ -1,8 +1,0 @@
-SEARCH_TOPIC: White blood cells
-TITLE: The relationship between white blood cells and arterial disease.
-PMID: 7712049
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7712049/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The white blood cell is conventionally associated with the processes of inflammation and immunity. Epidemiological and behavioural studies are now showing a link between the white blood cell and vascular disease. This cell can contribute both to atherogenesis and to thrombosis, and is important in contributing to reperfusion injury through the generation of free radicals. Recent evidence in support of the white blood cell as a new risk factor for vascular disease is evaluated in this review.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chromosomes
-TITLE: The X chromosome and male infertility.
-PMID: 31875237
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31875237/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The X chromosome is a key player in germ cell development, as has been highlighted for males in previous studies revealing that the mammalian X chromosome is enriched in genes expressed in early spermatogenesis. In this review, we focus on the X chromosome's unique biology as associated with human male infertility. Male infertility is most commonly caused by spermatogenic defects to which X chromosome dosage is closely linked; for example, any supernumerary X chromosome as in Klinefelter syndrome will lead to male infertility. Furthermore, because males normally only have a single X chromosome and because X-linked genetic anomalies are generally only present in a single copy in males, any loss-of-function mutations in single-copy X-chromosomal genes cannot be compensated by a normal allele. These features make X-linked genes particularly attractive for studying male spermatogenic failure. However, to date, only very few genetic causes have been identified as being definitively responsible for male infertility in humans. Although genetic studies of germ cell-enriched X-chromosomal genes in mice suggest a role of certain human orthologs in infertile men, these genes in mice and humans have striking evolutionary differences. Furthermore, the complexity and highly repetitive structure of the X chromosome hinder the mutational analysis of X-linked genes in humans. Therefore, we conclude that additional methodological approaches are urgently warranted to advance our understanding of the genetics of X-linked male infertility.

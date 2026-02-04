@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Skin cancer prevention
-TITLE: Skin cancer: Primary, secondary, and tertiary prevention. Part I.
-PMID: 35176397
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35176397/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Skin cancer is the most commonly diagnosed cancer worldwide. Understanding the natural history of skin cancer provides the framework for the creation of prevention and control strategies that aim to reduce the skin cancer burden. Based on the target (individual vs population), disease stage, and risk factors (modifiable vs nonmodifiable), strategies can be categorized into 4 levels-health promotion (also known as primordial prevention), primary prevention, secondary prevention, and tertiary prevention. This is the first of a 2-part review, which will cover the epidemiology, risk factors, primordial prevention, and primary prevention of melanoma and keratinocyte skin cancers. In particular, we highlight preventive strategies centered on mitigating the impact of modifiable risk factors and potential interventions for health promotion and primary prevention of skin cancer. Summaries of existing recommendations, challenges, opportunities, and future directions are also discussed.

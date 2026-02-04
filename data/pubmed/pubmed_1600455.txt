@@ -1,8 +1,0 @@
-SEARCH_TOPIC: First aid basics
-TITLE: First-aid supplies for backpacking.
-PMID: 1600455
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1600455/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A portable first-aid kit should be carried in the backpack of campers, hikers, and anyone who expects to spend time in a remote and unoccupied area. That is the recommendation found in lay texts dealing with medical care, in backpacking books, as well as in articles appearing in popular magazines. It goes without saying that it is far better to practise safety and prevention than to have to use first aid. However, many times medical problems occur which no amount of safety and forethought could have prevented. Information in this paper indicates that hikers are generally well prepared for the health-related problems they encounter. Hikers carry diverse supplies to meet health problems but there are some basic supplies with which hikers start their long-distance sojourn. Those supplies and their usage rates are discussed, as are attitudes toward using the supplies.

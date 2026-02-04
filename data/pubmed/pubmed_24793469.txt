@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24793469)
-    QUESTION: Is there any relation between cervical cord plaques and discopathy in patients with multiple sclerosis?
-    CONTEXT: Multiple sclerosis (MS) is the most common chronic autoimmune demyelinating disease of the central nervous system. The purpose of this study is to determine the relationship between the site of the cervical discopathy and cervical spinal cord plaque in MS patients.
-    ANSWER: The study data suggests a possible correlation between cervical discopathy and cervical MS plaque.
-    

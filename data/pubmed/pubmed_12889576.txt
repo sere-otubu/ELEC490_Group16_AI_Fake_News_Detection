@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Environmental health
-TITLE: Upstream reflections on environmental health: an abbreviated history and framework for action.
-PMID: 12889576
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12889576/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Upstream thinking considers the social, economic, and environmental origins of health problems that manifest at the population level. The upstream thinking perspective is applied to an examination of environmentally associated health problems and the opportunities that citizens have (or do not have) to access information and resources to make health-promoting choices in response to environmental health risks. A proposed framework for nurses to reduce environmental health risks includes distributive and strategic actions. Distributive actions include tracking, embedding, and translating; strategic actions include discovering through etiologic research, discovering through community-based research, advocating, and reframing. Together these actions can help formalize nursing's role in responding to citizens' concerns about environmental health problems.

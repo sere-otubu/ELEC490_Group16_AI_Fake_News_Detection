@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hospice care
-TITLE: Patients with haematological malignancies should not have to choose between transfusions and hospice care.
-PMID: 32359453
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32359453/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hospice programmes are important for providing end-of-life care to patients with life-limiting illnesses. Hospice enrolment improves quality of life for patients with advanced cancer and reduces the risk of depression for caregivers. Despite the clear benefits of hospice care, patients with haematological malignancies have the lowest rates of enrolment among patients with any tumour subtype. Furthermore, when patients with haematological disorders do enrol into hospice care, they are more likely to do so within 3 days of death than are patients with non-haematological malignancies. Although reasons for low and late hospice use in this population are multifactorial, a key barrier is limited access to blood transfusions in hospice programmes. In this Viewpoint, we discuss the relationship between transfusion dependence and hospice use for patients with blood cancers. We suggest that rather than constraining patients into either transfusion or hospice models, policies that promote combining palliative transfusions with hospice services are likely to optimise end-of-life care for patients with haematological malignancies.

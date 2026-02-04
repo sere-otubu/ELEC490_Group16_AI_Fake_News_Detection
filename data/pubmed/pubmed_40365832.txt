@@ -1,8 +1,0 @@
-SEARCH_TOPIC: DNA structure
-TITLE: Crystal structure of ATP-dependent DNA ligase from Rhizobium phage vB_RleM_P10VF.
-PMID: 40365832
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40365832/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-DNA ligases are foundational molecular-biological tools used for cloning and sequencing workflows, and are essential replicative enzymes for all cellular life forms as well as many viruses and bacteriophage. There is considerable interest in structurally and functionally characterizing novel DNA ligases and profiling their suitability for molecular-biological applications. Here, we report the crystal structure of the ATP-dependent DNA ligase from the Rhizobium phage vB_RleM_P10VF bound to a nicked DNA duplex determined to 2.2 Å resolution. The enzyme crystallized in the DNA-encircling conformation, arrested as a step 2 intermediate in the catalytic cycle with the adenylating cofactor transferred to the 5'-phosphate of the DNA nick. The overall structure of the DNA ligase closely resembles that of the T4 DNA ligase, including an α-helical globular DNA-binding domain. Several secondary-structural elements are abbreviated in the P10VF DNA ligase relative to the T4 DNA ligase enzyme, which may account for its lower specific activity, especially on DNA substrates containing double-stranded breaks.

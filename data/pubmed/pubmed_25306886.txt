@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hashimotos thyroiditis
-TITLE: Hashimoto's thyroiditis and papillary thyroid cancer: are they immunologically linked?
-PMID: 25306886
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25306886/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hashimoto's thyroiditis (HT) is the most common autoimmune disease in humans frequently leading to hypothyroidism. HT is characterized by a cellular immune response with lymphatic infiltration of the thyroid gland by T and B cells, as well as by a humoral immune response leading to specific antibody production. The synchronous appearance of HT and papillary thyroid cancer (PTC) indicates an immunological link between the two entities. Three different pathomechanisms may be postulated, including preexisting autoimmunity leading to malignancy due to inflammation, immunity towards preexisiting tumor cells leading to specific autoimmunity, and immune tolerance leading to malignancy despite (auto)immunity. In this article we review data describing these potential mechanisms that might lead to the synchronous appearance of HT and PTC.

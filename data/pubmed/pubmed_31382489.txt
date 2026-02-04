@@ -1,8 +1,0 @@
-SEARCH_TOPIC: COPD
-TITLE: Pulmonary Hypertension in COPD: A Case Study and Review of the Literature.
-PMID: 31382489
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31382489/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Pulmonary hypertension (PH) is a frequently encountered complication of chronic obstructive pulmonary disease (COPD) and is associated with worsened clinical symptoms and prognosis. The prevalence of PH-COPD is not concretely established as classification criteria vary historically, but the presence of severe disease out of proportion to underlying COPD is relatively rare. Right heart catheterization, the gold standard in diagnosis of PH, is infrequently performed in COPD, and the overlap in the clinical symptoms of PH and COPD presents diagnostic challenges. Proven treatments are limited. Trials exploring the use of vasodilator therapy in this patient group generally demonstrate improvements in hemodynamics accompanied by worsening gas exchange without clearly demonstrated improvements in clinically meaningful outcomes. In-depth workup of underlying pulmonary hypertension and use of pulmonary vasodilator medications may be appropriate on an individual basis. We present a case study and a review and discussion of the pertinent literature on this topic.

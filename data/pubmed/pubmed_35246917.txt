@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Health insurance systems
-TITLE: Health insurance coverage and health outcomes among transgender adults in the United States.
-PMID: 35246917
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35246917/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This study provides evidence of health and insurance coverage disparities between the cisgender and transgender US populations using repeated cross sections from the 2014-2020 Behavioral Risk Factors Surveillance Systems. The analysis tests whether increasing the incidence of insurance coverage among transgender people could alleviate the health disparity. The empirical approach uses a fuzzy regression discontinuity design that leverages breaks in government health assistance eligibility by age. Results indicate that, for transgender recipients only, insurance coverage meaningfully improves mental health; for cisgender recipients only, insurance coverage reduces difficulties with concentration and memory; and for both the transgender and cisgender populations, insurance coverage contributes to important improvements in physical health, overall health, and healthcare access.

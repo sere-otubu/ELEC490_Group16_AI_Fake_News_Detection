@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Stroke
-TITLE: Post-stroke epilepsy.
-PMID: 11389801
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11389801/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Seizures occur in about 10% of stroke patients. Hence, stroke is the most common cause of seizures and epilepsy in the elderly population. Five percent are early-onset seizures (peak onset within the first day after the stroke) and another 5% are late-onset seizures (peak onset within 6 to 12 months after the stroke). Epilepsy (i.e., recurrent seizures) develops in 3% to 4% of the stroke patients (in about one third of the patients with early-onset seizures and about one half of the patients with late-onset seizures). There is a strong positive correlation between stroke severity and the risk of post-stroke seizures; the risk is very low in mild strokes. Seizures are more common in hemorrhagic stroke and in stroke with cortical involvement. Whether this is due to the hemorrhagic component or the cortical involvement per se, or a reflection of more severe strokes among patients with hemorrhagic strokes and lesions involving cortical structures, is not clear. The influence of seizures on outcome is still a matter of controversy. Although epileptic seizures are considered easy to control, this is not supported by evidence from randomized controlled trials.

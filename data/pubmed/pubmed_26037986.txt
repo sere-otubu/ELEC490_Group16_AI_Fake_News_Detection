@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26037986)
-    QUESTION: 30-Day and 1-year mortality in emergency general surgery laparotomies: an area of concern and need for improvement?
-    CONTEXT: Emergency surgery is associated with poorer outcomes and higher mortality with recent studies suggesting the 30-day mortality to be 14-15%. The aim of this study was to analyse the 30-day mortality, age-related 30-day mortality and 1-year mortality following emergency laparotomy. We hope this will encourage prospective data collection, improvement of care and initiate strategies to establish best practice in this area.
-    ANSWER: Emergency laparotomy carries a high rate of mortality, especially in those over the age of 70 years, and more needs to be done to improve outcomes, particularly in this group. This could involve increasing acute surgical care manpower, early recognition of patients requiring emergency surgery, development of clear management protocols for such patients or perhaps even considering centralisation of emergency surgical services to specialist centres with multidisciplinary teams involving emergency surgeons and care of the elderly physicians in hospital and related community outreach services for post-discharge care.
-    

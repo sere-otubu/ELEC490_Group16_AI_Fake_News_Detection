@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Skeletal system
-TITLE: Physiologic Changes of the Musculoskeletal System with Aging: A Brief Review.
-PMID: 29031337
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29031337/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Aging is one of the important challenges of modern society. Advanced adult age is associated with changes in many physiologic systems. Of particular interest is the musculoskeletal system because it directly contributes to mobility and functional independence. Skeletal muscle mass and strength decline with age. These changes are mostly due to a reduction in the number of muscle fibers and cellular and molecular changes that reduce the force-generation process. Bone mass and architecture are compromised and may result in fractures. Tendons and ligaments undergo significant biochemical alterations that directly compromise their biomechanical function.

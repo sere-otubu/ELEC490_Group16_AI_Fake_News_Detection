@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 11570976)
-    QUESTION: Is it Crohn's disease?
-    CONTEXT: Sulfasalazine is a widely used anti-inflammatory agent in the treatment of inflammatory bowel disease and several rheumatological disorders. Although as many as 20% of treated patients may experience reversible, dose-dependent side effects, less frequent but potentially severe, systemic reactions have also been reported.
-    ANSWER: Granulomatous myelotoxicity and enteritis developed in a 21 year old female within 3 weeks of initiating sulfasalazine for rheumatoid arthritis. Following a short course of corticosteroids, the patient had resolution of her cholestatic hepatitis, rash, eosinophilia, and gastrointestinal symptoms with no residual manifestations at 7 months follow-up. Although severe reactions to sulfasalazine are rare and unpredictable, practicing physicians should be aware of unusual clinical presentations of toxicity when prescribing sulfasalazine.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Red blood cells
-TITLE: The emerging role of red blood cells in cytokine signalling and modulating immune cells.
-PMID: 31812320
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31812320/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-For many years red blood cells have been described as inert bystanders rather than participants in intercellular signalling, immune function, and inflammatory processes. However, studies are now reporting that red blood cells from healthy individuals regulate immune cell activity and maturation, and red blood cells from disease cohorts are dysfunctional. These cells have now been shown to bind more than 50 cytokines and have been described as a sink for these molecules, and the loss of this activity has been correlated with disease progression. In this review, we summarise what is currently understood about the role of red blood cells in cytokine signalling and in modulating the activity of immune cells. We also discuss the implications of these findings for transfusion medicine and in furthering our understanding of anaemia of chronic inflammation. By bringing these disparate units of work together, we aim to shine a light on an area that requires significantly more investigation.

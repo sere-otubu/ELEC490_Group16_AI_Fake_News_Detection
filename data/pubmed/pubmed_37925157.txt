@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cholera
-TITLE: Nanoparticles-based technologies for cholera detection and therapy.
-PMID: 37925157
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37925157/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cholera is a waterborne disease caused by Vibrio cholerae bacteria generally transmitted through contaminated food or water sources. Although it has been eradicated in most Western countries, cholera continues to be a highly transmitted and lethal disease in several African and Southeast Asian countries. Unfortunately, current diagnostic methods for cholera have challenges including high cost or delayed diagnoses that can lead to increased disease transmission during pandemics, while current treatments such as therapeutic drugs and vaccines have limited efficacy against drug-resistant serogroups of Vibrio cholerae. As such, new solutions that can treat cholera in an efficient manner that avoids Vibrio cholerae's adaptive immunity are needed. Nanoparticles (NPs) are a suitable platform for enhancing current theranostic tools because of their biocompatibility and ability to improve drug circulation and targeting. Nanoparticle surfaces can also be modified with various protein receptors targeting cholera toxins produced by Vibrio cholerae. This review will address recent developments in diagnostics, therapeutics, and prevention against cholera particularly focusing on the use of metal-based nanoparticles and organic nanoparticles. We will then discuss future directions regarding nanoparticle research for cholera.

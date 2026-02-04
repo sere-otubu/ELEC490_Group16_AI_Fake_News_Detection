@@ -1,8 +1,0 @@
-SEARCH_TOPIC: HPV infection
-TITLE: HPV infection in men.
-PMID: 17627061
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17627061/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-While much is known about the natural history of cervical human papillomavirus (HPV) infection and its consequences, including cervical intraepithelial neoplasia and cervical cancer, relatively little is known about the natural history of anogenital HPV infection and diseases in men. In part this reflects difficulties in penile sampling and visual assessment of penile lesions. Anal HPV infection and disease also remain poorly understood. Although HPV is transmitted sexually and infects the genitals of both sexes, the cervix remains biologically more vulnerable to malignant transformation than does the penis or anus in men. An understanding of male HPV infection is therefore important in terms of reducing transmission of HPV to women and improving women's health. However, it is also important due to the burden of disease in men, who may develop both penile and anal cancer, particularly among HIV-positive men who have sex with men. Improved sampling techniques of the male genitalia and cohort studies in progress should provide important information on the natural history of anogenital HPV infection and disease in men, including risk factors for HPV acquisition and transmission. The impact of HPV vaccination in women on male anogenital HPV infection will also need to be assessed.

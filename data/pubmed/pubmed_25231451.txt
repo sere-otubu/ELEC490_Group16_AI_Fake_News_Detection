@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hashimotos thyroiditis
-TITLE: Clinical aspects of Hashimoto's thyroiditis.
-PMID: 25231451
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25231451/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hashimoto's thyroiditis (HT) is one of the commonest autoimmune endocrine diseases in the paediatric age group. It is considered a typical, organ-specific, autoimmune disease, characterized by autoimmune-mediated destruction of the thyroid gland. The diagnosis is suggested by a typical ultrasound pattern and by the presence of antithyroid antibodies. Attention must be taken with obese children as they may have an echographic pattern very similar to that observed in patients with HT, without being affected. HT is frequently associated with other autoimmune diseases such as alopecia, vitiligo, coeliac disease and type 1 insulin-dependent diabetes. Thyroid function at presentation may be variable, ranging from a transient hyperthyroid phase to frank hypothyroidism. Treatment with L-thyroxine should be started promptly in the presence of frank hypothyroidism while more debated is the optimal management of patients without symptoms and a normal free thyroxine but with a slightly elevated thyroid-stimulating hormone (TSH) between the upper reference level and 10 µU/ml. Since there is no convincing evidence to show negative effects on growth and cognitive function, a suggestion would be to avoid treatment with L-thyroxine unless TSH remains constantly above 10 µU/ml. More evidence is needed before treatment with selenium may be recommended.

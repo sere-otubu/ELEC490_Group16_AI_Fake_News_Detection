@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Multiple sclerosis
-TITLE: Polypharmacy in Multiple Sclerosis: Prevalence, Risks, and Mitigation Strategies.
-PMID: 37523105
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37523105/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Polypharmacy, the use of ≥ 5 medications, is common in people with multiple sclerosis and is associated with negative outcomes. The use of multiple medications is common for symptom management in people with multiple sclerosis, but risks drug-drug interactions and additive side effects. Multiple sclerosis providers should therefore focus on the appropriateness and risks versus benefits of pharmacotherapy in each patient. This review describes the prevalence and risks associated with polypharmacy in people with multiple sclerosis and offers strategies to identify and mitigate inappropriate polypharmacy. Research in people with multiple sclerosis has identified risk factors and negative outcomes associated with polypharmacy. Medication class-specific investigations highlight their contribution to potentially inappropriate polypharmacy in people with multiple sclerosis. People with multiple sclerosis are at risk for inappropriate polypharmacy. Multiple sclerosis providers should review medications and consider their appropriateness and potential for deprescribing within the context of each patient.

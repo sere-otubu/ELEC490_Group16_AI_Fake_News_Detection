@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Organ donation ethics
-TITLE: Ethics of organ donation and transplantation involving prisoners: the debate extends beyond our borders.
-PMID: 18190416
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18190416/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The transplantation of solid organs raises many ethical considerations, many of which focus on the need to expand the donor pool, the limiting step in achieving ongoing growth in solid organ transplantation. A contentious source of organs, albeit not one practised in Australia or New Zealand, is the retrieval of donor organs from executed prisoners on death row. Although potentially increasing the organ donor pool, the acceptance of such organ donors raises significant ethical and legal concerns. These issues, although not appearing to affect directly and influence Australians, cannot be ignored given our position, both geographical and medical, in the wider Asia-Pacific region.

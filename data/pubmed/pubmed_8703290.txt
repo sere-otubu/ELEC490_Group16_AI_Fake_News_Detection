@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Physical therapy
-TITLE: Physical therapy modalities for wound management.
-PMID: 8703290
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8703290/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-As part of a multidisciplinary team approach to the management of chronic wounds, physical therapists can add certain physical modalities to the care plan. Whirlpool, electrical stimulation, ultrasound, low-energy laser and compression therapy are physical therapy modalities that have been used to enhance wound healing. All of these modalities are used as adjunct treatments that, when appropriate, may help shorten the length of treatment and reduce patient suffering. Because the efficacy of some of these modalities remains to be established in controlled clinical trials, conventional wound care continues to be an important part of the team approach.

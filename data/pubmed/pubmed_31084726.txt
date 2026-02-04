@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood thinners
-TITLE: Optimizing Patient Safety in Dermatologic Surgery.
-PMID: 31084726
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31084726/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Overall, dermatologic surgery performed in the outpatient setting is very low risk to patients and safer than similar procedures performed under general anesthesia, and is also more cost-effective. There are several approaches to mitigating the risk of complications while optimizing patient outcomes. Strict oversight of the dermatology clinic helps to ensure team members all adhere to standards of care. Vial safety, strict hand hygiene, limiting the use of topical antibiotics, generally continuing all blood thinners perioperatively, and prebiopsy photographs are all examples of approaches to help maximize patient safety.

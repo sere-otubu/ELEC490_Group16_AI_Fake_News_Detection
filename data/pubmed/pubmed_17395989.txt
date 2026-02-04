@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antioxidants
-TITLE: Antioxidant measurements.
-PMID: 17395989
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17395989/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chemical reactions, including oxidation and reduction of molecules, occur in every cell. These reactions can lead to the production of free radicals. Free radicals react with organic substrates such as lipids, proteins, and DNA. Through oxidation free radicals cause damage to these molecules, disturbing their normal function, and may therefore contribute to a variety of diseases. The anti-oxidation system, which consists of enzymatic antioxidants and non-enzymatic antioxidants, defends against oxidative stress. The aim of this review is to summarize general aspects of methods to measure the antioxidant defence system all in one (total antioxidant capacity) and discuss a number of methods which are currently used for detection of antioxidant properties.

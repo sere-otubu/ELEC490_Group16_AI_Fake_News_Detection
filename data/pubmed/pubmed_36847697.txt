@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Human brain structure
-TITLE: Deciphering the genetic architecture of human brain structure and function: a brief survey on recent advances of neuroimaging genomics.
-PMID: 36847697
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36847697/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Brain imaging genomics is an emerging interdisciplinary field, where integrated analysis of multimodal medical image-derived phenotypes (IDPs) and multi-omics data, bridging the gap between macroscopic brain phenotypes and their cellular and molecular characteristics. This approach aims to better interpret the genetic architecture and molecular mechanisms associated with brain structure, function and clinical outcomes. More recently, the availability of large-scale imaging and multi-omics datasets from the human brain has afforded the opportunity to the discovering of common genetic variants contributing to the structural and functional IDPs of the human brain. By integrative analyses with functional multi-omics data from the human brain, a set of critical genes, functional genomic regions and neuronal cell types have been identified as significantly associated with brain IDPs. Here, we review the recent advances in the methods and applications of multi-omics integration in brain imaging analysis. We highlight the importance of functional genomic datasets in understanding the biological functions of the identified genes and cell types that are associated with brain IDPs. Moreover, we summarize well-known neuroimaging genetics datasets and discuss challenges and future directions in this field.

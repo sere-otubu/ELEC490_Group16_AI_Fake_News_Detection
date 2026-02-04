@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Statins
-TITLE: Statins in the treatment of depression: Hype or hope?
-PMID: 32652185
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32652185/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Many patients with depression do not respond sufficiently to antidepressant treatment, necessitating other treatment approaches. HMG-CoA reductase inhibitors (i.e. statins), which are frequently used for their cardioprotective properties, have also been studied regarding potential antidepressant effects. Possible mechanisms underlying an antidepressant effect of statins may include the anti-inflammatory, antioxidant and lipid lowering properties of this class of drugs. This review provides an overview of this field by reviewing the following aspects: 1) Candidate mechanisms that could mediate putative antidepressant effects of statins; 2) The evidence for and against antidepressant effects of statins in patients with major depressive disorder and among individuals with a medical disease and depressive symptoms; and 3) The safety of statin treatment. Three small placebo-controlled trials conducted in Iran (total N=172) have found that statins as add-on to selective serotonin reuptake inhibitors (SSRIs) have antidepressant effects in patients with major depressive disorder (MDD). Statin treatment in individuals without MDD do not seem to affect mood or protect against development of depression. Treatment with statins - including the combination with SSRIs - is generally considered to be safe. While the initial evidence for the antidepressant effect of the combination of an SSRI and a statin is promising, larger clinical trials, appropriately powered, and with depression as a pre-defined primary endpoint are needed.

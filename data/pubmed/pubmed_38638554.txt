@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Root canal
-TITLE: CBCT imaging and root canal treatment for taurodontism in mandibular second molar - A case report and literature review.
-PMID: 38638554
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38638554/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The mandibular second molar exhibits a wide range of intricate root canal variations, which can present challenges and difficulties in achieving successful root canal treatment. This report focuses on two specific cases involving a root canal variation in a typical taurodontism of the mandibular second molar. To provide a comprehensive analysis and illustration of the anatomical structure of intraoral taurodontism and the important considerations for root canal treatment, we utilized advanced imaging techniques such as cone beam computed tomography (CBCT) and a dental microscope. By combining these tools, we were able to gain a deeper understanding of the complex root canal system and make informed decisions during the treatment process.

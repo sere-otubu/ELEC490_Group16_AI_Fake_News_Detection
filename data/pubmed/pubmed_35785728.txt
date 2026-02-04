@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Osteoporosis
-TITLE: Crosstalk between the gut microbiota and postmenopausal osteoporosis: Mechanisms and applications.
-PMID: 35785728
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35785728/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Postmenopausal osteoporosis (PMO) results from a reduction in bone mass and microarchitectural deterioration in bone tissue due to estrogen deficiency, which may increase the incidence of fragility fractures. The number of people suffering from PMO has increased over the years because of the rapidly aging population worldwide. However, several pharmacological agents for the treatment of PMO have many safety risks and impose a heavy financial burden to patients and society. In recent years, the "gut-bone" axis has been proposed as a new approach in the prevention and treatment of PMO. This paper reviews the relationship between the gut microbiota and PMO, which mainly includes the underlying mechanisms between hormones, immunity, nutrient metabolism, metabolites of the gut microbiota and intestinal permeability, and explores the possible role of the gut microbiota in these processes. Finally, we discuss the therapeutic effects of diet, prebiotics, probiotics, and fecal microbiota transplantation on the gut microbiota.

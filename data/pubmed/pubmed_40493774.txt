@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cognitive rehabilitation
-TITLE: Cognitive rehabilitation for patients with acquired brain injury.
-PMID: 40493774
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40493774/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Acquired brain injury (ABI) is a major cause of long-term cognitive and functional disability. This review synthesizes recent findings (2023-2025) on four core rehabilitation strategies - physical exercise, cognitive training, noninvasive brain stimulation, and virtual reality - aimed at enhancing cognitive recovery in patients with ABI. Physical exercise promotes neuroplasticity and facilitates both motor and cognitive improvements, especially when delivered early and tailored to individual profiles. Cognitive rehabilitation, particularly when technology-assisted, has demonstrated greater efficacy in enhancing attention, memory, and executive functions compared with conventional approaches. Noninvasive brain stimulation serves as a valuable adjuvant approach, modulating cognition-related cortical networks and augmenting the efficacy of standard rehabilitation protocols. Virtual reality provides immersive and adaptable environments that improve cognitive performance, patient engagement, and psychosocial well-being. Current evidence supports the clinical relevance of integrating multimodal, patient-centered rehabilitation approaches for ABI. Standardization of treatment protocols and identification of response predictors are critical to improve accessibility, efficacy, and scalability. These interventions are particularly relevant in perioperative and critical care settings, where early cognitive recovery may significantly influence long-term neurological and functional outcomes.

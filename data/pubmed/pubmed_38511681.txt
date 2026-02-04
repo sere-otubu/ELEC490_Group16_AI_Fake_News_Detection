@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ergonomics
-TITLE: Overcoming Barriers: Sex Disparity in Surgeon Ergonomics.
-PMID: 38511681
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38511681/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Musculoskeletal discomfort is widely experienced by surgeons across multiple surgical specialties. Developing technologies and new minimally invasive techniques add further complexity and ergonomic stressors. These stressors differentially affect male and female surgeons, but little is known about the role these sex disparities play in surgical ergonomic stress. We reviewed existing literature to better understand how ergonomic stress varies between male and female surgeons. A literature search was performed via PubMed including but not limited to the following topics: ergonomics, surgeons, female surgeons, women surgeons, pregnancy, and operating room. A review of available quantitative data was performed. Female surgeons endure more pronounced ergonomic discomfort than their male counterparts, with added ergonomic stress associated with pregnancy. A 4-fold method is proposed to overcome ergonomic barriers, including (1) improved education on prevention and treatment of ergonomic injury for active surgeons and trainees, (2) increased departmental and institutional support for ergonomic solutions for surgeons, (3) partnerships with industry to study innovative ergonomic solutions, and (4) additional research on the nature of surgical ergonomic challenges and the differential effects of surgical ergonomics on female surgeons.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Angioplasty
-TITLE: Complications following peripheral angioplasty.
-PMID: 11892730
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11892730/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Peripheral angioplasty is increasingly the first choice intervention in patients with peripheral vascular disease. The aim of the current study was to audit prospectively all major complications, especially the requirement for emergency surgical intervention. A prospective audit of outcome after peripheral angioplasty in 988 patients undergoing 1377 interventional procedures between 1 October 1995 and 30 September 1998 at which 1619 vessel segments were angioplastied. Major medical morbidity (bronchopneumonia, stroke, renal failure, myocardial infarction) complicated 33/1377 procedures (2.4%). Emergency surgical intervention was required after 31/1377 procedures (2.3%) with the commonest aetiologies being acute limb ischaemia and haemorrhagic complications. The amputation rate following angioplasty was 0.6% and no patient presenting with claudication or graft complications underwent amputation. The amputation rate following angioplasty for critical limb ischaemia was 2.2%. Overall, the risk of death and/or major medical complication and/or requiring emergency surgical intervention was 3.5%. The rate of complications was no different for subintimal as opposed to transluminal angioplasties. Peripheral angioplasty is associated with a low risk of major medical and surgical complications.

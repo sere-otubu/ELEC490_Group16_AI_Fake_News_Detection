@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 15489384)
-    QUESTION: Does reducing spasticity translate into functional benefit?
-    CONTEXT: Spasticity and loss of function in an affected arm are common after stroke. Although botulinum toxin is used to reduce spasticity, its functional benefits are less easily demonstrated. This paper reports an exploratory meta-analysis to investigate the relationship between reduced arm spasticity and improved arm function.
-    ANSWER: Using a targeted meta-analytic approach, it is possible to demonstrate that reducing spasticity in the arm is associated with a significant improvement in arm function.
-    

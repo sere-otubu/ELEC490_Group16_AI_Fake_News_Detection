@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24340838)
-    QUESTION: Do ventricular arrhythmias in athletes subside over time?
-    CONTEXT: Sudden death in athletes can occur during sport activities and is presumably related to ventricular arrhythmias.
-    ANSWER: Athletes engaged in competitive sports are more likely to develop ventricular arrhythmias during exercise. These arrhythmias subside over time when athletes are engaged in non-competitive sports.
-    

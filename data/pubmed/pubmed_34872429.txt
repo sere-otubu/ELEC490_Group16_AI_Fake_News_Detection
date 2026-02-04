@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Integrative health
-TITLE: Artificially intelligent chatbots in digital mental health interventions: a review.
-PMID: 34872429
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34872429/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Increasing demand for mental health services and the expanding capabilities of artificial intelligence (AI) in recent years has driven the development of digital mental health interventions (DMHIs). To date, AI-based chatbots have been integrated into DMHIs to support diagnostics and screening, symptom management and behavior change, and content delivery. We summarize the current landscape of DMHIs, with a focus on AI-based chatbots. Happify Health's AI chatbot, <i>Anna</i>, serves as a case study for discussion of potential challenges and how these might be addressed, and demonstrates the promise of chatbots as effective, usable, and adoptable within DMHIs. Finally, we discuss ways in which future research can advance the field, addressing topics including perceptions of AI, the impact of individual differences, and implications for privacy and ethics. Our discussion concludes with a speculative viewpoint on the future of AI in DMHIs, including the use of chatbots, the evolution of AI, dynamic mental health systems, hyper-personalization, and human-like intervention delivery.

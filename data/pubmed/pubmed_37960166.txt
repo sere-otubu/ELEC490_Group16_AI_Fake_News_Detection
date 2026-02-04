@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Food labeling
-TITLE: Is the List of Ingredients a Source of Nutrition and Health Information in Food Labeling? A Scoping Review.
-PMID: 37960166
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37960166/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nutrition labelling is any description intended to inform consumers about the nutritional properties of a food product and has focused primarily on nutrients. However, literature has shown that the nutritional quality of packaged foods is not limited to the amount of nutrients, considering that individuals do not consume only nutrients separately, but rather the entire food matrix. Therefore, to analyze the nutritional quality of a packaged food, it is necessary to read its ingredients. This scoping review aims to discuss (1) the list of ingredients as a source of health and nutrition information in food labelling; (2) opportunities to improve the nutrition labeling policies around the world. The study was carried out through a systematic search on Codex Alimentarius meeting reports. Results show that the list of ingredients is used as a source of nutritional and health information on food labelling; however, this label item is not considered in the regulatory field as a nutrition labelling requirement. It is suggested that nutrition labelling be discussed as a tool for food choices in the context of public health from a broader, consistent, convergent perspective, considering the list of ingredients as an item of nutrition labelling requirement to be included in public policies around the world.

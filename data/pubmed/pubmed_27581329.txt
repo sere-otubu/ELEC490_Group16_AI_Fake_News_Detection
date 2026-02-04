@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 27581329)
-    QUESTION: Estimation of basal metabolic rate in Chinese: are the current prediction equations applicable?
-    CONTEXT: Measurement of basal metabolic rate (BMR) is suggested as a tool to estimate energy requirements. Therefore, BMR prediction equations have been developed in multiple populations because indirect calorimetry is not always feasible. However, there is a paucity of data on BMR measured in overweight and obese adults living in Asia and equations developed for this group of interest. The aim of this study was to develop a new BMR prediction equation for Chinese adults applicable for a large BMI range and compare it with commonly used prediction equations.
-    ANSWER: To date, the newly developed Singapore equation is the most accurate BMR prediction equation in Chinese and is applicable for use in a large BMI range including those overweight and obese.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dopamine
-TITLE: Dopamine, vocalization, and astrocytes.
-PMID: 34098250
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34098250/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Dopamine, the main catecholamine neurotransmitter in the brain, is predominately produced in the basal ganglia and released to various brain regions including the frontal cortex, midbrain and brainstem. Dopamine's effects are widespread and include modulation of a number of voluntary and innate behaviors. Vigilant regulation and modulation of dopamine levels throughout the brain is imperative for proper execution of motor behaviors, in particular speech and other types of vocalizations. While dopamine's role in motor circuitry is widely accepted, its unique function in normal and abnormal speech production is not fully understood. In this perspective, we first review the role of dopaminergic circuits in vocal production. We then discuss and propose the conceivable involvement of astrocytes, the numerous star-shaped glia cells of the brain, in the dopaminergic network modulating normal and abnormal vocal productions.

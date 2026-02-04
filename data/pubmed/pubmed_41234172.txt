@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep apnea
-TITLE: [Sleep apnea in women : prevalence, symptoms, phenotypes, and treatment].
-PMID: 41234172
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41234172/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Obstructive sleep apnoea-hypopnoea syndrome (OSAHS) is a heterogeneous condition whose clinical presentation varies according to sex. The available data, primarily from male cohorts, underestimates the specific characteristics of women and female, which are influenced by hormonal changes throughout their life. In women, the clinical presentation often differs from the more classical pattern observed in men, contributing to underdiagnosis and delayed treatment. Better characterisation of female phenotypes is essential in order to adapt diagnostic and therapeutic strategies. This article summarises the current knowledge on the clinical, pathophysiological, and therapeutic specificities of OSAHS in women.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20338971)
-    QUESTION: Does peritoneal dialysis affect halitosis in patients with end-stage renal disease?
-    CONTEXT: There are various causes of halitosis, one of which is chronic renal failure. The objective of this study was to investigate halitosis levels in end-stage renal disease (ESRD) patients before and after peritoneal dialysis (PD) therapy.
-    ANSWER: High BUN levels and low salivary flow rates were found to be associated with halitosis. PD may play an important role in decreasing the level of halitosis in ESRD patients.
-    

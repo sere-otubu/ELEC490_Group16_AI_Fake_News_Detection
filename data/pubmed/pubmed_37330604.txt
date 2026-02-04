@@ -1,8 +1,0 @@
-SEARCH_TOPIC: DNA structure
-TITLE: Structure and proposed DNA delivery mechanism of a marine roseophage.
-PMID: 37330604
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37330604/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Tailed bacteriophages (order, Caudovirales) account for the majority of all phages. However, the long flexible tail of siphophages hinders comprehensive investigation of the mechanism of viral gene delivery. Here, we report the atomic capsid and in-situ structures of the tail machine of the marine siphophage, vB_DshS-R4C (R4C), which infects Roseobacter. The R4C virion, comprising 12 distinct structural protein components, has a unique five-fold vertex of the icosahedral capsid that allows genome delivery. The specific position and interaction pattern of the tail tube proteins determine the atypical long rigid tail of R4C, and further provide negative charge distribution within the tail tube. A ratchet mechanism assists in DNA transmission, which is initiated by an absorption device that structurally resembles the phage-like particle, RcGTA. Overall, these results provide in-depth knowledge into the intact structure and underlining DNA delivery mechanism for the ecologically important siphophages.

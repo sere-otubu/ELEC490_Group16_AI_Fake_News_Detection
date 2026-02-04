@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rosacea
-TITLE: Rosacea: Pathogenesis and Therapeutic Correlates.
-PMID: 38450615
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38450615/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rosacea is a chronic inflammatory condition of which there is no cure. The pathogenesis of rosacea is likely multifactorial, involving genetic and environmental contributions. Current understanding suggests that pro-inflammatory pathways involving cathelicidins and inflammasome complexes are central to rosacea pathogenesis. Common rosacea triggers modulate these pathways in a complex manner, which may contribute to the varying severity and clinical presentations of rosacea. Established and emerging rosacea treatments may owe their efficacy to their ability to target different players in these pro-inflammatory pathways. Improving our molecular understanding of rosacea will guide the development of new therapies and the use of combination therapies.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Telemedicine adoption
-TITLE: Adoption of Telemedicine for Multidisciplinary Care in Pediatric Otolaryngology.
-PMID: 33629600
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33629600/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The COVID-19 pandemic has introduced a period of social isolation that has challenged the ability of providers to uphold in-person patient care. Although commonplace in pediatric otolaryngology, multidisciplinary clinics pose a unique challenge during this time due to increased infection risk from multiple patient-provider interactions. Guidance on the application of telemedicine for multidisciplinary clinics in pediatric otolaryngology is limited. We provide comprehensive guidance on best practices for conducting telemedicine visits for a number of multidisciplinary otolaryngology clinics using our experiences at a single tertiary care children's hospital. A review of literature to support the adoption of telemedicine in multidisciplinary pediatric otolaryngology is also incorporated. Telemedicine was successfully adopted for 7 multidisciplinary pediatric clinics with a variety of specialists: aerodigestive disorders, congenital hearing loss, microtia/aural atresia, orofacial clefting, sleep disorders, tracheostomy care, and velopharyngeal dysfunction. Telemedicine is feasible for a variety of multidisciplinary clinics and its optimization is critical for providing care to complex pediatric otolaryngology patients during the COVID-19 pandemic and beyond.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12484580)
-    QUESTION: Informed consent for total hip arthroplasty: does a written information sheet improve recall by patients?
-    CONTEXT: To ascertain whether a written information sheet is acceptable to patients and improves recall of the consent interview.
-    ANSWER: Written information sheets contribute to the process of informed consent. As patients' recall of information is generally poor, the sheets may also be useful medicolegally, as a permanent record of what was discussed.
-    

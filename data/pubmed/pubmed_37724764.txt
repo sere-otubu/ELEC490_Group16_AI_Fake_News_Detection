@@ -1,8 +1,0 @@
-SEARCH_TOPIC: MRI scan
-TITLE: Survey of maternal anxiety and perceptions towards foetal MRI and pre-scan education.
-PMID: 37724764
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37724764/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Foetal MRI scans can induce feelings of fear, concern and anxiety in pregnant patients. The aim of this research was to determine if providing patients with an information leaflet reduced maternal anxiety regarding foetal MRI. A prospective, three-arm comparative pilot study was performed in the MRI department of a quaternary public hospital in Brisbane, Australia. Three groups of 30 participants (total 90 participants) received differing levels of information about foetal MRI: Group A - no foetal-MRI specific information (current practice at the site); Group B - a basic information leaflet; Group C - a comprehensive information leaflet. All participants completed a survey that explored their pre-scan anxiety immediately after their MRI scan. Over 50% of participants in each group felt anxious before the MRI. Participants expressed anxiety towards the general process of the MRI, the outcome or results of the scan, and the safety of the modality. The basic and comprehensive leaflets were both efficacious in reducing anxiety for the majority of participants. Whilst not all patients express anxiety regarding MRI scans, emotional distress surrounding the entire process is prevalent. Providing patients with comprehensive information about what the MRI scan entails (including the scan environment and duration, positioning, breath-holding requirements, and foetal safety) reduces anxiety for most patients. These findings can be used to determine ways in which reduction of anxiety improves the patient experience.

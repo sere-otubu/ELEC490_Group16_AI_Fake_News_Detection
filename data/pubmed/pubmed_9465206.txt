@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 9465206)
-    QUESTION: "Occult" posttraumatic lesions of the knee: can magnetic resonance substitute for diagnostic arthroscopy?
-    CONTEXT: We investigated the actual role of MRI versus arthroscopy in the detection and characterization of occult bone and/or cartilage injuries in patients with previous musculoskeletal trauma of the knee, pain and severe functional impairment. Occult post-traumatic osteochondral injuries of the knee are trauma-related bone and/or cartilage damage missed at plain radiography.
-    ANSWER: After comparing MR with arthroscopic findings and reviewing the available literature, we conclude that arthroscopy permits the direct visualization of even fine articular surface changes but does not depict the subchondral bone, the most frequent site of injury detected with MRI. MRI was a very useful tool in the detection and characterization of the different types of occult bone and/or cartilage injuries and showed a statistically significant correlation between site and distribution of bone and cartilage injuries and between internal damage and trauma mechanisms. Therefore, we believe that MRI can help avoid diagnostic arthroscopy in the patients with a history of post-traumatic pain, acute articular blocks and negative radiographic findings.
-    

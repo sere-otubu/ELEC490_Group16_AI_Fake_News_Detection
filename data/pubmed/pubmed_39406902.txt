@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Macronutrients
-TITLE: Immunometabolic Rewiring: A Tale of Macronutrients and Macrophages.
-PMID: 39406902
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39406902/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Myeloid cells, including monocytes, macrophages, dendritic cells, and polymorphonuclear cells are key components of homeostasis maintenance and immune response. Among the myeloid lineage, macrophages stand out as highly versatile cells that safeguard tissue functions but also sense and respond to potentially harmful microenvironmental cues. Numerous studies have demonstrated that the nutritional status and macronutrient availability affect macrophage identity and function. However, the exact mechanistic links between macronutrient intake and cellular metabolic shifts are only beginning to be understood. In this chapter, we explore how dietary "macros"-carbohydrates, fats, and amino acids-impact the immunomodulatory activity of macrophages in healthy and inflamed tissues.

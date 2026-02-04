@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26063028)
-    QUESTION: Esophagogastric devascularization without splenectomy in portal hypertension: safe and effective?
-    CONTEXT: Esophagogastric variceal hemorrhage is a life-threatening complication of portal hypertension. In this study, we compared the therapeutic effect of a novel surgical procedure, esophagogastric devascularization without splenectomy (EDWS), with the widely used modified esophagogastric devascularization (MED) with splenectomy for the treatment of portal hypertension.
-    ANSWER: EDWS is a safe and effective treatment for esophagogastric varices secondary to portal hypertension in selected patients. Patients treated with EDWS had a lower complication rate of portal venous system thrombosis compared with those treated with conventional MED.
-    

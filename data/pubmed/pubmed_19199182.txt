@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pneumonia
-TITLE: Epidemiology of healthcare-associated pneumonia (HCAP).
-PMID: 19199182
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19199182/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Healthcare-associated pneumonia (HCAP) represents a distinct syndrome, separate from both community-acquired pneumonia (CAP) and nosocomial pneumonia. Although patients with HCAP present from the community, the epidemiology and bacteriology of HCAP belie the community label. As such, highly resistant pathogens such as methicillin-resistant Staphylococcus aureus and Pseudomonas aeruginosa are commonly seen in HCAP. Although the true prevalence of HCAP is unclear the proportion of pneumonias admitted to the hospital due to HCAP relative to CAP appears to be increasing. The attendant mortality of HCAP is higher than that reported in CAP and approximates that seen in hospital-acquired pneumonia (HAP). More precise instruments are needed to heighten clinicians' index of suspicion for treating probable resistant pathogens with appropriate empirical antibiotic choices.

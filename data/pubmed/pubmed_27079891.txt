@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vaping health risks
-TITLE: Cardiovascular toxicity of nicotine: Implications for electronic cigarette use.
-PMID: 27079891
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27079891/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The cardiovascular safety of nicotine is an important question in the current debate on the benefits vs. risks of electronic cigarettes and related public health policy. Nicotine exerts pharmacologic effects that could contribute to acute cardiovascular events and accelerated atherogenesis experienced by cigarette smokers. Studies of nicotine medications and smokeless tobacco indicate that the risks of nicotine without tobacco combustion products (cigarette smoke) are low compared to cigarette smoking, but are still of concern in people with cardiovascular disease. Electronic cigarettes deliver nicotine without combustion of tobacco and appear to pose low-cardiovascular risk, at least with short-term use, in healthy users.

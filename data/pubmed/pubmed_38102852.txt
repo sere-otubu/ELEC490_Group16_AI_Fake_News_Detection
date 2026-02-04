@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lupus
-TITLE: Lupus vulgaris: a narrative review.
-PMID: 38102852
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38102852/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Lupus vulgaris (LV) is a type of paucibacillary cutaneous tuberculosis that can occur due to inoculation, lymphatic, or hematogenous route. It occurs in a previously sensitized individual with high immunity to tuberculosis. LV can have different morphology of presentation, which can lead to difficulty in diagnosis. The Tuberculin test is strongly positive. Histopathology will show epithelioid granulomas in the superficial dermis and acid-fast bacilli rarely demonstrable within the granulomas. Dermoscopy will show focused linear vessels on a yellow to orange background. Culture is the gold standard for diagnosis, but its positivity rate is low. Mycobacterium tuberculosis bacilli can be detected using polymerase chain reaction from the lesions. Histopathology, tuberculin test, dermoscopy, molecular test, and culture would help diagnose LV. This review discusses the introduction, pathogenesis, clinical features, differential diagnosis, investigations, complications, and treatment of lupus vulgaris in detail. This review can help the dermatologist understand the condition better with appropriate diagnosis and therapy.

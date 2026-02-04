@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26113007)
-    QUESTION: Is arch form influenced by sagittal molar relationship or Bolton tooth-size discrepancy?
-    CONTEXT: Orthodontic patients show high prevalence of tooth-size discrepancy. This study investigates the possible association between arch form, clinically significant tooth-size discrepancy, and sagittal molar relationship.
-    ANSWER: Arch form in a Saudi patient group is independent of gender, sagittal molar relationship, and Bolton discrepancy.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Appendectomy
-TITLE: Appendicectomy audit.
-PMID: 6572509
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6572509/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Of 200 consecutive appendicectomies performed at Royal Prince Alfred Hospital the indications for operation were suspected acute appendicitis (65%), chronic or recurrent appendicitis (11.5%), interval appendicectomy (3%) and appendicectomies incidental to other operations (20.5%). Of those operated upon for suspected acute appendicitis, the appendix revealed acute inflammation pathologically in 64% of patients. Pathological changes occurred with the same frequency in both the incidental appendicectomy group and the chronic appendicitis group. Within the group with a provisional diagnosis of acute appendicitis there were marked variations in the documentation of peroperative symptoms, signs and investigations. On average 11.5 hours passed between the time these patients presented and when appendicectomy was performed. The patients spent an average of 6.4 days in hospital and only 33% had any documentation follow-up in the hospital records. Auditing systems can only be instituted in Australia if the structure of medical services is borne in mind. Adoption of overseas systems based on different patterns of medical care will add little to patient care.

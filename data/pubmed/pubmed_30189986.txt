@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cluster headaches
-TITLE: Primary Headaches.
-PMID: 30189986
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30189986/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The primary headaches are composed of multiple entities that cause episodic and chronic head pain in the absence of an underlying pathologic process, disease, or traumatic injury. The most common of these are migraine, tension-type headache, and the trigeminal autonomic cephalalgias. This article reviews the clinical presentation, pathophysiology, and treatment of each to help in differential diagnosis. These headache types share many common signs and symptoms, thus a clear understanding of each helps prevent a delay in diagnosis and inappropriate or ineffective treatment. Many of these patients seek dental care because orofacial pain is a common presenting symptom.

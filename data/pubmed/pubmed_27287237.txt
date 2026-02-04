@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 27287237)
-    QUESTION: Assessment of appropriate antimicrobial prescribing: do experts agree?
-    CONTEXT: Little is known about the validity and reliability of expert assessments of the quality of antimicrobial prescribing, despite their importance in antimicrobial stewardship. We investigated how infectious disease doctors' assessments compared with a reference standard (modal expert opinion) and with the assessments of their colleagues.
-    ANSWER: Doctors specialized in infectious diseases and clinical microbiology assess the appropriateness of antimicrobials prescribed for a broad spectrum of indications with acceptable agreement and validity, regardless of their experience or hospital of employment. However, there is room for improvement, which merits attention in multidisciplinary discussions and education.
-    

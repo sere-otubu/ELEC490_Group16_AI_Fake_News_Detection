@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 16735905)
-    QUESTION: Does the severity of obstructive sleep apnea predict patients requiring high continuous positive airway pressure?
-    CONTEXT: To investigate polysomnographic and anthropomorphic factors predicting need of high optimal continuous positive airway pressure (CPAP).
-    ANSWER: Severe OSA patients are much more likely to need high CPAP levels. However, because of the low positive predictive value (only 28.6%), the clinical value of such information is limited. ESS and MSLT did not increase the predictive value for the need for high CPAP.
-    

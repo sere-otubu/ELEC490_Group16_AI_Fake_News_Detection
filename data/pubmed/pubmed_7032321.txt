@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Kidney function
-TITLE: Barrier function of epithelia.
-PMID: 7032321
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7032321/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The ability of an epithelium to prevent permeation of noxious agents has not been well studied except in the gastrointestinal tract where exclusion of H+ has clinical significance. This article reviews the permeation routes across epithelia both as elucidated in the extensive electrophysiological work done in recent years and as demonstrated in morphological studies. We thus place concepts about gastrointestinal barrier function into the framework of transport physiology. Both the permeability and permselectivity of epithelial barriers are reviewed here. The effects of physical agents (pressure and electric current), polyvalent cations, organic compounds with both specific (channel blocking) and nonspecific (detergent) membrane properties, cyclic nucleotides, microfilament-active agents, and particularly H+ on both the barrier function (permeability and permselectivity) and transport function of epithelia are considered. Based on the available data, an important role for active Na+ transport in the maintenance of the epithelial barrier function can be postulated.

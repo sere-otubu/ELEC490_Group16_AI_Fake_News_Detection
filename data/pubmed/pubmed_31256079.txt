@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Organ donation ethics
-TITLE: Neonatal organ donation: Ethical insights and policy implications.
-PMID: 31256079
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31256079/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In the realm of clinical ethics as well as in health policy and organizational ethics, the onus of our work as ethicists is to optimize the medical care and experience of the patient to better target ethical dilemmas that develop in the course of care delivery. The role of ethics is critical in all aspects of medicine, but particularly so in the difficult and often challenging cases that arise in the care of pregnant women and newborns. One exemplary situation is that when a pregnant woman and her partner consider neonatal organ donation after receiving news of a terminal diagnosis and expected death of the newborn. While a newer, less practiced form of organ donation, this approach is gaining greater visibility as an option for parents facing this terminal outcome. The aim of our paper is to highlight some of the key ethical issues associated with neonatal organ donation and identify clinical and logistical aspects of implementing such an approach to facilitate organ donation.

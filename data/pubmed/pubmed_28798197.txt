@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lung function
-TITLE: CORP: Measurement of lung function in small animals.
-PMID: 28798197
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28798197/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The measurement of lung function in mice and rats is crucial for understanding how well small animal models of pulmonary disease recapitulate human clinical pathology but brings with it the challenge of making accurate measurements in animals as small as a mouse. Overcoming these challenges can be achieved in a number of ways, each based on a model idealization of how the lung works as a mechanical system. Accordingly, it is important to understand the theoretical basis on which an assessment of lung function rests to interpret experimental measurements appropriately. It is also crucial to attend to a number of practical issues that determine the quality of the measurements. The most accurate measurements of lung function in small animals are provided by the forced oscillation technique that provides lung resistance and elastance and its multifrequency generalization known as impedance. Measurement quality is maximized when the greatest possible degree of control is exerted over the amplitude and frequency with which air is oscillated in and out of the lungs, the mean or end-expiratory transpulmonary pressure pertaining to when the oscillations are applied, and the immediate past volume history of the lungs. It is also crucial that no spontaneous breathing efforts occur during the measurement period. Finally, there is no substitute for the skill in animal handling and surgical preparation that comes with practice; such a skill should be in place before embarking on any important series of experiments.

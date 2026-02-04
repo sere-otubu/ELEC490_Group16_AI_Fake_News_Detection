@@ -1,8 +1,0 @@
-SEARCH_TOPIC: X ray imaging
-TITLE: Challenges Associated With X-ray Imaging of Stretcher-Bound Patients.
-PMID: 29298919
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29298919/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Patients often arrive at imaging departments on stretchers, and in certain circumstances they must remain on the stretcher for the imaging examination to reduce the likelihood of exacerbating injuries. Imaging stretcher-bound patients can be challenging, with many physical and technical variables to consider. These challenges occur because of differences between imaging a patient on a tabletop and imaging a patient on a stretcher. This article reviews the issues associated with imaging stretcher-bound patients, including the unavailability of the automatic exposure control, different grids used, geometric factors, and variability in stretcher design.

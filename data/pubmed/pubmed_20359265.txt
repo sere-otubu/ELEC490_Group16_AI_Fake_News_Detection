@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Organic foods
-TITLE: Organic foods contain higher levels of certain nutrients, lower levels of pesticides, and may provide health benefits for the consumer.
-PMID: 20359265
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20359265/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The multi-billion dollar organic food industry is fueled by consumer perception that organic food is healthier (greater nutritional value and fewer toxic chemicals). Studies of the nutrient content in organic foods vary in results due to differences in the ground cover and maturity of the organic farming operation. Nutrient content also varies from farmer to farmer and year to year. However, reviews of multiple studies show that organic varieties do provide significantly greater levels of vitamin C, iron, magnesium, and phosphorus than non-organic varieties of the same foods. While being higher in these nutrients, they are also significantly lower in nitrates and pesticide residues. In addition, with the exception of wheat, oats, and wine, organic foods typically provide greater levels of a number of important antioxidant phytochemicals (anthocyanins, flavonoids, and carotenoids). Although in vitro studies of organic fruits and vegetables consistently demonstrate that organic foods have greater antioxidant activity, are more potent suppressors of the mutagenic action of toxic compounds, and inhibit the proliferation of certain cancer cell lines, in vivo studies of antioxidant activity in humans have failed to demonstrate additional benefit. Clear health benefits from consuming organic dairy products have been demonstrated in regard to allergic dermatitis.

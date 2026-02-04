@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Healthy fats
-TITLE: Challenges of utilizing healthy fats in foods.
-PMID: 25979504
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25979504/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Over the past few decades, the Dietary Guidelines for Americans has consistently recommended that consumers decrease consumption of saturated fatty acids due to the correlation of saturated fatty acid intake with coronary artery disease. This recommendation has not been easy to achieve because saturated fatty acids play an important role in the quality, shelf life, and acceptability of foods. This is because solid fats are critical to producing desirable textures (e.g., creaminess, lubrication, and melt-away properties) and are important in the structure of foods such as frozen desserts, baked goods, and confectionary products. In addition, replacement of saturated fats with unsaturated fats is limited by their susceptibility to oxidative rancidity, which decreases product shelf life, causes destruction of vitamins, and forms potentially toxic compounds. This article will discuss the fundamental chemical and physical properties in fats and how these properties affect food texture, structure, flavor, and susceptibility to degradation. The current sources of solid fats will be reviewed and potential replacements for solid fats will be discussed.

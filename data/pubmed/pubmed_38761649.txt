@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep hygiene
-TITLE: Sleep hygiene - What do we mean? A bibliographic review.
-PMID: 38761649
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38761649/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There is no consensus on the definition of sleep hygiene and its components. We examined the definition of sleep hygiene based on its use in published studies. Four databases (Medline, EMBASE, PsycINFO and CINAHL) were searched from inception until December 31, 2021 for the phrase 'sleep hygiene' in the title or abstract. We identified 548 relevant studies in adults: 250 observational and 298 intervention studies. A definition of sleep hygiene was provided in only 44% of studies and converged on three themes: behavioural factors, environmental factors, and an aspect of control. Sleep hygiene components were explicitly defined in up to 70% of observational studies, but in only 35% of intervention studies. The most commonly considered components of sleep hygiene were caffeine (in 51% of studies), alcohol (46%), exercise (46%), sleep timing (45%), light (42%), napping (39%), smoking (38%), noise (37%), temperature (34%), wind-down routine (33%), stress (32%), and stimulus control (32%), although the specific details of each component varied. Lack of consistency in definitions of sleep hygiene and its components may hinder communication between researchers, clinicians, and the public, and likely limits the utility of sleep hygiene as an intervention.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24267613)
-    QUESTION: Is the advanced age a contraindication to GERD laparoscopic surgery?
-    CONTEXT: In this prospective non randomized observational cohort study we have evaluated the influence of age on outcome of laparoscopic total fundoplication for GERD.
-    ANSWER: Laparoscopic antireflux surgery is a safe and effective treatment for GERD even in elderly patients, warranting low morbidity and mortality rates and a significant improvement of symptoms comparable to younger patients.
-    

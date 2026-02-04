@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Conjunctivitis
-TITLE: Conjunctivitis.
-PMID: 9490996
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9490996/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Conjunctivitis refers to any inflammatory condition of the membrane that lines the eyelids and covers the exposed surface of the sclera. It is the most common cause of "red eye". The etiology can usually be determined by a careful history and an ocular examination, but culture is occasionally necessary to establish the diagnosis or to guide therapy. Conjunctivitis is commonly caused by bacteria and viruses. Neisseria infection should be suspected when severe, bilateral, purulent conjunctivitis is present in a sexually active adult or in a neonate three to five days postpartum. Conjunctivitis caused by Chlamydia trachomatis or Neisseria gonorrhoeae requires aggressive antibiotic therapy, but conjunctivitis due to other bacteria is usually self-limited. Chronic conjunctivitis is usually associated with blepharitis, recurrent styes or meibomianitis. Treatment requires good eyelid hygiene and the application of topical antibiotics as determined by culture. Allergic conjunctivitis is distinguished by severe itching and allergen exposure. This condition is generally treated with topical antihistamines, mast-cell stabilizers or anti-inflammatory agents.

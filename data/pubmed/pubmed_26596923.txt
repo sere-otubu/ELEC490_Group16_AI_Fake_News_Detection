@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ulcerative colitis
-TITLE: Indications and Options for Surgery in Ulcerative Colitis.
-PMID: 26596923
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26596923/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Ulcerative colitis affects differing lengths of the colon and rectum. Surgical treatment is considered curative when the entire colon and rectum is removed. However, surgical treatment of ulcerative colitis should only be pursued for additional complicating factors of the disease. In addition, the current physiologic status as well as the patient's desire to retain intestinal continuity should be considered. This article outlines the current indications for surgical treatment in patients with ulcerative colitis, the various surgical options, and the techniques used to accomplish these goals.

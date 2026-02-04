@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fatty liver disease
-TITLE: Nonalcoholic Fatty Liver Disease.
-PMID: 29132522
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29132522/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nonalcoholic fatty liver disease (NAFLD) defines a condition of hepatic steatosis with or without hepatic injury. NAFLD is increasing in prevalence worldwide and presents a public health burden. Most patients are asymptomatic, although some present with fatigue and right upper quadrant pain. NAFLD is discovered incidentally when patients have elevated liver enzymes or fatty liver is seen on imaging modalities. Imaging studies can confirm fatty deposits in the liver, but needle biopsy is needed to determine degree of inflammation. The mainstay of treatment is weight loss and controlling diabetes and hyperlipidemia. Liver transplantation is considered when disease progresses to cirrhosis.

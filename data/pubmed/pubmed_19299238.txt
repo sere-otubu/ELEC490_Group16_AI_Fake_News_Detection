@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19299238)
-    QUESTION: Aromatase inhibitor-related musculoskeletal symptoms: is preventing osteoporosis the key to eliminating these symptoms?
-    CONTEXT: Aromatase inhibitors (AIs) are an effective treatment for postmenopausal women with hormone receptor-positive breast cancer. However, patients receiving AIs report a higher incidence of musculoskeletal symptoms and bone fractures; the mechanism and risk factors for this correlation are not well studied. The aim of this study was to correlate these musculoskeletal symptoms and bone fractures in patients receiving AIs with bone mineral density (BMD), previous tamoxifen use, and administration of calcium/bisphosphonate (Ca/Bis).
-    ANSWER: Patients on AIs who develop osteoporosis are at increased risk of musculoskeletal symptoms and bone fracture. Comedication with Ca/Bis reduces the likelihood for osteoporosis and musculoskeletal symptoms. Patients who received tamoxifen before AIs were less likely to develop AI-related musculoskeletal symptoms. We recommend that patients on AIs should be offered Ca/Bis to reduce the incidence of musculoskeletal symptoms and fracture, especially if patients are receiving steroidal AI and/or did not receive tamoxifen before AIs.
-    

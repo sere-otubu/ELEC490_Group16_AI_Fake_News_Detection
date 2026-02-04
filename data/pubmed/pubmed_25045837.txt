@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Preventive medicine
-TITLE: Reflections on preventive medicine.
-PMID: 25045837
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25045837/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Having thought much about medicine in my career-long effort to understand it and the research for its advancement, I have come to views rather different form the now-prevailing ones in respect to what preventive medicine is about; what epidemiology is in relation to preventive medicine; what distinguishes preventive medicine in preventive healthcare at large; the relation of preventive medicine to public health; the concept of health promotion; and also the core principles of preventive medicine. All of these views I set forth in this article, for the readers' critical reflection.

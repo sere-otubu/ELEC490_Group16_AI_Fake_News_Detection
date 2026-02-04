@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pregnancy nutrition
-TITLE: Nutrition in pregnancy: the facts and fallacies.
-PMID: 12613423
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12613423/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In addition to state registered dietitians, nurses and other health professionals face the challenge of communicating clear and consistent information about food, health and balanced diets to a wide range of clients. There are many misconceptions surrounding nutrition. Nutrition in pregnancy demands extra attention because the health of the mother and baby is affected. Pregnant women need specific information about nutrition.

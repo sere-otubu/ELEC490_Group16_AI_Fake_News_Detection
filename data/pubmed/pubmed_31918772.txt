@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Trans fats risks
-TITLE: Intake of <i>trans</i>-fats among US youth declined from 1999-2000 to 2009-2010.
-PMID: 31918772
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31918772/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To analyse how much the intake of trans-fatty acids (TFA), an important dietary risk factor for CVD, changed among US children and adolescents over a period of time when food regulations that reduced the presence of TFA in the food supply were enacted. Regression models were used to estimate changes in levels of TFA in plasma and other CVD risk factors among US children and adolescents from 1999-2000 to 2009-2010. USA. Nationally representative sample of children (aged 6-11 years) and adolescents (aged 12-19 years) who participated in the 1999-2000 and 2009-2010 cycles of the National Health and Nutrition Examination Survey. Levels of plasma TFA declined significantly by an average of 61·9 % from 1999-2000 to 2009-2010. The average decline in a TFA commonly found in partially hydrogenated oils (elaidic acid, 67·2 %) was larger than the average decline in a TFA naturally occurring in ruminant animals (vaccenic acid, 60·5 %). Significant improvements in a variety of other CVD risk factors (LDL- and HDL-cholesterol, TAG, systolic and diastolic blood pressure, C-reactive protein) were also observed. Between the two time points, 1999-2000 and 2009-2010, there were substantial decreases in plasma TFA levels and improvements in several other important CVD risk factors in the population of US children and adolescents.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cesarean section
-TITLE: Pregnancy and delivery after a cesarean section.
-PMID: 29205981
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29205981/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-One out of seven of all parturients and one out of five primigravid women deliver by caesarean section. Of four women having undergone caesarean section, three will give birth vaginally, provided that the indication for surgery has been temporary by nature. Spontaneous beginning of labor and a previous vaginal delivery improve the chances of succesful of vaginal delivery. Rupture of the uterus in subsequent pregnancies is the most feared sequel to a caesarean section, with an occurrence of 0.2 to 1.5%. Delivery by caesarean is indicated in case of previous rupture of the uterus, hysterotomy through vertical incision, and more than two previous caesarean sections.

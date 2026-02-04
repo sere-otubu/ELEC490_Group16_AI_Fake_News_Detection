@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Herpes simplex
-TITLE: Human herpes simplex virus infections: epidemiology, pathogenesis, symptomatology, diagnosis, and management.
-PMID: 17939933
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17939933/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Eight of the more than 80 known herpesviruses are human pathogens. Human herpes simplex virus (HSV) is a contagious infection with a large reservoir in the general population. It has a potential for significant complications in the immunocompromised host. In addition, psychological distress caused by the negative stigma associated with genital herpes and visible facial lesions in those experiencing frequent outbreaks renders it a challenging clinical dilemma. This article reviews the epidemiology, pathogenesis, and diagnostic features of HSV infections, providing the clinician with an up-to-date understanding of the available management strategies for mucocutaneous HSV-induced disease.

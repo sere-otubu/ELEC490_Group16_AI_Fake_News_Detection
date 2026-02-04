@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Plasma
-TITLE: Single Plasma Unit Transfusions in Adults Are Either Unnecessary or Underdosed.
-PMID: 35218358
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35218358/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Previous studies of blood product use have shown higher inappropriate use of plasma compared with other products. Given typical weight-based dosing of plasma, we hypothesized that single plasma transfusions in adults would either be a nontherapeutic dose or outside clinical guidelines. A single-center, retrospective review of nonoperative, nonapheresis plasma use was conducted from January 2020 to April 2020. Plasma transfusions were reviewed for compliance with clinical guidelines formulated at our institution as well as national and society guidelines. During the study period, 313 units of plasma were transfused. Of these, 152 (48.6%) were given against institutional or national guidelines, 126 plasma units (40.3%) were transfused as single units, and 187 (59.7%) were given as part of multiple-unit transfusions. All single-unit plasma transfusions during the study period were either underdosed or outside clinical guidelines. Units transfused with an indication of "Other" were significantly more likely to be outside clinical guidelines. Nonoperative, nonapheresis plasma use is often outside clinical guidelines. Single-unit plasma transfusions in adults are a potential target for patient blood management programs seeking to minimize unnecessary plasma use.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ebola virus
-TITLE: [Ebola virus disease].
-PMID: 25694090
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25694090/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Ebola is one of the most virulent zoonotic RNA viruses causing in humans haemorrhagic fever with fatality ratio reaching 90%. During the outbreak of 2014 the number of deaths exceeded 8.000. The "imported" cases reported in Western Europe and USA highlighted the extreme risk of Ebola virus spreading outside the African countries. Thus, haemorrhagic fever outbreak is an international epidemiological problem, also due to the lack of approved prevention and therapeutic strategies. The editorial review article briefly summarizes current knowledge on Ebola virus disease epidemiology, etiology, pathogenesis, clinical presentation, diagnosis as well as possible prevention and treatment.

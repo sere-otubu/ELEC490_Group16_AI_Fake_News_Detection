@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Overtraining syndrome
-TITLE: Overtraining syndrome: a practical guide.
-PMID: 23016079
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23016079/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Fatigue and underperformance are common in athletes. Understanding overtraining syndrome (OTS) is helpful in the evaluation, management, and education of athletes. Relevant articles in English were searched with OVID (1948-2011) and PubMed using the following keywords: overtraining syndrome, overtraining, overreaching, unexplained underperformance, staleness, pathophysiology, management, treatment, evaluation. Bibliographies were reviewed for additional resources. OTS appears to be a maladapted response to excessive exercise without adequate rest, resulting in perturbations of multiple body systems (neurologic, endocrinologic, immunologic) coupled with mood changes. Many hypotheses of OTS pathogenesis are reviewed, and a clinical approach to athletes with possible OTS (including history, testing, and prevention) is presented. OTS remains a clinical diagnosis with arbitrary definitions per the European College of Sports Science's position statement. History and, in most situations, limited serologies are helpful. However, much remains to be learned given that most past research has been on athletes with overreaching rather than OTS.

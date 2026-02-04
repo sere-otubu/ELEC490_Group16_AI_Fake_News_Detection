@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Carbohydrates types
-TITLE: Multivalent glycosystems for human lectins.
-PMID: 36545903
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36545903/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Human lectins are involved in a wide variety of biological processes, both physiological and pathological, which have attracted the interest of the scientific community working in the glycoscience field. Multivalent glycosystems have been employed as useful tools to understand carbohydrate-lectin binding processes as well as for biomedical applications. The review shows the different scaffolds designed for a multivalent presentation of sugars and their corresponding binding studies to lectins and in some cases, their biological activities. We summarise this research by organizing based on lectin types to highlight the progression in this active field. The paper provides an overall picture of how these contributions have furnished relevant information on this topic to help in understanding and participate in these carbohydrate-lectin interactions.

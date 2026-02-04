@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Macronutrients
-TITLE: Regulation of Macronutrients in Insulin Resistance and Glucose Homeostasis during Type 2 Diabetes Mellitus.
-PMID: 37960324
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37960324/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Insulin resistance is an important feature of metabolic syndrome and a precursor of type 2 diabetes mellitus (T2DM). Overnutrition-induced obesity is a major risk factor for the development of insulin resistance and T2DM. The intake of macronutrients plays a key role in maintaining energy balance. The components of macronutrients distinctly regulate insulin sensitivity and glucose homeostasis. Precisely adjusting the beneficial food compound intake is important for the prevention of insulin resistance and T2DM. Here, we reviewed the effects of different components of macronutrients on insulin sensitivity and their underlying mechanisms, including fructose, dietary fiber, saturated and unsaturated fatty acids, and amino acids. Understanding the diet-gene interaction will help us to better uncover the molecular mechanisms of T2DM and promote the application of precision nutrition in practice by integrating multi-omics analysis.

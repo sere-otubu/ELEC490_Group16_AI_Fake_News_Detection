@@ -1,8 +1,0 @@
-SEARCH_TOPIC: MRI scan
-TITLE: MRI-negative epilepsy: protocols to optimize lesion detection.
-PMID: 21732937
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21732937/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Identification of the structural lesions that underlie pediatric epilepsy can be challenging. Careful evaluation of the gray-white matter interface is crucial, and necessitates multiplanar thin images of high resolution that can differentiate focal lesions from partial volume averaging artifacts created by the innate gyral configuration. Careful evaluation of the hippocampus and of the myelination patterns can further increase the diagnostic yield of the study. Magnetization transfer imaging can call attention to a lesion that is either very subtle or not evident on conventional sequences. Detection of cortical anomalies is best performed early in infancy, preferably before 6 months of age. If the initial magnetic resonance imaging (MRI) scan is performed between 9 and 18 months of age and is negative, a repeat scan after 2 years of age may be necessary.

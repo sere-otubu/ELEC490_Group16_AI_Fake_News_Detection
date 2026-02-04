@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ACE inhibitors
-TITLE: Using aspirin and ACE inhibitors in combination: why the hullabaloo?
-PMID: 11405620
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11405620/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Observational studies indicate that aspirin may counteract the beneficial effect of angiotensin-converting enzyme (ACE) inhibitors, but the data are not yet sufficient for making firm recommendations. We review the available data and offer tentative conclusions.

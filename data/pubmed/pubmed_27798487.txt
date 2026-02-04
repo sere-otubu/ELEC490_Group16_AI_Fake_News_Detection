@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Personality disorders
-TITLE: Personality disorders and pathological gambling.
-PMID: 27798487
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27798487/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To explore recent developments in the field of personality disorders and their association with pathological gambling or gambling disorder. The review covers literature published from 2015 to present time (August 2016) to understand the prevalence rates of common personality disorders among pathological gamblers. Commonly seen personality disorders among pathological or problem gamblers represent Cluster B disorders. There are reports indicating prevalence of Clusters A and C personality disorders as well. The rates of personality disorders among pathological gamblers reported in these studies align with Hill's guidelines - Strength, Specificity, Temporality, Biological gradient, Plausibility and Replicability indicating a strong association between pathological gambling and personality disorders. Studies are predominantly cross-sectional and consistently show that the presence of a personality disorder is associated with gambling severity and early age of onset pathological gambling. Research on pathological gambling should advance beyond estimating rates of personality disorders and focus on longitudinal research to understand the pathways between personality disorders and onset and severity of pathological gambling.

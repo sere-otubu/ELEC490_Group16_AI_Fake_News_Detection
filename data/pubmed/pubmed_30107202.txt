@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Serotonin
-TITLE: Serotonin, hematopoiesis and stem cells.
-PMID: 30107202
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30107202/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A large number of studies have focused on the role of serotonin as a neurotransmitter in the central nervous system, although only a small percentage of the body's serotonin (∼5%) can be found in the mature brain of mammals. In the gut, the enterochromaffin cells are scattered in the enteric epithelium from the stomach through the colon and produce over 95% of the body's serotonin. Since the generation of tryptophan hydroxylase (Tph1 and Tph2) knockout mice, unsuspected roles have been identified for serotonin synthesized outside the brain. Moreover, the murine model deficient in peripheral serotonin (Tph1<sup>-/-</sup>) is a unique experimental tool for exploring the molecular and cellular mechanisms involving serotonin's local effects through microserotonergic systems. In this review, we focus on peripheral serotonin and its role on progenitor or stem cells as well as on hematopoietic progenitors. We discuss the possible role of serotonin in hematopoietic diseases, and whether targeting the serotonergic system could be of therapeutic value for the regulation of normal and pathological hematopoiesis.

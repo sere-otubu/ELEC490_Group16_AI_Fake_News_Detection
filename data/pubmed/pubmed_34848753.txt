@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Liver function
-TITLE: GABA administration improves liver function and insulin resistance in offspring of type 2 diabetic rats.
-PMID: 34848753
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34848753/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This study investigated the role of GABA in attenuating liver insulin resistance (IR) in type 2 diabetes parents and reducing its risk in their descendants' liver. Both sexes' rats were divided into four groups of non-diabetic control, diabetic control (DC), GABA-treated (GABA), and insulin-treated (Ins). The study duration lasted for six months and the young animals followed for four months. Consequently, hyperinsulinemic-euglycemic clamp was performed for all animals. Apart from insulin tolerance test (ITT), serum and liver lipid profile were measured in all groups. Glycogen levels, expression of Foxo1, Irs2, Akt2, and Pepck genes in the liver were assessed for all groups. Overall, GABA improved ITT, increased liver glycogen levels and decreased lipid profile, blood glucose level, and HbA1c in parents and their offspring in compared to the DC group. GIR also increased in both parents and their offspring by GABA. Moreover, the expression of Foxo1, Irs2, Akt2, and Pepck genes improved in GABA-treated parents and their descendants in compared to DC group. Results indicated that GABA reduced liver IR in both parents and their offspring via affecting their liver insulin signaling and gluconeogenesis pathways.

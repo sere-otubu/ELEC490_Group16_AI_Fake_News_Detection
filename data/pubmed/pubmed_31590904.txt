@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Herd immunity
-TITLE: Herd Immunity.
-PMID: 31590904
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31590904/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Herd immunity is an important concept of epidemic theory regarding the population-level effect of individual immunity to prevent transmission of pathogens. Herd immunity exists when sufficient numbers of animals in a group or population have immunity against an agent such that the likelihood of an effective contact between diseased and susceptible individuals is reduced. Understanding herd immunity requires consideration of infection dynamics, modes of transmission, as well as the acquisition of immunity by individuals in the population. Loss of herd immunity may also explain age-associated epidemics of disease related to loss of passively acquired maternal immunity.

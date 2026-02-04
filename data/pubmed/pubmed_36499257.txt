@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vegan diet
-TITLE: Effect of a Vegan Diet on Alzheimer's Disease.
-PMID: 36499257
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36499257/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There is evidence indicating that a vegan diet could be beneficial in the prevention of neurodegenerative disorders, including Alzheimer's disease (AD). The purpose of this review is to summarize the current knowledge on the positive and negative aspects of a vegan diet regarding the risk of AD. Regarding AD prevention, a vegan diet includes low levels of saturated fats and cholesterol, contributing to a healthy blood lipid profile. Furthermore, it is rich in phytonutrients, such as vitamins, antioxidants, and dietary fiber, that may help prevent cognitive decline. Moreover, a vegan diet contributes to the assumption of quercetin, a natural inhibitor of monoamine oxidase (MAO), which can contribute to maintaining mental health and reducing AD risk. Nonetheless, the data available do not allow an assessment of whether strict veganism is beneficial for AD prevention compared with vegetarianism or other diets. A vegan diet lacks specific vitamins and micronutrients and may result in nutritional deficiencies. Vegans not supplementing micronutrients are more prone to vitamin B12, vitamin D, and DHA deficiencies, which have been linked to AD. Thus, an evaluation of the net effect of a vegan diet on AD prevention and/or progression should be ascertained by taking into account all the positive and negative effects described here.

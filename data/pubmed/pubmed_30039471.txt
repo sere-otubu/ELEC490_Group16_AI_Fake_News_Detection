@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gestational Diabetes
-TITLE: Ethnic Disparities in Gestational Diabetes.
-PMID: 30039471
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30039471/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Ethnicity has long been described as a major risk factor for the development of gestational diabetes mellitus (GDM), and it is widely recognised that women from ethnicities other than Europids are at higher risk of developing GDM. There are also described differences between ethnicities in key GDM pregnancy outcomes. This review describes some of the factors that relate to the ethnic disparities in GDM. The global prevalence of GDM has been steadily increasing and estimated to be 16.2% from the International Diabetes Federation extrapolation. Reported prevalence rates may understate the true prevalence, due to factors of access and attitudes to GDM diagnosis and screening in low resource settings for foreign-born women and indigenous populations. Other factors may relate to genes associated with specific ethnicities, obesity, body composition and gestational weight gain. Various factors such as access to screening, body composition, genetics and gestational weight gain may result in ethnic disparities in the prevalence and outcomes of GDM.

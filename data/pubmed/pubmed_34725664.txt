@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mediterranean diet
-TITLE: Mediterranean Diet In Healthy Aging.
-PMID: 34725664
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34725664/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The World elderly population is expected to double before 2050. Unhealthy habits and unhealthy lifestyles are commonly associated with age-related diseases or their worsening. Modification in daily lifestyle and diet may help preventing age-related diseases onset and efficiently affecting their evolution, thus promoting the Healthy Aging process, concept recently coined to describe the disease-free aging process. This review highlights the role of nutrition science in promoting healthy aging. Since the Mediterranean Model demonstrated to be a useful style in supporting healthy aging, promotion of this correct lifestyle by health policies seems to be the best approach to achieve this target.

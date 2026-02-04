@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mammography
-TITLE: [Digital mammography].
-PMID: 14642945
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/14642945/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Digital mammography is an irreversible evolution which will gradually replace analog mammography. Detector technology differs among manufacturers. Expected clinical advantages are improved diagnostic performances, improved reproducibility, dose reduction, dedicated applications (CAD), archiving and telemammography. Limiting problems are at cost, reorganization of the breast imaging unit and the medical workflow.

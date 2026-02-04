@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hypertension
-TITLE: Hypertension and neuroticism.
-PMID: 6701271
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6701271/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-324 normo- and hypertensive subjects were investigated for neurotic symptoms during outpatient screening for arterial hypertension. The patients were randomly selected and subdivided into three groups: 'new' hypertensives, 'old' hypertensives and normotensives. Neurotic symptoms were evaluated using the Kellner and Sheffield Symptom Rating Test. The mean values thus obtained were adjusted using covariance analysis, with age and sex as the covariants. The 'new' hypertensives scored significantly lower for total neuroticism, depression and inadequacy than the normotensives. They also differed from the 'old' hypertensives, scoring significantly lower for total neuroticism, anxiety, somatization and inadequacy. However, no differences were revealed between the 'old' hypertensives and the normotensives. The significance and implications of these psychological differences are discussed.

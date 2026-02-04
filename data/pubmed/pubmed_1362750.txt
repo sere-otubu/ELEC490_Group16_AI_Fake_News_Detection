@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pneumonia
-TITLE: Community-acquired pneumonia.
-PMID: 1362750
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1362750/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The aetiology of community-acquired pneumonia is reviewed, and the identification of the most likely pathogens, based on clinical presentation, is discussed. By far the major pathogen in community-acquired pneumonia is Streptococcus pneumoniae; the relative frequency of other pathogens, and particularly the atypical pneumonias caused by Mycoplasma and Legionella spp., will depend on local epidemiological factors. The diagnostic tests to confirm diagnosis and subsequent treatment of these infections are reviewed.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Corticosteroids
-TITLE: Cochrane Corner: Corticosteroids for viral myocarditis.
-PMID: 25528972
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25528972/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The causes of myocarditis are diverse, but a viral etiology is the most common. In this systematic review by the Cochrane Collaboration, the authors assessed the efficacy of corticosteroid therapy in patients with viral myocarditis. Eight randomized controlled trials with 719 patients (two trials in pediatric populations) were included for analysis. Pooled results did not show significant differences in mortality with the use of corticosteroids. Patients on corticosteroid therapy had significantly higher post-treatment left ventricular ejection fraction values compared to control. These results are limited by the significant heterogeneity associated with clinical trials. The best available evidence does not support the routine use of corticosteroids in patients with viral myocarditis.

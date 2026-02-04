@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cochlear implants
-TITLE: Cochlear implants: clinical and societal outcomes.
-PMID: 22980678
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22980678/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Over the past 30 years, hearing care clinicians have increasingly relied on cochlear implants to restore auditory sensitivity in selected patients with advanced sensorineural hearing loss. This article examines the impact of intervention with cochlear implantation in children and adults. The authors report a range of clinic-based results and patient-based outcomes reflected in the reported literature on cochlear implants. The authors describe the basic assessment of the physiologic response to auditory nerve stimulation; measures of receptive and productive benefit; and surveys of life effects as reflected measures of quality of life, educational attainment, and economic impact.

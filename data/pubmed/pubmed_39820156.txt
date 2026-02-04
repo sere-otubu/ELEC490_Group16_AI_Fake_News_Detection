@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Menopause
-TITLE: Sleep disturbance and menopause.
-PMID: 39820156
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39820156/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sleep problems are among the most prevalent and bothersome symptoms of menopause. This review characterizes menopausal sleep disturbances, describes biopsychosocial predictors, and summarizes the evidence supporting pharmacological and nonpharmacological treatment options. Recent studies found that sleep changes are early indicators of perimenopause and sought to disentangle the respective impacts of menopausal status, hot flashes (HFs), and changes in reproductive hormones on peri-/postmenopausal sleep problems. Both HFs and reproductive hormones predicted sleep problems, but neither solely accounted for the myriad changes in sleep, thus highlighting the contribution of additional biopsychosocial risk factors. Inconsistencies across studies were likely due to differences in study design and methodology, participants' menopausal stage, and the presence of sleep complaints. Recent studies support the use of psychological (cognitive-behavioral therapy for insomnia) and pharmacological (e.g., neurokinin B antagonists) treatments in addition to hormone therapy. Sleep problems are common and of critical import to women during the menopausal transition, significantly influencing treatment preferences and satisfaction. Thus, sleep problems should be routinely assessed from a biopsychosocial perspective and treated with evidence-based interventions throughout menopause. Treatment selection should be based on diagnosis and careful assessment.

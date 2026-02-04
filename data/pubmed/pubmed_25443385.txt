@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25443385)
-    QUESTION: Are virtual planning and guided surgery for head and neck reconstruction economically viable?
-    CONTEXT: Virtual planning and guided surgery with or without prebent or milled plates are becoming more and more common for mandibular reconstruction with fibular free flaps (FFFs). Although this excellent surgical option is being used more widely, the question of the additional cost of planning and cutting-guide production has to be discussed. In capped payment systems such additional costs have to be offset by other savings if there are no special provisions for extra funding. Our study was designed to determine whether using virtual planning and guided surgery resulted in time saved during surgery and whether this time gain resulted in self-funding of such planning through the time saved.
-    ANSWER: Even in capped health care systems, virtual planning and guided surgery including prebent or milled plates are financially viable.
-    

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22955530)
-    QUESTION: Type II supracondylar humerus fractures: can some be treated nonoperatively?
-    CONTEXT: The range of injury severity that can be seen within the category of type II supracondylar humerus fractures (SCHFs) raises the question whether some could be treated nonoperatively. However, the clinical difficulty in using this approach lies in determining which type II SCHFs can be managed successfully without a surgical intervention.
-    ANSWER: This study suggests that some of the less severe pediatric type II SCHFs can be successfully treated without surgery if close follow-up is achieved. Fractures with initial rotational deformity, coronal malalignment, and significant extension of the distal fragment are likely to fail a nonoperative approach. An algorithm using the initial radiographic characteristics can aid in distinguishing groups.
-    

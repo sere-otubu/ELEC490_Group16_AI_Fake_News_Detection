@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gallstones
-TITLE: [Gallstones and gallstone-associated complications in patients treated with statin].
-PMID: 26509539
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26509539/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Statins are a widely used group of drugs which can lower cholesterol levels. Recently, there has been emerging evidence that statins may decrease the formation of cholesterol gallstones and several studies have reported invert association between symptomatic cholesterol gallstones and statin use. Subsequent evidence for decrease in gallstone-associated complications among statin users have not been clearly described. In this review we summarize current evidence for the association between statin use and the risk of gallstone-associated complications.

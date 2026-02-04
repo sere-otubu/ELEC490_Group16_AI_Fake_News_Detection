@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24516646)
-    QUESTION: Is the determination of specific IgE against components using ISAC 112 a reproducible technique?
-    CONTEXT: The ImmunoCAP ISAC 112 is a fluoro-immunoassay that allows detection of specific IgE to 112 molecular components from 51 allergenic sources. We studied the reliability of this technique intra- and inter- assay, as well as inter-batch- and inter-laboratory-assay.
-    ANSWER: The allergen microarray immunoassay, ISAC 112, is a repeatable and reproducible in vitro diagnostic tool for determination of sIgE beyond the own laboratory.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Platelets
-TITLE: Platelets in neonates: central mediators in haemostasis, antimicrobial defence and inflammation.
-PMID: 25185520
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25185520/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Platelets are not only centrally involved in haemostasis, but also in antimicrobial defence and inflammation. Since evaluation of platelet physiology in the particular patient group of preterm and term neonatal infants is highly restricted for ethical reasons, there are hardly any data available in healthy and much less in extremely immature or ill neonates. By summarising current knowledge and addressing both platelet researchers and neonatologists, we describe neonatal platelet count and morphology, report on previous analyses of neonatal platelet function in primary haemostasis and provide insights into recent advances in platelet immunology that considerably impacts our clinical view on the critically ill neonatal infant. We conclude that neonatal platelets, originating from liver megakaryocytes, substantially differ from adult platelets and may play a pivotal role in the pathophysiology of neonatal sepsis or intraventricular haemorrhage, both complications which seriously augment perinatal morbidity and mortality.

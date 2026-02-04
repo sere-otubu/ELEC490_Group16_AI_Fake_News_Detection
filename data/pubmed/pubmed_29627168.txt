@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cystic fibrosis
-TITLE: Cystic fibrosis papers of the year 2017.
-PMID: 29627168
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29627168/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The number of published articles on Cystic Fibrosis (CF) continues to increase year on year. The evidence base for small molecule therapies in CF has continued to expand, with evidence for lumacaftor/ivacaftor in younger patients and longer-term evidence in adults, and pivotal studies on tezacaftor/ivacaftor. There were reports on emerging CFTR mutation agnostic therapies, and new evidence for long standing therapies.

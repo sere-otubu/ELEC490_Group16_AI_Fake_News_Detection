@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urinary tract infection
-TITLE: Urinary tract infection syndromes: occurrence, recurrence, bacteriology, risk factors, and disease burden.
-PMID: 24484571
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24484571/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Urinary tract infection (UTI) is one of the most common bacterial infections, accounting for 0.9% of all ambulatory visits in the United States. This review defines the major UTI syndromes, their occurrence and recurrence, bacteriology, risk factors, and disease burden.

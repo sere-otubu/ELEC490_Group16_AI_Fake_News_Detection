@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17682349)
-    QUESTION: Are there gender differences in the reasons why African Americans delay in seeking medical help for symptoms of an acute myocardial infarction?
-    CONTEXT: To identify gender differences in delay time and the reasons why African Americans delay in seeking medical care for symptoms of acute myocardial infarction (AMI).
-    ANSWER: Women compared to men often delay seeking treatment for an AMI, which further increases their risks. Our findings suggest specific characteristics that can serve as a profile to those African Americans most likely to delay seeking treatment for AMI.
-    

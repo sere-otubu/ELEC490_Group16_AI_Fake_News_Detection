@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rosacea
-TITLE: Standard classification and pathophysiology of rosacea: The 2017 update by the National Rosacea Society Expert Committee.
-PMID: 29089180
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29089180/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In 2002, the National Rosacea Society assembled an expert committee to develop the first standard classification of rosacea. This original classification was intended to be updated as scientific knowledge and clinical experience increased. Over the last 15 years, significant new insights into rosacea's pathogenesis and pathophysiology have emerged, and the disorder is now widely addressed in clinical practice. Growing knowledge of rosacea's pathophysiology has established that a consistent multivariate disease process underlies the various clinical manifestations of this disorder, and the clinical significance of each of these elements is increasing as more is understood. This review proposes an updated standard classification of rosacea that is based on phenotypes linked to our increased understanding of disease pathophysiology. This updated classification is intended to provide clearer parameters to conduct investigations, guide diagnosis, and improve treatment.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18274917)
-    QUESTION: Prognosis of low-tone sudden deafness - does it inevitably progress to Meniere's disease?
-    CONTEXT: To investigate whether low-tone SD was a precursor of Meniere's disease and whether patients with low-tone SD suffered from endolymphatic hydrops.
-    ANSWER: We conclude that not all low-tone sudden deafness (SD) patients suffered from endolymphatic hydrops even if they had vertigo attack at the onset and that electrocochleography (ECochG) was a useful prognostic tool.
-    

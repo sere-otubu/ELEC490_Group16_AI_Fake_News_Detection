@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gestational Diabetes
-TITLE: Gestational diabetes - is diet and insulin the only solution?
-PMID: 29106783
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29106783/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gestational diabetes (GDM) is a relatively common complication of pregnancy. Maternal hyperglycemia causes many serious side effects for mothers, fetuses and newborns. In 90% of women diagnosed with GDM, a dietary treatment results in satisfactory levels of blood glucose. The remaining 10% require insulin therapy to achieve the recommended glycemic levels. The majority of recent studies show the efficiency of metformin in gestational diabetes and prove that it is not a cause for any harmful side effects to the embryo and/or fetus. Metformin is an effective alternative to insulin in glycemic control in pregnant women. The implementation of metformin, as a routine procedure in gestational diabetes, requires further research, the results of which would unequivocally confirm its efficacy and safety for pregnant women and their offspring.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Typhoid fever
-TITLE: Typhoid-From Past to Future.
-PMID: 31612936
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31612936/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Making a Difference? brings together medical humanities and sciences experts to analyze how historical and new data on typhoid control can be brought to bear on the current context of typhoid conjugate vaccine rollouts and extensively drug-resistant typhoid.

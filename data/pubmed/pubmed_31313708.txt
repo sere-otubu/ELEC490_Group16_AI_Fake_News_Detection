@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Eating disorders
-TITLE: Eating disorders and posttraumatic stress disorder.
-PMID: 31313708
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31313708/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Childhood maltreatment is associated with all types of eating disorders. We provide a systematic review of the recent literature on comorbid posttraumatic stress disorder (PTSD) in patients with eating disorders, and focus on prevalence, relationship with symptom severity, operating mechanisms and treatment. The prevalence of comorbid PTSD in patients with eating disorders ranges from 9 to 24%, with research suggesting that comorbid PTSD is associated with more severe eating disorder symptoms. Maladaptive emotional regulation strategies may mediate the relationship between PTSD and eating disorders. Two pilot studies provide preliminary evidence that concurrent cognitive behavior therapy (CBT) for PTSD and eating disorders may be beneficial and that repetitive transcranial magnetic stimulation (rTMS) could be helpful in the treatment of PTSD in some eating disorder patients. PTSD is a common comorbidity in patients with eating disorders and impacts the severity of their eating disorder symptoms. However, there is little research into concurrent treatments for PTSD and eating disorders. Difficulties in emotional regulation may be a common mechanism in both disorders.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24671913)
-    QUESTION: Does SYNTAX score predict in-hospital outcomes in patients with ST elevation myocardial infarction undergoing primary percutaneous coronary intervention?
-    CONTEXT: SYNTAX score (SxS) has been demonstrated to predict long-term outcomes in stable patients with coronary artery disease. But its prognostic value for patients with acute coronary syndrome remains unknown.AIM: To evaluate whether SxS could predict in-hospital outcomes for patients admitted with ST elevation myocardial infarction (STEMI) who undergo primary percutaneous coronary intervention (pPCI).
-    ANSWER: SxS is a useful tool that can predict in-hospital outcomes of patients with STEMI undergoing pPCI.
-    

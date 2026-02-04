@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Integrative health
-TITLE: [Not Available].
-PMID: 34372645
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34372645/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The study aims to document the experience of integrating a mental health care package into the general health care system of Lubero district in the Democratic Republic of Congo (DRC) between 2011 and 2015, and more specifically, the effects of this integration on the access to and use of health services offering mental health care. This is a retrospective study using a case study design. Data collected from different project documents and an analytic review of the official reports of the Ministry of Public Health were used for an analysis of the results of the integration. The results indicate that 3,941&#160;patients with mental health problems used the care offered at the health centers and the district hospital between 2012 and 2015. In 2015, the average utilization rate of curative care in health centers for mental health problems was 7&#160;new cases/1,000&#160;inhabitants/year. The majority of these patients were treated on an outpatient basis, at primary health care level. Our study shows that it is possible to integrate mental health into existing general health services in the DRC. Nevertheless, the major problems in terms of access and use of basic care in the Lubero district indicate that the success of such an integration depends on the quality of the health system in place and the involvement of a wide range of both health and non-health actors, including key people within communities.

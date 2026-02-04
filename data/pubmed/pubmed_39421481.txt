@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lung cancer
-TITLE: Lung Cancer in Missouri.
-PMID: 39421481
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39421481/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Lung Cancer remains one of the leading causes of cancer related diagnoses and deaths in Missouri and across the United States. It is a major source of morbidity, mortality, and economic impact in Missouri. Over the past several years, major insights to the underlying risk factors of lung cancer have been discovered. Lung cancer screening has evolved and there are new updates to guideline recommendations on screenings. Here we outline the epidemiology and etiology of lung cancer, mitigation strategies for risk factor reduction, and review updates to lung cancer screening recommendations.

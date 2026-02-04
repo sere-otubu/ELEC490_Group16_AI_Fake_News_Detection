@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dental cavities
-TITLE: Prevention of Dental Caries by Silver Diamine Fluoride.
-PMID: 30829497
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30829497/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The use of silver diamine fluoride (SDF) for management of dental caries has gained considerable attention due to recent regulatory clearance in the United States. The primary focus of policies, presentations, and publications has been the arrest of caries lesions (cavities) because of the material's unique ability to non-invasively achieve this elusive and clinically important goal. However, SDF also has proven efficacy in prevention, ie, decreasing the incidence of new caries lesions. Analysis of nine clinical trials in children shows that SDF prevented 61% of new lesions compared to controls. To prevent one new caries lesion, clinicians need to treat four primary teeth (one patient) or 12.1 permanent molars (three patients) with SDF. The preventive effect appears to be immediate and maintains at the same fraction over time. Direct comparisons of SDF applied once per year with alternative treatments show that SDF is more effective than other topical fluorides placed two to four times per year and more cost-effective than dental sealants. Enamel lesions may be even more responsive than cavitated dentin lesions. Annual application of SDF to high-risk surfaces (eg, mesial surfaces of permanent first molars where the distal surface of the second primary molar is carious) in patients with any risk of new caries lesions appears to be the most cost-effective approach available to prevent dental caries. SDF is an underutilized evidence-based preventive agent for dental caries.

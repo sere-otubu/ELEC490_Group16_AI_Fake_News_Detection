@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic screening
-TITLE: Genetic screening: carriers and affected individuals.
-PMID: 15485343
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15485343/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Genetic screening utilizes analytical approaches adapted for high throughput to identify carrier and affected individuals in a targeted population. Currently, genetic screening focuses on carrier screening, prenatal screening, and newborn screening. Newborn screening should serve as a model for all genetic screening, with more than forty years of experience and numerous lessons learned. As with all genetic screening, there are policy concerns in newborn screening regarding which disorders and technologies should be selected, and how centralized or decentralized the process to set policy should be. The need to share experiences and develop databases transcends all other policy considerations in genetic screening. The future will see population-based screening for adult-onset disorders. However, there needs to be extensive research to define predictive risk for various ethnocultural groups and to determine effective interventions. Ethical concerns regarding the timing of population screening, as well as the scope of use of information, will need to be resolved if genomic medicine will achieve its promise of a predictive, preventive, and personalized medicine.

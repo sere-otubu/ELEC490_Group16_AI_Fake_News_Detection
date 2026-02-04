@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Narcissistic personality disorder
-TITLE: Pathological narcissism and narcissistic personality disorder.
-PMID: 20001728
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20001728/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-We review the literature on pathological narcissism and narcissistic personality disorder (NPD) and describe a significant criterion problem related to four inconsistencies in phenotypic descriptions and taxonomic models across clinical theory, research, and practice; psychiatric diagnosis; and social/personality psychology. This impedes scientific synthesis, weakens narcissism's nomological net, and contributes to a discrepancy between low prevalence rates of NPD and higher rates of practitioner-diagnosed pathological narcissism, along with an enormous clinical literature on narcissistic disturbances. Criterion issues must be resolved, including clarification of the nature of normal and pathological narcissism, incorporation of the two broad phenotypic themes of narcissistic grandiosity and narcissistic vulnerability into revised diagnostic criteria and assessment instruments, elimination of references to overt and covert narcissism that reify these modes of expression as distinct narcissistic types, and determination of the appropriate structure for pathological narcissism. Implications for the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders and the science of personality disorders are presented.

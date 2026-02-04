@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Strength training
-TITLE: Strength Training in Professional Soccer: Effects on Short-sprint and Jump Performance.
-PMID: 34560812
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34560812/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Several studies have confirmed the efficacy of strength training to maximize soccer player performance during competition. The aim of this meta-analysis was to determine the effects of different strength training protocols on short-sprint and vertical jump performance of professional soccer players from the first division of their countries. The following inclusion criteria were employed for the analysis: (a) randomized studies; (b) high validity and reliability instruments; (c) studies published in a high-quality peer-reviewed journal; (d) studies involving professional soccer players from the first division; (e) studies with descriptions of strength training programs; and (f) studies where countermovement jump and 10-m sprint time were measured pre and post training. Overall, the different strength-oriented training schemes produced similar performance improvements, which seem not to depend on the training strategy. Strength training appears to have a lower effect when applied during in-season than when applied in pre-season periods in first division soccer players. In this meta-analysis it is not possible to confirm that strength training in isolation is capable of improving the short-sprint and jump performance of elite soccer players. The congested fixture schedule and, thus, the limited time to perform complementary (non-specific) training sessions, may contribute to these reduced effects.

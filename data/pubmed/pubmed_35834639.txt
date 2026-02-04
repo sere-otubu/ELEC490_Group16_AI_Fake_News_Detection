@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Inhalers
-TITLE: Radiolabeling Methods.
-PMID: 35834639
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35834639/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-<i>In vivo</i> measurements of the deposition of an inhaled radiolabeled pharmaceutic have provided useful information related to the inhaler efficiency for depositing drug in the lung. A number of labeling techniques have been developed and applied to pharmaceutical aerosols delivered by pressurized metered-dose inhalers (pMDIs), dry powder inhalers (DPIs) and nebulizers; the choice of radiotracer depends on the type of imaging study being performed and the equipment used to image the lung. Preparation, validation and calibration of the radiolabeled pharmaceutical product is key to successful interpretation of the imaging study. When imaging a subject after inhalation of a radiolabeled formulation, it is the radioactivity that is detected and measured by the scanner; absolute amounts of deposited drug are inferred from the counts of radioactivity in the lung and other regions, based on the assumption that there is a 1:1 relationship between the two components-drug and radioactivity. This relationship holds true for direct-labeled PET products or for those formulations where a firm bond can be demonstrated between the drug and radiotracer for the time taken to acquire all the images. This chapter will discuss radiolabeling methods applied to therapeutic aerosols for the purpose of determining the deposition efficiency of these aerosols in the lung. The techniques apply to both <i>in vivo</i> studies in man and in animal models, and to some extent to <i>in vitro</i> models.

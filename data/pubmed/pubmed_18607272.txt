@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18607272)
-    QUESTION: Body perception: do parents, their children, and their children's physicians perceive body image differently?
-    CONTEXT: To compare children's, parents' and physicians' perceptions of children's body size.
-    ANSWER: Many children underestimated their degree of overweight. Their parents and even their attending physicians shared this misperception. This study demonstrates the need to further educate physicians to recognize obesity and overweight so that they can counsel children and their families.
-    

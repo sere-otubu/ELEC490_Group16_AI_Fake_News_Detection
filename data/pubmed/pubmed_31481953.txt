@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immune response
-TITLE: Immune Response to Mucosal <i>Brucella</i> Infection.
-PMID: 31481953
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31481953/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Brucellosis is one of the most prevalent bacterial zoonosis of worldwide distribution. The disease is caused by <i>Brucella</i> spp., facultative intracellular pathogens. Brucellosis in animals results in abortion of fetuses, while in humans, it frequently manifests flu-like symptoms and a typical undulant fever, being osteoarthritis a common complication of the chronic infection. The two most common ways to acquire the infection in humans are through the ingestion of contaminated dairy products or by inhalation of contaminated aerosols. <i>Brucella</i> spp. enter the body mainly through the gastrointestinal and respiratory mucosa; however, most studies of immune response to <i>Brucella</i> spp. are performed analyzing models of systemic immunity. It is necessary to better understand the mucosal immune response induced by <i>Brucella</i> infection since this is the main entry site for the bacterium. In this review, some virulence factors and the mechanisms needed for pathogen invasion and persistence are discussed. Furthermore, some aspects of local immune responses induced during <i>Brucella</i> infection will be reviewed. With this knowledge, better vaccines can be designed focused on inducing protective mucosal immune response.

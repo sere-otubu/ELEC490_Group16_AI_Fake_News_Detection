@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Deep vein thrombosis
-TITLE: Deep vein thrombosis and pulmonary embolism.
-PMID: 27375038
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27375038/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Deep vein thrombosis and pulmonary embolism, collectively referred to as venous thromboembolism, constitute a major global burden of disease. The diagnostic work-up of suspected deep vein thrombosis or pulmonary embolism includes the sequential application of a clinical decision rule and D-dimer testing. Imaging and anticoagulation can be safely withheld in patients who are unlikely to have venous thromboembolism and have a normal D-dimer. All other patients should undergo ultrasonography in case of suspected deep vein thrombosis and CT in case of suspected pulmonary embolism. Direct oral anticoagulants are first-line treatment options for venous thromboembolism because they are associated with a lower risk of bleeding than vitamin K antagonists and are easier to use. Use of thrombolysis should be limited to pulmonary embolism associated with haemodynamic instability. Anticoagulant treatment should be continued for at least 3 months to prevent early recurrences. When venous thromboembolism is unprovoked or secondary to persistent risk factors, extended treatment beyond this period should be considered when the risk of recurrence outweighs the risk of major bleeding.

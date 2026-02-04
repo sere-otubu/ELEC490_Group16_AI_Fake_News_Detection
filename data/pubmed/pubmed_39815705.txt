@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Addisons disease
-TITLE: [Addison's disease: looking to the past and the future].
-PMID: 39815705
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39815705/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In 1849, Thomas Addison discovered alterations in the adrenal glands at autopsy of three patients who had died with idiopathic anemia. Struck by Addison's work, Charles-Edouard Brown-Séquard demonstrated in 1851 that bilateral adrenalectomy in dogs was fatal. It was not until 1950 that the discovery of the hormones of the adrenal cortex, their structure and their biological effects allowed Kendall, Reichstein and Hench to win the Nobel Prize in Physiology or Medicine. Nowadays, autoimmune adrenalitis accounts for almost 80 % of cases diagnosed with Addison's disease. The causes of this serious condition, which doubles the mortality rate of affected patients compared to the general population, have been expanded by genetic and iatrogenic causes. The latter are increasingly associated with immunological cancer therapies. It is essential to educate the patients with Addison's disease to improve the management of their condition and to remain responsive to the many triggers such as stress, infections or surgery. The management of Addison's disease is of interest not only to endocrinologists but also to general medical practitioners and critical care specialists. Recent studies aim to improve the understanding of the physiological and therapeutic effects of hydrocortisone, mineralocorticoids and adrenal androgens.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22117569)
-    QUESTION: Is an advance care planning model feasible in community palliative care?
-    CONTEXT: An effective advance care planning programme involves an organizational wide commitment and preparedness for health service reform to embed advance care planning into routine practice. Internationally, such programmes have been implemented predominantly in aged and acute care with more recent work in primary care.
-    ANSWER: An advance care planning model is feasible for community palliative care services. Quality audit processes are an essential component of the Model with documentation of advance care planning discussion established as an important outcome measure.
-    

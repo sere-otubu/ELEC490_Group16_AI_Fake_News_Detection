@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Smoking cessation
-TITLE: Smoking cessation and vascular endothelial function.
-PMID: 37828134
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37828134/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Smoking is associated with vascular endothelial dysfunction. It is thought that smoking impairs vascular endothelial function through a decrease in nitric oxide bioavailability induced by activation of oxidative stress and inflammation. Endothelial dysfunction can be improved or augmented by appropriate interventions including pharmacotherapy, administration of supplements and lifestyle modifications. Although there have not been many studies, the effects of smoking cessation on endothelial function have been shown. In those studies, it was shown that smoking cessation does not always have a positive effect on vascular endothelial function. In this review, I will focus on the role of smoking in endothelial function and the effects of smoking cessation on endothelial function. Smoking impairs vascular endothelial function and leads to atherosclerosis. Smoking cessation is expected to improve vascular endothelial function. Effects of smoking cessation on endothelial function are not always consistent. Further studies are needed to determine whether smoking cessation directly improves endothelial function. NO indicates nitric oxide.

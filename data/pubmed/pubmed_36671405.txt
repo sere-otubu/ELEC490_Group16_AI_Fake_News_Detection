@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Integumentary system
-TITLE: NRF2 in the Epidermal Pigmentary System.
-PMID: 36671405
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36671405/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Melanogenesis is a major part of the environmental responses and tissue development of the integumentary system. The balance between reduction and oxidation (redox) governs pigmentary responses, for which coordination among epidermal resident cells is indispensable. Here, we review the current understanding of melanocyte biology with a particular focus on the "master regulator" of oxidative stress responses (i.e., the Kelch-like erythroid cell-derived protein with cap'n'collar homology-associated protein 1-nuclear factor erythroid-2-related factor 2 system) and the autoimmune pigment disorder vitiligo. Our investigation revealed that the former is essential in pigmentogenesis, whereas the latter results from unbalanced redox homeostasis and/or defective intercellular communication in the interfollicular epidermis (IFE). Finally, we propose a model in which keratinocytes provide a "niche" for differentiated melanocytes and may "imprint" IFE pigmentation.

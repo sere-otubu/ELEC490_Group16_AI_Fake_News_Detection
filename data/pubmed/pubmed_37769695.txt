@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urinary system
-TITLE: Ultrasound Diagnosis of Malformations of the Fetal Kidneys and Urinary System.
-PMID: 37769695
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37769695/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Malformations of the fetal kidneys and urinary system are common and easily visualized and diagnosed on ultrasound. This article presents the typical sonographic findings of these abnormalities during the various stages of pregnancy. Because malformations of the urogenital tract often have an association with genetic diseases/ciliopathies, these are also discussed. To complete the article, we provide a brief overview of the normal anatomy of the kidneys and urinary system. The normal anatomy and malformations of the genitalia will not be discussed in this article due to their complexity.

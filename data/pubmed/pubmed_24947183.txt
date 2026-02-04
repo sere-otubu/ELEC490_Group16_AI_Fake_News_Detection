@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24947183)
-    QUESTION: Does delaying surgery in immature adolescent idiopathic scoliosis patients with progressive curve, lead to addition of fusion levels?
-    CONTEXT: To analyze the changes in the curve extent, pattern and the fusion level in adolescent idiopathic scoliosis (AIS) patients who undergo delayed surgery instead of early surgery.
-    ANSWER: Delay of surgery in immature AIS patients whose Cobb's angle exceed 40° initially and showing subsequent progression of the curve, of more than 10° can lead to alterations in the curve pattern and the need for increase in fusion levels.
-    

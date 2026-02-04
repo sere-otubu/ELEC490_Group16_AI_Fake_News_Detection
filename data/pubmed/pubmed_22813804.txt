@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22813804)
-    QUESTION: Does obesity impact the pattern and outcome of trauma in children?
-    CONTEXT: Childhood obesity is pandemic condition. The effect of obesity on trauma outcomes in children has been relatively understudied. We conducted this study to ascertain the effects of obesity on the hospital outcome of injured children.
-    ANSWER: Obesity does not seem to impact the severity of injury, mortality rate, types of injury, and procedure outcomes in children. Obese patients are more likely to have rib and pelvic injuries.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Health literacy
-TITLE: New technologies, new disparities: The intersection of electronic health and digital health literacy.
-PMID: 31171391
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31171391/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Mobile health, or mHealth, is the implementation of digital health services with mobile and wearable devices, and has ample potential to enhance self-management of chronic conditions, especially cardiovascular risk factors (e.g., blood pressure control and supporting tobacco cessation and physical activity). It remains ambiguous, however, whether such technologies can improve cardiovascular outcomes. More importantly, mHealth carries the additional challenge of digital health literacy, which demands particular skills complementary to general and health literacy. Populations at risk for limited health literacy are similarly vulnerable to having challenges with digital health literacy. We identify such challenges and outline solutions to improve access to digital health services and their use for individuals with limited digital health literacy. We present an 18-point "Digital Universal Precautions" as a mandate for health care organizations committed towards addressing and facilitating eHealth literacy. As health care institutions increasingly advance mHealth through delivery of on-line material and patient portals, they face the challenge of ensuring that digital health services and content are available to all patients.

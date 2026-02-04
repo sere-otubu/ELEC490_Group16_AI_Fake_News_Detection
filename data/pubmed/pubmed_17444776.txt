@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17444776)
-    QUESTION: Is the holmium:YAG laser the best intracorporeal lithotripter for the ureter?
-    CONTEXT: To study the efficiency and safety of holmium:YAG laser lithotripsy for ureteral stones.
-    ANSWER: The Holmium:YAG laser is an ideal intracorporeal lithotripter for ureteral calculi, with a high success rate and low morbidity.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic disorders
-TITLE: An update of childhood genetic disorders.
-PMID: 23294802
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23294802/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Thousands of single gene, mitochondrial, and chromosomal disorders have been described in children. The purpose of this article is twofold. The first is to increase nurses' awareness of new developments in genetic disorders that are commonly seen in practice and taught in schools of nursing. The second is to illustrate important genetic concepts of relevance to nurses who care for infants, children, or adolescents. This article is organized into four sections: one that describes new developments in a well-known disorder, a second that discusses the process and potential outcomes of diagnosing a very rare disorder, and the third and fourth sections that describe select conditions caused by single gene mutations. Clinical expertise was paired with literature review to present evidence-based current information. Implications for nursing practice are highlighted throughout the article. Citations of publicly available evidence-based online resources are used so nurses can continue to use these in their practices. Diagnosis and treatment strategies for children with genetic disorders are rapidly changing. While it is impossible to stay current in all disorders, resources are available to help nurses provide evidence-based care to children with genetic disorders. Nurses have an important role in the early identification of children with genetic disorders and in facilitating their access to appropriate services and resources. Nurses can also help families understand why genetic testing may be necessary and assure families are informed throughout the process.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Iron deficiency
-TITLE: Absolute and functional iron deficiency: Biomarkers, impact on immune system, and therapy.
-PMID: 39142965
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39142965/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Iron is essential for numerous physiological processes and its deficiency often leads to anemia. Iron deficiency (ID) is a global problem, primarily affecting reproductive-age women and children, especially in developing countries. Diagnosis uses classical biomarkers like ferritin or transferrin saturation. Recent advancements include using soluble transferrin receptor (sTfR) or hepcidin for improved detection and classification of absolute and functional iron deficiencies, though mostly used in research. ID without anemia may present symptoms like asthenia and fatigue, even without relevant clinical consequences. ID impacts not only red-blood cells but also immune system cells, highlighting its importance in global health and immune-related comorbidities. Managing ID, requires addressing its cause and selecting appropriate iron supplementation. Various improved oral and intravenous products are available, but further research is needed to refine treatment strategies. This review updates on absolute and functional iron deficiencies, their relationships with the immune system and advancements in diagnosis and therapies.

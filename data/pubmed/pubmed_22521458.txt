@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Contraceptive pills
-TITLE: Knowledge of contraceptive effectiveness.
-PMID: 22521458
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22521458/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The purpose of this study was to determine women's knowledge of contraceptive effectiveness. We performed a cross-sectional analysis of a contraceptive knowledge questionnaire that had been completed by 4144 women who were enrolled in the Contraceptive CHOICE Project before they received comprehensive contraceptive counseling and chose their method. For each contraceptive method, women were asked "what percentage would get pregnant in a year: <1%, 1-5%, 6-10%, >10%, don't know." Overall, 86% of subjects knew that the annual risk of pregnancy is >10% if no contraception is used. More than 45% of women overestimate the effectiveness of depo-medroxyprogesterone acetate, pills, the patch, the ring, and condoms. After adjustment for age, education, and contraceptive history, the data showed that women who chose the intrauterine device (adjusted relative risk, 6.9; 95% confidence interval, 5.6-8.5) or implant (adjusted relative risk, 5.9; 95% confidence interval, 4.7-7.3) were significantly more likely to identify the effectiveness of their method accurately compared with women who chose either the pill, patch, or ring. This cohort demonstrated significant knowledge gaps regarding contraceptive effectiveness and over-estimated the effectiveness of pills, the patch, the ring, depo-medroxyprogesterone acetate, and condoms.

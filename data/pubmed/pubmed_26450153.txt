@@ -1,8 +1,0 @@
-SEARCH_TOPIC: COPD
-TITLE: Asthma-COPD overlap syndrome (ACOS): A diagnostic challenge.
-PMID: 26450153
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26450153/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Asthma-chronic obstructive pulmonary disease (COPD) overlap syndrome (ACOS) is characterized by persistent airflow limitation with several features usually associated with asthma and several features usually associated with COPD. ACOS may be a special phenotype of a spectrum of chronic obstructive airway diseases, in which asthma and COPD are at the two opposite ends. The prevalence of ACOS varies considerably due to differing criteria being applied for diagnosis. Patients with ACOS utilize a large proportion of medical resources. They are associated with more frequent adverse outcomes than those with asthma or COPD alone. ACOS is currently a diagnostic challenge for physicians because there are no specific biomarkers to differentiate ACOS from asthma or COPD. The approach to diagnosing ACOS depends on the population from which the patient originated. The management of ACOS should be individualized to ensure the most effective treatment with minimal side effects. In this paper, we review the diagnostic criteria of ACOS used in previous studies, propose practical approaches to diagnosing and managing ACOS and raise some research questions related to ACOS.

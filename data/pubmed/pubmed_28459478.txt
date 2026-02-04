@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vitamin D deficiency
-TITLE: Vitamin D Deficiency, Its Role in Health and Disease, and Current Supplementation Recommendations.
-PMID: 28459478
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28459478/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Vitamin D deficiency has been identified as a common metabolic/endocrine abnormality. Despite known dietary sources of vitamin D and the role of sunlight in its production, much of the US population may have inadequate levels of serum 25-hydroxyvitamin D. Deficiency of vitamin D can be caused by a variety of health conditions, but studies on the effects of vitamin D supplements have had mixed results. This evidence-based clinical review discusses what is currently known about vitamin D and what areas need further research to clarify its role in health and disease.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cortisol
-TITLE: Cortisol, high cortisol diseases and anti-cortisol therapy.
-PMID: 9264141
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9264141/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Elevated cortisol is found in many diseases, including infectious, aging-related, depression and depression-associated conditions; even in some with no known origin, and no known therapy. While it was initially thought that 'high cortisol' is the result of these diseases, there is mounting evidence to the contrary, namely, that high cortisol actually plays a major role in inducing them, opening the possibility that anti-cortisol drugs might represent a new beneficial therapy. Evidence is here presented, showing that the use of anti-cortisol drugs has already induced beneficial results in conditions ranging from AIDS to depression. A main reason for not realizing the major role played by cortisol is due to a defective interpretation of cortisol results. If cortisol is within normal range of 0800 h or 1700 h, it has been considered normal, without realizing that swings, sometimes at immunosuppressive levels, might occur during its 24 h circadian rhythm. We suggest that a first step toward unveiling the role of cortisol in diseases would be to develop a standardized cortisol circadian rhythm chart that would show normal levels at any time during a 24 h period, enabling a more accurate comparison with cortisol values obtained under pathological conditions.

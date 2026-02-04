@@ -1,8 +1,0 @@
-SEARCH_TOPIC: IBS
-TITLE: Digesting the Impact of Diet on Irritable Bowel Syndrome (IBS): Exploring Solutions for Controlling IBS.
-PMID: 37846263
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37846263/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Irritable bowel syndrome (IBS) plagues nearly a fifth of the general population. It is a chronic illness that can significantly lower quality of life (QoL) and work productivity. The relationship between diet and the functional gastrointestinal (GI) symptoms present in IBS is gaining more and more attention. In addition to being a factor in the pathophysiology of IBS, diet also has a significant impact on symptoms and overall well-being. Recent research has also shown that short-chain fermentable carbohydrates increase colonic gas production and small intestine water volume, which in turn causes functional GI symptoms in those with visceral hypersensitivity. This review article has consolidated various studies highlighting the association between certain foods and the pathophysiology of IBS. It has also talked about how restricting certain food items from the diet of affected individuals can relieve symptoms and in some cases can be more effective than pharmacotherapy. Although the low reduced fermentable oligosaccharide, disaccharide, monosaccharide, and polyol (FODMAP) diet (LFD) is a well-known method of treating IBS symptoms, over a third of individuals do not benefit from it. This article has also discussed the effectiveness and applicability of the LFD compared to other dietary therapies for the long-term management of IBS.

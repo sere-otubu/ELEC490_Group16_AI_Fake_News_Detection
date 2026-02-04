@@ -1,8 +1,0 @@
-SEARCH_TOPIC: X ray imaging
-TITLE: X-ray imaging for palaeontology.
-PMID: 15121706
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15121706/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Few may be aware that X-ray imaging is used in palaeontology and has been used since as early as 1896. The X-raying, preparation and exposure of Hunsrück slate fossils are described. Hospital X-ray machines are used by the author in his work. An X-ray is vital to provide evidence that preparation of a slate is worthwhile as well as to facilitate preparation even if there is little external sign of what lies within. The beauty of the X-ray exposure is an added bonus.

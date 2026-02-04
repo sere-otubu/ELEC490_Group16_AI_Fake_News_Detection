@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 15528969)
-    QUESTION: Is expert breast pathology assessment necessary for the management of ductal carcinoma in situ ?
-    CONTEXT: Current guidelines include a recommendation that a pathologist with expertise in breast disease review all ductal carcinoma in situ (DCIS) specimens due to the presence of significant variability in pathologic reporting of DCIS. The objective of this study was to evaluate the completeness and accuracy of pathologic reporting of DCIS over the past decade and to determine the current impact of expert breast pathology assessment on the management of DCIS.
-    ANSWER: Expert breast pathology assessments continue to be necessary in the management of DCIS.
-    

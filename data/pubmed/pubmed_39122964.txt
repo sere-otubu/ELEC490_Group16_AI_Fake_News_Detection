@@ -1,8 +1,0 @@
-SEARCH_TOPIC: IVF procedure
-TITLE: Deep learning versus manual morphology-based embryo selection in IVF: a randomized, double-blind noninferiority trial.
-PMID: 39122964
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39122964/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To assess the value of deep learning in selecting the optimal embryo for in vitro fertilization, a multicenter, randomized, double-blind, noninferiority parallel-group trial was conducted across 14 in vitro fertilization clinics in Australia and Europe. Women under 42 years of age with at least two early-stage blastocysts on day 5 were randomized to either the control arm, using standard morphological assessment, or the study arm, employing a deep learning algorithm, intelligent Data Analysis Score (iDAScore), for embryo selection. The primary endpoint was a clinical pregnancy rate with a noninferiority margin of 5%. The trial included 1,066 patients (533 in the iDAScore group and 533 in the morphology group). The iDAScore group exhibited a clinical pregnancy rate of 46.5% (248 of 533 patients), compared to 48.2% (257 of 533 patients) in the morphology arm (risk difference -1.7%; 95% confidence interval -7.7, 4.3; P = 0.62). This study was not able to demonstrate noninferiority of deep learning for clinical pregnancy rate when compared to standard morphology and a predefined prioritization scheme. Australian New Zealand Clinical Trials Registry (ANZCTR) registration: 379161 .

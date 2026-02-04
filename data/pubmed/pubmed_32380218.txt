@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lupus
-TITLE: The history of lupus throughout the ages.
-PMID: 32380218
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32380218/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The word lupus (Latin term for the wolf) was used indistinctively since the Middle Ages for several types of diseases characterized by ulcerous lesions, mainly in the lower limbs. In the middle of the 18th century, the French dermatologist Cazenave mentioned for the first time the term "lupus érythémateux," while Kaposi reported discoid lupus as a separate entity. The true turning point in the history of lupus occurred at the beginning of the 19th century, when the distinction between lupus vulgaris and cutaneous lupus in its modern sense emerged slowly. Major subsequent contributions from Kaposi, Sequiera and Balean, and Osler enabled the recognition of the systemic nature of the disease, with its modern history being marked by the recognition of DNA as the main target of antinuclear antibodies and the central role of interferons. Although many nonpharmacologic treatments have been used throughout the ages, glucocorticoids, hydroxychloroquine, and immunosuppressive agents mainly appeared in the second half of the 20th century. The beginning of the 21st century is now characterized by an in-depth understanding of the pathogenesis of the disease and the appearance of biologic and targeted treatments, paving the way for a better care of lupus patients.

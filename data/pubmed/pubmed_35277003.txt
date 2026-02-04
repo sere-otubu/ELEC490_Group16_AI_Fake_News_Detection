@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immune system
-TITLE: The Role of Minerals in the Optimal Functioning of the Immune System.
-PMID: 35277003
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35277003/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Minerals fulfil a wide variety of functions in the optimal functioning of the immune system. This review reports on the minerals that are essential for the immune system's function and inflammation regulation. We also discuss nutritional aspects of optimized mineral supply. The supply of minerals is important for the optimal function of the innate immune system as well as for components of adaptive immune defense; this involves defense mechanisms against pathogens in addition to the long-term balance of pro- and anti-inflammatory regulation. Generally, a balanced diet is sufficient to supply the required balance of minerals to help support the immune system. Although a mineral deficiency is rare, there are nevertheless at-risk groups who should pay attention to ensure they are receiving a sufficient supply of minerals such as magnesium, zinc, copper, iron, and selenium. A deficiency in any of these minerals could temporarily reduce immune competence, or even disrupt systemic inflammation regulation in the long term. Therefore, knowledge of the mechanisms and supply of these minerals is important. In exceptional cases, a deficiency should be compensated by supplementation; however, supplement over-consumption may be negative to the immune system, and should be avoided. Accordingly, any supplementation should be medically clarified and should only be administered in prescribed concentrations.

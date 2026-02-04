@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cardiovascular fitness
-TITLE: Cardiorespiratory Fitness and Cardiovascular Disease Prevention: an Update.
-PMID: 29340805
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29340805/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cardiovascular diseases account for nearly one third of all deaths globally. Improving exercise capacity and cardiorespiratory fitness (CRF) has been an important target to reduce cardiovascular events. In addition, the American Heart Association defined decreased physical activity as the fourth risk factor for coronary artery disease. Multiple large cohort studies have evaluated the impact of CRF on outcomes. In this review, we will discuss the role of CRF in reducing cardiovascular morbidity and mortality. Recent data suggest that CRF has an important role in reducing not only cardiovascular and all-cause mortality, but also incident myocardial infarction, hypertension, diabetes, atrial fibrillation, heart failure, and stroke. Most recently, its role in cancer prevention started to emerge. CRF protective effects have also been seen in patients with prior comorbidities like prior coronary artery disease, heart failure, depression, end-stage renal disease, and stroke. The prognostic value of CRF has been demonstrated in various patient populations and cardiovascular conditions. Higher CRF is associated with improved survival and decreased incidence of cardiovascular diseases (CVD) and other comorbidities including hypertension, diabetes, heart failure, and atrial fibrillation.

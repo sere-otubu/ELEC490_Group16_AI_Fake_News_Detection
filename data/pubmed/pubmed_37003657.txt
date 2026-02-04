@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Balance exercises
-TITLE: Postoperative Rehabilitation Following Rotator Cuff Repair.
-PMID: 37003657
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37003657/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Postoperative rehabilitation following rotator cuff repair is essential for a positive patient outcome. Each patient should have a program tailored to their individual tear and repair characteristics. Their plan should be advanced according to their progress, with therapist and surgeon communication. The rehabilitation progresses through 4 stages. This begins with a period of immobilization, passive range of motion, and protecting the repair and ends with functional and sport-specific exercises. Rehabilitation advances in progress-based steps during 24 weeks. The rehabilitation process aims to balance healing of the tendon repair and the risk of postoperative stiffness.

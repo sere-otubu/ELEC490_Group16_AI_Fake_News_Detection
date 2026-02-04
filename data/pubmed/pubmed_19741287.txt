@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Salmonella
-TITLE: SPI-7: Salmonella's Vi-encoding Pathogenicity Island.
-PMID: 19741287
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19741287/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Salmonella Pathogenicity Island-7 (SPI-7) is a large, mosaic, genetic island, found in several serovars of Salmonella enterica subsp. enterica associated with systemic disease. As well as encoding genes which may aid its own transmission, it carries genes for potential virulence factors such as Vi antigen, SopE effector and type IVB pili. The stability of SPI-7 is of interest with respect to typhoid fever and related vaccines.

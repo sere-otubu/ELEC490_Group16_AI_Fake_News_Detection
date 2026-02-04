@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vertigo
-TITLE: Deep learning in acute vertigo diagnosis.
-PMID: 36379134
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36379134/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Recent advances in artificial intelligence are transforming healthcare and there are increasing efforts to apply these breakthroughs to the diagnosis of acute vertigo. Because the diagnosis of vertigo relies on the analysis of eye movements, there are several unique considerations that must be made when implementing deep learning approaches to vertigo. This review discusses the need for diagnostic aids for acute vertigo, the techniques used to preprocess eye movement data and adapt deep learning models to vertigo, and summarizes and analyzes all published models to date.

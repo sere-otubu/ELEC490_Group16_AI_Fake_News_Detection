@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gout
-TITLE: Gout.
-PMID: 19692116
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19692116/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gout is a common arthritis caused by deposition of monosodium urate crystals within joints after chronic hyperuricaemia. It affects 1-2% of adults in developed countries, where it is the most common inflammatory arthritis in men. Epidemiological data are consistent with a rise in prevalence of gout. Diet and genetic polymorphisms of renal transporters of urate seem to be the main causal factors of primary gout. Gout and hyperuricaemia are associated with hypertension, diabetes mellitus, metabolic syndrome, and renal and cardiovascular diseases. Non-steroidal anti-inflammatory drugs and colchicine remain the most widely recommended drugs to treat acute attacks. Oral corticosteroids could be an alternative to these drugs. Interleukin 1beta is a pivotal mediator of acute gout and could become a therapeutic target. When serum uric acid concentrations are lowered below monosodium urate saturation point, the crystals dissolve and gout can be cured. Patient education, appropriate lifestyle advice, and treatment of comorbidities are an important part of management of patients with gout.

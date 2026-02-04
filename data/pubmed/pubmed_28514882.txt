@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pain management
-TITLE: Interventions in pain management for persons with an intellectual disability.
-PMID: 28514882
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28514882/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Pain is a multidimensional and subjective experience, and an ideal pain management regime needs to be comprehensive, integrative and involve all relevant persons. Multimodal interventions may include pharmacological, physical, social, psychological and spiritual approaches in order to address pain management at a molecular, functional, behavioural, cognitive and affective levels. Pain management interventions will vary according to pain aetiology, patient characteristics and preferences. In keeping with best practice guidelines for effective pain management, a structured approach incorporating an effective assessment of pain by the healthcare professional, identification of the source and type of pain and accurate documentation is essential. This article focuses on pharmacological and non-pharmacological pain management for individuals with intellectual disability.

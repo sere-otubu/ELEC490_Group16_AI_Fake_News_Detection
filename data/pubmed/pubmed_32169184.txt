@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Robotic surgery
-TITLE: Urologic Robotic Surgery.
-PMID: 32169184
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32169184/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Urologists have always been leaders in advancing surgical technology and were the first to utilize modern robotic surgery for robotic-assisted laparoscopic radical proctectomy. Surgeon ergonomics, instrument precision, operative time, and postoperative recovery were all objectively improved. In urology, robotic surgery is now used for all intra-abdominal, retroperitoneal, and pelvic procedures and has been expanded to renal transplants and pediatric use. Modern robotic surgery has become an essential part of treating complex urologic disease in the developed world. Urologists continue to lead the way with the latest robotic surgical systems, including the newly approved single port systems.

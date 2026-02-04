@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rare diseases
-TITLE: Immunological Rare Diseases.
-PMID: 29214588
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29214588/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The immune system is delegated to defend the body from attacks from outside or inside. Many diseases can affect immune system reducing its ability to defend self or inducing an abnormal response against external or internal antigens. Rare diseases affecting immune system present some issue in common with other rare diseases and some peculiarities due to the huge variability in the disease's expression. However, a correct estimation of the epidemiology of rare disorders is necessary for evaluating the prognosis and the responses to new therapies, for planning proper public health services, and finally to establish fair and sustainable prices for innovative medicines. Due to the enormous number of different rare immunological diseases, in this chapter we are going to analyse some of them that can be considered paradigmatic of the various expressions of disease.

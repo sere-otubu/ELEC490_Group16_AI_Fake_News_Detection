@@ -1,8 +1,0 @@
-SEARCH_TOPIC: DNA structure
-TITLE: Protein-DNA complex structure modeling based on structural template.
-PMID: 34517213
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34517213/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-DNA-binding is an important feature of proteins, and protein-DNA interaction involves in many life processes. Various computational methods have been developed to predict protein-DNA complex structures due to the difficulty of experimentally obtaining protein-DNA complex structures. However, prediction of protein-DNA complex is still a challenging problem compared with prediction of protein-RNA complex, this may be due to the large conformational changes between bound and unbound structure in both protein and DNA. We extend PRIME 2.0 to PRIME 2.0.1 to model protein-DNA complex structures. By comparing sequence and structure alignment methods, we found that structure-based methods can find more templates than sequence-based methods. The results of all-to-all structure alignments showed that DNA structure plays an important role in prediction of protein-DNA complex structure. By exploring the relationship of sequence and structure, we found that in protein-DNA interaction, numerous structures with dissimilar sequences have similar 3D structures and perform the similar function.

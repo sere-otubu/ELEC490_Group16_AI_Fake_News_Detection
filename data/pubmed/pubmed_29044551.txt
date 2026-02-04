@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Binge eating disorder
-TITLE: Disordered eating and obesity: associations between binge-eating disorder, night-eating syndrome, and weight-related comorbidities.
-PMID: 29044551
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29044551/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Binge-eating disorder (BED) and night-eating syndrome (NES) are two forms of disordered eating associated with overweight and obesity. While these disorders also occur in nonobese persons, they seem to be associated with weight gain over time and higher risk of diabetes and other metabolic dysfunction. BED and NES are also associated with higher risk of psychopathology, including mood, anxiety, and sleep problems, than those of similar weight status without disordered eating. Treatments are available, including cognitive behavior therapy (CBT), interpersonal psychotherapy, lisdexamfetamine, and selective serotonin reuptake inhibitors (SSRIs) for BED; and CBT, SSRIs, progressive muscle relaxation, and bright light therapy for NES.

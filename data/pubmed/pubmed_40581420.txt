@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Melanoma
-TITLE: Lesional Markers and Precursors of Melanoma.
-PMID: 40581420
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40581420/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Melanoma is a malignant skin tumor with increasing global incidence, driven by factors like UV exposure and genetic predisposition. Early detection is critical, with markers such as atypical nevi and lentigo maligna indicating potential melanoma progression. Genetic mutations (eg, CDKN2A, NRAS) influence melanoma risk and tumor behavior, aiding risk assessment and targeted treatments. Dermoscopic and histologic tools, including the ABCDE criteria and biomarkers like S100B, improve diagnostic accuracy. Timely intervention, along with advancements in genetic testing, dermoscopy, and AI-assisted tools, are essential for reducing melanoma's morbidity and mortality. Regular surveillance for high-risk individuals is crucial for early identification and treatment.

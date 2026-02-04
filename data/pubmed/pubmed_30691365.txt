@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Prostate cancer
-TITLE: Treatment of Advanced Prostate Cancer.
-PMID: 30691365
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30691365/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The therapeutic landscape of prostate cancer has been transformed over the last decade by new therapeutics, advanced functional imaging, next-generation sequencing, and better use of existing therapies in early-stage disease. Until 2004, progression on androgen deprivation therapy for metastatic disease was treated with the addition of secondary hormonal manipulation; in the last decade, six systemic agents have been approved for the treatment of castration-resistant prostate cancer. We review clinical trials and survival benefit for these therapies and assess how the understanding of the disease shifted as these therapies were developed. We also discuss advances in noncastrate disease states, identification of biomarkers for prognosis and treatment selection, and opportunities in locoregional therapy to delay androgen deprivation therapy.

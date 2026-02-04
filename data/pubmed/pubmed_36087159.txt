@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dialysis
-TITLE: Application of mathematical analysis on dialysis.
-PMID: 36087159
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36087159/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hemodialysis is a blood purification method based on solute removal by diffusion and incorporates filtration to improve the efficiency of water removal and removal of high molecular weight substances. It is now a well-established treatment, due to the improved performance of dialyzers. This review outlines the development process of dialyzers, focusing on the application based on the mathematical analysis. First, phenomena occurring in the vicinity of the dialysis membrane are explained using a film model for diffusion and a gel polarization model for filtration. Then, currently established dialyzer designs are introduced using mathematical analysis. Furthermore, the design of dialyzers to promote internal filtration, the designs of hemodiafilters suitable for online hemodiafiltration (HDF), and the design of compact dialyzer for are also presented.

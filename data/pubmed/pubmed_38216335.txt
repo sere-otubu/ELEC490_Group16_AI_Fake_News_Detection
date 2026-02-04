@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Emotional intelligence
-TITLE: The relationship between emotional intelligence and optimism: A meta-analysis.
-PMID: 38216335
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38216335/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Optimism involves the general expectation good things will occur and greater optimism is associated with a number of positive life outcomes related to better mental and physical health. These outcomes include reduced likelihood of depression, more effective immune functioning and lower mortality. Emotional intelligence, which consists of adaptive emotional functioning, may be a foundation for optimism. This meta-analysis examined the relationship between emotional intelligence and optimism across 6889 participants from 25 independent samples. Across studies, a higher level of emotional intelligence was associated with greater optimism with a weighted effect size of, r = .35, p < .001. Measurement approach and country of participants moderated the effect size. These results have relevance for the design of positive psychology interventions.

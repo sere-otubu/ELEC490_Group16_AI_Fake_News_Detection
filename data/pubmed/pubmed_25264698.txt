@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Contraception methods
-TITLE: Postpartum contraception.
-PMID: 25264698
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25264698/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-As birth spacing has demonstrated health benefits for a woman and her children, contraception after childbirth is recognized as an important health issue. The potential risk of pregnancy soon after delivery underscores the importance of initiating postpartum contraception in a timely manner. The contraceptive method initiated in the postpartum period depends upon a number of factors including medical history, anatomic and hormonal factors, patient preference, and whether or not the woman is breastfeeding. When electing a contraceptive method, informed choice is paramount. The availability of long-acting reversible contraceptive methods immediately postpartum provides a strategy to achieve reductions in unintended pregnancy.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 27643961)
-    QUESTION: Major depression and alcohol use disorder in adolescence: Does comorbidity lead to poorer outcomes of depression?
-    CONTEXT: Comorbid major depression (MD) and alcohol use disorder (AUD), particularly in adolescents, have been shown to be associated with poorer subsequent MD outcomes.
-    ANSWER: The results of these analyses suggest that marginally higher rates of depression to age 35 amongst the comorbid MD/AUD group were explained by increased exposure to adverse childhood circumstances amongst members of the comorbid group. Adolescent MD/AUD comorbidity is likely to be a risk marker, rather than a causal factor in subsequent MD.
-    

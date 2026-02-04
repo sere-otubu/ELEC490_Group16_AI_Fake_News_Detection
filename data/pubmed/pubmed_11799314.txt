@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 11799314)
-    QUESTION: Is external palliative radiotherapy for gallbladder carcinoma effective?
-    CONTEXT: Gallbladder carcinoma is characterized by delayed diagnosis, ineffective treatment and poor prognosis. Surgical resection has been thought to be the treatment of choice, while the role of radiotherapy as adjuvant or palliative treatment has not been fully clarified in the literature.
-    ANSWER: External radiotherapy seems to be a safe and effective method of palliative management of gallbladder carcinoma. However, further studies are necessary to determine the role of radiotherapy in palliative or adjuvant treatment of gallbladder carcinoma.
-    

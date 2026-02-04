@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Stroke
-TITLE: Stroke from Infection.
-PMID: 40068656
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40068656/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Stroke related to infections represents a less common but significant cause, particularly in low- and middle-income countries. This review examines the pathophysiology of stroke from infections, involving both direct and indirect mechanisms. Bacterial infections such as tuberculous meningitis and infective endocarditis can directly cause strokes through local inflammation, arteritis, and septic embolism. Viral infections like Varicella zoster virus and HIV increase stroke risk through chronic immune activation, vasculopathy, and endothelial dysfunction. Parasitic infections, particularly malaria and neurocysticercosis, can cause strokes via vascular occlusion and inflammatory responses. Fungal infections like aspergillosis and mucormycosis can lead to strokes through vasculitis and direct invasion of the CNS. Understanding the mechanisms by which various infectious agents contribute to stroke pathogenesis is essential for developing targeted therapeutic strategies and improving patient outcomes. Further research is needed to establish effective prevention and treatment for infection-related strokes, especially in low- and middle-income countries.

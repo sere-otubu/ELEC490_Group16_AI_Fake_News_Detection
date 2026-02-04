@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vegan diet
-TITLE: Vitamin and Mineral Status in a Vegan Diet.
-PMID: 33161940
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33161940/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In Germany, public interest in a vegan diet is steadily growing. There are, however, no current data on the macro- and micronutrient status of vegans. In a cross-sectional study entitled "The Risks and Benefits of a Vegan Diet" (RBVD), we investigated the dietary intake, basic laboratory parameters, vitamin status, and trace-element status of 36 vegans and 36 persons on an omnivorous diet. Each group consisted of 18 men and 18 women aged 30-60. Nearly all the vegans and one-third of the persons on a mixed diet had consumed supplements in the previous 4 weeks. Vegans and nonvegans had similar energy intake but differed in the intake of both macronutrients (e.g., dietary fiber) and micronutrients (e.g., vitamins B12, B2, D, E, and K, as well as folate, iodine, and iron). There were no intergroup differences in the biomarkers of vitamin B12, vitamin D, or iron status. The ferritin values and blood counts indicated iron deficiency in four vegans and three non-vegans. Measurements in 24-hour urine samples revealed lower calcium excretion and markedly lower iodine excretion in vegans compared to non-vegans; in one-third of the vegans, iodine excretion was lower than the WHO threshold value (<20 μg/L) for severe iodine deficiency. Vitamin B12 status was similarly good in vegans and non-vegans, even though the vegans consumed very little dietary B12. This may be due to the high rate of supplementation. The findings imply a need to also assure adequate iodine intake in the population, especially among persons on a vegan diet.

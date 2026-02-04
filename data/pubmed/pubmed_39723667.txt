@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Yoga benefits
-TITLE: Benefits of yoga in pregnancy: a randomised controlled clinical trial.
-PMID: 39723667
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39723667/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Modern obstetrics confronts a rise in caesarean sections (CS). Prevention of unnecessary primary CS is a global priority. Women face intense psychological and physiological challenges during childbirth. Fear and anxiety during labour reduce women's self-confidence and empowerment. Yoga is a body-mind practice that lowers maternal fear and anxiety and helps relax pelvic floor muscles during labour. The study examined whether yoga practice in pregnancy influences CS rate in primiparous singleton pregnant women, labour pain intensity and epidural analgesia requests at delivery ward admission. We conducted a single-blind, randomised, controlled clinical trial comparing yoga to standard obstetric care in pregnancy. A total of 214 participants were randomised, 106 in yoga and 108 in controls. Weekly 90-min yoga classes were led by a certified yoga teacher's supervision. Every pregnant woman in the interventional group completed 12 yoga sessions. Yoga group had a lower total CS due to less frequent In-labour CS (p=0.004) and a higher rate of spontaneous vaginal birth (p=0.009). They experienced less pain intensity during labour (p<0.001), and there was no difference in epidural analgesia requests. Engaging in yoga during pregnancy reduces the rate of In-labour CS, decreases discomfort and encourages spontaneous vaginal birth in primiparous singleton pregnant women.

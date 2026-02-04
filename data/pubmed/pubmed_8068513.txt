@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lyme disease
-TITLE: Lyme disease.
-PMID: 8068513
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8068513/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In the United States, Lyme disease is the most common arthropod-borne infection. The majority of cases occur in the Northeast, the Midwest, and California, which are areas with established foci of Borrelia burgdorferi. Phenotypic and genotypic diversity of B. burgdorferi has resulted in its classification into three separate genospecies and may account for differences in disease expression. Clinical features of Lyme disease have expanded to include a flulike illness without erythema migrans and the persistence of intrathecal antibody responses after successful antibiotic therapy in neuroborreliosis. Better understanding of the pathogenic mechanisms of Lyme arthritis will help guide future treatment decisions, and recent progress made in assessing the risk of infection from tick bites and vaccine development may help calm public anxiety about Lyme disease.

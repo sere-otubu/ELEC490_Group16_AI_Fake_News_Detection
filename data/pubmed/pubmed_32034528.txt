@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Measles
-TITLE: Neurological Complications of Measles (Rubeola).
-PMID: 32034528
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32034528/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Owing to vaccine hesitancy, there has been a resurgence of measles infections in developed countries. Practitioners can expect to see an increase in patients with neurologic complications of measles. These devastating disorders include primary measles encephalitis, acute post measles encephalitis, subacute sclerosing panencephalitis (SSPE), and measles inclusion body encephalitis (MIBE). Although there are many unanswered questions regarding the neurologic complications of measles, recent advances have led to better understanding of the mechanism of the spread of measles within the nervous system, particularly the disruption of F protein function, which raises the possibility of treatment with fusion-inhibiting molecules. Measles and its neurological complications are preventable and must be prevented. Neurologists must educate other clinicians and the public regarding the consequences of inadequate herd immunity to measles. More effective treatments for SSPE and MIBE may be available in the near future, but currently these remain lethal diseases.

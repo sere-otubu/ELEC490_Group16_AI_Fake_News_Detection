@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Keto diet
-TITLE: Efficacy and Safety of a Ketogenic Diet in Children and Adolescents with Refractory Epilepsy-A Review.
-PMID: 32560503
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32560503/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Epilepsy in the pediatric and adolescent populations is a devastating condition where individuals are prone to recurrent epileptic seizures or changes in behavior or movement that is the direct result of a primary change in the electrical activity in the brain. Although many children with epilepsy will have seizures controlled with antiseizure medications (ASMs), a large percentage of patients are refractory to drug therapy and may consider initiating a ketogenic diet. The term Ketogenic Diet or Ketogenic Diet Therapy (KDT) refers to any diet therapy in which dietary composition results in a ketogenic state of human metabolism. Currently, there are 4 major Ketogenic diet therapies-the classic ketogenic diet (cKD), the modified Atkins diet (MAD), the medium chain triglyceride ketogenic diet (MCTKD) and the low glycemic index treatment (LGIT). The compositions of the 4 main KDTs differ and limited evidence to distinguish the efficacy among different diets currently exists. Although it is apparent that more randomized controlled trials (RCTs) and long-term studies are needed to evaluate efficacy, side effects and individual response to the diet, it is imperative to study and understand the metabolic profiles of patients with epilepsy in order to isolate which dietary restrictions are necessary to maximize clinical benefit.

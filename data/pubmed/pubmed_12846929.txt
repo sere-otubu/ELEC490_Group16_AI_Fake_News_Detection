@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12846929)
-    QUESTION: Quality of life in lung cancer patients: does socioeconomic status matter?
-    CONTEXT: As part of a prospective study on quality of life in newly diagnosed lung cancer patients an investigation was carried out to examine whether there were differences among patients' quality of life scores and their socioeconomic status.
-    ANSWER: At baseline assessment patients of lower socioeconomic status showed lower health related quality of life. Since there was no clear trend at follow-up assessment this suggests that patients from different socioeconomic status responded to treatment similarly. In general, the findings suggest that quality of life is not only the outcome of the disease and its treatment, but is also highly dependent on each patients' socioeconomic characteristics.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Red blood cells
-TITLE: Urinary red blood cells: not only glomerular or nonglomerular.
-PMID: 22205019
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22205019/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Two main types of red blood cells, isomorphic and dysmorphic, are found in the urine sediment, indicating nonglomerular and glomerular hematuria, respectively. Occasionally, however, other types of red blood cells such as sickle cells, anisocytes, poikilocytes, elliptocytes and dacryocytes can be seen in the urine sediment of patients with hematuria. This paper describes such cases reported in the literature in which such unusual urinary red blood cells have been found and the experience of the authors on this subject.

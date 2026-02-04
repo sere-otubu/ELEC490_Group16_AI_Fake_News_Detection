@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Schizophrenia
-TITLE: Association of histone modification with the development of schizophrenia.
-PMID: 38744217
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38744217/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Schizophrenia, influenced by genetic and environmental factors, may involve epigenetic alterations, notably histone modifications, in its pathogenesis. This review summarizes various histone modifications including acetylation, methylation, phosphorylation, ubiquitination, serotonylation, lactylation, palmitoylation, and dopaminylation, and their implications in schizophrenia. Current research predominantly focuses on histone acetylation and methylation, though other modifications also play significant roles. These modifications are crucial in regulating transcription through chromatin remodeling, which is vital for understanding schizophrenia's development. For instance, histone acetylation enhances transcriptional efficiency by loosening chromatin, while increased histone methyltransferase activity on H3K9 and altered histone phosphorylation, which reduces DNA affinity and destabilizes chromatin structure, are significant markers of schizophrenia.

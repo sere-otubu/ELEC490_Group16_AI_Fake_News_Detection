@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Human brain structure
-TITLE: [Research progress on genetic effects of the asymmetry of human brain structure revealed by magnetic resonance imaging].
-PMID: 33369349
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33369349/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hemispheric asymmetry is a fundamental organizing principle of the human brain. Answering the genetic effects of the asymmetry is a prerequisite for elucidating developmental mechanisms of brain asymmetries. Multi-modal magnetic resonance imaging (MRI) has provided an important tool for comprehensively interpreting human brain asymmetry and its genetic mechanism. By combining MRI data, individual differences in brain structural asymmetry have been investigated with quantitative genetic brain mapping using gene-heritability. Twins provide a useful natural model for studying the effects of genetics and environment on the brain. Studies based on MRI have found that the asymmetry of human brain structure has a genetic basis. From the perspective of quantitative genetic analysis, this article reviews recent findings on the genetic effects of asymmetry and genetic covariance between hemispheres from three aspects: the asymmetry of heritability, the heritability of asymmetry and the genetic correlation. At last, the article shows the limitations and future research directions in this field. The purpose of this systematic review is to quickly guide researchers to understand the origins and genetic mechanism of interhemispheric differences, and provide a genetic basis for further understanding and exploring individual differences in laterized cognitive behavior.

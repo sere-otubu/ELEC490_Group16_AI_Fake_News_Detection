@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Inhalers
-TITLE: Nebulizers versus pressurized metered-dose inhalers in preschool children with wheezing.
-PMID: 22734168
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22734168/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In my office, I frequently encounter children with wheezing. When I prescribe inhaled bronchodilators for preschool children, what is the recommended method of delivery--a nebulizer or a spacer? The pressurized metered-dose inhaler with a spacer is an effective method of delivering inhaled drugs to young children. Children younger than 5 years of age will require the additional use of a face mask. It is best to give aerosolized medications when a child is awake. Efforts to optimize the child's cooperation with medication administration by using a spacer with an appropriate mouthpiece or face mask will also improve drug delivery.

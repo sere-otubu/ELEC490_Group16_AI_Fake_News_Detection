@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12913878)
-    QUESTION: Locoregional opening of the rodent blood-brain barrier for paclitaxel using Nd:YAG laser-induced thermo therapy: a new concept of adjuvant glioma therapy?
-    CONTEXT: Nd:YAG laser-induced thermo therapy (LITT) of rat brains is associated with blood-brain barrier (BBB) permeability changes. We address the question of whether LITT-induced locoregional disruption of the BBB could possibly allow a locoregional passage of chemotherapeutic agents into brain tissue to treat malignant glioma.STUDY DESIGN/
-    ANSWER: LITT induces a locoregional passage of chemotherapeutic agents into the brain tissue. This is of potential interest for the treatment of brain tumors.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Health equity
-TITLE: Health Equity Tourism: Ravaging the Justice Landscape.
-PMID: 35150324
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35150324/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-As the long-standing and ubiquitous racial inequities of the United States reached national attention, the public health community has witnessed the rise of "health equity tourism". This phenomenon is the process of previously unengaged investigators pivoting into health equity research without developing the necessary scientific expertise for high-quality work. In this essay, we define the phenomenon and provide an explanation of the antecedent conditions that facilitated its development. We also describe the consequences of health equity tourism - namely, recapitulating systems of inequity within the academy and the dilution of a landscape carefully curated by scholars who have demonstrated sustained commitments to equity research as a primary scientific discipline and praxis. Lastly, we provide a set of principles that can guide novice equity researchers to becoming community members rather than mere tourists of health equity.

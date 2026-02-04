@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19302863)
-    QUESTION: Is the use of cyanoacrylate in intestinal anastomosis a good and reliable alternative?
-    CONTEXT: The present study aims to compare strength, healing, and operation time of experimental intestinal anastomoses performed by polyglactin 910 (Vicryl; Ethicon, Edinburgh, United Kingdom) sutures with ethyl-2-cyanoacrylate glue (Pattex; Henkel, Dusseldorf, Germany).
-    ANSWER: Better healing, shorter AT, and equal strength were achieved with ethyl-2-cyanoacrylate compared with polyglactin 910 sutures in intestinal anastomosis in the experimental setting.
-    

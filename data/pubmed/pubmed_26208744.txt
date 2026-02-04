@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Social anxiety
-TITLE: Oxytocin in General Anxiety and Social Fear: A Translational Approach.
-PMID: 26208744
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26208744/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The neuropeptide oxytocin (OXT) has been revealed as a profound anxiolytic and antistress factor of the brain, besides its many prosocial and reproductive effects. Therefore, there is substantial scientific and medical interest in its potential therapeutic use for the treatment of psychopathologies associated with anxiety, fear, and social dysfunctions, such as generalized anxiety disorder, posttraumatic stress disorder, and social anxiety disorder, as well as autism and schizophrenia, among others. Focusing on preclinical studies, we review the existing evidence for the regulatory capacity of OXT to fine-tune general and social anxiety-related behaviors, as well as cued and social fear conditioning from a translational perspective. The available evidence from animal and human studies substantiates the hypothesis of an imbalance of the endogenous brain OXT system in the etiology of anxiety disorders, particularly those with a social component such as social anxiety disorder. In addition, such an imbalance of the OXT system is also likely to be the consequence of chronic OXT treatment resulting in a dose-dependent reduction in OXT receptor availability and increased anxiety.

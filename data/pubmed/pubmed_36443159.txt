@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep apnea
-TITLE: Obstructive sleep apnoea and sleep disorders in pregnancy.
-PMID: 36443159
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36443159/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review provides a summary for obstetricians, midwives, other health professionals and women contemplating pregnancy about the interactions between pregnancy and breathing during sleep. This review will first examine the normal physiological changes of pregnancy and their relationship to sleep-disordered breathing (SDB), and it will then summarise the current knowledge of SDB in pregnancy. Many changes in the respiratory system during pregnancy, particularly during the third trimester, can alter respiratory function during sleep, increasing the incidence and severity of SDB. These changes include increased ventilatory drive and metabolic rate, reduced functional residual capacity and residual volume, increased alveolar-arterial oxygen gradients and changes in the upper airway. The clinical importance of these changes during pregnancy is demonstrated by the increased incidence of snoring and obstructive sleep apnoea hypopnoea syndrome. As SDB is associated with obesity, the increasing incidence of obesity pre-pregnancy will likely increase SDB during pregnancy over the next decade. If a physician is asked to review a pregnant patient, they should always consider the possibility of SDB.

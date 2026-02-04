@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25675614)
-    QUESTION: Can gingival crevicular blood be relied upon for assessment of blood glucose level?
-    CONTEXT: Diabetes mellitus (DM) is undiagnosed in approximately half of the patients actually suffering from the disease. In addition, the prevalence of DM is more than twice as high as in patients with periodontitis when compared to periodontally healthy subjects. Thus, a high number of patients with periodontitis may have undiagnosed DM. The purpose of the present study was to evaluate whether blood oozing from a gingival crevice during routine periodontal examination can be used for determining glucose levels.
-    ANSWER: The data from this study has shown that GCB collected during diagnostic periodontal examination can be an excellent source of blood for glucometric analysis.
-    

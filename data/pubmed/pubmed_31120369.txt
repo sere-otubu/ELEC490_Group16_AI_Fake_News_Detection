@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Radiation therapy
-TITLE: Radiation therapy to enhance tumor immunotherapy: a novel application for an established modality.
-PMID: 31120369
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31120369/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-<b>Purpose:</b> The aim of this review is to highlight key evidence supporting the effect of radiation therapy on tumor immunity. <b>Conclusions:</b> Recent findings in both the preclinical and clinical settings have provided convincing evidence of the ability of radiation therapy to influence tumor-directed immune responses, and have offered critical insights into the underlying mechanisms. Not only does radiation therapy convert the tumor microenvironment to promote robust tumor immunity, but it also enhances the generation of neoantigens and neoepitopes. Radiation therapy also shapes the TCR repertoire of CD8<sup>+</sup> T cells in conjunction with immune checkpoint blockade. In conclusion, a high priority should be placed on developing rational strategies to integrate radiation therapy with immunotherapy in the clinical setting, with an emphasis on careful patient selection and identifying important correlative endpoints.

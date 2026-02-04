@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Panic disorder
-TITLE: Panic disorder.
-PMID: 7484706
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7484706/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Panic disorder is a chronic illness that affects at least 3 percent of the population. Panic disorder is associated with significant morbidity and an increased risk of suicide. Patients generally present with multiple somatic and psychologic complaints, including heart palpitations, chest pain, tremor, shortness of breath, choking, nausea or abdominal distress, dizziness, derealization, fear of losing control or going crazy, fear of dying, paresthesias, chills or hot flushes, headache, diarrhea, insomnia, chronic fatigue, anxiety and depression. To make the correct diagnosis, these symptoms must be evaluated carefully since they also occur with serious cardiovascular, pulmonary, endocrinologic and neurologic disorders. Many effective treatments are available, including tricyclic antidepressants, selective serotonin reuptake inhibitors, monoamine oxidase inhibitors, benzodiazepines such as alprazolam and clonazepam, and psychotherapy.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immunotherapy
-TITLE: Current Immunotherapy Practices in Melanoma.
-PMID: 31079796
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31079796/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Immunotherapy has revolutionized the treatment of melanoma, with implications for the surgical management of this disease. Surgeons must be aware of the impact of various immunotherapies on patients with resectable and unresectable disease, and how surgical decision-making should progress as a result. We expect that current and developing immunotherapies will increase surgeon involvement for resection of metastatic melanoma, whether for tumor harvests to generate autologous lymphocytes or for consolidating control of disease beyond what immunotherapies alone can achieve. Despite remarkable advancements in the field, significant work is needed to optimize the immuno-modulation that targets cancers while minimizing toxicity for patients.

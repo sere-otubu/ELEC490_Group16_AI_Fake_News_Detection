@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mammography
-TITLE: [Air-Kerma Standard for Mammography X-Ray in Japan: Progress and Prospects].
-PMID: 34744139
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34744139/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In Japan, mammography was introduced in 2000 for the early detection of breast cancer. In quality control of mammography, dosimetry is one of the most important items. For accurate dosimetry, calibration of dosimeters is necessary because radiation quality (target-filter combination) of mammography x-ray is different from that of general radiography. Therefore, development of dosimetry standard based on radiation quality of mammography x-ray was required. AIST/NMIJ developed an air-kerma standard for mammography x-rays and started its dissemination in 2009. Since then, the air-kerma standard has been extended to various radiation qualities that have come to be used in digital mammography. In this paper, an overview of the air-kerma standard for mammography x-ray together with a future plan is briefly presented.

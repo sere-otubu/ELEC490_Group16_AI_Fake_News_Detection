@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pneumonia
-TITLE: [Community-acquired pneumonia].
-PMID: 8128827
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8128827/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Pneumonias are inflammatory diseases of the lung parenchyma, infection is one of possible causes. With regard to the causes of community acquired pneumonias it is possible to distinguish those typical ones (caused by pneumococcus, legionella and other bacteria) and atypical ones (caused by mycoplasma, chlamydiae and others). Contrary to the atypical ones, typical pneumonias are characterized by sudden onset, high fever, chills, sometimes bloody expectoration and pains, as well as segmental or lobar changes and high leukocyte counts. Patients with tachycardia, diastolic blood pressure below 60 mm Hg and a blood urea nitrogen (BUN) of more than 7 mmol/l, as well as those with chronic basic diseases and a severe course should be hospitalized, further also those, who do not improve after 2 or 3 days therapy, in all cases of suspected pneumonia, with smokers and with patients aged over 40 years, a thorax X-ray should be executed. Typical pneumonias should be treated with penicillin or macrolide antibiotics, atypical ones with macrolide antibiotics, pneumonias with severe course additionally with a second generation cephalosporin. Where these simple rules are observed, a reduction of the still high mortality due to externally acquired pneumonias might be expected.

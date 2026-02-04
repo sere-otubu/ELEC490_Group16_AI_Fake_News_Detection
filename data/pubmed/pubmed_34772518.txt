@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Weight loss strategies
-TITLE: The nudge strategies for weight loss in adults with obesity and overweight: A systematic review and meta-analysis.
-PMID: 34772518
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34772518/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Obesity and overweight conditions have become major health challenges worldwide. The exploration of effective weight loss strategies is essential. Nudges are currently advancing approaches that represent a new and better method for changing the behaviors of people. However, the effectiveness of nudge interventions on weight loss in overweight people who may be obese has not been synthesized in a systematic manner. In this study, a systematic literature search was performed. Only randomized controlled trials (RCTs) were considered. Weighted mean differences (WMDs) and 95% confidence intervals (CIs) were calculated as summary statistics. In total, 25 RCTs involving a population of 5,929 individuals were included. Significant effects of the nudge strategy on weight loss (WMD: -0.96 kg, 95% CI: -1.49 to -0.43), body mass index (WMD: -0.3 kg/m<sup>2</sup>, 95% CI: -0.41 to -0.19) and waist circumference (WMD: -0.75 cm, 95% CI: -1.23 to -0.27) were observed. The subgroup analysis showed that the reduction in body weight associated with nudge interventions was significant in younger and more obese people. Moreover, the effect of nudge intervention on weight loss weakened over time. Overall, the nudge strategy can promote changes in weight loss, body mass index and waist circumference of adults, albeit at a mild magnitude and in particular types of individuals. Nudge strategies can be recommended to clinical practitioners and policy-makers to promote obesity management.

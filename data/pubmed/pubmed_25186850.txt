@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25186850)
-    QUESTION: May student examiners be reasonable substitute examiners for faculty in an undergraduate OSCE on medical emergencies?
-    CONTEXT: To compare the effect of student examiners (SE) to that of faculty examiners (FE) on examinee performance in an OSCE as well as on post-assessment evaluation in the area of emergency medicine management.
-    ANSWER: It seems quite admissible and justified to encourage medical students to officiate as examiners in undergraduate emergency medicine OSCE formative testing, but not necessarily in summative assessment evaluations.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: MRI scan
-TITLE: Genetic and environmental influences on MRI scan quantity and quality.
-PMID: 31170550
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31170550/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The current study provides an overview of quantity and quality of MRI data in a large developmental twin sample (N = 512, aged 7-9), and investigated to what extent scan quantity and quality were influenced by genetic and environmental factors. This was examined in a fixed scan protocol consisting of two functional MRI tasks, high resolution structural anatomy (3DT1) and connectivity (DTI) scans, and a resting state scan. Overall, scan quantity was high (88% of participants completed all runs), while scan quality decreased with increasing session length. Scanner related distress was negatively associated with scan quantity (i.e., completed runs), but not with scan quality (i.e., included runs). In line with previous studies, behavioral genetic analyses showed that genetics explained part of the variation in head motion, with heritability estimates of 29% for framewise displacement and 65% for absolute displacement. Additionally, our results revealed that subtle head motion (after exclusion of excessive head motion) showed lower heritability estimates (0-14%), indicating that findings of motion-corrected and quality-controlled MRI data may be less confounded by genetic factors. These findings provide insights in factors contributing to scan quality in children, an issue that is highly relevant for the field of developmental neuroscience.

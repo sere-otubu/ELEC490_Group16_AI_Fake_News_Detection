@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gambling addiction
-TITLE: Behavioral Addictions: Excessive Gambling, Gaming, Internet, and Smartphone Use Among Children and Adolescents.
-PMID: 31679605
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31679605/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The introduction of behavioral addictions is a relatively new concept in psychiatry. It was not until 2010 that the term behavioral addictions was added to the official classification of psychiatric diagnoses in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition. Gambling, typically thought to be an adult behavior, has become commonplace among adolescents. Although technological advances have made accessing information and communication easier, excessive use of the Internet and smartphones can result in multiple mental and physical health issues. Gambling disorders, gaming disorders, Internet use disorder, and excessive smartphone use often begin during childhood and adolescence.

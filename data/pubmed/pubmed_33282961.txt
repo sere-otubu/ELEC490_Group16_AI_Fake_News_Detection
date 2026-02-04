@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immunotherapy
-TITLE: Cancer Vaccines: Toward the Next Breakthrough in Cancer Immunotherapy.
-PMID: 33282961
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33282961/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Until now, three types of well-recognized cancer treatments have been developed, i.e., surgery, chemotherapy, and radiotherapy; these either remove or directly attack the cancer cells. These treatments can cure cancer at earlier stages but are frequently ineffective for treating cancer in the advanced or recurrent stages. Basic and clinical research on the tumor microenvironment, which consists of cancerous, stromal, and immune cells, demonstrates the critical role of antitumor immunity in cancer development and progression. Cancer immunotherapies have been proposed as the fourth cancer treatment. In particular, clinical application of immune checkpoint inhibitors, such as anti-CTLA-4 and anti-PD-1/PD-L1 antibodies, in various cancer types represents a major breakthrough in cancer therapy. Nevertheless, accumulating data regarding immune checkpoint inhibitors demonstrate that these are not always effective but are instead only effective in limited cancer populations. Indeed, several issues remain to be solved to improve their clinical efficacy; these include low cancer cell antigenicity and poor infiltration and/or accumulation of immune cells in the cancer microenvironment. Therefore, to accelerate the further development of cancer immunotherapies, more studies are necessary. In this review, we will summarize the current status of cancer immunotherapies, especially cancer vaccines, and discuss the potential problems and solutions for the next breakthrough in cancer immunotherapy.

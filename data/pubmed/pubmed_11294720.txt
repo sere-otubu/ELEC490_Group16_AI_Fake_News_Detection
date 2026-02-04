@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hospital infection control
-TITLE: Hospital infection control in hematopoietic stem cell transplant recipients.
-PMID: 11294720
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11294720/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Guidelines for Preventing Opportunistic Infections Among Hematopoietic Stem Cell Transplant Recipients contains a section on hospital infection control including evidence-based recommendations regarding ventilation, construction, equipment, plants, play areas and toys, health-care workers, visitors, patient skin and oral care, catheter-related infections, drug-resistant organisms, and specific nosocomial infections. These guidelines are intended to reduce the number and severity of hospital infections in hematopoietic stem cell transplant recipients.

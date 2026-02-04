@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Metformin
-TITLE: Cellular and Molecular Mechanisms of Metformin Action.
-PMID: 32897388
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32897388/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Metformin is a first-line therapy for the treatment of type 2 diabetes, due to its robust glucose-lowering effects, well-established safety profile, and relatively low cost. While metformin has been shown to have pleotropic effects on glucose metabolism, there is a general consensus that the major glucose-lowering effect in patients with type 2 diabetes is mostly mediated through inhibition of hepatic gluconeogenesis. However, despite decades of research, the mechanism by which metformin inhibits this process is still highly debated. A key reason for these discrepant effects is likely due to the inconsistency in dosage of metformin across studies. Widely studied mechanisms of action, such as complex I inhibition leading to AMPK activation, have only been observed in the context of supra-pharmacological (>1 mM) metformin concentrations, which do not occur in the clinical setting. Thus, these mechanisms have been challenged in recent years and new mechanisms have been proposed. Based on the observation that metformin alters cellular redox balance, a redox-dependent mechanism of action has been described by several groups. Recent studies have shown that clinically relevant (50-100 μM) concentrations of metformin inhibit hepatic gluconeogenesis in a substrate-selective manner both in vitro and in vivo, supporting a redox-dependent mechanism of metformin action. Here, we review the current literature regarding metformin's cellular and molecular mechanisms of action.

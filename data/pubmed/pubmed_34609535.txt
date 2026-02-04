@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rheumatoid arthritis
-TITLE: [Rheumatoid arthritis : These dermatoses lead you to the diagnosis].
-PMID: 34609535
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34609535/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rheumatoid arthritis is one of the most common autoimmune disorders. In addition to chronic arthritis, rheumatoid arthritis may present a variety of extra-articular manifestations, most commonly of the skin. Cutaneous manifestations associated with rheumatoid arthritis can be diverse, both specific and nonspecific. Which dermatoses should lead you to the diagnosis of an underlying rheumatoid arthritis? Evaluation of exemplary overviews, case presentations and relevant textbook articles. Rheumatoid arthritis presents various specific and nonspecific skin manifestations. Besides visual diagnosis like classic rheumatoid nodules a histopathologic correlation or an interdisciplinary approach is often needed, such as for diagnosis of pyoderma gangrenosum. The early detection and correct classification of cutaneous manifestations associated with rheumatoid arthritis can be groundbreaking for a successful therapy and a consequently better prognosis for patients with rheumatoid arthritis. Therefore dermatologists bear responsibility in the patient-centered care.

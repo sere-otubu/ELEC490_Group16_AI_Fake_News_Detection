@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Endometriosis
-TITLE: Clinical Management of Endometriosis.
-PMID: 29420391
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29420391/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Endometriosis is a common and challenging condition of reproductive-aged women that carries a high individual and societal cost. The many molecular dissimilarities between endometriosis lesions and eutopic endometrium create difficulties in the development of new drug therapies and treatments. Surgery remains the gold standard for definitive diagnosis, but it must be weighed against the risks of surgical morbidity and potential decreases in ovarian reserve, especially in the case of endometriomas. Safe and effective surgical techniques are discussed within this article for various presentations of endometriosis. Medical therapy is suppressive rather than curative, and regimens that are long-term and affordable with minimal side effects are recommended. Recurrences are common and often rapid when medical therapy is discontinued. Endometriosis in the setting of infertility is reviewed and appropriate management is discussed, including when and whether surgery is warranted in this at-risk population. In patients with chronic pain, central sensitization and myofascial pain are integral components of a multidisciplinary approach. Endometriosis is associated with an increased risk of epithelial ovarian cancer; however, the risk is low and currently no preventive screening is recommended. Hormone therapy for symptomatic women with postsurgical menopause should not be delayed as a result of concerns for malignancy or recurrence of endometriosis.

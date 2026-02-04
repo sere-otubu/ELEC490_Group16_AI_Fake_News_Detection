@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Paleo diet
-TITLE: Dietary Effects on Microbiota-New Trends with Gluten-Free or Paleo Diet.
-PMID: 30340395
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30340395/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A well-balanced diet is the basis for a healthy life. Both the western diet and special diets can have a relevant impact on the microbiome and promote the development of various diseases. There has been an increase in food-related disorders in recent years, largely associated with dramatic changes in food consumption trends and main nutrients. A major response to food intolerances has been the adoption of new dietary trends involving the reduction or exclusion of specific food ingredients. Especially gluten-containing, but also gluten-free cereals are in the cross-fire. Supporters of the gluten-free diet argue that gluten triggers inflammation and related diseases, while followers of the Paleo diet drastically impeach all cereals as dangerous for human health. To date, no controlled studies support or reject a positive health effect of a gluten-free or cereal-free diet. Future large-scale studies need to evaluate the effect of gluten-containing and gluten-free cereals and the various diets on human health, inflammatory parameters, clinical symptoms, and the gut microbiota (including the bacteria, fungi, and viruses). Dietary-associated changes in compositional and functional microbiota traits should be correlated with the health status for the future development of dietary recommendations and potential clinical interventions.

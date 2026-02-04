@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Melanoma
-TITLE: Immunotherapy in Acral and Mucosal Melanoma: Current Status and Future Directions.
-PMID: 34149718
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34149718/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Acral and mucosal melanomas are extremely rare in Caucasians; however, they are the predominant melanoma subtypes in Asians and other non-Caucasian populations. Acral and mucosal melanomas share many clinicopathological features, including aggressive phenotypes, similar genetic landscapes, and grim prognoses. In spite of advances in melanoma management, patients with acral and mucosal melanomas show limited benefit from current therapies. The rarity of these subtypes of melanoma is a significant factor contributing to the poor understanding of these pathological subtypes and the lack of effective interventions. Furthermore, the mechanisms contributing to disparities between different types of melanoma remain largely unclear. Herein, we comprehensively review current knowledge on the clinicopathological characteristics and mutational landscapes of acral and mucosal melanomas, as well as providing an overview of current therapies for patients with these aggressive melanoma subtypes, focusing on available immunotherapeutic interventions. We also discuss pathological differences between different melanoma subtypes and summarize current knowledge on melanoma disparities between Asians and Caucasians. Finally, we discuss emerging immunotherapeutic strategies for the treatment of acral and mucosal melanomas, focusing on combination therapies with immune checkpoint inhibitors. Unraveling the unique features of acral and mucosal melanomas is key for their early diagnosis and for the development of effective therapies.

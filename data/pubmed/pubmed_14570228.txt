@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Basal cell carcinoma
-TITLE: Keratinocyte carcinoma.
-PMID: 14570228
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/14570228/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Keratinocyte carcinoma is by far the most common cancer in the United States. Basal cell carcinomas and squamous cell carcinomas account for approximately 80% and 20% of cases of KC, respectively. The term nonmelanoma skin cancer is commonly used to refer to squamous cell carcinomas and basal cell carcinomas; however, other types of nonmelanoma skin cancer, such as adnexal tumors and sarcomas, are less common and differ in their cell type, behavior, and epidemiologic features from KC. Primary care clinicians are well positioned to diagnose KC and to educate patients about preventive measures such as sun protection and self-examination. Here we review epidemiologic data and strategies for prevention, diagnosis, and clinical management of KC.

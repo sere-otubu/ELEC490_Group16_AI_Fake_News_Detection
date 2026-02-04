@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Athletes foot
-TITLE: Association between tinea pedis and foot care factors in patients with diabetes.
-PMID: 40227965
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40227965/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This study aimed to identify foot care factors associated with tinea pedis (also known as athlete's foot) as a risk factor for foot ulcer in patients with diabetes. In this cross-sectional, observational study, the presence of tinea pedis, foot care-related factors and adjustment factors, including demographic characteristics and diabetes-related factors, were examined. Participants with diabetes were recruited from a Diabetic Foot Outpatient Clinic at the University of Tokyo Hospital, Tokyo, Japan. To evaluate foot care factors related to the presence and absence of tinea pedis, multiple logistic regression analyses were conducted. Data of 93 patients with diabetes were analysed. A total of 55 (59.1%) patients had tinea pedis. In the results of multiple logistic regression analysis with presence or absence of tinea pedis as dependent variables, washing of feet every day was borderline significantly associated with the absence of tinea pedis (odds ratio: 2.65, 95% confidence interval: 1.00-6.99, p=0.050). Washing the feet every day may be effective in preventing tinea pedis. As part of their foot care education, patients with diabetes should be taught to wash their feet daily to prevent foot ulcers.

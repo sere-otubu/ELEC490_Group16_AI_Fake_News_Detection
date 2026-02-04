@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hashimotos thyroiditis
-TITLE: An emerging role of CD74 in thyroid follicular cells in Hashimoto´s thyroiditis.
-PMID: 41496345
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41496345/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Autoimmune thyroid disorders (AITD), including Hashimoto's thyroiditis (HT) and Graves' disease (GD), arise from disrupted immune tolerance to thyroid antigens. In HT, thyroid follicular cells (TFCs) are central to disease pathogenesis and exhibit increased CD74 expression, a key component of MHC-II antigen presentation, as we previously reported. Here, we deepen into the functional role of this protein and we demonstrate that CD74⁺ TFCs coexpress CD80, supporting its role as antigen presentation cells (APCs) rather than MIF-CD74-CD44 signaling, a CD74-related alternative pathway. Proinflammatory cytokines IFN-γ and TNF-α were able to upregulate CD74, CD80 and HLA-DR in vitro, while the anti-CD74 antibody milatuzumab partially reduced their expression. Alternatively, MIF and CD44 expression did not change under these conditions, suggesting that IFN-γ and TNF-α may be involved in the acquisition of the APCs phenotype in TFCs. These findings implicate a possible role of CD74 in HT pathogenesis and highlight its potential as a therapeutic target through CD74 blockade in TFCs.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Bipolar disorder
-TITLE: Bipolar disorder.
-PMID: 22608626
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22608626/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Bipolar disorder is a serious disorder of mood that is associated with considerable psychosocial and economic morbidity. Even though it is more common than previously thought, it has until relatively recently been somewhat neglected in terms of research when compared to disorders such as schizophrenia and major depression. Recent advances in the fields of nosology, epidemiology, and molecular genetics in particular have begun to unravel some of the complexity of this disorder and the next few years are likely to witness substantial changes to the ways in which the broad spectrum of bipolar disorders is diagnosed and managed.

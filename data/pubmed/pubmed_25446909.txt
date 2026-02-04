@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25446909)
-    QUESTION: Oral mucocele/ranula: Another human immunodeficiency virus-related salivary gland disease?
-    CONTEXT: To describe clinical characteristics of oral mucoceles/ranulas, with a focus on human immunodeficiency virus (HIV)-related salivary gland diseases.
-    ANSWER: This study presents a different clinical picture of oral mucoceles/ranulas, as observed in HIV-positive patients. Additionally, it suggests a possible clinical link between the two pathologies. The authors strongly support the suggestion that oral mucocele/ranula is an HIV-related salivary gland disease.
-    

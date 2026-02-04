@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vertigo
-TITLE: Vertigo.
-PMID: 9484610
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9484610/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Insight into the pathomechanisms of the benign positional vertigo syndromes has led to quick and effective treatment with positional manoeuvres. Our understanding of other causes of vertigo is progressing at a slower pace, but several recent findings regarding vestibular neuritis, vascular compression of the eighth nerve and psychogenic vertigo are of immediate clinical relevance.

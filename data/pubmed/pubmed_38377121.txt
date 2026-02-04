@@ -1,8 +1,0 @@
-SEARCH_TOPIC: HPV infection
-TITLE: Risk factors for human papillomavirus infection and disease: A targeted literature summary.
-PMID: 38377121
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38377121/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Adolescents are the primary cohort for routine human papillomavirus (HPV) vaccination, but unvaccinated adults may also benefit. A lack of consensus on which adults to target and the presence of reimbursement barriers likely contribute to the lag in adult vaccinations, highlighting missed prevention opportunities. Understanding factors contributing to risk of HPV infection and disease could help in decision making on vaccination. This review summarizes existing literature on risk factors for HPV infection and disease and includes 153 studies reporting relative risks or odds ratios for factors associated with HPV infection or disease in adults, published between 2009 and 2020. Despite inconsistent design and reporting of risk factors across studies, this review confirmed several risk factors associated with adult infection, including human immunodeficiency virus positivity, number of sex partners, and smoking. These findings can support policymaking, guideline development, and clinical decision making for HPV vaccination and screening of high-risk adult groups.

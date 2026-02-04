@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cirrhosis
-TITLE: [Cirrhosis].
-PMID: 10609269
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10609269/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cirrhosis, a condition whose diagnosis is dependent on histology, is characterized by a combination of two main lesions, namely fibrosis and regeneration nodules. Alcohol abuse and viral infections are the two most common causes of cirrhosis. Symptoms and laboratory test abnormalities appear when hepatic failure and portal hypertension occur as a result of the cirrhosis. Ascites, gastrointestinal bleeding, encephalopathy, and bacterial infections are the main clinical manifestations. Hepatocellular carcinoma is a common and dreaded complication of cirrhosis. Serum albumin, serum bilirubin, and the prothrombin time are the most useful laboratory parameters. In combination with clinical criteria they allow determination of the Child-Pugh stage, which is largely used to evaluate the severity of cirrhosis, and evaluation of the prognosis. Recently, the early detection of cirrhosis has been shown to benefit from assays of serum markers for fibrosis, most notably hyaluronate. Quantitative tests evaluating the functional liver mass are helpful for monitoring cirrhosis and for selecting patients for liver transplantation, which is the only available treatment for end-stage cirrhosis.

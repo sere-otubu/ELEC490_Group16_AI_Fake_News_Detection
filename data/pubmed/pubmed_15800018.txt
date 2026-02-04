@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 15800018)
-    QUESTION: Are even impaired fasting blood glucose levels preoperatively associated with increased mortality after CABG surgery?
-    CONTEXT: Impaired fasting glucose (IFG) below the diagnostic threshold for diabetes mellitus (DM) is associated with macrovascular pathology and increased mortality after percutaneous coronary interventions. The study goal was to determine whether pre-operative fasting blood glucose (fB-glu) is associated with an increased mortality after coronary artery bypass grafting (CABG).
-    ANSWER: The elevated risk of death after CABG surgery known previously to be associated with CDM seems also to be shared by a group of similar size that includes patients with IFG and undiagnosed DM.
-    

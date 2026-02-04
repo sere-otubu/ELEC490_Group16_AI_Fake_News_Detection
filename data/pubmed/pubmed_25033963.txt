@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Meal planning
-TITLE: Mind over platter: pre-meal planning and the control of meal size in humans.
-PMID: 25033963
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25033963/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-It is widely accepted that meal size is governed by psychological and physiological processes that generate fullness towards the end of a meal. However, observations of natural eating behaviour suggest that this preoccupation with within-meal events may be misplaced and that the role of immediate post-ingestive feedback (for example, gastric stretch) has been overstated. This review considers the proposition that the locus of control is more likely to be expressed in decisions about portion size, before a meal begins. Consistent with this idea, we have discovered that people are extremely adept at estimating the 'expected satiety' and 'expected satiation' of different foods. These expectations are learned over time and they are highly correlated with the number of calories that end up on our plate. Indeed, across a range of foods, the large variation in expected satiety/satiation may be a more important determinant of meal size than relatively subtle differences in palatability. Building on related advances, it would also appear that memory for portion size has an important role in generating satiety after a meal has been consumed. Together, these findings expose the importance of planning and episodic memory in the control of appetite and food intake in humans.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Laxatives
-TITLE: Appropriate use of laxatives in the management of constipation.
-PMID: 17991343
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17991343/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chronic constipation is a frequent complaint in clinical practice. It is usually amenable to laxatives, which are available with and without prescription. An overemphasis on evidence-based analysis and aggressive marketing of newly developed laxative agents has tilted the recommendations toward more expensive, but not necessarily more effective, agents. This review addresses each of the four classes of laxatives and provides suggestions about their appropriate use in clinical practice.

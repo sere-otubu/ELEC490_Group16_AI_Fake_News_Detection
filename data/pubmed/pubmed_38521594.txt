@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sexual health
-TITLE: Preventive and Sexual Health in LGBTQ+ Older Adults.
-PMID: 38521594
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38521594/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sexual health is an important but often overlooked health concern of LGBTQ + older adults. Multiple factors influence sexual health including intersecting identities; adverse life events; coping mechanisms; and psychological, social, and physical health domains. Thus, the use of a culturally competent and comprehensive person-centered approach to sexual health is warranted. In this review, we discuss approaches to engaging LGBTQ + older adults to ensure they are able to achieve their sexual health priorities and prevent new human immunodeficiency virus infections. We also discuss doxycycline postexposure prophylaxis to prevent other sexually transmitted infections and the impact of chemsex.

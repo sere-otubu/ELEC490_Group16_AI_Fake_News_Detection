@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mumps
-TITLE: Mumps outbreaks: A problem in need of solutions.
-PMID: 29678496
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29678496/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To discuss what is presently known about recent mumps outbreaks and what solutions can be suggested to ensure more complete protection against mumps. PubMed was used to search for all of the studies published over the last 15 years using the key words "mumps" or "mumps virus" or "mumps vaccine". More than 1500 articles were found, but only those published in English or providing evidence-based data were included in the evaluation. Prevention of mumps remains an unsolved problem. Available vaccines are effective but the protection they evoke declines over time. The use of booster doses can control outbreaks but it is not precisely defined whether they can prevent them. The rapid decline of antibody levels could limit the impact of the introduction of a third dose in the recommended immunization schedule. Furthermore, in most of the areas, mumps viral strains that are genetically different from those included in the vaccines are emerging and this might favour vaccine escape. However, also for this problem, its real relevance in favouring outbreak development is not precisely defined. The true reasons for the development of mumps outbreaks in people with very high vaccination coverage are not clearly understood. The use of a booster dose or the preparation of vaccines containing the emerging serotypes are possible solutions, but both have some limitations. Further studies mainly devoted to improve our knowledge of the immune response to mumps vaccines are needed before long-term effective mumps vaccines can be prepared and outbreaks can be avoided.

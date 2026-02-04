@@ -1,3 +1,0 @@
-Title: Evaluating COVID-19 Vaccine Masking and Unmasking Methods in Two National Pharmacovigilance Databases.
-
-Abstract: The COVID-19 mass vaccination led to a substantial increase in spontaneous reports submitted to pharmacovigilance (PV) databases, potentially introducing masking effects that could conceal safety signals.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Enzymes function
-TITLE: Effects of proteolytic enzymes on function and structure of frog neuromuscular junctions.
-PMID: 4352108
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/4352108/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-1. Frog cutaneous pectoris nerve-muscle preparations were incubated with collagenase and protease and examined with electrophysiological and electron microscopic techniques.2. The physiological properties and intracellular ultrastructural appearance of individual muscle and nerve cells were not affected by the enzyme treatment. However, neuromuscular transmission and the morphology of the nerve-muscle junction were altered.3. Collagenase produced an irreversible loss of activity of end-plate cholinesterase and a partial loss of stainable ;synaptic cleft material'.4. Protease produced these changes and, in addition, the entire basement membrane was digested, which led to ;synaptic disjunction' of nerve terminals and muscle end-plates.

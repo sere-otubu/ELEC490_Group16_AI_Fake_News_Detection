@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Psoriasis
-TITLE: Psoriasis and Depression: The Role of Inflammation.
-PMID: 30509759
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30509759/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Psoriasis is a chronic, systemic inflammatory disorder with multiple comorbidities. The most common comorbidities are mental disorders, especially depression, which can interact negatively with psoriasis to produce a dangerous vicious circle. Depression in psoriasis has traditionally been explained as a response to psychosocial factors and impaired quality of life. However, a new hypothesis linking depression and psoriasis through chronic inflammation offers insights that should help to understand and treat these diseases. In this approach, new drugs and lifestyle have an important role.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Female infertility
-TITLE: Burden of female infertility in 204 countries and territories, 1990-2021: results from the Global Burden of Disease Study 2021.
-PMID: 39936646
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39936646/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To explore the global burden of female infertility from 1990 to 2021 by examining trends in prevalence and years lived with disability (YLD). Data from the Global Burden of Disease Study 2021 (GBD 2021) were analyzed with a focus on the prevalence and YLD of female infertility in women aged 15-49 years. Statistical models were used to estimate ASPRs and YLD across regions and countries. The global prevalence of female infertility was 110.1 million in 2021, with an age-standardized rate of 2,764.6 per 100,000 population. The YLD for infertility in 2021 was 601,134, which represented a 33.1% increase since 1990. Regionally, East Asia and Eastern Europe had the highest rates of infertility, whereas Australasia had the lowest rate. The study highlights a significant rise in the burden of female infertility, particularly in high-income regions. Study findings emphasize the need for targeted public health strategies and healthcare interventions to address this growing issue.

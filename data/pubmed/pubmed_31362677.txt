@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Smoking cessation
-TITLE: The Effects of Smoking Cessation on Diabetes Mellitus Patients.
-PMID: 31362677
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31362677/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Smoking is an established predictor of type 2 diabetes. However, the link between smoking cessation and diabetes progression remains a subject of scholarly investigation. The objective of this systematic review is to establish the link between smoking cessation and diabetes. The study utilized conference abstracts and peer-reviewed journals that reported randomized controlled trials smoking cessation interventions for diabetes patients. Results from the review were inconclusive on the link between smoking cessation and diabetes. On one hand, several researchers have confirmed a positive correlation between smoking cessation and decreased risk of diabetes. On the other hand, some researchers have demonstrated that immediate withdrawal of nicotine resulted in increased risk of diabetes; however, this risk reduces with time. The result of this review did not estblish a clear relationship between smoking cessation and diabates. Compared to other studies examining the implication of smoking on chronic diseases, this study identified a very small number of trials evaluating the effect of smoking cessation on diabetes. The small number of studies implies that the results may not be suitable for generalization. Results from the review can help in the development of a tailored intervention for effective management of diabetes in smoking patients.

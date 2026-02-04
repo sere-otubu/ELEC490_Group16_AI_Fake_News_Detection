@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antacids
-TITLE: Antacids revisited: review on contemporary facts and relevance for self-management.
-PMID: 35343261
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35343261/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Heartburn and acid regurgitation are the typical symptoms of gastroesophageal reflux. Despite the availability of several treatment options, antacids remain the mainstay treatment for gastroesophageal reflux-related symptoms based on their efficacy, safety, and over-the-counter availability. Antacids are generally recommended for adults and children at least 12 years old, and the FDA recommends antacids as the first-line treatment for heartburn in pregnancy. This narrative review summarizes the mechanism, features, and limitations related to different antacid ingredients and techniques available to study the acid neutralization and buffering capacity of antacid formulations. Using supporting clinical evidence for different antacid ingredients, it also discusses the importance of antacids as OTC medicines and first-line therapies for heartburn, particularly in the era of the COVID-19 pandemic, in which reliance on self-care has increased. The review will also assist pharmacists and other healthcare professionals in helping individuals with heartburn to make informed self-care decisions and educating them to ensure that antacids are used in an optimal, safe, and effective manner.

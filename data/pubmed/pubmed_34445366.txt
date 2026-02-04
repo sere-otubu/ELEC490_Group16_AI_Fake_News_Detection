@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lung cancer
-TITLE: Current and Future Development in Lung Cancer Diagnosis.
-PMID: 34445366
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34445366/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Lung cancer is the leading cause of cancer-related deaths in North America and other developed countries. One of the reasons lung cancer is at the top of the list is that it is often not diagnosed until the cancer is at an advanced stage. Thus, the earliest diagnosis of lung cancer is crucial, especially in screening high-risk populations, such as smokers, exposure to fumes, oil fields, toxic occupational places, etc. Based on the current knowledge, it looks that there is an urgent need to identify novel biomarkers. The current diagnosis of lung cancer includes different types of imaging complemented with pathological assessment of biopsies, but these techniques can still not detect early lung cancer developments. In this review, we described the advantages and disadvantages of current methods used in diagnosing lung cancer, and we provide an analysis of the potential use of body fluids as carriers of biomarkers as predictors of cancer development and progression.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Wound healing process
-TITLE: Chronic Wound Healing: A Review of Current Management and Treatments.
-PMID: 28108895
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28108895/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Wound healing is a complex, highly regulated process that is critical in maintaining the barrier function of skin. With numerous disease processes, the cascade of events involved in wound healing can be affected, resulting in chronic, non-healing wounds that subject the patient to significant discomfort and distress while draining the medical system of an enormous amount of resources. The healing of a superficial wound requires many factors to work in concert, and wound dressings and treatments have evolved considerably to address possible barriers to wound healing, ranging from infection to hypoxia. Even optimally, wound tissue never reaches its pre-injured strength and multiple aberrant healing states can result in chronic non-healing wounds. This article will review wound healing physiology and discuss current approaches for treating a wound.

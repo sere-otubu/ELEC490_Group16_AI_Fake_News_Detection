@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urban health issues
-TITLE: Challenges and Opportunities for Urban Environmental Health and Sustainability: the HEALTHY-POLIS initiative.
-PMID: 26960714
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26960714/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cities around the world face many environmental health challenges including contamination of air, water and soil, traffic congestion and noise, and poor housing conditions exacerbated by unsustainable urban development and climate change. Integrated assessment of these risks offers opportunities for holistic, low carbon solutions in the urban environment that can bring multiple benefits for public health. The Healthy-Polis consortium aims to protect and promote urban health through multi-disciplinary, policy-relevant research on urban environmental health and sustainability. We are doing this by promoting improved methods of health risk assessment, facilitating international collaboration, contributing to the training of research scientists and students, and engaging with key stakeholders in government, local authorities, international organisations, industry and academia. A major focus of the consortium is to promote and support international research projects coordinated between two or more countries. The disciplinary areas represented in the consortium are many and varied, including environmental epidemiology, modelling and exposure assessment, system dynamics, health impact assessment, multi-criteria decision analysis, and other quantitative and qualitative approaches. This Healthy-Polis special issue presents a range of case studies and reviews that illustrate the need for a systems-based understanding of the urban environment.

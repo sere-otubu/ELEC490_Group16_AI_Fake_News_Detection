@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Arthritis
-TITLE: Infections and arthritis.
-PMID: 26096095
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26096095/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Bacteria, viruses, fungi, and parasites can all cause arthritis of either acute or chronic nature, which can be divided into infective/septic, reactive, or inflammatory. Considerable advances have occurred in diagnostic techniques in the recent decades resulting in better treatment outcomes in patients with infective arthritis. Detection of emerging arthritogenic viruses has changed the epidemiology of infection-related arthritis. The role of viruses in the pathogenesis of chronic inflammatory arthritides such as rheumatoid arthritis is increasingly being recognized. We discuss the various causative agents of infective arthritis and emphasize on the approach to each type of arthritis, highlighting the diagnostic tests, along with their statistical accuracy. Various investigations including newer methods such as nucleic acid amplification using polymerase chain reaction are discussed along with the pitfalls in interpreting the tests.

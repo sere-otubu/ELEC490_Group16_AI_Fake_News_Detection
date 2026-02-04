@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19322056)
-    QUESTION: Does the enteral feeding advancement affect short-term outcomes in very low birth weight infants?
-    CONTEXT: Controversy exists regarding the optimal enteral feeding regimen of very low birth weight infants (VLBW). Rapid advancement of enteral feeding has been associated with an increased rate of necrotizing enterocolitis. In contrast, delaying enteral feeding may have unfavorable effects on nutrition, growth, and neurodevelopment. The aim is to compare the short-term outcomes of VLBW infants in tertiary care centers according to their enteral feeding advancement.
-    ANSWER: Center differences in enteral feeding advancement occur and may have a significant impact on short-term outcomes such as nosocomial sepsis. Large, multicenter, prospective trials are required to further elucidate the optimal feeding strategy for VLBW infants.
-    

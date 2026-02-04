@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Influenza
-TITLE: Influenza viruses: from birds to humans.
-PMID: 22251997
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22251997/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Avian influenza viruses are the precursors of human influenza A viruses. They may be transmitted directly from avian reservoirs, or infect other mammalian species before subsequent transmission to their human host. So far, avian influenza viruses have caused sporadic-yet increasingly more frequently recognized-cases of infection in humans. They have to adapt to and circulate efficiently in human populations, before they may trigger a worldwide human influenza outbreak or pandemic. Cross-species transmission of avian influenza viruses from their reservoir hosts-wild waterbirds-to terrestrial poultry and to humans is based on different modes of transmission and results in distinctive pathogenetic manifestations, which are reviewed in this paper.

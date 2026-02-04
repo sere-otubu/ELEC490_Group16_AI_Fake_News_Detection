@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Electrolytes
-TITLE: Rapid and green detection of manganese in electrolytes by ultraviolet-visible spectrometry to control pollutant discharge.
-PMID: 35213674
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35213674/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Controlling the manganese (Mn2+) concentration is important to product quality in the electrolytic manganese industry. Conventional methods for detecting Mn2+ are complex and reagent-consuming, which makes them slow and polluting. It is of great significance to develop a new fast and environmentally friendly method to quantify Mn2+ in electrolyte. The characteristic ultraviolet-visible (UV-vis) absorbance at 401 nm of Mn2+ will vary linearly with the Mn2+ concentration after data correction. Adjusting the pH, calibrating the spectral bandwidth (SBW) and optical path length (OPL), and subtracting the interference from coexisting substances by linear interpolation improve the measuring accuracy. Mn2+ concentration can be determined by direct fast UV-vis absorbance measurement at characteristic peaks without using harmful reagents which facilitates such measurement to be applicated as on-line detection method for electrolytic manganese industry. The method developed in this study will help achieve the goal of improving the detection speed while cutting back on pollutant discharge from concentration analysis process in electrolytic manganese industry.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Binge eating disorder
-TITLE: Pharmacologic Treatments for Binge-Eating Disorder.
-PMID: 28125174
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28125174/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Binge-eating disorder (BED) is the most common eating disorder and is associated with poor physical and mental health outcomes. Psychological and behavioral interventions have been a mainstay of treatment for BED, but as understanding of this disorder has grown, pharmacologic agents have become promising treatment options for some patients. At this time, only one drug-the stimulant prodrug lisdexamfetamine-is approved for the treatment of BED. Numerous classes of medications including antidepressants, anticonvulsants, and antiobesity drugs have been explored as off-label treatments for BED with variable success. Although not all patients with BED may be suitable candidates for pharmacotherapy, all patients should be considered for and educated about pharmacologic treatment options.

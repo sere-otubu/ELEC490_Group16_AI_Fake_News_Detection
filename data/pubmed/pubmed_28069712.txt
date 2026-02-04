@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Evidence based medicine
-TITLE: An Evidence-Based Medicine Approach to Antihyperglycemic Therapy in Diabetes Mellitus to Overcome Overtreatment.
-PMID: 28069712
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28069712/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Overtreatment is pervasive in medicine and leads to potential patient harms and excessive costs in health care. Although evidence-based medicine is often derided as practice by rote algorithmic medicine, the appropriate application of key evidence-based medicine principles in clinical decision making is fundamental to preventing overtreatment and promoting high-value, individualized patient-centered care. Specifically, this article discusses the importance of (1) using absolute rather than relative estimates of benefits to inform treatment decisions; (2) considering the time horizon to benefit of treatments; (3) balancing potential harms and benefits; and (4) using shared decision making by physicians to incorporate the patient's values and preferences into treatment decisions. Here, we illustrate the application of these principles to considering the decision of whether or not to recommend intensive glycemic control to patients to minimize microvascular and cardiovascular complications in type 2 diabetes mellitus. Through this lens, this example will illustrate how an evidence-based medicine approach can be used to individualize glycemic goals and prevent overtreatment, and can serve as a template for applying evidence-based medicine to inform treatment decisions for other conditions to optimize health and individualize patient care.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22440363)
-    QUESTION: Mitral replacement or repair for functional mitral regurgitation in dilated and ischemic cardiomyopathy: is it really the same?
-    CONTEXT: This was a study to compare the results of mitral valve (MV) repair and MV replacement for the treatment of functional mitral regurgitation (MR) in advanced dilated and ischemic cardiomyopathy (DCM).
-    ANSWER: In patients with advanced dilated and ischemic cardiomyopathy and severe functional MR, MV replacement is associated with higher in-hospital and late mortality compared with MV repair. Therefore, mitral repair should be preferred whenever possible in this clinical setting.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Laparoscopic surgery
-TITLE: Guideline No. 412: Laparoscopic Entry for Gynaecological Surgery.
-PMID: 33373697
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33373697/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To evaluate the benefits and risks of laparoscopic surgery and provide clinical direction on entry techniques, technologies, and their associated complications in gynaecological surgery. All patients, including pregnant women and women with obesity, undergoing laparoscopic surgery for various gynaecological indications. The laparoscopic entry techniques and technologies reviewed in formulating this guideline included the closed (Veress needle-pneumoperitoneum-trocar) technique, direct trocar insertion, open (Hasson) technique, visual entry systems, and disposable shielded and radially expanding trocars. Implementation of this guideline should optimize decision-making in the selection of entry technique for laparoscopic surgery. We searched English-language articles from September 2005 to December 2019 in PubMed/MEDLINE, Embase, Science Direct, Scopus, and Cochrane Library using the following MeSH search terms alone or in combination: laparoscopic entry, laparoscopy access, pneumoperitoneum, Veress needle, open (Hasson), direct trocar, visual entry, shielded trocars, radially expanded trocars, and laparoscopic complications. The authors rated the quality of evidence and strength of recommendations using the Canadian Task Force on Preventive Health Care approach (Appendix A). Surgeons performing laparoscopic gynaecological surgery. RECOMMENDATIONS.

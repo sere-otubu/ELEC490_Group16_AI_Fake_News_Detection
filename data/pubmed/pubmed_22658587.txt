@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22658587)
-    QUESTION: Affect-regulated exercise intensity: does training at an intensity that feels 'good' improve physical health?
-    CONTEXT: Affect-regulated exercise to feel 'good' can be used to control exercise intensity amongst both active and sedentary individuals and should support exercise adherence. It is not known, however, whether affect-regulated exercise training can lead to physical health gains. The aim of this study was to examine if affect-regulated exercise to feel 'good' leads to improved fitness over the course of an 8-week training programme.
-    ANSWER: Affect-regulated exercise to feel 'good' can be used in a training programme to regulate exercise intensity. This approach led to a 19% increase in time to reach ventilatory threshold, which is indicative of improved fitness.
-    

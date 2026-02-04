@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Reproductive system
-TITLE: The potential for nanomaterial toxicity affecting the male reproductive system.
-PMID: 36416029
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36416029/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-With the development of nanotechnology, nanomaterials offer great advantages in a wide variety of industrial and consumer products, and show promise for biomedical applications. However, with these new products, nanomaterial pollutants may enter the human body to cause adverse health effects, including hazards to the male reproductive system. Nanomaterials can enter the body through inhalation, oral exposure, or intravenous injection, and reach the testis via the blood, penetrate the Sertoli cell barrier, and directly or indirectly elicit toxicopathological changes to the testicles. These may then trigger hormone disorders, inhibit spermatogenic cell proliferation, and induce apoptosis, ultimately leading to a decrease in sperm motility and number, ultimately diminishing male reproductive capacity. This review will discuss the toxicological effects of nanomaterials on the male reproductive system, including inflammation, the impact on the hypothalamic-pituitary-gonadal axis (HPG axis), lipid peroxidation, and free ion release relevant to germ cells, Sertoli cell tight junctions, and the gonadal endocrine system. This article is categorized under: Toxicology and Regulatory Issues in Nanomedicine > Toxicology of Nanomaterials.

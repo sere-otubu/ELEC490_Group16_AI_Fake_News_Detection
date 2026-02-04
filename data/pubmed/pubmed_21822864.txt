@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Stem cell research
-TITLE: Stem cell banks: preserving cell lines, maintaining genetic integrity, and advancing research.
-PMID: 21822864
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21822864/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The ability to cryopreserve and successfully recover cell lines has been critical to the conservation of all cell lines, especially the preservation of pristine early-stage cultures and the preparation of well-characterized cell banks. Indeed, the systematic storage and establishment of cryopreserved banks of cells for the stem cell research community is fundamental to the promotion of standardisation in stem cell research and their use in clinical applications. In spite of the significant potential for the use of stem cells in research and therapy, they are challenging to maintain and have been shown to be unstable after prolonged culture that often results in permanent alterations in their genetic make-up, which ultimately alters the phenotype of the culture. This chapter will review the principles of cell bank production, techniques for the scale-up of human pluripotent stem cells, quality control, and characterisation methods for banked cell lines.

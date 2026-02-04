@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Breast cancer
-TITLE: Breast cancer diagnosis: Imaging techniques and biochemical markers.
-PMID: 29219189
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29219189/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Breast cancer is a complex disease which is found as the second cause of cancer-associated death among women. Accumulating of evidence indicated that various factors (i.e., gentical and envirmental factors) could be associated with initiation and progression of breast cancer. Diagnosis of breast cancer patients in early stages is one of important aspects of breast cancer treatment. Among of various diagnosis platforms, imaging techniques are main diagnosis approaches which could provide valuable data on patients with breast cancer. It has been showed that various imaging techniques such as mammography, magnetic resonance imaging (MRI), positron-emission tomography (PET), Computed tomography (CT), and single-photon emission computed tomography (SPECT) could be used for diagnosis and monitoring patients with breast cancer in various stages. Beside, imaging techniques, utilization of biochemical biomarkers such as proteins, DNAs, mRNAs, and microRNAs could be employed as new diagnosis and therapeutic tools for patients with breast cancer. Here, we summarized various imaging techniques and biochemical biomarkers could be utilized as diagnosis of patients with breast cancer. Moreover, we highlighted microRNAs and exosomes as new diagnosis and therapeutic biomarkers for monitoring patients with breast cancer.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Malaria
-TITLE: Plasmodium genomics: an approach for learning about and ending human malaria.
-PMID: 30402656
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30402656/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Malaria causes high levels of morbidity and mortality in human beings worldwide. According to the World Health Organization (WHO), about half a million people die of this disease each year. Malaria is caused by six species of parasites belonging to the Plasmodium genus: P. falciparum, P. knowlesi, P. vivax, P. malariae, P. ovale curtisi, and P. ovale wallikeri. Currently, malaria is being kept under control with varying levels of elimination success in different countries. The development of new molecular tools as well as the use of next-generation sequencing (NGS) technologies and novel bioinformatic approaches has improved our knowledge of malarial epidemiology, diagnosis, treatment, vaccine development, and surveillance strategies. In this work, the genetics and genomics of human malarias have been analyzed. Since the first P. falciparum genome was sequenced in 2002, various population-level genetic and genomic surveys, together with transcriptomic and proteomic studies, have shown the importance of molecular approaches in supporting malaria elimination.

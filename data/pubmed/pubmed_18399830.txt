@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18399830)
-    QUESTION: Is robotically assisted laparoscopic radical prostatectomy less invasive than retropubic radical prostatectomy?
-    CONTEXT: To evaluate whether robotically assisted laparoscopic prostatectomy (RALP) is less invasive than radical retropubic prostatectomy (RRP), as experimental studies suggest that the acute phase reaction is proportional to surgery-induced tissue damage.
-    ANSWER: This study showed for the first time that RALP induces lower tissue trauma than RRP.
-    

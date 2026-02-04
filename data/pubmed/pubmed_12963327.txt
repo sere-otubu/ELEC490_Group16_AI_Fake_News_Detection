@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ergonomics
-TITLE: Ergonomics--costs and benefits.
-PMID: 12963327
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12963327/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Ergonomics is primarily concerned with improving the performance of man or of man-machine systems. Although many applications have produced evident improvements, the terms of reference and the results are not often expressed in measures that are easily converted into financial savings. However, there is a growing demand for cost-benefit data of ergonomic improvements, and several examples in which the application of ergonomic principles has resulted in tangible benefits, are reviewed. Cases are cited of increases of productivity resulting from equipment redesign and of savings achieved from the reduction of accidents, and from improvements in the working environment. It is concluded that there is, as yet, no large body of well-documented cases of financial savings accruing from the application of ergonomics, due in many cases to the difficulties of costing actual changes in performance in the work situation. The need for further studies is debated, and it is suggested that the use of ergonomic data in a design programme should not necessarily be based on the prediction of financial benefits.

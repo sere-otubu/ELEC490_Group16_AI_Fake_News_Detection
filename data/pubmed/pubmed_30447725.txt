@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Borderline personality disorder
-TITLE: Differential Diagnosis of Borderline Personality Disorder.
-PMID: 30447725
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30447725/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Borderline personality disorder (BPD) has a wide range of symptoms and clinical features that overlap with other diagnostic categories. Diagnosis is important because different disorders respond to different forms of treatment. Differential diagnosis is particularly relevant for distinguishing BPD from bipolar spectrum disorders, requiring a careful evaluation of affective instability and hypomania. BPD may also be confused with major depression, schizophrenia, attention-deficit/hyperactivity disorder, and posttraumatic stress disorder.

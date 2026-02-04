@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Personality disorders
-TITLE: Personality disorders and depression: comorbidity.
-PMID: 10690575
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10690575/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Depression and comorbid personality disorders relate to one another in three distinct ways: 1) personality disorders may precede the development of depression and render an individual vulnerable to depression; 2) depression may precede the personality disorder and foster the development of the personality disorder; 3) there may be an interface between personality disorders and depression, which has been deemed depressive personality disorder. This article reviews data on the comorbidity of depression, particularly chronic depression, and personality disorders. This article also reviews data on the effect of comorbid personality disorders on treatment for depression, and the effect that treatment for depression has on personality disorders. Comorbid personality disorders generally do not impede treatment for depression. Successful treatment for depression is associated with improvement in personality disorders.

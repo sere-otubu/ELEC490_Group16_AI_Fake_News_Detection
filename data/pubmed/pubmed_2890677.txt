@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Beta blockers
-TITLE: Beta-blockers in anxiety disorders.
-PMID: 2890677
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2890677/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Studies evaluating the antianxiety and antipanic properties of beta-blockers do not support their routine use in treating either generalized anxiety disorder or panic disorder. The use of propranolol for anxiety disorders accompanied by physical symptoms, especially cardiovascular complaints, may be effective in some patients when combined with benzodiazepines or perhaps in some non-responders to conventional treatment. Better designed studies are needed to evaluate the exact role of beta-blocking agents in treating anxiety. The efficacy of propranolol in patients with panic disorder has not been widely researched, but preliminary results have not been encouraging. Propranolol may provide symptomatic relief in some patients with residual somatic complaints (i.e., palpitations and tachycardia), when combined with the patient's ongoing drug regimen. Because beta-blockers may induce depression, they should be used cautiously--if at all--in panic patients with concurrent depressive illness.

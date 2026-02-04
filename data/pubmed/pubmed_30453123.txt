@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cortisol
-TITLE: Cortisol relates to regional limbic system structure in older but not younger adults.
-PMID: 30453123
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30453123/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-We investigated if the relationship between age and regional limbic system brain structure would be moderated by diurnal cortisol output and diurnal cortisol slope. Participants aged 23-83 years collected seven salivary cortisol samples each day for 10 consecutive days and underwent magnetic resonance imaging. Age, sex, cortisol, and an age x cortisol interaction were tested as predictors of hippocampal and amygdalar volume and caudal and rostral anterior cingulate cortex (ACC) thickness. We found significant interactions between age and cortisol on left and right amygdalar volumes and right caudal ACC thickness. Older adults with higher cortisol output had smaller left and right amygdalar volumes than older adults with lower cortisol output and younger adults with higher cortisol output. Older and younger adults with lower cortisol output had similar amygdalar volumes. Older adults with a steeper decline in diurnal cortisol had a thicker right caudal ACC than younger adults with a similarly shaped cortisol slope. Hippocampal volume was not related to either cortisol slope or output, nor was pallidum volume which was assessed as an extra-limbic control region. Results suggest that subtle differences in cortisol output are related to differences in limbic system structure in older but not younger adults.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: GERD
-TITLE: Gastroesophageal Reflux Disease: Pathophysiology, Diagnosis, and Treatment.
-PMID: 30688703
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30688703/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gastroesophageal reflux disease (GERD) is a common chronic disorder in industrialized countries. Gastroesophageal reflux disease is one of the most frequent diseases encountered by primary care providers. The primary symptoms of GERD include heartburn, regurgitation, globus sensation, dysphagia, chest pain, and belching. If symptoms are left untreated, a major concern is complications and the potential risk of esophageal adenocarcinoma associated with GERD. With the increasing prevalence and incidence of GERD and the increasing cost of this disease, there is a need for advanced practice registered nurses to understand the nature of GERD including its pathophysiology, signs and symptoms, and treatment options to address the disease.

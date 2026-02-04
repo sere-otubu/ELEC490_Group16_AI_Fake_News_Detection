@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 10811329)
-    QUESTION: Are 99mTc leukocyte scintigraphy and SBFT studies useful in children suspected of having inflammatory bowel disease?
-    CONTEXT: The goal of this retrospective study was to assess whether 99mTc-white blood cell (WBC) scintigraphy and upper gastrointestinal small bowel follow-through (UGI-SBFT) could exclude inflammation in children suspected of having inflammatory bowel disease (IBD).
-    ANSWER: Our results suggest that 99mTc-WBC is useful as an initial screening modality to exclude IBD, and is more sensitive than UGI-SBFT studies.
-    

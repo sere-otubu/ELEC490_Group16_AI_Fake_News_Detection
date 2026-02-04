@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Healthy fats
-TITLE: Pragmatic selection of cooking oils.
-PMID: 28585605
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28585605/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Fats and oils are one of the very important components of diet. However excess of either overall fat or certain kind of fats in the diet may result in negative health impacts including risk of obesity, dyslipidaemia, cardiovascular diseases and certain malignancies. It is thus important to have an optimum amount of fat in the diet, and also important to choose appropriate sources of fat in the diet. In this mini review we suggest pragmatic selection of cooking oils for optimum health benefits.

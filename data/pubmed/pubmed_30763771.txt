@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Macronutrients
-TITLE: Macronutrients and the Adipose-Liver Axis in Obesity and Fatty Liver.
-PMID: 30763771
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30763771/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Macronutrient metabolism is a highly orchestrated process, with adipose tissue and liver each playing central roles in nutrient uptake, processing, transport, and storage. These 2 tissues form an important metabolic circuit, particularly as it relates to lipids as the primary storage form of excess energy. The function of the circuit is influenced by many factors, including the quantity and type of nutrients consumed and their impact on the overall health of the tissues. In this review we begin with a brief summary of the homeostatic disposition of lipids between adipose tissue and liver and how these processes can become dysregulated in obesity. We then explore how specific dietary nutrients and nutrient combinations can exert unique influences on the liver-adipose tissue axis.

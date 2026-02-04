@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Crohns disease
-TITLE: [Ileocaecal Crohn's disease].
-PMID: 40746147
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40746147/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Early treatment strategies for localised ileocaecal Crohn's disease are still debated and include surgery or medical therapy. Early surgery often achieves long-term drug-free remission and reduced therapy needs, especially for short-segment disease. First line medical treatment including anti-TNF-alpha agents, is usually effective, but 40-50% of Crohn's disease patients still require surgery within ten years. This review finds that evidence suggests that combining early surgery with biologics may improve outcomes. Treatment decisions should consider disease extent, health status, and risks.

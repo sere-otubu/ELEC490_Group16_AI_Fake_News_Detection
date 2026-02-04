@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 27456836)
-    QUESTION: Do Electrochemiluminescence Assays Improve Prediction of Time to Type 1 Diabetes in Autoantibody-Positive TrialNet Subjects?
-    CONTEXT: To explore whether electrochemiluminescence (ECL) assays can help improve prediction of time to type 1 diabetes in the TrialNet autoantibody-positive population.
-    ANSWER: ECL assays improved the ability to predict time to diabetes in these autoantibody-positive relatives at risk for developing diabetes. These findings might be helpful in the design and eligibility criteria for prevention trials in the future.
-    

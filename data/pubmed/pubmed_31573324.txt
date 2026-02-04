@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Borderline personality disorder
-TITLE: Borderline personality disorder and depressive disorder.
-PMID: 31573324
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31573324/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Borderline personality disorder (BPD) is frequently accompanied by low mood, the features of which may satisfy the diagnostic criteria for major depressive disorder (MDD). Treatment of depressive symptoms in the absence of BPD-appropriate treatment is less effective and may cause iatrogenic harm. This paper briefly reviews the co-occurrence of BPD and depressive disorder and suggests ways of differentiating these disorders and optimising treatment within the Australian Mental Health context. Depressive symptoms are present in the majority of people with BPD. To address the difficulty differentiating clinically distinct MDD from depressive symptoms that are integral to BPD psychopathology, it is suggested that depressive symptoms arising from a primary diagnosis of BPD (i) may exhibit transience and be stress reactive, (ii) lack a robust clinical response to antidepressant medication and/or electroconvulsive treatment and (iii) are responsive to BPD-appropriate psychotherapy.

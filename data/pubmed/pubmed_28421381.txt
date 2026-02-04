@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lactose intolerance
-TITLE: Lactase Non-persistence and Lactose Intolerance.
-PMID: 28421381
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28421381/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To evaluate the clinical and nutritional significance of genetically determined lactase non-persistence and potential lactose and milk intolerance in 65-70% of the world's adult population. Milk consumption is decreasing in the USA and is the lowest in countries with a high prevalence of lactase non-persistence. The dairy industry and Minnesota investigators have made efforts to minimize the influence of lactose intolerance on milk consumption. Some lactose intolerant individuals, without co-existent irritable bowel syndrome, are able to consume a glass of milk with a meal with no or minor symptoms. The high frequency of lactase persistence in offspring of Northern European countries and in some nomadic African tribes is due to mutations in the promoter of the lactase gene in association with survival advantage of milk drinking. Educational and commercial efforts to improve calcium and Vitamin D intake have focused on urging consumption of tolerable amounts of milk with a meal, use of lowered lactose-content foods including hard cheeses, yogurt, and lactose-hydrolyzed milk products.

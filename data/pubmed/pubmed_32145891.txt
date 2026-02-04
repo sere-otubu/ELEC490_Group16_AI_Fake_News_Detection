@@ -1,8 +1,0 @@
-SEARCH_TOPIC: PET scan
-TITLE: PET Scan with Fludeoxyglucose/Computed Tomography in Low-Grade Vascular Inflammation.
-PMID: 32145891
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32145891/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Fluorodeoxyglucose-PET/computed tomography combines the high sensitivity of PET with the excellent spatial resolution provided by computed tomography, making it a potentially powerful tool for capturing and quantifying early vascular diseases. Patients with chronic inflammatory states have an increased risk of cardiovascular events; there is also increased vascular fluorodeoxyglucose uptake seen compared with healthy controls. This review examines the use of fluorodeoxyglucose-PET/computed tomography in assessing low-grade vascular inflammation in chronic inflammation and then reviews fluorodeoxyglucose-PET/computed tomography as a tool in monitoring the efficacy of various treatments known to modulate cardiovascular disease.

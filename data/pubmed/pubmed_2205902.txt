@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antacids
-TITLE: Antacids: new perspectives in cytoprotection.
-PMID: 2205902
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2205902/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There is increasing evidence that aluminum-containing antacids are able to protect the gastric mucosa against various ulcerogenic and necrotizing agents including 0.6 M HCl, 0.2 M NaOH, and absolute alcohol. Since gastric mucosal necrosis produced by alcohol is independent of luminal acid and cannot be reduced by H2-receptor antagonists, the protective action of antacids is accomplished by mechanism(s) other than acid-neutralizing ability. In addition, since acidified antacids can protect the gastric mucosa even better than an antacid with intact neutralizing capacity, it is clear that such action is independent of acid-neutralizing ability and therefore has all the features of cytoprotection. Whereas the cytoprotective action of antacids in experimental conditions is well established, the mechanisms of antacid-induced mucosal protection are not known. The clinical relevance of antacid-induced protection also requires further elucidation. Antacids have advantages over the H2 blockers in protecting the gastric mucosa against alcohol-induced necrosis and in preventing stress-induced ulcers in critically ill patients. Although more work is needed to clarify the mechanisms of cytoprotective action of antacids, the recent experimental findings gave a new life to and new potential clinical applications for antacids.

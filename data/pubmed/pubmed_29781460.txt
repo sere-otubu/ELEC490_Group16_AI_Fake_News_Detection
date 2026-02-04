@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Nicotine dependence
-TITLE: Targeting Nicotine Addiction.
-PMID: 29781460
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29781460/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Smoking cessation remains a high priority in oncology nursing practice. That priority gained additional visibility in 2014 when the Oncology Nursing Society (ONS) endorsed the tobacco position statement of the International Society of Nurses in Cancer Care, emphasizing the potential for nurses to reduce adult and youth tobacco use.

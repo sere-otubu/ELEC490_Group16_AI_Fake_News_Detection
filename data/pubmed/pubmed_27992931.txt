@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Endometriosis
-TITLE: Extrapelvic Endometriosis.
-PMID: 27992931
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27992931/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Extrapelvic endometriosis is a rare and complex phenomenon. The pathologic mechanism of intrapelvic endometriosis is generally accepted as being largely due to retrograde menstruation through the fallopian tubes; however, the mechanism by which extrapelvic endometriosis forms has proven to be much more elusive. This article reviews the pathophysiology, clinical signs and symptoms, diagnostic techniques, and treatment recommendations for extrapelvic endometriosis of the umbilicus, abdominal wall, thorax, and vulva.

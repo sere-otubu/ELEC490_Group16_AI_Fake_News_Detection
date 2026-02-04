@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Physical therapy
-TITLE: Physical therapy modalities for treating fibromyalgia.
-PMID: 32047594
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32047594/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Fibromyalgia is a syndrome characterized by generalized chronic musculoskeletal pain, hyperalgesia in specific points, and psychosomatic symptoms, such as fatigue, sleep disturbances (waking unrefreshed), anxiety, depression, cognitive dysfunction, headache, and gastrointestinal disorders. Investigations with non-pharmacological therapies, focused on physical therapy, have increased in recent years as alternative therapies for the treatment of fibromyalgia. The purpose of this review is to summarize the main physical therapy modalities used to treat fibromyalgia.

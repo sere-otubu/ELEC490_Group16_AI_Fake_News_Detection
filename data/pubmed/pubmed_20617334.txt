@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Skeletal system
-TITLE: Disuse of the musculo-skeletal system in space and on earth.
-PMID: 20617334
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20617334/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Muscle mass and strength are well known to decline in response to actual and simulated microgravity exposure. However, despite the considerable knowledge gained on the physiological changes induced by spaceflight, the mechanisms of muscle atrophy and the effectiveness of in-flight countermeasures still need to be fully elucidated. The present review examines the effects and mechanisms of actual and simulated microgravity on single fibre and whole muscle structural and functional properties, protein metabolism, tendon mechanical properties, neural drive and reflex excitability. The effects of inflight countermeasures are also discussed in the light of recent advances in resistive loading techniques, in combined physical, pharmacological and nutritional interventions as well as in the development of artificial gravity systems. Emphasis has been given to the pioneering work of Pietro Enrico di Prampero in the development of artificial gravity systems and in the progress of knowledge on the limits of human muscular performance in space.

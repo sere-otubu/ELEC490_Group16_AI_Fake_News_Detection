@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chickenpox
-TITLE: Chickenpox party or varicella vaccine?
-PMID: 16107063
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16107063/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The most compelling rationale for introducing universal vaccination against varicella was the predicted benefits to healthy children. Current evidence from the US experience indicates that these benefits are being realized. As is true for any new vaccine, implementation of such a program necessitates disease surveillance and modifications of the vaccine regimen as needed. In the case of VZV, the epidemiology of herpes zoster must be tracked as well as varicella disease trends. The prevention of herpes zoster may be another use of live attenuated or inactivated varicella vaccines.

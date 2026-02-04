@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Obesity prevention
-TITLE: Global cancer patterns: causes and prevention.
-PMID: 24351322
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24351322/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cancer is a global and growing, but not uniform, problem. An increasing proportion of the burden is falling on low-income and middle-income countries because of not only demographic change but also a transition in risk factors, whereby the consequences of the globalisation of economies and behaviours are adding to an existing burden of cancers of infectious origin. We argue that primary prevention is a particularly effective way to fight cancer, with between a third and a half of cancers being preventable on the basis of present knowledge of risk factors. Primary prevention has several advantages: the effectiveness could have benefits for people other than those directly targeted, avoidance of exposure to carcinogenic agents is likely to prevent other non-communicable diseases, and the cause could be removed or reduced in the long term--eg, through regulatory measures against occupational or environmental exposures (ie, the preventive effort does not need to be renewed with every generation, which is especially important when resources are in short supply). Primary prevention must therefore be prioritised as an integral part of global cancer control.

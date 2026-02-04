@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Zika virus
-TITLE: Zika virus research models.
-PMID: 28811170
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28811170/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The 2015 Brazilian Zika virus outbreak sparked a rapid response to control the spread of the virus. What was first understood to be a mild self-resolving infection is now linked to significant neurological defects in both neonates and adults. The WHO declared the 2016 Zika epidemic a public health emergency and issued an unprecedented recommendation to women in affected regions to delay pregnancy until the risks surrounding Zika virus could be understood, or the epidemic contained. Since that time, considerable effort has been dedicated to understanding Zika transmission and pathogenesis to aid the development of drugs and vaccines. Several models have emerged to study numerous facets of Zika biology; this review details the various model systems.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 8985020)
-    QUESTION: Does induction chemotherapy have a role in the management of nasopharyngeal carcinoma?
-    CONTEXT: To assess the outcomes of patients with nasopharyngeal carcinoma (NPC) whose treatment was determined by computerized tomography (CT) and/or magnetic resonance imaging staging and to analyze the impact of induction chemotherapy and accelerated fractionated radiotherapy.
-    ANSWER: While not providing conclusive evidence, this single institution experience suggests that neoadjuvant chemotherapy for Stage IV NPC patients improves both survival and disease control. Recurrence within the irradiated volume was the most prevalent mode of failure and future studies will evaluate regimens to enhance local regional control.
-    

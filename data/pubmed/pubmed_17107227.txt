@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Substance abuse
-TITLE: Adolescent substance abuse and psychiatric comorbidities.
-PMID: 17107227
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17107227/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The use and abuse of substances-including alcohol, nicotine, marijuana, inhalants, and other drugs-are commonly found to be comorbid with psychiatric conditions in adolescents. This dual diagnosis requires special attention and treatment, especially as substance use often begins during this developmental period. Adolescents may be diagnosed with substance abuse, substance dependence, or substance use disorder not otherwise specified, which indicates a developing substance use problem that includes symptoms of but does not meet criteria for substance dependence. Psychiatric comorbidity in adolescents who abuse substances is the rule rather the exception, and common comorbidities include depression, anxiety, bipolar disorder, conduct disorder, and attention-deficit/hyperactivity disorder. Treatment of the psychiatric disorder often helps to alleviate the substance use disorder as well. This activity discusses the epidemiology, assessment, and treatment of this dual diagnosis.

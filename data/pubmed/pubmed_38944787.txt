@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic testing ethics
-TITLE: Use of preimplantation genetic testing for monogenic adult-onset conditions: an Ethics Committee opinion.
-PMID: 38944787
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38944787/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Preimplantation genetic testing for monogenic diseases for adult-onset conditions is ethically permissible for various conditions, including when the condition is fully penetrant or confers disease predisposition. The Committee strongly recommends that a genetic counselor experienced with both preimplantation genetic testing for monogenic diseases and assisted reproductive technology therapies counsel patients considering such procedures.

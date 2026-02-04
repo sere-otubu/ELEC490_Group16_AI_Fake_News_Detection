@@ -1,8 +1,0 @@
-SEARCH_TOPIC: HIV AIDS
-TITLE: HIV-associated Hodgkin lymphoma.
-PMID: 19339934
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19339934/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The focus of this review is on the current knowledge on epidemiology, pathology and treatment of HIV-associated Hodgkin lymphoma (HIV-HL). Among non-AIDS-defining cancers, an increased risk of Hodgkin lymphoma was recently observed. However, the relationship between HIV infection, AIDS and Hodgkin lymphoma is still unclear. In the highly active antiretroviral therapy era, HIV-infected people seem to be at increased risk of Hodgkin lymphoma than in first years of the epidemic. In these persons with improved immunity, increased CD4+ T cells provide antiapoptotic pathways and mechanisms for immune escape by tumor cells, as occurs in classic Hodgkin lymphoma among people without AIDS. Several studies have documented a significant difference in the distribution of Hodgkin lymphoma subtypes in HIV-infected persons as compared with Hodgkin lymphoma in HIV-uninfected population. HIV-HL exhibits special features related to the cellular background and the abundance of the neoplastic cell population, respectively. The fact that latent membrane protein 1 is expressed in virtually all HIV-HL cases suggests that Epstein-Barr virus plays an etiological role in the pathogenesis of HIV-HL. Recent advances in combined therapies, which are beginning to show promise in the treatment of this HIV-associated disorder, are discussed.

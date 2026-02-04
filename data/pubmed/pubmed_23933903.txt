@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ACE inhibitors
-TITLE: Not all angiotensin-converting enzyme inhibitors are equal: focus on ramipril and perindopril.
-PMID: 23933903
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23933903/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Angiotensin-converting enzyme (ACE) inhibitors are a heterogeneous class, varying in pharmacologic properties, which have different therapeutic impacts on patient profiles, including lipophilicity, tissue-ACE binding, duration of action, half-life, and increased bradykinin availability. Among the ACE inhibitor class, the agent perindopril, in particular, has pleiotropic effects that are not equally shared by other ACE inhibitors, including bradykinin site selectivity and subsequent enhancement of nitric oxide and inhibition of endothelial cell apoptosis. Moreover, there is a large amount of evidence to suggest that perindopril therapy may reduce cardiovascular event rates in patients, yet perindopril is rarely prescribed in the United States. Ramipril is another ACE inhibitor with both a favorable clinical profile and impressive outcomes data. Our review compares the pharmacologic and trial data among perindopril, ramipril, and other ACE inhibitors. In patients with or at high risk for coronary heart disease who do not have heart failure, or in patients with heart failure with preserved ejection fraction, perindopril should be among the preferred treatment agents in the ACE inhibitor class. Ramipril has an impressive track record of improving cardiovascular outcomes, too, and should be considered a preferred agent among the ACE inhibitor class.

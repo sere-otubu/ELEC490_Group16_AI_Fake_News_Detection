@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lung cancer
-TITLE: Lung Cancer in Non-Smokers.
-PMID: 32848276
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32848276/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Lung cancer is the leading cause of cancer death worldwide and the third most common cancer following breast and prostate.1 As expected, the primary factor leading to lung cancer is tobacco smoke, and as smoking rates have declined, we have also seen an overall decline in lung cancer rates.2 Despite the general reduction in lung cancer rates, the rate of lung cancer in non-smokers has been noted to be increasing.3-8.

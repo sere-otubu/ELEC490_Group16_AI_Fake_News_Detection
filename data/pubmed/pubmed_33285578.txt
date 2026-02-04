@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Psychotherapy
-TITLE: Psychedelics and Psychotherapy.
-PMID: 33285578
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33285578/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Psychedelics have shown great promise in modern clinical trials for treating various psychiatric conditions. As a transdiagnostic treatment that exerts its effects through subjective experiences that leave enduring effects, it is akin to psychotherapy. To date, there has been insufficient discussion of how psychedelic therapy is similar to and different from conventional psychotherapy. In this article, we review the shared features of effective conventional psychotherapies and situate therapeutic psychedelic effects within those. We then discuss how psychedelic drug effects might amplify conventional psychotherapeutic processes-particularly via effects on meaning and relationship-as well as features that make psychedelic treatment unique. Taking into account shared features of conventional psychotherapies and unique psychedelic drug effects, we create a framework for understanding why psychedelics are likely to be effective with very diverse types of psychotherapies. We also review the formal psychotherapies that have been adjunctively included in modern psychedelic trials and extend the understanding of psychedelics as psychotherapy towards implications for clinical ethics and trial design. We aim to provide some common conceptual vocabulary that can be used to frame therapeutic psychedelic effects beyond the confines of any one specific modality.

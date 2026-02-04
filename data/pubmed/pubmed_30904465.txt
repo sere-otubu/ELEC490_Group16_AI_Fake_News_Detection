@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Integumentary system
-TITLE: Mini-review an insect-specific system for terrestrialization: Laccase-mediated cuticle formation.
-PMID: 30904465
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30904465/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Insects are often regarded as the most successful group of animals in the terrestrial environment. Their success can be represented by their huge biomass and large impact on ecosystems. Among the factors suggested to be responsible for their success, we focus on the possibility that the cuticle might have affected the process of insects' evolution. The cuticle of insects, like that of other arthropods, is composed mainly of chitin and structural cuticle proteins. However, insects seem to have evolved a specific system for cuticle formation. Oxidation reaction of catecholamines catalyzed by a copper enzyme, laccase, is the key step in the metabolic pathway for hardening of the insect cuticle. Molecular phylogenetic analysis indicates that laccase functioning in cuticle sclerotization has evolved only in insects. In this review, we discuss a theory on how the insect-specific "laccase" function has been advantageous for establishing their current ecological position as terrestrial animals.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Obesity prevention
-TITLE: Genetics: A Starting Point for the Prevention and the Treatment of Obesity.
-PMID: 37375686
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37375686/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Obesity is a common, serious, and costly disease. More than 1 billion people worldwide are obese-650 million adults, 340 million adolescents, and 39 million children. The WHO estimates that, by 2025, approximately 167 million people-adults and children-will become less healthy because they are overweight or obese. Obesity-related conditions include heart disease, stroke, type 2 diabetes, and certain types of cancer. These are among the leading causes of preventable, premature death. The estimated annual medical cost of obesity in the United States was nearly $173 billion in 2019 dollars. Obesity is considered the result of a complex interaction between genes and the environment. Both genes and the environment change in different populations. In fact, the prevalence changes as the result of eating habits, lifestyle, and expression of genes coding for factors involved in the regulation of body weight, food intake, and satiety. Expression of these genes involves different epigenetic processes, such as DNA methylation, histone modification, or non-coding micro-RNA synthesis, as well as variations in the gene sequence, which results in functional alterations. Evolutionary and non-evolutionary (i.e., genetic drift, migration, and founder's effect) factors have shaped the genetic predisposition or protection from obesity in modern human populations. Understanding and knowing the pathogenesis of obesity will lead to prevention and treatment strategies not only for obesity, but also for other related diseases.

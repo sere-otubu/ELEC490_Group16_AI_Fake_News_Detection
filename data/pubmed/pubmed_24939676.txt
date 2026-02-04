@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24939676)
-    QUESTION: Does ultrasound-scored synovitis depend on the pharmacokinetics of subcutaneous anti-TNF agents in patients with rheumatoid arthritis?
-    CONTEXT: The aim of this study was to investigate the influence of the pharmacokinetics of s.c. anti-TNF agents on the grade of US-detected synovitis in RA patients.
-    ANSWER: Our results suggested that s.c. anti-TNF pharmacokinetics do not significantly influence US-scored synovitis in RA patients.
-    

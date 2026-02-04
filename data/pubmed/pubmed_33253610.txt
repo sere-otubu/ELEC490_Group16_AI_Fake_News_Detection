@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hearing loss
-TITLE: Hearing Loss.
-PMID: 33253610
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33253610/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hearing loss is highly prevalent and may significantly affect how we age. Although the population is aging, relatively few adults receive treatment for hearing loss. Internists are a critical partner to audiologists and otolaryngologists in caring for the adult population with hearing loss. This review provides a primer on diagnosing and managing hearing loss.

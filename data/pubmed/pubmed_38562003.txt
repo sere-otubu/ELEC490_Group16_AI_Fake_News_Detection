@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Herd immunity
-TITLE: Herd immunity to endemic diseases: Historical concepts and implications for public health policy.
-PMID: 38562003
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38562003/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-"Herd immunity" became a contested term during the COVID-19 pandemic. Although the term "herd immunity" is often used to refer to thresholds at which some diseases can be eliminated (e.g., due to mass vaccination), the term has multiple referents. Different concepts of herd immunity have been relevant throughout the history of immunology and infectious disease epidemiology. For some diseases, herd immunity plays a role in the development of an endemic equilibrium, rather than elimination via threshold effects. We reviewed academic literature from 1920 to 2022, using historical and philosophical analysis to identify and develop relevant concepts of herd immunity. This paper analyses the ambiguity surrounding the concept of herd immunity during the pandemic. We argue for the need to recapture a long-standing interpretation of this concept as one of the factors that leads to a dynamic endemic equilibrium between a host population and a mutating respiratory pathogen. Informed by the history of infectious disease epidemiology, we argue that understanding the concept in this way will help us manage both SARS-CoV-2 and hundreds of other seasonal respiratory pathogens with which we live but which have been disrupted due to sustained public health measures/non-pharmaceutical interventions targeting SARS-CoV-2.

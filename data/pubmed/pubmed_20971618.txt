@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20971618)
-    QUESTION: Are lifetime prevalence of impetigo, molluscum and herpes infection really increased in children having atopic dermatitis?
-    CONTEXT: Cutaneous infections such as impetigo contagiosum (IC), molluscum contagiosum (MC) and herpes virus infection (HI) appear to be associated with atopic dermatitis (AD), but there are no reports of concrete epidemiological evidence.
-    ANSWER: The lifetime prevalence of IC was indeed higher in young children with a history of AD.
-    

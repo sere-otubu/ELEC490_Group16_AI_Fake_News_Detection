@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cell division meiosis
-TITLE: Meiosis: cell-cycle controls shuffle and deal.
-PMID: 15573136
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15573136/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Meiosis is the type of cell division that gives rise to eggs and sperm. Errors in the execution of this process can result in the generation of aneuploid gametes, which are associated with birth defects and infertility in humans. Here, we review recent findings on how cell-cycle controls ensure the coordination of meiotic events, with a particular focus on the segregation of chromosomes.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hepatitis A
-TITLE: Hepatitis A.
-PMID: 10987112
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10987112/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hepatitis A remains an important cause of community-acquired hepatitis in the United States and in the world. In recent years, improvements in personal hygiene and environmental sanitation have led to declines in overall hepatitis A infection rates in developed countries, although sporadic outbreaks still occur with similar rates of hospitalization and loss of work. Therapy remains supportive and prevention holds the key to elimination of widespread infection. Acute infection can be prevented or attenuated with IG or with inactivated, highly immunogenic vaccines. Elderly persons and those with advanced liver disease are at higher risk of the consequences of acute HAV, and they represent target populations for immediate vaccination. Challenges for the future include strategies for broad-based population vaccination, including cost-effective approaches.

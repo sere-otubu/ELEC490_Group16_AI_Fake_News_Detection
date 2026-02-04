@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Concussion
-TITLE: An overview of concussion in sport.
-PMID: 22153800
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22153800/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Concussion is a sudden-onset, transient alteration of consciousness due to a combination of functional and structural brain disturbances following a physical impact transmitted to the brain. It is a common, although likely underreported, condition encountered in a wide range of sports. In the Australian Football League, concussion is estimated to occur at a rate of approximately seven injuries per team per season. While many instances of concussion are clinically mild, there is emerging evidence that a player's full recovery from a concussive injury may be more delayed and the sequelae of repeated concussions more severe than previously thought. In this light, a more conservative and rigorous approach to managing players with concussive injuries may be warranted, with the guiding principle being the player's immediate and long-term welfare. The current paper reviews the sports concussion literature. The definition, epidemiology, aetiology, pathophysiology, structural pathology, clinical features, assessment and investigation, treatment principles, and short-term and potential long-term complications of concussion are discussed. Special considerations in paediatric sports concussion, and the return-to-play implications of immediate, evolving and repetitive brain injury are also considered, as are the emerging concept and possible implications of subconcussive injury.

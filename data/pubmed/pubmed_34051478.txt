@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Zika virus
-TITLE: Gist of Zika Virus pathogenesis.
-PMID: 34051478
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34051478/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Zika virus (ZIKV) is a mosquito-borne neurotropic flavivirus. ZIKV infection may lead to microcephaly in developing fetus and Guillain-Barré Syndrome (GBS) like symptoms in adults. ZIKV was first reported in humans in 1952 from Uganda and the United Republic of Tanzania. Later, ZIKV outbreak was reported in 2007 from the Yap Island. ZIKV re-emerged as major outbreak in the year 2013 from French Polynesia followed by second outbreak in the year 2015 from Brazil. ZIKV crosses the blood-tissue barriers to enter immune-privileged organs. Clinical manifestations in ZIKV disease includes rash, fever, conjunctivitis, muscle and joint pain, headache, transverse myelitis, meningoencephalitis, Acute Disseminated Encephalomyelitis (ADEM). The understanding of the molecular mechanism of ZIKV pathogenesis is very important to develop potential diagnostic and therapeutic interventions for ZIKV infected patients.

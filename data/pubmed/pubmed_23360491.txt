@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23360491)
-    QUESTION: Is the processing of affective prosody influenced by spatial attention?
-    CONTEXT: The present study asked whether the processing of affective prosody is modulated by spatial attention. Pseudo-words with a neutral, happy, threatening, and fearful prosody were presented at two spatial positions. Participants attended to one position in order to detect infrequent targets. Emotional prosody was task irrelevant. The electro-encephalogram (EEG) was recorded to assess processing differences as a function of spatial attention and emotional valence.
-    ANSWER: Emotional prosody, therefore, seems to be partially processed outside the focus of spatial attention. Whereas at early sensory processing stages spatial attention modulates the degree of emotional voice processing as a function of emotional valence, emotional prosody is processed outside of the focus of spatial attention at later processing stages.
-    

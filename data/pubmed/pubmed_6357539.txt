@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cystic fibrosis
-TITLE: Cystic fibrosis--its biochemical detection.
-PMID: 6357539
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6357539/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-We examine critically the biochemical methods capable of detecting and monitoring the end-organ disease processes in patients with cystic fibrosis. Although the diagnosis of cystic fibrosis is never justified on the basis of the sweat salt test alone, the original filter-paper technic (Gibson-Cooke, Pediatrics 23:545-549, 1959) for determining Na+ and Cl- concentrations in sweat remains the most discriminating method. We discuss the contributions for neonatal screening of the so-called cystic fibrosis protein, associated decreased enzymic activities in the homo- and heterozygous state, and immunoreactive trypsin. Because evidence of either intestinal malabsorption or a pancreatic lesion must be sought, we review the use and interpretation of some tests of pancreatic dysfunction (meconium albumin, duodenal juice components, serum pancreatic isoamylase, and trypsinogen), both in establishing and in confirming the diagnosis of cystic fibrosis.

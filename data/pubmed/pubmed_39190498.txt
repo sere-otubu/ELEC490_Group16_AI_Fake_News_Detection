@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Healthcare accessibility
-TITLE: Use of telehealth to improve healthcare access and outcomes in surgical oncology.
-PMID: 39190498
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39190498/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The dimensions of healthcare access includes availability, accessibility, accommodation, affordability, and accessibility. Many patients face significant barriers to accessing oncologic care and subsequently, health outcomes are suboptimal. Telehealth offers an opportunity to mitigate many of these barriers to improve health access and outcomes. This review discusses how telehealth can be leveraged to improve healthcare access in surgical oncology while also highlighting important challenges to realizing the full potential of this mode of healthcare delivery.

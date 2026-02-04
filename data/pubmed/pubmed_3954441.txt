@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Typhoid fever
-TITLE: Mild typhoid fever.
-PMID: 3954441
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3954441/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A series of 100 Zimbabwean children aged between 5 months and 13 years with culture positive typhoid fever is presented. The disease was found to be fairly mild with a low prevalence of complications, and no patient in the series died. Possible explanations for the relative mildness of typhoid in this paediatric population are discussed.

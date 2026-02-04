@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Radiation therapy
-TITLE: Contemporary radiation therapy use in Hodgkin lymphoma.
-PMID: 38897840
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38897840/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Radiation therapy assumes a pivotal role in Hodgkin lymphoma management, especially within combined modality therapy. It serves as a cornerstone in early-stage disease and in mitigating high-risk instances of local relapse in advanced stages. Over recent decades, radiation therapy has undergone significant advancements, notably alongside diagnostic imaging improvements, facilitating the reduction of radiation field size and dosage. This progress has notably led to minimized toxicity while upholding treatment efficacy. This comprehensive review extensively evaluates the indications and advancements in radiation therapy for Hodgkin lymphoma, with a primary focus on enhancing treatment efficacy while minimizing radiation-related toxicities. The exploration encompasses a detailed examination of various radiation fields, techniques and delivery modalities employed in Hodgkin lymphoma treatment, including intensity-modulated radiation therapy (IMRT), volumetric modulated arc therapy (VMAT), and proton therapy. It delves into the intricacies of optimal dose selection and treatment planning strategies aimed at achieving maximal disease control while concurrently minimizing the risk of long-term side effects.

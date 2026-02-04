@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24172579)
-    QUESTION: Does sex influence the response to intravenous thrombolysis in ischemic stroke?
-    CONTEXT: Women are more likely to have a worse outcome after an acute stroke than men. Some studies have suggested that women also benefit less from intravenous thrombolysis after an acute ischemic stroke, but others found no sex differences in safety and efficacy. We aimed to evaluate differences in 3-month outcome between sexes in intravenous tissue-type plasminogen activator-treated patients registered in the Safe Implementation of Treatments in Stroke-International Stroke Thrombolysis Register.
-    ANSWER: Data from Safe Implementation of Treatments in Stroke-International Stroke Thrombolysis Register suggest that intravenous thrombolysis may modify the observed survival and recovery advantage for men expected in the natural course of an ischemic stroke, with a possible larger beneficial treatment effect in women when compared with men.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Infant mortality reduction
-TITLE: Neonatal and Perinatal Infections.
-PMID: 28734510
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28734510/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Lack of success in achieving considerable reductions in neonatal mortality is a contributory factor in failing to achieve Millennium Development Goal 4.2.6 million neonates still die each year, with preterm birth and infections the two leading causes. Maternal infections and environmental and infant factors influence acquisition of viral and bacterial infections in the perinatal and neonatal period. Scaling up evidence-based interventions addressing maternal risk factors and underlying causes could reduce neonatal infections by 84%. The emergence of new infections and increasing antimicrobial resistance present public health challenges that must be addressed to achieve substantial reductions in neonatal mortality.

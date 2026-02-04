@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ACE inhibitors
-TITLE: ACE inhibitors in elderly patients with hypertension. Special considerations.
-PMID: 8785466
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8785466/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Angiotensin converting enzyme (ACE) inhibitors have emerged as the class of antihypertensive and vasodilatatory agents of first choice in the treatment of elderly patients with hypertension. Normotensive patients with congestive heart failure, post-anterior myocardial infarction, or diabetes mellitus with evidence of microangiopathy will also benefit from continuous ACE inhibition. The long term use of ACE inhibitors is associated with improved survival and reduced cardiovascular, cerebral and renal morbidity in these patients. In elderly atherosclerotic patients, these agents provide good control of systolic and diastolic blood pressure and peripheral resistance, with remarkable preservation of vital organ perfusion and infrequent adverse effects. Used as monotherapy, the effectiveness of ACE inhibitors is limited. However, there are advantages for using them in combination with other drugs, notably thiazide diuretics, nitrates and calcium antagonists. Renal function is thus preserved and left heart hypertrophy is prevented. There are no major differences between the various ACE inhibitors, and the choice of drug is largely a matter of personal preference.

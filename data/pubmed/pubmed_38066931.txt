@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Iron deficiency
-TITLE: Sex, lies, and iron deficiency: a call to change ferritin reference ranges.
-PMID: 38066931
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38066931/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Iron deficiency is a very common and treatable disorder. Of all the tests available to diagnose iron deficiency, the serum ferritin is the most able to discriminate iron deficiency from other disorders. However, the reference range for ferritin in many laboratories will lead to underdiagnosis of iron deficiency in women. Studies have shown that 30%-50% of healthy women will have no marrow iron stores, so basing ferritin cutoffs on the lowest 2.5% of sampled ferritins is not appropriate. In addition, several lines of evidence suggest the body physiologic ferritin "cutoff" is 50  ng/mL. Work is needed to establish more realistic ferritin ranges to avoid underdiagnosing a readily treatable disorder.

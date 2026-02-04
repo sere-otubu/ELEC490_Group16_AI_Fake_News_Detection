@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21592383)
-    QUESTION: Canada's Compassionate Care Benefit: is it an adequate public health response to addressing the issue of caregiver burden in end-of-life care?
-    CONTEXT: An increasingly significant public health issue in Canada, and elsewhere throughout the developed world, pertains to the provision of adequate palliative/end-of-life (P/EOL) care. Informal caregivers who take on the responsibility of providing P/EOL care often experience negative physical, mental, emotional, social and economic consequences. In this article, we specifically examine how Canada's Compassionate Care Benefit (CCB)--a contributory benefits social program aimed at informal P/EOL caregivers--operates as a public health response in sustaining informal caregivers providing P/EOL care, and whether or not it adequately addresses known aspects of caregiver burden that are addressed within the population health promotion (PHP) model.
-    ANSWER: This study, from the perspective of family caregivers, demonstrates that the CCB is not living up to its full potential in sustaining informal P/EOL caregivers. Effort is required to transform the CCB so that it may fulfill the potential it holds for serving as one public health response to caregiver burden that forms part of a healthy public policy that addresses the determinants of this burden.
-    

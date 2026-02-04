@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mastectomy
-TITLE: [Do indications remain for total mastectomy for cancer?].
-PMID: 9817059
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9817059/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Does radical mastectomy for cancer remain needed? Breast conserving treatment may be achieved by surgery, primary chemotherapy followed by radiotherapy and surgery. This article attempts at defining (according to clinical and pathological parameters of the tumor and patient's characteristics), when conservative treatment is not allowed and radical mastectomy must be performed. Mastectomy must be performed first when there are multiple tumors or a tumor too large with respect to the breast volume or diffuse microcalcifications on mammograms. Sometimes the stage of pregnancy, a personal history of collagen vascular disease or prior radiotherapy or the willing of the patient lead to perform radical mastectomy. Secondary mastectomy is necessary in case of failure of conservative treatment or recurrence after breast conserving treatment.

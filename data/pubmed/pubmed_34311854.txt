@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Childhood obesity
-TITLE: Childhood Obesity.
-PMID: 34311854
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34311854/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Childhood obesity is a pathologic process with multifactorial causes. The reasons range widely. Obesity leads to chronic health conditions, increasing morbidity. The management of obesity must include the patient, family, school, community, and even government for policy changes. Lifestyle changes are the mainstay of treatment, including a healthy diet and increased physical activity. Medications and bariatric surgery may have a role in certain severe cases. Community and policy changes concerning food and physical activities may facilitate practical strategies against the increasing obesity epidemic. It will help families and health care systems tackle childhood obesity effectively.

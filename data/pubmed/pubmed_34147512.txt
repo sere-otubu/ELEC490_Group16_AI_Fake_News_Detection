@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Endoscopy
-TITLE: GIE Editorial Board top 10 topics: advances in GI endoscopy in 2020.
-PMID: 34147512
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34147512/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The American Society for Gastrointestinal Endoscopy's Gastrointestinal Endoscopy Editorial Board reviewed a systematic literature search of original endoscopy-related articles published during 2020 in Gastrointestinal Endoscopy and 10 other high-impact medical and gastroenterology journals. Votes from each individual board member were tallied to identify a consensus list of the 10 most significant topic areas in GI endoscopy over the calendar year of study using 4 criteria: significance, novelty, impact on national health, and impact on global health. The 10 areas identified were as follows: artificial intelligence in endoscopy, coronavirus disease 2019 and GI practice, third-space endoscopy, lumen-apposing metal stents, single-use duodenoscopes and other disposable equipment, endosonographic needle technology and techniques, endoscopic closure devices, advances in GI bleeding management, improvements in polypectomy techniques, and bariatric endoscopy. Each board member contributed a summary of important articles relevant to 1 to 2 topic areas, leading to a collective summary that is presented in this document of the "top 10" endoscopic advances of 2020.

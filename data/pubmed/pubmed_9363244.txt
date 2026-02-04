@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 9363244)
-    QUESTION: Does occupational nuclear power plant radiation affect conception and pregnancy?
-    CONTEXT: To determine the effect of occupational exposure in a nuclear power plant in Griefswald, Germany on male and female fecundity.
-    ANSWER: The data suggest that occupational exposure due to ionizing radiation should be investigated as a possible cause for involuntary temporary sterility and as a risk factor for early pregnancy disorders.
-    

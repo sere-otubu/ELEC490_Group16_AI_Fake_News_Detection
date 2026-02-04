@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cataracts
-TITLE: Increased light scatter in simulated cataracts degrades speed perception.
-PMID: 39705050
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39705050/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Changes in contrast and blur affect speed perception, raising the question of whether natural changes in the eye (e.g., cataract) that induce light scatter may affect motion perception. This study investigated whether light scatter, similar to that present in a cataractous eye, could have deleterious effects on speed perception. Experiment 1: Participants (n = 14) completed a speed discrimination task using random dot kinematograms. The just-noticeable difference was calculated for two reference speeds (slow; fast) and two directions (translational; radial). Light scatter was induced with filters across four levels: baseline, mild, moderate, severe. Repeated measures analyses of variance (ANOVAs) found significant main effects of scatter on speed discrimination for radial motion (slow F(3, 39) = 7.33, p < 0.01; fast F(3, 39) = 4.80, p < 0.01). Discrimination was attenuated for moderate (slow p = 0.021) and severe (slow p = 0.024; fast p = 0.017) scatter. No effect was found for translational motion. Experiment 2: Participants (n = 14) completed a time-to-contact experiment for three speeds (slow, moderate, fast). Light scatter was induced as Experiment 1. Results show increasing scatter led to perceptual slowing. Repeated measures ANOVAs revealed that moderate (F(3, 39) = 3.57, p = 0.023) and fast (F(1.42, 18.48) = 5.63, p = 0.020) speeds were affected by the increasing light scatter. Overall, speed discrimination is attenuated by increasing light scatter, which seems to be driven by a perceptual slowing of stimuli.

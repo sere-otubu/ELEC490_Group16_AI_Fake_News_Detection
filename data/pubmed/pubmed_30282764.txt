@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lyme disease
-TITLE: Lyme disease: diagnosis and management.
-PMID: 30282764
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30282764/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Lyme disease (borreliosis) is a tick-borne bacterial infection caused by the spirochaete <i>Borrelia burgdoferi</i>, transmitted by hard-backed <i>Ixodes</i> ticks. Actual numbers of cases are increasing and it appears that the distribution across the UK is widening; however, it occurs most frequently in area of woodland, with temperate climate. It typically presents in mid to late summer. Lyme disease is a multisystem disease. The nervous system is the second most commonly affected system after the skin. Other systemic manifestations, such as carditis, keratitis, uveitis and inflammatory arthritis, rarely occur in European Lyme disease. In 2018, the National Institute for Health and Care Excellence has updated its guidelines on the diagnosis and management of Lyme disease. Here, we highlight important aspects of this guidance and provide a more detailed review of the clinical spectrum of neuroborreliosis, illustrated by cases we have seen.

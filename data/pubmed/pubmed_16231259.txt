@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Typhoid fever
-TITLE: Enteric (typhoid) fever in travelers.
-PMID: 16231259
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16231259/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The incidence of enteric (typhoid) fever in travelers is estimated to be approximately 3-30 cases per 100,000 travelers to developing countries. Recently, it is become clear that travelers who are visiting friends and relatives, especially travelers to the Indian subcontinent, seem to be the most vulnerable to enteric fever and require special attention for prevention. Recent concerns are the increasing incidence of paratyphoid fever in Asia, which is not covered by available typhoid vaccines, and the emergence of infections caused by antibiotic-resistant strains (including strains resistant to fluoroquinolones). Typhoid vaccination is recommended for most travelers to moderate- to high-risk countries. Because of the nonspecific clinical presentation of enteric fever, a high index of suspicion is important in febrile travelers who have traveled to areas of endemicity.

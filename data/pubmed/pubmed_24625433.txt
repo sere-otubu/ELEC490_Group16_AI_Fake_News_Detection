@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24625433)
-    QUESTION: Are high flow nasal cannulae noisier than bubble CPAP for preterm infants?
-    CONTEXT: Noise exposure in the neonatal intensive care unit is believed to be a risk factor for hearing loss in preterm neonates. Continuous positive airway pressure (CPAP) devices exceed recommended noise levels. High flow nasal cannulae (HFNC) are an increasingly popular alternative to CPAP for treating preterm infants, but there are no in vivo studies assessing noise production by HFNC.
-    ANSWER: At the gas flows studied, HFNC are not noisier than BCPAP for preterm infants.
-    

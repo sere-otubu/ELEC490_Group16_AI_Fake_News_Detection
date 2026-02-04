@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chromosomes
-TITLE: The evolution of sequences and spatial conformation in vertebrate chromosomes.
-PMID: 39924699
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39924699/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chromosomes, as the fundamental unit of genetic material located within the cell nucleus, have undergone extensive and complex changes throughout the evolutionary history of eukaryotes. Many of these patterns and mechanisms of change share commonalities across various diseases, including cancer. For a long time, biologists were limited to research methods with relatively low resolution, such as fluorescence <i>in situ</i> hybridization (FISH). However, the rapid advancement of high-throughput sequencing technologies is revolutionizing our understanding of chromosomal variations across different species, among individuals of the same species, and even at the cellular level within a single individual. In this review, we focus on the chromosomal evolution in vertebrates, and provide an overview of the role of chromosom rearrangements in speciation, the molecular mechanisms of chromosomal rearrangements, the evolutionary patterns from ancestral chromosomes to extant chromosomes, and the significance of sex chromosomes as a general paradigm for studying chromosomal evolution. Finally, we discuss the new opportunities and challenges that synthetic biology brings to the field of chromosomal evolution research, with the aim of offering new insights and references for understanding and studying vertebrate chromosomal evolution.

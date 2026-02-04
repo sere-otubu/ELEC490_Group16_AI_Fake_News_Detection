@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vaccination schedules
-TITLE: Vaccinations in Primary Care.
-PMID: 29306993
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29306993/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Vaccination is amongst the best strategies to improve child survival and reduce morbidity. Vaccines represent the most cost effective and simple intervention to protect against distressing epidemics. There are mortality and morbidity related benefits derived from preventing infectious diseases through vaccination; these include financial benefits by avoiding hospitalization, preventing long-term disability and increased productivity. Ever since the invention of the first vaccine against smallpox by Edward Jenner in 1796, vaccination has become indispensable healthcare intervention and has saved millions of lives. Due to significant scientific progress, many vaccines are available and numerous are anticipated; however, vaccine preventable infectious diseases are still prevalent. Due to rapid pace of developments in the field of vaccination, providers must continue to update their knowledge. The present review is aimed at helping general practitioners understand routine vaccinations, their considerations, issues and side effects.

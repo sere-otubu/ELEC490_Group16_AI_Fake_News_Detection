@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Metformin
-TITLE: Metformin: Mechanisms in Human Obesity and Weight Loss.
-PMID: 30874963
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30874963/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Metformin has multiple benefits for health beyond its anti-hyperglycemic properties. The purpose of this manuscript is to review the mechanisms that underlie metformin's effects on obesity. Metformin is a first-line therapy for type 2 diabetes. Large cohort studies have shown weight loss benefits associated with metformin therapy. Metabolic consequences were traditionally thought to underlie this effect, including reduction in hepatic gluconeogenesis and reduction in insulin production. Emerging evidence suggests that metformin-associated weight loss is due to modulation of hypothalamic appetite regulatory centers, alteration in the gut microbiome, and reversal of consequences of aging. Metformin is also being explored in the management of obesity's sequelae such as hepatic steatosis, obstructive sleep apnea, and osteoarthritis. Multiple mechanisms underlie the weight loss-inducing and health-promoting effects of metformin. Further exploration of these pathways may be important in identifying new pharmacologic targets for obesity and other aging-associated metabolic diseases.

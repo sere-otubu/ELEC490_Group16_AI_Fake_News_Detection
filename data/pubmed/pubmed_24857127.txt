@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chemotherapy
-TITLE: Chemotherapy for lung cancers: here to stay.
-PMID: 24857127
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24857127/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Four decades of clinical research document the effectiveness of chemotherapy in patients with lung cancers. Chemotherapeutic agents can improve lung cancer symptoms, lengthen life in most patients with lung cancers, and enhance curability in individuals with locoregional disease when combined with surgery or irradiation. Chemotherapy's effectiveness is enhanced in patients with EGFR-mutant and ALK-positive lung cancers and can "rescue" individuals whose oncogene-driven cancers have become resistant to targeted agents. As immunotherapies become part of the therapeutic armamentarium for lung cancers, chemotherapeutic drugs have the potential to modulate the immune system to enhance the effectiveness of immune check point inhibitors. Even in this era of personalized medicine and targeted therapies, chemotherapeutic agents remain essential components in cancer care.

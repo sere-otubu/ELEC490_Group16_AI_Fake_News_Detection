@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Insulin therapy
-TITLE: Fine-tuning therapy with basal insulin for optimal glycemic control in type 2 diabetes: a review.
-PMID: 15701217
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15701217/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To review results from clinical studies utilizing basal insulin therapy and discuss the impact of intensive glycemic control using forced-titration algorithms to fine-tune insulin dosing in patients with type 2 diabetes mellitus. A Medline and PubMed search was undertaken for the years 1991-2004 using the following search terms: insulin, diabetes therapy, forced titration, glycemic control, and intensive insulin therapy. The United Kingdom Prospective Diabetes Study demonstrated that the great majority of patients with type 2 diabetes will eventually require insulin and have provided level IA evidence that intensive glycemic control improves patient outcomes. Several recently published studies in patients with type 2 diabetes showed that forced titration of basal insulin shows promise in reaching glycemic goals. Forced-titration algorithms employ a structured approach in helping patients achieve glycemic targets: doses are adjusted until glycemic goals (predefined glycosylated hemoglobin concentrations and/or blood glucose levels) are met. Studies have indicated that forced-titration regimens using insulin analogs to attain aggressive glycemic targets have the potential to improve outcomes in patients with type 2 diabetes without compromising patient safety. These forced-titration algorithms are straightforward and designed to be adaptable to individual needs, which may help overcome barriers to insulinization of patients with type 2 diabetes.

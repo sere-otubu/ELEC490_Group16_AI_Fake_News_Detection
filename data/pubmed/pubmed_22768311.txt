@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22768311)
-    QUESTION: Is human cytomegalovirus infection associated with hypertension?
-    CONTEXT: Recent studies have implicated the human cytomegalovirus (HCMV) as a possible pathogen for causing hypertension. We aimed to study the association between HCMV infection and hypertension in the United States National Health and Nutrition Examination Survey (NHANES).
-    ANSWER: In this nationally representative population-based survey, HCMV seropositivity is associated with hypertension in women in the NHANES population. This association is largely explained by the association of hypertension with age and the increase in past exposure to HCMV with age.
-    

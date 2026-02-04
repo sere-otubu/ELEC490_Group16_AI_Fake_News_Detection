@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tubal ligation
-TITLE: Association of oral contraceptives and tubal ligation with antimüllerian hormone.
-PMID: 34873106
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34873106/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Oral contraceptives (OCs) and tubal ligation are commonly used methods of contraception that may impact ovarian function. Few studies have examined the association of these factors with antimüllerian hormone (AMH), a marker of ovarian aging. We examined the association of OC use and tubal ligation with AMH in the Nurses' Health Study II prospective cohort among a subset of 1,420 premenopausal participants who provided a blood sample in 1996-1999. History of OC use and tubal ligation were reported in 1989 and updated every 2 years until blood collection. We utilized generalized linear models to assess whether mean AMH levels varied by duration of and age at first use of OCs and history, age, and type of tubal ligation. In multivariable models adjusted for smoking, reproductive events, and other lifestyle factors, we observed a significant, inverse association between duration of OC use and mean AMH levels (P for trend = 0.036). Compared to women without a tubal ligation, AMH levels were significantly lower when the procedure included a clip, ring, or band (1.04 ng/ml vs 1.72 ng/ml, P < 0.01). AMH levels were not associated with age at first use of OCs or age at tubal ligation. Our analysis found an association between duration of OC use and certain types of tubal ligation with mean AMH levels. Further research is warranted to confirm the long-term association of these widely used contraceptive methods with AMH.

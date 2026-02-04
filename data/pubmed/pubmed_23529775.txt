@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gambling addiction
-TITLE: [Gambling addiction].
-PMID: 23529775
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23529775/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Extensive coherent clinical, psychopathological, neurobiological and genetic similarities with substance-related addictions justify the forthcoming classification of gambling addiction under the new category "Substance Use and Addictive Disorders" in the DSM-5. Thus, gambling addiction can be regarded as the prototype of behavioral addiction. In general it should be kept in mind that isolated gambling forms are associated with varying addictive potential due to specific situational and structural game characteristics. High rates of indebtedness, suicidality, social isolation and gambling-related crime often accompany pathological gambling. As a consequence gambling addiction represents a mental disorder with a significant economic burden. In Germany 12-month prevalence rates for problem gambling in adulthood range from 0.24 % to 0.64  % and for pathological gambling from 0.20 % to 0.56 %. Because gambling products rank among the so-called demeriting (i.e. potentially harmful) social activities, player and youth protection measures to prevent gambling disorders and associated crime should be best regulated as a state monopoly.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chronic disease management
-TITLE: Health information technology: transforming chronic disease management and care transitions.
-PMID: 22608869
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22608869/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Adoption of health information technology (HIT) is a key effort in improving care delivery, reducing costs of health care, and improving the quality of health care. Evidence from electronic health record (EHR) use suggests that HIT will play a significant role in transforming primary care practices and chronic disease management. This article shows that EHRs and HIT can be used effectively to manage chronic diseases, that HIT can facilitate communication and reduce efforts related to transitions in care, and that HIT can improve patient safety by increasing the information available to providers and patients, improving disease management and safety.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chlamydia
-TITLE: Intracellular survival by Chlamydia.
-PMID: 11207584
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11207584/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chlamydiae are obligate intracellular bacterial pathogens whose entry into mucosal epithelial cells is required for intracellular survival and subsequent growth. After a seemingly stealthy entry, chlamydiae quickly modify their vacuole (i) for exit from the endosomal pathway to the exocytic pathway and (ii) to permit fusion with intercepted endoplasmic reticulum- and Golgi-derived vesicles carrying glycerophospholipids and sphingolipids for chlamydiae-containing vacuole membrane expansion. Chlamydiae possess novel hollow proteinaceous structures, termed projections, which they use to pierce the inclusion membrane, possibly to acquire from the epithelial cytoplasm nutrients they cannot synthesize; whether or not these truncated flagellar-like structures serve a dual exchange function for secretion of molecules to programme host cell signalling is unknown. Despite the accumulation of some 500-1000 progeny in the enormously enlarged inclusion, host cell function is surprisingly little disrupted, and progeny escape can be unobtrusive. This elegant adaptive pathogen strategy, which leads to silent, chronic human infection, is fascinating from a cellular microbiology perspective.

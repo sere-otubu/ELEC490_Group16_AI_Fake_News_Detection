@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Food allergies
-TITLE: Post-transplantation Development of Food Allergies.
-PMID: 29380059
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29380059/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The development of food allergies is increasingly being recognized as a post-solid organ transplant complication. In this article, we review the spectrum of post-transplant food allergy development and the proposed mechanisms for de novo food allergies and the clinical significance they pose. The development of new food allergies is disproportionately associated with pediatric liver transplants, where it occurs in up to 38% of select populations. The mechanism of food allergy development is not completely understood; however, it is likely promoted by unbalanced immune suppression. De novo food allergy development is a common complication of solid organ transplants with the highest risk occurring in pediatric liver transplant recipients. There are likely multiple mechanisms for food allergy development including passive transfer of membrane-bound IgE and lymphocytes from donor to recipient, as well as loss of food tolerance and active development of new food allergies. The optimal management of food allergies following organ transplants has not been well researched but may include changing the immune suppression regimen if the food allergy does not resolve without intervention.

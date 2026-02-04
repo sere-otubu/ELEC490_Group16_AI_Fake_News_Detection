@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Adolescent mental health
-TITLE: Sleep in adolescence: Physiology, cognition and mental health.
-PMID: 27531236
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27531236/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sleep is a core behavior of adolescents, consuming up to a third or more of each day. As part of this special issue on the adolescent brain, we review changes to sleep behaviors and sleep physiology during adolescence with a particular focus on the sleeping brain. We posit that brain activity during sleep may provide a unique window onto adolescent cortical maturation and compliment waking measures. In addition, we review how sleep actively supports waking cognitive functioning in adolescence. Though this review is focused on sleep in healthy adolescents, the striking comorbidity of sleep disruption with nearly all psychiatric and developmental disorders (for reviews see <sup>,</sup>) further highlights the importance of understanding the determinants and consequences of adolescent sleep for the developing brain. Figure 1 illustrates the overarching themes of our review, linking brain development, sleep development, and behavioral outcomes.

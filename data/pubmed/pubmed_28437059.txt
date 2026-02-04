@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Bipolar disorder
-TITLE: Psychotic and Bipolar Disorders: Bipolar Disorder.
-PMID: 28437059
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28437059/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Bipolar disorder is a severe chronic mental illness that affects a large number of individuals. This disorder is separated into two major types, bipolar I disorder, with mania and typically recurrent depression, and bipolar II disorder, with recurrent major depression and hypomania. Patients with bipolar disorder spend the majority of time experiencing depression, and this typically is the presenting symptom. Because outcomes are improved with earlier diagnosis and treatment, physicians should maintain a high index of suspicion for bipolar disorder. The most effective long-term treatments are lithium and valproic acid, although other drugs also are used. In addition to referral to a mental health subspecialist for initiation and management of drug treatment, patients with bipolar disorder should be provided with resources for psychotherapy. Several comorbidities commonly associated with bipolar disorder include other mental disorders, substance use disorders, migraine headaches, chronic pain, stroke, metabolic syndrome, and cardiovascular disease. Family physicians who care for patients with bipolar disorder should focus their efforts on prevention and management of comorbidities. These patients should be assessed continually for risk of suicide because they are at high risk and their suicide attempts tend to be successful.

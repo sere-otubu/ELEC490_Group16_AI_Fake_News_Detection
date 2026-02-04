@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hearing loss
-TITLE: Hearing Loss: The Silent Risk for Psychiatric Disorders in Late Life.
-PMID: 32222296
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32222296/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hearing loss is among the most frequent problems experienced by older adults, yet psychiatrists and other clinicians often ignore the problem as an aggravation rather than recognizing that the problem might benefit from appropriate hearing health care. Many psychiatric disorders have been associated with hearing loss, including depression, schizophrenia and other psychoses, anxiety, and neurocognitive disorders. In this article, hearing loss among older adults is reviewed, with special attention directed toward the recognition and proper referral to a hearing health care provider. Finally, major advances in hearing health care are discussed.

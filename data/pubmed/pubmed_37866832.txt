@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Social determinants of health
-TITLE: Educational Attainment and Educational Contexts as Social Determinants of Health.
-PMID: 37866832
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37866832/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Research demonstrates that nearly all health outcomes are patterned by level of education. Specifically, adults with lower educational attainment report more chronic conditions, more functional limitations, and worse overall health. In addition to affecting educational attainment, schools provide an important context in which students spend a substantial portion of their time. Because access to salutogenic school environments, as well as opportunities for educational attainment and advancement are themselves unequal, education is considered a social determinant of health. In this article, we explore the relationships between educational attainment and health. We also emphasize the importance of educational contexts as determinants of health that precede educational attainment and contribute to related health outcomes. Finally, we discuss implications for primary care practitioners and their efforts to address disparities in health and education.

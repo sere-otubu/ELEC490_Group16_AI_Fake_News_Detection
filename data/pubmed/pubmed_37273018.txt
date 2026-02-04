@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Teeth whitening
-TITLE: Prognosis in home dental bleaching: a systematic review.
-PMID: 37273018
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37273018/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The aim of this systematic review was to evaluate the prognosis of at-home dental bleaching using low concentration bleaching products. This review was conducted was performed following the recommendations of the 2020 PRISMA statement and was registered in the International Prospective Register of Systematic Reviews (PROSPERO-CRD42022360530). The PICO question was "What is the prognosis of home teeth whitening treatment?". An advanced electronic search was made in three databases: PubMed, Web of Science, and Embase. The database search led to the retrieval of 225 articles. After elimination of duplicate references, the titles and abstracts of the articles were analyzed with respect to the eligibility criteria, and 24 studies were included for the development of the systematic review. Most authors state that the color remains stable between 1 and 2.5 years regardless of the type of bleaching agent or the forms of administration, and color stability in cases of severe discolorations presents a higher degree of recurrence. Given the growing demand for dental cosmetic treatments, the following systematic review may aid the clinician's continuing education and evidence-based practice by providing knowledge on the field of at-home dental bleaching agents and their long-term effects.

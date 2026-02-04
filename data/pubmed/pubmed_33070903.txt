@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Traumatic brain injury
-TITLE: Traumatic brain injury causing intestinal dysfunction: A review.
-PMID: 33070903
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33070903/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Traumatic brain injuries (TBI) and its sequelae are becoming one of the most pressing public health concerns worldwide. It is one of the leading causes of increased morbidity and mortality. The primary insult to the brain can cause ischemic brain injury, paralysis, concussions, death, and other serious complications. Brain injury also involves other systems through a secondary pathway resulting in multiple complications during and after hospitalization. The focus of our article is to assess the literature available on traumatic brain injury and intestinal dysfunctional to highlight the aspects of epidemiology, pathophysiology, and different diagnostic approaches for early diagnosis of gut dysfunction. We review studies done in both humans and animals, to better understand this underrated topic, as it costs billions of dollars to the healthcare industry because of delayed diagnosis.

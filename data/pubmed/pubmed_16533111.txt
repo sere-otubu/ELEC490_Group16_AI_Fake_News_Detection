@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Environmental health
-TITLE: Environmental justice: human health and environmental inequalities.
-PMID: 16533111
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16533111/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In this review, we provide an introduction to the topics of environmental justice and environmental inequality. We provide an overview of the dimensions of unequal exposures to environmental pollution (environmental inequality), followed by a discussion of the theoretical literature that seeks to explain the origins of this phenomenon. We also consider the impact of the environmental justice movement in the United States and the role that federal and state governments have developed to address environmental inequalities. We conclude that more research is needed that links environmental inequalities with public health outcomes.

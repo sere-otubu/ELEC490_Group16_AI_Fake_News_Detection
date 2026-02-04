@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hydration importance
-TITLE: Patient safety and hydration in the care of older people.
-PMID: 27125939
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27125939/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Ensuring patients are adequately hydrated is a fundamental part of nursing care, however, it is clear from the literature that dehydration remains a significant problem in the NHS with implications for patient safety. The development of dehydration is often multifactorial and older age is an independent risk factor for the condition. However, the media often blame nursing staff for simply not giving patients enough to drink. This article discusses the scale of the problem in acute care settings and aims to raise awareness of the importance of hydration management and accurate documentation in nursing practice. It suggests that intentional hourly rounding may provide an opportunity for nurses to ensure older patients are prompted or assisted to take a drink.

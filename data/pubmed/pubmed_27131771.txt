@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 27131771)
-    QUESTION: Does left atrial appendage (LAA) occlusion device alter the echocardiography and electrocardiogram parameters in patients with atrial fibrillation?
-    CONTEXT: The alterations of echocardiography and electrocardiogram (ECG) in patients received left atrial appendage LAA occlusion therapy are still unclear. The present study was to evaluate the influence of LAA occlusion device on echocardiography and ECG changes in patients with atrial fibrillation (AF).
-    ANSWER: LAA occlusion device resulted in a slightly movement in QRS axis, reduced HR and increased the mean-mean QT interval duration. In addition, LA diameter and ARD seemed to be larger after device implantation.
-    

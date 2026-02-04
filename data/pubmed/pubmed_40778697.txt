@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dissociative disorders
-TITLE: Dissociative and traumatic experiences in people with eating disorders.
-PMID: 40778697
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40778697/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The review synthesizes existing literature on the prevalence, assessment, and treatment of dissociation, focusing on its manifestation in eating disorders. The review explores various conceptualizations of dissociation, its relationship with trauma, and its role in emotion regulation. Dissociation is a complex psychological process ranging from mild detachment to severe identity fragmentation. Everyday experiences like daydreaming or losing track of time are common examples of dissociation. More severe dissociative experiences are present in dissociative disorders, trauma-related stress disorders, and borderline personality disorder. In eating disorders, dissociation serves as a coping mechanism for managing intense emotions that can originate from traumatic and nontraumatic events. Recent studies highlight the role of dissociative experiences in emotion regulation, its association with functional seizures, and its link to night eating. Psychoeducation offers a promising way to address trauma-related dissociation and challenges with emotion regulation. Incorporating eye movement desensitization and reprocessing (EMDR) and other trauma-focused therapies into eating disorder treatment can also help reduce trauma-related dissociative symptoms in individuals with eating disorders. This review underscores the multifaceted nature of dissociation and its role in eating disorders. It highlights the need for further research into effective treatments for people with eating disorders.

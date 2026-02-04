@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anaphylaxis
-TITLE: Anaphylaxis.
-PMID: 22732436
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22732436/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This article aims to make a review of the up-to-date knowledge on anaphylaxis and outline the recent advances on pathophysiology, diagnosis, and management of anaphylaxis. New data confirm the increase in prevalence of anaphylaxis and emphasize immunopathologic mechanisms. However, anaphylaxis is often underdiagnosed and guidelines are poorly applied, particularly in emergency departments. An improvement of rapid diagnosis and treatment combined with education of population will decrease mortality and morbidity of anaphylaxis.

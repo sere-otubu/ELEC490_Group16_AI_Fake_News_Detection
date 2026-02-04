@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gene expression
-TITLE: Radiofrequency radiation-induced gene expression.
-PMID: 41145349
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41145349/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Genes are differentially expressed in cells in response to changes in the internal or external environment. The response is generally an adaptive mechanism to the environmental challenge to restore cell functions to homeostasis. There are numerous studies reporting changes in gene expression in cells exposed to radiofrequency radiation (RFR), the type of energy emitted by wireless communication devices. The major genes affected are those involved in: repair of damaged proteins, response to stress, oxidative changes, apoptosis, DNA damage detection and repair, and changes in neural functions. Gene expression data supports the notion that RFR is a stressor that causes oxidative changes and DNA and protein damage in cells under different exposure conditions, in many biological systems. Changes in all these significant gene expression effects are supported by results of other biological studies of RFR exposure in the literature. They should be considered in the setting of RFR-exposure guidelines.

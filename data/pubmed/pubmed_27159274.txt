@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Exercise for pregnancy
-TITLE: Translational studies for exercise in high-risk pregnancy: Pre-eclampsia model.
-PMID: 27159274
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27159274/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Reviewed literature regarding exercise effects on pregnancy-related hypertensive disorders, analyzing basic science perspectives and clinical studies. Scientific databases were accessed by research strategy combining Medical Subject Headings terms. Studies published between 2000 and 2015, in English, Portuguese, and Spanish language, were considered. Studies were classified into: recommendations for exercise on high-risk pregnancy; animal models for hypertension in pregnancy; exercise on hypertensive disorders in animal models and pregnant women. There are several animal models to mimic hypertensive disorders in pregnancy; however, clinical studies are still needed for exercise recommendation in pregnant women with hypertensive disorders.

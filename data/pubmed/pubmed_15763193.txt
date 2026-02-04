@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Melanoma
-TITLE: Uveal melanoma: epidemiologic aspects.
-PMID: 15763193
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15763193/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Melanomas of the ocular and adnexal structures comprise approximately 5% of all melanomas. The majority (85%) of ocular melanomas are uveal in origin; primary conjunctival and orbital melanomas are rare. The diagnosis of uveal melanoma is made by clinical examination including indirect ophthalmoscopy and by ancillary studies such as fluorescein angiography and ultrasonography. Metastases to the liver develop within 15 years after the initial diagnosis and treatment in approximately 50% of patients with posterior uveal melanoma; however, clinically evident metastatic disease at the time of initial presentation is uncommon, indicating that there is early subclinical metastasis in most cases.

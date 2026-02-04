@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Micronutrients
-TITLE: [Micronutrients in enteral nutrition formulas. Is it possible to innovate?].
-PMID: 30547661
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30547661/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The term "micronutrients" include vitamins and trace elements. Their recommended intakes in enteral formulas has been adhered to RDI/RDA and, in addition, their content is regulated in the European Union. However, deficiencies in micronutrients has been reported in specific patient groups under enteral nutrition (EN) in the last years. Even so, the research in micronutrients in EN is scarce. The aim of this review was to assess the literature to establish possible improvements in micronutrients in EN formulas for adult patients. In general, NE formulas meet the European reference values and, theoretically, they are completely acceptable for long term EN in most patients. However, formulas with different contents may be required in specific clinical situations or diseases. The main micronutrients in which specific needs have been detected was vitamins C, D, and E and the trace elements zinc, copper, selenium, and possibly boron and silicon. The diseases or clinical conditions more predisposed to require especial doses of micronutrients were critically ill patients, burns, neurological patients, elderly frail patients, patients with pressure ulcers, patients with Crohn disease, and patients with gastrectomy or with alimentation jejunostomy. In addition, cooking current formulas should be avoided due to the loss of micronutrient bioavailability in the process. In conclusion, it seems that there is still possibility for the development of more specific formulas with micronutrients more adapted for these groups of patients.

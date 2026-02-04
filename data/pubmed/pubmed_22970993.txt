@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22970993)
-    QUESTION: Does sex affect the outcome of laparoscopic cholecystectomy?
-    CONTEXT: The aim of our study was to determine the effect of sex on the outcome of laparoscopic cholecystectomy in terms of operative time, conversion to open cholecystectomy, postoperative complications and mean hospital stay.
-    ANSWER: Laparoscopic cholecystectomy is often challenging in men on account of more adhesions and inflammation. This leads to higher conversion rates and more postoperative complications. Optimized planning and a more experienced operating surgeon may help overcome these problems.
-    

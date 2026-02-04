@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Enzymes function
-TITLE: What dopamine does in the brain.
-PMID: 22106252
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22106252/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In the early 1970s, receptors for neurotransmitters acting via second messengers had not been identified biochemically nor were there definitive links to such messengers. The discovery by John W. Kebabian and Paul Greengard of a dopamine-sensitive adenyl cyclase, accordingly, was a giant step forward. The investigators first characterized the enzyme in sympathetic ganglia wherein dopamine-producing cells link pre- and post-synaptic neurons. Then, in the corpus striatum, the brain area enriched in dopamine, they delineated the enzyme\x{2019}s properties and showed that it was inhibited by antipsychotic drugs, leading to a large body of research on dopamine as a mediator of antipsychotic drug action and putative roles for this transmitter in the pathophysiology of schizophrenia.

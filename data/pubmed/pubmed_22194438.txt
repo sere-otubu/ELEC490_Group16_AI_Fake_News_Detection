@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Organ donation ethics
-TITLE: Aspects of deceased organ donation in paediatrics.
-PMID: 22194438
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22194438/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Organ transplantation offers children in acute or chronic severe organ failure similar opportunities to adults. However, while the number who might benefit is relatively low, significantly fewer cadaveric donors exist for any given child compared with an adult. Incompatible organ size and relatively low donation rates mean that despite living parental donation and innovations to reduce donated organ size, children die before organs become available. The severity of the UK situation is compounded by restrictions on paediatric living donation, uncertainties over the application of brain death criteria, and ethical concerns about the use of donation after circulatory death. The UK Department of Health's Organ Donation Task Force suggested the means by which the adult donor pool might be increased, recommending that outstanding ethical and legal issues be resolved, but made no specific recommendations about children.

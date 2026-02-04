@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Calorie counting
-TITLE: Calorie counting vs. minute counting; does nutrient timing matter for weight-loss?
-PMID: 40401907
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40401907/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To critically evaluate the latest evidence on the weight-loss effects of chrono-nutrition, culminating in identification of remaining gaps in the literature and future recommendations. There appear to be six articles on this topic published over the past 2 years that have ostensibly examined the weight-loss effects of chrono-nutrition strategies relative to comparator conditions involving standard eating patterns in which meal timing is not manipulated. Some of those studies have concluded that TRE may be superior to standard energy restriction for weight-loss but the data presented do not consistently support that inference. Chrono-nutrition strategies remain a popular dietary approach to weight-loss and yet there is a paucity of primary data showing that these strategies are more effective than any other means of eliciting a negative energy balance but without altering daily eating patterns.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Proton pump inhibitors
-TITLE: Proton Pump Inhibitors: What the Internist Needs to Know.
-PMID: 30466666
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30466666/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This report reviews the physiology of gastric acid suppression by proton pump inhibitors (PPIs) and anti-inflammatory effects of PPIs that are independent of their acid-suppressive effects. Valid indications for PPI use are discussed, as are putative adverse effects of PPIs that have been identified through weak associations in observational studies that cannot establish cause-and-effect relationships. Although evidence supporting the validity of these adverse effects is weak, there is also insufficient evidence to dismiss the risks. The report emphasizes how PPIs frequently are prescribed inappropriately and encourages physicians to carefully consider the indication for PPI therapy in their patients.

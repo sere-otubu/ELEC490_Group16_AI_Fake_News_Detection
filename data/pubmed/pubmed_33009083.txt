@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rosacea
-TITLE: Ocular rosacea.
-PMID: 33009083
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33009083/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To revisit ocular rosacea as an underappreciated condition which can cause permanent blindness if inadequately treated, and to review data supporting improved diagnostic and treatment strategies. Ocular rosacea has an underrecognized prevalence in children and individuals with darker skin tone. Rosacea has several associations with other significant systemic diseases. Variations in local and systemic microbiome, including demodex infestation, may play a role in pathogenesis, severity, and in explaining the different phenotypes of rosacea. The National Rosacea Society Expert Committee established an updated classification system of rosacea in 2017. New treatment algorithms based on these clinical subtypes are suggested. With continued advancements in the understanding of the epidemiology and pathogenesis of rosacea, randomized controlled trials specific for ocular rosacea remain lacking. There is overall consensus that rosacea and ocular rosacea require chronic maintenance treatment strategies involving combination topical and systemic therapies.

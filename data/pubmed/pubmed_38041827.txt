@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Migraine
-TITLE: The evolutionary meaning of migraine.
-PMID: 38041827
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38041827/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Migraine's astonishing prevalence and preserved genetic background contrast with the definition of a disease and the biological meaning of experiencing recurrent, severe headache attacks is still puzzling. To provide a comprehensive explanation of the migraine evolutionary meaning, we review (i) the putative role of the autonomic nervous system in migraine attacks, (ii) the inter-ictal autonomic, functional, and metabolic signature of migraine patients, (iii) the bio-behavioral perspective of pain, and (iv) the allostatic perception of migraine chronification. Migraineurs have inter-ictal cortical hyperexcitability and metabolic dysfunction that predisposes to brain energetic imbalance. Multiple precipitating factors may lead to brain energy consumption over the migraine attack generation threshold. In response, the brain engenders adaptive, evolutionary conserved, autonomic-behavior responses through the antidromic activation of the trigeminovascular system. The sickness behavior and severe pain experienced during migraine attacks result in avoiding mental and physical activity, allowing brain energy restoration. Chronic exposure to stressors may result in an allostatic overload, leading to maladaptive chronic activation of these responses. In this bio-behavioral perspective, the chronification of migraine should be envisioned as a pathological process, whereas the migraine itself should not. Migraine has an evolutionary (Darwinian) meaning.

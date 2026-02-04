@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hearing loss
-TITLE: Role of Oxidative Stress in Sensorineural Hearing Loss.
-PMID: 38673731
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38673731/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hearing is essential for communication, and its loss can cause a serious disruption to one's social life. Hearing loss is also recognized as a major risk factor for dementia; therefore, addressing hearing loss is a pressing global issue. Sensorineural hearing loss, the predominant type of hearing loss, is mainly due to damage to the inner ear along with a variety of pathologies including ischemia, noise, trauma, aging, and ototoxic drugs. In addition to genetic factors, oxidative stress has been identified as a common mechanism underlying several cochlear pathologies. The cochlea, which plays a major role in auditory function, requires high-energy metabolism and is, therefore, highly susceptible to oxidative stress, particularly in the mitochondria. Based on these pathological findings, the potential of antioxidants for the treatment of hearing loss has been demonstrated in several animal studies. However, results from human studies are insufficient, and future clinical trials are required. This review discusses the relationship between sensorineural hearing loss and reactive oxidative species (ROS), with particular emphasis on age-related hearing loss, noise-induced hearing loss, and ischemia-reperfusion injury. Based on these mechanisms, the current status and future perspectives of ROS-targeted therapy for sensorineural hearing loss are described.

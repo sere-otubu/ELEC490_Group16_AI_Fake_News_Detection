@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22324545)
-    QUESTION: Are polymorphisms in oestrogen receptors genes associated with lipid levels in response to hormone therapy?
-    CONTEXT: Polymorphisms in the oestrogen receptor 1 (ESR1) and oestrogen receptor 2 (ESR2) genes are associated with intermediate or endpoint markers of cardiovascular disease and with the efficacy of postmenopausal hormone therapy (HT). Contradictory findings have been described in the past and the role of these genetics variants remains unclear.
-    ANSWER: Our findings suggest that, in HT+ postmenopausal women, the rs2813544 polymorphism may influence LDL-C levels and, as previously described, ESR2 rs1256049 is associated with T-chol and LDL-C. No previous study has investigated the association of this SNP set with lipoprotein levels in women while taking into account the hormonal status of the patients.
-    

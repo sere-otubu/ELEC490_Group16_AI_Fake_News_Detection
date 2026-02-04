@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antibiotics classes
-TITLE: How Streptococcus suis escapes antibiotic treatments.
-PMID: 36371221
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36371221/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Streptococcus suis is a zoonotic agent that causes sepsis and meningitis in pigs and humans. S. suis infections are responsible for large economic losses in pig production. The lack of effective vaccines to prevent the disease has promoted the extensive use of antibiotics worldwide. This has been followed by the emergence of resistance against different classes of antibiotics. The rates of resistance to tetracyclines, lincosamides, and macrolides are extremely high, and resistance has spread worldwide. The genetic origin of S. suis resistance is multiple and includes the production of target-modifying and antibiotic-inactivating enzymes and mutations in antibiotic targets. S. suis genomes contain traits of horizontal gene transfer. Many mobile genetic elements carry a variety of genes that confer resistance to antibiotics as well as genes for autonomous DNA transfer and, thus, S. suis can rapidly acquire multiresistance. In addition, S. suis forms microcolonies on host tissues, which are associations of microorganisms that generate tolerance to antibiotics through a variety of mechanisms and favor the exchange of genetic material. Thus, alternatives to currently used antibiotics are highly demanded. A deep understanding of the mechanisms by which S. suis becomes resistant or tolerant to antibiotics may help to develop novel molecules or combinations of antimicrobials to fight these infections. Meanwhile, phage therapy and vaccination are promising alternative strategies, which could alleviate disease pressure and, thereby, antibiotic use.

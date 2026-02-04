@@ -1,8 +1,0 @@
-SEARCH_TOPIC: NSAIDs side effects
-TITLE: Nano-Phytopharmaceuticals in Inflammation.
-PMID: 36734911
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36734911/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Inflammation is a defense mechanism of the body against harmful stimuli/organisms. Even if it is the body's defense mechanism, these mediators may affect different ways in the human body and can lead to chronic disorders. The most common treatment strategy for the acute type of inflammation mainly includes synthetic chemical drugs; Non-steroidal anti-inflammatory drugs (NSAIDs), corticosteroids, and immunosuppressant drugs whereas these synthetic drugs have many side effects, adverse effects, and limitations. Herbal drugs can be a promising alternative to these synthetic drugs but they too have limitations. Recent advances in the nanotechnology field can be combined with herbal drugs to overcome the limitations. Research works done on topical nanophyto pharmaceuticals for anti-inflammatory activity were compiled and in all the studies, clear evidence is indicated for the increased penetration, distribution, and increased efficacy of phytopharmaceuticals when formulated into nano dosage forms. Considering the adverse effects and limitations of most widely used synthetic drugs, topical nano Phyto pharmaceuticals can play a pivotal role in the local and systemic delivery of promising phytoconstituents to a specific site of the body.

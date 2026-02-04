@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gluten free diet
-TITLE: Advances in Celiac Disease and Gluten-Free Diet.
-PMID: 35276929
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35276929/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Celiac disease (CD) is a systemic disease that causes chronic enteropathy of the small intestine and develops through an inadequate immune response to gluten in genetically predisposed individuals [...].

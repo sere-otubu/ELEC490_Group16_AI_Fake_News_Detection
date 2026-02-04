@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 27448572)
-    QUESTION: Is duration of psychological treatment for depression related to return into treatment?
-    CONTEXT: There is increasing pressure on mental health providers to reduce the duration of treatments, while retaining level of quality and effectiveness. The risk is that the population is underserved and therefore needs new treatment episodes. The primary aim of this study was to investigate whether duration of treatment and return into mental health care were related.
-    ANSWER: The results suggest that a longer duration of treatment may prevent return into mental health care in some groups. However, because of the design of the study, no causal inference can be drawn. Further research, preferably in a RCT, is needed to determine whether the trend towards lower intensity treatments is associated with repeated mental health care use.
-    

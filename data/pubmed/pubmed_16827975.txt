@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 16827975)
-    QUESTION: Chemotherapy and survival in advanced non-small cell lung carcinoma: is pneumologists' skepticism justified?
-    CONTEXT: Few studies have assessed whether the advantage chemotherapy has been shown to have in treating advanced non-small lung carcinoma in clinical trials is transferrable to normal health care activity. This could explain the skepticism of a large number of pneumologists towards this treatment. The objective of our study was to analyze prognostic factors related to survival and to see whether cytostatic treatment was an independent predictor.
-    ANSWER: In normal clinical practice, chemotherapy significantly prolongs survival in patients with performance status of less than 2, more time being gained if there is no associated weight loss. We conclude that the reluctance shown by many pneumologists toward using this treatment is not entirely justified.
-    

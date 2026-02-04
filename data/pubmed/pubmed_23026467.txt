@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Carpal tunnel syndrome
-TITLE: Carpal tunnel syndrome in pregnancy.
-PMID: 23026467
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23026467/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-During pregnancy, hormonal fluctuations, fluid shifts, and musculoskeletal changes predispose women to carpal tunnel syndrome. While the clinical presentation is similar to other patients, the history obtained must include information regarding the pregnancy itself. Currently, the indication for electrodiagnostic testing is not clearly defined. Given that symptoms often improve with conservative treatment and abate after delivery, EMG/NCV testing can often be avoided. However, if symptoms are severe or persist, carpal tunnel release is indicated and is considered a safe procedure for both mother and fetus.

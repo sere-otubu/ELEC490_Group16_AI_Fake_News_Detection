@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Glaucoma
-TITLE: Glaucoma in the dog and cat.
-PMID: 2194358
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2194358/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Conjunctivitis, mydriasis, corneal edema, lens luxation, buphthalmos, and blindness are caused by elevated IOP in the glaucomas. Primary glaucomas with a bilateral potential for development are noted in two cats and several dog breeds, with secondary glaucomas caused by uveitis and neoplasia common in the cat and dog. Tonometric evaluation is essential for the early diagnosis and management of glaucoma. Medical therapy of topical demecarium bromide and timolol maleate, with systemic dichlorphenamide, are recommended for general glaucoma maintenance therapy in dogs and cats. Transcleral cyclophotocoagulation will surgically reduce IOP in cases in which maximum medication has been reached.

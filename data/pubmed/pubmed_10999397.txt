@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pineal gland
-TITLE: The role of the pineal gland in magnetobiological effects.
-PMID: 10999397
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10999397/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The problem of pineal mognetosensitivity is considered in light of modem magnetobiology publications and the authors' own findings. It has been shown that electromagnetic exposure of different parameters affects pineal activity. Changes in the temporal organization of biological systems are suggested to be the main effect of electromagnetic exposure. Modern data evidence that there are magnetoreceptive structures aside from the pineal gland.

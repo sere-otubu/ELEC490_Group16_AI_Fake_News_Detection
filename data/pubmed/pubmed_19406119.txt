@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19406119)
-    QUESTION: Does telmisartan prevent hepatic fibrosis in rats with alloxan-induced diabetes?
-    CONTEXT: This study evaluated the effect of telmisartan on the livers of diabetic rats and also aimed to determine the hepatic distribution and role of transforming growth factor beta (TGF-beta) in diabetes-related hepatic degeneration while taking into account the possible protective effects of telmisartan.
-    ANSWER: Results suggest that telmisartan may reduce type-I diabetes mellitus-induced hepatic injury by suppressing activated hepatic stellate cells through concomitant TGF-beta1 down-regulation.
-    

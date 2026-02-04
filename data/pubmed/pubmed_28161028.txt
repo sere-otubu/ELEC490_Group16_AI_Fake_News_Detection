@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Spinal cord injury
-TITLE: Update on traumatic acute spinal cord injury. Part 1.
-PMID: 28161028
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28161028/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Traumatic spinal cord injury requires a multidisciplinary approach both for specialized treatment of the acute phase and for dealing with the secondary complications. A suspicion or diagnosis of spinal cord injury is the first step for a correct management. A review is made of the prehospital management and characteristics of the acute phase of spinal cord injury. Respiratory monitoring for early selective intubation, proper identification and treatment of neurogenic shock are essential for the prevention of secondary spinal cord injury. The use of corticosteroids is currently not a standard practice in neuroprotective treatment, and hemodynamic monitoring and early surgical decompression constitute the cornerstones of adequate management. Traumatic spinal cord injury usually occurs as part of multiple trauma, and this can make diagnosis difficult. Neurological examination and correct selection of radiological exams prevent delayed diagnosis of spinal cord injuries, and help to establish the prognosis.

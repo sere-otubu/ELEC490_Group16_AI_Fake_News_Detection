@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Skeletal system
-TITLE: The dependency of autophagy and ubiquitin proteasome system during skeletal muscle atrophy.
-PMID: 33927785
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33927785/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Among the four proteolytic systems in the cell, autophagy and the ubiquitin-proteasome system (UPS) are the main proteolytic events that allow for the removal of cell debris and proteins to maintain cellular homeostasis. Previous studies have revealed that these systems perform their functions independently of each other. However, recent studies indicate the existence of regulatory interactions between these proteolytic systems via ubiquitinated tags and a reciprocal regulation mechanism with several crosstalk points. UPS plays an important role in the elimination of short-lived/soluble misfolded proteins, whereas autophagy eliminates defective organelles and persistent insoluble protein aggregates. Both of these systems seem to act independently; however, disruption of one pathway affects the activity of the other pathway and contributes to different pathological conditions. This review summarizes the recent findings on direct and indirect dependencies of autophagy and UPS and their execution at the molecular level along with the important drug targets in skeletal muscle atrophy.

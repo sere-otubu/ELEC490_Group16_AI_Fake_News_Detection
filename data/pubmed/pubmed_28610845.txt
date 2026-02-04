@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood donation safety
-TITLE: Hemochromatosis and blood donation.
-PMID: 28610845
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28610845/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The voluntary, unpaid, altruistic blood donor is a cornerstone of current transfusion medicine. The complexity of medical and ethical issues related to blood donation and hemochromatosis has led to a large number of studies related to the safety of the hemochromatosis donor and the quality of the blood components produced from these donations. The issue of accepting persons with HC as blood donors is diverting, both in Europe and worldwide and without joint guidelines. A questionnaire-based study was performed and mailed to all 25 blood bank leaders in Norway. Descriptive analysis was used to evaluate the data. Eight of 22 blood banks strictly followed national guidelines concerning persons with hemochromatosis. Other blood banks make local adjustments. 16 of 22 responding blood banks accept hemochromatosis donors and five do not, and one answered partly yes. The reasons the blood bank leaders supported the acceptance of hemochromatosis donors differ. Based on published papers and the present questionnaire, we believe that a clear definition of the "hemochromatosis donor" and guidelines with more detailed information on an acceptable donation regime would be important to overcome the weak points in blood donor eligibility criteria.

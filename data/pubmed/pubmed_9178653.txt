@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Enzymes function
-TITLE: Cardiac effects of isoliquiritigenin.
-PMID: 9178653
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9178653/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The effects of isoliquiritigenin on force of contraction (Fc), L-type Ca2+ current (I(Ca)) and intracellular Ca2+ concentration ([Ca2+]i) were investigated in rat ventricular heart muscle. Isoliquiritigenin increased Fc and I(Ca) and, after longer exposure times, resting tension and [Ca2+]i. The effect of isoliquiritigenin (100 microM) on I(Ca) was diminished by Rp-cAMPS (30 microM). 1H-[1,2,4]oxa- diazolo[4,3-a]quinoxalin-1-one (50 microM) did not influence the effects of isoliquiritigenin on Fc and I(Ca). The positive inotropic effects of isoprenaline and forskolin, but not of 3-isobutyl-1-methylxanthine, were potentiated by isoliquiritigenin (100 microM). In the presence of milrinone (10 microM), no further effects of isoliquiritigenin (100 microM) on Fc and I(Ca) were observed. It is suggested that the increase in Fc and I(Ca) by isoliquiritigenin is due to an accumulation of cyclic AMP. These effects are probably unrelated to an effect of the drug on soluble guanylyl cyclase, as reported for smooth muscle, but rather due to a direct inhibition of phosphodiesterase III activity.

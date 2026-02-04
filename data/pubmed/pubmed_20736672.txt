@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20736672)
-    QUESTION: Does perspective-taking increase patient satisfaction in medical encounters?
-    CONTEXT: To assess whether perspective-taking, which researchers in other fields have shown to induce empathy, improves patient satisfaction in encounters between student-clinicians and standardized patients (SPs).
-    ANSWER: Perspective-taking increased patient satisfaction in all three studies, across medical schools, clinical disciplines, and racially diverse students and SPs. Perspective-taking as a means for improving patient satisfaction deserves further exploration in clinical training and practice.
-    

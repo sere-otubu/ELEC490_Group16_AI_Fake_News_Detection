@@ -1,8 +1,0 @@
-SEARCH_TOPIC: PET scan
-TITLE: PET/CT Interpretative Pitfalls in Thoracic Malignancies.
-PMID: 29807638
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29807638/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Applications of positron emission tomography/computed tomography (PET/CT) in the thorax include the evaluation of solitary pulmonary nodules, staging and restaging of oncologic patients, assessment of therapeutic response, and detection of residual or recurrent disease. Accurate interpretation of PET/CT requires knowledge of the physiological distribution of [18F]-fluoro-2-deoxy-D-glucose, as well as artifacts and quantitative errors due to the use of CT for attenuation correction of the PET scan. Potential pitfalls include malignancies that are PET negative and benign conditions that are PET positive. Awareness of these artifacts and potential pitfalls is important in preventing misinterpretation that can alter patient management.

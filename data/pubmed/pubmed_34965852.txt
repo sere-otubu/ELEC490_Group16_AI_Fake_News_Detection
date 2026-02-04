@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Occupational safety health
-TITLE: Occupational health and safety practice in infrastructure projects.
-PMID: 34965852
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34965852/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-<i>Objectives.</i> This research intends to investigate the responsibilities of the parties engaged in the implementation phase of the infrastructure projects in occupational health and safety, i.e., the consultant and contractor. <i>Methods</i>. A questionnaire was developed through the selection and modification of the responsibilities from the literature review. <i>Results</i>. The statistical analysis results show that the consultants and contractors both ranked the item 'The owner requires the contractor to implement the occupational safety standards within the bid' first in the owner responsibilities, having 0.67 relative importance index (RII). In the responsibilities of the consultant, the first ranked item was 'The consultant has a role in adopting occupational safety plans and contingency plans', having 0.66 RII. In the responsibilities of the contractor, the first ranked item was 'The contractor shall provide the insurance cover for all project crews', having 0.71 RII. In the responsibilities of the workers, the first ranked item was 'Workers know the handling of tools and equipment within the project', having 0.59 RII. <i>Conclusion</i>. Overall, there was general agreement between consultants and contractors to classify and arrange items because both face the same conditions and have the same working environment.

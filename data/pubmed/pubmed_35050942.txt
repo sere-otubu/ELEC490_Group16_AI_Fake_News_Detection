@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Laxatives
-TITLE: Review of the Safety Profiles of Laxatives in Pregnant Women.
-PMID: 35050942
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35050942/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chronic constipation is one of the most common complaints seen in the gastroenterology clinic and is particularly prevalent in women. Women who become pregnant may suffer from existing constipation or develop constipation de novo. A thorough understanding of the safety of laxative therapies during pregnancy and the postpartum period is essential to successfully treating these women. Current understanding of the safety of both over the counter and prescription laxatives has not been adequately evaluated. In this article we provide an updated and comprehensive review of the safety profiles of laxatives that are currently used for the treatment of chronic constipation to aid the clinician in risk-benefit discussions with women who are currently or planning to become pregnant.

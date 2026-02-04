@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24318956)
-    QUESTION: Is digoxin use for cardiovascular disease associated with risk of prostate cancer?
-    CONTEXT: Digoxin is a commonly used medication for heart failure and cardiac arrhythmias that has recently been suggested as a novel chemotherapeutic agent. Preclinical studies of prostate cancer (PCa) have shown anti-tumor activity with digoxin. We explore the relationship between use of digoxin and PCa risk.
-    ANSWER: These data indicate digoxin use may be associated with a reduction in risk of PCa. Given the potential mechanisms by which digoxin may exert an anti-neoplastic effect and other recent studies showing a negative association between digoxin use and PCa, further research is warranted.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lung function
-TITLE: Lung function in sickle cell disease.
-PMID: 24268618
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24268618/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although some of the most severe complications of Sickle Cell Disease (SCD) tend to be acute and severe (e.g. acute chest syndrome, stroke etc.), the chronic ones can be equally debilitating. Prominent among them is the effect that the disease has on lung growth and function. For many years the traditional teaching has been that SCD is associated with the development of a restrictive lung defect. However, there is increasing evidence that this is not a universal finding and that at least during childhood and adolescence, the majority of the patients have a normal or obstructive pattern of lung function. The following article reviews the current knowledge on the effects of SCD on lung growth and function. Special emphasis is given to the controversies among the published articles in the literature and discusses possible causes for these discrepancies.

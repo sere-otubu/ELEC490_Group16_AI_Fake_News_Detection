@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immune system
-TITLE: Introduction to the Immune System.
-PMID: 31364040
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31364040/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The immune system in a broad sense is a mechanism that allows a living organism to discriminate between "self" and "nonself." Examples of immune systems occur in multicellular organisms as simple and ancient as sea sponges. In fact, complex multicellular life would be impossible without the ability to exclude external life from the internal environment. This introduction to the immune system will explore the cell types and soluble factors involved in immune reactions, as well as their location in the body during development and maintenance. Additionally, a description of the immunological events during an innate and adaptive immune reaction to an infection will be discussed, as well as a brief introduction to autoimmunity, cancer immunity, vaccines, and immunotherapies.

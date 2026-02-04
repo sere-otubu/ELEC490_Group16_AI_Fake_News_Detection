@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antibiotic resistance
-TITLE: Antibiotic resistance. Control strategies.
-PMID: 9561819
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9561819/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Antibiotic resistance is a worldwide concern. Over the past several decades, antibiotic resistance has increased to many respiratory pathogens as well as aerobic gram-negative bacilli. Recently, methicillin-resistant Staphylococcus aureus (MRSA) and vancomycin-resistant Enterococcus (VRE) have become important hospital pathogens. Antibiotic resistance is not related to a particular antibiotic structure and is not dependent upon mechanism of antibiotic action. The volume of use per se does not increase antimicrobial resistance. This article discusses control strategies and identifies which antibiotics are associated with the emergence of resistant organisms.

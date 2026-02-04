@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 10473855)
-    QUESTION: Is delayed gastric emptying following pancreaticoduodenectomy related to pylorus preservation?
-    CONTEXT: Delayed gastric emptying (DGE) is the most frequent postoperative complication after pylorus-preserving pancreaticoduodenectomy (PPPD). This prospective, non-randomized study was undertaken to determine whether the incidence of DGE may be reduced by modifying the original reconstructive anatomy with a retrocolic duodenojejunostomy towards an antecolic duodenojejunostomy.
-    ANSWER: DGE after PPPD seems to be of minor clinical importance following uncomplicated surgery. When taking the results into consideration, it can be said that, despite the lack of a control group, antecolic duodenojejunostomy might be the key to a low incidence of DGE after PPPD. In our experience, DGE is linked to the occurrence of other postoperative complications rather than to pylorus preservation.
-    

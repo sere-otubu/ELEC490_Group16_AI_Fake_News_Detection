@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Social determinants of health
-TITLE: Health Equity and Social Determinants of Health.
-PMID: 39443029
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39443029/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Health equity in medicine is critical to improving safety and quality of care for all patients. In order to achieve this, it is important that anesthesiologists understand the social barriers that exist for our patients in receiving high-quality and safe care, also known as social determinants of health. It is also important to understand social vulnerabilities to alleviate their impact on health outcomes in perioperative care. Beyond the social factors that impact the patient experience, it is important to understand, educate, and optimize those factors that impact delivery of high-quality and equitable care within our control as health care professionals.

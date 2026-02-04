@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Bronchitis
-TITLE: Plastic bronchitis: new insights and a classification scheme.
-PMID: 16298313
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16298313/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Plastic bronchitis is a rare disease in which there is the formation of large gelatinous or rigid branching airway casts. The history of the disease is reviewed and a classification system is proposed based on our current understanding. This system classifies plastic bronchitis by clinical disease association and cast histology. A summary of the medical literature is included together with guidelines for treatment. The evidence for these treatment decisions is reviewed.

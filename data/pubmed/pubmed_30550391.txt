@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Trauma informed care
-TITLE: A model for trauma-informed primary care.
-PMID: 30550391
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30550391/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Childhood trauma has been associated with negative health behaviors and conditions in adulthood. However, few primary care providers screen for trauma or alter their care to accommodate the multiple effects of trauma on patient health. The purposes of this article were to discuss the health consequences of childhood trauma and to offer a model for trauma-informed primary care (TIPC). The TIPC model provides a guide for primary care providers to screen for adverse childhood experiences and personalize the care of patients with a history of childhood trauma. The model, based on the trauma-informed care model used in mental health, has five components: (a) screening and trauma recognition, (b) understanding the health effects of trauma, (c) patient-centered communication and care, (d) emphasis on emotional safety and avoiding triggers, and (e) knowledge of helpful treatment for trauma patients. The TIPC model offers a theoretical underpinning for improving the care, health care experiences, and health outcomes for patients with a history of childhood trauma.

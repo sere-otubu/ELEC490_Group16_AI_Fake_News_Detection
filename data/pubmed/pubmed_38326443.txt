@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fiber intake
-TITLE: Effects of dietary fibre on metabolic health and obesity.
-PMID: 38326443
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38326443/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Obesity and metabolic syndrome represent a growing epidemic worldwide. Body weight is regulated through complex interactions between hormonal, neural and metabolic pathways and is influenced by numerous environmental factors. Imbalances between energy intake and expenditure can occur due to several factors, including alterations in eating behaviours, abnormal satiation and satiety, and low energy expenditure. The gut microbiota profoundly affects all aspects of energy homeostasis through diverse mechanisms involving effects on mucosal and systemic immune, hormonal and neural systems. The benefits of dietary fibre on metabolism and obesity have been demonstrated through mechanistic studies and clinical trials, but many questions remain as to how different fibres are best utilized in managing obesity. In this Review, we discuss the physiochemical properties of different fibres, current findings on how fibre and the gut microbiota interact to regulate body weight homeostasis, and knowledge gaps related to using dietary fibres as a complementary strategy. Precision medicine approaches that utilize baseline microbiota and clinical characteristics to predict individual responses to fibre supplementation represent a new paradigm with great potential to enhance weight management efficacy, but many challenges remain before these approaches can be fully implemented.

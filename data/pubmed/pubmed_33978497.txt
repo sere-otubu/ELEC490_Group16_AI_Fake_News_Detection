@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dopamine
-TITLE: New roles for dopamine in motor skill acquisition: lessons from primates, rodents, and songbirds.
-PMID: 33978497
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33978497/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Motor learning is a core aspect of human life and appears to be ubiquitous throughout the animal kingdom. Dopamine, a neuromodulator with a multifaceted role in synaptic plasticity, may be a key signaling molecule for motor skill learning. Though typically studied in the context of reward-based associative learning, dopamine appears to be necessary for some types of motor learning. Mesencephalic dopamine structures are highly conserved among vertebrates, as are some of their primary targets within the basal ganglia, a subcortical circuit important for motor learning and motor control. With a focus on the benefits of cross-species comparisons, this review examines how "model-free" and "model-based" computational frameworks for understanding dopamine's role in associative learning may be applied to motor learning. The hypotheses that dopamine could drive motor learning either by functioning as a reward prediction error, through passive facilitating of normal basal ganglia activity, or through other mechanisms are examined in light of new studies using humans, rodents, and songbirds. Additionally, new paradigms that could enhance our understanding of dopamine's role in motor learning by bridging the gap between the theoretical literature on motor learning in humans and other species are discussed.

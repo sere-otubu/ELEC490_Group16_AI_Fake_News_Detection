@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Metformin
-TITLE: Metformin: clinical use in type 2 diabetes.
-PMID: 28770321
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28770321/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Metformin is one of the most popular oral glucose-lowering medications, widely considered to be the optimal initial therapy for patients with type 2 diabetes mellitus. Interestingly, there still remains controversy regarding the drug's precise mechanism of action, which is thought to involve a reduction in hepatic glucose production. It is now recommended as first-line treatment in various guidelines, including that of the EASD and ADA. Its favoured status lies in its efficacy, low cost, weight neutrality and good safety profile. Other benefits have also been described, including improvements in certain lipids, inflammatory markers, and a reduction in cardiovascular events, apparently independent from the drug's glucose-lowering effect. Data have emerged questioning the previous reluctance to use this agent in those with mild to moderate chronic kidney disease. Regulations guiding its use in patients with stable, modest renal dysfunction have, as a result, become more lenient in recent years. With no long-term studies comparing it against newer glucose-lowering drugs, some of which have more robust evidence for cardioprotection, metformin's established role as 'foundation therapy' in type 2 diabetes may justifiably be challenged.

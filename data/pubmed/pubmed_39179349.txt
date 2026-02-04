@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ovarian cancer
-TITLE: Epigenetic regulation in ovarian cancer.
-PMID: 39179349
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39179349/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Ovarian cancer is one of the diseases that have the highest mortality rate for women, especially women over 50 years old. In the future, incidence and mortality rates are predicted to extend in countries with low HDI. Instability in the structure and function of genetic factors has long been known as a cause of cancer, including ovarian cancer. Besides understanding gene mutations, epigenetic alterations have emerged as another aspect leading to the pathogenesis of ovarian neoplasm. The development and progression of this fatal disease have been found to be associated with abnormalities of epigenetic regulation. DNA methylation, histone modification, and non-coding RNAs-based gene silencing are processes of interest in developing ovarian carcinoma and are also new targets for cancer detection or treatment.

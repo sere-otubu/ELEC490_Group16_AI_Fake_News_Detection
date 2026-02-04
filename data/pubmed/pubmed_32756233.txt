@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Insomnia
-TITLE: Insomnia.
-PMID: 32756233
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32756233/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This article provides updated information regarding the diagnosis and treatment of chronic insomnia disorder. In addition to discussing the latest recommendations regarding pharmacotherapeutic options for insomnia, this article also discusses the increased use of nonpharmacologic treatment approaches, including cognitive-behavioral therapy intervention, integrative medicine, mindfulness and meditation, and other therapeutic options in clinical practice. Insomnia is one of the most common sleep disorders in patients with other neurologic disorders. The definition and criteria for insomnia were updated with the release of the International Classification of Sleep Disorders, Third Edition. The American Academy of Sleep Medicine has updated clinical practice guidelines for the pharmacologic treatment of chronic insomnia in adults. New diagnostic and therapeutic options (eg, pharmacologic and behavioral therapies, at-home devices) have emerged to optimize and personalize the evaluation and management of sleep disorders such as insomnia. Although some of these devices and treatment options are still in the early stages of development, several are currently in clinical trials or will soon be available. This article emphasizes complexities related to the evaluation and management of patients with chronic insomnia disorder and describes alternative therapeutic options for patients with this common sleep disorder.

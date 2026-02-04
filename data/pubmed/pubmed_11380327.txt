@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vasectomy
-TITLE: Vasectomy.
-PMID: 11380327
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11380327/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Vasectomy is regarded as the safest method now available for male fertility control. Almost 100 million men worldwide have relied on vasectomy for family planning. This review discusses all currently relevant operative techniques, including no-scalpel vasectomy, complications, possible long-term effects on the testis and epididymis, and diseases for which associations with vasectomy have been suggested, such as arteriosclerosis, autoimmune diseases and cancer of the prostate and testis. Other topics of discussion include the timing of post-operative semen analysis, patient noncompliance concerning post-operative controls, persistent cryptozoospermia and transient reappearance of spermatozoa after vasectomy, vasectomy failure and legal aspects.

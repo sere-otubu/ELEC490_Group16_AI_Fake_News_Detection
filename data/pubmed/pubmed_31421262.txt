@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Breast cancer
-TITLE: Metastatic heterogeneity of breast cancer: Molecular mechanism and potential therapeutic targets.
-PMID: 31421262
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31421262/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Breast cancer is one of the most common malignancies among women throughout the world and is the major cause of most cancer-related deaths. Several explanations account for the high rate of mortality of breast cancer, and metastasis to vital organs is identified as the principal cause. Over the past few years, intensive efforts have demonstrated that breast cancer exhibits metastatic heterogeneity with distinct metastatic precedence to various organs, giving rise to differences in prognoses and responses to therapy in breast cancer patients. Bone, lung, liver, and brain are generally accepted as the primary target sites of breast cancer metastasis. However, the underlying molecular mechanism of metastatic heterogeneity of breast cancer remains to be further elucidated. Recently, the advent of novel genomic and pathologic approaches as well as technological breakthroughs in imaging analysis and animal modelling have yielded an unprecedented change in our understanding of the heterogeneity of breast cancer metastasis and provided novel insight for establishing more effective therapeutics. This review summarizes recent molecular mechanisms and emerging concepts on the metastatic heterogeneity of breast cancer and discusses the potential of identifying specific molecules against tumor cells or tumor microenvironments to thwart the development of metastatic disease and improve the prognosis of breast cancer patients.

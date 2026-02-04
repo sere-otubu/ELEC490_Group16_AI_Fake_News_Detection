@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Braces and orthodontics
-TITLE: Aligner biomechanics: Where we are now and where we are heading for.
-PMID: 38228450
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38228450/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Aligner orthodontics has gained significant popularity as an alternative to traditional braces because of its aesthetic appeal and comfort. The biomechanical principles that underlie aligner orthodontics play a crucial role in achieving successful outcomes. The biomechanics of aligner orthodontics revolve around controlled force application, tooth movement, and tissue response. Efficient biomechanics in aligner orthodontics involves consideration of attachment design and optimized force systems. Attachments are tooth-colored shapes bonded to teeth, aiding in torque, rotation, and extrusion movements. Optimized force systems ensure that forces are directed along the desired movement path, reducing unnecessary strain on surrounding tissues. Understanding and manipulating the biomechanics of aligner orthodontics is essential for orthodontists to achieve optimal treatment outcomes. This approach requires careful treatment planning, considering the mechanics required for each patient's specific malocclusion. As aligner orthodontics continues to evolve, advances in material science and treatment planning software contribute to refining biomechanical strategies, enhancing treatment efficiency, and expanding the scope of cases that can be successfully treated with aligners.

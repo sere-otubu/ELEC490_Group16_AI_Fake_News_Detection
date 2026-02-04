@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Osteoarthritis
-TITLE: Osteoarthritis.
-PMID: 21665124
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21665124/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Internationally, prevalence estimates for osteoarthritis show wide variability depending on the age and sex of the studied population, the method of case identification used, and the specificity of joint sites included. Currently, there is no generally agreed "gold standard" for identifying cases of osteoarthritis in epidemiologic studies. Despite this lack of standardisation, it is consistently demonstrated in population-based studies, worldwide, that osteoarthritis prevalence is positively associated with increasing age and that the greatest disease burden is attributable to involvement of the hip or knee joints. To estimate the true burden of osteoarthritis involving the hips or knees, comprehensive accounting of all associated morbidity is required. The identification of modifiable risk factors for disease incidence and progression is needed.

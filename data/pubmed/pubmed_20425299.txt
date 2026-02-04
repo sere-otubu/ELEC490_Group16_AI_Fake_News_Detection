@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gene expression
-TITLE: Gene expression studies in major depression.
-PMID: 20425299
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20425299/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The dramatic technical advances in methods to measure gene expression on a genome-wide level thus far have not been paralleled by breakthrough discoveries in psychiatric disorders-including major depression (MD)-using these hypothesis-free approaches. In this review, we first describe the methodologic advances made in gene expression analysis, from quantitative polymerase chain reaction to next-generation sequencing. We then discuss issues in gene expression experiments specific to MD, ranging from the choice of target tissues to the characterization of the case group. We provide a synopsis of the gene expression studies published thus far for MD, with a focus on studies using mRNA microarray methods. Finally, we discuss possible new strategies for the gene expression studies in MD that circumvent some of the addressed issues.

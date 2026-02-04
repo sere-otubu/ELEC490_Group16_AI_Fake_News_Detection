@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ultrasound
-TITLE: Lung ultrasound in the critically ill.
-PMID: 24758984
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24758984/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Lung ultrasound, which allows a bedside visualization of the lungs, is increasingly used in critical care. This review aims at highlighting a simple approach to this new discipline. The 10 basic signs are the bat sign (indicating pleural line), lung sliding (yielding the seashore sign), the A line (horizontal artifact), the quad and sinusoid sign indicating pleural effusion regardless of its echogenicity, the tissue-like and shred sign indicating lung consolidation, the B line and lung rockets (artifacts indicating interstitial syndrome), abolished lung sliding with the stratosphere sign, suggesting pneumothorax, and the lung point, indicating pneumothorax. All these disorders were assessed using computed tomography (CT) as a gold standard with sensitivity and specificity ranging from 90 to 100%, allowing us to consider ultrasound as a reasonable bedside gold standard in the critically ill. We use a simple gray-scale unit (without Doppler) with a microconvex probe. Lung ultrasound can be used for diagnosing acute respiratory failure (BLUE protocol), managing acute circulatory failure (Fluid Administration Limited by Lung Sonography protocol), and decreasing the use of radiograph or CT (the Lung Ultrasound in the Critically Ill Favoring Limitation of Radiation project). This can be extended from sophisticated ICUs to more austere settings, from neonates to bariatric adults without adaptation, trauma and several other disciplines (anesthesiology, emergency medicine, pulmonology, etc.). http://links.lww.com/COCC/A8.

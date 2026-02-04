@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22902073)
-    QUESTION: Estimated fetal weight by ultrasound: a modifiable risk factor for cesarean delivery?
-    CONTEXT: The purpose of this study was to investigate whether knowledge of ultrasound-obtained estimated fetal weight (US-EFW) is a risk factor for cesarean delivery (CD).
-    ANSWER: Knowledge of US-EFW, above and beyond the impact of fetal size itself, increases the risk of CD. Acquisition of US-EFW near term appears to be an independent and potentially modifiable risk factor for CD.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antibiotic resistance
-TITLE: What is antibiotic resistance and how can we measure it?
-PMID: 11115751
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11115751/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Antibiotic resistance is being found with increasing frequency in both pathogenic and commensal bacteria of humans and animals. Quantifying resistance within and between bacterial and host populations presents scientists with complex challenges in terms of laboratory methodologies and sampling design. Here, we discuss, from an epidemiological perspective, how antibiotic resistance can be defined and measured and the limitations of current approaches.

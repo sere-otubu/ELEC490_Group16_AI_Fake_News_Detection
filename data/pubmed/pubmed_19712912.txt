@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19712912)
-    QUESTION: Has the 80-hour workweek improved surgical resident education in New England?
-    CONTEXT: To evaluate the effect of the 80-hour workweek restrictions on resident education within surgical programs in the New England area.
-    ANSWER: Despite the positive effects the 80-hour workweek has had on resident quality of life and patient care, it does not seem that either significant improvements or detrimental effects have occurred on surgical education within residency programs in New England.
-    

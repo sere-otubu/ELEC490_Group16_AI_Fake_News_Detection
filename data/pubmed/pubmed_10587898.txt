@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Child psychology
-TITLE: Training in clinical child psychology: doing it right.
-PMID: 10587898
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10587898/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Discusses (a) what roles the specialty of clinical child psychology fulfills and how societal and professional changes have enhanced the need for the specialty, (b) how the field defines itself, (c) how models of training are conceptualized for the specialty, and (d) how some training programs implement specialty training with broad, interdisciplinary components. Clinical child psychology is a professional field of research and practice that, when adequate training is provided, properly deserves a places as a specialty. The dangers of overspecialization and narrowness are more likely present in traditional clinical (adult) psychology than in clinical child psychology, especially when the clinical child training is done in a broadly comprehensive and integrated manner.

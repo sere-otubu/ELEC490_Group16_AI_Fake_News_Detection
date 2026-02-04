@@ -1,8 +1,0 @@
-SEARCH_TOPIC: DNA structure
-TITLE: DNA recognition by structure-selective nucleases.
-PMID: 9782777
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9782777/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The nucleases discussed in this review show little sequence specificity but instead recognize certain structural features of their respective DNA substrates. The level of their structural selectivity ranges from simple discrimination between single- and double-stranded DNA (nucleases P1 and S1), the recognition of helical parameters like groove width and flexibility (DNase I), the recognition of helical distortions caused by abasic sites (exonuclease III, HAP1), to the recognition of specialized structures like flap DNA (5'-nucleases of eukaryotes, phages, and eubacterial DNA polymerases) and four-way junctions (T4 endonuclease VII, RuvC). The discussion is focused on the structural basis of the recognition process. In most cases the available x-ray structures of the nucleases and/or their DNA complexes have revealed the presence of structural motifs explaining the observed structural selectivity.

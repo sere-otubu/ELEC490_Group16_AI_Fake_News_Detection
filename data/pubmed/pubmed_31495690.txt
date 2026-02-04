@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Inflammation mechanism
-TITLE: Microglial UCP2 Mediates Inflammation and Obesity Induced by High-Fat Feeding.
-PMID: 31495690
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31495690/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Microglia play a crucial role in immune responses, including inflammation. Diet-induced obesity (DIO) triggers microglia activation and hypothalamic inflammation as early as 3 days after high-fat diet (HFD) exposure, before changes in body weight occur. The intracellular mechanism(s) responsible for HFD-induced microglia activation is ill defined. Here, we show that in vivo, HFD induced a rapid and transient increase in uncoupling protein 2 (Ucp2) mRNA expression together with changes in mitochondrial dynamics. Selective microglial deletion of Ucp2 prevented changes in mitochondrial dynamics and function, microglia activation, and hypothalamic inflammation. In association with these, male and female mice were protected from HFD-induced obesity, showing decreased feeding and increased energy expenditure that were associated with changes in the synaptic input organization and activation of the anorexigenic hypothalamic POMC neurons and astrogliosis. Together, our data point to a fuel-availability-driven mitochondrial mechanism as a major player of microglia activation in the central regulation of DIO.

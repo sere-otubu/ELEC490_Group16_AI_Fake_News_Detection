@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pneumonia
-TITLE: Community-acquired and nosocomial pneumonia.
-PMID: 14749949
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/14749949/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Pneumonia is one of the leading causes of morbidity, hospitalization, and mortality in both industrialized and developing countries. In particular, pulmonary infections acquired in the community, and pneumonias arising in the hospital setting, represent a major medical and economic problem and thus a continuous challenge to health care. For the radiologist, it is important to understand that community-acquired pneumonia (CAP) and nosocomial pneumonia (NP) share a number of characteristics, but should, in many respects be regarded as separate entities. CAP and NP arise in different populations, host different spectra of causative pathogens, and pose different challenges to both the clinician and the radiologist. CAP is generally seen in outpatients, is most frequently caused by Streptococcus pneumoniae, Mycoplasma pneumoniae, Haemophilus influenzae, and Chlamydia, and its radiologic diagnosis is relatively straightforward. NP, in contrast, develops in the hospital setting, is commonly caused by gram-negative bacteria, and may generate substantial problems for the radiologist. Overall, both for CAP and NP, imaging is an integral component of the diagnosis, important for classification and differential diagnosis, and helpful for follow-up.

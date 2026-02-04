@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21190419)
-    QUESTION: Does nuchal translucency thickness in the first trimester predict GDM onset during pregnancy?
-    CONTEXT: This study was planned to evaluate whether increased nuchal translucency (NT) thickness in the first trimester of gestation can be related to onset of gestational diabetes mellitus (GDM) during pregnancy.
-    ANSWER: NT thickness does not show a significative increase in those women who subsequently develop GDM. Therefore, NT assessment does not prove to be an useful ultrasound parameter for predicting GDM onset during pregnancy.
-    

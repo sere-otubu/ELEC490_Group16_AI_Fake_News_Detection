@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Varicose veins
-TITLE: Current management of varicose veins.
-PMID: 16721119
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16721119/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Problematic varicose veins are estimated to occur in up to 30 million Americans and may be symptomatic and/or unsightly. The majority of symptomatic varicose veins occur in the lower extremities and can result in significant circulatory disease. This problem is more common in women as a result of pregnancy and child bearing. Cosmetic treatment for varicosities is best achieved with a variety of sclerosing procedures.

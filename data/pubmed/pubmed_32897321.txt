@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chlamydia
-TITLE: Host cell death during infection with Chlamydia: a double-edged sword.
-PMID: 32897321
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32897321/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The phylum Chlamydiae constitutes a group of obligate intracellular bacteria that infect a remarkably diverse range of host species. Some representatives are significant pathogens of clinical or veterinary importance. For instance, Chlamydia trachomatis is the leading infectious cause of blindness and the most common bacterial agent of sexually transmitted diseases. Chlamydiae are exceptionally dependent on their eukaryotic host cells as a consequence of their developmental biology. At the same time, host cell death is an integral part of the chlamydial infection cycle. It is therefore not surprising that the bacteria have evolved exquisite and versatile strategies to modulate host cell survival and death programs to their advantage. The recent introduction of tools for genetic modification of Chlamydia spp., in combination with our increasing awareness of the complexity of regulated cell death in eukaryotic cells, and in particular of its connections to cell-intrinsic immunity, has revived the interest in this virulence trait. However, recent advances also challenged long-standing assumptions and highlighted major knowledge gaps. This review summarizes current knowledge in the field and discusses possible directions for future research, which could lead us to a deeper understanding of Chlamydia's virulence strategies and may even inspire novel therapeutic approaches.

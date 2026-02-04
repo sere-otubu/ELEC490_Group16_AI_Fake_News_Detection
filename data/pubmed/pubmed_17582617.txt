@@ -1,8 +1,0 @@
-SEARCH_TOPIC: RNA function
-TITLE: Glia-induced neuronal differentiation by transcriptional regulation.
-PMID: 17582617
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17582617/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There is increasing evidence that different phases of brain development depend on neuron-glia interactions including postnatal key events like synaptogenesis. To address how glial cells influence synapse development, we analyzed whether and how glia-derived factors affect gene expression in primary cultures of immunoisolated rat retinal ganglion cells (RGCs) by oligonucleotide microarrays. Our results show that the transcript pattern matched the developmental stage and characteristic properties of RGCs in vitro. Glia-conditioned medium (GCM) and cholesterol up- and downregulated a limited number of genes that influence the development of dendrites and synapses and regulate cholesterol and fatty acid metabolism. The oligonucleotide microarrays detected the transcriptional regulation of neuronal cholesterol homeostasis in response to GCM and cholesterol treatment. Surprisingly, our study revealed neuronal expression and glial regulation of matrix gla protein (Mgp). Together, our results suggest that glial cells promote different aspects of neuronal differentiation by regulating transcription of distinct classes of genes.

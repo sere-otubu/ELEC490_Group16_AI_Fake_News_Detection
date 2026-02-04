@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Epilepsy
-TITLE: Recent advances in epilepsy.
-PMID: 28120042
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28120042/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This paper reviews advances in epilepsy in recent years with an emphasis on therapeutics and underlying mechanisms, including status epilepticus, drug and surgical treatments. Lessons from rarer epilepsies regarding the relationship between epilepsy type, mechanisms and choice of antiepileptic drugs (AED) are explored and data regarding AED use in pregnancy are reviewed. Concepts evolving towards a move from treating seizures to treating epilepsy are discussed, both in terms of the mechanisms of epileptogenesis, and in terms of epilepsy's broader comorbidity, especially depression.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24995509)
-    QUESTION: HIF1A as a major vascular endothelial growth factor regulator: do its polymorphisms have an association with age-related macular degeneration?
-    CONTEXT: To investigate the association between age-related macular degeneration (AMD) and the polymorphisms of HIF1A, a major vascular epithelial growth factor regulator under hypoxic conditions. The associations of AMD and polymorphisms of genes CFH, SKIV2L and MYRIP were also studied.
-    ANSWER: No associations appeared between HIF1A SNPs and AMD, which were studied here for the first time; however, polymorphism rs1061170 of the CFH gene is associated with AMD in our population.
-    

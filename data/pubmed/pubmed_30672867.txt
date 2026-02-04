@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Paleo diet
-TITLE: Combating insulin resistance with the paleo diet.
-PMID: 30672867
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30672867/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Lifestyle changes that include adopting a healthy diet, such as the paleo diet, can help prevent prediabetes and T2DM. This article explores the potential benefits of replacing low-calorie diets with the paleo diet. As primary care providers, NPs are positioned to help inform patients, particularly those with prediabetes and T2DM, about healthy lifestyle choices and provide them with resources to achieve weight loss success.

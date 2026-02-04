@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic screening
-TITLE: Current landscape of prenatal genetic screening and testing.
-PMID: 31633301
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31633301/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Pregnant patients should be offered the option of prenatal genetic screening and diagnostic testing. The type of screening and testing offered to a patient may depend on various factors including but not limited to age, family history, fetal findings, exposures, and patient preferences. Prenatal screening is available for a variety of genetic conditions including aneuploidy, congenital abnormalities, and carrier status. Diagnostic testing options include karyotype, prenatal microarray, as well as next-generation sequencing. The various options differ in methodology, accuracy, timing and indication for testing, and information they provide. Given that the technologies related to prenatal testing are rapidly evolving and improving, the array of available screening and testing modalities are increasing. This article reviews the current offerings in prenatal screening and diagnosis.

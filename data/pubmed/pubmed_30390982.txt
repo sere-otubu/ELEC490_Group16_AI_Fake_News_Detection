@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Palliative care
-TITLE: Palliative Care and Geriatric Surgery.
-PMID: 30390982
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30390982/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although many seniors cite maintaining independence and a desire to die at home as health priorities, admission to the ICU and the use of invasive procedures are common near the end of life. Palliative care aims to relieve pain and other symptoms to maintain the highest quality of life for the longest period of time, but surgical patients are less likely to be referred to palliative care than patients with chronic medical conditions. Meeting the palliative care needs of elderly surgical patients requires early recognition, advance care planning, and multidisciplinary interventions that align patient goals with possible outcomes.

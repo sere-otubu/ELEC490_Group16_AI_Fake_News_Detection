@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25614468)
-    QUESTION: Preoperative locoregional staging of gastric cancer: is there a place for magnetic resonance imaging?
-    CONTEXT: The aim of this study was to prospectively compare the diagnostic performance of magnetic resonance imaging (MRI), multidetector computed tomography (MDCT) and endoscopic ultrasonography (EUS) in the preoperative locoregional staging of gastric cancer.
-    ANSWER: Our prospective study confirmed the leading role of EUS and MDCT in the staging of gastric cancer and did not prove, at present, the value of the clinical use of MRI.
-    

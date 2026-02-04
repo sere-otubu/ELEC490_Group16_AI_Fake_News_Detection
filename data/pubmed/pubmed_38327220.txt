@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Peer review process
-TITLE: An overview of the peer review process in biomedical sciences.
-PMID: 38327220
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38327220/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This paper aims to provide an introductory resource for beginner peer reviewers in psychiatry and the broader biomedical science field. It will provide a concise overview of the peer review process, alongside some reviewing tips and tricks. The peer review process is a fundamental aspect of biomedical science publishing. The model of peer review offered varies between journals and usually relies on a pool of volunteers with differing levels of expertise and scope. The aim of peer review is to collaboratively leverage reviewers' collective knowledge with the objective of increasing the quality and merit of published works. The limitations, methodology and need for transparency in the peer review process are often poorly understood. Although imperfect, the peer review process provides some degree of scientific rigour by emphasising the need for an ethical, comprehensive and systematic approach to reviewing articles. Contributions from junior reviewers can add significant value to manuscripts.

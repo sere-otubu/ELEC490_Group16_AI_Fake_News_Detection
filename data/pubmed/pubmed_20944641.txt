@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ACE inhibitors
-TITLE: ACE inhibitors in cardiac surgery: current studies and controversies.
-PMID: 20944641
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20944641/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Major complications associated with cardiac surgery are still common and carry great prognostic significance. Current medical interventions to prevent these cardiovascular complications include antiplatelet therapy, statins, β-blockers and angiotensin-converting enzyme (ACE) inhibitors. Both experimental studies and clinical trials have shown that ACE inhibitors hold promise as cardiovascular protective agents for cardiac surgery patients. Several lines of evidence support this hypothesis. First, long-term use of ACE inhibitors has been well established to provide cardiovascular protection and reduce ischemic events and complications, independent of their effect on heart function and blood pressure. Second, early ACE inhibitor therapy has been demonstrated to produce remarkable survival and heart function benefits in patients with acute myocardial infarction. Third, ACE blockage can prevent or delay the development or progression of renal disease at all stages, from subclinical microalbuminuria to end-stage renal disease. Nevertheless, perioperative studies of the effects of ACE inhibitors remain few and inconclusive. Results from recent clinical trials and observational studies are conflicting and raise more questions than answers. Further studies, both retrospective and larger-scale prospective studies, are critically needed to examine whether ACE inhibitors reduce mortality and major complications in patients undergoing cardiac surgery.

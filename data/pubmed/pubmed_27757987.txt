@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 27757987)
-    QUESTION: Does the treatment of amblyopia normalise subfoveal choroidal thickness in amblyopic children?
-    CONTEXT: Recent studies have found a choroidal thickening in amblyopic eyes and suggested that there might be a relationship between the choroid and amblyopia. The present study aimed to evaluate the effect of a six-month treatment of amblyopia on choroidal thickness in anisometropic hyperopic amblyopic children.
-    ANSWER: Although a six-month treatment of amblyopia increased the visual acuity of the anisometropic hyperopic amblyopic eyes, it could not significantly change choroidal thickness. Our results were in accordance with the conventional explanation, which suggests visual cortex and lateral geniculate nucleus abnormalities in the pathophysiology of amblyopia.
-    

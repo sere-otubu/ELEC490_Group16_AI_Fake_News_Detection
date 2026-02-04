@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gestational Diabetes
-TITLE: Gestational Diabetes: Diagnosis, Classification, and Clinical Care.
-PMID: 28499531
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28499531/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gestational diabetes mellitus (GDM) affects approximately 6% of pregnant women, and prevalence is increasing in parallel with the obesity epidemic. Protocols for screening/diagnosing GDM are controversial with several guidelines available. Treatment of GDM results in a reduction in the incidence of preeclampsia, shoulder dystocia, and macrosomia. If diet and lifestyle changes do not result in target glucose levels, then treatment with metformin, glyburide, or insulin should begin. It is generally recommended that pregnancies complicated by GDM do not go beyond term. For women identified to have prediabetes, intensive lifestyle intervention and metformin have been shown to prevent or delay progression to type 2 diabetes.

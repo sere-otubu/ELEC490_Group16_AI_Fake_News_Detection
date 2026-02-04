@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cushings syndrome
-TITLE: [Endogenous Cushing's syndrome].
-PMID: 16505869
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16505869/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Untreated endogenous Cushing's syndrome is a serious condition with high morbidity and mortality. New diagnostic procedures make today's assessment more accurate. We describe which tests should be done when there is suspicion of the syndrome. Treatment options are mentioned. The paper is based on current international literature and reflects the experience of the authors. Endogenous Cushing's syndrome is caused by elevated cortisol levels. The reason can be overproduction of ACTH or an adrenocortical pathology. It should be considered when combinations of symptoms like central obesity, proximal muscle weakness, striae and menstrual irregularities are seen. Osteoporosis and impotence are other important symptoms. Diagnosis of Cushing's syndrome is often challenging. Measurement of urinary free cortisol or overnight dexamethasone suppression test has usually been performed initially. Midnight salivary cortisol seems promising as an alternative. The final diagnosis is often made after a combined evaluation of dynamic tests. The first-line treatment of endogenous Cushing's syndrome is surgery.

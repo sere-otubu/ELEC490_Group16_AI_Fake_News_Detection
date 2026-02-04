@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Valve replacement
-TITLE: Valve-sparing aortic root replacement.
-PMID: 21881317
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21881317/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The aortic root has a unique 3-dimensional configuration and the distinctive function of supporting the aortic valve and blood vessels. The sinuses of Valsalva are crucial to create appropriate eddy currents that are important in initiating and coordinating aortic valve closure and promoting coronary artery blood flow. Most aneurysms in the aortic root are associated with degenerative changes in the elastic media rather than atherosclerosis. Valve-sparing root repair has become widely accepted, although the Bentall procedure remains the gold standard. Because reimplantation using the Valsalva graft allows root geometry to be retained and theoretically and practically prevents recurrent aortic valve regurgitation, it is considered the most reliable and preferred technique among various valve-sparing aortic root repair procedures.

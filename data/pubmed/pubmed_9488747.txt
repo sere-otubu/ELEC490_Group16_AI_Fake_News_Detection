@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 9488747)
-    QUESTION: Syncope during bathing in infants, a pediatric form of water-induced urticaria?
-    CONTEXT: Apparent life-threatening events in infants are a difficult and frequent problem in pediatric practice. The prognosis is uncertain because of risk of sudden infant death syndrome.
-    ANSWER: "Aquagenic maladies" could be a pediatric form of the aquagenic urticaria.
-    

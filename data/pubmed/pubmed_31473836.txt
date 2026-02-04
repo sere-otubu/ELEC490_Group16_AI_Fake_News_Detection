@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anticoagulants
-TITLE: Can Direct Oral Anticoagulants Be Used for Stroke Prevention Among Patients with Valvular Atrial Fibrillation?
-PMID: 31473836
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31473836/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To review the clinical evidence underlying the efficacy and safety of the use of direct oral anticoagulants (DOACs) for the treatment of patients with valvular atrial fibrillation (AF). The recent focused update to the 2014 AHA/ACC/HRS Atrial Fibrillation Guidelines defines valvular AF as AF in the setting of moderate-to-severe mitral stenosis (MS) and/or in the presence of a mechanical heart valve. Landmark clinical trials of DOACs in patients with AF systematically excluded these patient populations. However, there are trial data in both animals and humans regarding the use of DOACs in patients with MS and in those with mechanical heart valves. Based on sub-analyses and meta-analyses of clinical trial data in patients with AF, the use of DOACs in valvular AF is not recommended. Patients with moderate-to-severe MS or a mechanical heart valve and AF should be anticoagulated with dose-adjusted warfarin. DOACs are reasonable alternatives to warfarin in patients with AF and other types of valvular disease, including mild MS and bioprosthetic valves.

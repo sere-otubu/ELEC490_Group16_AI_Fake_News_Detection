@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Medical ethics
-TITLE: Teaching medical ethics: a review of the literature from North American medical schools with emphasis on education.
-PMID: 11080991
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11080991/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Efforts to reform medical education have emphasized the need to formalize instruction in medical ethics. However, the discipline of medical ethics education is still searching for an acceptable identity among North American medical schools; in these schools, no real consensus exists on its definition. Medical educators are grappling with not only what to teach (content) in this regard, but also with how to teach (process) ethics to the physicians of tomorrow. A literature review focused on medical ethics education among North American medical schools reveals that instruction in ethics is considered to be vitally important for medical students. Agreement by medical educators on a possible "core curriculum" in ethics should be explored. To develop such a curriculum, "deliberative curriculum inquiry" by means of a targeted Delphi technique may be a useful methodology. However, the literature reveals that medical curricular change is notoriously slow. General implications for medical ethics education as a discipline are discussed.

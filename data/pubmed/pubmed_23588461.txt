@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23588461)
-    QUESTION: Should ascitis volume and anthropometric measurements be estimated in hospitalized alcoholic cirrotics?
-    CONTEXT: Ascitis and undernutrition are frequent complications of cirrhosis, however ascitis volume and anthropometric assessment are not routinely documented or considered in prognostic evaluation. In a homogeneous cohort followed during two years these variables were scrutinized, aiming to ascertain relevance for longterm outcome.
-    ANSWER: A greater association than hitherto acknowledged, between ascitis volume and anthropometric measurements from one side, and long-term rehospitalization and mortality from the other, was demonstrated in male stable alcoholic cirrhotics. Further studies with alcoholic and other modalities of cirrhosis including women are recommended.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Basal cell carcinoma
-TITLE: Cutaneous basal cell carcinoma with endobronchial metastasis.
-PMID: 25245718
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25245718/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although basal cell carcinoma is a very common malignancy, metastasis from this tumour is extremely rare. For this reason, many plastic surgeons, dermatologists and physicians dealing with skin malignancies consider this as a locally invasive malignancy. We present a rare case of metastatic basal cell carcinoma manifested as a bronchial tumour. This case highlights the fact that despite basal cell carcinoma's local invasive potential, the possibility of distant metastasis still exists and clinicians should therefore be cautious about interpreting extracutaneous symptoms. Chest physicians should always consider the possibility of this rare tumour in the lungs in patients with a history of large basal cell carcinomas in the head and neck region.

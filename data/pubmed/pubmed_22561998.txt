@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Herd immunity
-TITLE: Vaccination and herd immunity: what more do we know?
-PMID: 22561998
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22561998/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review summarizes herd immunity, focusing on conceptual developments with application to vaccination programs. The conventional idea of herd immunity is based on the relationship between the transmission dynamics of infectious agents and population immunity. However, there have been some recent conceptual developments in vaccine 'herd immunity' or 'herd protection' that address the complexities of imperfect immunity, heterogeneous populations, nonrandom vaccine uptake and 'freeloaders'. Some vaccines may provide better protection than others; for instance, meningococcal conjugate vaccines are superior to polysaccharide vaccines, as is true of pneumococcal and Haemophilus influenzae type b vaccines. Achieving a very high uptake rate should be the target for certain vaccines, for example, measles vaccine, in order to prevent the disease effectively. Emerging issues, for example, waning of immunity after pertussis vaccination, are fresh challenges. Herd immunity is a complex issue inherent to a vaccine and the population receiving the vaccine. We have more to learn and apply.

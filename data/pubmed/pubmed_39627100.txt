@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lactose intolerance
-TITLE: Lactose intolerance - A practical approach, Part 1.
-PMID: 39627100
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39627100/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The toxicology, immunology and gastroenterology aspects of food remain important in clinical practice, as anyone treating food related anaphylaxis, or chronic intolerance syndromes can attest. Although entire editions of journals could focus on any one aspect of adverse effects from food, the following review addresses the important and prevalent gastrointestinal condition lactose intolerance and gastrointestinal (GI) conditions that have similar presentation but require different treatment.

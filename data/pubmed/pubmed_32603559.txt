@@ -1,8 +1,0 @@
-SEARCH_TOPIC: OCD
-TITLE: Women Are at Greater Risk of OCD Than Men: A Meta-Analytic Review of OCD Prevalence Worldwide.
-PMID: 32603559
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32603559/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To estimate the worldwide prevalence of obsessive-compulsive disorder (OCD), examine whether women are at greater risk than men, and explore other potential moderators of OCD prevalence to explain variability in community-based epidemiologic studies. An electronic search of PsycINFO and PubMed was conducted until January 2017, without date or language restrictions, using the keywords OCD, epidemiology, and prevalence. The search was supplemented by articles referenced in the obtained sources and relevant reviews. Studies were included if they reported current, period, and/or lifetime OCD prevalence (diagnosed according to an interview based on DSM or ICD criteria) in representative community samples of adults aged 18 years or older. A total of 4,045 studies were retrieved, with 34 studies ultimately included. OCD prevalence was extracted from each study alongside 9 moderators: gender, year, response rate, region, economic status, diagnostic criteria, diagnostic interview, interviewer, and age. The overall aggregate current, period, and lifetime OCD prevalence estimates were 1.1%, 0.8%, and 1.3%, respectively. In a typical sample, women were 1.6 times more likely to experience OCD compared to men, with lifetime prevalence rates of 1.5% in women and 1.0% in men. There was also a trend toward younger adults' being more likely to experience OCD in their lifetime than older adults. All findings demonstrated moderate heterogeneity. Women are typically at greater risk of experiencing OCD in their lifetime than men.

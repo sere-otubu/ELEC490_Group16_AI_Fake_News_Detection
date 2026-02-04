@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Herd immunity
-TITLE: "Herd immunity": a rough guide.
-PMID: 21427399
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21427399/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The term "herd immunity" is widely used but carries a variety of meanings. Some authors use it to describe the proportion immune among individuals in a population. Others use it with reference to a particular threshold proportion of immune individuals that should lead to a decline in incidence of infection. Still others use it to refer to a pattern of immunity that should protect a population from invasion of a new infection. A common implication of the term is that the risk of infection among susceptible individuals in a population is reduced by the presence and proximity of immune individuals (this is sometimes referred to as "indirect protection" or a "herd effect"). We provide brief historical, epidemiologic, theoretical, and pragmatic public health perspectives on this concept.

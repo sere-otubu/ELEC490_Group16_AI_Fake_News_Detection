@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vasectomy
-TITLE: Outpatient Vasectomy: Safe, Reliable, and Cost-effective.
-PMID: 34752273
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34752273/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Vasectomy is a safe, effective, and practical option for permanent contraception in men. Vasectomy is a surgical procedure used in men to disrupt and occlude the vas deferens, which delivers sperm from the testicles. By interrupting sperm transport, this procedure provides permanent sterilization. Vasectomies are typically done under local anesthesia in outpatient settings, and patients usually go home within an hour of the surgery. Surgical techniques used for vasectomy vary widely throughout the world, with limited evidence to guide the most effective approach. Current vasectomy guidelines largely rely on information from observational studies, with few controlled clinical trials.

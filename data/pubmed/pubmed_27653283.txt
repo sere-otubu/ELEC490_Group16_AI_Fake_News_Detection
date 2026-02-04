@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Whey protein
-TITLE: Effects of whey protein supplement in the elderly submitted to resistance training: systematic review and meta-analysis.
-PMID: 27653283
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27653283/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-We performed a systematic review to map the evidence and analyze the effect of whey protein supplementation in the elderly submitted to resistance training. A comprehensive search on Medline, LILACS, EMBASE, and the Cochrane Library for relevant publications was conducted until August 2015. The terms used in the search were: "Resistance training"; "Whey protein"; "Elderly". A total of 632 studies were screened. Five studies were included composing a sample of 391 patients. The supplement whey protein was associated with higher total protein ingestion 9.40 (95% CI: 4.03-14.78), and with an average change in plasma leucine concentration. The supplementation was also associated with increased mixed muscle protein synthesis 1.26 (95% CI: 0.46-2.07) compared to the control group. We observed an increase in total protein intake, resulting in increased concentration of leucine and mixed muscle protein fractional synthesis rate.

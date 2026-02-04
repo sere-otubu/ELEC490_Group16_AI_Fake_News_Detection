@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Spinal cord injury
-TITLE: Congenital and Acquired Spinal Cord Injury and Dysfunction.
-PMID: 37121637
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37121637/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Pediatric spinal cord injury and dysfunction (SCI/D) can result from atypical embryologic development or be acquired as the result of trauma, infection, autoimmune conditions, and tumors. The age of onset and causal mechanism of SCI/D has dramatic implications for function and risk of comorbidities throughout the lifespan. Optimal care of children with SCI/D is multidisciplinary and the pediatrician is a very important member of this team. This review highlights functional prognosis and important health maintenance issues to prevent complications and maximize independence. It is intended to assist the pediatrician in the care of this unique patient population.

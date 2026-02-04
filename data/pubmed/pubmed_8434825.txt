@@ -1,8 +1,0 @@
-SEARCH_TOPIC: CPR guidelines
-TITLE: History of CPR and the role of the national conference.
-PMID: 8434825
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8434825/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-External defibrillation was first reported in 1956, mouth-to-mouth ventilation was first reported in 1958, and closed-chest compression in 1960. While these developments began the modern era of CPR, accounts of resuscitative efforts go back to ancient times. The guidelines for CPR and emergency cardiac care (ECC) have evolved through five national conferences, held in 1966, 1973, 1979, 1985, and most recently in February 1992. The purpose of these conferences was to review and update published materials in the light of scientific advances and clinical experience. This issue of the Annals of Emergency Medicine contains the proceedings of the most recent National Conference on CPR and ECC. At this conference, a consensus was reached by an international gathering of scientists and clinicians for guidelines on adult basic and advanced life support, as well as on pediatric and neonatal life support.

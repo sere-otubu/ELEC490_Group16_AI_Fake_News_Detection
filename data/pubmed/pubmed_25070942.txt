@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25070942)
-    QUESTION: Can mass drug administration lead to the sustainable control of schistosomiasis?
-    CONTEXT: In the Philippines, the current national control strategy for schistosomiasis is annual mass drug administration (MDA) with 40 mg/kg of praziquantel in all schistosomiasis-endemic villages with a prevalence ≥10%.
-    ANSWER: MDA on its own was insufficient to control the prevalence of schistosomiasis, intensity of Schistosoma infection, or morbidity of the disease. Alternative control measures will be needed to complement the existing national MDA program.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Whey protein
-TITLE: Whey protein-polyphenol conjugates and complexes: Production, characterization, and applications.
-PMID: 34237568
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34237568/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Whey proteins are widely used as functional ingredients in various food applications owing to their emulsifying, foaming, and gelling properties. However, their functional attributes are limited in some applications because of the dependence of their performance on pH, mineral levels, and temperature. Several approaches have been investigated to enhance the functional performance of whey proteins by interacting them with polyphenols via covalent bonds (conjugates) or non-covalent bonds (complexes). The interaction of the polyphenols to the whey proteins alters their molecular characteristics, techno-functional attributes, and biological properties. Analytical methods for characterizing the properties of whey protein-polyphenol complexes and conjugates are highlighted, and a variety of potential applications within the food industry are discussed, including as antioxidants, emulsifiers, and foaming agents. Finally, areas for future research are highlighted.

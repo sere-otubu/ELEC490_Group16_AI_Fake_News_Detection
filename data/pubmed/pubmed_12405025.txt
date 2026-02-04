@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Narcolepsy
-TITLE: [Narcolepsy-cataplexy].
-PMID: 12405025
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12405025/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The diagnosis of narcolepsy-cataplexy is based on three axes: 1) the medical history is strongly suggestive when diurnal sleep attacks (narcolepsy) and drop attacks (cataplexy) are reported or observed; 2) the polysomnography is mandatory and shows nocturnal and diurnal (multiple sleep latency test) REM sleep onsets; 3) HLA typing, practically helps to exclude the diagnosis when HLA DR15-DQB1*0602 is not present. New pathogenetic hypotheses have been proposed, mostly based the absence of hypocretin in narcoleptic cerebrospinal fluid. This neurotransmitter was previously known exclusively by its involvement in alimentary behaviours. The new therapies remain symptomatic, but they are powerful to prevent somnolence, daytime sleepiness, cataplexy and insomnia associated with this syndrome.

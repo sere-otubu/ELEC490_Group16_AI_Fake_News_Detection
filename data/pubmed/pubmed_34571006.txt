@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Muscular system
-TITLE: CRISPR/Cas correction of muscular dystrophies.
-PMID: 34571006
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34571006/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Muscular dystrophies are a heterogeneous group of monogenic neuromuscular disorders which lead to progressive muscle loss and degeneration of the musculoskeletal system. The genetic causes of muscular dystrophies are well characterized, but no effective treatments have been developed so far. The discovery and application of the CRISPR/Cas system for genome editing offers a new path for disease treatment with the potential to permanently correct genetic mutations. The post-mitotic and multinucleated features of skeletal muscle provide an ideal target for CRISPR/Cas therapeutic genome editing because correction of a subpopulation of nuclei can provide benefit to the whole myofiber. In this review, we provide an overview of the CRISPR/Cas system and its derivatives in genome editing, proposing potential CRISPR/Cas-based therapies to correct diverse muscular dystrophies, and we discuss challenges for translating CRISPR/Cas genome editing to a viable therapy for permanent correction of muscular dystrophies.

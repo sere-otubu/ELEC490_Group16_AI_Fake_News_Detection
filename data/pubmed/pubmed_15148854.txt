@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Down syndrome
-TITLE: Adolescents with Down syndrome.
-PMID: 15148854
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15148854/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Adolescence is a period of transition that can create stress for both adolescents and parents. Adolescents with Down syndrome (DS) go through the same stages as other adolescents, but due to lack of cognitive and behavioral factors they and their parents may find this period particularly challenging. This paper reviews several studies, especially from the United Kingdom, of groups of adolescents with Down syndrome and their controls followed from childhood, through adolescence into adulthood. There are special medical problems for this population that require annual medical examinations and surveillance, but the focus has shifted from health problems to social maturation, developing independence, and transition from school to employment or work activity. Medical transition from a pediatric to family physician provider is mentioned with recommendations as to how that transition can be made as smooth as possible.

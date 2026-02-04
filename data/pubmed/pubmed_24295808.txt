@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vaccine types
-TITLE: Nanoparticle vaccines.
-PMID: 24295808
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24295808/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nanotechnology increasingly plays a significant role in vaccine development. As vaccine development orientates toward less immunogenic "minimalist" compositions, formulations that boost antigen effectiveness are increasingly needed. The use of nanoparticles in vaccine formulations allows not only improved antigen stability and immunogenicity, but also targeted delivery and slow release. A number of nanoparticle vaccines varying in composition, size, shape, and surface properties have been approved for human use and the number of candidates is increasing. However, challenges remain due to a lack of fundamental understanding regarding the in vivo behavior of nanoparticles, which can operate as either a delivery system to enhance antigen processing and/or as an immunostimulant adjuvant to activate or enhance immunity. This review provides a broad overview of recent advances in prophylactic nanovaccinology. Types of nanoparticles used are outlined and their interaction with immune cells and the biosystem are discussed. Increased knowledge and fundamental understanding of nanoparticle mechanism of action in both immunostimulatory and delivery modes, and better understanding of in vivo biodistribution and fate, are urgently required, and will accelerate the rational design of nanoparticle-containing vaccines.

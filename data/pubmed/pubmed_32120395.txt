@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fibromyalgia
-TITLE: Fibromyalgia.
-PMID: 32120395
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32120395/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Fibromyalgia is characterized by chronic, widespread musculoskeletal pain and associated fatigue, sleep disturbances, and other cognitive and somatic symptoms. For many patients, these symptoms persist for years and lead to frequent health care use; for some, fibromyalgia and its symptoms can be debilitating. Although many treatments are available, management remains challenging. This article highlights the clinical features of fibromyalgia, discusses diagnostic criteria and their evolution, and reviews treatment options.

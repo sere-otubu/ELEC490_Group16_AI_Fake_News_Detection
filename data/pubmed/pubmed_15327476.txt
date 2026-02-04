@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Corticosteroids
-TITLE: Corticosteroids.
-PMID: 15327476
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15327476/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Up to 5% of dermatitis patients are allergic to corticosteroids. Because such allergy may be difficult to suspect due to the anti-inflammatory action of the corticosteroid, markers for corticosteroid allergy should be present in any standard series. Budesonide and tixocortol pivalate are two such markers, and they seem to detect a majority of corticosteroid allergy. The patch test concentration for a given corticosteroid may be crucial. A false-negative reaction may follow despite the patient being allergic, if too high a test concentration is used, because of the anti-inflammatory action of the corticosteroid. Patch test readings must be performed not only on Day 3 or Day 4 but also on a late occasion, i.e., Day 7 after test application, also because the anti-inflammatory action may suppress an allergic reaction at an early reading. Once a patient has reacted to a corticosteroid, an extended corticosteroid series should be tested, so that information may be given on which corticosteroids to use and, above all, which corticosteroids to avoid.

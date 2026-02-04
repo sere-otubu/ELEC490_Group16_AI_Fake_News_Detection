@@ -1,8 +1,0 @@
-SEARCH_TOPIC: HIV AIDS
-TITLE: HIV-associated malignancies in children.
-PMID: 27685986
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27685986/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-HIV-infected children are at an increased risk of developing cancer. Many of the cancers in HIV-infected children are linked to immunosuppression and oncogenic coinfections. Worldwide most HIV-infected children live in sub-Saharan Africa, but cancer data for this population are scarce. In this article, we review the current literature on the epidemiology and prevention of cancer in HIV-infected children. Combined antiretroviral therapy (cART) reduces the risk of developing cancer in HIV-infected children. Cancer risk remains increased in children who start cART at older ages or more advanced immunosuppression as compared with children who start cART at younger age and with mild immunosuppression. Starting cART before severe immunosuppression develops is key to prevent cancer in HIV-infected children but most children in low-income countries start cART at severe immunosuppression levels. Vaccination against high-risk variants of human papillomavirus may protect again human papillomavirus-associated cancer later in life. However, tailoring of human papillomavirus vaccination guidelines for HIV-infected children and young women awaits answers to determine the best vaccination strategies. Better data on the short-term and long-term risks of developing cancer and the effects of preventive measures in HIV-infected children from regions with high burden of HIV/AIDS are urgently needed.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Addisons disease
-TITLE: Glucocorticoid replacement therapy in patients with Addison's disease.
-PMID: 17425469
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17425469/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-One hundred and fifty years ago, Thomas Addison published his classic paper on the 'Constitutional and Local Effects of Disease of the Supra-renal Capsules', in which he described 11 patients with the disorder that would come to bear his name. Adrenal insufficiency is a rare disease, but its prevalence is increasing. The most frequent causes of adrenal insufficiency in western countries are autoimmune adrenalitis, but other causes include, tuberculosis systemic fungal infections, AIDS, metastatic carcinoma and isolated glucocorticoid deficiency. It is clear that autoimmunity precedes overt Addison's disease by years, as in many autoimmune endocrine disorders. Adrenocortical function is lost over a period of years as it progresses to overt Addison's disease. This editorial discusses the controversial glucocorticoid replacement therapy in patients with Addison's disease, and aims to provide a good review of literature and suggested guidelines for appropriate treatment of this disease.

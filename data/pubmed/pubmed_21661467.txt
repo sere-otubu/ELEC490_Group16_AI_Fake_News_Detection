@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Deep vein thrombosis
-TITLE: Deep vein thrombosis.
-PMID: 21661467
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21661467/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Occlusive clot formation in the veins causes venous thrombosis, the site most common in the deep veins of leg, called deep vein thrombosis. The clot can block blood flow and when it breaks off, called an embolism which in turn can damage the vital organs. Venous thrombosis occurs via three mechanisms ie, Virchow's triad. The mechanisms are decreased flow rate of blood, damage to the blood vessel wall and an increased tendency of the blood to clot. There are several factors which can increase a person's risk for deep vein thrombosis. The symptoms of deep vein thrombosis in the legs are pain, swelling and redness of the part. One variety of venous thrombosis is phlegmasia alba dolens where the leg becomes pale and cool. Investigations include Doppler ultrasound examination of the limb, D-dimer blood test, plethysmography of the legs, x-rays to show vein in the affected area (venography). Hospitalisation is necessary in some cases with some risk factors. The mainstream of treatment is with anticoagulants, mostly low molecular weight heparin for 6 months. Deep venous thrombosis is a rising problem. Early diagnosis and treatment is associated with a good prognosis.

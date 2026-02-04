@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Organic foods
-TITLE: [Organic foods and human health: a study of controversies].
-PMID: 22858819
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22858819/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The study of controversies is a methodological tool that generates knowledge about the social and political dimensions of science. This approach can be used to understand and explore the topic of organic foods. The present study aimed to analyze the controversies regarding the status of organic foods. We carried out a review of studies published since 1990 in three websites: International Foundation for Organic Agriculture, Soil Association, and Food and Agriculture Organization. The following controversies were identified: 1) effects on human health of the presence of chemical contaminants in organic foods; 2) the quality of organic foods as compared to conventionally grown foods; and 3) price of organic foods. Based on this review, it is possible to conclude that, even though organic foods stand out for their low toxicity, higher durability, and nutritional content of some items, more comparative studies are required to confirm the nutritional superiority of organic foods and to solve the controversies. The discussion must be contextualized within a broad spectrum of health promotion, in which organic farming appears associated with the support for small farming, biodiversity, and local sustainable development, so as to increase offer and demand for organic products at fair prices for individual and institutional consumers.

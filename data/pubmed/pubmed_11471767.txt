@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vertigo
-TITLE: Vertigo.
-PMID: 11471767
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11471767/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Vertigo is a common symptom among outpatients. There are several causes for vertigo, and each cause requires a specific treatment. Depending on the cause, treatment includes change in drugs, physical therapy, bedside maneuvers, life style, and diet. All forms of treatment can be done by neurologists in an outpatient setting.

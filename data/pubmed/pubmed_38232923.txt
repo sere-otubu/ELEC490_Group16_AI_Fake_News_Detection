@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Keto diet
-TITLE: Ketogenic diet and cardiovascular risk - state of the art review.
-PMID: 38232923
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38232923/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The ketogenic diet is based on extreme carbohydrate intake reduction and replacing the remaining with fat and has become a popular dietary pattern used for weight loss. The relationship between the ketogenic diet and cardiovascular risk is a controversial topic. This publication aimed to present evidence on the ketogenic diet and cardiovascular risk factors and mortality. The ketogenic diet does not fulfill the criteria of a healthy diet. It presents the potential for rapid short-term reduction of body mass, triglycerides level, Hb1Ac, and blood pressure. Its efficacy for weight loss and the above-mentioned metabolic changes is not significant in long-term observations. In terms of cardiovascular mortality, the low-carb pattern is more beneficial than very low-carbohydrate (including the ketogenic diet). There is still scarce evidence comparing ketogenic to the Mediterranean diet. Other safety concerns in cardiovascular patients such as adverse events related to ketosis, fat-free mass loss, or potential pharmacological interactions should be also taken into consideration in future research.

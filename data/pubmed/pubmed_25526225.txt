@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Erectile dysfunction
-TITLE: Erectile dysfunction and cardiovascular disease.
-PMID: 25526225
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25526225/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Erectile dysfunction (ED) is often a comorbid condition commonly associated with cardiovascular disease (CVD). It is important for physicians to understand that the relationship between ED and CVD is not a coincidence but rather a warning signal. The fact that the symptoms of ED normally arise before the symptoms of a cardiovascular event gives physicians the unique opportunity to see the possible future of their patients' cardiovascular health. Vascular disease is the most common cause of ED. This article reviews the incidence of CVD and ED, the pathophysiology of ED, the risk factors associated with ED and CVD, and the evaluation and treatment options for men with ED, and discusses how ED may serve as an early warning for cardiovascular disease.

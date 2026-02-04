@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Massage therapy
-TITLE: Massage therapy.
-PMID: 11795087
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11795087/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The author and other investigators have documented improvement in several medical and psychiatric conditions after massage therapy, including growth in preterm infants, depression and addictive problems, pain syndromes, and immune and autoimmune conditions. Although some potential underlying mechanisms have been explored for the massage therapy-improved clinical condition relationship, including decreased stress (and decreased cortisol), improved sleep patterns, and enhanced immune function, further research is needed in this area.

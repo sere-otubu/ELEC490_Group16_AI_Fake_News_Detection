@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Major depressive disorder
-TITLE: Psychological Treatment of Depression in Primary Care: Recent Developments.
-PMID: 31760505
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31760505/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-We give an overview of recent developments on psychological treatments of depression in primary care. In recent years, it has become clear that psychotherapies can effectively be delivered through e-health applications. Furthermore, several studies in low and middle income countries have shown that lay health counselors can effectively deliver psychological therapies. Behavioral activation, a relatively simple form of therapy, has been found to be as effective as cognitive behavior therapy. Treatment of subthreshold depression has been found to not only reduce depressive symptoms but also prevent the onset of major depression. In addition, therapies are effective in older adults, patients with general medical disorders and in perinatal depression. Psychological therapies are effective in the treatment of depression in primary care, have longer lasting effects than drugs, are preferred by the majority of patients, and can be applied flexibly with different formats and across different target groups.

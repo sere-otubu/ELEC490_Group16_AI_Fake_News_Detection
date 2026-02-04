@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Joint replacement
-TITLE: Temporomandibular joint replacement periprosthetic joint infections: a review of early diagnostic testing options.
-PMID: 25048029
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25048029/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The incidence of a periprosthetic joint infection is uncommon after total joint replacement. Since the clinical, psychological, and economic consequences of this complication are substantial, the development of management algorithms based on early diagnostic testing has been the subject of continued exploration in the orthopaedic literature. While there has been discussion of this topic in the total temporomandibular joint replacement literature and preliminary management algorithms have been established, no diagnostic testing protocols have been proposed or studied for the management of early and/or late periprosthetic joint infections. This paper will review the classification of periprosthetic joint infections, the associated risk factors, the clinical sensitivity and specificity of laboratory and imaging diagnostic studies and their utility in the management of early and late onset orthopaedic periprosthetic joint infections. This review may provide an initial framework for the use of early diagnostic testing for the management of total temporomandibular joint replacement periprosthetic joint infections and stimulate further investigation into this topic.

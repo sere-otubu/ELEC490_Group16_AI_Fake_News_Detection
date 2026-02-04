@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rural healthcare
-TITLE: Four persistent rural healthcare challenges.
-PMID: 27744280
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27744280/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Today, 25% of Canadians live in rural and remote parts of Canada. The evidence is that these Canadians do not enjoy the same health status as citizens living in more urban settings. This article explores four persistent healthcare challenges: population demographics, place, professionals, and public participation. By exploring solutions that some rural communities have used to address these challenges, this article aims to provide insights into lessons that have been learned that they may be considered and potentially applied to both rural and urban environments in the interest of better healthcare for all.

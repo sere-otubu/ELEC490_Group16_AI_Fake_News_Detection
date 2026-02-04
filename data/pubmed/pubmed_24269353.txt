@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dopamine
-TITLE: Dopamine and extinction: a convergence of theory with fear and reward circuitry.
-PMID: 24269353
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24269353/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Research on dopamine lies at the intersection of sophisticated theoretical and neurobiological approaches to learning and memory. Dopamine has been shown to be critical for many processes that drive learning and memory, including motivation, prediction error, incentive salience, memory consolidation, and response output. Theories of dopamine's function in these processes have, for the most part, been developed from behavioral approaches that examine learning mechanisms in reward-related tasks. A parallel and growing literature indicates that dopamine is involved in fear conditioning and extinction. These studies are consistent with long-standing ideas about appetitive-aversive interactions in learning theory and they speak to the general nature of cellular and molecular processes that underlie behavior. We review the behavioral and neurobiological literature showing a role for dopamine in fear conditioning and extinction. At a cellular level, we review dopamine signaling and receptor pharmacology, cellular and molecular events that follow dopamine receptor activation, and brain systems in which dopamine functions. At a behavioral level, we describe theories of learning and dopamine function that could describe the fundamental rules underlying how dopamine modulates different aspects of learning and memory processes.

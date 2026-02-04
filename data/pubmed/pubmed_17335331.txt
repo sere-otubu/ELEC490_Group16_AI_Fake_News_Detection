@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17335331)
-    QUESTION: Diagnostic characteristics of child bipolar I disorder: does the "Treatment of Early Age Mania (team)" sample generalize?
-    CONTEXT: To examine the representativeness of a randomized controlled trial (RCT) sample versus one obtained by consecutive new case ascertainment, for subjects with child bipolar I disorder.
-    ANSWER: Generalization of the RCT sample was supported, because only 7.8% of Phenomenology subjects did not fit the RCT criteria. Nevertheless, because the RCT subjects were more severely ill, it is unclear if treatment findings from the RCT will be applicable to children with less severe mania.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Prostate cancer
-TITLE: Prostate cancer: measuring PSA.
-PMID: 24816306
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24816306/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Population screening with prostate-specific antigen (PSA) for detection of prostate cancer is a topic associated with ongoing dissent and confusion within the oncology and wider medical community. The PSA blood test has been used in various stages of prostate cancer management, including screening and the assessment of future risk of prostate cancer development, detection of recurrent disease after local therapy and in the management of advanced disease. However, PSA-based decision-making in prostate cancer has significant shortcomings. This review will summarise the evidence and current recommendations for the use of PSA in detection and management of prostate cancer.

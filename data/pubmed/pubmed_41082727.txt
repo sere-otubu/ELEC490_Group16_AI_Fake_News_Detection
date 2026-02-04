@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Coronary artery disease
-TITLE: Chronic Coronary Artery Disease.
-PMID: 41082727
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41082727/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chronic coronary artery disease (CCAD) is a leading cause of death in the United States and many other countries. The defining pathobiology is an imbalance between the metabolic demands of the myocardium and oxygen supply, which most often results from coronary artery atherosclerosis. The classic presenting symptom of CCAD is angina, but clinical presentation varies greatly among patients. Since the last In the Clinic on CCAD (previously termed "stable ischemic heart disease") in 2019, several new medications have been approved to reduce ischemic complications.

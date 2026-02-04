@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Epidemiology basics
-TITLE: Epidemiology basics for occupational health nurses.
-PMID: 17260678
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17260678/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Epidemiology speaks to the risk of disease, injury, or death. The purpose of epidemiology is to predict disease (or injury or death) based on risk factors or exposures. Results are communicated with caution, to avoid unjustly labeling a risk factor as a "cause" of disease. Although an individual may be at increased risk for a given disease, there is often no way to predict if or when that individual will actually contract the disease. Rather, epidemiology is a tool to assess populations and improve the health of the general public.

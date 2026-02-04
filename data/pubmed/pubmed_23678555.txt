@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Asthma
-TITLE: Asthma phenotypes today.
-PMID: 23678555
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23678555/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-PubMed databases were searched for articles regarding asthma phenotypes. Asthma has long been recognized as a heterogeneous disease, with hallmark features including age of onset, pattern of severity and other clinical characteristics, but recently it is no longer considered as single disease but rather as a series of complex, overlapping individual phenotypes, and a novel classification of the disease according to the nature of the underlying airway inflammation has been suggested. It has become increasingly clear that asthma is a complex syndrome. Recognition of specific subphenotypes may improve our understanding of underlying genetic basis and of pathophysiologic mechanisms as well as of response to treatment.

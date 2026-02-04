@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Basal cell carcinoma
-TITLE: Basal cell carcinoma.
-PMID: 3630884
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3630884/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Basal cell carcinoma is increasing rapidly in the United States. Difficulties in diagnosis are presented not only by the carcinoma's pleomorphic nature but also by its close resemblance to several benign cutaneous neoplasms. Early diagnosis and appropriate treatment require a thorough understanding of the clinical types and the varying clinical behavior of this multifaceted tumor, as well as the advantages and limitations of the therapeutic options.

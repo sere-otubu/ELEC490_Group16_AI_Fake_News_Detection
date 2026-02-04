@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Palliative care
-TITLE: Palliative care needs assessment in chronic heart failure.
-PMID: 29206704
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29206704/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The unmet palliative care needs of patients with chronic heart failure (CHF) are well known. Palliative care needs assessment is paramount for timely provision of palliative care. The present review provides an overview of palliative care needs assessment in patients with CHF: the role of prognostic tools, the role of the surprise question, and the role of palliative care needs assessment tools. Multiple prognostic tools are available, but offer little guidance for individual patients. The surprise question is a simple tool to create awareness about a limited prognosis, but the reliability in CHF seems less than in oncology and further identification and assessment of palliative care needs is required. Several tools are available to identify palliative care needs. Data about the ability of these tools to facilitate timely initiation of palliative care in CHF are lacking. Several tools are available aiming to facilitate timely introduction of palliative care. Focus on identification of needs rather than prognosis appears to be more fitting for people with CHF. Future studies are needed to explore whether and to what extent these tools can help in addressing palliative care needs in CHF in a timely manner.

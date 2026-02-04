@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Electrolytes
-TITLE: [Hyponatremia and Electrolyte Disorders in Cancer Patients].
-PMID: 38007830
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38007830/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Onconephrology is a rising and rapidly expanding field of medicine in which nephrology and oncology meet each other. Besides multidisciplinary meetings, oncologists and nephrologists often discuss on timing of the treatment, dosage, and side effects management. Cancer patients often encounter different electrolyte disorders. They are mostly secondary to the tumor itself or consequences of its treatment. In the last years, the great efforts to find new therapies like targeted, immune, and cell-based led us to many new side effects. Hyponatremia, hypokalemia, hyperkalemia, hypercalcemia, and hypomagnesemia are among the most common electrolyte disorders. Data have shown a worse prognosis in patients with electrolytic imbalances. Additionally, they cause a delay in chemotherapy or even an interruption. It is important to diagnose promptly these complications and treat them. In this review, we provide a special focus on hyponatremia and its treatment as the most common electrolytes disorder in cancer patients, but also on newly described cases of hypo- and hyperkalemia and metabolic acidosis.

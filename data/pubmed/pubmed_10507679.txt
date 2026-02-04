@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vitamins and minerals
-TITLE: Vitamins and minerals.
-PMID: 10507679
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10507679/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Increasing attention has been given in recent years to the importance of diet in promoting health and preventing illness. The benefits of specific food components that expand the role of diet in health promotion have been identified. With a variety of compounds readily available to consumers, more people are taking self-prescribed supplemental nutrients to maintain or improve health. Vitamins and minerals are essential to the health of women across the lifespan, but deficiencies may occur because of inadequate diet; life-style choices and habits; increased requirements during growth, menstruation, pregnancy, and lactation; menopause; and illness. Critical knowledge for women's health care practitioners includes the recommended daily allowances of vitamins and minerals, sources, factors affecting dietary intake and use, and considerations for nutritional assessment and intervention.

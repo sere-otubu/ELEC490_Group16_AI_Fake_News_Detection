@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Aging population challenges
-TITLE: The challenges of human population ageing.
-PMID: 25452294
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25452294/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The 20th century saw an unprecedented increase in average human lifespan as well as a rapid decline in human fertility in many countries of the world. The accompanying worldwide change in demographics of human populations is linked to unanticipated and unprecedented economic, cultural, medical, social, public health and public policy challenges, whose full implications on a societal level are only just beginning to be fully appreciated. Some of these implications are discussed in this commentary, an outcome of Cultures of Health and Ageing, a conference co-sponsored by the University of Copenhagen (UCPH) and the Center for Healthy Ageing at UCPH, which took place on 20-21 June 2014 in Copenhagen, Denmark. Questions discussed here include the following: what is driving age-structural change in human populations? how can we create 'age-friendly' societies and promote 'ageing-in-community'? what tools will effectively promote social engagement and prevent social detachment among older individuals? is there a risk that further extension of human lifespan would be a greater burden to the individual and to society than is warranted by the potential benefit of longer life?

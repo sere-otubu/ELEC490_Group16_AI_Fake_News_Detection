@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chlamydia
-TITLE: What Can Serology Tell Us About the Burden of Infertility in Women Caused by Chlamydia?
-PMID: 34396401
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34396401/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chlamydia trachomatis (CT) causes pelvic inflammatory disease, which may result in tubal factor infertility (TFI) in women. Serologic assays may be used to determine the proportion of women with and without TFI who have had previous CT infection and to generate estimates of infertility attributable to chlamydia. Unfortunately, most existing CT serologic assays are challenged by low sensitivity and, sometimes, specificity for prior CT infection; however, they are currently the only available tests available to detect prior CT infection. Modeling methods such as finite mixture modeling may be a useful adjunct to quantitative serologic data to obtain better estimates of CT-related infertility. In this article, we review CT serological assays, including the use of antigens preferentially expressed during upper genital tract infection, and suggest future research directions. These methodologic improvements, coupled with creation of new biomarkers for previous CT infection, should improve our understanding of chlamydia's contribution to female infertility.

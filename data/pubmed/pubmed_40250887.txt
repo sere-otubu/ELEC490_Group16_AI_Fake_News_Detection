@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cushings syndrome
-TITLE: Primary Hypercortisolism.
-PMID: 40250887
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40250887/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Primary hypercortisolism, commonly known as Cushing's syndrome, is an endocrine disorder characterized by excessive cortisol production by the adrenal glands, independent of adrenocorticotropic hormone stimulation. This disorder presents with a wide range of clinical manifestations, including metabolic, cardiovascular, and psychological disturbances, making its diagnosis and management complex. This document aims to provide a detailed review of primary hypercortisolism, including its pathophysiology, clinical presentation, diagnostic approaches, and treatment modalities. Special attention is given to the molecular mechanisms underlying cortisol overproduction, differential diagnosis from other forms of Cushing's syndrome, and the challenges posed by this condition in clinical practice.

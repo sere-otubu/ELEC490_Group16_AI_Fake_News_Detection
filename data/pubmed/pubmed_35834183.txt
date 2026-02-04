@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Opioid addiction
-TITLE: The effect of stress on opioid addiction-related behaviors: A review of preclinical literature.
-PMID: 35834183
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35834183/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Opioid misuse is a critical public health crisis in the United States that results in over 50,000 deaths per year and a substantial economic burden to society. Human epidemiological data suggest that exposure to stress is one of many risk factors for opioid misuse; however, opioid abusers tend to have multiple risk factors and use other drugs in addition to opioids. To identify causal mechanisms by which stress may increase risk, preclinical animal experiments provide a means to conduct experimental manipulations and maintain precise controls over environmental and drug exposures. The current review examines how stressful experiences alter opioid addiction-related behaviors in animal models, with a focus on how age of stress exposure affects drug outcomes. The findings summarized here suggest that neonatal or adult stress increase behaviors indicative of opioid intake and reward in rodent models, but that adolescent social stress may protect against later opioid addiction-related behaviors, which contradicts human epidemiological literature. We highlight three important areas to consider across this body of literature: the species and/or strain used, stressor type, and inclusion of both sexes. Finally, we suggest areas where additional research is warranted. (PsycInfo Database Record (c) 2023 APA, all rights reserved).

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26133538)
-    QUESTION: Does oral α-galactosidase relieve irritable bowel symptoms?
-    CONTEXT: Abdominal bloating is reported by a majority of irritable bowel syndrome (IBS) patients. Excess colonic fermentation may cause gaseous symptoms. Several foodstuffs contain oligosaccharides with an α-galactosidic linkage that is resistant to mammalian hydrolases. Assisted hydrolysis by exogenous α-galactosidase enzyme (AG) could offer a way of controlling IBS symptoms by reducing colonic fermentation and gas production. The aim of this study was to assess the effect of AG on symptom severity and quality of life in IBS patients with abdominal bloating or flatulence.
-    ANSWER: We found no evidence to support the use of AG routinely in IBS patients. Improvement of clinical response at 4-week follow-up may suggest a long-term effect of unknown mechanism, but could also be attributed to non-responder drop out. Gastrointestinal (GI) side effects may be a coincidence in this study, but irritation of GI tract by AG administration cannot be excluded.
-    

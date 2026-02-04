@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Digestion process
-TITLE: Non-Pancreatic Digestive Enzymes.
-PMID: 41008568
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41008568/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although the pancreas is the organ that produces the most critical digestive enzymes, there are other important contributors to the cleavage of food into absorbable units. Pre-pancreatic digestion of carbohydrates occurs through the action of salivary amylase. Pre-pancreatic digestion of fats is mediated by lingual and gastric lipases, and their action may be important as a signal for coordinated digestion. Pepsin, which is present in the stomach, initiates the digestion of dietary proteins into peptides and amplifies distal proteolysis. The major post-pancreatic intestinal carbohydrate-digesting enzymes are sucrase-isomaltase, maltase-glucoamylase and lactase-phlorizin hydrolase. There are no post-pancreatic mucosal enzymes that act on dietary triglycerides; however, the complete digestion of phospholipids depends on several brush border phospholipases. Intestinal processing is an important contributor to digestion of proteins, although mucosal proteases may serve as signaling proteins rather than as primary adjuncts to dietary protein digestion and absorption. This review describes the role of these non-pancreatic digestive enzymes in supporting nutritional health.

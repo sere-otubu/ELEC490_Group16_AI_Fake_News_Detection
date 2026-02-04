@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chromosomes
-TITLE: Chromosomics.
-PMID: 16103649
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16103649/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The term "chromosomics" is introduced to draw attention to the three-dimensional morphological changes in chromosomes that are essential elements in gene regulation. Chromosomics deals with the plasticity of chromosomes in relation to the three-dimensional positions of genes, which affect cell function in a developmental and tissue-specific manner during the cell cycle. It also deals with species-specific differences in the architecture of chromosomes, which has been overlooked in the past. Chromosomics includes research into chromatin-modification-mediated changes in the architecture of chromosomes, which may influence the functions and life-spans of cells, tissues, organs and individuals. It also addresses the occurrence and prevalence of chromosomal gaps and breaks.

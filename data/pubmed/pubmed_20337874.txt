@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20337874)
-    QUESTION: Delayed diagnosis of anorectal malformations: are current guidelines sufficient?
-    CONTEXT: Infants referred to our institution with a final diagnosis of ARM were retrospectively reviewed between 2001 and 2009. The first cohort consisted of patients that were referred between November 2001 and November 2006 with the diagnosis of an ARM that had been delayed for more than 48 h. The second cohort was those referred between December 2006 and May 2009 with whom the diagnosis of ARM had not been made within 24 h of birth.
-    ANSWER: Delayed diagnosis of an ARM appears to be common, occurring in approximately 32% of patients referred to our institution over the last 2.5 years. Current guidelines appear insufficient to ensure prompt diagnosis of ARM.
-    

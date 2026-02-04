@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21123461)
-    QUESTION: Are adult body circumferences associated with height?
-    CONTEXT: Weight scales as height squared, which is an observation that forms the basis of body mass index (weight/height(2)). If, and how, circumferences, including waist circumference (WC) and hip circumference (HC), scale to height remains unclear, but this is an important consideration when developing normative ranges or applying WC/height and HC/height as risk indexes.
-    ANSWER: Circumferences and related ratios scale significantly to height, notably after adjustment for age and race, across subjects who are representative of the US population. These observations have implications for the clinical and epidemiologic use of these anthropometric measures and indexes.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Insulin regulation
-TITLE: Insulin regulates brain function, but how does it get there?
-PMID: 25414013
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25414013/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-We have learned over the last several decades that the brain is an important target for insulin action. Insulin in the central nervous system (CNS) affects feeding behavior and body energy stores, the metabolism of glucose and fats in the liver and adipose, and various aspects of memory and cognition. Insulin may even influence the development or progression of Alzheimer disease. Yet, a number of seemingly simple questions (e.g., What is the pathway for delivery of insulin to the brain? Is insulin's delivery to the brain mediated by the insulin receptor and is it a regulated process? Is brain insulin delivery affected by insulin resistance?) are unanswered. Here we briefly review accumulated findings affirming the importance of insulin as a CNS regulatory peptide, examine the current understanding of how peripheral insulin is delivered to the brain, and identify key gaps in the current understanding of this process.

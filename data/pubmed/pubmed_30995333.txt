@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tetanus shot
-TITLE: Talk to Patients About: Tetanus.
-PMID: 30995333
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30995333/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Almost all U.S. tetanus cases occur among people who are unvaccinated or did not receive a booster shot, according to the U.S. Centers for Disease Control and Prevention.

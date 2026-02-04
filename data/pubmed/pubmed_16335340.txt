@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Appendicitis
-TITLE: Appendicitis imaging.
-PMID: 16335340
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16335340/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Classic symptoms of appendicitis include right lower quadrant pain on palpation, loss of appetite, nausea and vomiting. However, only about half of patients present with these characteristic symptoms. The remainder of patients must undergo some type of diagnostic study to verify or rule out appendicitis. This article describes the types of medical imaging that are used to evaluate possible appendicitis, including conventional abdominal radiography, ultrasound, computed tomography and nuclear medicine imaging.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Processed foods
-TITLE: Ultra-Processed Foods: A Narrative Review of the Impact on the Human Gut Microbiome and Variations in Classification Methods.
-PMID: 38892671
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38892671/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Ultra-processed foods (UPFs) are foods that are industrially processed and are often pre-packaged, convenient, energy-dense, and nutrient-poor. UPFs are widespread in the current Western diet and their proposed contribution to non-communicable diseases such as obesity and cardiovascular disease is supported by numerous studies. UPFs are hypothesized to affect the body in multiple ways, including by inducing changes in the gut microbiome. This review summarizes the available research on the effect of UPFs on the gut microbiome. We also review current usage of the NOVA food classification system in randomized controlled trials and observational studies and how its implementation effects UPF research. Despite some differences in methodology between studies, results often associate UPF consumption with a number of negative health consequences. There are attempts to standardize a UPF classification system; however, reaching and implementing a consensus is difficult. Future studies focusing on the mechanisms by which UPFs effect the body, including through the microbiome and metabolome, will be essential to refine our understanding of the effects of UPFs on human health.

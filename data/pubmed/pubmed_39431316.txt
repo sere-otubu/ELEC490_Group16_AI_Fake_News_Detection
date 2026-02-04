@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep apnea
-TITLE: Sleep-disordered breathing - clinical spectrum.
-PMID: 39431316
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39431316/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The clinical spectrum of sleep-disordered breathing comprises a range of diverse conditions including obstructive sleep apnoea, central sleep apnoea and sleep-related hypoventilation syndromes. These distinct conditions have specific diagnostic features and are managed differently from one another. Therefore, it is useful for dental practitioners to have a working knowledge of sleep-disordered breathing beyond that of uncomplicated obstructive sleep apnoea (OSA). This review paper summarizes the diagnosis and management of commonly encountered clinical sleep-disordered breathing syndromes, with a particular focus on management from a dental perspective.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Beta blockers
-TITLE: Beta-blockers and the treatment of aggression.
-PMID: 9384911
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9384911/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review assesses the usefulness of beta-blockers in the treatment of aggression and describes the parameters for their clinical use. A Medline search using the terms "beta-blockers," "aggression," "propranolol," and "brain injury" identified relevant journal articles published in English between 1977 and 1993. Open, prospective and double-blind, placebo-controlled studies, as well as case reports, were included. Beta-blockers appear to be effective in decreasing the frequency and intensity of aggressive outbursts associated with a wide variety of conditions, such as dementias, attention-deficit disorder, personality disorders, Korsakoff's psychosis, posttraumatic stress disorder, schizophrenia, profound mental retardation, autism, and brain injury. A general discussion attempts to resolve some of the issues surrounding the possible mechanisms of beta-blocker effects, reviews the anatomic and neurochemical bases of aggression, and explores implications of the clinical use of beta-blockers.

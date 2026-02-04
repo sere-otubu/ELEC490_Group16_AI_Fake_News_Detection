@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Muscular system
-TITLE: Enhanced CRISPR-Cas9 correction of Duchenne muscular dystrophy in mice by a self-complementary AAV delivery system.
-PMID: 32128412
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32128412/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Duchenne muscular dystrophy (DMD) is a lethal neuromuscular disease caused by mutations in the dystrophin gene (<i>DMD</i>). Previously, we applied CRISPR-Cas9-mediated "single-cut" genome editing to correct diverse genetic mutations in animal models of DMD. However, high doses of adeno-associated virus (AAV) are required for efficient in vivo genome editing, posing challenges for clinical application. In this study, we packaged Cas9 nuclease in single-stranded AAV (ssAAV) and CRISPR single guide RNAs in self-complementary AAV (scAAV) and delivered this dual AAV system into a mouse model of DMD. The dose of scAAV required for efficient genome editing were at least 20-fold lower than with ssAAV. Mice receiving systemic treatment showed restoration of dystrophin expression and improved muscle contractility. These findings show that the efficiency of CRISPR-Cas9-mediated genome editing can be substantially improved by using the scAAV system. This represents an important advancement toward therapeutic translation of genome editing for DMD.

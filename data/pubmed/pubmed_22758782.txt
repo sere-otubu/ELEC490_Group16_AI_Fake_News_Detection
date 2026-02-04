@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22758782)
-    QUESTION: Regional anesthesia as compared with general anesthesia for surgery in geriatric patients with hip fracture: does it decrease morbidity, mortality, and health care costs?
-    CONTEXT: Hip fracture in geriatric patients has a substantial economic impact and represents a major cause of morbidity and mortality in this population. At our institution, a regional anesthesia program was instituted for patients undergoing surgery for hip fracture. This retrospective cohort review examines the effects of regional anesthesia (from mainly after July 2007) vs general anesthesia (mainly prior to July 2007) on morbidity, mortality and hospitalization costs.
-    ANSWER: There is no difference in postoperative morbidity, rates of rehospitalization, in-patient mortality or hospitalization costs in geriatric patients undergoing regional or general anesthesia for repair of hip fracture. Delay in surgery beyond 3 days and ICU admission both increase cost of hospitalization.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Robotic surgery
-TITLE: Robotic-assisted surgery for the treatment of urologic cancers: recent advances.
-PMID: 32342705
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32342705/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-As the medical field is moving toward personalized and tailored approaches, we entered the era of precision surgery for the management of genitourinary cancers1. This is facilitated by the implementation of new technologies, among which robotic surgery stands out for the significant impact in the surgical field over the last two decades. This article reviews the latest evidence on robotic surgery for the treatment of urologic cancers, including prostate, kidney, bladder, testis, and penile cancer. Functional and oncologic outcomes, new surgical techniques, new imaging modalities, and new robotic platforms are discussed. Robotic surgery had a growing role in the management of genitourinary cancers over the past 10 years. Despite a lack of high-quality evidence comparing the effectiveness of robotic to open surgery, the robotic approach allowed a larger adoption of a minimally invasive surgical approach, translating into lower surgical morbidity and shorter hospital stay. New robotic platforms might allow to explore novel surgical approaches, and new technologies might facilitate surgical navigation and intraoperative identification of anatomical structures, allowing a more tailored and precise surgery. It is an exciting time for robotic surgery, and upcoming technological advances will offer better outcomes to urologic cancer patients.

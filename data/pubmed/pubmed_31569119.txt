@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Weight gain strategies
-TITLE: Weight Gain After Smoking Cessation and Lifestyle Strategies to Reduce it.
-PMID: 31569119
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31569119/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Weight gain following smoking cessation reduces the incentive to quit, especially among women. Exercise and diet interventions may reduce postcessation weight gain, but their long-term effect has not been estimated in randomized trials. We estimated the long-term reduction in postcessation weight gain among women under smoking cessation alone or combined with (1) moderate-to-vigorous exercise (15, 30, 45, 60 minutes/day), and (2) exercise and diet modification (≤2 servings/week of unprocessed red meat; ≥5 servings/day of fruits and vegetables; minimal sugar-sweetened beverages, sweets and desserts, potato chips or fried potatoes, and processed red meat). Among 10,087 eligible smokers in the Nurses' Health Study and 9,271 in the Nurses' Health Study II, the estimated 10-year mean weights under smoking cessation were 75.0 (95% CI = 74.7, 75.5) kg and 79.0 (78.2, 79.6) kg, respectively. Pooling both cohorts, the estimated postcessation mean weight gain was 4.9 (7.3, 2.6) kg lower under a hypothetical strategy of exercising at least 30 minutes/day and diet modification, and 5.9 (8.0, 3.8) kg lower under exercising at least 60 minutes/day and diet modification, compared with smoking cessation without exercising. In this study, substantial weight gain occurred in women after smoking cessation, but we estimate that exercise and dietary modifications could have averted most of it.

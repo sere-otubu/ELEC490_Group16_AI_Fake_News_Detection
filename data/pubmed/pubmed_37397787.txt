@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Metformin
-TITLE: Metformin: A Review of Potential Mechanism and Therapeutic Utility Beyond Diabetes.
-PMID: 37397787
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37397787/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Metformin has been designated as one of the most crucial first-line therapeutic agents in the management of type 2 diabetes mellitus. Primarily being an antihyperglycemic agent, metformin also has a plethora of pleiotropic effects on various systems and processes. It acts majorly by activating AMPK (Adenosine Monophosphate-Activated Protein Kinase) in the cells and reducing glucose output from the liver. It also decreases advanced glycation end products and reactive oxygen species production in the endothelium apart from regulating the glucose and lipid metabolism in the cardiomyocytes, hence minimizing the cardiovascular risks. Its anticancer, antiproliferative and apoptosis-inducing effects on malignant cells might prove instrumental in the malignancy of organs like the breast, kidney, brain, ovary, lung, and endometrium. Preclinical studies have also shown some evidence of metformin's neuroprotective role in Parkinson's disease, Alzheimer's disease, multiple sclerosis and Huntington's disease. Metformin exerts its pleiotropic effects through varied pathways of intracellular signalling and exact mechanism in the majority of them remains yet to be clearly defined. This article has extensively reviewed the therapeutic benefits of metformin and the details of its mechanism for a molecule of boon in various conditions like diabetes, prediabetes, obesity, polycystic ovarian disease, metabolic derangement in HIV, various cancers and aging.

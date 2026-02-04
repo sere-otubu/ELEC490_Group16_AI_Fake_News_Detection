@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antioxidants
-TITLE: Antioxidants protection against cancer and other human diseases.
-PMID: 7697981
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7697981/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Antioxidants are of primary value biologically by restricting the damage that reactive free radicals can do to the cell and the cellular components. Antioxidants may afford varying degrees of protection against the cell damage caused by these reactive oxygen free radicals. The antioxidant(s) is/are much more likely to be effective against chemical carcinogens that are metabolically activated to the reactive free-radical intermediates that are self-propagating than in situations where the metabolic activation results in nonradical reactive intermediates, such as epoxides or carbonium ions. Free-radical disturbances may be of primary and major significance in some important human diseases and intoxication, administration and/or intake may turn out to be of substantial value in the treatment of such cases. However, there are a number of dietary antioxidants that have been identified that would help us to understand how the antioxidants function, and some are still in the process of development and testing. This understanding should prove to be valuable in treating diseases that have as their basis some oxidants or free-radical involvements.

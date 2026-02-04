@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Migraine
-TITLE: [Menstrual migraine].
-PMID: 18265590
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18265590/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The prevalence of migraine in childhood and adolescence has not changed to a great extent, but it increases in adolescence, especially in female adolescents. MENSTRUAL MIGRAINE--DEFINITION: There are two types of menstrual migraine: true menstrual migraine and menstrually related migraine. True menstrual migraine occurs predominantly around menstruation, whereas menstrually related migraine occurs during menstruation, but also at other times during the month. Exaggerated or abnormal neurotransmitter responses to normal cyclic changes in the ovarian hormones are probably the basic cause of menstrual migraines. The fall in estrogen levels during menstrual cycle is trigger for the menstrual migraine. Menstrual migraine has the same symptoms as other types of migraine, but the pain is stronger, it lasts longer, and it is more frequent than other types of migraines. In order to make a diagnosis, women are asked to keep a headache diary for three months. If the migraine headache is severe and occurs regularly between two days before and three days after the start of menstrual bleeding, it is true menstrual migraine. Menstrual migraines are more difficult to treat than other types of migraines. Treatment principles for menstrual migraine are the same as for migraines in general, with certain particularities. Hormonally associated migraine is a specific clinical entity. It is important to diagnose the type of migraine, considering the fact that a decline in estrogen level at the end of menstrual cycle triggers migraine, so it can be treated by low levels of estrogen.

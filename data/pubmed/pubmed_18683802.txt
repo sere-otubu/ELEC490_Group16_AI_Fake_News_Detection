@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rural healthcare
-TITLE: Rural dentistry--lessons from other countries.
-PMID: 18683802
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18683802/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-For people living in rural and remote areas, unmet dental care remains one of the most urgent healthcare needs. Persons living in rural areas are likely to be poorer, older, less health literate, use drinking water that is not fluoridated, have more caries, fewer teeth, and less money to spend on dental care than persons living in urban areas. It is impossible to meet all of the unmet needs of this rural population. Therefore, prevention must be the focus of any program and some of these programs developed by other countries may be useful for the rural U.S.

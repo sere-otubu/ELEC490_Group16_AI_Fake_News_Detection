@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Eating disorders
-TITLE: Current approach to eating disorders: a clinical update.
-PMID: 31943622
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31943622/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This article presents current diagnostic conceptualisations of eating disorders, including new disorders such as binge eating disorder (BED) and avoidant/restrictive food intake disorder (ARFID). This is followed by contemporary findings in the epidemiology of eating disorders, their broad sociodemographic distribution and the increases in community prevalence. Advances and the current status of evidence-based treatment and outcomes for the main eating disorders, anorexia nervosa, bulimia nervosa and BED are discussed with focus on first-line psychological therapies. Deficits in knowledge and directions for further research are highlighted, particularly with regard to treatments for BED and ARFID, how to improve treatment engagement and the management of osteopenia.

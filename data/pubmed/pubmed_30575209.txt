@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Evidence based medicine
-TITLE: Evidence-based medicine as science.
-PMID: 30575209
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30575209/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Evidence-based medicine has claimed to be science on a number of occasions, but it is not clear that this status is deserved. Within the philosophy of science, four main theories about the nature of science are historically recognized: inductivism, falsificationism, Kuhnian paradigms, and research programmes. If evidence-based medicine is science, knowledge claims should be derived using a process that corresponds to one of these theories. This paper analyses whether this is the case. In the first section, different theories about the nature of science are introduced. In the second section, the claim that evidence-based medicine is science is reinterpreted as the claim that knowledge claims derived from randomized controlled trails and meta-analyses are science. In the third section, the knowledge claims valued within evidence-based medicine are considered from the perspective of inductivism, falsificationism, Kuhnian paradigms, and research programmes. In the final section, possible counter arguments are considered. It is argued that the knowledge claims valued by evidence-based medicine are not justified using inductivism, falsificationism, Kuhnian paradigms, or research programmes. If these are the main criteria for evaluating if something is science or not, evidence-based medicine does not meet these criteria.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Shingles
-TITLE: Management of herpes zoster (shingles) during pregnancy.
-PMID: 29565203
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29565203/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-An infection with the varicella-zoster virus (VZV) causes both varicella and herpes zoster (HZ). Although rare, the development of HZ does occur during pregnancy. Maternal HZ does not result in increased foetal mortality, and the passage of VZV to the foetus rarely occurs. However, HZ does increase maternal morbidity. Upon infection with HZ, patients typically present with a viral prodrome preceding the appearance of the characteristic zoster rash. HZ is usually diagnosed clinically by the zoster rash, but can also be confirmed by a polymerase chain reaction and an enzyme-linked immunosorbent assay. Pregnant women with an uncomplicated HZ should be treated with oral acyclovir. The major complications of HZ are subacute herpetic neuralgia and post-herpetic neuralgia. Other complications include zoster ophthalmicus, disseminated HZ and secondary bacterial infections. Regarding prophylaxis, the varicella and the zoster vaccines are not recommended for pregnant women, and it is important to advise non-immune pregnant women to avoid an exposure to VZV. Although HZ infection has a minimal effect on the foetus, maternal HZ and its complications cause a significant burden. It is important to focus care on the mother with appropriate treatment and management of complications as they develop.

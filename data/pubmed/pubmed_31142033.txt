@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Borderline personality disorder
-TITLE: Suicidality in Borderline Personality Disorder.
-PMID: 31142033
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31142033/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Borderline personality disorder (BPD) is associated with suicidal behaviors and self-harm. Up to 10% of BPD patients will die by suicide. However, no research data support the effectiveness of suicide prevention in this disorder, and hospitalization has not been shown to be useful. The most evidence-based treatment methods for BPD are specifically designed psychotherapies.

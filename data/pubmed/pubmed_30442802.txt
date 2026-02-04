@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Paleo diet
-TITLE: The gut microbiota at the intersection of diet and human health.
-PMID: 30442802
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30442802/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Diet affects multiple facets of human health and is inextricably linked to chronic metabolic conditions such as obesity, type 2 diabetes, and cardiovascular disease. Dietary nutrients are essential not only for human health but also for the health and survival of the trillions of microbes that reside within the human intestines. Diet is a key component of the relationship between humans and their microbial residents; gut microbes use ingested nutrients for fundamental biological processes, and the metabolic outputs of those processes may have important impacts on human physiology. Studies in humans and animal models are beginning to unravel the underpinnings of this relationship, and increasing evidence suggests that it may underlie some of the broader effects of diet on human health and disease.

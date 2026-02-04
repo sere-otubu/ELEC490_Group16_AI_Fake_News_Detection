@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Seasonal affective disorder
-TITLE: Seasonal affective disorder: an overview.
-PMID: 12723880
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12723880/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Seasonal Affective Disorder (SAD) is a condition of regularly occurring depressions in winter with a remission the following spring or summer. In addition to depressed mood, the patients tend to experience increased appetite and an increased duration of sleep during the winter. SAD is a relatively common condition, affecting 1-3% of adults in temperate climates, and it is more prevalent in women. The pathological mechanisms underlying SAD are incompletely understood. Certain neurotransmitters have been implicated; a dysfunction in the serotonin system in particular has been demonstrated by a variety of approaches. The role of circadian rhythms in SAD needs to be clarified. The phase-delay hypothesis holds that SAD patients' circadian rhythms are delayed relative to the sleep/wake or rest/activity cycle. This hypothesis predicts that the symptoms of SAD will improve if the circadian rhythms can be phase-advanced. There is some experimental support for this. SAD can be treated successfully with light therapy. In classical light therapy, the SAD sufferer sits in front of a light box, exposed to 2000-10,000 lux for 30-120 min daily during the winter. Other forms of light treatments, pharmacotherapy, and other therapies are currently being tested for SAD.

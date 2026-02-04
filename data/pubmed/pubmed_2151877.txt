@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Appendectomy
-TITLE: [Techniques, results and limitations of appendectomy by the celioscopic approach. Apropos of 360 patients].
-PMID: 2151877
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2151877/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-About a series of 360 appendicectomies performed by coelioscopy, since July 1988, after having given technical instructions we consider the analytic study of medical files and the limits of this technic. The conclusions appear in favour of this surgery for peritonitis and ectopic appendicitis.

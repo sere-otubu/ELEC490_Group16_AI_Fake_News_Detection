@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Body composition
-TITLE: Body composition techniques.
-PMID: 30666990
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30666990/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Body composition is known to be associated with several diseases, such as cardiovascular disease, diabetes, cancers, osteoporosis and osteoarthritis. Body composition measurements are useful in assessing the effectiveness of nutritional interventions and monitoring the changes associated with growth and disease conditions. Changes in body composition occur when there is a mismatch between nutrient intake and requirement. Altered body composition is observed in conditions such as wasting and stunting when the nutritional intake may be inadequate. Overnutrition on the other hand leads to obesity. Many techniques are available for body composition assessment, which range from simple indirect measures to more sophisticated direct volumetric measurements. Some of the methods that are used today include anthropometry, tracer dilution, densitometry, dual-energy X-ray absorptiometry, air displacement plethysmography and bioelectrical impedance analysis. The methods vary in their precision and accuracy. Imaging techniques such as nuclear magnetic resonance imaging and computed tomography have become powerful tools due to their ability of visualizing and quantifying tissues, organs, or constituents such as muscle and adipose tissue. However, these methods are still considered to be research tools due to their cost and complexity of use. This review was aimed to describe the commonly used methods for body composition analysis and provide a brief introduction on the latest techniques available.

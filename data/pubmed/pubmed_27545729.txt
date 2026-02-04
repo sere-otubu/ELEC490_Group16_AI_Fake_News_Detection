@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Food allergies
-TITLE: Food Allergies.
-PMID: 27545729
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27545729/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Food allergies are common and seem to be increasing in prevalence. Preventive measures have become far more evident in the public arena (schools, camps, sports venues, and so forth). Evaluation and management of food allergies has evolved such that primary care practitioners may choose to provide initial diagnostic and treatment care or refer to allergists for similar care. Food allergies, once considered incurable, are now being diminished in intensity by new strategies.

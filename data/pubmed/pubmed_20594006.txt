@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20594006)
-    QUESTION: A patient with myelomeningocele: is untethering necessary prior to scoliosis correction?
-    CONTEXT: Tethering of the spinal cord is thought to increase the chance of neurological injury when scoliosis correction is undertaken. All patients with myelomeningocele (MM) are radiographically tethered, and untethering procedures carry significant morbidity risks including worsening neurological function and wound complications. No guidelines exist as regards untethering in patients with MM prior to scoliosis correction surgery. The authors' aim in this study was to evaluate their experience in patients with MM who were not untethered before scoliosis correction.
-    ANSWER: The study results suggested that spinal cord untethering may be unnecessary in patients with MM who are undergoing scoliosis corrective surgery and do not present with clinical symptoms of a tethered cord, even though tethering is radiographically demonstrated.
-    

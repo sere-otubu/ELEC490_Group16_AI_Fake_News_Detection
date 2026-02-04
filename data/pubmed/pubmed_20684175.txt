@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20684175)
-    QUESTION: Vitamin D supplementation and regulatory T cells in apparently healthy subjects: vitamin D treatment for autoimmune diseases?
-    CONTEXT: Epidemiological data show significant associations of vitamin D deficiency and autoimmune diseases. Vitamin D may prevent autoimmunity by stimulating naturally occurring regulatory T cells.
-    ANSWER: Vitamin D supplementation was associated with significantly increased %Tregs in apparently healthy individuals. This immunomodulatory effect of vitamin D might underlie the associations of vitamin D deficiency and autoimmune diseases. Hence, our finding provides a rationale for further studies to investigate vitamin D effects on autoimmunological processes.
-    

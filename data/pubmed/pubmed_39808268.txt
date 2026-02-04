@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Stroke
-TITLE: [Secondary stroke prevention].
-PMID: 39808268
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39808268/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The treatment of strokes is based on two pillars: the efficient management of acute strokes to minimize permanent neurological deficits, and secondary prevention to avoid recurrence. To summarize current recommendations for secondary stroke prevention. Guidelines and recent studies on the most common causes of strokes, and their treatment and prevention are reviewed. Special attention is given to endovascular therapy and cardioembolic strokes. A brief overview of recommended therapies is provided.

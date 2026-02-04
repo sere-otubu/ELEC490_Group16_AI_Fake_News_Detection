@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Wound healing process
-TITLE: Physiology of wound healing and risk factors that impede the healing process.
-PMID: 2223320
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2223320/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In the critically ill patient, wound repair can be impeded by processes inherent to the illness, its treatment, and the critical care environment. This vulnerability to wound complications increases patient morbidity and mortality as well as length of stay, resource consumption, and hospital cost. The physiology of wound healing and factors that impede wound repair are discussed. Those factors commonly seen in critical illness include advanced age, diabetes mellitus, compromised immunocompetence, inadequate perfusion, and oxygenation, infection, malnutrition, obesity, and preoperative illness. Knowledge of management of the physiologic factors that affect wound healing enables the nurse to maximize tissue repair and prevent wound complications.

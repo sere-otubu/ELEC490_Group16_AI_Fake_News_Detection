@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Insomnia
-TITLE: Insomnia.
-PMID: 24758961
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24758961/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Insomnia, as the term is used by patients and in primary care, is a symptom: dissatisfaction with the quality or quantity of sleep obtained, despite attempts. For acute insomnia, reversal of the trigger (if possible) and treatment with safe, effective sleep medication are advised. For chronic insomnia, as with other types of symptoms, trying to distinguish between several potential underlying causes is key, because no single treatment approach is appropriate for all situations. Specific conditions such as restless legs syndrome, circadian rhythm disorders, and sleep apnea have specific treatment approaches.

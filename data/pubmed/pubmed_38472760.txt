@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mindful eating
-TITLE: Do Mindful Eating and Intuitive Eating Affect Beverage Preferences? A Cross-Sectional Survey.
-PMID: 38472760
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38472760/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Intuitive eating involves following body signals to guide eating decisions and avoiding restrictive diets. Mindful eating is paying full attention to sensory experiences and fostering nonjudgmental awareness. We aimed to elucidate potential relationships between beverage intake and intuitive and mindful eating scores. This cross-sectional exploratory study (October 2021-December 2022) enrolled adult male and female participants who provided sociodemographic and health-related information and subsequently completed the Beverage Intake Questionnaire, the Mindful Eating Questionnaire (MEQ-30), and the Intuitive Eating Scale (IES-2). Bidirectional relationships were observed between beverage intake and intuitive and mindful eating scores. The total beverage intake of males was double compared with that of females, with the intake being mainly derived from sugar-sweetened beverages (<i>p</i> = 0.000). Increased total water intake was positively correlated with IES-2 and its subscale scores and was negatively correlated with MEQ-30 scores in both sexes (<i>p</i> < 0.05). Alcoholic beverage intake was associated with reductions in IES-2 and MEQ-30 scores, whereas unconditional permission to eat increased by 18.3% in males. In females, the consumption of milk-based beverages decreased the IES-2 scores. Understanding the complex relationships between beverage intake and intuitive and mindful eating may deepen our understanding of individual dietary behaviors and inform dietary interventions.

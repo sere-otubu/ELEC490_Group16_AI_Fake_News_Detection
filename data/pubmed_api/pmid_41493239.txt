@@ -1,3 +1,0 @@
-Title: Neural Network Dynamics Supporting Adaptive Attentional Control in the Context of Nicotine Withdrawal: a Review with Empirical Example.
-
-Abstract: Tobacco use is a leading preventable cause of disability and death, with nicotine withdrawal-related affective and cognitive sequelae posing a key barrier to cessation. Understanding how the dynamics between salience (SN), default mode (DMN), and frontoparietal networks (FPN) support or lead to failures of adaptive attentional control - and how these network interactions may be altered by the cognitive and affective challenges of withdrawal - may help illuminate mechanisms that contribute to smoking relapse.

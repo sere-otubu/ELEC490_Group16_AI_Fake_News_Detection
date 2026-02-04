@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antifungals
-TITLE: Evolution of antifungals for invasive mold infections in immunocompromised hosts, then and now.
-PMID: 37104686
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37104686/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The current armamentarium of antifungal agents for invasive mold infections (IMI) has dramatically improved over the last 50 years. Existing therapies are, however, associated with toxicities, drug interactions, and, in some cases, therapeutic failures. Novel antifungals are needed to address the increasing prevalence of IMI and the growing threat of antifungal resistance. We review the history and development of the most commonly used antifungals. We discuss the current consensus guidelines and supporting data for treatment of invasive mold infection (IMI), the role of susceptibility testing, and the niche that novel antifungals could fill. We review the current data for aspergillosis, mucormycosis, and hyalohyphomycosis. Robust clinical trial data demonstrating the relative effectiveness of our current antifungal agents for treating IMI outside of A. fumigatus remains limited. Clinical trials are urgently needed to delineate the relationship between MICs and clinical outcomes for existing agents and to better evaluate the in vitro and in vivo aspects of antifungal synergy. Continued international multicenter collaboration and standardized clinical endpoints for trials evaluating both existing and new agents are necessary to advance the field.

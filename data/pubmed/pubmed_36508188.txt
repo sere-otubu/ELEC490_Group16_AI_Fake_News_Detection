@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Teeth whitening
-TITLE: Teeth whitening using nitrogen doped-TiO₂ nanoparticles and hydrogen peroxide under visible light irradiation.
-PMID: 36508188
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36508188/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To test the efficacy of nitrogen doped-TiO₂ (N-TiO₂) nanoparticles (NPs) on teeth whitening under visible light irradiation. N-TiOV₂ NPs were prepared by the sol-gel method, using TiN as a precursor. Their light absorbance and crystal structures were characterized. Photocatalytic reactions were tested using methylene blue (MB) and extracted teeth. For the extracted teeth, carbomer gel, without or with 3% H₂O₂, and light irradiated, with subsequent evaluation of the color differences. Unlike ordinary TiO₂, N-TiO₂ showed high absorbance after 400 nm. N-TiO₂ prepared with TiN as a precursor showed rutile phase over the TiN structure. For MB solution, N-TiO₂ with 3% H₂O₂ showed the maximum decrease in absorbance after laser irradiation. Observing the effect on teeth, N-TiO₂+3% H₂O₂+405 nm laser treatment achieved approximately 25% higher whitening than that by 15% H₂O₂ during the same treatment time. Higher H₂O₂ concentrations may offer faster results. N-TiO₂ nanoparticles (without or with 3% H₂O₂) show better whitening of teeth as compared to 15% H₂O₂, if used with a visible laser for 5 hours. The potential on N-TiO₂ nanoparticles to be used as a tooth whitener needs to be further explored to reduce its application time.

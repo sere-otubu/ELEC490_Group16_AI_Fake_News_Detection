@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Stem cell research
-TITLE: Stem cell research, regenerative medicine and challenges.
-PMID: 36788406
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36788406/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Stem cell research and regenerative medicine have exponentially evolved in the past two decades. With the ability of cell renewal, unlimited expression and differentiation, stem cell research can potentially transform medical practice. Stem cells have different sources of origin and a wide range of potency ranging from unipotent to totipotent. Stem cell therapy can modify behavior of cells, generate differentiated tissues, and be used as a pharmacological intervention. Regenerative medicine is an emerging medical endeavor dedicated to reconstructing and repairing of tissues and organs. Several challenges are to be addressed to allow transition of stem cell research from basic sciences to clinical practice. These obstacles include selection of appropriate stem cells with associated ethical concerns, manufacturing and processing of stem cells, genetic instability, lack of complete understanding of their mode of action at target sites, economic concerns, and lack of regulations of stem cell therapy.

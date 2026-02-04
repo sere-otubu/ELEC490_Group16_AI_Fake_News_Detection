@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Public health policy
-TITLE: Public Telemedicine Policy in Brazilian Unified Health System: An Impact Analysis.
-PMID: 38928905
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38928905/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There are several difficulties in evaluating interventions seeking to promote public health policies. In this article, we analyzed the promotion of the use of telemedicine during COVID-19 in Brazil. Using the random promotion method with instrumental variables, we showed that the policy of promoting telemedicine was adequate, with intense use of this type of care. Our results showed that telemedicine works if it is encouraged in the population. We contributed to the discussion of public health policies and their impact on the population's health in times of health crisis, such as during the COVID-19 pandemic.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ulcerative colitis
-TITLE: Ulcerative colitis in children.
-PMID: 8596682
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8596682/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chronic nonspecific ulcerative colitis remains a disease of unknown etiology, although much new information continues to be gleaned from basic research and clinical trials. In most instances, ulcerative colitis responds to medical therapy. Selecting appropriate drug therapy for a specific child depends on the extent and severity of the colitis. This article summarizes the clinical information, diagnostic studies, and approaches to management that should be considered when evaluating a child for ulcerative colitis.

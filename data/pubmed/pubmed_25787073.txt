@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25787073)
-    QUESTION: Do preoperative serum C-reactive protein levels predict the definitive pathological stage in patients with clinically localized prostate cancer?
-    CONTEXT: The serum C-reactive protein (CRP) level correlates with the clinical prognosis in patients with kidney, penile and metastatic castration-resistant prostate cancer (PC). We prospectively evaluated the preoperative CRP level as a predictive marker for an advanced tumor stage or high-grade cancer in patients with clinically localized PC.
-    ANSWER: In patients with clinically localized PC, CRP does not appear to possess the predictive value and it was shown to have patients with other tumor entities or advanced PC.
-    

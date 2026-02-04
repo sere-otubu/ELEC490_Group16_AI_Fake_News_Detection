@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Seasonal affective disorder
-TITLE: Role of serotonin in seasonal affective disorder.
-PMID: 23329523
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23329523/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review was prepared with an aim to show role of serotonin in seasonal affective disorder. Seasonal affective disorder, which is also called as winter depression or winter blues, is mood disorder in which persons with normal mental health throughout most of the year will show depressive symptoms in the winter or, less commonly, in the summer. Serotonin is an important endogenous neurotransmitter which also acts as neuromodulator. The least invasive, natural, and researched treatment of seasonal affective disorder is natural or otherwise is light therapy. Negative air ionization, which acts by liberating charged particles on the sleep environment, has also become effective in treatment of seasonal affective disorder.  

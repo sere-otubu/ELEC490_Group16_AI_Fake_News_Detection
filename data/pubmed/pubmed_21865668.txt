@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21865668)
-    QUESTION: Does automatic transmission improve driving behavior in older drivers?
-    CONTEXT: Most older drivers continue to drive as they age. To maintain safe and independent transport, mobility is important for all individuals, but especially for older drivers.
-    ANSWER: Switching to automatic transmission may be recommended for older drivers as a means to maintain safe driving and thereby the quality of their transport mobility.
-    

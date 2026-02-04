@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cell division mitosis
-TITLE: Molecular mechanisms of asymmetric divisions in mammary stem cells.
-PMID: 27872203
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27872203/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Stem cells have the remarkable ability to undergo proliferative symmetric divisions and self-renewing asymmetric divisions. Balancing of the two modes of division sustains tissue morphogenesis and homeostasis. Asymmetric divisions of Drosophila neuroblasts (NBs) and sensory organ precursor (SOP) cells served as prototypes to learn what we consider now principles of asymmetric mitoses. They also provide initial evidence supporting the notion that aberrant symmetric divisions of stem cells could correlate with malignancy. However, transferring the molecular knowledge of circuits underlying asymmetry from flies to mammals has proven more challenging than expected. Several experimental approaches have been used to define asymmetry in mammalian systems, based on daughter cell fate, unequal partitioning of determinants and niche contacts, or proliferative potential. In this review, we aim to provide a critical evaluation of the assays used to establish the stem cell mode of division, with a particular focus on the mammary gland system. In this context, we will discuss the genetic alterations that impinge on the modality of stem cell division and their role in breast cancer development.

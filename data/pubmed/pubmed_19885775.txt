@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rest and recovery
-TITLE: Effects of age and rest interval on strength recovery.
-PMID: 19885775
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19885775/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The purpose of this study was to compare the effect of two different rest intervals between sets of isokinetic knee extension exercise on peak torque (PT), and Total Work (TW) between untrained younger and older men. Seventeen young men (24.22+/-2.58 yrs) and 20 older men (66.85+/-4.02 yrs) performed 3 sets of 10 unilateral isokinetic knee extension repetitions at 60 degrees /s. The rest intervals between sets were 1 and 2 min. There was a significant decline in PT when 1 and 2 min rest intervals were used for young men, but not when a 2 min rest interval was applied for old men. There was also a significant decline in TW among the 3 sets when 1 and 2 min rest intervals were applied for young men, whereas the decline in TW in older men occurred only between the 2(nd) and 3(rd) sets. PT and TW in the 3(rd) set were significant greater following a 2 min rest interval than a 1 min rest in both young and older men. The present study indicated that non-resistance trained young men may require longer rest interval to recover full PT and TW when compared to older men.

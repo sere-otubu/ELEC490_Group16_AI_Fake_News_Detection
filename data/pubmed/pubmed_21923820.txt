@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Glaucoma
-TITLE: Feline glaucoma--a comprehensive review.
-PMID: 21923820
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21923820/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cats with glaucoma typically present late in the course of disease. It is likely that glaucoma in cats is under-diagnosed due to its insidious onset and gradual progression, as well as limitations of some commonly used tonometers in this species. Treatment of glaucoma in feline patients presents a clinical challenge, particularly as glaucoma is often secondary to other disease processes in cats. In this review, we consider the clinical features, pathophysiology, and classification of the feline glaucomas and provide current evidence to direct selection of appropriate treatment strategies for feline glaucoma patients.

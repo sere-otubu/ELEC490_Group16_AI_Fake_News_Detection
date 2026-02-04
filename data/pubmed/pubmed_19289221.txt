@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Migraine
-TITLE: Vestibular migraine.
-PMID: 19289221
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19289221/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Vestibular migraine (VM) designates recurrent attacks of vertigo that are caused by migraine. VM presents with attacks of spontaneous or positional vertigo, lasting seconds to days, accompanied by migrainous symptoms. Because headache is often absent during acute attacks, other migrainous features have to be identified by thorough history taking. In contrast, vestibular testing serves mainly for the exclusion of other diagnoses. Treatment is targeted at the underlying migraine.

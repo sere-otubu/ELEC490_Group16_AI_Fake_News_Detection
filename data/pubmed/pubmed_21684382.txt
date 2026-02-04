@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Osteoarthritis
-TITLE: Osteoarthritis: an update with relevance for clinical practice.
-PMID: 21684382
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21684382/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Osteoarthritis is thought to be the most prevalent chronic joint disease. The incidence of osteoarthritis is rising because of the ageing population and the epidemic of obesity. Pain and loss of function are the main clinical features that lead to treatment, including non-pharmacological, pharmacological, and surgical approaches. Clinicians recognise that the diagnosis of osteoarthritis is established late in the disease process, maybe too late to expect much help from disease-modifying drugs. Despite efforts over the past decades to develop markers of disease, still-imaging procedures and biochemical marker analyses need to be improved and possibly extended with more specific and sensitive methods to reliably describe disease processes, to diagnose the disease at an early stage, to classify patients according to their prognosis, and to follow the course of disease and treatment effectiveness. In the coming years, a better definition of osteoarthritis is expected by delineating different phenotypes of the disease. Treatment targeted more specifically at these phenotypes might lead to improved outcomes.

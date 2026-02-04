@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cataract surgery
-TITLE: Anticoagulants and antiplatelet drugs during cataract surgery.
-PMID: 29995131
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29995131/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Patients undergoing cataract surgery are generally elderly, and many take drugs with systemic effects. The surgeon must be aware of the risks of continuing or discontinuing such medications perioperatively. Antiplatelet drugs and anticoagulants, prescribed to reduce the incidence of thromboembolic events, are often used in this population. This paper aims to review the perioperative use of antiplatelet and anticoagulant drugs in the setting of cataract surgery. Topical or intracameral anesthesia is preferred over anesthesia injected with needles. Aspirin can be safely continued in patients undergoing cataract surgery. Warfarin has been extensively studied, and the risk of hemorrhage associated with cataract surgery is low if the international normalized ratio is in the therapeutic range. Only a few studies of direct oral anticoagulants are available, and therefore no definite recommendations regarding those agents can be made at this time. Anesthesia in cataract surgery carries a low risk, even for patients taking anticoagulant or antiplatelet drugs. The discontinuation of this class of drugs before cataract surgery may increase the risk of thromboembolism.

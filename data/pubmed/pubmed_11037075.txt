@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fibromyalgia
-TITLE: Treating fibromyalgia.
-PMID: 11037075
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11037075/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Fibromyalgia is an extremely common chronic condition that can be challenging to manage. Although the etiology remains unclear, characteristic alterations in the pattern of sleep and changes in neuroendocrine transmitters such as serotonin, substance P, growth hormone and cortisol suggest that dysregulation of the autonomic and neuroendocrine system appears to be the basis of the syndrome. The diagnosis is clinical and is characterized by widespread pain, tender points and, commonly, comorbid conditions such as chronic fatigue, insomnia and depression. Treatment is largely empiric, although experience and small clinical studies have proved the efficacy of low-dose antidepressant therapy and exercise. Other less well-studied measures, such as acupuncture, also appear to be helpful. Management relies heavily on the physician's supportive counseling skills and willingness to try novel strategies in refractory cases.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20488985)
-    QUESTION: The English antibiotic awareness campaigns: did they change the public's knowledge of and attitudes to antibiotic use?
-    CONTEXT: To determine the effect of the 2008 English public antibiotic campaigns.
-    ANSWER: There is little evidence that the 2008 public antibiotic campaigns were effective. The use and visibility of future campaign materials needs auditing. A carefully planned approach that targets the public in GP waiting rooms and through clinicians in consultations may be a more effective way of improving prudent antibiotic use.
-    

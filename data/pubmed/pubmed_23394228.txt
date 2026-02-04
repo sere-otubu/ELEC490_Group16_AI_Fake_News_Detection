@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dissociative disorders
-TITLE: Dissociative disorders in DSM-5.
-PMID: 23394228
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23394228/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The rationale, research literature, and proposed changes to the dissociative disorders and conversion disorder in the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) are presented. Dissociative identity disorder will include reference to possession as well as identity fragmentation, to make the disorder more applicable to culturally diverse situations. Dissociative amnesia will include dissociative fugue as a subtype, since fugue is a rare disorder that always involves amnesia but does not always include confused wandering or loss of personality identity. Depersonalization disorder will include derealization as well, since the two often co-occur. A dissociative subtype of posttraumatic stress disorder (PTSD), defined by the presence of depersonalization or derealization in addition to other PTSD symptoms, is being recommended, based upon new epidemiological and neuroimaging evidence linking it to an early life history of adversity and a combination of frontal activation and limbic inhibition. Conversion disorder (functional neurological symptom disorder) will likely remain with the somatic symptom disorders, despite considerable dissociative comorbidity.

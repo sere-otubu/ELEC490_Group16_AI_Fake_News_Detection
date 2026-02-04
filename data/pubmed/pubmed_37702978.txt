@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Electrolytes
-TITLE: Hyponatremia and malnutrition: a comprehensive review.
-PMID: 37702978
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37702978/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hyponatremia (serum sodium lower than 135 mmol/L) is the most frequent electrolyte alteration diagnosed in medical practice. It has deleterious clinical effects, being an independent predictor of mortality. Malnutrition encompasses pathological states caused by both nutrients excess and deficiency, being frequently documented in chronic kidney disease patients. In addition, chronic hyponatremia promotes adiposity loss and sarcopenia, while malnutrition can induce hyponatremia. This pathological interaction is mediated by four main mechanisms: altered electrolyte body composition (low sodium, low potassium, low phosphorus, or high-water body content), systemic inflammation (cytokines increase), hormonal mechanisms (renin-angiotensin-aldosterone system activation, vasopressin release), and anorexia (primary or secondary). Malnutrition can induce hyponatremia through hydro-electrolytic, hormonal, inflammatory, or nutritional behavior changes; while hyponatremia per se can induce malnutrition, so there is a pathophysiological feedback between both conditions.

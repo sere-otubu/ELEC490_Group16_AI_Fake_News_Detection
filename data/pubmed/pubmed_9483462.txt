@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Panic disorder
-TITLE: Panic disorder in the general medical setting.
-PMID: 9483462
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9483462/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There is a high prevalence of panic disorder in medical patients, as well as an association between panic disorder and high rates of utilization of medical services and excessive medical costs incurred from extensive medical workups. The association between panic disorder and specific cardiac, gastrointestinal, respiratory, and neurologic symptoms and disorders are described, and psychophysiological models attempting to account for the medical comorbidity associated with panic disorder are addressed. Finally, clinical trials investigating pharmacological and psychological interventions to treat the somatic symptoms with which patients with panic disorder often present are reviewed and critiqued, and productive avenues for further research on panic disorder in medical patients are recommended.

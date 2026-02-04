@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22497340)
-    QUESTION: Is horizontal semicircular canal ocular reflex influenced by otolith organs input?
-    CONTEXT: To clarify whether horizontal canal ocular reflex is influenced by otolith organs input.
-    ANSWER: Otolith organs input influences the axis of horizontal semicircular canal ocular reflex; therefore, the plane of compensatory eye movements induced by the horizontal canal stimulation is not always parallel to the canal.
-    

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20363841)
-    QUESTION: Do symptoms predict COPD in smokers?
-    CONTEXT: The US Preventive Services Task Force recommends against spirometry in the absence of symptoms. However, as much as 50% of COPD cases in the United States remain undiagnosed.
-    ANSWER: COPD is underdiagnosed in the United States. Symptoms are frequent in subjects with AO and increase their risk for COPD, but add little beyond age and smoking history to the predictive value of spirometry. In view of the high prevalence of symptoms and their poor predictive value, a simpler and more effective approach would be to screen older smokers.
-    

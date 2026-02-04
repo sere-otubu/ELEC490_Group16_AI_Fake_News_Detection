@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anaphylaxis
-TITLE: Biologics to treat anaphylaxis.
-PMID: 37527059
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37527059/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The purpose of this literature review was to review the latest use of biologics in the management of anaphylaxis. The methodology was to highlight both the nonbiologic management of anaphylaxis and the biologic management and how they can be used in conjunction with each other. As the phenotypes and endotypes of anaphylaxis are better portrayed, it furthers our understanding of the mechanisms of anaphylaxis. New applications of existing biologics to the prevention of anaphylaxis are described. Anaphylaxis is a potentially life-threatening acute hypersensitivity reaction affecting up to 16.8% of the U.S. population. Acute management entails swift identification, removal of the causative agent, and the prevention of cardiovascular collapse, firstly with epinephrine. Adjunctive treatments such as antihistamines work to prevent anaphylaxis from recurring. Biologic management of anaphylaxis involves the use of large-molecule drugs such as monoclonal antibodies. Omalizumab, an IgG1 monoclonal antibody targeting unbound IgE, is the most prevalent and widely studied biologic in the prevention of anaphylaxis. Other monoclonal antibodies in development or approved for other indications, such as ligelizumab, quilizumab, MEDI4212, and dupilumab, may also have potential for preventing anaphylaxis through various mechanisms.

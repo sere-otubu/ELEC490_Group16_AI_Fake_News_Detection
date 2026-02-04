@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Electrolytes
-TITLE: State of Charge and State of Health Assessment of Viologens in Aqueous-Organic Redox-Flow Electrolytes Using In Situ IR Spectroscopy and Multivariate Curve Resolution.
-PMID: 35481674
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35481674/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Aqueous-organic redox flow batteries (RFBs) have gained considerable interest in recent years, given their potential for an economically viable energy storage at large scale. This, however, strongly depends on both the robustness of the underlying electrolyte chemistry against molecular decomposition reactions as well as the device's operation. With regard to this, the presented study focuses on the use of in situ IR spectroscopy in combination with a multivariate curve resolution approach to gain insight into both the molecular structures of the active materials present within the electrolyte as well as crucial electrolyte state parameters, represented by the electrolyte's state of charge (SOC) and state of health (SOH). To demonstrate the general applicability of the approach, methyl viologen (MV) and bis(3-trimethylammonium)propyl viologen (BTMAPV) are chosen, as viologens are frequently used as negolytes in aqueous-organic RFBs. The study's findings highlight the impact of in situ spectroscopy and spectral deconvolution tools on the precision of the obtainable SOC and SOH values. Furthermore, the study indicates the occurrence of multiple viologen dimers, which possibly influence the electrolyte lifetime and charging characteristics.

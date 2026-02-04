@@ -1,8 +1,0 @@
-SEARCH_TOPIC: GERD
-TITLE: Advances in the diagnosis and management of gastroesophageal reflux disease.
-PMID: 33229333
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33229333/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gastroesophageal reflux disease (GERD) is a multifaceted disorder encompassing a family of syndromes attributable to, or exacerbated by, gastroesophageal reflux that impart morbidity, mainly through troublesome symptoms. Major GERD phenotypes are non-erosive reflux disease, GERD hypersensitivity, low or high grade esophagitis, Barrett's esophagus, reflux chest pain, laryngopharyngeal reflux, and regurgitation dominant reflux. GERD is common throughout the world, and its epidemiology is linked to the Western lifestyle, obesity, and the demise of <i>Helicobacter pylori.</i> Because of its prevalence and chronicity, GERD is a substantial economic burden measured in physician visits, diagnostics, cancer surveillance protocols, and therapeutics. An individual with typical symptoms has a fivefold risk of developing esophageal adenocarcinoma, but mortality from GERD is otherwise rare. The principles of management are to provide symptomatic relief and to minimize potential health risks through some combination of lifestyle modifications, diagnostic testing, pharmaceuticals (mainly to suppress or counteract gastric acid secretion), and surgery. However, it is usually a chronic recurring condition and management needs to be personalized to each case. While escalating proton pump inhibitor therapy may be pertinent to healing high grade esophagitis, its applicability to other GERD phenotypes wherein the modulating effects of anxiety, motility, hypersensitivity, and non-esophageal factors may dominate is highly questionable.

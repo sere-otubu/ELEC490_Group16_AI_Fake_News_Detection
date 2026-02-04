@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Radiation therapy
-TITLE: Radiation Therapy for Malignant Pleural Mesothelioma.
-PMID: 33012434
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33012434/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The treatment of malignant pleural mesothelioma with radiation therapy has always been a technical challenge. For many years, radiation therapy was delivered after extrapleural pneumonectomy with acceptable results. As the utilization of pleurectomy/decortication increased, techniques, such as pleural intensity-modulated radiation therapy (IMRT) have been introduced. The experience with these techniques have grown and multiple trials using IMRT, both in the setting of extrapleural pneumonectomy or pleurectomy, are being conducted to assess its effectiveness.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Acupuncture
-TITLE: Two Evidence-Based Acupuncture Models.
-PMID: 31705449
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31705449/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Modern clinical trials have produced controversial data interpretation which refutes conventional standard teachings and practices. Acupuncture scholars and practitioners have been stimulated to scrutinize these trials and analyze conventional practices. This paper presents two acupuncture models which address these issues. One rationalizes the clinical trial results with newer understanding of acupuncture points and techniques, while the other reconciles these results with rediscovered techniques of palpating points and performing needling. These two models indicate that acupuncture is in transition from classical model to evidence-based models.

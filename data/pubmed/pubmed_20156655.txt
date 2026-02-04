@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20156655)
-    QUESTION: Scrotal approach to both palpable and impalpable undescended testes: should it become our first choice?
-    CONTEXT: To determine the advantages of scrotal incision in the treatment of undescended testis. Undescended testis is a common pediatric condition and is conventionally managed surgically by orchidopexy. A single scrotal incision orchidopexy has become accepted as a valid approach for patients with palpable undescended testicles. Because this approach also allows easy detection of atrophic testes or testicular remnants, it recently has also emerged as an alternative initial surgical approach to impalpable undescended testicles.
-    ANSWER: Initial single scrotal incision can be recommended for orchidopexy, even in the more difficult cases of impalpable undescended testes. Advantages seem to include shorter operative time, a cosmetically appealing single incision, and possibly less pain. The scrotal incision technique significantly reduces the need for laparoscopy in impalpable testes. Surprisingly, it even allows successful orchidopexy of abdominal testes, provided an open processus is present.
-    

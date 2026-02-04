@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Grief counseling
-TITLE: Disorganized attachment and prolonged grief.
-PMID: 35132649
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35132649/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-While the relationship between attachment anxiety and avoidance and the severity of prolonged grief disorder (PGD) has been well-studied, less is known about the relationship between disorganized attachment and PGD. We test the associations between disorganized attachment and the interaction between it and attachment avoidance and anxiety on PGD. Participants (N = 258) who had lost a family member from 0.5 to 8.0 years before the survey completed the experiences in close relationships-revised, the adult disorganized attachment scale, and the PGD-13 scale. The model explaining PGD symptoms through attachment, taking into account the level of disorganized attachment, explained variance in PGD significantly better than the model taking into account only the level of attachment anxiety and avoidance as predictors. Additionally, the relationships between attachment avoidance and PGD were positive, negative, or neither, depending on the configuration of the levels of disorganized attachment and attachment anxiety. Future research into the relationships between attachment and PGD should take into account disorganized attachment. Attachment-informed grief therapy focused on insecure styles of attachment - including the disorganized style - to the deceased person and other loved ones may prove a promising approach for bereaved persons who experience PGD.

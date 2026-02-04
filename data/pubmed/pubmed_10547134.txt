@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Epidemiology basics
-TITLE: Circular epidemiology.
-PMID: 10547134
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10547134/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Circular epidemiology can be defined as the continuation of specific types of epidemiologic studies beyond the point of reasonable doubt of the true existence of an important association or the absence of such an association. Circular epidemiology is an extreme example of studies of the consistency of associations. A basic problem for epidemiology is the lack of a systematic approach to acquiring new knowledge to reach a goal of improving public health and preventive medicine. For epidemiologists, research support unfortunately is biased toward the continued study of already proven hypotheses. Circular epidemiology, however, freezes at one point in the evolution of epidemiologic studies, failing to move from descriptive to analytical case-control and longitudinal studies, for example, to experimental, clinical trials. Good epidemiology journals are filled with very well-conducted epidemiologic studies that primarily repeat the obvious or are variations on the theme.

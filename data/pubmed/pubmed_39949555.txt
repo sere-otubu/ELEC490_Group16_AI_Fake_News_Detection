@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Public health policy
-TITLE: Machine learning and public health policy evaluation: research dynamics and prospects for challenges.
-PMID: 39949555
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39949555/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Public health policy evaluation is crucial for improving health outcomes, optimizing healthcare resource allocation, and ensuring fairness and transparency in decision-making. With the rise of big data, traditional evaluation methods face new challenges, requiring innovative approaches. This article reviews the principles, scope, and limitations of traditional public health policy evaluation methods and explores the application of machine learning in evaluating public health policies. It analyzes the specific steps for applying machine learning and provides practical examples. The challenges discussed include model interpretability, data bias, the continuation of historical health inequities, and data privacy concerns, while proposing ways to better apply machine learning in the context of big data. Machine learning techniques hold promise in overcoming some limitations of traditional methods, offering more precise evaluations of public health policies. However, challenges such as lack of model interpretability, the perpetuation of health inequities, data bias, and privacy concerns remain significant. To address these challenges, the article suggests integrating data-driven and theory-driven approaches to improve model interpretability, developing multi-level data strategies to reduce bias and mitigate health inequities, ensuring data privacy through technical safeguards and legal frameworks, and employing validation and benchmarking strategies to enhance model robustness and reproducibility.

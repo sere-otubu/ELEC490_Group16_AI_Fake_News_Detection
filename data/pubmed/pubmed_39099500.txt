@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Healthcare accessibility
-TITLE: The Economic Rationale for Healthcare Reform.
-PMID: 39099500
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39099500/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Healthcare reform is analyzed from an economic perspective. First, the economic rationale for providing access to healthcare lies in the benefit from knowing that those without means would be able to access health services. However, this does not explain why they should be entitled to the same quality of service. In practice, even in high-income countries, patients who are willing and able to pay tend to have better access to specialist services. Secondly, the division of labor has not increased efficiency in healthcare because health services are provided by professionals who have autonomy. However, efficiency can be increased by standardizing the process with clinical pathways and shifting service delivery from physicians to nurses and technicians. Thirdly, cost-effectiveness analysis is being used to making decisions on listing pharmaceutical products in the national formulary, but pricing and prescribing have continued to be made idiosyncratically. Lastly, Japan's healthcare system is analyzed based on this framework.

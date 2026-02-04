@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Thyroid gland
-TITLE: [Therapy related alterations to the thyroid gland].
-PMID: 16402165
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16402165/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Therapy related alterations to the thyroid gland are associated with more or less specific morphological changes. The therapy (thyrostatic drugs, radio-iodine) may be administered for the treatment of thyroid dysfunction (hyperthyroidism), or the thyroid gland is involved during or after the treatment (irradiation, various drugs) of primarily non-thyroid related diseases. The present review summarizes the most important morphological changes related to therapy.

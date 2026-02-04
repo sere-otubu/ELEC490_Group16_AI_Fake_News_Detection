@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Endoscopy
-TITLE: Prevention of overuse: A view on upper gastrointestinal endoscopy.
-PMID: 30670908
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30670908/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Many upper gastrointestinal (GI) endoscopies worldwide are performed for inappropriate indications. This overuse of healthcare negatively affects healthcare quality and puts pressure on endoscopy services. Dyspepsia is one of the most common inappropriate indications for upper GI endoscopy as diagnostic yield is low. Reasons for untimely referral are: unfamiliarity with dyspepsia guidelines, uncertainty about etiology of symptoms, and therapy failure. Unfiltered open-access referrals feed upper GI endoscopy overuse. This review highlights strategies applied to diminish use of upper GI endoscopies for dyspepsia. First, we describe the impact of active guideline implementation. We found improved guideline adherence, but resistance was encountered in the process. Secondly, we show several forms of clinical assessment. While algorithm use reduced upper GI endoscopy volume, effects of referral assessment of individual patients were minor. A third strategy proposed <i>Helicobacter pylori</i> test and treat for all dyspeptic patients. Many upper GI endoscopies can be avoided using this strategy, but outcomes may be prevalence dependent. Lastly, empirical treatment with Proton pump inhibitors achieved symptom relief for dyspepsia and avoided upper GI endoscopies in about two thirds of patients. Changing referral behavior is complex as contributing factors are manifold. A collaboration of multiple strategies is most likely to succeed.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24799031)
-    QUESTION: Is diffusion-weighted imaging a significant indicator of the development of vascularization in hypovascular hepatocellular lesions?
-    CONTEXT: The objective was to evaluate the efficacy of diffusion-weighted imaging (DWI) in predicting the development of vascularization in hypovascular hepatocellular lesions (HHLs).
-    ANSWER: The signal intensity on DWI showed no significant difference in the development of vascularization.
-    

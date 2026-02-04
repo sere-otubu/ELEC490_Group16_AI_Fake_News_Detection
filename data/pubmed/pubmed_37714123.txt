@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rare diseases
-TITLE: [Rare diseases and undiagnosed diseases: advances in neurodevelopment].
-PMID: 37714123
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37714123/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rare diseases and undiagnosed diseases have recently positioned themselves as clinical entities that provide important opportunities to advance our understanding of gene functions and the impact of them in the individual development. In this review, we present how efforts made over years to understand common diseases, rare diseases and even undiagnosed diseases come together today to cooperatively advances scientific knowledge. These advance in science and new acquired knowledge, make possible to apply the advances obtained in a group of clinical conditions to others with similar phenotypic characteristics or vice versa. The cooperative work of multidisciplinary teams and the communication between clinicians and researchers have and will provide opportunities for better treatments for patients and families across multiple common and rare diseases.

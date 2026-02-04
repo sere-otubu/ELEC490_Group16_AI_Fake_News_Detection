@@ -1,8 +1,0 @@
-SEARCH_TOPIC: HPV vaccine
-TITLE: HPV Vaccine: Updates and Highlights.
-PMID: 30870844
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30870844/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-HPV is the most common sexually transmitted biological agent and is the cause of many conditions in men and women, including precancer lesions and cancer. Three prophylactic HPV vaccines targeting high-risk HPV types are available in many countries worldwide: 2-, 4- and 9-valent vaccines. All the 3 vaccines use recombinant DNA technology and are prepared from the purified L1 protein that self-assembles to form HPV type-specific empty shells. This non-systematic review aims to summarize the HPV epidemiology and the vaccine development to review the landmark trials of HPV vaccine, to present to most remarkable results from clinical trials and the real world, and to stress the challenges and the barriers for HPV vaccine implementation.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Insulin therapy
-TITLE: [Closed-loop insulin therapy in type 1 diabetes after age 60].
-PMID: 38070973
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38070973/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The closed-loop insulin therapy system has become an indispensable tool in the management of type 1 diabetes. This technological feat improves glycemic control while reducing the mental burden on patients. In an exploratory study, we sought to determine whether older patients, who may be less familiar with new technologies, derive the same benefits as others. Is a lack of digital skills an obstacle to improving patients' daily lives?

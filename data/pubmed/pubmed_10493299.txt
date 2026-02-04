@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Preventive medicine
-TITLE: Core competencies for preventive medicine residents: Version 2.0.
-PMID: 10493299
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10493299/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-During the early 1990s, the American College of Preventive Medicine (ACPM), with support from the Health Resources and Services Administration (HRSA), identified core competencies and performance indicators (measures to assess their achievement) for all preventive medicine residents. After the competencies were approved, distributed by the ACPM and HRSA, and published in the American Journal of Preventive Medicine, they were integrated in various ways into the operation of individual residency programs. Changes in the health care system during the decade, however, necessitated an update of the original competencies to better equip preventive medicine educators to prepare residents for new roles those in preventive medicine can play in a restructured health care system. HRSA funded an effort to produce Version 2.0 of the preventive medicine competencies based on review and refinement of the original competencies through a consensus process. This article includes these revised core competencies and performance indicators.

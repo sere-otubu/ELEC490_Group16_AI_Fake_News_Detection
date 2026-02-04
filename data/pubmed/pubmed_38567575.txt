@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vegetarian diet
-TITLE: Correlation between vegetarian diet and oral health: a systematic review.
-PMID: 38567575
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38567575/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nutrition plays a significant role in preserving the balance of the human body. Considering each person's particular characteristics, diet can directly and indirectly alter the body's immune response. The purpose of this study is to draw attention to the connection between a vegetarian diet and its impact on oral health. To determine the connection between a vegetarian diet and dental health, a search of the literature was conducted on the PubMed, Scopus, and Web of Science databases. English language and a publication year between January 1, 2013, and March 1, 2023, were the inclusion criteria for the search. There were 167 articles in total that addressed the subject of interest, and 18 of them were chosen for qualitative analysis. This study suggests that a vegetarian diet may alter oral health, namely periodontal health, tooth erosion, and oral microbiome. Even if the data collected prevents the effect of a vegetarian diet on oral health from being confirmed, this study acts as a starting point for future, more focused research.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vasectomy
-TITLE: Safety and effectiveness of vasectomy.
-PMID: 10785217
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10785217/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To recommend further research on vasectomy based on a systematic review of the effectiveness and safety of vasectomy. A systematic MEDLINE review of the literature on the safety and effectiveness of vasectomy between 1964 and 1998. Early failure rates are <1%; however, effectiveness and complications vary with experience of surgeons and surgical technique. Early complications, including hematoma, infection, sperm granulomas, epididymitis-orchitis, and congestive epididymitis, occur in 1%-6% of men undergoing vasectomy. Incidence of epididymal pain is poorly documented. Animal and human data indicate that vasectomy does not increase atherosclerosis and that increases in circulating immune complexes after vasectomy are transient in men with vasectomies. The weight of the evidence regarding prostate and testicular cancer suggests that men with vasectomy are not at increased risk of these cancers. Publications to date continue to support the conclusion that vasectomy is a highly effective form of contraception. Future studies should include evaluations of the long-term effectiveness of vasectomy, evaluating criteria for postvasectomy discontinuation of alternative contraception for use in settings where semen analysis is not practical, and characterizing complications including chronic epididymal pain syndrome.

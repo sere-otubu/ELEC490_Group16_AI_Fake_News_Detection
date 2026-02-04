@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Water quality and health
-TITLE: Deriving Human Health and Aquatic Life Water Quality Criteria in the United States for Bioaccumulative Substances: A Historical Review and Future Perspective.
-PMID: 34062012
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34062012/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Methods used to derive water quality regulations for persistent, bioaccumulative, and toxic substances (PBTs) in the United States have evolved substantially over the past 50 yr, leveraging current understandings and assumptions about the nature and magnitude of partitioning and accumulation of substances in water, sediments, and organisms. In the United States and across the world, environmental regulations continue to evolve into more refined water quality criteria protective of aquatic life and human health. The present review provides historical context on the establishment of aquatic life and human health water quality criteria in the United States by compiling information from regulatory agencies and peer-reviewed literature on methods used to characterize and quantify bioaccumulation of substances in aquatic organisms and humans. Primary data needs and assumptions for various methods, as well as their application in setting criteria by the US Environmental Protection Agency over the past half century, are highlighted. Our review offers an important retrospective on the data and methods used to derive water quality criteria for PBTs and provides commentary on the future of US criteria development. Environ Toxicol Chem 2021;40:2394-2405. © 2021 SETAC.

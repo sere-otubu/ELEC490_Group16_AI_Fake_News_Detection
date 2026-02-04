@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Bronchitis
-TITLE: Protracted bacterial bronchitis in children.
-PMID: 28828815
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28828815/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Protracted bacterial bronchitis is a common cause of persistent, wet cough in pre-school children. The condition has been described relatively recently, and knowledge of the diagnosis may be an aid to making the correct assessment of children with chronic cough, helping to ensure that the symptoms are not misinterpreted and treated as asthma.

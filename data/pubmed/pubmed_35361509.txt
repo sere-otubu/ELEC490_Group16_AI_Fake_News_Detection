@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ergonomics
-TITLE: Ergonomics in Radiology: Improving the Work Environment for Radiologists.
-PMID: 35361509
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35361509/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Implementation of optimal ergonomic setups of workstations and reading rooms can help to improve the overall quality of life for most radiologists by preventing repetitive stress injuries and potentially improving efficiency. It is important for radiologists to know what optimal ergonomic setups are and what works for the individual person in order to implement the best possible ergonomic setups as they may differ from person to person. These issues have become more important recently as many radiologists have been working from home and will continue to do so, at least partially, during the COVID-19 pandemic. In this paper, we aim to increase awareness of sound ergonomic principles and discuss possible options for individual optimization along with practical tips for implementation of optimal ergonomic setups.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Robotic surgery
-TITLE: Pediatric Robotic Surgery.
-PMID: 32169188
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32169188/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Pediatric robotic-assisted surgery is quickly gaining traction in pediatric surgical disciplines but presents unique challenges as compared to adult robotic surgery. Small abdominal and thoracic cavities limit working space and operative indications differ from the adult population. This article describes the development of pediatric robotic-assisted surgery, discusses technical limitations and benefits, and reviews training considerations particular to robotic surgery. Applications and published outcomes of common procedures in urology, general and thoracic surgery, otolaryngology, and pediatric surgical oncology are described. Finally, costs and the anticipated future direction of pediatric robotic-assisted surgery are discussed.

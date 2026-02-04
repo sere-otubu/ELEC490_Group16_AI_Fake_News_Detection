@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dopamine
-TITLE: Dopamine, Updated: Reward Prediction Error and Beyond.
-PMID: 33197709
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33197709/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Dopamine neurons have been intensely studied for their roles in reinforcement learning. A dominant theory of how these neurons contribute to learning is through the encoding of a reward prediction error (RPE) signal. Recent advances in dopamine research have added nuance to RPE theory by incorporating the ideas of sensory prediction error, distributional encoding, and belief states. Further nuance is likely to be added shortly by convergent lines of research on dopamine neuron diversity. Finally, a major challenge is to reconcile RPE theory with other current theories of dopamine function to account for dopamine's role in movement, motivation, and goal-directed planning.

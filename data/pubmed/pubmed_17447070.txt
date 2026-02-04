@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ultrasound
-TITLE: High-resolution ultrasound of peripheral neurogenic tumors.
-PMID: 17447070
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17447070/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Peripheral nerve tumors are not frequent, but due to their association with a nerve they are somewhat special. They may be encountered incidentally during evaluation of a soft-tissue mass or when a nerve lesion is clinically suspected and the recognition of such a lesion and its differential diagnosis is key for successful therapy and patient prognosis. As sonography is often the first line modality in the work-up of a soft-tissue mass, the sonographer should be aware of the typical features of such lesions in order to arrive at the correct diagnosis, and this article tries to give an overview of the histological subtypes of peripheral nerve tumors and their sonographic characteristics.

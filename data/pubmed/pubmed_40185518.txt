@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Parkinsons disease
-TITLE: Pathogenesis of Parkinson's Disease.
-PMID: 40185518
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40185518/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Both genetic and environmental factors modulate the risk of Parkinson's disease. In this article, all these pathophysiologic processes that contribute to damages at the tissue, cellular, organelle, and molecular levels, and their effects are talked about.

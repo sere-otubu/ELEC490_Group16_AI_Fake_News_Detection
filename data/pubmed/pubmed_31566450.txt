@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Telemedicine adoption
-TITLE: Adoption mechanism of telemedicine in underdeveloped country.
-PMID: 31566450
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31566450/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The purpose of this study is to reveal the influential mechanism on patients' adoption intention of telemedicine in the underdeveloped areas. Based on 896 patients' data collected in Pakistan, we found that patients' adoption intention is a function of traveling cost, attitudes, and perceived usefulness. High traveling cost is found to have the most significant negative influence on adoption intention. Patients with shorter distance prefer more to use telemedicine. Traveling cost, traveling time, and traveling distance have indirect influences on adoption intention through their significant impacts on perceived usefulness and perceived ease of use. Our findings indicate that geographic locations does matter during promotion of telemedicine. This study also helps identify the true barriers and facilitators to large-scale adoption of telemedicine in developing countries and reduce the gap of healthcare equity as concerned by both UN Millennium Development Goals and UN Sustainable Development Goals.

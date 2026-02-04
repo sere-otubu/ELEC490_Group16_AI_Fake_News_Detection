@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Creatine
-TITLE: Creatine Use in Sports.
-PMID: 29059531
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29059531/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The use of creatine as a dietary supplement has become increasingly popular over the past several decades. Despite the popularity of creatine, questions remain with regard to dosing, effects on sports performance, and safety. PubMed was searched for articles published between 1980 and January 2017 using the terms creatine, creatine supplementation, sports performance, and dietary supplements. An additional Google search was performed to capture National Collegiate Athletic Association-specific creatine usage data and US dietary supplement and creatine sales. Clinical review. Level 4. Short-term use of creatine is considered safe and without significant adverse effects, although caution should be advised as the number of long-term studies is limited. Suggested dosing is variable, with many different regimens showing benefits. The safety of creatine supplementation has not been studied in children and adolescents. Currently, the scientific literature best supports creatine supplementation for increased performance in short-duration, maximal-intensity resistance training. While creatine appears to be safe and effective for particular settings, whether creatine supplementation leads to improved performance on the field of play remains unknown.

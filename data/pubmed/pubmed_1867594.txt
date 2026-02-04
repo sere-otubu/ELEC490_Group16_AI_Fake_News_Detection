@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Conjunctivitis
-TITLE: Conjunctivitis.
-PMID: 1867594
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1867594/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Most cases of conjunctivitis are either viral in origin, which makes them extremely contagious and usually self-limited, or bacterial, which usually requires topical antibiotic therapy. Prolonged follicular conjunctivitis should be considered chlamydial in origin and requires systematic antibiotic therapy.

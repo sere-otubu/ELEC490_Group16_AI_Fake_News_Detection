@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tonsillitis
-TITLE: Bacterial colonisation of surface and core of palatine tonsils among Tanzanian children with recurrent chronic tonsillitis and obstructive sleep apnoea who underwent (adeno)tonsillectomy.
-PMID: 37332170
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37332170/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Acute and chronic tonsillitis are frequently treated with antibiotics. This study aimed to understand the presence of pathogenic micro-organisms on the surface and core of chronically infected tonsils among Tanzanian children. The study enrolled children undergoing adenotonsillectomy. Surface and core tonsillar swabs were taken. Quantitative polymerase chain reaction was performed for <i>Streptococcus pneumoniae</i>, <i>Haemophilus influenzae</i>, <i>Moraxella catarrhalis</i>, <i>Staphylococcus aureus</i>, <i>Neisseria meningitidis</i> and <i>Pseudomonas aeruginosa</i>. Surface and core combined, isolated <i>N meningitidis</i> (86.1 per cent) was found the most, followed by <i>H influenzae</i> (74.9 per cent), <i>S pneumoniae</i> (42.6 per cent) and <i>S aureus</i> (28.7 per cent). <i>M catarrhalis</i> and <i>P aeruginosa</i> were only found in a few patients, 5.6 per cent and 0.8 per cent respectively. Colonisation of the tonsillar surface and core has been found. Potentially pathogenic micro-organisms are likely to be missed based on a throat swab. Hence, the practice of surface tonsillar swabbing may be misleading or insufficient.

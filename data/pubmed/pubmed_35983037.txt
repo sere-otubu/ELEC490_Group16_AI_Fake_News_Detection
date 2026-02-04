@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Carbohydrates types
-TITLE: Carbohydrates Metabolic Signatures in Immune Cells: Response to Infection.
-PMID: 35983037
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35983037/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Metabolic reprogramming in immune cells is diverse and distinctive in terms of complexity and flexibility in response to heterogeneous pathogenic stimuli. We studied the carbohydrate metabolic changes in immune cells in different types of infectious diseases. This could help build reasonable strategies when understanding the diagnostics, prognostics, and biological relevance of immune cells under alternative metabolic burdens. Search and analysis were conducted on published peer-reviewed papers on immune cell metabolism of a single pathogen infection from the four known types (bacteria, fungi, parasites, and viruses). Out of the 131 selected papers based on the PIC algorithm (pathogen type/immune cell/carbohydrate metabolism), 30 explored immune cell metabolic changes in well-studied bacterial infections, 17 were on fungal infections of known medical importance, and 12 and 57 were on parasitic and viral infections, respectively. While carbohydrate metabolism in immune cells is signaled by glycolytic shift during a bacterial or viral infection, it is widely evident that effector surface proteins are expressed on the surface of parasites and fungi to modulate metabolism in these cells. Carbohydrate metabolism in immune cells can be categorized according to the pathogen or the disease type. Accordingly, this classification can be used to adopt new strategies in disease diagnosis and treatment.

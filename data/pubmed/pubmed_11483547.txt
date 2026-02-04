@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 11483547)
-    QUESTION: Does the aggressive use of polyvalent antivenin for rattlesnake bites result in serious acute side effects?
-    CONTEXT: To determine the incidence and severity of acute side effects from the use of polyvalent antivenin in victims of rattlesnake bites.
-    ANSWER: The administration of polyvalent Crotalidae antivenin is safe. Acute hypersensitivity, when it occurs, consists solely in most cases of urticaria. Serious side effects are uncommon.
-    

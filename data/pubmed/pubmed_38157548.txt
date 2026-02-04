@@ -1,8 +1,0 @@
-SEARCH_TOPIC: X ray imaging
-TITLE: Measurements of the noise power spectrum for digital x-ray imaging devices.
-PMID: 38157548
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38157548/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-<i>Objective.</i>The noise characteristics of digital x-ray imaging devices are determined by contributions such as photon noise, electronic noise, and fixed pattern noise, and can be evaluated from measuring the noise power spectrum (NPS), which is the power spectral density of the noise. Hence, accurately measuring NPS is important in developing detectors for acquiring low-noise digital x-ray images. To make accurate measurements, it is necessary to understand NPS, identify problems that may arise, and know how to process the obtained x-ray images.<i>Approach.</i>The primitive concept of NPS is first introduced with a periodogram-based estimate and its bias and variance are discussed. In measuring NPS based on the IEC62220 standards, various issues, such as the fixed pattern noise, high-precision estimates, and lag corrections, are summarized with simulation examples.<i>Main results.</i>High-precision estimates can be provided for an appropriate number of samples extracted from x-ray images while compromising spectral resolution. Depending on medical imaging systems, by eliminating the influence of fixed pattern noise, NPS, which represents only photon and electronic noise, can be efficiently measured. For NPS measurements in dynamic detectors, an appropriate lag correction technique can be selected depending on the emitted x-rays and image acquisition process.<i>Significance.</i>Various issues in measuring NPS are reviewed and summarized for accurately evaluating the noise performance of digital x-ray imaging devices.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Oral hygiene
-TITLE: Oral hygiene: past history and future recommendations.
-PMID: 16451382
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16451382/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Review of the dental literature reveals a changing emphasis attached to maintenance of optimal oral hygiene among patients over time. Moreover, a different relationship to this topic has been evident in the USA, Britain and Scandinavia. These changes, differences, and the rationale behind them, are described. The age of initiating oral hygiene practice and the optimal frequency of dental cleaning is discussed. Finally, recommendations are offered concerning oral hygiene promotion, both at the individual and community levels.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sexual health
-TITLE: Sexual Health in Women Affected by Gynecologic or Breast Cancer.
-PMID: 38207333
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38207333/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sexual health problems are prevalent among women affected by gynecologic or breast cancer. It is important to understand the effects cancer treatment can have on sexual health and to have the tools necessary to identify and treat sexual health problems. This Clinical Expert Series discusses practical methods for routinely screening for sexual dysfunction and reviews sexual health treatment options for women affected by cancer. We review the limitations of the current literature in addressing sexual health problems among sexually and gender minoritized communities. Finally, we discuss appropriate timing of referrals to sexual health experts, physical therapists, and sex therapists. Multiple resources available for both patients and clinicians are included.

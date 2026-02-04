@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Kidney stones
-TITLE: Kidney Stones: Treatment and Prevention.
-PMID: 30990297
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30990297/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Kidney stones are a common disorder, with an annual incidence of eight cases per 1,000 adults. During an episode of renal colic, the first priority is to rule out conditions requiring immediate referral to an emergency department, then to alleviate pain, preferably with a nonsteroidal anti-inflammatory drug. The diagnostic workup consists of urinalysis, urine culture, and imaging to confirm the diagnosis and assess for conditions requiring active stone removal, such as urinary infection or a stone larger than 10 mm. Conservative management consists of pain control, medical expulsive therapy with an alpha blocker, and follow-up imaging within 14 days to monitor stone position and assess for hydronephrosis. Asymptomatic kidney stones should be followed with serial imaging, and should be removed in case of growth, symptoms, urinary obstruction, recurrent infections, or lack of access to health care. All patients with kidney stones should be screened for risk of stone recurrence with medical history, basic laboratory evaluation, and imaging. Lifestyle modifications such as increased fluid intake should be recommended for all patients, and thiazide diuretics, allopurinol, or citrates should be prescribed for patients with recurrent calcium stones. Patients at high risk of stone recurrence should be referred for additional metabolic assessment, which can serve as a basis for tailored preventive measures.

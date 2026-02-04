@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Whey protein
-TITLE: Whey protein concentrates and isolates: processing and functional properties.
-PMID: 8216810
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8216810/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Substantial progress has been made in understanding the basic chemical and structural properties of the principal whey proteins, that is, beta-lactoglobulin (beta-Lg), alpha-lactalbumin (alpha-La), bovine serum albumin (BSA), and immunoglobulin (Ig). This knowledge has been acquired in terms of: (1) procedures for isolation, purification, and characterization of the individual whey proteins in buffer solutions; and (2) whey fractionation technologies for manufacturing whey protein concentrates (WPC) with improved chemical and functional properties in food systems. This article is a critical review of selected publications related to (1) whey fractionation technology for manufacturing WPC and WPI; (2) fundamental properties of whey proteins; and (3) factors that affect protein functionality, that is, composition, protein structure, and processing.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mastectomy
-TITLE: Seroma after Simple Mastectomy in Breast Cancer-The Role of CD4+ T Helper Cells and the Evidence as a Possible Specific Immune Process.
-PMID: 35563236
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35563236/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Seroma development after breast cancer surgery is the most common postoperative complication seen after mastectomy but neither its origin nor its cellular composition is known. To investigate the assumption of immunological significance, one of the first aims of this pilot study is to describe the cellular content of collected seroma fluids and its corresponding serum in patients with simple mastectomy after needle aspiration, as well as the serum of healthy controls. The content of red blood cells (RBC) was measured by haemato-counter analyses, and the lymphocyte identification/quantification was conducted by flow cytometry analyses in seroma fluid (SFl) and the sera of patients (PBp) as well as controls (PBc). Significantly lower numbers of RBCs were measured in SFl. Cytotoxic T cells are significantly reduced in SFl, whereas T helper (Th) cells are significantly enriched compared to PBp. Significantly higher numbers of Th2 cells were found in SFl and PBp compared to PBc. The exact same pattern is seen when analyzing the Th17 subgroup. In conclusion, in contrast to healthy controls, significantly higher Th2 and Th17 cell subgroup-mediated immune responses were measured in seroma formations and were further confirmed in the peripheral blood of breast cancer (including DCIS) patients after simple mastectomy. This could lead to the assumption of a possible immunological cause for the origin of a seroma.

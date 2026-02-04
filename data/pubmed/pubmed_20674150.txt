@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20674150)
-    QUESTION: Validation of the 2009 TNM version in a large multi-institutional cohort of patients treated for renal cell carcinoma: are further improvements needed?
-    CONTEXT: A new edition of the TNM was recently released that includes modifications for the staging system of kidney cancers. Specifically, T2 cancers were subclassified into T2a and T2b (<or =10 cm vs>10 cm), tumors with renal vein involvement or perinephric fat involvement were classified as T3a cancers, and those with adrenal involvement were classified as T4 cancers.
-    ANSWER: The recently released seventh edition of the primary tumor staging system for kidney tumors is a powerful predictor of CSS. However, some of the substages identified by the classification have overlapping prognoses, and other substages include patients with heterogeneous outcomes. The few modifications included in this edition may have not resolved the most critical issues in the previous version.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Breast cancer
-TITLE: Breast cancer: Biology, biomarkers, and treatments.
-PMID: 32361569
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32361569/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-During the past recent years, various therapies emerged in the era of breast cancer. Breast cancer is a heterogeneous disease in which genetic and environmental factors are involved. Breast cancer stem cells (BCSCs) are the main player in the aggressiveness of different tumors and also, these cells are the main challenge in cancer treatment. Moreover, the major obstacle to achieve an effective treatment is resistance to therapies. There are various types of treatment for breast cancer (BC) patients. Therefore, in this review, we present the current treatments, novel approaches such as antibody-drug conjugation systems (ADCs), nanoparticles (albumin-, metal-, lipid-, polymer-, micelle-based nanoparticles), and BCSCs-based therapies. Furthermore, prognostic and predictive biomarkers will be discussed also biomarkers that have been applied by some tests such as Oncotype DX, Mamm αPrint, and uPA/PAI-1 are regarded as suitable prognostic and predictive factors in breast cancer.

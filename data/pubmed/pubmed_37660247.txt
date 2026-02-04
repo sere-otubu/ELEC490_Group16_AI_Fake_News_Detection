@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Metabolism basics
-TITLE: The basics of phosphate metabolism.
-PMID: 37660247
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37660247/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Phosphorus is an essential mineral that is, in the form of inorganic phosphate (Pi), required for building cell membranes, DNA and RNA molecules, energy metabolism, signal transduction and pH buffering. In bone, Pi is essential for bone stability in the form of apatite. Intestinal absorption of dietary Pi depends on its bioavailability and has two distinct modes of active transcellular and passive paracellular absorption. Active transport is transporter mediated and partly regulated, while passive absorption depends mostly on bioavailability. Renal excretion controls systemic Pi levels, depends on transporters in the proximal tubule and is highly regulated. Deposition and release of Pi into and from soft tissues and bone has to be tightly controlled. The endocrine network coordinating intestinal absorption, renal excretion and bone turnover integrates dietary intake and metabolic requirements with renal excretion and is critical for bone stability and cardiovascular health during states of hypophosphataemia or hyperphosphataemia as evident from inborn or acquired diseases. This review provides an integrated overview of the biology of phosphate and Pi in mammals.

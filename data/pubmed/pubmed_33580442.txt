@@ -1,8 +1,0 @@
-SEARCH_TOPIC: OCD
-TITLE: On the Development of OCD.
-PMID: 33580442
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33580442/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-OCD most often arises before adulthood with adolescence being a particularly vulnerable period. This is also a time when both brain and cognition undergo fundamental developmental change and reorganisation. However, the neurocognitive mechanisms that drive the emergence of OCD during development are still largely unknown. In this chapter, I review the relatively sparse literature on the developmental aspects of OCD and I discuss the symptomatic, cognitive and neural patterns in OCD and the developing mind. I highlight how we need to understand the emergence of cognitive impairments and neural alteration in a developmental context if we want to understand more about the mechanisms that give rise to OCD. Moreover, I outline how we best approach this challenge to overcome the current limitations in research.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Public health policy
-TITLE: Use of Comparative Case Study Methodology for US Public Health Policy Analysis: A Review.
-PMID: 27798523
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27798523/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There is growing recognition that policies influence population health, highlighting the need for evidence to inform future policy development and reform. This review describes how comparative case study methodology has been applied to public health policy research and discusses the methodology's potential to contribute to this evidence. English-language, peer-reviewed articles published between 1995 and 2012 were sought from 4 databases. Articles were included if they described comparative case studies addressing US public health policy. Two researchers independently assessed the 20 articles meeting review criteria. Case-related characteristics and research design tactics utilized to minimize threats to reliability and validity, such as the use of multiple sources of evidence and a case study protocol, were extracted from each article. Although comparative case study methodology has been used to analyze a range of public health policies at all stages and levels, articles reported an average use of only 3.65 (out of 10) research design tactics. By expanding the use of accepted research design tactics, public health policy researchers can contribute to expanding the evidence needed to advance health-promoting policies.

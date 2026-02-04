@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anemia
-TITLE: Macrocytic anemia.
-PMID: 8546042
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8546042/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In approximately 2 to 4 percent of patients, laboratory evidence of macrocytosis is found. Macrocytic anemias are classified as those resulting from disorders of DNA synthesis of erythrocyte precursors in bone marrow (megaloblastic anemias) or those caused primarily by alcoholism, liver disease and hypothyroidism (nonmegaloblastic anemias). A blood smear should be performed to differentiate the two forms. Neutrophil hypersegmentation is one of the most sensitive and specific signs of megaloblastic anemia. Other testing should include vitamin B12 and red blood cell folate levels, reticulocyte count, and thyroid and liver function tests. The Schilling test can determine if B12 can be absorbed and, if not, whether adding intrinsic factor corrects the malabsorption. The most common form of nonmegaloblastic macrocytic anemia results from alcoholism. Nonmegaloblastic macrocytic anemias may be accompanied by increased reticulocyte counts (hemolysis, hemorrhage) or by normal or decreased reticulocyte counts (alcoholism, liver disease, hypothyroidism and various bone marrow disorders).

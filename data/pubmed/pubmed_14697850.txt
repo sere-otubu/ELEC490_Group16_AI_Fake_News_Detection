@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Spinal fusion
-TITLE: Spinal fusion surgery: animal models for tissue-engineered bone constructs.
-PMID: 14697850
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/14697850/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Animal models have been used extensively to investigate the biology of fracture healing and spinal fusion. The goal of each spinal fusion model is to try and reproduce the correct sequence of events during osseous healing in humans. Animal models allow us the capability of dialing in fusion rates and fusion parameters depending upon the study conditions. These models have become invaluable in assessing the clinical potential of emerging technologies such as recombinant growth factors and gene therapy.

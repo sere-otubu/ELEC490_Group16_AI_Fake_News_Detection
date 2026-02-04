@@ -1,8 +1,0 @@
-SEARCH_TOPIC: White blood cells
-TITLE: Evaluation of Patients with Leukocytosis.
-PMID: 26760415
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26760415/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-An elevated white blood cell count has many potential etiologies, including malignant and nonmalignant causes. It is important to use age- and pregnancy-specific normal ranges for the white blood cell count. A repeat complete blood count with peripheral smear may provide helpful information, such as types and maturity of white blood cells, uniformity of white blood cells, and toxic granulations. The leukocyte differential may show eosinophilia in parasitic or allergic conditions, or it may reveal lymphocytosis in childhood viral illnesses. Leukocytosis is a common sign of infection, particularly bacterial, and should prompt physicians to identify other signs and symptoms of infection. The peripheral white blood cell count can double within hours after certain stimuli because of the large bone marrow storage and intravascularly marginated pools of neutrophils. Stressors capable of causing an acute leukocytosis include surgery, exercise, trauma, and emotional stress. Other nonmalignant etiologies of leukocytosis include certain medications, asplenia, smoking, obesity, and chronic inflammatory conditions. Symptoms suggestive of a hematologic malignancy include fever, weight loss, bruising, or fatigue. If malignancy cannot be excluded or another more likely cause is not suspected, referral to a hematologist/oncologist is indicated.

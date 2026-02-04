@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pineal gland
-TITLE: The pineal gland from development to function.
-PMID: 24290350
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24290350/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The pineal gland is a small neuroendocrine organ whose main and most conserved function is the nighttime secretion of melatonin. In lower vertebrates, the pineal gland is directly photosensitive. In contrast, in higher vertebrates, the direct photosensitivity of the pineal gland had been lost. Rather, the action of this gland as a relay between environmental light conditions and body functions involves reception of light information by the retina. In parallel to this sensory regression, the pineal gland (and its accessory organs) appears to have lost several functions in relation to light and temperature, which are important in lower vertebrate species. In humans, the functions of the pineal gland overlap with the functions of melatonin. They are extremely widespread and include general effects both on cell protection and on more precise functions, such as sleep and immunity. Recently, the role of melatonin has received a considerable amount of attention due to increased cancer risk in shift workers and the discovery that patients suffering from neurodegenerative diseases, autism, or depression exhibit abnormal melatonin rhythms.

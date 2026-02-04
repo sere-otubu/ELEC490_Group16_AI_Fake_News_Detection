@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mumps
-TITLE: [Mumps epidemiology--worldwide].
-PMID: 7747526
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7747526/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Mumps is an acute viral infection that is endemic worldwide and that occurs primarily in school-age children and adolescents. The most prominent manifestation is tender swelling of the parotid gland. The course of the disease is usually mild and selflimited. Meningitis and orchitis, the latter more common in postpubertal persons, are less frequent manifestations of this disease. As characteristic of many viral infections the severity of the illness increases with age. In the present review first the most important epidemiologic parameters of mumps are presented, as well as the various clinical manifestations and complications. Further the epidemiology of mumps in developing and in industrialized countries is discussed. Breakthrough infections with mumps occurring with either low or high vaccination coverage are described.

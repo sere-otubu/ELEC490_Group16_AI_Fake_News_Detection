@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Prebiotics
-TITLE: Prebiotics: why definitions matter.
-PMID: 26431716
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26431716/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The prebiotic concept was introduced twenty years ago, and despite several revisions to the original definition, the scientific community has continued to debate what it means to be a prebiotic. How prebiotics are defined is important not only for the scientific community, but also for regulatory agencies, the food industry, consumers and healthcare professionals. Recent developments in community-wide sequencing and glycomics have revealed that more complex interactions occur between putative prebiotic substrates and the gut microbiota than previously considered. A consensus among scientists on the most appropriate definition of a prebiotic is necessary to enable continued use of the term.

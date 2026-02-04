@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Epilepsy
-TITLE: [Neuropathology of epilepsy].
-PMID: 33092907
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33092907/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The neuropathology of epilepsy aims at diagnosing the cerebral lesions underlying epilepsy that are obtained from epilepsy surgery, or rarely from biopsy or autopsy. The main histopathological and immunohistochemical characteristics of several entities are described: epilepsy-associated hippocampal sclerosis, long-term epilepsy-associated tumours, cortical malformations, vascular malformations, glial scars, encephalitides, and focal neuronal lipofuscinosis. The diagnostic approach, the differential diagnosis and the histochemical and immunohistochemical tools are detailed in order to provide the pathologist with a summarized toolkit to handle the broad range of epileptogenic lesions.

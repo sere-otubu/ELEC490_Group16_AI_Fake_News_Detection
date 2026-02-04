@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Influenza
-TITLE: Influenza Virus Infects and Depletes Activated Adaptive Immune Responders.
-PMID: 34189857
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34189857/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Influenza infections cause several million cases of severe respiratory illness, hospitalizations, and hundreds of thousands of deaths globally. Secondary infections are a leading cause of influenza's high morbidity and mortality, and significantly factored into the severity of the 1918, 1968, and 2009 pandemics. Furthermore, there is an increased incidence of other respiratory infections even in vaccinated individuals during influenza season. Putative mechanisms responsible for vaccine failures against influenza as well as other respiratory infections during influenza season are investigated. Peripheral blood mononuclear cells (PBMCs) are used from influenza vaccinated individuals to assess antigen-specific responses to influenza, measles, and varicella. The observations made in humans to a mouse model to unravel the mechanism is confirmed and extended. Infection with influenza virus suppresses an ongoing adaptive response to vaccination against influenza as well as other respiratory pathogens, i.e., Adenovirus and Streptococcus pneumoniae by preferentially infecting and killing activated lymphocytes which express elevated levels of sialic acid receptors. These findings propose a new mechanism for the high incidence of secondary respiratory infections due to bacteria and other viruses as well as vaccine failures to influenza and other respiratory pathogens even in immune individuals due to influenza viral infections.

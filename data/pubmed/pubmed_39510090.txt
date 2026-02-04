@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Trauma informed care
-TITLE: Trauma-Informed Care in Undergraduate Nursing Education: An Integrative Review.
-PMID: 39510090
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39510090/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Trauma-informed care (TIC) requires health care providers and organizations to provide care in a way that assumes everyone has a trauma history (Hopper et al.). Although there has been a recent rise to investigate TIC within various nursing specialties, knowledge related to integrating TIC into nursing curricula remains unclear. An integrative review following Whittemore and Knafl procedures synthesized the literature related to TIC in undergraduate nursing education. Five themes surfaced: (1) isolated tic integration in undergraduate courses; (2) TIC for safe learning environments; (3) inconsistent TIC definitions in nursing education; (4) prerequisite nurse educator training; and (5) students recognizing an implementation gap and seeking solutions. This review highlights TIC integration challenges in nursing education, emphasizing the need for ongoing research, training, and collaboration. These efforts are vital to equip future nursing professionals with the skills to provide high-quality trauma-informed care, benefiting students, patients, and health care delivery. <b>[<i>J Nurs Educ</i>. 2024;63(11):737-745.]</b>.

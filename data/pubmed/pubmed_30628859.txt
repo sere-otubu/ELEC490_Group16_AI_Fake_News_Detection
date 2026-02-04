@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Surgery preparation
-TITLE: Tactics to Prevent Intra-Abdominal Infections in General Surgery.
-PMID: 30628859
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30628859/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Abdominal infections following surgery have many severe consequences. Several effective, well-evaluated infection prevention and control processes exist to avoid these infections. This manuscript reviews and provides supporting evidence for common management strategies useful to avoid postoperative abdominal infection. Prevention of abdominal infection begins with preparation of the environment using standard infection control practices. Peri-operative use of systemic antibiotics, an antibiotic bowel preparation in colorectal surgery, and effective antiseptic preparation of the surgical site all reduce infection rates. Peri-operative supplemental oxygenation, maintenance of core body temperature, and physiologic euglycemia will reduce both incisional and organ-space infections in the abdominal surgery patient. Strategic use of irrigation and drain placement may be useful in some circumstances. Specific methods of prevention are documented to reduce intra-abdominal infections. Prevention requires a multi-disciplinary team including the surgeon, anesthesiologist, and all operating room personnel.

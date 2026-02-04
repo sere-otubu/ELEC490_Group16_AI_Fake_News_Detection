@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Posture correction
-TITLE: Evaluating the feasibility of two post-hoc correction techniques for mitigating posture-induced measurement errors associated with wearable motion capture.
-PMID: 31285135
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31285135/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Wearable motion capture systems are commonly used to measure body kinematics outside of laboratory settings. However, commercially available systems are designed to be used with typically developed adult populations, and assume users begin with a typical standing posture. Individuals with cerebral palsy and other neuromuscular pathologies often present atypical postures that can introduce significant errors in kinematics measurements from wearable motion capture. This study examines two post-hoc correction techniques for rectifying posture-induced errors in kinematic data: (1) Direct three-dimensional realignment of the measured body segment orientations, or (2) adding the initial static joint angle to the dynamic joint angle measurements. Gait kinematics were measured for eight able-bodied participants using a commercial wearable motion capture system. Participants walked with a typical gait, simulated crouch gait, and simulated equinus. The resulting kinematics from the uncorrected and post-hoc corrected trials were compared against simultaneously recorded measurements from an optoelectric motion capture system. Both correction techniques significantly decreased the posture-induced errors in lower-limb joint angle measurements. This work establishes a basis for the application of post-hoc correction techniques, aimed at improving the performance of wearable kinematic measurement systems when used with individuals having non-typical postures.

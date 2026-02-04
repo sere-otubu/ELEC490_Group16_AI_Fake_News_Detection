@@ -1,8 +1,0 @@
-SEARCH_TOPIC: NSAIDs side effects
-TITLE: Rofecoxib.
-PMID: 11249495
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11249495/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rofecoxib (Vioxx, Merck & Co., Inc.) is a new orally-effective non-steroidal anti-inflammatory drug (NSAID) approved for treatment of acute pain, fever, primary dysmenorrhea and pain and inflammation in osteoarthritis (OA). It is also being evaluated for treatment of rheumatoid arthritis and adenomatous polyps of the colon. Rofecoxib is a specific inhibitor of cyclooxygenase-2 (COX-2), thereby inhibiting prostanoid synthesis in cells that express COX-2, including inflammatory cells. As cells in the gastrointestinal (GI) tract principally express COX-1, a different isoform of cyclooxygenase, it is predicted that rofecoxib will have less GI toxicity than other less selective NSAIDs. In clinical trials, rofecoxib was found to be as effective as other NSAIDs for management of pain and inflammation. In trials that compare rofecoxib with ibuprofen, diclofenac and indomethacin, less GI toxicity has been observed, as assayed by a decrease in lesions visible on endoscopy, by GI blood loss and, in a meta-analysis, by frequency of serious adverse GI events. The presence of COX-2 in cells other than inflammatory cells results in side effects common among NSAIDs, including peripheral oedema and hypertension. These side effects are dose-dependent. Rofecoxib, together with other branded NSAIDs, are relatively expensive, which has led to concern regarding costs versus benefits. There is also concern regarding potential risks associated with the use of rofecoxib by populations that would otherwise not tolerate NSAIDs.

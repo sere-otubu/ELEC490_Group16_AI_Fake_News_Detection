@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17483607)
-    QUESTION: Does topical N-acetylcysteine application after myringotomy cause severe otorrhea?
-    CONTEXT: The effect of topical N-acetylcysteine (NAC) application was investigated on the healing of acute experimental tympanic membrane perforations.
-    ANSWER: N-acetylcysteine may cause severe otorrhea in the healing process of tympanic membrane perforations. Further studies including histopathological examinations are required to elucidate this condition.
-    

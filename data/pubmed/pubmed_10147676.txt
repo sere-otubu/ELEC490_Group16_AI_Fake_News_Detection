@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Inhalers
-TITLE: Dry powder inhalers: advantages and limitations.
-PMID: 10147676
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10147676/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-New inhalers have been developed because of difficulty of using the conventional metered dose inhaler (MDI) and because of the impending ban on CFC's. Dry powder inhalers (DPI's) in general are easier to use than the MDI and cause fewer irritant effects. Unlike the MDI few patients develop a poor inhalation technique with continued use of DPI's. Comparisons of multidose DPI's have shown that they achieve a similar degree of bronchodilatation to the MDI. Comparisons of the Diskhaler and Turbuhaler have shown little difference in therapeutic efficacy, but most indicate patient preference for the Turbuhaler. The inspiratory flow necessary to achieve a therapeutic effect is critical with DPI's. The majority of patients with severe acute asthma can achieve a peak inspiratory flow sufficient to inhale a bronchodilator from a Turbuhaler. DPI's cannot be used with spacers; this may be a disadvantage in patients who inhale large doses of steroids.

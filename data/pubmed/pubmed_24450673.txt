@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24450673)
-    QUESTION: Delayed imaging in routine CT examinations of the abdomen and pelvis: is it worth the additional cost of radiation and time?
-    CONTEXT: The purpose of this study was to retrospectively assess the potential benefits of delayed phase imaging series in routine CT scans of the abdomen and pelvis.
-    ANSWER: An additional delayed phase through the abdomen in routine contrast-enhanced CT examinations of the abdomen and pelvis is of low yield, particularly if reliable follow-up imaging to further elucidate uncertain findings is available.
-    

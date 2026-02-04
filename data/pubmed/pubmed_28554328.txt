@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gallstones
-TITLE: The Role of Diet in the Pathogenesis of Cholesterol Gallstones.
-PMID: 28554328
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28554328/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cholesterol gallstone disease is a major health problem in Westernized countries and depends on a complex interplay between genetic factors, lifestyle and diet, acting on specific pathogenic mechanisms. Overweigh, obesity, dyslipidemia, insulin resistance and altered cholesterol homeostasis have been linked to increased gallstone occurrence, and several studies point to a number of specific nutrients as risk- or protective factors with respect to gallstone formation in humans. There is a rising interest in the identification of common and modifiable dietetic factors that put the patients at risk of gallstones or that are able to prevent gallstone formation and growth. In particular, dietary models characterized by increased energy intake with highly refined sugars and sweet foods, high fructose intake, low fiber contents, high fat, consumption of fast food and low vitamin C intake increase the risk of gallstone formation. On the other hand, high intake of monounsaturated fats and fiber, olive oil and fish (ω-3 fatty acids) consumption, vegetable protein intake, fruit, coffee, moderate alcohol consumption and vitamin C supplementation exert a protective role. The effect of some confounding factors (e.g., physical activity) cannot be ruled out, but general recommendations about the multiple beneficial effects of diet on cholesterol gallstones must be kept in mind, in particular in groups at high risk of gallstone formation.

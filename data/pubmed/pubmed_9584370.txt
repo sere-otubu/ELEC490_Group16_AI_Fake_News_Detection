@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Arthritis
-TITLE: Arthritis and arthrodesis of the hindfoot.
-PMID: 9584370
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9584370/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Arthritic involvement of the subtalar, talonavicular, and calcaneocuboid joints is a common cause of pain in the mature hindfoot. Inflammatory, degenerative, and crystalline forms of arthritis may lead to deformity and instability of joints. When medical and nonoperative management fails, painful joints are stabilized best by selective arthrodeses. Whereas, in the past, the triple arthrodesis was used extensively for many types of hindfoot deformities, single joint fusions now are used more commonly. More limited arthrodesis still may allow preservation of some hindfoot motion, thereby resulting in greater function. Various hindfoot arthritides and their biomechanical sequelae, resultant deformities, and treatment options are discussed. Arthrodesis continues to be the best treatment option for patients who have extensive hindfoot arthrosis, regardless of the underlying process.

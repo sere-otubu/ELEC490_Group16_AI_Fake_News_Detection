@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23356465)
-    QUESTION: Uniformity of evidence-based treatments in practice?
-    CONTEXT: Various factors contribute to the effective implementation of evidence-based treatments (EBTs). In this study, cognitive processing therapy (CPT) was administered in a Veterans Affairs (VA) posttraumatic stress disorder (PTSD) specialty clinic in which training and supervision were provided following VA implementation guidelines. The aim was to (a) estimate the proportion of variability in outcome attributable to therapists and (b) identify characteristics of those therapists who produced better outcomes.
-    ANSWER: This study adds to the growing body of literature documenting the importance of the individual therapist as an important factor in the change process.
-    

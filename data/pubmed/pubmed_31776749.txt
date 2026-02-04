@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Asthma
-TITLE: Epigenetics in Asthma.
-PMID: 31776749
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31776749/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Asthma is one of the most common chronic respiratory diseases linked with increased morbidity and healthcare utilization. The underlying pathophysiological processes and causal relationships of asthma with epigenetic mechanisms are partially understood. Here we review human studies of epigenetic mechanisms in asthma, with a special focus on DNA methylation. Epigenetic studies of childhood asthma have identified specific methylation signatures associated with allergic inflammation in the airway and immune cells, demonstrating a regulatory role for methylation in asthma pathogenesis. Despite these novel findings, additional research in the role of epigenetic mechanisms underlying asthma endotypes is needed. Similarly, studies of histone modifications are also lacking in asthma. Future studies of epigenetic mechanisms in asthma will benefit from data integration in well phenotyped cohorts. This review provides an overview of the current literature on epigenetic studies in human asthma, with special emphasis on methylation and childhood asthma.

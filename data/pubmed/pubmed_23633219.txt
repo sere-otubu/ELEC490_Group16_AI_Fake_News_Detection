@@ -1,8 +1,0 @@
-SEARCH_TOPIC: DNA structure
-TITLE: Structure-based DNA-targeting strategies with small molecule ligands for drug discovery.
-PMID: 23633219
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23633219/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nucleic acids are the molecular targets of many clinical anticancer drugs. However, compared with proteins, nucleic acids have traditionally attracted much less attention as drug targets in structure-based drug design, partially because limited structural information of nucleic acids complexed with potential drugs is available. Over the past several years, enormous progresses in nucleic acid crystallization, heavy-atom derivatization, phasing, and structural biology have been made. Many complicated nucleic acid structures have been determined, providing new insights into the molecular functions and interactions of nucleic acids, especially DNAs complexed with small molecule ligands. Thus, opportunities have been created to further discover nucleic acid-targeting drugs for disease treatments. This review focuses on the structure studies of DNAs complexed with small molecule ligands for discovering lead compounds, drug candidates, and/or therapeutics.

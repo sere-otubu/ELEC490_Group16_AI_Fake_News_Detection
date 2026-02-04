@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alzheimers disease
-TITLE: [Alzheimer’s disease – diagnosis and treatment].
-PMID: 33950641
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33950641/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Alzheimer's disease is the most common cause of dementia globally. Its prevalence will increase considerably in the years to come, in pace with the increasing proportion of older people. No disease-modifying treatment is currently available. Measures to mitigate risk in mid-life may potentially prevent or postpone up to 40 % of dementia cases at group level.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: GMO foods safety
-TITLE: [Food safety of GMOs].
-PMID: 20122394
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20122394/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In this presentation, we review the complexity of the different biological events which occur during life cell cycles. Indeed transgenesis is not an unknown event for cells. In the second part of this article, the complex and complete evaluation process destined to assure the food safety of GMOs, before they are released on the market, is describd. Some ansers to questions frequently asked about the GMOs are given. It is concludedthat GMOs are probably more safe than their conventional non-GM counterpart.

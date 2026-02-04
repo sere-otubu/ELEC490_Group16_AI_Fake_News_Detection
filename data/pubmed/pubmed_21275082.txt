@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Meal planning
-TITLE: The control of meal size in human subjects: a role for expected satiety, expected satiation and premeal planning.
-PMID: 21275082
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21275082/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Unlike energy expenditure, energy intake occurs during discrete events: snacks and meals. The prevailing view is that meal size is governed by physiological and psychological events that promote satiation towards the end of a meal. This review explores an alternative and perhaps controversial proposition. Specifically that satiation plays a secondary role, and that meal size (kJ) is controlled by decisions about portion size, before a meal begins. Recently, techniques have been developed that enable us to quantify 'expected satiation' and 'expected satiety' (respectively, the fullness and the respite from hunger that foods are expected to confer). When compared on a kJ-for-kJ basis, these expectations differ markedly across foods. Moreover, in self-selected meals, these measures are remarkably good predictors of the energy content of food that ends up on our plate, even more important than palatability. Expected satiation and expected satiety are influenced by the physical characteristics of a food (e.g. perceived volume). However, they are also learned. Indeed, there is now mounting evidence for 'expected-satiation drift', a general tendency for a food to have higher expected satiation as it increases in familiarity. Together, these findings show that important elements of control (discrimination and learning/adaptation) are clearly evident in plans around portion size. Since most meals are eaten in their entirety, understanding the nature of these controls should be given high priority.

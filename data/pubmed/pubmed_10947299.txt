@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ACE inhibitors
-TITLE: ACE inhibitors after myocardial infarction. Clinical and economic considerations.
-PMID: 10947299
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10947299/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Economic analysis has been extensively used to guide the use of ACE inhibitors in chronic heart failure. More recently, it has been used to guide the use of ACE inhibitors after myocardial infarction. The results of major clinical trials leave us in no doubt that ACE inhibitors are useful in the treatment of patients after myocardial infarction. The results of economic analysis unanimously indicate that ACE inhibitors are cost effective when used to treat patients after myocardial infarction. Any comparison of the different treatment strategies available suggests that all are comparably cost effective and argues for the widest possible use of ACE inhibitors in this setting. The evidence suggests that, in this context as in so many others, ACE inhibitors remain under-utilized.

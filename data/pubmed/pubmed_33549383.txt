@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Biopsy
-TITLE: Advances in Ultrasound-Guided Vacuum-Assisted Biopsy of Breast Microcalcifications.
-PMID: 33549383
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33549383/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Microcalcification is one of the significant indications for or can even be the sole mammographic feature of breast cancer, especially occult breast cancer. Biopsy and pathologic examination are the most important methods used to identify the nature of suspicious microcalcifications. Stereotactic vacuum-assisted breast biopsy (S-VAB) is the most commonly used biopsy method for microcalcifications currently because of the high detection rate of mammography for microcalcifications. However, in recent years, several clinical studies have gradually found that ultrasound-guided vacuum-assisted breast biopsy (US-VAB) could be an alternative to S-VAB for microcalcifications to some extent, and has its own advantages of flexibility, real-time performance, comfort and high accessibility compared with mammography. An overview of US-VAB of microcalcifications is provided with respect to success rate, diagnostic accuracy, advantages and limitations. On the basis of numerous studies and clinical experience, US-VAB proved to be a valid alternative to S-VAB, with comparable diagnostic accuracy if the microcalcification foci could be detected by ultrasound. And for patients with ultrasound-invisible microcalcifications who are not suitable for or tolerable of S-VAB, US-VAB combined with mammography localization of microcalcifications can also be considered.

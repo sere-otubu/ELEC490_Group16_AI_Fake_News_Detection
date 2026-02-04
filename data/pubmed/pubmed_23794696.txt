@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23794696)
-    QUESTION: Does the bracket-ligature combination affect the amount of orthodontic space closure over three months?
-    CONTEXT: To investigate the effect of bracket-ligature combination on the amount of orthodontic space closure over three months.
-    ANSWER: The hypothesis that reducing friction by modifying the bracket/ligature interface increases the rate of space closure was not supported. The major determinant of orthodontic tooth movement is probably the individual patient response.
-    

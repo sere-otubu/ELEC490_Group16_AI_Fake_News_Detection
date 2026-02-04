@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Insomnia
-TITLE: Insomnia.
-PMID: 8871975
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8871975/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The series of cases presented here should illustrate that the complaint "I can't sleep" is deceptively simple. The clinician must be prepared to gather information from many disparate aspects of the patient's history and present circumstances. Diagnostic considerations are complicated further by the significant night-to-night variation in the manifestations of the insomnia. Too often, the result of this hidden complexity is a tendency either to prescribe hypnotic drugs as a first intervention or to give signals to patients with insomnia that not much can be done and that difficulty sleeping is simply a fact of life. The sleep log can help to bring order to the jumble of insomniac experiences. It leads both the clinician and patient away from assigning too much weight to a specific instance, instead allowing more general patterns to be discerned. As order is created out of the factors contributing to the insomnia, a treatment plan can be designed that goes beyond mere symptomatic treatment.

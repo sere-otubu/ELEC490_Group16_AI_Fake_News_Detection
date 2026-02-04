@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 14978612)
-    QUESTION: Does positron emission tomography change management in primary rectal cancer?
-    CONTEXT: The influence of positron emission tomography in the management of recurrent rectal cancer is well established but its role in primary rectal cancer remains uncertain. This study therefore prospectively assesses the impact of position emission tomography scanning on the management of primary rectal cancer.
-    ANSWER: Position emission tomography scanning appears to accurately change the stage or appropriately alter the therapy of almost a third of patients with advanced primary rectal cancer. In view of this, we suggest that position emission tomography scanning be considered part of standard workup for such patients, particularly if neoadjuvant chemoradiation is being considered as part of primary management.
-    

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 14518645)
-    QUESTION: Injury and poisoning mortality among young men--are there any common factors amenable to prevention?
-    CONTEXT: Deaths from injury and poisoning (suicide, accidents, undetermined deaths, and homicide) are the major cause of death among young men aged 15-39 years in England and Wales and have been increasing in recent years.AIM: To describe common characteristics among young men who die from injury and poisoning.
-    ANSWER: Alcohol and drug use are important contributory factors to injury and poisoning deaths. More research is needed into the effects of unemployment and being single on the health of young men, and to investigate the motivations behind risk taking and self-destructive behaviour.
-    

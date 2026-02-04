@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 15222284)
-    QUESTION: The effective orifice area/patient aortic annulus area ratio: a better way to compare different bioprostheses?
-    CONTEXT: The aim of this prospective, randomized study was to compare the hemodynamic performance of the Medtronic Mosaic and Edwards Perimount bioprostheses in the aortic position, and to evaluate prosthesis-specific differences in valve sizing and valve-size labeling.
-    ANSWER: Comparisons of absolute EOA values grouped by the manufacturers' valve sizes are misleading because of specific differences in geometric dimensions. The EOA:patient aortic annulus area ratio provides a new hemodynamic index which may facilitate objective comparisons between different valve types.
-    

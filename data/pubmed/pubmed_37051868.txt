@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hormone replacement therapy
-TITLE: The effects of hormone replacement therapy on the microbiomes of postmenopausal women.
-PMID: 37051868
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37051868/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The sex steroid hormone estrogen plays a number of regulatory roles in female development. During menopause, estrogen synthesis in the ovaries decreases, which results in adverse physiological remodeling and increased risk of disease. Reduced bone density, changes in the community composition profiles of the gut and vaginal microbiome, mood swings and changes in the vaginal environment are to be expected during this time. To alleviate these changes, postmenopausal women can be prescribed hormone replacement therapy (HRT) through the use of exogenous estradiol, often in conjunction with progestin treatment, which re-induces estrogenic action throughout the body. The microbiome and estrogen have a bidirectional, regulatory relationship in the gut, while in the vaginal environment estrogen works indirectly on the microbiome through restoring the vaginal tissue environment that leads to microbial homeostasis. This review discusses what is known about how the gut and vaginal microbiomes of postmenopausal women are responding to HRT, and the potential future of microbe-based therapeutics for symptoms of menopause.

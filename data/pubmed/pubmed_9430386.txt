@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Trans fats risks
-TITLE: Trans fatty acids and cardiovascular risk.
-PMID: 9430386
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9430386/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The major source of trans unsaturated fatty acid bearing fats (trans fats) is the partially hydrogenated fats present in margarines, salad and cooking oils. When ingested, trans fats are deposited in tissues but disappear when the nutritional stimulus is removed. They have no adverse effects on growth or reproduction in rats. Trans fats are hypercholesterolemic for rabbits and monkeys but no more atherogenic than their cis counterparts. In man, trans fats elevate cholesterol but the extent of elevation may depend on the level of dietary linoleic acid. In some, but not all, studies they elevate Lp(a); the difference may reflect the presence of specific trans isomers--an area that merits further studies. Tissue of subjects with coronary disease contain no more trans fatty acids than those of controls. Reviews of the literature by expert committees in the US and UK conclude that at current levels of intake dietary trans fats pose no health problems. However, more research is needed especially with regard to pregnancy, lactation, and neonatal health. Current concerns should not deflect our attention from the larger aspects of fat and health.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chronic disease management
-TITLE: Chronic disease management for patients with respiratory disease.
-PMID: 15997951
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15997951/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-National and international awareness of the heavy burden of chronic disease has led to the development of new strategies for managing care. Elisabeth Bryant explains how self-care, education and support for more patients with complex needs should be built into planned care delivery, and emphasises that the patient is the key member of the care team.

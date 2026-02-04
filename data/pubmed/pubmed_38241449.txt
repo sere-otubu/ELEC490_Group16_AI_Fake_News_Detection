@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Acne vulgaris
-TITLE: Acne Vulgaris: Clinical Aspects and Treatments.
-PMID: 38241449
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38241449/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To review the clinical presentation and treatment of acne vulgaris. This continuing education activity is intended for physicians, physician assistants, nurse practitioners, and registered nurses with an interest in skin and wound care. After participating in this educational activity, the participant will:1. Identify a differential diagnosis of acne vulgaris.2. Recognize clinical feature of various acne vulgaris subtypes.3. Specify epidemiologic characteristics of acne vulgaris.4. Select topical, systemic, and nonpharmaceutical treatment options for a patient with acne vulgaris.

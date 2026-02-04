@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 27040842)
-    QUESTION: Does septoplasty change the dimensions of compensatory hypertrophy of the middle turbinate?
-    CONTEXT: To measure the dimensions of compensatory hypertrophy of the middle turbinate in patients with nasal septal deviation, before and after septoplasty.
-    ANSWER: The present study findings suggest that compensatory hypertrophy of the middle turbinate is not affected by septoplasty, even after one year.
-    

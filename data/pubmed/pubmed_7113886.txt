@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cardiovascular fitness
-TITLE: Cardiovascular fitness.
-PMID: 7113886
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7113886/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cardiovascular fitness is the limiting factor in endurance activity. An individual's maximum cardiac output is limited by the heart's ability to pump blood. An indicator of this is the maximum oxygen consumption rate, which is undoubtedly established by heredity. Oxygen consumption rate standardized for weight is expressed in METS. Exercise programs increase the threshold at which angina occurs by their effect on myocardial oxygen consumption rate. An exercise prescription can be written for each individual wishing to begin a cardiovascular fitness program.

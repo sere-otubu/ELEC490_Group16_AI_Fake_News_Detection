@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12407608)
-    QUESTION: Does ultrasound imaging before puncture facilitate internal jugular vein cannulation?
-    CONTEXT: To investigate whether prepuncture ultrasound evaluation of vascular anatomy facilitates internal jugular vein cannulation compared with landmark-guided puncture.
-    ANSWER: Prepuncture ultrasound evaluation did not improve the result of right internal jugular vein cannulation compared with the respiratory jugular venodilation-guided approach. When the landmark was not observed, however, the prepuncture ultrasound guidance was helpful in facilitating the cannulation.
-    

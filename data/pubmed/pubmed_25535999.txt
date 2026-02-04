@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Prebiotics
-TITLE: Prebiotics in infant formula.
-PMID: 25535999
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25535999/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The gastrointestinal microbiota of breast-fed babies differ from classic standard formula fed infants. While mother's milk is rich in prebiotic oligosaccharides and contains small amounts of probiotics, standard infant formula doesn't. Different prebiotic oligosaccharides are added to infant formula: galacto-oligosaccharides, fructo-oligosaccharide, polydextrose, and mixtures of these. There is evidence that addition of prebiotics in infant formula alters the gastrointestinal (GI) microbiota resembling that of breastfed infants. They are added to infant formula because of their presence in breast milk. Infants on these supplemented formula have a lower stool pH, a better stool consistency and frequency and a higher concentration of bifidobacteria in their intestine compared to infants on a non-supplemented standard formula. Since most studies suggest a trend for beneficial clinical effects, and since these ingredients are very safe, prebiotics bring infant formula one step closer to breastmilk, the golden standard. However, despite the fact that adverse events are rare, the evidence on prebiotics of a significant health benefit throughout the alteration of the gut microbiota is limited.

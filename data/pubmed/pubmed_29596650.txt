@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Micronutrients
-TITLE: Micronutrients, iodine status and concentrations of thyroid hormones: a systematic review.
-PMID: 29596650
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29596650/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The metabolism of thyroid hormones, which are essential for normal development, involves many proteins and enzymes. It requires iodine as a key component but is also influenced by several other micronutrients, including selenium, zinc, iron, and vitamin A. This systematic review was designed to investigate the effect of micronutrient status and supplementation on iodine status and thyroid hormone concentrations. Using the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analysis) guidelines, electronic databases were searched from their inception to April 2016. Human studies published in English and reporting data on micronutrient status and iodine status and/or thyroid hormone concentrations were included. Studies that examined the effect of micronutrient supplementation on iodine status and/or thyroid hormone concentrations were also included. A predesigned and piloted data extraction form was used to compile data from individual studies. A total of 57 studies were included: 20 intervention studies and 37 observational studies. Although observational evidence suggests that concentrations of selenium, zinc, and iron are positively associated with iodine status, data from randomized controlled trials fail to confirm this relationship. Further studies are needed to provide greater understanding of the role of micronutrient status in iodine nutrition and thyroid function to ascertain the public health implications for populations worldwide.

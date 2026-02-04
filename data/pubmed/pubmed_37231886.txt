@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Conjunctivitis
-TITLE: Meningococcal Conjunctivitis in a 54-Year-Old Man: Case Report and Review of the Literature.
-PMID: 37231886
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37231886/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Neisseria meningitidis represents an uncommon pathogen of acute bacterial conjunctivitis. In this brief report, we describe a case of meningococcal conjunctivitis in an immunocompetent adult male, with a review of the literature. The patient went to the outpatient ophthalmology clinic complaining of severe ocular discomfort, burning, and redness for more than 2 weeks and, at slit lamp examination, he was diagnosed with a mild conjunctivitis. Microbiology cultures of ocular swabs revealed the growth of colonies, as pure culture, identified as N. meningitidis of serogroup B. A diagnosis of primary meningococcal conjunctivitis was made and treatment of patient with intramuscular injections of ceftriaxone in addition to topical moxifloxacin eye drops for 2 weeks led to clinical improvement and, finally, to a complete recovery, in accordance with microbiological findings. Ophthalmologists must be aware of the possibility of primary meningococcal conjunctivitis cases, even uncommon, and the need to treat with systemic antibiotics and their close contacts with adequate antibiotic chemoprophylaxis.

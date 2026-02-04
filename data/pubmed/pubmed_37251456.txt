@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fiber intake
-TITLE: Dietary fiber intake and mortality among survivors of liver cirrhosis: A prospective cohort study.
-PMID: 37251456
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37251456/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Liver cirrhosis is associated with significant nutritional risks and poor survival rates. Little is known about the impact of dietary factors on metabolic complications and mortality from cirrhosis. The present study investigated the potential associations between dietary fibers and the risk of cirrhosis-related mortality. In this prospective study, 121 ambulatory cirrhotic patients with more than six months of cirrhosis diagnosis were followed-up for 4 years. Dietary intakes were assessed using a 168-item semi-quantitative validated food frequency questionnaire. Crude and multivariable-adjusted hazard ratios (HRs) and 95% confidence intervals (CIs) were estimated through cox proportional hazards regression models. Comparing the highest versus the lowest tertile, soluble and insoluble fiber intake was associated with 62% (HR = 0.38, 95% CI = 0.045-3.5, p trend = 0.047) and 73% (HR = 0.27, 95% CI = 0.06-1.2, p trend = 0.021) lower mortality risk, respectively, after full adjustment for potential confounders. Higher intakes of total fiber were inversely but non-significantly associated with mortality risk. Comprehensive assessment of dietary fiber intake associations with cirrhosis-related mortality showed that higher intakes of soluble and insoluble fiber were significantly associated with reduced mortality risk.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20353735)
-    QUESTION: Treatment of vitamin D deficiency in CKD patients with ergocalciferol: are current K/DOQI treatment guidelines adequate?
-    CONTEXT: Vitamin D deficiency/insufficiency (VDDI) is common in CKD patients and may be associated with abnormal mineral metabolism. It is not clear whether the K/DOQI recommended doses of ergocalciferol are adequate for correction of VDDI and hyperparathyroidism.
-    ANSWER: Current K/DOQI guidelines are inadequate for correcting VDDI or secondary hyperparathyroidism in CKD patients. Future studies should examine the effects of higher or more frequent dosing of ergocalciferol on these clinical endpoints.
-    

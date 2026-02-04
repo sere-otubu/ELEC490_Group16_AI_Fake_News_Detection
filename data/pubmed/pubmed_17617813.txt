@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Epipen
-TITLE: Doctor--how do I use my EpiPen?
-PMID: 17617813
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17617813/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Parents and children who have been prescribed an Epipen are often unable to demonstrate its correct administration. One contributory factor may be that doctors are unfamiliar with the EpiPen and are unable to demonstrate the correct administration of the pen to the family. The aim of this study was to determine the rate of correct EpiPen demonstration by junior and Senior Medical Staff at a major tertiary paediatric Hospital. Junior and Senior medical staff were scored on their ability to correctly use the EpiPen trainer. A 6 step scoring system was used. One-hundred doctors were recruited (Residents n = 31, Senior Residents n = 39, Fellow/Consultants n = 30). Junior and Senior Medical staff had similar scores for EpiPen demonstration, the number that needed to read the EpiPen instructions prior to use and the frequancy of accidental self-injection into the thumb. Only two doctors (2%) demonstrated all 6 administration steps correctly. The most frequent errors made were not holding the pen in place for >5 seconds (57%), failure to apply pressure to activate (21%), and self-injection into the thumb (16%). Ninety five doctors needed to read the instructions, and of these, only 39 (41%) then proceeded to correctly demonstrate the remaining 5 steps. Forty-five doctors had previously dispensed an EpiPen, but only three demonstrated its use to parents/children with a trainer. The majority of doctors do not know how to use an Epipen and are unable to provide appropriate education to parents/children. In 37% of cases, the demonstration would not have delivered adrenaline to a patient.

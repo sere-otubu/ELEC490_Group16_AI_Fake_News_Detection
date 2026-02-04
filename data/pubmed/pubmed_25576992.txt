@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rubella
-TITLE: Rubella.
-PMID: 25576992
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25576992/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rubella remains an important pathogen worldwide, with roughly 100,000 cases of congenital rubella syndrome estimated to occur every year. Rubella-containing vaccine is highly effective and safe and, as a result, endemic rubella transmission has been interrupted in the Americas since 2009. Incomplete rubella vaccination programmes result in continued disease transmission, as evidenced by recent large outbreaks in Japan and elsewhere. In this Seminar, we provide present results regarding rubella control, elimination, and eradication policies, and a brief review of new laboratory diagnostics. Additionally, we provide novel information about rubella-containing vaccine immunogenetics and review the emerging evidence of interindividual variability in humoral and cell-mediated innate and adaptive immune responses to rubella-containing vaccine and their association with haplotypes and single-nucleotide polymorphisms across the human genome.

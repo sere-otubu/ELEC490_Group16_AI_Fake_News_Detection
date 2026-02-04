@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Smoking cessation
-TITLE: [Smoking cessation in asthmatic patients and its impact].
-PMID: 33414027
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33414027/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The prevalence of smoking in asthmatic patients is similar to, or even higher than in the general population. This systematic review addresses (1) the effects of smoking on asthma, (2) smoking cessation strategies in asthmatic patients, and (3) the consequences of smoking cessation for people with asthma. Active or passive smoking can promote the development of asthma. The few studies on smoking cessation in asthma confirm the efficacy of validated smoking cessation strategies in these patients (nicotine replacement therapy, varenicline, bupropion, cognitive and behavioural therapies). Smoking cessation in parents with asthmatic children is essential and is based on the same strategies. Electronic cigarettes may be a useful help to quit smoking in some patients. Smoking cessation is beneficial in asthmatic smokers and associated with (1) a reduction of asthma symptoms, acute exacerbations, bronchial hyperresponsiveness, and bronchial inflammation, (2) decreased use of rescue medications and in doses of inhaled corticosteroids, (3) improved asthma control, quality of life, and lung function. In asthmatic patients, it is essential to assess smoking status and health professionals must assist them to quit smoking.

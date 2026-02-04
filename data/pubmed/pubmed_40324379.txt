@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immunotherapy
-TITLE: Complex neural-immune interactions shape glioma immunotherapy.
-PMID: 40324379
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40324379/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rich neural-immune interactions in the central nervous system (CNS) shape its function and create a unique immunological microenvironment for immunotherapy in CNS malignancies. Far from the now-debunked concept of CNS "immune privilege," it is now understood that unique immunological niches and constant immune surveillance of the brain contribute in multifaceted ways to brain health and robustly influence immunotherapy approaches for CNS cancers. Challenges include immune-suppressive and neurotoxicity-promoting crosstalk between brain, immune, and tumor cells. Developing effective immunotherapies for cancers of the nervous system will require a deeper understanding of these neural-immune-malignant cell interactions. Here, we review progress and challenges in immunotherapy for gliomas of the brain and spinal cord in light of these unique neural-immune interactions and highlight future work needed to optimize promising immunotherapies for gliomas.

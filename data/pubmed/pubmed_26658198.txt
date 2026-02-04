@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anesthesia types
-TITLE: Does regional anaesthesia improve outcome?
-PMID: 26658198
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26658198/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review examines the recent evidence of an impact of regional anaesthesia on important clinical outcomes. Evidence was obtained from a variety of studies, with increasing numbers of analyses of large databases being prominent. The benefits and limitations of these approaches are considered in order to provide a context for interpretation of the data they generate. There should be little argument that correctly performed and appropriately used regional anaesthetic techniques can provide the most effective postoperative analgesia for the duration of the block, but the majority of studies suggest that this does not translate into improved longer-term surgical outcomes. The evidence for reduced incidence of major complications when regional anaesthesia is compared with, or added to, general anaesthesia is mixed. There appears to be a small effect in reducing blood loss during major joint arthroplasty. Some, but not all, studies demonstrate a reduced incidence of respiratory and infective complications with regional anaesthesia, but the effect on cardiovascular complications is variable. There are even some data consistent with a hypothesis that general anaesthesia may be protective against postoperative cognitive dysfunction. In conclusion, there is probably no generally applicable benefit in long-term outcomes with regional anaesthesia. More likely is an interaction between patient factors, the surgical procedure, and the relative capability of the anaesthetist to manage different types of anaesthesia.

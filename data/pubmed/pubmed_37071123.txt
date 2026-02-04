@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cervical cancer
-TITLE: Cervical cancer in the pregnant population.
-PMID: 37071123
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37071123/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cervical cancer is the second most encountered cancer in pregnant patients. The 2018 International Federation of Gynecology and Obstetrics (FIGO) staging system for cervical cancer updated the staging of primary cervical carcinoma and disease process, with formal incorporation of imaging as a vital source of information in the management process to improve accuracy. Diagnosis and treatment of the pregnant population is a complex interplay of achieving adequate diagnostic information and optimal treatment while minimizing toxicity and risks to the mother and fetus. While novel imaging techniques and anticancer therapies are rapidly developed, much information on the safety and feasibility of different therapies is not yet available in the pregnant population. Therefore, managing pregnant patients with cervical cancer is complex and requires a multidisciplinary approach.

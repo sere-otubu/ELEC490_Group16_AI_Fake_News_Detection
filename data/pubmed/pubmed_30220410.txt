@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Graves disease
-TITLE: Diagnostic procedure in suspected Graves' disease.
-PMID: 30220410
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30220410/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Diagnostic procedure in suspected Graves' disease has never been studied scientifically and actual practice seems quite variable, notably between countries. Recommendations are few and weak (expert opinion). This article presents the recommendations of an expert consensus meeting organized by the French Society of Endocrinology in 2016. In case of clinically suspected thyrotoxicosis, the first-line biological assessment is of thyroid-stimulating hormone (TSH). Free T4 and possibly free T3 assays assess biological severity and are necessary for treatment efficacy monitoring. Positive diagnosis of Graves' disease after biological confirmation of thyrotoxicosis does not always require complementary etiological examinations if clinical presentation is unambiguous, notably including extra-thyroid signs. Otherwise, first-line anti-TSH-receptor (TSH-R) antibody screening is recommended for its good intrinsic performance (sensitivity and specificity) and ease of access in France. Scintigraphy is reserved to rare cases of Graves' disease with negative antibody findings or when another etiology is suspected. Thyroid ultrasound scan may be contributive, but is not recommended in first line.

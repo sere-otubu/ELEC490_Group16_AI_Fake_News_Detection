@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Self harm
-TITLE: [What is self-harm?].
-PMID: 19373303
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19373303/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The aim with this article is to provide an introduction to self-harm as a clinical phenomenon, with phenomenological descriptions and definitions, and by presenting risk factors, epidemiological data and functions of self-harm. The basis for the article is a non-systematic literature search of the electronic databases Medline, PsychInfo and EMBASE (1985 - 2008). and our own archive of literature on self-harm. There is some evidence for an increase in the prevalence of self-harm. Among possible risk factors are childhood abuse, abandonment, neglect, trauma and separation, and the affective quality of the attachment bonds in childhood. A common factor is self-harm as a bodily practice for affect regulation, and as such, it can be understood as a dysfunctional competence. To search for understanding of self-harm in individual, familiar and cultural contexts contributes to meet individuals with such tendencies with empathy and beneficial interventions.

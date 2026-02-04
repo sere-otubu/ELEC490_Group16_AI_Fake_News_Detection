@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Metformin
-TITLE: Metformin - its potential anti-cancer and anti-aging effects.
-PMID: 28258677
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28258677/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The generally accepted mechanism of metformin's effect is stimulation of adenosine monophosphate (AMP)-activated protein kinase (AMPK). AMPK is directly activated by an increase in AMP:ATP ratio in metabolic stress conditions including hypoxia and glucose deprivation. Lately, many novel pathways, besides AMPK induction, have been revealed, which can explain some of metformin's beneficial effects. It may help to identify new targets for treatment of diabetes and metabolic syndrome. Moreover, metformin is now attracting the attention of researchers in fields other than diabetes, as it has been shown to have anti-cancer, immunoregulatory and anti-aging effects. The aim of this review is to describe the potential anti-cancer and anti-aging properties of metformin and discuss the possible underlying mechanisms.

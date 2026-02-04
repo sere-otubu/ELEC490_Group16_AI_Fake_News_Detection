@@ -1,8 +1,0 @@
-SEARCH_TOPIC: HPV vaccine
-TITLE: Clinical guideline for 9-valent HPV vaccine: Korean Society of Gynecologic Oncology Guideline.
-PMID: 30740959
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30740959/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In 2016, 9-valent human papillomavirus (HPV) vaccine has been newly introduced in Korea, thus the need to develop recommendations for the vaccine has raised. Until we decide to develop a guideline, no further studies on the bi-valent or quadri-valent HPV vaccine have been announced. We searched and reviewed the literatures focused on the efficacy of 9-valent HPV vaccine, the ideal age of 3-dose schedule vaccination, the efficacy of 9-valent HPV vaccine in middle-aged women, the efficacy of the 2-dose schedule vaccination, the safety of 9-valent HPV vaccine, the possibility of additional 9-valent HPV vaccination, and cross-vaccination of 9-valent HPV vaccine. So, Korean Society of Gynecologic Oncology (KSGO) developed a guideline only for 9-valent HPV vaccine.

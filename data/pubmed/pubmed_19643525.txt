@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19643525)
-    QUESTION: Can vaginal pH be measured from the wet mount slide?
-    CONTEXT: To assess the accuracy of vaginal pH measurement on wet mount microscopy slides compared with direct measurements on fresh vaginal fluid. We also tested whether differences in accuracy were dependent on the sampling devices used or on the diagnosis of the vaginal infections.
-    ANSWER: Vaginal pH should be measured by bringing the pH strip in direct contact with fresh vaginal fluid without first adding saline.
-    

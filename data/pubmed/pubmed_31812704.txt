@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Endometriosis
-TITLE: Adolescent Endometriosis: An Update.
-PMID: 31812704
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31812704/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Endometriosis is the leading pathologic cause of dysmenorrhea and chronic pelvic pain among adolescents. The appearance of endometriosis in adolescents may be different from that in female adults, resulting in delayed recognition and intervention. This article addresses the epidemiology, pathophysiology, clinical presentation, diagnosis, and management of endometriosis in the adolescent.

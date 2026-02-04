@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Body composition
-TITLE: Body composition in sexual precocity.
-PMID: 34839325
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34839325/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In this review, we have summarized the current data on the effect of sexual precocity and treatment with gonadotropin-releasing hormone analogues (GnRHa) on body composition. Higher body weight and weight gain in infancy and childhood may increase the risk of early puberty in girls. The relation between BMI and pubertal onset in boys is controversial. Current studies draw attention to the fact that a similar relationship may exist in boys too. Obesity prevalence is high among girls with central precocious puberty (CPP) and treatment with GnRHa has a different effect on BMI according to baseline body composition. Although BMI values of normal weight girls tend to increase under treatment, they return to normal following treatment. The few studies that have followed up body composition longitudinally in girls show a gradual increase in adiposity, decrease in muscle mass and bone mineral density during GnRHa treatment, whereas bone mass was preserved after treatment. Adequate data are not available in boys to determine the effect of GnRHa therapy on body composition. Body composition and fat distribution should be monitored longitudinally in patients with CPP treated with GnRHa to ascertain the long-term effects of therapy.

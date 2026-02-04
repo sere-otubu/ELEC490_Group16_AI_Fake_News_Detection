@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Calorie counting
-TITLE: Time-restricted eating: Watching the clock to treat obesity.
-PMID: 38176412
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38176412/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Time-restricted eating (TRE) has become a popular strategy to treat obesity. TRE involves confining the eating window to 4-10 h per day and fasting for the remaining hours (14-20 h fast). During the eating window, individuals are not required to monitor food intake. The sudden rise in popularity of TRE is most likely due to its simplicity and the fact that it does not require individuals to count calories to lose weight. This feature of TRE may appeal to certain individuals with obesity, and this could help produce lasting metabolic health improvements. The purpose of this review is to summarize current evidence from randomized clinical trials of TRE (without calorie counting) on body weight and metabolic risk factors. The efficacy of TRE in various populations groups, including those with obesity, type 2 diabetes (T2DM), and polycystic ovary syndrome (PCOS), is also examined.

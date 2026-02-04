@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Electronic health records
-TITLE: Use of Electronic Health Records by Nurses for Symptom Management in Inpatient Settings: A Systematic Review.
-PMID: 28240616
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28240616/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Symptom management is one of the essential functions of nurses in inpatient settings; yet, little is understood about the manner in which nurses use electronic health records for symptom documentation. Therefore, the purpose of this systematic review is to characterize nurses' use of electronic health records for documentation of symptom assessment and management in inpatient settings, to inform design studies that better support electronic health records for patient symptom management by nurses. We searched the Ovid Medline (1946-current), Cumulative Index to Nursing and Allied Health Literature (EBSCO, 1981-current), and Excerpta Medica Database (Embase.com, 1974-current) databases from inception through May 2015 using multiple subject headings and "free text" key words, representing the concepts of electronic medical records, symptom documentation, and inpatient setting. One thousand nine hundred eighty-two articles were returned from the search. Eighteen publications from the years 2003 to 2014 were included after abstract and full text review. Studies heavily focused on a pain as symptom. Nurses face challenges when using electronic health records that can threaten quality and safety of care. Clinical, design, and administrative recommendations were identified to overcome the challenges of nurses' electronic health record use. A call for interdisciplinary, comprehensive, systematic interventions and user-centered design of information systems is needed.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hypothyroidism
-TITLE: Conditions associated with canine hypothyroidism.
-PMID: 11570133
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11570133/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Careful review of the literature regarding clinical signs caused by hypothyroidism in dogs has shown that some assumptions regarding the relation of hypothyroidism to other conditions are based on anecdotal evidence. Cutaneous manifestations are present in most hypothyroid dogs, but the specific abnormalities and breed variations remain to be clearly defined. Decreased metabolic rate manifested by obesity and lethargy is also common. Neurologic manifestations, although uncommon, clearly occur in hypothyroid dogs. Cardiac abnormalities seem to be common, but their clinical significance is questionable. The only consistent hematologic abnormality that occurs in hypothyroid dogs is anemia; evidence for acquired von Willebrand's disease or other bleeding disorders is negligible. Reproductive dysfunction secondary to hypothyroidism is unlikely to occur in male dogs, and there is no evidence to support abnormalities in female dogs. The relation of megaesophagus, laryngeal paralysis, ocular abnormalities, and gastrointestinal disorders with hypothyroidism remains to be established. Future research into canine hypothyroidism may serve to convert dogma into a more clear understanding of the manifestations and pathophysiologic findings of this common endocrinopathy.

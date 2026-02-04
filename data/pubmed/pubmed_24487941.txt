@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Coronary artery disease
-TITLE: Hybrid coronary revascularization for multivessel coronary artery disease.
-PMID: 24487941
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24487941/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hybrid coronary revascularization intends to combine the durability and survival advantage of the left internal mammary artery to left anterior descending coronary artery graft by a minimally invasive surgical procedure and the interventional therapy for non-left anterior descending coronary artery vessels to achieve complete revascularization. It provides a feasible and attractive alternative to conventional coronary artery bypass grafting and percutaneous coronary intervention to target multivessel coronary artery disease, and advances the individualized, patient-oriented treatment for heart disease. In initial experiences, this new approach has yielded favorable early or midterm results in selected patients with multivessel coronary artery disease. However, available data related to these outcomes following hybrid revascularization are limited to retrospective studies with relatively small sample sizes. In this review, we aim to provide an overview of hybrid revascularization, and discuss appropriate patient selection, procedure techniques, and the main literature pertaining to the hybrid revascularization.

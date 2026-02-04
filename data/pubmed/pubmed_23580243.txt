@@ -1,8 +1,0 @@
-SEARCH_TOPIC: IBS
-TITLE: Intestinal microbiota and its role in irritable bowel syndrome (IBS).
-PMID: 23580243
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23580243/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gut microbiota alterations are increasingly being recognized as an important factor in the pathogenesis and pathophysiology of Irritable bowel syndrome (IBS). The onset of IBS symptoms after a bout of gastroenteritis comprises one of the strongest indications for the importance of gut microbiota for IBS. Moreover, recent studies have identified several susceptibility genes for IBS involved in the innate immunity and recognition of bacteria but also maintaining the integrity of the intestinal barrier. During recent years, it has also been demonstrated that IBS patients, or subgroups thereof, may have an altered microbiota composition relative to healthy individuals, mainly based on the analysis of fecal microbiota. Moreover, a positive effect of treatment with non-absorbable antibiotics and probiotics in IBS provides further indirect support for the relevance of gut microbiota alterations in IBS.

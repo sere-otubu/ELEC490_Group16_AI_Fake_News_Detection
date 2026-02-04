@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Arrhythmia
-TITLE: Review: Sex-related differences in the treatment of cardiac arrhythmia.
-PMID: 36940792
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36940792/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cardiac arrhythmias are a common and potentially serious cardiovascular disorders that affect both men and women. However, there is evidence to suggest that there may be sex-related differences in the prevalence, clinical presentation, and management of cardiac arrhythmias. Hormonal and cellular factors may play a role in these sex-specific differences. In addition, there are differences in the types of arrhythmias that men and women experience, with men more likely to experience ventricular arrhythmias and women more likely to experience supraventricular arrhythmias. The management of cardiac arrhythmias also differs between men and women. For example, some studies have found that women are less likely to receive appropriate treatment for arrhythmias and are more likely to have adverse outcomes following treatment. Despite these sex-related differences, the majority of research on cardiac arrhythmias has been conducted in men, and there is a need for more research to specifically examine the differences between men and women. This is especially important given that the prevalence of cardiac arrhythmia is increasing, and it is essential to understand how to effectively diagnose and treat these conditions in both men and women. In this review, we examine the current understanding of sex-related differences in cardiac arrhythmias. We also review the available data on sex-specific management strategies for cardiac arrhythmias and highlight areas of future research.

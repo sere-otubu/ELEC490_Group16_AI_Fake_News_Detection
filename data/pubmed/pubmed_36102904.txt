@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Type 2 Diabetes
-TITLE: Imeglimin in type 2 diabetes.
-PMID: 36102904
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36102904/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Type 2 diabetes mellitus is a chronic disease most often characterized by increased glucose levels. When blood glucose levels are inadequately controlled or left untreated, the result is a variety of microvascular and macrovascular complications. To prevent these outcomes, many medications are available to manage type 2 diabetes mellitus and prevent disease progression. However, most of the medications available to date only target a few of the physiological defects caused by diabetes and may come with side effects that make adherence to the medication improbable. Imeglimin, a medication currently under investigation in the United States and approved in Japan, is a novel, first-in-its-class medication with a mechanism that is currently understood to target multiple pathways to provide glycemic control. This review aims to present and discuss the current clinical and scientific evidence pertaining to imeglimin.

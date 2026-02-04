@@ -1,8 +1,0 @@
-SEARCH_TOPIC: GERD
-TITLE: Gastroesophageal Reflux Disease.
-PMID: 39133924
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39133924/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gastroesophageal reflux disease (GERD) is a condition that occurs when reflux of gastric contents into the esophagus causes symptoms and/or complications. The prevalence of GERD in Western societies has been estimated at 30%, making it one of the most commonly encountered disorders in primary care. The spectrum of GERD includes typical symptoms of esophageal reflux (heartburn and/or regurgitation); esophageal injury (erosive esophagitis; stricture; Barrett esophagus; and, rarely, adenocarcinoma); and extraesophageal symptoms, such as hoarseness and chronic cough. Proper diagnosis and treatment of GERD includes symptom control, exclusion of other disorders, avoiding overuse of medications and invasive testing, and minimizing complications.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Wound healing process
-TITLE: Estrogen Effects on Wound Healing.
-PMID: 29099810
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29099810/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Wound healing is a physiological process, involving three successive and overlapping phases-hemostasis/inflammation, proliferation, and remodeling-to maintain the integrity of skin after trauma, either by accident or by procedure. Any disruption or unbalanced distribution of these processes might result in abnormal wound healing. Many molecular and clinical data support the effects of estrogen on normal skin homeostasis and wound healing. Estrogen deficiency, for example in postmenopausal women, is detrimental to wound healing processes, notably inflammation and re-granulation, while exogenous estrogen treatment may reverse these effects. Understanding the role of estrogen on skin might provide further opportunities to develop estrogen-related therapy for assistance in wound healing.

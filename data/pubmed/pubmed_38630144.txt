@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Bypass surgery
-TITLE: Three-dimensional Versus Two-dimensional Laparoscopic Bariatric Surgery: A Systematic Review and Meta-analysis.
-PMID: 38630144
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38630144/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Three-dimensional (3D) laparoscopy has several advantages in gastrointestinal surgery. This systematic review determined whether similar benefits exist for bariatric surgical procedures by systematically searching the MEDLINE, Embase, and Scopus databases. Six studies including 629 patients who underwent 2D (386) and 3D (243) laparoscopic bariatric surgeries were selected. Operative time was significantly shorter in patients undergoing 3D laparoscopic gastric bypass (pooled standardized mean difference [SMD] 1.19, 95% confidence interval [CI] 2.22-0.15). Similarly, a shorter hospital stay was detected both during sleeve gastrectomy (SMD 0.42, 95% CI 0.70-0.13) and gastric bypass (SMD 0.39, 95% CI 0.64-0.14) with 3D laparoscopy. The study showed the potential benefit of 3D imaging in preventing intra- and postoperative complications. Despite the limited evidence, surgeons may benefit from 3D laparoscopy during bariatric surgery.

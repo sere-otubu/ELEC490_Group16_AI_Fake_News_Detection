@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immunotherapy
-TITLE: Immunotherapy in soft-tissue sarcoma.
-PMID: 32174754
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32174754/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Soft-tissue sarcoma (sts) is a rare mesenchymal malignancy that accounts for less than 1% of all adult tumours. Despite the successful advancement of localized therapies such as surgery and radiotherapy, these tumours can, for many, recur-often with metastatic disease. In the advanced setting, the role of systemic therapies is modest and is associated with poor survival. With the discovery of immunotherapies in other tumour types such as melanoma and lung cancer, interest has been renewed in exploring immunotherapy in sts. The biology of some stss makes them ripe for immunotherapy intervention; for example, some stss might have chromosomal translocations resulting in pathognomonic fusion products that have been shown to express cancer/testis antigens. Here, we present a targeted review of the published data and ongoing clinical trials for immunotherapies in patients with sarcoma, which comprise immune checkpoint inhibitors, adoptive cell therapies, and cancer vaccines.

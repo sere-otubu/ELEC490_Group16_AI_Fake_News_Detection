@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Opioids risks
-TITLE: Opioids-Induced Long QT Syndrome: A Challenge to Cardiac Health.
-PMID: 38630336
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38630336/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The challenge posed by opioid overdose has become a significant concern for health systems due to the complexities associated with drug prohibition, widespread clinical use, and potential abuse. In response, healthcare professionals have primarily concentrated on mitigating the hallucinogenic and respiratory depressant consequences of opioid overdose to minimize associated risks. However, it is crucial to acknowledge that most opioids possess the capacity to prolong the QT interval, particularly in cases of overdose, thereby potentially resulting in severe ventricular arrhythmias and even sudden death if timely intervention is not implemented. Consequently, alongside addressing the typical adverse effects of opioids, it is imperative to consider their cardiotoxicity. To enhance comprehension of the correlation between opioids and arrhythmias, identify potential targets for prompt intervention, and mitigate the hazards associated with clinical utilization, an exploration of the interaction between drugs and ion channels, as well as their underlying mechanisms, becomes indispensable. This review primarily concentrates on elucidating the impact of opioid drugs on diverse ion channels, investigating recent advancements in this domain, and attaining a deeper understanding of the mechanisms underlying the prolongation of the QT interval by opioid drugs, along with potential interventions.

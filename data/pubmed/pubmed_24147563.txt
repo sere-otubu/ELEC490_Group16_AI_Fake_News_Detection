@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Corticosteroids
-TITLE: Inhaled corticosteroids for asthma: on-demand or continuous use.
-PMID: 24147563
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24147563/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Continuous inhaled corticosteroid treatment is highly effective in children and adults with mild persistent asthma, although some therapeutic benefits are not lost if treatment is delayed. Many patients do not adhere to continuous treatment with inhaled corticosteroids, but rather take them intermittently, usually at the time of increased symptoms. Based on these observations it has been proposed that for patients with mild persistent asthma inhaled corticosteroids should be used on-demand when symptoms are troublesome, rather than on a continuous basis. The article reviews the pharmacological properties of inhaled corticosteroids used in clinical trials of on-demand treatment, as well as the evidence for the efficacy and safety of on-demand compared with continuous inhaled corticosteroid treatment of mild persistent asthma in adults and children. The place of on-demand treatment with inhaled corticosteroids in the management of asthma is discussed, as well as future directions for different management strategies for this group.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Insulin regulation
-TITLE: The cell biology of systemic insulin function.
-PMID: 29622564
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29622564/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Insulin is the paramount anabolic hormone, promoting carbon energy deposition in the body. Its synthesis, quality control, delivery, and action are exquisitely regulated by highly orchestrated intracellular mechanisms in different organs or "stations" of its bodily journey. In this <i>Beyond the Cell</i> review, we focus on these five stages of the journey of insulin through the body and the captivating cell biology that underlies the interaction of insulin with each organ. We first analyze insulin's biosynthesis in and export from the β-cells of the pancreas. Next, we focus on its first pass and partial clearance in the liver with its temporality and periodicity linked to secretion. Continuing the journey, we briefly describe insulin's action on the blood vasculature and its still-debated mechanisms of exit from the capillary beds. Once in the parenchymal interstitium of muscle and adipose tissue, insulin promotes glucose uptake into myofibers and adipocytes, and we elaborate on the intricate signaling and vesicle traffic mechanisms that underlie this fundamental function. Finally, we touch upon the renal degradation of insulin to end its action. Cellular discernment of insulin's availability and action should prove critical to understanding its pivotal physiological functions and how their failure leads to diabetes.

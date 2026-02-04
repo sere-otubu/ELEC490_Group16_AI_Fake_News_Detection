@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sun safety
-TITLE: Sun Exposure - Hazards and Benefits.
-PMID: 35346986
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35346986/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There are carcinogenic effects of sun exposure that increase the risk for skin cancer, especially for fair-skinned individuals. Therefore, there are recommendations to avoid sun exposure and to apply sun blockers. A more nuanced and balanced message for sun safety guidelines is now advocated. Despite an increased risk of death due to skin cancer, fair skinned women seem to have an overall survival advantage. In addition, an inverse association between sun exposure and hypertension, thromboembolism, and type 2 diabetes mellitus has been shown. Furthermore, low sun exposure habits result in increased risk of cardiovascular disease (CVD), and non-CVD/non-cancer mortality among women. There are also data supporting that the prognosis of cancer is improved with increasing levels of vitamin D/sun exposure. In this narrative review we will provide a brief update of hazards and benefits of sun exposure focused on an updated, balanced, and evidence-based view.

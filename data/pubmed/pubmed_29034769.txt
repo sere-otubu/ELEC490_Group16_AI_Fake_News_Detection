@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Skeletal system
-TITLE: Skeletal Muscle Toolbox.
-PMID: 29034769
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29034769/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Evaluation of skeletal muscle frequently combines morphologic and morphometric techniques. As is the case with many organ systems, skeletal muscle has limited responses to insult or injury. Over the past several years, crucial interactions between skeletal muscle, bone, and the nervous system have been described. The aim of this lecture was to give attendees the necessary background information in basic skeletal muscle morphology, important species differences, introduction to skeletal muscle biomarkers, approaches to morphologic and morphometric evaluation, and examples of background findings and typical responses of skeletal muscle to insult or injury.

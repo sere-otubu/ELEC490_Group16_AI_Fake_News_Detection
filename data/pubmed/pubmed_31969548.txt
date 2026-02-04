@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dental implants
-TITLE: The development and future of dental implants.
-PMID: 31969548
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31969548/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Since 1970s, a lot of effort has been devoted toward the development of dental implants. Dental implants are nowadays an indispensable part of clinical dentistry. The global dental implant market is expected to reach $13 billion in 2023. Although, the survival rate of dental implants has been reported above 90%, compromised bone conditions promote implant failure and endanger the current high success rates. The main concern is related to the aging population. Diabetes, osteoporosis, obesity and use of drugs are all medical conditions, which can hamper bone healing around dental implants. In view of this, research toward developing better methods of enhancing implant osseointegration have to be continued, especially in the presence of impaired bone condition. In this paper, the current changes and their future perspective are discussed.

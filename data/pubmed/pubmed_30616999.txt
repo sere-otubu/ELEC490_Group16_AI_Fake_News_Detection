@@ -1,8 +1,0 @@
-SEARCH_TOPIC: GMO foods safety
-TITLE: Gene-Edited Crops: Towards a Harmonized Safety Assessment.
-PMID: 30616999
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30616999/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gene editing and other innovative plant breeding techniques are transforming the field of crop biotechnology. Divergent national regulatory regimes worldwide apply to crops bred with these techniques. A plea is made for international harmonization of the premarket assessment of their safety. Such harmonization has previously been achieved for genetically modified (GM) crops.

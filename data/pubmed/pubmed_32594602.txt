@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Personality disorders
-TITLE: Therapeutic implications of personality disorders in dermatology.
-PMID: 32594602
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32594602/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There is a significant psychiatric comorbidity that exists in multiple dermatological conditions, stemming from the patient''s own psychological make up. This article reviews personality disorders and their types, which influence the course and prognosis of several psychodermatological disorders. Self-inflicted skin lesions, for example, are usually associated with obsessive-compulsive behavior, but they also share connections to Narcissistic and Borderline personality disorders. Body dysmorphic disorder is another psychodermatological condition seen in dermatology, aesthetic, and cosmetic surgery clinics, which is influenced by patient's personality type. In general, there is a significantly high proportion of personality disorders seen in aesthetic and cosmetic surgery. The management of patients with personality disorders is challenging, but joint liaison between psychiatry and dermatology has proven helpful and can provide patients with the best care for their psychological needs and dermatologic care.

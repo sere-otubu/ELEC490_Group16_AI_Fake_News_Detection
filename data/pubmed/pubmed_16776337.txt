@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 16776337)
-    QUESTION: Pituitary apoplexy: do histological features influence the clinical presentation and outcome?
-    CONTEXT: A retrospective analysis of a contemporary series of patients with pituitary apoplexy was performed to ascertain whether the histopathological features influence the clinical presentation or the outcome.
-    ANSWER: The patients who presented with histological features of pituitary tumor infarction alone had less severe clinical features on presentation, a longer course prior to presentation, and a better outcome than those presenting with hemorrhagic infarction or frank hemorrhage. The endocrine replacement requirements were similar in both groups.
-    

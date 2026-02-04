@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood tests interpretation
-TITLE: Current Issues in Blood Gas Analysis.
-PMID: 36418154
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36418154/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Blood gas analysis constitutes one of the most widely used tests, especially in critical care settings such as intensive care units, emergency departments, and operating rooms. Blood gas results are key for assessing acid-base balance and ventilatory control in critically ill patients. Because blood gas analysis plays a vital role in management of critically ill patients, this testing is frequently conducted at the point-of-care by users with various educational backgrounds across different hospital departments. When performing blood gas analysis, it is important to be aware of the analytical issues that may affect the different components of this testing. With blood gas analysis, differences in test names and method changes over time have led to several controversies that might affect test result interpretations. Hence, being aware of these controversies is important in ensuring appropriateness of result interpretations. Many blood gas testing programs face challenges with maintaining quality assurance. Having practical approaches to method verification, and choosing the right blood gas analyzer type, will go a long way to ensure quality in blood gas analysis. We review analytical issues and controversies associated with blood gas testing, as well as practical approaches to deciding on a blood gas analyzer and quality assurance.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Multivitamins
-TITLE: Prenatal supplementation with multivitamins and the incidence of pediatric cancers: clinical and methodological considerations.
-PMID: 18064661
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18064661/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cancer is the second leading cause of death in children. Research has been undertaken to identify risk factors associated with pediatric cancers. Nevertheless one single cause has not been isolated. Recent studies have suggested that prenatal multivitamin consumption may be associated with the prevention of pediatric cancers. It has been shown previously that prenatal multivitamin ingestion is associated with a decrease in congenital anomalies. The following review summarizes the available knowledge associating prenatal multivitamin consumption with the prevention of pediatric cancers.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fibromyalgia
-TITLE: [Fibromyalgia syndrome].
-PMID: 12924106
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12924106/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nowadays, fibromyalgia syndrome (FMS) should be diagnosed according to established criteria in order to differentiate it from other specified or unspecified pain conditions. Various underlying reasons for pain exist and possible correlations with FMS should be thoroughly discussed with the patient. Recent pathophysiological examinations suggest that fibromyalgia syndrome may constitute a disorder of the central nervous system, especially of the hypothalamus-hypophysis-axis, and/or of the autonomous nervous system and of pain regulating nerves. The most common co-morbidity comprises sleep disturbances. The patients' complaints usually prevail over a long period of time. There is a variety of trigger factors for the development of fibromyalgia syndrome, which leads to the suggestion that a number of fibromyalgia-syndrome subgroups exist. A genetic disposition is a topic of ongoing discussion. Treatment of fibromyalgia syndrome should be multidisciplinary. Drug therapy is often disappointing. Extensive patient information, therapeutic devotion and means of physical therapy seem to be more efficient, providing a multitude of therapeutic options. Both fibromyalgia syndrome and chronic fatigue syndrome have to be accepted as medical entities, treated efficiently and studied scientifically. By these means, patients suffering from fibromyalgia syndrome, will not be lost to non-established forms of therapy.

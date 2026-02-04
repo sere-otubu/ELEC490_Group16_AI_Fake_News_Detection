@@ -1,8 +1,0 @@
-SEARCH_TOPIC: E. coli infection
-TITLE: Probiotic effects of Lactobacillus strains on enterohemorrhagic E. coli infection in mice.
-PMID: 40403991
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40403991/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Enterohemorrhagic Escherichia coli (EHEC) O157:H7 is a prevalent cause of intestinal infections that destroy epithelial transport and barrier function.This study aimed to determine the intestinal colonization of probiotics Lacticaseibacillus rhamnosus and Limosilactobacillus fermentum to alleviate the lethal toxicity of EHEC on the gut microbiome of BALB/c mice. Quantitative real-time PCR was performed to measure the levels of L. rhamnosus, L. fermentum and E. coli O157:H7. The feces of the mice were periodically analysed every two days to count E.coli O157:H7 and Lactobacillus strains. In uninfected treated mice, the mean fecal counts of L. rhamnosus and L. fermentum were 7.95 log and 4.81 log CFU/g, respectively. The highest count of L. rhamnosus was 8.26 log on day -3. A significant reduction in E. coli O157: H7 counts was observed in groups given probiotics one week before infection (approximately 5 log CFU/g, P < 0.001). E. coli O157: H7 counts decreased on day 7 after infection in groups pre-treated with L. rhamnosus and L. fermentum. Shiga toxin (stx) was not detected in the tissues or fecal contents of pre-infected mice, showing a difference from the infected group (P < 0.05).Pretreatment with L.rhamnosus and L. fermentum disrupts the E. coli O157: H7 infectious processes and promotes potential targets for renal and intestinal protection against Shiga toxin-induced damage.

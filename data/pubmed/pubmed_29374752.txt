@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Skin cancer prevention
-TITLE: Photocarcinogenesis and Skin Cancer Prevention Strategies: An Update.
-PMID: 29374752
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29374752/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-UV radiation is acknowledged as the primary cause of photocarcinogenesis and therefore contributes to the development of skin cancer entities such as squamous cell carcinoma (SCC), basal cell carcinoma (BCC), and melanoma. Typical DNA photoproducts and indirect DNA damage caused by reactive oxygen species are the result of UV radiation. UV-induced DNA damage is repaired by nucleotide excision repair, which consequently counteracts the development of mutations and skin carcinogenesis. Tumour-suppressor genes are inactivated by mutation and growth-promoting pathways are activated leading to disruption of cell-cycle progression. Depending on the skin cancer entity, some genes are more frequently affected than others. In BCC mutations in Patched or Smoothened are common and affect the Sonic hedgehog pathway. In SCC, cell regulator protein p53 (TP53) mutations are prevalent, as well as mutations of the epidermal growth factor receptor (EGFR), cyclin-dependent kinase 2A (CDKN2A), Rat sarcoma (RAS), or the tyrosine kinase Fyn (FYN). UV-induced mutations in TP53 and CDKN2A are frequent in melanoma. UV-induced inflammatory processes also facilitate photocarcinogenesis. Recent studies showed a connection between photocarcinogenesis and citrus consumption, phytochemicals, alcohol consumption, hormone replacement therapy, as well as oral contraceptive use. Preventative measures include adequate use of sun protection and skin cancer screening at regular intervals, as well as the use of chemopreventative agents.

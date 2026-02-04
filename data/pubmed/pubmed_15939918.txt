@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Borderline personality disorder
-TITLE: Borderline personality disorder.
-PMID: 15939918
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15939918/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Borderline personality disorder is a chronic psychiatric disorder characterized by marked impulsivity, instability of mood and interpersonal relationships, and suicidal behaviour that can complicate medical care. Identifying this diagnosis is important for treatment planning. Although the cause of borderline personality disorder is uncertain, most patients improve with time. There is an evidence base for treatment using both psychotherapy and psychopharmacology. The clinical challenge centres on managing chronic suicidality.

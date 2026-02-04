@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Basal cell carcinoma
-TITLE: Non-Surgical Treatments for Keratinocyte Carcinomas.
-PMID: 34652721
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34652721/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Skin cancer is the most common malignancy worldwide, comprising approximately 30% of all human tumors. In recent decades, the incidence of keratinocyte carcinomas, which include basal cell carcinoma and cutaneous squamous cell carcinoma, has been steadily increasing globally (Rogers et al. in JAMA Dermatol 151(10):1081-1086. https://doi.org/10.1001/jamadermatol.2015.1187 , 2015; Nehal and Bichakjian in N Engl J Med 379(4):363-374. https://doi.org/10.1056/nejmra1708701 , 2018). Most tumors are cured with surgical excision; however, some tumors are best treated with non-surgical approaches. Superficial tumors can often be cured with non-surgical methods whereas more advanced stage tumors may not be amenable to surgery. Additionally, surgical treatment may not be available for all populations depending on geographic location and accessibility to care. This article reviews commonly utilized nonsurgical options such as cryotherapy, photodynamic therapy, topical treatments, and radiation as well as systemic treatments including immunotherapies and chemotherapies.

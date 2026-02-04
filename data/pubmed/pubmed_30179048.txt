@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Robotic surgery
-TITLE: The future of robotic surgery.
-PMID: 30179048
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30179048/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-How robotics could help shape the future of surgical care.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lactose intolerance
-TITLE: Lactose intolerance.
-PMID: 2109963
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2109963/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Lactose intolerance is a prevalent clinical problem. Low lactase levels result either from intestinal injury, or as in the majority of the world's adult population, from alterations in the genetic expression of lactase-phlorizin hydrolase. Progress is being made in the basic understanding of the molecular and cellular biology of this enzyme and of the scientific basis of clinical syndromes involving low lactase activity.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22108230)
-    QUESTION: Is the fibronectin-aggrecan complex present in cervical disk disease?
-    CONTEXT: To investigate the presence of inflammatory cytokines and the fibronectin-aggrecan complex (FAC) in persons undergoing surgical treatment for cervical radiculopathy caused by disk herniation.
-    ANSWER: Biochemical analysis of injured cervical intervertebral disks reveals the presence of inflammatory markers such as MCP, fragments of structural matrix proteins such as FAC, and a correlation with pH. Further evaluation of the FAC as a potential diagnostic biomarker or therapeutic target is warranted in the cervical spine.
-    

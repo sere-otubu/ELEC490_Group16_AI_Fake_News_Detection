@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25982163)
-    QUESTION: Appendectomy timing: Will delayed surgery increase the complications?
-    CONTEXT: This study investigated whether the time from emergency room registration to appendectomy (ETA) would affect the incidence of perforation and postoperative complications in patients with acute appendicitis.
-    ANSWER: In our study, it was observed that although longer ETA was associated with longer hospitalization, ETA was not correlated with postoperative complications. Our results inclined toward the position that appendectomy can be performed as a semielective surgery.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hydration importance
-TITLE: Staying Hydrated in Seawater.
-PMID: 36917964
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36917964/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Reduction of intestinal lumen osmotic pressure by the formation of Ca(Mg)CO<sub>3</sub>, "ichthyocarbonate," is essential for osmoregulation by the only vertebrate group, ray-finned fishes, widely capable of hydrating by ingesting seawater. Ichthyocarbonate formation and excretion are under elaborate physiological control and play an important, yet still poorly defined, role in the oceanic carbon cycle.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hives
-TITLE: Chronic Spontaneous Urticaria: Etiology and Pathogenesis.
-PMID: 38937007
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38937007/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Urticaria, also known as hives, is a common condition thought to affect up to 20% of individuals worldwide in their lifetime. This skin condition is characterized by the appearance of pruritic, erythematous papules or plaques with superficial swelling of the dermis. The major complaint is the symptom of pruritus. Angioedema, which involves a deeper swelling of dermal or mucosal tissues, may accompany urticaria. Urticaria can be classified by both time course of symptoms and the underlying etiology.

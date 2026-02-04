@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Respiratory system
-TITLE: Cardiovascular disease and COPD: dangerous liaisons?
-PMID: 30282634
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30282634/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chronic obstructive pulmonary disease (COPD) and cardiovascular disease (CVD) frequently occur together and their coexistence is associated with worse outcomes than either condition alone. Pathophysiological links between COPD and CVD include lung hyperinflation, systemic inflammation and COPD exacerbations. COPD treatments may produce beneficial cardiovascular (CV) effects, such as long-acting bronchodilators, which are associated with improvements in arterial stiffness, pulmonary vasoconstriction, and cardiac function. However, data are limited regarding whether these translate into benefits in CV outcomes. Some studies have suggested that treatment with long-acting β<sub>2</sub>-agonists and long-acting muscarinic antagonists leads to an increase in the risk of CV events, particularly at treatment initiation, although the safety profile of these agents with prolonged use appears reassuring. Some CV medications may have a beneficial impact on COPD outcomes, but there have been concerns about β-blocker use leading to bronchospasm in COPD, which may result in patients not receiving guideline-recommended treatment. However, there are few data suggesting harm with these agents and patients should not be denied β-blockers if required. Clearer recommendations are necessary regarding the identification and management of comorbid CVD in patients with COPD in order to facilitate early intervention and appropriate treatment.

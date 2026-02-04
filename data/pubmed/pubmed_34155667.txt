@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Health literacy
-TITLE: Health literacy for children and families.
-PMID: 34155667
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34155667/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The relationship between reading ability and health, known as health literacy, broadly reflects the skills and competencies required to operate within the healthcare environment. It is only recently that we have seen attempts to conceptualize health literacy in the context of medication use by using terms such as medication literacy. Health literacy changes over one's lifetime and is dependent on factors such as numeracy, education, income, gender and country. Low health literacy and low medication literacy have been identified as significant risk factors for poor health outcomes of adults and children. With an evaluation of common tools used to assess health literacy and medication literacy, the aim of this review is to describe the shared responsibility between patients and healthcare providers for the communication of health and medication information. Key strategies and interventions to improve two-way communication between patients and healthcare providers are highlighted, with a focus on how health literacy can impact child health outcomes.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Grief counseling
-TITLE: Grief counseling.
-PMID: 7647626
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7647626/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Patients grieve the loss of loved ones, jobs, marriages, or even functioning. They seek comfort, understanding, respect, and especially hope. The "work of grief" progresses through stages. Mixed with the sadness can be feelings of anger, fear, and guilt. Psychotherapy can relieve self-destructive anger and guilt, advance the recovery phase, and stimulate psychological strength and personality growth.

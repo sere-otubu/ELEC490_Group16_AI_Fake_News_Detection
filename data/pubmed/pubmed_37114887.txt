@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Organic foods
-TITLE: Organic agriculture and foods: advancing process-product integrations.
-PMID: 37114887
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37114887/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-With a doubling of the human population during the last 45 years and Earth's annual resources being already depleted mid-year, it becomes increasingly clear that the food systems need to change. The most common food related needs required are drastic changes of the current food production systems, diet change and food loss/waste reduction. As for agriculture no further land expansion is responsible and more food needs to be grown sustainably on less land and on healthy soils. For food processing, gentle, regenerative technologies have to generate healthy foods based on consumer requirements. Organic (ecological) food production is increasing worldwide but the interface between production and processing of organic foods is still hazy. This paper reviews the history and current state of organic agriculture and organic foods. Existing norms for organic food processing and urgent needs for their gentle, consumer-oriented processing are presented. Key issues such as production systems integration, water efficiency, plant and soil microbiota, biodiversity and supplementary food production systems are discussed. Processing of organic foods using fermentation, microbial/food biotechnological processes and sustainable technologies for retaining desirable nutrients and removing undesirable ones are proposed. Environment and consumer-oriented concepts for future production and processing of human food supplies are proposed.

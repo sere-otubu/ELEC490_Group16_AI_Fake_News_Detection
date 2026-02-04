@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 7664228)
-    QUESTION: Discharging patients earlier from Winnipeg hospitals: does it adversely affect quality of care?
-    CONTEXT: To determine whether decreasing lengths of stay over time for selected diagnostic categories were associated with increased hospital readmission rates and mean number of physician visits after discharge.
-    ANSWER: Improving hospital efficiency by shortening length of stay does not appear to result in increased rates of readmission or numbers of physician visits within 30 days after discharge from hospital. Research is needed to identify optimal lengths of stay and expected readmission rates.
-    

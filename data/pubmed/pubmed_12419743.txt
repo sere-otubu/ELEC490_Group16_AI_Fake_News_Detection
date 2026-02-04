@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12419743)
-    QUESTION: Is first-line single-agent mitoxantrone in the treatment of high-risk metastatic breast cancer patients as effective as combination chemotherapy?
-    CONTEXT: To determine whether patients with high-risk metastatic breast cancer draw benefit from combination chemotherapy as first-line treatment.
-    ANSWER: No significant difference was detected between the treatment with mitoxantrone as a single agent and the combination of low-dose FEC in terms of response or survival; therefore, the imperative of the necessity of first-line combination chemotherapy for patients with high-risk metastatic breast cancer may be questioned. Since toxicity and quality of life score favored the single-agent mitoxantrone treatment arm, this treatment may be offered to patients preferring quality of life to a potential small prolongation of survival.
-    

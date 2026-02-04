@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25481573)
-    QUESTION: Processing fluency effects: can the content and presentation of participant information sheets influence recruitment and participation for an antenatal intervention?
-    CONTEXT: To assess the extent to which the title and font of participant information sheets (PISs) can influence pregnant women's and trainee midwives' perceptions of an antenatal intervention.
-    ANSWER: Font influenced pregnant women's ratings of intervention complexity.
-    

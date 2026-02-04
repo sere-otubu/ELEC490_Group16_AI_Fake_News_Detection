@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Doctor patient communication
-TITLE: A 3-stage model of patient-centered communication for addressing cancer patients' emotional distress.
-PMID: 24169023
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24169023/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To describe pathways through which clinicians can more effectively respond to patients' emotions in ways that contribute to betterment of the patient's health and well-being. A representative review of literature on managing emotions in clinical consultations was conducted. A three-stage, conceptual model for assisting clinicians to more effectively address the challenges of recognizing, exploring, and managing cancer patients' emotional distress in the clinical encounter was developed. To enhance and enact recognition of patients' emotions, clinicians can engage in mindfulness, self-situational awareness, active listening, and facilitative communication. To enact exploration, clinicians can acknowledge and validate emotions and provide empathy. Finally, clinicians can provide information empathetically, identify therapeutic resources, and give referrals and interventions as needed to help lessen patients' emotional distress. This model serves as a framework for future research examining pathways that link clinicians' emotional cue recognition to patient-centered responses exploring a patient's emotional distress to therapeutic actions that contribute to improved psychological and emotional health. Specific communicative and cognitive strategies are presented that can help clinicians better recognize a patient's emotional distress and respond in ways that have therapeutic value.

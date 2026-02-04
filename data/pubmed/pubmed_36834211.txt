@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Strength training
-TITLE: Effects of Strength Training on Physical Fitness of Olympic Combat Sports Athletes: A Systematic Review.
-PMID: 36834211
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36834211/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review aimed to identify the effects of strength training programs on the physical fitness of Olympic combat sports (OCS) athletes. The systematic review included peer-reviewed articles that incorporated interventions that included pre- and post-intervention physical fitness assessment. The search was performed in the SCOPUS, PubMed, and Web of Science databases between April and September 2022. PRISMA and the TESTEX checklist were used to select and assess the methodological quality of the studies. Twenty studies with 504 participants (428 males and 76 females) were included. Significant improvements were found in athletes' maximal dynamic and isometric strength, muscle power, flexibility, and balance. In addition, improvements in favor of the training groups in specific actions of judo, karate, fencing, and boxing were observed. In conclusion, interventions aimed at the development of muscle strength in OCS, specifically in judo, boxing, karate, wrestling, and fencing, proved to be beneficial at a physical fitness level, resulting in significant increases in favor of the training groups with OCS, which could be used by trainers and coaches to improve the physical performance of athletes.

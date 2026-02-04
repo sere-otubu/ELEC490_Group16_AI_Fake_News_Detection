@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic testing ethics
-TITLE: Reproductive genetic testing and the ethics of parenting.
-PMID: 11653013
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11653013/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This paper examines whether and to what extent parents are morally bound to seek reproductive genetic testing. It is concluded that, with rare exceptions, there is no requirement in parenting to seek or accept reproductive genetic testing if the only actions facilitated by such testing are abortion, selective conception or remaining childless. Commitments to other family members or to oneself can provide other, morally or prudentially compelling reasons to elect genetic testing and selective abortion in these circumstances.

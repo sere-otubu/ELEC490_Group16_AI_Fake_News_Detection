@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Proton pump inhibitors
-TITLE: What is the truth about proton pump inhibitors?
-PMID: 33109942
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33109942/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review explores the recent evidence and established scientific literature surrounding proton pump inhibitors in the context of laryngology. Proton pump inhibitors are often associated with gastroenterology; however, they also have a place in laryngology. Several laryngopharyngeal disorders are treated with proton pump inhibitors, though limited evidence regarding effectiveness, dosing and length of treatment exists. With the recent influx of articles reporting possible adverse effects of proton pump inhibitors, the appropriate prescribing of them has come under scrutiny. These reported risks include cancer, stroke, myocardial infarction, kidney disease and cognitive decline. It should be noted though that many of these studies by nature, are fraught with potential confounding. Regardless, clinicians ought to be aware of any risks associated with treatment regimens and prescribe the optimal dosage and duration. Proton pump inhibitor treatment should be dose-appropriate and for a limited duration. Concerning potential adverse effects, the limitations of retrospective cohort studies must be taken into consideration when reviewing the evidence.

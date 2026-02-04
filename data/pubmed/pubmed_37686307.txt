@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Inflammation mechanism
-TITLE: Inflammation and Digestive Cancer.
-PMID: 37686307
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37686307/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chronic inflammation is linked to carcinogenesis, particularly in the digestive organs, i.e., the stomach, colon, and liver. The mechanism of this effect has, however, only partly been focused on. In this review, we focus on different forms of chronic hepatitis, chronic inflammatory bowel disease, and chronic gastritis, conditions predisposing individuals to the development of malignancy. Chronic inflammation may cause malignancy because (1) the cause of the chronic inflammation is itself genotoxic, (2) substances released from the inflammatory cells may be genotoxic, (3) the cell death induced by the inflammation induces a compensatory increase in proliferation with an inherent risk of mutation, (4) changes in cell composition due to inflammation may modify function, resulting in hormonal disturbances affecting cellular proliferation. The present review focuses on chronic gastritis (<i>Helicobacter pylori</i> or autoimmune type) since all four mechanisms may be relevant to this condition. Genotoxicity due to the hepatitis B virus is an important factor in hepatocellular cancer and viral infection can similarly be central in the etiology and malignancy of inflammatory bowel diseases. <i>Helicobacter pylori</i> (<i>H. pylori</i>) is the dominating cause of chronic gastritis and has not been shown to be genotoxic, so its carcinogenic effect is most probably due to the induction of atrophic oxyntic gastritis leading to hypergastrinemia.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18439500)
-    QUESTION: Laparoscopic myomectomy: do size, number, and location of the myomas form limiting factors for laparoscopic myomectomy?
-    CONTEXT: To assess whether it is possible for an experienced laparoscopic surgeon to perform efficient laparoscopic myomectomy regardless of the size, number, and location of the myomas.
-    ANSWER: Laparoscopic myomectomy can be performed by experienced surgeons regardless of the size, number, or location of the myomas.
-    

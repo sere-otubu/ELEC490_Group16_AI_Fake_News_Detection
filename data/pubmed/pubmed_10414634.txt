@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vasectomy
-TITLE: Vasectomy techniques.
-PMID: 10414634
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10414634/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Vasectomy can be performed by means of various techniques, although each vasectomy technique requires isolation and division of the vas and operative management of the vasal ends. Removal of at least 15 mm of vas is recommended, although division of the vas without removal of a segment is effective when this technique is combined with other techniques for handling the vasal ends, such as thermal luminal fulguration and proximal fascial interposition. Ligation of the ends without the aid of surgical clips may result in necrosis and sloughing of the ends, which may cause early failure. Leaving the testicular end of the vas open has been shown to be effective and to result in a lower incidence of epididymal congestion and sperm granuloma. The no-scalpel technique offers shorter operating time, less pain and swelling, and faster recovery.

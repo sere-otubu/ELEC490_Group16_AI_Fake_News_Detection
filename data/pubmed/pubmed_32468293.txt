@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antihistamines
-TITLE: [Antihistamines for treating pruritus : The end of an era?].
-PMID: 32468293
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32468293/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Antihistamines, mostly H1 antihistamines, administered both topically and systemically, are among the most widely used drugs. While systemically applicable antihistamines are usually taken orally or administered intravenously, while local therapy is used on the eye, nose or skin. Systemic antihistamines are most frequently used during the pollen season (hay fever, asthma) or are used all year round, e.g., for house dust and animal hair allergies. Furthermore, urticaria is a major indication for the use of H1 antihistamines, also as long-term treatment. Although H1 antihistamines are not licensed for pruritus and prurigo, they are frequently used in these diseases. However, since in many diseases with pruritus and prurigo the histamine receptor does not play a decisive role in the pathogenesis of pruritus, they show limited efficacy. Two Cochrane reviews have not shown any significant antipruritic effects of H1 antihistamine treatment in atopic eczema as single therapy or in combination, e.g., with topical glucocorticosteroid therapy. A retrospective case series with a so-called high-dose antihistamine therapy with non-sedating antihistamines was effective in treating chronic pruritus. This article summarizes the possibilities of systemic antihistamines in pruritus, especially with regard to limitations and future prospects.

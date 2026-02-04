@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Infectious disease control
-TITLE: Lumpy skin disease as an emerging infectious disease.
-PMID: 37271510
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37271510/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Lumpy skin disease (LSD) is one of the most important emerging transboundary diseases. Recently, LSD has emerged in many countries in the northern hemisphere. The LSD virus has a huge genome and is highly resistant to environmental conditions. The virus is also host-specific and large ruminants, such as cattle and domestic water buffalo, are particularly susceptible. In addition, wild ruminants can serve as potential reservoirs for spreading the LSD virus. The emergence might be related to climate change in various regions because LSD is an arthropod-borne infectious disease. This disease causes enormous economic losses, such as leather damage, decreased milk production, abortion, and death in infected ruminants. The economic importance of LSD in the bovine industry has forced countries to develop and implement control strategies against the disease. With the recent global spread and the economic impact, LSD will be discussed intensively. In addition, effective preventive measures are suggested based on the presence or absence of LSD outbreaks.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 8847047)
-    QUESTION: Prognosis of well differentiated small hepatocellular carcinoma--is well differentiated hepatocellular carcinoma clinically early cancer?
-    CONTEXT: The purpose of this study is to examine whether or not well differentiated (w-d) hepatocellular carcinoma (HCC) is indeed clinically early cancer.
-    ANSWER: W-d HCCs were clinically demonstrated not to be early cancer, because there was no significant difference in disease free survival between the patients with w-d and l-d HCCs.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rare diseases
-TITLE: Rare Monogenic Diseases: Molecular Pathophysiology and Novel Therapies.
-PMID: 35742964
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35742964/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A rare disease is defined by its low prevalence in the general population [...].

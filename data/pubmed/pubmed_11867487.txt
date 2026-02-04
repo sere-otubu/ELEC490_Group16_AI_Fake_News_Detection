@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 11867487)
-    QUESTION: Does rugby headgear prevent concussion?
-    CONTEXT: To examine the attitudes of players and coaches to the use of protective headgear, particularly with respect to the prevention of concussion.
-    ANSWER: Although most players in the study believe that rugby headgear may prevent concussion, only a minority reported wearing it. Coaches tended to be less convinced than the players that rugby headgear can prevent concussion.
-    

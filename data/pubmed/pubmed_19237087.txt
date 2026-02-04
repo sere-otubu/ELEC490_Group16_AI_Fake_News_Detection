@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19237087)
-    QUESTION: Are many colorectal cancers due to missed adenomas?
-    CONTEXT: An unknown number of colorectal cancers could be due to missed adenomas during previous endoscopy. Data in the literature are sparse. A large cross-sectional study was done in a prospective database of all patients diagnosed with colorectal cancer.
-    ANSWER: In normal daily practice, only a small number of clinically important adenomas are missed. The problem of missed adenomas probably is being exaggerated.
-    

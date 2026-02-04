@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dialysis
-TITLE: Intensification of Middle- and High-Molecular-Weight Toxins Removal in Dialysis Process.
-PMID: 35417444
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35417444/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A novel extracorporeal circuit for hemodialysis is described, which enhances the removal of middle- and high-molecular-weight toxins. To enhance the removal of especially high-molecular toxins, a recirculation pathway for dialysate flow is added to conventional circuit. The influence of an increase in the ratio of recirculation to dialysate flow rate and the ultrafiltration rate (UFR) on the removal of toxins was investigated to evaluate the removal of different toxins in clinical conditions. Removal of toxins was also modeled by an analytical method and solved by the MATLAB software (The MathWorks, Inc., Natick, MA). A significant increase in removal of urea (up to 31%) and vitamin B12 (11%) was achieved when the UFR is low (≤50 ml/h) or zero. The model showed an excellent agreement with the experimental results, which indicates its applicability for the removal of different toxins in an extracorporeal circuit. Increase in recirculation flow, while adjusting the UFR near zero, improves the mass transfer coefficient and can lead to enhanced especially middle- and high-molecular-weight toxin removal.

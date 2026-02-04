@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep apnea
-TITLE: Sleep apnea.
-PMID: 16877854
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16877854/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To study clinical presentation of sleep disordered breathing (SDB) in children, their causative factors and response to treatment. A retrospective study of clinical data nd results of overnight polysomnography done at baseline and after therapy were reviewed in 56 patients under 18 years of age. Of the 56 patients included in the study 23(41%) cases were positive for SDB. 12 (52.1 %) patients had craniofacial abnormalities, 4 (17.3%) had neuromuscular and skeletal disorders, 2 (8.6%) had adenotonsillar hypertrophy, 1(4.3%) had bilateral vocal cord palsy and 3 (13%) had sleep apnoea associated with multisystemic disorders. Post-operative data showed improvement in all 6 cases of craniofacial abnormalities and both cases of adenotonsillar hypertrophy. Positive airway pressure treatment was useful in cases with obstructive sleep apnea (OSA) due to vocal cord palsy, thoracic scoliosis, systemic disorders and central hypoventilation. 41% of suspected cases were detected to have SDB. Craniofacial abnormality was the leading cause of OSA in the present study. Surgical correction improved symptoms apnea-hypopnea index (AHI) and desaturation in cases of craniofacial disorders and adenotonsillar hypertrophy. Vocal cord palsy, thoracic scoliosis, hypoventilation and systemic disorders associated OSA responded to positive airway pressure ventilation.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Stress management
-TITLE: Surgery insight: management of failed sling surgery for female stress urinary incontinence.
-PMID: 17149383
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17149383/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sling surgery has replaced Burch colposuspension as the most common surgery for women with stress urinary incontinence (SUI). While incontinence surgery has become a routine part of urologic care, the management of surgical complications and recurrent incontinence can be quite difficult. It is important that the urologic surgeon is well informed about the most common complications that are associated with sling surgery, and how to best manage them. In addition, the management of recurrent incontinence following sling surgery should follow a stepwise approach, with appropriate diagnostic studies, conservative treatment if possible, and surgery if necessary. While sling surgery in the patient with urethral hypermobility is often straightforward, reoperation for recurrent incontinence can be more technically challenging. In the patient with a fixed and incompetent urethra, periurethral bulking agents, pubovaginal sling, spiral sling, or artificial urinary sphincter placement may be indicated.

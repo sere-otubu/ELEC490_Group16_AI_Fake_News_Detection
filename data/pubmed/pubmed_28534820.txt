@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antioxidants
-TITLE: Antioxidant Properties of Probiotic Bacteria.
-PMID: 28534820
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28534820/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Oxidative stress defines a condition in which the prooxidant-antioxidant balance in the cell is disturbed, resulting in DNA hydroxylation, protein denaturation, lipid peroxidation, and apoptosis, ultimately compromising cells' viability. Probiotics have been known for many beneficial health effects, and the consumption of probiotics alone or in food shows that strain-specific probiotics can present antioxidant activity and reduce damages caused by oxidation. However, the oxidation-resistant ability of probiotics, especially the underling mechanisms, is not properly understood. In this view, there is interest to figure out the antioxidant property of probiotics and summarize the mode of action of probiotic bacteria in antioxidation. Therefore, in the present paper, the antioxidant mechanisms of probiotics have been reviewed in terms of their ability to improve the antioxidant system and their ability to decrease radical generation. Since in recent years, oxidative stress has been associated with an altered gut microbiota, the effects of probiotics on intestinal flora composition are also elaborated.

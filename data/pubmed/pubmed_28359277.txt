@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 28359277)
-    QUESTION: Do healthier lifestyles lead to less utilization of healthcare resources?
-    CONTEXT: Governments are urged to determine methods to control the use of medical resources and curb the rise of healthcare costs. The question is, do health behaviors have an impact on the use of medical resources? This study aims to identify and understand the difference in the number of outpatient visits and health examinations based on various health behaviors and to determine whether patients seek medical care for illness from the same physicians.
-    ANSWER: Healthy lifestyles lead to an increase in the utilization of preventive health services. However, there is not much significantly reducing the number of outpatient visits in people with health behaviors. Specifically, people with regular exercise habits and who take their blood pressure measurement regularly have an increased number of outpatient visits. It is suggested that more available and accessible health consultation services be provided to inculcate in the general public the importance of maintaining a healthy lifestyle.
-    

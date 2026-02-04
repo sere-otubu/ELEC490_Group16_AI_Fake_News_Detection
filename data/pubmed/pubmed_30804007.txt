@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Multivitamins
-TITLE: Vitamin D supplementation: are multivitamins sufficient?
-PMID: 30804007
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30804007/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Public Health England advises 400 IU/day vitamin D supplementation for children over 1 year. Commercially available children's multivitamin and vitamin D supplements were surveyed to determine the vitamin D content. Multivitamins and vitamin D supplements marketed at children <12 years and sold by nine UK supermarkets and health supplement retailers were surveyed. Vitamin D content was determined from manufacturer's websites and product packaging. 67 multivitamins were surveyed, containing 0-800 IU/day vitamin D. Only 25%-36%, depending on the child's age, provided ≥400 IU/day vitamin D. Supplements containing only vitamin D or labelled as for 'healthy bones' typically had higher vitamin D content (57%-67% contained ≥400 IU/day). Few multivitamin products supply the recommended 400 IU/day vitamin D. Clinicians need to be aware of this when recommending vitamin D supplementation and advise parents/carers to choose a product that contains ≥400 IU/day vitamin D.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Inflammation mechanism
-TITLE: Inflammation: a mechanism of depression?
-PMID: 24838302
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24838302/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In recent decades, major depression has become more prevalent and research has shown that immune activation and cytokine production may be involved. This review is mainly focused on the contribution of inflammation to depression. We first briefly introduce the inflammatory biomarkers of depression, then discuss the sources of cytokines in the brain, and finally describe the neuroimmunological mechanisms underlying the association between inflammation and depression.

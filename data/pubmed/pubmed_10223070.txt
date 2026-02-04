@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 10223070)
-    QUESTION: Is perforation of the appendix a risk factor for tubal infertility and ectopic pregnancy?
-    CONTEXT: To critically assess the evidence that appendiceal perforation is a risk factor for subsequent tubal infertility or ectopic pregnancy.
-    ANSWER: The methodologic weaknesses of the studies do not permit acceptance of increased risk of tubal pregnancy or infertility as a consequence of perforation of the appendix, so a causal relationship cannot be supported by the data currently available. Only a well-designed case-control study with unbiased ascertainment of exposure and adjustment for confounding variables will provide a definitive answer.
-    

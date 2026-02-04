@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Meal planning
-TITLE: Assessment and treatment of eating disorders in children and adolescents.
-PMID: 27381185
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27381185/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Feeding and eating disorders (FEDs) are serious mental health disorders that cause impairments in physical health, development, cognition and psychosocial function and can go undetected for months or years. They are characterised by disturbed eating behaviour associated with concerns about weight and shape or by disinterest in food, phobic avoidance or avoidance due to sensory aspects of food. Restrictive forms of FEDs lead to significant weight loss requiring intervention. Without specific knowledge of these conditions, they can evade detection, delaying time to diagnosis and treatment and potentially influencing outcome. This review article focuses on the key factors involved in the psychiatric assessment and treatment of four feeding or eating disorders (EDs): anorexia nervosa, avoidant-restrictive food intake disorder, bulimia nervosa and binge eating disorder. They have been chosen for discussion as they are most likely to be encountered in both a psychiatric and paediatric setting. It emphasises the importance of a family-focused, developmentally appropriate and multidisciplinary approach to care. It does not address aspects of medical assessment and treatment. Other feeding or EDs not included in this article are pica, rumination disorder, other specified feeding and eating disorder and unspecified feeding and eating disorder.

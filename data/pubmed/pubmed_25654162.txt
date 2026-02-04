@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Root canal
-TITLE: On the dynamics of root canal infections-what we understand and what we don't.
-PMID: 25654162
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25654162/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Infections of the root canal space and their sequelae can be extremely painful and potentially dangerous, yet they do not necessarily have to be. Chronic, asymptomatic inflammatory lesions around the apex of a tooth with a necrotic dental pulp or an insufficient root canal treatment can develop unnoticed by the patient, and remain so for years. The course of disease is modulated by both the virulence of the microbiota established in the root canal space and the capacity of the immune system to curb the infection. To both ends, highly convincing investigations to help us understand when and why the tissues around an endodontically involved tooth become acutely inflamed are missing. We will discuss how recent advances in molecular identification of microorganisms have altered our understanding of root canal infections, and which information is currently missing to link clinical experience with observations from experimental research.

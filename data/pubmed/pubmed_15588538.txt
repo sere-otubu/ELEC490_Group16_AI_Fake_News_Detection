@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 15588538)
-    QUESTION: Chronic functional somatic symptoms: a single syndrome?
-    CONTEXT: Reliable longitudinal data of patients with functional somatic symptoms in general practice are lacking.
-    ANSWER: Patients with chronic functional somatic symptoms have a great diversity of functional somatic symptoms. They use more somatic and psychotropic drugs than controls in the years before diagnosis. Moreover, they show high rates of referrals and psychiatric morbidity. The diversity of symptoms of patients with chronic functional somatic symptoms supports the concept that symptoms do not cluster in well defined distinct syndromes. Therefore, patients with chronic functional somatic symptoms should preferably not be classified into medical subspecialty syndromes.
-    

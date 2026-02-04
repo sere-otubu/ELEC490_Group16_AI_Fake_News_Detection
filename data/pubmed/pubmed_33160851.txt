@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Biopsy
-TITLE: [Short recommendations from the CIAFU: Interest of the urine bacterial culture performed before endo-rectal prostate biopsy].
-PMID: 33160851
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33160851/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Prostate biopsy is sometimes complicated by infection which can lead to death. The risk factors remain controversial, notably the urine bacterial culture carried out before a prostate biopsy. The increase in resistance induces an increase in the number of complications and the need to define new antibiotic prophylaxis strategies. The urine bacterial culture remains widely discussed in cases with post-prostate biopsy infections and urologists or experts await clear recommendations on this subject. The Infectiology Committee of the French Association of Urology has therefore set up a literature analysis work in order to reach a consensus within the committee. A literature search was performed on Pubmed and Medline. We selected randomized studies or meta-analyzes using the keywords "prostate biopsy" and "infection" or "infectious complications". All abstracts and articles have been analyzed. The summary of the analysis was reviewed by all the members of the committee proposing the most consensual recommendation possible. The literature on the subject remains poor, but no evidence of a link between prebiopsy bacteriuria and post-biopsy infection has been demonstrated. Apart from a clinical situation which could evoke a male urinary tract infection, and moreover having to prefer the postponement of biopsies, it is not recommended to perform a routine urine culture before endo-rectal prostate biopsies (expert opinion).

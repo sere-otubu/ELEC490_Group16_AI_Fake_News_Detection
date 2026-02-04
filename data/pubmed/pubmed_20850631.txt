@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20850631)
-    QUESTION: Diagnosis and follow-up in constipated children: should we use ultrasound?
-    CONTEXT: We investigated the efficacy of ultrasound in determining megarectum and fecal load and the response to treatment in constipation and tried to specify objective criteria in this study.
-    ANSWER: The use of US helps in making a correct diagnosis and in the follow-up with objective criteria and also convinces the patient and the family that the treatment needs to be continued.
-    

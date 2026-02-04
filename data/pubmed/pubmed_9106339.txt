@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rabies
-TITLE: Rabies.
-PMID: 9106339
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9106339/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Equine rabies is a sporadic but highly fatal zoonotic disease. The disease persists in wildlife populations throughout the United States, Canada, Mexico, and other parts of the world. It remains a threat to all domestic species, including the horse. This article reports recent advances in the molecular virology of the rabies virus and its pathogenesis, and it also reviews the history, clinical signs, diagnostic tests, vaccination protocols, and postexposure management recommendations for the equine species.

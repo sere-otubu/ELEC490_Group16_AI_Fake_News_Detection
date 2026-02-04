@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Joint replacement
-TITLE: Current issues in joint replacement surgery.
-PMID: 16462522
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16462522/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Joint replacement surgery continues to grow in sheer number of procedures and quantity of research. We wish to highlight the key findings in the literature about variations in utilization, timing of procedure, outcomes, and minimally invasive techniques. Several studies reinforce the improved pain and function after joint replacement surgery. The best predictor of postoperative pain and function appears to be preoperative pain and function, respectively. In one study, authors expressed concern that patients may be systematically reporting better outcomes than they truly achieve. In spite of the generally favorable results after surgery, there remains considerable geographic, racial, and gender variation in utilization. The optimal timing for surgery is unknown but may be influenced by the advent of the newer longer-lasting prosthesis. Patients with poorer preoperative function tend to have poorer outcomes, regardless of baseline pain or function. Evidence thus far has demonstrated similar outcomes between minimal and standard incisions for hip arthroplasty. Advances in our understanding of outcomes after joint replacement aid in predicting best candidates for surgery. More study is needed on the optimal timing of replacement surgery and the variations in utilization.

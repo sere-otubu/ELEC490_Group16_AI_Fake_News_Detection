@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Radiation therapy
-TITLE: Radiation therapy.
-PMID: 11043096
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11043096/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Radiation therapy is commonly used to alleviate the pain associated with bone metastases. This article reviews the components of the radiation oncology evaluation. The options for use of ionizing radiation including postoperative treatment, limited-volume external beam radiotherapy, wide-field radiotherapy, and radioisotope therapy are compared and contrasted. Side effects and toxicities of radiotherapy are discussed.

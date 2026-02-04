@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cochlear implants
-TITLE: Cochlear implants in children.
-PMID: 8973509
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8973509/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cochlear implants allow the rehabilitation of children with severe to profound hearing loss. They are beneficial for not only postlingual children with hearing loss but also for children with congenital or prelingual hearing loss. Issues regarding cochlear implant candidacy and surgery are discussed. The results of cochlear implants in children and the complications related to cochlear implant surgery in children are reviewed.

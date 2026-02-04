@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Social determinants of health
-TITLE: Social determinants of health literacy in children and adolescents: a scoping review.
-PMID: 39607230
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39607230/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To map scientific evidence on social determinants related to health literacy in children and adolescents. Scoping review conducted from April to June 2023, following the Joanna Briggs Institute guidelines and the PRISMA-ScR protocol, and registered on the Open Science Framework. The keywords "health literacy," "adolescent," and "social determinants of health," including their orthographic derivatives, were combined in a search strategy used in 12 databases. The identified articles were independently screened, selected, and extracted by two researchers. Data was analyzed and discussed based on Dahlgren and Whitehead's model of social determinants of health. Twenty-one studies found one or more social determinants related to health literacy, namely: sex, cognitive characteristics, eating habits, family structure and models, school characteristics, school environment, and parents' conditions. Social determinants of health were classified from individual layers to macrodeterminants, according to the model adopted. Multiple social determinants are related to health literacy among children and adolescents, ranging from immediate to broader contexts in their lives, requiring intersectoral educational and health approaches aligned with the Sustainable Development Goals.

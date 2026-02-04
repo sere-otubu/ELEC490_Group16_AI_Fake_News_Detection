@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Arthritis
-TITLE: Crystal arthritis.
-PMID: 7656347
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7656347/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Diagnostic and classification criteria have the purpose of separating patients with a certain disease from those without the condition and from normal subjects. Specific identification of the different microcrystals establishes the definite diagnosis of crystal arthritides. The diagnostic criteria for gouty arthritis set up by the American Rheumatism Association in 1975 function well; both their sensitivity and specificity are satisfactory. Unfortunately, we have had no data on the real value of the diagnostic criteria used in CPPD or in hydroxyapatite deposition disease. Status or ranking criteria for stratifying patients by state of disease, such as activity or damage, have not been developed as yet in any type of crystal induced arthropathies. Reliable prognostic criteria sets and outcome criteria are clearly needed to indicate the course of the diseases at the onset, as well as to define the overall impact, of crystal deposition diseases.

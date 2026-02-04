@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Aging population challenges
-TITLE: The X-Age Project to construct a Chinese aging clock.
-PMID: 40926127
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40926127/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The global surge in the population of people 60 years and older, including that in China, challenges healthcare systems with rising age-related diseases. To address this demographic change, the Aging Biomarker Consortium (ABC) has launched the X-Age Project to develop a comprehensive aging evaluation system tailored to the Chinese population. Our goal is to identify robust biomarkers and construct composite aging clocks that capture biological age, defined as an individual's physiological and molecular state, across diverse Chinese cohorts. This Perspective outlines the core objectives, methodological framework and key deliverables of the X-Age Project, including cohort recruitment, standardized sample collection, multimodal data acquisition and clock model development. By integrating interdisciplinary expertise, we aim to provide a practical and scalable platform for understanding aging complexity and heterogeneity, early detection of accelerated aging and evaluation of aging interventions.

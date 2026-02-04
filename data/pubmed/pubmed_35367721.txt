@@ -1,8 +1,0 @@
-SEARCH_TOPIC: PTSD
-TITLE: Bidirectional associations between daily PTSD symptoms and sleep disturbances: A systematic review.
-PMID: 35367721
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35367721/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sleep disturbances are a core feature of posttraumatic stress disorder (PTSD) and can affect PTSD onset, maintenance, and recovery. However, there is conflicting evidence about the directionality of sleep and PTSD symptoms, particularly at the daily level. The current systematic review summarizes the literature on within-person associations between daily PTSD symptoms and sleep among trauma-exposed adults. We searched four databases using PRISMA 2020 guidelines. Of 2006 screened articles, six met inclusion criteria. Study sample sizes ranged from 30 to 202 participants, and studies assessed PTSD symptoms and sleep for 7-28 days. Two relatively consistent findings emerged: (1) shorter sleep and poorer quality sleep predicted greater next-day PTSD symptoms, and (2) greater PTSD symptoms predicted nightmares and poorer sleep quality that night. Individual study risk of bias was low to moderate. The current review provides initial support for a bidirectional association between daily self-reported sleep and PTSD symptoms. Potential clinical implications include targeting sleep via evidence-based PTSD interventions and using just-in-time adaptive interventions to disrupt the daily PTSD-sleep cycle. Findings also highlight areas for future research, such as the need to incorporate more objective sleep measures, examine PTSD symptom clusters, justify sample sizes and number of daily observations, and recruit more diverse samples.

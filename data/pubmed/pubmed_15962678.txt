@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 15962678)
-    QUESTION: Does preloading with colloids prevent hemodynamic changes when neurosurgical patients are subsequently changed to the seated position?
-    CONTEXT: This prospective, randomized, double-blind study was designed to determine and compare the usefulness of preloading colloids (Haemaccel) 10 ml/Kg before positioning whether it can prevent hemodynamic changes during seated positioning or not.
-    ANSWER: It is concluded that preloading colloid fluid prior to repositioning could prevent the decrease of systolic blood pressure and central venous pressure during sitting positioning without other complications.
-    

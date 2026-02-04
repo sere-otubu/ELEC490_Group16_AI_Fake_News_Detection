@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Osteoporosis
-TITLE: Immunoporosis: Role of immune system in the pathophysiology of different types of osteoporosis.
-PMID: 36147571
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36147571/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Osteoporosis is a skeletal system disease characterized by low bone mass and altered bone microarchitecture, with an increased risk of fractures. Classical theories hold that osteoporosis is essentially a bone remodeling disorder caused by estrogen deficiency/aging (primary osteoporosis) or secondary to diseases/drugs (secondary osteoporosis). However, with the in-depth understanding of the intricate nexus between both bone and the immune system in recent decades, the novel field of "Immunoporosis" was proposed by Srivastava et al. (2018, 2022), which delineated and characterized the growing importance of immune cells in osteoporosis. This review aimed to summarize the response of the immune system (immune cells and inflammatory factors) in different types of osteoporosis. In postmenopausal osteoporosis, estrogen deficiency-mediated alteration of immune cells stimulates the activation of osteoclasts in varying degrees. In senile osteoporosis, aging contributes to continuous activation of the immune system at a low level which breaks immune balance, ultimately resulting in bone loss. Further in diabetic osteoporosis, insulin deficiency or resistance-induced hyperglycemia could lead to abnormal regulation of the immune cells, with excessive production of proinflammatory factors, resulting in osteoporosis. Thus, we reviewed the pathophysiology of osteoporosis from a novel insight-immunoporosis, which is expected to provide a specific therapeutic target for different types of osteoporosis.

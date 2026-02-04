@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Macronutrients
-TITLE: Nitric oxide-mediated regulation of macronutrients in plants.
-PMID: 39389288
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39389288/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In plant physiology, nitric oxide (NO) is a widely used signaling molecule. It is a free radical and an important component of the N-cycle. NO is produced endogenously inside plant cells, where it participates in multiple functions and provides protection against several abiotic and biotic stresses. NO and its interplay with macronutrients had remarkable effects on plant growth and development, the signaling pathway, and defense mechanisms. Its chemical properties, synthetic pathways, physiological effects, antioxidant action, signal transduction, and regulation of transporter genes and proteins have been studied. NO emerges as a key regulator under macronutrient deficiency. In plants, NO also affects reactive oxygen species (ROS), reactive nitrogen species (RNS), and post-translational modifications (PTMs). The function of NO and its significant control in the functions and adjustments of macronutrients under macronutrient deficit were summed up in this review. NO regulate functions of macronutrients and associated signaling events involved with macronutrient transporters in different plants.

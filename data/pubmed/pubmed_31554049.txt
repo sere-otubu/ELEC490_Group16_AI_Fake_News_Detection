@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Salmonella
-TITLE: Population heterogeneity tactics as driving force in Salmonella virulence and survival.
-PMID: 31554049
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31554049/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Salmonella enterica comprises many pathogenic serovars that are able to colonize a variety of animal hosts and therefore constitute an important source of zoonotic food-borne illness. Their pathogenicity can range from gastroenteritis to typhoid fever, and depends on a series of virulence factors that are regularly located on laterally acquired genetic elements. The regulation of these virulence factors often also includes their differential expression within clonal populations. Moreover, exploitation of the resulting population heterogeneity appears to be an integral aspect of Salmonella virulence that could also affect its survival outside the host. This review therefore addresses how the regulation and heterogeneous expression of various virulence factors supports Salmonella's success as a food-borne pathogen.

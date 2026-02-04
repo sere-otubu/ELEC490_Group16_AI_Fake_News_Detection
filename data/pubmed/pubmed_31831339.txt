@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Insulin regulation
-TITLE: Insulin as an immunomodulatory hormone.
-PMID: 31831339
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31831339/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Insulin plays an indispensable role in the management of hyperglycaemia that arises in a variety of settings, including Type I and II diabetes, gestational diabetes, as well as is in hyperglycaemia following a severe inflammatory insult. However, insulin receptors are also expressed on a range of cells that are not canonically implicated in glucose homeostasis. This includes immune cells, where the anti-inflammatory effects of insulin have been repeatedly reported. However, recent findings have also implicated a more involved role for insulin in shaping the immune response during an infection. This includes the ability of insulin to modulate immune cell differentiation and polarisation as well as the modulation of effector functions such as biocidal ROS production. Finally, inflammatory mediators can through both direct and indirect mechanisms also regulate serum insulin levels, suggesting that insulin may be co-opted by the immune system during an infection to direct immunological operations. Collectively, these observations implicate insulin as a bona fide immune-modulating hormone and suggest that a better understanding of insulin's immunological function may aid in optimising insulin therapy in a range of clinical settings.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Zika virus
-TITLE: Zika virus: an overview update.
-PMID: 40048580
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40048580/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although cases of Zika virus disease (ZVD) have declined globally since 2017, new outbreaks have been reported, such as in Asia in 2024. As there is no vaccine or treatment available to date, both vaccines and mAbs neutralizing Zika virus would be of great interest, especially for pregnant women and immunocompromised patients such as those living with HIV. This review focuses on new insights regarding ZVD in the last two years and summarizes the key literature on global epidemiology, transmission, diagnostics, clinical features, preventive measures, and treatment options. At the time of writing, ZVD is endemic across tropical and subtropical regions of the world, with the highest risk of infection in Latin America and the Caribbean, but no significant peaks in outbreak activity across endemic regions. There are ongoing efforts to further investigate the clinical and epidemiological long-term sequelae of the large outbreak in the Americas 2015-2018; further refinement of diagnostic tools to improve specificity in view of significant cross-reactivity potential, particularly with dengue virus. Multiple vaccines are in different clinical development stages; however, phase 3 trials are awaiting the next epidemic. While there is no current major zika virus outbreak, progress has been made in the epidemiological work-up of clinical-epidemiological data, refinement of diagnostic tools, and mainly preventive (vaccines) rather than curative (drugs) tools.

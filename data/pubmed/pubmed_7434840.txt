@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anemia
-TITLE: [Anemia in rheumatoid arthritis].
-PMID: 7434840
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7434840/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The anaemia in rheumatoid arthritis is apparently of complex origin, in which case an increased accumulation of iron in the RES and the decreased utilisation of storage iron play the quantitatively most important role. According to literary data megaloblastic anaemias shall not appear frequently in rheumatoid arthritis. The frequency of the anaemia is rheumatoid arthritis is clearly depending on the composition of the collective of patients. In our patients anaemia and hypoferraemia do not correlate with the actual activity of the disease, however with the extension of the affection of the joints and the progressing of the basic disease. Anaemia and hypoferraemia may, therefore, be valuated as prognostically unfavourable signs. We could prove decreased vitamin B12-levels in 11.6%. There was no statistically significant relation to the course of the disease. An inhibition of the resportion of vitamin B12 by means of a long-term therapy is discussed.

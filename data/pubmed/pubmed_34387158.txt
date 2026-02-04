@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Digestive system
-TITLE: Critical Functions of lncRNA DGCR5 in Cancers of the Digestive System.
-PMID: 34387158
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34387158/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Long non-coding RNAs (lncRNAs) has no protein-coding potential due to the lack of an apparent open reading frame. There is growing evidence that lncRNA DGCR5 has a vital regulatory role in human illnesses' pathological development, particularly in the digestive system's carcinogenesis and progression. Abnormal DGCR5 expression affects different cellular functions such as proliferation, aggression, and metastasis. This paper aims to probe into the pathophysiological functions and molecular mechanisms of DGCR5 in cancers of the digestive system. This review summarizes and analyzes the biological functions and mechanisms of lncRNA DGCR5 in digestive system cancers occurrence. Relevant studies were conducted and reviewed by searching PubMed for articles with lncRNA DGCR5 and digestive system cancer as keywords in recent years. DCGR5, as a novel tumor-related lncRNA, is recently identified to be abnormally expressed in digestive system cancers, such as pancreatic ductal adenocarcinoma, pancreatic cancer, gastric cancer, gallbladder cancer, colorectal cancer, and hepatocellular carcinoma. The role played by DCGR5 is vital and varies in different digestive cancers. Taken together, aberrant expression of DCGR5 regulates the progression of digestive cancers by affecting cancer cell proliferation, aggression, metastasis, and drug resistance. LncRNA DGCR5 might be a viable marker or a promising therapeutic target in digestive system cancers.

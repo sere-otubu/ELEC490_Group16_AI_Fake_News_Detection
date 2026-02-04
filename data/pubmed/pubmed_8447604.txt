@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Plasma
-TITLE: Adverse reactions to plasma and plasma components.
-PMID: 8447604
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8447604/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Since the early days of plasma fractionation, plasma and derivatives have been identified as being responsible for a spectrum of mild to life-threatening reactions, but it is increasingly being recognised that plasma and its derivatives may be responsible for a wider range of reactions in recipients and more frequently than is commonly appreciated by clinicians. These reactions may be related to immunological differences between the donor and the recipient, either with the component being antigenic to the recipient or the plasma containing an antibody reacting with a recipient antigen. Secondly, there may be physicochemical characteristics of the plasma component such as temperature, additives, alterations due to preparative process and accumulation of metabolites or cellular release products on storage. All of these may in some patients be responsible for clinically significant reactions. This review presents a broad overview of the clinical presentations of recipient reactions due to plasma or plasma components and their underlying mechanisms. Unless there is an immediate or acute fulminant reaction to the infusion of plasma component, adverse effects of these blood products frequently go unrecognised and untreated. Some of the reactions, if undiagnosed, may have a significant effect on the outcome of the patient. There are also various preventative measures which may be taken in the preparation of blood products or their administration to minimise their potential adverse effects.

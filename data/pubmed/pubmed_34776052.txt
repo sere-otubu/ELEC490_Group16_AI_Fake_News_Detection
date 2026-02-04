@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Robotic surgery
-TITLE: Future Platforms of Robotic Surgery.
-PMID: 34776052
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34776052/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Among the various robotic devices that exist for urologic surgery, the most common are synergistic telemanipulator systems. Several have achieved clinical feasibility and have been licensed for use in humans: the standard da Vinci, Avatera, Hinotori, Revo-i, Senhance, Versius, and Surgenius. Handheld and hands-on synergistic systems are also clinically relevant for use in urologic surgeries, including minimally invasive and endoscopic approaches. Future trends of robotic innovation include an exploration of more robust haptic systems that offer kinesthetic and tactile feedback; miniaturization and microrobotics; enhanced visual feedback with greater magnification and higher fidelity detail; and autonomous robots.

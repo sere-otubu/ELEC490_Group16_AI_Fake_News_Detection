@@ -1,8 +1,0 @@
-SEARCH_TOPIC: White blood cells
-TITLE: How do normal and leukemic white blood cells egress from the bone marrow? Morphological facts and biochemical riddles.
-PMID: 2201412
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2201412/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Under normal circumstances only mature granulocytes and monocytes cross the bone marrow sinus wall, a trilaminar structure consisting of endothelial cells, a discontinuous basal membrane and an adventitial cell layer in order to get access to the blood circulation. In leukemia, however, immature white blood cells are able to traverse the barrier and to appear in the blood stream. Very little is known about the regulatory processes which govern the egress of white blood cells in healthy individuals and their malignant counterparts in patients with leukemia. The results of the few studies performed to address this question in animal and human leukemias all agree that the extent to which adventitial cells (fibroblasts) cover the endothelium in bone marrow is drastically reduced. This implies altered interactions between the leukemic and adventitial cells and their extracellular matrix. We propose here a model to explain the egress of normal cells and their leukemic counterparts. It is based upon our own experimental data and the general at present limited knowledge of the subject. It is hoped that this model will stimulate further research into this important aspect of leukemogenesis.

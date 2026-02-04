@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ovarian cancer
-TITLE: Ovarian cancer.
-PMID: 18381114
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18381114/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Ovarian cancer ranks fifth in cancer deaths among women and causes more deaths than any other gynecologic malignancy. It is estimated that 22,430 new cases will be diagnosed and 15,280 deaths will be attributed to ovarian cancer in the United States in 2007. Despite initial responses to surgery and chemotherapy in up to 80% of cases, more than 75% of affected women ultimately die from complications of disease progression.

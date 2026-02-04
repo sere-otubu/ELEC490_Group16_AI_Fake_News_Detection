@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fatty liver disease
-TITLE: Management of Metabolic-Associated Fatty Liver Disease.
-PMID: 37495344
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37495344/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Metabolic-associated fatty liver disease (MAFLD), previously known as nonalcoholic fatty liver disease (NAFLD), is the most common cause of liver disease in the world. Its prevalence is over 30% and is becoming the most common cause of liver transplants. Rates are rising along with obesity-related diseases. Risk factors for MAFLD include adverse lifestyles, genetic variations, advancing age, male sex, and alterations in the gut microbiota. Extrahepatic complications include cardiovascular disease, renal dysfunction, and colorectal cancer. As there are no currently approved medications for MAFLD, management mainly focuses on lifestyle modifications.

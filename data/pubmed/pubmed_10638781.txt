@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Substance abuse
-TITLE: Substance abuse and criminality.
-PMID: 10638781
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10638781/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Substance abuse issues and the law have become intricately linked over the years. This article reviews the current research underlying the association between substance abuse and crime, and provides an overview of the pertinent issues in conducting a substance abuse evaluation in the forensic context. The epidemiology of substance abuse and crime is reviewed, exploring the association between crime and specific psychoactive substances. Clinical considerations underlying the association are discussed, with specific attention paid to the pharmacological effects of psychoactive substances and to the role of substance use in individuals with serious associated psychopathology. Diagnostic and etiological issues that are important in differentiating substance abuse from criminality are considered in the context of conducting forensic evaluations. Finally, key components of a forensic substance abuse evaluation are presented.

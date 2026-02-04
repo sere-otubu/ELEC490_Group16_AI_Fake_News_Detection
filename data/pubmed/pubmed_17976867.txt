@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fibromyalgia
-TITLE: [Fibromyalgia].
-PMID: 17976867
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17976867/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-We review the current knowledge about fibromyalgia, adding to the clinical aspects, the nosology, epidemiology and pathogenesis. The therapeutic and social management of these suffering patients are discussed. The limitations of the American College of Rheumatology classification criteria used as diagnostic criteria are discussed. Fibromyalgia is not a simple psychiatric disorder, even if psychiatric symptoms are constantly found. Based on functional brain imaging, there is some evidence pointing to an abnormal function of the supra-spinal centres for pain regulation. Fibromyalgia is a clinical autonomous entity. Physiopathology knowledge is improving, but must be confirmed by new research. Patients will take profit of multimodal individualized treatment programs, including explanations about the diagnosis. In most cases, fibromyalgia is compatible with the maintenance of a professional activity, possibly adapted to the patient. Recognized disability requiring compensation is infrequent.

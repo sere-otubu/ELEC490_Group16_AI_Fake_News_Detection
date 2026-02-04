@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antibiotic resistance
-TITLE: Global economic impact of antibiotic resistance: A review.
-PMID: 31176071
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31176071/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The pandemic of antibiotic resistance has become a serious threat to the therapeutic efficacy of the available antibiotics and their prescribed regimens. The problem is multifaceted as it encompasses medical, social, economic and anthropogenic spheres. The present review reports the global economic impact of antibiotic resistance among humans on the basis of published research as well as reports of national and international organisations. The impact is catastrophic because it includes patients, healthcare providers, researchers, pharmaceutical organisations, healthcare businesses and, moreover, national and international policy-makers. We found very serious economic impacts of the existing and emerging antibiotic resistance conditions. This study is divided into geographical regions to see the total impact. The risk of medical poverty trap is more significant in low-resource settings.

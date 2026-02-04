@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Placebo effect
-TITLE: [THE PLACEBO EFFECT - NEUROBIOLOGICAL ASPECTS].
-PMID: 28551941
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28551941/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Any medical treatment, whether it be medication, behavioral therapy or medical procedure, can affect the patient in a very complex way. Each of these forms of medical treatment have both psychobiological and physiological effects on the patient, with interactions between those levels. When considering the specific efficacy of a new treatment, there is therefore a need to neutralize the psychobiological effect by comparing the effect of the treatment to the effect of a placebo - a treatment involving similar characteristics which does not produce that physiological effect. We may term the non-specific effect (the psychobiological effect) the 'placebo effect'. However, the placebo effect itself involves physiological elements, elements of which our understanding has improved greatly in recent years. In this review we will discuss the neurobiological aspects of the placebo effect. We now know that the influence of the placebo effect on medical treatment and on the interaction between therapist and patient is enormous and may contribute up to 50% of the treatment's effect, making it very important for every therapist to become aware of these aspects.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Muscular system
-TITLE: In Vivo Target Gene Activation via CRISPR/Cas9-Mediated Trans-epigenetic Modulation.
-PMID: 29224783
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29224783/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Current genome-editing systems generally rely on inducing DNA double-strand breaks (DSBs). This may limit their utility in clinical therapies, as unwanted mutations caused by DSBs can have deleterious effects. CRISPR/Cas9 system has recently been repurposed to enable target gene activation, allowing regulation of endogenous gene expression without creating DSBs. However, in vivo implementation of this gain-of-function system has proven difficult. Here, we report a robust system for in vivo activation of endogenous target genes through trans-epigenetic remodeling. The system relies on recruitment of Cas9 and transcriptional activation complexes to target loci by modified single guide RNAs. As proof-of-concept, we used this technology to treat mouse models of diabetes, muscular dystrophy, and acute kidney disease. Results demonstrate that CRISPR/Cas9-mediated target gene activation can be achieved in vivo, leading to measurable phenotypes and amelioration of disease symptoms. This establishes new avenues for developing targeted epigenetic therapies against human diseases. VIDEO ABSTRACT.

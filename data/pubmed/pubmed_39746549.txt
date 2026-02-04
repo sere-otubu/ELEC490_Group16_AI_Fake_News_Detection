@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Type 1 Diabetes
-TITLE: Managing obesity in adults with type 1 diabetes.
-PMID: 39746549
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39746549/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-As the prevalence of obesity has reached epidemic proportions, its prevalence has also increased among adults living with type 1 diabetes mellitus. Unlike the pathophysiologic relationship between obesity and type 2 diabetes mellitus, the relationship between obesity and type 1 diabetes mellitus, and management of obesity in the setting of type 1 diabetes mellitus, have not been well reviewed. In this article, we discuss the comprehensive management of obesity in adults with type 1 diabetes mellitus, focusing on medical nutrition therapy and adjunct therapies such as weight loss-promoting medications and metabolic/bariatric surgery.

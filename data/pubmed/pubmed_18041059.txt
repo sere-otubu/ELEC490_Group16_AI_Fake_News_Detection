@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18041059)
-    QUESTION: Do adjuvant aromatase inhibitors increase the cardiovascular risk in postmenopausal women with early breast cancer?
-    CONTEXT: Despite the advantages from using aromatase inhibitors (AIs) compared with tamoxifen for early breast cancer, an unexpectedly greater number of grade 3 and 4 cardiovascular events (CVAE) (as defined by National Cancer Institute of Canada-Common Toxicity Criteria [version 2.0] was demonstrated.
-    ANSWER: According to the results from this meta-analysis, the risk of grade 3 and 4 CVAEs in patients who were receiving AIs was higher compared with the risk in patients who were receiving tamoxifen, and the difference reached statistical significance. However, the AD was relatively low, and from 160 to 180 patients had to be treated to produce 1 event.
-    

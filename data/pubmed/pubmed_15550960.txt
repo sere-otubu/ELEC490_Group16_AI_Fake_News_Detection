@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Air pollution health effects
-TITLE: [Health effects of outdoor air pollution].
-PMID: 15550960
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15550960/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This paper addresses the contribution from epidemiological research to our current understanding of the health effects of ambient air pollution. Well-known examples from the international literature are presented in order to describe the most commonly used research designs and show how such studies have contributed to our knowledge. A review of Norwegian studies is presented. A large number of studies have shown that quite low levels of air pollution are associated with negative health effects. Most studies have assessed short-term effects and both respiratory and cardiovascular effects have been shown to be associated with exposure to air pollutants. The general view is that particulate matter causes the adverse health effect of air pollution, even though epidemiological studies alone have obvious limitations when it comes to conclusions about causation. Few Norwegian air pollution studies have so far been carried out; estimates of the health effects of air pollution in Norway must mainly rely on studies carried out in places with different climate and air pollution composition.

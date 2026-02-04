@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20549895)
-    QUESTION: Health habits and vaccination status of Lebanese residents: are future doctors applying the rules of prevention?
-    CONTEXT: There has never been a nationally representative survey of medical students' personal health-related practices, although they are inherently of interest and may affect patient-counseling practices. This study evaluated the health practices and the vaccination status of first year residents working at the academic hospital Hôtel-Dieu de France.
-    ANSWER: This study showed that our residents did not always have a healthy lifestyle especially when it comes to physical activity and eating habits. They also lacked an adequate vaccination. Interventions should take place in order to promote healthy life style and to improve their vaccination status.
-    

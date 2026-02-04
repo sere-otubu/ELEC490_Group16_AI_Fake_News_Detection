@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Physical therapy
-TITLE: Physical therapy modalities in neurological disorders at developmental age - Assessment of the methodological value of research papers.
-PMID: 32508336
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32508336/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Physical therapy modalities are often applied in treatment of neurological conditions in children and adolescents. Evaluation of the methodological quality of research focusing on the application of physical therapy modalities in children and adolescents with neurological conditions. Papers published between 2007 and 2018 were included in the review. 149 papers were analyzed and finally 26 studies investigating the use of physical therapy modalities in children and adolescents with neurological conditions were included in the review. Jadad scale (0-5) was used to assess the methodological value of the studies. The mean Jadad score was 1.46 (researcher 1) and 1.38 (researcher 2). A score of 0 was awarded to nine (r1) and eight papers (r2). A score of 5 points was awarded to three (r1) and two papers (r2). 1. The evidence showing the effectiveness of the use of physical therapy modalities is mainly of low quality. 2. The Jadad scale is a valuable tool to assess the quality of research, although it does not always reflect the real value in the case children participate in studies. 3. The analyzed studies show that physical therapy modalities are effective in the treatment of children and adolescents with neurological disorders.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Concussion
-TITLE: Concussion is confusing us all.
-PMID: 25977270
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25977270/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-It is time to stop using the term concussion as it has no clear definition and no pathological meaning. This confusion is increasingly problematic as the management of 'concussed' individuals is a pressing concern. Historically, it has been used to describe patients briefly disabled following a head injury, with the assumption that this was due to a transient disorder of brain function without long-term sequelae. However, the symptoms of concussion are highly variable in duration, and can persist for many years with no reliable early predictors of outcome. Using vague terminology for post-traumatic problems leads to misconceptions and biases in the diagnostic process, producing uninterpretable science, poor clinical guidelines and confused policy. We propose that the term concussion should be avoided. Instead neurologists and other healthcare professionals should classify the severity of traumatic brain injury and then attempt to precisely diagnose the underlying cause of post-traumatic symptoms.

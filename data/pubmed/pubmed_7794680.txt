@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Integumentary system
-TITLE: Wound healing.
-PMID: 7794680
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7794680/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Wound healing is a dynamic biologic process of repairing insults to the integumentary system. It is commonly divided into three phases: inflammatory, proliferative, and maturation. Each phase has unique cellular and substance constituents without which it cannot progress normally. A large variety of factors may influence any part of wound healing, including local factors such as bacteria, oxygen tension, and bleeding, and systemic factors such as the mental and physical health of the patient. There are also extrinsic factors that can be influenced by the caretakers of the wound to enhance wound healing. Areas of intervention include using antiseptic technique when one is dealing with the wound, using good surgical technique, choosing the appropriate wounding method and repair for the individual patient, and using antibiotics and special wound dressings. Modern science and technology are giving us new insights into wound healing and leading us to exciting new ways of influencing it, including the topical use of growth factors, artificial skins, cultured epithelium with and without dermal components, and electrical stimulation. The future of wound healing holds a better understanding of the complexities of the physiologic events that occur and a translation of that into a biologically active and interactive wound care.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Opioid addiction
-TITLE: Opioid Addiction, Genetic Susceptibility, and Medical Treatments: A Review.
-PMID: 31480739
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31480739/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Opioid addiction is a chronic and complex disease characterized by relapse and remission. In the past decade, the opioid epidemic or opioid crisis in the United States has raised public awareness. Methadone, buprenorphine, and naloxone have proven their effectiveness in treating addicted individuals, and each of them has different effects on different opioid receptors. Classic and molecular genetic research has provided valuable information and revealed the possible mechanism of individual differences in vulnerability for opioid addiction. The polygenic risk score based on the results of a genome-wide association study (GWAS) may be a promising tool to evaluate the association between phenotypes and genetic markers across the entire genome. A novel gene editing approach, clustered, regularly-interspaced short palindromic repeats (CRISPR), has been widely used in basic research and potentially applied to human therapeutics such as mental illness; many applications against addiction based on CRISPR are currently under research, and some are successful in animal studies. In this article, we summarized the biological mechanisms of opioid addiction and medical treatments, and we reviewed articles about the genetics of opioid addiction, the promising approach to predict the risk of opioid addiction, and a novel gene editing approach. Further research on medical treatments based on individual vulnerability is needed.

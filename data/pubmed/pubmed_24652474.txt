@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24652474)
-    QUESTION: Clinical identifiers for early-stage primary/idiopathic adhesive capsulitis: are we seeing the real picture?
-    CONTEXT: Adhesive capsulitis is often difficult to diagnose in its early stage and to differentiate from other common shoulder disorders.
-    ANSWER: None of the clinical identifiers for early-stage adhesive capsulitis previously proposed by expert consensus have been validated in this study. Clinicians should be aware that commonly used clinical identifiers may not be applicable to this stage.
-    

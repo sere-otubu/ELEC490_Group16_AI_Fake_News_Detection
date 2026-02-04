@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hormone replacement therapy
-TITLE: Hormone Replacement Therapy and Development of New Asthma.
-PMID: 33775661
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33775661/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hormone replacement therapy (HRT) is prescribed to millions of women worldwide. Previous studies have suggested that HRT has both protective and harmful effects in asthma. Is HRT in menopause associated with new development of asthma? We undertook a nested case-control study based on the Danish registers from June 1, 1995, through December 31, 2018. A diagnosis of asthma was defined as two redeemed prescriptions of inhaled corticosteroids within 2 years. HRT was defined as two redeemed prescriptions of female sex hormones within 6 months. Data were analyzed using a conditional logistic regression model. We included 34,533 women with asthma vs 345,116 women without asthma between 40 and 65 years of age. In a multivariate analysis adjusted for age, household income, and educational level, active HRT resulted in a hazard ratio (HR) of 1.63 (95% CI, 1.55-1.71; P < .001) of new asthma development. Women with asthma who terminated HRT were likely to discontinue their asthma treatment subsequently (HR, 2.12; 95% CI, 1.94-2.33; P < .001). HRT seems to play a role in the development of asthma in mature women. Clinicians prescribing HRT and women receiving HRT should be aware that new airway symptoms can develop, and discontinuation of HRT should be considered.

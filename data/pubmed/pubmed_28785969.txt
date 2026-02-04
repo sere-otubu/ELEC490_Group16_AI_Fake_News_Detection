@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Heart failure
-TITLE: Acute Heart Failure: Definition, Classification and Epidemiology.
-PMID: 28785969
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28785969/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The purpose of this review is to describe the extent and scope of acute heart failure (AHF), place it within its clinical context and highlight some of the difficulties in defining it as a pathophysiological entity. A diagnosis of AHF is made when patients present acutely with signs and symptoms of heart failure, often with decompensation of pre-existing cardiomyopathy. The most current guidelines classify based on clinical features at initial presentation and are used to both risk stratify and guide the management of haemodynamic compromise. Despite this, AHF remains a diagnosis with a poor prognosis and there is no therapy proven to have long-term mortality benefits. We provide an introduction to AHF and discuss its definition, causes and precipitants. We also present epidemiological and demographic data to suggest that there is significant patient heterogeneity and that AHF is not a single pathology, but rather a range of pathophysiological entities. This poses a challenge when designing clinical trials and may, at least in part, explain why the results in this area have been largely disappointing.

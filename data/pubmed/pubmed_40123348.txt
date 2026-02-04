@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Skin cancer prevention
-TITLE: A review of sunscreen in the prevention of skin cancer.
-PMID: 40123348
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40123348/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-ObjectiveDespite the reported benefits of sunscreen use in preventing skin cancer, the overall protection from melanoma and non-melanoma skin cancers putatively reflects the frequency of use and sunscreen type. Herein, we review the current knowledge regarding sunscreen's effectiveness at averting the development of skin cancers.Data sourcesWe conducted an extensive PubMed search comprising several review articles on the topic of sunscreen use and prevention of skin cancer, with specific terms that included sunscreen and usage, skin cancer, and sunscreen side effects.Data summarySeveral observational, cohort studies and randomized controlled trials have underscored the benefits of sunscreen in forestalling skin cancers. In particular, the incidence of melanoma and squamous-cell carcinoma is reduced, although the effect of sunscreen on basal-cell carcinoma is relatively less pronounced.ConclusionsThe implications from this study indicate that sunscreen reduces the incidence of melanoma and non-melanoma skin cancers although deriving the intended effect is contingent upon the type of sunscreen and adherence to the recommended guidelines. The primary side effects from sunscreen include dermal irritation and rash; and since there is some indication that UV filter-based sunscreens may harbor carcinogenic properties, clinicians should advise their patients on the type of sunscreen, not to mention the frequency of use.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood transfusion
-TITLE: Blood transfusion.
-PMID: 11974045
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11974045/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Blood transfusion is a potentially dangerous treatment in which adverse reactions are rare but can be fatal. This article introduces recently published national guidelines for the care of recipients of a blood transfusion (BCSH 1999) and focuses in particular on the responsibilities of nurses and midwives.

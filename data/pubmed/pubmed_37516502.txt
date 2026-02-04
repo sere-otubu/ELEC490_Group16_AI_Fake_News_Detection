@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pain management
-TITLE: Pain Management in the Elderly: A Narrative Review.
-PMID: 37516502
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37516502/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-With the increase in life expectancy in the United States, octogenarians and nonagenarians are more frequently seen in clinical practice. The elderly patients have multiple preexisting comorbidities and are on multiple medications, which can make pain management complex. Moreover, the elderly population often suffers from chronic pain related to degenerative processes, making medical management challenging. In this review, the authors collated available evidence for best practices for pain management in the elderly.

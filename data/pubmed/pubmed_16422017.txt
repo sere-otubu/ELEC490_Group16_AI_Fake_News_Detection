@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Evidence based medicine
-TITLE: Evidence-based medicine.
-PMID: 16422017
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16422017/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Evidence-based medicine (EBM) describes a structured (non-consensus-based) process, in which medical literature is assessed critically to define the value of different therapeutic interventions. Ultimately, the goal is to improve both physician decision making and patient outcome. These assessments begin by defining the specific clinical questions to be answered. Following a structured literature search, evidence that bears on these questions is assembled and classified with respect to the quality of the evidence provided by each study. Lastly, using a set of pre-specified rules, this evidence is translated into specific conclusions and recommendations. Its relative objectivity means that evidence-based medicine can be a powerful tool for practising physicians. As a result, it is important for them to become familiar with this analytical method.

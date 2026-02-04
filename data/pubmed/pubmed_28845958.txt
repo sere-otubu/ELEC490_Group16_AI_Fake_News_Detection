@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Insomnia
-TITLE: Sleep Disorders: Insomnia.
-PMID: 28845958
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28845958/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Insomnia is the most common type of sleep disorder in the family medicine population. It is defined as a persistent difficulty initiating or maintaining sleep, or a report of nonrestorative sleep, accompanied by related daytime impairment. Insomnia is a significant public health problem because of its high prevalence and management challenges. There is increasing evidence of a strong association between insomnia and various medical and psychiatric comorbidities. Diagnosis of insomnia and treatment planning rely on a thorough sleep history to address contributing and precipitating factors as well as maladaptive behaviors resulting in poor sleep. Using a sleep diary or sleep log is more accurate than patient recall to determine sleep patterns. A sleep study is not routinely indicated for evaluation of insomnia. Cognitive behavioral therapy for insomnia (CBT-I) is the mainstay of treatment and is a safe and effective approach. The key challenge of CBT-I is the lack of clinicians to implement it. The newer generation nonbenzodiazepines (eg, zolpidem, zaleplon) are used as first-line pharmacotherapy for chronic insomnia. Newer drugs active on targets other than the gamma-aminobutyric acid receptor are now available, but clear treatment guidelines are needed.

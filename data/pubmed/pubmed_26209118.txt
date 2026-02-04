@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26209118)
-    QUESTION: Utility of unenhanced fat-suppressed T1-weighted MRI in children with sickle cell disease -- can it differentiate bone infarcts from acute osteomyelitis?
-    CONTEXT: Children with sickle cell disease (SCD) are at risk of bone infarcts and acute osteomyelitis. The clinical differentiation between a bone infarct and acute osteomyelitis is a diagnostic challenge. Unenhanced T1-W fat-saturated MR images have been proposed as a potential tool to differentiate bone infarcts from osteomyelitis.
-    ANSWER: The bone marrow signal intensity on unenhanced T1-W fat-saturated MR images is not a reliable criterion to differentiate bone infarcts from osteomyelitis in children.
-    

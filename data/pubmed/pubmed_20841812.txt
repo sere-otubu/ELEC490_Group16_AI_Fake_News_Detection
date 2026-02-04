@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Patient data privacy HIPAA
-TITLE: HIPAA compliance and patient privacy protection.
-PMID: 20841812
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20841812/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Recent prosecution of violations of the Health Insurance Portability and Accountability Act (HIPAA), and the amendments currently in process to strengthen the Act of 1996, has led many companies to take serious notice of the measures they must take to be a compliance. A company's privacy policy states the business' privacy practices and embodies the firm's commitments to its users and is normally mandatory step in reaching legislative compliance. in the face of this, the patient has to decipher if the company's privacy practices are congruent with their thoughts on the level of privacy protection they should be receiving. This is the core of our investigation. In this paper, we explore the question "Is a healthcare entity's compliance with regulation sufficient to provide the patient with adequate privacy protection?" in the context of the United States of America.

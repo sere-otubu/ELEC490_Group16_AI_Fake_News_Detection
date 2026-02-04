@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Organ donation ethics
-TITLE: Organ Donation and Elective Ventilation: A Necessary Strategy.
-PMID: 28182115
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28182115/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Organ transplantation is the sole treatment to improve or save the life of patients with final-stage organ failure. The shortage of available organs for transplantation constitutes a universal problem, estimating that 10% of patients on waiting lists die. Brain death is an undesirable result; nevertheless, it has beneficial side-effects since it is the most frequent source of organs for transplantation. However, this phenomenon is relatively uncommon and has a limited potential. One of the options that focuses on increasing organ donation is to admit patients with catastrophic brain injuries (with a high probability of brain death and nontreatable) to the Intensive Care Unit, with the only purpose of donation. To perform elective nontherapeutic ventilation (ENTV), a patient's anticipated willingness to donate organs and/or explicit acceptance by his/her relatives is required. This process should focus exclusively on those patients with catastrophic brain injuries and imminent risk of death which, due to its acute damage, are not considered treatable. This article defends ENTV as an effective strategy to improve donation rate, analyzing its ethical and legal basis.

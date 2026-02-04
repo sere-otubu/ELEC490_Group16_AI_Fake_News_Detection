@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24851767)
-    QUESTION: Undescended testes: does age at orchiopexy affect survival of the testis?
-    CONTEXT: The optimal age at which to perform orchiopexy for cryptorchidism has long been debated. The aim of this study was to determine if age at orchiopexy affected testicular atrophy.
-    ANSWER: From this study we conclude that there is no increase in testicular atrophy in patients less than 13 months.
-    

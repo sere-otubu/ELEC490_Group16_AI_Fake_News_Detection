@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22694248)
-    QUESTION: Is there a model to teach and practice retroperitoneoscopic nephrectomy?
-    CONTEXT: Although the retroperitoneal approach has been the preferred choice for open urological procedures, retroperitoneoscopy is not the preferred approach for laparoscopy. This study aims to develop a training model for retroperitoneoscopy and to establish an experimental learning curve.
-    ANSWER: RPN in a porcine model is feasible and could be very useful for teaching and practicing retroperitoneoscopy.
-    

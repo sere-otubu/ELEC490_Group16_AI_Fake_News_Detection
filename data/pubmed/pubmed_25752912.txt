@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25752912)
-    QUESTION: Is the probability of prenatal diagnosis or termination of pregnancy different for fetuses with congenital anomalies conceived following assisted reproductive techniques?
-    CONTEXT: To compare the probability of prenatal diagnosis (PND) and termination of pregnancy for fetal anomaly (TOPFA) between fetuses conceived by assisted reproductive techniques (ART) and spontaneously-conceived fetuses with congenital heart defects (CHD).
-    ANSWER: In our population, ART conception was not significantly associated with the probability of PND or TOPFA for CHD. One implication of our results is that live births may be adequate for assessing the overall risk of CHD related to ART. However, total prevalence, in particular of severe CHD, would not be adequately assessed if TOPFA are not included.
-    

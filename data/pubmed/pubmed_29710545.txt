@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rheumatoid arthritis
-TITLE: Cancer chemotherapeutics in rheumatoid arthritis: A convoluted connection.
-PMID: 29710545
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29710545/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chemotherapy is one of the most popular therapeutic strategies to treat cancer. However, cancer chemotherapeutics have often been associated with impairment of the immune system, which might consequently lead to an augmented risk of autoimmune disorders, such as rheumatoid arthritis. Though the accurate mechanistic facets of rheumatoid arthritis induction have not been interpreted yet, a conglomeration of genetic and environmental factors might promote its etiology. What makes the scenario more challenging is that patients with rheumatoid arthritis are at a significantly elevated risk of developing various types of cancer. It is intriguing to note that diverse cancer chemotherapy drugs are also commonly used to treat symptoms of rheumatoid arthritis. However, a colossal multitude of such cancer therapeutics has demonstrated highly varied results in rheumatoid arthritis patients, including both beneficial and adverse effects. Herein, we attempt to present a holistic account of the variegated modalities of this complex tripartite cross-talk between cancer, rheumatoid arthritis and chemotherapy drugs in order to decode the sinuous correlation between these two appalling pathological conditions.

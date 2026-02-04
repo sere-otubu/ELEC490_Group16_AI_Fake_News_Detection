@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19664156)
-    QUESTION: Search engine as a diagnostic tool in difficult immunological and allergologic cases: is Google useful?
-    CONTEXT: Web search engines are an important tool in communication and diffusion of knowledge. Among these, Google appears to be the most popular one: in August 2008, it accounted for 87% of all web searches in the UK, compared with Yahoo's 3.3%. Google's value as a diagnostic guide in general medicine was recently reported. The aim of this comparative cross-sectional study was to evaluate whether searching Google with disease-related terms was effective in the identification and diagnosis of complex immunological and allergic cases.
-    ANSWER: This Google-based search was useful to identify an appropriate diagnosis in complex immunological and allergic cases. Computing skills may help to get better results.
-    

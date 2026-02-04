@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Multiple sclerosis
-TITLE: Multiple sclerosis: clinical aspects.
-PMID: 30300239
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30300239/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Multiple sclerosis is a chronic, predominantly immune-mediated disease of the central nervous system, and one of the most common causes of neurological disability in young adults globally. This review will discuss the epidemiology, diagnosis, disease course, and prognosis of multiple sclerosis and will focus on recent evidence and advances in these aspects of the disease. Multiple sclerosis is increasing in incidence and prevalence globally, even in traditionally low-prevalence regions of the world. Recent revisions have been proposed to the existing multiple sclerosis diagnostic criteria, which will facilitate earlier diagnosis and treatment in appropriate patients. Classifying multiple sclerosis into distinct disease phenotypes can be challenging, and recent refinements have been proposed to clarify existing definitions. The prognosis of multiple sclerosis varies substantially across individual patients, and a combination of clinical, imaging, and laboratory markers can be useful in predicting clinical course and optimizing treatment in individual patients. A number of recent advances have been made in the clinical diagnosis and prognostication of multiple sclerosis patients. Future research will enable the development of more accurate biomarkers of disease categorization and prognosis, which will enable timely personalized treatment in individual multiple sclerosis patients.

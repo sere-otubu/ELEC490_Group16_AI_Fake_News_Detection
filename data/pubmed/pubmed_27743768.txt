@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ovarian cancer
-TITLE: Epidemiology of epithelial ovarian cancer.
-PMID: 27743768
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27743768/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Globally, ovarian cancer is the seventh most common cancer in women and the eighth most common cause of cancer death, with five-year survival rates below 45%. Although age-standardised rates are stable or falling in most high-income countries, they are rising in many low and middle income countries. Furthermore, with increasing life-expectancy, the number of cases diagnosed each year is increasing. To control ovarian cancer we need to understand the causes. This will allow better prediction of those at greatest risk for whom screening might be appropriate, while identification of potentially modifable causes provides an opportunity for intervention to reduce rates. In this paper we will summarise the current state of knowledge regarding the known and possible causes of epithelial ovarian cancer and discuss some of the main theories of ovarian carcinogenesis. We will also briefly review the relationship between lifestyle and survival after a diagnosis of ovarian cancer.

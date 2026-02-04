@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood tests interpretation
-TITLE: Using Alzheimer's disease blood tests to accelerate clinical trial enrollment.
-PMID: 35934777
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35934777/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Screening potential participants in Alzheimer's disease (AD) clinical trials with amyloid positron emission tomography (PET) is often time consuming and expensive. A web-based application was developed to model the time and financial cost of screening for AD clinical trials. Four screening approaches were compared; three approaches included an AD blood test at different stages of the screening process. The traditional screening approach using only amyloid PET was the most time consuming and expensive. Incorporating an AD blood test at any point in the screening process decreased both the time and financial cost of trial enrollment. Improvements in AD blood test accuracy over currently available tests only marginally increased savings. Use of a high specificity cut-off may improve the feasibility of screening with only an AD blood test. Incorporating AD blood tests into screening for AD clinical trials may reduce the time and financial cost of enrollment. The time and cost of enrolling participants in Alzheimer's disease (AD) clinical trials were modeled. A web-based application was developed to enable evaluation of key parameters. AD blood tests may decrease the time and financial cost of clinical trial enrollment. Improvements in AD blood test accuracy only marginally increased savings. Use of a high specificity cut-off may enable screening with only an AD blood test.

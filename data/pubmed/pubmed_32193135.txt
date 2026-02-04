@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Herd immunity
-TITLE: Influence of herd immunity in the cyclical nature of arboviruses.
-PMID: 32193135
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32193135/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-We review and contrast the evidence for an effect of amplifying host herd immunity on circulation and human exposure to arboviruses. Herd immunity of short-lived West Nile virus avian amplifying hosts appears to play a limited role in levels of enzootic circulation and spillover infections of humans, which are not amplifiers. In contrast, herd immunity of nonhuman primate hosts for enzootic Zika, dengue, and chikungunya viruses is much stronger and appears to regulate to a large extent the periodicity of sylvatic amplification in Africa. Following the recent Zika and chikungunya pandemics, human herd immunity in the Americas quickly rose to ∼50% in many regions, although seroprevalence remains patchy. Modeling from decades of chikungunya circulation in Asia suggests that this level of herd immunity will suppress for many years major chikungunya and Zika epidemics in the Americas, followed by smaller outbreaks as herd immunity cycles with a periodicity of up to several decades.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alternative medicine
-TITLE: Complementary and Alternative Medicine for Menopause.
-PMID: 30868921
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30868921/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Menopause is associated with problematic symptoms, including hot flashes, sleep problems, mood disorders, sexual dysfunction, weight gain, and declines in cognitive functioning. Many women seek complementary and alternative medicine (CAM) for symptom management. This article critically reviews the existing literature on CAM treatments most commonly used for menopausal symptoms. Electronic searches were conducted to identify relevant, English-language literature published through March 2017. Results indicate that mind and body practices may be of benefit in reducing stress and bothersomeness of some menopausal symptoms. In particular, hypnosis is a mind-body intervention that has consistently shown to have a clinically significant effect on reducing hot flashes. Evidence is mixed in regard to the efficacy of natural products and there are some safety concerns. Health care providers should consider the evidence on CAM in providing an integrative health approach to menopausal symptom management.

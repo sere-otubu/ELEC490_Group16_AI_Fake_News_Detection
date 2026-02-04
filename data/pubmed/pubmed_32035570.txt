@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Osteoarthritis
-TITLE: Osteoarthritis: Pathology, Diagnosis, and Treatment Options.
-PMID: 32035570
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32035570/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Osteoarthritis (OA) is a worldwide endemic and debilitating disease. Previously thought to simply be damaged from "wear and tear," OA is now understood to be a complex interaction of local and systemic factors. This article reviews the pathology, symptoms, diagnosis, and various conservative, surgical, and novel treatments of OA.

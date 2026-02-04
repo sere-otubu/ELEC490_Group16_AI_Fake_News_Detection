@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Bipolar disorder
-TITLE: Bipolar Disorder: Its Etiology and How to Model in Rodents.
-PMID: 31273693
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31273693/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Characterized by the switch of manic and depressive phases, bipolar disorder was described as early as the fifth century BC. Nevertheless up to date, the underlying neurobiology is still largely unclear, assuming a multifactor genesis with both biological-genetic and psychosocial factors. Significant process has been achieved in recent years in researching the causes of bipolar disorder with modern molecular biological (e.g., genetic and epigenetic studies) and imaging techniques (e.g., positron emission tomography (PET) and functional magnetic resonance imaging (fMRI)). In this chapter we will first summarize our recent knowledge on the etiology of bipolar disorder. We then discuss how several factors observed to contribute to bipolar disorder in human patients can be manipulated to generate rodent models for bipolar disorder. Finally, we will give an overview on behavioral test that can be used to assess bipolar-disorder-like behavior in rodents.

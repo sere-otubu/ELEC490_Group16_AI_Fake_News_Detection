@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Robotic surgery
-TITLE: Robotic Surgery for Male Infertility.
-PMID: 33218587
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33218587/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The robotic platform offers theoretical and practical advantages to microsurgical male infertility surgery. These include reduction or elimination of tremor, 3-dimensional visualization, and decreased need for skilled surgical assistance. This article reviews the application of robotic surgery to each of the 4 primary male infertility procedures: vasectomy reversal, varicocelectomy, testicular sperm extraction, and spermatic cord denervation. Historical perspective is presented alongside the available outcomes data, which are limited in most cases. Before the robotic approach can be widely adopted, further clinical trials are needed to compare outcomes and costs with those of other validated surgical techniques.

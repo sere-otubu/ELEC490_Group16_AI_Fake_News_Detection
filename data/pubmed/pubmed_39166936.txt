@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cognitive rehabilitation
-TITLE: [Possibilities of mirror therapy in cognitive rehabilitation after stroke].
-PMID: 39166936
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39166936/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The review provides a brief overview of the history of the development of mirror therapy. Current data on the putative mechanisms of mirror therapy as well as the theory of mirror neurons are presented. The authors describe the implementation of the effects of mirror therapy in motor rehabilitation after stroke, including motor imagination or mental simulation of actions, strengthening of spatial attention and self-perception, activation of the ipsilateral corticospinal tract, reorganization of neuronal networks that influence the state of structurally intact but functionally inactive neurons. The authors reflected the prerequisites for the use of mirror therapy in the rehabilitation of cognitive impairment in poststroke patients. The results of current clinical studies and case reports of the use of mirror therapy for the rehabilitation of speech and non-speech cognitive disorders, and neglect syndrome after stroke are presented.

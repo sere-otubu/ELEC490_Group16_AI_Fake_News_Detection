@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gum disease
-TITLE: A classification system for loss of papillary height.
-PMID: 9802711
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9802711/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A classification system for loss of papillary height is proposed. It uses readily identifiable anatomical landmarks for reference, and sorts the degree of loss into 3 classes. The 3 broad categories allow for a quick descriptive assessment. In addition to the basic classification, it is suggested that additional and incremental description may be included to further define the defects.

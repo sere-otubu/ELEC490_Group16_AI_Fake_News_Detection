@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Autism spectrum disorder
-TITLE: Autism Spectrum Disorder Across the Lifespan.
-PMID: 39836874
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39836874/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Autism is a neurodevelopmental condition that affects individuals worldwide throughout their lives. Copious advances in research have enhanced our understanding of autism significantly since Dr. Leo Kanner's first description of the condition in 1943. This review aims to provide an overview of our current knowledge of autism, examining its manifestations across age, race, gender, and co-occurring conditions (e.g., intellectual disability) from childhood through adulthood. We also focus on the identification and diagnosis of autism, long-term outcomes with a spotlight on adulthood, and appropriate supports and interventions across different developmental stages for autistic individuals and their families. We stress the importance of a lifespan perspective that considers the evolving needs of individuals with autism as they age, and we highlight the role of longitudinal research.

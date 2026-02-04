@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Self harm
-TITLE: The relationship between self-harm and alexithymia.
-PMID: 26011069
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26011069/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This paper presents a systematic review of the literature concerning the relationship between alexithymia and self-harm. Fifteen studies were selected following a systematic search of relevant databases. Results indicate significantly higher levels of alexithymia in women who self-harm compared with women who do not self-harm. Studies of men were less conclusive and require further investigation. A subsample of the studies found that childhood abuse and bullying were more likely to be associated with self-harm if alexithymia was present as a mediator. Other studies found that depression mediated between alexithymia and self-harm. The results indicate that the poor emotional cognition and expression associated with alexithymia may increase vulnerability to self-harm, particularly in women.

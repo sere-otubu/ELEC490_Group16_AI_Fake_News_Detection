@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 16296668)
-    QUESTION: Can bedside assessment reliably exclude aspiration following acute stroke?
-    CONTEXT: To investigate the ability of a bedside swallowing assessment to reliably exclude aspiration following acute stroke.
-    ANSWER: Bedside assessment of swallowing lacks the necessary sensitivity to be used as a screening instrument in acute stroke, but there are concerns about the use of videofluoroscopy as a gold standard. The relative importance of aspiration and bedside assessment in predicting complications and outcome needs to be studied.
-    

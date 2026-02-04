@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Autism spectrum disorder
-TITLE: Autism spectrum disorder: Trends in research exploring etiopathogenesis.
-PMID: 31077508
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31077508/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Autism spectrum disorder is a neurodevelopmental condition in which affected individuals have difficulties while interacting and communicating socially, and repetitive behaviors. It has a multifactorial etiology. Various risk factors, including genetic and environmental influences, have been explored while trying to understand its causation. As older evidence was suggestive of a high heritability, a majority of research focused on finding the underlying genetic causes of autism. Due to these efforts, there have been advances in the knowledge of some of the genetic factors associated with autism. But a recent trend also shows an increasing interest in exploration of various potential environmental triggers. These efforts have brought us closer to understanding the elusive disorder more so than ever before. The current review discusses the recent trends in research exploring the etiopathogenesis of autism spectrum disorder.

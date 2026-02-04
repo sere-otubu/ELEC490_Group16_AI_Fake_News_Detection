@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sinusitis
-TITLE: Pediatric sinusitis.
-PMID: 15878458
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15878458/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sinusitis remains one of the most prevalent but clinically challenging disease processes in pediatrics. Lack of appropriate culture evidence makes the diagnosis difficult, and increasing microbial resistance presents a therapeutic dilemma. This article examines causative factors, appropriate diagnostic measures, and effective medical and surgical treatment options for sinusitis in the pediatric population.

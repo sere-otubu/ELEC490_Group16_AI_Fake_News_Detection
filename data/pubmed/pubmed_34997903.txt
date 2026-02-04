@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immune response
-TITLE: Purinergic modulation of the immune response to infections.
-PMID: 34997903
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34997903/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Infectious diseases are caused by the invasion of pathogenic microorganisms such as fungi, bacteria, viruses, and parasites. After infection, disease progression relies on the complex interplay between the host immune response and the microorganism evasion strategies. The host's survival depends on its ability to mount an efficient protective anti-microbial response to accomplish pathogen clearance while simultaneously preventing tissue injury by keeping under control the excessive inflammatory process. The purinergic system has the dual function of regulating the immune response and triggering effector antimicrobial mechanisms. This review provides an overview of the current knowledge of the modulation of innate and adaptive immunity driven by the purinergic system during parasitic, bacterial and viral infections.

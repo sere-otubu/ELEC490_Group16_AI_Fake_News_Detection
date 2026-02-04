@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Infectious disease control
-TITLE: Diagnostics for Public Health - Infectious Disease Surveillance and Control.
-PMID: 38815175
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38815175/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-AbstractAccurate diagnostics are critical in public health to ensure successful disease tracking, prevention, and control. Many of the same characteristics are desirable for diagnostic procedures in both medicine and public health: for example, low cost, high speed, low invasiveness, ease of use and interpretation, day-to-day consistency, and high accuracy. This review lays out five principles that are salient when the goal of diagnosis is to improve the overall health of a population rather than that of a particular patient, and it applies them in two important use cases: pandemic infectious disease and antimicrobial resistance.

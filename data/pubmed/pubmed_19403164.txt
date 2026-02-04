@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cystic fibrosis
-TITLE: Cystic fibrosis.
-PMID: 19403164
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19403164/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cystic fibrosis is the most common lethal genetic disease in white populations. The outlook for patients with the disease has improved steadily over many years, largely as a result of earlier diagnosis, more aggressive therapy, and provision of care in specialised centres. Researchers now have a more complete understanding of the molecular-biological defect that underlies cystic fibrosis, which is leading to new approaches to treatment. One of these treatments, hypertonic saline, is already in use, whereas others are in advanced stages of development. We review clinical care for cystic fibrosis and discuss recent advances in the understanding of its pathogenesis, implementation of screening of neonates, and development of therapies aimed at treating the basic defect.

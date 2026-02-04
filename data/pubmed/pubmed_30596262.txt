@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Digestion process
-TITLE: Food lipid oxidation under gastrointestinal digestion conditions: A review.
-PMID: 30596262
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30596262/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Unravelling the relationship between food and health requires a more in-depth knowledge of the various changes occurring in the gastrointestinal tract during digestion and which may ultimately affect the nutritional quality and safety of ingested food lipids before absorption into the bloodstream. In this context, this review deals with the oxidation process of food lipids under digestive conditions and the studies carried out on this topic using different digestion models: <i>in vitro</i>, <i>in vivo</i> or <i>ex vivo,</i> static or dynamic, and including one, two and/or three digestive phases (oral, gastric and duodenal). These studies have contributed to clarifying the occurrence and extent of lipid degradation under such a particular environment, many of them also highlighting the factors affecting the advance or delay of the oxidation of dietary lipids during digestion, like: food lipid content, unsaturation degree and initial oxidative status; the presence in the food bolus of compounds showing antioxidant activity (polyphenols, tocopherols…) either added or naturally present; the presence in the food bolus of proteins (including iron or not); food technological or culinary processings (salting, smoking, cooking…), among others. Likewise, the methodologies employed to study lipid oxidation under digestive conditions are also summarized and future research perspectives are discussed.

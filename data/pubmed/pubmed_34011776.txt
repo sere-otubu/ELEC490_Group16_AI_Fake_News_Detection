@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Epipen
-TITLE: [A CASE OF VOCAL CORD DYSFUNCTION, WHO USED ADRENALIN AUTOINJECTOR (EPIPEN<sup>®</sup>) FREQUENTLY AFTER BEING DIAGNOSED AS ANAPHYLAXIS].
-PMID: 34011776
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34011776/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-We experienced a case of vocal cord dysfunction (VCD) in a child to whom an adrenaline autoinjector (Epipen<sup>®</sup>) had been prescribed and frequently used following a diagnosis of exercise-induced anaphylaxis. An exercise test was performed to investigate her frequent episodes of anaphylaxis-like symptoms. A few minutes after starting the test, signs of dyspnea, such as throat tightness and stridor, appeared, although hypoxia was not present and her respiratory sounds were normal. Medications were not effective for treating her respiratory symptoms. Laryngoscopy performed at the test revealed bizarre vocal cord movement, which was diagnosed as VCD. The symptoms gradually diminished after the initiation of biofeedback therapy, including pursed lips breathing and abdominal breathing. Thereafter, she did not use an adrenaline autoinjector when symptoms appeared; instead, she would perform biofeedback therapy before using the adrenaline autoinjector. Thus, VCD should be included in the differential diagnosis of patients who show anaphylactic symptoms that are resistant to preventive therapy.

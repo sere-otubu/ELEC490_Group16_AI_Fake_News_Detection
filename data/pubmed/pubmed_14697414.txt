@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 14697414)
-    QUESTION: Is there a favorable subset of patients with prostate cancer who develop oligometastases?
-    CONTEXT: To analyze, retrospectively, the patterns and behavior of metastatic lesions in prostate cancer patients treated with external beam radiotherapy and to investigate whether patients with<or =5 lesions had an improved outcome relative to patients with>5 lesions.
-    ANSWER: Patients with<or =5 metastatic sites had significantly better survival rates than patients with>5 lesions. Because existing sites of metastatic disease may be the primary sites of origin for additional metastases, our findings suggest that early detection and aggressive treatment of patients with a small number of metastatic lesions is worth testing as an approach to improving long-term survival.
-    

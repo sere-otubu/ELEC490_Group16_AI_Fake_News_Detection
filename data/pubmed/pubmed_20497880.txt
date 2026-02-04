@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20497880)
-    QUESTION: Is transurethral catheterisation the ideal method of bladder drainage?
-    CONTEXT: Bladder catheterisation is a routine part of major abdominal surgery. Transurethral catheterisation is the most common method of bladder drainage but is also notorious for its discomfort and increased risk of urinary tract infection. The present study aimed to establish patient satisfaction with transurethral catheterisation and to assess the incidence of clinically significant urinary tract infections after transurethral catheterisation through survey.
-    ANSWER: Our study emphasised the discomfort of transurethral urinary catheters, especially in male patients, and the high incidence of urinary tract infections in both sexes. Consideration should be given to the utilisation of alternative methods of bladder drainage, such as suprapubic catheterisation, which can be performed with ease during laparotomy.
-    

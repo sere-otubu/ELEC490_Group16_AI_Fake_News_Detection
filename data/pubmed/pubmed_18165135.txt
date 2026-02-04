@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Thyroid gland
-TITLE: The avian thyroid gland.
-PMID: 18165135
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18165135/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There has been a considerable amount of research regarding the function of the avian thyroid gland, particularly in chickens. There is also more information on diseases of the avian thyroid gland, although it is usually in the form of case reports. This article covers a limited amount of material on the structure and function of the avian thyroid gland and its diseases.

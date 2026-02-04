@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dental implants
-TITLE: Dental implants and single implant-supported restorations.
-PMID: 23539970
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23539970/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Replacing missing teeth using dental implants is a good treatment option with a high degree of success. As the dental implantology field develops and the number of implants placed worldwide increases, several terms and techniques have been formulated. Therefore, a basic knowledge of dental implants is necessary for every dental student and dentist. The current article sheds light on how the dental implant integrates with its surrounding bone and what factors can affect this integration. The relationship between the implant and its surrounding soft tissue, different types of the dental implants, and the restorative components and procedures, are all reviewed.

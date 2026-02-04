@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antisocial personality disorder
-TITLE: Alcohol Use Disorder and Antisocial and Borderline Personality Disorders.
-PMID: 31886107
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31886107/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Alcohol use disorder (AUD) frequently co-occurs with other psychiatric disorders, including personality disorders, which are pervasive, persistent, and impairing. Personality disorders are associated with myriad serious outcomes, have a high degree of co-occurrence with substance use disorders, including AUD, and incur significant health care costs. This literature review focuses on co-occurring AUD and personality disorders characterized by impulsivity and affective dysregulation, specifically antisocial personality disorders and borderline personality disorders. Prevalence rates, potential explanations and causal models of co-occurrence, prognoses, and the status of existing treatment research are summarized. Several important future research considerations are relevant to these complex, co-occurring conditions. Research assessing mechanisms responsible for co-occurring AUD and antisocial personality disorder or borderline personality disorder will further delineate the underlying developmental processes and improve understanding of onset and courses. In addition, increased focus on the efficacy and effectiveness of treatments targeting underlying traits or common factors in these disorders will inform future prevention and treatment efforts, as interventions targeting these co-occurring conditions have relatively little empirical support.

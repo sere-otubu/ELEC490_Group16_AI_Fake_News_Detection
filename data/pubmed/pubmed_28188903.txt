@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dental implants
-TITLE: Microbiome of dental implants and its clinical aspect.
-PMID: 28188903
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28188903/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although dental implants are most common prosthetic treatment used to replace missing tooth, it gained considerable importance over a decade owing to the availability of advanced imagery techniques that can help in achieving a greater success rate and much better osseointegration. However, the chances that the implanted tooth can be rejected due to inflammation caused by oral microflora still persist. This review gives the viewers an overall idea of the dental implants, role of advanced imaging in implantation and instances of peri-implantitis that occur after implantation process. This review also entails the latest research on the different treatment modalities against peri-implantitis documented in peer-review journals.

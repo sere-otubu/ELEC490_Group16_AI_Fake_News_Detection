@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mindfulness meditation
-TITLE: Mindfulness Meditation: Impact on Attentional Control and Emotion Dysregulation.
-PMID: 34651648
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34651648/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Theoretical models of mindfulness meditation conceptualize the cultivation of focused attention and regulation of emotional states, with the attitudinal foundations that promote nonjudgment and acceptance, to facilitate cognitive and affective processing resulting in improved brain health. Within the scientific study of mindfulness meditation, outcomes assessing behavioral and neural correlates of attentional control and emotion regulation have been examined for their malleability as a function of engagement in mindfulness practices. This review synthesizes the results of our pilot trials examining the preliminary effects of mindfulness meditation on metrics of cognitive, affective, and brain health in older adults and in individuals with multiple sclerosis. There is promising support for mindfulness meditation to enhance attentional control, reduce mind-wandering, and reduce emotion dysregulation. However, well-powered efficacy trials, with an objective assessment of mindfulness practice data are needed to further provide causal and comprehensive evidence supporting the efficacy of mindfulness meditation for brain health. Inclusion of independently derived and validated brain-based signatures of cognitive and affective functioning can additionally enable a parsimonious understanding of how mindfulness meditation can causally impact metrics of functional and structural integrity of the human brain.

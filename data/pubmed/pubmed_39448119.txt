@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gallstones
-TITLE: Management of Gallstone Disease.
-PMID: 39448119
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39448119/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gallstone disease has plagued humanity since antiquity. Its recognition and treatment has been refined through decades as surgical technique and imaging capabilities have advanced. With the rise of the obesity epidemic and metabolic syndrome, its prevalence is also increasing. This review provides an overview of the various manifestations of gallstone disease and treatment modalities appropriate for its resolution.

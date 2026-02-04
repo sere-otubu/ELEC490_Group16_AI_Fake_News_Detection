@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Stress management
-TITLE: Stress and allergic diseases.
-PMID: 21094923
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21094923/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Allergy describes a constellation of clinical diseases that affect up to 30% of the world's population. It is characterized by production of allergen-specific IgE, which binds to mast cells and initiates a cascade of molecular and cellular events that affect the respiratory tract (rhinitis and asthma), skin (dermatitis, urticaria), and multiple systems (anaphylaxis) in response to a variety of allergens including pollens, mold spores, animal danders, insect stings, foods, and drugs. The underlying pathophysiology involves immunoregulatory dysfunctions similar to those noted in highly stressed populations. The relationships in terms of potential for intervention are discussed.

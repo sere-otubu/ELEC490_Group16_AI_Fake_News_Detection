@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Osteoarthritis
-TITLE: Treatment options for symptomatic knee osteoarthritis in adults.
-PMID: 37884044
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37884044/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Knee osteoarthritis is a common medical condition in adults, especially among older adults. The incidence and prevalence of knee osteoarthritis are increasing, and many healthcare providers manage patients with symptomatic presentations. This article reviews the most common nonsurgical and surgical treatment options for knee osteoarthritis, emphasizing evidence-based and practical therapies.

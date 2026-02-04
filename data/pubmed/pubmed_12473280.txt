@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chlamydia
-TITLE: Chlamydia trachomatis - the agent.
-PMID: 12473280
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12473280/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chlamydiae are obligate intracellular bacteria, parasitizing eukaryotic cells. Chlamydia trachomatis, C. psittaci and C. pneumoniae are the three species of chlamydiae pathogenic to humans. C. trachomatis shows a tropism for the genital and conjunctival epithelia and consists of 19 different serovars which are pathogenic predominantly for the urogenital tract.A distinguishing feature of chlamydiae is their transition between the infectious elementary body that enters the host cell and the non-infectious reticulate body that replicates intracellularly within an inclusion that does not fuse with lysosomes. Chlamydiae depend for some functions upon the host cell; in particular, chlamydiae have little capacity for generating energy. The complete sequence of the 1000-kb chromosome of C. trachomatis is known, as are most of the genes located on the 7.5-kb cryptic plasmid. Recently, several concepts about the biology and the metabolic pathways of C. trachomatis have been revised in relation to the genome sequence, and different novel proteins have been described.

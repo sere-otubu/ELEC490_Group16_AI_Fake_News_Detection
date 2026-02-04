@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18322741)
-    QUESTION: Does laparoscopic surgery decrease the risk of atrial fibrillation after foregut surgery?
-    CONTEXT: Atrial fibrillation, which occurs in 12% of all major foregut surgeries, can prolong hospital stay and increase morbidity. Minimally invasive techniques in foregut surgery have been suggested to cause less tissue trauma. We examined the factors associated with new-onset atrial fibrillation after foregut surgery at our institution.
-    ANSWER: Laparoscopic surgery is associated with lower risk of atrial fibrillation in foregut surgery. Development of atrial fibrillation is associated with increased length of intensive care stay. We recommend a prospective trial to confirm our findings.
-    

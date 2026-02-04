@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ACE inhibitors
-TITLE: Nephroprotective effect of ACE inhibitors.
-PMID: 7512474
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7512474/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In most cases of renal disease, progression of renal failure occurs via nonspecific mechanisms that can be dissociated from the primary cause of renal damage. Progression of disease is accompanied by glomerulosclerosis and tubulointerstitial fibrosis. Loss of autoregulation and afferent renal vasodilation renders the glomerular microcirculation particularly susceptible to systemic hypertension. Glomerular growth is an ancillary factor permitting the development of glomerulosclerosis. Experimental and clinical studies indicate that angiotensin converting enzyme (ACE) inhibitors may prevent progressive renal deterioration. Furthermore, it appears that this effect can be dissociated, at least in part, from the haemodynamic effects of ACE inhibitors. Some evidence indicates that the renal-protective effects of ACE inhibitors results from their effects on glomerular growth and glomerular permselectivity. The role of reduced generation of angiotensin II or accumulation of kinins in the renal effects of ACE inhibitors is under investigation. Prospective clinical trials have demonstrated that ACE inhibitors reduce proteinuria and interfere with progression of renal disease to a greater degree than can be explained by their blood pressure lowering effects alone.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pregnancy nutrition
-TITLE: Pregnancy nutrition knowledge of antenatal care providers: An evaluation of an online training module.
-PMID: 36403508
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36403508/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nutrition education for clinicians providing pregnancy care has the potential to enhance pregnant women's diet quality, leading to healthier outcomes for mother and baby. Following a study demonstrating nutrition knowledge gaps, an online training module was developed, implemented, and evaluated. Antenatal care providers completed a pregnancy nutrition knowledge questionnaire to assess knowledge levels at baseline (n = 97) and nine months after the introduction of online training (n = 64). Knowledge scores at baseline and post-training implementation were not significantly different. Sub-group post-training knowledge scores between clinicians who completed the training module was higher than for those that did not complete the training module. User experience of the training module was positive and they felt it was useful in enhancing nutrition knowledge. Just under half of clinicians felt more confident in providing nutrition advice as part of their pregnancy care. Clinicians reported that time constraints prevented them from completing the nutrition training and/or providing nutrition education. Despite the positive experience of completing the online training module, a majority of clinicians surveyed indicated they preferred face-to-face training. Further research exploring how nutrition is prioritised in antenatal appointments and how knowledge levels influence nutrition education practices is needed.

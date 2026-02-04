@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Physical therapy
-TITLE: Does chest physical therapy work?
-PMID: 3896680
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3896680/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Postural drainage has usually been shown to be an effective component of chest physical therapy; there is currently no data showing a beneficial effect of percussion or vibration; directed coughing may be as efficacious as postural drainage (Table 3); the forced expiration technique may increase sputum clearance with or without postural drainage (Table 4).

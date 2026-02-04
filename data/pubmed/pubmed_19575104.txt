@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19575104)
-    QUESTION: Do foreign bodies migrate through the body towards the heart?
-    CONTEXT: Fixation of foreign bodies (FB), in the mucosa, can favor its migration, giving origin to the popular saying: 'FB walk to the heart'.AIM: Describe the mechanisms involved in FB migration and how to diagnose them.
-    ANSWER: The study allows us to determine that FB can move through the body but not towards the heart. The study also serves as a warning sign: in cases of prolonged histories of FB ingestion, imaging studies are mandatory before endoscopic examination.
-    

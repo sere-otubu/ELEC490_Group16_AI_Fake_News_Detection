@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Social determinants of health
-TITLE: Social Determinants of Health and Disparities in Hypertension and Cardiovascular Diseases.
-PMID: 38152897
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38152897/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-High blood pressure causes over 10 million preventable deaths annually globally. Populations in low- and middle-income countries suffer the most, experiencing increased uncontrolled blood pressure and cardiovascular disease (CVD) deaths. Despite improvements in high-income countries, disparities persist, notably in the United States, where Black individuals face up to 4× higher CVD mortality than White individuals. Social determinants of health encompass complex, multidimensional factors linked to an individual's birthplace, upbringing, activities, residence, workplaces, socioeconomic and environmental structures, and significantly affect health outcomes, including hypertension and CVD. This review explored how social determinants of health drive disparities in hypertension and related CVD morbidity from a socioecological and life course perspective. We present evidence-based strategies, emphasizing interventions tailored to specific community needs and cross-sector collaboration to address health inequalities rooted in social factors, which are key elements toward achieving the United Nations' Sustainable Development Goal 3.4 for reducing premature CVD mortality by 30% by 2030.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vaccine types
-TITLE: The scourge of vaccine falsification.
-PMID: 35232595
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35232595/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Fake vaccines trafficking is a recent but growing phenomenon, which represents a severe threat to public health. During the Covid-19 pandemic, anti-Covid vaccines have been a prime target for traffickers, but all types of vaccines are falsified by profit-hungry criminals. The consequences of falsification on global health are serious: decline in vaccination coverage, loss of control of epidemics which will claim yet more victims, and resurgence of diseases that were under control. Fake vaccines also fuel the mistrust of populations towards science and authorities. In order to tackle this scourge, a general and coordinated mobilization of all actors concerned is urgently needed: health professionals, political decision-makers, police and customs forces, judges and prosecutors, without forgetting the crucial awareness-raising of public opinion.

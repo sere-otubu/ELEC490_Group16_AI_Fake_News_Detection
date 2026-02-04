@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cirrhosis
-TITLE: Application of ultrasound for the diagnosis of cirrhosis/portal hypertension.
-PMID: 35179669
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35179669/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-With advances in technologic approaches in patients with cirrhosis, including the improvement of management, a simple, one-step approach for advanced fibrotic state of the liver is clinically useful. Although refining the diagnosis of cirrhosis to reflect disease heterogeneity is essential, current diagnostic tests have not kept pace with the progression of this new paradigm. There are unmet needs in primary care centers with respect to patients with cirrhosis. Liver biopsy and measurement of hepatic venous pressure gradient in patients with cirrhosis are the gold standards for the estimation of hepatic fibrosis, and they have diagnostic and prognostic value. However, both approaches are invasive and cannot be used repeatedly in clinical practice. Ultrasonography (US) is safe, easy to perform, inexpensive, and yields numerical and accurate results. Conventionally, the size of the liver and spleen, bluntness of the liver edge, nodularity of the liver surface, and coarseness of the liver parenchyma have been known as useful parameters for hepatic fibrosis or portal hypertension (PHT) in chronic liver disease. Additionally, some functional US indices including Doppler and CEUS-based examination have been suggested as promising markers for diagnosing cirrhosis and PHT. Identification of the reproducibility and long-term prognostic value through further investigations can demonstrate the clinical usefulness of functional US indices, which are characterized as quantitative parameters for hepatic fibrosis and PHT.

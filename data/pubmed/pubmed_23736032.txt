@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23736032)
-    QUESTION: Multidisciplinary decisions in breast cancer: does the patient receive what the team has recommended?
-    CONTEXT: A multidisciplinary team (MDT) approach to breast cancer management is the gold standard. The aim is to evaluate MDT decision making in a modern breast unit.
-    ANSWER: The vast majority of MDT decisions are implemented. Management alteration was most often due to patient choice or additional information available after the MDT. A minority of management alterations were 'unjustifiable' and the authors recommend that any patient whose treatment is subsequently changed should have MDT rediscussion prior to treatment.
-    

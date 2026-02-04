@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Breast cancer
-TITLE: Male breast cancer: an update.
-PMID: 34458944
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34458944/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Male breast cancer (MBC) is rare, accounting for less than 1% of all breast cancer but the incidence has increased worldwide. Risk factors include increased longevity, obesity, testicular diseases and tumours, and germline mutations of BRCA2. BRCA2 carriers have 80 times the risk of the general population. Men generally present with breast cancer at an older age compared with women. Histologically, MBC is often of grade 2, hormone receptor positive, HER2 negative, and no special type carcinoma although in situ and invasive papillary carcinomas are common. Reporting and staging are similar to female breast cancer. Metastatic lesions to the male breast do occur and should be differentiated from primary carcinomas. Until recently, MBC was thought to be similar to the usual ER positive post-menopausal female counterpart. However, advances in MBC research and trials have highlighted significant differences between the two. This review provides an up to date overview of the biology, genetics, and histology of MBC with comparison to female breast cancers and differential diagnosis from histological mimics.

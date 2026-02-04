@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hospice care
-TITLE: Hospice for the Primary Care Physician.
-PMID: 31375183
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31375183/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hospice is a model of care that offers significant benefits to patients at the end of their lives, their families, and also to the primary care physicians who have diligently cared for their patients. As comprehensive care physicians, primary care physicians can benefit from a strong understanding of hospice and the Medicare Hospice Benefit. This article describes the history of hospice, palliative care versus hospice care, clinical appropriateness of the hospice patient, the regulatory guidelines of the Medicare Hospice Benefit, hospice reimbursement, primary care reimbursement, and employment opportunities in hospice.

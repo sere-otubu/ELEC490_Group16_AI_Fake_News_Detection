@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Bipolar disorder
-TITLE: Geriatric bipolar disorder.
-PMID: 21536161
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21536161/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Because the elderly are the fastest growing segment of the population, the number of older adults with bipolar disorder is increasing. Geriatric bipolar disorder is relatively rare, with an estimated lifetime prevalence of 0.5% to 1%, although approximately 4% to 17% of older patients in clinical psychiatric settings have bipolar disorder. Bipolar elders are disproportionately affected by medical burden. Given the complex nature of this disorder, comorbidity, and behavioral disturbances, various interventions may be indicated, including pharmacotherapies, electroconvulsive therapy, psychotherapies, and integrated care models. Additional research is needed to better understand the epidemiology, phenomenology, and treatment of geriatric bipolar disorder.

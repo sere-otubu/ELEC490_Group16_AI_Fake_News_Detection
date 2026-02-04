@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Celiac disease
-TITLE: Diagnosing coeliac disease: A literature review.
-PMID: 34462157
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34462157/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Coeliac disease (CD) is an autoimmune gastroenteropathy triggered by gliadin and gliadin-tissue transglutaminase (tTG) complexes. CD is one of the few autoimmune diseases with an accurate, non-invasive serological test. Anti-endomysial, anti-tTG and anti-deaminated gliadin peptides (DGP) antibodies are currently used for serological tests with tTG ELISAs being the superior test. Duodenal biopsy, although invasive, is the gold standard for CD diagnosis. HLA genotyping and flow cytometry can also be used as supplementary tests. The incidence of CD is rising globally although the reasons for this remain unclear. In addition, the true incidence of coeliac disease in African populations remains unknown although recent work suggests that South African populations express the alleles associated with this disease. This review examines the pathogenesis and diagnosis of coeliac disease and considers novel and innovative biomarkers in its diagnosis specifically in an African population.

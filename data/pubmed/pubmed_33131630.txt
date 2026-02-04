@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alternative medicine
-TITLE: Uses of Complementary and Alternative Medicine for Perioperative and Other Patients.
-PMID: 33131630
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33131630/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The efficacy of using complementary and alternative medicine (CAM) is supported by the literature to decrease preoperative anxiety, postoperative pain and opioid requirements, as well as nausea and vomiting and to improve severity of headaches and increase wound healing. Nursing care includes interventions using CAs for treatment of a range of patient needs. Being supportive while educating parents and patients demonstrates altruism, which also is beneficial for improving health outcomes with CAM.

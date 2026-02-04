@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Health equity
-TITLE: Health informatics and health equity: improving our reach and impact.
-PMID: 31411692
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31411692/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Health informatics studies the use of information technology to improve human health. As informaticists, we seek to reduce the gaps between current healthcare practices and our societal goals for better health and healthcare quality, safety, or cost. It is time to recognize health equity as one of these societal goals-a point underscored by this Journal of the American Medical Informatics Association Special Focus Issue, "Health Informatics and Health Equity: Improving our Reach and Impact." This Special Issue highlights health informatics research that focuses on marginalized and underserved groups, health disparities, and health equity. In particular, this Special Issue intentionally showcases high-quality research and professional experiences that encompass a broad range of subdisciplines, methods, marginalized populations, and approaches to disparities. Building on this variety of submissions and other recent developments, we highlight contents of the Special Issue and offer an assessment of the state of research at the intersection of health informatics and health equity.

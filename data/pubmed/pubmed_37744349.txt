@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immunotherapy
-TITLE: Immunotherapy: a promising approach for glioma treatment.
-PMID: 37744349
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37744349/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gliomas are the most prevalent primary malignant brain tumors worldwide, with glioblastoma (GBM) being the most common and aggressive type. Despite two decades of relentless pursuit in exploring novel therapeutic approaches for GBM, there is limited progress in improving patients' survival outcomes. Numerous obstacles impede the effective treatment of GBM, including the immunosuppressive tumor microenvironment (TME), the blood-brain barrier, and extensive heterogeneity. Despite these challenges, immunotherapies are emerging as a promising avenue that may offer new hope for the treatment of gliomas. There are four main types of immunotherapies for gliomas, immune checkpoint blockades, chimeric antigen receptor T-cell therapies, vaccines, and oncolytic viruses. In addition, gene therapy, bispecific antibody therapy, and combine therapy are also briefly introduced in this review. The significant role of TME in the process of immunotherapies has been emphasized in many studies. Although immunotherapy is a promising treatment for gliomas, enormous effort is required to overcome the existing barriers to its success. Owing to the rapid development and increasing attention paid to immunotherapies for gliomas, this article aims to review the recent advances in immunotherapies for gliomas.

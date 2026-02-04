@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Global health initiatives
-TITLE: Anaesthesia and global health initiatives for children in a low-resource environment.
-PMID: 26905873
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26905873/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-As the United Nations moves from Millennium Development Goals to Sustainable Development Goals, we find ourselves with the opportunity to influence the priority of global health initiatives. Previously, the global health community has failed to recognise the importance of access to safe, affordable surgery and developing the necessary specialities that support it as most of the funding focus had been on primary healthcare and infectious diseases. Now the WHO is publishing guidelines to safe surgery and the Lancet Commission on Global Surgery has been launched. However, this is only the start; anaesthesia remains a forgotten speciality within the world of public and global health and there are still challenges in escalating surgery in low and middle-income countries to an acceptable level that is affordable and timely. Although there is increased world interest in safe surgery and anaesthesia this has not yet been translated into a mandate that will compel countries to invest in improving levels of infrastructure, accessibility, manpower, and safety. A general anaesthetic remains a dangerous event in a child's life in resource-limited countries.

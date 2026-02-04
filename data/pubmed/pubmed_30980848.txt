@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Parkinsons disease
-TITLE: Parkinson's disease: Mechanisms, translational models and management strategies.
-PMID: 30980848
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30980848/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Parkinson's disease is a progressive neurodegenerative disorder. The classical motor symptoms include resting tremors, bradykinesia, rigidity and postural instability and are accompanied by the loss of dopaminergic neurons and Lewy pathology. Diminished neurotransmitter level, oxidative stress, mitochondrial dysfunction and perturbed protein homeostasis over time worsen the disease manifestations in elderly people. Current management strategies aim to provide symptomatic relief and to slow down the disease progression. However, no pharmacological breakthrough has been made to protect dopaminergic neurons and associated motor circuitry components. Deep brain stimulation, stem cells-derived dopaminergic neurons transplantation, gene editing and gene transfer remain promising approaches for the potential management of neurodegenerative disease. Toxin or genetically induced rodent models replicating Parkinson's disease pathology are of high predictive value for translational research. This review addresses the current understanding, management strategies and the Parkinson's disease models for translational research. Preclinical research may provide powerful tools to quest the potential therapeutic and neuroprotective compounds for dopaminergic neurons and hence possible cure for the Parkinson's disease.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Acne vulgaris
-TITLE: Acne vulgaris: pathogenesis, treatment, and needs assessment.
-PMID: 22117871
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22117871/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Acne vulgaris is a common skin condition with substantial cutaneous and psychologic disease burden. Studies suggest that the emotional impact of acne is comparable to that experienced by patients with systemic diseases, like diabetes and epilepsy. In conjunction with the considerable personal burden experienced by patients with acne, acne vulgaris also accounts for substantial societal and health care burden. The pathogenesis and existing treatment strategies for acne are complex. This article discusses the epidemiology, pathogenesis, and treatment of acne vulgaris. The burden of disease in the United States and future directions in the management of acne are also addressed.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cirrhosis
-TITLE: Targeted treatments for cirrhosis.
-PMID: 15469393
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15469393/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The causes of hepatic scarring (fibrosis) are protean but, unchecked, all result in a common fate--the development of cirrhosis--with gross disruption of the normal liver architecture. Subsequent liver cell dysfunction and portal hypertension give rise to major systemic complications and premature death. Cirrhosis and its sequelae represent a huge, and global, healthcare burden. The success of liver transplantation and the development of efficacious antiviral regimens for hepatitis B and C should not be underestimated, but they also serve to highlight our current inability to manipulate the underlying fibrotic process in many patients with liver disease. Moreover, transplantation as a treatment is limited by organ availability, among other factors. The development of antifibrotic therapies is urgently needed and for this we require a mechanistic and evidence-based approach. Accumulating data from clinical and laboratory studies demonstrate that even advanced fibrosis and cirrhosis are potentially reversible. The hepatic stellate cells have been identified as the pivotal effector cells orchestrating the fibrotic process and, furthermore, reversibility appears to hinge upon their elimination. This review draws on recent scientific advances, and highlights emerging therapeutic interventions in liver fibrosis.

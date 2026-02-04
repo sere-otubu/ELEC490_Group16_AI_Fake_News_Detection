@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Integumentary system
-TITLE: Basic histological structure and functions of facial skin.
-PMID: 24314373
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24314373/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The skin and its appendages that derive from the epidermis (hair follicles, sweat glands, sebaceous glands, nails, and mammary glands) establish the integumentary system. Histologically, skin has two main layers-the epidermis and the dermis-with a subcutaneous fascia called the hypodermis, which lies deep in the dermis. The epidermis is formed of four to five layers of cells made mostly out of keratinocytes, along with three other different and less abundant cells. The dermis underlies the epidermis. The hypodermis is a looser connective tissue that is located beneath the dermis. It blends to the dermis with an unclear boundary.

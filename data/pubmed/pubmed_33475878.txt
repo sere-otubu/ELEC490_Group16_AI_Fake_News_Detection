@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Body composition
-TITLE: Body composition and breast cancer risk and treatment: mechanisms and impact.
-PMID: 33475878
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33475878/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The purpose of this review is to clarify the association of body composition with breast cancer risk and treatment, including physiological mechanisms, and to elucidate strategies for overcoming unfavorable body composition changes that relate to breast cancer progression. We have summarized updated knowledge regarding the mechanism of the negative association of altered body composition with breast cancer risk and treatment. We also review strategies for reversing unfavorable body composition based on the latest clinical trial results. Body composition changes in patients with breast cancer typically occur during menopause or as a result of chemotherapy or endocrine therapy. Dysfunction of visceral adipose tissue (VAT) in the setting of obesity underlies insulin resistance and chronic inflammation, which can lead to breast cancer development and progression. Insulin resistance and chronic inflammation are also observed in patients with breast cancer who have sarcopenia or sarcopenic obesity. Nutritional support and a personalized exercise program are the fundamental interventions for reversing unfavorable body composition. Other interventions that have been explored in specific situations include metformin, testosterone, emerging agents that directly target the adipocyte microenvironment, and bariatric surgery. A better understanding of the biology of body composition phenotypes is key to determining the best intervention program for patients with breast cancer.

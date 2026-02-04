@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sinusitis
-TITLE: Chronic sinusitis: the role of imaging.
-PMID: 9444373
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9444373/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In recent years, routine endoscopic examination of the nose and advances in medical imaging have led to a better understanding of the pathophysiology of chronic sinusitis and the development of "FESS". The CT san of the sinuses have superseded the conventional standard radiography in the evaluation of the paranasal sinuses as it offers more precise anatomic information to the surgeon on the complex anatomy of the sinus cavities and their drainage pathways, in particularly the ostiomeatal complex. The coronal plane is the best incidence because it most closely correlates with the surgical approach. The utilization of a high resolution bony algorithm is recommended. A window of intermediate type, 2500 with a center of 250 HU, is sufficient for nearly all diagnosis. Complementary direct axial sections are needed by the surgeon to guide the approach to the sphenoid sinus and the posterior ethmoidal cells. MRI plays a limited role in the evaluation of a non complicated sinusitis. But MRI has supplanted the CT scanner in the appreciation of intracranial and orbital complications of sinusitis because it provides better visualisation and differentiation of soft tissues than the CT scan. The injection of contrast is recommended in all cases of complicated sinusitis.

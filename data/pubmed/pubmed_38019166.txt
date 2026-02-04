@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Serotonin
-TITLE: Techniques for Measurement of Serotonin: Implications in Neuropsychiatric Disorders and Advances in Absolute Value Recording Methods.
-PMID: 38019166
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38019166/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Serotonin (5-HT) is a monoamine neurotransmitter in the peripheral, enteric, and central nervous systems (CNS). Within the CNS, serotonin is principally involved in mood regulation and reward-seeking behaviors. It is a critical regulator in CNS pathologies such as major depressive disorder, addiction, and schizophrenia. Consequently, <i>in vivo</i> serotonin measurements within the CNS have emerged as one of many promising approaches to investigating the pathogenesis, progression, and treatment of these and other neuropsychiatric conditions. These techniques vary in methods, ranging from analyte sampling with microdialysis to voltammetry. Provided this diversity in approach, inherent differences between techniques are inevitable. These include biosensor size, temporal/spatial resolution, and absolute value measurement capabilities, all of which must be considered to fit the prospective researcher's needs. In this review, we summarize currently available methods for the measurement of serotonin, including novel voltammetric absolute value measurement techniques. We also detail serotonin's role in various neuropsychiatric conditions, highlighting the role of phasic and tonic serotonergic neuronal firing within each where relevant. Lastly, we briefly review the present clinical application of these techniques and discuss the potential of a closed-loop monitoring and neuromodulation system utilizing deep brain stimulation (DBS).

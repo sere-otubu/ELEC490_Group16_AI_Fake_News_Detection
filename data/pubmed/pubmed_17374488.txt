@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pineal gland
-TITLE: The mammalian pineal gland: known facts, unknown facets.
-PMID: 17374488
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17374488/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In the mammalian pineal gland, information on environmental lighting conditions that is neuronally encoded by the retina is converted into nocturnally elevated synthesis of the hormone melatonin. Evolutionary pressure has changed the morphology of vertebrate pinealocytes, eliminating direct photoreception and the endogenous clock function. Despite these changes, nocturnally elevated melatonin synthesis has remained a reliable indicator of time throughout evolution. In the photo-insensitive mammalian pineal gland this message of darkness depends on the master circadian pacemaker in the hypothalamic suprachiasmatic nuclei. The dramatic change in vertebrate pinealocytes has received little attention; here, we therefore link the known evolutionary morphodynamics and well-investigated biochemical details responsible for rhythmic synthesis of melatonin with recently characterized patterns of gene expression in the pineal gland. We also address the enigmatic function of clockwork molecules in mammalian pinealocytes.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Statins
-TITLE: [Pleiotropic Effects of Statins - What Is Their Clinical Significance?].
-PMID: 35105210
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35105210/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Pleiotropic Effects of Statins - What Is Their Clinical Significance? <b>Abstract.</b> Pleiotropic Effects of Statins - What Is Their Clinical Significance? Statins have several pleiotropic effects, such as anti-inflammation, anti-thrombotic effects, inhibition of smooth muscle cell proliferation and apoptosis, inhibition of migration and activation of macrophages. They increase blood glucose with the exception of pitavastatin. The clnical importance of the pleiotropic effects of statins however remains unclear. The lowering of Low Density Lipoprotein cholesterol (LDL-C) has similar effects on the reduction of cardiovascular effects no matter whether this reduction was obtained by statin or by non-statin therapy, indicating that the reduction in LDL-C per se is responsible for the beneficial effect. However, pleiotropic effects of statins might play a role with respect to microvascular events. The difference in pleiotropic effects between the different statins might be a basis for a patient-oriented statin therapy.

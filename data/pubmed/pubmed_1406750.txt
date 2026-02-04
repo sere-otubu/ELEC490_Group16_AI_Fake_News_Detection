@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Graves disease
-TITLE: Graves' disease and its retroorbital aspects.
-PMID: 1406750
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1406750/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Graves' disease is a common, familial, but easily treated condition caused by unique autoantibodies which act as TSH agonists. Patients with the diagnostic eye signs of Graves' disease, however, require more careful treatment than those patients with principally thyroidal involvement because destructive therapy to the thyroid gland may exacerbate the eye disease. The cause of ophthalmic eye disease appears to be "crossover specificity" by the immune system for a recurrent antigen in extraocular muscles, fibroblasts, and the thyroid gland. Treatment directed at the autoimmune response may offer the most appropriate therapy in the years to come.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Integumentary system
-TITLE: The integumentary system: anatomy, physiology and function of skin.
-PMID: 23248884
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23248884/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This article, which forms part of the life sciences series, examines the anatomy and physiology of skin, also termed the integumentary system. Skin is composed of two main layers, the epidermis and dermis. The structure of the epidermis and dermis are described and their functions are discussed. Accessory structures, such as nails and hair are also considered. Although many diseases of the skin exist, two common conditions--psoriasis and decubitus ulcers--are described in this article.

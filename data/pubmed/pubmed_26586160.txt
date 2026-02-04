@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Neurotransmitters
-TITLE: Nanosensors for neurotransmitters.
-PMID: 26586160
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26586160/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Neurotransmitters are an important class of messenger molecules. They govern chemical communication between cells for example in the brain. The spatiotemporal propagation of these chemical signals is a crucial part of communication between cells. Thus, the spatial aspect of neurotransmitter release is equally important as the mere time-resolved measurement of these substances. In conclusion, without tools that provide the necessary spatiotemporal resolution, chemical signaling via neurotransmitters cannot be studied in greater detail. In this review article we provide a critical overview about sensors/probes that are able to monitor neurotransmitters. Our focus are sensing concepts that provide or could in the future provide the spatiotemporal resolution that is necessary to 'image' dynamic changes of neurotransmitter concentrations around cells. These requirements set the bar for the type of sensors we discuss. The sensor must be small enough (if possible on the nanoscale) to provide the envisioned spatial resolution and it should allow parallel (spatial) detection. In this article we discuss both optical and electrochemical concepts that meet these criteria. We cover techniques that are based on fluorescent building blocks such as nanomaterials, proteins and organic dyes. Additionally, we review electrochemical array techniques and assess limitations and possible future directions.

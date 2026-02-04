@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dengue fever
-TITLE: Dengue Fever Related Reactive Thrombocytosis in Young Male: A Case Report and Review Literature.
-PMID: 39323344
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39323344/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Dengue fever is prevalent in tropical nations, especially India. Leucopenia and thrombocytopenia are distinctive features of acute dengue fever that revert to normal levels after the patient's recovery. Dengue fever is associated with numerous unusual clinical manifestations of different body systems. Additionally, the emergence of severe thrombocytosis following thrombocytopenia is extremely rare. Based on our extensive knowledge, only three cases similar to this have been documented in the literature. Here, we present a case of a 36-year-old healthy man who had acute dengue and subsequently developed severe reactive thrombocytosis. The patient was treated conservatively and discharged. Subsequently, he developed thrombocytosis. Aspirin was given for a short period to alleviate any potential repercussions. Thrombocytosis, a rare consequence of dengue infection, is usually asymptomatic. Nevertheless, ongoing monitoring of dengue patients is required to avoid complications.

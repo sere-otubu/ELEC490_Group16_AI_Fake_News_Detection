@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 15000338)
-    QUESTION: Do family physicians know the costs of medical care?
-    CONTEXT: To determine the cost of 46 commonly used investigations and therapies and to assess British Columbia family doctors' awareness of these costs.
-    ANSWER: Family doctors in British Columbia have little awareness of the costs of medical care.
-    

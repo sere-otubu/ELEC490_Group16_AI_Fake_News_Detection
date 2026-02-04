@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26485091)
-    QUESTION: Does the use of atypical antipsychotics as adjunctive therapy in depression result in cost savings?
-    CONTEXT: Several atypical antipsychotics (AAPs) are used as second-line agents for treatment resistant depression. AAPs can be expensive compared to other treatment options and can cause several side effects.
-    ANSWER: The results show no evidence that AAPs used as second-line treatment for depression results in overall cost savings or lower inpatient and ED visits compared to other treatment strategies.
-    

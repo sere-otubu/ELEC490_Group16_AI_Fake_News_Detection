@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Appendicitis
-TITLE: Imaging of appendicitis: Tips and tricks.
-PMID: 32663765
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32663765/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Acute appendicitis is one of the most common surgical emergencies worldwide. Over the past 30 years, imaging has become central to the diagnosis of appendicitis, reducing both negative appendicectomy rate and healthcare expenses. Appendicitis can be challenging in many ways for radiologists with various clinical presentations, complications and differential diagnoses. The aim of this review is to present a step-by-step reasoning with key findings, tips and tricks leading to the diagnosis of appendicitis and its complications. The first steps are with the use of the appropriate imaging modality (US, CT and MRI) to locate the appendix in abdominal cavity and to identify the features of appendicitis and its complications through specific imaging signs. The next steps are to eliminate an unusual morphology of the appendix that may simulate acute appendicitis and to recognize an unusual imaging presentation of appendicitis. Then, to corroborate the diagnosis of appendicitis, the last step is to rule out any differential diagnoses mainly from the genitourinary and gastrointestinal tracts. Following these steps can help to accurately diagnose appendicitis and its complications.

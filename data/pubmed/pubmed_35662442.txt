@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Graves disease
-TITLE: 2022 Update on Clinical Management of Graves Disease and Thyroid Eye Disease.
-PMID: 35662442
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35662442/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The management of hyperthyroidism and extrathyroidal manifestations of Graves disease remains complex. Considerations that include patient preference, age, comorbidity, pregnancy, tobacco smoking, and social determinants of health must all be weaved into a cohesive management plan. A multidisciplinary team is required to manage all aspects of Graves disease, particularly thyroid eye disease, for which new therapeutic options are now available.

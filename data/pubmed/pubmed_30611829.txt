@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Peptic ulcer
-TITLE: Diagnosis and Treatment of Peptic Ulcer Disease.
-PMID: 30611829
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30611829/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Peptic ulcer disease continues to be a source of significant morbidity and mortality worldwide. Approximately two-thirds of patients found to have peptic ulcer disease are asymptomatic. In symptomatic patients, the most common presenting symptom of peptic ulcer disease is epigastric pain, which may be associated with dyspepsia, bloating, abdominal fullness, nausea, or early satiety. Most cases of peptic ulcer disease are associated with Helicobacter pylori infection or the use of nonsteroidal anti-inflammatory drugs (NSAIDs), or both. In this review, we discuss the role of proton pump inhibitors in the management of peptic ulcer disease, highlight the latest guidelines about the diagnosis and management of H. pylori, and discuss the latest evidence in the management of complications related to peptic ulcer disease, including endoscopic intervention for peptic ulcer-related bleeding. Timely diagnosis and treatment of peptic ulcer disease and its sequelae are crucial in order to minimize associated morbidity and mortality, as is prevention of peptic ulcer disease among patients at high risk, including those infected with H. pylori and users of NSAIDs.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Heart anatomy
-TITLE: The anatomy of the heart revisited.
-PMID: 8876818
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8876818/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There is a marked conservative tendency to be found in anatomic descriptions, with a seeming reluctance on the part of acknowledged experts to test new theories by returning to direct studies of gross anatomy. This tendency has become manifest to us during recent attempts to review the structure and function of the heart. We have reviewed our recent experience in trying to describe the structure and development of the atrial septum and arterial roots, attempting at the same time to establish the place of semantic as opposed to morphologic factors in disagreements on these topics. Dissection of the structures separating the right atrium from the left atrium shows a fundamental difference between the infolded superior rim of the oval foramen, made up of the atrial walls, versus the make up of the sinus and atrioventricular septums, which are true septal structures. Analysis of the arterial roots shows that the major feature is the semilunar attachment of the valvar leaflets, an arrangement not ideally described in terms of an annulus. Understanding of details of cardiac anatomy, as set out in standard textbooks, is hindered by a reluctance on the part of some to accept material presented on the basis of straightforward gross dissection. Instead, there is a seeming desire to depend on conventional wisdom, often unsupported by anatomic fact. Such controversies can be ameliorated by appropriate recognition to contributions of gross morphology and by using simple words to describe the observed anatomic features.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Seasonal allergies
-TITLE: [Respiratory allergies].
-PMID: 22884514
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22884514/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Respiratory allergies represent a global and public health problem, due to their prevalence (still increasing), morbidity, impact on the quality of life and costs for the society. They mainly concern rhinitis (or rhinoconjunctivitis) and asthma. The diagnosis of allergy is dependent on a history of symptoms on exposure to an allergen together with the detection of allergen-specific IgE. Accurate diagnosis of allergies opens up therapeutic options that are otherwise not appropriate, such as allergen immunotherapy and allergen avoidance, that are prescribed following a stepwise approach. It has been a century since the first trial in specific immunotherapy was performed and this still remains the only disease modifying treatment for allergic individuals. In terms of route of administration, sublingual immunotherapy represents a good alternative to subcutaneous immunotherapy, considering its proven efficacy and better safety profile.

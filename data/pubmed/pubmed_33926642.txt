@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Macular degeneration
-TITLE: Age-Related Macular Degeneration.
-PMID: 33926642
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33926642/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Age-related macular degeneration (AMD) is a leading cause of blindness. The main risk factor is advancing age, with the severity of vision loss ranging from mild to severe. There is a 25% risk of early AMD and 8% risk of late AMD in patients over the age of 75, with the number of cases expected to increase because of the aging population. Diagnosis of the disease requires a dilated fundus examination. Physicians should be aware of the symptoms, risk factors, and treatment options for AMD to refer appropriately for ophthalmologic evaluation. Early detection can be helpful to prevent disease progression.

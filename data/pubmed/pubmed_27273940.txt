@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cervical cancer
-TITLE: Cervical cancer: screening, diagnosis and staging.
-PMID: 27273940
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27273940/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Purpose: Despite the widespread screening programs, cervical cancer remains the third most common cancer in developing countries. Based on the implementation of cervical screening programs with the referred adoption of improved screening methods in cervical cytology with the knowledge of the important role of the human papilloma virus (HPV) it's incidence is decreased in the developed world. Even if cervical HPV infection is incredibly common, cervical cancer is relatively rare. Depending on the rarity of invasive disease and the improvement of detection of pre-cancerous lesions due to the participation in screening programs, the goal of screening is to detect the cervical lesions early in order to be treated before cancer is developed. In populations with many preventive screening programs, a decrease in cervical cancer mortality of 50-75% is mentioned over the past 50 years. The preventive examination of vagina and cervix smear, Pap test, and the HPV DNA test are remarkable diagnostic tools according to the American Cancer Association guidelines, in the investigation of asymptomatic women and in the follow up of women after the treatment of pre-invasive cervical cancer. The treatment of cervical cancer is based on the FIGO 2009 cervical cancer staging.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Angioplasty
-TITLE: Percutaneous transluminal angioplasty of renal artery stenosis in children.
-PMID: 9426277
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9426277/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Twenty percutaneous transluminal renal angioplasties were performed on 16 children (mean age 8.7 years) with hypertension secondary to renal artery stenosis (RAS). The aetiologies were neurofibromatosis (n = 1), Williams syndrome (n = 2), Takayasu arteritis (n = 1) and fibromuscular dysplasia (n = 12). The stenosis was isolated proximal or distal in 13 cases and multiple in 3 cases. Angioplasty resulted in a complete cure without medical treatment in 9 cases. Angioplasty allowed a reduction of medical treatment in two single stenoses, but was ineffective in all cases of multiple stenoses. Our findings show that angioplasty of RAS in children is an effective treatment when the stenosis is isolated, with a 69 % success rate. It seems ineffective in case of multiple stenoses (three cases).

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anorexia nervosa
-TITLE: [Anorexia nervosa ].
-PMID: 7761675
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7761675/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The etiopathogenesis of the anorexia nervosa is still unknown although several hypotheses have been postulated. Recently it has been postulated that it may be due to biochemical derangement of the serotonin metabolism. Clinically the anorexia nervosa is characterized by an obsessive fear of gaining body weight and, therefore, by a phobic repulsion for the food. It differs, however from the phobic-obsessive psychoneurosis for the constant presence of the amenorrhea. The treatment requires psychopharmacology as well as psychotherapy.

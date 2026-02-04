@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Robotic surgery
-TITLE: Robotic-assisted surgery for the treatment of urologic cancers: recent advances.
-PMID: 39618104
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39618104/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Recent advancements in single-port surgery, robotic platforms, 3D models and artificial intelligence have transformed surgical procedures, especially in urology. These innovations enhance precision, safety, and efficacy, reducing invasiveness and recovery times. The review focuses on the latest in robotic-assisted surgery for genitourinary cancers, highlighting the shift toward personalized, minimally invasive treatments. A bibliographic search across PubMed, Scopus, and EMBASE databases focused on the last four years of innovations in robotic surgery for urologic tumors. The review highlights the use of the Da Vinci Single Port robotic system, available robotic platforms worldwide, advancements in 3D virtual models, artificial intelligence in robotic surgery and the application of molecular imaging for assessing primary lymph nodes and treating lymph node metastases and local recurrences in prostate cancer. The integration of single-port surgery, new robotic platforms, 3D models and artificial intelligence in urological oncology promises transformative impacts on diagnosis, treatment and cost-effectiveness. Despite benefits like enhanced precision and expanded surgical access, challenges such as high costs, training needs, and technological integration barriers persist. Collaboration and further research are critical to optimize outcomes, improve safety protocols, and ensure equitable global access to these innovations.

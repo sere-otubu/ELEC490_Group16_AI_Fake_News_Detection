@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gout
-TITLE: [Gout].
-PMID: 32201015
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32201015/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gout is a chronic disease due to the deposition of monosodium urate microcrystals in joints and tissues. Its incidence and prevalence are increasing worldwide in close relation with the epidemic of obesity and metabolic syndrome. Gout is related to chronic hyperuricemia that should be treated to ensure the reduction or even the disappearance of acute attacks ("gout flares") and to reduce the size and number of tophi. If arthritis of the first metatarsophalangeal joint is the most typical form, other joints may be affected, including the spine. Demonstration of urate microcrystals arthritis allows diagnosis of gout but, in the absence of possibility of performing joint puncture, imaging may be useful for providing complementary diagnostic elements. Appropriate care is essential to reduce the number of flares and the evolution towards gouty arthropathy but also in terms of public health in order to reduce costs related to this pathology.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alcohol guidelines
-TITLE: [Alcohol consumption and high blood pressure].
-PMID: 37458560
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37458560/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-ALCOHOL CONSUMPTION AND HIGH BLOOD PRESSURE. Cardiovascular disease is the second leading cause of alcohol-attributable mortality after cancer. The impact of alcohol consumption on blood pressure and the risk of cardiovascular pathologies are still largely underestimated by the general population and health professionals. However, numerous studies have demonstrated a dose-dependent increase in blood pressure, even at consumption levels close to the consumption guidelines (two drinks i.e. 20g per day). The alleged protective effects of low consumption levels are not confirmed, even in women. The binge drinking pattern has a particularly strong impact on blood pressure. The increase in blood pressure due to alcohol is reversible after reduction of consumption. Several pathophysiological mechanisms have been proposed to explain the hypertensive effects of alcohol. The screening of alcohol consumption by health professionals remains largely insufficient, especially in France, even in hypertensive subjects, although intervention is effective. It seems particularly important to reinforce the training of health professionals and the screening of alcohol consumption for primary prevention and also for secondary prevention when hypertension is already established. Scientific societies and federations should reinforce communication on the risks associated with alcohol consumption.

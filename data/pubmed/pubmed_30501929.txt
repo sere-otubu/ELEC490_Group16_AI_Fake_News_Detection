@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood composition
-TITLE: [Eosinopenia in 2018].
-PMID: 30501929
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30501929/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Since 1893, eosinopenia is a biological test to help a diagnosis of bacterial infection. Several publications have confirmed this hypothesis, particularly in the intensive care, pneumology and pediatric units. The value of this marker has been identified in vascular cerebral diseases and coronary bypass. Its contribution seems as relevant as procalcitonin, without extra cost. The diagnostic performance of this test was reinforced by a composite score (CIBLE score) that may improve its value in daily routine. Finally, monitoring eosinopenia appears to be a reliable mortality marker.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17076590)
-    QUESTION: Counter sampling combined with medical provider education: do they alter prescribing behavior?
-    CONTEXT: To observe if medical providers alter their prescribing patterns of three relatively expensive categories of medications provided as samples by manufacturers (focus medications) when they receive additional education from pharmacists concerning the appropriate use of lower cost alternatives (counter samples) that are made available to dispense.
-    ANSWER: Education by pharmacists, combined with access to counter samples, may or may not have an effect on medical provider prescribing, depending on the category of medication targeted for cost control.
-    

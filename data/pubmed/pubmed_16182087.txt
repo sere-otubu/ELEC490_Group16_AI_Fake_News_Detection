@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Exercise for seniors
-TITLE: The crucial role of exercise and physical activity in weight management and functional improvement for seniors.
-PMID: 16182087
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16182087/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Exercise and daily physical activity play a critical role in weight management and are the greatest determinants of weight maintenance following weight loss. Physicians and other qualified health care professionals should provide their patients with an exercise prescription that takes into consideration the individual's previous level of activity, interests, time constraints, and physical impairments. Exercise programs for elderly patients who are obese can incorporate aerobic, flexibility, strengthening, and balance exercises and should be designed to improve function. The incorporation of lifestyle activity to a weight-loss program can be an alternative or adjunct to more structured, continuous forms of exercise. It is essential that health care professionals consistently intervene when dealing with individuals who have overweight to prevent weight progression to the level of obesity.

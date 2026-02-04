@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hemophilia
-TITLE: Hemophilia clinical gene therapy: brief review.
-PMID: 23352600
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23352600/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Genetic correction of hemophilia A and B was long considered amenable to the available gene transfer technologies. This assumption has come to fruition with the recent results of a phase I/II trial for hemophilia B. Here we review the clinical application of gene therapy for the hemophilia's as a paradigm of the evolution of gene transfer science and technology. This review is not intended as comprehensive but rather to highlight current clinical developments of gene therapy for the hemophilias.

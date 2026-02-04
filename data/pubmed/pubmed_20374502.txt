@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lymphoma
-TITLE: Malignant lymphoma of the head and neck.
-PMID: 20374502
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20374502/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Malignant lymphomas represent approximately 5% of all malignant neoplasms of the head and neck area. They are classically divided into two subgroups, Hodgkin's lymphomas (HLs) and non-Hodgkin's lymphomas (NHLs). We describe the clinical characteristics of head and neck lymphomas and the methods to establish the diagnosis. The World Health Organization classification of lymphoid tissues describes more than 50 different histological types, and we analyse the most common staging system for lymphomas, the Ann Arbor staging system. Finally, the different therapeutic approaches are discussed.

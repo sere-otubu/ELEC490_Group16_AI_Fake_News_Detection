@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hemophilia
-TITLE: Foundations of hemophilia and epidemiology.
-PMID: 37254731
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37254731/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hemophilia, a congenital coagulopathy characterized by a deficiency in coagulation factor VIII (hemophilia A) or factor IX (hemophilia B), results in a tendency of bleeding proportional to the lacking factor. Most bleeds in patients with hemophilia occur in their joints and muscles, and because of these bleeding episodes, patients may end up developing musculoskeletal alterations resulting from hemophilic arthropathy, even receiving hemostatic treatment. The third edition of the World Federation of Hemophilia's Guidelines for the Management of Hemophilia defines 12 principles that encompass all the different types of multidisciplinary care required by people with hemophilia, one of these being clinical and epidemiological research. The expected number of patients with hemophilia across the world has been estimated at 1125 000, most of them undiagnosed, and the total number of patients with severe hemophilia at 418 000 males. Data available from medium and high-income countries show that the prevalence at birth (incidence) and the prevalence of hemophilia differ, which means that patients with hemophilia are at a disadvantage in terms of life expectancy as compared with the general population. In medium-to-high-income countries, the life expectancy disadvantage of patients with hemophilia A and B as compared with the rest of the population is 30% and 24%, respectively. This life expectancy disadvantage is much greater in countries with more limited access to treatments for hemophilia.

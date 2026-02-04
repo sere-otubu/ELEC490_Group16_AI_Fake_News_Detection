@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Inhalers
-TITLE: [Assessment of general practitioners' knowledge of inhalers].
-PMID: 34462151
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34462151/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Inhaled drug delivery is the cornerstone treatment for asthma. General practitioners (GPs) have a key role for educating patient about how to use their inhalers. The purpose of this study was to find out whether GPs know how to use the inhalers they usually prescribe. This was a descriptive and analytical cross-sectional study among GPs from the Paris metropolitan area. GPs had to choose the inhalers they usually prescribe and then demonstrate their use. The technique of use was assessed using a scale specific to each type of inhaler. Overall success was defined by the use of prescribed inhalers without critical errors. Thirty-seven GPs were recruited between July 2018 and July 2019. Nineteen GPs (51.4%) were able to use the inhalers they prescribed without critical errors. The success rate without critical error was better with the pressurized metered dose inhalers with spacer than with other inhalers. The overall success rate was better among GPs who had previously used an inhaler on a personal basis (OR 7.58 95%CI [1.86, 37.02]) or who had prescribed only one type of inhaler (OR 4,8 95%CI [1.21, 22.41]). Half of the GPs in our study did not know how to use the inhalers they prescribe and therefore may have difficulty educating their patients.

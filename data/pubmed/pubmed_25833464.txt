@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Plasma
-TITLE: Thawed and liquid plasma--what do we know?
-PMID: 25833464
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25833464/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There is increasing interest in the use of liquid or frozen plasma thawed and stored for extended periods (>24 h) to reduce wastage and to improve rapid availability of plasma in massive transfusion protocols advocating the early use of plasma in trauma by some centres. There is now a body of studies that have assessed individual coagulation factors during storage of thawed plasma. These show that factor VIII (FVIII) is the worst affected factor and that its activity is mainly lost during the first 24 h following thawing. However, for most factors studied, there is a continual decline during further storage. The few studies that have assessed thrombin generation in thawed plasma have shown variable results. Extended storage of plasma is associated with an increase in levels of DEHP in the component and could theoretically increase the risk of bacterial contamination, although the latter does not appear to have been an issue in countries that have adopted the use of thawed plasma. There are no clinical studies relating to the efficacy of extended-thawed plasma, and therefore, the potential reduction in its efficacy must be balanced with the clinical need for the component.

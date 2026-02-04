@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Eating disorders
-TITLE: [Obesity and eating disorders].
-PMID: 33543861
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33543861/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Obesity is a chronic disease that is difficult to manage and is often punctuated by treatment failure. Screening for eating disorders, the prevalence of which is high in overweight patients, is essential in order to minimize the risk of relapse and the «yoyo» phenomenon. As the reason for consulting obese subjects is rare to be eating disorders from the outset, it is necessary to assess this behaviour from the first consultations, in order to propose a specific therapeutic approach aimed at stable weight loss in the long term.

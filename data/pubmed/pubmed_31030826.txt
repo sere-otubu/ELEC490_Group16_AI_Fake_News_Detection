@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Erectile dysfunction
-TITLE: Erectile Dysfunction.
-PMID: 31030826
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31030826/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Erectile dysfunction is a common condition. Many men do not self-report erectile dysfunction symptoms; thus, physicians must ask about sexual health and function to elicit concerns. Although the impact of untreated erectile dysfunction on quality of life should prompt physicians to ask about symptoms, so should the presence of cardiac and metabolic disease. Diagnosis of erectile dysfunction is made in the primary care office, and patients may be treated with oral, intraurethral, or intracavernosal medications; vacuum devices; or penile prosthesis. Treatment should be guided by patient preference with a goal of improving quality of life and mitigating chronic disease risk.

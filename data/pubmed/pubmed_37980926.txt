@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hearing aids
-TITLE: Interviews with musicians with hearing aids.
-PMID: 37980926
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37980926/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Musicians who wear hearing aids are a unique subset of hearing-impaired individuals. There are a number of issues musicians experience with hearing aids, making effective hearing rehabilitation a challenge. Research suggests hearing aid satisfaction in musicians is lower partly due to their advanced listening skills, however, qualitative research addressing musicians who wear hearing aids for music is scarce. The current study aimed to record the barriers encountered by musicians who wear hearing aids when playing their instrument/singing, listening to recorded music and listening to live music. Professional musicians who wear hearing aids were interviewed. Participants were questioned about their experiences with hearing loss and hearing aids, with particular emphasis on experiences listening to recorded and live music, and playing or performing music with the hearing aids. Eight professional musicians were interviewed, using a semi-structured interview style, with a question and prompt guide. Thematic analysis revealed three main themes in the data: the musicians' journey, communication, and flexibility/adjustability. The results have implications for future research into specific fitting parameters for hearing aids for musicians (particularly for music performance), the need for evidence-based rehabilitation programs for musicians with hearing loss, and the need for a glossary of terms to assist communication between Audiologists and musicians.

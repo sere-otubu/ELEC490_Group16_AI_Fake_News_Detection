@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood tests interpretation
-TITLE: [Leukopenia/neutropenia].
-PMID: 16450737
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16450737/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The first step in evaluating leukopenia is the analysis of the different leukocyte subpopulations. The automated total blood cell count gives a first impression of the decreased leukocyte subtype and if erythrocytes and/or platelets are involved. Microscopic interpretation of the blood smear verifies the automated differential and allows a statement on the morphology of the individual cells. Differential diagnosis of the decreased leukocyte subpopulation is vast and in many cases leukopenia is only an epiphenomenona of a systemic disease. Therefore therapy is always directed towards the underlying disorder.

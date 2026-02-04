@@ -1,8 +1,0 @@
-SEARCH_TOPIC: X ray imaging
-TITLE: Prompt X-ray imaging during irradiation with spread-out Bragg peak (SOBP) beams of carbon ions.
-PMID: 37084677
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37084677/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Prompt secondary electron bremsstrahlung X-ray (prompt X-ray) imaging using a low-energy X-ray camera is a promising method for observing a beam shape from outside the subject. However, such imaging has so far been conducted only for pencil beams without a multi-leaf collimator (MLC). The use of spread-out Bragg peak (SOBP) with an MLC may increase the scattered prompt gamma photons and decrease the contrast of the images of prompt X-rays. Consequently, we performed prompt X-ray imaging of SOBP beams formed with an MLC. This imaging was carried out in list mode during irradiation of SOBP beams to a water phantom. An X-ray camera with a 1.5-mm diameter as well as 4-mm-diameter pinhole collimators was used for the imaging. List mode data were sorted to obtain the SOBP beam images as well as energy spectra and time count rate curves. Due to the high background counts from the scattered prompt gamma photons penetrating the tungsten shield of the X-ray camera, the SOBP beam shapes were difficult to observe with a 1.5-mm-diameter pinhole collimator. With the 4-mm-diameter pinhole collimators, images of SOBP beam shapes at clinical dose levels could be obtained with the X-ray camera. The use of a 4-mm-diameter pinhole collimator attached to the X-ray camera is effective for prompt X-ray imaging with high sensitivity and low background counts. This approach makes it possible to image SOBP beams with an MLC when the counts are low and the background levels are high.

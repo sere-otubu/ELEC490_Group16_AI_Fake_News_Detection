@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Health equity
-TITLE: Digital Health Equity: Addressing Power, Usability, and Trust to Strengthen Health Systems.
-PMID: 36463865
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36463865/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Without specific attention to health equity considerations in design, implementation, and evaluation, the rapid expansion of digital health approaches threatens to exacerbate rather than ameliorate existing health disparities. We explored known factors that increase digital health inequity to contextualize the need for equity-centered informatics. This work used a narrative review method to summarize issues about inequities in digital health and to discuss future directions for researchers and clinicians. We searched literature using a combination of relevant keywords (e.g., "digital health", "health equity", etc.) using PubMed and Google Scholar. We have highlighted strategies for addressing medical marginalization in informatics according to vectors of power such as race and ethnicity, gender identity and modality, sexuality, disability, housing status, citizenship status, and criminalization status. We have emphasized collaboration with user and patient groups to define priorities, ensure accessibility and localization, and consider risks in development and utilization of digital health tools. Additionally, we encourage consideration of potential pitfalls in adopting these diversity, equity, and inclusion (DEI)-related strategies.

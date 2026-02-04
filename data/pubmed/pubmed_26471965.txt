@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Beta blockers
-TITLE: Beta-Blockers: Current State of Knowledge and Perspectives.
-PMID: 26471965
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26471965/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-It has been over half a century since propranolol, the first beta-blocker, was developed for medical treatment. Since that time a large number of compounds from this group have been synthesised and many are now in clinical use. The structure, function, pharmacokinetics, and mechanism of beta-blockers have been established. The possibilities for their use in treating different conditions continue to evolve. Since the discovery of later generation beta-blockers, such as carvedilol and nebivolol, the search for new compounds continues, and may include known substances with beta-blocking properties which could extend their therapeutic potential.

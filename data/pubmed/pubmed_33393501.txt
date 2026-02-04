@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Insulin therapy
-TITLE: The discovery of insulin revisited: lessons for the modern era.
-PMID: 33393501
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33393501/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-2021 to 2022 marks the one hundredth anniversary of ground-breaking research in Toronto that changed the course of what was, then, a universally fatal disease: type 1 diabetes. Some would argue that insulin's discovery by Banting, Best, Macleod, and Collip was the greatest scientific advance of the 20th century, being one of the first instances in which modern medical science was able to provide lifesaving therapy. As with all scientific discoveries, the work in Toronto built upon important advances of many researchers over the preceding decades. Furthermore, the Toronto work ushered in a century of discovery of the purification, isolation, structural characterization, and genetic sequencing of insulin, all of which influenced ongoing improvements in therapeutic insulin formulations. Here we discuss the body of knowledge prior to 1921 localizing insulin to the pancreas and establishing insulin's role in glucoregulation, and provide our views as to why researchers in Toronto ultimately achieved the purification of pancreatic extracts as a therapy. We discuss the pharmaceutical industry's role in the early days of insulin production and distribution and provide insights into why the discoverers chose not to profit financially from the discovery. This fascinating story of bench-to-beside discovery provides useful considerations for scientists now and in the future.

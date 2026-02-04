@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sciatica
-TITLE: Sciatica and epidural corticosteroid injections.
-PMID: 25802923
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25802923/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-According to trials conducted in hundreds of patients with sciatica, epidural corticosteroid injections have no demonstrated efficacy beyond the placebo effect, either in the short-term or the long-term. However, they expose patients to a risk of sometimes serious neurological adverse effects.

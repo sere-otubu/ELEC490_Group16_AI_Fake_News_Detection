@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26548832)
-    QUESTION: Assessing Patient Reported Outcomes Measures via Phone Interviews Versus Patient Self-Survey in the Clinic: Are We Measuring the Same Thing?
-    CONTEXT: Longitudinally following patients requires a full-time employee (FTE)-dependent data inflow infrastructure. There are efforts to capture patient-reported outcomes (PROs) by the use of non-FTE-dependent methodologies. In this study, we set out to assess the reliability of PRO data captured via FTE-dependent compared with non-FTE-dependent methodologies.
-    ANSWER: Our study suggests that there is great reliability between PRO data captured between FTE-dependent and non-FTE-dependent methodologies.
-    

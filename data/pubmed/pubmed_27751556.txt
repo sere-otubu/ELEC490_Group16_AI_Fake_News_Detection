@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Parkinsons disease
-TITLE: The epidemiology of Parkinson's disease: risk factors and prevention.
-PMID: 27751556
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27751556/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Since 2006, several longitudinal studies have assessed environmental or behavioural factors that seem to modify the risk of developing Parkinson's disease. Increased risk of Parkinson's disease has been associated with exposure to pesticides, consumption of dairy products, history of melanoma, and traumatic brain injury, whereas a reduced risk has been reported in association with smoking, caffeine consumption, higher serum urate concentrations, physical activity, and use of ibuprofen and other common medications. Randomised trials are investigating the possibility that some of the negative risk factors might be neuroprotective and thus beneficial in individuals with early Parkinson's disease, particularly with respect to smoking (nicotine), caffeine, and urate. In the future, it might be possible to identify Parkinson's disease in its prodromal phase and to promote neuroprotective interventions before the onset of motor symptoms. At this time, however, the only intervention that seems justifiable for the primary prevention of Parkinson's disease is the promotion of physical activity, which is likely to be beneficial for the prevention of several chronic diseases.

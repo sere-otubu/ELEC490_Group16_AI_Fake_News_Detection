@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gout
-TITLE: Uric acid en route to gout.
-PMID: 37852720
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37852720/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gout and hyperuricemia (HU) have generated immense attention due to increased prevalence. Gout is a multifactorial metabolic and inflammatory disease that occurs when increased uric acid (UA) induce HU resulting in monosodium urate (MSU) crystal deposition in joints. However, gout pathogenesis does not always involve these events and HU does not always cause a gout flare. Treatment with UA-lowering therapeutics may not prevent or reduce the incidence of gout flare or gout-associated comorbidities. UA exhibits both pro- and anti-inflammation functions in gout pathogenesis. HU and gout share mechanistic and metabolic connections at a systematic level, as shown by studies on associated comorbidities. Recent studies on the interplay between UA, HU, MSU and gout as well as the development of HU and gout in association with metabolic syndromes, non-alcoholic fatty liver disease (NAFLD), and cardiovascular, renal and cerebrovascular diseases are discussed. This review examines current and potential therapeutic regimens and illuminates the journey from disrupted UA to gout.

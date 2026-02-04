@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Metformin
-TITLE: Metformin and Insulin Resistance: A Review of the Underlying Mechanisms behind Changes in GLUT4-Mediated Glucose Transport.
-PMID: 35163187
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35163187/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Metformin is the most commonly used treatment to increase insulin sensitivity in insulin-resistant (IR) conditions such as diabetes, prediabetes, polycystic ovary syndrome, and obesity. There is a well-documented correlation between glucose transporter 4 (GLUT4) expression and the level of IR. Therefore, the observed increase in peripheral glucose utilization after metformin treatment most likely comes from the induction of GLUT4 expression and its increased translocation to the plasma membrane. However, the mechanisms behind this effect and the critical metformin targets are still largely undefined. The present review explores the evidence for the crucial role of changes in the expression and activation of insulin signaling pathway mediators, AMPK, several GLUT4 translocation mediators, and the effect of posttranscriptional modifications based on previously published preclinical and clinical models of metformin's mode of action in animal and human studies. Our aim is to provide a comprehensive review of the studies in this field in order to shed some light on the complex interactions between metformin action, GLUT4 expression, GLUT4 translocation, and the observed increase in peripheral insulin sensitivity.

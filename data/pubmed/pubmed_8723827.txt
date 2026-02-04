@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Melanoma
-TITLE: Vulvar melanoma.
-PMID: 8723827
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8723827/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Vulvar melanomas are seen in about 3% of all melanomas. The percentage reaches 10% of all malignant tumors of the vulva. The mean age of the patients is approximately 55 years. The first symptoms noticed by the patients are bleeding, pruritus, or a mass in the groin. Vulvar melanomas are mostly located at the labia minora. The differential diagnosis comprises different pigmented lesions, such as seborrheic keratosis, nevocellular nevus, lentigo, or hyperpigmentations of different origin. There is no typical histopathological pattern, but mostly melanomas of this site are of the mucosal-lentiginous type. As treatment modalities, most investigators propose a complete excision for melanomas thinner than 1 mm, and for thicker melanomas a wide excision. Recent investigations have shown that hemivulvectomies or vulvectomies do not show a better survival. The question of a prophylactic ipsilateral lymph node dissection is not answered yet. The survival rates depend on the tumor thickness and/or the infiltration level. The importance of an early diagnosis should be stressed in vulvar melanomas, especially through an accurate inspection of the vulva at the time of a genital examination. In addition, vulvar self examinations are an excellent possibility for early diagnosis. This allows a definite treatment and vulvar conservation.

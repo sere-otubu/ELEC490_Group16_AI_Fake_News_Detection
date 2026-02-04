@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17403428)
-    QUESTION: Recurrent spontaneous abortion and skewed X-inactivation: is there an association?
-    CONTEXT: The purpose of this study was to determine whether there is an association between skewed X-inactivation and recurrent spontaneous abortion in a large, well-defined sample of women with recurrent loss.
-    ANSWER: Skewed X-inactivation is not associated with recurrent spontaneous abortion but is associated with increasing maternal age.
-    

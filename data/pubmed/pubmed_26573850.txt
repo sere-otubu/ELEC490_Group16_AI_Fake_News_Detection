@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Peptic ulcer
-TITLE: Surgery for Peptic Ulcer Disease in sub-Saharan Africa: Systematic Review of Published Data.
-PMID: 26573850
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26573850/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Peptic ulcer disease is a significant cause of morbidity and mortality worldwide, with a significant burden in low- and middle-income countries. However, there is limited information regarding management of peptic ulcer disease in these countries. This study describes surgical interventions for peptic ulcer disease in sub-Saharan Africa. A systematic review was performed using PubMed, EMBASE, and African Index Medicus for studies describing surgical management of peptic ulcer disease in sub-Saharan Africa. From 55 published reports, 6594 patients underwent surgery for peptic ulcer disease. Most ulcers (86%) were duodenal with the remainder gastric (14%). Thirty-five percent of operations were performed for perforation, 7% for bleeding, 30% for obstruction, and 28% for chronic disease. Common operations included vagotomy (60%) and primary repair (31%). The overall case fatality rate for peptic ulcer disease was 5.7% and varied with indication for operation: 13.6% for perforation, 11.5% for bleeding, 0.5% for obstruction, and 0.3% for chronic disease. Peptic ulcer disease remains a significant indication for surgery in sub-Saharan Africa. Recognizing the continued role of surgery for peptic ulcer disease in sub-Saharan Africa is important for strengthening surgical training programs and optimizing allocation of resources.

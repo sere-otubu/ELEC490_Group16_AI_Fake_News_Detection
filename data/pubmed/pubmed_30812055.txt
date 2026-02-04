@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Micronutrients
-TITLE: Parenteral Provision of Micronutrients to Adult Patients: An Expert Consensus Paper.
-PMID: 30812055
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30812055/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Micronutrients, an umbrella term used to collectively describe vitamins and trace elements, are essential components of nutrition. Those requiring alternative forms of nutrition support are dependent on the prescribed nutrition regimen for their micronutrient provision. The purpose of this paper is to assist clinicians to bridge the gap between the available guidelines' recommendations and their practical application in the provision of micronutrients via the parenteral route to adult patients. Based on the available evidenced-based literature and existing guidelines, a panel of multidisciplinary healthcare professionals with significant experience in the provision of parenteral nutrition (PN) and intravenous micronutrients developed this international consensus paper. The paper addresses 14 clinically relevant questions regarding the importance and use of micronutrients in various clinical conditions. Practical orientation on how micronutrients should be prescribed, administered, and monitored is provided. Micronutrients are a critical component to nutrition provision and PN provided without them pose a considerable risk to nutrition status. Obstacles to their daily provision-including voluntary omission, partial provision, and supply issues-must be overcome to allow safe and responsible nutrition practice.

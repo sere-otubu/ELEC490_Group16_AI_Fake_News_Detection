@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Contraception methods
-TITLE: Contraceptive failure in the United States.
-PMID: 21477680
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21477680/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review provides an update of previous estimates of first-year probabilities of contraceptive failure for all methods of contraception available in the United States. Estimates are provided of probabilities of failure during typical use (which includes both incorrect and inconsistent use) and during perfect use (correct and consistent use). The difference between these two probabilities reveals the consequences of imperfect use; it depends both on how unforgiving of imperfect use a method is and on how hard it is to use that method perfectly. These revisions reflect new research on contraceptive failure both during perfect use and during typical use.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lymphatic system
-TITLE: From sewer to saviour - targeting the lymphatic system to promote drug exposure and activity.
-PMID: 26471369
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26471369/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The lymphatic system serves an integral role in fluid homeostasis, lipid metabolism and immune control. In cancer, the lymph nodes that drain solid tumours are a primary site of metastasis, and recent studies have suggested intrinsic links between lymphatic function, lipid deposition, obesity and atherosclerosis. Advances in the current understanding of the role of the lymphatics in pathological change and immunity have driven the recognition that lymph-targeted delivery has the potential to transform disease treatment and vaccination. In addition, the design of lymphatic delivery systems has progressed from simple systems that rely on passive lymphatic access to sophisticated structures that use nanotechnology to mimic endogenous macromolecules and lipid conjugates that 'hitchhike' onto lipid transport processes. Here, we briefly summarize the lymphatic system in health and disease and the varying mechanisms of lymphatic entry and transport, as well as discussing examples of lymphatic delivery that have enhanced therapeutic utility. We also outline future challenges to effective lymph-directed therapy.

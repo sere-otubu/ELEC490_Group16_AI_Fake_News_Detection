@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pain management
-TITLE: Postoperative pain management in the era of ERAS: An overview.
-PMID: 31785712
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31785712/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Enhanced recovery after surgery (ERAS) programmes are increasingly becoming standard of care for several surgical procedures. However, compliance with ERAS protocols including pain management protocols remains poor. The PROSPECT (PROcedure-SPEcific Postoperative Pain ManagemenT) collaboration provides evidence-based, procedure-specific pain management recommendations presented as preoperative, intraoperative and postoperative interventions as well as surgical interventions that are easy to access, transparent and relevant to clinicians. This approach should facilitate incorporation of pain management recommendations in an ERAS protocol and improve compliance with the protocols. This article presents an improved approach to developing pain management guidelines as well as a pragmatic approach to procedure-specific perioperative pain management that could be incorporated in an ERAS pathway.

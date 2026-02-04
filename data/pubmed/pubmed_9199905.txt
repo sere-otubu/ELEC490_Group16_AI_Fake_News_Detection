@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 9199905)
-    QUESTION: Vertical lines in distal esophageal mucosa (VLEM): a true endoscopic manifestation of esophagitis in children?
-    CONTEXT: We observed an endoscopic abnormally in a group of children with histological esophagitis. We termed this finding "vertical lines in esophageal mucosa" (VLEM). We examined the relationship between the presence of VLEM and significant histologic changes in esophageal mucosal biopsies.
-    ANSWER: Histology usually demonstrated moderate to severe inflammation when VLEM were present. VLEM may be a highly specific endoscopic feature of esophagitis in children.
-    

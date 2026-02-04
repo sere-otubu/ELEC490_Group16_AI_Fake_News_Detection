@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fish oil benefits
-TITLE: Benefits of fish oil supplementation for hemodialysis patients.
-PMID: 12963947
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12963947/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A literature review on fish oil supplementation in the population undergoing chronic hemodialysis therapy suggests that supplementation may be beneficial for various challenges to health and well-being prevalent in this population. One study indicated that pruritus symptoms improved with fish oil supplementation, but not with supplementation with two other oils. In a study designed to determine whether fish oils could prevent vascular access graft thrombosis, graft patency rates were approximately 76% in the fish oil and approximately 15% in the placebo group (P>.03). In a pilot study, subjects given fish oil required 16% less erythropoietin and experienced a 3.6% increase in serum albumin levels. Some studies suggest that fish oil supplementation in hemodialysis patients is cardioprotective, with one study finding that "fish eaters" are half as likely to die as "non-fish eaters." Potential risks of supplementation include gastrointestinal distress, prolonged bleeding, and vitamin A toxicity, although the likelihood of serious side effects is probably low. Dietitians are in a position to advise physicians and/or patients regarding appropriate dosages and ways to minimize risks when supplementation seems warranted. Future research could compare the benefits of fish consumption with those of fish oil supplementation and explore the benefits of other n-3 fatty acid sources, such as flaxseed.

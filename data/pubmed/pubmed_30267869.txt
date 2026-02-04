@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Prebiotics
-TITLE: Prebiotics and Probiotics in Digestive Health.
-PMID: 30267869
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30267869/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-As the importance of the gut microbiota in health and disease is increasingly recognized interest in interventions that can modulate the microbiota and its interactions with its host has soared. Apart from diet, prebiotics and probiotics represent the most commonly used substances taken in an effort to sustain a healthy microbiome or restore balance when it is believed bacterial homeostasis has been disturbed in disease. While a considerable volume of basic science attests to the ability of various prebiotic molecules and probiotic strains to beneficially influence host immune responses, metabolic processes and neuro-endocrine pathways, the evidence base from human studies leaves much to be desired. This translational gap owes much to the manner in which this sector is regulated but also speaks to the challenges that confront the investigator who seeks to explore microbiota modulation in either healthy populations or those who suffer from common digestive ailments. For many products marketed as probiotics, some of the most fundamental issues relating to quality control, such as characterization, formulation, viability safety are scarcely addressed.

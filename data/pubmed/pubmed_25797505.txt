@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Bypass surgery
-TITLE: Tranexamic acid: a clinical review.
-PMID: 25797505
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25797505/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Blood loss and subsequent transfusions are associated with major morbidity and mortality. The use of antifibrinolytics can reduce blood loss in cardiac surgery, trauma, orthopedic surgery, liver surgery and solid organ transplantation, obstetrics and gynecology, neurosurgery and non-surgical diseases. The evidence of their efficacy has been mounting for years. Tranexamic acid (TXA), a synthetic lysine-analogue antifibrinolytic, was first patented in 1957 and its use has been increasing in contrast to aprotinin, a serine protease inhibitor antifibrinolytic. This review aims to help acute care physicians navigate through the clinical evidence available for TXA therapy, develop appropriate dose regimens whilst minimizing harm, as well as understand its broadening scope of applications. Many questions remain unanswered regarding other clinical effects of TXA such as anti-inflammatory response to cardiopulmonary bypass, the risk of thromboembolic events, adverse neurological effects such as seizures, and its morbidity and mortality, all of which necessitate further clinical trials on its usage and safety in various clinical settings.

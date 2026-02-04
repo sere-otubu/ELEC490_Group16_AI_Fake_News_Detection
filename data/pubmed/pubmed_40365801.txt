@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ADHD
-TITLE: [ADHD and problematic substance use].
-PMID: 40365801
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40365801/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Attention Deficit Hyperactivity Disorder (ADHD) often coexists with problematic substance use, such as harmful use or dependency. In this review, studies estimate a 21% prevalence of ADHD among individuals with problematic substance use, who often exhibit earlier substance initiation, faster dependency transitions, and higher relapse risks. Diagnosis and treatment are challenging due to overlapping symptoms and comorbidities, but integrated, case-managed approaches combining psychosocial, pharmacological, and therapeutic interventions show promise in improving outcomes for this vulnerable population.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Emotional intelligence
-TITLE: Evidence and Strategies for Including Emotional Intelligence in Pharmacy Education.
-PMID: 34697015
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34697015/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-<b>Objective.</b> This integrative review summarizes the literature addressing emotional intelligence among health care professionals and students to better define and incorporate it into the pharmacy curricula.<b>Findings.</b> Emotional intelligence is an essential attribute for relationship building, stress management, and self-regulation. Pharmacy students must develop and improve their emotional intelligence to support their development of successful relationships with patients, pharmacy colleagues, and other health care providers. In addition, awareness of one's own biases and emotions can help with behavioral regulation, which can facilitate enhanced communications with others. Increasing evidence suggests that emotional intelligence can influence academic success, the ability to provide compassionate and competent patient care, the ability to lead and influence others, and the ability to manage stress, all of which are important in pharmacy education. Educators can help learners develop emotional intelligence by designing activities that directly identify and target areas of weakness while leveraging areas of strength.<b>Summary.</b> This article discusses key background studies on emotional intelligence in the health professions literature and identifies specific methods and strategies to develop learners' emotional intelligence within the curriculum.

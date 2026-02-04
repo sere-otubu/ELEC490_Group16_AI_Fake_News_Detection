@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Athletes foot
-TITLE: Athlete's foot.
-PMID: 21696646
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21696646/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Around 15% to 25% of people are likely to have athlete's foot at any one time. The infection can spread to other parts of the body and to other people. We conducted a systematic review and aimed to answer the following clinical question: What are the effects of topical treatments for athlete's foot? We searched: Medline, Embase, The Cochrane Library, and other important databases up to July 2008 (Clinical Evidence reviews are updated periodically; please check our website for the most up-to-date version of this review). We included harms alerts from relevant organisations such as the US Food and Drug Administration (FDA) and the UK Medicines and Healthcare products Regulatory Agency (MHRA). We found 14 systematic reviews, RCTs, or observational studies that met our inclusion criteria. We performed a GRADE evaluation of the quality of evidence for interventions. In this systematic review we present information relating to the effectiveness and safety of the following interventions: improved foot hygiene, including socks and hosiery; topical allylamines (naftifine and terbinafine); topical azoles (bifonazole, clotrimazole, econazole nitrate, miconazole nitrate, sulconazole nitrate, and tioconazole); and topical ciclopirox olamine.

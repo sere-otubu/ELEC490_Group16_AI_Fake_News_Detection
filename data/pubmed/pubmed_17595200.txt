@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17595200)
-    QUESTION: Is there an intrauterine influence on obesity?
-    CONTEXT: It has been suggested that increasing obesity levels in young women lead to intrauterine environments that, in turn, stimulate increased obesity among their offspring, generating an intergenerational acceleration of obesity levels. If this mechanism is important, the association of maternal body mass index (BMI) with offspring BMI should be stronger than the association of paternal with offspring BMI.
-    ANSWER: Comparison of mother-offspring and father-offspring associations for BMI suggests that intergenerational acceleration mechanisms do not make an important contribution to levels of childhood BMI within the population. Associations at later ages and for different components of body composition now require study.
-    

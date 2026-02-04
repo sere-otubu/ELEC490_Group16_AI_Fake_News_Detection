@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Caffeine effects
-TITLE: Impacts of Caffeine during Pregnancy.
-PMID: 31818639
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31818639/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Epidemiological studies have revealed that caffeine consumption during pregnancy is associated with adverse gestational outcomes, yet the underlying mechanisms remain obscure. Recent animal studies with physiologically relevant dosages have begun to dissect adverse effects of caffeine during pregnancy with respect to oviduct contractility, embryo development, uterine receptivity, and placentation that jointly contribute to pregnancy complications. Interestingly, caffeine's effects are highly variable between individual animals under well-controlled experimental settings, suggesting the possibility of epigenetic regulation of these phenotypes, in addition to genetic variants. Moreover, caffeine exposure during sensitive windows of pregnancy may induce epigenetic changes in the developing fetus or even the germ cells to cause adult-onset diseases in subsequent generations. We discuss these research frontiers in light of emerging data.

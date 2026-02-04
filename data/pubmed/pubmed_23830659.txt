@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urinary tract infection
-TITLE: Urinary tract infection.
-PMID: 23830659
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23830659/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The urinary tract is a common source for life-threatening infections. Most patients with sepsis or septic shock from a urinary source have complicated urinary tract infection. This article explains the epidemiology, risk factors, and treatment. Effective management, appropriate collection of microbiology specimens, prompt initiation of antimicrobial therapy, source control, and supportive therapy are described.

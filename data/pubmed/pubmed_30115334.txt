@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urinary tract infection
-TITLE: Urinary Tract Infection Antibiotic Resistance in the United States.
-PMID: 30115334
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30115334/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Urinary tract infection (UTI) is one of the most common entities in medicine and affected patients present daily in a typical family medicine practice. The patients often present with the "classic symptoms" of dysuria and increased frequency, but sometimes they are asymptomatic or have a mixed picture. In most cases, an antibiotic is prescribed, and this practice is likely contributing to increasing worldwide antibiotic resistance. To help combat this problem, it is important that clinicians seek out their local bacterial resistance patterns and antibiograms, properly diagnose and treat UTI if indicated, and recognize their role in antibiotic stewardship.

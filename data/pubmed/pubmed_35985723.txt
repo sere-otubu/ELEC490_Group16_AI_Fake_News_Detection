@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Social determinants of health
-TITLE: Social Determinants of Health: Considerations for Care of Older Veterans.
-PMID: 35985723
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35985723/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Social determinants of health (SDOH), the environments and circumstances in which people are born, grow, live, work and age, are potent drivers of health, health disparities, and health outcomes over the lifespan. Military service affords unique experiences, exposures, and social and health vulnerabilities which impact the life course and may alter health equity and health outcomes for older veterans. Identifying and addressing SDOH, inclusive of the military experience, allows person-centered, more equitable care to this vulnerable population. Nurses and other health professionals should be familiar with how to identify and address health-related social needs and implement interdiciplinary, team-based approaches to connect patients with resources and benefits specifically available to veterans.

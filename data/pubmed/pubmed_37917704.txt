@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gene expression
-TITLE: Sex-biased gene expression in mammals.
-PMID: 37917704
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37917704/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sex differences in gene expression start at puberty and vary across species and organs.

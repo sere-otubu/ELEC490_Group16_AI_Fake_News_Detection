@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vaccination schedules
-TITLE: Vaccine interchangeability.
-PMID: 12659381
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12659381/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The recommended childhood immunization schedule is complex, with multiple doses of vaccines required to complete the series. For a variety of reasons, a single manufacturer's product may not be available for all of the doses needed. In addition, combination products may become available, allowing for fewer injections to be administered but resulting in a change of vaccine components. To ensure the timely immunization of children and to avoid missed opportunities to vaccinate, it is important to be familiar with data documenting the interchangeability of vaccines. Although clear evidence is available to demonstrate the interchangeability of some vaccines (i.e., hepatitis B vaccines and Haemophilus influenzae type b vaccines), it is more difficult to evaluate the interchangeability of others (i.e., diphtheria-tetanus-acellular pertussis [DTaP] vaccines). Limited data support the interchangeability of some DTaP products when necessary. This article presents the safety and immunogenicity data for immunization regimens that use vaccines from different manufacturers.

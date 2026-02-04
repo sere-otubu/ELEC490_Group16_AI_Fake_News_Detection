@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antibiotic resistance
-TITLE: Antibiotic microbial resistance (AMR) removal efficiencies by conventional and advanced wastewater treatment processes: A review.
-PMID: 31195321
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31195321/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The World Health Organization (WHO) has identified the spread of antibiotic resistance as one of the major risks to global public health. An important transfer route into the aquatic environment is the urban water cycle. In this paper the occurrence and transport of antibiotic microbial resistance in the urban water cycle are critically reviewed. The presence of antibiotic resistance in low impacted surface water is being discussed to determine background antibiotic resistance levels, which might serve as a reference for treatment targets in the absence of health-based threshold levels. Different biological, physical and disinfection/oxidation processes employed in wastewater treatment and their efficacy regarding their removal of antibiotic resistant bacteria and antibiotic resistance geness (ARGs) were evaluated. A more efficient removal of antibiotic microbial resistance abundances from wastewater effluents can be achieved by advanced treatment processes, including membrane filtration, ozonation, UV-irradiation or chlorination, to levels typically observed in urban surface water or low impacted surface water.

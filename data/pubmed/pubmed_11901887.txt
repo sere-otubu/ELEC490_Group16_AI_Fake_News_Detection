@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Angioplasty
-TITLE: [Anticoagulation strategy in coronary angioplasty].
-PMID: 11901887
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11901887/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The explosion in the number of angioplasties rapidly imposed a necessary compromise between effective anticoagulation during the procedure to prevent thrombotic phenomena, related mainly to the use of foreign intravascular materials, and the limitation of haemorrhagic complications, the corollary to this type of treatment. Modern universally accepted protocols, the fruit of over 20 years' experience, are described by the authors. However, the constant progress in the management of acute coronary syndromes and the increasing use of new anticoagulant and antiaggregant molecules imply an obligatory adaptation of the use of heparin in all its forms, which should be based on irrefutable scientific evidence: the preliminary results are then discussed. Finally, future trends will be outlined with the development of new, better targeted sites of anticoagulation which may provide optimal safety in the medium term.

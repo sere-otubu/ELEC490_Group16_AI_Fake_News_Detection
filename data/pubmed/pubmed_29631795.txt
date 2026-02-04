@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Addisons disease
-TITLE: Autoimmune Addison's disease - An update on pathogenesis.
-PMID: 29631795
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29631795/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Autoimmunity against the adrenal cortex is the leading cause of Addison's disease in industrialized countries, with prevalence estimates ranging from 93-220 per million in Europe. The immune-mediated attack on adrenocortical cells cripples their ability to synthesize vital steroid hormones and necessitates life-long hormone replacement therapy. The autoimmune disease etiology is multifactorial involving variants in immune genes and environmental factors. Recently, we have come to appreciate that the adrenocortical cell itself is an active player in the autoimmune process. Here we summarize the complex interplay between the immune system and the adrenal cortex and highlight unanswered questions and gaps in our current understanding of the disease.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Digestion process
-TITLE: Strategies for modulating the lipid digestion of emulsions in the gastrointestinal tract.
-PMID: 37267158
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37267158/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The structural changes in emulsion products can be used to control the bioavailability of fatty acids and lipophilic compounds. After ingestion, lipid droplets undergo breakdown and structural changes as they pass through the gastrointestinal tract. The oil-water interface plays a critical role in modulating the digestive behavior of lipid droplets because changes in the interfacial layer control the adsorption of lipase and bile salts and determine the overall rate and extent of lipid digestion. Therefore, lipid digestibility can be tuned by selecting the appropriate types and levels of stabilizers. The stabilizer can change the lipase accessibility and exposure of lipid substrates, resulting in variable digestion rates. However, emulsified lipids are not only added to food matrixes but are also co-ingested from other dietary components. Therefore, overall consumption behaviors can affect the digestion rate and digestibility of emulsified lipids. Although designing an emulsion structure is challenging, controlling lipid digestion can improve the health benefits of products. Therefore, a thorough understanding of the process of emulsified lipid digestion is required to develop food products that enable specific physiological responses. The targeted or delayed release of lipophilic molecules and fatty acids through emulsion systems has significant applications in healthcare and pharmaceuticals.

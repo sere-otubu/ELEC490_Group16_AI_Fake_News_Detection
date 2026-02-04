@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Angioplasty
-TITLE: Myocardial revascularization in 1997: angioplasty versus bypass surgery.
-PMID: 9337763
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9337763/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In patients with coronary artery disease and severe ischemia, angioplasty and coronary artery bypass surgery have been shown to reduce symptoms, improve functional capacity and, in some patients, prolong life. Six major randomized trials have recently been reported comparing bypass surgery with angioplasty in patients with multivessel coronary disease. Uniformly, these studies demonstrate an equal mortality and reinfarction rate over five years of follow-up. Patients with angioplasties needed a repeat procedure during follow-up far more frequently than patients with bypass needed an additional bypass procedure (30 to 40 percent versus 5 to 10 percent). Although angioplasty was initially less costly, over five years the costs for the two procedures were similar. Mortality rates decreased by twofold when patients with diabetes mellitus were treated with bypass surgery rather than angioplasty. These studies confirm that in nondiabetic patients, bypass surgery and angioplasty are equally effective in the treatment of severe coronary disease. In diabetic patients with severe disease, however, bypass surgery is favored.

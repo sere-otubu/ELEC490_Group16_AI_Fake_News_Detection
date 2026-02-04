@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Carbohydrates types
-TITLE: Galectin-3 as a multifunctional protein.
-PMID: 15213811
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15213811/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Galectin-3 is a 31 kDa member of a growing family of beta-galactoside-binding animal lectins. This protein is expressed in a variety of tissues and cell types and is mainly found in the cytoplasm, although, depending on cell type and proliferative state, a significant amount of this lectin can also be detected in the nucleus, on the cell surface or in the extracellular environment. Galectin-3 is secreted from cells by a novel and incompletely understood mechanism that is independent of the classical secretory pathway through the endoplasmic reticulum/Golgi network. Galectin-3 exhibits pleiotropic biological function, playing a key role in many physiological and pathological processes.

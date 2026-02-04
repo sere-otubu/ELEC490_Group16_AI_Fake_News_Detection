@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urinary tract infection
-TITLE: Urinary Tract Infection: Pathogenesis and Outlook.
-PMID: 27692880
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27692880/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The clinical syndromes comprising urinary tract infection (UTI) continue to exert significant impact on millions of patients worldwide, most of whom are otherwise healthy women. Antibiotic therapy for acute cystitis does not prevent recurrences, which plague up to one fourth of women after an initial UTI. Rising antimicrobial resistance among uropathogenic bacteria further complicates therapeutic decisions, necessitating new approaches based on fundamental biological investigation. In this review, we highlight contemporary advances in the field of UTI pathogenesis and how these might inform both our clinical perspective and future scientific priorities.

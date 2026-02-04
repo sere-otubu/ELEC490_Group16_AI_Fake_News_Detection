@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 15687156)
-    QUESTION: Can normal knee kinematics be restored with unicompartmental knee replacement?
-    CONTEXT: Unicompartmental replacement can be an alternative to tibial osteotomy in younger, active patients with unicompartmental knee disease. In unicompartmental replacement, the other compartments and knee ligaments are largely untouched. Therefore, it was hypothesized that the knee kinematics after unicompartmental replacement may also be unchanged. To test this hypothesis, knee kinematics and quadriceps tension were recorded before and after replacement with a unicompartmental design and then with a tricompartmental design.
-    ANSWER: In this in vitro cadaver study, the tricompartmental replacement significantly changed knee kinematics while the unicompartmental replacement preserved normal knee kinematics.
-    

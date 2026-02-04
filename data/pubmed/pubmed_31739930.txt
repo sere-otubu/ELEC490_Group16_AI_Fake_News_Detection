@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Spinal fusion
-TITLE: Surface Technologies in Spinal Fusion.
-PMID: 31739930
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31739930/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Patients with symptomatic instability of the spine may be treated surgically with interbody fusion. Cost and complexity in this procedure arises owing to the implanted materials involved with facilitating fusion such as titanium or polyetheretherketone. Surface modifications have been developed to augment these base materials such as plasma-spraying polyetheretherketone with titanium or coating implants with hydroxyapatite. Although some evidence has been gathered on these novel materials, additional study is needed to establish the true efficacy of surface modifications for interbody fusion devices in improving long-term patient outcomes.

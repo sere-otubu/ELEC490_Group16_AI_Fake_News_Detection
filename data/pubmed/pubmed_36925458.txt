@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Laxatives
-TITLE: Functional constipation in children: What physicians should know.
-PMID: 36925458
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36925458/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Functional constipation (FC) is considered the most common functional gastrointestinal disorder in children with a pooled global prevalence of 14.4% (95% confidence interval: 11.2-17.6) when diagnosed based on the Rome IV criteria. Its pathophysiological mechanisms are thought be multifactorial and complicated, resulting in difficult management. Currently, the most effective medication, when used in parallel with toilet training, is osmotic laxatives. Children's adherence to medication and parental concern regarding long-term laxative use are the main contributors to treatment failure. Recently, novel therapies with a high safety profile have been developed, such as probiotics, synbiotics, serotonin 5-hydroxytryptamine 4 receptor agonists, chloride channel activators, and herbal and transitional medicines; nonetheless, well-designed research to support the use of these therapies is needed. This review aims to focus on multiple aspects of FC in children, including global prevalence, pathogenesis, diagnostic criteria, tools, as well as conventional and novel treatment options, such as non-pharmacological management, including adequate fiber and fluid intake, physiotherapy, or neuromodulators. We also report that in very difficult cases, surgical intervention may be required.

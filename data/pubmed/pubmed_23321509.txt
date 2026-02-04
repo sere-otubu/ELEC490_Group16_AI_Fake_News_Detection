@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23321509)
-    QUESTION: Quaternary cytoreductive surgery in ovarian cancer: does surgical effort still matter?
-    CONTEXT: To evaluate surgical outcome and survival benefit after quaternary cytoreduction (QC) in epithelial ovarian cancer (EOC) relapse.
-    ANSWER: Even in this highly advanced setting of the third EOC relapse, maximal therapeutic effort combining optimal surgery and chemotherapy appear to significantly prolong survival in a selected patients 'group'.
-    

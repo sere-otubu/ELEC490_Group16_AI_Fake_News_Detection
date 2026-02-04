@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Breastfeeding benefits
-TITLE: Breastfeeding in Cystic Fibrosis: A Systematic Review on Prevalence and Potential Benefits.
-PMID: 34579139
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34579139/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Breastfeeding (BF) is considered the normative standard of feeding for all infants. However, the impact of BF in patients with cystic fibrosis (CF) is not completely defined. Therefore, we conducted a systematic review to evaluate BF prevalence in the CF population and its impact on anthropometric and pulmonary outcomes. We searched MEDLINE, Embase and the Cochrane Library for original articles published in English up to 4 December 2020 that report the prevalence of BF and/or any measure of association between BF and anthropometric or pulmonary outcomes. Nine observational studies were identified (six retrospective cohort studies, one prospective cohort study, one survey and one case-control study within a retrospective cohort). The BF rate in CF patients is lower than that of the healthy population (approximately 50-60% of infants were breastfed at any time). The benefits in anthropometric outcomes of BF for >2 months in this at-risk population are unclear. A few relatively small studies suggest a potential benefit of BF in reducing lung infections, although data are inconsistent. The currently available data are insufficient to draw definite conclusions on the benefits of exclusive BF in anthropometric and pulmonary outcomes in CF. Clinical trials evaluating well-defined BF promotion interventions are needed.

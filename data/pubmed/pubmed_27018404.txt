@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Safe sex practices
-TITLE: The social dynamics of safe sex practices among Canadian sex industry clients.
-PMID: 27018404
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27018404/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Much of what we know about the safe sex practices of people who pay for sexual services (clients) remains firmly grounded in empirical and interpretive tendencies to overemphasise the causal link between social, cultural or individual characteristics and sexual decision-making. In this study we apply Adam Green's Bourdieu-inspired sexual fields theory to examine the ways in which safe sex practices are interdependently shaped by social, personal and interpersonal forces. Using data from 697 questionnaires and 24 semi-structured interviews with Canadian clients, we implemented a series of six additive logistic regression models and contextualised the results with the interview data to reveal the relational interdependencies of intra-psychic, macro, meso and micro-level factors related to safe sex practices. The questionnaire responses and interview data used in the study were gathered from a diverse sample of clients who were over the age of 19, had paid money for sexual services on one or more occasions during their lifetime and who resided in Canada at the time of participation. Our results illustrate the ways in which factors related to the venue where sexual acts take place, clients' relationships with commercial and non-commercial partners and personal choices related to substance use interdependently inform safe sex practices.

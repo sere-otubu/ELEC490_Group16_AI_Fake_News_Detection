@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hives
-TITLE: Approach to the Patient with Hives.
-PMID: 31757233
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31757233/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Urticaria is a common presenting problem to the primary care provider. Acute urticaria lasting less than 6 weeks may be associated with a drug or food allergens. Chronic urticaria lasting more than 6 weeks is often associated without a known underlying cause. Inducible stimuli causing hives should be excluded using specific provocation testing. Treatment follows a standardized algorithmic approach as outlined by the Joint Task Force Practice Parameter and/or International Urticaria guidelines. Patients not responsive to steps 1 or 2 should be referred to an urticaria specialist for further evaluation and treatment. The prognosis and outcome of urticaria is generally very favorable for most patients.

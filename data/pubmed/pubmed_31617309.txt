@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Burnout syndrome
-TITLE: Impact of social support in preventing burnout syndrome in nurses: A systematic review.
-PMID: 31617309
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31617309/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Burnout is a reality in the nursing profession. It is composed of three dimensions: emotional exhaustion, depersonalization and reduced personal accomplishment, and results from being subjected to chronic stress in the healthcare context. Social support (SS), that is, the assistance and protection given by others, is a predictive and protective factor against burnout syndrome. The aim of this study is to analyze the relationship between SS, in its different forms, and burnout syndrome in nurses, and to identify the risk factors for burnout. A systematic literature review was carried out, following the PRISMA recommendations. The databases CINAHL, PsycINFO, Proquest Platform (Proquest Health & Medical Complete), Pubmed and Scopus were consulted, using the descriptors: "burnout, professional AND social support AND nursing". To minimize potential publication bias, the search had no time or sample size limitation. Burnout was reported, to a greater or lesser extent, in all the articles analyzed, and the SS received by nurses in the workplace from supervisors and coworkers was found to play a fundamental role in preventing the syndrome. However, to date the bibliography on this issue is scant, and there is little consensus as to the degree of SS received. Burnout prevention plans, with particular attention to SS, should be developed to improve nurses' quality of life and to enhance the care they provide.

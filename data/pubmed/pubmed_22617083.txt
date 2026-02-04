@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22617083)
-    QUESTION: Does age moderate the effect of personality disorder on coping style in psychiatric inpatients?
-    CONTEXT: To examine age-related differences in the relationship between personality and coping strategies in an Australian population of psychiatric inpatients.
-    ANSWER: This study found that influences on coping were multifactorial and moderated by age. These factors have implications for interventions designed to enhance coping strategies.
-    

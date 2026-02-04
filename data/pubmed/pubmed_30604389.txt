@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Clinical trial phases
-TITLE: Current Ebola Virus Vaccine Progress.
-PMID: 30604389
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30604389/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Over 40 years since the discovery of Ebola virus, the anti-Ebola virus vaccine efforts of the past 2 decades have culminated in over 12 different vaccine candidates that have been placed into a number of clinical trial phases, past and present. Of these 12 vaccines, four candidates are up to or in phase II clinical trials, and only one has completed the phase III clinical trial stage. While remarkable progress toward a national regulatory agency-approved vaccine for Ebola virus has been made, there remain unanswered questions on issues such as, but not limited to, vaccine protective immunity and duration of that immunity, and the appropriate vaccination strategy for those at risk of Ebola virus infection.

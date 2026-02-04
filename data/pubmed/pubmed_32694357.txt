@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gout
-TITLE: Gout: Where Is the Weak Link?
-PMID: 32694357
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32694357/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In the field of rheumatic and musculoskeletal diseases, no other condition has evolved so significantly since the mid-1950s as gout. In this period, the cause of gout has been firmly established; the close relationship with other conditions clarified; a rapid, unequivocal diagnostic test established; and agents effective in dissolving monosodium urate crystals and controlling inflammation made widely available. All these insights have ultimately led to deem gout as curable, an end point formerly considered out of reach. Unfortunately, diagnosis and management of gout in clinical practice have not paralleled the scientific advances and remain far from established quality standards. This paradox is the topic of the present review article, intending to increase the widespread interest of clinicians in gout.

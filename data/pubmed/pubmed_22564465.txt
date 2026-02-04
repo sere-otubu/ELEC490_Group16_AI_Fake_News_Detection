@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22564465)
-    QUESTION: Mammographic screening in Sami speaking municipalities and a control group. Are early outcome measures influenced by ethnicity?
-    CONTEXT: Female citizens of Sami (the indigenous people of Norway) municipalities in northern Norway have a low risk of breast cancer. The objective of this study was to describe the attendance rate and outcome of the Norwegian Breast Cancer Screening Program (NBCSP) in the Sami-speaking municipalities and a control group.
-    ANSWER: Despite a lower risk of breast cancer, the Sami attended the NBCSP more frequently than the control group. The recall and cancer detection rate was lower among the Sami compared with the non-Sami group.
-    

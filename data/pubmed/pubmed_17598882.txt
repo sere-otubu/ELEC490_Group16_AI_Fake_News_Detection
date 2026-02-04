@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17598882)
-    QUESTION: Is breast cancer prognosis inherited?
-    CONTEXT: A genetic component is well established in the etiology of breast cancer. It is not well known, however, whether genetic traits also influence prognostic features of the malignant phenotype.
-    ANSWER: Breast cancer prognosis of a woman predicts the survival in her first-degree relatives with breast cancer. Our novel findings suggest that breast cancer prognosis might be inherited.
-    

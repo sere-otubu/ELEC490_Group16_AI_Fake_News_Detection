@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22668852)
-    QUESTION: Do African American women require fewer calories to maintain weight?
-    CONTEXT: The high prevalence of obesity in African American (AA) women may result, in part, from a lower resting metabolic rate (RMR) than non-AA women. If true, AA women should require fewer calories than non-AA women to maintain weight. Our objective was to determine in the setting of a controlled feeding study, if AA women required fewer calories than non-AA women to maintain weight.
-    ANSWER: These results do not support the view that AA women are at greater risk for obesity because they require fewer calories to maintain weight.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pineal gland
-TITLE: Morphological and biochemical changes in the pineal gland in pregnancy.
-PMID: 3320653
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3320653/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although systematic and detailed studies of pineal structure and function during pregnancy are rare, the available evidence indicates that morphological and biochemical changes do take place in this gland during this reproductive state. The majority of studies indicate increased activity in cytoplasmic organelles and enzymes of pinealocytes during gestation. Changes in pineal and plasma melatonin levels in pregnancy have been described in a number of species. Results of biochemical studies emphasize the existence of the feedback system which involves the gonads, the hypothalamus and the pineal gland. More ultrastructural and biochemical studies on this intriguing gland in pregnancy are fully warranted.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: HIV AIDS
-TITLE: HIV T-cell immunogen design and delivery.
-PMID: 36165078
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36165078/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Not all T-cell responses against HIV are created equally and responses of certain epitope specificities have been associated with superior control of infection. These insights have spurred the development of a wide range of immunogen sequences, each with particular advantages and limitations. We review some of the most advanced designs that have reached or are close to reaching human clinical trials, with a special focus on T-cell immunogen developed for therapeutic use. We also touch upon the importance of how immunogens are delivered and point out the lamentable fact that there is essentially no alignment between different designs and vaccine regimens, which is a major hindrance to accelerated advances in the field. The design of an immunogen able to induce T-cell responses of adequate specificity and functionality is subject of a wide range of preclinical and clinical studies. Few designs have shown promise to date, but emerging data highlight the critical contribution of specificity to effective antiviral activity in vivo .

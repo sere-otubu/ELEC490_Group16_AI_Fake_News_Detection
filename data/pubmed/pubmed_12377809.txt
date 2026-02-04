@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12377809)
-    QUESTION: Is anorectal endosonography valuable in dyschesia?
-    CONTEXT: Dyschesia can be provoked by inappropriate defecation movements. The aim of this prospective study was to demonstrate dysfunction of the anal sphincter and/or the musculus (m.) puborectalis in patients with dyschesia using anorectal endosonography.
-    ANSWER: Linear anorectal endosonography demonstrated incomplete or even absent relaxation of the anal sphincter and the m. puborectalis during a defecation movement in the majority of our patients with dyschesia. This study highlights the value of this elegant ultrasonographic technique in the diagnosis of "pelvic floor dyssynergia" or "anismus".
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Speech therapy
-TITLE: Customizable Serious Speech Therapy Games with Dynamic Difficulty Adjustment for Children with Sigmatism.
-PMID: 35673154
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35673154/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Children with speech sound disorders should attend speech and language therapy and should practice the speech exercises regularly to surpass their speech difficulties. Since doing the speech exercises often may be tedious, there is the need to motivate children to practice them. During the COVID-19 pandemic, speech and language pathologists had the need to adapt their procedures to others with less physical contact. Here, we propose two serious games to motivate children with sigmatism on doing the speech exercises, which can be used at home and during face-to-face and online speech therapy sessions. The games use automatic speech recognition to classify speech productions. Visual and auditory feedback are used to help children understand their performance, and a hint system is used to help them perform the exercises correctly. A dynamic difficulty adjustment system is used to change the level of difficulty according to the child's speech performance in previous trials.

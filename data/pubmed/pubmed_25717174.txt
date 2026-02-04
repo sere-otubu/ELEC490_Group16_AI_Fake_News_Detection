@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Atherosclerosis
-TITLE: Atherosclerosis.
-PMID: 25717174
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25717174/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Mechanistic studies over the past decades using in vitro systems, animal models, and human tissues have highlighted the complexity of pathophysiological processes of atherosclerosis. Hypercholesterolemia, as one of the major risk factors for the development and progression of atherosclerosis, is still the focus of many mechanistic studies and the major therapeutic target of atherosclerosis. Although there is a dire need to validate many experimental findings in humans, there is a large number of approaches that have been showing promise for contributing to future therapeutic strategies.

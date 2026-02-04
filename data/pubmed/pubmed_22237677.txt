@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lymphatic system
-TITLE: Modelling the lymphatic system: challenges and opportunities.
-PMID: 22237677
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22237677/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The lymphatic system is a vital part of the circulatory and immune systems, and plays an important role in homeostasis by controlling extracellular fluid volume and in combating infection. Nevertheless, there is a notable disparity in terms of research effort expended in relation to the treatment of lymphatic diseases in contrast to the cardiovascular system. While similarities to the cardiovascular system exist, there are considerable differences in their anatomy and physiology. This review outlines some of the challenges and opportunities for those engaged in modelling biological systems. The study of the lymphatic system is still in its infancy, the vast majority of the models presented in the literature to date having been developed since 2003. The number of distinct models and their variants are few in number, and only one effort has been made thus far to study the entire lymphatic network; elements of the lymphatic system such as the nodes, which act as pumps and reservoirs, have not been addressed by mathematical models. Clearly, more work will be necessary in combination with experimental verification in order to progress and update the knowledge on the function of the lymphatic system. As our knowledge and understanding of its function increase, new and more effective treatments of lymphatic diseases are bound to emerge.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pregnancy nutrition
-TITLE: Maternal and Early-Life Nutrition and Health.
-PMID: 33143058
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33143058/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nutritional challenges prior to and during gestation, lactation, and early life are known to influence the lifelong health of the infant. In this editorial, I briefly discuss the 13 articles published in this Special Issue, "Maternal and Early-Life Nutrition and Health". This Special Issue discusses topics including maternal nutrition behaviors, maternal overnutrition/obesity, maternal iron deficiency, breastfeeding, and others. This issue paves the way to better understand perinatal nutrition and how it can impact maternal and offspring health.

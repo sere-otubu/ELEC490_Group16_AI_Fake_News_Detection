@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Skin cancer prevention
-TITLE: Secondary Prevention Strategies for Nonmelanoma Skin Cancer.
-PMID: 29684233
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29684233/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Skin cancer is the most commonly diagnosed cancer in the United States and has become a major public health problem that continues to grow. Despite numerous initiatives and increased public awareness of the dangers of skin cancer, the incidence of skin cancer continues to rise worldwide. This highlights the need for a critical review of existing skin cancer prevention strategies as a means to determine where targeted efforts may improve patient outcomes. In this article, we review the published literature and evaluate secondary prevention strategies for nonmelanoma skin cancer. Specifically, we examine the existing data on the use of chemopreventive agents for nonmelanoma skin cancer primarily in immunocompetent individuals, but also in organ transplant recipients, the best-studied immunosuppressed population. We also explore investigational therapies proposed for chemoprevention of nonmelanoma skin cancers.

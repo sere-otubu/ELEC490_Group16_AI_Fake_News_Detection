@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Acupuncture
-TITLE: [Improving acupuncture research: progress, guidance, and future directions].
-PMID: 36633231
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36633231/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This paper makes an interpretation of the collection <i>Acupuncture: how to improve the evidence base</i> published by <i>BMJ & BMJ Open</i>. Studies show that the quality of randomized controlled trial (RCT) of acupuncture is low, and multivariable Meta-regression analysis fails to confirm most factors commonly believed to influence the effect of acupuncture. The methodological challenges in design and conduct of RCT in acupuncture were analyzed, and a consensus on how to design high-quality acupuncture RCT was developed. The number of acupuncture systematic reviews was huge but the evidence was underused in clinical practice and health policy, and a large number of western clinical practice guidelines recommended acupuncture therapy, but the usefulness of recommendations needed to be improved. In view of the problems in clinical research on acupuncture mentioned in this collection, combined with the analysis of the purpose of clinical research on acupuncture, perspectives, study types, as well as the relationship between evidence and clinical decision-making, a five-stage study paradigm of clinical research on acupuncture is proposed.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Bronchitis
-TITLE: Acute bronchitis: state of the art diagnosis and therapy.
-PMID: 15162593
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15162593/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In managing acute bronchitis, pneumonia or an exacerbation of underlying chronic bronchitis should be excluded. Simple bronchitis is best treated symptomatically while an exacerbation of chronic bronchitis can be treated with antibiotics. Broad spectrum antibiotics are appropriate in selected patients.

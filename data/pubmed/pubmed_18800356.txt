@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18800356)
-    QUESTION: The FOOTSTEP self-management foot care programme: are rheumatoid arthritis patients physically able to participate?
-    CONTEXT: The FOOTSTEP self-management foot care programme is a clinical and cost-effective programme for basic foot care in the elderly. The aim of this study was to determine if patients with rheumatoid arthritis (RA) would be physically able to participate.
-    ANSWER: Just over half the patients in this present cohort may be physically able to undertake some aspects of self-managed foot care, including nail clipping and filing, callus filing and daily hygiene and inspection.
-    

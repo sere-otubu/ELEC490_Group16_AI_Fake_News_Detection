@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anaerobic exercise
-TITLE: Enhancement of anaerobic glycolysis - a role of PGC-1α4 in resistance exercise.
-PMID: 35484130
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35484130/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Resistance exercise training (RET) is an effective countermeasure to sarcopenia, related frailty and metabolic disorders. Here, we show that an RET-induced increase in PGC-1α4 (an isoform of the transcriptional co-activator PGC-1α) expression not only promotes muscle hypertrophy but also enhances glycolysis, providing a rapid supply of ATP for muscle contractions. In human skeletal muscle, PGC-1α4 binds to the nuclear receptor PPARβ following RET, resulting in downstream effects on the expressions of key glycolytic genes. In myotubes, we show that PGC-1α4 overexpression increases anaerobic glycolysis in a PPARβ-dependent manner and promotes muscle glucose uptake and fat oxidation. In contrast, we found that an acute resistance exercise bout activates glycolysis in an AMPK-dependent manner. These results provide a mechanistic link between RET and improved glucose metabolism, offering an important therapeutic target to counteract aging and inactivity-induced metabolic diseases benefitting those who cannot exercise due to many reasons.

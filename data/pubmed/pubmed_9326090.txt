@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chickenpox
-TITLE: Chickenpox.
-PMID: 9326090
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9326090/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although often dismissed as a minor childhood illness, chickenpox is potentially very serious if contracted by certain vulnerable adults, pregnant women or neonates. This Update examines the course of the illness and implications for nurses.

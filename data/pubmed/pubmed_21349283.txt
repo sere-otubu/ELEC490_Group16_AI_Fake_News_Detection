@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Enzymes function
-TITLE: Activation-induced cytidine deaminase structure and functions: a species comparative view.
-PMID: 21349283
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21349283/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In the ten years since the discovery of activation-induced cytidine deaminase (AID) there has been considerable effort to understand the mechanisms behind this enzyme's ability to target and modify immunoglobulin genes leading to somatic hypermutation and class switch recombination. While the majority of research has focused on mouse and human models of AID function, work on other species, from lamprey to rabbit and sheep, has taught us much about the scope of functions of the AID mutator. This review takes a species-comparative approach to what has been learned about the AID mutator enzyme and its role in humoral immunity.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 27405146)
-    QUESTION: PREVALENCE OF THE STREPTOCOCUS AGALACTIAE IN THE PREGNANT WOMAN FROM THE AUTONOMIC CITY OF MELILLA: IS CULTURE A DETERMINANT FACTOR?
-    CONTEXT: The neonatal infection by Streptococcus group B is one of the main causes of neonatal morbi-mortality rate. For this reason a screening is made to each pregnant woman in order to detect its presence, and if it was the case, to apply an antibiotic treatment during labour. The aim of this study was to know the prevalence of this Streptococcus in the pregnant women from Melilla, as well as the differences according to culture and age.
-    ANSWER: The prevalence of vagino-rectal colonization by Streptococcus group B in the pregnant women from Melilla is within the national estimated figures, however it is different if they are from Muslim or Christian culture, being higher in the Muslim population. On one hand both prevalences are within the national statistics, and on the other hand it is observed that there is not any difference according to age.
-    

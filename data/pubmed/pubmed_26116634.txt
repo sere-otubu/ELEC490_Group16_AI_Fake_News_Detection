@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gambling addiction
-TITLE: Games in the Brain: Neural Substrates of Gambling Addiction.
-PMID: 26116634
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26116634/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-As a popular form of recreational risk taking, gambling games offer a paradigm for decision neuroscience research. As an individual behavior, gambling becomes dysfunctional in a subset of the population, with debilitating consequences. Gambling disorder has been recently reconceptualized as a "behavioral addiction" in the DSM-5, based on emerging parallels with substance use disorders. Why do some individuals undergo this transition from recreational to disordered gambling? The biomedical model of problem gambling is a "brain disorder" account that posits an underlying neurobiological abnormality. This article first delineates the neural circuitry that underpins gambling-related decision making, comprising ventral striatum, ventromedial prefrontal cortex, dopaminergic midbrain, and insula, and presents evidence for pathophysiology in this circuitry in gambling disorder. These biological dispositions become translated into clinical disorder through the effects of gambling games. This influence is better articulated in a public health approach that describes the interplay between the player and the (gambling) product. Certain forms of gambling, including electronic gambling machines, appear to be overrepresented in problem gamblers. These games harness psychological features, including variable ratio schedules, near-misses, "losses disguised as wins," and the illusion of control, which modulate the core decision-making circuitry that is perturbed in gambling disorder.

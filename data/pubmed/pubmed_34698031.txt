@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sun safety
-TITLE: Perception and Transformation.
-PMID: 34698031
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34698031/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Exposure to ultraviolet radiation increases the risk of adverse health effects, predominantly skin cancer, which is the most common cancer among Caucasians. A large number of studies have shown that most of the people are aware of this risk and that sun protection behavior is a preventative measure. Nevertheless, despite the numerous public efforts made during the last decades, a large number of people still do not comply with sun protection practices recommended for sun safety. Public discussion about sunscreen safety and the idealization of a healthy tan are existing barriers for adequate protection. Research studies should continue to examine individual sun protection behavior for the development of target-orientated interventions. This will enable individuals to formulate a correct judgment of their own susceptibility and to handle perceived barriers for sun protection with a supportive environment.

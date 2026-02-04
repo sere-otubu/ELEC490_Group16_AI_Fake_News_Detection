@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Celiac disease
-TITLE: Coeliac disease.
-PMID: 28760445
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28760445/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Coeliac disease occurs in about 1% of people in most populations. Diagnosis rates are increasing, and this seems to be due to a true rise in incidence rather than increased awareness and detection. Coeliac disease develops in genetically susceptible individuals who, in response to unknown environmental factors, develop an immune response that is subsequently triggered by the ingestion of gluten. The disease has many clinical manifestations, ranging from severe malabsorption to minimally symptomatic or non-symptomatic presentations. Diagnosis requires the presence of duodenal villous atrophy, and most patients have circulating antibodies against tissue transglutaminase; in children, European guidelines allow a diagnosis without a duodenal biopsy provided that strict symptomatic and serological criteria are met. Although a gluten-free diet is an effective treatment in most individuals, a substantial minority develop persistent or recurrent symptoms. Difficulties adhering to a gluten-free diet have led to the development of non-dietary therapies, several of which are undergoing trials in human beings.

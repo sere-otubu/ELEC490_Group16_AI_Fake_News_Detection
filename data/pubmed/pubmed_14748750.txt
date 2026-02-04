@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Peptic ulcer
-TITLE: Trends in peptic ulcer pharmacotherapy.
-PMID: 14748750
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/14748750/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Considering the diseases of the stomach and duodenum, peptic ulcer has been the one with a significant clinical impact. The pathophysiology of peptic ulcer has centred on an imbalance between aggressive and protective factors. The discovery of Helicobacter pylori as a cause of peptic ulcer has changed our approach greatly towards this disease. Despite the decreasing frequency of H. pylori-induced peptic ulcers, peptic ulcer remains a major clinical problem partly because nonsteroidal anti-inflammatory drug (NSAID)-related ulcers and hospital admissions for ulcer complications associated with NSAIDs have increased in frequency. The interaction between H. pylori and NSAIDs is one of the most controversial issues in peptic ulcer. In this article, current concepts of peptic ulcer etiopathogenesis and the management of peptic ulcer according to the etiology were reviewed.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pineal gland
-TITLE: Pineal gland dysfunction in Alzheimer's disease: relationship with the immune-pineal axis, sleep disturbance, and neurogenesis.
-PMID: 31296240
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31296240/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Alzheimer's disease (AD) is a globally common neurodegenerative disease, which is accompanied by alterations to various lifestyle patterns, such as sleep disturbance. The pineal gland is the primary endocrine organ that secretes hormones, such as melatonin, and controls the circadian rhythms. The decrease in pineal gland volume and pineal calcification leads to the reduction of melatonin production. Melatonin has been reported to have multiple roles in the central nervous system (CNS), including improving neurogenesis and synaptic plasticity, suppressing neuroinflammation, enhancing memory function, and protecting against oxidative stress. Recently, reduced pineal gland volume and pineal calcification, accompanied by cognitive decline and sleep disturbances have been observed in AD patients. Here, I review current significant evidence of the contribution of pineal dysfunction in AD to the progress of AD neuropathology. I suggest new insights to understanding the relationship between AD pathogenesis and pineal gland function.

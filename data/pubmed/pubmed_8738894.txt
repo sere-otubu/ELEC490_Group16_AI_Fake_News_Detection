@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 8738894)
-    QUESTION: Diabetes mellitus among Swedish art glass workers--an effect of arsenic exposure?
-    CONTEXT: The purpose of this study was to search for evidence of an association between occupational arsenic exposure and diabetes mellitus, as implied by the relation of this disease to arsenic in drinking water in a recent study from Taiwan.
-    ANSWER: The observations from this study provide limited support for the possibility that occupational arsenic exposure could play a role in the development of diabetes mellitus. Many other metallic compounds are also used in art glass production, however, and there is a possibility of confounding.
-    

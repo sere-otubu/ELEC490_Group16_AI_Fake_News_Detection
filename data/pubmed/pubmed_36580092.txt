@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Yoga benefits
-TITLE: [Alternative treatment strategies for atrial fibrillation : Benefits from yoga?].
-PMID: 36580092
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36580092/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Atrial fibrillation, the most common sustained cardiac arrhythmia, is associated with significant morbidity, mortality, and healthcare utilization. Since the procedures used to treat atrial fibrillation have a number of limitations and risks, there is a growing interest in alternative treatment strategies for patients with atrial fibrillation. One such option is yoga. To date, only a few studies are available on its effect on atrial fibrillation. However, these suggest that yoga may indeed be able to reduce the frequency of the arrhythmia and its progression. The risk factors for atrial fibrillation and quality of life in affected patients are also positively affected. As adverse effects and complications are extremely rare with competent guidance, yoga may already be recommended now. However, further clinical studies are needed to provide recommendations that meet evidence-based criteria.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26418441)
-    QUESTION: Can we ease the financial burden of colonoscopy?
-    CONTEXT: Polyps identified at colonoscopy are predominantly diminutive (<5 mm) with a small risk (>1%) of high-grade dysplasia or carcinoma; however, the cost of histological assessment is substantial.AIM: The aim of this study was to determine whether prediction of colonoscopy surveillance intervals based on real-time endoscopic assessment of polyp histology is accurate and cost effective.
-    ANSWER: Endoscopists within a tertiary care setting can accurately predict diminutive polyp histology and confer an appropriate surveillance interval with an associated financial benefit to the healthcare system. However, limitations to its application in the community setting exist, which may improve with further training and high-definition colonoscopes.
-    

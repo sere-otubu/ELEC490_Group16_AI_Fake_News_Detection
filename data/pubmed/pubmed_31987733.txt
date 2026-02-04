@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Female infertility
-TITLE: Human papillomavirus infection and female infertility: a systematic review and meta-analysis.
-PMID: 31987733
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31987733/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There is increasing evidence that human papillomavirus (HPV) infection affects reproductive health and fertility, although its impact on female fertility has not been thoroughly studied. MEDLINE, Embase, CENTRAL, Web of Science, CNKI, Wanfang, VIP and ClinicalTrials.gov databases were systematically searched for relevant articles. A meta-analysis was conducted of 11 studies including 15,450 female subjects that compared HPV prevalence between the infertile and general population, and evaluated the association between HPV positivity and female infertility. Seven case-control studies on 3581 participants reported indiscriminate genotype infections (high-risk/low-risk [HR/LR]-HPV), but the random effects model revealed no association between HPV infection and female infertility (odds ratio [OR] 2.13, 95% confidence interval [CI] 0.97-4.65, P = 0.06). Six studies with a total of 11,869 participants reported HR-HPV infections alone, and the pooled data showed a significant association between HR-HPV infection and female infertility (OR 2.33, 95% CI 1.42-3.83, P = 0.0008). It was concluded that HR-HPV infection is a potential risk factor of female infertility, but not an independent cause. Further prospective studies are needed to assess the exact role of HPV in female infertility.

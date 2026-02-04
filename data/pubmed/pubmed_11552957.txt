@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Substance abuse
-TITLE: Substance abuse in bipolar disorder.
-PMID: 11552957
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11552957/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-High rates of substance abuse have been reported in the general population, with males more often affected than females. Although high rates of substance abuse have also been reported in bipolar patients, the relationship between substance abuse and bipolar disorder has not been well characterized. Substance abuse histories were obtained in 392 patients hospitalized for manic or mixed episodes of bipolar disorder and rates of current and lifetime abuse calculated. Analyses comparing sex, subtype (manic vs. mixed) and clinical history variables were conducted. Rates of lifetime substance abuse were high for both alcohol (48.5%) and drugs (43.9%). Nearly 60% of the cohort had a history of some lifetime substance abuse. Males had higher rates of abuse than females, but no differences in substance abuse were observed between subjects in manic and mixed bipolar states. Rates of active substance abuse were lower in older age cohorts. Subjects with a comorbid diagnosis of lifetime substance abuse had more psychiatric hospitalizations. Substance abuse is a major comorbidity in bipolar patients. Although rates decrease in older age groups, substance abuse is still present at clinically important rates in the elderly. Bipolar patients with comorbid substance abuse may have a more severe course. These data underscore the significance of recognition and treatment of substance abuse in bipolar disorder patients.

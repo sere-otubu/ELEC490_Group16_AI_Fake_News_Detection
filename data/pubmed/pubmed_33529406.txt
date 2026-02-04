@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dialysis
-TITLE: Routine online assessment of dialysis dose: Ionic dialysance or UV-absorbance monitoring?
-PMID: 33529406
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33529406/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-For three-weekly hemodialysis, a single-pool Kt/V target of at least 1.4 together with a minimal dialysis dose Kt at 45 L for men and 40 L for women per each session is currently recommended. Fully automatic online calculation of Kt and Kt/V from conductivity or UV-absorbance measurements in the dialysate is standardly implemented on some hemodialysis monitors and makes it possible to estimate the dialysis dose without the need for blood or dialysate samples. Monitoring the UV-absorbance of the spent dialysate is the most direct method for estimating Kt/V as it does not require an estimate of V. Calculation of ionic dialysance from conductivity measurements is the most direct method for estimating Kt and BSA-scaled dialysis dose. Both ionic dialysance monitoring and UV-absorbance monitoring may help detect a change in urea clearance occurring during the session, but this change must be interpreted differently depending on the monitoring being considered. An abrupt decrease in urea clearance results in a decrease in ionic dialysance but, paradoxically, a sudden increase in estimated urea clearance provided by dialysate UV-absorbance monitoring. Healthcare teams who monitor both ionic dialysance and UV-absorbance in their hemodialysis units must be clearly informed of this difficulty.

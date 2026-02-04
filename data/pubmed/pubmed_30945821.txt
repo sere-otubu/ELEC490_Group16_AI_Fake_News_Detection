@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Psychotherapy
-TITLE: [Why psychotherapy works].
-PMID: 30945821
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30945821/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-All psychotherapies are rooted in a theory about how psychological symptoms can be changed. However, to date the scientific evidence for specific working mechanisms has been very limited. What is certain is that a good working relationship leads to a better treatment outcome. This can be attributed to the competence of the therapist, such as facilitating the expression of emotion and dealing with countertransference issues. Helping patients to gain insight into the background of their psychological symptoms, has also been identified as a working mechanism.

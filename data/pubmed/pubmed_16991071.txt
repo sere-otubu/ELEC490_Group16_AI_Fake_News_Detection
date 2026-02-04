@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 16991071)
-    QUESTION: Rotator cuff tear--an occupational disease?
-    CONTEXT: In literature there are only few data which describe the influence of occupation on the development of rotator cuff disease.
-    ANSWER: Our data suggest that working exposure increases the risk or leads to the clinical manifestation of rotator cuff tears. Although a detailed analysis of individual physical exposure is not available yet, the statistical results indicate that rotator cuff tears must be taken into consideration as a result of ergonomic exposure.
-    

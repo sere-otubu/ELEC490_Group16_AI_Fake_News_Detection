@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sexual health
-TITLE: Sexual Health Update in Women.
-PMID: 36413021
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36413021/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The Clinical Update series is intended to help busy clinicians stay up to date with recently published important and potentially practice-changing articles on topics pertinent to the care of women. In this update on sexual health, we review studies on use of vaginal dilators for vaginal stenosis in gynecologic cancer survivors, sexual dysfunction in transgender people, as well as studies evaluating the effect of physical activity and infertility on female sexual health.

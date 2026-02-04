@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Placebo effect
-TITLE: The placebo effect: the good, the bad, and the ugly.
-PMID: 24518105
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24518105/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The placebo effect is defined as any improvement of symptoms or signs following a physically inert intervention. Its effects are especially profound in relieving subjective symptoms such as pain, fatigue, and depression. Present to a variable extent in all therapeutic encounters, this effect is intensified by hands-on contact with close verbal communication between caregiver and recipient. Thus, it may be used to benefit patients but provides a ready avenue for unscrupulous "healers" of all types. Conventional medical practitioners often intervene in some way and, without knowing what caused the improvement, may claim credit for the apparent benefit. Physicians must be skeptical about apparent "responses" to treatments, using the information described herein to better understand what we are-or are not-accomplishing to provide the best possible outcomes for our patients. Less well studied, the "nocebo effect" defines negative responses to placebo interventions. This latter effect may be quite profound and likely is causative in many maladies believed to have psychic origins.

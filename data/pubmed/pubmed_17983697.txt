@@ -1,8 +1,0 @@
-SEARCH_TOPIC: GMO foods safety
-TITLE: Comparative safety assessment of plant-derived foods.
-PMID: 17983697
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17983697/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The second generation of genetically modified (GM) plants that are moving towards the market are characterized by modifications that may be more complex and traits that more often are to the benefit of the consumer. These developments will have implications for the safety assessment of the resulting plant products. In part of the cases the same crop plant can, however, also be obtained by 'conventional' breeding strategies. The breeder will decide on a case-by-case basis what will be the best strategy to reach the set target and whether genetic modification will form part of this strategy. This article discusses important aspects of the safety assessment of complex products derived from newly bred plant varieties obtained by different breeding strategies. On the basis of this overview, we conclude that the current process of the safety evaluation of GM versus conventionally bred plants is not well balanced. GM varieties are elaborately assessed, yet at the same time other crop plants resulting from conventional breeding strategies may warrant further food safety assessment for the benefit of the consumer. We propose to develop a general screening frame for all newly developed plant varieties to select varieties that cannot, on the basis of scientific criteria, be considered as safe as plant varieties that are already on the market.

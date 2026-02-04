@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Micronutrients
-TITLE: Micronutrients as immunomodulatory tools for COVID-19 management.
-PMID: 32710937
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32710937/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-COVID-19 rapidly turned to a global pandemic posing lethal threats to overwhelming health care capabilities, despite its relatively low mortality rate. The clinical respiratory symptoms include dry cough, fever, anosmia, breathing difficulties, and subsequent respiratory failure. No known cure is available for COVID-19. Apart from the anti-viral strategy, the supports of immune effectors and modulation of immunosuppressive mechanisms is the rationale immunomodulation approach in COVID-19 management. Diet and nutrition are essential for healthy immunity. However, a group of micronutrients plays a dominant role in immunomodulation. The deficiency of most nutrients increases the individual susceptibility to virus infection with a tendency for severe clinical presentation. Despite a shred of evidence, the supplementation of a single nutrient is not promising in the general population. Individuals at high-risk for specific nutrient deficiencies likely benefit from supplementation. The individual dietary and nutritional status assessments are critical for determining the comprehensive actions in COVID-19.

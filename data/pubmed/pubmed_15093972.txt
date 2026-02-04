@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Angioplasty
-TITLE: Angioplasty of the internal thoracic artery bypass-graft an alternative to reoperation.
-PMID: 15093972
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15093972/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review presents an overview of interventional revascularization procedures of the internal thoracic artery after prior implantation as a coronary-artery bypass graft. Our search was concentrated on the MEDLINE-database to identify all articles on internal thoracic artery-graft-angioplasties and reoperation after internal thoracic artery bypass grafting published between 1968 and 2000. Surgical revascularization and reoperation were reported in five papers including a total of 785 patients. The overall mortality of these patients was 4.2%. The presence of a patent internal thoracic artery-graft at the time of reoperation was not a risk factor for higher morbidity and mortality. Revascularization with percutaneous transluminal coronary angioplasty of the internal thoracic artery or the native left anterior descending artery via the internal thoracic artery-graft used as a conduit was performed in 327 patients. The primary success rate was 87%, the angiographically assessed rate of restenosis was 30% and the rate of complications approximately 1%. In spite of technical problems the percutaneous transluminal coronary angioplasty in or via internal thoracic artery-graft presents a safe and feasible option to be recognized before a potential reoperation.

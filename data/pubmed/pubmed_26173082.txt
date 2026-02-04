@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cell division mitosis
-TITLE: Splitting the cell, building the organism: Mechanisms of cell division in metazoan embryos.
-PMID: 26173082
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26173082/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The unicellular metazoan zygote undergoes a series of cell divisions that are central to its development into an embryo. Differentiation of embryonic cells leads eventually to the development of a functional adult. Fate specification of pluripotent embryonic cells occurs during the early embryonic cleavage divisions in several animals. Early development is characterized by well-known stages of embryogenesis documented across animals--morulation, blastulation, and morphogenetic processes such as gastrulation, all of which contribute to differentiation and tissue specification. Despite this broad conservation, there exist clearly discernible morphological and functional differences across early embryonic stages in metazoans. Variations in the mitotic mechanisms of early embryonic cell divisions play key roles in governing these gross differences that eventually encode developmental patterns. In this review, we discuss molecular mechanisms of both karyokinesis (nuclear division) and cytokinesis (cytoplasmic separation) during early embryonic divisions. We outline the broadly conserved molecular pathways that operate in these two stages in early embryonic mitoses. In addition, we highlight mechanistic variations in these two stages across different organisms. We finally discuss outstanding questions of interest, answers to which would illuminate the role of divergent mitotic mechanisms in shaping early animal embryogenesis.

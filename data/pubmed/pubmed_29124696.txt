@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Endocrine system
-TITLE: Psycho-Neuro-Endocrine-Immunology: A Psychobiological Concept.
-PMID: 29124696
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29124696/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Psycho-Neuro-Endocrine-Immunology (P.N.E.I.) is a scientific field of study that investigates the link between bidirectional communications among the nervous system, the endocrine system, and the immune system and the correlations of this cross-talk with physical health. The P.N.E.I. innovative medical approach represents a paradigm shift from a strictly biomedical view of health and disease taken as hermetically sealed compartments to a more interdisciplinary one. The key element of P.N.E.I. approach is represented by the concept of bidirectional cross-talk between the psychoneuroendocrine and immune systems. The Low Dose Medicine is one of the most promising approaches able to allow the researchers to design innovative therapeutic strategies for the treatment of skin diseases based on the rebalance of the immune response.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22303473)
-    QUESTION: Does a family meetings intervention prevent depression and anxiety in family caregivers of dementia patients?
-    CONTEXT: Family caregivers of dementia patients are at increased risk of developing depression or anxiety. A multi-component program designed to mobilize support of family networks demonstrated effectiveness in decreasing depressive symptoms in caregivers. However, the impact of an intervention consisting solely of family meetings on depression and anxiety has not yet been evaluated. This study examines the preventive effects of family meetings for primary caregivers of community-dwelling dementia patients.
-    ANSWER: This study did not demonstrate preventive effects of family meetings on the mental health of family caregivers. Further research should determine whether this intervention might be more beneficial if provided in a more concentrated dose, when applied for therapeutic purposes or targeted towards subgroups of caregivers.
-    

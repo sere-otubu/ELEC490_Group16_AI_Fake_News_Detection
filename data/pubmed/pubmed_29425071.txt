@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lactose intolerance
-TITLE: The effects of probiotics in lactose intolerance: A systematic review.
-PMID: 29425071
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29425071/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Over 60 percent of the human population has a reduced ability to digest lactose due to low levels of lactase enzyme activity. Probiotics are live bacteria or yeast that supplements the gastrointestinal flora. Studies have shown that probiotics exhibit various health beneficial properties such as improvement of intestinal health, enhancement of the immune responses, and reduction of serum cholesterol. Accumulating evidence has shown that probiotic bacteria in fermented and unfermented milk products can be used to alleviate the clinical symptoms of lactose intolerance (LI). In this systematic review, the effectiveness of probiotics in the treatment of LI was evaluated using 15 randomized double-blind studies. Eight probiotic strains with the greatest number of proven benefits were studied. Results showed varying degrees of efficacy but an overall positive relationship between probiotics and lactose intolerance.

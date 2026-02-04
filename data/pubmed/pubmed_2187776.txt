@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Arthroscopy
-TITLE: Complications of ankle arthroscopy.
-PMID: 2187776
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2187776/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Of over 4500 ankle arthroscopies recently surveyed by the Arthroscopy Association of North America, only one complication (an infection) was reported. Nerve injury, vascular injury, or reflex sympathetic dystrophy were not reported. The ankle's anatomy is complex and there are many structures that can be damaged by imprecise portal placement. A review of our experience with 53 consecutive ankle arthroscopies found nine complications for a rate of 17%. There were three permanent dorsal sensory nerve injuries, two synovial fistulas, three wound infections, and one reflex sympathetic dystrophy. A literature review found other reported complications to include instrument breakage, synovitis, painful scars and nodules, and fibula fracture. Complications occur with ankle arthroscopy more frequently than previously reported, and the average or beginning ankle arthroscopist should expect a higher rate of surgical complication than has been previously reported.

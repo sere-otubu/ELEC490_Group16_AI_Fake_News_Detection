@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 16538201)
-    QUESTION: Does use of hydrophilic guidewires significantly improve technical success rates of peripheral PTA?
-    CONTEXT: To determine whether the use of hydrophilic guidewires has increased the technical success rate of peripheral percutaneous transluminal angioplasty (PTA).MATERIAL/
-    ANSWER: In summary, we report an overall improvement and high technical success rate for peripherial PTA. The use of hydrophilic guidewires made significant difference to the technical success rate of PTA, especially in occlusion and more complicated lesions.
-    

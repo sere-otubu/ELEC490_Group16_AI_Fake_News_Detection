@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Digestion process
-TITLE: The digestive system: linking theory and practice.
-PMID: 9470654
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9470654/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This article, the second in the nutrition series, presents an outline of food chemistry and the digestion of energy-producing foods. It is hoped that this will facilitate understanding of some of the principles of nutrition. A number of 'clinical points' are highlighted to emphasize the link between theory and practice. The processes by which the chemical building blocks (carbon, oxygen, hydrogen and nitrogen) are formed into more complex molecules such as proteins, carbohydrates and fats are explained. The gross anatomy of the digestive system is outlined and the sites where digestive enzymes are secreted are identified. Regulation of the digestive system by endocrine secretions and the nervous system is described and tabulated.

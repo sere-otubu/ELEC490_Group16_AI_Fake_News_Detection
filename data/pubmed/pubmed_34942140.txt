@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep apnea
-TITLE: Sleep apnoea and ischaemic stroke: current knowledge and future directions.
-PMID: 34942140
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34942140/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sleep apnoea, one of the most common chronic diseases, is a risk factor for ischaemic stroke, stroke recurrence, and poor functional recovery after stroke. More than half of stroke survivors present with sleep apnoea during the acute phase after stroke, with obstructive sleep apnoea being the most common subtype. Following a stroke, sleep apnoea frequency and severity might decrease over time, but moderate to severe sleep apnoea is nevertheless present in up to a third of patients in the chronic phase after an ischaemic stroke. Over the past few decades evidence suggests that treatment for sleep apnoea is feasible during the acute phase of stroke and might favourably affect recovery and long-term outcomes. Nevertheless, sleep apnoea still remains underdiagnosed and untreated in many cases, due to challenges in the detection and prediction of post-stroke sleep apnoea, uncertainty as to the optimal timing for its diagnosis, and a scarcity of clear treatment guidelines (ie, uncertainty on when to treat and the optimal treatment strategy). Moreover, the pathophysiology of sleep apnoea associated with stroke, the proportion of stroke survivors with obstructive and central sleep apnoea, and the temporal evolution of sleep apnoea subtypes following stroke remain to be clarified. To address these shortcomings, the management of sleep apnoea associated with stroke should be integrated into a multidisciplinary diagnostic, treatment, and follow-up strategy.

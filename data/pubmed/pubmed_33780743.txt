@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Integumentary system
-TITLE: Making region-specific integumentary organs in birds: evolution and modifications.
-PMID: 33780743
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33780743/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Birds are the most diversified terrestrial vertebrates due to highly diverse integumentary organs that enable robust adaptability to various eco-spaces. Here we show that this complexity is built upon multi-level regional specifications. Across-the-body (macro-) specification includes the evolution of beaks and feathers as new integumentary organs that are formed with regional specificity. Within-an-organ (micro-) specification involves further modifications of organ shapes. We review recent progress in elucidating the molecular mechanisms underlying feather diversification as an example. (1) β-Keratin gene clusters are regulated by typical enhancers or high order chromatin looping to achieve macro- and micro-level regional specification, respectively. (2) Multi-level symmetry-breaking of feather branches confers new functional forms. (3) Complex color patterns are produced by combinations of macro-patterning and micro-patterning processes. The integration of these findings provides new insights toward the principle of making a robustly adaptive bio-interface.

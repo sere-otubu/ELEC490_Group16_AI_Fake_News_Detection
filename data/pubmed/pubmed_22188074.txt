@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22188074)
-    QUESTION: Do instrumental activities of daily living predict dementia at 1- and 2-year follow-up?
-    CONTEXT: To investigate whether problems in instrumental activities of daily living (IADL) can add to conventionally used clinical measurements in helping to predict a diagnosis of dementia at 1- and 2-year follow-up.
-    ANSWER: IADL disability is a useful addition to the diagnostic process in a memory clinic setting, indicating who is at higher risk of developing dementia at 1- and 2-year follow-up.
-    

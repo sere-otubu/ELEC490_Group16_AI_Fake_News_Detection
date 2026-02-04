@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Oral hygiene
-TITLE: The influence of professional oral hygiene care on reducing ventilator-associated pneumonia in trauma intensive care unit patients.
-PMID: 35217746
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35217746/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Aim This study aimed to examine the effects of professional oral hygiene care for the prevention of ventilator-associated pneumonia (VAP) and the improvement of oral hygiene among patients in the trauma intensive care unit (TICU).Materials and methods TICU patients who underwent intubation were randomly assigned to either the experimental group (n = 29) or control group (n = 28). The developed professional oral hygiene care protocol was administered to patients in the experimental group every 24 hours. Additionally, data regarding general characteristics, medical history, oral hygiene status, Clinical Pulmonary Infection Score and quantitative polymerase chain reaction were assessed.Results The incidence of VAP differed between the control group (10.58) and experimental group (0) post intervention. Post-admission bedside oral exam scores with significant differences in oral hygiene were observed in the experimental group (in contrast to the control group) from 48 hours onwards (10.69 ± 3.43, p = 0.06). Staphylococcus aureus and Klebsiella pneumoniae exhibited significant differences in count as professional oral hygiene care continued.Conclusions This study suggests a model in which different health care professionals can cooperate to reduce the incidence of VAP and improve oral health conditions.

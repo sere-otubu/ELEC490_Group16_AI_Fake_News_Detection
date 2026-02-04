@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Suicide prevention
-TITLE: Suicide prevention strategies in South Korea: What we have learned and the way forward.
-PMID: 39813873
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39813873/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Suicide is a serious global public health concern. South Korea has consistently reported one of the highest suicide rates among Organization for Economic Cooperation and Development countries over the past few decades. In response to the increasing suicide rate, South Korea enacted the Suicide Prevention Act in 2011, and allocated significant budget funding for implementation of various policies according to its national strategy for suicide prevention. Suicide prevention policies, such as restricting access to highly hazardous pesticides, implementing emergency room-based follow-up management programs, and adhering to safety guidelines for the media while reporting on suicide, were effective. Thereafter, the overall suicide rate and the suicide rate in older people steadily declined. However, the suicide rate among younger age groups has increased since 2017, and South Korea continues to report higher suicide rates than those of most other countries. Further research is needed to develop and implement suicide prevention strategies that address the recently changing trends.

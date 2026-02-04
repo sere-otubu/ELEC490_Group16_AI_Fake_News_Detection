@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Bipolar disorder
-TITLE: Bipolar disorder: Managing the peaks and valleys.
-PMID: 32883138
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32883138/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Bipolar disorder is a psychiatric illness that is relatively common among patients presenting for treatment in primary care clinics. Physicians in primary care often face difficult decisions about how and when to intervene when a patient is experiencing depressive, manic, or hypomanic episodes consistent with bipolar disorder. This article reviews the literature on how to assess and diagnose bipolar disorder in primary care, and how to choose from the array of treatment options that exist. The psychotherapy and pharmacotherapy evidence base provides guidance on how to help patients effectively manage this ailment. Collaboration among health and mental health practitioners is key in helping manage the "peaks and valleys" of bipolar disorder. Special considerations need to be made to routinely assess for impulsivity, suicidality, and patient progress throughout the course of treatment.

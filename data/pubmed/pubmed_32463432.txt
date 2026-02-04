@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Reproductive system
-TITLE: Reproductive system infections in women: lower genital tract syndromes.
-PMID: 32463432
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32463432/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gynecological and obstetrical infectious diseases are an important component of women's health. A system approach to gynecological and obstetrical infection helps unify and classify microbial etiology and pathogenesis within a clinical anatomical framework of lower and upper genital tract syndromes. The reproductive system of women includes the vulva, vagina, cervix, uterus, fallopian tubes and ovaries. During pregnancy, additional tissues include the chorioamnion and placenta together with the fetus and amniotic fluid. We review in two parts reproductive system infection syndromes in women using selected research results to illustrate the clinical utility of the system approach in terms of diagnosis, treatment and prevention. We conclude that a reproductive system perspective will lead to improvements in understanding, management and prevention of these diseases.

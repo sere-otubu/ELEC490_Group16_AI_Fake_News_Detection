@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18783922)
-    QUESTION: Do cytokines have any role in epilepsy?
-    CONTEXT: We analyzed cytokines levels in patients with epilepsy and new onset seizure and correlated it with various parameters.
-    ANSWER: We found increased post-ictal serum cytokine levels in patients with several epilepsy syndromes.
-    

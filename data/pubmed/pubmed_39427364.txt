@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Schizophrenia
-TITLE: Neuroscience in Pictures: 3. Schizophrenia.
-PMID: 39427364
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39427364/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Schizophrenia is a complex, heritable brain disorder characterized by psychotic, negative, cognitive, mood, and motor symptoms. This pictorial review explores the multifaceted nature of schizophrenia, from its etiology to prevention strategies. We discuss the interplay of genetic and environmental risk factors, neurobiological underpinnings, and stepwise progression. Recent advances in understanding circuit-level pathophysiology and neurotransmitter systems beyond dopamine are highlighted along with neuropathological findings, particularly the exaggerated synaptic pruning hypothesis. Based on these developments, we present an updated perspective on pharmacological interventions. Finally, we outline preventative strategies across different stages, emphasizing early intervention. This overview, designed as a teaching resource, aims to provide trainees, clinicians and researchers with a current understanding of schizophrenia's neurobiological underpinnings and the implications of such understanding to the evolving landscape of its diagnosis and management.

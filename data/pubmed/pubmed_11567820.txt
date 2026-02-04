@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 11567820)
-    QUESTION: Does increased nerve length within the treatment volume improve trigeminal neuralgia radiosurgery?
-    CONTEXT: To test the hypothesis that increasing the nerve length within the treatment volume for trigeminal neuralgia radiosurgery would improve pain relief.
-    ANSWER: Increasing the treatment volume to include a longer nerve length for trigeminal neuralgia radiosurgery does not significantly improve pain relief but may increase complications.
-    

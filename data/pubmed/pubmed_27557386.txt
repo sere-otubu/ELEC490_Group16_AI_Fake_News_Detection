@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Prostate cancer
-TITLE: Prostate cancer.
-PMID: 27557386
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27557386/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Prostate cancer is the most frequent tumor found in men worldwide and in Mexico in particular. Age and family history are the main risk factors. The diagnosis is made by prostate biopsy in patients with abnormalities detected in their prostate-specific antigen (PSA) levels or digital rectal exam (DRE). This article reviews screening and diagnostic methods as well as treatment options for patients diagnosed with prostate cancer.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19394934)
-    QUESTION: Israeli hospital preparedness for terrorism-related multiple casualty incidents: can the surge capacity and injury severity distribution be better predicted?
-    CONTEXT: The incidence of large-scale urban attacks on civilian populations has significantly increased across the globe over the past decade. These incidents often result in Hospital Multiple Casualty Incidents (HMCI), which are very challenging to hospital teams. 15 years ago the Emergency and Disaster Medicine Division in the Israeli Ministry of Health defined a key of 20 percent of each hospital's bed capacity as its readiness for multiple casualties. Half of those casualties are expected to require immediate medical treatment. This study was performed to evaluate the efficacy of the current readiness guidelines based on the epidemiology of encountered HMCIs.
-    ANSWER: Hospital preparedness can be better defined by a fixed number of casualties rather than a percentile of its bed capacity. Only 20% of the arriving casualties will require immediate medical treatment. Implementation of this concept may improve the utilisation of national emergency health resources both in the preparation phase and on real time.
-    

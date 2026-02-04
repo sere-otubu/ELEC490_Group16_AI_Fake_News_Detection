@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hearing loss
-TITLE: Sudden sensorineural hearing loss: a review of diagnosis, treatment, and prognosis.
-PMID: 21606048
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21606048/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sudden sensorineural hearing loss (SSNHL) is commonly encountered in audiologic and otolaryngologic practice. SSNHL is most commonly defined as sensorineural hearing loss of 30 dB or greater over at least three contiguous audiometric frequencies occurring within a 72-hr period. Although the differential for SSNHL is vast, for the majority of patients an etiologic factor is not identified. Treatment for SSNHL of known etiology is directed toward that agent, with poor hearing outcomes characteristic for discoverable etiologies that cause inner ear hair cell loss. Steroid therapy is the current mainstay of treatment of idiopathic SSNHL in the United States. The prognosis for hearing recovery for idiopathic SSNHL is dependent on a number of factors including the severity of hearing loss, age, presence of vertigo, and shape of the audiogram.

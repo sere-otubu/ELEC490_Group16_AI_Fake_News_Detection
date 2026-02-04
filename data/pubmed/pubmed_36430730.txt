@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Prostate cancer
-TITLE: Complexities of Prostate Cancer.
-PMID: 36430730
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36430730/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Prostate cancer has a long disease history and a wide variety and uncertainty in individual patients' clinical progress. In recent years, we have seen a revolutionary advance in both prostate cancer patient care and in the research field. The power of deep sequencing has provided cistromic and transcriptomic knowledge of prostate cancer that has not discovered before. Our understanding of prostate cancer biology, from bedside and molecular imaging techniques, has also been greatly advanced. It is important that our current theragnostic schemes, including our diagnostic modalities, therapeutic responses, and the drugs available to target non-AR signaling should be improved. This review article discusses the current progress in the understanding of prostate cancer biology and the recent advances in diagnostic and therapeutic strategies.

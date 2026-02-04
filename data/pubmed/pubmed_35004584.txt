@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Air pollution health effects
-TITLE: Population Health Effects of Air Pollution: Fresh Evidence From China Health and Retirement Longitudinal Survey.
-PMID: 35004584
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35004584/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The effects of air pollution on population health are currently a hot topic. However, few studies have examined the physical and mental health effects of air pollution jointly in China. Using data from the China Health and Retirement Longitudinal Study (CHARLS) in 2015 and 2018, this study explores how air pollution affects the physical and mental health of middle-aged and elderly residents. The empirical results highlight that air pollution can negatively affect both physical and mental health. In terms of physical health, those exposed to chronic shock are likely to suffer more adverse effects from air pollution than those exposed to acute shock. In terms of mental health, those exposed to depression suffer greater adverse effects than those exposed to episodic memory and mental cognition. Besides, heterogeneity analysis also shows that air pollution affects the mental and physical health of males more than females. Furthermore, the increase in air pollution is expected to result in huge hospitalization costs. Therefore, the Chinese government should formulate differentiated public health policies to reduce the effects of air pollution on the health of middle-aged and elderly residents.

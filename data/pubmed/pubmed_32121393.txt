@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antivirals
-TITLE: Antivirals against Chikungunya Virus: Is the Solution in Nature?
-PMID: 32121393
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32121393/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The worldwide outbreaks of the chikungunya virus (CHIKV) in the last years demonstrated the need for studies to screen antivirals against CHIKV. The virus was first isolated in Tanzania in 1952 and was responsible for outbreaks in Africa and Southwest Asia in subsequent years. Between 2007 and 2014, some cases were documented in Europe and America. The infection is associated with low rates of death; however, it can progress to a chronic disease characterized by severe arthralgias in infected patients. This infection is also associated with Guillain-Barré syndrome. There is no specific antivirus against CHIKV. Treatment of infected patients is palliative and based on analgesics and non-steroidal anti-inflammatory drugs to reduce arthralgias. Several natural molecules have been described as antiviruses against viruses such as dengue, yellow fever, hepatitis C, and influenza. This review aims to summarize the natural compounds that have demonstrated antiviral activity against chikungunya virus in vitro.

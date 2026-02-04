@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Digestive system
-TITLE: Digestive system involvement in cystic fibrosis.
-PMID: 12119999
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12119999/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cystic fibrosis is a hereditary disease well known to paediatricians. Over recent years, its prevalence among the adult population has dramatically increased; thus becoming a disease increasingly seen in adult practice. Cystic fibrosis is a multi-organ disease, with a wide spectrum of clinical manifestations involving many organs. The aim of this article is to review the digestive system manifestations of this disease: the involvement of the gastrointestinal tract, liver, biliary system and pancreas, with a special emphasis on the adult population.

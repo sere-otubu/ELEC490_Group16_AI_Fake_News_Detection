@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Multivitamins
-TITLE: Iodine content of frequently used prenatal and adult multivitamins in Switzerland.
-PMID: 36407304
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36407304/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Iodine is essential for the biosynthesis of thyroid hormones, which are crucial for intrauterine growth and fetal neurocognitive development. Iodine requirements increase during pregnancy and lactation. The World Health Organization and the Swiss Confederation recommend a total daily iodine intake of 250 µg of iodine during preconception, pregnancy and lactation. To assure this goal, several professional organizations recommend complementing the nutritional iodine intake with supplements containing 150 μg of iodine daily. Prenatal and adult multivitamins widely available in Switzerland were compiled to determine their iodine content. Obstetricians verified that the list includes the most frequently prescribed supplements in Switzerland. A total of 44 adult multivitamin supplements were identified, 23 of which are specifically intended for women planning pregnancy, pregnant, or breastfeeding. Seven out of 23 (30.4%) prenatal multivitamins products, and 12/21 (57.1%) adult multivitamins contained no iodine. Among all the products, only 18/44 (40.9%) contain 150 µg of iodine or more. Several widely used products contain no or insufficient amounts (<150 ug) of iodine. Providers need to be informed about the variability in iodine content of supplements and established recommendations, and manufacturers of prenatal supplements should assure that their products contain iodine in adequate amounts.

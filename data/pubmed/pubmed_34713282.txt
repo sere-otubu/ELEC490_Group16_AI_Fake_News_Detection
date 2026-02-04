@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Parkinsons disease
-TITLE: The initial diagnosis and management of Parkinson's disease.
-PMID: 34713282
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34713282/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Parkinson's disease is a common, progressive neurodegenerative disorder, the prevalence of which is on the rise. The diagnosis and management of Parkinson's disease is therefore likely to become increasingly frequent in general practice. The aim of this article is to provide a practical overview for the general practitioner of the initial diagnosis and management of Parkinson's disease. Parkinson's disease is a multisystem disorder, and the way the diagnosis is delivered, as well as the early management, can have a lasting impact on the patient experience. In this article, the authors present their preferred approach to diagnosis and initial treatment, while highlighting common pitfalls and some useful simple strategies for communicating the diagnosis.

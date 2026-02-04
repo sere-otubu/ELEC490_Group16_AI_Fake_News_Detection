@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anesthesia types
-TITLE: [Ambulatory surgery and anaesthesia].
-PMID: 20379337
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20379337/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Most surgical procedures in Norway are performed on an ambulatory basis. Many types of health professionals are involved and need training in how to handle these patients. The paper reviews important aspects of handling ambulatory surgical patients. The authors' research, clinical experience from ambulatory anaesthesiology and literature identified through a non-systematic search in Medline and EMBASE form the basis for the article. With the advent of modern techniques, anaesthesia is no longer a limiting factor for whether surgery can be performed on an ambulatory basis or not. The decision to hospitalize a patient after elective surgery is based on limitations in the patient's general health, daily functioning and psychosocial status or the type of surgical procedure planned. When assessing whether surgery can be elective or not it is valuable to consider the entire treatment chain and ask the following questions: Can this patient who has undergone this procedure be expected to cope with transport and staying at home or in a hotel the same day as the operation, when escorted by an adult until the next day? - and is it safe? To ensure good planning and performance, it is important that the anaesthetist has access to up-to-date information on planned surgical procedures, the patient's general health, use of medication, allergies and level of daily functioning.

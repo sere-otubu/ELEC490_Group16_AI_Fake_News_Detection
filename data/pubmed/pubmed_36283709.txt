@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Knee replacement
-TITLE: Obesity alone should not rule out knee replacement surgery.
-PMID: 36283709
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36283709/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The studyEvans JT, Mouchti S, Blom AW, et al. Obesity and revision surgery, mortality, and patient-reported outcomes after primary knee replacement surgery in the National Joint Registry: a UK cohort study. <i>PLoS Med</i> 2021;18:7.

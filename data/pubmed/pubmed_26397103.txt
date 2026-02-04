@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Celiac disease
-TITLE: [Coeliac disease and dentistry].
-PMID: 26397103
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26397103/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Coeliac disease is a chronic autoimmune enteropathy, which is caused by exposure to dietary gluten in genetically pre-disposed individuals. -Approximately 0.5-1% of the Dutch population has coeliac disease, diag-nosed at both younger and older age. Treatment consists of a strict gluten-free diet. Symptoms can be diverse, including dental and oral manifestations. These dental and oral manifestations are often seen in patients with coeliac disease, although most of them are nonspecific. This is not the case for the symmetric enamel defects described by Aine and colleagues, which are very specific for coeliac disease. Early diagnosing of coeliac disease is important to prevent complications by (vitamin) deficiencies or rare (pre) malignant forms of coeliac disease. There seems to be a role for dentists in early diagnosing of coeliac disease.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lactose intolerance
-TITLE: Lactose intolerance.
-PMID: 26715083
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26715083/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Lactose is the main carbohydrate in infant feeding, but its impact decreases as the child gets older and consumes less milk and dairy products. Congenital lactose intolerance is a very rare condition. However, lactase activity may be low and need to mature during the first weeks of life in many infants. However, the evidence that unabsorbed lactose is causing infantile crying and colic is contradictory. Unabsorbed lactose has a bifidogenic effect and improves calcium absorption. Lactose malabsorption may occur secondary and thus temporally to other etiologies such as infectious gastroenteritis, cow's milk allergy and celiac disease. One the cause is treated, lactase activity will gradually return to normal. The vast majority of Asian children will develop late onset congenital lactase deficiency. However, this entity only exceptionally causes symptoms before the age of 4-5 years. Symptoms are abdominal cramps, flatulence and watery, acid stools, and decrease the quality of life but lactose intolerance is not associated with "true disease". The diagnosis is made on clinical grounds and confirmed with a lactose breath test, if needed. These patients need to have a lifetime long reduced lactose intake to improve their quality of life.

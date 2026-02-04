@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chronic kidney disease
-TITLE: Fatigue in Patients with Chronic Kidney Disease: Evidence and Measures.
-PMID: 29160968
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29160968/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-As many as 70% to 97% of individuals with chronic kidney disease (CKD) report fatigue. Fatigue is one of the common, troubling symptoms that affects one's quality of life. This narrative review summarizes the evidence and gaps about the epidemiology, causative factors, and assessment of fatigue in individuals with CKD. Most studies are focused on the hemodialysis population, with very few focused on the peritoneal dialysis and transplant populations in which fatigue is also prevalent. Understanding fatigue and its correlates can help in assessing fatigue and in implementing interventions to alleviate fatigue.

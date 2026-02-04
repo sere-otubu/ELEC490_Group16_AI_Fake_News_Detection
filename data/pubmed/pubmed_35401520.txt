@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Leukemia
-TITLE: Leukemia's Next Top Model? Syngeneic Models to Advance Adoptive Cellular Therapy.
-PMID: 35401520
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35401520/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In recent years, there has been an emphasis on harnessing the immune system for therapeutic interventions. Adoptive cell therapies (ACT) have emerged as an effective option for B-cell derived hematological malignancies. Despite remarkable successes with ACT, immune dysregulation and the leukemia microenvironment can critically alter clinical responses. Therefore, preclinical modeling can contribute to the advancement of ACT for leukemias. Human xenografts, the current mainstay of ACT <i>in vivo</i> models, cannot evaluate the impact of the immunosuppressive leukemia microenvironment on adoptively transferred cells. Syngeneic mouse models utilize murine tumor models and implant them into immunocompetent mice. This provides an alternative model, reducing the need for complicated breeding strategies while maintaining a matched immune system, stromal compartment, and leukemia burden. Syngeneic models that evaluate ACT have analyzed the complexity of cytotoxic T lymphocytes, T cell receptor transgenics, and chimeric antigen receptors. This review examines the immunosuppressive features of the leukemia microenvironment, discusses how preclinical modeling helps predict ACT associated toxicities and dysfunction, and explores publications that have employed syngeneic modeling in ACT studies for the improvement of therapy for leukemias.

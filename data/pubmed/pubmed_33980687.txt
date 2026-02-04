@@ -1,8 +1,0 @@
-SEARCH_TOPIC: COVID-19
-TITLE: Tools and Techniques for Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)/COVID-19 Detection.
-PMID: 33980687
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33980687/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The coronavirus disease 2019 (COVID-19) pandemic, caused by severe acute respiratory disease coronavirus 2 (SARS-CoV-2), has led to millions of confirmed cases and deaths worldwide. Efficient diagnostic tools are in high demand, as rapid and large-scale testing plays a pivotal role in patient management and decelerating disease spread. This paper reviews current technologies used to detect SARS-CoV-2 in clinical laboratories as well as advances made for molecular, antigen-based, and immunological point-of-care testing, including recent developments in sensor and biosensor devices. The importance of the timing and type of specimen collection is discussed, along with factors such as disease prevalence, setting, and methods. Details of the mechanisms of action of the various methodologies are presented, along with their application span and known performance characteristics. Diagnostic imaging techniques and biomarkers are also covered, with an emphasis on their use for assessing COVID-19 or monitoring disease severity or complications. While the SARS-CoV-2 literature is rapidly evolving, this review highlights topics of interest that have occurred during the pandemic and the lessons learned throughout. Exploring a broad armamentarium of techniques for detecting SARS-CoV-2 will ensure continued diagnostic support for clinicians, public health, and infection prevention and control for this pandemic and provide advice for future pandemic preparedness.

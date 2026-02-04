@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23495128)
-    QUESTION: The colour of pain: can patients use colour to describe osteoarthritis pain?
-    CONTEXT: The aim of the present study was to explore patients' views on the acceptability and feasibility of using colour to describe osteoarthritis (OA) pain, and whether colour could be used to communicate pain to healthcare professionals.
-    ANSWER: For some patients, using colour to describe their pain experience may be a useful tool to improve doctor-patient communication.
-    

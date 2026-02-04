@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Endocrine system
-TITLE: Impact of Chemical Endocrine Disruptors and Hormone Modulators on the Endocrine System.
-PMID: 35628520
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35628520/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There is growing concern regarding the health and safety issues of endocrine-disrupting chemicals (EDCs). Long-term exposure to EDCs has alarming adverse health effects through both hormone-direct and hormone-indirect pathways. Non-chemical agents, including physical agents such as artificial light, radiation, temperature, and stress exposure, are currently poorly investigated, even though they can seriously affect the endocrine system, by modulation of hormonal action. Several mechanisms have been suggested to explain the interference of EDCs with hormonal activity. However, difficulty in quantifying the exposure, low standardization of studies, and the presence of confounding factors do not allow the establishment of a causal relationship between endocrine disorders and exposure to specific toxic agents. In this review, we focus on recent findings on the effects of EDCs and hormone system modulators on the endocrine system, including the thyroid, parathyroid glands, adrenal steroidogenesis, beta-cell function, and male and female reproductive function.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Red blood cells
-TITLE: Utilization and quality of cryopreserved red blood cells in transfusion medicine.
-PMID: 25471135
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25471135/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cryopreserved (frozen) red blood cells have been used in transfusion medicine since the Vietnam war. The main method to freeze the red blood cells is by usage of glycerol. Although the usage of cryopreserved red blood cells was promising due to the prolonged storage time and the limited cellular deterioration at subzero temperatures, its usage have been hampered due to the more complex and labour intensive procedure and the limited shelf life of thawed products. Since the FDA approval of a closed (de) glycerolization procedure in 2002, allowing a prolonged postthaw storage of red blood cells up to 21 days at 2-6°C, cryopreserved red blood cells have become a more utilized blood product. Currently, cryopreserved red blood cells are mainly used in military operations and to stock red blood cells with rare phenotypes. Yet, cryopreserved red blood cells could also be useful to replenish temporary blood shortages, to prolong storage time before autologous transfusion and for IgA-deficient patients. This review describes the main methods to cryopreserve red blood cells, explores the quality of this blood product and highlights clinical settings in which cryopreserved red blood cells are or could be utilized.

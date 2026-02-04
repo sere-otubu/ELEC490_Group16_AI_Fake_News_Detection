@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Inflammation mechanism
-TITLE: Current Understanding of the Molecular Mechanism between Hemodynamic- Induced Intracranial Aneurysm and Inflammation.
-PMID: 31060483
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31060483/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Intracranial aneurysms (IA) are a huge threat to human health, with a global incidence rate of 0.65-8.4%. Although the microsurgical and interventional techniques have made profound progression in treating IA, the relatively high rate of complications and recurrence are still not satisfactory. Thus, there is a need to elucidate its molecular mechanism. Numerous studies have identified the close relationship between hemodynamic-induced inflammation and development of IA. Indeed, the dysfunction of endothelial cells, smooth muscle cells, macrophages and lymphocytes, as well as their secreted cytokines, collectively contribute to the formation, growth and rupture of IA. Furthermore, the immune system has also been identified to participate in the development of IA. This review will explore the mechanisms of various inflammatory cells and significant cytokines, providing a new perspective in the clinical treatment of IA.

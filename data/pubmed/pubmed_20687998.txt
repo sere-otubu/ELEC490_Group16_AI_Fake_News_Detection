@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ADHD
-TITLE: [Attention deficit hyperactivity disorder (ADHD) in children: neurobiological aspects, diagnosis and therapeutic approach].
-PMID: 20687998
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20687998/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The attention deficit hyperactivity disorder (ADHD) is usually associated to child development, presenting a strong neurobiological influence and being, thus, mostly common in childhood. This disorder is characterized by a persistent pattern of lack of attention and/or by hyperactivity and impulsivity. To conduct a systematic literature review on ADHD in children, focusing neurobiological aspects, diagnosis and therapeutic approaches. This is a literature review about ADHD in childhood, from 1994 through 2008. The neurobiological mechanisms that participate in ADHD are complex, involving the dopaminergic, noradrenergic and serotonergic systems. The diagnosis of ADHD must be based on the clinical behavior, since there is no biological marker defined. Metilfenidate is the main drug used for children's treatment. The search for relief of ADHD symptoms ought to be based on organic treatments, other specific treatments using medications or neurofeedbacks, as well as behavior therapies.

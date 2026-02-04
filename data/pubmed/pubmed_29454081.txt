@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Preventive medicine
-TITLE: Do preventive medicine physicians practice medicine?
-PMID: 29454081
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29454081/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-As some preventive medicine physicians have been denied medical licenses for not engaging in direct patient care, this paper attempts to answer the question, "Do preventive medicine physicians practice medicine?" by exploring the requirements of licensure, the definition of "practice" in the context of modern medicine, and by comparing the specialty of preventive medicine to other specialties which should invite similar scrutiny. The authors could find no explicit licensure requirement for either a certain amount of time in patient care or a number of patients seen. No physicians board certified in Public Health and General Preventive Medicine sit on any state medical boards. The authors propose that state medical boards accept a broad standard of medical practice, which includes the practice of preventive medicine specialists, for licensing purposes.

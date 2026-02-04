@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Body composition
-TITLE: Body composition in clinical practice.
-PMID: 26971404
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26971404/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nutritional status is the results of nutrients intake, absorption and utilization, able to influence physiological and pathological conditions. Nutritional status can be measured for individuals with different techniques, such as CT Body Composition, quantitative Magnetic Resonance Imaging, Ultrasound, Dual-Energy X-Ray Absorptiometry and Bioimpendance. Because obesity is becoming a worldwide epidemic, there is an increasing interest in the study of body composition to monitor conditions and delay in development of obesity-related diseases. The emergence of these evidence demonstrates the need of standard assessment of nutritional status based on body weight changes, playing an important role in several clinical setting, such as in quantitative measurement of tissues and their fluctuations in body composition, in survival rate, in pathologic condition and illnesses. Since body mass index has been shown to be an imprecise measurement of fat-free and fat mass, body cell mass and fluids, providing no information if weight changes, consequently there is the need to find a better way to evaluate body composition, in order to assess fat-free and fat mass with weight gain and loss, and during ageing. Monitoring body composition can be very useful for nutritional and medical interventional. This review is focused on the use of Body Composition in Clinical Practice.

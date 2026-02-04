@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22680064)
-    QUESTION: Can third trimester ultrasound predict the presentation of the first twin at delivery?
-    CONTEXT: To determine the ability of early sonogram to predict the presentation of twin A at birth.
-    ANSWER: The presentation of the first twin at delivery can be determined by sonogram by the 32nd week of gestation in over 90% of twin pregnancies.
-    

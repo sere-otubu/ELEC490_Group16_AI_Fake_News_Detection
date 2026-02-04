@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Postpartum depression
-TITLE: Pathophysiological mechanisms implicated in postpartum depression.
-PMID: 30552910
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30552910/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review aims to summarize the diverse proposed pathophysiological mechanisms contributing to postpartum depression, highlighting both clinical and basic science research findings. The risk factors for developing postpartum depression are discussed, which may provide insight into potential neurobiological underpinnings. The evidence supporting a role for neuroendocrine changes, neuroinflammation, neurotransmitter alterations, circuit dysfunction, and the involvement of genetics and epigenetics in the pathophysiology of postpartum depression are discussed. This review integrates clinical and preclinical findings and highlights the diversity in the patient population, in which numerous pathophysiological changes may contribute to this disorder. Finally, we attempt to integrate these findings to understand how diverse neurobiological changes may contribute to a common pathological phenotype. This review is meant to serve as a comprehensive resource reviewing the proposed pathophysiological mechanisms underlying postpartum depression.

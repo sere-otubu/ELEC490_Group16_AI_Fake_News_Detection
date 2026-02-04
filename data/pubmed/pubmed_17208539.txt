@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17208539)
-    QUESTION: Are the long-term results of the transanal pull-through equal to those of the transabdominal pull-through?
-    CONTEXT: The transanal endorectal pull-through (TERPT) is becoming the most popular procedure in the treatment of Hirschsprung disease (HD), but overstretching of the anal sphincters remains a critical issue that may impact the continence. This study examined the long-term outcome of TERPT versus conventional transabdominal (ABD) pull-through for HD.
-    ANSWER: Our long-term study showed significantly better (2-fold) results regarding the continence score for the abdominal approach compared with the transanal pull-through. The stool pattern and enterocolitis scores were somewhat better for the TERPT group. These findings raise an important issue about the current surgical management of HD; however, more cases will need to be studied before a definitive conclusion can be drawn.
-    

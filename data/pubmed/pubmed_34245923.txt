@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hysterectomy
-TITLE: [Hysterectomy: Practices evolution between 2009 and 2019 in France].
-PMID: 34245923
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34245923/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hysterectomy is the most common procedure in women. We wanted to make an assessment of the hysterectomy in France in 2019. We also assessed the variations over time in the indications and the surgical approch for hysterectomy, this with regard to the various events that may have been at the origin of the modification practices. We used the Medical Information Systems Program in Medicine, Surgery, Obstetrics and Dentistry to extract all acts relating to a hysterectomy regardless of its route of approach from 2009 to 2019. Hysterectomy is a frequent procedure which was performed in nearly 60,000 women in France in 2019. The most frequently used surgical approach is now laparoscopy, performed in 30% of hysterectomies, followed by laparotomic (29%), then vaginal approaches (26%) and coelio-vaginal (15%). Laparoscopic procedures are performed more often in public than private hospitals. Adnexectomy is associated with 41% of hysterectomies. A decrease in the number of hysterectomies was observed between 2008 and 2019, from approximately 72,000 in 2008 to approximately 60,000 in 2019. This decrease occurs during a period in which new therapies have emerged as well as new recommendations. The evolution of the number of hysterectomies is correlated with the development of therapeutic alternatives for pathologies for which a hysterectomy has traditionally been performed.

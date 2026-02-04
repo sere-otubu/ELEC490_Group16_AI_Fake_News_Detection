@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23177368)
-    QUESTION: Does immediate breast reconstruction compromise the delivery of adjuvant chemotherapy?
-    CONTEXT: Immediate breast reconstruction (IBR) provides psychological benefit to many early breast cancer patients however concerns persist regarding its potential impact on chemotherapy delivery. We investigated the association between IBR, complications and adjuvant chemotherapy delivery.
-    ANSWER: We found no evidence that IBR compromised the delivery of adjuvant chemotherapy, although there was a significant incidence of implant infection.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood tests interpretation
-TITLE: Avian Hematology.
-PMID: 26297411
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26297411/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Avian veterinarians often rely heavily on the results of various diagnostic tests, including hematology results. As such, cellular identification and evaluation of the cellular response are invaluable tools that help veterinarians understand the health or condition of their patient, as well as to monitor severity and clinical progression of disease and response to treatment. Therefore, it is important to thoroughly understand how to identify and evaluate changes in the avian erythron and leukon, as well as to interpret normal and abnormal results.

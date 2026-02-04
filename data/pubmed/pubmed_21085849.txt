@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Surgery preparation
-TITLE: [Cutaneous surgery workshop].
-PMID: 21085849
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21085849/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The training of physician request knowledge, skills and attitudes for the effective exercise of professional practice. The training of basic surgical techniques, used in outpatient procedures, will prepare students to work in different scenarios. This work presents a proposal for teaching through workshops for cutaneous surgery in an experimental model.

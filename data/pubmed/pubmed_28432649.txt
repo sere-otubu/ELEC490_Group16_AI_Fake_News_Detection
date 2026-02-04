@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Psoriasis
-TITLE: Psoriasis, Depression, and Inflammatory Overlap: A Review.
-PMID: 28432649
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28432649/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Psoriasis has an enormous impact on patients' lives and is frequently associated with depression. Depression in psoriasis may be attributed, at least in part, to elevated proinflammatory cytokines rather than the psychosocial impact of psoriasis itself. Biologics that target inflammatory cytokines treat the clinical manifestations of psoriasis, but may also play a role in reducing associated depression. Multiple biologics have decreased symptoms of depression during clinical trials in psoriasis; however, these studies used a variety of depression screening tools, which limits comparison. Furthermore, it is difficult to distinguish whether improved depression is the result of the direct anti-inflammatory effect of the biologic, or the indirect effect of improved psoriasis leading to better psychological status. Future studies evaluating depression in patients with psoriasis could benefit from a standardized depression screening tool to mitigate discrepancies and facilitate comparison across treatment types. Here, we highlight the inflammatory overlap between psoriasis and depression by examining the pathophysiology of depression, and reviewing psoriasis clinical studies that assessed depression as an outcome measure.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Macular degeneration
-TITLE: Age-Related Macular Degeneration: Role of Oxidative Stress and Blood Vessels.
-PMID: 33525498
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33525498/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Age-related macular degeneration (AMD) is a common irreversible ocular disease characterized by vision impairment among older people. Many risk factors are related to AMD and interact with each other in its pathogenesis. Notably, oxidative stress and choroidal vascular dysfunction were suggested to be critically involved in AMD pathogenesis. In this review, we give an overview on the factors contributing to the pathophysiology of this multifactorial disease and discuss the role of reactive oxygen species and vascular function in more detail. Moreover, we give an overview on therapeutic strategies for patients suffering from AMD.

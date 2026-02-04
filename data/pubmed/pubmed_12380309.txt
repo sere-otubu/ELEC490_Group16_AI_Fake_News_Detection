@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12380309)
-    QUESTION: Should circumcision be performed in childhood?
-    CONTEXT: To evaluate prepuce development and retractibility in a group of boys. To point out the value of circumcision and prepucial forced dilation during childhood.
-    ANSWER: Incomplete separation between prepuce and glans penis is normal and common among new-borns, progressing until adolescence to spontaneous separation, at which time it is complete in the majority of boys. Accordingly to the criteria we have sustained for years and present study's findings, circumcision has few indications during childhood, as well as forced prepucial dilation.
-    

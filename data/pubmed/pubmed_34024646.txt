@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Corticosteroids
-TITLE: [Strategies for prescription of inhaled corticosteroids in mild-to-moderate asthma].
-PMID: 34024646
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34024646/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Asthma is a common respiratory condition characterized by chronic inflammation of the airways. Most asthmatics have a mild-to-moderate form of the disease, but are still at risk of severe exacerbations and significantly impaired quality of life. This article reviews the strategies for prescription of inhaled corticosteroids in patients with mild-to-moderate asthma. The definition of asthma severity, the goals of asthma management and the adjustment of therapeutics are successively addressed. The major changes proposed by the GINA group in 2019 are also discussed.

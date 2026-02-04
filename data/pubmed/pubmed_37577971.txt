@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Self harm
-TITLE: Self-harm behaviors and their intentions: a cross-cultural analysis.
-PMID: 37577971
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37577971/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Self-harm behaviors (performed with either lethal and non-lethal intentions) are common, especially among individuals suffering from mood disorders, and the reasons individuals self-harm vary both by person and by the type of behavior. Understanding these variations may help clinicians determine levels of risk more accurately. To understand whether culture and gender are associated with the likelihood of engaging in specific self-harm behaviors and whether the intention (lethal, ambivalent, non-lethal) of these behaviors vary with culture and gender. 2826 individuals took part in an international multilingual online depression/suicidality screening study and reported at least one instance of self-harm in the past year. Participants were grouped into six broad cultural categories (Latin America, South Asia, Russian, Western English, Chinese, Arab). 3-way (culture x gender x intent) interactions were observed for several self-harm behaviors (overdosing, self-burning, asphyxiating, poisoning, and jumping from heights), suggesting that individuals engage in each of these behaviors with different intentions depending on gender and culture. Cultures and genders likewise differed in the likelihood of engaging in several self-harm behaviors. Clinicians should consider culture and gender when assessing for suicide risk, as similar self-harming behaviors may reflect different intentions depending on an individual's culture and gender.

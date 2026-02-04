@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23412195)
-    QUESTION: Should displaced midshaft clavicular fractures be treated surgically?
-    CONTEXT: This study was designed to compare clinical effectiveness of operative with nonoperative treatment for displaced midshaft clavicular fractures (DMCF).
-    ANSWER: The available evidence suggests that the operative treatment for DMCF is associated with a lower rate of nonunion, malunion and complication than nonoperative treatment. This study supports traditional primary operative treatment for DMCF in active adults.
-    

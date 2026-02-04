@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Varicose veins
-TITLE: Current management of varicose veins.
-PMID: 18444346
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18444346/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There has been an increasing trend towards less invasive methods of treating varicose veins, e.g. foam sclerotherapy, radiofrequency ablation and endovenous laser ablation, which has led many to question the more conventional methods of treating varicose veins. This review focuses on current techniques of managing varicose veins.

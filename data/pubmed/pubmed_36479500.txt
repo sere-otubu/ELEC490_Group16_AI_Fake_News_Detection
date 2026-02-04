@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mediterranean diet
-TITLE: Effects of the Mediterranean diet on the components of metabolic syndrome.
-PMID: 36479500
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36479500/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Metabolic syndrome, also as known as Syndrome X or Insulin Resistance Syndrome, is a complex health problem featuring visceral obesity (the main diagnostic criterion), insulin resistance, dyslipidemia and high blood pressure. Currently, this health condition has gained a momentum globally while raising concerns among health-related communities. The World Health Organization, American Heart Association and International Diabetes Federation have formulated diagnostic criteria for metabolic syndrome. Diet and nutrition can influence this syndrome: for example, the Western diet is associated with increased risk of metabolic syndrome, whereas the Nordic and Mediterranean diets and the Dietary Approach to Stop Hypertension are potentially beneficial. The Mediterranean diet can affect the components of metabolic syndrome due to its high dietary fiber, omega 3 and 9 fatty acids, complex carbohydrates, antioxidants, minerals, vitamins and bioactive substances, such as polyphenols. These nutrients and bioactive substances can combat obesity, dyslipidemia, hypertension and diabetes mellitus. The mechanisms by which they do so are generally related to oxidative stress, inflammation (the most common risk factors for metabolic syndrome) and gastrointestinal function. The literature also shows examples of positive effects of the Mediterranean diet on the metabolic syndrome. In this review of the literature, we shed light on the effects, mechanisms and dynamic relationship between the Mediterranean diet and metabolic syndrome.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 9347843)
-    QUESTION: Laparoscopic-assisted ileocolic resections in patients with Crohn's disease: are abscesses, phlegmons, or recurrent disease contraindications?
-    CONTEXT: Because of the inflammatory nature of Crohn's disease, ileocolic resections are often difficult to perform, especially if an abscess, phlegmon, or recurrent disease at a previous ileocolic anastomosis is present. Our goal was to determine whether the above factors are contraindications to a successful laparoscopic-assisted ileocolic resection.
-    ANSWER: The laparoscopic-assisted approach to Crohn's disease is feasible and safe with good outcomes. Co-morbid preoperative findings such as abscess, phlegmon, or recurrent disease at the previous ileocolic anastomosis are not contraindications to a successful laparoscopic-assisted ileocolic resection in select patients.
-    

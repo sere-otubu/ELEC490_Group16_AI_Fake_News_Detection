@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lymphatic system
-TITLE: Lymphosome concept: Anatomical study of the lymphatic system.
-PMID: 27334241
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27334241/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The gross anatomical study of the lymphatic system in humans and animals has been suspended for almost 100 years. This article introduces the author's technique for investigating the lymphatic system using the concept of the lymphosome. In revisiting the anatomical study of the lymphatic system, our updated knowledge can potentially be utilized either to reassure surgeons about their current procedures in the surgical management of cancers and lymphedema or assist them to refine them. J. Surg. Oncol. 2017;115:13-17. © 2016 Wiley Periodicals, Inc.

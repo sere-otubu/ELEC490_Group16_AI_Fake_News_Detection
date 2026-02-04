@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Skeletal system
-TITLE: Osteoimmunology.
-PMID: 29610150
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29610150/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Bone is a crucial element of the skeletal-locomotor system, but also functions as an immunological organ that harbors hematopoietic stem cells (HSCs) and immune progenitor cells. Additionally, the skeletal and immune systems share a number of regulatory molecules, including cytokines and signaling molecules. Osteoimmunology was created as an interdisciplinary field to explore the shared molecules and interactions between the skeletal and immune systems. In particular, the importance of an inseparable link between the two systems has been highlighted by studies on the pathogenesis of rheumatoid arthritis (RA), in which pathogenic helper T cells induce the progressive destruction of multiple joints through aberrant expression of receptor activator of nuclear factor (NF)-κB ligand (RANKL). The conceptual bridge of osteoimmunology provides not only a novel framework for understanding these biological systems but also a molecular basis for the development of therapeutic approaches for diseases of bone and/or the immune system.

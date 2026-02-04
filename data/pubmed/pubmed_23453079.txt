@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23453079)
-    QUESTION: Does prostate morphology affect outcomes after holmium laser enucleation?
-    CONTEXT: To determine whether prostate morphology or technique used has any effect on postoperative outcomes after holmium laser enucleation of the prostate.
-    ANSWER: Those patients with trilobar prostate morphology are more likely to achieve a greater decrease in the PVR urine volume after holmium laser enucleation of the prostate. All other outcomes appeared to be similar between the 2 groups. In addition, a 2-lobe technique can be safely used for trilobar prostates when deemed feasible by the surgeon.
-    

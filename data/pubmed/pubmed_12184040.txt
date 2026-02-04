@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ovarian cancer
-TITLE: Ovarian cancer.
-PMID: 12184040
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12184040/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To review the progress in the management of ovarian cancer in the last decade and future directions. Research studies, review articles, and abstracts. There is an increased understanding of ovarian cancer biology, the genetic basis for hereditary ovarian cancer, staging and the role of cytoreductive surgery, and more effective chemotherapy, resulting in an increase in the percentage of patients who will live 5 years from the time of diagnosis. The nurse can play an invaluable role as the options of treatment are considered and weighed against quality-of-life considerations.

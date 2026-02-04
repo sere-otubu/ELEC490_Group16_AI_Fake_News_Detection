@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood pressure regulation
-TITLE: [Long time regulation of arterial blood pressure: facts and hypothesis].
-PMID: 23789350
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23789350/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The date about long time increase of blood pressure in conditions of excessive salt intake, constriction of renal artery in animals with initial low baroreceptor reflex is presented. Arterial hypertension in this case is accompanied by increase activity of sympathetic nervous system. The supposition that arterial baroreceptor reflex place a role in long time regulation of arterial blood pressure is expressed.

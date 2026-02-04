@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dental implants
-TITLE: Are There Contraindications for Placing Dental Implants?
-PMID: 31097131
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31097131/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There are few absolute contraindications to dental implant placement. Relative contraindications include cognitive decline, American Society of Anesthesiology patient status IV or higher categories, or medical conditions that may jeopardize the life or lifespan of the patient. Precautions for placing dental implants should be viewed with respect to the evidence-based exposures that can contribute to risk of failure, including but not limited to local, behavioral, and medical factors. Risk for dental implant failure increases in association with (1) past history of periodontal disease, (2) bruxism, (3) smoking, and (4) radiation therapy.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Childhood obesity
-TITLE: The association between adverse childhood experiences and childhood obesity: A systematic review.
-PMID: 33506595
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33506595/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Adverse childhood experiences (ACEs) are associated with numerous physical and mental health issues in children and adults. The effect of ACEs on development of childhood obesity is less understood. This systematic review was undertaken to synthesize the quantitative research examining the relationship between ACEs and childhood obesity. PubMed, PsycInfo, and Web of Science were searched in July 2020; Rayyan was used to screen studies, and the Newcastle-Ottawa Scale was used to assess risk of bias. The search resulted in 6,966 studies screened at title/abstract and 168 at full-text level. Twenty-four studies met inclusion criteria. Study quality was moderate, with greatest risk of bias due to method of assessment of ACEs or sample attrition. Findings suggest ACEs are associated with childhood obesity. Girls may be more sensitive to obesity-related effects of ACEs than boys, sexual abuse appears to have a greater effect on childhood obesity than other ACEs, and co-occurrence of multiple ACEs may be associated with greater childhood obesity risk. Further, the effect of ACEs on development of childhood obesity may take 2-5 years to manifest. Considered collectively, findings suggest a need for greater attention to ACEs in the prevention and treatment of childhood obesity.

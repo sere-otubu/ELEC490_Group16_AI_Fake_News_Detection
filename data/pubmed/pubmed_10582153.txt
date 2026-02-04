@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Psoriasis
-TITLE: Childhood psoriasis.
-PMID: 10582153
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10582153/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Psoriasis is a common skin disease in infants, children, and adolescents. A review of the clinical, epidemiologic, genetic, and therapeutic aspects of childhood psoriasis is presented. Population studies indicate that the first signs of psoriatic lesions occur in the pediatric age group, birth to 18 years of age, and that both genetic and environmental factors interact to precipitate the development of psoriasis. Koebner reactions are the result of external or internal triggering factors, such as physical injury to the skin, low humidity, and certain drugs. The most frequently observed variant to psoriasis is the plaque type, followed by guttate psoriasis, and juvenile psoriatic arthritis. Pustular psoriasis and erythrodermic psoriasis are rare forms of the disease, but are seen in children from infancy to adolescence. The scalp is the most frequently affected site of involvement in pediatric psoriasis, followed by the appearance of lesions on the extensor surfaces of the extremities, trunk, and nails. Although not common in adult psoriasis, the face and ears are often involved. Topical medications such as corticosteroids, calcipotriol, coal tar preparations, anthralin formulations, and ultraviolet B are recommended in monotherapy or in combination therapy, whereas psoralen plus ultraviolet A, methotrexate, and retinoids should only be administered in crisis situations. The treatment objectives in childhood psoriasis are to preserve skin surfaces, to afford physical relief from the disease, and to employ treatments that do not endanger the health or future development of the child.

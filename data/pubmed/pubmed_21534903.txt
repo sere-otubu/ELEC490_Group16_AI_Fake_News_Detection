@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Flexibility training
-TITLE: Adding flexibility to physician training.
-PMID: 21534903
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21534903/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Demographic changes among junior doctors are driving demand for increased flexibility in advanced physician training, but flexible training posts are lacking. Suitable flexible training models include flexible full-time, job-share and part-time positions. Major barriers to establishing flexible training positions include difficulty in finding job-share partners, lack of funding for creating supernumerary positions, and concern over equivalence of educational quality compared with full-time training. Pilot flexible training positions should be introduced across the medical specialties and educational outcomes examined prospectively.

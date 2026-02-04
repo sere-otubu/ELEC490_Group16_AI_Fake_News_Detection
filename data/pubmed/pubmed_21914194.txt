@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21914194)
-    QUESTION: Health care for immigrants in Europe: is there still consensus among country experts about principles of good practice?
-    CONTEXT: European Member States are facing a challenge to provide accessible and effective health care services for immigrants. It remains unclear how best to achieve this and what characterises good practice in increasingly multicultural societies across Europe. This study assessed the views and values of professionals working in different health care contexts and in different European countries as to what constitutes good practice in health care for immigrants.
-    ANSWER: Experts across Europe asserted the right to culturally sensitive health care for all immigrants. There is a broad consensus among experts about the major principles of good practice that need to be implemented across Europe. However, there also is some disagreement both within and between countries on specific issues that require further research and debate.
-    

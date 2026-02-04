@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tonsillectomy
-TITLE: Role of palatine tonsillectomy in the diagnostic workup of head and neck squamous cell carcinoma of unknown primary origin: A systematic review and meta-analysis.
-PMID: 30575162
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30575162/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This systematic review and meta-analysis aims to evaluate the effectiveness of palatine tonsillectomy in patients with cervical metastasis from squamous cell carcinoma of unknown primary (SCCUP) origin. A systematic review including studies that encompassed palatine tonsillectomy in the SSCUP diagnostic evaluation was conducted. A single arm meta-analysis was then made to obtain the overall identification rate of tonsillectomy. Fourteen studies were included, comprising 673 patients who underwent 416 palatine tonsillectomies, 338 preformed during examination under anesthesia (EUA) and 78 managed with transoral robotic surgery (TORS). A total of 140 occult tonsillar malignancies were identified; of these, 124 (89%) were ipsilateral, 2 (1%) contralateral, and 14 (10%) synchronous bilateral. Meta-analysis of 11 studies showed an overall detection rate of tonsillectomy of 0.34 (99% confidence interval 0.23-0.46). Palatine tonsillectomy is a valuable diagnostic tool in the management of patients with head and neck SCCUP. Bilaterality of tonsillectomy should be taken into consideration.

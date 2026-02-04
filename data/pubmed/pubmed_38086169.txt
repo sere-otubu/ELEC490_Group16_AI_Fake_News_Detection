@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Body composition
-TITLE: Body composition analysis: A snapshot across the perimenopause.
-PMID: 38086169
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38086169/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-During the perimenopause, estrogen concentrations gradually decrease, and this is associated with changes to women's energy expenditure and intake. These changes result in weight gain and altered body fat distribution, with increased abdominal fat deposition and cardiometabolic risk via insulin resistance. Body composition analysis is a useful clinical tool in outpatient settings, as it is simple, not expensive and provides information on body mass index, skeletal mass, fat mass, fat percentage and basal metabolic rate. This review discusses body composition analysis as part of a health assessment for healthy women during the perimenopause and investigates the associations between body composition and cardiometabolic profile.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25394614)
-    QUESTION: Does timing of initial surfactant treatment make a difference in rates of chronic lung disease or mortality in premature infants?
-    CONTEXT: To compare two treatment strategies in preterm infants with or at risk of respiratory distress syndrome: early surfactant administration (within one hour of birth) versus late surfactant administration, in a geographically defined population.
-    ANSWER: Early surfactant administration is associated with shorter duration of ventilation but does not appear to be significantly protective against CLD/mortality among premature infants. This may support the growing evidence for consideration of CPAP as an alternative to routine intubation and early surfactant administration. Further investigation from large randomized clinical trials is warranted to confirm these results.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cell division mitosis
-TITLE: Cell proliferation suppressor RBR1 interacts with ARID1 to promote pollen mitosis via stabilizing DUO1 in Arabidopsis.
-PMID: 39835442
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39835442/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In plants, sperm cell formation involves two rounds of pollen mitoses, in which the microspore initiates the first pollen mitosis (PMI) to produce a vegetative cell and a generative cell, then the generative cell continues the second mitosis (PMII) to produce two sperm cells. DUO1, a R2R3 Myb transcription factor, is activated in the generative cell to promote S-G2/M transition during PMII. Loss-of-function of DUO1 caused a complete arrest of PMII. Despite the importance of DUO1, how DUO1 is regulated is largely unexplored. We previously demonstrated that ARID1, an ARID transcription factor, stimulates DUO1 transcription. Here, we show that cell proliferation suppressor RBR1 interacts with ARID1 to stabilize DUO1. While the C-terminus of RBR1 is dispensable for vegetative growth, it plays a crucial role in reproductive development and facilitates interaction with ARID1. Moreover, DUO1 is a short-lived protein, ARID1 promotes the RBR1-DUO1 interaction, and RBR1 stabilizes DUO1 in a proteasome-dependent manner. Thus, RBR1 promotes DUO1-dependent PMII progression via antagonizing its repressive role in the cell cycle factors CDKA;1 and CYCB1;1. Collectively, we uncover that ARID1 and RBR1 act in concert to regulate DUO1 at both the transcriptional and posttranscriptional levels, balancing cell specification and cell division.

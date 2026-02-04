@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lyme disease
-TITLE: Lyme disease.
-PMID: 9725096
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9725096/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A record number of cases of Lyme disease was reported in the United States in 1996. The steady increase in Lyme disease cases coincides with a growth in deer populations in endemic regions. Application of careful epidemiologic principles have led to the identification of two new pathogens that produce syndromes closely related to Lyme disease. Coinfection with Borrelia burgdorferi and the agent of human granulocytic ehrlichiosis have been documented. Coinfection with multiple organisms may alter the clinical course of Lyme disease. Better understanding of the pathogenesis of neuroborreliosis has provided clues into mechanisms responsible for persistent symptoms and will serve as a foundation for the design and implementation of appropriate therapeutic recommendations. A safe vaccine for the prevention of Lyme disease in humans has been developed, and preliminary reports from large clinical vaccine efficacy trials look promising.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Wound healing process
-TITLE: Effectiveness of cold plasma application in oral wound healing process: A scoping review.
-PMID: 39224064
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39224064/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cold atmospheric plasma (CAP) has shown an ability to promote wound healing by modulating biological processes without causing thermal damage. This scoping review aimed to evaluate the effectiveness of CAP application in the oral wound healing process. An electronic literature search was conducted using PubMed/Medline, Embase, Web of Science, Scopus, and grey literature (Google Scholar). The search included all articles published up to October 11, 2023. Only studies focusing on the different CAP types' effects on oral cavity wounds or cells were included in the review. This review analyzed 13 studies including seven cell culture studies, one animal study, and five human studies (three in vivo and two ex vivo). The findings from the reviewed articles suggest that CAP may have therapeutic potential. It can maintain cell viability and influence gene expression, accelerate wound healing, and modulate inflammation-related cytokines. DBD plasma exhibited time-sensitive effects on cellular behavior and microplasma irradiation positively impacted cell count, biochemical profiles, and cellular migration. The application of CAP has been shown to have a positive impact on the healing of oral wounds in cell culture, animal, and human studies.

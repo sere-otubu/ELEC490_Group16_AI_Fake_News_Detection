@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Atherosclerosis
-TITLE: Small rodent models of atherosclerosis.
-PMID: 32574973
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32574973/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The ease of breeding, low cost of maintenance, and relatively short period for developing atherosclerosis make rodents ideal for atherosclerosis research. However, none of the current models accurately model human lipoprotein profile or atherosclerosis progression since each has its advantages and disadvantages. The advent of transgenic technologies much supports animal models' establishment. Notably, two classic transgenic mouse models, apoE-/- and Ldlr-/-, constitute the primary platforms for studying underlying mechanisms and development of pharmaceutical approaches. However, there exist crucial differences between mice and humans, such as the unhumanized lipoprotein profile, and the different plaque progression and characteristics. Among rodents, hamsters and guinea pigs might be the more realistic models in atherosclerosis research based on the similarities in lipoprotein metabolism to humans. Studies involving rat models, a rodent with natural resistance to atherosclerosis, have revealed evidence of atherosclerotic plaques under dietary induction and genetic manipulation by novel technologies, notably CRISPR-Cas9. Ldlr-/- hamster models were established in recent years with severe hyperlipidemia and atherosclerotic lesion formation, which could offer an alternative to classic transgenic mouse models. In this review, we provide an overview of classic and innovative small rodent models in atherosclerosis researches, including mice, rats, hamsters, and guinea pigs, focusing on their lipoprotein metabolism and histopathological changes.

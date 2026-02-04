@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ALS
-TITLE: Pathophysiology and Diagnosis of ALS: Insights from Advances in Neurophysiological Techniques.
-PMID: 31185581
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31185581/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Amyotrophic lateral sclerosis (ALS) is a rapidly progressive and fatal neurodegenerative disorder of the motor neurons, characterized by focal onset of muscle weakness and incessant disease progression. While the presence of concomitant upper and lower motor neuron signs has been recognized as a pathognomonic feature of ALS, the pathogenic importance of upper motor neuron dysfunction has only been recently described. Specifically, transcranial magnetic stimulation (TMS) techniques have established cortical hyperexcitability as an important pathogenic mechanism in ALS, correlating with neurodegeneration and disease spread. Separately, ALS exhibits a heterogeneous clinical phenotype that may lead to misdiagnosis, particularly in the early stages of the disease process. Cortical hyperexcitability was shown to be a robust diagnostic biomarker if ALS, reliably differentiating ALS from neuromuscular mimicking disorders. The present review will provide an overview of key advances in the understanding of ALS pathophysiology and diagnosis, focusing on the importance of cortical hyperexcitability and its relationship to advances in genetic and molecular processes implicated in ALS pathogenesis.

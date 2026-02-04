@@ -1,8 +1,0 @@
-SEARCH_TOPIC: HPV vaccine
-TITLE: HPV vaccine implementation and monitoring in Latin America.
-PMID: 30699273
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30699273/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To describe HPV vaccine program implementation, monitoring and evaluation experiences in Latin America. We reviewed published articles in peer-reviewed journals and reports from government web- sites, as well as the PAHO/WHO/UNICEF Joint Reporting form and the ICO/IARC HPV Information Centre database. By December 2016, 13 countries/territories in Latin America (56%) have introduced HPV vaccines. The majority have done so in the past three years, targeting 10- 12 year old girls with a two dose schedule, through school programs. Vaccine coverage ranges from 30 to 87%. Safety monitoring is well established, but monitoring vaccine impact is not, and data are not available. . Although Latin America is the most advanced developing region with HPV vaccine introduction, systems for its monitoring are weak and there is a paucity of consistently available coverage data for this vaccine. Challenges remain to introduce HPV vaccines in several countries, to achieve high coverage, and to strengthen monitoring, evaluation and reporting.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Inflammation mechanism
-TITLE: Anti-Inflammatory Action and Mechanisms of Resveratrol.
-PMID: 33466247
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33466247/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Resveratrol (3,4',5-trihy- droxystilbene), a natural phytoalexin polyphenol, exhibits anti-oxidant, anti-inflammatory, and anti-carcinogenic properties. This phytoalexin is well-absorbed and rapidly and extensively metabolized in the body. Inflammation is an adaptive response, which could be triggered by various danger signals, such as invasion by microorganisms or tissue injury. In this review, the anti-inflammatory activity and the mechanism of resveratrol modulates the inflammatory response are examined. Multiple experimental studies that illustrate regulatory mechanisms and the immunomodulatory function of resveratrol both in vivo and in vitro. The data acquired from those studies are discussed.

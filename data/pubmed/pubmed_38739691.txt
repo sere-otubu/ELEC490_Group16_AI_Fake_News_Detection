@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Autoimmune diseases
-TITLE: New insight in treating autoimmune diseases by targeting autophagy.
-PMID: 38739691
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38739691/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Autophagy is a highly conserved biological process in eukaryotes, which degrades cellular misfolded proteins, damaged organelles and invasive pathogens in the lysosome-dependent manner. Autoimmune diseases caused by genetic elements, environments and aberrant immune responses severely impact patients' living quality and even threaten life. Recently, numerous studies have reported autophagy can regulate immune responses, and play an important role in autoimmune diseases. In this review, we summarised the features of autophagy and autophagy-related genes, enumerated some autophagy-related genes involved in autoimmune diseases, and further overviewed how to treat autoimmune diseases through targeting autophagy. Finally, we outlooked the prospect of relieving and curing autoimmune diseases by targeting autophagy pathway.

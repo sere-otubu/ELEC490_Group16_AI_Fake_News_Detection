@@ -1,8 +1,0 @@
-SEARCH_TOPIC: School lunch nutrition
-TITLE: [An analysis of policy interventions regarding school lunch programs and their role in the healthy nutrition of children in Córdoba, Argentina].
-PMID: 33147393
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33147393/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The aim of this article is to analyze school lunch programs and their role in the healthy nutrition of children in Córdoba, Argentina from 2013 to 2018. A descriptive, cross-sectional study was conducted that included a sample of 10 schools in 2013 and 10 different schools in 2018. A survey of school lunch programs and 24-hour nutrition reminders was carried out with 341 children. The nutritional value of school lunch programs decreased over the study period, particularly among schools in contexts of greater social vulnerability. Significant reductions in average calcium and energy intake were also observed. Indicators of chronic malnutrition, overweight, and excess calcium and vitamin A and C intakes worsened among children attending school lunch programs. Regarding the association between school lunch program attendance and low height for age/risk of low height for age, the odds ratio was not statistically significant. We argue for the necessity of promoting policies that seek urgent improvements in child nutritional indicators from a rights-based perspective.

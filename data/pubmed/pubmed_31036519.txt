@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Plasma
-TITLE: Types of fresh plasma with focus on therapeutic plasma exchange.
-PMID: 31036519
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31036519/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Among blood components for transfusion, plasma for direct therapeutic use is one which has the most diverse presentations as it can either be a labile (fresh) component or a drug when industrially manufactured after pooling of thousands of individual plasma collections. Therapeutic plasma can come in an unmanipulated form or be subjected to chemicals, then may or may not be followed by physical interventions. The question then arises as to whether fresh plasma retains all the moieties having therapeutic virtue and whether the manipulations (aimed at eradicating or at least eliminating infectious agents) favor adverse reactions, the major one being typical allergy or allergic type reactions (that can be severe when presenting as anaphylaxis). These questions become crucial when patients are exposed to hundreds of therapeutic plasma units while being subjected to therapeutic plasma exchange (TPE). This short review aims to present the various types and presentations of therapeutic plasma and to update information on fresh plasma use in TPE programs, both in terms of efficacy and tolerance.

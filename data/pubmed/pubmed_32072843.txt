@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Telemedicine adoption
-TITLE: Telemedicine adoption issues in the United States and Brazil: Perception of healthcare professionals.
-PMID: 32072843
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32072843/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Telemedicine has recently garnered more attention from healthcare professionals because it provides access to health services to patients in rural areas while making patient healthcare information more vulnerable to security breaches. The objective of this research is to identify factors that play a critical role in possible adoption of telemedicine in the United States and Brazil. A model with eight hypotheses was used to establish a research framework. A survey was conducted involving healthcare professionals in the aforementioned countries. The results show that telemedicine adoption is influenced by policies and culture in both countries and influenced by security and privacy in the United States. It can be inferred from the research that perceptions of the American and Brazilian healthcare professionals are similar in telemedicine issues covered in this research. These healthcare professionals, however, disagree on how patients' privacy should be preserved in the two countries.

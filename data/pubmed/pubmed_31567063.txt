@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ebola virus
-TITLE: Ebola Virus: Pathogenesis and Countermeasure Development.
-PMID: 31567063
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31567063/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Since its discovery in 1976, Ebola virus (EBOV) has caused numerous outbreaks of fatal hemorrhagic disease in Africa. The biggest outbreak on record is the 2013-2016 epidemic in west Africa with almost 30,000 cases and over 11,000 fatalities, devastatingly affecting Guinea, Liberia, and Sierra Leone. The epidemic highlighted the need for licensed drugs or vaccines to quickly combat the disease. While at the beginning of the epidemic no licensed countermeasures were available, several experimental drugs with preclinical efficacy were accelerated into human clinical trials and used to treat patients with Ebola virus disease (EVD) toward the end of the epidemic. In the same manner, vaccines with preclinical efficacy were administered primarily to known contacts of EVD patients on clinical trial protocols using a ring-vaccination strategy. In this review, we describe the pathogenesis of EBOV and summarize the current status of EBOV vaccine development and treatment of EVD.

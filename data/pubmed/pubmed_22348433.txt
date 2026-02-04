@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22348433)
-    QUESTION: Does partial expander deflation exacerbate the adverse effects of radiotherapy in two-stage breast reconstruction?
-    CONTEXT: The optimum protocol for expander volume adjustment with respect to the timing and application of radiotherapy remains controversial.
-    ANSWER: Expander deflation immediately prior to radiotherapy, may augment the adverse effects, especially in the lower expander pole, possibly via enhanced radiosensitization due to a relative increase in the blood flow and tissue oxygenation.
-    

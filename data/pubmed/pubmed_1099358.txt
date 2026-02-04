@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hyperthyroidism
-TITLE: Gonadal steroids and gonadotropins in hyperthyroidism.
-PMID: 1099358
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1099358/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gynecomastia occurs in about 20 to 40 per cent of men with hyperthyroidism. Serum concentrations of total estradiol-17beta, total testosterone, and luteinizing hormone are supranormal in these patients. Serum concentration of SHBG is also high in hyperthyroidism. This can explain the high serum testosterone, essentially completely but not the high serum estradiol-17beta; thus, whereas serum unbound testosterone is normal, serum unbound estradiol-17beta is above normal in hyperthyroid men. This balance in relative concentrations of unbound gonadal steroids is apparently quite favorable to the development of gynecomastia in hyperthyroidism. Increased peripheral tissue metabolism of androgens to estrogens seems to be the major factor responsible for high estradiol-17beta in hyperthyroidism; increased glandular secretion of estradiol-17beta may also be important. The mechanism of hypomenorrhea or amenorrhea in hyperthyroidism remains unclear. Changes in circulating estrogens, androgens, and luteinizing hormone in hyperthyroid women are similar to those in hyperthyroid men. The mid-cycle ovulatory peak of luteinizing hormone may be blunted in patients with scanty periods whereas it may be altogether absent in those with amenorrhea.

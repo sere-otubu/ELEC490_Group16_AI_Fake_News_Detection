@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rural healthcare
-TITLE: Healthcare professionals' experiences and perceptions of artificial intelligence in regional and rural health districts in Australia.
-PMID: 37795659
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37795659/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A greater understanding of Australian healthcare professionals' perceptions of artificial intelligence (AI) is needed to identify the challenges ahead as this new technology finds its way into healthcare delivery. The aim of this study was to identify healthcare professionals' perceptions of AI, their understanding of this technology, their education needs and barriers they perceived to its implementation. Healthcare professionals in eight local health districts in New South Wales Australia were surveyed using the Shinners Artificial Intelligence Perception (SHAIP) tool. The study surveyed 176 participants from regional (59.5%), rural (36.4%) and metropolitan (4.0%) healthcare districts in Australia. Only 27% of all participants stated they are currently using AI in the delivery of care. The study found that Age, Discipline, Use of AI and Desire for Education had a significant effect on perceptions of AI, and that overall healthcare professionals believe AI will impact their role and they do not feel prepared for its use. The study showed that understanding of AI is varied and workforce knowledge is seen as the greatest barrier to implementation. More than 75% of healthcare professionals desire education about AI, its application and ethical implications to the delivery of care. The development of education is needed urgently to prepare healthcare professionals for the implementation of AI.

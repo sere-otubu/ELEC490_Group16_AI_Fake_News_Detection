@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Glaucoma
-TITLE: Diagnosis and management of pediatric glaucoma.
-PMID: 11705150
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11705150/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Appropriate diagnosis of pediatric glaucoma in toddlers and school-aged children is aided by an understanding of the signs and symptoms of infantile-onset glaucoma, along with its associated conditions. Unlike adults with glaucoma, the management of pediatric glaucoma is frequently surgical, with medical therapy playing an adjunctive role. The ultimate goal of pediatric glaucoma management is not control of IOP but preservation of vision. The visual prognosis in children with glaucoma is correlated with the severity of the associated ocular pathology. Primary congenital glaucoma has the best visual prognosis, with 52% to 79% having visual acuity of 20/50 or better. Glaucomas associated with congenital ocular anomalies and secondary glaucomas have a worse visual prognosis, with 30% to 50% of eyes noted to be 20/50 or better. Amblyopia and uncontrolled glaucoma are the two main factors associated with reduction in vision. Control of the glaucoma by medical and surgical means and treatment of amblyopia during susceptible ages are the essential factors in the management of pediatric glaucoma.

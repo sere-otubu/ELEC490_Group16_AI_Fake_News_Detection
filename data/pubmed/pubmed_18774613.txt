@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fish oil benefits
-TITLE: Benefits of fish oil supplementation in hyperlipidemia: a systematic review and meta-analysis.
-PMID: 18774613
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18774613/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Fish oils have been widely reported as a useful supplement to reduce fasting blood triglyceride levels in individuals with hyperlipidemia. We performed an updated meta-analysis to quantitatively evaluate all the randomized trials of fish oils in hyperlipidemic subjects. We conducted a systematic literature search using several electronic databases supplemented by manual searches of published reference lists, review articles and conference abstracts. We included all placebo-controlled randomized trials of parallel design that evaluated any of the main blood lipid outcomes: total, high-density lipoprotein (HDL) and low-density lipoprotein (LDL) cholesterol or triglycerides (TG). Data were pooled using DerSimonian-Laird's random effects model. The final analysis comprised of 47 studies in otherwise untreated subjects showed that taking fish oils (weighted average daily intake of 3.25 g of EPA and/or DHA) produced a clinically significant reduction of TG (-0.34 mmol/L, 95% CI: -0.41 to -0.27), no change in total cholesterol (-0.01 mmol/L, 95% CI: -0.03 to 0.01) and very slight increases in HDL (0.01 mmol/L, 95% CI: 0.00 to 0.02) and LDL cholesterol (0.06 mmol/L, 95% CI: 0.03 to 0.09). The reduction of TG correlated with both EPA+DHA intake and initial TG level. Fish oil supplementation produces a clinically significant dose-dependent reduction of fasting blood TG but not total, HDL or LDL cholesterol in hyperlipidemic subjects.

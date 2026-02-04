@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Food safety guidelines
-TITLE: Food Safety and Sanitation Implementation Impasse on Adolescents in Kenyan High Schools.
-PMID: 33535597
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33535597/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The ability to combat food-borne illnesses in food facilities and institutional catering units require sufficient knowledge on food safety and sanitation standards by food producers and consumers. The aim of the study was to investigate the food safety and sanitation knowledge of food handlers in Kenyan high schools. A cross-sectional study was carried out among 204 food handlers in 50 schools. Questions about knowledge and practice toward food safety and sanitation were asked. Respondents were the most knowledgeable on food contamination (93%), while participants were the least knowledgeable on the importance of protective attire when distributing foods to learners (50%). One-way ANOVA revealed a significant difference between gender and food handlers' behavior and practice (F = 19.886, ρ = 0.00 < 0.05) as well as between job tenure and practice of food safety and sanitation (F = 17.874, ρ = 0.00 < 0.05). Multiple regression analysis established that knowledge contributed to 44.1% of the behavior and practice of the food handlers. It is concluded that food handlers have a fair knowledge despite lack of training, motivation, and facilities to maintain quality standards. It is recommended that the Kenyan Government develop and implement guidelines through school feeding policy that would ensure that food safety and sanitation practices are implemented and utilized by Kenyan high schools.

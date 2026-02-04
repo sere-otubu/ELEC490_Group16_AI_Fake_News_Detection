@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Nervous system
-TITLE: The Critical Role of the Central Autonomic Nervous System in Fetal-Neonatal Transition.
-PMID: 30522725
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30522725/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The objective of this article is to understand the complex role of the central autonomic nervous system in normal and complicated fetal-neonatal transition and how autonomic nervous system dysfunction can lead to brain injury. The central autonomic nervous system supports coordinated fetal transitional cardiovascular, respiratory, and endocrine responses to provide safe transition of the fetus at delivery. Fetal and maternal medical and environmental exposures can disrupt normal maturation of the autonomic nervous system in utero, cause dysfunction, and complicate fetal-neonatal transition. Brain injury may both be caused by autonomic nervous system failure and contribute directly to autonomic nervous system dysfunction in the fetus and newborn. The central autonomic nervous system has multiple roles in supporting transition of the fetus. Future studies should aim to improve real-time monitoring of fetal autonomic nervous system function and in supporting typical autonomic nervous system development even under complicated conditions.

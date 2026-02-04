@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Personality disorders
-TITLE: Contemporary psychological perspectives of personality disorders.
-PMID: 34292181
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34292181/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The aim of this study was to review the recent literature on contemporary psychological perspectives of personality disorders, including novel psychotherapeutic interventions aimed at these vulnerable individuals. Among the various psychological theories and models of personality disorders, still the most popular and researched are psychodynamic, cognitive and interpersonal perspectives. More specifically, object relations theory, cognitive schema conceptualization and interpersonal circumplex model have produced the most empirical investigations of personality disorders in recent years. Latest work has suggested that all three perspectives have contributed to and are compatible with the dimensional personality disorders framework in DSM-5-AMPD and ICD-11 (including level of personality functioning and personality traits). These models have yielded specific psychological treatments of personality disorders; although most psychotherapies have been constructed for patients with borderline personality disorder (BPD), there is an increasing number of treatment modalities aimed at individuals with other forms of personality disorder, such as those with narcissistic or antisocial traits/disorders. More research into their effectiveness and long-term benefits is necessary. Novel research keeps updating our knowledge on the cause, manifestations and psychological treatments of personality disorders, particularly from psychodynamic, cognitive and interpersonal perspectives.

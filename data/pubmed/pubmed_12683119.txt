@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Endometriosis
-TITLE: Endometriosis.
-PMID: 12683119
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12683119/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Endometriosis is a common condition that causes pain and distress to many women. A variety of medical and surgical treatment options exist, and the nursing role is mainly one of information-giving and support.

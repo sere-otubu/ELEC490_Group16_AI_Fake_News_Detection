@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18714572)
-    QUESTION: Does vaginal intraepithelial neoplasia have the same evolution as cervical intraepithelial neoplasia?
-    CONTEXT: Vaginal intraepithelial neoplasia is a little known disease which could be related to risk factors different from simple HPV infections.
-    ANSWER: These data suggest that CIN and VAIN may have some common features in certain cases, i.e., if an HPV infection is proved.
-    

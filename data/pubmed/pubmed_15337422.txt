@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mammography
-TITLE: Digital mammography.
-PMID: 15337422
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15337422/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Despite its technical advantages, early clinical trials comparing digital mammography with film mammography for screening have been somewhat disappointing. Digital mammography,however, is in its infancy and can be expected to improve more rapidly than film mammography. Some areas of improvement being observed now include the development of new detector technologies; more powerful and better-designed interpretation workstations; and novel advanced applications, such as tomosynthesis and contrast-enhanced mammography, which are not possible with standard film mammography.

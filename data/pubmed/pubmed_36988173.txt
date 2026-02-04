@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Corticosteroids
-TITLE: [Corticosteroids and glaucoma].
-PMID: 36988173
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36988173/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Corticosteroid use is a major risk factor in the development of glaucoma and its aggravation. This is due to the augmentation of the intraocular pressure (IOP) induced by the corticoids. This augmentation is different between individuals: we called it steroid responsiveness, for which multiple risk factors have been identified, the most important being personal or family history of primary open angle glaucoma. The secondary augmentation of IOP depends also on the type of preparation, the mode of administration, the dosage and the duration of the therapy. Prevention and management are essentials to avoid this adverse effect. Among the most important measures, there are the education of the patient and the practitioner, IOP follow-ups after the use of corticoids and IOP-lowering medications.

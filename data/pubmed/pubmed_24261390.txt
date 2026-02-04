@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Knee replacement
-TITLE: Current concepts in knee replacement: features and imaging assessment.
-PMID: 24261390
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24261390/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This article reviews current concepts of knee replacement. Features of traditional and new prosthetic designs, materials, and surgical techniques are discussed. Normal and abnormal postoperative imaging findings are illustrated. Complications are reviewed and related to the current understanding about how and why these failures occur. It is well known that after knee replacement, patients with complications may be asymptomatic, and, for this reason, assessment of postoperative imaging is important. The foundation of radiologic interpretation of knee replacement is knowledge of the physiologic purpose, orthopedic trends, imaging findings, and complications.

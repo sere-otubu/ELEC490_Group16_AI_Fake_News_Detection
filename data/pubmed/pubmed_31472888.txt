@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Heart failure
-TITLE: Hypertension and Heart Failure.
-PMID: 31472888
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31472888/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hypertensive heart disease represents a spectrum of illnesses from uncontrolled hypertension to heart failure. The authors discuss the natural history and pathogenesis of heart failure owing to hypertensive heart disease, reviewing the important role of left ventricular hypertrophy as the inciting process leading to diastolic dysfunction and heart failure with preserved ejection fraction. They describe the various mechanisms by which a subset of patients ultimately develops systolic heart failure. They discuss management strategies for hypertensive heart disease at all stages of the disease process. Treatment in the initial stages before onset of heart failure may result in regression of disease.

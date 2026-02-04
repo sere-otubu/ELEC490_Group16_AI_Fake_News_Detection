@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urinalysis
-TITLE: Introduction to urinalysis: historical perspectives and clinical application.
-PMID: 20407938
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20407938/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Urinalysis was the first laboratory test performed in medicine and has been used for several thousand years. Today urinalysis continues to be a powerful tool in obtaining crucial information for diagnostic purposes in medicine. Urine is an unstable fluid, and changes to its composition begin to take place as soon as it is voided. As such, collection, storage, and handling are important issues in maintaining the integrity of this specimen. In the laboratory, urine can be characterized by physical appearance, chemical composition, and microscopically. Physical examination of urine includes description of color, odor, clarity, volume, and specific gravity. Chemical examination of urine includes the identification of protein, blood cells, glucose, pH, bilirubin, urobilinogen, ketone bodies, nitrites, and leukocyte esterase. Finally, microscopic examination entails the detection of crystals, cells, casts, and microorganisms.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pneumonia
-TITLE: Pneumonia in the elderly.
-PMID: 11737082
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11737082/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Pneumonia is one of the commonest infections in elderly patients. The pathogens responsible for pneumonias in the elderly are the same as in younger adults. Because of associated cardiopulmonary disease and/or impaired host defenses, pneumonia in elderly patients is associated with increased mortality and morbidity compared to younger patients. The clinical importance of pneumonias in the elderly relates to age-dependent and pathologic changes in the immune system as well as the lungs. Pneumonias in the elderly may be classified, for clinical purposes, according to their location of acquisition, i.e. community-acquired pneumonias, nursing home-acquired pneumonias, or hospital-acquired pneumonias. The clinical presentation of pneumonias in the elderly may be difficult, due to pre-existing cardiopulmonary disease that mimics pneumonia. This review discusses the diagnostic and therapeutic approaches to elderly patients with pneumonia.

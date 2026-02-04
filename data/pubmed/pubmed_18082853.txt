@@ -1,8 +1,0 @@
-SEARCH_TOPIC: HPV vaccine
-TITLE: The HPV vaccine mandate controversy.
-PMID: 18082853
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18082853/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In this editorial we address the controversies surrounding human papillomavirus (HPV) vaccine school-entry mandate legislation, but differentiate between the mandate debate and issues specific to the vaccine itself. Our goal is not to take a stand in favor of or opposed to mandates, but rather to critically examine the issues. We discuss the following arguments against HPV vaccine school-entry requirements: 1. The public health benefit of mandated HPV vaccination is not sufficient to warrant the intrusion on parental autonomy; 2. A vaccine that prevents a non-casually transmitted infection should not be mandated; 3. Opt-out provisions are inherently unfair to parents who oppose HPV vaccination; 4. Limited health care dollars should not be directed toward cervical cancer prevention; and 5. The vaccine is expensive and potential problems with supply suggest that mandates should not be implemented until insurance coverage and supply issues are resolved. Next, we critically evaluate the following critiques of HPV vaccination itself: 1. Giving girls HPV vaccine implies tacit consent to engage in sexual activity; 2. Giving girls this vaccine will confer a false sense of protection from sexually transmitted infections and will lead to sexual disinhibition; 3. Children already have too many vaccinations on the immunization schedule; 4. Long-term side effects of HPV vaccine are unknown; 5. The vaccine's enduring effectiveness is unknown and booster shots may be required; and 6. It is wrong to only target girls with HPV vaccine; boys should be vaccinated as well.

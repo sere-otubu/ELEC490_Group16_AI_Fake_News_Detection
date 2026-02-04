@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Clinical trial phases
-TITLE: Palonosetron.
-PMID: 15139789
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15139789/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Palonosetron is a potent and highly selective serotonin 5-HT(3) receptor antagonist that has been evaluated for the prevention of chemotherapy-induced nausea and vomiting. black triangle Intravenously administered palonosetron has a linear pharmacokinetic profile, with a long terminal elimination half-life ( approximate, equals 40 hours) and moderate (62%) plasma protein binding. In two randomised, double-blind trials in 1132 cancer patients receiving moderately emetogenic chemotherapy, intravenous palonosetron 0.25 mg was more effective than intravenous ondansetron 32 mg in producing a complete response (no emesis, no use of rescue medication) during acute (0-24 hours) or delayed (24-120 hours) phases, and similar to intravenous dolasetron 100 mg in acute, but more effective in delayed phase. Palonosetron 0.75 mg was similar to ondansetron (acute and delayed phase) or dolasetron (acute phase), but more effective than dolasetron in delayed phase. In patients receiving highly emetogenic chemotherapy (n = 667), the complete response rates during acute and delayed phases with intravenous palonosetron (0.25 or 0.75 mg) were similar to those seen in intravenous ondansetron 32 mg recipients in a randomised, double-blind trial. Intravenous palonosetron was generally well tolerated in clinical trials, with few adverse events being treatment related. Palonosetron had no significant effect on the corrected QT interval or laboratory parameters.

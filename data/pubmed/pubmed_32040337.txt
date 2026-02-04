@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Bipolar disorder
-TITLE: Creativity and Bipolar Disorder: A Shared Genetic Vulnerability.
-PMID: 32040337
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32040337/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Bipolar disorder is a lifelong mood disorder characterized by extreme mood swings between mania and depression. Despite fitness costs associated with increased mortality and significant impairment, bipolar disorder has persisted in the population with a high heritability and a stable prevalence. Creativity and other positive traits have repeatedly been associated with the bipolar spectrum, particularly among unaffected first-degree relatives and those with milder expressions of bipolar traits. This suggests a model in which large doses of risk variants cause illness, but mild to moderate doses confer advantages, which serve to maintain bipolar disorder in the population. Bipolar disorder may thus be better conceptualized as a dimensional trait existing at the extreme of normal population variation in positive temperament, personality, and cognitive traits, aspects of which may reflect a shared vulnerability with creativity. Investigations of this shared vulnerability may provide insight into the genetic mechanisms underlying illness and suggest novel treatments.

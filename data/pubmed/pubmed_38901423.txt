@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Intermittent fasting
-TITLE: Brain responses to intermittent fasting and the healthy living diet in older adults.
-PMID: 38901423
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38901423/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Diet may promote brain health in metabolically impaired older individuals. In an 8-week randomized clinical trial involving 40 cognitively intact older adults with insulin resistance, we examined the effects of 5:2 intermittent fasting and the healthy living diet on brain health. Although intermittent fasting induced greater weight loss, the two diets had comparable effects in improving insulin signaling biomarkers in neuron-derived extracellular vesicles, decreasing the brain-age-gap estimate (reflecting the pace of biological aging of the brain) on magnetic resonance imaging, reducing brain glucose on magnetic resonance spectroscopy, and improving blood biomarkers of carbohydrate and lipid metabolism, with minimal changes in cerebrospinal fluid biomarkers for Alzheimer's disease. Intermittent fasting and healthy living improved executive function and memory, with intermittent fasting benefiting more certain cognitive measures. In exploratory analyses, sex, body mass index, and apolipoprotein E and SLC16A7 genotypes modulated diet effects. The study provides a blueprint for assessing brain effects of dietary interventions and motivates further research on intermittent fasting and continuous diets for brain health optimization. For further information, please see ClinicalTrials.gov registration: NCT02460783.

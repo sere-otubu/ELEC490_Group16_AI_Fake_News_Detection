@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 28127977)
-    QUESTION: Are serum leptin levels a prognostic factor in advanced lung cancer?
-    CONTEXT: There are 71 previously untreated patients with cytological or histological evidence of primary lung cancer who were admitted to the oncology department between November 2013 and August 2014. Forty-five healthy individuals with age, sex and BMI matching the lung cancer patients, were recruited to take part in the study as a control group. Leptin levels were measured quantitatively by using a microELISA kit.
-    ANSWER: Our results showed that the serum leptin level has no prognostic indications in advanced lung cancer patients. Leptin is decreased in lung cancer, and there is lack of correlation with tumour‑related factors including prognosis. Therefore, leptin is not a useful clinical marker in lung cancer (Tab. 2, Fig. 2, Ref. 22).
-    

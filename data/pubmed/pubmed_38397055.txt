@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Statins
-TITLE: Statins-Their Role in Bone Tissue Metabolism and Local Applications with Different Carriers.
-PMID: 38397055
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38397055/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Statins, widely prescribed for lipid disorders, primarily target 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase competitively and reversibly, resulting in reduced low-density lipoprotein cholesterol (LDL-C). This mechanism proves effective in lowering the risk of lipid-related diseases such as ischemic cerebrovascular and coronary artery diseases. Beyond their established use, statins are under scrutiny for potential applications in treating bone diseases. The focus of research centers mainly on simvastatin, a lipophilic statin demonstrating efficacy in preventing osteoporosis and aiding in fracture and bone defect healing. Notably, these effects manifest at elevated doses (20 mg/kg/day) of statins, posing challenges for systematic administration due to their limited bone affinity. Current investigations explore intraosseous statin delivery facilitated by specialized carriers. This paper outlines various carrier types, characterizing their structures and underscoring various statins' potential as local treatments for bone diseases.

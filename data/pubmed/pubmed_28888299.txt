@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pain management
-TITLE: Principles of Burn Pain Management.
-PMID: 28888299
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28888299/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This article describes pathophysiology of burn injury-related pain and the basic principles of burn pain management. The focus is on concepts of perioperative and periprocedural pain management with extensive discussion of opioid-based analgesia, including patient-controlled analgesia, challenges of effective opioid therapy in opioid-tolerant patients, and opioid-induced hyperalgesia. The principles of multimodal pain management are discussed, including the importance of psychological counseling, perioperative interventional pain procedures, and alternative pain management options. A brief synopsis of the principles of outpatient pain management is provided.

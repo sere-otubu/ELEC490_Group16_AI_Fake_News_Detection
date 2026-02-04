@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dental cavities
-TITLE: Concepts of dental caries and their consequences for understanding the disease.
-PMID: 9088687
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9088687/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The way in which we conceptually consider dental caries determines our choice of preventive and treatment strategy. In this paper the definition of dental caries is discussed and the related problems concerning causality are addressed. Dental caries reflects symptoms of ongoing and past disease--not the disease itself. As such, it is important to record early stages of signs of the disease, i.e. non-cavitated stages of lesion development. The dynamic nature of the processes leading to net loss of mineral (hence a lesion) is emphasized, and appreciating that caries is ubiquitous in populations around the world and initiation and progression of lesions continues lifelong leads to the logical conclusion that we can control dental caries through a variety of measures--but not truly prevent the disease. We can prevent cavities by controlling the patho-physiological events which may result in a net loss of mineral. The relative role of dental plaque in caries control is discussed in relation to the role of the many determinants which influence the likelihood for lesion development. It is concluded that several paradigms about the nature of dental caries should be reconsidered to provide the most cost-effective dental services.

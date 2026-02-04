@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Social anxiety
-TITLE: Social problem solving in social anxiety disorder.
-PMID: 31704632
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31704632/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Successful social problem solving requires both an adaptive orientation toward the problem and the necessary skills to generate relevant and effective solutions. Surprisingly few studies have examined social problem solving in the context of social anxiety. We examined social problem solving in 38 participants with social anxiety disorder (SAD) in comparison to 30 healthy control (HC) participants with no history of anxiety problems. Participants rated their problem solving attitudes and abilities (i.e., problem orientation) and then generated solutions to hypothetical interpersonal problems from both their own perspective and that of an objective other. These solutions were coded for effectiveness and relevance, as well as the degree to which the solution was active versus passive. Participants with SAD exhibited a more negative problem orientation than HC participants. Furthermore, although SAD and HC participants demonstrated no overall differences in generating relevant and effective solutions to interpersonal problems, utilizing a personal perspective facilitated the generation of more active solutions for HC participants, but less active solutions for those with SAD. Findings illuminate new research directions regarding social problem solving in social anxiety, with potential implications for applied intervention.

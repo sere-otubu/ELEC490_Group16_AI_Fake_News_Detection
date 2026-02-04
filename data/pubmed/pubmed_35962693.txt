@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antibiotics classes
-TITLE: CROSS-REACTIVITY TO ANTIBIOTICS: PROPOSITIONS FOR SELECTING ALTERNATIVES.
-PMID: 35962693
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35962693/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The aim: To analyze CR among antibacterials of different classes and to overcome some widespread misconceptions regarding CR between different classes of antibiotics. Materials and methods: The narrative review represents an assessment of the most pertinent literary sources published in English language, which dealt with the issues of cross-reactivity between individual antibiotics and different classes of these ones. Conclusions: With a high probability of type I AR in a patient in the past, it is better to plan the treatment of patients together with an allergist / immunologist. If this probability is estimated to be low, the choice of a particular antibiotic may be based to some extent on CR data.

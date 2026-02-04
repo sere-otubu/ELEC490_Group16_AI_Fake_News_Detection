@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Speech therapy
-TITLE: Digital Applications Supporting Speech Therapy: Speech Therapists and Parents Insights.
-PMID: 39575773
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39575773/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The paper presents perceptions and feedback from speech therapists and parents embracing the idea of using digital tools in improving the language of the children with speech disorders. The authors investigated the perception of speech therapists and parents and their readiness to use digital tools in speech therapy starting from several digital applications from the domain. The feedback was positive, 88.3% of the parents agree to use digital apps at home, between face-to-face speech therapy sessions coordinated by speech therapists and 75% of parents agree to use them several days a week.

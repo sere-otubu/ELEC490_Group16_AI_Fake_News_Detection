@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rubella
-TITLE: Rubella.
-PMID: 17337363
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17337363/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rubella is associated with an 80% risk of congenital abnormalities if acquired in the first 12 weeks of pregnancy. Reinfection in early pregnancy presents a much smaller risk. Prenatal diagnosis may be useful to assess the risk to the fetus. Congenital rubella is a progressive disease and some abnormalities will not be present at birth. Rubella and congenital rubella are usually diagnosed by detection of rubella-specific IgM; it may be difficult to confirm a diagnosis of congenital rubella in children over 3 months of age. Rubella vaccines are usually combined with measles and mumps vaccines. Their use has enabled some industrialised countries to eliminate rubella and congenital rubella. Countries should ensure that susceptible women of child-bearing age and health care workers are offered a rubella-containing vaccine. Rubella vaccine is contraindicated during pregnancy, but if a pregnant woman is inadvertently vaccinated it is not an indication for termination or prenatal diagnosis.

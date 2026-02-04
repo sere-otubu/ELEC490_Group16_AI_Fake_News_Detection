@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Patient data privacy HIPAA
-TITLE: HIPAA Privacy 101: essentials for case management practice.
-PMID: 12555039
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12555039/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The Health Insurance Portability and Accountability Act (HIPAA) has significant impact on the delivery of healthcare in the United States. The Administrative Simplification (AS) requirements of HIPAA are aimed at reducing administrative costs and burdens in the healthcare industry. The core components of HIPAA's AS requirements address healthcare transactions, code sets, security, unique identifiers, and privacy of health information. HIPAA's privacy standard limits the nonconsensual use and release of private health information, gives patients new rights to access their medical records and to know who else has accessed them, restricts most disclosure of health information to the minimum needed for the intended purpose, establishes new criminal and civil sanctions for improper use or disclosure, and establishes new requirements for access to records by researchers and others. This article focuses on HIPAA's privacy requirements as related to case management of workers compensation populations, the treatment of protected health information, and how case managers can ensure they provide appropriate services while navigating the requirements of HIPAA's privacy standard.

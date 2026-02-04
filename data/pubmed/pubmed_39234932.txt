@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Osteoporosis
-TITLE: Estrogen deficiency-mediated osteoimmunity in postmenopausal osteoporosis.
-PMID: 39234932
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39234932/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Postmenopausal osteoporosis (PMO) is a common disease associated with aging, and estrogen deficiency is considered to be the main cause of PMO. Recently, however, osteoimmunology has been revealed to be closely related to PMO. On the one hand, estrogen deficiency directly affects the activity of bone cells (osteoblasts, osteoclasts, osteocytes). On the other hand, estrogen deficiency-mediated osteoimmunity also plays a crucial role in bone loss in PMO. In this review, we systematically describe the progress of the mechanisms of bone loss in PMO, estrogen deficiency-mediated osteoimmunity, the differences between PMO patients and postmenopausal populations without osteoporosis, and estrogen deficiency-mediated immune cells (T cells, B cells, macrophages, neutrophils, dendritic cells, and mast cells) activity. The comprehensive summary of this paper provides a clear knowledge context for future research on the mechanism of PMO bone loss.

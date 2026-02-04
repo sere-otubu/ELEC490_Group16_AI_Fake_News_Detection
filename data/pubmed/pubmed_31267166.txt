@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Nicotine dependence
-TITLE: Molecular Mechanisms Associated with Nicotine Pharmacology and Dependence.
-PMID: 31267166
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31267166/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Tobacco dependence is a leading cause of preventable disease and death worldwide. Nicotine, the main psychoactive component in tobacco cigarettes, has also been garnering increased popularity in its vaporized form, as derived from e-cigarette devices. Thus, an understanding of the molecular mechanisms underlying nicotine pharmacology and dependence is required to ascertain novel approaches to treat drug dependence. In this chapter, we review the field's current understanding of nicotine's actions in the brain, the neurocircuitry underlying drug dependence, factors that modulate the function of nicotinic acetylcholine receptors, and the role of specific genes in mitigating the vulnerability to develop nicotine dependence. In addition to nicotine's direct actions in the brain, other constituents in nicotine and tobacco products have also been found to alter drug use, and thus, evidence is provided to highlight this issue. Finally, currently available pharmacotherapeutic strategies are discussed, along with an outlook for future therapeutic directions to achieve to the goal of long-term nicotine cessation.

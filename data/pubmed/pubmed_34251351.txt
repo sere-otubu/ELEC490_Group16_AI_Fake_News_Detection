@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Type 2 Diabetes
-TITLE: Type 2 Diabetes Mellitus and Cognitive Impairment.
-PMID: 34251351
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34251351/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Type 2 diabetes mellitus (T2DM) is strongly associated with lower performance on multiple domains of cognitive function and with structural abnormalities of the brain. With the growing epidemic of diabetes and aging population, neural complications of diabetes are expected to rise and becoming a challenge for future health implications. Understanding pathophysiology, factors associated with this complication, manifestation of cognitive impairment and various metabolic and neuroradiologic markers suggestive of this pathologic condition is crucial for proper management of this potentially debilitating complication of T2DM. This review will discuss briefly important aspects of cognitive impairment in T2DM.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Platelets
-TITLE: Platelets in glomerular disease.
-PMID: 6372653
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6372653/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Platelets are inflammatory cell fragments derived from the same stem cells as polymorphs and macrophages. They can induce inflammation and release chemotactic and mitogenic substances. There is evidence from both experimental and clinical nephritis that they are involved in mediating or amplifying glomerular injury by increasing vascular permeability and by promoting glomerular cell proliferation and infiltration. The nephrotic state renders platelets hyperaggregable.

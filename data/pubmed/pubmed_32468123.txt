@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tendinitis
-TITLE: [Calcifying tendinitis with osseous involvement : A diagnostic challenge].
-PMID: 32468123
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32468123/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The goal of this article is the radiological visualization of the often very difficult pathoanatomical changes associated with calcifying tendinitis, which in rare cases may erode and ultimately invade the bone. We investigated the diagnostic reliability of radiographs, magnetic resonance imaging (MRI) and computed tomography (CT) in 11 patients with calcifying tendinitis. Eight lesions were located in the upper (4 supraspinatus tendon, 2 deltoideus tendon, 1 pectoralis tendon, 1 biceps tendon) and 3 in the lower extremity (2 gluteus tendon, 1 adductor magnus tendon). The average age was 58 years (8 women, 3 men). Calcifying tendinitis is the consequence of overuse of an enthesis with consecutive necrosis and calcification. However, in rare cases, erosion of the underlying bone with bone invasion, which is associated with sudden escalation of long-term pain, is observed. The detection of the pathoanatomical changes using MRI is problematic because with this method calcifications and ossifications are only indirectly visualized and, thus, can only be interpreted with uncertainty. The method of choice is CT, which can be used to demonstrate the three key elements of calcifying tendinitis, i.e., the calcified/ossified part of the tendon in the insertion area, a defect in the cortex, and calcification in the medullary space.

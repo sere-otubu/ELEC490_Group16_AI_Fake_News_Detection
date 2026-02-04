@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21198823)
-    QUESTION: Can dobutamine stress echocardiography induce cardiac troponin elevation?
-    CONTEXT: Elevation of cardiac troponin (cTn) is considered specific for myocardial damage. Elevated cTn and echocardiogrpahic documentation of wall motion abnormalities (WMAs) that were recorded after extreme physical effort raise the question whether dobutamine stress echo (DSE), can also induce elevation of troponin.
-    ANSWER: Our results indicate that there is no elevation of cTn despite the occurrence of significant WMAs on DSE. We conclude that cTnI cannot be used as an additional diagnostic tool during pharmacological stress test performed to evaluate the presence and severity of ischemia.
-    

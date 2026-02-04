@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mindfulness meditation
-TITLE: Sleep and mindfulness meditation as they relate to false memory.
-PMID: 30244286
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30244286/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-By a systematic analysis of the current literature, we compare two states of sleep and meditation in terms of their role in the formation or suppression of Deese-Roediger-McDermott (DRM) false memory. We aim to suggest that the occurrence of false memory under these two states is a result of reinforcing some abilities and changes in cognitive systems which can ultimately improve some aspects of cognitive functions. In our analogy, we propose that: (1) both sleep and meditation may improve source monitoring ability whose failure is one of the most important mechanisms in producing false memories, and (2) despite improvement in source monitoring ability, adaptive cognitive processes, as mechanisms which are common in sleep and meditation, can still produce false memories. In conclusion, we propose that in spite of their contribution to false memory through adaptive processes, the beneficial role of sleep and meditation in cognition may be more prominent than their harmful role.

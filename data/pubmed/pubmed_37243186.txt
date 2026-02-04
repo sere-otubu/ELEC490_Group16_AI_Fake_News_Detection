@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antivirals
-TITLE: Broad-Spectrum Antivirals Derived from Natural Products.
-PMID: 37243186
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37243186/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Scientific advances have led to the development and production of numerous vaccines and antiviral drugs, but viruses, including re-emerging and emerging viruses, such as SARS-CoV-2, remain a major threat to human health. Many antiviral agents are rarely used in clinical treatment, however, because of their inefficacy and resistance. The toxicity of natural products may be lower, and some natural products have multiple targets, which means less resistance. Therefore, natural products may be an effective means to solve virus infection in the future. New techniques and ideas are currently being developed for the design and screening of antiviral drugs thanks to recent revelations about virus replication mechanisms and the advancement of molecular docking technology. This review will summarize recently discovered antiviral drugs, mechanisms of action, and screening and design strategies for novel antiviral agents.

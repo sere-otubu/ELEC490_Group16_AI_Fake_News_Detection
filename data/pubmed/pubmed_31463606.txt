@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Placebo effect
-TITLE: Placebos and the Placebo Effect in Drug Trials.
-PMID: 31463606
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31463606/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In this review, we explored different ways of controlling the placebo effects in clinical trials and described various factors that may increase/decrease the placebo effect in randomized placebo-controlled trials. These factors can be subdivided into four groups, and while not all factors are effective in every study and under all clinical conditions, they show on the whole that - even under the ideal condition of drug therapy, where blinded placebo provision is much easier and warranted than in, e.g., psychotherapy - many factors need to be controlled to ascertain that the goal of the clinical trials, fair assessment of superiority of the drug over placebo in placebo-controlled trials and fair assessment of non-inferiority of the drug compared to another drug in comparator trials, is reached. Ignorance towards the placebo effect, which was common in the past, is no longer acceptable; instead, it should be the goal of all therapeutic trials to minimize the placebo effect in clinical trials, while utilizing and maximizing it in clinical routine.

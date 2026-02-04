@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Coronary artery disease
-TITLE: Treatment of Coronary Artery Disease in Women.
-PMID: 29744012
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29744012/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Despite advances in the diagnosis and treatment of coronary artery disease (CAD), gender-related disparities continue to exist, and ischemic heart disease mortality in women remains higher than in men. This review will highlight gender-specific differences in the treatment of CAD that may impact outcomes for women. Further studies are needed to clarify the unique pathophysiology of CAD in women and, in turn, create more specific guidelines for its diagnosis, management, and treatment in this patient population.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fibromyalgia
-TITLE: [Fibromyalgia].
-PMID: 11386124
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11386124/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The classification of fibromyalgia is based on the criteria of the American College of Rheumatology. For diagnostic reasons autonomic disturbances and mental features have to be considered. The distinction between fibromyalgia (tender points) and myofascial pain syndrome (trigger points) is essential. Internal and neurological disorders as a primary cause of fibromyalgia have to be excluded. The aetiology and pathogenesis of fibromyalgia still remain uncertain. The myopathological patterns in fibromyalgia are non-specific: type-II-fiber-atrophy, a slight increase in lipid droplets, a proliferation of mitochondria and a slightly elevated incidence of ragged red fibers. Biochemically alterations of the serotonin system and high levels of substance P in the cerebrospinal fluid of fibromyalgia patients are important. Animal experiments showed that the central stimulation by nociceptor input from muscles is exaggerated in skeletal muscle pain conditions, suggesting central hyperexcitability. The diagnosis of fibromyalgia requires a thorough exclusion of other rheumatologic and neurologic disorders. The differential diagnosis is complicated by an overlap to other chronic somatoform pain disorders.

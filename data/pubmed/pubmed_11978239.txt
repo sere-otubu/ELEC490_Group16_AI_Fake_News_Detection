@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 11978239)
-    QUESTION: Do primary care physicians underprescribe antibiotics for peptic ulcer disease?
-    CONTEXT: To determine how often primary care physicians prescribe eradication therapy for peptic ulcer disease (PUD) and nonulcer dyspepsia (NUD).
-    ANSWER: While Italian primary care physicians appropriately target eradication therapy for H pylori infection in patients with peptic ulcer disease rather than nonulcer disease, the intervention was still underused in these patients. Improvements in this prescribing behavior are needed.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chromosomes
-TITLE: Marsupial chromosomics: bridging the gap between genomes and chromosomes.
-PMID: 30630589
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30630589/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Marsupials have unique features that make them particularly interesting to study, and sequencing of marsupial genomes is helping to understand their evolution. A decade ago, it was a huge feat to sequence the first marsupial genome. Now, the advances in sequencing technology have made the sequencing of many more marsupial genomes possible. However, the DNA sequence is only one component of the structures it is packaged into: chromosomes. Knowing the arrangement of the DNA sequence on each chromosome is essential for a genome assembly to be used to its full potential. The importance of combining sequence information with cytogenetics has previously been demonstrated for rapidly evolving regions of the genome, such as the sex chromosomes, as well as for reconstructing the ancestral marsupial karyotype and understanding the chromosome rearrangements involved in the Tasmanian devil facial tumour disease. Despite the recent advances in sequencing technology assisting in genome assembly, physical anchoring of the sequence to chromosomes is required to achieve a chromosome-level assembly. Once chromosome-level assemblies are achieved for more marsupials, we will be able to investigate changes in the packaging and interactions between chromosomes to gain an understanding of the role genome architecture has played during marsupial evolution.

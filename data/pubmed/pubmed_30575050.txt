@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mindfulness meditation
-TITLE: The effect of mindfulness meditation on sleep quality: a systematic review and meta-analysis of randomized controlled trials.
-PMID: 30575050
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30575050/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There is a growing interest in the effectiveness of mindfulness meditation for sleep disturbed populations. Our study sought to evaluate the effect of mindfulness meditation interventions on sleep quality. To assess for relative efficacy, comparator groups were restricted to specific active controls (such as evidenced-based sleep treatments) and nonspecific active controls (such as time/attention-matched interventions to control for placebo effects), which were analyzed separately. From 3303 total records, 18 trials with 1654 participants were included. We determined the strength of evidence using four domains (risk of bias, directness of outcome measures, consistency of results, and precision of results). At posttreatment and follow-up, there was low strength of evidence that mindfulness meditation interventions had no effect on sleep quality compared with specific active controls (ES 0.03 (95% CI -0.43 to 0.49)) and (ES -0.14 (95% CI -0.62 to 0.34)), respectively. Additionally, there was moderate strength of evidence that mindfulness meditation interventions significantly improved sleep quality compared with nonspecific active controls at postintervention (ES 0.33 (95% CI 0.17-0.48)) and at follow-up (ES 0.54 (95% CI 0.24-0.84)). These preliminary findings suggest that mindfulness meditation may be effective in treating some aspects of sleep disturbance. Further research is warranted.

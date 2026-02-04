@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23002947)
-    QUESTION: Does feeding tube insertion and its timing improve survival?
-    CONTEXT: To examine survival with and without a percutaneous endoscopic gastrostomy (PEG) feeding tube using rigorous methods to account for selection bias and to examine whether the timing of feeding tube insertion affected survival.
-    ANSWER: Neither insertion of PEG tubes nor timing of insertion affect survival.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Liver function
-TITLE: The dielectric properties of biological tissues: I. Literature survey.
-PMID: 8938024
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8938024/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The dielectric properties of tissues have been extracted from the literature of the past five decades and presented in a graphical format. The purpose is to assess the current state of knowledge, expose the gaps there are and provide a basis for the evaluation and analysis of corresponding data from an on-going measurement programme.

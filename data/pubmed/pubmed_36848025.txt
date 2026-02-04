@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lymphatic system
-TITLE: Role of the Renal Lymphatic System in Heart Failure.
-PMID: 36848025
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36848025/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The lymphatic system plays a major but overlooked role in maintaining fluid homeostasis. Given the unique fluid homeostasis functions of the kidneys, dysregulation of the renal lymphatic system underlies the development of self-propagating congestive pathomechanisms. In this review, we outline the roles of the renal lymphatic system in heart failure (HF). Studies have uncovered several pathomechanisms involving the renal lymphatic system in congestive states, such as impaired interstitial draining by the renal lymphatic system, impaired structure and valves of renal lymphatics, lymphatic-induced increase in renal reabsorption of water and sodium, and development of albuminuria with proteinuria-induced renal lymphangiogenesis. These self-propagating mechanisms result in "renal tamponade" with manifestations of cardiorenal syndrome and inappropriate renal response to diuretics. Dysregulation of the renal lymphatic system is integral to the development and progression of congestion in HF. Targeting renal lymphatics may provide a novel pathway to treat intractable congestion.

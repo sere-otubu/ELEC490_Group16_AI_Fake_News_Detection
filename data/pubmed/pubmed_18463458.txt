@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Contraceptive pills
-TITLE: Contraceptive care for adolescents.
-PMID: 18463458
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18463458/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Adolescents have a high rate of unintended pregnancy: 82% of pregnancies for women aged 15 to 19 years are unintended. The large majority of sexually active adolescent women are using some method of contraception, but few are using long-acting highly effective methods, that is, intrauterine devices and implants. Most adolescent women are relying on oral contraceptive pills and/or condoms as their most effective method, with the third most common method being depot medroxyprogesterone acetate. None of the long-acting highly effective methods are contraindicated in adolescents, and they should be considered for use and offered to young women as contraceptive options.

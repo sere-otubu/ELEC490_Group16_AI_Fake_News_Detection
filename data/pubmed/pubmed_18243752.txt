@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18243752)
-    QUESTION: Should chest wall irradiation be included after mastectomy and negative node breast cancer?
-    CONTEXT: This study aims to evaluate local failure patterns in node negative breast cancer patients treated with post-mastectomy radiotherapy including internal mammary chain only.
-    ANSWER: Post-mastectomy radiotherapy should be discussed for a sub-group of node-negative patients with predictors factors of local failure such as age<or = 40 years and larger tumour size.
-    

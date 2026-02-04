@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Nutritional supplements
-TITLE: Nutritional supplements and IVF: an evidence-based approach.
-PMID: 38184959
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38184959/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Many women undergoing IVF take supplements during treatment. The purpose of this review was to systematically review these nutritional supplements. The therapies studied are dehydroepiandrosterone (DHEA), melatonin, co-enzyme Q10 (CoQ1O), carnitine, selenium, vitamin D, myo-inositol, omega-3, Chinese herbs and dietary interventions. A literature search up to May 2023 was undertaken. The data suggest that a simple nutritional approach would be to adopt a Mediterranean diet. With regards to supplements to treat a potential poor ovarian response to ovarian stimulation, starting DHEA and COQ-10 before cycle commencement is better than control therapies. Furthermore, medication with CoQ10 may have some merit, although it is unclear whether its place is for older women, for those with a poor response to ovarian stimulation or for poor embryonic development. There appears a benefit for some IVF outcomes for the use of melatonin, although it is unclear what group of patients would derive the benefit and the appropriate dosing regimen. For women with polycystic ovary syndrome, there may be a benefit to the use of myo-inositol, although again the dosing regimen is unclear. Furthermore, the place of vitamin D supplementation has yet to be clarified, and supplementation with omega-3 free fatty acids may lead to improvements in clinical and embryological IVF outcomes.

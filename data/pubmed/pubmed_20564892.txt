@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antihistamines
-TITLE: [Antihistamines in the treatment of allergic rhinitis--update 2008/2009].
-PMID: 20564892
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20564892/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The following paper reviews the latest news on antihistamines used in the treatment of allergic rhinitis. It describes the new results of investigations on clinical application of H3 and H4 receptors in therapy of allergic diseases as well as the effect of emedastine on histamine-induced tissue remodeling. Contemporary clinical research of these drugs fulfills the requirements of placebo-controlled trials, including the comparison with a reference drug, usually cetirizine. The paper discusses efficacy and safety of a new drug--bilastine, and the possibility to improve clinical outcome by combining antihistamine drugs with inhaled glucocorticosteroids and antileukotrienes. It also presents the studies on high efficacy of nasal antihistamines, which most probably results from their high concentration in inflamed tissue, as well as describes the latest news on safe use of antihistamines, including studies of fexofenadine enantiomers in drug interactions with P-glycoprotein, safety of a new antihistamine medication--rupatadine, and psychostimulating effect of some other antihistamines. The review shows that antihistamines, the most frequently used class of anti-allergy medications, have been constantly improved, which is of significant importance for progress of allergic diseases treatment.

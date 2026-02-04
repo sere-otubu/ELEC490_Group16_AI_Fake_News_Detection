@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12612531)
-    QUESTION: Fragility of the esophageal mucosa: a pathognomonic endoscopic sign of primary eosinophilic esophagitis?
-    CONTEXT: Primary eosinophilic esophagitis, a chronic inflammatory disorder of the esophagus, evokes recurrent dysphagia. Endoscopy is often unremarkable, and no consensus exists regarding management of resultant dysphagia. The response of a series of patients with primary eosinophilic esophagitis to dilation is reported together with a description of a possibly pathognomonic sign: fragile esophageal mucosa, for which the term "crêpe-paper" mucosa is introduced.
-    ANSWER: Primary eosinophilic esophagitis is characterized by fragile esophageal mucosa that readily tears in response to minor trauma during otherwise uneventful diagnostic endoscopy. This "crêpe-paper" sign may alert endoscopists to the presence of the disease when other mucosal alterations are lacking. Dilation is effective for patients with symptoms with minimal morbidity, despite development of disquieting lesions in response to the procedure.
-    

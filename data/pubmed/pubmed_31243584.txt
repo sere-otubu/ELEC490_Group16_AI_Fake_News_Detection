@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Meal planning
-TITLE: Meal planning values impacted by the cancer experience in families with school-aged survivors-a qualitative exploration and recommendations for intervention development.
-PMID: 31243584
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31243584/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Increased cardiovascular disease and second cancer risks among childhood cancer survivors (CCS) makes them and their families important audiences for nutrition intervention. Family meals and home cooking practices have been associated with improved diet and health, but there is a gap in the literature on understanding these behaviors and their motivating values among CCS families. This study qualitatively explores family meal values and behaviors in a sample of CCS parent-child dyads. This observational and qualitative study recruited a convenience sample of 11 parent-CCS dyads. Data collection included audio and video recording of food preparation events in participant homes, which were analyzed with an inductive coding technique to examine meal-related values in CCS families. Analyses revealed four major categories of meal values. Effort, including time and difficulty, as well as budget, healthfulness, and family preferences emerged as recurrent values impacting meal preparation. These values were impacted by the cancer experience upon diagnosis, during treatment, and into survivorship. A better understanding of CCS family meal planning values, the impact of the cancer experience on these values, and the inclusion of CCS in food preparation reveals potential intervention targets, facilitators, and barriers for future interventions to improve dietary behaviors among CCS.

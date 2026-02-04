@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Proton pump inhibitors
-TITLE: Proton Pump Inhibitors: Risk for Myopathy?
-PMID: 27539734
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27539734/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The purpose of this article is to describe the relationship between proton pump inhibitors (PPIs) and symptoms of myopathy based on case reports. A literature search was conducted in PubMed (1946 to June 2016) using MeSH terms proton pump inhibitors, omeprazole, esomeprazole, lansoprazole, dexlansoprazole, rabeprazole, pantoprazole, and muscular diseases. Additionally, a search was conducted in ToxNet and EMBASE using similar search criteria. The resulting articles were scanned to assess relevance to the review. Bibliographies of all relevant articles were evaluated for additional sources; 26 articles resulted from the search of PubMed, ToxNet, and EMBASE; articles that involved medications typically considered to have myalgia-like side effects (eg, statins), or included patients who presented with a confounding disease state (eg, Guillain-Barré) were excluded. In total, 11 case reports as well as a review of an adverse event reporting database that included 292 cases were evaluated. Association of PPI use and myopathy symptoms does not have a clear etiology. Overall, the available published data do not show a high risk of myopathy with PPI use but should be considered if a patient presents with myopathy symptoms and concurrent PPI use. A limited body of published data suggests that PPI use has been associated with myopathy-like symptoms without long-term effects following discontinuation. Although myopathy is a rare adverse effect observed with PPIs, it can be a serious side effect to be considered when starting a patient on acid suppression therapy.

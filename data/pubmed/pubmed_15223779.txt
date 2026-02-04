@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 15223779)
-    QUESTION: c-Kit-dependent growth of uveal melanoma cells: a potential therapeutic target?
-    CONTEXT: This study was conducted to investigate the expression and functional impact of the proto-oncogene c-kit in uveal melanoma.
-    ANSWER: The results confirm that c-kit is vastly expressed in uveal melanoma, suggest that the c-kit molecular pathway may be important in uveal melanoma growth, and point to its use as a target for therapy with STI571.
-    

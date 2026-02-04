@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Electronic health records
-TITLE: Security Techniques for the Electronic Health Records.
-PMID: 28733949
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28733949/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The privacy of patients and the security of their information is the most imperative barrier to entry when considering the adoption of electronic health records in the healthcare industry. Considering current legal regulations, this review seeks to analyze and discuss prominent security techniques for healthcare organizations seeking to adopt a secure electronic health records system. Additionally, the researchers sought to establish a foundation for further research for security in the healthcare industry. The researchers utilized the Texas State University Library to gain access to three online databases: PubMed (MEDLINE), CINAHL, and ProQuest Nursing and Allied Health Source. These sources were used to conduct searches on literature concerning security of electronic health records containing several inclusion and exclusion criteria. Researchers collected and analyzed 25 journals and reviews discussing security of electronic health records, 20 of which mentioned specific security methods and techniques. The most frequently mentioned security measures and techniques are categorized into three themes: administrative, physical, and technical safeguards. The sensitive nature of the information contained within electronic health records has prompted the need for advanced security techniques that are able to put these worries at ease. It is imperative for security techniques to cover the vast threats that are present across the three pillars of healthcare.

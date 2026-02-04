@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Heart failure
-TITLE: Heart Failure in Women.
-PMID: 29744014
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29744014/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Heart failure is an important cause of morbidity and mortality in women, and they tend to develop it at an older age compared to men. Heart failure with preserved ejection fraction is more common in women than in men and accounts for at least half the cases of heart failure in women. When comparing men and women who have heart failure and a low left ventricular ejection fraction, the women are more symptomatic and have a similarly poor outcome. Overall recommendations for guideline-directed medical therapies show no differences in treatment approaches between men and women. Overall, women are generally underrepresented in clinical trials for heart failure. Further studies are needed to shed light into different mechanisms, causes, and targeted therapies of heart failure in women.

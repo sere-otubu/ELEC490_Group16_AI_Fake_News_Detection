@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chickenpox
-TITLE: Chickenpox: An update.
-PMID: 29789159
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29789159/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Despite its benign characteristics, chickenpox is a childhood disease responsible for complications and deaths, particularly in the high-risk population. VariZIG<sup>®</sup>, not commercialized in France, is a good alternative for seronegative individuals exposed to the virus and not eligible for vaccination. The efficacy of routine vaccination has been demonstrated with a decrease in chickenpox incidence and with the development of herd immunity. Over time, the protective antibody titer of vaccinated people decreases and can be maintained by two doses of the vaccine. A tetravalent measles-mumps-rubella-chickenpox vaccine, used in the United States, has a good tolerability in spite of the occurrence of fever and febrile seizures. Routine vaccination would contribute to make savings in France, by reducing direct and indirect costs of chickenpox.

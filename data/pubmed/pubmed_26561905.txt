@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26561905)
-    QUESTION: Do teleoncology models of care enable safe delivery of chemotherapy in rural towns?
-    CONTEXT: To compare the dose intensity and toxicity profiles for patients undergoing chemotherapy at the Townsville Cancer Centre (TCC), a tertiary cancer centre in northern Queensland, with those for patients treated in Mount Isa, supervised by the same medical oncologists via teleoncology.
-    ANSWER: It appears safe to administer chemotherapy in rural towns under the supervision of medical oncologists from larger centres via teleoncology, provided that rural health care resources and governance arrangements are adequate.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ALS
-TITLE: ALS.
-PMID: 8959992
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8959992/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The cause of ALS is not known but there are four main hypotheses about its etiology. First, an excess of extracellular glutamate in the CNS of patients with ALS resulting from a defect in glutamate reuptake may have excitotoxic effects on motor neurons. Clinical trials suggest the antiglutamate agent riluzole improves survival of patients with the disease. Second, ALS may be an autoimmune disease, but immunologically-based treatments have been unsuccessful. The third hypothesis is that ALS results from a lack of neurotrophic growth factors. Preliminary results from clinical trials indicate recombinant human insulin-like growth factor I offers therapeutic promise. Finally, familial ALS is sometimes linked to a gene encoding a Cu/Zn-binding superoxide dismutase; the mutations in ALS are thought to result in gain of function of dismutase activity. The involvement of superoxide dismutase in sporadic ALS is unclear.

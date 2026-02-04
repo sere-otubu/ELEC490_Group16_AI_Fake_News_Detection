@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antisocial personality disorder
-TITLE: The neurobiology of antisocial personality disorder.
-PMID: 39244014
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39244014/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Despite increasing recognition that there is a neurobiological basis of antisocial behavior in addition to its psychosocial foundation, much less is known about the specificity of the neurobiological findings to the psychiatric condition of antisocial personality disorder (APD). This article provides a review of research on genetic, brain imaging, neurocognitive, and psychophysiological factors in relation to assessments of APD. Findings show that there are significant genetic effects on APD, particularly related to the serotonergic system, as well as abnormalities in brain regions such as the frontal lobe. Associations between psychophysiological measures of autonomic nervous system functioning and APD are more mixed. Results indicating that APD has a significant genetic basis and is characterized by abnormalities in brain structure/function and neurocognitive impairments provide additional evidence that supports the conceptualization of APD as a neurodevelopmental disorder. Findings may also help inform treatment approaches that target neurobiological risks for APD symptoms. This article is part of the Special Issue on "Personality Disorders".

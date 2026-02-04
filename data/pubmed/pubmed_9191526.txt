@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 9191526)
-    QUESTION: Multidisciplinary breast cancer clinics. Do they work?
-    CONTEXT: In an attempt to improve the care they provide for their patients with breast cancer, the authors' institution developed a multidisciplinary breast cancer clinic (MDBCC) to offer "one-stop shopping" consultation and support for newly diagnosed breast cancer patients.
-    ANSWER: Although planning and operating a multidisciplinary clinic is not a new venture, to the best of the authors' knowledge, they have provided the first report demonstrating the benefits described above.
-    

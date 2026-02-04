@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Endocrine system
-TITLE: Rhythms in the endocrine system of fish: a review.
-PMID: 28447151
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28447151/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The environment which living organisms inhabit is not constant and many factors, such as light, temperature, and food availability, display cyclic and predictable variations. To adapt to these cyclic changes, animals present biological rhythms in many of their physiological variables, timing their functions to occur when the possibility of success is greatest. Among these variables, many endocrine factors have been described as displaying rhythms in vertebrates. The aim of the present review is to provide a thorough review of the existing knowledge on the rhythms of the endocrine system of fish by examining the hormones that show rhythmicity, how environmental factors control these rhythms and the variation in the responses of the endocrine system depending on the time of the day. We mainly focused on the hypothalamic-pituitary axis, which can be considered as the master axis of the endocrine system of vertebrates and regulates a great variety of functions, including reproduction, growth, metabolism, energy homeostasis, stress response, and osmoregulation. In addition, the rhythms of other hormones, such as melatonin and the factors, produced in the gastrointestinal system of fish are reviewed.

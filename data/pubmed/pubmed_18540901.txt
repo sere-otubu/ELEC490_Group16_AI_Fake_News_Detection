@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18540901)
-    QUESTION: Transient tachypnea of the newborn (TTN): a role for polymorphisms in the beta-adrenergic receptor (ADRB) encoding genes?
-    CONTEXT: DNA was collected for genotyping from 73 term newborns suffering from TTN and 55 healthy controls from a Caucasian cohort.
-    ANSWER: We conclude that beta1Gly49 homozygosity and TACC haplotype of ADRB2 gene, both loss-of-function genetic variations, may predispose to TTN.
-    

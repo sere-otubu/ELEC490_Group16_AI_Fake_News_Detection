@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rosacea
-TITLE: Rosacea and the cardiovascular system.
-PMID: 32621366
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32621366/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rosacea and the cardiometabolic syndrome are both associated with chronic inflammation and a pro-inflammatory phenotype. Emerging clinical evidence supports the relationship between rosacea and cardiometabolic syndrome hypertension and obesity. This article reviews our current findings and understanding in the skin and cardiovascular relationship in rosacea. Rosacea appears to be associated with hypertension, dyslipidemia, and obesity. The role of smoking in rosacea is currently less clear. It remains uncertain whether treatment of these risk factors will aid improvement of rosacea. Greater understanding of rosacea and its association with the cardiovascular system and underlying risk factors could allow for a greater understanding of the body's inflammatory response as well as the formulation of new guidelines for attending clinicians. Dermatologists treating rosacea patients might need to consider enquiring and evaluate their patients' underlying cardiovascular risk factors.

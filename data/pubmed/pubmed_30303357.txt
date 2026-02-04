@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Childhood obesity
-TITLE: Childhood obesity.
-PMID: 30303357
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30303357/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Childhood obesity has assumed epidemic proportions and it is currently one of the most prevalent public health problems. The pathophysiology of excess weight gain is complex with interactions between genetic factors, environment and biological factors. In this review, we highlight the epidemiology of childhood obesity and discuss clinical evaluation of a child with obesity. A staged approach to treatment is detailed. We discuss the role of lifestyle modifications, pharmacotherapy and bariatric surgery as treatment strategies.

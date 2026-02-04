@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Insomnia
-TITLE: Insomnia in the Older Adult.
-PMID: 35659076
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35659076/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although insomnia is not a normal part of the aging process, its prevalence increases with age. Factors such as medications and medical and psychiatric disorders can increase the risk for insomnia. In order to diagnose insomnia, it is important for older adults to complete comprehensive sleep and health histories. Cognitive behavioral therapy for insomnia, which includes stimulus control, sleep restriction, sleep hygiene, and cognitive therapy, is the recommended first-line treatment of insomnia and is more effective that medications for the long-term management of insomnia. Medications such as benzodiazepines and antidepressants should be avoided for the treatment of insomnia in older adults.

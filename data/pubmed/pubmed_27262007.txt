@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Bipolar disorder
-TITLE: Bipolar Disorder.
-PMID: 27262007
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27262007/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Bipolar disorder is a chronic mental health disorder that is frequently encountered in primary care. Many patients with depression may actually have bipolar disorder. The management of bipolar disorder requires proper diagnosis and awareness or referral for appropriate pharmacologic therapy. Patients with bipolar disorder require primary care management for comorbidities such as cardiovascular and metabolic disorders.

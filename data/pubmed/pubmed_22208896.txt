@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ultrasound
-TITLE: Focused ultrasound disruption of the blood-brain barrier: a new frontier for therapeutic delivery in molecular neurooncology.
-PMID: 22208896
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22208896/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Recent advances in molecular neurooncology provide unique opportunities for targeted molecular-based therapies. However, the blood-brain barrier (BBB) remains a major limitation to the delivery of tumor-specific therapies directed against aberrant signaling pathways in brain tumors. Given the dismal prognosis of patients with malignant brain tumors, novel strategies that overcome the intrinsic limitations of the BBB are therefore highly desirable. Focused ultrasound BBB disruption is emerging as a novel strategy for enhanced delivery of therapeutic agents into the brain via focal, reversible, and safe BBB disruption. This review examines the potential role and implications of focused ultrasound in molecular neurooncology.

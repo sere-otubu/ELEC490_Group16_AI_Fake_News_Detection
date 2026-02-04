@@ -1,8 +1,0 @@
-SEARCH_TOPIC: CPR guidelines
-TITLE: Defibrillation.
-PMID: 21879210
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21879210/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Defibrillation may be needed in witnessed and unwitnessed cardiac arrests. Cardiopulmonary resuscitation (CPR) must be initiated and defibrillation administered without delay. Every shock cycle includes 1-2 minutes of CPR followed by rhythm analysis. The energy level for biphasic defibrillation of ventricular fibrillation is 150 J with possible step-wise escalation to 360 J. All healthcare workers need to learn and be authorised to use an automated external defibrillator (AED). In addition, all ambulances must be equipped with AEDs when transporting patients. Self-adhesive pads/paddles must be applied firmly to the skin for best effect. Monitoring electrodes and pacemaker locations should be considered during paddle/pad placement. AED skills should be imparted to a wide variety of community groups. More efforts will be made to increase the availability of AEDs in public, residential, commercial and industrial facilities.

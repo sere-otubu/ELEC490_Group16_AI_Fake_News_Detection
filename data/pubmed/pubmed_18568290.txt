@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18568290)
-    QUESTION: Is there a role for endothelin-1 in the hemodynamic changes during hemodialysis?
-    CONTEXT: The etiology of hemodialysis (HD)-induced hypotension and hypertension remains speculative. There is mounting evidence that endothelin-1 (ET-1) may play a vital role in these hemodynamic changes. We examined the possible role of intradialytic changes of ET-1 in the pathogenesis of hypotension and rebound hypertension during HD.
-    ANSWER: Altered ET-1 levels may be involved in the pathogenesis of rebound hypertension and hypotension during HD.
-    

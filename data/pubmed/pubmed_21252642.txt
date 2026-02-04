@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21252642)
-    QUESTION: Does increased patient awareness improve accrual into cancer-related clinical trials?
-    CONTEXT: Oncology literature cites that only 2% to 4% of patients participate in research. Up to 85% of patients are unaware that clinical trials research is being conducted at their treatment facility or that they might be eligible to participate.
-    ANSWER: A set of educational interventions designed for cancer patients significantly improved their satisfaction with information on clinical research, but did not improve clinical trial enrollment of these participants as of 1 year after the study.
-    

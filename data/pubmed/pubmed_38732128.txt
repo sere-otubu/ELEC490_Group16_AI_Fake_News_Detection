@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Macronutrients
-TITLE: Supplementation of Micro- and Macronutrients-A Role of Nutritional Status in Non-Alcoholic Fatty Liver Disease.
-PMID: 38732128
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38732128/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Non-alcoholic fatty liver disease (NAFLD) is a condition in which the pathological cumulation of fat with coexisting inflammation and damage of hepatic cells leads to progressive dysfunctions of the liver. Except for the commonly well-known major causes of NAFLD such as obesity, dyslipidemia, insulin resistance, or diabetes, an unbalanced diet and imbalanced nutritional status should also be taken into consideration. In this narrative review, we summarized the current knowledge regarding the micro- and macronutrient status of patients suffering from NAFLD considering various diets and supplementation of chosen supplements. We aimed to summarize the knowledge indicating which nutritional impairments may be associated with the onset and progression of NAFLD at the same time evaluating the potential therapy targets that could facilitate the healing process. Except for the above-mentioned objectives, one of the most important aspects of this review was to highlight the possible strategies for taking care of NAFLD patients taking into account the challenges and opportunities associated with the micronutrient status of the patients. The current research indicates that a supplementation of chosen vitamins (e.g., vitamin A, B complex, C, or D) as well as chosen elements such as zinc may alleviate the symptoms of NAFLD. However, there is still a lack of sufficient data regarding healthy ranges of dosages; thus, further research is of high importance in this matter.

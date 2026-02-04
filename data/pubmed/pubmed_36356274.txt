@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Post operative care
-TITLE: Understanding disparities in post-operative mortality for Indigenous patients.
-PMID: 36356274
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36356274/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There is an urgent need for high-quality evidence regarding post-operative mortality among Indigenous peoples. Our group recently published a national audit of 4,000,000 procedures conducted between 2005-2017, which identified considerable disparities in post-operative mortality between Indigenous Māori and non-Indigenous New Zealanders. Understanding the primary drivers of these disparities-for Māori, but likely also other Indigenous populations worldwide-requires us to consider the multiple levels at which these drivers might arise. To that end, in this paper we breakdown these drivers in detail, conceptualising these drivers as operating in layers with each factor leading to the next. These layers include structural factors, care system factors, care process factors, care team factors and patient factors. Each of these factors are presented within a framework that can be used to begin to understand them - with a view to rousing action and inspiring intervention to address inequities in post-operative outcomes experienced by Indigenous peoples.

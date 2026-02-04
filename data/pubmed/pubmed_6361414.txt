@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Electrolytes
-TITLE: The effects of alcohol on blood pressure and electrolytes.
-PMID: 6361414
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6361414/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The interaction between alcohol abuse, changes in blood pressure, and electrolyte abnormalities is complex. Some effects of alcohol are seen only with acute ingestion, some during withdrawal, and some only in chronic drinkers. Careful attention to the interactions between the metabolism of various electrolytes can prevent unnecessary morbidity and mortality in alcoholic patients.

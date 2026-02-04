@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Epidemiology basics
-TITLE: [Not Available].
-PMID: 30484597
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30484597/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The review presents data on the basic molecular ge-netic mechanisms of formation of papillary thyroid carcinoma. The participation of ionizing radiation in the cancer pathogenesis was analyzed. The role of tu-mor microenvironment, inflammation and nuclear trans-cription factor NF-κB in the initiation and development of papillary thyroid carcinoma was shown.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Osteoarthritis
-TITLE: Osteoarthritis.
-PMID: 12897215
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12897215/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Osteoarthritis is a chronic degenerative disorder characterised by cartilage loss. It is extremely prevalent in society and is a major cause of disability. It is important to treat osteoarthritis effectively using a multidisciplinary approach tailored to the patient's needs. This paper reviews current thinking on the aetiology, pathogenesis, investigations, and management of osteoarthritis. The paper also discusses the challenges for developing good quality outcome measures for use in large scale multicentre clinical trials for new osteoarthritis treatments, especially disease modifying osteoarthritis drugs.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Burnout syndrome
-TITLE: Prevalence of burnout syndrome among veterinarians in Spain.
-PMID: 36753395
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36753395/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Burnout is a syndrome of emotional distress common in health-care professions. The aim of this study was to assess the potential levels of burnout syndrome among veterinarians in Spain as well as different factors involved in its prevalence. 282 Spanish veterinarians (57.4% women and 42.6% men). All data were obtained through an online survey. The instrument utilized for this purpose was the Maslach Burnout Inventory Human Services Survey (adapted to a Spanish-speaking population), with analyses performed using statistical software. Moreover, a sociodemographic questionnaire was utilized. Within the considered population, 23% suffered from burnout syndrome and the average scores were 29 points for emotional exhaustion, 14 points for depersonalization, and 35 points for personal accomplishment. A higher prevalence of burnout was associated with small animal clinicians (75.3%) and women (66.1%), in comparison to large animal clinicians (24.6%) and men (33.8%). This study showed for the first time that burnout syndrome is a current and highly relevant risk for Spanish veterinarians. The results obtained could help to raise awareness of this reality and the factors involved in the development or exacerbation of this syndrome.

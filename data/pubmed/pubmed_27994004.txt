@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Geriatric psychiatry
-TITLE: Biological Aging and the Future of Geriatric Psychiatry.
-PMID: 27994004
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27994004/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Advances in understanding the biological bases of aging have intellectually revitalized the field of geriatric psychiatry and broadened its scope to include promoting successful aging and studying resilience factors in older adults. To describe the process by which this paradigm shift has occurred and illustrate its implications for treatment and research of late-life brain disorders, late-life depression is discussed as a prototype case. Prior phases of geriatric psychiatry research were focused on achieving depressive symptom relief, outlining pharmacokinetic and pharmacodynamic differences between older and younger adults, and identifying moderators of treatment response. Building on this work, current geriatric psychiatry researchers have begun to disentangle the etiologic complexity in late-life depression by focusing on the causative aging-related processes involved, identifying both neurobiological and behavioral intermediates, and finally delineating depression subtypes that are distinguishable by their underlying biology and the treatment approach required. In this review, we discuss several age-related processes that are critical to the development of late-life mood disorders, outline implications of these processes for the clinical evaluation and management of later-life psychiatric disorders, and finally put forth suggestions for better integrating aging and developmental processes into the National Institute of Mental Health's Research Domain Criteria.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gene expression
-TITLE: Toward kingdom-wide analyses of gene expression.
-PMID: 36344371
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36344371/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gene expression data for Archaeplastida are accumulating exponentially, with more than 300 000 RNA-sequencing (RNA-seq) experiments available for hundreds of species. The gene expression data stem from thousands of experiments that capture gene expression in various organs, tissues, cell types, (a)biotic perturbations, and genotypes. Advances in software tools make it possible to process all these data in a matter of weeks on modern office computers, giving us the possibility to study gene expression in a kingdom-wide manner for the first time. We discuss how the expression data can be accessed and processed and outline analyses that take advantage of cross-species analyses, allowing us to generate powerful and robust hypotheses about gene function and evolution.

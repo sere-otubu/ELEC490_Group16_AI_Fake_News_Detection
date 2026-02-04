@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Health equity
-TITLE: Addressing Health Equity in Public Health Practice: Frameworks, Promising Strategies, and Measurement Considerations.
-PMID: 31900101
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31900101/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review describes the context of health equity and options for integrating equity into public health practice. We first discuss how the conceptualization of health equity and how equity considerations in US public health practice have been shaped by multidisciplinary engagements. We then discuss specific ways to address equity in core public health functions, provide examples of relevant frameworks and promising strategies, and discuss conceptual and measurement issues relevant to assessing progress in moving toward health equity. Challenges and opportunities and their implications for future directions are identified.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Migraine
-TITLE: [Migraine and hypothalamus].
-PMID: 23602116
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23602116/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Migraine is a complex brain disease. The "generator" of the migrainous attacks remains a subject of debate, but the hypothalamus, with its multiple connections with the other parts of the central nervous system and its controls on the pituitary gland and the autonomic nervous system, is a very serious candidate. Many of the premonitory symptoms of migraine attacks find their origin in the hypothalamus. The hormonal changes which occur during feminine genital life and which impact on the life of the migrainous women have their origin in the hypothalamus. The hypothalamus exerts control over the balance between the parasympathetic and orthosympathetic systems. Orexine, hormones originating in the hypothalamic, are involved in sleep regulation, thermoregulation and neuroendocrine and nociceptive functions. They could play a crucial role in the origin of the migrainous attack and might explain the influence of sleep, eating habits and excessive weight in the occurrence of attacks. Hypothalamic cerebral activation via H2 15OPET activity, suspected by clinical and experimental arguments as a possible trigger for migraine, has been demonstrated during spontaneous attacks. However, no conclusion can be made however as to whether this activation is the cause or the consequence of the migrainous pain.

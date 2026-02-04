@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antivirals
-TITLE: Extracellular Polymeric Substances: Still Promising Antivirals.
-PMID: 35746808
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35746808/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sulfated polysaccharides and other polyanions have been promising candidates in antiviral research for decades. These substances gained attention as antivirals when they demonstrated a high inhibitory effect in vitro against human immunodeficiency virus (HIV) and other enveloped viruses. However, that initial interest was followed by wide skepticism when in vivo assays refuted the initial results. In this paper we review the use of sulfated polysaccharides, and other polyanions, in antiviral therapy, focusing on extracellular polymeric substances (EPSs). We maintain that, in spite of those early difficulties, the use of polyanions and, specifically, the use of EPSs, in antiviral therapy should be reconsidered. We base our claim in several points. First, early studies showed that the main disadvantage of sulfated polysaccharides and polyanions is their low bioavailability, but this difficulty can be overcome by the use of adequate administration strategies, such as nebulization of aerosols to gain access to respiratory airways. Second, several sulfated polysaccharides and EPSs have demonstrated to be non-toxic in animals. Finally, these macromolecules are non-specific and therefore they might be used against different variants or even different viruses.

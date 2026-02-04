@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Skin cancer prevention
-TITLE: Phytochemicals in Skin Cancer Prevention and Treatment: An Updated Review.
-PMID: 29565284
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29565284/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Skin is the largest human organ, our protection against various environmental assaults and noxious agents. Accumulation of these stress events may lead to the formation of skin cancers, including both melanoma and non-melanoma skin cancers. Although modern targeted therapies have ameliorated the management of cutaneous malignancies, a safer, more affordable, and more effective strategy for chemoprevention and treatment is clearly needed for the improvement of skin cancer care. Phytochemicals are biologically active compounds derived from plants and herbal products. These agents appear to be beneficial in the battle against cancer as they exert anti-carcinogenic effects and are widely available, highly tolerated, and cost-effective. Evidence has indicated that the anti-carcinogenic properties of phytochemicals are due to their anti-oxidative, anti-inflammatory, anti-proliferative, and anti-angiogenic effects. In this review, we discuss the preventive potential, therapeutic effects, bioavailability, and structure-activity relationship of these selected phytochemicals for the management of skin cancers. The knowledge compiled here will provide clues for future investigations on novel oncostatic phytochemicals and additional anti-skin cancer mechanisms.

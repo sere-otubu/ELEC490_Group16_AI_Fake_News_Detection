@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immune system
-TITLE: Immune system aging and the aging-related diseases in the COVID-19 era.
-PMID: 35108570
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35108570/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The interest in the process of aging, and specifically in how aging affects the working of our immune system, has recently enormously grown among both specialists (immunologists and gerontologists) and representatives of other disciplines of health sciences. An obvious reason for this interest is the current pandemics of COVID-19, known to affect the elderly more than younger people. In this paper current knowledge about mechanisms and complex facets of human immune system aging is presented, stemming from the knowledge about the working of various parts of the immune system, and leading to understanding of immunological mechanisms of chronic, inflammatory, aging-related diseases and of COVID-19.

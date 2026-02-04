@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 16564683)
-    QUESTION: Is there any interest to perform ultrasonography in boys with undescended testis?
-    CONTEXT: To evaluate the accuracy of ultrasonographic examination in boys with an undescended testis.
-    ANSWER: Sonography has no place in the diagnosis of undescended testis.
-    

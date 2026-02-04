@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Electronic health records
-TITLE: The role of electronic health records in clinical reasoning.
-PMID: 29766520
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29766520/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Electronic health records (eHRs) play an increasingly important role in documentation and exchange of information in multi-and interdisciplinary patient care. Although eHRs are associated with mixed evidence in terms of effectiveness, they are undeniably the health record form of the future. This poses several learning opportunities and challenges for medical education. This review aims to connect the concept of eHRs to key competencies of physicians and elaborates current learning science perspectives on diagnostic and clinical reasoning based on a theoretical framework of scientific reasoning and argumentation. It concludes with an integrative vision of the use of eHRs, and the special role of the patient, for teaching and learning in medicine.

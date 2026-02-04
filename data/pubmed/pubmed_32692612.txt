@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Metabolism basics
-TITLE: Structural Basis of Hydrogenotrophic Methanogenesis.
-PMID: 32692612
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32692612/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Most methanogenic archaea use the rudimentary hydrogenotrophic pathway-from CO<sub>2</sub> and H<sub>2</sub> to methane-as the terminal step of microbial biomass degradation in anoxic habitats. The barely exergonic process that just conserves sufficient energy for a modest lifestyle involves chemically challenging reactions catalyzed by complex enzyme machineries with unique metal-containing cofactors. The basic strategy of the methanogenic energy metabolism is to covalently bind C<sub>1</sub> species to the C<sub>1</sub> carriers methanofuran, tetrahydromethanopterin, and coenzyme M at different oxidation states. The four reduction reactions from CO<sub>2</sub> to methane involve one molybdopterin-based two-electron reduction, two coenzyme F<sub>420</sub>-based hydride transfers, and one coenzyme F<sub>430</sub>-based radical process. For energy conservation, one ion-gradient-forming methyl transfer reaction is sufficient, albeit supported by a sophisticated energy-coupling process termed flavin-based electron bifurcation for driving the endergonic CO<sub>2</sub> reduction and fixation. Here, we review the knowledge about the structure-based catalytic mechanism of each enzyme of hydrogenotrophic methanogenesis.

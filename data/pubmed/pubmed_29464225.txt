@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Eczema
-TITLE: Eczema management in school-aged children.
-PMID: 29464225
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29464225/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Atopic eczema is a relapsing inflammatory skin condition that can be lifelong. Management of eczema is often focused on infants, with many school-aged children undertreated. Uncontrolled eczema has a significant impact on the quality of life of the child and their family. The objective of this article is to discuss the practical management of eczema in school-aged children. This article will describe how eczema manifests in school-aged children, focusing on when to suspect triggers and how to manage these from a general practice perspective, and when to refer the child on to specialist services.

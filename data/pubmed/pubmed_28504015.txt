@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Laparoscopic surgery
-TITLE: Laparoscopic Surgery in Patients on Peritoneal Dialysis: A Review of the Literature.
-PMID: 28504015
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28504015/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Peritoneal dialysis (PD) is an effective renal replacement therapy for the treatment of end-stage renal disease. Patients on PD undergoing abdominal open surgery often fail to resume PD. Laparoscopic surgery has recently become a serious alternative to open surgery in patients on PD to treat different abdominal pathologies. However, only a few studies have reported successful procedures without Tenckhoff catheter removal. The aim of this review is to describe how a laparoscopic technique can allow PD patients to deal with abdominal surgery without shifting to hemodialysis. Only 50 cases of laparoscopic surgical intervention in PD patients have been published to our knowledge. These case series largely concern laparoscopic cholecystectomies, appendectomies, nephrectomies, colectomies, and bariatric procedures. The reported cases show how laparoscopic surgery can be accepted as a valid option for several abdominal surgical procedures in patients on PD with good outcomes and early resumption of PD.

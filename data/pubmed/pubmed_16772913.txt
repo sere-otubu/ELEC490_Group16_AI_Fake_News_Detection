@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 16772913)
-    QUESTION: A comparison of 500 prefilled textured saline breast implants versus 500 standard textured saline breast implants: is there a difference in deflation rates?
-    CONTEXT: This study provides the first large-volume (1000 implant) comparison of the deflation rates of Poly Implant Prosthesis prefilled textured saline breast implants versus a control group of Mentor Siltex textured saline implants.
-    ANSWER: There was a statistically significant difference between the overall deflation rates of Poly Implant Prosthesis prefilled textured saline breast implants and Mentor Siltex breast implants at year 2, year 3, and year 4. After 4 years, the 15.56 percent cumulative deflation rate of Poly Implant Prosthesis implants was over 3.5 times higher than the 4.31 percent deflation rate of the Mentor Siltex implants. There may be several factors contributing to the higher deflation rate seen in Poly Implant Prosthesis implants, including possible in vitro deflation before implantation and silicone shell curing technique. Nevertheless, this statistically significant deflation difference must be taken into account when balancing the risks and benefits of Poly Implant Prosthesis breast implants.
-    

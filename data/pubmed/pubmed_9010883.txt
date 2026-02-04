@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ACE inhibitors
-TITLE: ACE inhibitors and proteinuria.
-PMID: 9010883
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9010883/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review discusses the clinical consequences of urinary protein loss and the effects of inhibitors of the angiotensin converting enzyme (ACE) on this clinical finding. Proteinuria appears to be an important risk factor for renal function deterioration and for cardiovascular mortality. ACE inhibitors have been shown to reduce proteinuria more effectively than other antihypertensives. Their antiproteinuric effect seems to be independent of the underlying renal disease, and is mediated by a specific, not yet fully elucidated mechanism. Urinary protein loss related phenomena, such as hypoalbuminemia and aberrant lipoprotein profile, tend to improve also during ACE inhibitor treatment. Furthermore, ACE inhibition has been shown to prevent the renal function deterioration that is frequently observed in patients with renal disease. Interestingly, it has recently been shown that in proteinuric patients with renal disease the initial proteinuria lowering response to ACE inhibition predicts long-term renal function outcome during this treatment the more proteinuna is lowered during the first months, the better renal function will be preserved over the following years. Because of these favorable effects ACE inhibitors have become a widely used class of agents in nephrology. They are not only prescribed for lowering blood pressure in the hypertensive renal patient, but also as symptomatic treatment of patients with proteinuria, and to prevent renal function loss in patients with both diabetic and non-diabetic renal disease.

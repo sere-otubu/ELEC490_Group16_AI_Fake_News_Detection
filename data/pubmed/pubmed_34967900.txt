@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Circadian rhythms
-TITLE: Circadian Rhythms in the Neuronal Network Timing the Luteinizing Hormone Surge.
-PMID: 34967900
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34967900/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-For billions of years before electric light was invented, life on Earth evolved under the pattern of light during the day and darkness during the night. Through evolution, nearly all organisms internalized the temporal rhythm of Earth's 24-hour rotation and evolved self-sustaining biological clocks with a ~24-hour rhythm. These internal rhythms are called circadian rhythms, and the molecular constituents that generate them are called molecular circadian clocks. Alignment of molecular clocks with the environmental light-dark rhythms optimizes physiology and behavior. This phenomenon is particularly true for reproductive function, in which seasonal breeders use day length information to time yearly changes in fertility. However, it is becoming increasingly clear that light-induced disruption of circadian rhythms can negatively impact fertility in nonseasonal breeders as well. In particular, the luteinizing hormone surge promoting ovulation is sensitive to circadian disruption. In this review, we will summarize our current understanding of the neuronal networks that underlie circadian rhythms and the luteinizing hormone surge.

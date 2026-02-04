@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vitamin D deficiency
-TITLE: Vitamin D deficiency & childhood obesity: a tale of two epidemics.
-PMID: 24645299
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24645299/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Obesity and vitamin D deficiency represent two of the most wide-spread health concerns in the United States, especially among children. There is a well-established inverse relationship between vitamin D status and obesity; however, it is unknown as to whether vitamin D deficiency contributes to, or is a consequence of obesity. Based on available research, the positive effects of correcting hypovitaminosis D in obesity seem to be primarily related to its action on glycemic control.

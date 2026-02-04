@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Bypass surgery
-TITLE: Nerve Bypass Surgery for Spinal Cord Reconstruction.
-PMID: 38735563
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38735563/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Spinal cord injury (SCI) is a devastating condition that significantly decreases the patient's quality of life. Therefore, treatments that can facilitate nerve regeneration, reduce complications, and increase quality of life are valuable for these patients. In this study, we aimed to assess nerve bypass surgery's feasibility and clinical outcomes by transferring the intercostal nerves into the spinal cord. Eight patients with complete thoracic SCI and delayed presentation more than a year after the injury were analyzed retrospectively. All patients underwent nerve bypass surgery with the transfer of 2 pairs of intercostal nerves from proximal to the injury site to the anterolateral spinal cord, followed by duraplasty with fascia grafting to close the dura. Six of the 8 (75%) patients demonstrated motor and sensory improvements, based on the American SCI Association score. Three patients demonstrated a limited recovery of motor function that could be independently triggered without ICN initiation. Five patients demonstrated evidence of cerebrospinal fluid leakage after surgery; however, only 1 patient complained of a headache. Spinal cord bypass surgery is a potential reconstruction method to treat chronic complete thoracic SCI with functional improvements, and is worth further investigation.

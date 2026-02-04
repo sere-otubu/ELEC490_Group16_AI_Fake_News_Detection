@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23149821)
-    QUESTION: Should HIV-infected patients be screened for silent myocardial ischaemia using gated myocardial perfusion SPECT?
-    CONTEXT: A higher prevalence of cardiovascular risk factors (CRFs) in HIV-infected patients, together with chronic infection and treatments, has resulted in an increased risk of silent myocardial ischaemia (SMI). The objective of this study was to evaluate whether myocardial SPECT should be used for screening HIV-infected patients with no clinical symptoms of coronary artery disease.
-    ANSWER: In male HIV-infected patients older than 52 years and with at least two other CRFs, screening for SMI using myocardial SPECT was about four times more likely to be positive than in the general population. This may motivate physicians to advise these patients to undergo more systematic screening for SMI using this technique.
-    

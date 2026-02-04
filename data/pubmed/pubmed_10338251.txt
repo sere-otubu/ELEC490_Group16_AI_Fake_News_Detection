@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Carpal tunnel syndrome
-TITLE: The carpal tunnel syndrome.
-PMID: 10338251
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10338251/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chronic carpal tunnel syndrome was initially described by James Jackson Putnam in 1880. A number of medical luminaries have also contributed to our understanding of the syndrome, including Paget, Marie, Ramsay Hunt, Phalen. and Osler. Carpal tunnel syndrome is the most common peripheral compression neuropathy. Most cases are idiopathic, with nonspecific tenosynovitis leading to median nerve compression. A number of diseases and other conditions are also associated with chronic carpal tunnel. Patients characteristically complain of nocturnal paresthesias or burning pain. Motor complaints relate to thenar muscular weakness and atrophy. Bedside diagnostic tests include Tinel's and Phalen's signs, and application of pressure over the median nerve by inflating a sphygmomanometer over the wrist. Tinel's sign is the induction of paresthesias by tapping over the site of the median nerve at the wrist. In Phalen's sign, symptoms are reproduced by maximum flexion of the wrist for 60 s. The classically described patients are middle-aged women. In addition, another distinct population is receiving increased attention, the relatively young male and female workers who experience symptoms performing repetitive manual labor.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chiropractic care
-TITLE: What is chiropractic?
-PMID: 29118972
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29118972/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-While in some jurisdictions chiropractic is fully integrated in public and insurance funded health care systems, in others it is outside and considered as complementary or alternative health care. There is a paucity of data and rigorous scientific studies regarding most aspects of chiropractic practice although research activity has been increasing in recent years. We call for papers for a thematic series in <i>Chiropractic and Manual Therapies</i> that can help define chiropractic better to stakeholders inside and outside the profession under the theme <i>What is Chiropractic?</i>

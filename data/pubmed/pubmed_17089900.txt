@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17089900)
-    QUESTION: Does Paget's disease exist in India?
-    CONTEXT: Paget's disease of bone has been described as a few case reports from India. The aim of the present study is to document the existence of Paget's disease (PD) in India.
-    ANSWER: This illustrates that Paget's disease does exist in India and a high index of suspicion is required to clinch the diagnosis.
-    

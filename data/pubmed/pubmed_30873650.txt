@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Erectile dysfunction
-TITLE: Erectile dysfunction, physical activity and physical exercise: Recommendations for clinical practice.
-PMID: 30873650
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30873650/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Erectile dysfunction could be an early sign of endothelial dysfunction and, therefore, of cardiovascular disease, with which it shares many risk factors. Among reversible risk factors, physical inactivity is one of the most important. Regular physical exercise has been shown to improve erectile function through different mechanisms involving glucose and lipid metabolism, regulation of arterial pressure, production of nitric oxide and hormonal modulation. Furthermore, exercise shows a synergistic effect with the drugs commonly used in the treatment of impotence. Since many patients with erectile dysfunction may have underlying cardiovascular disease, the evaluation of individual cardiovascular risk is mandatory before prescribing physical exercise. When exercise is not contraindicated, the most appropriate protocol must be chosen, considering the individual characteristics of the patient. Both aerobic and anaerobic/resistance protocols have proven effective. However, meta-analytic studies show that aerobic exercise with moderate-to-vigorous intensity is the most effective in improving erection. Testosterone is an important modulator of physical performance, and its blood levels must always be evaluated in patients with erectile dysfunction.

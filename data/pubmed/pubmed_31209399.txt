@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Epidemiology basics
-TITLE: Whole genome sequencing of Mycobacterium tuberculosis: current standards and open issues.
-PMID: 31209399
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31209399/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Whole genome sequencing (WGS) of Mycobacterium tuberculosis has rapidly progressed from a research tool to a clinical application for the diagnosis and management of tuberculosis and in public health surveillance. This development has been facilitated by drastic drops in cost, advances in technology and concerted efforts to translate sequencing data into actionable information. There is, however, a risk that, in the absence of a consensus and international standards, the widespread use of WGS technology may result in data and processes that lack harmonization, comparability and validation. In this Review, we outline the current landscape of WGS pipelines and applications, and set out best practices for M. tuberculosis WGS, including standards for bioinformatics pipelines, curated repositories of resistance-causing variants, phylogenetic analyses, quality control and standardized reporting.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Postpartum depression
-TITLE: Effects of an evidence-based nursing intervention on prevention of anxiety and depression in the postpartum period.
-PMID: 34633141
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34633141/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Postpartum depression has been one of the most common psychological disorders in patients during postpartum period. The constant anxiety and depression during this period seriously affect the physiological and psychological health of both the mother and infant. Evidence-based nursing has been widely applied in clinical practice and has achieved remarkable results. However, the effect of evidence-based nursing on postpartum depression remains unclear. Pregnant women who were not diagnosed with postpartum depression during hospitalisation (Edinburgh Postpartum Depression Scale [EPDS] ≤ 13 points) but prone to postpartum depression (EPDS scores of 9-13) were recruited into the study. They were randomly divided into the Intervention group (N = 60) and Control group (N = 60). Hamilton Depression Scale (HAMD), Hamilton Anxiety Scale (HAMA), EPDS and Pittsburgh Sleep Quality Index (PSQI) were used to investigate the psychological outcomes of puerperae during and after the 6-week intervention. Both the intention-to-treat and per-protocol analyses showed that 6 weeks of evidence-based nursing intervention significantly reduced the incidence of postpartum depression. The application of the evidence-based nursing also improved the patients' satisfaction degree and effectively alleviated their anxiety according to both the intention-to-treat and per-protocol analyses. Evidence-based nursing intervention had positive effects against anxiety and depression in the postpartum period.

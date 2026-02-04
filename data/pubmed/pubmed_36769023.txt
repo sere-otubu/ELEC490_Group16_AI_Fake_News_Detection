@@ -1,8 +1,0 @@
-SEARCH_TOPIC: mRNA vaccines
-TITLE: A Comprehensive Review of mRNA Vaccines.
-PMID: 36769023
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36769023/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-mRNA vaccines have been demonstrated as a powerful alternative to traditional conventional vaccines because of their high potency, safety and efficacy, capacity for rapid clinical development, and potential for rapid, low-cost manufacturing. These vaccines have progressed from being a mere curiosity to emerging as COVID-19 pandemic vaccine front-runners. The advancements in the field of nanotechnology for developing delivery vehicles for mRNA vaccines are highly significant. In this review we have summarized each and every aspect of the mRNA vaccine. The article describes the mRNA structure, its pharmacological function of immunity induction, lipid nanoparticles (LNPs), and the upstream, downstream, and formulation process of mRNA vaccine manufacturing. Additionally, mRNA vaccines in clinical trials are also described. A deep dive into the future perspectives of mRNA vaccines, such as its freeze-drying, delivery systems, and LNPs targeting antigen-presenting cells and dendritic cells, are also summarized.

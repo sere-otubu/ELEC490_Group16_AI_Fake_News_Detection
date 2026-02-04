@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23025584)
-    QUESTION: Does stress increase imitation of drinking behavior?
-    CONTEXT: That alcohol consumption is strongly influenced by the drinking behavior of social company has been demonstrated in observational research. However, not everyone is equally vulnerable to other people's drinking, and it is important to unravel which factors underlie these individual differences. This study focuses on the role of psychosocial stress in attempting to explain individual differences in the propensity to imitate alcohol consumption.
-    ANSWER: Generally, it appears that among young male adults, imitation of alcohol consumption is a robust phenomenon not dependent on individual stress levels.
-    

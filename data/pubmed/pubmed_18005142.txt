@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18005142)
-    QUESTION: Does early migraine treatment shorten time to headache peak and reduce its severity?
-    CONTEXT: To explore whether early treatment would shorten the duration of headache from headache onset to its peak and reduce headache severity at peak.
-    ANSWER: Early treatment and use of triptans may lead to shorter duration from migraine headache onset to its peak but did not alleviate headache severity at peak. This could result in decreased migraine burden by reducing total migraine headache duration.
-    

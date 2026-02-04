@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rosacea
-TITLE: Rosacea fulminans.
-PMID: 23961522
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23961522/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-We review rosacea fulminans, a rare condition that may cause facial scarring and disfigurement. All physicians and health care professionals must be aware of this form of rosacea to treat or refer the patient. Early treatment of rosacea fulminans is essential to avoid scarring.

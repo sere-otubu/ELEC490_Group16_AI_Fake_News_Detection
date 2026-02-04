@@ -1,8 +1,0 @@
-SEARCH_TOPIC: NSAIDs side effects
-TITLE: NSAIDs: a clinical approach to the problems of gastrointestinal side-effects.
-PMID: 2979280
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2979280/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Despite the fact that non-steroidal anti-inflammatory drugs (NSAIDs) are among the most widely used drugs in medicine today, 2-10% of patients must discontinue their use primarily due to gastrointestinal (GI) side-effects. While the development of non-aspirin NSAIDs (NA-NSAIDs) has significantly reduced GI side-effects, major problems persist. A practical clinical approach to these problems includes informing the patient about the risks and benefits of NSAIDs, risk management during treatment with NSAIDs and investigation of symptomatic side-effects during treatment. Prophylaxis of GI side-effects is feasible in selected populations, but it has not been studied widely and may not be cost-effective. At present, costs of prophylaxis in all but selected populations with multiple risks probably outweight the benefits.

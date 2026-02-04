@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Carpal tunnel syndrome
-TITLE: Recurrent carpal tunnel syndrome.
-PMID: 23895723
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23895723/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Carpal tunnel release is a common procedure with a high rate of alleviating the patient's symptoms. The incidence of recurrent or persistent carpal tunnel syndrome is rare, although likely underestimated. Complaints of worsening numbness, tingling, or weakness should alert the physician to possible nerve injury and need for early exploration. The overall results of revision carpal tunnel procedures are less successful than primary surgery; however, surgery should be performed when indicated, as it may alleviate or improve symptoms.

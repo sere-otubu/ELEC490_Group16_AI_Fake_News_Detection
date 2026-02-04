@@ -1,8 +1,0 @@
-SEARCH_TOPIC: RNA function
-TITLE: Projecting RNA measurements onto single cell atlases to extract cell type-specific expression profiles using scProjection.
-PMID: 37626024
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37626024/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Multi-modal single cell RNA assays capture RNA content as well as other data modalities, such as spatial cell position or the electrophysiological properties of cells. Compared to dedicated scRNA-seq assays however, they may unintentionally capture RNA from multiple adjacent cells, exhibit lower RNA sequencing depth compared to scRNA-seq, or lack genome-wide RNA measurements. We present scProjection, a method for mapping individual multi-modal RNA measurements to deeply sequenced scRNA-seq atlases to extract cell type-specific, single cell gene expression profiles. We demonstrate several use cases of scProjection, including identifying spatial motifs from spatial transcriptome assays, distinguishing RNA contributions from neighboring cells in both spatial and multi-modal single cell assays, and imputing expression measurements of un-measured genes from gene markers. scProjection therefore combines the advantages of both multi-modal and scRNA-seq assays to yield precise multi-modal measurements of single cells.

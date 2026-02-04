@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17429333)
-    QUESTION: Does menopausal transition affect the quality of life?
-    CONTEXT: The aim of this study was to investigate the role of menopausal transition and menopausal symptoms in relation to quality of life in a cohort of middle-aged women in Kinmen.
-    ANSWER: This longitudinal study found no significant effect of menopausal transition on quality of life among Taiwanese women. The decline in the role limitations due to emotional problems was related to vasomotor symptoms.
-    

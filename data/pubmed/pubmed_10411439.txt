@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 10411439)
-    QUESTION: Lloyd-Davies position with Trendelenburg--a disaster waiting to happen?
-    CONTEXT: Lower limb compartment syndrome has been reported to occur after colorectal, urological, and gynecological procedures during which the patient's lower limbs are elevated for prolonged periods of time.
-    ANSWER: The use of the modified lithotomy position during pelvic surgery is not associated with lower limb ischemia. Addition of Trendelenburg position, however, causes profound ischemia of the lower limbs, and this is followed during the recovery period by hyperperfusion that is confined to the muscle compartments, which may put patients at risk of developing lower limb compartment syndrome.
-    

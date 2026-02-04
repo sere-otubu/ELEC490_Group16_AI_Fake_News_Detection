@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hospital infection control
-TITLE: Quality of the hospital infection control programs: an integrative review.
-PMID: 32813809
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32813809/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To analyze the quality of health in relation to the components of structure, process, and outcome in actions for the prevention and control of infections. An integrative literature review in the LILACS, Web of Science, Scopus, and SciELO databases. The time delimitation covered articles published between January 2009 and May 2019. The final sample consisted of 10 articles published, mainly in Scopus (60%), and in Web of Science (30%). The structural elements varied among the study countries, suggesting opportunities for improvement of organizational characteristics and human resources. Regarding the process of the implemented routines, inconsistencies were found to comply with the guidelines. The result component was not emphasized among the studies included in the review. The quality of hospital infection control programs has yet to be improved among the health services, highlighting the need for investment in the structure, process, and outcome components.

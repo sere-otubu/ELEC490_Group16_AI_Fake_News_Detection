@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 16195477)
-    QUESTION: Production of chemokines by perivascular adipose tissue: a role in the pathogenesis of atherosclerosis?
-    CONTEXT: Obesity is associated with an increased risk for cardiovascular disease. Although it is known that white adipose tissue (WAT) produces numerous proinflammatory and proatherogenic cytokines and chemokines, it is unclear whether adipose-derived chemotactic signals affect the chronic inflammation in atherosclerosis.
-    ANSWER: Human pWAT has chemotactic properties through the secretion of different chemokines, and we propose that pWAT might contribute to the progression of obesity-associated atherosclerosis.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tonsillitis
-TITLE: Bacteriology of the tonsil core in recurrent tonsillitis and tonsillar hyperplasia--a short review.
-PMID: 10909021
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10909021/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In recurrent tonsillitis, the tonsil core harbours numerous bacteria, some of which are pathogenic and may occur in great numbers. The most frequent bacteria are Haemophilus influenzae, followed by Staphylococcus aureus and Streptococcus pyogenes. A high tissue concentration of these bacteria correlates with clinical parameters of infection and hyperplasia of the tonsils. The role of Streptococcus pyogenes, while undisputed in acute and epidemic tonsillitis, should perhaps be re-evaluated in recurrent and/or hyperplastic tonsillitis.

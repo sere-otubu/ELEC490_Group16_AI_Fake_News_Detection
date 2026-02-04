@@ -1,8 +1,0 @@
-SEARCH_TOPIC: X ray imaging
-TITLE: Subcutaneous Low-Density Foreign Bodies Detection via Grating-Based Multimodal X-ray Imaging.
-PMID: 35064371
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35064371/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Detecting low-density foreign bodies within soft tissues still stands for a serious challenge. Grating-based multimodal X-ray imaging typically has low hardware requirements while simultaneously providing three kinds of imaging information, i.e., absorption, phase-contrast, and dark-field. We aimed to explore the capacity of grating-based multimodal X-ray imaging technology for detecting common foreign bodies within subcutaneous tissues, and to assess the advantages as well as disadvantages of the three kinds of images obtained via grating-based X-ray multimodal technology in relation to diverse kinds of foreign bodies within different tissues. In this study, metal, glass, wood, plastic, graphite, and ceramic foreign bodies were injected into chunks of the pig adipose tissue and chicken thigh muscles. Next, a grating-based multimodal X-ray imaging device developed in our laboratory was used to detect the above foreign bodies within the adipose and muscle tissues. Our results show that grating-based multimodal X-ray imaging clearly revealed the subcutaneous foreign bodies within the adipose and muscle tissues by acquiring complementary absorption, phase-contrast, and dark-field imaging data in a single shot. Grating-based multimodal X-ray imaging has an exciting potential to detect foreign bodies underneath the epidermis.

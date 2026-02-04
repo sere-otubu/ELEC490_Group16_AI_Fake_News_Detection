@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pancreas function
-TITLE: Beta-granule transport and exocytosis.
-PMID: 10966859
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10966859/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Regulated beta -granule exocytosis is critical for the ability of the beta -cell to finely control body glucose homeostasis. This is now understood to be a multistage process whereby beta -granules are transported from biosynthetic/storage sites in the cell cytoplasm and targeted to specific regions of the plasma membrane. Exocytosis is achieved when these granules are triggered to fuse with the membrane by an elevated cytosolic Ca(2+). Dramatic advances have been made recently in our understanding of the protein-protein interactions and regulatory signals that govern intracellular transport and fusion. Although best understood for exocytosis from neurons and neuroendocrine cells, similar processes are thought to be conserved in the beta -cell.

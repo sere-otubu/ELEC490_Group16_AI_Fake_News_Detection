@@ -1,8 +1,0 @@
-SEARCH_TOPIC: IVF procedure
-TITLE: The IVF conceptus. Research today and tomorrow.
-PMID: 3058002
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3058002/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-IVF makes possible research on human oocytes, human fertilization, and the early stages of human development in vitro. On ethical grounds, such research should not be motivated by curiosity alone but should be directed toward the promotion of human welfare. Possible objectives include the alleviation of infertility, the regulation of fertility through new contraceptive approaches, and the diagnosis of genetic and chromosomal defects during the preimplantation period. Research on the IVF conceptus in Britain today is all carried out under license, and a complete list of projects under way is available from the Voluntary Licensing Authority. At present the projects are mainly concerned with infertility problems, in particular with improving the success rate of IVF as a therapeutic procedure. Contraceptive development is only just beginning to take advantage of the new opportunities available. Research tomorrow is likely to be focused much more on the possibilities of early diagnosis of genetic diseases and chromosomal abnormalities, and could also shed light on the generation of some of these abnormalities during the process of fertilization.

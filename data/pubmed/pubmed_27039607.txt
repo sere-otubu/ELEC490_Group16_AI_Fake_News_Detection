@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dialysis
-TITLE: [Overview of peritoneal dialysis].
-PMID: 27039607
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27039607/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Peritoneal dialysis is a dialysis modality used worldwide. Despite offering several advantages, its prevalence in Switzerland in end stage renal disease population is dramatically lower than hemodialysis (7.3% vs 92.7% in 2014) although its incidence has recently progressed. Technically, a catheter is inserted into the Douglas' pouch, enabling dialysate to be infused into the peritoneal cavity. The peritoneum acts as a semi-permeable membrane allowing for the removal of toxic substances and excess water. In the following article we will give an overview of peritoneal dialysis including its technical modalities, indications and main advantages as well as its contraindications and complications.

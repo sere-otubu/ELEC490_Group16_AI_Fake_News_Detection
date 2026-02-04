@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urinalysis
-TITLE: Importance of Urinalysis.
-PMID: 30591190
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30591190/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A complete urinalysis is an essential diagnostic test to perform in veterinary patients. When interpreted in the context of a patient's clinical history, physical examination findings, and other diagnostic test results, a urine specific gravity, chemical analysis (often via semiquantitative dipstrip testing), and sediment examination are vital to detect both renal and nonrenal disorders. In this article, we describe the usefulness of each component of a urinalysis, the significance of and how to interpret results, and common causes of false-negative and false-positive results.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Autoimmune diseases
-TITLE: Metabolic dysregulation of lymphocytes in autoimmune diseases.
-PMID: 38355391
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38355391/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Lymphocytes are crucial for protective immunity against infection and cancers; however, immune dysregulation can lead to autoimmune diseases such as systemic lupus erythematosus (SLE) and rheumatoid arthritis (RA). Metabolic adaptation controls lymphocyte fate; thus, metabolic reprogramming can contribute to the pathogenesis of autoimmune diseases. Here, we summarize recent advances on how metabolic reprogramming determines the autoreactive and proinflammatory nature of lymphocytes in SLE and RA, unraveling molecular mechanisms and providing therapeutic targets for human autoimmune diseases.

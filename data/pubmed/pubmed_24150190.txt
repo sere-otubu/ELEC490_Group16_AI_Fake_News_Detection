@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Osteoporosis
-TITLE: Postmenopausal osteoporosis.
-PMID: 24150190
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24150190/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The aim of this study is to provide a thorough updated review of the diagnosis and treatment of postmenopausal osteoporosis. There have been several important findings in the field of postmenopausal osteoporosis over the past 1-2 years. Fewer morphometric vertebral fractures were found in women treated for 6 years with zoledronic acid compared with those who stopped treatment after 3 years. Longer duration of bisphosphonate therapy is associated with a higher risk of atypical femur fractures. Combination therapy with teriparatide and denosumab appears to increase bone mineral density to a greater extent than either therapy alone in postmenopausal women at high risk for fracture. There are several novel therapies under investigation for the treatment of osteoporosis, which are in various stages of development. Nonadherence to osteoporosis therapies continues to be a major problem in clinical practice. There are numerous effective pharmacologic treatment options for postmenopausal osteoporosis. Bisphosphonate drug holidays continue to be an area of significant debate.

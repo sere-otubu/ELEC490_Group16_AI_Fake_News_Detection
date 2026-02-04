@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gallstones
-TITLE: Incidence of gallstone disease and complications.
-PMID: 29256915
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29256915/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The purpose of this review was to describe the epidemiology of gallstone disease in the era of ultrasound screening and laparoscopic cholecystectomy. Recent general population cohorts, including ultrasound screenings, have contributed to our understanding of formation and clinical course of gallstone disease. Cohorts of symptomatic gallstone disease have been informative about symptom recurrence and need of treatment. Preventive targets for gallstone formation may include obesity and the associated metabolic changes. The presence of gallstone disease is best described as a continuum from asymptomatic to symptomatic disease, with the latter including both pain attacks and complicated disease. Symptomatic disease causes a persistent high risk of symptom recurrence and need of cholecystectomy. The majority of gallstone carriers will remain asymptomatic and about one in five will develop symptoms. Determinants of disease progression from asymptomatic to symptomatic disease include sex, age, body mass index, and gallstone ultrasound characteristics. Because of the absence of effective gallstone formation prevention, targets against the metabolic changes in obesity should be further explored in randomized controlled trials. To optimize patient selection for cholecystectomy, treatment algorithms including identified determinants of symptomatic disease in gallstone carriers should be explored in prospective clinical trials.

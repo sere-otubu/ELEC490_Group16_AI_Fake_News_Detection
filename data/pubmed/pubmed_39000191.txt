@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alzheimers disease
-TITLE: Resistance Exercise Training as a New Trend in Alzheimer's Disease Research: From Molecular Mechanisms to Prevention.
-PMID: 39000191
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39000191/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Alzheimer's disease is a pathology characterized by the progressive loss of neuronal connections, which leads to gray matter atrophy in the brain. Alzheimer's disease is the most prevalent type of dementia and has been classified into two types, early onset, which has been associated with genetic factors, and late onset, which has been associated with environmental factors. One of the greatest challenges regarding Alzheimer's disease is the high economic cost involved, which is why the number of studies aimed at prevention and treatment have increased. One possible approach is the use of resistance exercise training, given that it has been shown to have neuroprotective effects associated with Alzheimer's disease, such as increasing cortical and hippocampal volume, improving neuroplasticity, and promoting cognitive function throughout the life cycle. However, how resistance exercise training specifically prevents or ameliorates Alzheimer's disease has not been fully characterized. Therefore, the aim of this review was to identify the molecular basis by which resistance exercise training could prevent or treat Alzheimer's disease.

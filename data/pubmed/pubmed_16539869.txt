@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cluster headaches
-TITLE: Steroid hormones in cluster headaches.
-PMID: 16539869
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16539869/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-For decades, glucocorticoid therapy has been a well-recognized abortive treatment for cluster headaches. However, the role of steroid hormones, including both glucocorticoids and sex steroids, in the pathophysiology and therapy of cluster headaches has been a topic of much debate and speculation. Current research now points to the importance of cortisol and testosterone in the pathogenesis of cluster headaches, and they appear to be linked mechanistically to another hormone, melatonin. Melatonin, unlike cortisol or testosterone, is not a product of the hypothalamic pituitary axis but of the retinohypothalamic pineal axis, and is the major biomarker of circadian rhythms. The regulation of steroids and melatonin in the pathogenesis of cluster headaches in turn depends on the sympathetic nervous system. Accumulated evidence suggests sympathetic dysfunction--embodied in the Horner sign so commonly seen in the cluster headache--as a necessary ingredient in the inception of the cluster headache. Sympathetic dysfunction now is thought to be associated with the hypercortisolism, hypotestosteronism, and lower-than-normal melatonin levels in the active cluster patient. Future research may hold the key to a fuller explanation of the complex interaction of hormonal systems in the cluster headache.

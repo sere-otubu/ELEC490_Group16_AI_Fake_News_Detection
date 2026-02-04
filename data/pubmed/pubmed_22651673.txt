@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dissociative disorders
-TITLE: What we know and what we need to learn about the treatment of dissociative disorders.
-PMID: 22651673
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22651673/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In this editorial, I briefly review research design issues and the current treatment research for dissociative disorders (DD), discuss the limitations and challenges of conducting treatment studies for patients with DD, and conclude by describing what I see as the first wave and second wave in the field of dissociation. Insurers and federally funded programs are increasingly requiring that treatment be empirically supported in order for treatment to be reimbursed. For example, psychoanalysis will no longer be reimbursed in The Netherlands because of what is perceived as a lack of empirical support. Other countries have also established standards about the treatments that have sufficient empirical support to merit government payment. I believe it is only a matter of time before it is common for patients with DD to be required to seek out empirically supported treatment if they want treatment to be reimbursed. We need to financially support treatment studies in order to develop a more solid empirical basis for the treatment of DD.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Heart failure
-TITLE: Epidemiology, Pathophysiology, and Prognosis of Heart Failure in Older Adults.
-PMID: 28602363
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28602363/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Heart failure is the quintessential cardiovascular syndrome of aging that results from common cardiovascular conditions in older adults in conjunction with age-associated changes in cardiovascular structure and function. To a large extent, heart failure is a geriatric syndrome in much the same way that dementia, falls, and frailty are geriatric syndromes. The incidence and prevalence of heart failure increase strikingly with age and make heart failure the most common reason for hospitalization among older adults. Although outcomes for older adults with heart failure have improved over time, mortality, hospitalization, and rehospitalization rates remain high.

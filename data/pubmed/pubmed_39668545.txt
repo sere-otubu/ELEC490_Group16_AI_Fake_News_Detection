@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Acne vulgaris
-TITLE: Skin Barrier Dysfunction in Acne Vulgaris: Pathogenesis and Therapeutic Approaches.
-PMID: 39668545
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39668545/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Acne vulgaris is a chronic inflammatory disease of the hair follicle-sebaceous gland unit and is the most common skin disorder worldwide. Although it can occur at any age, it predominantly affects young individuals, manifesting as comedones, papules, pustules, cysts, and nodules, primarily in the sebaceous-rich areas of the face, often in a symmetrical distribution. The development of acne vulgaris is believed to result from a combination of genetic and environmental factors, including sun exposure, skincare habits, diet, sleep patterns, and psychological stress, all of which can induce or exacerbate the condition. The pathogenesis of acne vulgaris involves androgen-induced sebaceous gland hyperplasia, excessive sebum production, abnormal follicular duct keratinization, microbial colonization, and immune-inflammatory responses. Historically, treatment has focused on regulating sebum production, improving follicular keratinization, and providing antibacterial and anti-inflammatory therapies, with less attention given to repairing the skin barrier. Treatment outcomes have often been suboptimal, with frequent recurrences, high incidence of skin sensitivity, and significant economic and psychological burdens on patients. This review explores the mechanisms of skin barrier impairment in acne vulgaris and discusses strategies for its repair, offering new perspectives for the clinical management of acne.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chlamydia
-TITLE: <i>Chlamydia</i>: what is on the outside does matter.
-PMID: 32093536
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32093536/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review summarises major highlights on the structural biology of the chlamydial envelope. Chlamydiae are obligate intracellular bacteria, characterised by a unique biphasic developmental cycle. Depending on the stage of their lifecycle, they appear in the form of elementary or reticulate bodies. Since these particles have distinctive functions, it is not surprising that their envelope differs in lipid as well as in protein content. <i>Vice versa</i>, by identifying surface proteins, specific characteristics of the particles such as rigidity or immunogenicity may be deduced. Detailed information on the bacterial membranes will increase our understanding on the host-pathogen interactions chlamydiae employ to survive and grow and might lead to new strategies to battle chlamydial infections.

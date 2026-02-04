@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vegan diet
-TITLE: Evidence of a vegan diet for health benefits and risks - an umbrella review of meta-analyses of observational and clinical studies.
-PMID: 37962057
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37962057/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To summarize and evaluate the evidence on the health impact of a vegan diet, we conducted an umbrella review of systematic reviews and meta-analyses. PubMed, Cochrane Library, Web of Science and Epistemonikos were searched up to September 2021. Meta-analyses were recalculated by using a random effects model. The certainty of evidence (CoE) was evaluated by the GRADE approach. For the general healthy population, a vegan diet was effective for reducing body weight [MD (95% CI): -2.52 kg (-3.06, -1.98), n = 8 RCTs; moderate CoE] and was associated with further health benefits (with low CoE), including a lower risk of cancer incidence [SRR (95% CI): 0.84 (0.75, 0.95), n = 2] and a trend for lower risk of all-cause mortality [SRR (95% CI): 0.87 (0.75, 1.01), n = 2], as well as lower ApoB levels [MD (95% CI): -0.19 µmol/L (-0.23, -0.15), n = 7 RCTs). The findings suggested adverse associations for a vegan diet with risk of fractures [SRR (95% CI): 1.46 (1.03, 2.07), n = 3; low CoE]. For persons with diabetes or at high CVD risk, a vegan diet reduced measures of adiposity, total cholesterol, LDL and improved glycemic control (CoE moderate to low). A vegan diet may have the potential for the prevention of cardiometabolic health, but it may also impair bone health. More well-conducted primary studies are warranted.

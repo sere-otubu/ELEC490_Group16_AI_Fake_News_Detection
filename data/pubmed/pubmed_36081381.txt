@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic screening
-TITLE: Prenatal genetic testing 1: screening tests.
-PMID: 36081381
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36081381/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Prenatal genetic testing can be divided into two categories: screening and diagnostic. This article will focus on reviewing prenatal genetic screening tests. Cell-free DNA (cfDNA) is a new prenatal genetic screening test with a high degree of accuracy for identifying certain genetic conditions like trisomy 21, 18, and 13. However, cfDNA has also been applied in the screening of other genetic conditions without similar research support. Prenatal genetic screening evaluates at risk pregnancies - including both carrier screening, which can be done at any point in a person's life, and aneuploidy screening, which is done during pregnancy. Within screening, there is a new noninvasive technology that has revolutionized prenatal screening called cfDNA testing. Compared to previous methods, this technology is easier to administer and more accurate for certain genetic conditions. However, cfDNA has also been applied to test for less common genetic conditions without efficacious research support. In this time of expansion in genetic testing, it is important that providers educate themselves on the research support behind each type of genetic test. It is vital that professional organizations continuously update their testing approach to match these rapidly evolving technologies and the patient population they serve.

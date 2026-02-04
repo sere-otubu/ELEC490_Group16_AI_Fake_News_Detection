@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17445978)
-    QUESTION: Is renal warm ischemia over 30 minutes during laparoscopic partial nephrectomy possible?
-    CONTEXT: To evaluate renal damage and impairment of renal function 1 yr after laparoscopic partial nephrectomy (LPN) with warm ischemia>30 min.
-    ANSWER: Our results demonstrate that kidney damage occurs during LPN when warm ischemia is>30 min. This damage is only partially reversible and efforts should be made to keep warm ischemia within 30 min.
-    

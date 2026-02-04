@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antipsychotics
-TITLE: Viewpoint: do antipsychotics protect against early death? A critical view.
-PMID: 33050955
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33050955/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In the past 15 years, researchers utilizing prescription databases to assess medication usage have concluded that antipsychotics reduce mortality in patients diagnosed with schizophrenia and other psychotic disorders. These findings stand in contrast to studies in non-psychiatric patients that have found that antipsychotics, because of their adverse effects on physical health, increase the risk of early death. A critical review of the evidence reveals that the worry remains. There is reason to conclude that antipsychotics contribute to the 'mortality gap' between the seriously mentally ill and the general population and that the database studies are plagued with methodological and reporting issues. Most importantly, the database studies tell of mortality rates within a drug-centered paradigm of care, which confounds any comparison of mortality risks when patients are on or off antipsychotics.

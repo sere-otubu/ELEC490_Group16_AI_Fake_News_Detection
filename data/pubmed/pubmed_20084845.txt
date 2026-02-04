@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20084845)
-    QUESTION: Biomolecular identification of allergenic pollen: a new perspective for aerobiological monitoring?
-    CONTEXT: Accurate and updated information on airborne pollen in specific areas can help allergic patients. Current monitoring systems are based on a morphologic identification approach, a time-consuming method that may represent a limiting factor for sampling network enhancement.
-    ANSWER: The real-time PCR approach revealed promising results in pollen identification and quantification, even when analyzing pollen mixes. Future perspectives could concern the development of multiplex real-time PCR for the simultaneous detection of different taxa in the same reaction tube and the application of high-throughput molecular methods.
-    

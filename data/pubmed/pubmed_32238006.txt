@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Typhoid fever
-TITLE: Progress in the overall understanding of typhoid fever: implications for vaccine development.
-PMID: 32238006
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32238006/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Typhoid fever continues to have a substantial impact on human health, especially in Asia and sub-Saharan Africa. Access to safe water, and adequate sanitation and hygiene remain the cornerstone of prevention, but these are not widely available in many impoverished settings. The emergence of antibiotic resistance affects typhoid treatment and adds urgency to typhoid control efforts. Vaccines provide opportunities to prevent and control typhoid fever in endemic settings. Literature search was performed looking for evidence concerning the global burden of typhoid and strategies for the prevention and treatment of typhoid fever. Cost of illness, available typhoid and paratyphoid vaccines and cost-effectiveness were also reviewed. The objective was to provide a critical overview of typhoid fever, in order to assess the current understanding and potential future directions for typhoid treatment and control. Our understanding of typhoid burden and methods of prevention has grown over recent years. However, typhoid fever still has a significant impact on health in low and middle-income countries. Introduction of typhoid conjugate vaccines to the immunization schedule is expected to make a major contribution to control of typhoid fever in endemic countries, although vaccination alone is unlikely to eliminate the disease.

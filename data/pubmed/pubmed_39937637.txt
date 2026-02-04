@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rosacea
-TITLE: Current pharmacotherapy of rosacea.
-PMID: 39937637
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39937637/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Current pharmacotherapy of rosacea Up to one-fifth of patients in GP surgeries have skin diseases. One of the most serious is rosacea, which can significantly reduce quality of life and increase the incidence of psychosocial disorders (depression, anxiety, social isolation) in patients with this disease. The prevalence of the disease is reported to be around 10 %. Successful dermatological treatment of rosacea is a complex process involving a correct diagnostic assessment, choosing an appropriate therapeutic approach for the patient. It is mainly guided by the severity of symptoms, the psychological impact on the patient and the compliance to treatment. Primarily, provocative factors should be reduced, and dermocosmetics available in the pharmacy can be used as a supportive and complementary treatment. The results of pharmacological treatment are often unsatisfactory.

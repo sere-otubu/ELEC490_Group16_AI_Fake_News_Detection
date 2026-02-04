@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Spinal fusion
-TITLE: Gene therapy for spinal fusion.
-PMID: 16291120
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16291120/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Spinal fusion will continue to be an important part of the surgical treatment of spinal pathology for the foreseeable future. Traditional challenges to successful spinal fusion surgery include autograft donor site morbidity and pseudoarthrosis. Recent advances in the understanding of the biology of bone formation have allowed the development of therapeutic biologics. Although recombinant bone morphogenetic proteins delivered to the arthrodesis site will stimulate fusion, these proteins have been less successful in more challenging fusion situations (posterolateral), require supraphysiologic doses to promote fusion in humans, and are quite expensive. Gene therapy may represent the easiest method for the application of bone-forming biologic agents to promote spinal fusion. Both in vivo and ex vivo techniques of delivery of therapeutic genes have been used effectively to promote fusion in lower animals. Considerable research is required to identify gene therapy techniques and vectors with acceptable safety profiles and high fusion rates.

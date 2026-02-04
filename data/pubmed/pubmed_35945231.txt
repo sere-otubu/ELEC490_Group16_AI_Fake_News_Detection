@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Human brain structure
-TITLE: Human brain structural connectivity matrices-ready for modelling.
-PMID: 35945231
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35945231/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The human brain represents a complex computational system, the function and structure of which may be measured using various neuroimaging techniques focusing on separate properties of the brain tissue and activity. We capture the organization of white matter fibers acquired by diffusion-weighted imaging using probabilistic diffusion tractography. By segmenting the results of tractography into larger anatomical units, it is possible to draw inferences about the structural relationships between these parts of the system. This pipeline results in a structural connectivity matrix, which contains an estimate of connection strength among all regions. However, raw data processing is complex, computationally intensive, and requires expert quality control, which may be discouraging for researchers with less experience in the field. We thus provide brain structural connectivity matrices in a form ready for modelling and analysis and thus usable by a wide community of scientists. The presented dataset contains brain structural connectivity matrices together with the underlying raw diffusion and structural data, as well as basic demographic data of 88 healthy subjects.

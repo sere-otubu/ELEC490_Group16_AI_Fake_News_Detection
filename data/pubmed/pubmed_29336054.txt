@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hives
-TITLE: The EAACI/GA²LEN/EDF/WAO guideline for the definition, classification, diagnosis and management of urticaria.
-PMID: 29336054
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29336054/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This evidence- and consensus-based guideline was developed following the methods recommended by Cochrane and the Grading of Recommendations Assessment, Development and Evaluation (GRADE) working group. The conference was held on 1 December 2016. It is a joint initiative of the Dermatology Section of the European Academy of Allergology and Clinical Immunology (EAACI), the EU-founded network of excellence, the Global Allergy and Asthma European Network (GA²LEN), the European Dermatology Forum (EDF) and the World Allergy Organization (WAO) with the participation of 48 delegates of 42 national and international societies. This guideline was acknowledged and accepted by the European Union of Medical Specialists (UEMS). Urticaria is a frequent, mast cell-driven disease, presenting with wheals, angioedema, or both. The lifetime prevalence for acute urticaria is approximately 20%. Chronic spontaneous urticaria and other chronic forms of urticaria are disabling, impair quality of life and affect performance at work and school. This guideline covers the definition and classification of urticaria, taking into account the recent progress in identifying its causes, eliciting factors and pathomechanisms. In addition, it outlines evidence-based diagnostic and therapeutic approaches for the different subtypes of urticaria.

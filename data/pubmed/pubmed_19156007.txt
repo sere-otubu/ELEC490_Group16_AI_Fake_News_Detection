@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19156007)
-    QUESTION: Can clinicians use the PHQ-9 to assess depression in people with vision loss?
-    CONTEXT: To investigate whether the Patient Health Questionnaire-9 (PHQ-9) possesses the essential psychometric characteristics to measure depressive symptoms in people with visual impairment.
-    ANSWER: Our findings demonstrate that the PHQ-9, when scaled with Rasch analysis, forms a linear interval measurement of depressive symptoms suitable for use in a vision impaired population.
-    

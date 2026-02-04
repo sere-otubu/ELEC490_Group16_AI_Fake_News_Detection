@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Joint replacement
-TITLE: Total ankle joint replacement.
-PMID: 26868932
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26868932/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Ankle arthritis results in a stiff and painful ankle and can be a major cause of disability. For people with end-stage ankle arthritis, arthrodesis (ankle fusion) is effective at reducing pain in the shorter term, but results in a fixed joint, and over time the loss of mobility places stress on other joints in the foot that may lead to arthritis, pain and dysfunction. Another option is to perform a total ankle joint replacement, with the aim of giving the patient a mobile and pain-free ankle. In this article we review the efficacy of this procedure, including how it compares to ankle arthrodesis, and consider the indications and complications.

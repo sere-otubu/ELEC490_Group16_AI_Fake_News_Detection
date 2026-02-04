@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hearing aids
-TITLE: Assessing the Quality of Hearing Aids-Related Videos on TikTok.
-PMID: 35812482
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35812482/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hearing aids are effective at improving listening ability and health-related quality of life. Recently, we observed that there are many hearing aids-related videos published on TikTok. However, the quality of the information they offer remains unstudied. This study aimed to evaluate the information quality of hearing aids videos on TikTok. We collected a sample of 155 hearing aids-related videos in Chinese and extracted the basic information. First, we identified the source of each video. Two independent raters assessed the quality of the information in the videos, using the PEMAT-A/V tool and DISCERN instrument. Regarding content, the results showed that the video contents on TikTok mainly about features, functionalities, and suggestions of purchase or fitting of hearing aids, while the information about the disadvantages and complications of hearing aids was limited. The overall quality of the hearing aids-related videos was acceptable on average, although the quality varies greatly depending on the type of source. Patients should be cautious in obtaining information about hearing aids on TikTok.

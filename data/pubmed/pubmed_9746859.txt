@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lupus
-TITLE: Therapeutic advances in systemic lupus erythematosus.
-PMID: 9746859
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9746859/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In treating systemic lupus erythematosus, clinicians need to consider not only the organ involvement and the complications of therapy, but also associated conditions such as premature atherosclerosis and thrombosis. A variety of agents are now available to treat cutaneous disease, including the antimalarials and thalidomide. Controversy exists about the most appropriate immunosuppressive regimen in severe disease. Experience with using cyclosporine, mycophenolate mofetil, dehydroepiandrosterone, and intravenous immunoglobulin is increasing, but plasmapheresis has not been shown to be of benefit. Autologous bone marrow transplantation has been performed. The advent of the biological era, particularly with monoclonal antibodies, gives promise of more targeted therapy.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urinalysis
-TITLE: Applications of Artificial Intelligence in Urinalysis: Is the Future Already Here?
-PMID: 37708293
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37708293/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Artificial intelligence (AI) has emerged as a promising and transformative tool in the field of urinalysis, offering substantial potential for advancements in disease diagnosis and the development of predictive models for monitoring medical treatment responses. Through an extensive examination of relevant literature, this narrative review illustrates the significance and applicability of AI models across the diverse application area of urinalysis. It encompasses automated urine test strip and sediment analysis, urinary tract infection screening, and the interpretation of complex biochemical signatures in urine, including the utilization of cutting-edge techniques such as mass spectrometry and molecular-based profiles. Retrospective studies consistently demonstrate good performance of AI models in urinalysis, showcasing their potential to revolutionize clinical practice. However, to comprehensively evaluate the real clinical value and efficacy of AI models, large-scale prospective studies are essential. Such studies hold the potential to enhance diagnostic accuracy, improve patient outcomes, and optimize medical treatment strategies. By bridging the gap between research and clinical implementation, AI can reshape the landscape of urinalysis, paving the way for more personalized and effective patient care.

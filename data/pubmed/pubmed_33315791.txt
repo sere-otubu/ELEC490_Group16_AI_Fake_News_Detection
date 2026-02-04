@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Macronutrients
-TITLE: Macronutrients, microbiome and precision nutrition.
-PMID: 33315791
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33315791/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Precision nutrition and personalized diets are gaining popularity in nutritional science and medicine. To fully appreciate their potential benefits, a deep understanding of both macronutrients and nutrient-microbe interactions is required. Microbiome science has reaffirmed the importance of dietary fiber in microbial and host health. Additional macronutrients, digestible carbohydrate, protein and fat also influence the composition and diversity of the microbiome and, therefore, microbial response to dietary intervention. Attention to macronutrient source, dose, microbial effect and metabolite production allows the development of more established links between diet and health. The degree to which human diets need to be personalized for optimal health is still uncertain but a one-size-fits-all diet seems unlikely. However, for personal or precision nutrition to fulfill its promise, greater attention to the details of nutrient-microbe interactions will be required.

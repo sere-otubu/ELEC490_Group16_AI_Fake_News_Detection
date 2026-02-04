@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alternative medicine
-TITLE: Complementary and Alternative Medicine in Crohn's Disease.
-PMID: 35595418
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35595418/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Complementary and alternative medicine (CAM) is a growing entity within inflammatory bowel disease (IBD). CAM includes mind-based therapies, body-based therapies, supplements, vitamins, and probiotics. Limitations currently exist for health care providers as it pertains to IBD and CAM that stem from knowledge gaps, conflicting reports, limited oversight, and a lack of well-organized clinical data. Even without well-described data, patients are turning to these forms of therapy at increasing rates. It is imperative that the ongoing review of CAM therapies is performed, and future trials are performed to better understand efficacy as well as adverse effects related to these therapies.

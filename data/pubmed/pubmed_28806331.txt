@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cochlear implants
-TITLE: Cochlear Implants Meet Regenerative Biology: State of the Science and Future Research Directions.
-PMID: 28806331
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28806331/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-: The cochlear implant, the first device to restore a human sense, is an electronic substitute for lost mechanosensory hair cells. It has been successful at providing hearing to people with severe to profound hearing loss and as of 2012, an estimated 324,000 patients worldwide have received cochlear implants. Users of cochlear implants however, suffer from difficulties in processing complex sounds such as music and in discriminating sounds in noisy environments. Recent advances in regenerative biology and medicine are opening new avenues for enhancing the efficacy of cochlear implants by improving the neural interface in the future and offer the possibility of an entirely biological solution for hearing loss in the long term. This report comprises the latest developments presented in the first Symposium on cochlear implants and regenerative biology, held at the 14th International Conference on Cochlear Implants in 2016 in Toronto, Canada.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Skin cancer prevention
-TITLE: Skin cancer prevention: a review of current topical options complementary to sunscreens.
-PMID: 30801825
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30801825/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The incidence of non-melanoma skin cancer (NMSC) is dramatically increasing worldwide, despite the increased use of improved sunscreens. In 2014, the Surgeon General estimated that 2.2-5.0 million people were treated annually for NMSC. As the number of newly diagnosed skin cancers continues to rise, there is a need for additional preventative measures beyond sunscreens. Several newer topical products that focus on boosting DNA repair, modulating DNA transcription, decreasing inflammation and selectively targeting precancerous cells may play an important role in future skin cancer prevention.

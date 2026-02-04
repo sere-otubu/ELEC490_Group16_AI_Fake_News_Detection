@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immune system
-TITLE: Exercise Regulates the Immune System.
-PMID: 32342473
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32342473/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The profound effect of exercise on the normal functioning of the immune system has been well-known. Exercise and immune regulation are interrelated and affect each other. Exercise changes immune regulation by affecting leucocytes, red blood cells, and cytokines, etc. Regular exercise could reduce the risk of chronic metabolic and cardiorespiratory diseases, partially by the anti-inflammatory effects of exercise. However, these effects are also likely to be responsible for the suppressed immunity that make our bodies more susceptible to infections. Here we summarize the known mechanisms by which exercise-both acute and chronic-exerts its immune regulation effects.

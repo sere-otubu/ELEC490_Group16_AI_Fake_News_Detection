@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urban health issues
-TITLE: Rural health issues.
-PMID: 12119824
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12119824/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The ability to improve one's health and reduce the subsequent risk of disease and disability poses distinct challenges for individuals living in rural areas of the United States. A review of rural health issues provides insight into the dental and general medical realities for 20 percent of the population of this country.

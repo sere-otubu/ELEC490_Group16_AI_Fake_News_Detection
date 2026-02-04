@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Statins
-TITLE: Statins and Cancer Prevention-Association Does Not Mean Causation.
-PMID: 36597731
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36597731/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Statins are widely prescribed medications that inhibit 3-hydroxy-3-methyl-glutaryl-coenzyme A (HMG CoA) reductase and therefore reduce cholesterol synthesis. Given the key role of cholesterol in cancer, statins may therefore have anticancer activities. However, clinical studies investigating the association between statin usage and cancer development have been few and inconsistent. A recent study from Maeda-Minami and colleagues found a significant, though modest, decrease in cancer risk among statin users. However, does this finding mean statin usage directly reduces cancer risk or is merely associated with reduced cancer risk? This editorial analyzes Maeda-Minami and colleagues' study to provide commentary on statin's proposed role in preventing cancer. See related article, p. 37.

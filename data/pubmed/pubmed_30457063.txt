@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hearing loss
-TITLE: Hearing loss and psychiatric disorders: a review.
-PMID: 30457063
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30457063/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hearing loss is one of the most common yet unrecognized impairments experienced by adults, especially as they age. Mental health investigators and practitioners require better understanding of hearing loss, its association with psychiatric disorders, and the treatment of these disorders in the presence of hearing loss as well as the treatment of hearing loss itself. In this review, the authors briefly explore the global burden of hearing loss. Next we provide an overview of the extant literature on hearing loss associated with cognitive impairment, depression, anxiety disorders, psychoses, and quality of life with attention focused on the strength of the association, possible mechanisms explaining the association, data on treatment options specific to these disorders, and future research opportunities for these disorders. Current approaches to the treatment of hearing loss are presented, including hearing aids, rehabilitation including psychotherapies, surgical procedures (specifically cochlear implants), and induction loops connected to telecoils. Finally, cutting edge research into the pathophysiology and potential biological treatments of hearing loss is described.

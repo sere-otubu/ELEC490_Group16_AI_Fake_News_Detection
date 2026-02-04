@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Zika virus
-TITLE: Zika virus infection: an update.
-PMID: 31158508
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31158508/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Since the ZIKV outbreak in Brazil in 2015, the scientific community has joined efforts to gather more information on the epidemiology, clinical features and pathogenicity of the virus. Here, we summarize the most important advances made recently and discuss promising, innovative approaches to understand and control ZIKV infection.

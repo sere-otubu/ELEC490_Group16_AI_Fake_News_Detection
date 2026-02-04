@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21979183)
-    QUESTION: Does intra-abdominal desmoid disease affect patients with an ileal pouch differently than those with an ileorectal anastomosis?
-    CONTEXT: Nobody has analyzed the sequelae of desmoids according to the type of surgery that precipitated them.
-    ANSWER: The morbidity associated with desmoid tumors has not been shown to differ, whether they arise after restorative proctocolectomy or ileorectal anastomosis.
-    

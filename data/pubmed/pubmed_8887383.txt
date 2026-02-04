@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ergonomics
-TITLE: Occupational ergonomics and injury prevention.
-PMID: 8887383
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8887383/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Ergonomics is the study of people at work. The current focus is on the prevention of work-induced musculoskeletal injuries through the application of sound ergonomic principles. This chapter has briefly outlined ergonomics and its history, has described low back pain and upper extremity cumulative trauma disorders from an ergonomic perspective, and has discussed control and prevention approaches for a few scenarios. Ergonomic principles are based on a combination of science and engineering and a thorough understanding of human capabilities and limitations. When these principles are applied to the design of a job, task, process, or procedure, the incidence and severity of musculoskeletal injuries decrease. In many cases productivity and morale also improve. Workers are spared suffering, and employers are spared costs. It is hoped that this discussion will encourage more health, safety, and business professionals to learn about and apply ergonomics in their workplaces for the improvement of the worker, product, and business. Finally, many additional epidemiologic studies on the individual and joint effects of the CTD risk factors are needed. The knowledge gained from these studies will promote the more effective application of ergonomic principles to reduce worker suffering, improve products, and reduce costs.

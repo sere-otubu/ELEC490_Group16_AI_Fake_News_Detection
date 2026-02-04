@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Body composition
-TITLE: Clinical Application of Body Composition Methods in Premature Infants.
-PMID: 32026515
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32026515/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Monitoring whole body composition (fat mass and fat-free mass) in preterm infants may assist in optimizing nutrition and promoting growth and neurodevelopment in the neonatal intensive care unit. Currently, body composition assessment is not part of routine clinical evaluation of premature infants. Instead, weight and length are used to assess growth but are known to be poor predictors of adiposity shortly after birth. Although body composition methods, such as magnetic resonance imaging, stable-isotope dilution, and dual-energy x-ray absorptiometry, have been examined in infants, they involve exposure to radiation and are invasive, expensive, and/or unsuitable for repeated measurements in a medically fragile population. Several body composition methods with potential for clinical use have been explored in premature infants, including air displacement plethysmography, bioimpedance, skinfold measurements, and ultrasound. In this review, we examine each method and evaluate its feasibility for incorporation into clinical care. Although these methods show promise for use in premature infants, further research is needed before they can be recommended for routine body composition assessment in the clinical setting.

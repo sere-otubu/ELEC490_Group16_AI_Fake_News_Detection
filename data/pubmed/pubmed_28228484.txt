@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sugar consumption
-TITLE: In Mexico, Evidence Of Sustained Consumer Response Two Years After Implementing A Sugar-Sweetened Beverage Tax.
-PMID: 28228484
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28228484/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Mexico implemented a 1 peso per liter excise tax on sugar-sweetened beverages on January 1, 2014, and a previous study found a 6 percent reduction in purchases of taxed beverages in 2014. In this study we estimated changes in beverage purchases for 2014 and 2015. We used store purchase data for 6,645 households from January 2012 to December 2015. Changes in purchases of taxed and untaxed beverages in the study period were estimated using two models, which compared 2014 and 2015 purchases with predicted (counterfactual) purchases based on trends in 2012-13. Purchases of taxed beverages decreased 5.5 percent in 2014 and 9.7 percent in 2015, yielding an average reduction of 7.6 percent over the study period. Households at the lowest socioeconomic level had the largest decreases in purchases of taxed beverages in both years. Purchases of untaxed beverage increased 2.1 percent in the study period. Findings from Mexico may encourage other countries to use fiscal policies to reduce consumption of unhealthy beverages along with other interventions to reduce the burden of chronic disease.

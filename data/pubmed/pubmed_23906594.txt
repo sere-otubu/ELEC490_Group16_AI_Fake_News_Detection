@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Migraine
-TITLE: Migraine: mimics, borderlands and chameleons.
-PMID: 23906594
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23906594/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Diagnostically, headache is the easy part of migraine. It is the surrounds of migraine--the aura, prodrome and postdrome--that can be most challenging, and confused with other pathologies. This article examines the definition and variants of migraine; alternative diagnoses for which migraine may be mistaken (mimics); conditions that lie between migraine and other diagnoses (borderlands) and the possible presentations of migraine posing as other conditions (chameleons). The focus is on adults, with only passing reference to children. Migraine is more often a chameleon than a mimic; and it is the careful history that usually makes the distinction. Given migraine's prevalence of 10-15%, relatively uncommon features of migraine occur quite often, in comparison with frequent manifestations of less common diseases. Thus, even rare or under-recognised presentations of migraine come into the differential diagnosis of many presentations.

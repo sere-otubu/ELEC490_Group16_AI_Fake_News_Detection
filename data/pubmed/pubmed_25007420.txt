@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25007420)
-    QUESTION: Are there mental health differences between francophone and non-francophone populations in manitoba?
-    CONTEXT: Francophones may experience poorer health due to social status, cultural differences in lifestyle and attitudes, and language barriers to health care. Our study sought to compare mental health indicators between Francophones and non-Francophones living in the province of Manitoba.
-    ANSWER: The discrepancy in how Francophones view their mental health and their rates of diagnosed mental disorders may be related to health seeking behaviours in the Francophone population. Community and government agencies should try to improve the mental health of this population through mental health promotion and by addressing language and cultural barriers to health services.
-    

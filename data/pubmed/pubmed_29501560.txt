@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Zika virus
-TITLE: Zika virus: lessons learned in Brazil.
-PMID: 29501560
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29501560/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Zika virus (ZIKV) greatly impacted the international scientific and public health communities in the last two years due to its association with microcephaly and other neonatal alterations. This review will discuss lessons learned from viral pathogenesis, epidemiology and clinical findings observed during the ZIKV outbreak occurred between 2014 and 2016 in Brazil.

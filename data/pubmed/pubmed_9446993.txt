@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 9446993)
-    QUESTION: Can dentists recognize manipulated digital radiographs?
-    CONTEXT: To determine the ability of dentists to recognize digitally manipulated radiographs.
-    ANSWER: Image manipulations which alter the diagnostic content of a radiograph are unlikely to be detected by dentists. Digital radiography requires additional measures for data protection.
-    

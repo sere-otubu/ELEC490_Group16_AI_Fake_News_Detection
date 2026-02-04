@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cochlear implants
-TITLE: History of cochlear implants and auditory brainstem implants.
-PMID: 16891833
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16891833/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cochlear implants have evolved during the past 30 years from the single-electrode device introduced by Dr. William House, to the multi-electrode devices with complex digital signal processing that are in use now. This paper describes the history of the development of cochlear implants and auditory brainstem implants (ABIs). The designs of modern cochlear and auditory brainstem implants are described, and the different strategies of signal processing that are in use in these devices are discussed. The primary purpose of cochlear implants was to provide sound awareness in deaf individuals. Modern cochlear implants provide much more, including good speech comprehension, and even allow conversing on the telephone. ABIs that stimulate the cochlear nucleus were originally used only in patients with neurofibromatosis type 2 who had lost hearing due to removal of bilateral vestibular schwannoma. In such patients, ABIs provided sound awareness and some discrimination of speech. Recently, similar degrees of speech discrimination as achieved with cochlear implants have been obtained when ABIs were used in patients who had lost function of their auditory nerve on both sides for other reasons such as trauma and atresia of the internal auditory meatus.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17606778)
-    QUESTION: Can vitamin C prevent complex regional pain syndrome in patients with wrist fractures?
-    CONTEXT: Complex regional pain syndrome type I is treated symptomatically. A protective effect of vitamin C (ascorbic acid) has been reported previously. A dose-response study was designed to evaluate its effect in patients with wrist fractures.
-    ANSWER: Vitamin C reduces the prevalence of complex regional pain syndrome after wrist fractures. A daily dose of 500 mg for fifty days is recommended.
-    

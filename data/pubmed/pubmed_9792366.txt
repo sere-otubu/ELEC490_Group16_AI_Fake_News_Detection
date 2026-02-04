@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 9792366)
-    QUESTION: Is HIV/STD control in Jamaica making a difference?
-    CONTEXT: To assess the impact of the comprehensive HIV/STD Control Program established in Jamaica since the late 1980s on the HIV/AIDS epidemic.
-    ANSWER: HIV/STD control measures appear to have slowed the HIV/AIDS epidemic in Jamaica, however a significant minority of persons continue to have unprotected sex in high risk situations.
-    

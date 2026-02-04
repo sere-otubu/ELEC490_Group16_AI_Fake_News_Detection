@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23999452)
-    QUESTION: Does hypoglycaemia increase the risk of cardiovascular events?
-    CONTEXT: Hypoglycaemia caused by glucose-lowering therapy has been linked to cardiovascular (CV) events. The ORIGIN trial provides an opportunity to further assess this relationship.
-    ANSWER: Severe hypoglycaemia is associated with an increased risk for CV outcomes in people at high CV risk and dysglycaemia. Although allocation to insulin glargine vs. standard care was associated with an increased risk of severe and non-severe hypoglycaemia, the relative risk of CV outcomes with hypoglycaemia was lower with insulin glargine-based glucose-lowering therapy than with the standard glycaemic control. Trial Registration (ORIGIN ClinicalTrials.gov number NCT00069784).
-    

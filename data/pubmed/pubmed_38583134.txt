@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Health equity
-TITLE: Advancing health equity in prelicensure nursing curricula: Findings from a critical review.
-PMID: 38583134
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38583134/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nurses play a crucial role in reducing health disparities and advancing health equity for individuals and communities. The future nursing workforce relies on their nursing education to prepare them to promote health equity. Nursing educators prepare students through a variety of andragogical learning strategies in the classroom and in clinical experiences and by intentionally updating and revising curricular content to address knowledge and competency gaps. This critical review aimed to determine the extent to which health equity concepts are explicitly present in prelicensure undergraduate nursing curricula globally. Of 434 articles screened, 22 articles describing 20 studies met inclusion criteria. Frequency and quantity of health equity content, concepts and topics, teaching strategies, evaluation strategies, and the overall extent of integration varied widely. Notably, only two articles described overall well-integrated explicit health equity content, and there was little attention to whether students transfer this learning into practice. A focus on individualism rather than population and community was noted, highlighting the presence of whiteness in nursing. Results from this review confirm that nursing education has room to improve with respect to health equity in the curricula.

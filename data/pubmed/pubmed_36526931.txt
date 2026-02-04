@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hearing loss
-TITLE: [Hereditary hearing loss].
-PMID: 36526931
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36526931/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Understanding the genetic basis of hearing loss is becoming increasingly relevant, as 50-70% of congenital hearing loss is hereditary and postlingual hearing loss is also often of hereditary origin. To date, more than 220 genes for hearing loss have been identified and more than 600 syndromes with hearing loss described. This review article explains the classification of genetic hearing loss into syndromic versus non-syndromic forms and the modes of inheritance involved. Some of the most common syndromes (Usher, Pendred, Jervell-Lange-Nielsen, Waardenburg, branchiootorenal, and Alport syndrome) are introductorily described. New sequencing technologies have significantly expanded the diagnostic options for genetic hearing loss and made them more accessible. This text aims to encourage initiation of genetic diagnosis in hearing-impaired patients with suspected hereditary genesis in order to provide the best possible counseling for affected individuals and their families.

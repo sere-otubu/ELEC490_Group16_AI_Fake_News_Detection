@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pain management
-TITLE: Postoperative pain: factors and tools to improve pain management in children.
-PMID: 31215311
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31215311/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Outpatient surgery has made it increasingly common for parents to manage pain in the home setting. Studies have shown that parents often under treat pain, leaving children vulnerable to the negative side effects of suboptimal pain management. Multiple factors affect pain management like child's age and developmental stage, language, cultural values like stoicism, parental beliefs about medication, biological differences among groups, etc. Understanding all the factors involved can help healthcare providers and parents better understand pain and contribute to optimal pain management. Multiple tools and technological interventions have been created to help create a better understanding of pain and a holistic approach to care.

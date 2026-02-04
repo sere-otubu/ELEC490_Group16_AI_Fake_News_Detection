@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cell division meiosis
-TITLE: Cell Cycle Regulation by Heat Shock Transcription Factors.
-PMID: 35053319
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35053319/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cell division and cell cycle mechanism has been studied for 70 years. This research has revealed that the cell cycle is regulated by many factors, including cyclins and cyclin-dependent kinases (CDKs). Heat shock transcription factors (HSFs) have been noted as critical proteins for cell survival against various stresses; however, recent studies suggest that HSFs also have important roles in cell cycle regulation-independent cell-protective functions. During cell cycle progression, HSF1, and HSF2 bind to condensed chromatin to provide immediate precise gene expression after cell division. This review focuses on the function of these HSFs in cell cycle progression, cell cycle arrest, gene bookmarking, mitosis and meiosis.

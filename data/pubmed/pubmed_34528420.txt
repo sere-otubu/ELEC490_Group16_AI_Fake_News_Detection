@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hypertension
-TITLE: [Hypertension and dementia : A complex link].
-PMID: 34528420
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34528420/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-High blood pressure and dementia are both frequent age-related diseases. The purpose of this article is to review the treatment of hypertension and his effects on cognition, and to propose key points to improve hypertension's treatment in dementia suffering patients. The management of hypertension in middle-life patients seems to be very important to avoid or decrease the progression of cognitive impairment or dementia. Nevertheless, there is no guidelines regarding blood pressure in patients concerned by dementia. To personalize the treatment, to take other comorbidities into account, and the frequent reevaluation of the medication are keys of an optimal management of hypertension in general and becomes crucial more specific in this population.

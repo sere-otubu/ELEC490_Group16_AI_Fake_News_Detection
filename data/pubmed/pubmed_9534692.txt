@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pacemakers
-TITLE: Radiotherapy in patients with cardiac pacemakers.
-PMID: 9534692
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9534692/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Patients with permanent cardiac pacemakers occasionally require radiotherapy. Therapeutic irradiation may cause pacemakers to malfunction due to the effects of ionizing radiation or electromagnetic interference. Modern pacemakers, using complementary metal oxide semiconductor (CMOS) circuitry, differ from older bipolar semiconductor devices both in their sensitivity to damage and the types of malfunction observed. The mechanisms and types of radiotherapy-induced pacemaker malfunction are described and in vitro and in vivo studies of pacemaker irradiation are reviewed. Some simple precautions are recommended during the planning and administration of radiotherapy to minimize the risk of harm to patients with pacemakers.

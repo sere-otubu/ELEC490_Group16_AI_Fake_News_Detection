@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ADHD
-TITLE: [Autism spectrum disorder and attention-deficit/hyperactivity disorder: challenge in diagnosis and treatment].
-PMID: 36054861
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36054861/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The coexistence of autism spectrum disorder (ASD) and attention deficit hyperactivity disorder (ADHD) definitely poses new challenges, such as making an early diagnosis, considering that the former is usually diagnosed 2 years later in children with ADHD comorbid with autism compared to those with ASD alone; this is a problem at a personal, family and social level, since they must receive timely intervention. This coexistence raises questions about the efficacy of treatment in ADHD in people with autism, genetic, anatomical and functional concordances, among others; these are the challenges that are currently posed. In this review, we present some responses to the challenges posed by such coexistence, and we highlight some pending issues to be solved, being these of great importance for their better understanding and management. In all patients with ADHD or ASD, a coexistence between them should be sought. There are shared functional brain alterations in both disorders identified by functional brain magnetic resonance imaging; the treatment established for ADHD is also effective in this comorbidity.

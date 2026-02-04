@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Preventive medicine
-TITLE: Financing Preventive Medicine Graduate Medical Education.
-PMID: 33785698
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33785698/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Financing US preventive medicine residency programs has been a persistently difficult issue. The unique nature of preventive medicine renders training more burdensome and costly than other specialties. This article describes the numerous and varied federal sources of Graduate Medical Education funding to outline available residency financing options for the specialty of preventive medicine. This information could be utilized by various preventive medicine organizations in their efforts to strengthen the specialty.

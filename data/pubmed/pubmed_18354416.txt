@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Leukemia
-TITLE: GATA1-related leukaemias.
-PMID: 18354416
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18354416/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-GATA1 is a prototypical lineage-restricted transcription factor that is central to the correct differentiation, proliferation and apoptosis of erythroid and megakaryocytic cells. Mutations in GATA1 can generate a truncated protein, which contributes to the genesis of transient myeloproliferative disorder (TMD) and acute megakaryoblastic leukaemia (AMKL) in infants with Down syndrome. Similarly, Gata1 knockdown to 5% of its wild-type level causes high incidence of erythroid leukaemia in mice. The GATA1-related leukaemias in both human and mouse could provide important insights into the mechanism of multi-step leukaemogenesis. Efforts are afoot to produce mouse models that are reflective of TMD and AMKL.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Plasma
-TITLE: Plasma and plasma derivatives in therapeutic plasmapheresis.
-PMID: 22578370
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22578370/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In therapeutic plasmapheresis, patient plasma is withdrawn and a colloid replacement solution is infused in its place. A 4% to 5% human serum albumin solution in saline is the preferred replacement solution in most instances, even though this practice causes transient mild deficiencies of most plasma proteins. Albumin solutions are pasteurized for viral inactivation, are very unlikely to cause a febrile or allergic reaction, and are convenient to store and administer. Single-donor plasma must be type specific, which requires advance knowledge of patient blood type, and must be ordered and usually thawed before use. It also carries a higher risk of reactions. On the plus side, it replaces all plasma constituents and is appropriate for patients with thrombotic thrombocytopenic purpura or an existing coagulopathy. Neither cryosupernatant plasma, which is relatively deficient in the proteins in cryoprecipitate, nor plasma derived from pools that have been virally inactivated with detergents and organic solvents has been shown to produce better outcomes than fresh frozen plasma for any indication.

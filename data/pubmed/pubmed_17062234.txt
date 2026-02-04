@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17062234)
-    QUESTION: Surgical management of the atherosclerotic ascending aorta: is endoaortic balloon occlusion safe?
-    CONTEXT: Occlusion of the atherosclerotic ascending aorta by an endoaortic inflatable balloon has been proposed as an alternative to conventional cross-clamping to prevent injury to the vessel and distal embolization of debris. The safety and the effectiveness of endoaortic occlusion have not been documented in this setting.
-    ANSWER: In this series, the endoaortic occlusion was frequently ineffective, and was associated with a significantly higher risk of in-hospital death and a numerically higher risk of stroke.
-    

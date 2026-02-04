@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gallstones
-TITLE: Management of gallstones and its related complications.
-PMID: 26560258
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26560258/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The majority of gallstone patients remain asymptomatic; however, interest toward the gallstone disease is continuing because of the high worldwide prevalence and management costs and the development of gallstone symptoms and complications. For cholesterol gallstone disease, moreover, a strong link exists between this disease and highly prevalent metabolic disorders such as obesity, dyslipidemia, type 2 diabetes, hyperinsulinemia, hypertriglyceridemia and the metabolic syndrome. Information on the natural history as well as the diagnostic, surgical (mainly laparoscopic cholecystectomy) and medical tools available to facilitate adequate management of cholelithiasis and its complications are, therefore, crucial to prevent the negative outcomes of gallstone disease. Moreover, some risk factors for gallstone disease are modifiable and some preventive strategies have become necessary to reduce the onset and the severity of complications.

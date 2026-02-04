@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Herpes simplex
-TITLE: Herpes simplex virus encephalitis of childhood: inborn errors of central nervous system cell-intrinsic immunity.
-PMID: 32040615
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32040615/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Herpes simplex virus 1 (HSV-1) encephalitis (HSE) is the most common sporadic viral encephalitis in Western countries. Over the last 15 years, human genetic and immunological studies have provided proof-of-principle that childhood HSE can result from inborn errors of central nervous system (CNS)-specific, cell-intrinsic immunity to HSV-1. HSE-causing mutations of eight genes disrupt known (TLR3-dependent IFN-α/β immunity) and novel (dependent on DBR1 or snoRNA31) antiviral mechanisms. Monogenic inborn errors confer susceptibility to forebrain (TLR3-IFN or snoRNA31) or brainstem (DBR1) HSE. Most of these disorders display incomplete clinical penetrance, with the possible exception of DBR1 deficiency. They account for a small, but non-negligible proportion of cases (about 7%). These findings pave the way for the gradual definition of the genetic and immunological architecture of childhood HSE, with both biological and clinical implications.

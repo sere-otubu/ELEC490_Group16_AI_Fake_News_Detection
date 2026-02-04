@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Nicotine dependence
-TITLE: Nicotine Dependence Measures for Perinatal Women.
-PMID: 26935345
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26935345/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This integrative review provides an overview of nicotine dependence measures used with perinatal women and an evaluation of their psychometric properties. Fifty-five articles that met inclusion and exclusion criteria were identified from five different databases. Most of the studies used the Fagerström Test for Nicotine Dependence (FTND). Other approaches included diagnostic tests, the Wisconsin Inventory of Smoking Dependence Motives (WISDM), the Tobacco Dependence Screener, and single-item measures. This review indicated that the FTND may not be the best option for measuring nicotine dependence in this population. The WISDM is a newer instrument that has excellent psychometric properties and captures nonnicotinic dimensions of nicotine dependence relevant to women. Future research is needed to assess its reliability in the perinatal population. Other recommendations from this review include the use of biomarker validation, thorough psychometric reporting on nicotine dependence instruments, and the use of multiple instruments to maximize comparability between nicotine dependence instruments.

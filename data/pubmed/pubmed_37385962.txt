@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Inhalers
-TITLE: Advances in soft mist inhalers.
-PMID: 37385962
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37385962/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Soft mist inhalers (SMIs) are propellant-free inhalers that utilize mechanical power to deliver single or multiple doses of inhalable drug aerosols in the form of a slow mist to patients. Compared to traditional inhalers, SMIs allow for a longer and slower release of aerosol with a smaller ballistic effect, leading to a limited loss in the oropharyngeal area, whilst requiring little coordination of actuation and inhalation by patients. Currently, the Respimat® is the only commercially available SMI, with several others in different stages of preclinical and clinical development. The primary purpose of this review is to critically assess recent advances in SMIs for the delivery of inhaled therapeutics. Advanced particle formulations, such as nanoparticles which target specific areas of the lung, Biologics, such as vaccines, proteins, and antibodies (which are sensitive to aerosolization), are expected to be generally delivered by SMIs. Furthermore, repurposed drugs are expected to constitute a large share of future formulations to be delivered by SMIs. SMIs can also be employed for the delivery of formulations that target systemic diseases. Finally, digitalizing SMIs would improve patient adherence and provide clinicians with fundamental insights into patients' treatment progress.

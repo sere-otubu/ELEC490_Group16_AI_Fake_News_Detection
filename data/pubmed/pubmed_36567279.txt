@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hypertension
-TITLE: Diagnosis and Management of Supine and Nocturnal Hypertension in Orthostatic Hypotension: A Review.
-PMID: 36567279
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36567279/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The prevalence of supine and nocturnal hypertension (S-N-HT) is high among patients with orthostatic hypotension (OH), especially in those who have a neurogenic aetiology. The evidence suggests that S-N-HT exacerbates OH, although it is unclear whether pharmacologic treatment of S-N-HT will improve OH. S-N-HT has also been associated with target organ damage. Therefore, assessment and management of S-N-HT should be an integral part of managing OH, but it is often overlooked in clinical practice.

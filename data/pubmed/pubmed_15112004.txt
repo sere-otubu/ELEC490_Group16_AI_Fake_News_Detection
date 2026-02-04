@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 15112004)
-    QUESTION: Are WHO/UNAIDS/UNICEF-recommended replacement milks for infants of HIV-infected mothers appropriate in the South African context?
-    CONTEXT: Little is known about the nutritional adequacy and feasibility of breastmilk replacement options recommended by WHO/UNAIDS/UNICEF. The study aim was to explore suitability of the 2001 feeding recommendations for infants of HIV-infected mothers for a rural region in KwaZulu Natal, South Africa specifically with respect to adequacy of micronutrients and essential fatty acids, cost, and preparation times of replacement milks.
-    ANSWER: No home-prepared replacement milks in South Africa meet all estimated micronutrient and essential fatty acid requirements of infants aged<6 months. Commercial infant formula is the only replacement milk that meets all nutritional needs. Revisions of WHO/UNAIDS/UNICEF HIV and infant feeding course replacement milk options are needed. If replacement milks are to provide total nutrition, preparations should include vegetable oils, such as soybean oil, as a source of linoleic and alpha-linolenic acids, and additional vitamins and minerals.
-    

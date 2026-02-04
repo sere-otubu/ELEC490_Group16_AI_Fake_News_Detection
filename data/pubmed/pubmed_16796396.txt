@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Plantar fasciitis
-TITLE: The pathomechanics of plantar fasciitis.
-PMID: 16796396
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16796396/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Plantar fasciitis is a musculoskeletal disorder primarily affecting the fascial enthesis. Although poorly understood, the development of plantar fasciitis is thought to have a mechanical origin. In particular, pes planus foot types and lower-limb biomechanics that result in a lowered medial longitudinal arch are thought to create excessive tensile strain within the fascia, producing microscopic tears and chronic inflammation. However, contrary to clinical doctrine, histological evidence does not support this concept, with inflammation rarely observed in chronic plantar fasciitis. Similarly, scientific support for the role of arch mechanics in the development of plantar fasciitis is equivocal, despite an abundance of anecdotal evidence indicating a causal link between arch function and heel pain. This may, in part, reflect the difficulty in measuring arch mechanics in vivo. However, it may also indicate that tensile failure is not a predominant feature in the pathomechanics of plantar fasciitis. Alternative mechanisms including 'stress-shielding', vascular and metabolic disturbances, the formation of free radicals, hyperthermia and genetic factors have also been linked to degenerative change in connective tissues. Further research is needed to ascertain the importance of such factors in the development of plantar fasciitis.

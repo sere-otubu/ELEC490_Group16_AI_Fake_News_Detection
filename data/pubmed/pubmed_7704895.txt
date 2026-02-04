@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cholera
-TITLE: Cholera.
-PMID: 7704895
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7704895/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Despite more than a century of study, cholera still presents challenges and surprises to us. Throughout most of the 20th century, cholera was caused by Vibrio cholerae of the O1 serogroup and the disease was largely confined to Asia and Africa. However, the last decade of the 20th century has witnessed two major developments in the history of this disease. In 1991, a massive outbreak of cholera started in South America, the one continent previously untouched by cholera in this century. In 1992, an apparently new pandemic caused by a previously unknown serogroup of V. cholerae (O139) began in India and Bangladesh. The O139 epidemic has been occurring in populations assumed to be largely immune to V. cholerae O1 and has rapidly spread to many countries including the United States. In this review, we discuss all aspects of cholera, including the clinical microbiology, epidemiology, pathogenesis, and clinical features of the disease. Special attention will be paid to the extraordinary advances that have been made in recent years in unravelling the molecular pathogenesis of this infection and in the development of new generations of vaccines to prevent it.

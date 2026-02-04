@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alternative medicine
-TITLE: [Alternative medicine in ophthalmology?].
-PMID: 16986082
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16986082/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In an overview new data from the literature regarding alternative/complementary medicine are presented. Naturopathy, acupuncture and homeopathy as well as new findings in placebo-research and their correlation to alternative medicine are discussed. In addition, as a synthesis a patient-orientated so-called anthropologic medicine is recommended to make alternative/complementary medicine unnecessary.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Burnout syndrome
-TITLE: Effects of Physical Exercise on Burnout Syndrome in University Students.
-PMID: 35157638
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35157638/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Burnout syndrome has a negative impact on university students' health worldwide. Global prevalence of each dimension of the syndrome is estimated at 55.4% for emotional exhaustion, 31.6% for cynicism and 30.9% for academic inefficacy. Evaluate the efficacy of physical exercise in reducing burnout levels in university students. We carried out an investigation in students from the Technical University of Ambato, Ecuador. Students were in different career tracks, randomly selected, and were assigned to three different groups with pre-test and post-test measurements: two intervention groups (aerobic and strength exercise) and one control group (no exercise). The evaluation instrument was the Maslach Burnout Inventory-Student Survey, whose dimensions are exhaustion, cynicism and academic inefficacy. We also evaluated heart rate variability. The aerobic exercise group reduced cynicism by 21.1% (d = 0.252), inefficacy 13.1% (d = 0.397) and exhaustion by 31.0% (d = 0.532). The strength exercise group reduced cynicism by 27.4% (d = 0.315), inefficacy by 21.7% (d = 0.704) and exhaustion by 19.6% (d = 0.299). In the control group, exhaustion and inefficacy increased by 10.1% (d = 0.128) and 4.4% (d = 0.129) respectively; instead, cynicism was reduced by 7.3% (d = 0.062).The aerobic exercise group had the greatest increase in heart rate variability (at 16.8%), followed by the strength group (16.6%) and the control group (5.2%). Physical exercise (both aerobic and strength) was effective in reducing burnout levels in university students.

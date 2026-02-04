@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 15053041)
-    QUESTION: Do acute changes in heart rate by isoproterenol affect aortic stiffness in patients with hypertension?
-    CONTEXT: Increased aortic stiffness is a independent risk factor of cardiovascular disease in patients with hypertension. Acute changes of the heart rate (HR) have been reported not to affect the aortic stiffness in pacing. However, it is unknown whether acute changes in HR caused by sympathomimetics can affect the aortic stiffness in patients with hypertension. We investigated the effect of acute changes in HR produced by isoproterenol on the aortic stiffness in 17 hypertensive patientss (mean age: 59 +/- 9 years).
-    ANSWER: Aortic stiffness was not affected by acute changes in HR produced by isoproterenol which suggests that it is not necessary to consider acute changes in HR when measuring aortic PWV.
-    

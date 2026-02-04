@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Superfoods
-TITLE: Radioactivity concentration levels and potential radiotoxicity risk assessment of aquatic superfoods case study of algae supplements.
-PMID: 38905734
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38905734/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-It has been found that algae have a variety of health benefits, although investigations showed that they contain radiotoxic elements, including <sup>226</sup>Ra, <sup>232</sup>Th, <sup>40</sup>K, and <sup>137</sup>Cs, which may affect human health. This study is connected to activity concentration measurements of the above radionuclides in the algae supplements available in the Middle East markets. The annual effective radiation doses of measured radionuclides in analyzed algal supplements have been calculated. The highest values of annual effective doses have been estimated for <sup>226</sup>Ra in Ecklonia (13.39 μSv/y) and for <sup>232</sup>Th in Red Marine Algae (11.80 μSv/y), both from South Korea. In algal "superfoods", the effective dose of <sup>137</sup>Cs is not significantly affected by the Fukushima Nuclear Power Plant. Based on these results, it can be concluded that the activity levels of radionuclides are low, the naturally occurring radionuclides provide the most effective doses, and algae supplements can be considered safe.

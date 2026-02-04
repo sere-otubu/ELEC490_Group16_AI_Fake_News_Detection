@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Stomach anatomy
-TITLE: Immunohistochemical and morphologic basis for glutamate signaling in the rat stomach.
-PMID: 18827338
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18827338/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Physiologic studies conducted in rats have demonstrated that afferent fibers of the gastric branch of the vagus nerve increase their firing rate with the intragastric administration of the amino acid glutamate, and the increased firing rate is blocked by the depletion of serotonin (5-HT), administration of the blocker for the serotonin type-3 receptor (SR3), or nitric oxide synthase (NOS). To understand glutamate signaling in the gastric mucosa at the cellular level, we have been studying rats as an animal model using anatomic and immunohistochemical procedures. Our results have indicated that 5-HT-immunoreactive (ir) cells are present in the superficial part of the gastric mucosal epithelium and in the base of the fundic glands, whereas immunoreactivity for SR3 is localized in the neck and its vicinity of the fundic glands. Further, NOS1/neuronal NOS-ir cells with a bipolar shape are located in the lamina propria where a dense network of neuronal cells is present. These results suggest that complex cellular events take place during intragastric glutamate signaling.

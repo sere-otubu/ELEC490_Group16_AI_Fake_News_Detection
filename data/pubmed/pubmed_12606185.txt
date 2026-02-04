@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cystic fibrosis
-TITLE: Cystic fibrosis.
-PMID: 12606185
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12606185/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cystic fibrosis is the most common autosomal recessive disorder in white people, with a frequency of about 1 in 2500 livebirths. Discovery of the mutated gene encoding a defective chloride channel in epithelial cells--named cystic fibrosis transmembrane conductance regulator (CFTR)--has improved our understanding of the disorder's pathophysiology and has aided diagnosis, but has shown the disease's complexity. Gene replacement therapy is still far from being used in patients with cystic fibrosis, mostly because of difficulties of targeting the appropriate cells. Life expectancy of patients with the disorder has been greatly increased over past decades because of better notions of symptomatic treatment strategies. Here, we summarise advances in understanding and treatment of cystic fibrosis, focusing on pulmonary disease, which accounts for most morbidity and deaths.

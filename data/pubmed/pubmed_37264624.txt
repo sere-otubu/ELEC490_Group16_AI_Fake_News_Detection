@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Major depressive disorder
-TITLE: A Complete Sojourn of Gene Therapy along with its Targeting Approaches for the Treatment of the Major Depressive Disorder.
-PMID: 37264624
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37264624/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Approximately 2% to 3% of men and 6% to 7% of women suffer from severe depressive disorders. The existing drugs only partially relieve symptoms for roughly 40% of these patients. The majority of antidepressant drugs are based on theories that are now 50 to 60 years old, and the sector is in critical need of new drug development targets. In the recent decade, numerous genes have been connected to depression in animal models, and serious depression does run in families in humans, indicating both a genetic and environmental component. Depression has been linked to the malfunctioning of serotonin signaling genes, including <i>p11</i>, SERT, <i>etc</i>, according to earlier research. Gene therapy for depression has been found in some instances to be relatively safe, despite the fact that it may seem riskier and more invasive than medication. Hence, there is a growing field regarding the safest delivery mechanisms of these genes that treat major depressive disorders permanently. Hence, the present review summarized the delivery mechanisms of various genes responsible for depressive disorders along with their molecular mechanisms and delivery at the cellular level.

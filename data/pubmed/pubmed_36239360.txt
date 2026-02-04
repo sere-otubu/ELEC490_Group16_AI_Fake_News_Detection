@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alzheimers disease
-TITLE: Is Alzheimer's disease a type 3 diabetes? A review.
-PMID: 36239360
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36239360/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This is a review article that deals with the question of whether type 2 diabetes is a risk factor for the development of Alzheimer's disease. We searched the PubMed database and relevant publications were selected for review. The introduction, which describes the possibilities of how type 2 diabetes can affect the development of Alzheimer's disease, is followed by other questions related to this issue: May on the contrary Alzheimer's disease induce type 2 diabetes? What is a relative risk for type 2 diabetes to induce dementia? How type 2 diabetes influence conversion of mild cognitive impairment to Alzheimer's disease? What is the role of antidiabetic medication? Proposition of term "type 3 diabetes" for Alzheimer's disease. Type 2 diabetes mellitus has been shown to increase the risk for cognitive decline and dementia, such as Alzheimer's disease and vascular dementia. Despite extensive research and numerous publications, the mechanisms underlying these associations remain unclear. Because of similar molecular and cellular features among type 1 and type 2 diabetes and insulin resistance associated with memory deficit and cognitive decline, some researches proposed the term "type 3 diabetes" for Alzheimer's disease.

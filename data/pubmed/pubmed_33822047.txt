@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dopamine
-TITLE: Dopamine Modulation of Motor and Sensory Cortical Plasticity among Vertebrates.
-PMID: 33822047
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33822047/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Goal-directed learning is a key contributor to evolutionary fitness in animals. The neural mechanisms that mediate learning often involve the neuromodulator dopamine. In higher order cortical regions, most of what is known about dopamine's role is derived from brain regions involved in motivation and decision-making, while significantly less is known about dopamine's potential role in motor and/or sensory brain regions to guide performance. Research on rodents and primates represents over 95% of publications in the field, while little beyond basic anatomy is known in other vertebrate groups. This significantly limits our general understanding of how dopamine signaling systems have evolved as organisms adapt to their environments. This review takes a pan-vertebrate view of the literature on the role of dopamine in motor/sensory cortical regions, highlighting, when available, research on non-mammalian vertebrates. We provide a broad perspective on dopamine function and emphasize that dopamine-induced plasticity mechanisms are widespread across all cortical systems and associated with motor and sensory adaptations. The available evidence illustrates that there is a strong anatomical basis-dopamine fibers and receptor distributions-to hypothesize that pallial dopamine effects are widespread among vertebrates. Continued research progress in non-mammalian species will be crucial to further our understanding of how the dopamine system evolved to shape the diverse array of brain structures and behaviors among the vertebrate lineage.

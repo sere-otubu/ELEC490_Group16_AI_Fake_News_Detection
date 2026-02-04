@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mediterranean diet
-TITLE: Cancer and Mediterranean Diet: A Review.
-PMID: 31480794
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31480794/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The Mediterranean diet is considered one of the most worldwide healthy dietary patterns thanks to a combination of foods rich mainly in antioxidants and anti-inflammatory nutrients. Many studies have demonstrated a strong and inverse relationship between a high level of Mediterranean diet adherence and some chronic diseases (such as cardiovascular diseases, diabetes, etc.) and cancer. Given its protective effects in reducing oxidative and inflammatory processes of cells and avoiding DNA damages, cell proliferation, and their survival, angiogenesis, inflammations and metastasis, the Mediterranean diet is considered a powerful and manageable method to fight cancer incidence. The aim of this narrative review was to determine the magnitude of interaction between the Mediterranean diet and more widespread types of cancer so as to give a first and useful overview on this relationship identifying, with a nutritional approach, those nutrients of Mediterranean diet able to reduce cancer incidence.

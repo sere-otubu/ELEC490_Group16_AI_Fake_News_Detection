@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vegan diet
-TITLE: Vegan Diet in Young Children.
-PMID: 31991425
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31991425/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The prevalence of restrictive diets, mainly vegetarian and vegan, is markedly on the increase in Europe and other Western countries. In young children and adolescents, not only weight and height but also neurocognitive and psychomotor development are all strongly influenced by the source, quantity, and quality of their nutrition. In studies done mainly in adult populations, a plant-based diet showed benefits in the reduced risk of chronic diseases such as obesity, type 2 diabetes, cardiovascular diseases, and some types of cancer. However, there is no clear evidence that a vegan diet started in early childhood confers a lasting health benefit. On the other hand, a vegan diet can be potentially critical for young children with risks of inadequate supply in terms of protein quality and energy as well as long-chain fatty acids, iron, zinc, vitamin D, iodine, calcium, and particularly vitamin B12. Deficiencies in these nutrients can lead to severe and sometimes irreversible developmental disorders. If such a diet is chosen for ethical, ecological, or health reasons, a well-planned, diversified diet with additional supplementation of vitamin B12, vitamin D, iodine, and potentially other micronutrients is crucial to ensure a healthy and nutritious intake during childhood.

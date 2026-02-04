@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rosacea
-TITLE: Rosacea.
-PMID: 19932325
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19932325/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rosacea, a common disease in adults, has an extremely variable presentation. Severity is also highly variable and, to some degree, the location of mild end of the rosacea spectrum is in the eye of the beholder. Rosacea has been noted since at least the Middle Ages. The red-faced drunk and the swollen nose of the self-indulgent are images from Shakespeare and Chaucer that have been used in modern political cartoons as well. This association with alcohol and excess is unfortunate since most patients are neither alcoholic nor dissipated.

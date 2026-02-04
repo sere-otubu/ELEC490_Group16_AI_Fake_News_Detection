@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Herpes simplex
-TITLE: Genital herpes simplex.
-PMID: 7020907
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7020907/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Genital herpes is a sexually transmitted disease caused by the herpes simplex virus. Following the initial infection the virus becomes latent in the sacral ganglia. Approximately 80% of patients are then subject to milder but unpredictable recurrences and may shed the virus even when they are asymptomatic. The disorder causes concern because genital herpes in the mother can result in rare but catastrophic neonatal infection and because of a possible association between genital herpes and cancer of the cervix. No effective treatment is as yet available. Weekly monitoring for virus by cervical culture from 32 weeks' gestation is recommended for women with a history of genital herpes and for those whose sexual partner has such a history.

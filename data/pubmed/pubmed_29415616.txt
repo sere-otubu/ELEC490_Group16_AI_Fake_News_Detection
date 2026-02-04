@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Spinal fusion
-TITLE: Platelet-rich plasma for the spinal fusion.
-PMID: 29415616
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29415616/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There has been a wide interest in using platelet-rich plasma (PRP) as a therapeutic agent to enhance spinal fusion. There are two review articles based only on clinical studies regarding the effect of PRP on spinal fusion. However, with regard to both animal model studies and clinical studies, there is no review studies regarding its effect on spinal fusion and no review studies focusing on the platelet count and the concentration of the growth factor in the PRP. The purpose is to review the literatures about the effect of PRP on spinal fusion according to the animal model studies and clinical studies, focusing on the effect of the platelet count and the concentration of the growth factor in the PRP. A PubMed search was performed for English-language articles. We identified 20 articles regarding the effect of PRP on fusion in animal model studies and clinical studies, of which 16 articles met the study criteria of case-control studies or prospective randomized studies for the spinal fusion. The articles were categorized into small-sized animal model, middle-sized animal model, and clinical studies. Studies have shown both beneficial and inhibitory effects. The conclusion that PRP has the stimulating effect on spinal fusion was not reached. However, PRP might promote the human spinal fusion if the platelet count or the concentration of growth factors in the PRP increases.

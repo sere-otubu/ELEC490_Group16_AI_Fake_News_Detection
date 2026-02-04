@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Breastfeeding benefits
-TITLE: Breastfeeding.
-PMID: 23904066
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23904066/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The benefits of breastfeeding for the infant and nursing mother are well established. The World Health Organisation (WHO) recommends exclusive breastfeeding up to 6 mo and continued breastfeeding up to 2 y. Exclusive breastfeeding is the most effective intervention to reduce infant mortality and is estimated to prevent 13 % of under 5 child mortality in low income countries. However, rate of exclusive breastfeeding is alarmingly low in our country. Mothers who face problems in breastfeeding immediately resort to top feeds. It is the responsibility of the health professionals to identify and manage breastfeeding problems appropriately. UNICEF/World Health Organisation, through Baby Friendly Hospital Initiative (BFHI), have recommended good health care practices that support breastfeeding and increase likelihood of optimum breastfeeding. This paper briefly discusses breastfeeding and related feeding problems seen in clinical practice.

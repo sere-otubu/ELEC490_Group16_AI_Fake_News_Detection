@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Syphilis
-TITLE: Syphilis.
-PMID: 40736850
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40736850/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Syphilis is known as the "great imitator" and can occur in any stage of the disease and involve virtually any ocular structure, causing conjunctivitis, conjunctival chancre, episcleritis, scleritis, interstitial keratitis, uveitis, chorioretinitis, retinitis, vasculitis, neuroretinitis, papillitis, retrobulbar neuritis, papilledema, ocular motor nerve palsies, and Argyll Robertson pupil.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hemorrhoids
-TITLE: Symptomatic hemorrhoids.
-PMID: 15515618
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15515618/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The most important aspect in the diagnosis of hemorrhoidal disease is the exclusion of other, more life-threatening conditions. Hemorrhoidal banding remains the most successful method to manage hemorrhoids in the outpatient clinic. Chronic application of local medications to the perineum may result in dermatologic conditions. It is safe to manage acutely inflamed hemorrhoids surgically. Table 1 is a summary of the various methods for the surgical management of symptomatic prolapsing hemorrhoids. Dietary manipulation, including fiber supplementation, should always accompany surgical

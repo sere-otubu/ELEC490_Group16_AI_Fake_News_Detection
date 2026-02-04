@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Weight loss strategies
-TITLE: Randomized clinical trials of weight loss: Pragmatic and digital strategies and innovations.
-PMID: 35085830
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35085830/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-During the COVID-19 pandemic, digital strategies and decentralized approaches allowed for the continuation of weight loss clinical trials despite in-person engagement coming to a halt. In particular, trials leveraged remote mediums to measure data in real-time across a broad array of metrics while testing novel strategies to streamline patient care. Such approaches may address longstanding challenges with traditional trials, including attrition and underrepresentation of racial and ethnic minorities. Ultimately, emerging data from trials utilizing both digital and in-person strategies may indicate the promise of a hybrid approach in incorporating a robust virtual component for continuous patient monitoring and an in-person component for patient adherence and data standardization. In this commentary, we provide an overview of the most innovative digital approaches in clinical trials of weight loss during the COVID-19 era, as well as identify opportunities and challenges for these modes of research going forward.

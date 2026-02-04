@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Substance abuse
-TITLE: Schizophrenia and substance abuse.
-PMID: 7953023
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7953023/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Recent research from North America has demonstrated higher than expected rates of drug and alcohol abuse among the seriously mentally ill. Schizophrenics appear to be particularly susceptible to the negative effects of substance abuse. These include psychiatric and social complications, with antisocial behaviour, particularly violence emerging as one of the most worrying features. This review examines the strength of the association and explores the possible explanations for the apparent link between schizophrenia, substance abuse and violence. The literature was searched using Medline, supplemented with a manual literature search. Very few articles specifically approached the problem of violence among substance abusing schizophrenics, but over 80 papers were identified which were helpful in exploring the link between dangerous behaviour and substance abuse by schizophrenics. While there is circumstantial evidence to support the hypothesis that schizophrenics who abuse drugs or alcohol are at an increased risk of behaving violently, longitudinal studies are required to facilitate a better understanding of the mediating mechanisms.

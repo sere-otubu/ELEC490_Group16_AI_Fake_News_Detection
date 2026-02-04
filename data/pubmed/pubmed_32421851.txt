@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Infectious disease control
-TITLE: An integrative review of the limited evidence on international travel bans as an emerging infectious disease disaster control measure.
-PMID: 32421851
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32421851/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In our increasingly interconnected world, the potential for emerging infectious diseases (EIDs) to spread globally is of paramount concern. Travel bans-herein defined as the complete restriction of travel from at least one geographic region to at least one other international geographic region-are a potential policy solution to control the global spread of disease. The social, economic, and health-related consequences of travel bans, as well as the available evidence on the effectiveness of travel restrictions in preventing the global spread of influenza, have been previously described. However, the effectiveness of travel bans in reducing the spread of noninfluenza EIDs, characterized by different rates and modes of transmission, is less well understood. This study employs an integrative review approach to summarize the minimal evidence on effectiveness of travel bans to decrease the spread of severe acute respiratory syndrome (SARS), Middle Eastern respiratory syndrome (MERS), Ebola virus disease (EVD), and Zika virus disease (ZVD). We describe and qualify the evidence presented in six modeling studies that assess the effectiveness of travel bans in controlling these noninfluenza EID events. We conclude that there is an urgent need for additional research to inform policy decisions on the use of travel bans and other control measures to control noninfluenza EIDs in advance of the next outbreak.

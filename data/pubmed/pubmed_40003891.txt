@@ -1,8 +1,0 @@
-SEARCH_TOPIC: HPV infection
-TITLE: HPV Infection and Oral Microbiota: Interactions and Future Implications.
-PMID: 40003891
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40003891/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Human papillomavirus (HPV) is a leading cause of mucosal cancers, including the increasing incidence of HPV-related head and neck cancers. The oral microbiota-a diverse community of bacteria, fungi, and viruses-play a critical role in oral and systemic health. Oral microbiota dysbiosis is increasingly linked to inflammation, immune suppression, and cancer progression. Recent studies have highlighted a complex interaction between HPV and oral microbiota, suggesting this interplay influences viral persistence, immune response and the tumor microenvironment. These interactions hold significant implications for disease progression, clinical outcomes, and therapeutic approaches. Furthermore, the oral microbiota has emerged as a promising biomarker for HPV detection and disease progress assessment. In addition, probiotic-based treatments are gaining attention as an innovative approach for preventing or treating HPV-related cancers by modulating the microbial environment. In this review, current research on the interaction between HPV and oral microbiota is provided, their clinical implications are explored, and the future potential for utilizing microbiota for diagnostic and therapeutic innovations in HPV-associated cancers is discussed.

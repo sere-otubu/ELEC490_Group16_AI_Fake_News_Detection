@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Epilepsy
-TITLE: [Epilepsy definitions, classifications, and epidemiology].
-PMID: 39625019
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39625019/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-EPILEPSY DEFINITIONS, CLASSIFICATIONS AND EPIDEMIOLOGY. Epilepsy is the most common neurological disease in the world and the second most common in France. It is defined by the occurrence of 2 unprovoked (or reflex) epileptic seizures more than 24 hours apart, or by the occurrence of an unprovoked (or reflex) epileptic seizure with a recurrence probability of at least 60%. Anti-epileptic treatment can now be started immediately after a first unprovoked epileptic seizure, if risk factors for recurrence are identified, principally the presence of epileptic abnormalities on the electroencephalogram or abnormalities on brain imaging. Epileptic syndromes can either have a characteristic age of onset (newborn, infant, child) or, in the case of other syndromes, a variable age of onset. We are currently witnessing the emergence of epileptic syndromes specific to a given etiology, often genetic.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22954812)
-    QUESTION: Are bipolar disorders underdiagnosed in patients with depressive episodes?
-    CONTEXT: Recent reports indicate that the prevalence of bipolar disorder (BD) in patients with an acute major depressive episode might be higher than previously thought. We aimed to study systematically all patients who sought therapy for major depressive episode (MDE) within the BRIDGE study in Germany, reporting on an increased number (increased from 2 in the international BRIDGE report to 5) of different diagnostic algorithms.
-    ANSWER: The diagnosis of BD in patients with MDE depends strongly on the method and criteria employed. The considerable difference between criteria-free physician's diagnosis and the remaining algorithms indicate the usefulness of criteria lists within the everyday clinical setting.
-    

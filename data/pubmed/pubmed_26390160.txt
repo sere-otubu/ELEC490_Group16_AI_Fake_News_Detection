@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood composition
-TITLE: Massive transfusion: red blood cell to plasma and platelet unit ratios for resuscitation of massive hemorrhage.
-PMID: 26390160
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26390160/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The aim of this short study is to review recently published data bearing on how to resuscitate massive uncontrolled hemorrhage. New data inform our understanding of the mechanisms of the acute coagulopathy of trauma, the median time to death of trauma patients with uncontrolled hemorrhage, the effects of blood product composition on the coagulation capacity of infused resuscitation mixtures, the outcomes of patients resuscitated according to common massive transfusion protocols in clinical situations associated with massive hemorrhage, and who might benefit from balanced, blood-product-based resuscitation. Importantly, the trial methods, blood bank methods, and primary outcomes of the Pragmatic Randomized Optimal Plasma and Platelet Ratios (PROPPR) trial were recently published. Resuscitation with a 1 : 1 : 1 ratio of units of plasma and platelets to red blood cells was well tolerated and reduced hemorrhagic mortality during resuscitation in the PROPPR trial. The bulk of currently available data support the use of a 1 : 1 : 1 ratio for the resuscitation of patients with severe injury, shock, and uncontrolled hemorrhage. The application of this formulaic approach to massive blood product-based resuscitation in other clinical situations is less well supported in the literature.

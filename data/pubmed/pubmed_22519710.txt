@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22519710)
-    QUESTION: Will clinical studies elucidate the connection between the length of storage of transfused red blood cells and clinical outcomes?
-    CONTEXT: The temporal pattern of the biologic mechanism linking red blood cell (RBC) storage duration with clinical outcomes is yet unknown. This study investigates how such a temporal pattern can affect the power of randomized controlled trials (RCT) to detect a relevant clinical outcome mediated by the transfusion of stored RBCs.
-    ANSWER: Ongoing RCTs may lack enough power to settle the issue of whether or not the transfusion of stored blood has a negative clinical impact. A precautionary reduction of the maximum storage time to 35 days is advisable.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Acne vulgaris
-TITLE: 1726 nm Lasers for the Treatment of Acne Vulgaris.
-PMID: 38271552
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38271552/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The treatment of acne vulgaris traditionally consists of a combination of topical and oral medications. The use of lasers to treat this condition has been an area of increasing research, and several types have previously been used in the treatment of acne. New 1726 nm lasers specifically target the sebaceous gland, which is known to be pivotal in acne pathophysiology. This laser wavelength demonstrates substantial potential as a safe and effective therapeutic option for moderate to severe acne without the risks of systemic therapy. This paper reviews the 1726 nm lasers for acne vulgaris.

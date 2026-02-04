@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Oral hygiene
-TITLE: The association between oral hygiene and head and neck cancer: a meta-analysis.
-PMID: 36538375
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36538375/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Oral hygiene has been suspected to contribute to the aetiology of head and neck cancer (HNC). Based on the meta-analysis, we evaluated the impact of oral hygiene on head and neck cancer (HNC) and its survival. Relevant case-control and cohort studies reporting survival data, oral hygiene data were searched <i>via</i> PubMed, Embase, Cochrane Library, and Web of Science databases. The odds ratios (ORs), hazard ratios (HRs), and 95% confidence intervals (CIs) were used. Subgroup analysis was performed. Oral hygiene was associated with HNC. Tooth brushing ≥2 a day, dental floss use, denture wearing, caries ≥3, and dental visit ≥1 reduced the risk of oral cavity cancer while mouth wash use, missing teeth >5, gum bleeding, and periodontal disease increased the risk of oral cavity cancer. For oropharynx cancer, tooth brushing ≥2 and caries ≥3 were associated with reduced risk of it. Tooth brushing ≥2 and dental visits ≥1 decreased the risk of pharynx cancer risk and larynx cancer risk, however, missing teeth >5 increased both of them. Oral hygiene was associated with HNC and its sub sites. Oral hygiene should be strengthened, a dental floss use and dentist's visits can be recommended.

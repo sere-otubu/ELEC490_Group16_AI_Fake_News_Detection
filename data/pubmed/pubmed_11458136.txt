@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 11458136)
-    QUESTION: Does managed care enable more low income persons to identify a usual source of care?
-    CONTEXT: By requiring or encouraging enrollees to obtain a usual source of care, managed care programs hope to improve access to care without incurring higher costs.
-    ANSWER: Having a usual physician can be an effective tool in improving access to care for low-income populations, although it is most effective when combined with insurance coverage. However, the effectiveness of managed care in linking more low-income persons to a medical home is uncertain, and may have unintended consequences for uninsured persons.
-    

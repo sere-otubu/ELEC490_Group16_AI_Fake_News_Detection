@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pacemakers
-TITLE: Sick sinus syndrome: a review.
-PMID: 23939447
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23939447/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sick sinus syndrome refers to a collection of disorders marked by the heart's inability to perform its pacemaking function. Predominantly affecting older adults, sick sinus syndrome comprises various arrhythmias, including bradyarrhythmias with or without accompanying tachyarrhythmias. At least 50 percent of patients with sick sinus syndrome develop alternating bradycardia and tachycardia, also known as tachy-brady syndrome. Sick sinus syndrome results from intrinsic causes, or may be exacerbated or mimicked by extrinsic factors. Intrinsic causes include degenerative fibrosis, ion channel dysfunction, and remodeling of the sinoatrial node. Extrinsic factors can be pharmacologic, metabolic, or autonomic. Signs and symptoms are often subtle early on and become more obvious as the disease progresses. They are commonly related to end-organ hypoperfusion. Cerebral hypoperfusion is most common, with syncope or near-fainting occurring in about one-half of patients. Diagnosis may be challenging, and is ultimately made by electrocardiographic identification of the arrhythmia in conjunction with the presence of symptoms. If electrocardiography does not yield a diagnosis, inpatient telemetry monitoring, outpatient Holter monitoring, event monitoring, or loop monitoring may be used. Electrophysiologic studies also may be used but are not routinely needed. Treatment of sick sinus syndrome includes removing extrinsic factors, when possible, and pacemaker placement. Pacemakers do not reduce mortality, but they can decrease symptoms and improve quality of life.

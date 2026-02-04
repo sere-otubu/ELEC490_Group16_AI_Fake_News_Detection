@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sports nutrition
-TITLE: The Effects of a Nutrition Education Intervention on Sports Nutrition Knowledge during a Competitive Season in Highly Trained Adolescent Swimmers.
-PMID: 34444873
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34444873/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The aim of this study was to evaluate the effects of a seven-week nutrition education intervention on the sports nutrition knowledge (SNK) of highly trained UK adolescent swimmers. Fifteen national and international adolescent swimmers (males = 5; females = 10, 15.5 ± 1.1 years, 170.2 ± 7.5 cm, 60.3 ± 5.7 kg) participated in the study during seven consecutive weeks of the competitive swimming season. The participants received 30 min of nutrition education once per week in a classroom-based setting after they had completed their regular swim training. An undergraduate sports nutrition student delivered all nutrition education sessions and SNK questionnaires were administered to the participants pre- and post-intervention. The mean total SNK score improved by 8.3% (SD = 8.4%, 95% CI = 4.1-12.6; <i>p</i> = 0.006; ES = 1.0) following the nutrition education sessions. On an individual basis, ten swimmers significantly improved their total SNK score, whereas four swimmers did not improve, and one swimmer performed significantly worse after the intervention. Moreover, the swimmers' knowledge of hydration improved by 22.2% (SD = 20.6%, 95% CI = 11.8-32.6, <i>p</i> = 0.004, ES = 1.1) over the seven-week timeframe, which was the only nutrition topic to have a significantly increased knowledge score. The current study therefore suggests that a nutrition education intervention can positively influence the SNK of highly trained adolescent swimmers.

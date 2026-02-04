@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Biopsy
-TITLE: Skin Biopsy Techniques.
-PMID: 35125151
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35125151/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Because many skin lesions and disorders can appear similar, primary care clinicians often struggle to diagnose them definitively without histopathologic information obtained from a biopsy. This review article explains how to decide whether a lesion should be biopsied and what type of biopsy technique to use and then outlines the stepwise approach to each of the most common skin biopsy techniques: shave, saucerization, punch, fusiform, and subcutaneous nodule biopsies. Finally, potential pitfalls and complications are discussed so the clinician can avoid those and can provide a cosmetically acceptable result from these common outpatient procedures.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23359100)
-    QUESTION: Is etoricoxib effective in preventing heterotopic ossification after primary total hip arthroplasty?
-    CONTEXT: Heterotopic ossification is a common complication after total hip arthroplasty. Non-steroidal anti-inflammatory drugs (NSAIDs) are known to prevent heterotopic ossifications effectively, however gastrointestinal complaints are reported frequently. In this study, we investigated whether etoricoxib, a selective cyclo-oxygenase-2 (COX-2) inhibitor that produces fewer gastrointestinal side effects, is an effective alternative for the prevention of heterotopic ossification.
-    ANSWER: Etoricoxib seems effective in preventing heterotopic ossification after total hip arthroplasty. This finding further supports the use of COX-2 inhibitors for the prevention of heterotopic ossification following total hip arthroplasty.
-    

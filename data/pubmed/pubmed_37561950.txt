@@ -1,8 +1,0 @@
-SEARCH_TOPIC: PET scan
-TITLE: Psychosocial and Behavioral Outcomes for Persons With Cognitive Impairment and Caregivers Following Amyloid-β PET Scan Disclosure: A Systematic Review.
-PMID: 37561950
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37561950/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Positron emission tomography (PET) scans for amyloid-β can aid in the early and accurate detection of Alzheimer disease. The results of amyloid PET scans could help people with cognitive impairment and caregivers better understand their diagnosis; however, there are concerns that they could also cause psychological harm. A systematic review of psychosocial and behavioral quantitative outcomes following the disclosure of an amyloid PET scan for persons living with cognitive impairment (subjective cognitive decline, mild cognitive impairment, Alzheimer's Disease, and other dementias) and caregivers. Ten papers were identified from 7 studies. There was little evidence of an association between disclosure and depression. However, persons with mild cognitive impairment and their caregivers with elevated levels of amyloid had an increased risk of distress or anxiety compared with those without elevated amyloid. Participants correctly recalled the scan results; however, it is unclear whether this led to an increased understanding of their diagnosis. We did not identify any studies measuring behavioral outcomes. We found mixed evidence on the relationship between amyloid scans and psychosocial and behavioral outcomes in people with cognitive impairment and caregivers. These findings highlight the need for more methodologically rigorous research on this topic.

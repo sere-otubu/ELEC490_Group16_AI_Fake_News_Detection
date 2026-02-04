@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Statins
-TITLE: The pharmacology of statins.
-PMID: 24657242
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24657242/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Statins, inhibitors of the hydroxymethylglutaryl-CoA (HMG-CoA) reductase enzyme, are molecules of fungal origin. By inhibiting a key step in the sterol biosynthetic pathway statins are powerful cholesterol lowering medications and have provided outstanding contributions to the prevention of cardiovascular disease. Their detection in mycetes traces back to close to 40 years ago: there were, originally, widely opposing views on their therapeutic potential. From then on, intensive pharmaceutical development has led to the final availability in the clinic of seven statin molecules, characterized by differences in bioavailability, lipo/hydrophilicity, cytochrome P-450 mediated metabolism and cellular transport mechanisms. These differences are reflected in their relative power (mg LDL-cholesterol reduction per mg dose) and possibly in parenchymal or muscular toxicities. The impact of the antagonism of statins on a crucial step of intermediary metabolism leads, in fact, both to a reduction of cholesterol biosynthesis as well as to additional pharmacodynamic (so called "pleiotropic") effects. In the face of an extraordinary clinical success, the emergence of some side effects, e.g. raised incidence of diabetes and cataracts as well as frequent muscular side effects, have led to increasing concern by physicians. However, also in view of the present relatively low cost of these drugs, their impact on daily therapy of vascular patients is unlikely to change.

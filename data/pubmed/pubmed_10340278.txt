@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alzheimers disease
-TITLE: Alzheimer's disease.
-PMID: 10340278
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10340278/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This article reviews the clinical and neuropathological features of Alzheimer's disease, its known genetic and non-genetic risk factors, procedures used to make the diagnosis and rule out other reversible and non-reversible forms of dementia, and the treatment strategies used to help patients and their families cope with the problem. In addition, it considers how neuroimaging techniques promise to characterize the brain changes which precede the onset of cognitive impairment in persons at risk for Alzheimer's disease and identify treatments to prevent the onset of dementia.

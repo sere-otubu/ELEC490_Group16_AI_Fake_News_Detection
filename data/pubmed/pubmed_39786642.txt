@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chlamydia
-TITLE: Chlamydia in farms located in the Argentine-Brazilian-Paraguay tri-border.
-PMID: 39786642
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39786642/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chlamydias are zoonotic pathogens, broadly present in several bird species and responsible for economic losses in animal production. Our study focused on assessing the prevalence of Chlamydial species posing zoonotic risks in farm animals within the highly biodiverse Argentine, Brazil, and Paraguay tri-border area, characterized by significant human interaction. We surveyed nine farms in an area and nasally swabbed a total of 62 animals, that included cattle, horses and pigs. DNA was extracted and specific PCR was performed to identify and sequenced chlamydial species. We detected Chlamydia spp. in 6.5% (4/62) of the tested animals, with all positive cases found in cattle. None of the cattle showed symptoms of respiratory disease or had been diagnosed with reproductive disorders. Specific nested PCR confirmed two samples belonged to Chlamydia pecorum and two to Chlamydia psittaci. We report for the first time Chlamydia circulation with zoonotic risk in the region. We propose that surveys in birds and wild mammals could give a better understanding to know what Chlamydial species are circulating in the wild interface. The zoonotic potential should be taking into account as farm workers and the surrounding population could be silent carriers or have respiratory diseases being underdiagnosed, and therefore should be considered in the differential diagnoses.

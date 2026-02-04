@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24599411)
-    QUESTION: Is gastric cancer different in Korea and the United States?
-    CONTEXT: To compare the characteristics and prognoses of gastric cancers by tumor location in Korean and U.S. subjects after curative-intent (R0) resection for gastric cancer (GC).
-    ANSWER: There were significant differences in tumor characteristics by tumor location within and between both national cohorts. On the basis of these findings, further study to investigate the biological difference between the two countries is needed.
-    

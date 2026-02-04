@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ultrasound
-TITLE: Bedside ultrasound procedures: musculoskeletal and non-musculoskeletal.
-PMID: 26059560
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26059560/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The widespread availability of ultrasound (US) technology has increased its use for point of care applications in many health care settings. Focused (point of care) US is defined as the act of bringing US evaluation to the bedside for real-time performance. These images are collected immediately by the practitioner, allowing for direct integration into the physician's medical decision-making process. The real-time bedside diagnostic ability of US becomes a key tool for the management of patients. The purpose of this review is to (1) provide a general description of the use of focused US for bedside procedures; (2) specify the indications and common techniques used in bedside US procedures; and (3) describe the techniques used for each bedside intervention.

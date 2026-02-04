@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Platelets
-TITLE: Storage and quality assessment of platelets.
-PMID: 9704447
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9704447/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Platelet concentrates stored for 5 days under currently optimal conditions at 22 C demonstrate approximately a 20-30% loss of viability as determined by CCI measurements in thrombocytopenic patients and radiolabeling studies with healthy volunteers. The functionality of platelets is substantially lost during storage. This loss appears, for most part, to be reversible upon infusion. In view of this, stored platelets should be acceptable for prophylactic treatment of thrombocytopenic patients in whom immediate hemostatic function is not critical. However, whether stored platelets are functionally adequate for immediate arrest of perioperative bleeding in surgical patients remain uncertain. Currently, a fully adequate and appropriate test that evaluates the hemostatic function of a stored platelet product is not available. In view of this, a desired goal in research and development of new platelet products may then be to attain a platelet product that is similar to fresh platelets in various haemostatic functions. Whether this is an obtainable or relevant goal remains to be seen.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hospital infection control
-TITLE: Incentivizing hospital infection control.
-PMID: 30858309
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30858309/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Healthcare-associated infections (HAIs) pose a significant burden to patient safety. Institutions can implement hospital infection control (HIC) measures to reduce the impact of HAIs. Since patients can carry pathogens between institutions, there is an economic incentive for hospitals to free ride on the HIC investments of other facilities. Subsidies for infection control by public health authorities could encourage regional spending on HIC. We develop coupled mathematical models of epidemiology and hospital behavior in a game-theoretic framework to investigate how hospitals may change spending behavior in response to subsidies. We demonstrate that under a limited budget, a dollar-for-dollar matching grant outperforms both a fixed-amount subsidy and a subsidy on uninfected patients in reducing the number of HAIs in a single institution. Additionally, when multiple hospitals serve a community, funding priority should go to the hospital with a lower transmission rate. Overall, subsidies incentivize HIC spending and reduce the overall prevalence of HAIs.

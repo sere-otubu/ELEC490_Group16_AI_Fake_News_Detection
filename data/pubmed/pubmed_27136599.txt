@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 27136599)
-    QUESTION: Is it safe to perform rectal anastomosis in gynaecological debulking surgery without a diverting stoma?
-    CONTEXT: Patient data were retrospectively collected from a database for gynaecological cancer procedures carried out between January 2013 and July 2015. All patients who underwent a colorectal resection during cytoreduction were included in the study. The primary outcome was anastomotic leakage in the presence or absence of a diverting stoma. Secondary outcome parameters were complications and reoperations.
-    ANSWER: Low rectal resection during debulking procedures for gynaecological cancers with peritoneal carcinomatosis can safely be performed by an experienced surgeon without a diverting stoma.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Bipolar disorder
-TITLE: Bipolar disorder: Diagnosis, treatment and future directions.
-PMID: 37649414
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37649414/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Bipolar disorder is a relatively common mental illness, characterised by recurrent episodes of mania (or hypomania) and major depression, and associated with a significant burden of morbidity and premature mortality. Physicians across all specialities are likely to encounter individuals with the condition within their clinical practice. This short review provides an up-to-date overview of the clinical features, epidemiology, pathophysiology, evidence-based management, prognosis and future directions for treatment and research in bipolar disorder. Aspects of cross-specialty relevance are highlighted, including the physical health burden associated with the condition, and the side effects and safety considerations of medication regimes used in bipolar disorder.

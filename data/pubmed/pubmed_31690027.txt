@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vegetarian diet
-TITLE: Dietary Protein and Amino Acids in Vegetarian Diets-A Review.
-PMID: 31690027
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31690027/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-While animal products are rich in protein, the adequacy of dietary protein intake from vegetarian/vegan diets has long been controversial. In this review, we examine the protein and amino acid intakes from vegetarian diets followed by adults in western countries and gather information in terms of adequacy for protein and amino acids requirements, using indirect and direct data to estimate nutritional status. We point out that protein-rich foods, such as traditional legumes, nuts and seeds, are sufficient to achieve full protein adequacy in adults consuming vegetarian/vegan diets, while the question of any amino acid deficiency has been substantially overstated. Our review addresses the adequacy in changes to protein patterns in people newly transitioning to vegetarian diets. We also specifically address this in older adults, where the issues linked to the protein adequacy of vegetarian diets are more complex. This contrasts with the situation in children where there are no specific concerns regarding protein adequacy because of their very high energy requirements compared to those of protein. Given the growing shifts in recommendations from nutrition health professionals for people to transition to more plant-based, whole-food diets, additional scientific evidence-based communications confirming the protein adequacy of vegetarian and vegan diets is warranted.

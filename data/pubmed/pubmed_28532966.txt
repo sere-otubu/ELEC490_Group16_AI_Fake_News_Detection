@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Bulimia nervosa
-TITLE: Bulimia Nervosa/Purging Disorder.
-PMID: 28532966
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28532966/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Bulimia nervosa was first described in 1979 by British psychiatrist Gerald Russell as a "chronic phase of anorexia nervosa" in which patients overeat and then use compensatory mechanisms, such as self-induced vomiting, laxatives, or prolonged periods of starvation. The characterization of bulimia nervosa continues to evolve with the introduction of the DSM-5 in 2013. In this article, the epidemiology and risk factors of bulimia nervosa are identified and reviewed, along with the medical complications and psychiatric comorbidities. The evaluation of a patient with suspected bulimia nervosa is addressed, with an emphasis on acquiring a complete and thorough history as well as discovering any comorbidities that are present. Management of the patient involves both medical interventions and behavioral counseling in order to address physical, psychological, and social needs. Lastly, a new diagnosis introduced in the DSM-5, purging disorder, is described and discussed.

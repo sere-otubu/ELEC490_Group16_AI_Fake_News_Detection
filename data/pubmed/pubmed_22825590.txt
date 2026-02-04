@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22825590)
-    QUESTION: Are behavioural risk factors to be blamed for the conversion from optimal blood pressure to hypertensive status in Black South Africans?
-    CONTEXT: Longitudinal cohort studies in sub-Saharan Africa are urgently needed to understand cardiovascular disease development. We, therefore, explored health behaviours and conventional risk factors of African individuals with optimal blood pressure (BP) (≤ 120/80 mm Hg), and their 5-year prediction for the development of hypertension.
-    ANSWER: During the 5 years, 24% of Africans with optimal BP developed hypertension. The surge in hypertension in Africa is largely explained by modifiable risk factors. Public health strategies should focus aggressively on lifestyle to prevent a catastrophic burden on the national health system.
-    

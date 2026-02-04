@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Burnout syndrome
-TITLE: Burnout syndrome among medical students in Kazakhstan.
-PMID: 35933418
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35933418/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Burnout is a serious problem in the training and professional development of medical students. However, there is no known data on the prevalence of burnout among medical students in Kazakhstan. This study aims at investigating burnout and associated factors in a sample of students from Astana Medical University. The study included socio-demographic and personal questions, Oldenburg Burnout Inventory for college students (OLBI-S) and Copenhagen Burnout Inventory-Students survey (CBI-S) to measure burnout. Statistical analyses included measures of descriptive statistics and regression analysis for evaluating burnout-associated factors. In total, 736 medical students responded. The prevalence of burnout syndrome was 28% (CBI-S) and 31% (OLBI-S). There was a significant association between the prevalence and the level of burnout and student's gender, year of study, thoughts of dropping out, suicidal ideation, satisfaction with the chosen profession and academic performance, interpersonal relationship problems, the decision to study in medical school, smoking, accommodation, parental expectations, alcohol use, extracurricular activities, part-time job, somatic symptoms, depression, and anxiety. The factors associated with burnout were identified, which complements and expands the existing data on academic burnout. The data obtained can help in organizing psychological assistance for medical students in Kazakhstan.

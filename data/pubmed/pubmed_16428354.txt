@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 16428354)
-    QUESTION: Does rural or urban residence make a difference to neonatal outcome in premature birth?
-    CONTEXT: Patients living in rural areas may be at a disadvantage in accessing tertiary health care.AIM: To test the hypothesis that very premature infants born to mothers residing in rural areas have poorer outcomes than those residing in urban areas in the state of New South Wales (NSW) and the Australian Capital Territory (ACT) despite a coordinated referral and transport system.
-    ANSWER: Premature births from rural mothers have a higher risk of stillbirth and mortality in neonatal intensive care than urban infants.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Generalized anxiety disorder
-TITLE: Generalized anxiety disorder.
-PMID: 3324127
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3324127/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Generalized anxiety disorder is a relatively new clinical entity and current understanding of this syndrome lacks a solid research base. However, useful generalizations can be derived from earlier studies of anxiety neurosis and other previously defined anxiety syndromes. Most persons with GAD are seen by primary care physicians, but recognizing these patients may be difficult. In the primary care setting they often present with physical complaints suggesting a specific organ system disease. Depression and substance abuse may be presenting problems in patients with primary GAD. Primary care physicians are usually able to provide appropriate care for generalized anxiety disorder patients. By keeping in mind the cognitive, behavioral, affective, and physiologic aspects of the syndrome, they can appropriately address the specific therapeutic needs of individual patients. The nature of the doctor-patient relationship in primary care favors the development of therapeutic trust that is important for effective management of GAD. Drug therapy is a useful adjunct in the treatment of many patients with GAD. However, the use of drugs as the sole therapeutic modality is seldom appropriate.

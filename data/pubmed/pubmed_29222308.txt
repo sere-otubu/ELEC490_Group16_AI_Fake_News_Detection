@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hemophilia
-TITLE: Hemophilia gene therapy comes of age.
-PMID: 29222308
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29222308/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Concurrent with the development of recombinant factor replacement products, the characterization of the <i>F9</i> and <i>F8</i> genes over 3 decades ago allowed for the development of recombinant factor products and made the hemophilias a target disease for gene transfer. The progress of hemophilia gene therapy has been announced in 3 American Society of Hematology scientific plenary sessions, including the first "cure" in a large animal model of hemophilia B in 1998, first in human sustained vector-derived factor IX activity in 2011, and our clinical trial results reporting sustained vector-derived factor IX activity well into the mild or normal range in 2016. This progression to clinically meaningful success combined with numerous ongoing recombinant adeno-associated virus (rAAV)-mediated hemophilia gene transfer clinical trials suggest that the goal of gene therapy to alter the paradigm of hemophilia care may soon be realized. Although several novel therapeutics have recently emerged for hemophilia, gene therapy is unique in its potential for a one-time disease-altering, or even curative, treatment. This review will focus on the prior progress and current clinical trial investigation of rAAV-mediated gene transfer for hemophilia A and B.

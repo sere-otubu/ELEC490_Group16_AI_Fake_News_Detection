@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Postpartum depression
-TITLE: Screening and the New Treatment for Postpartum Depression.
-PMID: 37806320
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37806320/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In August 2023, the U.S. Food and Drug Administration approved Zurzuvae (zuranolone) as the first oral medication to treat postpartum depression. Despite recommendations to screen and treat depression during pregnancy and after birth, perinatal depression is still considered under-detected and under-treated. In this column, I review screening recommendations and the new pharmacological treatment for postpartum depression, research findings on gaps in the cascade of mental health care, integrative care models, and recommendations from professional organizations on screening and treating postpartum depression within broader systems of mental health care.

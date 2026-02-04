@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Radiation therapy
-TITLE: Role of radiation therapy.
-PMID: 27986398
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27986398/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Because most patients with epithelial ovarian cancer have advanced disease at the time of initial diagnosis, radiation therapy usually does not play a major role in their treatment. Although ovarian carcinomas appear to be no less sensitive to radiation therapy than Müllerian carcinomas arising in other sites, the dose of radiation required to control gross disease, typically at least 60 Gy, cannot be safely delivered to the entire abdomen or even to large partial volumes of the pelvis and abdomen. Moreover, in most cases, localized radiation is ineffective because of the high risk of disseminated recurrence in peritoneal and extraperitoneal sites. There is strong evidence that radiation therapy can be used to achieve prolonged disease-free intervals and even cure selected patients with epithelial ovarian cancer. The challenge is to determine the select few who stand to benefit from radiation therapy. In all cases, the potential benefits of treatment must be carefully weighed against the risks, particularly for patients who are referred after multiple operations and courses of chemotherapy. For patients with incurable ovarian cancer, radiation therapy can also be very effective as a tool for improving symptoms and quality of life.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mindfulness meditation
-TITLE: Mindfulness meditation as an intervention for binge eating, emotional eating, and weight loss: a systematic review.
-PMID: 24854804
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24854804/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Mindfulness-based approaches are growing in popularity as interventions for disordered eating and weight loss. Initial research suggests that mindfulness meditation may be an effective intervention for binge eating; however, no systematic review has examined interventions where mindfulness meditation was the primary intervention and no review has examined its effect on subclinical disordered eating or weight. Using the PRISMA method for systematic reviews, we reviewed 14 studies that investigated mindfulness meditation as the primary intervention and assessed binge eating, emotional eating, and/or weight change. Results suggest that mindfulness meditation effectively decreases binge eating and emotional eating in populations engaging in this behavior; evidence for its effect on weight is mixed. Additional research is warranted to determine comparative effectiveness and long-term effects of mindfulness training.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Leukemia
-TITLE: Mass Spectrometry: A Powerful Method for Monitoring Various Type of Leukemia, Especially MALDI-TOF in Leukemia's Proteomics Studies Review.
-PMID: 33499652
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33499652/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Recent success in studying the proteome, as a source of biomarkers, has completely changed our understanding of leukemia (blood cancer). The identification of differentially expressed proteins, such as relapse and drug resistance proteins involved in leukemia by using various ionization sources and mass analyzers of mass spectrometry techniques, has helped scientists find better diagnosis, prognosis, and treatment strategies. With the aid of this powerful analytical technique, we can investigate the qualification/quantification of proteins, protein-protein interactions, post-translational modifications, and find the correlation between proteins and their genes with the hope of finding the missing parts of the successful therapy puzzle. In this review, we followed different MS sources and analyzers which used for monitoring various type of leukemia, then focused on MALDI-TOF MS as a quick and reliable method for studying proteins. Due to several review published for other techniques, the present review is the first work in this field. Also, by classifying more than 400 proteins, we have found 42 proteins are involved in two or three different stages of leukemia. Finally, we have suggested six specific biomarkers for AML, one for ALL, three biomarkers with a role in the etiology of leukemia and 13 markers with the potential for further studies.

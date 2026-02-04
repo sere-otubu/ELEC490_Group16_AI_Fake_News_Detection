@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vitamins and minerals
-TITLE: Vitamins and minerals: efficacy and safety.
-PMID: 9250127
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9250127/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Safety and efficacy are crucial but separate issues for vitamin and mineral supplements. Misinterpretation of "safe and adequate" to mean "safety limit" would impose restrictions on vitamin and mineral intakes that are not needed to ensure safety. Substantial evidence indicates that intakes greater than the recommended dietary allowances (RDAs) of certain vitamins and minerals such as calcium, folic acid, vitamin E, selenium, and chromium reduce the risk of certain diseases for some people. Limitation of intakes to the RDAs would preclude reductions in disease risk from these nutrients. The margin of safety between the usual dietary intake and the intake that would produce adverse effects varies greatly among the different nutrients. Very high intakes of vitamins A and D, niacin, pyridoxine, and selenium have produced adverse effects. Many widely discussed putative adverse effects of vitamin C, vitamin E, and trivalent chromium have little factual basis. There is no evidence of adverse effects from beta-carotene supplements except in current heavy smokers.

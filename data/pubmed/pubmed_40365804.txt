@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ADHD
-TITLE: [Assessment of ADHD in adults].
-PMID: 40365804
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40365804/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Attention deficit hyperactivity disorder (ADHD) is increasingly diagnosed in adults. The diagnostic process is complex, emphasising the need for specialised assessments due to the disorder's intricate symptomatology and frequent comorbidities. This review presents an outline for a structured diagnostic process, as is the importance of considering comorbid conditions, as they can obscure ADHD symptoms. It is central to adhere to updated clinical guidelines to enhance diagnostic accuracy and treatment efficacy for adults with ADHD.

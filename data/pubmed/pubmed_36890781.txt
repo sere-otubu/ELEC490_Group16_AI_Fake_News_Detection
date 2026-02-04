@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anaerobic exercise
-TITLE: A review of the signaling pathways of aerobic and anaerobic exercise on atherosclerosis.
-PMID: 36890781
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36890781/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Atherosclerosis (AS), a chronic inflammatory vascular disease with lipid metabolism abnormalities, is one of the major pathological bases of coronary heart disease. As people's lifestyles and diets change, the incidence of AS increases yearly. Physical activity and exercise training have recently been identified as effective strategies for lowering cardiovascular disease (CVD) risk. However, the best exercise mode to ameliorate the risk factors related to AS is not clear. The effect of exercise on AS is affected by the type of exercise, intensity, and duration. In particular, aerobic and anaerobic exercise are the two most widely discussed types of exercise. During exercise, the cardiovascular system undergoes physiological changes via various signaling pathways. The review aims to summarize signaling pathways related to AS in two different exercise types and provide new ideas for the prevention and treatment of AS in clinical practice.

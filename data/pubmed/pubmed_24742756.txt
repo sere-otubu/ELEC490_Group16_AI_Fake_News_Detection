@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Self harm
-TITLE: The surgeon and self-harm: at the cutting edge.
-PMID: 24742756
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24742756/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Surgeons frequently treat the consequences of self-harm. Self-harm is a common problem and presentations to Irish hospitals are increasing. It increases the risk of suicide and is associated with long term morbidity. Appropriate management can improve the prognosis. Surgeons require a number of skills to appropriately manage patients who self-harm. In this review we outline those skills including diagnosis, communication, capacity and risk assessment.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 14631523)
-    QUESTION: Sub-classification of low-grade cerebellar astrocytoma: is it clinically meaningful?
-    CONTEXT: The objectives were to identify prognostic factors for the survival of children with cerebellar astrocytoma, and to evaluate the reproducibility and prognostic value of histological sub-classification and grading.
-    ANSWER: Discordant observations due to interobserver variability make histological sub-classification of low-grade cerebellar astrocytomas in children insufficient for predicting prognosis and biological behaviour. Similar survival rates in a population of paediatric low-grade cerebellar astrocytomas of grades I and II indicate that tumour grade has no prognostic significance within this group of patients. "Surgically gross-total removal", especially if the tumour is located in the fourth ventricle is of the highest importance for long-term survival. Histological sub-classification of the tumours has no predictive value.
-    

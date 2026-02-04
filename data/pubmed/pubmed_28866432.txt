@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Statins
-TITLE: [Statins in primary prevention of cardiovascular disease].
-PMID: 28866432
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28866432/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cardiovascular events are the second leading cause of death in France. The assessment of overall cardiovascular risk using a personalized assessment with weighting risk factors can predict the risk of cardiovascular events in ten years. The validated treatments to reduce cardiovascular mortality in primary prevention are few. The use of statins in primary prevention is discussed. We report in this review the updated conclusions from clinical trials regarding the treatment with statins in primary prevention.

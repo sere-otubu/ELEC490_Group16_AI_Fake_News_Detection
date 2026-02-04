@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 11838307)
-    QUESTION: Cold knife conization vs. LEEP. Are they the same procedure?
-    CONTEXT: To prospectively evaluate the amount of tissue removed at loop electrosurgical excision procedure (LEEP) vs. cold knife conization.
-    ANSWER: In a prospective evaluation, cold knife cone specimens were 50% longer and 100% heavier than LEEP specimens.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Zika virus
-TITLE: Zika virus in Thailand.
-PMID: 29477878
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29477878/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review examines the historic reports of the presence of Zika virus (ZIKV) in Thailand, as well as collates such information as exists on the current situation in Thailand with regards to ZIKV. We suggest that considerable caution must be applied in interpreting early serological studies, but that ZIKV is presently circulating over much of Thailand, with increasing numbers of cases being reported.

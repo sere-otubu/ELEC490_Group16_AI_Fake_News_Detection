@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12090319)
-    QUESTION: Is there a need for pelvic CT scan in cases of renal cell carcinoma?
-    CONTEXT: To determine the necessity of pelvic computed tomography (CT) in patients of renal cell carcinoma (RCC).
-    ANSWER: Pelvic CT does not offer additional information in the vast majority of cases with RCC and should be performed selectively. Thus the cost of diagnostic imaging in RCC can be reduced.
-    

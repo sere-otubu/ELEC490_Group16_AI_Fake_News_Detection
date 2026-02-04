@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Epipen
-TITLE: Trends in adrenaline (EpiPen) dispensing in Israel in 1997-2004.
-PMID: 17161854
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17161854/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The prevalence of allergic diseases has increased over the last 20 years in the Western world. Reports on the growing use of adrenaline auto-injectors (EpiPen and EpiPen Jr) in several countries may point to increased rates of anaphylactic reactions, increased awareness of the risk of anaphylaxis or both. To evaluate the dispensing rate of EpiPen units in Israel from 1997 to 2004. The database of the General Health Services (Clalit) was searched to determine the number of EpiPen units dispensed each year from 1997 to 2004. Data on mortality from anaphylaxis were derived from the Central Bureau of Statistics using International Classification of Diseases, 10th revision codes. The dispensing rate of EpiPen units rose gradually from 1689 in 1997 to 2981 in 2004; an overall increase of 76%. No case of death from anaphylaxis was reported from 1998 to 2000. The dispensing rate of adrenaline auto-injectors has increased considerably over the last 8 years in Israel, although to a lesser degree than in other countries. This is probably a reflection of updated medical policies, in accordance with the clinical guidelines for the management of anaphylaxis and improved public education. Further studies are needed to determine the prevalence of anaphylactic reactions in Israel.

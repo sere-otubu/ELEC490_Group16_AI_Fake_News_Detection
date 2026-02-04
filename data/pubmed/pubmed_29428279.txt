@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic screening
-TITLE: Preimplantation Genetic Screening and Preimplantation Genetic Diagnosis.
-PMID: 29428279
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29428279/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Preimplantation genetic testing encompasses preimplantation genetic screening (PGS) and preimplantation genetic diagnosis (PGD). PGS improves success rates of in vitro fertilization by ensuring the transfer of euploid embryos that have a higher chance of implantation and resulting in a live birth. PGD enables the identification of embryos with specific disease-causing mutations and transfer of unaffected embryos. The development of whole genome amplification and genomic tools, including single nucleotide polymorphism microarrays, comparative genomic hybridization microarrays, and next-generation sequencing, has led to faster, more accurate diagnoses that translate to improved pregnancy and live birth rates.

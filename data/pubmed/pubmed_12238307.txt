@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12238307)
-    QUESTION: Vaccine protection in the elderly: are Austrian seniors adequately protected by vaccinations?
-    CONTEXT: The aim of the study was to evaluate, if elderly persons are sufficiently protected against infectious diseases by vaccination.
-    ANSWER: The data demonstrate that vaccination has a relatively weak and short-lasting effect in old age. The results of the study should stimulate discussions about strategies how vaccinations can be made more effective in old age. Improved campaigns, shortened vaccination intervals as well as the design of novel vaccines tailored to fulfill the specific demands of the aging immune system are imaginable.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic testing ethics
-TITLE: The ethics of preadoption genetic testing.
-PMID: 11754047
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11754047/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Developments in genetic technologies have greatly increased our ability to test for a wide variety of genetic disorders in children. These developments raise important ethical questions about the proper use of genetic testing. One context, in particular, where these questions have arisen is that of preadoption genetic testing. This article examines the current consensus view recently advanced by the American College of Medical Genetics and The American Society of Human Genetics on when pediatric testing is ethically permissible. We argue that the consensus view does not adequately recognize the special ethical responsibilities that arise in the preadoption context. Once these special ethical responsibilities are identified, they provide a compelling argument to revise the current standards to permit more preadoption genetic testing than is currently recommended.

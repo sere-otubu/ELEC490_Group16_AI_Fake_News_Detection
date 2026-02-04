@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Organic foods
-TITLE: Organic vs conventional plant-based foods: A review.
-PMID: 35182864
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35182864/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Organic farming is characterized by the prohibition of the use of chemical synthetic fertilizers, pesticides, feed additives and genetically modified organisms and by the application of sustainable agricultural technologies based on ecological principles and natural rules. Organic products are believed to be more nutritious and safer foods compared to the conventional alternatives by consumers, with the consequent increase of demand and price of these foodstuffs. However, in academic circles there is much debate on these issues, since there is not a clear scientific evidence of the difference on the environmental impact and on the nutritional quality, safety and health effects between conventional and organic foods. Therefore, this work aims to describe and update the most relevant data on organic foods, by describing the impact of this practice on environment, producers, consumers and society, as well as by comparing the physicochemical, nutritional and phytochemical quality of conventional and organic plant foods.

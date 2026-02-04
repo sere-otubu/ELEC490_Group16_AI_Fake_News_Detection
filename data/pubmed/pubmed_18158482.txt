@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Diuretics
-TITLE: Diuretics: still the mainstay of treatment.
-PMID: 18158482
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18158482/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The mainstay of treatment of acute decompensated heart failure is diuretic therapy. While there are no data showing a morbidity or mortality benefit from the use of chronic diuretic therapy, diuretics rapidly improve symptoms associated with volume overload. Thus, despite concerns that some diuretics may cause harm by neurohormonal activation, these agents continue to be the first-line treatment for patients with heart failure. There is no conclusive evidence that one means of diuresis is better than another. When administration of moderate doses of loop diuretics is not sufficient, patients can be treated with higher doses, continuous infusions, or the addition of a thiazide diuretic or aldosterone antagonist. Diuretics improve symptoms but should be used in addition to other agents that improve the long-term outcome of patients with heart failure.

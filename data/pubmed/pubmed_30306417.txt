@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Personality disorders
-TITLE: Sex Differences in Personality Disorders.
-PMID: 30306417
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30306417/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review aims to give an overview on the current literature on sex differences in personality disorders and to highlight the potential of dimensional approaches. Empirical findings on sex differences in personality disorders are inconsistent and appear to be highly dependent on study settings. Current studies have mainly focused on borderline and antisocial personality disorder and the question whether these are sex-specific representations of a common substrate. In general, sexes differ in the manifestation of personality disorders as well as in comorbidities. Criticism of the established categorical model led to an additional dimensional model of personality disorders in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition. Investigations on sex differences in personality disorders are sparse and mainly limited to antisocial and borderline personality disorder. The introduction of a dimensional model offers the chance to re-think the construct of "personality disorder" and thereby also opens the possibility for a better understanding of sex differences.

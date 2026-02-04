@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Spinal cord injury
-TITLE: Spinal cord injury pain.
-PMID: 24787340
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24787340/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chronic pain associated with traumatic spinal cord injury (SCI) can be quite challenging to the physiatrist. This highly prevalent condition within the SCI population requires an appropriate evaluative approach including a thorough history, a targeted physical examination, and appropriate use of diagnostic testing. The International Spinal Cord Injury Pain Classification allows for a reasonable categorization of the various pain syndromes and may assist in selecting a reasoned treatment strategy. A multitude of management approaches exist including nonpharmacologic, pharmacologic, and interventional approaches. This article provides an overview of the epidemiology, classification, evaluation, and management of SCI-associated pain.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cluster headaches
-TITLE: Current advances in the management of cluster headaches.
-PMID: 33989098
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33989098/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-<b>Introduction</b>: Cluster headache (CH) is probably the most severe idiopathic pain condition, yet its current medical management remains poor.<b>Areas covered</b>: Only repurpose medicines are currently in use for the prevention of CH, partially because the pathophysiology of the condition is still elusive. In this article we performed a systematic review to evaluate the evidence for efficacy of the currently available or emerging treatments for CH.<b>Expert opinion</b>: We found several ongoing randomized clinical trials testing prophylactic treatments for CH and only few for the standard ones. Recent data from randomized trials with monoclonal antibodies targeting the calcitonin gene related peptide pathway (anti-CGRP mAbs) are controversial, although its role in the pathogenesis of the condition is well documented. This inconsistency may depict inadequacies in clinical trial designing. Anti-CGRP mAbs and antagonists of pituitary adenylate cyclase-activating polypeptide (PACAP) along with neuromodulation techniques, are curing the necessary valuable evidence that could illuminate the therapeutical future for cluster headache. Orexin pathway is another attractive target for CH treatment. To improve the evidence for efficacy, we further propose that the design of the clinical trials for CH needs to be radically reviewed to allow more patients to participate.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Air pollution health effects
-TITLE: Obesity and the cardiovascular health effects of fine particulate air pollution.
-PMID: 24639433
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24639433/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review examines evidence related to the potential impact of obesity on the cardiovascular health effects of fine particulate air pollution (PM₂.₅). A PubMed search was conducted in December, 2013 and studies were included if they examined the relationship between PM₂.₅ and cardiovascular health as well as effect modification by obesity. One hundred twenty-one citations were reviewed; three large prospective cohort studies and 14 panel studies with short-term follow-up met the above criteria. All three cohort studies reported stronger associations between PM₂.₅ and cardiovascular mortality among obese subjects and one reported a significant trend of increased risk with increased body mass index. Similarly, 11 of 14 panel studies reported stronger associations between PM₂.₅ and acute changes in physiological measures of cardiovascular health among obese subjects including outcomes such as blood pressure and arrhythmia. Although interactions were not always statistically significant, the consistent pattern of stronger associations among obese subjects suggests that obesity may modify the impact of PM2.5 on cardiovascular health. Epidemiological evidence suggests that obesity may increase susceptibility to the cardiovascular health effects of PM₂.₅. This an important area of research as the public health impacts of air pollution could increase with increasing prevalence of obesity.

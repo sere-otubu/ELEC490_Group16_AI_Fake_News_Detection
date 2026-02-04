@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cell division meiosis
-TITLE: Polar body emission.
-PMID: 22730245
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22730245/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Generation of a haploid female germ cell, the egg, consists of two rounds of asymmetric cell division (meiosis I and meiosis II), yielding two diminutive and nonviable polar bodies and a large haploid egg. Animal eggs are also unique in the lack of centrioles and therefore form meiotic spindles without the pre-existence of the two dominant microtubule organizing centers (centrosomes) found in mitosis. Meiotic spindle assembly is further complicated by the unique requirement of sister chromatid mono-oriented in meiosis I. Nonetheless, the eggs appear to adopt many of the same proteins and mechanisms described in mitosis, with necessary modifications to accommodate their special needs. Unraveling these special modifications will not only help understanding animal reproduction, but should also enhance our understanding of cell division in general.

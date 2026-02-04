@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19683101)
-    QUESTION: Can D-dimer become a new diagnostic parameter for acute appendicitis?
-    CONTEXT: In this study, we investigated D-dimer serum level as a diagnostic parameter for acute appendicitis.
-    ANSWER: Increased D-dimer levels should not be considered as a diagnostic parameter in diagnosis of acute appendicitis.
-    

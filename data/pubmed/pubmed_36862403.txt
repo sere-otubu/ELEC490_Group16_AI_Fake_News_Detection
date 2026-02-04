@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Down syndrome
-TITLE: Down Syndrome for the Otolaryngologist: A Review.
-PMID: 36862403
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36862403/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There are many features of Down syndrome that prompt referral to an otolaryngologist. As the lifetime prevalence and life expectancy of individuals with Down syndrome increase, it is increasingly likely that otolaryngologists will have the opportunity to care for patients with Down syndrome. A confluence of characteristics common to Down syndrome may be associated with issues in the head and neck, from infancy through adulthood. Hearing concerns range from narrow ear canals and cerumen impactions to eustachian tube dysfunction, middle ear effusion, cochlear malformations, and conductive, sensorineural, and/or mixed hearing loss. Immune deficiency, hypertrophy of Waldeyer ring, and hypoplastic sinuses may complicate and develop into chronic rhinosinusitis. Speech delay, obstructive sleep apnea, dysphagia, and airway anomalies are also common among this patient population. Because these concerns may necessitate otolaryngologic surgery, it is vital for otolaryngologists to familiarize themselves with anesthetic concerns, including cervical spine instability, in patients with Down syndrome. Comorbid cardiac disease, hypothyroidism, and obesity may also affect these patients and otolaryngologic care. Individuals with Down syndrome may visit otolaryngology practices at all ages. Otolaryngologists that familiarize themselves with the head and neck manifestations that are common among patients with Down syndrome and know when to order screening tests will be able to provide comprehensive care.

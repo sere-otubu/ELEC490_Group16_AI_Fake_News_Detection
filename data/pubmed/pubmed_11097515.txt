@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rabies
-TITLE: Rabies.
-PMID: 11097515
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11097515/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rabies is an important disease in wildlife in the United States and Canada, and dog rabies is still a major public health problem in many developing countries of the world. Rabies virus is transmitted in saliva by animal bites. Bats transmitted most recent cases of human rabies in the United States, often without known exposures. There have been recent developments in our understanding of rabies pathogenesis. Characteristic clinical features should raise the possibility of a diagnosis of rabies and initiation of appropriate diagnostic tests. Therapy of human rabies has been futile except in four patients who were immunized with rabies vaccine prior to the onset of their disease. Rabies can be prevented after an exposure in unimmunized patients with local wound cleansing and administration of rabies vaccine and human rabies immune globulin.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Salmonella
-TITLE: Salmonella-based therapeutic strategies: improving tumor microenvironment and bringing new hope for cancer immunotherapy.
-PMID: 39666238
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39666238/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Immunotherapy has revolutionized cancer treatment, yet its effectiveness is limited by immunosuppressive tumor microenvironment (TME). To overcome this challenge, innovative strategies to effectively modulate the TME are urgently needed. Over the past decades, bacteria-mediated cancer immunotherapy has recaptured increasing attention, driven by advances in synthetic biology, genetic engineering and our knowledge of host-pathogen interactions. Among various bacterial species, Salmonella has emerged as a leading candidate with significant therapeutic potential due to its broad-spectrum anti-tumor activity, tumor-targeting ability, immunomodulatory effects, oncolytic properties, genetic programmability, and engineering flexibility. These characteristics enable Salmonella to reshape the immunosuppressive TME, thereby enhancing anti-tumor efficacy. This review elaborates the regulatory effects of Salmonella on key components of the TME, the versatile engineering strategies for optimizing Salmonella's ability to modulate the TME, and recent advancements in combination cancer therapies. We also summarize current clinical applications and discuss challenges of developing safer and more effective Salmonella-based cancer immunotherapy.

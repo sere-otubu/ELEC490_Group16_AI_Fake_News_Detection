@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Micronutrients
-TITLE: Micronutrients in fetal growth and development.
-PMID: 10746341
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10746341/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The roles that the different vitamins and minerals play in fetal growth and development are reviewed, primarily with respect to growth and differentiation in humans; but, as appropriate, data provided from animal and cellular studies are also considered.

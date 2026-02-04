@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24591144)
-    QUESTION: Are the elderly with oropharyngeal carcinoma undertreated?
-    CONTEXT: To determine if elderly patients with oropharyngeal squamous cell carcinoma (OPSCC) are receiving less treatment and to evaluate the benefit of aggressive therapy in this population.
-    ANSWER: Proportionally fewer elderly patients with OPSCC are being treated than younger individuals. These patients can have significant benefits from aggressive treatments despite their older age as shown by our survival analysis. We recommend the use of objective measures to assess patient fitness to reduce the potential for undertreatment in the elderly population.
-    

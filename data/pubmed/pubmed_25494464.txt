@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cell division meiosis
-TITLE: The molecular biology of meiosis in plants.
-PMID: 25494464
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25494464/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Meiosis is the cell division that reshuffles genetic information between generations. Recently, much progress has been made in understanding this process; in particular, the identification and functional analysis of more than 80 plant genes involved in meiosis have dramatically deepened our knowledge of this peculiar cell division. In this review, we provide an overview of advancements in the understanding of all aspects of plant meiosis, including recombination, chromosome synapsis, cell cycle control, chromosome distribution, and the challenge of polyploidy.

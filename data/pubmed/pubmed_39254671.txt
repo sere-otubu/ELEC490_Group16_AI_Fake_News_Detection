@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sun safety
-TITLE: Heat-related illness and sun safety strategies for pediatric populations.
-PMID: 39254671
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39254671/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The ongoing rise in temperature poses significant public health concerns such as exposure to extreme heat and increased prevalence of heat-related illnesses. Given that pediatric populations are particularly vulnerable to heat-related risks, pediatricians need to be prepared to counsel caregivers and patients on heat protective strategies and treatment recommendations. Children are physiologically susceptible to heat-related complications. Heat-related illness is a spectrum of illnesses ranging from mild heat rash to potentially life-threatening heatstroke. Prevention is key to protecting children from heat-related illness and hazards. Recommended prevention strategies include clothing, sun avoidance, hydration, acclimatization, and sunscreen. It is important that pediatricians provide anticipatory guidance on summer sun safety practices to parents and patients. Should prevention fail, pediatricians must be aware of how to effectively distinguish and treat heat-related illness and harms.

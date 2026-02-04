@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hospital infection control
-TITLE: Infection control through the ages.
-PMID: 21783278
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21783278/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To appreciate the current advances in the field of health care epidemiology, it is important to understand the history of hospital infection control. Available historical sources were reviewed for 4 different historical time periods: medieval, early modern, progressive, and post-World War II. Hospital settings for the time periods are described, with particular emphasis on the conditions related to hospital infections.

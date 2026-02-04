@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dissociative disorders
-TITLE: Dissociative tendencies and dissociative disorders.
-PMID: 8040473
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8040473/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although dissociative disorders are relatively rare, dissociative experiences are rather common in everyday life. Dissociative tendencies appear to be modestly related to other dimensions of personality, such as hypnotizability, absorption, fantasy proneness, and some facets of openness to experience. These dispositional variables may constitute diathesis, or risk factors, for dissociative psychopathology, but more complex models relating personality to psychopathology may be more appropriate. The dissociative disorders raise fundamental questions about the nature of self and identity and the role of consciousness and autobiographical memory in the continuity of personality.

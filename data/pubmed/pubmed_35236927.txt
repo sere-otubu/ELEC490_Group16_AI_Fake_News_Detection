@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Melanoma
-TITLE: Review of bi-specific therapies in uveal melanoma.
-PMID: 35236927
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35236927/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Uveal melanoma is a rare subtype of melanoma that once metastatic portends a poor prognosis. Likely due to the distinct differences in biology, metastatic potential, and immunologic profile as compared to cutaneous melanoma, uveal melanoma's response to immune checkpoint inhibition has been disappointing. Bi-specific fusion protein therapies (T cell engagers) are a novel strategy to forcibly bridge the immune system with a target on a cancer cell. This approach has been explored in a number of cancer types and has recently demonstrated success in uveal melanoma. Tebentafusp, a first in class ImmTAC (Immune-mobilizing monoclonal TCRs against cancer), has now shown an overall survival benefit when compared to investigator's choice. This review aims to summarize the experience with this first in class bi-specific T cell engager as well as highlight bi-specifics as a novel treatment strategy in uveal melanoma.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gout
-TITLE: Recent advances in gout drugs.
-PMID: 36335742
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36335742/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gout is an autoinflammatory disease caused by the deposition of urate crystals. As the most common inflammatory arthritis, gout has a high incidence and can induce various severe complications. At present, there is no effective cure method in the world. With the deepening of medical research, gout treatment drugs continue to progress. In this review, we provide a landscape view of the current state of the research on gout treatment drugs, including the research progress of anti-inflammatory and analgesic drugs, drugs that promote uric acid excretion, and drugs that inhibit uric acid production. We mainly emphasize the understanding of gout as an auto-inflammatory disease and the discovery strategy of related gout drugs to provide a systematic and theoretical basis for the new exploration of gout drug discovery.

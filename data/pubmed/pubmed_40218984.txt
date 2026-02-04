@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gluten free diet
-TITLE: The Gluten-Free Diet: The Road Ahead.
-PMID: 40218984
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40218984/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The gluten-free diet (GFD) is the resolutive and safe treatment of celiac disease (CeD), i [...].

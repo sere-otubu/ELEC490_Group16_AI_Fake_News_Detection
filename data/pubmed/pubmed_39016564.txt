@@ -1,8 +1,0 @@
-SEARCH_TOPIC: mRNA vaccines
-TITLE: mRNA-based HIV-1 vaccines.
-PMID: 39016564
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39016564/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-SUMMARYThe success of the Severe Acute Respiratory Syndrome Coronavirus 2 mRNA vaccines to lessen/prevent severe COVID-19 opened new opportunities to develop RNA vaccines to fight other infectious agents. HIV-1 is a lentivirus that integrates into the host cell genome and persists for the lifetime of infected cells. Multiple mechanisms of immune evasion have posed significant obstacles to the development of an effective HIV-1 vaccine over the last four decades since the identification of HIV-1. Recently, attempts to address some of these challenges have led to multiple studies that manufactured, optimized, and tested, in different animal models, mRNA-based HIV-1 vaccines. Several clinical trials have also been initiated or are planned to start soon. Here, we review the current strategies applied to HIV-1 mRNA vaccines, discuss different targeting approaches, summarize the latest findings, and offer insights into the challenges and future of HIV-1 mRNA vaccines.

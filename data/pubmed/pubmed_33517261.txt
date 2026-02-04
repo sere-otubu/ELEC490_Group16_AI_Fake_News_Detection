@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Endocrine system
-TITLE: <i>H19</i> in Endocrine System Tumours.
-PMID: 33517261
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33517261/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Long non-coding RNAs (lncRNAs) are over 200 nucleotides long recently discovered RNA molecules that are not involved in the translation process. Accumulating evidence shows that H19 lncRNA is an important regulator of gene expression and its altered expression contributes to carcinogenesis. The aim of this review was to reveal current knowledge about H19 lncRNA and its impact on tumours of the endocrine system. We present findings about H19 altered regulation and its association with tumorigenesis, cancer progression and differentiation, and its potential use in diagnostics, prognostics and therapy. The mechanism and molecular pathways involved in these processes are discussed.

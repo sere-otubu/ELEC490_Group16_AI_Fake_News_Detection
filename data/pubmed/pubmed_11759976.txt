@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 11759976)
-    QUESTION: Advanced epithelial ovarian carcinoma in Thai women: should we continue to offer second-look laparotomy?
-    CONTEXT: To determine survival among patients with epithelial ovarian carcinoma (EOC) who underwent a second-look laparotomy (SLL) and those refusing the procedure. Also to analyze factor(s) influencing the survival of the patients.
-    ANSWER: The second-look laparotomy doesn't have a favorable impact on overall and disease-free survival. Tumor grade is the only independent prognostic variable for survival of the patients.
-    

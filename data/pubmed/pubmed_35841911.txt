@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hypotension
-TITLE: Diagnosis and treatment of orthostatic hypotension.
-PMID: 35841911
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35841911/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Orthostatic hypotension is an unusually large decrease in blood pressure on standing that increases the risk of adverse outcomes even when asymptomatic. Improvements in haemodynamic profiling with continuous blood pressure measurements have uncovered four major subtypes: initial orthostatic hypotension, delayed blood pressure recovery, classic orthostatic hypotension, and delayed orthostatic hypotension. Clinical presentations are varied and range from cognitive slowing with hypotensive unawareness or unexplained falls to classic presyncope and syncope. Establishing whether symptoms are due to orthostatic hypotension requires careful history taking, a thorough physical examination, and supine and upright blood pressure measurements. Management and prognosis vary according to the underlying cause, with the main distinction being whether orthostatic hypotension is neurogenic or non-neurogenic. Neurogenic orthostatic hypotension might be the earliest clinical manifestation of Parkinson's disease or related synucleinopathies, and often coincides with supine hypertension. The emerging variety of clinical presentations advocates a stepwise, individualised, and primarily non-pharmacological approach to the management of orthostatic hypotension. Such an approach could include the cessation of blood pressure lowering drugs, adoption of lifestyle measures (eg, counterpressure manoeuvres), and treatment with pharmacological agents in selected cases.

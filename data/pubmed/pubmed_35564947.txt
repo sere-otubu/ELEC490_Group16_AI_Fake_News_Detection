@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urban health issues
-TITLE: Selected Research Issues of Urban Public Health.
-PMID: 35564947
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35564947/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Health is created within the urban settings of people's everyday lives. In this paper we define Urban Public Health and compile existing evidence regarding the spatial component of health and disease in urban environments. Although there is already a substantial body of single evidence on the links between urban environments and human health, focus is mostly on individual health behaviors. We look at Urban Public Health through a structural lens that addresses health conditions beyond individual health behaviors and identify not only health risks but also health resources associated with urban structures. Based on existing conceptual frameworks, we structured evidence in the following categories: (i) build and natural environment, (ii) social environment, (iii) governance and urban development. We focused our search to review articles and reviews of reviews for each of the keywords via database PubMed, Cochrane, and Google Scholar in order to cover the range of issues in urban environments. Our results show that linking findings from different disciplines and developing spatial thinking can overcome existing single evidence and make other correlations visible. Further research should use interdisciplinary approaches and focus on health resources and the transformation of urban structures rather than merely on health risks and behavior.

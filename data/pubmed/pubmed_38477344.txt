@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Teeth whitening
-TITLE: Biological action of bleaching agents on tooth structure: A review.
-PMID: 38477344
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38477344/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The use of bleaching agents to remove stains is one of the main dental procedures to improve the aesthetics of teeth. This review presents the main agents used for tooth whitening, existing clinical protocols, and the structural changes that may occur through their use. The main bleaching agents consist of hydrogen peroxide and carbamide peroxide, which are used in bleaching techniques for vital teeth. These techniques can be performed in the office by a professional or by the individual in a home en-vironment under professional guidance. Bleaching agents come in a variety of concentrations and there are over-the-counter products available on the market with lower concentrations of hydrogen peroxide. Due to the chemical characteristics of the agents, changes in the organic and inorganic content of the tooth structure can be observed. These changes are related to morphological changes characterized by in-creased permeability and surface roughness, such changes compromise the mechanical resistance of the tooth. Furthermore, bleaching agents can promote molecular changes after reaching the dental pulp, resulting in oxidative stress of pulp cells and the release of pro-inflammatory mediators. Despite the bleaching effectiveness, tooth sensitivity is considered the main side effect of use. Therefore, among the heterogeneity of protocols, those that used the bleaching agent for a prolonged time and in lower con-centrations presented more harmful effects on the tooth structure.

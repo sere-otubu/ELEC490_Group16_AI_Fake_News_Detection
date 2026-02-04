@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21669959)
-    QUESTION: Secondhand smoke risk in infants discharged from an NICU: potential for significant health disparities?
-    CONTEXT: Secondhand smoke exposure (SHSe) threatens fragile infants discharged from a neonatal intensive care unit (NICU). Smoking practices were examined in families with a high respiratory risk infant (born at very low birth weight; ventilated>12 hr) in a Houston, Texas, NICU. Socioeconomic status, race, and mental health status were hypothesized to be related to SHSe and household smoking bans.
-    ANSWER: The most disadvantaged families were least likely to have protective health behaviors in place to reduce SHSe and, consequently, are most at-risk for tobacco exposure and subsequent tobacco-related health disparities. Innovative SHSe interventions for this vulnerable population are sorely needed.
-    

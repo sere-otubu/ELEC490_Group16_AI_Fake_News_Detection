@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23147106)
-    QUESTION: Is peak concentration needed in therapeutic drug monitoring of vancomycin?
-    CONTEXT: We analyzed the pharmacokinetic-pharmacodynamic relationship of vancomycin to determine the drug exposure parameters that correlate with the efficacy and nephrotoxicity of vancomycin in patients with methicillin-resistant Staphylococcus aureus pneumonia and evaluated the need to use peak concentration in therapeutic drug monitoring (TDM).
-    ANSWER: These results suggest little need to use peak concentration in vancomycin TDM because Cmin/MIC and Cmin are sufficient to predict the efficacy and safety of vancomycin.
-    

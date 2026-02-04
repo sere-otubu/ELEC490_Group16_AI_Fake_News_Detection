@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fatty liver disease
-TITLE: Pathophysiology of Nonalcoholic Fatty Liver Disease/Nonalcoholic Steatohepatitis.
-PMID: 29128059
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29128059/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nonalcoholic fatty liver disease (NAFLD) encompasses a spectrum of liver disorders ranging from hepatic steatosis to nonalcoholic steatohepatitis (NASH) and ultimately may lead to cirrhosis. Hepatic steatosis or fatty liver is defined as increased accumulation of lipids in hepatocytes and results from increased production or reduced clearance of hepatic triglycerides or fatty acids. Fatty liver can progress to NASH in a significant proportion of subjects. NASH is a necroinflammatory liver disease governed by multiple pathways that are not completely elucidated. This review describes the main mechanisms that have been reported to contribute to the pathophysiology of NAFLD and NASH.

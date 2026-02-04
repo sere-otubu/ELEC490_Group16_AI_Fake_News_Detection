@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22534881)
-    QUESTION: Does the radiographic transition zone correlate with the level of aganglionosis on the specimen in Hirschsprung's disease?
-    CONTEXT: The correlation between radiographic transition zone on contrast enema in Hirschsprung's disease and the total length of aganglionosis is known to be inaccurate. The aim of our study was to analyse this correlation more precisely to improve preoperative planning of the corrective surgery.
-    ANSWER: Correlation between level of radiographic transition zone on contrast enema and length of aganglionosis remains low. Systematic preoperative biopsy by coelioscopy or ombilical incision is mandatory.
-    

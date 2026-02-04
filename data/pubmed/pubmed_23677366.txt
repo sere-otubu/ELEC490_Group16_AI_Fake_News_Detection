@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23677366)
-    QUESTION: Do oblique views add value in the diagnosis of spondylolysis in adolescents?
-    CONTEXT: Anteroposterior, lateral, and right and left oblique lumbar spine radiographs are often a standard part of the evaluation of children who are clinically suspected of having spondylolysis. Recent concerns regarding radiation exposure and costs have brought the value of oblique radiographs into question. The purpose of the present study was to determine the diagnostic value of oblique views in the diagnosis of spondylolysis.
-    ANSWER: There is no difference in sensitivity and specificity between four-view and two-view studies. Although oblique views have long been considered standard practice by some, our data could not identify a diagnostic benefit that might outweigh the additional cost and radiation exposure.
-    

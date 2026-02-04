@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Crohns disease
-TITLE: Treatment of perianal Crohn's disease.
-PMID: 29126509
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29126509/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Perianal Crohn's is a common manifestation of Crohn's disease. Primary manifestations of perianal disease mirror common anorectal conditions, however treatment is less successful than in those patients without Crohn's related perianal disease. A multimodal approach to therapy including medical and surgical modalities is often necessary. The goal of treatment is to manage symptoms while maintaining continence.

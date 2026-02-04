@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21712147)
-    QUESTION: Does combining antiretroviral agents in a single dosage form enhance quality of life of HIV/AIDS patients?
-    CONTEXT: Combining various antiretroviral agents into one single dosage form has been a strategy to reduce pill burden and enhance medication adherence among human immunodeficiency virus /AIDS (HIV/AIDS) patients.
-    ANSWER: Although the cost-effectiveness of a single-pill strategy was within the acceptable willingness-to-pay threshold, the QALY difference were minimal. Further research is recommended to explore the long-term impact of the strategy.
-    

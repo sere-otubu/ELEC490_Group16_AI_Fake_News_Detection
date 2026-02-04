@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12595848)
-    QUESTION: Is specialty care associated with improved survival of patients with congestive heart failure?
-    CONTEXT: Implementation of the complex treatment strategies that have been shown to improve survival of patients with congestive heart failure (CHF) may require certain expertise. We wanted to examine the association between pattern of outpatient care and survival of patients with CHF.
-    ANSWER: We found an improved survival associated with cardiologist care and a mixture of general practitioner and cardiologist care compared with general practitioner care. The pattern of outpatient care may therefore be important for the survival of patients with CHF.
-    

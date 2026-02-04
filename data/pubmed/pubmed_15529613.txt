@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anemia
-TITLE: Treatment of iron deficiency anemia with Ferro-Folgamma.
-PMID: 15529613
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15529613/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Iron deficiency anemia is a hypochromic anemia in which hemoglobin poor synthesis is due to a decrease in the amount of iron in the body. The decrease of iron quantity has many causes: insufficient intake of aliments rich in iron (meat, viscera, green vegetables), increased necessities during growth period, pregnancy, erythrocytes hyperregeneration, high-performance sportsmen, increased loss by digestive way, genito-urinary way, respiratory, hemorrhagic syndromes. Clinically, symptoms and signs specific to all types of anemia and those specific to lack of iron occur besides the symptoms and signs of the underlying disease: atrophic glositis, angular stomatitis, sideropenic dysphagia, pica, skin and nails changes. Laboratory investigations useful for diagnosis are: microcytic, hypochromic anemia, decreased serum iron level, total capacity of iron binding increased, medullar iron store absent, good response to iron therapy. Ferro-Folgamma is one of the most indicated medicines in iron deficiency anemia. Due to its components this medicine has many indications: insufficient alimentary intake concerning iron, folic acid, B12 vitamin, vegetarian alimentation, increased needs during growth period, iron deficiency anaemia secondary to chronic hemorrhages, malnutrition, anemias associated with chronic alcohol intake, preventive treatment of iron deficiency anemia and megaloblastic anemia during pregnancy and lactation.

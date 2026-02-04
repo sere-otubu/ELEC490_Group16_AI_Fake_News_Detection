@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Autoimmune diseases
-TITLE: Aire Mutations and Autoimmune Diseases.
-PMID: 40067589
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40067589/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Autoimmune diseases were first recognized by Mackay and Macfarlane Burnet in 1962 (Burnet and Mackay 1962). It is defined as the failure of an organism to tolerate its own cells and tissue, resulting in an aberrant immune response by lymphocytes (T-cell-driven disease) and/or antibodies (B-cell-driven disease). Autoimmune diseases can be divided into systemic autoimmune diseases and specific organ- or body-system diseases, including the endocrine, gastro-intestinal, and neurological systems, and it's not uncommon for individuals to experience multiple autoimmune conditions simultaneously. Autoimmune diseases affect ~10% of the population (Conrad et al. 2023), causing chronic suffering, vital organ failure, and premature death at the level of cancer and cardiovascular diseases. The rising incidence of these disorders poses a significant challenge to healthcare systems, underscoring the critical need to elucidate disease mechanisms and translate these into effective diagnostic tests and therapeutics. Current therapeutic strategies are predominantly confined to symptomatic relief through replacement therapy and broad-spectrum anti-inflammatory drugs, often resulting in increased disease burden, diminished life quality, and elevated mortality rates. Most autoimmune diseases are likely a result of a combination of different genetic and environmental factors. However, there are a few exemptions, like the autoimmune polyendocrine syndrome type 1 (APS-1) caused by mutations in the Autoimmune Regulator (AIRE) gene.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Keto diet
-TITLE: Ketogenic Diet and Epilepsy.
-PMID: 31635247
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31635247/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Currently available pharmacological treatment of epilepsy has limited effectiveness. In epileptic patients, pharmacological treatment with available anticonvulsants leads to seizure control in <70% of cases. Surgical intervention can lead to control in a selected subset of patients, but still leaves a significant number of patients with uncontrolled seizures. Therefore, in drug-resistant epilepsy, the ketogenic diet proves to be useful. The purpose of this review was to provide a comprehensive overview of what was published about the benefits of ketogenic diet treatment in patients with epilepsy. Clinical data on the benefits of ketogenic diet treatment in terms of clinical symptoms and adverse reactions in patients with epilepsy have been reviewed. Variables that could have influenced the interpretation of the data were also discussed (e.g., gut microbiota). The data in this review contributes to a better understanding of the potential benefits of a ketogenic diet in the treatment of epilepsy and informs scientists, clinicians, and patients-as well as their families and caregivers-about the possibilities of such treatment. Since 1990, the number of publications on attempts to treat drug-resistant epilepsy with a ketogenic diet has grown so rapidly that it has become a challenge to see the overall trajectory and major milestones achieved in this field. In this review, we hope to provide the latest data from randomized clinical trials, practice guidelines, and new research areas over the past 2 years.

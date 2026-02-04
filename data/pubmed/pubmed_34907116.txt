@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gout
-TITLE: Update on gout management: what is old and what is new.
-PMID: 34907116
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34907116/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The global burden of gout is rising, as are the prevalence of associated comorbidities, all-cause mortality and societal costs. In this review, we discuss recent advances in epidemiology and treatment strategies for gout. Genetic factors and obesity are prominent contributors to hyperuricemia and gout, while dietary factors contribute to less variance in serum urate, though can still have some contribution to population attributable risk. A consensus statement by the Gout, Hyperuricemia and Crystal-Associated Disease Network outlined appropriate terminology regarding gout, which will aid in communication about various aspects of the disease. The 2020 American College of Rheumatology gout guideline offers comprehensive evidence-based recommendations for the management of hyperuricemia using urate-lowering therapy, prophylaxis when initiating urate-lowering therapy, treatment of gout flare and adjunctive management strategies. There is improved understanding of risk factors for allopurinol hypersensitivity syndrome and well tolerated use of allopurinol in chronic kidney disease. Trial data have provided new insights regarding cardiovascular risk with febuxostat. Several new drug therapies are being tested for both urate-lowering efficacy and gout flare management. Although there have been significant advances in understanding of risk factors and treatment approaches, gout remains suboptimally managed. There is substantial need for improving gout management efforts and gout education among patients and clinicians.

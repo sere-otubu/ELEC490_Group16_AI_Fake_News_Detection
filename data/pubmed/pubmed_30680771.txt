@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hepatitis B
-TITLE: Hepatitis B variants among Egyptian patients undergoing hemodialysis.
-PMID: 30680771
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30680771/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hepatitis B virus (HBV) infection is a serious nosocomial infection that affects patients undergoing hemodialysis (HD). However, certain HBV variants are not detected by routine serological tests in Egyptian dialysis units because of mutations that change important viral antigens (Ags). Of note, these mutations can result in the appearance of different HBV variants with different clinical manifestations. Thus, the present study aimed to assess different clinical forms of HBV infections and viral genotypes among patients undergoing HD in the Ismailia governorate of Egypt. To this end, serum samples were collected from 150 patients undergoing HD and screened for HBV-DNA using a nested PCR technique. Positive samples were then screened for HBV serological markers (hepatitis B core antibody [HBcAb], hepatitis B surface antigen, hepatitis B surface antibody, hepatitis B e antigen and hepatitis B e antibody) using ELISA and the HBV viral load quantitated by qPCR. HBV genotypes were detected by direct sequencing of the partial surface (S) gene. The most common clinical form of HBV infection in our study cohort was overt HBV infection (10%); followed by seropositive occult hepatitis B infection (7.3%), most of whom had an isolated HBcAb. The least common form was the precore mutant (1.3%). All HBV isolates were genotype D. This study reveals the importance of HBcAb and PCR in screening for HBV, especially for detection of occult hepatitis B infection.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Insulin therapy
-TITLE: Insulin Therapy Increases Cardiovascular Risk in Type 2 Diabetes.
-PMID: 28958751
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28958751/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Insulin therapy increased cardiovascular (CV) risk and mortality among type 2 diabetes (T2D) patients in several recently reported clinical outcomes trials. To assess whether this association is causative or coincidental, PubMed searches were used to query the effects of insulin therapy for T2D on CV health and longevity from large-scale outcomes trials, meta-analyses, and patient registry studies, as well as basic research on insulin's direct and pleiotropic actions. Although several old studies provided conflicting results, the majority of large observational studies show strong dose-dependent associations for injected insulin with increased CV risk and worsened mortality. Insulin clearly causes weight gain, recurrent hypoglycemia, and, other potential adverse effects, including iatrogenic hyperinsulinemia. This over-insulinization with use of injected insulin predisposes to inflammation, atherosclerosis, hypertension, dyslipidemia, heart failure (HF), and arrhythmias. These associations support the findings of large-scale evaluations that strongly suggest that insulin therapy has a poorer short- and long-term safety profile than that found to many other anti-T2D therapies. The potential adverse effects of insulin therapy should be weighed against proven CV benefits noted for select other therapies for T2D as reported in recent large randomized controlled trials.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alcoholism
-TITLE: Emotional Communication in Long-Term Abstained Alcoholics.
-PMID: 30175417
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30175417/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Alcoholism is associated with difficulties in perceiving emotions through nonverbal channels including prosody. The question whether these difficulties persist to long-term abstinence has, however, received little attention. In a 2-part investigation, emotional prosody production was investigated in long-term abstained alcoholics and age- and education-matched healthy controls. First, participants were asked to produce semantically neutral sentences in different emotional tones of voice. Samples were then acoustically analyzed. Next, naïve listeners were asked to recognize the emotional intention of speakers from a randomly collected subset. Voice quality indicators were also assessed by the listeners. Findings revealed emotional prosody production differences between the 2 groups. Differences were particularly apparent when looking at pitch use. Alcoholics' mean and variability of pitch differed significantly from controls' use. The use of loudness was affected to a lesser extent. Crucially, naïve raters confirmed that the intended emotion was more difficult to recognize from exemplars produced by alcoholics. Differences between the 2 groups were also found with regard to voice quality. These results suggest that emotional communication difficulties can persist long after alcoholics have quit drinking.

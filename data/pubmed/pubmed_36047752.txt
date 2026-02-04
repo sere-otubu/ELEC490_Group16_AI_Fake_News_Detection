@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Conjunctivitis
-TITLE: Neonatal Conjunctivitis.
-PMID: 36047752
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36047752/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Neonatal conjunctivitis is an important cause of ocular morbidity with infectious and noninfectious origins. Common practice in the United States is to administer prophylactic antibiotic ointment at birth; however, prophylaxis is ineffective for some causes. Moreover, recognition of the etiologies that threaten systemic complications to the neonate is critical in providing timely and appropriate treatment. This review summarizes the clinical features, etiology, and treatment recommendations of various forms of neonatal conjunctivitis.

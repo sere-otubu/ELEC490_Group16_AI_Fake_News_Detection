@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Stress management
-TITLE: Current state of knowledge on Takotsubo syndrome: a Position Statement from the Taskforce on Takotsubo Syndrome of the Heart Failure Association of the European Society of Cardiology.
-PMID: 26548803
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26548803/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Takotsubo syndrome is an acute reversible heart failure syndrome that is increasingly recognized in modern cardiology practice. This Position Statement from the European Society of Cardiology Heart Failure Association provides a comprehensive review of the various clinical and pathophysiological facets of Takotsubo syndrome, including nomenclature, definition, and diagnosis, primary and secondary clinical subtypes, anatomical variants, triggers, epidemiology, pathophysiology, clinical presentation, complications, prognosis, clinical investigations, and treatment approaches. Novel structured approaches to diagnosis, risk stratification, and management are presented, with new algorithms to aid decision-making by practising clinicians. These also cover more complex areas (e.g. uncertain diagnosis and delayed presentation) and the management of complex cases with ongoing symptoms after recovery, recurrent episodes, or spontaneous presentation. The unmet needs and future directions for research in this syndrome are also discussed.

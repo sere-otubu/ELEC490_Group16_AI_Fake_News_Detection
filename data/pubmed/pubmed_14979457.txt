@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Breastfeeding benefits
-TITLE: Benefits of breastfeeding.
-PMID: 14979457
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/14979457/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Infants who are breastfed experience fewer incidences of infectious and noninfectious diseases and less severe cases of diarrhea, respiratory infections, and ear infections. This article reviews the benefits to mother and child of breastfeeding and provides information for situations in which breastfeeding should not be implemented.

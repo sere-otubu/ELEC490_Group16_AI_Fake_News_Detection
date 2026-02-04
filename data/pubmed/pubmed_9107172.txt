@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 9107172)
-    QUESTION: Bridge experience with long-term implantable left ventricular assist devices. Are they an alternative to transplantation?
-    CONTEXT: If long-term use of left ventricular assist devices (LVADs) as bridges to transplantation is successful, the issue of permanent device implantation in lieu of transplantation could be addressed through the creation of appropriately designed trials. Our medium-term experience with both pneumatically and electrically powered ThermoCardiosystems LVADs is presented to outline the benefits and limitations of device support in lieu of transplantation.
-    ANSWER: Over all, our medium-term experience with implantable LVAD support is encouraging. Although additional areas of investigation exist, improvements in patients selection and management together with device alterations that have reduced the thromboembolic incidence and facilitated patient rehabilitation lead us to believe that a prospective, randomized trial is indicated to study the role that LVADs may have as an alternative to medical management.
-    

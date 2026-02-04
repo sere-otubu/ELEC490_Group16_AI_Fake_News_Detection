@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25957366)
-    QUESTION: Prompting Primary Care Providers about Increased Patient Risk As a Result of Family History: Does It Work?
-    CONTEXT: Electronic health records have the potential to facilitate family history use by primary care physicians (PCPs) to provide personalized care. The objective of this study was to determine whether automated, at-the-visit tailored prompts about family history risk change PCP behavior.
-    ANSWER: No change occurred upon instituting simple, at-the-visit family history prompts geared to improve PCPs' ability to identify patients at high risk for 6 common conditions. The results are both surprising and disappointing. Further studies should examine physicians' perception of the utility of prompts for family history risk.
-    

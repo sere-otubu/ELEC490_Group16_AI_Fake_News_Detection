@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anorexia nervosa
-TITLE: Anorexia nervosa: recent investigations.
-PMID: 417664
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/417664/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In this paper, I have: 1. described the typological diagnosis of anorexia nervosa, 2. discussed recent hematological, lipid, electrolyte, gastrointestinal, and electrocardiographic studies in anorexia nervosa, and 3. reviewed recent endocrine investigations including thyroid, adrenal cortical, gonadotropin, growth hormone, and catecholamine studies in anorexia nervosa. Although all of the reviewed studies have contributed greatly to the formation of descriptive criteria for anorexia nervosa, they have not supported any single hypothesis concerning the etiology of anorexia nervosa. Further studies are needed to ascertain relationships between the typical anorectic behavior and the endocrine and catecholamine changes observed in this disorder.

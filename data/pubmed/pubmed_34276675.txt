@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Osteoporosis
-TITLE: T-Cell Mediated Inflammation in Postmenopausal Osteoporosis.
-PMID: 34276675
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34276675/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Osteoporosis is the most prevalent metabolic bone disease that affects half the women in the sixth and seventh decade of life. Osteoporosis is characterized by uncoupled bone resorption that leads to low bone mass, compromised microarchitecture and structural deterioration that increases the likelihood of fracture with minimal trauma, known as fragility fractures. Several factors contribute to osteoporosis in men and women. In women, menopause - the cessation of ovarian function, is one of the leading causes of primary osteoporosis. Over the past three decades there has been growing appreciation that the adaptive immune system plays a fundamental role in the development of postmenopausal osteoporosis, both in humans and in mouse models. In this review, we highlight recent data on the interactions between T cells and the skeletal system in the context of postmenopausal osteoporosis. Finally, we review recent studies on the interventions to ameliorate osteoporosis.

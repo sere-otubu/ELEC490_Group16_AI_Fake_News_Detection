@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic disorders
-TITLE: Maternal genetic disorders and fetal development.
-PMID: 32010984
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32010984/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-With improvements in early diagnosis and management of genetic diseases, more women with genetic disorders are reaching reproductive age and becoming pregnant. While pregnancy can have a significant impact on a woman's health when there is an underlying genetic disorder, there can also be fetal effects, including embryopathy, fetal growth restriction, and brain injury. Some maternal genetic disorders are associated with adverse perinatal outcomes, including a high risk of perinatal loss and preterm birth. In this article, we review several maternal genetic disorders associated with fetal risk that are important for clinicians and patients to understand and manage appropriately. These include phenylalanine hydroxylase (PAH) deficiency and other inborn errors of metabolism, tuberous sclerosis complex, myotonic dystrophy, cystic fibrosis, Turner syndrome, sickle cell disease, and connective tissue disorders.

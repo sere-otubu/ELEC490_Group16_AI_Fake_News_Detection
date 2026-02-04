@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Epipen
-TITLE: The EpiPen and the ischaemic finger.
-PMID: 17620915
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17620915/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-We present a case of a 24-year-old with a history of accidental injection of adrenaline from an EpiPen into the proximal aspect of her left index finger. Various methods were advocated to treat digital ischaemia but were of no benefit. Topical infiltration of phentolamine in 1 ml of lignocaine 2% was given at the puncture site with immediate results of resolution of digital ischaemia.

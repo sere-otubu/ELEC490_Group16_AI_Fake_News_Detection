@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic testing ethics
-TITLE: Birds of a Feather? Genetic Counseling, Genetic Testing, and Humanism.
-PMID: 31548221
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31548221/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Humanism is a philosophy that emphasizes rational, scientific, and empiric analysis of the world we live in to improve the physical, social, and psychological life of humanity. Although individual genetic counselors may or may not identify as humanists, genetic counseling and genetic testing are primarily humanistic endeavors because they are situated in the context of humanistic medicine in the westernized world. Humanistic goals are also implicit and explicit in the profession and practice of genetic counselors. This review examines the relationship between humanism and genetic counseling, highlighting situations in which the two may be discordant, and suggests ways that genetic counselors can reconcile these discordances.

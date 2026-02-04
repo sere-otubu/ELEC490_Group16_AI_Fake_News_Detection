@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fiber intake
-TITLE: Health benefits of dietary fiber.
-PMID: 19335713
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19335713/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Dietary fiber intake provides many health benefits. However, average fiber intakes for US children and adults are less than half of the recommended levels. Individuals with high intakes of dietary fiber appear to be at significantly lower risk for developing coronary heart disease, stroke, hypertension, diabetes, obesity, and certain gastrointestinal diseases. Increasing fiber intake lowers blood pressure and serum cholesterol levels. Increased intake of soluble fiber improves glycemia and insulin sensitivity in non-diabetic and diabetic individuals. Fiber supplementation in obese individuals significantly enhances weight loss. Increased fiber intake benefits a number of gastrointestinal disorders including the following: gastroesophageal reflux disease, duodenal ulcer, diverticulitis, constipation, and hemorrhoids. Prebiotic fibers appear to enhance immune function. Dietary fiber intake provides similar benefits for children as for adults. The recommended dietary fiber intakes for children and adults are 14 g/1000 kcal. More effective communication and consumer education is required to enhance fiber consumption from foods or supplements.

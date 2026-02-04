@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gluten free diet
-TITLE: Gluten-Free Diet in IBD: Time for a Recommendation?
-PMID: 32558265
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32558265/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Patients and providers alike are highly interested in identifying potentially useful dietary interventions in the management of inflammatory bowel diseases (IBD). This review examines the clinical associations of celiac disease (CeD), non-celiac gluten sensitivity (NCGS), and IBD with a focus on available data of the therapeutic efficacy of gluten-free diet (GFD) or low-gluten-containing diets in the therapy of IBD. There is a strong association between CeD and microscopic colitis, but the prevalence of CeD among IBD patients is similar to that of the general population. Interestingly, in cross-sectional studies nearly one-third of IBD patients report a diagnosis of NCGS, and many follow a GFD. Although animal studies have shown that gluten ingestion may promote intestinal inflammation and increase intestinal permeability, there have been no prospective studies evaluating the role of a GFD in the induction and maintenance of Crohn's disease and ulcerative colitis. Several cross-sectional reports suggest that a GFD may improve symptoms in IBD patients, but due to a lack of high-quality prospective clinical studies, current data do not support the universal use of a GFD in IBD.

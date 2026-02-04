@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Joint replacement
-TITLE: Anesthesia for Same-Day Total Joint Replacement.
-PMID: 31047128
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31047128/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Demand for low-cost, high-quality health care has forced the total joint replacement (TJR) industry to evaluate and mitigate high variable costs. Minimizing hospital stay can significantly reduce total cost of care. A shortened hospital stay does not compromise patient safety or satisfaction, and may reduce perioperative complications compared with multiple-day hospitalizations. Through the use of enhanced recovery clinical pathways, outpatient TJRs have progressively shortened hospitalizations. Successful ambulatory TJR can be accomplished through advances in surgical technique, presurgical patient education, opioid-sparing multimodal analgesia, anesthetic techniques that facilitate rapid recovery, and progressive rehabilitation.

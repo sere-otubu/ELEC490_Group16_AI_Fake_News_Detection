@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 15939071)
-    QUESTION: High cumulative insulin exposure: a risk factor of atherosclerosis in type 1 diabetes?
-    CONTEXT: Since insulin therapy might have an atherogenic effect, we studied the relationship between cumulative insulin dose and atherosclerosis in type 1 diabetes. We have focused on patients with type 1 diabetes instead of type 2 diabetes to minimise the effect of insulin resistance as a potential confounder.
-    ANSWER: These findings provide evidence that a high cumulative dose of regular insulin is a risk factor for atherosclerosis.
-    

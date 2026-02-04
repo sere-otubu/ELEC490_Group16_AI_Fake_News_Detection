@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24977765)
-    QUESTION: Are pediatric concussion patients compliant with discharge instructions?
-    CONTEXT: Concussions are commonly diagnosed in pediatric patients presenting to the emergency department (ED). The primary objective of this study was to evaluate compliance with ED discharge instructions for concussion management.
-    ANSWER: Pediatric patients discharged from the ED are mostly compliant with concussion instructions. However, a significant number of patients RTP on the day of injury, while experiencing symptoms or without medical clearance.
-    

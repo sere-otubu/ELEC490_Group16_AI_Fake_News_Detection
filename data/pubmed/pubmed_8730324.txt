@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Inhalers
-TITLE: Inhalers and nebulizers: which to choose and why.
-PMID: 8730324
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8730324/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-It is obvious that many factors should be considered when an inhaler is prescribed. Based upon the information discussed above, a rational inhaler strategy could be as follows: (1) Children < or = 5 years and elderly patients are prescribed a spacer with a valve system (and a face mask for the children) for the delivery of all drugs. When they are severely obstructed, some may need a nebulizer. If the patient cannot be taught the correct use of a spacer, a nebulizer should be prescribed. (2) Children > or = 5 years and adults are prescribed a spacer or a Turbuhaler for the administration of inhaled corticosteroids and a dry powder inhaler (preferably multiple dose) or a breath-actuated MDI for other drugs. If these alternatives are not available or the patient prefers, a conventional MDI can be used (preferably not for other corticosteroids than fluticasone propionate) provided that careful tuition is given. Fluticasone dipropionate may be given by DPI, Spacer or MDI. (3) Nebulizers are mainly reserved for severe acute attacks of bronchoconstriction. With this approach, most patients can be taught effective inhaler use with a minimum of instructional time. Finally, it must always be remembered to consider the patient's wish, since prescription of an inhaler which the physician likes but the patient does not is likely to reduce compliance.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Health insurance systems
-TITLE: Overcoming the health systems' segmentation to achieve universal health coverage in Mexico.
-PMID: 35789039
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35789039/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Health is a human right that everyone should be able to exercise. Yet health systems segmentation and fragmentation are a major challenge to advancing universal health coverage (UHC) and achieving health equity. Between 2019 and 2020, Mexico launched a profound restructuration of its health system claiming its aim was to attain UHC, free healthcare services and drugs and to combat corruption. We analyse the implications of the modifications of the Mexican Constitution and the dismantling of the Seguro Popular de Salud (Popular Health Insurance) in relation to segmentation. We argue that, instead of advancing towards UHC and equality, these changes reinforce inequalities and that transforming health systems must respect human rights.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Aging population challenges
-TITLE: Cognitive challenges, aging, and neuromuscular fatigue.
-PMID: 27894796
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27894796/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cognitive challenges, such as concurrent cognitive demands or prior cognitive fatigue, have shown to adversely impact neuromuscular fatigue, specifically in younger adults. Whether these relationships are similar for the aging population remains unclear. The aim of this study was to investigate the effects of different cognitive challenges on handgrip fatigue with aging. Ten younger (24.10 (1.79) years) and ten older (75.90 (7.80) years) females attended three experimental conditions (control, i.e., exercise only, cognitive fatigue prior to exercise, and concurrent mental arithmetic during exercise) on different days. The exercise required them to grip intermittently at 30% maximum handgrip strength until voluntary exhaustion. Endurance time, strength loss, force steadiness, muscle activity, cardiovascular responses, perceptions of cognitive fatigue, mental demand, and discomfort were obtained. While endurance time was similar across age groups and conditions, older adults demonstrated ~35% reduced endurance than younger adults (46.96 (13.08) min.), but this was observed only in the concurrent cognitive demand condition. This was also accompanied with a decrease in force steadiness. No endurance differences between age groups were found during the control and cognitive fatigue condition. The findings indicate that the relationship between cognitive challenges and neuromuscular fatigue depends on age, the type of cognitive challenge imposed, and the type of exercise performed.

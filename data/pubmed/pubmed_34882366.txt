@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Coronary artery disease
-TITLE: Multivessel Woven Coronary Artery Disease.
-PMID: 34882366
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34882366/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Woven coronary disease is a rare pathology with unknown etiology. Although initially considered benign, recent publications report myocardial ischemia caused by the affected vessel. Since most patients are asymptomatic, long-term follow-up to understand its behavior is mandatory. We report a multivessel woven disease case with documented ischemia that was submitted to coronary artery bypass grafting and remained asymptomatic for two years of follow-up.

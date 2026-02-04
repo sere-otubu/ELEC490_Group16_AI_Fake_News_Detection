@@ -1,8 +1,0 @@
-SEARCH_TOPIC: CPR guidelines
-TITLE: Physiology-Guided CPR.
-PMID: 41260707
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41260707/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Current cardiopulmonary resuscitation (CPR) guidelines rely on standardized metrics, yet substantial evidence reveals significant variability in patients' physiologic responses. Physiology-directed CPR represents an innovative approach aimed at improving cardiac arrest outcomes by tailoring resuscitation efforts to patient-specific physiologic responses rather than rescuer performance alone. Data indicate that intra-arrest markers including arterial blood pressure, end-tidal carbon dioxide, and cerebral oximetry are associated with cardiac arrest outcomes and can potentially be targeted during CPR. This article explores the underlying physiology, supporting data, advantages, and limitations of these monitoring strategies, highlighting the promise of a shift toward physiology-directed, precision-based resuscitation practices.

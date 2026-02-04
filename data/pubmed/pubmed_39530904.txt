@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anaerobic exercise
-TITLE: The impact of aerobic and anaerobic exercise interventions on the management and outcomes of non-alcoholic fatty liver disease.
-PMID: 39530904
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39530904/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Non-alcoholic fatty liver disease (NAFLD) is a metabolic disorder that includes non-alcoholic hepatic steatosis without or with moderate inflammation and non-alcoholic steatohepatitis (NASH), characterized by necroinflammation and a more rapid progression of fibrosis. It is the primary pathological basis for hepatocellular carcinoma. With its prevalence escalating annually, NAFLD has emerged as a global health epidemic, presenting a significant hazard to public health worldwide. Existing studies have shown that physical activity and exercise training have a positive effect on NAFLD. However, the extent to which exercise improves NAFLD depends on the type, intensity, and duration. Therefore, the type of exercise that has the best effect on improving NAFLD remains to be explored. To date, the most valuable discussions involve aerobic and anaerobic exercise. Exercise intervenes in the pathological process of NAFLD by regulating physiological changes in cells through multiple signaling pathways. The review aims to summarize the signaling pathways affected by two different exercise types associated with the onset and progression of NAFLD. It provides a new basis for improving and managing NAFLD in clinical practice.

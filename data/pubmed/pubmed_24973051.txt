@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24973051)
-    QUESTION: Medical student education in emergency medicine: do students meet the national standards for clinical encounters of selected core conditions?
-    CONTEXT: Establishing a core curriculum for undergraduate Emergency Medicine (EM) education is crucial to development of the specialty. The Clerkship Directors in Emergency Medicine (CDEM) National Curriculum Task Force recommended that all students in a 4(th)-year EM clerkship be exposed to 10 emergent clinical conditions.
-    ANSWER: Most students do not encounter all 10 conditions during patient encounters throughout a 4-week EM rotation, although most have exposure to at least eight. Certain conditions are far less likely than others to be encountered, and may need to be taught in a nonclinical setting.
-    

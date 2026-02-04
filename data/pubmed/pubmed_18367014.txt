@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hypertension
-TITLE: Management of hypertension in patients with left ventricular hypertrophy.
-PMID: 18367014
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18367014/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Left ventricular hypertrophy (LVH) is a cardinal manifestation of organ damage in patients with arterial hypertension. Identifying LVH is a fundamental step in evaluating hypertensive patients, because clinical and epidemiologic studies have shown this condition has a strong independent adverse prognostic significance. LVH is an integrated marker of cardiovascular risk, reflecting hypertension's hemodynamic and nonhemodynamic effects on the heart. Reversing LVH is an intermediate goal of antihypertensive therapy. Pharmacologic strategies to reverse LVH should be based on combining two or more drugs: a renin-angiotensin system blocker (ie, angiotensin-converting enzyme inhibitor or angiotensin receptor antagonist), and a calcium antagonist or low-dose diuretic. Successful therapeutic plans should also include nonpharmacologic interventions to promote LVH regression.

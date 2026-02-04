@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Breast cancer
-TITLE: Male Breast Cancer: a Review on Diagnosis, Treatment, and Survivorship.
-PMID: 38224426
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38224426/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Male breast cancer is a relatively uncommon and rare disease that is often managed based on evidence adopted from trials pertaining to female breast cancer due to low accrual rates or exclusion of males. This is despite the known differences in the biology and epidemiology of this condition. This review provides an update regarding the management and surveillance of male breast cancer. Men with breast cancer tend to undergo more extensive surgery in the breast and axilla. The outcomes of male breast cancer compared to a similar subtype of female breast cancer appear worse when matched for stage. Systemic therapies remain predominantly based on recommendations for female breast cancer, although tamoxifen is the more optimal endocrine therapy for men than women. Surveillance with mammograms is recommended for patients harboring a breast cancer susceptibility gene but is otherwise not advised for men who have undergone a mastectomy. Notably, the role of other imaging modalities, including ultrasound and magnetic resonance imaging, is minimal. Although the focus on survivorship care among men is low, it is abundantly clear that this is a stigmatizing diagnosis for men, and they suffer from long-term physical and psychological sequelae following a diagnosis and treatment of breast cancer. In summary, providing more gender-inclusive care and advocating for increased representation of men in prospective breast cancer studies and clinical trials may help improve outcomes and provide enhanced support for this population.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gestational Diabetes
-TITLE: Gestational Diabetes Mellitus: Post-partum Risk and Follow Up.
-PMID: 28901851
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28901851/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Women with gestational diabetes mellitus (GDM) are at an increased risk for developing metabolic syndrome, type 2 diabetes mellitus (T2DM), and cardiovascular disease. In this review, we will discuss postpartum cardiovascular and diabetes risk in women with a history of GDM and different ways to improve postpartum screening. This review involves a comprehensive literature review on gestational diabetes and postpartum risk for cardiovascular disease and diabetes mellitus as well as post-partum screening methods. Cardiovascular risk post-partum is potentiated by increased inflammatory markers leading to worsening atherosclerosis and cardiovascular events downstream. Decreased insulin sensitivity and β cell compensation, recurrent GDM, maternal factors such as pre and post-partum weight gain and lactation may contribute to T2DM risk. Postpartum glucose testing is essential in screening women as hyperglycemia in pregnancy has long term effects on both cardiovascular disease and diabetes risk on the mother. Long and short term improvement to post-partum glucose testing is essential to decreasing cardiometabolic and diabetes risk in women with gestational diabetes mellitus.

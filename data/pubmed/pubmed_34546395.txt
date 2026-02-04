@@ -1,8 +1,0 @@
-SEARCH_TOPIC: PET scan
-TITLE: Comparison of PET-CT, CT and MRI scan in initial staging and management of head and neck cancers.
-PMID: 34546395
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34546395/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To evaluate the utility of positron-emission tomography (FDG PET) in initial staging and management of head and neck cancers. This is a retrospective study of 99 treatment naïve head and neck cancer patients treated between January 2017 and December 2020 at a tertiary teaching centre. Change in initial staging and management was noted based on PET scan compared to cross-sectional imaging (CT and MRI). There were 73 (73.7%) males and 26 (26.2%) females with male-to-female ratio of 2.8:1.Overall, change in management was seen in 36/99 (36.4%) patients due to PET scan. With regards to initial staging, T, N and M stage was changed in 14/99 (14.1%), 19/99 (19.1%) and 3/99 (3%) patients, respectively. These changes were significantly higher in patients with unknown primary (63.3%, p value -0.001) and N3 (41%, p -0.045) nodal disease. PET-CT plays an important role in appropriate initial staging and subsequent treatment planning of head and neck cancers. Initial staging PETCT changes management in 36.4% cases. Accuracy of various different imaging modalities have been compared.

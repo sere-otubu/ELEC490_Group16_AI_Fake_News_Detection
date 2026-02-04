@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25987398)
-    QUESTION: The influence of atmospheric pressure on aortic aneurysm rupture--is the diameter of the aneurysm important?
-    CONTEXT: The rate of aortic aneurysm rupture correlates with the aneurysm's diameter, and a higher rate of rupture is observed in patients with larger aneurysms. According to the literature, contradictory results concerning the relationship between atmospheric pressure and aneurysm size have been reported.AIM: In this paper, we assessed the influence of changes in atmospheric pressure on abdominal aneurysm ruptures in relationship to the aneurysm's size.
-    ANSWER: The results of this study do not support the hypothesis that there is a direct link between atmospheric pressure values and abdominal aortic aneurysm ruptures.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ulcerative colitis
-TITLE: Ulcerative Colitis: Making the Diagnosis.
-PMID: 33121687
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33121687/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Ulcerative colitis is an inflammatory condition of the colon. The diagnosis of ulcerative colitis is based on clinical presentation, endoscopic evaluation, and histologic parameters in the absence of demonstrable alternate etiology. The differential diagnosis remains broad, and infection in particular must be considered and excluded. Although laboratory and radiographic findings can aid in the diagnosis of ulcerative colitis, endoscopy remains the gold standard for diagnosis. A correct diagnosis and disease staging are imperative because these factors affect treatment options and prognosis.

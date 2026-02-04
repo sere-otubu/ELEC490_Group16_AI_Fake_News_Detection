@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Narcissistic personality disorder
-TITLE: Overview: narcissistic personality disorder.
-PMID: 7034551
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7034551/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The authors trace the evolution of narcissistic personality disorder as a nosological entity in a critical survey of the literature, considering and comparing differing theoretical viewpoints regarding the genesis of this disorder. They review its various descriptions, including the one in DSM-III, and develop a composite picture of the syndrome. The disorder consists of characteristic deficits in six broad areas of functioning: 1) self-concept, 2) interpersonal relationships, 3) social adaptation, 4) ethics, standards, and ideals, 5) love and sexuality, and 6) cognitive style. The authors identify guidelines for distinguishing the narcissistic personality from other personality disorders as well as areas needing continued research.

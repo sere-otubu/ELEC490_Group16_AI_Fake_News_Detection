@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dental cavities
-TITLE: The virtual dental home: a critique.
-PMID: 28213910
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28213910/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The Virtual Dental Home is a concept of the Pacific Center for Special Care of the Arthur A. Dugoni School of Dentistry in San Francisco. It is designed to improve access to dental care for underserved populations, specifically children and institutionalized adults. This article describes the development and implementation of the Virtual Dental Home, subsequently critiquing the concept. The criteria for a dental home are not met by the program. It is the equivalent of a traditional public oral health prevention and screening program, with the additional dimension of allowing dental hygienists and assistants to place interim glass ionomer restorations in dental cavities. The critique questions the need to insert a "cloud" dentist into the process. The routine utilization of radiographs is also challenged. The VDH not only lacks the attributes of a dental home, it has not been shown to be as efficient and effective as traditional programs staffed by dental hygienists and dental therapists. The article concludes by describing how programs utilizing dental therapists could address the deficiencies of the Virtual Dental Home, effectively improving access to oral health care for underserved populations.

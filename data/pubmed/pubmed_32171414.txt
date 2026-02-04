@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Eating disorders
-TITLE: Eating disorders.
-PMID: 32171414
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32171414/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Eating disorders are disabling, deadly, and costly mental disorders that considerably impair physical health and disrupt psychosocial functioning. Disturbed attitudes towards weight, body shape, and eating play a key role in the origin and maintenance of eating disorders. Eating disorders have been increasing over the past 50 years and changes in the food environment have been implicated. All health-care providers should routinely enquire about eating habits as a component of overall health assessment. Six main feeding and eating disorders are now recognised in diagnostic systems: anorexia nervosa, bulimia nervosa, binge eating disorder, avoidant-restrictive food intake disorder, pica, and rumination disorder. The presentation form of eating disorders might vary for men versus women, for example. As eating disorders are under-researched, there is a great deal of uncertainty as to their pathophysiology, treatment, and management. Future challenges, emerging treatments, and outstanding research questions are addressed.

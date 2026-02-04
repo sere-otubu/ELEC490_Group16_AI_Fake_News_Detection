@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hepatitis C
-TITLE: Hepatitis C Virus-Induced Autophagy and Host Innate Immune Response.
-PMID: 28805674
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28805674/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Autophagy is a catabolic process that is important for maintaining cellular homeostasis. This pathway in hepatocytes is stimulated and controlled by the hepatitis C virus (HCV)-upon infection-to promote its own replication. HCV induces autophagy indirectly and directly through different mechanisms and temporally controls the autophagic flux. This enables the virus to maximize its replication and attenuate the innate immune responses that it activates. In this review, we discuss the relationship between HCV and autophagy, and the crosstalk between HCV-induced autophagy and host innate immune responses.

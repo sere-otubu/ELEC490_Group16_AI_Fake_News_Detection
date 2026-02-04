@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Inflammation mechanism
-TITLE: The role of inflammation in immune system of diabetic retinopathy: Molecular mechanisms, pathogenetic role and therapeutic implications.
-PMID: 36582230
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36582230/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Diabetic retinopathy is one of the most common complications of diabetes mellitus and the leading cause of low vision and blindness worldwide. Mounting evidence demonstrates that inflammation is a key mechanism driving diabetes-associated retinal disturbance, yet the pathophysiological process and molecular mechanisms of inflammation underlying diabetic retinopathy are not fully understood. Cytokines, chemokines, and adhesion molecules interact with each other to form a complex molecular network that propagates the inflammatory and pathological cascade of diabetic retinopathy. Therefore, it is important to understand and elucidate inflammation-related mechanisms behind diabetic retinopathy progression. Here, we review the current understanding of the pathology and pathogenesis of inflammation in diabetic retinopathy. In addition, we also summarize the relevant clinical trials to further suggest inflammation-targeted therapeutics for prevention and management of diabetic retinopathy.

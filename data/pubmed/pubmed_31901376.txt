@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immune system
-TITLE: Immune system in the pathogenesis of chronic cough.
-PMID: 31901376
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31901376/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chronic cough is a common symptom of various chronic diseases. However, the vast majority of individuals with conditions that are commonly associated with cough, such as asthma and GERD, do not have chronic cough. This implies that cough reflex sensitivities differ among individuals. It is known that in the pathogenesis of cough, the nervous system plays a vital role. Recently more information about the role of the immune system and its interaction with the nervous system in the pathogenesis of cough has appeared in the literature. The aim of this article is to review the most recent data about the role of the immune system in the pathogenesis of chronic cough.

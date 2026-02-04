@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cell division mitosis
-TITLE: Cyclin B/CDK1 and Cyclin A/CDK2 phosphorylate DENR to promote mitotic protein translation and faithful cell division.
-PMID: 35115540
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35115540/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-DENR and MCTS1 have been identified as oncogenes in several different tumor entities. The heterodimeric DENR·MCTS1 protein complex promotes translation of mRNAs containing upstream Open Reading Frames (uORFs). We show here that DENR is phosphorylated on Serine 73 by Cyclin B/CDK1 and Cyclin A/CDK2 at the onset of mitosis, and then dephosphorylated as cells exit mitosis. Phosphorylation of Ser73 promotes mitotic stability of DENR protein and prevents its cleavage at Asp26. This leads to enhanced translation of mRNAs involved in mitosis. Indeed, we find that roughly 40% of all mRNAs with elevated translation in mitosis are DENR targets. In the absence of DENR or of Ser73 phosphorylation, cells display elevated levels of aberrant mitoses and cell death. This provides a mechanism how the cell cycle regulates translation of a subset of mitotically relevant mRNAs during mitosis.

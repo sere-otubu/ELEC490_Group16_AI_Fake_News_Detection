@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vasectomy
-TITLE: Vasectomy: An increasingly common procedure in France.
-PMID: 38697266
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38697266/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To analyze the evolutionary trends concerning vasectomy over the last 8 years in order to better understand the situation and identify measures to be implemented to develop this activity. The number of vasectomy procedures performed between 2015 and 2022 was extracted from the Open CCAM file compiled from the national database of the Programme de médicalisation du système d'informations français (PMSI). Over the period 2015-2022, the number of vasectomy procedures increased from 3743 in 2015 to 29,890 in 2022. This increase was observed in all French metropolitan and overseas regions. The number of minimally invasive vasectomies (notably without scalpel) rose sharply, from 313 to 7760. Almost all vasectomies were performed during outpatient hospitalization (0 nights), with fewer than 300 acts reported/year in outpatient care. In France, vasectomy is becoming an increasingly frequent contraceptive method. This analysis is in line with recent surveys carried out in France, and tends to prove that more and more couples of childbearing age are in favour of sharing the contraceptive burden.

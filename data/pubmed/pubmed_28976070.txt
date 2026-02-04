@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Palliative care
-TITLE: Palliative and end of life care in solid organ transplantation.
-PMID: 28976070
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28976070/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Palliative care is an interprofessional approach that focuses on quality of life of patients who are facing life-threatening illness. Palliative care is consistently associated with improvements in advance care planning, patient and caregiver satisfaction, quality of life, symptom burden, and lower healthcare utilization. Most transplant patients have advanced chronic disease, significant symptom burden, and mortality awaiting transplant. Transplantation introduces new risks including perioperative death, organ rejection, infection, renal insufficiency, and malignancy. Numerous publications over the last decade identify that palliative care is well-suited to support these patients and their caregivers, yet access to palliative care and research within this population are lacking. This review describes palliative care and summarizes existing research supporting palliative intervention in advanced organ failure and transplant populations. A proposed model to provide palliative care in parallel with disease-directed therapy in a transplant program has the potential to improve symptom burden, quality of life, and healthcare utilization. Further studies are needed to elucidate specific benefits of palliative care for this population. In addition, there is a tremendous need for education, specifically for clinicians, patients, and families, to improve understanding of palliative care and its benefits for patients with advanced disease.

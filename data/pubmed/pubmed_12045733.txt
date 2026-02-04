@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rabies
-TITLE: Update on rabies.
-PMID: 12045733
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12045733/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rabies remains an important public health problem worldwide due to endemic dog rabies in developing countries. Rabies was a re-emerging disease in the United States during the 1990s due to bat rabies virus variants. Australian bat lyssavirus also emerged in Australian bat populations and caused two human deaths. There have been important recent advances in our knowledge of the pathogenesis of rabies and in our ability to diagnose and prevent it.

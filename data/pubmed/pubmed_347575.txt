@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Enzymes function
-TITLE: Models for the specific adhesion of cells to cells.
-PMID: 347575
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/347575/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A theoretical framework is proposed for the analysis of adhesion between cells or of cells to surfaces when the adhesion is mediated by reversible bonds between specific molecules such as antigen and antibody, lectin and carbohydrate, or enzyme and substrate. From a knowledge of the reaction rates for reactants in solution and of their diffusion constants both in solution and on membranes, it is possible to estimate reaction rates for membrane-bound reactants. Two models are developed for predicting the rate of bond formation between cells and are compared with experiments. The force required to separate two cells is shown to be greater than the expected electrical forces between cells, and of the same order of magnitude as the forces required to pull gangliosides and perhaps some integral membrane proteins out of the cell membrane.

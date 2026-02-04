@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Health insurance systems
-TITLE: A comparison of single- and multi-payer health insurance systems and options for reform.
-PMID: 14637007
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/14637007/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A major choice confronting many countries is between single-payer and multi-payer health insurance systems. This paper compares single-payer models in the areas of revenue collection, risk pooling, purchasing, and social solidarity. Single-payer and multi-payer systems each have advantages which may meet countries' priorities for their health insurance system. Single-payer systems are usually financed more progressively, and rely on existing taxation systems; they effectively distribute risks throughout one large risk pool; and they offer governments a high degree of control over the total expenditure on health. Multi-payer systems sacrifice this control for a greater ability to meet the diverse preferences of beneficiaries. Several major reforms of single-payer insurance systems--expansion of the role of private insurance and transformation to a multi-payer system--are then described and illustrated using specific country examples. These reforms have been implemented with some success in several countries but face several important challenges.

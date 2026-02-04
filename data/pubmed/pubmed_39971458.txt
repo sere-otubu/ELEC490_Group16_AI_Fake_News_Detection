@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Epilepsy
-TITLE: [Epilepsy in children].
-PMID: 39971458
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39971458/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Epilepsy also affects children, with significant repercussions on quality of life. This article describes the major epileptic syndromes affecting schoolchildren, and discusses the main treatments available, co-morbidities, schooling and the impact of the disease on daily life. To meet these specific needs, nursing support is essential.

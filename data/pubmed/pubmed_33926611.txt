@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Grief counseling
-TITLE: Cross-Sectional Survey to Assess Health-Care Workers' Grief Counseling for Bereaved Families of COVID-19 Victims in Wuhan, China.
-PMID: 33926611
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33926611/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This research aimed to examine health-care workers' grief counseling for bereaved families of coronavirus disease 2019 (COVID-19) victims in China. Our research may provide a new opportunity to stimulate development of grief counseling in China. A cross-sectional survey was conducted with 724 health-care workers selected by convenience sampling from 7 hospitals in Wuhan. Data collection tools included a sociodemographic questionnaire, the skills of grief counseling scale (SGCS), and the attitudes of grief counseling scale (AGCS). The average SGCS score was 18.96 ± 4.66, whose influencing factors consisted of sense of responsibility, frequency of contact with bereaved families, and relevant training (<i>P</i> < 0.05). The average AGCS score was 33.36 ± 8.70, whose influencing factors consisted of other grief counseling skills, communication skills, education background, and relevant training (<i>P</i> < 0.05). The skills and attitudes toward grief counseling among health-care workers combating COVID-19 were at a lower level in Wuhan, China, indicating the need to build a comprehensive grief counseling system, establish a standardized training course, and strengthen the popularization of grief counseling services to the public.

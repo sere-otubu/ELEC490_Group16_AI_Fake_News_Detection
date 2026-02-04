@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hormones types
-TITLE: Endometrial cancer, types, prognosis, female hormones and antihormones.
-PMID: 21426234
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21426234/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Endometrial cancer covers several different types, the most prevalent in the developed world being endometrioid adenocarcinoma, which is estrogen-dependent and has a better prognosis compared to the non-estrogen-dependent types, e.g. papillary serous adenocarcinoma and clear cell carcinomas. Prognosis is also dependent on tumor differentiation and stage, and treatment should be adjusted accordingly. In this paper, the different types of endometrial cancer, staging, prognosis, diagnosis, prevention, treatment and their relationship to estrogen and other female hormones are reviewed.

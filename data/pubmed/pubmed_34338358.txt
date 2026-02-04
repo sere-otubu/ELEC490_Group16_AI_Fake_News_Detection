@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Healthcare accessibility
-TITLE: Barriers to healthcare access in pediatric dermatology: A systematic review.
-PMID: 34338358
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34338358/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Barriers to healthcare access are healthcare inequities that have been widely studied across different medical specialties. No studies have previously evaluated the state of barriers to healthcare access research in pediatric dermatology. A systematic review was conducted to examine the types of barriers identified within pediatric dermatology literature. Relevant information was extracted and categorized into the themes of systemic, sociocultural, or individual barriers. The systemic barriers we found include finances, wait times, and geography. The sociocultural barriers included culture beliefs and communication. Patient beliefs and health knowledge were found as individual barriers. The small number and limited scope of studies we identified suggest that barriers to healthcare access in pediatric dermatology remain an understudied topic. Additional research is needed to further characterize these barriers to dermatologic care, as well as the impact of any interventions designed to overcome them.

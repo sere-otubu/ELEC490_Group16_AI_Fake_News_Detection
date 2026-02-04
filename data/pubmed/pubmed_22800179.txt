@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Narcissistic personality disorder
-TITLE: Modernity and narcissistic personality disorder.
-PMID: 22800179
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22800179/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Narcissistic personality disorder (NPD) is a trait-based disorder that can be understood as a pathological amplification of narcissistic traits. While temperamental vulnerability and psychological adversity are risk factors for NPD, sociocultural factors are also important. This review hypothesizes that increases in narcissistic traits and cultural narcissism could be associated with changes in the prevalence of NPD. These shifts seem to be a relatively recent phenomenon, driven by social changes associated with modernity. While the main treatment for NPD remains psychotherapy, that form of treatment is itself a product of modernity and individualism. The hypothesis is presented that psychological treatment, unless modified to address the specific problems associated with NPD, could run the risk of supporting narcissism.

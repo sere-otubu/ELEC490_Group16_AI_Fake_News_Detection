@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20629769)
-    QUESTION: Is primary angioplasty an acceptable alternative to thrombolysis?
-    CONTEXT: The National Infarct Angioplasty Project assessed the feasibility of establishing a comprehensive primary angioplasty service. We aimed to compare satisfaction at intervention hospitals offering angioplasty-based care and control hospitals offering thrombolysis-based care.
-    ANSWER: Reorganization of care to offer a primary angioplasty service was acceptable to patients and their carers. Satisfaction levels were high regardless of the type of care received, with the exception of discharge and aftercare.
-    

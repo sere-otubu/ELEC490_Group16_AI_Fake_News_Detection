@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Substance abuse
-TITLE: Alcohol and substance abuse.
-PMID: 11349484
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11349484/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Substance abuse and dependence is a public health problem with far-reaching societal implications. The acute toxicity of substances of abuse and medical consequences of chronic use are substantial. On a more optimistic note, a great deal of progress has been made in understanding and treating substance use disorders. Expanding knowledge concerning the neurobiology of substances of abuse and substance use disorders has led to a growth in pharmacotherapeutic treatment options. A growth in understanding of behavioral processes, motivational issues, and processes of behavioral change has been important in designing new and increasingly more effective psychosocial treatments. A growing body of evidence indicates that the treatment of substance use disorders can be effective, making early diagnosis and treatment or referral increasingly important.

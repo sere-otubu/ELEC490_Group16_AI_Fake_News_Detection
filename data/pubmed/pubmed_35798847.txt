@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Menopause
-TITLE: The interplay between diabetes mellitus and menopause: clinical implications.
-PMID: 35798847
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35798847/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The menopausal transition is an impactful period in women's lives, when the risk of cardiovascular disease is accelerated. Similarly, diabetes mellitus profoundly impacts cardiovascular risk. However, the interplay between menopause and diabetes mellitus has not been adequately studied. The menopausal transition is accompanied by metabolic changes that predispose to diabetes mellitus, particularly type 2 diabetes mellitus (T2DM), as menopause results in increased risk of upper body adipose tissue accumulation and increased incidence of insulin resistance. Equally, diabetes mellitus can affect ovarian ageing, potentially causing women with type 1 diabetes mellitus and early-onset T2DM to experience menopause earlier than women without diabetes mellitus. Earlier age at menopause has been associated with a higher risk of T2DM later in life. Menopausal hormone therapy can reduce the risk of T2DM and improve glycaemic control in women with pre-existing diabetes mellitus; however, there is not enough evidence to support the administration of menopausal hormone therapy for diabetes mellitus prevention or control. This Review critically appraises studies published within the past few years on the interaction between diabetes mellitus and menopause and addresses all clinically relevant issues, such as the effect of menopause on the development of T2DM, and the management of both menopause and diabetes mellitus.

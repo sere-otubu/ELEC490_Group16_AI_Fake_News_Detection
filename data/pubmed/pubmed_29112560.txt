@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 29112560)
-    QUESTION: Is the Distance Worth It?
-    CONTEXT: It is unclear whether traveling long distances to high-volume centers would compensate for travel burden among patients undergoing rectal cancer resection.
-    ANSWER: Our results indicate that when controlled for patient, tumor, and hospital factors, patients who traveled a long distance to a high-volume center had improved lymph node yield, neoadjuvant chemoradiation receipt, and 30- and 90-day mortality compared with those who traveled a short distance to a low-volume center. They also had improved 5-year survival. See Video Abstract at http://links.lww.com/DCR/A446.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cortisol
-TITLE: [Salivary cortisol in adrenal diseases].
-PMID: 17363984
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17363984/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Salivary cortisol reflects the free and biologically active fraction of cortisol in serum. We evaluated the usefulness of salivary cortisol measurements in the assessment of Cushing's syndrome and adrenal insufficiency. Publications about salivary cortisol were found in PubMed (search terms: salivary cortisol and Cushing's syndrome or adrenal insufficiency). Salivary cortisol was measured at nighttime (between 10 pm and midnight) in parallel with conventional diagnostic procedures in patients evaluated for Cushing's syndrome at Haukeland University Hospital. Cortisol was analysed in saliva and serum for patients evaluated for adrenal insufficiency by Synacthen testing. Nighttime saliva cortisol has similar sensitivity and specificity for Cushing's syndrome as other screening methods. The method is simple and we recommend saliva cortisol as a first line screening method for Cushing's syndrome. The method may simplify and improve the assessment of adrenal insufficiency.

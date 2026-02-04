@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Deep vein thrombosis
-TITLE: Deep Vein Thrombosis Prophylaxis: State of the Art.
-PMID: 29573919
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29573919/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The selection of a prophylaxis regimen to prevent symptomatic pulmonary embolism and deep vein thrombosis is a balance between efficacy and safety. The latest American Academy of Orthopaedic Surgeons guideline recommended that either chemoprophylaxis or mechanical prophylaxis be used after total joint arthroplasty but did not recommend specific agents. However, the latest evidence-based American College of Chest Physicians guideline recommended a variety of chemoprophylaxis and mechanical agents for a minimum of 10 to 14 days after total joint arthroplasty. Risk stratification is the key to the selection of the appropriate prophylaxis regimen for the individual patient, but the optimal risk stratification protocol still needs to be developed.

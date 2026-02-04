@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Calcium requirements
-TITLE: Calcium requirements in growing Japanese quail from 21 to 35 days post-hatch.
-PMID: 39754925
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39754925/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-An experiment was conducted to estimate the optimal calcium (Ca) requirement for growth performance and bone health in quail from 21 to 35 days posthatch. Five dietary treatments containing 0.45, 0.60, 0.75, 0.90, and 1.05 % Ca were evaluated in a completely randomized design with 6 replicates per treatment and 12 birds per pen. Body weight gain (BW gain; P = 0.04), tibia-Ca (P = 0.01), tibia ash (P = 0.01), and bone breaking strength (BBS; P = 0.01) increased quadratically with increasing dietary Ca levels, while feed conversion ratio (FCR) showed a tendency to decrease (P = 0.07). Based on the statistical model, the optimal Ca requirements for BW gain and FCR were estimated to range from 0.75 to 0.84 % and 0.74 to 0.83 %, respectively. The Ca requirements for the Seedor index, tibia mass, and tibia length were estimated to range from 0.83 to 0.87 %, 0.81 to 0.87 %, and 0.78 to 0.86 %, respectively. The corresponding values for tibia-Ca, tibia ash, and BBS ranged from 0.67 to 0.73 %, 0.68 to 0.73 %, and 0.75 to 0.83 %, respectively. The study revealed that Ca requirements for optimal bone density may exceed those for growth performance, indicating the need for dietary Ca recommendations to be influenced by bone health considerations. These findings suggest that dietary calcium levels between 0.75 % and 0.87 % are optimal for growth performance and bone health in quail during the post-hatch growth period, with higher levels potentially required to maximize bone density and strength.

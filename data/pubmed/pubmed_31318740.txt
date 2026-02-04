@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anaphylaxis
-TITLE: Anaphylaxis in adolescents.
-PMID: 31318740
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31318740/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The frequency of hospitalization for anaphylaxis has increased over the last 20 years across Europe, Australia, and North America, particularly, for food and medication triggers. Adolescents show the highest risk for morbidity and fatality from food-induced anaphylaxis, yet there is little high-quality evidence addressing the reasons for this disproportionate vulnerability. Recent data seem to suggest a possible increasing burden of food-induced anaphylaxis among adolescents. Trends in anaphylaxis mortality are stable in North America and the United Kingdom, but not in Australia where the incidence of fatal anaphylaxis has recently doubled. The age distribution of fatal anaphylaxis varies according to the nature of the culprit trigger, with data suggesting an age-related predisposition to fatal food anaphylaxis in adolescents and young adults. Adolescence represents a critical phase of transition when rapid and substantial physical, emotional, and social changes occur. Therefore, adolescents show challenges in self-management that are different from other age groups, contributing to a higher risk of poor anaphylaxis outcomes. The purpose of this review is to summarize recent data on epidemiology and elicitors of anaphylaxis in adolescents and to address currently known barriers and potential facilitators to self-management of anaphylaxis in this vulnerable age group.

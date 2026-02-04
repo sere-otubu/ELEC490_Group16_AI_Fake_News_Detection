@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25103647)
-    QUESTION: Does government assistance improve utilization of eye care services by low-income individuals?
-    CONTEXT: To examine whether government-funded, low-income vision care programs improve use of eye care services by low-income individuals in Canada.
-    ANSWER: Despite government assistance, low-income individuals use vision care services less often than wealthy individuals.
-    

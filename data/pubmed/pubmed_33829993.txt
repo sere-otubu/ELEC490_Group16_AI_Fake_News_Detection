@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic screening
-TITLE: [Genetic screening of prospective parents].
-PMID: 33829993
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33829993/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Risk of genetic diseases with autosomal recessive or X-linked inheritance can be unknown to prospective parents until an affected child is born. New technology has enabled carrier screening for hundreds of genetic diseases (expanded carrier screening, ECS). I Denmark, each year estimated 100-180 children are born affected with a serious condition which could have been detected with ECS of the parents. This review describes the considerations and perspectives of a systematic genetic screening programme for prospective parents in the Danish healthcare system.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Integumentary system
-TITLE: Smoking and the skin.
-PMID: 22348557
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22348557/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cigarette smoking has been associated with significant morbidity affecting all systems of the body, including the integumentary system. We review the many dermatologic hazards of tobacco use. It is important to distinguish between the effects of tobacco smoke from effects of pure nicotine on the skin. All skin cells express several subtypes of the nicotinic class of acetylcholine receptors, including the α7 receptor. Many chronic dermatoses are affected by smoking either negatively or positively. Elucidation of positive associations with a particular disease can lead to improvement from smoking cessation, whereas inverse correlation may lead to development of a disease-specific treatment with nicotinergic agonists.

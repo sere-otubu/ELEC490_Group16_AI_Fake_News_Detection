@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Autism spectrum disorder
-TITLE: Women and Autism Spectrum Disorder: Diagnosis and Implications for Treatment of Adolescents and Adults.
-PMID: 30852705
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30852705/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-We review the recent literature regarding the implications of gender on the diagnosis and treatment of autism spectrum disorder (ASD) in women and adolescent females. We also discuss important clinical observations in treating this population. Growing research supports gender specificity in ASD symptom presentation. Differing phenotypes, psychiatric co-morbidities, and level of "camouflaging" (behavioral coping strategies to conceal symptoms for use in social situations) are thought to further contribute to the discrepancy in prevalence rates and resulting misdiagnosis or delayed diagnosis in adolescent females and women. Both nosological and cultural factors appear to be contributing to differences in the diagnosis of ASD in women. These differences in presentation have important implications for late diagnosis, treatment of ASD, and the quality of life for women with autism.

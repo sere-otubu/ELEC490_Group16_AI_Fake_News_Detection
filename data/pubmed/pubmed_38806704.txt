@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Type 1 Diabetes
-TITLE: Transplantation for type 1 diabetes: radiologist's primer on islet, pancreas and pancreas-kidney transplantation imaging.
-PMID: 38806704
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38806704/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Whole-organ pancreas, pancreatic-kidney and islet transplantation are surgical therapeutic options for the treatment of type 1 diabetes. They can enable effective glycemic control, improve quality of life and delay/reduce the secondary complications of type 1 diabetes mellitus. Radiologists are integral members of the multidisciplinary transplantation team involved in these procedures, with multimodality imaging serving as the mainstay for early recognition and management of transplant related complications. This review highlights the transplantation procedures available for patients with type 1 Diabetes Mellitus with a focus on the imaging appearance of transplantation-related complications.

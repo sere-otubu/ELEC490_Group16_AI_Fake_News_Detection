@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Down syndrome
-TITLE: Hyperthyroidism and Down syndrome.
-PMID: 8257068
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8257068/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Down syndrome has long been associated with a variety of autoimmune conditions. A significant link has also been described between Down syndrome and autoimmune thyroid disease, usually hypothyroidism. We report two cases of Down syndrome with Graves disease both with significantly elevated titres of thyrotropin receptor antibody and the presence of the HLA Bw46. We also comment on the problems in diagnosis and management of such patients.

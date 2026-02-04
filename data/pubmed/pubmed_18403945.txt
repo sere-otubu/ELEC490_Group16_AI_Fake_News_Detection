@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18403945)
-    QUESTION: Does laparoscopic antireflux surgery improve quality of life in patients whose gastro-oesophageal reflux disease is well controlled with medical therapy?
-    CONTEXT: Both medical therapy and laparoscopic antireflux surgery have been shown to improve quality of life in gastro-oesophageal reflux disease. Although patients with poor symptom control or side effects on medical therapy might be expected to have improved quality of life after surgery, our aim was to determine, for the first time, whether patients whose symptoms are well controlled on medical therapy but who decide to undergo surgery (patient preference) would experience improved quality of life.
-    ANSWER: Laparoscopic antireflux surgery significantly improved quality of life in reflux patients whose symptoms were well controlled on medical therapy. Although on the basis of a noncomparative trial with a relatively short follow-up period, we believe such patients should be considered for laparoscopic antireflux surgery.
-    

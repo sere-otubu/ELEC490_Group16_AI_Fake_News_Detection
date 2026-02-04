@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Clinical trial phases
-TITLE: Clinical trial success rates of anti-obesity agents: the importance of combination therapies.
-PMID: 26222385
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26222385/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The objective of this study was to construct a clinical trial profile assessing the risk of drug failure among anti-obesity agents. Research was conducted by looking at anti-obesity therapies currently on the market or in clinical trials (phases I to III) conducted from 1998 to September 2014, with the exclusion of any drugs whose phase I trial was conducted prior to January 1998. This was completed primarily through a search on http://clinicaltrials.gov where a total of 51 drugs met the search criteria. The transition probabilities were then calculated based on various classifications and compared against industry standards. The transition probability of anti-obesity agents was 8.50% whereas the transition probability of industry standards was 10.40%. Combination therapies had four times the transition probability than monotherapies, 40% and 4.75%, respectively. Therefore, it was determined that 92% of drugs fail during clinical trial testing for this indication and combination therapy appears to improve clinical trial success rates to 10-fold.

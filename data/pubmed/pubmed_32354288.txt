@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Digital detox
-TITLE: Does Digital Detox Work? Exploring the Role of Digital Detox Applications for Problematic Smartphone Use and Well-Being of Young Adults Using Multigroup Analysis.
-PMID: 32354288
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32354288/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The constant availability of social networking sites (SNSs) on smartphones has an enormous distracting potential and may lead to problematic usage behavior, especially among younger age groups. In this context, an emerging trend of using so-called digital detox applications (apps; e.g., iOS <i>Screen Time</i>) can be witnessed, which allows users to monitor and limit their smartphone use as well as to consciously disconnect for a certain period of time. However, it remains unclear whether digital detox apps can indeed reduce negative consequences of using SNSs such as problematic smartphone use (PSU) and decreased well-being. Drawing from self-regulation theory, we investigated the relationships between using SNSs, PSU, and well-being among a sample of 500 young adults between 18 and 35 years of age. We used multigroup analysis to compare digital detox app users and nonusers. Results revealed that a high proportion of young adults use digital detox apps (41.7 percent). Among those who did not use such apps, using SNSs was positively associated with PSU, which was negatively related to well-being. Among digital detox app users, we found no such relationship. Thus, digital detox apps seem to be a valuable tool to prevent harmful effects of using SNSs on well-being among young people by reducing the risk of using the smartphone compulsively.

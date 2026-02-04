@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Nicotine dependence
-TITLE: Assessing nicotine dependence.
-PMID: 10950214
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10950214/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Family physicians can assess the smoking behavior of their patients in a few minutes, using carefully chosen questions. The CAGE questionnaire for smoking (modified from the familiar CAGE questionnaire for alcoholism), the "four Cs" test and the Fagerström Test for Nicotine Dependence help make the diagnosis of nicotine dependence based on standard criteria. Additional questions can be used to determine the patient's readiness to change and the nature of the reinforcement the patient receives from smoking. These tools can assist family physicians in guiding patients to quit smoking-the single most important thing smokers can do to improve their health.

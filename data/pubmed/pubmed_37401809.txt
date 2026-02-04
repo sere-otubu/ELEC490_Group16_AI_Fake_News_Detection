@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hormones types
-TITLE: Spatial regulation of plant hormone action.
-PMID: 37401809
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37401809/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although many plant cell types are capable of producing hormones, and plant hormones can in most cases act in the same cells in which they are produced, they also act as signaling molecules that coordinate physiological responses between different parts of the plant, indicating that their action is subject to spatial regulation. Numerous publications have reported that all levels of plant hormonal pathways, namely metabolism, transport, and perception/signal transduction, can help determine the spatial ranges of hormone action. For example, polar auxin transport or localized auxin biosynthesis contribute to creating a differential hormone accumulation across tissues that is instrumental for specific growth and developmental responses. On the other hand, tissue specificity of cytokinin actions has been proposed to be regulated by mechanisms operating at the signaling stages. Here, we review and discuss current knowledge about the contribution of the three levels mentioned above in providing spatial specificity to plant hormone action. We also explore how new technological developments, such as plant hormone sensors based on FRET (fluorescence resonance energy transfer) or single-cell RNA-seq, can provide an unprecedented level of resolution in defining the spatial domains of plant hormone action and its dynamics.

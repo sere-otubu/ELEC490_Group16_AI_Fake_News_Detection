@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vitamin D deficiency
-TITLE: Vitamin D deficiency and myocardial diseases.
-PMID: 20352623
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20352623/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Vitamin D deficiency is common among patients with myocardial diseases because sun-induced vitamin D production in the skin and dietary intake of vitamin D is often insufficient. Knockout mice for the vitamin D receptor develop myocardial hypertrophy and dysfunction. It has also been shown that children with rickets who suffered from severe heart failure could be successfully treated with supplementation of vitamin D plus calcium. In adults, almost all patients with heart failure exhibit reduced 25-hydroxyvitamin D levels, which are used to classify the vitamin D status. In prospective studies, vitamin D deficiency was an independent risk factor for mortality, deaths due to heart failure and sudden cardiac death. Several vitamin D effects on the electrophysiology, contractility, and structure of the heart suggest that vitamin D deficiency might be a causal factor for myocardial diseases. Data from interventional trials, however, are rare and urgently needed to elucidate whether vitamin D supplementation is useful for the treatment of myocardial diseases. In our opinion, the current knowledge of the beneficial effects of vitamin D on myocardial and overall health strongly argue for vitamin D supplementation in all vitamin D-deficient patients with or at high risk for myocardial diseases.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Infectious disease control
-TITLE: The case for transmissible antivirals to control population-wide infectious disease.
-PMID: 25017994
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25017994/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Infectious disease control faces significant challenges including: how to therapeutically target the highest-risk populations, circumvent behavioral barriers, and overcome pathogen persistence and resistance mechanisms. We review a recently proposed solution to overcome these challenges: antivirals that transmit by 'piggybacking' on viral replication. These proposed antivirals, termed 'therapeutic interfering particles' (TIPs), are engineered molecular parasites of viruses that are designed to steal replication resources from the wild type virus. Depriving viruses of crucial replication machinery, TIPs would reduce viral loads. As obligate parasites, TIPs would transmit via the same risk factors and transmission routes as wild type viruses, automatically reaching high-risk populations, and thereby substantially limiting viral transmission even in resource-poor settings. Design issues and ethical/safety considerations of this proposed intervention are discussed.

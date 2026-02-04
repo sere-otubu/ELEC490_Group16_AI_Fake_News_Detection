@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Amniocentesis
-TITLE: Amniocentesis: technique and education.
-PMID: 20098324
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20098324/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To review available data on the technique and education of amniocentesis. Literature shows many tools facilitating training for amniocentesis. These models can be either bought or hand made. Initial teaching should ideally be part of a specific curriculum. Reports of fetal loss due to amniocentesis differ greatly among authors, varying from 0.13 to 2.2%. Developing an adapted curriculum for amniocentesis training is important and emphasizes the usefulness of a standardize technique. Available data on the risks of amniocentesis should help counseling women/couples.

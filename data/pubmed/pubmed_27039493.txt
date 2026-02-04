@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cataract surgery
-TITLE: The Evolution of Cataract Surgery.
-PMID: 27039493
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27039493/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cataract surgery is one of the most common procedures performed worldwide. It is also one of the oldest. Alongside advancements in cataract surgical techniques have been improvements in intraocular lens replacement technology. Cataract surgery may be considered among the most successful treatments in all of medicine. This article discusses the fascinating evolution of cataract surgery, from the earliest approach of couching to modern day phacoemulsification and lens replacement.

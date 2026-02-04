@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Conjunctivitis
-TITLE: Conjunctivitis in children.
-PMID: 3317240
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3317240/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Conjunctivitis is a common, usually mild, self-limited problem. Pathogens vary at different ages. Conjunctivitis occurs alone or as a manifestation of a systemic infection or a systemic disease. Diagnosis can usually be established by the combination of clinical and laboratory findings. Topical, systemic or combination therapy is used, depending on the agent and extent of infection.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Amniocentesis
-TITLE: Genetic amniocentesis using atraumatic 29 gauge needle in patients having a chorioamniotic separation.
-PMID: 36068008
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36068008/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chorioamniotic separation (CAS) at the time of standard amniocentesis (AC) is a risk factor for postprocedural complications and should be avoided. The aim of this study was to quantify procedure-related risks after AC with a 29G-needle in cases of CAS, and evaluation of perinatal outcome in CAS after 15 weeks' gestation (GW). Retrospective analysis of genetic AC with a pencil-point 29G needle after 15 completed GW in pregnancies, in which the fetal membranes were not yet fused. Included into the study were women aged 16-44 years with at least 15 completed GWs referred for second trimester AC to identify fetal chromosomal aberrations. 437 ACs were made in total with the 29G-needle. The median maternal age was 30 (16-44) years. 145 cases showed CAS where the distance between chorion and amnion was 0.10-10.02 mm at AC. 38 pregnancies were terminated, 37 of which had a genetic disorder. The risk of aneuploidy increases by a factor of 2 (95% CI 1.4-2.8) for every 1 mm of CAS enlargement. No procedure-related complications were found up to two weeks after the AC. CAS seems to be massively underreported. Early diagnosis in case of CAS is something to strive for as CAS could be an indicator of genetic abnormalities - a "soft marker". With the atraumatic 29G needle, the risk of complications after AC in CAS seems to be very low.

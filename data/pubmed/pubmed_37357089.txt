@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Air pollution health effects
-TITLE: Gaps and future directions in research on health effects of air pollution.
-PMID: 37357089
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37357089/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Despite progress in many countries, air pollution, and especially fine particulate matter air pollution (PM<sub>2.5</sub>) remains a global health threat: over 6 million premature cardiovascular and respiratory deaths/yr. have been attributed to household and outdoor air pollution. In this viewpoint, we identify present gaps in air pollution monitoring and regulation, and how they could be strengthened in future mitigation policies to more optimally reduce health impacts. We conclude that there is a need to move beyond simply regulating PM<sub>2.5</sub> particulate matter mass concentrations at central site stations. A greater emphasis is needed on: new portable and affordable technologies to measure personal exposures to particle mass; the consideration of a submicron (PM<sub>1</sub>) mass air quality standard; and further evaluations of effects by particle composition and source. We emphasize the need to enable further studies on exposure-health relationships in underserved populations that are disproportionately impacted by air pollution, but not sufficiently represented in current studies.

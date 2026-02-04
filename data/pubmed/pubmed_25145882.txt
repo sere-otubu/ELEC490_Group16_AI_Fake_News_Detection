@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Strength training
-TITLE: High-load strength training improves outcome in patients with plantar fasciitis: A randomized controlled trial with 12-month follow-up.
-PMID: 25145882
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25145882/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The aim of this study was to investigate the effectiveness of shoe inserts and plantar fascia-specific stretching vs shoe inserts and high-load strength training in patients with plantar fasciitis. Forty-eight patients with ultrasonography-verified plantar fasciitis were randomized to shoe inserts and daily plantar-specific stretching (the stretch group) or shoe inserts and high-load progressive strength training (the strength group) performed every second day. High-load strength training consisted of unilateral heel raises with a towel inserted under the toes. Primary outcome was the foot function index (FFI) at 3 months. Additional follow-ups were performed at 1, 6, and 12 months. At the primary endpoint, at 3 months, the strength group had a FFI that was 29 points lower [95% confidence interval (CI): 6-52, P = 0.016] compared with the stretch group. At 1, 6, and 12 months, there were no differences between groups (P > 0.34). At 12 months, the FFI was 22 points (95% CI: 9-36) in the strength group and 16 points (95% CI: 0-32) in the stretch group. There were no differences in any of the secondary outcomes. A simple progressive exercise protocol, performed every second day, resulted in superior self-reported outcome after 3 months compared with plantar-specific stretching. High-load strength training may aid in a quicker reduction in pain and improvements in function.

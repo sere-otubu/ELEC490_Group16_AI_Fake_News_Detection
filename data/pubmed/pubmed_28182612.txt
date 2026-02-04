@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fatty liver disease
-TITLE: Non-Alcoholic Fatty Liver Disease in HIV Infection.
-PMID: 28182612
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28182612/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Non-alcoholic fatty liver disease is one of the most frequent chronic hepatic conditions worldwide. The spectrum of non-alcoholic fatty liver disease goes from hepatic steatosis to steatohepatitis, cirrhosis, and hepatocellular carcinoma. Risk factors for non-alcoholic fatty liver disease are metabolic, mainly obesity and the accompanying consequences. Treatment and prevention of non-alcoholic fatty liver disease should target those metabolic abnormalities. The frequency of and the factors associated with hepatic steatosis in HIV infection seem to be similar to those reported in the general population, though direct comparisons are lacking. Hepatic steatosis in HIV infection may also be secondary to antiretroviral drugs or HCV-related factors in HCV-coinfected subjects. However, more recent data suggest that hepatic steatosis in HIV infection represents true non-alcoholic fatty liver disease. As such, management of non-alcoholic fatty liver disease in HIV infection should follow the same principles as in the general population.

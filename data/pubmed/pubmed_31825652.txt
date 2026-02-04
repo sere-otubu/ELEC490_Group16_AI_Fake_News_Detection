@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chromosomes
-TITLE: Evolution of Marsupial Genomes.
-PMID: 31825652
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31825652/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Marsupial genomes, which are packaged into large chromosomes, provide a powerful resource for studying the mechanisms of genome evolution. The extensive and valuable body of work on marsupial cytogenetics, combined more recently with genome sequence data, has enabled prediction of the 2<i>n</i> = 14 karyotype ancestral to all marsupial families. The application of both chromosome biology and genome sequencing, or chromosomics, has been a necessary approach for various aspects of mammalian genome evolution, such as understanding sex chromosome evolution and the origin and evolution of transmissible tumors in Tasmanian devils. The next phase of marsupial genome evolution research will employ chromosomics approaches to begin addressing fundamental questions in marsupial genome evolution and chromosome evolution more generally. The answers to these complex questions will impact our understanding across a broad range of fields, including the genetics of speciation, genome adaptation to environmental stressors, and species management.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Valve replacement
-TITLE: Aortic valve-sparing operations and aortic root replacement.
-PMID: 17299290
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17299290/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The aortic root is a complex structure whose single components are of paramount importance in assuring proper functioning of the aortic valve. In fact, opening and closing behaviours of the aortic leaflets are regulated by the interaction of the various components of the aortic root as well as by the characteristics of blood flow. For many years, aortic root replacement has been considered as the standard option of surgical correction for aortic root aneurysm, regardless of the intrinsic and organic lesions of the valve cusps. The analysis of the normal anatomy and physiology of this peculiar structure is the basis for establishing the surgical transition, in selected cases, from aortic root replacement to aortic valve-sparing operation.

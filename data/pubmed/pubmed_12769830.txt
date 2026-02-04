@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12769830)
-    QUESTION: Should tumor depth be included in prognostication of soft tissue sarcoma?
-    CONTEXT: Most staging systems for soft tissue sarcoma are based on histologic malignancy-grade, tumor size and tumor depth. These factors are generally dichotomized, size at 5 cm. We believe it is unlikely that tumor depth per se should influence a tumor's metastatic capability. Therefore we hypothesized that the unfavourable prognostic importance of depth could be explained by the close association between size and depth, deep-seated tumors on average being larger than the superficial ones. When tumor size is dichotomized, this effect should be most pronounced in the large size (>5 cm) group in which the size span is larger.
-    ANSWER: Most of the prognostic value of tumor depth in soft tissue sarcomas of the extremity or trunk wall can be explained by the association between tumor size and depth.
-    

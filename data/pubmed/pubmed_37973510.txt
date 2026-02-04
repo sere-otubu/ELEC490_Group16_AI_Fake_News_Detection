@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rubella
-TITLE: The path to eradication of rubella.
-PMID: 37973510
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37973510/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Since 1969, rubella and its harmful effect on fetuses infected in utero can be prevented by rubella vaccine, usually given in combination with measles vaccine. The rubella vaccine is highly protective both in children and in adults including women intending to become pregnant. Owing to the use of combined measles and rubella vaccines, congenital rubella infection has been eliminated from the Western Hemisphere and nearly all of Europe. Such combined vaccination is now being applied throughout the world, posing the possibility of eventual rubella eradication. The existence of viruses of animals related to rubella does not appear to be a barrier to eradication of the human virus. However, persistent rubella virus in infants infected in utero and of immunosuppressed patients with granulomas may pose a problem for eradication. Nevertheless, this review posits that eradication of rubella is now feasible if routine vaccination of infants and surveillance for chronic infection are correctly applied.

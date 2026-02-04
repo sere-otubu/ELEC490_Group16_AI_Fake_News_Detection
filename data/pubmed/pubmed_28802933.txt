@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Parkinsons disease
-TITLE: Cognition in Parkinson's Disease.
-PMID: 28802933
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28802933/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cognitive decline is now recognized as a common nonmotor symptom of Parkinson's disease, and it has been the subject of increasing research in recent decades. Cognitive deficits in Parkinson's disease can be distinguished as dopaminergically mediated executive dysfunction seen in the milder stages vs a global dementia syndrome that can occur with disease progression. The neural basis of these deficits has been explored from the perspective of multimodal imaging techniques to measure the structural, functional, and metabolic correlates of cognitive decline in Parkinson's disease. Increasingly, changes in neurotransmitter systems beyond dopamine, including the noradrenergic, serotonergic, and cholinergic systems, are being recognized for their contribution to cognitive decline. The impact of certain genetic variations on cognitive function has also been established, including links between cognitive decline and polymorphisms affecting COMT, MAPT, APOE, and GBA genotypes. Although therapeutic options for cognitive decline are still far less established than for motor systems, both pharmacological and nonpharmacological strategies are continuing to develop.

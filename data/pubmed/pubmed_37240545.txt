@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep paralysis
-TITLE: Sleep Paralysis and Lucid Dreaming-Between Waking and Dreaming: A Review about Two Extraordinary States.
-PMID: 37240545
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37240545/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sleep paralysis and lucid dreams are two states of consciousness that are connected to REM sleep but are defined by higher awareness in contrast to regular REM sleep. Despite these similarities, the two states differ widely in their emotional tone and their perceived controllability. This review aims to summarize the current research containing sleep paralysis and lucid dreams. However, given the sparsity of the research, one single topic cannot be chosen. Articles containing both lucid dreams as well as sleep paralysis were searched for in the following databanks: MEDLINE, Scopus, Web of Science, PsycInfo, PsycArticles, and PSYNDEX. Further, citations of the found papers were examined. 10 studies were included in the review. Most of the studies were surveys, but there was also a case study, a randomized trial, and an observational EEG study. The numbers of participants ranged from a single participant in the case study to 1928 participants in a survey. The main findings were that correlations between sleep paralysis and lucid dreaming were positive and significant in most of the studies. There is a connection between lucid dreaming and sleep paralysis. However, research is still very limited and diverse in the methodologies used. Future research should build standardized methods for examining the two phenomena.

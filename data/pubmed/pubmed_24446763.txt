@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24446763)
-    QUESTION: The secular growth acceleration: does it appear during fetal life?
-    CONTEXT: To test if secular growth acceleration occurs during fetal life.
-    ANSWER: Our investigation did not undoubtedly prove that significant changes of fetal biometric parameters occurred in the last three decades. It is possible that secular growth acceleration does not exist in prenatal period but also the observed time period could have been short for this phenomenon to manifest.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fibromyalgia
-TITLE: Fibromyalgia.
-PMID: 24365316
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24365316/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Fibromyalgia is a chronic pain condition present in 2-4% of the population. Fibromyalgia consists of widespread pain with similarities to neuropathic pain in clinical findings, pathophysiology, and neuropharmacology. Pain is the predominant symptom and allodynia and hyperalgesia are common signs. Extreme fatigue, impaired cognition and nonrestorative sleep difficulties coexist in addition to other somatic symptoms. Research including neuroimaging investigations shows abnormalities in neurotransmitters and an abnormal response to pain. Altered pain processing peripherally and centrally contribute to central sensitization and a dampened effect of the diffuse noxious inhibitory control (DNIC). Successful management incorporates education of the patient in self-management skills, cognitive behavioral therapy (CBT), exercise, and drug therapy. Tricyclic antidepressants, serotonin-norepinephrine reuptake inhibitors (SNRIs) (duloxetine and milnacipran), α2-δ ligands (gabapentin and pregabalin) are effective in reducing pain by≥30%. Some success has been shown with dopamine agonists (pramipexole), tramadol, other opioids and cannabinoids (nabilone). Further evidence-based trials using complementary treatments are needed. Fibromyalgia is complex and requires a multidisciplinary approach to treatment. Patient self-management is key.

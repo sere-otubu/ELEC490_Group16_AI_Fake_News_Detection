@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 8521557)
-    QUESTION: The insertion allele of the ACE gene I/D polymorphism. A candidate gene for insulin resistance?
-    CONTEXT: The insertion/deletion (ID) polymorphism of the angiotensin-converting enzyme (ACE) gene has been associated with increased coronary heart disease (CHD), although the mechanism of this association is not apparent. We tested the hypothesis that the deletion allele of the ACE gene is associated with insulin resistance.
-    ANSWER: We conclude that increased cardiovascular risk of the DD genotype is not mediated through insulin resistance or abnormalities in fibrinolysis. Conversely, we report an increased sensitivity in NIDDM subjects with the ACE DD genotype.
-    

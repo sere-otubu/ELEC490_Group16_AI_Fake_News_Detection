@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 14992556)
-    QUESTION: Artefacts in 24-h pharyngeal and oesophageal pH monitoring: is simplification of pH data analysis feasible?
-    CONTEXT: Ambulatory 24-h dual-channel pharyngeal and oesophageal pH monitoring is the standard test for measuring gastro-oesophageal and gastropharyngeal reflux. Artefacts caused by the intake of food may result in falsely positive gastropharyngeal reflux, which necessitates a manual review of 24-h pH data. The purpose of the study was to investigate the influence of meals and whether leaving out meals affected the reliability of the test.
-    ANSWER: Leaving out the period of intake of meals and beverages from the raw pH data might be the second best test after the time-consuming visual correction with a small chance of undetected gastropharyngeal reflux. For scientific purposes and when in doubt, it remains necessary to review the computer-generated data manually to discover every gastropharyngeal reflux event.
-    

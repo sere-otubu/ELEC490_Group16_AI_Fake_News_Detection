@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Endometriosis
-TITLE: Endometriosis Pain Management: a Review.
-PMID: 32671581
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32671581/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The purpose of this review is to summarize the up-to-date pain management options and recommendations for the challenging disease, endometriosis. The mainstays of endometriosis advances of both surgical and medical management continue to evolve. Experimental pharmaceuticals include Gestirone, and aromatase inhibitors have shown promise but are still under scrutiny. Surgical techniques include laparoscopic uterosacral nerve ablation/resection and presacral neurectomy. No studies have directly compared medical versus surgical management, and as such, no one treatment modality can be recommend as superior to the other. Patients may initially be given a medical diagnosis and treated with nonsteroidal anti-inflammatory drugs, neurolepitcs, OCP, GNRH agonists/antagonists, and Danazol. Assessing the success of these regimens has proved difficult. Surgical management relies on various methods including excision/ablation of the lesions, nerve ablation, neurectomy, hysterectomy, and oophorectomy.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Eczema
-TITLE: Tips and Tricks for Controlling Eczema.
-PMID: 31563186
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31563186/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Eczema is a chronic, relapsing, and remitting disease that can affect patients from infancy through adulthood. Severity of eczema ranges from mild to severe and can be plagued with recurrent flares. These flares can be difficult to treat and may require use of different strategies to address the issue. In this article, the author addresses different therapeutic options that can be used in those patients with difficult-to-treat eczema.

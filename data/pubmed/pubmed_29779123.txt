@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Valve replacement
-TITLE: Pulmonary valve replacement after repaired Tetralogy of Fallot.
-PMID: 29779123
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29779123/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In this review article, we describe pulmonary valve replacement (PVR) late after repaired Tetralogy of Fallot (TOF). Since the introduction of surgical intervention for patients with TOF in 1945, surgical management of TOF has dramatically improved early survival with mortality rates, less than 2-3%. However, the majority of these patients continue to experience residual right ventricular outflow tract pathology, most commonly pulmonary valve regurgitation (PR). The patients are generally asymptomatic during childhood and adolescence and, however, are at risk for severe PR later which can result in exercise intolerance, heart failure, arrhythmias, and sudden death. While it has been shown that PVR improves symptoms and functional status in these patients, the optimal timing and indications for PVR after repaired TOF are still debated. This article reviews the current state of management for the patient with PR after repaired TOF.

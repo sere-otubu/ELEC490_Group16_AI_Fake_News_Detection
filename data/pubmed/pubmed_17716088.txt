@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dissociative disorders
-TITLE: Dissociative disorders.
-PMID: 17716088
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17716088/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The dissociative disorders, including "psychogenic" or "functional" amnesia, fugue, dissociative identity disorder (DID, also known as multiple personality disorder), and depersonalization disorder, were once classified, along with conversion disorder, as forms of hysteria. The 1970s witnessed an "epidemic" of dissociative disorder, particularly DID, which may have reflected enthusiasm for the diagnosis more than its actual prevalence. Traditionally, the dissociative disorders have been attributed to trauma and other psychological stress, but the existing evidence favoring this hypothesis is plagued by poor methodology. Prospective studies of traumatized individuals reveal no convincing cases of amnesia not attributable to brain insult, injury, or disease. Treatment generally involves recovering and working through ostensibly repressed or dissociated memories of trauma; at present, there are few quantitative or controlled outcome studies. Experimental studies are few in number and have focused largely on state-dependent and implicit memory. Depersonalization disorder may be in line for the next "epidemic" of dissociation.

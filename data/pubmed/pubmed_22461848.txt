@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tetanus shot
-TITLE: Tetanus seropositive prevalence and perceived protection from emergency admissions.
-PMID: 22461848
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22461848/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Emergency physicians see many people who present to the emergency department stating that they are immunized against tetanus, when in fact, they are not. The patient history is not dependable for determining true tetanus status and simple patient surveys do not provide actual prevalence. The objective of this study was to determine the prevalence of tetanus status by antibody titer seropositivity and quantify such status among patients reporting tetanus protection. This study is a single center prospective convenience sample of patients presenting to the emergency department 12 years of age or older. Patients deemed study candidates and willing to be in the study filled out an eight-question questionnaire that included the question 'is your tetanus shot up to date'. A blood sample was then drawn for tetanus antibody titer and quantified according to a pre-determined cutoff for protection. A total of 163 patients were enrolled. Of patients responding yes to the query 'is your tetanus shot up to date' 12.8% (N=5) of them were not seropositive. Of the 26 people who were seronegative in the study all had been to a doctor in the past year and 88.5% (N=23) had been to their family physician. The study suggests that it may be difficult to trust the tetanus immunization history given by patients presenting to the emergency room. The study also observed that a large percentage of patients who were serenegative were seen by a primary care physician and not had a necessary tetanus immunization.

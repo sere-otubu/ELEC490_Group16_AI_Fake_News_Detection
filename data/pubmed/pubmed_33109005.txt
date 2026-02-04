@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Adrenal glands
-TITLE: [CME Sonography 94/Answers: Adrenal Glands].
-PMID: 33109005
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33109005/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-CME Sonography 94/Answers: Adrenal Glands <b>Abstract.</b> Adrenal glands are often not examined in abdominal ultrasound because it is thought that the adrenal glands cannot be visualized. The normal right adrenal gland can be represented in most cases and the left one very often. Sonography makes an important contribution to the diagnosis of adrenal diseases. In addition to bleeding and tuberculosis, there are benign tumors (adrenal adenomas), pheochromocytomas, and adrenal carcinomas. There are also adrenal metastases and lymphomas.

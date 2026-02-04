@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Salmonella
-TITLE: Humoral Immunity vs. <i>Salmonella</i>.
-PMID: 32038650
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32038650/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In primary infection with <i>Salmonella</i>, it has been reported-without consideration of <i>Salmonella</i>'s functions-that humoral immunity plays no role in the clearance of bacteria. In fact, <i>Salmonella</i> targets and suppresses several aspects of humoral immunity, including B cell lymphopoiesis, B cell activation, and IgG production. In particular, the suppression of IgG-secreting plasma cell maintenance allows the persistence of <i>Salmonella</i> in tissues. Therefore, the critical role(s) of humoral immunity in the response to <i>Salmonella</i> infection, especially at the late phase, should be re-investigated. The suppression of IgG plasma cell memory strongly hinders vaccine development against non-typhoidal <i>Salmonella</i> (NTS) because <i>Salmonella</i> can also reduce humoral immune memory against other bacteria and viruses, obtained from previous vaccination or infection. We propose a new vaccine against <i>Salmonella</i> that would not impair humoral immunity, and which could also be used as a treatment for antibody-dependent autoimmune diseases to deplete pathogenic long-lived plasma cells, by utilizing the <i>Salmonella</i>'s own suppression mechanism of humoral immunity.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Suicide prevention
-TITLE: Suicide prevention on college campuses: What works and what are the existing gaps? A systematic review and meta-analysis.
-PMID: 30908123
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30908123/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-<b>Objective:</b> To examine the effects of universal and targeted suicide prevention programs on relevant outcomes in college campuses. <b>Methods:</b> College suicide prevention programs published from 2009 to 2018 were assessed on outcomes including knowledge, skills, self-efficacy, suicidal ideation, and suicidal behaviors. Effects of the interventions on outcome variables with sufficient studies to warrant meta-analysis (ie, knowledge, skills, and self-efficacy) were meta-analyzed. Studies reporting on the remaining outcomes (ie, suicidal ideation and behaviors) were systematically reviewed. <b>Results:</b> Significant increases in suicide prevention knowledge, skills, and self-efficacy were observed in universal prevention interventions that typically employed gatekeeper prevention strategies. Evidence of reductions in suicidal ideation and behaviors was observed across targeted suicide prevention programs for at-risk students. <b>Conclusion:</b> Prevention programs are beneficial for training those likely to come in contact with people endorsing suicidality, but further research is needed to show that suicide interventions can consistently have significant effects on suicidal students as well.

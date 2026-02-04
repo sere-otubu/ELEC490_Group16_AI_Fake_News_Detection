@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Inhalers
-TITLE: Epinephrine inhalers in emergency sets of patients with anaphylaxis.
-PMID: 19054424
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19054424/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Emergency sets are prescribed to allow patients with anaphylaxis to treat themselves before professional aid arrives. The need for epinephrine in this setting is well-accepted, but how it should be administered is still controversial. Epinephrine preparations can be administered orally, subcutaneously, intramuscularly or as aerosols. Primatene Mist is one epinephrine inhaler, which is approved for asthma treatment in the USA, and InfectoKrupp Inhal is another one approved to support the treatment of acute laryngo-tracheitis and of allergic reactions with a nebulizer. Both are possible components of the emergency set for patients with anaphylaxis. The following review article summarizes data currently available on the use of epinephrine preparations in first-aid treatment of anaphylaxis. Studies have shown that the plasma concentrations needed for hemodynamic stabilization cannot be reached with epinephrine inhalers. Since most cases of hypotension in anaphylaxis cannot be effectively treated with epinephrine inhalers, the prescriber should be aware of this before including them in an emergency pack.

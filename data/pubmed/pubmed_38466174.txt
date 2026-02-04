@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Caffeine effects
-TITLE: Common questions and misconceptions about caffeine supplementation: what does the scientific evidence really show?
-PMID: 38466174
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38466174/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Caffeine is a popular ergogenic aid that has a plethora of evidence highlighting its positive effects. A Google Scholar search using the keywords "caffeine" and "exercise" yields over 200,000 results, emphasizing the extensive research on this topic. However, despite the vast amount of available data, it is intriguing that uncertainties persist regarding the effectiveness and safety of caffeine. These include but are not limited to: 1. Does caffeine dehydrate you at rest? 2. Does caffeine dehydrate you during exercise? 3. Does caffeine promote the loss of body fat? 4. Does habitual caffeine consumption influence the performance response to acute caffeine supplementation? 5. Does caffeine affect upper vs. lower body performance/strength differently? 6. Is there a relationship between caffeine and depression? 7. Can too much caffeine kill you? 8. Are there sex differences regarding caffeine's effects? 9. Does caffeine work for everyone? 10. Does caffeine cause heart problems? 11. Does caffeine promote the loss of bone mineral? 12. Should pregnant women avoid caffeine? 13. Is caffeine addictive? 14. Does waiting 1.5-2.0 hours after waking to consume caffeine help you avoid the afternoon "crash?" To answer these questions, we performed an evidence-based scientific evaluation of the literature regarding caffeine supplementation.

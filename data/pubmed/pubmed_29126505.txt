@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ulcerative colitis
-TITLE: Management of acute severe ulcerative colitis in children.
-PMID: 29126505
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29126505/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The incidence of pediatric-onset ulcerative colitis (UC) is rising. Children often present with a more severe disease phenotype as compared to adults with over a third requiring hospitalization for the management of acute severe ulcerative colitis (ASUC). Further, in pediatric patients presenting with inflammatory bowel disease (IBD) limited to the colon, a definitive diagnosis of UC vs. Crohn's disease is often unclear. Here, we review the unique aspects of pediatric ASUC including the epidemiology, diagnosis, medical, and surgical management of this disease.

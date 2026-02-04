@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tendinitis
-TITLE: Calcifying tendinitis of the shoulder: advances in imaging and management.
-PMID: 19296885
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19296885/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Calcifying tendonitis of the shoulder is a common, acute or chronic, painful disorder characterized by calcifications in the rotator cuff tendons. A natural cycle exists during which the tendon repairs itself. In chronic calcific tendonitis, however, this cycle is blocked at one of the healing stages. Because chronic presentation with exacerbations is usual, initial treatment should be conservative, including rest, physical therapy, nonsteroidal anti-inflammatory drugs, and, in later stages, subacromial infiltration with corticosteroids. Surgery is recommended when conservative treatment fails. This article discusses advances in imaging and medical, physical, and surgical management, as well as current evidence for the treatment of calcifying tendonitis of the shoulder.

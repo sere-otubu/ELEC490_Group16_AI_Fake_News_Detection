@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alcoholism
-TITLE: Liver transplantation in patients with alcoholic liver disease.
-PMID: 21567894
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21567894/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although alcoholic liver disease (ALD) is one of the most common indications for liver transplantation (LT), there are still unresolved controversies about the goals of treatment, the referral, evaluation, and selection of patients with ALD for LT, and their care after LT. It is uncertain whether there is a large unmet need for LT among patients with ALD because of the unmeasured effects of recent drinking, relapse, and recovery with abstinence in this population. A careful assessment of the extrahepatic effects of alcohol-related end-organ damage is needed for ALD patients who are referred for an LT evaluation. Although there clearly is a relationship between the length of sobriety and future abstinence, the present methods for predicting future drinking are inexact. The survival of ALD patients after LT is as good as the survival of non-ALD patients, although patients with coincident ALD and hepatitis C virus have higher mortality and morbidity rates. After LT, ALD patients have an increased risk of developing malignancies and cardiovascular disease. These risks appear to be linked to cigarette smoking. Covert drinking occurs both before and after transplantation, and approximately 20% of patients return to harmful drinking after LT. Harmful drinking after LT (instead of slips) causes liver damage and reduces survival. Better therapies for controlling addictions to alcohol and nicotine are needed for ALD patients both before and after LT.

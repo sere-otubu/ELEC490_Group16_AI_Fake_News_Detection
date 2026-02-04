@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gluten free diet
-TITLE: Effect of Gluten-Free Diet on Gut Microbiota Composition in Patients with Celiac Disease and Non-Celiac Gluten/Wheat Sensitivity.
-PMID: 32575561
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32575561/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Celiac disease (CD) and non-celiac gluten/wheat sensitivity (NCG/WS) are the two most frequent conditions belonging to gluten-related disorders (GRDs). Both these diseases are triggered and worsened by gluten proteins ingestion, although other components, such as amylase/trypsin inhibitors (ATI) and fermentable oligosaccharides, disaccharides, monosaccharides and polyols (FODMAPs), seem to be involved in the NCG/WS onset. Therefore, the only effective treatment to date is the long-life adherence to a strictly gluten-free diet. Recently, increasing attention has been paid to the intestinal barrier, a dynamic system comprising various components, which regulate the delicate crosstalk between metabolic, motor, neuroendocrine and immunological functions. Among the elements characterizing the intestinal barrier, the microbiota plays a key role, modulating the gut integrity maintenance, the immune response and the inflammation process, linked to the CD and NCG/WS outbreak. This narrative review addresses the most recent findings on the gut microbiota modulation induced by the gluten-free diet (GFD) in healthy, CD and NCG/WS patients.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Angioplasty
-TITLE: [Coronary angioplasty in elderly patients].
-PMID: 8701180
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8701180/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Percutaneous transluminal coronary angioplasty (PTCA) is a widely accepted treatment of symptomatic coronary heart disease providing prompt and prolonged clinical, improvement in most patients. We have examined the value of this therapy in a group of 91 patients in their eighth decade treated by 133 consecutive angioplasties. Most patients had refractory or instable angor in spite of optimal pharmacotherapy. Multivessel disease was present in 67% and maintained left-ventricular function in 92% of the patients. The angiographic success rate of PTCA was 84%; technical failures occurred in 12% and adverse events in 14%. Two patients died. The rate of symptomatic restenosis was 24%. Survival and patients free of myocardial events were at 89% and 60%, respectively, estimated by Kaplan-Meier analysis. PTCA is an efficient and acceptable treatment for the elderly patient with severe and drug-resistant angina. Two years after PTCA the majority of patients was asymptomatic.

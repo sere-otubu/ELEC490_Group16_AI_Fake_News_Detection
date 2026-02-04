@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Personality disorders
-TITLE: Personality Disorders in Patients with Cancer.
-PMID: 31661154
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31661154/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Personality disorders exist on a spectrum in the general population and therefore may coexist in patients who have cancer. Patients with these disorders exhibit character rigidity resulting from enduring patterns of inner experience and behavior and may experience some level of interpersonal conflict among medical staff caring for them. These conditions become exacerbated under stressful cancer-related situations and may lead to adverse consequences and outcomes. This review highlights the conceptual and diagnostic issues of personality disorders for practicing oncologists and provides recommendations for recognizing and managing cancer patients with difficult personality traits or personality disorders.

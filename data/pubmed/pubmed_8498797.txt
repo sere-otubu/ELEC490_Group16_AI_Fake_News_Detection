@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Angioplasty
-TITLE: [Angioplasty of the subclavian arteries. Immediate and mid-term results].
-PMID: 8498797
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8498797/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The authors report the immediate and mid-term results of a retrospective study concerning 30 attempted angioplasties in 30 patients with tight stenosis of the subclavian artery. The cohort consisted of 23 men with a mean age of 57.5 and 7 women with a mean age of 57.7. Twenty three patients had symptoms and 7 were asymptomatic. There were 2 technical failures related to impossibility of passage through the stenosis. There were two complications during the immediate postoperative period in the form of obstruction at the arterial puncture site with no long term functional consequences. Clinical evaluation after a mean follow-up of 32.5 months showed that 25 (89.2%) of 28 patients with a good primary result were improved from a clinical and/or blood pressure after a mean follow-up of 34.5 months in 19 (82.6%) of the 23 patients undergoing this investigation. This study confirms the satisfactory efficacy of subclavian angioplasty with a low complication rate. It would seem legitimate to suggest angioplasty as first line treatment of stenosis of the subclavian artery and to reserve surgery for failures or contraindications to the technique.

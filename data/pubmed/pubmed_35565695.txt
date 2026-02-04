@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gluten free diet
-TITLE: Doubtful Justification of the Gluten-Free Diet in the Course of Hashimoto's Disease.
-PMID: 35565695
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35565695/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The popularization of the gluten-free diet brings with it a fashion for its use, which can harm the treatment of Hashimoto's disease. The few studies in this regard do not confirm positive changes resulting from a gluten-free diet. At the same time, the presence of other comorbid autoimmune diseases in this group of patients is increasing. This may have important implications for the interpretation of test results and the need for a gluten-free diet in some patients. In this review, the PubMed database was searched for links between a gluten-free diet, Hashimoto's disease, and autoimmune diseases. When analyzing the available literature, we found no basis for introducing a gluten-free diet for the standard management of Hashimoto patients. The recommended diet is instead an anti-inflammatory diet that levels the supply (to compensate for deficiencies) of vitamin D, iodine, and selenium, which are found in plant products rich in polyphenols, antioxidants, and omega-3 fatty acids, as illustrated in this article.

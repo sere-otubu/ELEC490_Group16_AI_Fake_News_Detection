@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Prebiotics
-TITLE: The Gut Microbiome in Depression and Potential Benefit of Prebiotics, Probiotics and Synbiotics: A Systematic Review of Clinical Trials and Observational Studies.
-PMID: 35562885
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35562885/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-An emerging body of literature demonstrates differences in the gut microbiome (GMB) of patients with major depressive disorder (MDD) compared to healthy controls (HC), as well as the potential benefits of prebiotic, probiotic, and synbiotic treatment. We conducted a systematic review of 24 observational studies (n = 2817), and 19 interventional trials (n = 1119). We assessed alpha diversity, beta diversity, and taxa abundance changes in patients with MDD relative to HC, as well as the effect of prebiotics, probiotics, and synbiotics on depressive symptoms in individuals with clinical or subclinical depression. We observed no significant differences in alpha diversity but a significant difference in beta diversity between patients with MDD and HC. There were fluctuations in the abundance of specific taxa in patients with MDD relative to HC. Probiotic and synbiotic, but not prebiotic, treatment showed a modest benefit in reducing depressive symptoms in patients with MDD over four to nine weeks. The GMB profiles of patients with MDD differ significantly from HC, but further studies are needed to elucidate the benefits of prebiotic, probiotic and synbiotic treatments relative to antidepressants and over longer follow-up before these therapies are implemented into clinical practice.

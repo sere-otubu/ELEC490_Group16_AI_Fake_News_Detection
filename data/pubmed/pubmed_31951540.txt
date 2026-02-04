@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ebola virus
-TITLE: Ending Ebola.
-PMID: 31951540
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31951540/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Promising vaccines and results from recent clinical trials of therapeutic antibodies against Ebola virus offer hope for an end to this devastating disease. We asked three investigators in the field to share their views on the remaining challenges and important future research directions as we work toward controlling Ebola virus infection.

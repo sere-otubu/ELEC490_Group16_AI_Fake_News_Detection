@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Joint replacement
-TITLE: [Primary joint replacement for the treatment of acetabular fractures].
-PMID: 36534363
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36534363/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Open reduction and internal fixation are the gold standard for the treatment of dislocated acetabular fractures. A primary joint replacement is only justified in isolated cases. The indications are merely non-reconstructable acetabular fractures, accompanying displaced fractures of the femoral neck and non-reconstructable fractures of the femoral head.Because of the difficulties in achieving sufficient cup stability, joint replacement for the treatment of acetabular fractures regularly requires implants designed for revision arthroplasty. The Kocher-Langenbeck approach provides the most versatile options, as it enables simultaneous stabilization of the dorsal acetabular structures, which are essential for the stability of the cup.For primary joint replacement as a treatment of acetabular fractures, survival of the prosthetic cup is markedly worse when compared to elective primary joint replacement. Particularly in younger patients but also in aged patients, every effort should be made to achieve a press fit of the cup. In most cases, this will include reduction and fixation of the fracture for stabilization of the acetabulum prior to joint replacement. A staged approach with an early secondary replacement intervention seems to provide better overall results than simultaneous fracture fixation and joint replacement.

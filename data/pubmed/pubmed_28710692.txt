@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ebola virus
-TITLE: Host Factors Involved in Ebola Virus Replication.
-PMID: 28710692
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28710692/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Ebola virus (EBOV) is a highly pathogenic emerging virus that represents a serious threat to global public health and a major priority for biodefense. The 2014 West African outbreak demonstrated the potential of EBOV to cause an epidemic affecting thousands of people. The severity of disease and high case fatality rate of EBOV is largely due to the host response elicited by the virus. EBOV infection hijacks a number of host pathways to carry out replication and stimulate potent inflammatory responses, while simultaneously subverting the host antiviral immune response. Together, these events trigger a complex, systemic, often lethal febrile disease characterized by high levels of inflammatory cytokines, acute hepatitis and liver dysfunction, immune antagonism, gastrointestinal distress, and, in some cases, hemorrhage caused by coagulopathy and vascular leakage. This review presents current knowledge about the particular host responses induced and disrupted by EBOV infection and how these contribute to virus replication, immune evasion, pathogenesis, and disease outcome.

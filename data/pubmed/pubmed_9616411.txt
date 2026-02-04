@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 9616411)
-    QUESTION: Do general practitioner hospitals reduce the utilisation of general hospital beds?
-    CONTEXT: To assess whether populations with access to general practitioner hospitals (GP hospitals) utilise general hospitals less than populations without such access.
-    ANSWER: GP hospitals seem to reduce the utilisation of general hospitals with respect to admissions as well as occupied bed days.
-    

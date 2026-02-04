@@ -1,8 +1,0 @@
-SEARCH_TOPIC: HPV vaccine
-TITLE: Perspectives for therapeutic HPV vaccine development.
-PMID: 27809842
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27809842/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Human papillomavirus (HPV) infections and associated diseases remain a serious burden worldwide. It is now clear that HPV serves as the etiological factor and biologic carcinogen for HPV-associated lesions and cancers. Although preventative HPV vaccines are available, these vaccines do not induce strong therapeutic effects against established HPV infections and lesions. These concerns create a critical need for the development of therapeutic strategies, such as vaccines, to treat these existing infections and diseases. Unlike preventative vaccines, therapeutic vaccines aim to generate cell-mediated immunity. HPV oncoproteins E6 and E7 are responsible for the malignant progression of HPV-associated diseases and are consistently expressed in HPV-associated diseases and cancer lesions; therefore, they serve as ideal targets for the development of therapeutic HPV vaccines. In this review we revisit therapeutic HPV vaccines that utilize this knowledge to treat HPV-associated lesions and cancers, with a focus on the findings of recent therapeutic HPV vaccine clinical trials. Great progress has been made to develop and improve novel therapeutic HPV vaccines to treat existing HPV infections and diseases; however, there is still much work to be done. We believe that therapeutic HPV vaccines have the potential to become a widely available and successful therapy to treat HPV and HPV-associated diseases in the near future.

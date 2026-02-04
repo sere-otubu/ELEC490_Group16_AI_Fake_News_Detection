@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Food safety guidelines
-TITLE: The use of next generation sequencing for improving food safety: Translation into practice.
-PMID: 30621881
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30621881/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Next Generation Sequencing (NGS) combined with powerful bioinformatic approaches are revolutionising food microbiology. Whole genome sequencing (WGS) of single isolates allows the most detailed comparison possible hitherto of individual strains. The two principle approaches for strain discrimination, single nucleotide polymorphism (SNP) analysis and genomic multi-locus sequence typing (MLST) are showing concordant results for phylogenetic clustering and are complementary to each other. Metabarcoding and metagenomics, applied to total DNA isolated from either food materials or the production environment, allows the identification of complete microbial populations. Metagenomics identifies the entire gene content and when coupled to transcriptomics or proteomics, allows the identification of functional capacity and biochemical activity of microbial populations. The focus of this review is on the recent use and future potential of NGS in food microbiology and on current challenges. Guidance is provided for new users, such as public health departments and the food industry, on the implementation of NGS and how to critically interpret results and place them in a broader context. The review aims to promote the broader application of NGS technologies within the food industry as well as highlight knowledge gaps and novel applications of NGS with the aim of driving future research and increasing food safety outputs from its wider use.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chromosomes
-TITLE: The Biology and Evolution of Mammalian Y Chromosomes.
-PMID: 26442847
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26442847/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Mammals have the oldest sex chromosome system known: the mammalian X and Y chromosomes evolved from ordinary autosomes beginning at least 180 million years ago. Despite their shared ancestry, mammalian Y chromosomes display enormous variation among species in size, gene content, and structural complexity. Several unique features of the Y chromosome--its lack of a homologous partner for crossing over, its functional specialization for spermatogenesis, and its high degree of sequence amplification--contribute to this extreme variation. However, amid this evolutionary turmoil many commonalities have been revealed that have contributed to our understanding of the selective pressures driving the evolution and biology of the Y chromosome. Two biological themes have defined Y-chromosome research over the past six decades: testis determination and spermatogenesis. A third biological theme begins to emerge from recent insights into the Y chromosome's roles beyond the reproductive tract--a theme that promises to broaden the reach of Y-chromosome research by shedding light on fundamental sex differences in human health and disease.

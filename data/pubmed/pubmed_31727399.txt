@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Organ transplant
-TITLE: Anaesthetic management of organ transplant patients.
-PMID: 31727399
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31727399/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In this paper we will describe anaesthetic management of solid organ and reconstructive transplantation (RT) patients. We will focus on similar underlying principles of reperfusion, ischaemic-reperfusion injury, preconditioning and extracorporeal donor organ preservation. Special concerns for anaesthetic management of these patients need to focus on pre-assessment, pre-operative optimisation, vascular access, fluid management, blood and products replacement, cardiovascular monitoring, use of inotropes and vasoconstrictors, maintaining electrolyte balance and regional anaesthesia. Despite the complexity and long duration of transplant procedures, fast-tracking to the surgical ward after transplantation is becoming more popular and its benefits are well recognised.

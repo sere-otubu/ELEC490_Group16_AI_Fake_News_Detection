@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Crohns disease
-TITLE: Crohn's Disease of the Foregut.
-PMID: 26596921
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26596921/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Crohn's disease of the foregut is more common than previously recognized, with up to 40% of patients with Crohn's disease in the distal intestine also having evidence of foregut disease. Esophageal disease is best managed medically with proton pump inhibition, steroids, thiopurines, methotrexate, and anti-tumor necrosis factor-α biologic medications. Esophageal strictures are dealt with using endoscopic dilation. Surgery is generally reserved of resistant strictures or esophageal fistulas. Patients with gastroduodenal disease more commonly come to surgery. The most commonly performed operations for gastroduodenal Crohn's disease are intestinal bypass or strictureplasty. The concomitant use of vagotomy remains controversial.

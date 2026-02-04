@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hives
-TITLE: How to Approach Chronic Inducible Urticaria.
-PMID: 30033913
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30033913/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chronic inducible urticaria (CIndU) is a group of chronic urticarias characterized by the appearance of recurrent wheals, recurrent angioedema or both, as a response to specific triggers. CIndU includes both physical (symptomatic dermographism, cold and heat urticaria, delayed pressure urticaria, solar urticaria, and vibratory urticaria) and nonphysical urticarias (cholinergic urticaria, contact and aquagenic urticaria). Here, we review the different forms of CIndU with an emphasis on symptomatic dermographism, cold urticaria, cholinergic urticaria, and delayed pressure urticaria. We discuss the clinical features, the diagnostic workup including provocation and threshold testing, and available treatment options.

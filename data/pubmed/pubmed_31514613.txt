@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Health literacy
-TITLE: Health Literacy in Relation to Health Outcomes: A Concept Analysis.
-PMID: 31514613
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31514613/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Health literacy is a concept discussed in the literature of many disciplines, but the definitions used are varied. Using the Walker and Avant method of concept analysis, the authors explore health literacy in relation to health outcomes-the defining attributes, antecedents, consequences, and empirical referents. In addition, cases are provided that illustrate health literacy in relation to health outcomes. This concept analysis allows for colleagues in nursing to have a better understanding of this concept and facilitates further development of tools to assess and improve health literacy and ultimately improve health outcomes overall.

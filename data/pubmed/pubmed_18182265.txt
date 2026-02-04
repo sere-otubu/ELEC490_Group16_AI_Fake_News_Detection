@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18182265)
-    QUESTION: Body diffusion-weighted MR imaging of uterine endometrial cancer: is it helpful in the detection of cancer in nonenhanced MR imaging?
-    CONTEXT: In this study, the authors discussed the feasibility and value of diffusion-weighted (DW) MR imaging in the detection of uterine endometrial cancer in addition to conventional nonenhanced MR images.
-    ANSWER: DW imaging can be helpful in the detection of uterine endometrial cancer in nonenhanced MR imaging.
-    

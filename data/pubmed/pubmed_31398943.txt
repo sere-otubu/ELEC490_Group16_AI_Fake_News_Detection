@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immune response
-TITLE: Peroxisomes in Immune Response and Inflammation.
-PMID: 31398943
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31398943/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The immune response is essential to protect organisms from infection and an altered self. An organism's overall metabolic status is now recognized as an important and long-overlooked mediator of immunity and has spurred new explorations of immune-related metabolic abnormalities. Peroxisomes are essential metabolic organelles with a central role in the synthesis and turnover of complex lipids and reactive species. Peroxisomes have recently been identified as pivotal regulators of immune functions and inflammation in the development and during infection, defining a new branch of immunometabolism. This review summarizes the current evidence that has helped to identify peroxisomes as central regulators of immunity and highlights the peroxisomal proteins and metabolites that have acquired relevance in human pathologies for their link to the development of inflammation, neuropathies, aging and cancer. This review then describes how peroxisomes govern immune signaling strategies such as phagocytosis and cytokine production and their relevance in fighting bacterial and viral infections. The mechanisms by which peroxisomes either control the activation of the immune response or trigger cellular metabolic changes that activate and resolve immune responses are also described.

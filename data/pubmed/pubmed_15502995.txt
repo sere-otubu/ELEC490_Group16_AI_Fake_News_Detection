@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 15502995)
-    QUESTION: Does the early adopter of drugs exist?
-    CONTEXT: To analyse associations between indicators for adoption of new drugs and to test the hypothesis that physicians' early adoption of new drugs is a personal trait independent of drug groups.
-    ANSWER: Within drug groups, indicators of drug adoption, except for adoption time, correlate reasonably well. However, the theory that physicians' early adoption of new drugs is a personal trait independent of the type of drug could not be confirmed. The notion of the early-drug-adopting general practitioner may be mistaken.
-    

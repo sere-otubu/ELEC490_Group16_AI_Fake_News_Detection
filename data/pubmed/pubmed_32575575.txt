@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic screening
-TITLE: Preimplantation Genetic Testing: Where We Are Today.
-PMID: 32575575
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32575575/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Preimplantation genetic testing (PGT) is widely used today in in-vitro fertilization (IVF) centers over the world for selecting euploid embryos for transfer and to improve clinical outcomes in terms of embryo implantation, clinical pregnancy, and live birth rates. We report the current knowledge concerning these procedures and the results from different clinical indications in which PGT is commonly applied. This paper illustrates different molecular techniques used for this purpose and the clinical significance of the different oocyte and embryo stage (polar bodies, cleavage embryo, and blastocyst) at which it is possible to perform sampling biopsies for PGT. Finally, genetic origin and clinical significance of embryo mosaicism are illustrated. The preimplantation genetic testing is a valid technique to evaluated embryo euploidy and mosaicism before transfer.

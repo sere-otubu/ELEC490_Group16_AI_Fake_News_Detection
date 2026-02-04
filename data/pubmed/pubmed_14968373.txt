@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 14968373)
-    QUESTION: Can CT predict the level of CSF block in tuberculous hydrocephalus?
-    CONTEXT: Treatment of obstructive hydrocephalus in children with tuberculous meningitis (TBM) depends on the level of the cerebrospinal fluid (CSF) block. Air-encephalography is regarded as the gold standard for differentiating communicating and non-communicating hydrocephalus. Since air-encephalography involves a lumbar puncture, it carries the risk of cerebral herniation. AIM. The aim of this study was to determine whether communicating and non-communicating hydrocephalus in TBM can be differentiated by means of cranial computerised tomography (CT).
-    ANSWER: CT is therefore not useful in determining the level of CSF block in TBM. Air-encephalography remains the most reliable way of determining the level of CSF obstruction.
-    

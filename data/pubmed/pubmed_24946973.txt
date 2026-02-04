@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24946973)
-    QUESTION: Is oncoplastic surgery a contraindication for accelerated partial breast radiation using the interstitial multicatheter brachytherapy method?
-    CONTEXT: To evaluate accelerated partial breast irradiation (APBI) in patients after oncoplastic surgery for early breast cancer.
-    ANSWER: These preliminary results suggest the feasibility of multicatheter APBI after oncoplastic breast-conserving surgery in selected low-risk breast cancer patients; however, special attention to target volume definition is needed. Further prospective investigations with long follow-up are needed to define the real value of the procedure.
-    

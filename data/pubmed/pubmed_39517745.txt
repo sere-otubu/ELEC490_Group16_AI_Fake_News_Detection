@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Inhalers
-TITLE: Flowrate Sensing and Measurement in Portable Smart Inhalers.
-PMID: 39517745
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39517745/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review discusses approaches and implementations of flowrate sensing and measurement in smart inhalers for effective respiratory disease management. It highlights the importance of compliance with proper inhaling techniques and consistent adherence for managing respiratory conditions. Methods and relevant commercial and prototype research-type devices for sensing and measuring inhalation flowrate in smart inhalers are studied and compared. The study argues that the utilisation of acoustic analysis and air-pressure sensing is a promising approach to detect and evaluate the inhaling action, ultimately allowing improvement in the treatment outcomes and life quality of patients with respiratory diseases.

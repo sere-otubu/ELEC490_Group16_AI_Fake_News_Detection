@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Migraine
-TITLE: Managing childhood migraine.
-PMID: 26209983
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26209983/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Childhood migraines create a significant health burden and are probably under-diagnosed and treated. The aim of this article is to offer a systematic approach to the management of migraine. A systematic approach to the presentation of migraines in children can help to alleviate parental and physician anxiety and allow for an accurate diagnosis. Treatment is multifactorial but pharmacological intervention should certainly play a role along with adjustment of environmental factors and addressing possible underlying psychosocial factors. Referral to a general practitioner (GP) with specialist interests, paediatrician, adolescent physician or neurologist may be appropriate. In extreme circumstances, referral to the emergency department is a reasonable option to allow aggressive abortive treatments, but ongoing management should be coordinated through the GP.

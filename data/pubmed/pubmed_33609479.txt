@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alzheimers disease
-TITLE: New insights into atypical Alzheimer's disease in the era of biomarkers.
-PMID: 33609479
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33609479/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Most patients with Alzheimer's disease present with amnestic problems; however, a substantial proportion, over-represented in young-onset cases, have atypical phenotypes including predominant visual, language, executive, behavioural, or motor dysfunction. In the past, these individuals often received a late diagnosis; however, availability of CSF and PET biomarkers of Alzheimer's disease pathologies and incorporation of atypical forms of Alzheimer's disease into new diagnostic criteria increasingly allows them to be more confidently diagnosed early in their illness. This early diagnosis in turn allows patients to be offered tailored information, appropriate care and support, and individualised treatment plans. These advances will provide improved access to clinical trials, which often exclude atypical phenotypes. Research into atypical Alzheimer's disease has revealed previously unrecognised neuropathological heterogeneity across the Alzheimer's disease spectrum. Neuroimaging, genetic, biomarker, and basic science studies are providing key insights into the factors that might drive selective vulnerability of differing brain networks, with potential mechanistic implications for understanding typical late-onset Alzheimer's disease.

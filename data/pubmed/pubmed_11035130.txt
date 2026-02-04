@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 11035130)
-    QUESTION: Do patients with rheumatoid arthritis established on methotrexate and folic acid 5 mg daily need to continue folic acid supplements long term?
-    CONTEXT: It is postulated that some aspects of methotrexate toxicity may be related to its action as an anti-folate. Folic acid (FA) is often given as an adjunct to methotrexate therapy, but there is no conclusive proof that it decreases the toxicity of methotrexate and there is a theoretical risk that it may decrease the efficacy of methotrexate.
-    ANSWER: It is important to continue FA supplementation over the long term in patients on methotrexate and FA in order to prevent them discontinuing treatment because of mouth ulcers or nausea and vomiting. Our data suggest that FA supplementation is also helpful in preventing neutropenia, with very little loss of efficacy of methotrexate.
-    

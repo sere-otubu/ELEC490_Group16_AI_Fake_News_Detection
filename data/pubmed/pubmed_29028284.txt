@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Inflammation mechanism
-TITLE: Tissue factor-bearing microparticles and inflammation: a potential mechanism for the development of venous thromboembolism in cancer.
-PMID: 29028284
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29028284/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cancer is associated with an increased risk of venous thromboembolism (VTE); the exact mechanisms for the induction of VTE remain to be fully elucidated, but it is widely acknowledged that tissue factor (TF)-bearing microparticles (TF-MPs) may play a significant role. However, TF-MPs have yet to be accepted as a genuine biomarker for cancer-associated VTE, as the presence of elevated TF-MP levels is not always accompanied by thrombosis; interestingly, in certain cases, particularly in pancreatic cancer, VTE seems to be more likely in the context of acute inflammation. Although several potential mechanisms for the development of VTE in cancer have been postulated, this review explores the homeostatic disruption of TF-MPs, as the main reservoir of bloodborne TF, in the context of cancer and inflammation, and considers the abrogated responses of the activated endothelium and mononuclear phagocyte system in mediating this disruption.

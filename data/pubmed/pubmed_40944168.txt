@@ -1,8 +1,0 @@
-SEARCH_TOPIC: School lunch nutrition
-TITLE: Unraveling Future Trends in Free School Lunch and Nutrition: Global Insights for Indonesia from Bibliometric Approach and Critical Review.
-PMID: 40944168
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40944168/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-<b>Background:</b> School lunch programs play a crucial role in shaping the nutritional status and academic performance of children, making them a cornerstone of public health initiatives worldwide. <b>Objective:</b> To elucidate emerging trends and propose a comprehensive framework for free school lunch as a nutrition policy through a combined bibliometric approach and critical review. <b>Methods:</b> A bibliometric analysis was performed to identify key thematic areas, influential research, and knowledge gaps from global literature databases, followed by a critical review synthesizing insights on nutritional adequacy, socio-cultural considerations, policy effectiveness, and innovative practices in free school meal programs. <b>Results:</b> The analysis revealed an increasing focus on sustainability, food waste management, and integration of nutrition education within school curricula, alongside notable disparities in implementation and accessibility, particularly in low-income regions. <b>Conclusions:</b> We propose a future-oriented framework emphasizing stakeholder collaboration, culturally adaptive meal designs, and utilization of technology for personalized nutrition strategies, contributing to the optimization of school lunch programs and advancement of sustainable development goals, particularly Zero Hunger and Quality Education.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Exercise for pregnancy
-TITLE: Aerobic or Resistance Exercise for Improved Glycaemic Control and Pregnancy Outcomes in Women with Gestational Diabetes Mellitus: A Systematic Review.
-PMID: 36078508
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36078508/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Exercise is often recommended in addition to diet and medication in the management of gestational diabetes mellitus (GDM). Our aim was to determine if strength training compared with aerobic exercise had an impact on glycaemic control, maternal and neonatal outcomes. The Cochrane library, Embase, PubMed, CINAHL, Medline, Google Scholar, and OpenGrey were searched. Over 758 pregnant women (mother-baby pairs) from 14 studies are included in this systematic review. Interventions ranged from cycling, aerobic exercises, walking, yoga, or combined aerobic and resistance exercises. Of the studies identified, none directly compared aerobic exercise with strength training. Half of the studies showed benefit in glycaemic control with additional exercise compared with usual physical activity. There was largely no impact on obstetric or neonatal outcomes. Studies on exercise in GDM have reiterated the safety of exercise in pregnancy and shown mixed effects on maternal glycaemic control, with no apparent impact on pregnancy outcomes. The heterogenicity of reported studies make it difficult to make specific recommendations on the optimum exercise modality for the management of GDM. The use of a core outcome set for GDM may improve reporting of studies on the role of exercise in its management.

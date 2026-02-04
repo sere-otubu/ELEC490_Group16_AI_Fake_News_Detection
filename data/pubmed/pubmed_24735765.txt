@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ultrasound
-TITLE: High intensity focused ultrasound technology, its scope and applications in therapy and drug delivery.
-PMID: 24735765
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24735765/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Ultrasonography is a safe, inexpensive and wide-spread diagnostic tool capable of producing real-time non-invasive images without significant biological effects. However, the propagation of higher energy, intensity and frequency ultrasound waves through living tissues can induce thermal, mechanical and chemical effects useful for a variety of therapeutic applications. With the recent development of clinically approved High Intensity Focused Ultrasound (HIFU) systems, therapeutic ultrasound is now a medical reality. Indeed, HIFU has been used for the thermal ablation of pathological lesions; localized, minimally invasive ultrasound-mediated drug delivery through the transient formation of pores on cell membranes; the temporary disruption of skin and the blood brain barrier; the ultrasound induced break-down of blood clots; and the targeted release of drugs using ultrasound and temperature sensitive drug carriers. This review seeks to engage the pharmaceutical research community by providing an overview on the biological effects of ultrasound as well as highlighting important therapeutic applications, current deficiencies and future directions.

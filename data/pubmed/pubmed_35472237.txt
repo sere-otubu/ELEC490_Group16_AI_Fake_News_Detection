@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Binge eating disorder
-TITLE: Emotion regulation in binge eating disorder.
-PMID: 35472237
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35472237/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A review of the literature on emotion regulation in binge eating disorder (BED) published both in English and Polish between 1990 and 2020. BED might be considered as an impulsive and compulsive disorder associated with altered reward sensitivity and food-related attentional bias. The growing body of research indicated that there were corticostriatal circuitry alterations in BED, comparable to those observed in substance abuse, including altered function of orbitofrontal, prefrontal and insular cortices with the striatum included. Negative emotions and deficits in their regulation play a significant role in BED. Processing of anger, anxiety and sadness appear to be particularly important in this disorder. Research results identified an increase in negative emotions preceding episodes of binge eating. However, there is still inconsistency when it comes to whether these episodes alleviate negative affect. Individuals with BED more often use non-adaptive emotion regulation strategies, such as rumination and suppression of negative sensations. Whereas adaptive ones, for instance, cognitive reappraisal, are used less often. Clinical implications, besides pharmacology, highlight the high effectiveness of enhanced cognitive behavioral therapy (CBT-E), dialectic-behavioral therapy (DBT) and psychodynamic therapy in the treatment of emotional dysregulation in BED. Further studies, including ecological momentary assessment (EMA), should focus on emotional changes related to the binge cycle and the identification of reinforcing factors of BED.

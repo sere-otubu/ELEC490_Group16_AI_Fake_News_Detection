@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Reproductive system
-TITLE: Effects of <i>N</i><sup>6</sup>-methyladenosine modification on the function of the female reproductive system.
-PMID: 37340962
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37340962/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In recent years, the rate of female infertility in China has been increasing, posing an urgent challenge to improve fertility. A healthy reproductive system is essential for successful reproduction, and <i>N</i><sup>6</sup>-methyladenosine (m<sup>6</sup>A) is the most abundant chemical modification in eukaryotes and plays a critical role in cellular processes. Recent studies have shown that m<sup>6</sup>A modifications also have a keying effect in various physiological and pathological processes in the female reproductive system, although their regulatory mechanisms and biological functions remain unclear. In this review, we first introduce the reversible regulatory mechanisms of m<sup>6</sup>A and its functions, discuss the role of m<sup>6</sup>A in female reproductive function and disorders of the reproductive system, and present recent advances in m<sup>6</sup>A detection technologies and methods. Our review provides new insights into the biological role of m<sup>6</sup>A and its potential application in the treatment of female reproductive disorders.

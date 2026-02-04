@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hyperthyroidism
-TITLE: [Diffuse nonautoimmune hyperthyroidism].
-PMID: 6985116
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6985116/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Diffuse non auto-immune hyperthyroidism is a rare entity, classically restricted to cases with hypersecretion of TSH, hCG or related molecule and to a few reports of proven paraneoplastic origin. The authors try to individualize another type of diffuse hyperthyroidism, previously considered to belong to Graves' disease, but without any sign of disimmunity. They present a familial form with several hyperthyroidic patients who showed neither change in humoral immunity nor immunological abnormality within the thyroid gland, even in those that were operated upon without prior antithyroid medication. Similar findings occurred within several series of hyperthyroid glands separately studied by the authors, using different techniques: histomorphometric quantification of lymphocytic infiltration, immunofluorescence in the search of IgG, IgA, IgM, C1 q, C3 and C9 fractions, or T-lymphocyte subsets. These techniques generally tend to yield positive results, that agree with an auto-immune pathogenesis, but totally negative findings do occur. This type of diffuse hyperthyroidism should be delineated from the common auto-immune type, and might be called toxic hyperplasia.

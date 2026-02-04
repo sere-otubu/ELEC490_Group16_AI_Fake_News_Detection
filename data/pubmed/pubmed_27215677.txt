@@ -1,8 +1,0 @@
-SEARCH_TOPIC: COPD
-TITLE: COPD and stroke: are systemic inflammation and oxidative stress the missing links?
-PMID: 27215677
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27215677/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chronic obstructive pulmonary disease (COPD) is characterized by progressive airflow limitation and loss of lung function, and is currently the third largest cause of death in the world. It is now well established that cardiovascular-related comorbidities such as stroke contribute to morbidity and mortality in COPD. The mechanisms linking COPD and stroke remain to be fully defined but are likely to be interconnected. The association between COPD and stroke may be largely dependent on shared risk factors such as aging and smoking, or the association of COPD with traditional stroke risk factors. In addition, we propose that COPD-related systemic inflammation and oxidative stress may play important roles by promoting cerebral vascular dysfunction and platelet hyperactivity. In this review, we briefly discuss the pathogenesis of COPD, acute exacerbations of COPD (AECOPD) and cardiovascular comorbidities associated with COPD, in particular stroke. We also highlight and discuss the potential mechanisms underpinning the link between COPD and stroke, with a particular focus on the roles of systemic inflammation and oxidative stress.

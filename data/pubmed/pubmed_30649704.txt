@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Life expectancy trends
-TITLE: Secular trends of mortality and dementia-free life expectancy over a 10-year period in France.
-PMID: 30649704
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30649704/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The aim of this paper was to investigate the evolution of mortality and life expectancy according to dementia in two French populations 10 years apart. Two different populations of subjects aged 65 or older included in PAQUID from 1988 to 1989 (n = 1342) and 3C from 1999 to 2000 (n = 1996) and initially not demented were followed over 10 years. Dementia was assessed using an algorithmic approach, and participants were considered to have dementia if they had an MMSE score < 24 AND a 4IADL score > 1. Illness-death models were used to compare mortality with and without dementia and to provide total life expectancy (LE), dementia-free life expectancy (DemFreeLE), life expectancy with dementia (DemLE), and survival with dementia. Mortality without dementia has decreased between the two populations among men [HR = 0.63 (0.49-0.81)] and women [HR = 0.67 (0.50-0.90)], whereas mortality with dementia has decreased for women only [HR = 0.59 (0.41-0.87)]. Total LE and DemFreeLE have increased between the 1990s and the 2000s populations (total LE: + 2.5 years; DemFreeLE: + 2.2 years); DemLE only slightly increased between the populations (DemLE: + 0.3 years). For survival with dementia, an increase in survival has been evidenced (mean survival: + 1.3 years) for women only. The improvement in DemFreeLE is promising. However, as the duration of life with dementia tends to increase for women, efforts to delay the onset of dementia should be reinforced.

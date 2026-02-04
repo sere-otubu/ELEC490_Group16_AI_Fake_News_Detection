@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21346501)
-    QUESTION: Can students' scores on preclerkship clinical performance examinations predict that they will fail a senior clinical performance examination?
-    CONTEXT: This study was designed to determine whether preclerkship performance examinations could accurately identify medical students at risk for failing a senior clinical performance examination (CPE).
-    ANSWER: Under the conditions of this study, preclerkship (year 2) CPEs strongly predicted medical students at risk for failing a senior CPE. This finding opens the opportunity for remediation of deficits prior to or during clerkships.
-    

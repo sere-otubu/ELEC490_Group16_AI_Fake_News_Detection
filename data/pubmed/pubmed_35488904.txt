@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Neurotransmitters
-TITLE: Role of neurotransmitters in the regulation of cutaneous wound healing.
-PMID: 35488904
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35488904/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Wound healing is a highly coordinated and dynamic process of tissue repair after injury. The global burden of disease associated with wounds, both acute and chronic, is a significantly rising health concern. Upon skin wounding, neurons have the ability to sense the disruption to mediate the release of neurotransmitters into the wound microenvironment. Serotonin that has long been recognised as a potential vasoconstrictor is now also being contemplated to play a role in re-epithelialisation of wounds. While the role of neuropeptides in stimulating diabetic wound healing is being increasingly emphasised, on the other hand, dopamine is being widely studied for its dual role in mediating both pro- and antiangiogenic effects at the site of the wounds. Similarly, epinephrine levels that are known to be elevated during stress is now recognised as a contributing factor towards delayed wound closure, thereby serving as an inhibitor of wound healing. Thus, each neurotransmitter regulates wound repair and their active regeneration in a typical way. Strengthening our understanding of the molecular pathways via which the neurotransmitter modulates the immune system to control wound healing can yield potential therapeutic measures. Further investigations regarding the safety, efficacy, and cost-effectiveness of these processes are a prerequisite for their possible translation into clinical trials.

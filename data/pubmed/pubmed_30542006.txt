@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fish oil benefits
-TITLE: Prevention of Fish Oil Oxidation.
-PMID: 30542006
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30542006/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The benefit of fish oil to health has been widely recognized because of the high contents of functional EPA (20:5n-3) and DHA (22:6n-3) in the oil; however, the application of fish oil has been limited by its high susceptibility to oxidation. This review reports the characteristics of EPA and DHA oxidation compared with those of other fatty acids such as linoleic acid (18:2n-6). In addition, effective approaches to protect against oxidation are discussed, focusing on the unique antioxidant potential of amine compounds. Finally, the exceptionally high oxidative stability of EPA and DHA in biological systems is discussed. Understanding the protective mechanism against EPA and DHA oxidation in such systems may be useful for the development of an effective antioxidant procedure for fish oil that is rich in EPA and DHA.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Thyroid gland
-TITLE: Imaging of the thyroid gland.
-PMID: 9023867
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9023867/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The thyroid gland is critical in regulating metabolic functions including cardiac rate and output, lipid catabolism, skeletal growth, and oxygen and heat production. Thus, patients with hormonally active thyroid abnormalities present with wide-ranging symptoms, requiring an understanding of the gland's hormonal functions. Radiological imaging assesses the pathophysiological affects of abnormal thyroid function as well as important morphological features. Nuclear scintigraphy provides functional information about the gland, whereas cross-sectional imaging-including ultrasound, CT, and MR-provide adjunctive anatomic information. These modalities also provide information about related structures in the neck. The embryology, anatomy, and physiology of the thyroid are discussed; congenital, autoimmune, inflammatory, metabolic, and neoplastic diseases are reviewed; and the diagnostic utility of radiological imaging is addressed.

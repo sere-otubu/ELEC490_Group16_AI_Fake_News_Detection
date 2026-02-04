@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Adrenaline
-TITLE: [Self-administration of adrenaline aerosol in anaphylactic reactions after insect stings].
-PMID: 8759382
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8759382/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A serious allergic reaction after an insect sting is wellknown source for concern and anxiety. Patients with known hypersensitivity to insect stings are usually equipped with an adrenaline self-injection kit by an allergologist. In Denmark a new device for self-medication of adrenaline was approved in 1994, the adrenaline aerosol spray, Adrenalin Medihaler. The article is based on former studies and experiences, related to the usage of an adrenaline aerosol spray for the treatment of anaphylactic reactions after an insect sting. We conclude that adrenaline aerosol treatment should play an important role as emergency treatment for anaphylactic reactions after insect stings, and in most cases can replace the use of adrenalin self-injection kits. Adrenaline aerosol self-treatment could have an important beneficial effect helping to avoid exacerbation of the initial symptoms after insect venom exposition, such as bronchial obstruction and laryngeal oedema.

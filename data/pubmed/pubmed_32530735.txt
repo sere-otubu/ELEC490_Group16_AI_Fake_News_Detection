@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mumps
-TITLE: Close the gap for routine mumps vaccination in Japan.
-PMID: 32530735
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32530735/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Mumps is a vaccine-preventable disease. Because the mumps vaccine can cause aseptic meningitis in rare cases, this vaccine is not routine in Japan. This has led to low vaccine coverage and severe disease burden in Japan. The present review summarizes mumps epidemiology and vaccination and discusses effective future strategies to mitigate the current disease burden of mumps in Japan. Although a recent study reported that mumps vaccine coverage rates are improving in Japan, current coverage rates are far below the optimal rate to suppress the ongoing epidemic, which has caused an average annual financial loss of 85 billion JPY between 2000 and 2016. Recent reports have demonstrated a much lower incidence of vaccine-induced aseptic meningitis in newly developed vaccines, especially when administered at 1 year of age. Cost-effectiveness studies suggest that routinization of the currently distributed domestic vaccine would be highly cost-effective. In addition, questionnaire surveillance data suggest that the majority of the Japanese population accepts the nominal risk of the vaccine when the proper information is provided. Finally, there are some successful programs in Japan that have attained high vaccine coverage rates with financial support from local governments. Taken together, these data suggest that the mumps vaccine should be immediately included in routine vaccines in Japan.

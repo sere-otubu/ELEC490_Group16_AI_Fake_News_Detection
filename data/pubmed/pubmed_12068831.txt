@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12068831)
-    QUESTION: Do nontriploid partial hydatidiform moles exist?
-    CONTEXT: To study whether nontriploid partial hydatidiform moles truly exist.
-    ANSWER: Nontriploid partial moles probably do not exist: careful reevaluation of putative specimens will probably uncover pathologic or ploid errors in almost all cases.
-    

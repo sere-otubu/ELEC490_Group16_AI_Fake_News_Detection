@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Down syndrome
-TITLE: Modelling Down syndrome.
-PMID: 19026279
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19026279/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Animal models are extensively used in genetics, neuroscience and biomedical research. Recent studies illustrate the usefulness and the challenges of research utilising genetically engineered mice to explore the developmental biology of Down syndrome. These studies highlight many of the issues at the centre of what we understand about Down syndrome, and may one day point to useful ways to improve quality of life for people living with Down syndrome.

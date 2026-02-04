@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Conjunctivitis
-TITLE: Conjunctivitis: A review.
-PMID: 39499843
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39499843/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-General practitioners (GPs) face the challenge of diagnosing conjunctivitis accurately and confidently. Conjunctivitis and red eye are common presentations that confer diagnostic uncertainty. GPs are pivotal in diagnosing and managing conjunctivitis-like symptoms, making them a critical first port of call for patients. Accurately identifying and treating this common eye infection can help ensure the best possible outcomes. This article presents an overview of conjunctivitis, exploring its causes and how to accurately assess and diagnose. We also discuss how to safely refer patients for investigation and provide appropriate safety netting. Conjunctivitis can be secondary to a range of conditions, commonly viral, bacterial and allergic pathogens. It tends to be a self-limiting disease; however, symptoms might persist for up to three weeks. Accurate clinical diagnosis for conjunctivitis is difficult, and thus it can be useful to send a swab for polymerase chain reaction and culture to confirm the diagnosis.

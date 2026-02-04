@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 11053064)
-    QUESTION: Fatigue in primary Sjögren's syndrome: is there a link with the fibromyalgia syndrome?
-    CONTEXT: To determine whether fibromyalgia (FM) is more common in patients with primary Sjögren's syndrome (pSS) who complain of fatigue. The association and prevalence of fatigue and FM was recorded in a group of patients with pSS and a control group of lupus patients, a subset of whom had secondary Sjögren's syndrome (sSS).
-    ANSWER: The results show that fatigue in patients with pSS and sSS is not due to the coexistence of FM in most cases. A lower incidence in the United Kingdom of FM in patients with pSS was found than has been previously reported.
-    

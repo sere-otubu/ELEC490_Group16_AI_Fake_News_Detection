@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Health literacy
-TITLE: Health Literacy in Adult Oncology: An Integrative Review.
-PMID: 31845912
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31845912/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Patients with cancer face high expectations for performing health literacy activities necessary for self-management and decision making, but only 12% of adults in the United States are proficient in health literacy. This review explores evidence regarding what is known about functional, interactive, and critical health literacy in adult oncology populations. The review was conducted by searching extensively in the CINAHL® Plus database. Of 614 articles retrieved from the literature search, 22 were included in the final sample. Most were cross-sectional, descriptive, correlational studies. Health literacy research in the United States focuses primarily on functional health literacy, but studies that include interactive and/or critical health literacy indicate their applicability in adult oncology populations. Additional research is needed to clarify the role of health literacy in cancer care to develop effective interventions that facilitate self-management and decision making.

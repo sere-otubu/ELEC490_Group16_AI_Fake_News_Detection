@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hepatitis A
-TITLE: Hepatitis A.
-PMID: 33554785
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33554785/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hepatitis A is a vaccine preventable liver infection caused by the hepatitis A virus. The occupational health nurse should be aware of the signs and symptoms of the virus, educate workers about the infection, and recommend immunization for workers traveling or working in high-risk areas for hepatitis A.

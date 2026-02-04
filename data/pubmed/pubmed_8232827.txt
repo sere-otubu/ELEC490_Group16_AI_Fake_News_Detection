@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mood stabilizers
-TITLE: New developments in the use of anticonvulsants as mood stabilizers.
-PMID: 8232827
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8232827/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There is increasing recognition that lithium is inadequate in the treatment of up to 50% of bipolar patients. In addition to subgroups that are nonresponsive from the outset, loss of efficacy (tolerance) and discontinuation-induced refractoriness have recently been observed. The anticonvulsants carbamazepine and valproate are effective alternative or adjunctive treatments, but tolerance can also occur during their long-term prophylactic use. New treatment algorithms for this loss of efficacy, including combination therapies, require further systematic study. Preliminary data suggesting that some patients with extremely rapid and chaotic mood fluctuations may respond to the L-type calcium channel blocker nimodipine are presented, and the theoretical implications discussed.

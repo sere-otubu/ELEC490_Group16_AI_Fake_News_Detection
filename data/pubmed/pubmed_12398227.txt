@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic disorders
-TITLE: Genetic disorders in premature ovarian failure.
-PMID: 12398227
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12398227/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review presents the genetic disorders associated with premature ovarian failure (POF), obtained by Medline, the Cochrane Library and hand searches of pertinent references of English literature on POF and genetic determinants cited between the year 1966 and February 2002. X monosomy or X deletions and translocations are known to be responsible for POF. Turner's syndrome, as a phenotype associated with complete or partial monosomy X, is linked to ovarian failure. Among heterozygous carriers of the fragile X mutation, POF was noted as an unexpected phenotype in the early 1990s. Autosomal disorders such as mutations of the phosphomannomutase 2 (PMM2) gene, the galactose-1-phosphate uridyltransferase (GALT) gene, the FSH receptor (FSHR) gene, chromosome 3q containing the Blepharophimosis gene and the autoimmune regulator (AIRE) gene, responsible for polyendocrinopathy-candidiasis-ectodermal dystrophy, have been identified in patients with POF. In conclusion, the relationship between genetic disorders and POF is clearly demonstrated in this review. Therefore, in the case of families affected by POF a thorough screening, including cytogenetic analysis, should be performed.

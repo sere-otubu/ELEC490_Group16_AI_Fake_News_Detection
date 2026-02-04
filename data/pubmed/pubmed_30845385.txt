@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Laxatives
-TITLE: [Chronic Functional Constipation].
-PMID: 30845385
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30845385/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Constipation is a common functional problem of the digestive system and may occur secondary to diet, drugs, endocrine diseases, metabolic diseases, neurological diseases, psychiatric disorders, or gastrointestinal obstruction. When there is no secondary cause, constipation is diagnosed as functional constipation. The first steps that should be taken to relieve symptoms are diet and lifestyle modifications, and if unsuccessful, laxative therapy should be initiated. If a patient does not respond to laxative therapy, diagnostic anorectal physiological tests are performed, though they are not routinely recommended. However, these tests may be considered earlier in patients strongly suspected to have a defecatory disorder. The revised guideline on the diagnosis and treatment of chronic constipation will undoubtedly aid the individualized management of chronic constipation in clinical practice.

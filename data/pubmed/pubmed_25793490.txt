@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mammography
-TITLE: Barriers to screening mammography.
-PMID: 25793490
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25793490/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Breast cancer (BRCA) is the second most commonly diagnosed cancer among women in the USA, and mammography is an effective means for the early detection of BRCA. Identifying the barriers to screening mammography can inform research, policy and practice aiming to increase mammography adherence. A literature review was conducted to determine common barriers to screening mammography adherence. PsycINFO and PubMed databases were searched to identify studies published between 2000 and 2012 that examined barriers associated with reduced mammography adherence. Three thematic groups of barriers, based on social ecology, were identified from the literature: healthcare system-level, social and individual-level barriers. Researchers must consider screening behaviour in context and, therefore, should simultaneously consider each level of barriers when attempting to understand screening behaviour and create interventions to increase mammography adherence.

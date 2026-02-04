@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Body temperature regulation
-TITLE: Body temperature variability (Part 2): masking influences of body temperature variability and a review of body temperature variability in disease.
-PMID: 17397267
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17397267/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This is the second of a two-part review on body temperature variability. Part 1 discussed historical and modern findings on average body temperatures. It also discussed endogenous sources of temperature variability, including variations caused by site of measurement; circadian, menstrual, and annual biological rhythms; fitness; and aging. Part 2 reviews the effects of exogenous masking agents - external factors in the environment, diet, or lifestyle that can be a significant source of body temperature variability. Body temperature variability findings in disease states are also reviewed.

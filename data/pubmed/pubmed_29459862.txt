@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immunotherapy
-TITLE: Immunotherapy for Dogs: Running Behind Humans.
-PMID: 29459862
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29459862/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A number of excellent reviews on the potential of canine cancer immunotherapy are available, but many extrapolate from observations in humans when in fact only very few immunotherapies have been developed for canines that have shown efficacy in well-designed studies. Pharmaceutical and biotech companies are aware that the market for more expensive immunotherapies in canines is limited resulting in limited funding for clinical trials. However, dogs and other pets deserve access to this new form of cancer therapy. The purpose of this brief review is to summarize the current status of available immunotherapies for dogs and their near-term prospects, provided we can effectively translate discoveries and progress in humans to canines.

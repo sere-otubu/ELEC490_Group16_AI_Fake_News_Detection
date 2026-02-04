@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Keto diet
-TITLE: Ketogenic diet.
-PMID: 23419562
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23419562/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-About one third of patients with epilepsy are pharmacoresistent. For a subgroup of this population, the ketogenic diet can be highly efficacious and should be considered early. This review discusses the different types of ketogenic diet, proposed mechanism of actions and its evidence for use in children and adults with both generalized and focal epilepsies where surgery is not feasible. In addition we discuss a practical approach to diet initiation, maintenance and monitoring for side effects. We also summarize the emerging evidence for the use of ketogenic diet in a broad range of neurological disorders.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Parkinsons disease
-TITLE: Gastrointestinal dysfunction in Parkinson's disease.
-PMID: 25987282
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25987282/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Our understanding of dysfunction of the gastrointestinal system in patients with Parkinson's disease has increased substantially in the past decade. The entire gastrointestinal tract is affected in these patients, causing complications that range from oral issues, including drooling and swallowing problems, to delays in gastric emptying and constipation. Additionally, small intestinal bacterial overgrowth and Helicobacter pylori infection affect motor fluctuations by interfering with the absorption of antiparkinsonian drugs. The multifaceted role of the gastrointestinal system in Parkinson's disease necessitates a specific and detailed assessment and treatment plan. The presence of pervasive α-synuclein deposition in the gastrointestinal tract strongly implicates this system in the pathogenesis of Parkinson's disease. Future studies elucidating the role of the gastrointestinal tract in the pathological progression of Parkinson's disease might hold potential for early disease detection and development of neuroprotective approaches.

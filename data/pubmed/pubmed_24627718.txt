@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urinalysis
-TITLE: Preanalytical requirements of urinalysis.
-PMID: 24627718
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24627718/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Urine may be a waste product, but it contains an enormous amount of information. Well-standardized procedures for collection, transport, sample preparation and analysis should become the basis of an effective diagnostic strategy for urinalysis. As reproducibility of urinalysis has been greatly improved due to recent technological progress, preanalytical requirements of urinalysis have gained importance and have become stricter. Since the patients themselves often sample urine specimens, urinalysis is very susceptible to preanalytical issues. Various sampling methods and inappropriate specimen transport can cause important preanalytical errors. The use of preservatives may be helpful for particular analytes. Unfortunately, a universal preservative that allows a complete urinalysis does not (yet) exist. The preanalytical aspects are also of major importance for newer applications (e.g. metabolomics). The present review deals with the current preanalytical problems and requirements for the most common urinary analytes.

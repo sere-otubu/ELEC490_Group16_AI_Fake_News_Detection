@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Posture correction
-TITLE: Equine back rehabilitation.
-PMID: 10218254
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10218254/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This article introduces the importance of considering all related physical findings, evaluating the whole horse and determining the root cause in order to achieve the best treatment results, prevent recurrence, and return the patient to full function. The roles of shoeing, turnout, teeth, training aids and devices, compensatory lameness, working surface (footing), longing, ponying, hot walkers, and swimming are discussed in relationship to back dysfunction and rehabilitation. Postural analysis and measures for muscle and postural corrections are also presented. Ground and under saddle rehabilitative exercises are explained as to value, concept, and methodology. Rehabilitative modalities including stretching, massage, magnetic therapy, heat, and cold are explored as adjunctive therapy.

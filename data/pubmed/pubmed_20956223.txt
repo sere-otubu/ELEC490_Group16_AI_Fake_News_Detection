@@ -1,8 +1,0 @@
-SEARCH_TOPIC: CPR guidelines
-TITLE: Part 7: CPR techniques and devices: 2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.
-PMID: 20956223
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20956223/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A variety of CPR techniques and devices may improve hemodynamics or short-term survival when used by well-trained providers in selected patients. All of these techniques and devices have the potential to delay chest compressions and defibrillation. In order to prevent delays and maximize efficiency, initial training, ongoing monitoring, and retraining programs should be offered to providers on a frequent and ongoing basis. To date, no adjunct has consistently been shown to be superior to standard conventional (manual) CPR for out-of-hospital basic life support, and no device other than a defibrillator has consistently improved long-term survival from out-of-hospital cardiac arrest.

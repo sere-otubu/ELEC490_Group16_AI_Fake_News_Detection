@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Holistic medicine
-TITLE: Holistic medicine.
-PMID: 7794137
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7794137/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-When the author completed medical school in 1981, the importance of psychoneuroimmunology, treating patients as a 'whole person', and experiencing meditation as a form of stress management, were not covered in the medical curriculum as they are now. This article gives a brief overview of these topics and presents several case histories and studies to illustrate the benefits of a holistic approach.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 11601252)
-    QUESTION: Is endothelin-1 an aggravating factor in the development of acute pancreatitis?
-    CONTEXT: We have reported previously that cerulein-induced edematous pancreatitis would transform into hemorrhagic pancreatitis by administration of endothelin-1 in rats. In the present study, we tried to protect rat model from developing into hemorrhagic pancreatitis with BQ123 (an ETA receptor antagonist).
-    ANSWER: These results suggest that endothelin-1 should play a role in aggravating the development of acute hemorrhagic pancreatitis, through its action on the pancreatic microcirculation.
-    

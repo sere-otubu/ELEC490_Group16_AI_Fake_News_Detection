@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dental implants
-TITLE: Dental implants: A review.
-PMID: 26995275
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26995275/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A high number of patients have one or more missing tooth and it is estimated that one in four American subjects over the age of 74 have lost all their natural teeth. Many options exist to replace missing teeth but dental implants have become one of the most used biomaterial to replace one (or more) missing tooth over the last decades. Contemporary dental implants made with titanium have been proven safe and effective in large series of patients. This review considers the main historical facts concerned with dental implants and present the different critical factors that will ensure a good osseo-integration that will ensure a stable prosthesis anchorage.

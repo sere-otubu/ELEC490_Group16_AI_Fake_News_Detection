@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cardiovascular fitness
-TITLE: Sports activities and cardiovascular system change.
-PMID: 38165749
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38165749/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sports activity is generally considered to be beneficial to health. The World Health Organization (WHO) recommends physical activity as part of a healthy lifestyle. Sports activities significantly affect the cardiovascular system. A number of studies show that they significantly reduce the risk of cardiovascular disease as well as decrease cardiovascular mortality. This review discusses changes in various cardiovascular parameters in athletes - vagotonia/bradycardia, hypertrophy of heart, ECG changes, blood pressure, and variability of cardiovascular parameters. Because of its relationship to the cardiovascular system, VO2max, which is widely used as an indicator of cardiorespiratory fitness, is also discussed. The review concludes with a discussion of reactive oxygen species (ROS) and oxidative stress, particularly in relation to changes in the cardiovascular system in athletes. The review appropriately summarizes the above issues and points out some new implications.

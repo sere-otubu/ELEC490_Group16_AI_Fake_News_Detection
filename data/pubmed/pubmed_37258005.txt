@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urinalysis
-TITLE: Urinalysis: Interpretation and Clinical Correlations.
-PMID: 37258005
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37258005/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Urinalysis is a widely used diagnostic tool to assist clinicians in determining the etiology of various acute or chronic pathologies. Primary care, general internal medicine, and family medicine clinicians should be adept at identifying indications for urinalyses, in addition to appropriately interpreting their results. In this article, we provide an overview of urinalysis for non-nephrologists.

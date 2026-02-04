@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Polycystic ovary syndrome
-TITLE: Polycystic ovary syndrome.
-PMID: 11033690
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11033690/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Polycystic ovary syndrome is a complex endocrine disorder of hypothalamic-pituitary dysfunction that presents with anovulation, hirsutism and infertility. Women with PCOS have increased risk for developing NIDDM, dyslipidemia and premature cardiovascular disease. Because of its vague presentation and potential for numerous complications, PCOS should be evaluated carefully. Unfortunately, there is no cure for PCOS, and the treatment has numerous limitations. Weight loss in an obese patient may greatly improve the patient's response to treatment and should be encouraged.

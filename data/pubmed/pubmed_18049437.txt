@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18049437)
-    QUESTION: Is there any relationship between streptococcal infection and multiple sclerosis?
-    CONTEXT: Multiple sclerosis (MS) is an immune-mediated inflammatory demyelinating disease of uncertain etiology. Although the mechanisms of inducting autoimmunity by some of the infectious agents have been investigated, there is not yet enough research on streptococcal infections.MATERIAL/
-    ANSWER: These findings indicate that a relationship between multiple sclerosis and streptococcal infections may exist, but to acquire a better understanding of the role of group A streptococci in the pathogenesis of multiple sclerosis, more studies with animal models are necessary.
-    

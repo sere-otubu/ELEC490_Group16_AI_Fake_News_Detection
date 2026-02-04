@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Digital detox
-TITLE: Digital detox: exploring the impact of cybersecurity fatigue on employee productivity and mental health.
-PMID: 39998759
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39998759/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This study investigates the growing phenomenon of cybersecurity fatigue and its implications for employee productivity and mental health in the high-demand sectors of information technology (IT), finance, healthcare and education. Utilizing a quantitative research methodology, the study surveyed 351 employees from these industries to analyze the relationships between cybersecurity fatigue, work efficiency, and mental health indicators, including stress and anxiety. The findings highlight cybersecurity fatigue as a significant factor contributing to burnout, reduced productivity, and increased psychological strain. Structural Equation Modeling (SEM) demonstrates the moderating effects of digital detox initiatives and mental health support strategies in mitigating fatigue and improving employee well-being and organizational performance. This research addresses a critical gap by focusing on the human dimensions of cybersecurity management and offers practical recommendations for simplifying protocols and fostering resilience. The study provides actionable insights for organizations operating under stringent cybersecurity requirements, enabling them to enhance employee satisfaction and performance.

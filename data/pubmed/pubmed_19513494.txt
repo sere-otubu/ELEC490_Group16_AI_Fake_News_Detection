@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Inhalers
-TITLE: Not all asthma inhalers are the same: factors to consider when prescribing an inhaler.
-PMID: 19513494
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19513494/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-National and international asthma guidelines stress that before making changes to patients' therapy their compliance and inhaler technique should be checked. This review addresses these issues and highlights the differences between inhalers in terms of inhaler technique, individual ability/competence, and ease of use. The advantages and disadvantages of metered-dose inhalers (MDIs) and dry powder inhalers (DPIs) are presented. The reformulation of beclometasone MDIs is discussed since there has been some confusion over prescribing and Regulatory Authorities have recommended that these should be prescribed by brand name and not generically. This review should provide prescribers with an update to help them appreciate the differences between inhalers thereby optimising each patient's inhaled treatment.

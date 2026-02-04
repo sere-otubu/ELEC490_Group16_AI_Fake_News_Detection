@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22302658)
-    QUESTION: Does limb-salvage surgery offer patients better quality of life and functional capacity than amputation?
-    CONTEXT: Patients with aggressive lower extremity musculoskeletal tumors may be candidates for either above-knee amputation or limb-salvage surgery. However, the subjective and objective benefits of limb-salvage surgery compared with amputation are not fully clear.QUESTIONS/
-    ANSWER: These data suggest that limb-salvage surgery offers better gait efficiency and return to normal living compared with above-knee amputation, but does not improve the patient's perception of quality of life.
-    

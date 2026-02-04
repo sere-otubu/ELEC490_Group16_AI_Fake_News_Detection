@@ -1,8 +1,0 @@
-SEARCH_TOPIC: COPD
-TITLE: Understanding COPD-overlap syndromes.
-PMID: 28282995
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28282995/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chronic obstructive pulmonary disease accounts for a large burden of lung disease. It can 'overlap' with other respiratory diseases including bronchiectasis, fibrosis and obstructive sleep apnea (OSA). While COPD alone confers morbidity and mortality, common features with contrasting clinical outcomes can occur in COPD 'overlap syndromes'. Areas covered: Given the large degree of heterogeneity in COPD, individual variation to treatment is adopted based on its observed phenotype, which in turn overlaps with features of other respiratory disease states such as asthma. This is coined asthma-COPD overlap syndrome ('ACOS'). Other examples of such overlapping clinical states include bronchiectasis-COPD ('BCOS'), fibrosis-COPD ('FCOS') and OSA-COPD ('OCOS'). The objective of this review is to highlight similarities and differences between the COPD-overlap syndromes in terms of risk factors, pathophysiology, diagnosis and potential treatment differences. Expert commentary: As a consequence of COPD overlap syndromes, a transition from the traditional 'one size fits all' treatment approach is necessary. Greater treatment stratification according to clinical phenotype using a precision medicine approach is now required. In this light, it is important to recognize and differentiate COPD overlap syndromes as distinct disease states compared to individual diseases such as asthma, COPD, fibrosis or bronchiectasis.

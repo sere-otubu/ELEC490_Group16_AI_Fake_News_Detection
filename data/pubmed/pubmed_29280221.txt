@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Polycystic ovary syndrome
-TITLE: What is adolescent polycystic ovary syndrome?
-PMID: 29280221
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29280221/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The diagnostic criteria for adolescent polycystic ovary syndrome (PCOS) has been derived from adult criteria, which makes diagnosis challenging as criteria include normal physiological events that occur during puberty such as acne, hirsutism, menstrual irregularities, high androgen levels and polycystic ovarian morphology on pelvic ultrasound. The only criteria that applies from the adult criteria is exclusion of other conditions that mimic PCOS. Clinical findings consistent with hyperandrogenaemia during adolescence include inflammatory acne, hirsutism, alopecia and/or menstrual irregularities, which are severe and present 2 years after menarche. The measurement of androgen levels during adolescence should take into account age, puberty, type of androgen measured, assay used and diurnal rhythm. Multiple measurements are useful to demonstrate hyperandrogenaemia. The combination, severity and persistence of the hyperandrogenic symptoms and hyperandrogenaemia in girls 2 years or more post-menarche support the diagnosis of adolescent PCOS. Adolescent girls with these findings should be followed up into adulthood.

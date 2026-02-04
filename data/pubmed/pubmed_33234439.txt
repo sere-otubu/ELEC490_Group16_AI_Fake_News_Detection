@@ -1,8 +1,0 @@
-SEARCH_TOPIC: COVID-19
-TITLE: COVID-19 Antibody Tests: A Valuable Public Health Tool with Limited Relevance to Individuals.
-PMID: 33234439
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33234439/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Antibody tests for detecting past infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) have many uses for public health decision making, but demand has largely come from individual consumers. This review focuses on the individual relevance of antibody tests: their accuracy in detecting prior infection, what past SARS-CoV-2 infection can currently infer about future immunity or possible medical sequelae, and the potential future importance of antibody tests for vaccine selection and medical screening. Given uncertainty about the antibody tests (quality, accuracy level, positive predictive value) and what those tests might indicate immunologically (durability of antibodies and necessity for protection from reinfection), seropositive test results should not be used to inform individual decision making, and antibody testing should remain a tool of public health at this time.

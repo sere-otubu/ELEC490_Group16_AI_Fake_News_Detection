@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Narcolepsy
-TITLE: Narcolepsy: Diagnosis and management.
-PMID: 30526757
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30526757/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Narcolepsy is a chronic disorder of hypersomnia that can have a significant impact on quality of life and livelihood. However, with appropriate treatment, its symptoms are manageable, and a satisfying personal, social, and professional life can still be enjoyed. Greater awareness of the disorder promotes accurate and efficient diagnosis. With ongoing research into its underlying biology, better treatments for narcolepsy will inevitably become available.

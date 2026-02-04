@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antisocial personality disorder
-TITLE: The endocannabinoid system in borderline personality disorder and antisocial personality disorder: A scoping review.
-PMID: 35575169
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35575169/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Individuals with borderline personality disorder (BPD) or antisocial personality disorder (ASPD) are overrepresented in forensic settings. Yet, despite the burden these disorders place on healthcare and criminal justice systems, there remains a lack of evidence-based pharmacological treatments. Epidemiological data have shown that comorbid cannabis use disorders are common in BPD and ASPD. ∆<sup>9</sup> -Tetrahydrocannabinol, the primary psychoactive constituent of cannabis, is an exogenous cannabinoid that stimulates the endocannabinoid system (ECS). Hence, an investigation of the ECS in these conditions is warranted. This scoping review screened 105 records and summarized the extant research on the ECS in ASPD (n = 69) and BPD (n = 61) participants. Preliminary results suggest that alterations of the ECS may be present in these disorders. Although research examining the ECS in personality disorders is still in its infancy, more research is warranted given initial positive findings.

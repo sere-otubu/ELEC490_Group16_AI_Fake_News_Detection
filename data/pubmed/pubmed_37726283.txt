@@ -1,8 +1,0 @@
-SEARCH_TOPIC: mRNA vaccines
-TITLE: mRNA vaccines in disease prevention and treatment.
-PMID: 37726283
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37726283/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-mRNA vaccines have emerged as highly effective strategies in the prophylaxis and treatment of diseases, thanks largely although not totally to their extraordinary performance in recent years against the worldwide plague COVID-19. The huge superiority of mRNA vaccines regarding their efficacy, safety, and large-scale manufacture encourages pharmaceutical industries and biotechnology companies to expand their application to a diverse array of diseases, despite the nonnegligible problems in design, fabrication, and mode of administration. This review delves into the technical underpinnings of mRNA vaccines, covering mRNA design, synthesis, delivery, and adjuvant technologies. Moreover, this review presents a systematic retrospective analysis in a logical and well-organized manner, shedding light on representative mRNA vaccines employed in various diseases. The scope extends across infectious diseases, cancers, immunological diseases, tissue damages, and rare diseases, showcasing the versatility and potential of mRNA vaccines in diverse therapeutic areas. Furthermore, this review engages in a prospective discussion regarding the current challenge and potential direction for the advancement and utilization of mRNA vaccines. Overall, this comprehensive review serves as a valuable resource for researchers, clinicians, and industry professionals, providing a comprehensive understanding of the technical aspects, historical context, and future prospects of mRNA vaccines in the fight against various diseases.

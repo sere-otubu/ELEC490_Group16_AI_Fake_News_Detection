@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19575307)
-    QUESTION: Does glomerular hyperfiltration in pregnancy damage the kidney in women with more parities?
-    CONTEXT: We aimed to investigate the glomerular hyperfiltration due to pregnancy in women with more parities.
-    ANSWER: In our study, we suggest that glomerular hyperfiltration due to pregnancy does not have adverse effects on kidney in women with more parities. Pregnancy may have possible protective mechanisms for kidney against adverse effects of glomerular hyperfiltration.
-    

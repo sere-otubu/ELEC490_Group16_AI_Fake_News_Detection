@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gestational Diabetes
-TITLE: Association Between Gestational Diabetes and Mental Illness.
-PMID: 32792108
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32792108/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The rates of both gestational diabetes mellitus (GDM) and mental illness in pregnancy are rising. There is an association between type 2 diabetes and major depressive disorder, anxiety and schizophrenia, thus there is a need for greater understanding of the relationship between GDM and mental illness. This review suggests that there is a bidirectional and complex relationship between antenatal depression, gestational diabetes and postpartum depression. The combined effect of both a history of depression and gestational diabetes significantly increases the risk of postpartum depression. There is an association between severe mental illness and GDM; however, it is strongly mediated by antipsychotic medications and psychosocial factors, in addition to the disease itself. Medication has a major role in treating mental illness during pregnancy and is not directly linked with GDM in either depression or psychosis. Health-care providers should be mindful of the association between GDM and mental illness to appropriately screen and treat both disorders.

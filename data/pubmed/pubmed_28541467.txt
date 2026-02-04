@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Epidemiology basics
-TITLE: Global epidemiology of CTX-M β-lactamases: temporal and geographical shifts in genotype.
-PMID: 28541467
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28541467/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Globally, rates of ESBL-producing Enterobacteriaceae are rising. We undertook a literature review, and present the temporal trends in blaCTX-M epidemiology, showing that blaCTX-M-15 and blaCTX-M-14 have displaced other genotypes in many parts of the world. Explanations for these changes can be attributed to: (i) horizontal gene transfer (HGT) of plasmids; (ii) successful Escherichia coli clones; (iii) ESBLs in food animals; (iv) the natural environment; and (v) human migration and access to basic sanitation. We also provide explanations for the changing epidemiology of blaCTX-M-2 and blaCTX-M-27. Modifiable anthropogenic factors, such as poor access to basic sanitary facilities, encourage the spread of blaCTX-M and other antimicrobial resistance (AMR) genes, such as blaNDM, blaKPC and mcr-1. We provide further justification for novel preventative and interventional strategies to reduce transmission of these AMR genes.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Doctor patient communication
-TITLE: Deciding for others.
-PMID: 11649884
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11649884/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Decision making for incompetent elderly people is an increasingly serious issue for American society. The decision-making processes we choose will reflect choices among a number of ethical principles--those specifying the purpose of substituted judgment, those guiding the surrogate decision maker, and those used in choosing the surrogate--and depends as well on the way we construe the concept of decision-making competence.

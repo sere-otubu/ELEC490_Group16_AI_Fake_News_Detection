@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Shingles
-TITLE: Shingles.
-PMID: 26405186
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26405186/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-As part of an adult immunization program, the occupational and environmental health nurse should consider offering the shingles vaccine for employees aged 60 years and above.

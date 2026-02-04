@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18801797)
-    QUESTION: Household and food shopping environments: do they play a role in socioeconomic inequalities in fruit and vegetable consumption?
-    CONTEXT: Fruit and vegetables are protective of a number of chronic diseases; however, their intakes have been shown to vary by socioeconomic position (SEP). Household and food shopping environmental factors are thought to contribute to these differences. To determine whether household and food shopping environmental factors are associated with fruit and vegetable (FV) intakes, and contribute to socioeconomic inequalities in FV consumption.
-    ANSWER: Improving access to FV in the household and food shopping environments will only make a small contribution to improving population consumption levels, and may only have a limited effect in reducing socioeconomic inequalities in their consumption.
-    

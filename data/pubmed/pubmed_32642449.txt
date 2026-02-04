@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Prenatal testing
-TITLE: Noninvasive prenatal testing aids identification of tetrasomy 18p: A case report.
-PMID: 32642449
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32642449/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Tetrasomy 18p syndrome (Online Mendelian Inheritance in Man 614290) is a rare chromosomal disorder that is seen in approximately 1 in every 180,000 live births. It is caused by the presence of isochromosome 18p, which is a supernumerary marker composed of two copies of the short arms of chromosome 18. Isochromosome 18p is one of the most commonly observed isochromosomes. We report tetrasomy 18p syndrome diagnosed prenatally after noninvasive prenatal testing (NIPT) was positive for trisomy 18. Tetrasomy 18p was finally diagnosed by G-banding and fluorescence <i>in situ</i> hybridization of chromosome 18p, before invasive confirmatory testing the karyotype findings by NIPT showed an increase in the DNA fragments from chromosome 18p, indicating duplication of chromosome 18p. NIPT can detect not only trisomy 13, 18, and 21, but also structural chromosomal anomalies, such as deletions and duplications. An NIPT report "positive for trisomy 18" indicates the possibility of tetrasomy 18p, and detailed analysis of NIPT data can reveal subchromosomal copy number variations, to a certain extent, before definitive diagnostic testing.

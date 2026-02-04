@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Muscular system
-TITLE: The roles of dystroglycan in the nervous system: insights from animal models of muscular dystrophy.
-PMID: 30578246
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30578246/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Dystroglycan is a cell membrane protein that binds to the extracellular matrix in a variety of mammalian tissues. The α-subunit of dystroglycan (αDG) is heavily glycosylated, including a special O-mannosyl glycoepitope, relying upon this unique glycosylation to bind its matrix ligands. A distinct group of muscular dystrophies results from specific hypoglycosylation of αDG, and they are frequently associated with central nervous system involvement, ranging from profound brain malformation to intellectual disability without evident morphological defects. There is an expanding literature addressing the function of αDG in the nervous system, with recent reports demonstrating important roles in brain development and in the maintenance of neuronal synapses. Much of these data are derived from an increasingly rich array of experimental animal models. This Review aims to synthesize the information from such diverse models, formulating an up-to-date understanding about the various functions of αDG in neurons and glia of the central and peripheral nervous systems. Where possible, we integrate these data with our knowledge of the human disorders to promote translation from basic mechanistic findings to clinical therapies that take the neural phenotypes into account.

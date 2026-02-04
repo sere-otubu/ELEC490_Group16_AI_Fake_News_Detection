@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21558951)
-    QUESTION: Are there effects of intrauterine cocaine exposure on delinquency during early adolescence?
-    CONTEXT: To ascertain whether level of intrauterine cocaine exposure (IUCE) is associated with early adolescent delinquent behavior, after accounting for prenatal exposures to other psychoactive substances and relevant psychosocial factors.
-    ANSWER: In this cohort, prospectively ascertained prenatal exposure to cigarettes and childhood exposure to violence are associated with self-reported delinquent behaviors during early adolescence. Contrary to initial popular predictions, intrauterine cocaine is not a strong predictor of adolescent delinquent behaviors in this cohort.
-    

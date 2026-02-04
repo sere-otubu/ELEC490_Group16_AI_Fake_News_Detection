@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Colonoscopy
-TITLE: Adverse events related to colonoscopy: Global trends and future challenges.
-PMID: 30670909
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30670909/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Colonoscopy is a widely used method for diagnosing and treating colonic disease. The number of colonoscopies is increasing worldwide, and concerns about associated adverse events are growing. Large-scale studies using big data for post-colonoscopy complications have been reported. A colon perforation is a severe complication with a relatively high mortality rate. The perforation rate, as reported in large studies (≥ 50,000 colonoscopies) published since 2000, ranges from 0.005-0.085%. The trend in the overall perforation rate in the past 15 years has not changed significantly. Bleeding is a more common adverse event than perforation. Recent large studies (≥ 50,000 colonoscopies) have reported post-colonoscopy bleeding occurring in 0.001-0.687% of cases. Most studies about adverse events related to colonoscopy were performed in the West, and relatively few studies have been conducted in the East. The incidence of post-colonoscopy complications increases in elderly patients or patients with inflammatory bowel diseases. It is important to use a unified definition and refined data to overcome the limitations of previous studies. In addition, a structured training program for endoscopists and a systematic national management program are needed to reduce post-colonoscopy complications. In this review, we discuss the current trends in colonoscopy related to adverse events, as well as the challenges to be addressed through future research.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24019262)
-    QUESTION: Does high blood pressure reduce the risk of chronic low back pain?
-    CONTEXT: Epidemiological studies have suggested inverse relationships between blood pressure and prevalence of conditions such as migraine and headache. It is not yet clear whether similar relationships can be established for back pain in particular in prospective studies.
-    ANSWER: Results for low back pain are consistent with the theory of hypertension-associated hypalgesia, predicting diminished pain sensitivity with increasing blood pressure, possibly with modified reactions in people suffering from long-lasting pain.
-    

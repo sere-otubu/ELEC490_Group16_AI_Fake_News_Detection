@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Type 1 allergies
-TITLE: Dysfunction of type 1 and type 2 immune cells: a lesson from exhausted-like ILC2s and their activation-induced cell death.
-PMID: 38788198
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38788198/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The concept of immune cell exhaustion/dysfunction has developed mainly to understand impaired type 1 immune responses, especially by CD8 T-cells against tumors or virus-infected cells, and has been applied to other lymphocytes. Natural killer (NK) cells and CD4 T cells support the efficient activation of CD8 T cells but exhibit dysfunctional phenotypes in tumor microenvironments and in chronic viral infections. In contrast, the concept of type 2 immune cell exhaustion/dysfunction is poorly established. Group 2 innate lymphoid cells (ILC2s) and T-helper 2 (Th2) cells are the major lymphocyte subsets that initiate and expand type 2 immune responses for antiparasitic immunity or allergy. In mouse models of chronic parasitic worm infections, Th2 cells display impaired type 2 immune responses. Chronic airway allergy induces exhausted-like ILC2s that quickly fall into activation-induced cell death to suppress exaggerated inflammation. Thus, the modes of exhaustion/dysfunction are quite diverse and rely on the types of inflammation and the cells. In this review, we summarize current knowledge of lymphocyte exhaustion/dysfunction in the context of type 1 and type 2 immune responses and discuss ILC2-specific regulatory mechanisms during chronic allergy.

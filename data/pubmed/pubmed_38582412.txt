@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Creatine
-TITLE: Creatine supplementation research fails to support the theoretical basis for an effect on cognition: Evidence from a systematic review.
-PMID: 38582412
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38582412/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Creatine supplementation has been put forward as a possible aid to cognition, particularly for vegans, vegetarians, the elderly, sleep deprived and hypoxic individuals. However, previous narrative reviews have only provided limited support for these claims. This is despite the fact that research has shown that creatine supplementation can induce increased brain concentrations of creatine, albeit to a limited extent. We carried out a systematic review to examine the current state of affairs. The review supported claims that creatine supplementation can increases brain creatine content but also demonstrated somewhat equivocal results for effects on cognition. It does, however, provide evidence to suggest that more research is required with stressed populations, as supplementation does appear to significantly affect brain content. Issues with research design, especially supplementation regimens, need to be addressed. Future research must include measurements of creatine brain content.

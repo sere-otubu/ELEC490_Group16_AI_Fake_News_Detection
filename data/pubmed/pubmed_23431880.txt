@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Herpes simplex
-TITLE: [Herpes simplex].
-PMID: 23431880
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23431880/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Current picture and treatment of herpes simplex virus infections The contraction of primary herpes simplex infection in early childhood is becoming increasingly less frequent. A growing number of new cases of genital herpes are caused by HSV-1. Excretion of virus by carriers of genital herpes often takes place also during the asymptomatic stage and symptomless recurrences of genital herpes may be very brief in duration. Primary infections and reactivations can be treated with anti-herpes medication. Progress in drug treatment has taken place in the treatment of serious infections of the newborn and in the preventive treatment of herpes reactivations, in which fairly large single doses have proven effective.

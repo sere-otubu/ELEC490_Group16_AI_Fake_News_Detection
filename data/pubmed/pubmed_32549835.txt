@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mindful eating
-TITLE: Mindful Eating: A Review Of How The Stress-Digestion-Mindfulness Triad May Modulate And Improve Gastrointestinal And Digestive Function.
-PMID: 32549835
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32549835/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Much research associated with mindful eating pertains to weight loss, so this review is novel in that it explores mindful eating in a broader context of it attenuating the widespread problem of chronic stress disturbing gastrointestinal function. This attenuation is rooted in stress offsetting biological homeostasis and mindfulness being a widely studied stress-reduction intervention due to its ability to promote parasympathetic nervous system (PSNS) dominance. The stress-digestion-mindfulness triad is a hypothesized construct, integrating what is understood about the digestive system with literature about the nervous system, neuro-endocrine-immune signaling, stress, and mindfulness. Thus, the plausibility of mind-body practices (e.g., mindful eating), which maintain PSNS dominance, helping to cultivate autonomic nervous system (ANS) homeostasis vital for optimal digestive function is established. The clinical utility of the stress-digestion-mindfulness triad involves a clinician-friendly application of mindful eating to improve digestive function.

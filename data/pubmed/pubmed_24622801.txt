@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24622801)
-    QUESTION: Does implant coating with antibacterial-loaded hydrogel reduce bacterial colonization and biofilm formation in vitro?
-    CONTEXT: Implant-related infections represent one of the most severe complications in orthopaedics. A fast-resorbable, antibacterial-loaded hydrogel may reduce or prevent bacterial colonization and biofilm formation of implanted biomaterials.QUESTIONS/
-    ANSWER: Implant coating with an antibacterial-loaded hydrogel reduces bacterial colonization and biofilm formation in vitro.
-    

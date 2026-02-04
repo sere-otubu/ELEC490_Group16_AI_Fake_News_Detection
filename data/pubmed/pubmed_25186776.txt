@@ -1,8 +1,0 @@
-SEARCH_TOPIC: X ray imaging
-TITLE: [The application of X-ray imaging in forensic medicine].
-PMID: 25186776
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25186776/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-X-ray is the most common, basic and essential imaging method used in forensic medicine. It serves to display and localize the foreign objects in the body and helps to detect various traumatic and pathological changes. X-ray imaging is valuable in anthropological assessment of an individual. X-ray allows non-invasive evaluation of important findings before the autopsy and thus selection of the optimal strategy for dissection. Basic indications for postmortem X-ray imaging in forensic medicine include gunshot and explosive fatalities (identification and localization of projectiles or other components of ammunition, visualization of secondary missiles), sharp force injuries (air embolism, identification of the weapon) and motor vehicle related deaths. The method is also helpful for complex injury evaluation in abused victims or in persons where abuse is suspected. Finally, X-ray imaging still remains the gold standard method for identification of unknown deceased. With time modern imaging methods, especially computed tomography and magnetic resonance imaging, are more and more applied in forensic medicine. Their application extends possibilities of the visualization the bony structures toward a more detailed imaging of soft tissues and internal organs. The application of modern imaging methods in postmortem body investigation is known as digital or virtual autopsy. At present digital postmortem imaging is considered as a bloodless alternative to the conventional autopsy.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Seasonal allergies
-TITLE: Pearls and pitfalls of OTC medications for seasonal allergies.
-PMID: 39051958
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39051958/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Seasonal allergies have a negative impact on patients' quality of life. Nurses must be aware of the different treatment options and lifestyle modifications to help patients manage their symptoms. This article discusses the benefits and risks of over-the-counter medications for seasonal allergies and other implications for nurses.

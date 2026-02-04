@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12142826)
-    QUESTION: Pertrochanteric fractures: is there an advantage to an intramedullary nail?
-    CONTEXT: To compare the results between a sliding compression hip screw and an intramedullary nail in the treatment of pertrochanteric fractures.
-    ANSWER: There is no advantage to an intramedullary nail versus a sliding compression hip screw for low-energy pertrochanteric fractures AO/OTA 31-A1 and A2, specifically with its increased cost and lack of evidence to show decreased complications or improved patient outcome.
-    

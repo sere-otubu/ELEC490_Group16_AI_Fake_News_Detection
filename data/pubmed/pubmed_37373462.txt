@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antivirals
-TITLE: Antivirals and Vaccines.
-PMID: 37373462
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37373462/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-New antivirals are urgently needed to treat respiratory diseases caused by RNA viruses [...].

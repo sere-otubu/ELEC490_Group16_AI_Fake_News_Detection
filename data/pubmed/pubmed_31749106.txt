@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Borderline personality disorder
-TITLE: Differential Diagnosis of Bipolar II Disorder and Borderline Personality Disorder.
-PMID: 31749106
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31749106/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Differentiating bipolar (BP) disorders (in particular BP II) from borderline personality disorder (BPD) is a common diagnostic dilemma. We sought to critically examine recent studies that considered clinical differences between BP II and BPD, which might advance their delineation. Recent studies focused on differentiating biological parameters-genetics, epigenetics, diurnal rhythms, structural and functional neuroimaging-with indicative differences not yet sufficient to guide diagnosis. Key differentiating factors include family history, developmental antecedents, illness course, phenomenological differences in mood states, personality style and relationship factors. Less differentiating factors include impulsivity, neuropsychological profiles, gender distribution, comorbidity and treatment response. This review details parameters offering differentiation of BP II from BPD and should assist in resolving a frequent diagnostic dilemma. Future studies should specifically examine the BP II subtype directly with BPD, which would aid in sharpening the distinction between the disorders.

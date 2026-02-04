@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chlamydia
-TITLE: Recent advances and future directions in understanding and treating Chlamydia-induced reactive arthritis.
-PMID: 27627462
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27627462/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Reactive arthritis (ReA) is an inflammatory disease that can follow gastrointestinal or genitourinary infections. The primary etiologic agent for post-venereal ReA is the bacterium Chlamydia trachomatis; its relative, C pneumoniae, has also been implicated in disease induction although to a lesser degree. Studies have indicated that the arthritis is elicited by chlamydiae infecting synovial tissue in an unusual biologic state designated persistence. We review clinical aspects, host-pathogen interactions, and treatments for the disease. Areas covered: We briefly discuss both the historic and,more extensively, the current medical literature describing ReA, and we provide a discussion of the biology of the chlamydiae as it relates to elicitation of the disease. A summary of clinical aspects of Chlamydia-induced ReA is included to give context for approaches to treatment of the arthritis. Expert commentary: Basic research into the biology and host-pathogen interactions characteristic of C trachomatis has provided a wealth of information that underlies our current understanding of the pathogenic processes occurring in the ReA synovium. Importantly, a promising approach to cure of the disease is at hand. However, both basic and clinical research into Chlamydia-induced ReA has lagged over the last 5 years, including required studies relating to cure of the disease.

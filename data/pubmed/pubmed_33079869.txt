@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Electrolytes
-TITLE: Urine Electrolytes in the Intensive Care Unit: From Pathophysiology to Clinical Practice.
-PMID: 33079869
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33079869/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Assessment of urine concentrations of sodium, chloride, and potassium is a widely available, rapid, and low-cost diagnostic option for the management of critically ill patients. Urine electrolytes have long been suggested in the diagnostic workup of hypovolemia, kidney injury, and acid-base and electrolyte disturbances. However, due to the wide range of normal reference values and challenges in interpretation, their use is controversial. To clarify their potential role in managing critical patients, we reviewed existing evidence on the use of urine electrolytes for diagnostic and therapeutic evaluation and assessment in critical illness. This review will describe the normal physiology of water and electrolyte excretion, summarize the use of urine electrolytes in hypovolemia, acute kidney injury, acid-base, and electrolyte disorders, and suggest some practical flowcharts for the potential use of urine electrolytes in daily critical care practice.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tendinitis
-TITLE: Tendinitis and other chronic tendinopathies.
-PMID: 9682077
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9682077/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chronic tendon problems are common in orthopaedic patients. Relatively little is known about the etiology of these common problems and the efficacy of available treatments. It is believed that the cause of many injuries is repetitive mechanical trauma followed by an inflammatory response. Other factors, such as age-related degeneration and relative avascularity in the tendon, may play an important etiologic role as well. Histopathologic studies have generally revealed degenerative lesions consistent with tendinosis and/or inflammation of the peritendinous tissues consistent with peritendinitis. Initial treatment should focus on patient counseling and correction of associated mechanical factors, if present. Nonsteroidal anti-inflammatory drugs can give pain relief, but there is no convincing evidence that they alter the natural history. Corticosteroid injections can be used selectively in resistant cases, but recurrences are frequent. Surgery can be very successful when the affected tendon is treated directly.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Panic disorder
-TITLE: Panic: course, complications and treatment of panic disorder.
-PMID: 10888028
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10888028/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Panic disorder is a chronic condition typically associated with significant distress and disability. In addition to the acute distress associated with the panic attack itself, the disorder often leads to distressing anticipatory anxiety and phobic avoidance. Affected individuals experience significant impairment in social and vocational functioning, high utilization of medical resources, constriction of function, premature mortality and diminution in overall quality of life. Panic disorder is frequently comorbid with other conditions, particularly depression, as well as alcohol and other substance abuse, and other anxiety disorders including social phobia, generalized anxiety disorder, obsessive-compulsive disorder and post-traumatic stress disorder. A number of pharmacological agents and cognitive-behavioural treatments have been shown to be effective in the treatment of panic disorder, with the selective serotonin reuptake inhibitors (SSRIs) becoming first-line pharmacotherapy for this condition. Among these, the SSRI sertraline appears effective not only in improving symptoms of panic, but also in reducing anticipatory anxiety and improving multiple aspects of quality of life. For patients who remain partly or fully symptomatic despite adequate first-line treatment, a variety of strategies are emerging for the management of refractory conditions. We provide an overview of the prevalence, presentation and associated complications of panic disorder, review the therapeutic options and discuss the management of refractory patients.

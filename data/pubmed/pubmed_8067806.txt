@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cholera
-TITLE: Cholera.
-PMID: 8067806
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8067806/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although it is more than a century since the discovery of the vibrio bacillus, cholera remains one of the great epidemic diseases of the tropical world. The epidemiology of cholera is an interaction between the biological and ecological properties of Vibrio cholerae and the complex patterns of human behaviour in tropical environments. The seventh pandemic has spread through all areas of the tropics, and cholera has become endemic in many new areas. The view that cholera was primarily water borne and that humans were the only long-term reservoir has been challenged by the discovery that V. cholerae can survive, often in a dormant state, in aquatic environments. The recent appearance of V. cholerae 0139, a new serotype that causes a disease clinically and epidemiologically indistinct from cholera, has further complicated our understanding of this ancient disease. Developments in the molecular characterization of V. cholerae are providing new information to explain the genetic and epidemiological variations.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Plasma
-TITLE: The plasma supply in Germany.
-PMID: 31753775
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31753775/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There is a demand for self-sufficiency of plasma from the government of the Federal Republic of Germany. To fulfill this, a number of efforts undertaken over the last years. This report describes the current status of the plasma supply in Germany. Data were retrieved from the Paul-Ehrlich-Institute which collects data on the collection and use of blood including plasma according to the German Transfusion Act. Collection of therapeutic plasma showed a slight decline since 2013 but a new peak was observed in 2017. Plasma for fractionation remained almost constant for the last years and about 2 million liters of plasma for fractionation are collected as source plasma. Manufacture of immunoglobulin is steadily increasing to treat patients with immunodeficiencies. Human plasma Factor VIII and IX are still used for treatment of haemophilia in the era of recombinant products. Import and export of plasma for fractionation ensure the supply of plasma derivatives. Targeted fibrinogen supplementation in combination with individualized patient blood management resulted in a decreased use of therapeutic plasma units.

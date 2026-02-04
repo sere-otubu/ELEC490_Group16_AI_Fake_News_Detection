@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Skeletal system
-TITLE: Dynamics and Interplay between Autophagy and Ubiquitin-proteasome system Coordination in Skeletal Muscle Atrophy.
-PMID: 34365963
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34365963/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Skeletal muscles are considered the largest reservoirs of the protein pool in the body and are critical for the maintenances of body homeostasis. Skeletal muscle atrophy is supported by various physiopathological conditions that lead to loss of muscle mass and contractile capacity of the skeletal muscle. Lysosomal mediated autophagy and ubiquitin-proteasomal system (UPS) concede the major intracellular systems of muscle protein degradation that result in the loss of mass and strength. Both systems recognize ubiquitination as a signal of degradation through different mechanisms, a sign of dynamic interplay between systems. Hence, growing shreds of evidence suggest the interdependency of autophagy and UPS in the progression of skeletal muscle atrophy under various pathological conditions. Therefore, understanding the molecular dynamics and associated factors responsible for their interdependency is necessary for the new therapeutic insights to counteract muscle loss. Based on current literature, the present review summarizes the factors that interplay between autophagy and UPS in favor of enhanced proteolysis of skeletal muscle and how they affect the anabolic signaling pathways under various conditions of skeletal muscle atrophy.

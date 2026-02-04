@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Breastfeeding benefits
-TITLE: Breastfeeding after Gestational Diabetes: Does Perceived Benefits Mediate the Relationship?
-PMID: 28421146
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28421146/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-<i>Introduction</i>. Breastfeeding is recognized as one of the best ways to decrease infant mortality and morbidity. However, women with gestational diabetes mellitus (GDM) may have breastfeeding barriers due to the increased risk of neonatal and pregnancy complications. While the prevalence of GDM is increasing worldwide, it is important to understand the full implications of GDM on breastfeeding outcomes. The current study aims to investigate the (1) direct effect of GDM on breastfeeding duration and (2) indirect effect of GDM on breastfeeding duration through perceived benefits of breastfeeding. <i>Methods</i>. Prospective cohort data from the Infant Feeding and Practices Study II was analyzed (<i>N</i> = 4,902). Structural equation modeling estimated direct and indirect effects. <i>Results</i>. Perceived benefits of breastfeeding directly influenced breastfeeding duration (<i>β</i> = 0.392, <i>p</i> ≤ 0.001). GDM was not directly associated with breastfeeding duration or perceived benefits of breastfeeding. Similarly, GDM did not have an indirect effect on breastfeeding duration through perceived benefits of breastfeeding. <i>Conclusions</i>. Perceived benefits of breastfeeding are an important factor associated with breastfeeding duration. Maternal and child health care professionals should enhance breastfeeding education efforts.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Angioplasty
-TITLE: The current status of angioplasty of atherosclerotic renal artery stenosis for the treatment of hypertension.
-PMID: 24034664
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24034664/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Atherosclerotic renal artery stenosis, a fairly common disease of older persons, is a manifestation of generalized atherosclerosis, and is often associated with coronary artery disease. It is frequently associated with hypertension and impaired renal function, and is perceived by many physicians to be the cause of hypertension and renal failure. For this reason, they believe that hypertension can be cured by performing percutaneous renal artery angioplasty (PTRA) with stent placement. This practice has led to an increase in angioplasties, especially by interventional cardiologists, although the results from several randomized studies comparing interventional therapy with medical therapy have shown no significant difference between the two treatment modalities in blood pressure reduction or change in renal function. Similar results have been found by nonrandomized trials with selective PTRA. For this review, a Medline search of the English literature was conducted from 2006 to 2012, and 13 pertinent studies were selected. These studies with collateral literature will be discussed in this concise review.

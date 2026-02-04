@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sugar consumption
-TITLE: Sugar Consumption Tax: A Good Idea or Not?
-PMID: 30958657
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30958657/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Introduction of a sugar tax on sugar-sweetened beverages (SSBs) has been proposed by peak health bodies and Australian politicians as a strategy to control behaviour that leads to obesity. The question is: what are the implications of imposing a sugar consumption tax on SSBs with the aim to curb the harmful effects of obesity? Arguments for and against a sugar consumption tax pose an ethical dilemma. While evidence supports the implementation of a sugar consumption tax as effective in curbing SSB consumption within certain populations, ethical considerations support the premise that autonomy trumps justice, beneficence, and non-maleficence. Legal implications include the consideration of Commonwealth and State jurisdiction, discrimination against a person's disability, such as obesity, and infringement on consumer rights. Alternative strategies should be considered to address obesity, including social action, education and information, and use of the media.

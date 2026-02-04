@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fish oil benefits
-TITLE: Associations of habitual fish oil supplementation with cardiovascular outcomes and all cause mortality: evidence from a large population based cohort study.
-PMID: 32131999
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32131999/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To evaluate the associations of habitual fish oil supplementation with cardiovascular disease (CVD) and mortality in a large prospective cohort. Population based, prospective cohort study. UK Biobank. A total of 427 678 men and women aged between 40 and 69 who had no CVD or cancer at baseline were enrolled between 2006 and 2010 and followed up to the end of 2018. All participants answered questions on the habitual use of supplements, including fish oil. All cause mortality, CVD mortality, and CVD events. At baseline, 133 438 (31.2%) of the 427 678 participants reported habitual use of fish oil supplements. The multivariable adjusted hazard ratios for habitual users of fish oil versus non-users were 0.87 (95% confidence interval 0.83 to 0.90) for all cause mortality, 0.84 (0.78 to 0.91) for CVD mortality, and 0.93 (0.90 to 0.96) for incident CVD events. For CVD events, the association seemed to be stronger among those with prevalent hypertension (P for interaction=0.005). Habitual use of fish oil seems to be associated with a lower risk of all cause and CVD mortality and to provide a marginal benefit against CVD events among the general population.

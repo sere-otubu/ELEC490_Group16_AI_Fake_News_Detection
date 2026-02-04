@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23422012)
-    QUESTION: Is vancomycin MIC creep a worldwide phenomenon?
-    CONTEXT: Vancomycin is the primary treatment for infections caused by methicilin-resistant Staphylococcus aureus (MRSA). The association of vancomycin treatment failures with increased vancomycin minimum inhibitory concentration (MIC) is a well-recognized problem. A number of single-centre studies have identified progressive increases in glycopeptide MICs for S. aureus strains over recent years - a phenomenon known as vancomycin MIC creep. It is unknown if this is a worldwide phenomenon or if it is localized to specific centers.
-    ANSWER: We were unable to find in our institution data compatible to the presence of vancomycin MIC creep during the study period. This phenomenon seems not to be generalized; as a result each institution should systematically monitor MRSA vancomycin MIC over time.
-    

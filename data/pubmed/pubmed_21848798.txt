@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21848798)
-    QUESTION: MiraLAX vs. Golytely: is there a significant difference in the adenoma detection rate?
-    CONTEXT: In recent clinical trials (RCT) of bowel preparation, Golytely was more efficacious than MiraLAX. We hypothesised that there is a difference in adenoma detection between Golytely and MiraLAX.
-    ANSWER: Golytely was more efficacious than MiraLAX in bowel cleansing, and was independently associated with both bowel prep quality (BBPS ≥ 7) and higher adenoma detection. Golytely should be used as first line for bowel prep for colonoscopy. Studies with larger populations are needed to confirm these results.
-    

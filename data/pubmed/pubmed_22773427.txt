@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Atherosclerosis
-TITLE: Aging and atherosclerosis: mechanisms, functional consequences, and potential therapeutics for cellular senescence.
-PMID: 22773427
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22773427/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Atherosclerosis is classed as a disease of aging, such that increasing age is an independent risk factor for the development of atherosclerosis. Atherosclerosis is also associated with premature biological aging, as atherosclerotic plaques show evidence of cellular senescence characterized by reduced cell proliferation, irreversible growth arrest and apoptosis, elevated DNA damage, epigenetic modifications, and telomere shortening and dysfunction. Not only is cellular senescence associated with atherosclerosis, there is growing evidence that cellular senescence promotes atherosclerosis. This review examines the pathology of normal vascular aging, the evidence for cellular senescence in atherosclerosis, the mechanisms underlying cellular senescence including reactive oxygen species, replication exhaustion and DNA damage, the functional consequences of vascular cell senescence, and the possibility that preventing accelerated cellular senescence is a therapeutic target in atherosclerosis.

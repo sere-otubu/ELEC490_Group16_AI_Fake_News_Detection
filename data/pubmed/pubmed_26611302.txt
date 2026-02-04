@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Root canal
-TITLE: Assessing root canal fillings on a radiograph--an overview.
-PMID: 26611302
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26611302/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This article will discuss why a root filling that appears satisfactory on a radiograph may fail, and why one which appears unsatisfactory on a radiograph may succeed. In doing so, this article will also discuss the criteria of endodontic success and failure and its implications on the decision to retreat.

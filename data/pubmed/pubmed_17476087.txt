@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cirrhosis
-TITLE: Is cirrhosis of the liver reversible?
-PMID: 17476087
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17476087/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Extensive and persistent hepatic fibrosis has for a long time been considered irreversible. Accumulating evidence suggests that liver fibrosis is reversible and that recovery from cirrhosis may be possible. The application of molecular techniques to models of reversible fibrosis are helping to establish the events and processes that are critical to recovery. The problem consists in identifying and eliminating its cause. Although fibrosis in the liver has little functional significance by itself, its severity derives from associated vascular changes. Disappearance of fibrosis can be accompanied by remodeling of vascular changes. However, depending on its duration, the fibrosis may be irreversible.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chiropractic care
-TITLE: Chiropractic.
-PMID: 10680197
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10680197/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The chiropractic is a health care profession that offers and purveys a distinctive treatment act. When reduced to its methodology, the chiropractic is hard pressed to demonstrate effectiveness. But as a treatment act, it has gained wide acceptance. The challenge raised in this discussion relates to the "moral hazard" of including the chiropractic treatment act in more general health insurance policies.

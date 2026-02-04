@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 16778275)
-    QUESTION: Is routine chest radiography after transbronchial biopsy necessary?
-    CONTEXT: Pneumothorax following flexible bronchoscopy (FB) with transbronchial biopsy (TBB) occurs in 1 to 6% of cases. Routine chest radiography (CXR) following TBB is therefore requested by most pulmonologists in an attempt to detect complications, particularly pneumothorax. The objective of this study was to determine if routine CXR after bronchoscopy and TBB is necessary.
-    ANSWER: We conclude that routine CXR after bronchoscopy with TBB is necessary only in patients with symptoms suggestive of pneumothorax. In asymptomatic patients, pneumothorax is rare and usually small, so routine CXR is not necessary in this category of patients.
-    

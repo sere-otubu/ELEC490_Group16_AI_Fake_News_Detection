@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ringworm
-TITLE: Treatment of ringworm in horses with natamycin.
-PMID: 311734
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/311734/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A suspension based on the antibiotic, natamycin, was applied by sponging to 83 horses of various breeds and ages with signs of clinical ringworm. A number of different causative agents were involved of which Trichophyton equinum was the most common. Treatment successfully eliminated the disease within 4 weeks. After treatment the recovered animals did not show any evidence of re-infection for up to 6 months. The mycological clearance rate was 97 per cent and apart from the efficacy against ringworm, the preparation had the advantage of being non-irritant and odourless. It was also useful for treating the surroundings of the animals.

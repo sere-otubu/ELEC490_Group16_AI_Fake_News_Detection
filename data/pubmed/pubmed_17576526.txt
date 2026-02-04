@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ultrasound
-TITLE: [Ultrasound-guided anaesthesia of peripheral nerves. The new challenge for anaesthesiologists].
-PMID: 17576526
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17576526/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Ultrasound-guided anaesthesia of peripheral nerves is a new challenge for anaesthesiologists. The number of ultrasound users in this field has increased over the last 10 years because of improved high frequency ultrasound technology and increased mobility of machines. There have been many publications on blocking procedures but many questions still remain unanswered on the practical aspects of ultrasound-guided techniques. Basic knowledge in ultrasound technology and image characteristics and a defined approach to blocking procedures to ensure sterile working conditions are necessary to guarantee optimal safety of patients. Furthermore economic questions and the implementation of a standardised education program are very important.

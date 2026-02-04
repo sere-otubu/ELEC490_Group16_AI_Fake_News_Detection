@@ -1,8 +1,0 @@
-SEARCH_TOPIC: COVID-19
-TITLE: Recent Developments on Therapeutic and Diagnostic Approaches for COVID-19.
-PMID: 33400058
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33400058/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The ongoing pandemic of coronavirus disease 2019 (COVID-19) caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has made a serious public health threat worldwide with millions of people at risk in a growing number of countries. Though there are no clinically approved antiviral drugs and vaccines for COVID-19, attempts are ongoing for clinical trials of several known antiviral drugs, their combination, as well as development of vaccines in patients with confirmed COVID-19. This review focuses on the latest approaches to diagnostics and therapy of COVID-19. We have summarized recent progress on the conventional therapeutics such as antiviral drugs, vaccines, anti-SARS-CoV-2 antibody treatments, and convalescent plasma therapy which are currently under extensive research and clinical trials for the treatment of COVID-19. The developments of nanoparticle-based therapeutic and diagnostic approaches have been also discussed for COVID-19. We have assessed recent literature data on this topic and made a summary of current development and future perspectives.

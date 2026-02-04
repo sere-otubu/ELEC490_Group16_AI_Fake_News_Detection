@@ -1,8 +1,0 @@
-SEARCH_TOPIC: IVF procedure
-TITLE: How should we assess the safety of IVF technologies?
-PMID: 24145118
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24145118/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Clinical IVF treatment was established over 30 years ago through pioneering work by Edwards and Steptoe and other teams around the world and is now considered routine treatment. However, the pace of scientific and technological advances means that IVF practitioners can now access an increasing array of new and invasive technologies. The examples are many but include: extended embryo culture, development of media to include growth factors, developments in genetic screening, use of time-lapse technology and the advent of vitrification of embryos and oocytes. In parallel, wider scientific and medical advances are raising our awareness of the potential impact of assisted reproduction technology on areas such as embryonic development, gene expression and genomic imprinting and the developmental origins of health and disease. A recently suggested paradigm for assessing new technologies in IVF includes development in animal models such as rodents and large animals, preclinical research with human gametes and embryos donated to research, prospective clinical trials in IVF and, finally, follow-up studies of IVF children. In this paper, we describe efforts to address key areas of this pathway, namely preclinical research using human gametes/embryos and long-term, follow-up studies of the health of assisted reproduction children.

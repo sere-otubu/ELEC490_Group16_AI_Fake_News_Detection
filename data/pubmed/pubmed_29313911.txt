@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Spinal cord injury
-TITLE: Spinal cord injury arising in anaesthesia practice.
-PMID: 29313911
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29313911/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Spinal cord injury arising during anaesthetic practice is a rare event, but one that carries a significant burden in terms of morbidity and mortality. In this article, we will review the pathophysiology of spinal cord injury. We will then discuss injuries relating to patient position, spinal cord hypoperfusion and neuraxial techniques. The most serious causes of spinal cord injury - vertebral canal haematoma, spinal epidural abscess, meningitis and adhesive arachnoiditis - will be discussed in turn. For each condition, we draw attention to practical, evidence-based measures clinicians can undertake to reduce their incidence, or mitigate their severity. Finally, we will discuss transient neurological symptoms. Some cases of spinal cord injury during anaesthesia can be ascribed to anaesthesia itself, arising as a direct consequence of its conduct. The injury to a spinal nerve root by inaccurate and/or incautious needling during spinal anaesthesia is an obvious example. But in many cases, spinal cord injury during anaesthesia is not caused by, related to, or even associated with, the conduct of the anaesthetic. Surgical factors, whether direct (e.g. spinal nerve root damage due to incorrect pedicle screw placement) or indirect (e.g. cord ischaemia following aortic surgery) are responsible for a significant proportion of spinal cord injuries that occur concurrently with the delivery of regional or general anaesthesia.

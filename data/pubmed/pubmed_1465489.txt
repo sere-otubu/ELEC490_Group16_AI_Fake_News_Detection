@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hospice care
-TITLE: Hospice care.
-PMID: 1465489
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1465489/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hospice care is a philosophy and system of care for the terminally ill patient that accepts death in an affirmative way and provides palliative care and emotional support to dying patients and their families. The primary care physician needs to better understand the hospice concepts, the reasons for and growth of hospice care, and the depth of resources that can assist in equality management of the terminally ill.

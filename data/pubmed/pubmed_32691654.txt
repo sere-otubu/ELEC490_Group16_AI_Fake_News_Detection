@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Seasonal allergies
-TITLE: Update on pollen-food allergy syndrome.
-PMID: 32691654
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32691654/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Allergies affect 20-30% of the population and respiratory allergies are mostly due to pollen grains from anemophilous plants. One to 5% of people suffer from food allergies and clinicians report increasing numbers of pollen-food allergy syndrome (PFAS), such that the symptoms have broadened from respiratory to gastrointestinal, and even to anaphylactic shock in the presence of cofactors. Thirty to 60% of food allergies are associated with pollen allergy while the percentage of pollen allergies associated to food allergy varies according to local environment and dietary habits. Articles published in peer-reviewed journals, covered by PubMed databank, clinical data are discussed including symptoms, diagnosis, and management. A chapter emphasizes the role of six well-known allergen families involved in PFAS: PR10 proteins, profilins, lipid transfer proteins, thaumatin-like proteins, isoflavone reductases, and β-1,3 glucanases. The relevance in PFAS of three supplementary allergen families is presented: oleosins, polygalacturonases, and gibberellin-regulated proteins. To support the discussion a few original relevant results were added. Both allergenic sources, pollen and food, are submitted to the same stressful environmental changes resulting in an increase of pathogenesis-related proteins in which numerous allergens are found. This might be responsible for the potential increase of PFAS.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ovarian cancer
-TITLE: Ovarian cancer.
-PMID: 16468226
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16468226/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Ovarian cancer is the leading cause of death from gynecologic cancers. Although approximately 2,400 women are diagnosed each year in Canada, most women know little about the disease. While it is not common, ovarian cancer is a devastating diagnosis. The symptoms of ovarian cancer are non-specific and there is no effective screening tool. Surgery, chemotherapy and radiation given alone or in combination are most commonly used to treat ovarian cancer. Surgery can result in premature menopause for women in their child-bearing years. Chemotherapy may cause a multiplicity of distressing side-effects. Women with ovarian cancer are living longer and with an improved quality of life. Nurses are in a key position to increase awareness and provide support and information about coping with the disease and side-effects of treatment.

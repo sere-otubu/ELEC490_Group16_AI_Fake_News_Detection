@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Trans fats risks
-TITLE: FDA's proposed ban on trans fats: How do the costs and benefits stack up?
-PMID: 24636817
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24636817/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The goal of this commentary was to compare the benefits and costs of the US Food and Drug Administration's proposed ban on artificial trans fats in US food versus other public health risks and interventions. This analysis assessed the remaining risk posed by artificial trans fats versus other risks, comparing them in terms of: (1) population disease burden (prevention of lost life-years and decreased quality of life, aggregated and expressed as quality-adjusted life-years [QALYs]); (2) individual mortality risks for other "voluntary" activities; and (3) cost-effectiveness, which is the unit cost incurred by an intervention per QALY gained. The population impact of remaining trans fats is small compared with many other risks. Conversely, lifetime individual risks are comparable to other individual risks that might be considered notable. Finally, the ban achieves public health gains at low to no cost. The US Food and Drug Administration's ban on trans fats is sensible from the perspective of economic efficiency. Comparing the health risk addressed and the efficiency of the ban with other benchmarks can help decision makers and the population to better evaluate it.

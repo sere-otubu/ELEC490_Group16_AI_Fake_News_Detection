@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25691513)
-    QUESTION: Do communication disorders extend to musical messages?
-    CONTEXT: Effective musical communication requires conveyance of the intended message in a manner perceptible to the receiver. Communication disorders that impair transmitting or decoding of structural features of music (e.g., pitch, timbre) and/or symbolic representation may result in atypical musical communication, which can have a negative impact on music therapy interventions.
-    ANSWER: Conveyance of emotions or movements through music may be decoded differently by persons with different types of communication disorders. Because music is the primary therapeutic tool in music therapy sessions, clinicians should consider these differential abilities when selecting music for clinical interventions focusing on emotions or movement.
-    

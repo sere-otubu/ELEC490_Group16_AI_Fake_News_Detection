@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Plant based protein
-TITLE: Exploring plant protein functions through structure-based clustering.
-PMID: 40240260
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40240260/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The upsurge in new plant protein sequences has far outpaced experimental functional characterization efforts. Prediction of protein function based on sequence homology often falls short when dealing with proteins that have low sequence similarity. Artificial intelligence (AI) programs, such as AlphaFold, have transformed computational protein structure prediction with remarkable accuracy. By leveraging the availability of predicted structures for nearly all protein sequences, clustering proteins based on their similarity in structural features has become a powerful tool for function annotation and discovery. Structure-based protein clustering enables the identification of distant evolutionary relationships and novel protein families, and offers an effective strategy for exploring plant protein functions, bridging the gap between sequence data and function annotation while also assisting in protein design.

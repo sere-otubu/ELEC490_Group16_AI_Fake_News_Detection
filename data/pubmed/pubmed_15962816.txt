@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Root canal
-TITLE: The smear layer in the root canal and its removal.
-PMID: 15962816
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15962816/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Instrumentation of the root canal during endodontic treatment produces a smear layer which is not uniformly attached to the canal wall. Its morphological structure comprises dentin particles, organic debris, odontoblast processes, microorganisms and their metabolic products. The view that has currently gained wide popularity holds that leaving the smear layer in the root canal contradicts the principles of efficient treatment as this might compromise the optimal progression of the healing process. The proven unfavorable effects of the smear layer on treatment outcome bring forward the necessity for additional application of agents aimed at its complete removal. As the smear layer has a complex structure, these agents should possess a potential for dealing with both its organic and inorganic components. The wide range of used medications includes different concentrations of sodium hypochlorite as a major irrigant of the root canal, chlorhexidine gluconate, chelating agents (EDTA), organic acids, combined preparations (MTAD), combined use of agents that can tackle both the organic and inorganic components. Lasers find manifold applications in various medical fields and can be regarded as a future solution to the problem of total smear layer removal. In the present review we have made a critical analysis of currently used agents placing the emphasis on the potential use of new medications, capable of attacking the smear layer.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 16510651)
-    QUESTION: Birth characteristics and risk of low intellectual performance in early adulthood: are the associations confounded by socioeconomic factors in adolescence or familial effects?
-    CONTEXT: In this study we investigated whether the association between measures of fetal growth restriction and intellectual performance was mediated by socioeconomic or familial factors.
-    ANSWER: We found that all of the studied dimensions of restricted fetal growth are independently associated with increased risks of low intellectual performance and that these associations are only partly mediated by socioeconomic or familial factors.
-    

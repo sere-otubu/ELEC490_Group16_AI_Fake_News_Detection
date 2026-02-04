@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 16266387)
-    QUESTION: Fast foods - are they a risk factor for asthma?
-    CONTEXT: Lifestyle changes over the last 30 years are the most likely explanation for the increase in allergic disease over this period.AIM: This study tests the hypothesis that the consumption of fast food is related to the prevalence of asthma and allergy.
-    ANSWER: Frequent consumption of hamburgers showed a dose-dependent association with asthma symptoms, and frequent takeaway consumption showed a similar association with BHR.
-    

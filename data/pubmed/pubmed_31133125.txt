@@ -1,8 +1,0 @@
-SEARCH_TOPIC: School lunch nutrition
-TITLE: [Nutrition quality of school lunch for children aged 9-12 years in Wuhan City and its relationship with physical development].
-PMID: 31133125
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31133125/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To study the lunch quality and physical development status of primary school students in a certain area of Wuhan City, and to provide the scientific basis for improving the nutritional status of school-age children. A total of 1001 students of third to sixth grade from two primary schools in Wuhan were enrolled in this study. The three-day lunch meal survey and physical examination were conducted, and students' lunch at school were recorded by meal review. The lunch intake was compared with the standard, and the correlation between nutrient intake and school-age children's height and weight was analyzed. The height of the subjects was(139.81±8.87) cm and the body weight was(35.91±9.44) kg. The average protein intake at lunch of all age groups reached 40% estimated average requirement(EAR), and vitamin B1, vitamin B2, vitamin C, calcium, selenium and other nutrients were seriously inadequate; all age groups of animal meat intake reached the standard. And fish, shrimp, eggs, soybeans and nuts, milk were lack of intake; energy of lunch, carbohydrates, vitamin A, vitamin C, iron intake were correlated with height and weight of school-age children(P<0.05). There are some problems such as micronutrient deficiency and unbalanced diet in school-age children aged 9-12 in Wuhan. Physical development did not reach the national average level.

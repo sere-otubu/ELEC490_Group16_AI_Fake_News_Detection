@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Contraceptive pills
-TITLE: Development of Novel Male Contraceptives.
-PMID: 31618525
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31618525/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Unintended pregnancy is surprisingly common, accounting for 40-50% of pregnancies worldwide. Contraception is the most effective means of preventing unintended pregnancy. Seventy percent of all contraceptives are used by women; however, some women are unable to use contraceptives due to health conditions or side effects. Many men wish to take a more active role family planning, but currently have only two effective male contraceptive options, condoms and vasectomy. Therefore, work to develop novel male contraceptives analogous to popular female methods, such as daily pills or long-acting shots and implants, is underway. This paper will briefly discuss the pros and cons of condoms and vasectomies, and then review the research into novel methods of male contraception.

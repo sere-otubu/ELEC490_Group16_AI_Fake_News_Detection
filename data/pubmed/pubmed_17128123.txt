@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Speech therapy
-TITLE: [Speech therapy guidelines in patients with amyotrophic lateral sclerosis].
-PMID: 17128123
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17128123/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Bulbar involvement is usual in patients with amyotrophic lateral sclerosis (ALS), leading to a progressive loss of speech, phonation and swallowing abilities. The goal of the speech therapy is to maintain, as long as possible, those abilities and to devise alternative communication strategies when oral communication is ineffective. This paper presents guidelines for speech therapy during disease progression.

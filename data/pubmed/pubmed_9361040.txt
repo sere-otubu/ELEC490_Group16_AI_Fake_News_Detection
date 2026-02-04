@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sinusitis
-TITLE: Sinusitis and its imaging in the pediatric population.
-PMID: 9361040
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9361040/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Imaging studies for sinusitis add little to the clinical management of the pediatric patient in most instances. The findings shown by paranasal sinus imaging are nonspecific and need to be correlated with clinical findings. Coronal CT is recommended for complications or for recurrent or persistent sinus disease.

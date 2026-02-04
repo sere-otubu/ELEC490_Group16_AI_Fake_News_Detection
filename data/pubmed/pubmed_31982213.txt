@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Public health policy
-TITLE: [Models for public health policy analysis reported in scientific publications].
-PMID: 31982213
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31982213/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To summarize public health policy models reported in studies published between 2002-2017. Using MesH vocabulary, we systematically searched articles in English, Spanish and Portuguese in the PubMed, Scielo, Jstor, ProQuest and Google Scholar data-bases. The quality of the articles was assessed using the tool for understanding a qualitative study by CASPe. A higher proportion of scientific studies were conducted in the African continent. The policies relating to health care were most frequently investigated. Walt and Gilson's model and Kingdon's multiple streams framework were more frequently reported. The articles set out the public policy analysis model, but not the approach to guide it. A more robust theoretical body needs to be built to enable discussion about the approaches and models for the analysis of public policies. Its distinction is relevant, since it can order methodological proposals for the study of policies.

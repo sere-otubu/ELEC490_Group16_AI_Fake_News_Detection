@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pandemic preparedness
-TITLE: Health systems preparedness for COVID-19 pandemic.
-PMID: 32496232
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32496232/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Some nations in the world and some states in India have had more success in containing this pandemic. Recent efforts in strengthening the health sector have focused largely on reforms in modes of financing, but as the pandemic brings home to us, the main challenge in India remains the challenge of the organization of public services using a health systems understanding. A close to community comprehensive primary health care, quality assurance, and planned excess capacity in public health systems, a more robust disease surveillance systems that can integrate data on new outbreaks and the indigenous technological capacity to scale up innovation and manufacture of essential health commodities are some of our most important requirements for both epidemic preparedness and response.

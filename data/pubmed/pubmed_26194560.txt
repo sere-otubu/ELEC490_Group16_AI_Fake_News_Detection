@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26194560)
-    QUESTION: Does cup-cage reconstruction with oversized cups provide initial stability in THA for osteoporotic acetabular fractures?
-    CONTEXT: The incidence of acetabular fractures in osteoporotic patients is increasing. Immediate total hip arthroplasty (THA) has potential advantages, but achieving acetabular component stability is challenging and, at early followup, reported revision rates for loosening are high.QUESTIONS/
-    ANSWER: The majority of acetabular components in this cohort were stable despite the small contact surface achieved between the component and pelvic bone. Three of 10 migrated in excess of the limits that predict later loosening in primary THA but it remains to be seen whether these limits apply to this selected group of frail osteoporotic patients. We continue to use this technique routinely to treat patients with the same indications, but since the analysis of these data we have added screw fixation of the acetabular component to the ischial tuberosity and the superior pubic ramus.
-    

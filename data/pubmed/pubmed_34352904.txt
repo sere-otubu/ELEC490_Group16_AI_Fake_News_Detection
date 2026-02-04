@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rare diseases
-TITLE: Rare Diseases of Larynx, Trachea and Thyroid.
-PMID: 34352904
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34352904/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review article covers data on rare diseases of the larynx, the trachea and the thyroid. In particular, congenital malformations, rare manifestations of inflammatory laryngeal disorders, benign and malignant epithelial as well as non-epithelial tumors, laryngeal and tracheal manifestations of general diseases and, finally, thyroid disorders are discussed. The individual chapters contain an overview of the data situation in the literature, the clinical appearance of each disorder, important key points for diagnosis and therapy and a statement on the prognosis of the disease. Finally, the authors indicate on study registers and self-help groups.

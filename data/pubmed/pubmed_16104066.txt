@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mood stabilizers
-TITLE: A typical mood stabilizers: a "typical role for atypical antipsychotics.
-PMID: 16104066
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16104066/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To assess the potential role of atypical antipsychotics as mood stabilizers. A MedLine, PsychLIT, PubMed, and EMBASE literature search of papers published up to December 2004 was conducted using the names of atypical antipsychotics and a number of key terms relevant to bipolar disorder. Additional articles were retrieved by scrutinizing the bibliographies of review papers and literature known to the authors. Data pertinent to the objective was reviewed according to the various phases of bipolar disorder. The data is most substantive for the use of atypical antipsychotics in mania, to the extent that an argument for a class effect of significant efficacy can be made. This does not extend to bipolar depression, however, good data is now emerging for some agents and will need to be considered for each individual agent as it accumulates. As regards mixed states and rapid cycling the evidence is thus far sparse and too few maintenance studies have been conducted to make any firm assertions. However, with respect to long-term therapy the atypical antipsychotics do have clinically significant side-effects of which clinicians need to be aware. Based on the evidence thus far it is perhaps premature to describe the atypical antipsychotics as mood stabilizers. Individual agents may eventually be able to claim this label, however, much further research is needed especially with respect to maintenance and relapse prevention.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Beta blockers
-TITLE: Beta-blockers as antiarrhythmic agents.
-PMID: 16610347
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16610347/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Drugs that suppress beta-adrenergic signaling by competitively inhibiting agonist binding to beta-adrenergic receptors ("beta-blockers") have important antiarrhythmic properties. They differ from most other antiarrhythmic agents by not directly modifying ion channel function; rather, they prevent the arrhythmia-promoting actions of beta-adrenergic stimulation. beta-Blockers are particularly useful in preventing sudden death due to ventricular tachyarrhythmias associated with acute myocardial ischemia, congenital long QT syndrome, and congestive heart failure. They are also quite valuable in controlling the ventricular rate in patients with atrial fibrillation. This chapter reviews the properties of beta-adrenoceptor signaling, the basic mechanisms of cardiac arrhythmias on which beta-blockers act, the ion channel mediators of beta-adrenergic responses, the evidence for clinical antiarrhythmic indications for beta-blocker therapy and the specific pharmacodynamic and pharmacokinetic properties of beta-blockers that differentiate the various agents of this class.

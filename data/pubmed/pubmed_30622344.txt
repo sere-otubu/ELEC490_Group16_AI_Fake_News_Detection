@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immunotherapy
-TITLE: Delivery technologies for cancer immunotherapy.
-PMID: 30622344
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30622344/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Immunotherapy has become a powerful clinical strategy for treating cancer. The number of immunotherapy drug approvals has been increasing, with numerous treatments in clinical and preclinical development. However, a key challenge in the broad implementation of immunotherapies for cancer remains the controlled modulation of the immune system, as these therapeutics have serious adverse effects including autoimmunity and nonspecific inflammation. Understanding how to increase the response rates to various classes of immunotherapy is key to improving efficacy and controlling these adverse effects. Advanced biomaterials and drug delivery systems, such as nanoparticles and the use of T cells to deliver therapies, could effectively harness immunotherapies and improve their potency while reducing toxic side effects. Here, we discuss these research advances, as well as the opportunities and challenges for integrating delivery technologies into cancer immunotherapy, and we critically analyse the outlook for these emerging areas.

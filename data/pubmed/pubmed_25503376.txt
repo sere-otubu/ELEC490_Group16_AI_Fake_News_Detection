@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25503376)
-    QUESTION: Does airway surgery lower serum lipid levels in obstructive sleep apnea patients?
-    CONTEXT: Obstructive sleep apnea (OSA) is tightly linked to increased cardiovascular disease. Surgery is an important method to treat OSA, but its effect on serum lipid levels in OSA patients is unknown. We aimed to evaluate the effect of upper airway surgery on lipid profiles.
-    ANSWER: Surgery may improve blood lipid levels in patients with OSA, especially in patients with preoperative dyslipidemia, potentially yielding a major benefit in metabolism and cardiovascular sequelae. Prospective studies should examine this potential metabolic effect of airway surgery for OSA.
-    

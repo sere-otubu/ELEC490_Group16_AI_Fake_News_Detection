@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Eczema
-TITLE: Change in gut microbiota for eczema: Implications for novel therapeutic strategies.
-PMID: 29279259
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29279259/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Eczema is one of the most common inflammatory diseases, often constituting a lifelong burden for afflicted individuals. The complex interaction of host genetic and multiple environmental factors contribute to its pathogenesis. A relationship between maladjustment of gut microbiota and eczema has been brought into the light of day in most previous studies. In eczema preclinical models, specific intestinal microbial species have been demonstrated to prohibit or dwindle immune responsiveness, indicating that these strains among commensal gut bacteria may exert either a morbific or phylactic function in eczema progression. As such, oral probiotics can serve as a medicinal approach for eczema therapy. Given that relative scientific work is still at the early stage, only limited data are available in the field. New sequencing techniques have been fortunately performed to gain access to an extended research on the relationship between gut bacterial flora and human diseases. In the current review, we identified the role of intestinal microbiota in the development of eczema and how specific bacterial strains adjust the immune responsiveness in the midst of disease progression. Probiotics as an applicable treatment for eczema were evaluated in other threads as well.

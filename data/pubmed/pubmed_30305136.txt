@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood pressure regulation
-TITLE: The meaning of blood pressure.
-PMID: 30305136
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30305136/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Measurement of arterial pressure is one of the most basic elements of patient management. Arterial pressure is determined by the volume ejected by the heart into the arteries, the elastance of the walls of the arteries, and the rate at which the blood flows out of the arteries. This review will discuss the three forces that determine the pressure in a vessel: elastic, kinetic, and gravitational energy. Emphasis will be placed on the importance of the distribution of arterial resistances, the elastance of the walls of the large vessels, and critical closing pressures in small arteries and arterioles. Regulation of arterial pressure occurs through changes in cardiac output and changes in vascular resistance, but these two controlled variables can sometimes be in conflict.

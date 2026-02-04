@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gout
-TITLE: Early-onset gout.
-PMID: 38336273
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38336273/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Early-onset gout (EOG) is characterized by the occurrence of the first symptoms of gout at an unusually young age, usually <40 years. The aim of this review is to provide an overview of the epidemiology, clinical presentation and prognosis, association with comorbidities and specific management of EOG. A particularly high proportion of patients with EOG come from ethnic groups with stronger genetic factors, such as populations in the Pacific and Taiwan, who therefore have the highest prevalence of gout overall. The clinical presentation and severity of gout are broadly similar between EOG and common gout, although a longer disease duration exacerbates the disease, which more often tends to become polyarticular. Patients suffering from EOG develop metabolic comorbidities commonly associated with gout earlier in life, although those tend to be less frequent at the time of diagnosis. Some international guidelines recommend early treatment of EOG patients with urate-lowering therapies.

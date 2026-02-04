@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Emotional intelligence
-TITLE: Emotional Intelligence and School Bullying Victimization in Children and Youth Students: A Meta-Analysis.
-PMID: 36981648
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36981648/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-School victimization among children and youth is a global public health issue that has long-term adverse effects on the victims' mental health and behavioral development. Theories and research suggest that emotional intelligence may operate as a buffer against school bullying victimization. However, the strength of the association between emotional intelligence and bullying victimization is controversial. Therefore, we aimed to conduct a meta-analysis to evaluate the exact association between Emotional intelligence and school bullying victimization. We conducted a systematic search in PubMed, Web of Science, ProQuest Dissertations, Google Scholar, and China National Knowledge Infrastructure (CNKI) from inception to March 2022 for relevant studies that examine the association between emotional intelligence and school bullying victimization without a language limit. Twenty-four articles were included in our meta-analysis (<i>n</i> = 27,438). There was a small, negative, and significant association between emotional intelligence and school victimization among children and youth students. Sex and emotional intelligence measurement tools were variables that significantly moderated the link between emotional intelligence and bullying victimization. The findings indicated that improving students' emotional intelligence could be a crucial strategy to lower the students' risk of being bullied in school and online. It would be more effective among male students.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Autoimmune diseases
-TITLE: Autoimmune endocrine diseases.
-PMID: 28990742
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28990742/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The endocrine system is interested by several autoimmune diseases, characterized by different impact and severity, according to the organs involved. Autoimmune thyroid disorders (i.e. Hashimoto's thyroiditis and Graves' disease) and type 1 diabetes mellitus are the most common autoimmune endocrine disorders, while hypophysitis, adrenalitis (90% of cases of primary hypocortisolism or Addison's disease), POF and hypoparathyroidism represent quite rare conditions. Autoimmune endocrine diseases can also coexist in the same individuals and cluster in families. Some of these associations are nosologically codified in the so-called autoimmune polyglandular syndromes, but autoimmune endocrinopathies can also be accompanied by other non-endocrine autoimmune disorders (i.e. connective tissue, skin or gastrointestinal diseases). Pathophysiology generally results from a complex interplay among genetic predisposition and environmental/endogenous factors. In the diagnostic process, measurement of organ-specific autoantibodies, both with a causative role or as an epiphenomenon, is often fundamental and integrates the assessment of hormone axes and the targeted imaging studies.

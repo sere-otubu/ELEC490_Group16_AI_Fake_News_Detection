@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Asthma
-TITLE: Diagnosis and treatment of severe asthma: a phenotype-based approach.
-PMID: 29700091
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29700091/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Severe asthma is a heterogeneous and often difficult to treat condition that results in a disproportionate cost to healthcare systems. Appropriate diagnosis and management of severe asthma is critical, as most asthma deaths have been retrospectively identified as having poorly recognised severe asthma. With multiple biologic agents becoming available, it is crucial to correctly phenotype patients in order to identify those that will respond to these high-cost treatments. We provide an overview of the assessment, phenotyping and management of severe asthma in primary and secondary care.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Celiac disease
-TITLE: Coeliac disease.
-PMID: 16483920
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16483920/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Coeliac disease is a gluten-sensitive enteropathy characterized by villous atrophy, hyperplastic crypts and increased numbers of intraepithelial lymphocytes which are reversed by gluten withdrawal. Diverse autoimmune disorders are frequently associated with the disease, and patients also carry an increased risk of gastrointestinal malignancy. This review is aimed at outlining the current knowledge on the contribution of the innate immunity to the whole progress of coeliac disease, catalogued as the prototype of an immune-mediated response dominated by the activation of the adaptive immune system. The accumulated data suggest a model in which the gliadin moiety triggers the upregulation of costimulatory molecules on antigen presenting cells in the lamina propria, and the generation of specialized functions on intraepithelial lymphocytes. In the lamina propria, gliadin effects are essential for the generation of a robust T cell response while in the epithelial compartment, gliadin effects confer both innate-like and TCR-mediated cytotoxicity strongly contributing to tissue injury.

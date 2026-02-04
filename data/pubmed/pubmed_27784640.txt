@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urinalysis
-TITLE: Preanalytics in urinalysis.
-PMID: 27784640
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27784640/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Urine contains an enormous amount of information. Well-standardized procedures for collection, transport, sample preparation and analysis should become the basis of an effective diagnostic strategy for urinalysis. As reproducibility of urinalysis has been greatly improved due to recent technological progress, preanalytical requirements of urinalysis have gained importance and have become stricter. Since the patients themselves often collect urine specimens, urinalysis is very susceptible to preanalytical issues. Various collection methods and inappropriate specimen transport can cause important preanalytical errors. In addition to the insurance of correct collection, the clinical laboratory should optimize transport and sample preservation. Errors due to variation in diuresis may be corrected by recalculating the results using dilution parameters (e.g. osmolality, creatinine, conductivity, urine density). Next to the use of a primary urine container, it is recommended to split the original urine sample into various smaller aliquots for morphological, microbiological and chemical analyses, decreasing the risk of contamination. The use of preservatives may be helpful for particular analytes. A universal urine preservative however does not exist. Preanalytical aspects are also of major importance for newer urinalysis applications (e.g. metabolomics).

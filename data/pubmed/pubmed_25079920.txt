@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25079920)
-    QUESTION: Do parents recall and understand children's weight status information after BMI screening?
-    CONTEXT: As parents of young children are often unaware their child is overweight, screening provides the opportunity to inform parents and provide the impetus for behaviour change. We aimed to determine if parents could recall and understand the information they received about their overweight child after weight screening.
-    ANSWER: While parents remember that their child's body mass index is higher than recommended, they are unable to remember much of the information and advice provided about the result.
-    

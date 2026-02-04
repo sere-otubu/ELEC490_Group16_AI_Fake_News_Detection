@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hives
-TITLE: Approach to Children with Hives.
-PMID: 34044707
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34044707/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Urticaria (or hives) is a pruritic and erythematous skin rash. Angioedema commonly occurs with urticaria. The term "chronic urticaria" is used when hives are present for more than 6 weeks. Acute urticaria is common in children, whereas chronic urticaria is rare. Causes of urticaria can be identified in many cases of acute urticaria with a thorough medical history. Laboratory evaluation may be needed to confirm the etiology of acute urticaria. Chronic urticaria is often idiopathic. Clinicians should avoid universal allergy testing for food allergens or aeroallergens in chronic urticaria as it usually does not help in identifying the cause, can lead to false-positive results, and unnecessary avoidance of allergens or foods. Urticarial vasculitis should be considered for lesions that are painful, present for more than 48 hours, leave scars/hyperpigmentation, or present with systemic symptoms such as fever, weight loss, and arthritis. Skin biopsy should be considered for suspected urticarial vasculitis. <b>[<i>Pediatr Ann</i>. 2021(5):e191-e197.]</b>.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Acne vulgaris
-TITLE: Current Issues in the Treatment of Acne Vulgaris.
-PMID: 32358215
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32358215/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Acne vulgaris is an extraordinarily common skin condition in adolescents. The mainstays of acne treatment have remained largely unchanged over recent years. In the context of increasing antibiotic resistance worldwide, there is a global movement away from antibiotic monotherapy toward their more restrictive use. Classically reserved for nodulocystic acne, isotretinoin has become the drug of choice by dermatologists for moderate to severe acne. Given the virtually ubiquitous nature of acne in teenagers, there remains an appreciable need for novel therapies. In this article, we will cover the currently used acne treatments, evaluate the issues and data supporting their use, explore the issues of compliance and the mental health implications of acne care, and recommend directions for the field of acne management in adolescents in the years ahead.

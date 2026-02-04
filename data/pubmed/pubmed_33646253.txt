@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dental cavities
-TITLE: Dental Caries Are Associated with Anemia in Pediatric Patients: A Systematic Literature Review.
-PMID: 33646253
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33646253/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Dental caries (cavities) and anemia are among the most common chronic diseases seen by health professionals and experienced globally. However, the quality, and current evidence linking pediatric dental caries to anemia, is not well established. Moreover, it is not well known whether anemia seen with dental caries is due to iron deficiency or other causes. This systematic literature review was designed to analyze the relationship between anemia and pediatric dental caries and examine the strength of evidence in current research. Articles were sourced from PubMed, the American Dental Association database, American Dental Hygienist's Association database, Science Direct, Cochrane Library, CINAHL, Google Scholar, and Medline ProQuest. Outcomes were pooled for statistical effect size. Nineteen articles were selected from 351 identified. There was a 4.5-fold incidence in anemia diagnosis among children with, compared to without, dental caries. While ferritin and mean corpuscular volume were not significantly different among children with and without dental caries, the average serum iron was nearly 30 ug/dL greater in caries-free children, suggesting that iron deficiency may be more common among children with caries. Studies in the future may benefit from methodological improvements and more specific study questions to further investigate this question.

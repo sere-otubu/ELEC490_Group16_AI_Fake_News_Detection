@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lymphatic system
-TITLE: Lymphatic system identification, pathophysiology and therapy in the cardiovascular diseases.
-PMID: 31181226
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31181226/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The mammalian circulatory system comprises both the cardiovascular system and the lymphatic system. In contrast to the closed, high-pressure and circular blood vascular circulation, the lymphatic system forms an open, low-pressure and unidirectional transit network from the extracellular space to the venous system. It plays a key role in regulating tissue fluid homeostasis, absorption of gastrointestinal lipids, and immune surveillance throughout the body. Despite the critical physiological functions of the lymphatic system, a complete understanding of the lymphatic vessels lags far behind that of the blood vasculatures due to the challenge of their visualization. During the last 20 years, discoveries of underlying genes responsible for lymphatic vessel biology, combined with state-of-the-art lymphatic function imaging and quantification techniques, have established the importance of the lymphatic vasculature in the pathogenesis of cardiovascular diseases including lymphedema, obesity and metabolic diseases, dyslipidemia, hypertension, inflammation, atherosclerosis and myocardial infraction. In this review, we highlight the most recent advances in the field of lymphatic vessel biology, with an emphasis on the new identification techniques of lymphatic system, pathophysiological mechanisms of atherosclerosis and myocardial infarction, and new therapeutic perspectives of lymphangiogenesis.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18378554)
-    QUESTION: Are wandering and physically nonaggressive agitation equivalent?
-    CONTEXT: The authors examined equivalence of wandering and physically nonaggressive agitation (PNA) as concepts.
-    ANSWER: Findings depict wandering and PNA as overlapping, but nonequivalent phenomena. Evidence supporting construct validity of wandering was more robust than that for PNA. Results have implications for accuracy in scientific and clinical detection and labeling of wandering and agitation.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Maternal mortality rates
-TITLE: Maternal mortality.
-PMID: 12744998
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12744998/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This case-maternal mortality-is one of a series of teaching cases in the Case-Based Series in Population-Oriented Prevention (C-POP). It has been developed for use in medical school and residency prevention curricula. The complete set of cases is presented in this supplement to the American Journal of Preventive Medicine. Maternal mortality remains an important public health concern, even though it is a rare event. This teaching module introduces five case reports of maternal death to provide a clinical lead into discussions about data sources such as death certificates and their limitations. The students will also calculate maternal mortality rates and explore racial disparities in this health indicator. Finally, the students will develop intervention strategies to identify and prevent maternal mortality.

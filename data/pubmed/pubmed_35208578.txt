@@ -1,8 +1,0 @@
-SEARCH_TOPIC: COPD
-TITLE: Patient-Centered Discussion on End-of-Life Care for Patients with Advanced COPD.
-PMID: 35208578
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35208578/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Exacerbations of chronic obstructive pulmonary disease (COPD) may lead to a rapid decline in health and subsequent death, an unfortunate tyranny of having COPD-an irreversible health condition of 16 million individuals in the USA totaling 60 million in the world. While COPD is the third largest leading cause of death, causing 3.23 million deaths worldwide in 2019 (according to the WHO), most patients with COPD do not receive adequate treatment at the end stages of life. Although death is inevitable, the trajectory towards end-of-life is less predictable in severe COPD. Thus, clinician-patient discussion for end-of-life and palliative care could bring a meaningful life-prospective to patients with advanced COPD. Here, we summarized the current understanding and treatment of COPD. This review also highlights the importance of patient-centered discussion and summarizes current status of managing patients with advanced COPD.

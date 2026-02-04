@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Glaucoma
-TITLE: Risk factors for open-angle glaucoma and recommendations for glaucoma screening.
-PMID: 33881589
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33881589/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Open-angle glaucomas are a group of chronic progressive optic nerve neuropathies with a gonioscopic open anterior chamber angle. They are one of the main causes of visual impairment and blindness in industrialized countries. The aim of this article is to discuss and evaluate the epidemiology and risk factors for the development of open-angle glaucoma and to present the screening procedure for open-angle glaucoma according to the recently published S2e guidelines of the Association of the Scientific Medical Societies in Germany (AWMF).

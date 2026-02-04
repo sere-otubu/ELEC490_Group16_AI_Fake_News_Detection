@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Integrative health
-TITLE: Bringing Generalists to Global Health: a Missed Opportunity and Call to Action.
-PMID: 38135777
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38135777/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The credo of the generalist physician has always been the promotion of health for all, in every aspect: not just multiple vulnerable organ systems, but multiple social, cultural, and political factors that contribute to poor health and exacerbate health inequity. In recent years, the field of global health has also adopted this same mission: working across both national and clinical specialty borders to improve health for all and end health disparities worldwide. Yet within the Society for General Internal Medicine, and among American generalists, engagement in global health, both within and outside the USA, remains uncommon. We see this gap as an opportunity, because in fact generalists in America already have the skills and experience that global health badly needs. SGIM could promote generalists to global health's vanguard, with three core steps. First, we generalists must continue to integrate health for the vulnerable into our domestic work, generating care models applicable in low-resource settings around the globe. Conversely, we must also engage with and implement international ideas and solutions for universal access to primary care for vulnerable patients in the USA. And lastly, we must build platforms to connect ourselves with colleagues worldwide to exchange these learnings.

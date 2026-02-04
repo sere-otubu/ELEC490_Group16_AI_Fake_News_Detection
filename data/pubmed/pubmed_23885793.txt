@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Endoscopy
-TITLE: An update on pediatric endoscopy.
-PMID: 23885793
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23885793/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Advances in endoscopy and anesthesia have enabled gastrointestinal endoscopy for children since 1960. Over the past decades, the number of endoscopies has increased rapidly. As specialized teams of pediatric gastroenterologists, pediatric intensive care physicians and pediatric endoscopy nurses are available in many medical centers, safe and effective procedures have been established. Therefore, diagnostic endoscopies in children are routine clinical procedures. The most frequently performed endoscopies are esophagogastroduodenoscopy (EGD), colonoscopy and endoscopic retrograde cholangiopancreaticography (ERCP). Therapeutic interventions include variceal bleeding ligation, foreign body retrieval and percutaneous endoscopic gastrostomy. New advances in pediatric endoscopy have led to more sensitive diagnostics of common pediatric gastrointestinal disorders, such as Crohn's disease, ulcerative colitis and celiac disease; likewise, new diseases, such as eosinophilic esophagitis, have been brought to light.Upcoming modalities, such as capsule endoscopy, double balloon enteroscopy and narrow band imaging, are being established and may contribute to diagnostics in pediatric gastroenterology in the future.

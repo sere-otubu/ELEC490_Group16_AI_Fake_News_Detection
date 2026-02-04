@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Erectile dysfunction
-TITLE: Erectile dysfunction: an overview.
-PMID: 9528911
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9528911/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Erectile dysfunction is a common (affecting 10-20 million men in the USA) and multifactorial disease due to organic and/or psychological factors that strongly impairs the quality of life in man. During the past decade many advances in the understanding of the pathophysiology of erectile dysfunction have been made and new therapeutic strategies have become available. It has been established that an insufficient production of nitric oxide by penile nerve terminals and/or vascular endothelium may result in an impaired erection or complete impotence. Nowadays, intracavernous injection of vasoactive drugs represents a standardized approach for the diagnosis, and the treatment of choice, for erectile dysfunction, but is not widely accepted by the patients. The possibility of treating erectile dysfunction with intraurethral administration of prostaglandin-E1 has recently become available in the USA, and is a therapy more acceptable to the patients. Other noninvasive medical therapies are undergoing evaluation.

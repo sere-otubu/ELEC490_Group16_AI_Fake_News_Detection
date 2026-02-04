@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sinusitis
-TITLE: Chronic sinusitis: clinical and pathophysiological aspects.
-PMID: 8067243
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8067243/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sinusitis can be defined as inflammation of the paranasal sinus mucosa. However, the definition of chronic sinusitis is not yet fully established. As chronic sinusitis occurs both on an infectious and non-infectious basis there are many symptoms, local as well as general, from the upper respiratory tract. It is generally agreed that the time aspect of the disease is important. Long-term symptoms, i.e. more than 3 months, and objective findings of mucosal inflammation are criteria for chronic sinusitis. In clinical practice it is also important to realize that mucosal changes usually persist for at least 8 weeks after the treatment of an acute infection. Interest has lately been focused on local sinusal inflammation, especially on the inflammatory cells whose immunoactive products seem to keep inflammation ongoing even after the infection is cured. It is not clear to which extent the mucosal damage, with granulation tissue, polyp formation and fibrosis, is reversible. In chronic sinusitis, the ostial function is disturbed, especially in patients with nasal polyposis. This function must be re-established, but it is still uncertain whether obstruction in the osteomeatal complex is primary or secondary to other factors. Further research into local immunological factors and analysis of the development of special local tissue pathology in sinusitis is necessary in order to be able to establish exactly why acute sinusitis does not resolve but turns into a chronic inflammatory disease.

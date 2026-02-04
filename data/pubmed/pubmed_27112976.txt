@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urinary tract infection
-TITLE: Urinary tract infection in kidney transplant recipients.
-PMID: 27112976
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27112976/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Infectious complications remain a major cause of morbidity and mortality among transplant recipients. Urinary tract infection (UTI) is the most common infectious complication in kidney transplant recipients with a reported incidence from 25% to 75%, varies widely likely due to differences in definition, diagnostic criteria, study design, and length of observation. We sought reviews the incidence and importance of urinary tract infection on graft survival, the microbiology with special emphasis on multidrug resistant microorganisms, the therapeutic management of UTI and the prophylaxis of recurrent UTI among solid organ transplant recipients, highlighting the need for prospective clinical trials to unify the clinical management in this population.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Leukemia
-TITLE: Adipocytes in hematopoiesis and acute leukemia: friends, enemies, or innocent bystanders?
-PMID: 32474572
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32474572/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The bone marrow is home to well-balanced normal hematopoiesis, but also the stage of leukemia's crime. Marrow adipose tissue (MAT) is a unique and versatile component of the bone marrow niche. While the importance of MAT for bone health has long been recognized, its complex role in hematopoiesis has only recently gained attention. In this review article we summarize recent conceptual advances in the field of MAT research and how these developments impact our understanding of MAT regulation of hematopoiesis. Elucidating routes of interaction and regulation between MAT and cells of the hematopoietic system are essential to pinpoint vulnerable processes resulting in malignant transformation. The concept of white adipose tissue contributing to cancer development and progression on the cellular, metabolic, and systemic level is generally accepted. The role of MAT in malignant hematopoiesis, however, is controversial. MAT is very sensitive to changes in the patient's metabolic status hampering a clear definition of its role in different clinical situations. Here, we discuss future directions for leukemia research in the context of metabolism-induced modifications of MAT and other adipose tissues and how this might impact on leukemia cell survival, proliferation, and antileukemic therapy.

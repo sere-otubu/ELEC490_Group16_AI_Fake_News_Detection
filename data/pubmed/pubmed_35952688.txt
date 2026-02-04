@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Radiation therapy
-TITLE: Radiation Therapy for Soft Tissue Sarcoma: Indications, Timing, Benefits, and Consequences.
-PMID: 35952688
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35952688/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Radiation therapy is an integral component of local management with oncologic resection for soft tissue sarcoma. Radiotherapy is indicated in patients at an increased risk of local recurrence so that improved local control may be achieved. Sequencing of radiotherapy and resection should be determined by multidisciplinary input before treatment initiation. For most patients, preoperative delivery of radiation therapy is preferred. In patients initially thought to be at low risk for local recurrence and found to have unexpected adverse pathologic features at resection, postoperative radiation therapy is indicated. The use of radiation therapy for retroperitoneal sarcoma is controversial; when used, preoperative delivery of radiation is recommended.

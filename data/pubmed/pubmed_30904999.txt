@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hyperthyroidism
-TITLE: Hyperthyroidism influences renal function.
-PMID: 30904999
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30904999/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-While the effects of hypothyroidism on renal function have been studied extensively, there is less information concerning the effect of hyperthyroidism. We aimed to elucidate the effect of overt and subclinical hyperthyroidism, on estimated glomerular filtration rate (eGFR) with large number of patients treated for hyperthyroidism and after euthyroidism was achieved. A total of 433 consecutive overt and subclinical hyperthyroid patients were included in the study. We assessed serum fT3, fT4, TSH, BUN, creatinine, and eGFR measurements during both hyperthyroid and euthyroid states of the same patients. The eGFR was calculated using the simplified modification of diet in renal disease (MDRD) Formula. Among these patients, 367 had overt, and 66 had subclinical hyperthyroidism. fT3, fT4, and eGFR measurements decreased, meanwhile BUN, creatinine and TSH levels increased significantly after euthyroidism was achieved (p < 0.0001 for all). The correlation analyses revealed that eGFR in hyperthyroid state (eGFRh) and fT3 in hyperthyroid state (fT3h) (r = 0,210, p < 0,0001), and fT4 in hyperthyroid state (fT4h) (r = 0,176, p < 0,0001) were significantly correlated. ∆GFR did not differ between overt hyperthyroid group and subclinical hyperthyroid group. We observed a significant decline in eGFR measurements after the patients became euthyroid. Some of these patients had lower values than 60 mL/min/1.73 m<sup>2</sup>, which mean that hyperthyroidism may be masking mild renal failure.

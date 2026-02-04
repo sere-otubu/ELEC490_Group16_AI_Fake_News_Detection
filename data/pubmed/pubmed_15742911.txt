@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Panic disorder
-TITLE: Treatment of panic disorder.
-PMID: 15742911
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15742911/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Panic disorder with or without agoraphobia occurs commonly in patients in primary care settings. This article assesses multiple evidence-based reviews of effective treatments for panic disorder. Antidepressant medications successfully reduce the severity of panic symptoms and eliminate panic attacks. Selective serotonin reuptake inhibitors and tricyclic antidepressants are equally effective in the treatment of panic disorder. The choice of medication is based on side effect profiles and patient preferences. Strong evidence supports the effectiveness of cognitive behavior therapy in treating panic disorder. Family physicians who are not trained in cognitive behavior therapy may refer patients with panic disorder to therapists with such training. Cognitive behavior therapy can be used alone or in combination with antidepressants to treat patients with panic disorder. Benzodiazepines are effective in treating panic disorder symptoms, but they are less effective than antidepressants and cognitive behavior therapy.

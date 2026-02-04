@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Osteoporosis
-TITLE: Osteoporosis: gender-specific aspects.
-PMID: 15552228
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15552228/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Traditionally, osteoporosis has been regarded as a disease of postmenopausal women; nevertheless, although osteoporosis is more common in women than in men, osteoporosis in men is a frequent and a severe condition. Osteoporosis generally can be characterized as either primary or secondary; in men secondary osteoporosis is more frequent than in women. The role of estrogen deficiency in the pathogenesis of postmenopausal osteoporosis is clearly established; remarkably, evidence accumulated over the past years strongly suggests that estrogen also plays the dominant role in regulating the male skeleton. Several independent studies observed decreased serum estradiol levels in men with idiopathic osteoporosis. In contrast to postmenopausal osteoporosis, there are only few studies on the treatment of osteoporosis in men; two different compounds (alendronate and teriparatide) appear to be equally effective in men and women.

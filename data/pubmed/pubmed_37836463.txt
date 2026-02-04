@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Weight gain strategies
-TITLE: Nutritional Strategies to Prevent Weight Gain and Obesity.
-PMID: 37836463
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37836463/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-It has now been 25 years since the World Health Organisation (Geneva, Switzerland) drew attention to the obesity epidemic (later becoming a pandemic) [...].

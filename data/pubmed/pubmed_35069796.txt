@@ -1,8 +1,0 @@
-SEARCH_TOPIC: White blood cells
-TITLE: Computational Intelligence Method for Detection of White Blood Cells Using Hybrid of Convolutional Deep Learning and SIFT.
-PMID: 35069796
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35069796/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Infection diseases are among the top global issues with negative impacts on health, economy, and society as a whole. One of the most effective ways to detect these diseases is done by analysing the microscopic images of blood cells. Artificial intelligence (AI) techniques are now widely used to detect these blood cells and explore their structures. In recent years, deep learning architectures have been utilized as they are powerful tools for big data analysis. In this work, we are presenting a deep neural network for processing of microscopic images of blood cells. Processing these images is particularly important as white blood cells and their structures are being used to diagnose different diseases. In this research, we design and implement a reliable processing system for blood samples and classify five different types of white blood cells in microscopic images. We use the Gram-Schmidt algorithm for segmentation purposes. For the classification of different types of white blood cells, we combine Scale-Invariant Feature Transform (SIFT) feature detection technique with a deep convolutional neural network. To evaluate our work, we tested our method on LISC and WBCis databases. We achieved 95.84% and 97.33% accuracy of segmentation for these data sets, respectively. Our work illustrates that deep learning models can be promising in designing and developing a reliable system for microscopic image processing.

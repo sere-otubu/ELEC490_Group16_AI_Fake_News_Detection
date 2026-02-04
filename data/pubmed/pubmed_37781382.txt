@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immune response
-TITLE: Innate immune response restarts adaptive immune response in tumors.
-PMID: 37781382
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37781382/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The imbalance of immune response plays a crucial role in the development of diseases, including glioblastoma. It is essential to comprehend how the innate immune system detects tumors and pathogens. Endosomal and cytoplasmic sensors can identify diverse cancer cell antigens, triggering the production of type I interferon and pro-inflammatory cytokines. This, in turn, stimulates interferon stimulating genes, enhancing the presentation of cancer antigens, and promoting T cell recognition and destruction of cancer cells. While RNA and DNA sensing of tumors and pathogens typically involve different receptors and adapters, their interaction can activate adaptive immune response mechanisms. This review highlights the similarity in RNA and DNA sensing mechanisms in the innate immunity of both tumors and pathogens. The aim is to enhance the anti-tumor innate immune response, identify regions of the tumor that are not responsive to treatment, and explore new targets to improve the response to conventional tumor therapy and immunotherapy.

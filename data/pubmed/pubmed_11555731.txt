@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lyme disease
-TITLE: Lyme disease.
-PMID: 11555731
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11555731/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Lyme disease is the most common tick-borne disease in the United States, and the number of reported cases has increased steadily since 1992. Coinfection of ticks with Borrelia burgdorferi and Ehrlichia phagocytophila did not appear to affect the transmission of the other agent. Serologic evidence of exposure to Babesia microti did not significantly impact the clinical course of Lyme disease. Two clinical studies indicated that the long-term outcome of Lyme disease is good. Results are pending of chronic Lyme disease studies funded by the US National Institutes of Health. A better understanding of the pathogenesis of Lyme disease provided clues about possible mechanisms for persistent symptoms. Use of the current method of diagnosis by the two-step approach has proven to be reliable, but new methods are under investigation. Treatment guidelines were published recently. OspA vaccination of children aged 2 to 5 years was shown to be safe and immunogenic.

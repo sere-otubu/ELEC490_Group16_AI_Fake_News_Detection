@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Celiac disease
-TITLE: Coeliac disease.
-PMID: 12408460
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12408460/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In the last few decades, the comprehension of epidemiological, pathogenic and clinical aspects of coeliac disease has increasingly improved. Serological screening studies on the general population have shown that the true coeliac disease prevalence in Europe is higher than previously reported. It has become clear that tissue transglutaminase has a crucial role in the pathogenesis of coeliac disease pathogenesis, and there is evidence that substitution of deamidated amino acidic residues at a critical position along the gliadin sequence dramatically increases immunological activation. The toxicity of many gluten epitopes has been investigated, so far, but recent studies have indicated the region 57-75 of alpha gliadin as a possible candidate epitope in the pathogenesis of coeliac disease. However, the wide heterogeneity of gliadin and glutenin molecules complicate any attempts to identify the toxic epitope, and the fascinating idea to produce detoxified grains will represent a great challenge in the near future. From a clinical point of view, there is now evidence of a broad spectrum of gluten conditions. Extra-intestinal signs, i.e., alopecia, unexplained neurological disorders, cryptic hypertransaminasaemia, increased red cell width, frequently constitute the only clinical manifestation at the diagnosis.

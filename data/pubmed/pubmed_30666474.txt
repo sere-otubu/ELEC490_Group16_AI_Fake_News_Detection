@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dementia
-TITLE: Dementia: new vistas and opportunities.
-PMID: 30666474
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30666474/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Over the past four decades, Alzheimer disease has become near synonymous with dementia and the amyloid/tau hypothesis as its dominant explanation. However, this monorail approach to etiology has failed to yield a single disease-modifying drug. Part of the explanation stems from the fact that most dementias in the elderly result from interactive Alzheimer and cerebrovascular pathologies. Stroke and dementia share the same risk factors and their control is associated with a decrease in stroke and some dementias. Additionally, intensive control of risk factors and enhancement of protective factors improve cognition. Moreover, anticoagulation of atrial fibrillation patients decreases their chance of developing dementia by 48%. Preliminary data suggest that treating blood pressure to a target of 120 mmHg systolic compared to a target of 140 mmHg decreases the chances of mild cognitive impairment by 19%. The Berlin Manifesto establishes the scientific bases of "preventing dementia by preventing stroke." Enlarging our vista of dementia to include cerebrovascular disease offers the opportunity of preventing not only stroke, but some dementias, beginning now.

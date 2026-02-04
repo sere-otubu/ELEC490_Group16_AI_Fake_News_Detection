@@ -1,8 +1,0 @@
-SEARCH_TOPIC: PTSD
-TITLE: Pathophysiological aspects of complex PTSD - a neurobiological account in comparison to classic posttraumatic stress disorder and borderline personality disorder.
-PMID: 35938987
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35938987/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Despite a great diagnostic overlap, complex posttraumatic stress disorder (CPTSD) has been recognised by the ICD-11 as a new, discrete entity and recent empirical evidence points towards a distinction from simple posttraumatic stress disorder (PTSD) and borderline personality disorder (BPD). The development and maintenance of these disorders is sustained by neurobiological alterations and studies using functional magnetic resonance imaging (fMRI) may further contribute to a clear differentiation of CPTSD, PTSD and BPD. However, there are no existing fMRI studies directly comparing CPTSD, PTSD and BPD. In addition to a summarization of diagnostic differences and similarities, the current review aims to provide a qualitative comparison of neuroimaging findings on affective, attentional and memory processing in CPTSD, PTSD and BPD. Our narrative review alludes to an imbalance in limbic-frontal brain networks, which may be partially trans-diagnostically linked to the degree of trauma symptoms and their expression. Thus, CPTSD, PTSD and BPD may underlie a continuum where similar brain regions are involved but the direction of activation may constitute its distinct symptom expression. The neuronal alterations across these disorders may conceivably be better understood along a symptom-based continuum underlying CPTSD, PTSD and BPD. Further research is needed to amend for the heterogeneity in experimental paradigms and sample criteria.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rosacea
-TITLE: Recent advances in understanding and managing rosacea.
-PMID: 30631431
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30631431/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rosacea is a common chronic inflammatory skin disease of the central facial skin and is of unknown origin. Currently, two classifications of rosacea exist that are based on either "preformed" clinical subtypes (erythematotelangiectatic, papulopustular, phymatous, and ocular) or patient-tailored analysis of the presented rosacea phenotype. Rosacea etiology and pathophysiology are poorly understood. However, recent findings indicate that genetic and environmental components can trigger rosacea initiation and aggravation by dysregulation of the innate and adaptive immune system. Trigger factors also lead to the release of various mediators such as keratinocytes (for example, cathelicidin, vascular endothelial growth factor, and endothelin-1), endothelial cells (nitric oxide), mast cells (cathelicidin and matrix metalloproteinases), macrophages (interferon-gamma, tumor necrosis factor, matrix metalloproteinases, and interleukin-26), and T helper type 1 (T <sub>H</sub>1) and T <sub>H</sub>17 cells. Additionally, trigger factors can directly communicate to the cutaneous nervous system and, by neurovascular and neuro-immune active neuropeptides, lead to the manifestation of rosacea lesions. Here, we aim to summarize the recent advances that preceded the new rosacea classification and address a symptom-based approach in the management of patients with rosacea.

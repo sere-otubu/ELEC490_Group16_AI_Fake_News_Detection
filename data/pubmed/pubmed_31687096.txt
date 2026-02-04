@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vitamins and minerals
-TITLE: Supplemental Vitamins and Minerals for Cardiovascular Disease Prevention and Treatment.
-PMID: 31687096
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31687096/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Vitamins and minerals are dietary supplements used by almost half of the US adult population based on the presumption that they help prevent or treat cardiovascular disease. Many studies, including randomized trials, have investigated the possible role of these substances in cardiovascular disease. We reviewed the available data on multivitamins/multiminerals, antioxidants, folic acid, vitamin E, niacin (B3), and beta-carotene. Despite extensive investigation, the evidence to date fails to support the use of exogenous supplements of vitamins and minerals for the prevention or treatment of cardiovascular disease. Here, we review some of the common supplements used by adults for cardiovascular health and the available evidence for risks/benefits.

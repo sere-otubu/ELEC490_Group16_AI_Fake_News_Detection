@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hemophilia
-TITLE: Treating hemophilia.
-PMID: 7942503
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7942503/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hemophilias A and B are inherited disorders of clotting-factor production that are characterized by low levels of factor VIII- or IX-coagulant activity. The clinical course of patients with hemophilia is marked by episodes of hemorrhage, some spontaneous and some related to trauma or medical procedures. The physical well-being of patients with hemophilia is maintained by the prevention of bleeding when possible and by prompt, effective treatment of bleeding when it occurs. Factor-replacement therapy continues to be the mainstay of hemophilia treatment, but like pharmacotherapy for other disease states, it is most effective when provided within the framework of a well-designed, individualized therapeutic plan. Currently available factor concentrates have a much greater safety profile than older products, but they are not free of adverse effects. Patients with inhibitors continue to present a challenge in restoring hemostasis. Pharmacists can play an important role in the pharmaceutical care of patients with hemophilia.

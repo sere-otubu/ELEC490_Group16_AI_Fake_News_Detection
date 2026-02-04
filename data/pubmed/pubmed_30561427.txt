@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chemotherapy
-TITLE: Advanced gastric cancer: the value of systemic and intraperitoneal chemotherapy.
-PMID: 30561427
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30561427/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Several possibilities in treating advanced gastric cancer exist. Radical surgery associated with chemotherapy represents the cornerstone. Which one is more effective among neoadjuvant, adjuvant or perioperative chemotherapy is still a matter of debate. Several innovative results showed the necessity to keep increasingly into consideration the intraperitoneal administration of chemotherapies. Moreover, classical drugs and their ways of administration should be combined with the new ones to improve results. Lastly the prevention of recurrence should be considered: one possibility is to administer intraperitoneal chemotherapy earlier in the therapeutic algorithm.

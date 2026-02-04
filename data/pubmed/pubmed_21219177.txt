@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Inflammation mechanism
-TITLE: Inflammatory mechanisms in obesity.
-PMID: 21219177
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21219177/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The modern rise in obesity and its strong association with insulin resistance and type 2 diabetes have elicited interest in the underlying mechanisms of these pathologies. The discovery that obesity itself results in an inflammatory state in metabolic tissues ushered in a research field that examines the inflammatory mechanisms in obesity. Here, we summarize the unique features of this metabolic inflammatory state, termed metaflammation and defined as low-grade, chronic inflammation orchestrated by metabolic cells in response to excess nutrients and energy. We explore the effects of such inflammation in metabolic tissues including adipose, liver, muscle, pancreas, and brain and its contribution to insulin resistance and metabolic dysfunction. Another area in which many unknowns still exist is the origin or mechanism of initiation of inflammatory signaling in obesity. We discuss signals or triggers to the inflammatory response, including the possibility of endoplasmic reticulum stress as an important contributor to metaflammation. Finally, we examine anti-inflammatory therapies for their potential in the treatment of obesity-related insulin resistance and glucose intolerance.

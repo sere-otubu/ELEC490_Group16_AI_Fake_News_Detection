@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sciatica
-TITLE: Sciatica: review of epidemiological studies and prevalence estimates.
-PMID: 18923325
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18923325/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Review of studies on sciatica prevalence and synthesis of available evidence. To assess the studies on sciatica prevalence, discuss reasons for variation in estimates, provide suggestions for improving accuracy of recording sciatica in epidemiological and outcome studies so as to enable better evaluation of natural history and treatment effect in the presence of low back pain related sciatica. Sciatica is a common cause of pain and disability. It is more persistent and severe than low back pain, has a less favorable outcome and consumes more health resources. However, sciatica prevalence rates reported in different studies and reviews vary considerably and provide no clear picture about sciatica prevalence. A literature search of all English language peer reviewed publications was conducted using Medline, EMBASE, and CINAHL for the years 1980-2006. Two reviewers extracted data on sciatica prevalence and definitions from the identified articles. Of the papers retrieved, 23 were included in the review. Only 2 studies out of the 23 used clinical assessment for assessing sciatic symptoms, and definitions of sciatica varied widely. Sciatica prevalence from different studies ranged from 1.2% to 43%. Sciatica prevalence estimates vary considerably between studies. This may be due to differences in definitions, methods of data collection and perhaps populations studied. Suggestions are made on how to improve accuracy of capturing sciatica in epidemiological studies.

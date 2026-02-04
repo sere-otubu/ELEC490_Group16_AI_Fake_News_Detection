@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Psychotherapy
-TITLE: Conversational model psychotherapy.
-PMID: 28541727
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28541727/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To briefly outline historical development, theoretical orientation, evidence and areas of application for Conversational Model Psychotherapy. Conversational Model Therapy remains an important evidence-based option in fostering recovery and growth for many patients with traumatic disruptions and restrictions of self. It is one of an emerging group of relational psychotherapies, broadly reflecting a change from a one person to a two person (intersubjective) psychological paradigm in psychotherapy.

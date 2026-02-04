@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Acupuncture
-TITLE: [Acupuncture and moxibustion in Germany].
-PMID: 16309107
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16309107/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although Germany is an important cradle of Western medicine, traditional Chinese acupuncture and moxibustion are widely accepted and have been developed hardly in Germany for several centuries. This paper reviews the development courses of acupuncture and moxibustion in Germany, and gives an introduction to the level of acupuncture and moxibustion science, acupuncture in medical insurance, acupuncture research, acupuncture clinics, acupuncture organizations, acupuncture journals and trend of acupuncture development in Germany.

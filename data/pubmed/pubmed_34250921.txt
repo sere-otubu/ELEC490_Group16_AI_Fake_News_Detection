@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mastectomy
-TITLE: Prediction of seroma after total mastectomy using an artificial neural network algorithm.
-PMID: 34250921
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34250921/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Seroma is a common complication after mastectomy. To the best of our knowledge, no prediction models have been developed for this. Henceforth, medical records of total mastectomy patients were retrospectively reviewed. Data consisting of 120 subjects were divided into a training-validation data set (96 subjects) and a testing data set (24 subjects). Data was learned by using a 9-layer artificial neural network (ANN), and the model was validated using 10-fold cross-validation. The model performance was assessed by a confusion matrix in the validating data set. The receiver operating characteristic curve was constructed, and the area under the curve (AUC) was also calculated. Pathology type, presence of hypertension, presence of diabetes, receiving of neoadjuvant chemotherapy, body mass index, and axillary lymph node (LN) management (i.e., sentinel LN biopsy and axillary LN dissection) were selected as predictive factors in a model developed from the neural network algorithm. The model yielded an AUC of 0.760, which corresponded with a level of acceptable discrimination. Sensitivity, specificity, accuracy, and positive and negative predictive values were 100%, 52.9%, 66.7%, 46.7%, and 100%, respectively. Our model, which was developed from the ANN algorithm can predict seroma after total mastectomy with high sensitivity. Nevertheless, external validation is still needed to confirm the performance of this model.

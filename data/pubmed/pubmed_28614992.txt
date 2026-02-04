@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic screening
-TITLE: Preimplantation genetic screening.
-PMID: 28614992
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28614992/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Preimplantation genetic diagnosis was first successfully performed in 1989 as an alternative to prenatal diagnosis for couples at risk of transmitting a genetic or chromosomal abnormality, such as cystic fibrosis, to their child. From embryos generated in vitro, biopsied cells are genetically tested. From the mid-1990s, this technology has been employed as an embryo selection tool for patients undergoing in vitro fertilisation, screening as many chromosomes as possible, in the hope that selecting chromosomally normal embryos will lead to higher implantation and decreased miscarriage rates. This procedure, preimplantation genetic screening, was initially performed using fluorescent in situ hybridisation, but 11 randomised controlled trials of screening using this technique showed no improvement in in vitro fertilisation delivery rates. Progress in genetic testing has led to the introduction of array comparative genomic hybridisation, quantitative polymerase chain reaction, and next generation sequencing for preimplantation genetic screening, and three small randomised controlled trials of preimplantation genetic screening using these new techniques indicate a modest benefit. Other trials are still in progress but, regardless of their results, preimplantation genetic screening is now being offered globally. In the near future, it is likely that sequencing will be used to screen the full genetic code of the embryo.

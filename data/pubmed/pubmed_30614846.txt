@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Opioid addiction
-TITLE: Treating Opioid Dependence: Pain Medicine Physiology of Tolerance and Addiction.
-PMID: 30614846
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30614846/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Inappropriate and excessive opioid prescribing practices for treatment of chronic nonmalignant pain contributed to rising rates of opioid related mortality. Effective and widely available opioid addiction treatment resources are needed to ensure successful resolution of the "opioid epidemic". This chapter outlines the basic pathophysiology of addiction as well as principles of opioid addiction management focusing on the pharmacological and nonpharmacological aspects of care. Pharmacological treatment focuses on opioid substitution therapy, with aim at prevention of opioid cravings and opioid withdrawal symptoms. Nonpharmacological treatment involves psychological and supportive approaches to addiction such as group meetings, psychological counseling, and mindfulness training.

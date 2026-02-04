@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gonorrhea
-TITLE: STI pathogens in the oropharynx: update on screening and treatment.
-PMID: 38112085
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38112085/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The rise in antimicrobial resistance in several STI pathogens such as Neisseria gonorrhoeae has become a public health threat as only one first-line treatment remains. Reducing screening interval for gonorrhoea and chlamydia in high-prevalence populations has been proposed to address antimicrobial stewardship, but this remains controversial. This review aimed to revisit the epidemiology of infections at the oropharynx and review the current screening recommendations and treatment guidelines in different populations. Emerging evidence suggests that the oropharynx is the primary anatomical site for gonorrhoea transmission but maybe not for chlamydia transmission. Most international guidelines recommend 3-monthly oropharyngeal gonorrhoea and chlamydia screening for high-prevalence populations (e.g. men who have sex with men) but not low-prevalence populations (e.g. heterosexuals) given the clinical and public health benefits of screening in low-prevalence populations are still unclear. Doxycycline remains the first-line treatment for oropharyngeal chlamydia in most guidelines. However, some countries have moved from dual therapy (ceftriaxone and azithromycin) to monotherapy (ceftriaxone) for oropharyngeal gonorrhoea treatment to address antimicrobial stewardship. The transmission of gonorrhoea and chlamydia is still not fully understood. Further work will be required to evaluate the benefits and harms of reducing screening in high-prevalence populations.

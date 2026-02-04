@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19520213)
-    QUESTION: Are UK radiologists satisfied with the training and support received in suspected child abuse?
-    CONTEXT: A list of telephone numbers of UK hospitals with a radiology department was obtained from the Royal College of Radiologists. One hundred hospitals were then randomly selected for inclusion in the survey. An 18-item questionnaire was successfully administered to consultant radiologists from 84 departments.
-    ANSWER: The survey shows significant dissatisfaction amongst consultant radiologists with the current service, confirms a low number of paediatric radiologists taking on this work, and suggests the potential to increase numbers of radiology child abuse experts by 27% if given improved training and support. Appropriate service and education strategies should be implemented.
-    

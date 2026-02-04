@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mental health stigma
-TITLE: Mental health stigma: a conundrum for healthcare practitioners in conservative communities.
-PMID: 38813403
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38813403/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This paper presents perspectives on the stigma and shame around mental health in conservative communities, and some of the issues faced by health systems in those communities. The various causes of stigma are explored, and how these are often more pronounced in culturally reserved, conservative communities. While health systems are supposed to provide support for mental health sufferers, this stigma sometimes even extends to healthcare workers, which can discourage patients from asking for assistance. Solutions and reforms are needed, for example education programs; addressing gender norms, and the consideration of culture and religion, to form effective solutions. It is also suggested that alternative therapies and support mechanisms, including digital solutions such as artificial intelligence chatbots, may be useful to provide much needed support to individuals with poor mental health. Along with integrating options such as CBT (cognitive behavioral therapy), it may be useful to draw on indigenous psychologies, such as Islamic psychology, as a way of decolonizing approaches. Therefore, when considering solutions, cultural and religious norms must be considered to ensure their efficacy and acceptance.

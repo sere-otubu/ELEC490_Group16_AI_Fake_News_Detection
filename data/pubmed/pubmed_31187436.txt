@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Geriatric psychiatry
-TITLE: Geriatric Psychiatry Inpatient Primer for Residents.
-PMID: 31187436
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31187436/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The authors describe a novel curricular intervention that enhances first- and second-year psychiatry residents' geriatric psychiatry knowledge while preparing them for overnight call. A brief, four-page document covering evaluation and management of common clinical scenarios in older adults, including agitation, falls, insomnia, chest pain, abnormal vital signs, and review of pharmacologic interventions, was presented to first- and second-year psychiatry residents. The residents completed an anonymous survey including their comfort level in answering pages and knowledge-based questions regarding evidence-based interventions both before and after the intervention. The pre-survey and post-survey were analyzed using the Wilcoxon-signed rank test, paired T test, and Mann-Whitney U test. The residents demonstrated statistically significant changes in first-line medication choices for common clinical scenarios such as non-aggressive agitation and insomnia. They were less likely to choose medications that should be avoided in elderly based on expert panel recommendations. Findings support the need for educational interventions designed to help residents taking call with geriatric patients. The results demonstrated an improvement in clinical knowledge following this brief intervention.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Statins
-TITLE: Statins in hereditary myopathies: to give or not to give.
-PMID: 38889624
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38889624/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hyperlipidemia is not uncommon in patients with hereditary myopathies who get older and also in several conditions in which it is frequently observed. Thus, using the common cholesterol reducing medications of the stains group could be considered. However, the side effects of these drugs include myalgia, myopathy and rhabdomyolysis typically associated with high serum creatine kinase (CK). Because high CK levels are very frequently found in hereditary myopathies, physicians are reluctant to use statins in such patients. Reviewing the literature about statin side effects in hereditary myopathies does not provide a clear evidence about the true risk of these drugs. This review critically describes the reported cases of statin side effects in several genetic myopathies and suggests some guidelines for conditions that are contra indicated for statin usage (particularly in mitochondrial disorders, metabolic myopathies, myotonic dystrophy type 2). Possible solutions to the dilemma of whether to use statins in hereditary myopathies are discussed (prescribing other cholesterol lowering agents and a carefully monitored treatment initiation of statins).

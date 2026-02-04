@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 16962519)
-    QUESTION: Volume change of uterine myomas during pregnancy: do myomas really grow?
-    CONTEXT: To estimate changes in uterine myoma volume during pregnancy.
-    ANSWER: Contrary to common belief, we found that uterine myomas commonly decrease in volume over the course of pregnancy.
-    

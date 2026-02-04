@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Aerobic exercise
-TITLE: Aerobic exercise promotes emotion regulation: a narrative review.
-PMID: 38400992
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38400992/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Aerobic exercise improves the three stages of emotion regulation: perception, valuation and action. It reduces the perception of negative emotions, encourages individuals to reinterpret emotional situations in a positive or non-emotional manner, and enhances control over emotion expression behaviours. These effects are generated via increased prefrontal cortex activation, the strengthening of functional connections between the amygdala and several other brain regions, and the enhancement of the plasticity of key emotion regulation pathways and nodes, such as the uncinate fasciculus. The effect of aerobic exercise on emotion regulation is influenced by the exercise intensity and duration, and by individuals' exercise experience. Future research may explore the key neural basis of aerobic exercise's promotion of emotion regulation.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Breastfeeding benefits
-TITLE: A review of the literature examining the benefits and challenges, incidence and duration, and barriers to breastfeeding in preterm infants.
-PMID: 15806448
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15806448/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Breastfeeding benefits preterm infants from a nutritional, gastrointestinal, immunological, developmental, and psychological perspective. Despite the benefits, the incidence and duration of breastfeeding preterm infants continues to be less than that of full-term infants. The lower incidence is probably related to breastfeeding challenges that preterm infants and parents face, including establishing and maintaining a milk supply and transitioning from gavage feeding to breastfeeding. In order to increase the incidence and duration of breastfeeding preterm infants, researchers must examine breastfeeding experiences longitudinally. This way, researchers and clinicians can begin to understand the barriers to breastfeeding at various time periods in the breastfeeding experience and begin implementing strategies to remove these barriers.

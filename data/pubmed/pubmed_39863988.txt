@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cognitive behavioral therapy
-TITLE: Cognitive behavioral therapy for adolescents with eating disorders, with particular regard to clinical perfectionism.
-PMID: 39863988
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39863988/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Eating disorders are a considerable and prevalent problem among adolescents. Due to their significant adverse health consequences, it is of key importance to examine available treatment options and their effects. Despite the shared criteria for eating disorders in adolescents and adults, the diagnostic and therapeutic processes in the former require distinct specialist interventions, including the entire family environment. Available research suggests that family-based treatment (FBT) and enhanced cognitive behavioural therapy (CBT-E) are particularly beneficial in the management of eating disorders and prevention of relapse in young patients. Since clinical perfectionism is postulated to be an important mechanism underlying the development and maintenance of eating disorders, its consideration in therapy may contribute to faster and long-term recovery. This article presents available evidence on the effectiveness of psychosocial interventions in adolescents with eating disorders and clinical perfectionism, with a particular focus on differences in the use of CBT-E and FBT. The presented knowledge may facilitate clinical decisions concerning selection of the most effective methods and forms of intervention adapted to case conceptualisation in adolescents with eating disorders.

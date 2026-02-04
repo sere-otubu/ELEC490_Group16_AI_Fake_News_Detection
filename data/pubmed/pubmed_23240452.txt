@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23240452)
-    QUESTION: Can we predict urinary stone composition based on an analysis of microelement concentration in the hair and urine?
-    CONTEXT: In recent years the role of trace elements in lithogenesis has received steadily increasing attention.
-    ANSWER: The data obtained did not allow for the creation of a proper and practical algorithm to predict stone chemical composition based on hair and urine analysis.
-    

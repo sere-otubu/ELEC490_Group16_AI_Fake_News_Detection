@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26079501)
-    QUESTION: Does base deficit predict mortality in patients with severe traumatic brain injury?
-    CONTEXT: Base Deficit (BD) is a marker of tissue hypoxia in polytrauma patients. It guides resuscitative measures, and predicts outcomes, complications and mortality. The aim of this study was to examine the presence of BD in patients with isolated severe traumatic brain injury (TBI), and to assess if it correlates with the outcomes in these patients.
-    ANSWER: Although BD is correlated with GCS at presentation and RTS, it is not a reliable prognostic marker for outcome and mortality in patients with isolated TBI.
-    

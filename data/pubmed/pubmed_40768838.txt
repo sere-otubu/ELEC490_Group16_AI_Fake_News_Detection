@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cell division meiosis
-TITLE: Typical and atypical cell division versus potential meiosis and sex in euglenids.
-PMID: 40768838
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40768838/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Euglenids typically reproduce asexually by closed intranuclear orthomitosis and longitudinal cell division. The nucleus divides without the dissolution of the nuclear envelope, and the spindle is radially symmetric. Typical longitudinal cell division begins in the reservoir at the anterior end of the cell and the shape of the dividing cell gradually changes from a "Y" to a "V". This paper reviews typical mitosis and cytokinesis in euglenids, alongside atypical cell division, in which a single cell produces more than two daughter cells, forming distinctive star-like structures. Atypical cell division is particularly observed under specific stress conditions, such as exposure to chemical substances (e.g., phenol and xylene), and in senescent cultures. Although euglenids are generally considered to be asexual, the presence of key meiotic genes in Euglena gracilis suggests the potential for sexual reproduction. Bioinformatic analyses and experimental approaches, including flow cytometry and fluorescence in situ hybridization (FISH), are discussed as potential methods for detecting meiosis, sex, and cell fusion in euglenids. This review contributes to a broader understanding of both typical and atypical cell division in euglenids and underscores the need for further research into these processes, including the possible occurrence of meiosis and sexual reproduction.

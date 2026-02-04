@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Integrative health
-TITLE: Xenophobia as a determinant of health: an integrative review.
-PMID: 30177729
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30177729/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Though xenophobia has become increasingly relevant in today's political climate, little is known about the impact of xenophobia on health. While some studies have shown that xenophobia, in local contexts, may contribute to worse mental health outcomes, none have attempted to review the published literature to integrate these findings. This integrative scoping review examines the strength of these publications, then synthesizes their findings to provide a global perspective on xenophobia. The results show that it is not merely a political threat, but also has real, negative impact on the health of individuals and their communities. Given the multiple negative effects on individual and community health, xenophobia warrants more attention from both a public health and political perspective. Policies that promote cultural integration and understanding are essential to improving community health.

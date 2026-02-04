@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22656647)
-    QUESTION: Are acceptance rates of a national preventive home visit programme for older people socially imbalanced?
-    CONTEXT: Preventive home visits are offered to community dwelling older people in Denmark aimed at maintaining their functional ability for as long as possible, but only two thirds of older people accept the offer from the municipalities. The purpose of this study is to investigate 1) whether socioeconomic status was associated with acceptance of preventive home visits among older people and 2) whether municipality invitational procedures for the preventive home visits modified the association.
-    ANSWER: High socioeconomic status was associated with a higher acceptance rate of preventive home visits, but the association was attenuated by invitational procedures. The results indicate that the social inequality in acceptance of publicly offered preventive services might decrease if municipalities adopt more proactive invitational procedures.
-    

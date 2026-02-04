@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17220021)
-    QUESTION: Is there an increase in the incidence of gbs carrier rates among pregnant women in northern Israel?
-    CONTEXT: Group B Streptococci (GBS) asymptomatically colonize the vaginal or rectal areas of about 20% of pregnant women (4-40%). About 50% of infants to mothers with GBS colonization also become colonized at rectal, umbilical or oral sites. GBS is a leading bacterial cause of neonatal illness and death. The present prevalence rate of GBS carriers among parturients in the western Galilee in Israel is unknown.AIM: A prospective study of the GBS carrier rate according to origin and gestational age in the western Galilee in Israel.
-    ANSWER: In the present study we found a significant increase in the incidence of GBS colonization in pregnant women in northern Israel. We also found an increased rate of GBS carriers in Arab women relative to Jewish women.
-    

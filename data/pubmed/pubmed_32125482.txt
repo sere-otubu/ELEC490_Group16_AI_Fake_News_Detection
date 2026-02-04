@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gene expression
-TITLE: Strategies for enhancing gene expression in Escherichia coli.
-PMID: 32125482
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32125482/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Regulation of gene expression is fundamental for cellular function. Upon manipulation of the mechanism of gene expression in Escherichia coli, various bioproducts have been developed that are valuable industrially and medically in the last four decades. To efficiently produce bioproducts, numerous molecular tools are used for enhancing expression at the transcriptional and translational levels. Our recent discovery identified a new approach that enhances the gene expression in E. coli using the gene sequence of the eukaryote, Dictyostelium discoideum. In this review, we highlight the current molecular strategies used for high-level gene expression techniques commonly utilized in basic and applied microbiology.

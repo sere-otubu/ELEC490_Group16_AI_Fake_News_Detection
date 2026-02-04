@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Female infertility
-TITLE: Non-syndromic monogenic female infertility.
-PMID: 31577258
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31577258/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Infertility is a significant clinical problem. It affects 8-12% of couples worldwide, about 30% of whom are diagnosed with idiopathic infertility (infertility lacking any obvious cause). In 2010, the World Health Organization calculated that 1.9% of child-seeking women aged 20-44 years were unable to have a first live birth (primary infertility), and 10.5% of child-seeking women with a prior live birth were unable to have an additional live birth (secondary infertility). About 50% of all infertility cases are due to female reproductive defects. Several chromosome aberrations, diagnosed by karyotype analysis, have long been known to be associated with female infertility and monogenic mutations have also recently been found. Female infertility primarily involves oogenesis. The following phenotypes are associated with monogenic female infertility: premature ovarian failure, ovarian dysgenesis, oocyte maturation defects, early embryo arrest, polycystic ovary syndrome and recurrent pregnancy loss. Here we summarize the genetic causes of non-syndromic monogenic female infertility and the genes analyzed by our genetic test.

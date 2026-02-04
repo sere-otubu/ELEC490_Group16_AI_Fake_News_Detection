@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Metabolism basics
-TITLE: Emerging role of substance and energy metabolism associated with neuroendocrine regulation in tumor cells.
-PMID: 37051193
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37051193/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cancer is the second most common cause of mortality in the world. One of the unresolved difficult pathological mechanism issues in malignant tumors is the imbalance of substance and energy metabolism of tumor cells. Cells maintain life through energy metabolism, and normal cells provide energy through mitochondrial oxidative phosphorylation to generate ATP, while tumor cells demonstrate different energy metabolism. Neuroendocrine control is crucial for tumor cells' consumption of nutrients and energy. As a result, better combinatorial therapeutic approaches will be made possible by knowing the neuroendocrine regulating mechanism of how the neuroendocrine system can fuel cellular metabolism. Here, the basics of metabolic remodeling in tumor cells for nutrients and metabolites are presented, showing how the neuroendocrine system regulates substance and energy metabolic pathways to satisfy tumor cell proliferation and survival requirements. In this context, targeting neuroendocrine regulatory pathways in tumor cell metabolism can beneficially enhance or temper tumor cell metabolism and serve as promising alternatives to available treatments.

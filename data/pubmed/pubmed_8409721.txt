@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tonsillectomy
-TITLE: Same-day tonsillectomy.
-PMID: 8409721
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8409721/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Tonsillectomies have been performed on a same-day basis in Coventry for the past three years. We report our experience with this technique which has gradually evolved over the last ten years. The procedure is described in detail and the results of the first two years have been analysed. In common with the experience of others, it is possible to perform tonsillectomies safely on a same-day basis.

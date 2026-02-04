@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ALS
-TITLE: Endogenous retroviruses are dysregulated in ALS.
-PMID: 38989463
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38989463/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Amyotrophic lateral sclerosis (ALS) is a universally fatal neurodegenerative disease with no cure. Human endogenous retroviruses (HERVs) have been implicated in its pathogenesis but their relevance to ALS is not fully understood. We examined bulk RNA-seq data from almost 2,000 ALS and unaffected control samples derived from the cortex and spinal cord. Using different methods of feature selection, including differential expression analysis and machine learning, we discovered that transcription of HERV-K loci 1q22 and 8p23.1 were significantly upregulated in the spinal cord of individuals with ALS. Additionally, we identified a subset of ALS patients with upregulated HERV-K expression in the cortex and spinal cord. We also found the expression of HERV-K loci 19q11 and 8p23.1 was correlated with protein coding genes previously implicated in ALS and dysregulated in ALS patients in this study. These results clarify the association of HERV-K and ALS and highlight specific genes in the pathobiology of late-stage ALS.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Food allergies
-TITLE: Non-IgE-mediated gastrointestinal food allergies.
-PMID: 28937509
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28937509/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-We focus on recent advances regarding the epidemiology, physiopathology, diagnosis and managements of non-IgE-mediated gastrointestinal food allergies (non-IgE-GI-FAs), particularly food protein-induced enterocolitis syndrome (FPIES). The first international FPIES diagnostic and management guidelines have been recently published. Although FPIES largely remains a diagnosis of exclusion, it may be more prevalent than previously thought. Ondansetron has emerged as a major tool for the treatment of FPIES acute reactions. Recent data also suggest an important role for innate immune cells in FPIES pathogenesis. Despite major advances in the diagnosis and management of non-IgE-GI-FAs, particularly FPIES, the lack of specific diagnostic tests and biomarkers to guide clinical management remains challenging.

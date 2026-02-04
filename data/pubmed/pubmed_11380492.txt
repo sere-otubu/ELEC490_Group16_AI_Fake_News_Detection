@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 11380492)
-    QUESTION: Transsphenoidal pituitary surgery in Cushing's disease: can we predict outcome?
-    CONTEXT: To assess the results of transsphenoidal pituitary surgery in patients with Cushing's disease over a period of 18 years, and to determine if there are factors which will predict the outcome.
-    ANSWER: Transsphenoidal pituitary surgery is a safe method of treatment in patients with Cushing's disease. Operative findings, radiological and histological findings, together with early postoperative serum cortisol and urine free cortisol estimates may identify failures in treatment. Alternative treatment might then be required for these patients. Because of the risk of late relapse, patients require life-long follow-up.
-    

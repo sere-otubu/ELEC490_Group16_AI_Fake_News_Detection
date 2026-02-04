@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alcohol guidelines
-TITLE: Management of alcohol-related liver disease: the French Association for the Study of the Liver and the French Alcohol Society clinical guidelines.
-PMID: 35488390
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35488390/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Excessive alcohol consumption is the leading cause of liver diseases in Western countries, especially in France. Alcohol-related liver disease (ARLD) is an extremely broad context and there remains much to accomplish in terms of identifying patients, improving prognosis and treatment, and standardising practices. The French Association for the Study of the Liver wished to organise guidelines together with the French Alcohol Society in order to summarise the best evidence available about several key clinical points in ARLD. These guidelines have been elaborated based on the level of evidence available in the literature and each recommendation has been analysed, discussed and voted by the panel of experts. They describe how patients with ARLD should be managed nowadays and discuss the main unsettled issues in the field.

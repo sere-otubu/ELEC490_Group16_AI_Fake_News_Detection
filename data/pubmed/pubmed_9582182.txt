@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 9582182)
-    QUESTION: Does the SCL 90-R obsessive-compulsive dimension identify cognitive impairments?
-    CONTEXT: To investigate the relevance of the Symptom Checklist 90-R Obsessive-Compulsive subscale to cognition in individuals with brain tumor.
-    ANSWER: Our data suggest that the SCL 90-R is best viewed as an indicator of unidimensional emotional distress and somatic effects of structural brain injury.
-    

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18955431)
-    QUESTION: Treadmill training post stroke: are there any secondary benefits?
-    CONTEXT: To explore the secondary benefits of treadmill training for people in the chronic stage of recovery from stroke.
-    ANSWER: A task-specific intervention designed to improve gait speed may potentially provide secondary benefits by positively impacting depression, mobility and social participation for people post stroke.
-    

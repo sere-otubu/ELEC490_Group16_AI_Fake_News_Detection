@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Obesity prevention
-TITLE: The response of the US Centers for Disease Control and Prevention to the obesity epidemic.
-PMID: 25581155
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25581155/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The recognition of the obesity epidemic as a national problem began in 1999 with the Centers for Disease Control and Prevention's (CDC's) publication of a series of annual state-based maps that demonstrated the rapid changes in the prevalence of obesity. Increasing rates of obesity had been noted in earlier CDC studies, but the maps provided evidence of a rapid, nationwide increase. The urgent need to respond to the epidemic led to the identification of state targets and the first generation of interventions for obesity prevention and control. The CDC's role was to provide setting- and intervention-specific guidance on implementing these strategies, and to assess changes in targeted policies and behaviors. The CDC's efforts were augmented by Congressional funding for community initiatives to improve nutrition and increase physical activity. Complementary investments by Kaiser Permanente, the Robert Wood Johnson Foundation, and the Institute of Medicine improved the evidence base and provided policy recommendations that reinforced the need for a multisectoral approach. Legislative, regulatory, and voluntary initiatives enacted by President Obama's administration translated many of the strategies into effective practice. Whether current efforts to address obesity can be sustained will depend on whether they can be translated into greater grass-roots engagement consistent with a social movement.

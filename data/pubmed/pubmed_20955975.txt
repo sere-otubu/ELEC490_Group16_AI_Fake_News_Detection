@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gallstones
-TITLE: Hereditary liver disease: gallstones.
-PMID: 20955975
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20955975/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gallstones are common in Western countries and due to pain and complications pose a substantial burden on health care systems. In general, cholesterol gallstones are distinguished from bilirubin gallstones. Bilirubin gallstones form if the ion product of unconjugated bilirubin and calcium in gallbladder bile exceeds the solubilisation capacities of mixed micelles and vesicles. Cholesterol gallstones develop if the amount of cholesterol in gallbladder bile exceeds the maximum concentration that is soluble at the given concentration of bile salts and phospholipids. In addition, cholesterol gallstone formation requires hypomotility of the gallbladder and a mucin gel as nucleation matrix for monohydrate crystals. The individual risk of gallstone formation is determined by interactions of lithogenic alleles of gallstone susceptibility genes and multiple environmental factors. For asymptomatic gallstones, expectant management is recommended, whereas an episode of gallstone-associated pain substantially increases the risk of complications such as cholecystitis, cholangitis and pancreatitis and therefore necessitates cholecystectomy.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood tests interpretation
-TITLE: Interpretation of routine blood tests.
-PMID: 10036480
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10036480/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This article aims to update the nurse's knowledge of the interpretation of routine blood tests. The procedures and meaning of other tests are also explained.

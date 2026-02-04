@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26778755)
-    QUESTION: Vaginal dose assessment in image-guided brachytherapy for cervical cancer: Can we really rely on dose-point evaluation?
-    CONTEXT: Although dose-volume parameters in image-guided brachytherapy have become a standard, the use of posterior-inferior border of the pubic symphysis (PIBS) points has been recently proposed in the reporting of vaginal doses. The aim was to evaluate their pertinence.
-    ANSWER: The doses evaluated at PIBS points are not impacted by intrafractional movements. PIBS and PIBS +2 dose points allow distinguishing the plans of patients with vaginal infiltration. Further studies are needed to correlate these parameters with vaginal morbidity.
-    

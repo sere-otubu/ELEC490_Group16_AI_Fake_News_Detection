@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19542542)
-    QUESTION: Is there a uniform basal endometrial gene expression profile during the implantation window in women who became pregnant in a subsequent ICSI cycle?
-    CONTEXT: To understand which genes are really involved in the implantation process, we planned to study the gene basal expression profile during the window of implantation (WOI) of patients who became pregnant in a subsequent ICSI cycle.
-    ANSWER: Our data suggest that very few genes, which change their expression level during the WOI, show a quantitative homogeneous expression in endometrially-receptive patients. In conclusion, in this study only six genes showed a homogeneous expression, and are probably involved in embryo implantation mechanisms.
-    

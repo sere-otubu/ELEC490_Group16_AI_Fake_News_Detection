@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20602101)
-    QUESTION: Is hypoalbuminemia an independent prognostic factor in patients with gastric cancer?
-    CONTEXT: Studies have indicated that hypoalbuminemia is associated with decreased survival of patients with gastric cancer. However, the prognostic value of albumin may be secondary to an ongoing systemic inflammatory response. The aim of the study was to assess the relation between hypoalbuminemia, the systemic inflammatory response, and survival in patients with gastric cancer.
-    ANSWER: Low albumin concentrations are associated with poorer survival in patients with gastric cancer. However, the strength of this relation with survival is dependent on the presence of a systemic inflammatory response, as evidenced by an elevated CRP level. Therefore, it appears that the relation between hypoalbuminemia and poor survival is secondary to that of the systemic inflammatory response.
-    

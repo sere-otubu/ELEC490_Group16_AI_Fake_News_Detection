@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Basal cell carcinoma
-TITLE: Small cell undifferentiated carcinoma of the submandibular gland: immunohistochemical evidence of myoepithelial, basal and luminal cell features.
-PMID: 10571822
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10571822/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A primary small cell undifferentiated carcinoma of the submandibular gland is reported. Histological studies revealed that the major part of this tumor was composed of cells slightly larger (10-14 microm) than lymphocytes. These tumor cells showed myoepithelial-cell differentiation, which was confirmed by the immunohistochemical and ultrastructural findings. Furthermore, some of them showed luminal-cell and basal-cell differentiation immunohistochemically. However, there was no evidence of neuroendocrine differentiation. These findings demonstrated that the tumor had the features of all the salivary ductal components (myoepithelial, basal, and luminal cells) and supported that the tumor might arise from the salivary duct. Furthermore, it supports the hypothesis of multipotential stem cells as the origin for small cell undifferentiated carcinomas in salivary glands.

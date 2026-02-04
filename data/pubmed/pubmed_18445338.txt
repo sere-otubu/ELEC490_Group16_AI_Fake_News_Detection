@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Salmonella
-TITLE: Salmonella typhi: from a human pathogen to a vaccine vector.
-PMID: 18445338
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18445338/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Salmonella (S.) typhi is an important intracellular pathogen. Among the more than 2,300 closely-related Salmonella serovars bacteria recognized, S. typhi is the only one that is pathogenic exclusively for humans, in whom it causes typhoid or enteric fever. The pathogen has been around for many years and many studies have been done in an effort to combat it. Molecular and biologic features of S. typhi and host factors and immune responses involved in Salmonella invasion have been extensively studies. Vaccines that have been developed most notably are Vi polysaccharide and Ty21a. However, as the results show, there is still a long way to go. It is also shown that multi-drug resistance has occurred to the few available antibiotics. More and more studies have shown that Salmonella can be used as a vaccine vector carrying antigens of other pathogens. This has been promising in that the immune system can be elicited in response to both the Salmonella bacteria and the antigen of the pathogen in question. This review aims to highlight some of the milestones attained in the fight against the disease from the time S. typhi was seen as a pathogen causing typhoid fever to the use of Salmonella as a vaccine vector.

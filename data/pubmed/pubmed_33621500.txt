@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Herd immunity
-TITLE: Herd immunity.
-PMID: 33621500
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33621500/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Herd immunity is an important yet often misunderstood concept in epidemiology. As immunity accumulates in a population - naturally during the course of an epidemic or through vaccination - the spread of an infectious disease is limited by the depletion of susceptible hosts. If a sufficient proportion of the population is immune - above the 'herd immunity threshold' - then transmission generally cannot be sustained. Maintaining herd immunity is therefore critical to long-term disease control. In this primer, we discuss the concept of herd immunity from first principles, clarify common misconceptions, and consider the implications for disease control.

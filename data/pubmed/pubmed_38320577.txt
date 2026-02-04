@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Reproductive system
-TITLE: The Upper Reproductive System Microbiome: Evidence beyond the Uterus.
-PMID: 38320577
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38320577/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The microbiome of the female upper reproductive system has garnered increasing recognition and has become an area of interest in the study of women's health. This intricate ecosystem encompasses a diverse consortium of microorganisms (i.e., microbiota) and their genomes (i.e., microbiome) residing in the female upper reproductive system, including the uterus, the fallopian tubes, and ovaries. In recent years, remarkable advancements have been witnessed in sequencing technologies and microbiome research, indicating the potential importance of the microbial composition within these anatomical sites and its impact in women's reproductive health and overall well-being. Understanding the composition, dynamics, and functions of the microbiome of the female upper reproductive system opens up exciting avenues for improving fertility, treating gynecological conditions, and advancing our comprehension of the intricate interplay between the microbiome and the female reproductive system. The aim of this study is to compile currently available information on the microbial composition of the female upper reproductive system in humans, with a focus beyond the uterus, which has received more attention in recent microbiome studies compared with the fallopian tubes and ovaries. In conclusion, this review underscores the potential role of this microbiome in women's physiology, both in health and disease.

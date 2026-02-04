@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22365295)
-    QUESTION: Totally implantable venous access device placement by interventional radiologists: are prophylactic antibiotics necessary?
-    CONTEXT: To determine the rate of early infection for totally implantable venous access devices (TIVADs) placed without antibiotic prophylaxis.
-    ANSWER: The rate of early infection without antibiotic prophylaxis before TIVAD placement in the interventional radiology suite is<1%. Based on these data, use of prophylactic antibiotics for TIVAD placement is not recommended.
-    

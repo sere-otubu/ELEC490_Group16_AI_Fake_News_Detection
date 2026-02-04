@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gambling addiction
-TITLE: [Gambling addiction: insights from neuroscience and neuroimaging].
-PMID: 26340839
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26340839/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although most people consider gambling as a recreational activity, some individuals lose control over their behavior and enter a spiral of compulsive gambling leading to dramatic consequences. In its most severe form, pathological gambling is considered a behavioral addiction sharing many similarities with substance addiction. A number of neurobiological hypotheses have been investigated in the past ten years, relying mostly on neuroimaging techniques. Similarly to substance addiction, a number of observations indicate a central role for dopamine in pathological gambling. However, the underlying mechanism seems partly different and is still poorly understood. Neuropsychological studies have shown decision-making and behavioral inhibition deficits in pathological gamblers, likely reflecting frontal lobe dysfunction. Finally, functional MRI studies have revealed abnormal reactivity within the brain reward system, including the striatum and ventro-medial prefrontal cortex. These regions are over-activated by gambling cues, and under-activated by monetary gains. However, the scarcity and heterogeneity of brain imaging studies currently hinder the development of a coherent neurobiological model of pathological gambling. Further replications of results and diversification of approaches will be needed in the coming years in order to strengthen our current model.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Psychiatry medications
-TITLE: Melatonin Use in Psychiatry-Quo Vadis?
-PMID: 30277908
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30277908/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Melatonin use in clinical psychiatry is currently rife, and the trend of utilization is on the rise. Efficacy coupled with safety and lack of abuse potential render melatonin an attractive therapeutic option. Data from neuroscience accrue speaking to the idea of a pluripotent molecule beyond a mere sleeping aid. Here, authors would shed some light on melatonin use in psychiatry while examining the extant evidence.

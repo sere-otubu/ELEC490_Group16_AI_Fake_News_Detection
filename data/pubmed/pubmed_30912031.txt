@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Trauma informed care
-TITLE: Trauma-Informed Care: a Strategy to Improve Primary Healthcare Engagement for Persons with Criminal Justice System Involvement.
-PMID: 30912031
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30912031/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Trauma is pervasive in the USA, but disproportionately present in individuals and communities burdened by poverty, violence, and exposure to the criminal justice system. Engagement in clinical care, especially community-based primary care, is particularly important in the immediate period following community reentry from incarceration, where opportunities to engage clients in services are essential for improved health and reduced recidivism. Trauma-informed care offers an important and innovative opportunity for healthcare systems and primary care providers to improve quality of care and the patient experience, thereby increasing longitudinal engagement of marginalized and hard-to-reach patient populations like persons with criminal justice system exposure. Trauma-informed care implementation includes educating providers and transforming practices to incorporate safety, trust, peer support, collaboration, empowerment, and cultural perspectives into everyday operations and care delivery. While comprehensive trauma-informed care involves transformation on a system level, trauma-informed approaches can also be adopted by the individual provider to improve the clinical consultation. By recognizing the role of trauma and its impact on an individual's physical, emotional, and behavioral health, providers and clients can build mutual trust, focus on individual growth, and begin to foster healing.

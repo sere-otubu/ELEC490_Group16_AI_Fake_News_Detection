@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immune system
-TITLE: The Role of the Immune System Beyond the Fight Against Infection.
-PMID: 28667551
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28667551/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The immune system was identified as a protective factor during infectious diseases over a century ago. Current definitions and textbook information are still largely influenced by these early observations, and the immune system is commonly presented as a defence machinery. However, host defence is only one manifestation of the immune system's overall function in the maintenance of tissue homeostasis and system integrity. In fact, the immune system is integral part of fundamental physiological processes such as development, reproduction and wound healing, and a close crosstalk between the immune system and other body systems such as metabolism, the central nervous system and the cardiovascular system is evident. Research and medical professionals in an expanding range of areas start to recognise the implications of the immune system in their respective fields.This chapter provides a brief historical perspective on how our understanding of the immune system has evolved from a defence system to an overarching surveillance machinery to maintain tissue integrity. Current perspectives on the non-defence functions of classical immune cells and factors will also be discussed.

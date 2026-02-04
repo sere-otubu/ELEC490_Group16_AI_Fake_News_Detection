@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Macronutrients
-TITLE: Macronutrient balance and micronutrient amounts through growth and development.
-PMID: 33964956
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33964956/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nutrition is essential for human growth, particularly in newborns and children. An optimal growth needs a correct diet, in order to ensure an adequate intake of macronutrients and micronutrients. Macronutrients are the compounds that humans consume in largest quantities, mainly classified in carbohydrates, proteins and fats. Micronutrients are instead introduced in small quantities, but they are required for an adequate growth in the pediatric age, especially zinc, iron, vitamin D and folic acid. In this manuscript we describe the most important macro and micronutrients for children's growth.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19108857)
-    QUESTION: Cerebromediastinal tuberculosis in a child with a probable Say-Barber-Miller syndrome: a causative link?
-    CONTEXT: Tuberculosis continues to be a public health problem in emerging countries with a recent evidence of increased incidence of extrapulmonary localization in developed countries probably linked to HIV. To our knowledge the occurrence of cerebro-mediastinal tuberculosis in an immuno-competent child has not been previously described; moreover the child we describe has a probable Say-Barber-Miller syndrome. We discuss a putative causative link between this syndrome and the occurrence of tuberculosis.
-    ANSWER: [corrected] This observation is exceptional in many aspects: very early age of onset of extrapulmonary tuberculosis, no immune deficit, association with a rare congenital neurological syndrome. We discuss the possible link between this entity and the occurrence of tuberculosis.
-    

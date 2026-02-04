@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gluten free diet
-TITLE: The Role of the Gluten-Free Diet in the Management of Seronegative Enteropathy.
-PMID: 34836279
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34836279/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The differential diagnosis and treatment of seronegative enteropathy, also termed seronegative villous atrophy (SNVA), is a clinical challenge. Although seronegative coeliac disease (CD) is a frequent cause of SNVA, the aetiology can include immune-mediated, inflammatory, infectious, and drug-related forms. As a misdiagnosis of SNVA can result in patients being unnecessarily placed on a lifelong strict gluten-free diet or even given incorrect immunosuppressive therapy, the aim of this paper is to provide an evidence-based and practical approach for the workup and management of SNVA.

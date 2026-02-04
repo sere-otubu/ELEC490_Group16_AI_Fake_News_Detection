@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cataracts
-TITLE: Clinical and experimental advances in congenital and paediatric cataracts.
-PMID: 21402583
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21402583/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cataracts (opacities of the lens) are frequent in the elderly, but rare in paediatric practice. Congenital cataracts (in industrialized countries) are mainly caused by mutations affecting lens development. Much of our knowledge about the underlying mechanisms of cataractogenesis has come from the genetic analysis of affected families: there are contributions from genes coding for transcription factors (such as FoxE3, Maf, Pitx3) and structural proteins such as crystallins or connexins. In addition, there are contributions from enzymes affecting sugar pathways (particularly the galactose pathway) and from a quite unexpected area: axon guidance molecules like ephrins and their receptors. Cataractous mouse lenses can be identified easily by visual inspection, and a remarkable number of mutant lines have now been characterized. Generally, most of the mouse mutants show a similar phenotype to their human counterparts; however, there are some remarkable differences. It should be noted that many mutations affect genes that are expressed not only in the lens, but also in tissues and organs outside the eye. There is increasing evidence for pleiotropic effects of these genes, and increasing consideration that cataracts may act as early and readily detectable biomarkers for a number of systemic syndromes.

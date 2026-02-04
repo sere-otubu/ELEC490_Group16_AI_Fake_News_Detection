@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anaphylaxis
-TITLE: Idiopathic anaphylaxis.
-PMID: 25841556
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25841556/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Idiopathic anaphylaxis is a diagnosis of exclusion after other causes have been thoroughly evaluated and excluded. The pathogenesis of idiopathic anaphylaxis remains uncertain, although increased numbers of activated lymphocytes and circulating histamine-releasing factors have been implicated. Signs and symptoms of patients diagnosed with idiopathic anaphylaxis are indistinguishable from the manifestations of other forms of anaphylaxis. Treatment regimens are implemented based on the frequency and severity of patient symptoms and generally include the use of epinephrine autoinjectors, antihistamines, and steroids. The prognosis of idiopathic anaphylaxis is generally favorable with well-established treatment regimens and effective patient education.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Inflammation mechanism
-TITLE: The persistent inflammation in COPD: is autoimmunity the core mechanism?
-PMID: 38537947
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38537947/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-COPD poses a significant global public health challenge, primarily characterised by irreversible airflow restriction and persistent respiratory symptoms. The hallmark pathology of COPD includes sustained airway inflammation and the eventual destruction of lung tissue structure. While multiple risk factors are implicated in the disease's progression, the underlying mechanisms remain largely elusive. The perpetuation of inflammation is pivotal to the advancement of COPD, emphasising the importance of investigating these self-sustaining mechanisms for a deeper understanding of the pathogenesis. Autoimmune responses constitute a critical mechanism in maintaining inflammation, with burgeoning evidence pointing to their central role in COPD progression; yet, the intricacies of these mechanisms remain inadequately defined. This review elaborates on the evidence supporting the presence of autoimmune processes in COPD and examines the potential mechanisms through which autoimmune responses may drive the chronic inflammation characteristic of the disease. Moreover, we attempt to interpret the clinical manifestations of COPD through autoimmunity.

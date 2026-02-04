@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hashimotos thyroiditis
-TITLE: An update on the pathogenesis of Hashimoto's thyroiditis.
-PMID: 33332019
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33332019/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-It is 70 years since Noel Rose embarked on his pioneering studies that lead to the discovery of autoimmune thyroiditis and the elucidation of Hashimoto's thyroiditis. This short review to honour his passing focuses on the developments in our understanding of the causes and pathogenesis of HT over the last five years. Recent genetic studies have reported heritability estimates for HT and associated diseases for the first time, and emphasised the complexity of the genetic factors involved, including monogenic forms of HT. Environmental factors continue to be elucidated, especially as a side effect of drugs which modulate the immune system therapeutically. Regarding pathogenetic mechanisms, multiple cytokine networks have been identified which involve the thyroid cells in a circuit of escalating proinflammatory effects, such as the expression of inflammasome components, and an array of different defects in T regulatory cells may underlie the loss of self-tolerance to thyroid autoantigens. Finally, a number of studies have revealed fresh insights into disease associations with HT which may have both pathological and clinical significance, the most intriguing of which is a possible direct role of the autoimmune process itself in causing some of the persistent symptoms reported by a minority of patients with levothyroxine-treated HT.

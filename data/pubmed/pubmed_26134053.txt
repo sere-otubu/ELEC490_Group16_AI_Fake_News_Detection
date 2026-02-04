@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26134053)
-    QUESTION: Outcome Feedback within Emergency Medicine Training Programs: An Opportunity to Apply the Theory of Deliberate Practice?
-    CONTEXT: Outcome feedback is the process of learning patient outcomes after their care within the emergency department. We conducted a national survey of Canadian Royal College emergency medicine (EM) residents and program directors to determine the extent to which active outcome feedback and follow-up occurred. We also compared the perceived educational value of outcome feedback between residents and program directors.
-    ANSWER: While Canadian EM training programs do not mandate follow-up, it is performed electively by the majority of residents surveyed. Residents place a significantly greater educational value on outcome feedback than their program directors, and believe that follow-up should be a mandatory component of EM residencies.
-    

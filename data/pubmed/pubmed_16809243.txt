@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 16809243)
-    QUESTION: Is fetal gender associated with emergency department visits for asthma during pregnancy?
-    CONTEXT: To investigate if fetal gender (1) affects the risk of having an emergency department (ED) visit for asthma; and (2) is associated with adverse pregnancy outcomes among women who had at least one visit to the ED for asthma during pregnancy.
-    ANSWER: Fetal gender does not affect the risk of having an ED visit for asthma during pregnancy, and it is not associated with adverse pregnancy outcomes among women who had an asthma-related ED during pregnancy.
-    

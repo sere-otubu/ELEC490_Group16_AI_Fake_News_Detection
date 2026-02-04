@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Integumentary system
-TITLE: Aging integumentary system. Podiatric review.
-PMID: 2231343
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2231343/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The authors present a concise review of age-related changes that occur in the skin and its derivatives, as they pertain to the podiatric practitioner. A brief discussion of wound healing and several common skin disorders that affect the elderly is also included.

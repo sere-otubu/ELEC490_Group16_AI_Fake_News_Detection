@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Corticosteroids
-TITLE: Injectable Corticosteroids: Take Precautions and Use Caution.
-PMID: 28002861
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28002861/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Corticosteroids are routinely injected into soft tissues, tendon sheaths, bursae, and joints. These anti-inflammatory agents have different potency and solubility, and solubility is inversely correlated with the duration of action. Corticosteroids carry a low risk of complications but commonly cause systemic and local adverse effects. The use of intra-articular corticosteroid injections in the treatment of inflammatory arthritis and osteoarthritis is well established. Evidence also supports the use of injectable corticosteroids in the treatment of inflammatory tenosynovitis and bursitis associated with rheumatic diseases, trigger finger and de Quervain disease, and carpal tunnel syndrome. The role of corticosteroid injections in the management of rotator cuff disease remains unclear. Strong scientific evidence indicates that corticosteroid injections for lateral epicondylosis worsen the long-term outcomes of patients. This review article discusses the considerations related to the use of corticosteroid injections in the management of nonspinal musculoskeletal conditions.

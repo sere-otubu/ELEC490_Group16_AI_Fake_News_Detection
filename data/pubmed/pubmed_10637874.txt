@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anticoagulants
-TITLE: [Anticoagulants: when, which, how, how much, until when: these are still the questions. I].
-PMID: 10637874
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10637874/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To analyze the available data in the literature so as to suggest a scheme for use when anticoagulating patients with ischemic vascular disease. We analyzed the most relevant publications on the use of anticoagulation in cerebrovascular disease, published since 1940. Studies and meta-analysis of anticoagulation--oral, intravenous using heparin and subcutaneous using low molecular weight heparin--in acute and recurrent stroke. This data on anticoagulation was then applied to different aspects of cerebrovascular disease such as disease of the great intracranial and extracranial vessels (dissection, occlusion and intraluminal thrombus), the penetrating vessels, venous system, hypercoagulation states and particular therapeutic uses such as anticoagulation in cerebral hemorrhage, and the use of thrombolytic agents. Anticoagulants are frequently used in cerebrovascular disease in spite of the lack of studies giving first level support of its efficacy (randomized studies with low false positive and false negative errors) and the fact that some studies have failed to confirm the efficacy of this treatment. With the analysis presented, we have tried to show that the failure to define the role of anticoagulants is mainly due to limitations in design of the methods used in the studies carried out. The basic shortcoming has been the search for one single treatment which could be effective for the entire spectrum of cerebrovascular disease.

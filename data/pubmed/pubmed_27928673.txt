@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 27928673)
-    QUESTION: Do ART patients face higher C-section rates during their stage of delivery?
-    CONTEXT: The mode of delivery depends on multiple parameters. After assisted reproductive technology (ART), previous studies have shown elevated C-section rates but few studies differentiated between elective and emergency operations and different protocols of cryopreservation. Because these studies did not use multiparity as exclusion criteria which reduces confounding with previous pregnancies, aim of this study is to compare mode of delivery of different techniques of ART using data of primiparae only [1, 2].
-    ANSWER: Patients after ART treatment suffer from higher C-section rates during their stage of delivery.
-    

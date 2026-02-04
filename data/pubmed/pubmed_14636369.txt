@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mood stabilizers
-TITLE: Mood-stabilizers: the archeology of the concept.
-PMID: 14636369
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/14636369/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To review the history of 'mood-stabilizing' treatments. We have reviewed primary source data on the origin of the use of current mood-stabilizers. This historical record on the origins of the mood-stabilizers points to a more ambiguous picture as regards pharmacotherapeutic specificity to bipolar disorders than is commonly conceded. This review suggests a need for alternative formulations of the concept of a mood-stabilizer. An alternative to the currently dominant paradigm is that these agents have treatment effects, which need to be matched more precisely with patients' constitutional types in order to optimize outcomes.

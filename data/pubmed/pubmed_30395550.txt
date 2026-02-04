@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Psychotherapy
-TITLE: Psychotherapy With Suicidal Patients Part 1: Expert Consensus Recommendations.
-PMID: 30395550
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30395550/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This column reviews and discusses recommendations made by individual experts and by expert panels for treating suicidal patients in psychotherapy. Therapies for suicidal patients that were considered for the extraction of shared elements include cognitive behavioral, psychodynamic, and integrated psychotherapies. There is a large amount of convergence among expert consensus recommendations for treating suicidal patients.

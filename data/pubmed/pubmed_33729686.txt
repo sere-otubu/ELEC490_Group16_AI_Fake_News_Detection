@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lung function
-TITLE: Lung growth and pulmonary function after prematurity and bronchopulmonary dysplasia.
-PMID: 33729686
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33729686/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Bronchopulmonary dysplasia (BPD) still carries a heavy burden of morbidity and mortality in survivors of extreme prematurity. The disease is characterized by simplification of the alveolar structure, involving a smaller number of enlarged alveoli due to decreased septation and a dysmorphic pulmonary microvessel growth. These changes lead to persistent abnormalities mainly affecting the smaller airways, lung parenchyma, and pulmonary vasculature, which can be assessed with lung function tests and imaging techniques. Several longitudinal lung function studies have demonstrated that most preterm-born subjects with BPD embark on a low lung function trajectory, never achieving their full airway growth potential. They are consequently at higher risk of developing a chronic obstructive pulmonary disease-like phenotype later in life. Studies based on computer tomography and magnetic resonance imaging, have also shown that in these patients there is a persistence of lung abnormalities like emphysematous areas, bronchial wall thickening, interstitial opacities, and mosaic lung attenuation also in adult age. This review aims to outline the current knowledge of pulmonary and vascular growth in survivors of BPD and the evidence of their lung function and imaging up to adulthood.

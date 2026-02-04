@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19230985)
-    QUESTION: Post-tonsillectomy late haemorrhage: is it a preferably night-time event?
-    CONTEXT: This retrospective study was carried out in the Ear Nose Throat (ENT) Unit of Giannina Gaslini Institute, Genoa, Italy on children operated for adenotonsillectomy (AT) or tonsillectomy (T) between January 2003 and February 2008. We considered in the study all the post-tonsillectomy late haemorrhages irrespective of their severity and for each case we evaluated whether they recurred in the day-time (B) (between 9.00 a.m. and 9.00 p.m.) or in the night-time (A) (between 9.00 p.m. and 9.00 a.m.). Finally we considered the number of haemorrhages per hour in the whole day.
-    ANSWER: The incidence of post-tonsillectomy late haemorrhage in our study population was 1.78%. A statistically significant difference was found between night-time and day-time haemorrhages. Even though no significant distribution of haemorrhages per hour was observed, we underline that we recorded 32 (54.2%) events in 2 periods of the day: from 10 p.m. to 1 a.m. and from 6 to 9 a.m.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Trauma informed care
-TITLE: Adverse childhood experiences and trauma informed care: the future of health care.
-PMID: 26460523
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26460523/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Adverse childhood experiences (ACEs) are related to short- and long-term negative physical and mental health consequences among children and adults. Studies of the last three decades on ACEs and traumatic stress have emphasized their impact and the importance of preventing and addressing trauma across all service systems utilizing universal systemic approaches. Current developments on the implementation of trauma informed care (TIC) in a variety of service systems call for the surveillance of trauma, resiliency, functional capacity, and health impact of ACEs. Despite such efforts in adult medical care, early identification of childhood trauma in children still remains a significant public health need. This article reviews childhood adversity and traumatic toxic stress, presents epidemiologic data on the prevalence of ACEs and their physical and mental health impacts, and discusses intervention modalities for prevention.

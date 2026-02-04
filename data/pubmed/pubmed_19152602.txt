@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Red blood cells
-TITLE: Current issues relating to the transfusion of stored red blood cells.
-PMID: 19152602
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19152602/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The development of blood storage systems allowed donation and transfusion to be separated in time and space. This separation has permitted the regionalization of donor services with subsequent economies of scale and improvements in the quality and availability of blood products. However, the availability of storage raises the question of how long blood products can and should be stored and how long they are safe and effective. The efficacy of red blood cells was originally measured as the increment in haematocrit and safety began with typing and the effort to reduce the risk of bacterial contamination. Appreciation of a growing list of storage lesions of red blood cells has developed with our increasing understanding of red blood cell physiology and our experience with red blood cell transfusion. However, other than frank haemolysis, rare episodes of bacterial contamination and overgrowth, the reduction of oxygen-carrying capacity associated with the failure of some transfused cells to circulate, and the toxicity of lysophospholipids released from membrane breakdown, storage-induced lesions have not had obvious correlations with safety or efficacy. The safety of red blood cell storage has also been approached in retrospective epidemiologic studies of transfused patients, but the results are frequently biased by the fact that sicker patients are transfused more often and blood banks do not issue blood products in a random order. Several large prospective studies of the safety of stored red blood cells are planned.

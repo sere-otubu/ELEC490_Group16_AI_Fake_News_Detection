@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dengue fever
-TITLE: Dengue and dengue hemorrhagic fever.
-PMID: 9665979
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9665979/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Dengue fever, a very old disease, has reemerged in the past 20 years with an expanded geographic distribution of both the viruses and the mosquito vectors, increased epidemic activity, the development of hyperendemicity (the cocirculation of multiple serotypes), and the emergence of dengue hemorrhagic fever in new geographic regions. In 1998 this mosquito-borne disease is the most important tropical infectious disease after malaria, with an estimated 100 million cases of dengue fever, 500,000 cases of dengue hemorrhagic fever, and 25,000 deaths annually. The reasons for this resurgence and emergence of dengue hemorrhagic fever in the waning years of the 20th century are complex and not fully understood, but demographic, societal, and public health infrastructure changes in the past 30 years have contributed greatly. This paper reviews the changing epidemiology of dengue and dengue hemorrhagic fever by geographic region, the natural history and transmission cycles, clinical diagnosis of both dengue fever and dengue hemorrhagic fever, serologic and virologic laboratory diagnoses, pathogenesis, surveillance, prevention, and control. A major challenge for public health officials in all tropical areas of the world is to develop and implement sustainable prevention and control programs that will reverse the trend of emergent dengue hemorrhagic fever.

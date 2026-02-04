@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rheumatoid arthritis
-TITLE: Some important inhibitors and mechanisms of rheumatoid arthritis.
-PMID: 34942050
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34942050/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rheumatoid arthritis (RA) is a chronic disease that seriously affects human health and quality of life, and it is one of the main causes of labor loss and disability. Many countries have listed rheumatoid arthritis as one of the national a key diseases to tackle. The pathogenesis of RA in humans is still unknown, and medical researchers believe that the pathogenesis of RA may be the result of a combination of genetic and environmental factors. RA is an incurable condition that can only be controlled and treated with conventional drugs. In this paper, the pathologic features and pathogenesis of RA were introduced, and the research progress of new anti-rheumatoid arthritis chemical drugs in recent years was reviewed.

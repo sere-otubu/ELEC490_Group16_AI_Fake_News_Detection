@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12070552)
-    QUESTION: Do antibiotics decrease post-tonsillectomy morbidity?
-    CONTEXT: A tonsillectomy audit was carried out and compared with other studies, to emphasize the role of antibiotics.
-    ANSWER: Post tonsillectomy antibiotics did not prove to have a role in minimizing postoperative morbidity. Moreover, analgesics given on the basis of as required had a limited value.
-    

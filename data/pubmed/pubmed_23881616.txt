@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antidepressants
-TITLE: [Antidepressants in epilepsy].
-PMID: 23881616
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23881616/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Depression is a common condition in patients with epilepsy that entails a deterioration of the quality of life of this population and that, therefore, requires appropriate treatment. The potential risk of antidepressants in relation to the seizure threshold is overestimated by many professionals, and this has an influence when it comes to making the decision to treat them. It sometimes means that the patients do not receive antidepressant drugs. In this regard, the aim of this review is to present the current state of the art in terms of the safety of antidepressants in patients with epilepsy. A search of the medical literature was conducted and, following its analysis, the most significant results are presented. Current information indicates that most antidepressants are safe for epileptic patients at therapeutic doses and that the risk of seizures occurs mainly in cases of overdose. Preferred drugs for treating depression in epilepsy are serotonin reuptake inhibitors. Bupropion and tricyclic antidepressants must be avoided.

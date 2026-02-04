@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Insomnia
-TITLE: Insomnia.
-PMID: 15567013
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15567013/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Effective management of insomnia begins with recognition and adequate assessment. Family doctors and other health care providers such as practice nurses and psychologists should routinely enquire about sleep habits as a component of overall health assessment. Identification and treatment of primary psychiatric disorders, medical conditions, circadian disorders, or specific physiological sleep disorders--eg, sleep apnoea and periodic limb movement disorder--are essential steps in management of insomnia. Conditioned aspects of insomnia can be primary (psychophysiological insomnia) or may complicate sleep disturbance owing to other causes. Approved hypnotic drugs have clearly been shown to improve subjective and objective sleep measures in various short-term situations. Despite widespread use of standard hypnotics and sedating antidepressants for chronic insomnia, their role for this indication still remains to be further defined by research evidence. Non-pharmacological treatments, particularly stimulus control and sleep restriction, are effective for conditioned aspects of insomnia and are associated with durable long-term improvement in sleep.

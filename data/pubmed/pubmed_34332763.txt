@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Trauma informed care
-TITLE: A call for trauma-informed intensive care.
-PMID: 34332763
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34332763/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Psychological trauma impacts two-thirds of Americans, suggesting that many intensive care unit (ICU) patients have a history of trauma. Our manuscript calls for translating the well-established system of trauma-informed care to the ICU setting – an approach we term “trauma-informed intensive care.” While trauma-informed approaches are being increasingly applied in medical settings such as emergency departments and burn units, the ICU is often overlooked, despite the fact that the ICU environment may be perceived as particularly threatening to those who have experienced trauma. Now is an ideal time to advance efforts for trauma-informed intensive care, given heightened public attention to the ICU experience as a result of the COVID-19 pandemic. Trauma-informed intensive care may promote more positive patient experiences and support patient recovery from critical illness.

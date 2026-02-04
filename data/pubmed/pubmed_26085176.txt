@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26085176)
-    QUESTION: MR Diagnosis of Bone Metastases at 1.5 T and 3 T: Can STIR Imaging Be Omitted?
-    CONTEXT: To date, no prospective comparative study of the diagnostic value of STIR versus T1-weighted (T1w) sequences at both 1.5 T and 3 T has been performed with special focus on the detectability of bone metastases.
-    ANSWER: The whole-body MRI protocol for the detection of bone metastases could safely be limited to the T1w sequence in adults, especially at 3 T. There is no need for an additional STIR sequence. These initial results will have a major impact on the department's workflow if confirmed by larger studies as they will help reduce examination time and therefore save financial resources.
-    

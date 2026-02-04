@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Prostate cancer
-TITLE: Diagnostic and Therapeutic Strategies for Prostate Cancer.
-PMID: 27825428
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27825428/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Prostate cancer (PC) is a major disease that affects men's health worldwide. It is the second most common form of cancer in men, surpassed only by nonmelanoma skin cancers such as basal and squamous cell carcinomas. Diagnostic strategies with population screening for prostate cancer using prostate-specific antigen (PSA) has been surrounded with controversy and debated intensively ever since the PSA protein was first purified in 1979 by Wang et al. At the same time, advances in diagnostic imaging, surgery, radiation, and chemotherapy have increased the opportunity to effectively diagnose, treat, and manage PC. Given the sheer burden of PC disease in Denmark and worldwide, new and innovative strategies for cancer diagnosis and care are needed. This article is a short review of current diagnostic and therapeutic strategies for the care and management of prostate cancer in Denmark.

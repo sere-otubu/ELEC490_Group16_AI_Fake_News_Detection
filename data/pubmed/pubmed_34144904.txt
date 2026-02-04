@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urinary tract infection
-TITLE: Complicated urinary tract infection in patients with benign prostatic hyperplasia.
-PMID: 34144904
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34144904/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Complicated urinary tract infection (UTI) is a symptomatic urinary infection accompanied by functional or structural abnormalities of the genitourinary tract. Benign prostatic hyperplasia (BPH) is a major cause of lower urinary tract obstruction in male patients, and bladder outlet obstruction (BOO) secondary to BPH can lead to UTIs in men. However, no evidence has clearly shown that UTI in the aging male population is associated with either post-void residual urine or BOO. Screening for the presence of bacteriuria is recommended prior to any procedure manipulating the urinary tract, and imaging studies of the upper urinary tract are recommended to identify underlying abnormalities. Recurrent or persistent UTI in men with BPH is an indication for surgical treatment. Asymptomatic bacteriuria should be screened for and treated before transurethral resection of the prostate (TURP). In addition, antibiotic prophylaxis reduced the risk of UTI in patients undergoing TURP. The choice of specific antimicrobial for prophylaxis should be based on local pathogen prevalence and individual antibiotic susceptibility. Patients with severe systemic infections require hospitalization, and empirical therapy should include an intravenous antimicrobial regimen. Further prospective studies are needed to refine the treatment process for complicated UTI in patients diagnosed with BPH.

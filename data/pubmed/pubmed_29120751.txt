@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Breast cancer
-TITLE: Breast Cancer: Multiple Subtypes within a Tumor?
-PMID: 29120751
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29120751/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Breast cancer is a heterogeneous disease, and stratification of tumors is paramount to achieve better clinical outcomes. While it is common to stratify and treat breast tumors as a single entity, insights from studies on intratumoral heterogeneity and cancer stem cells raise the possibility that multiple breast cancer subtypes may coexist within a tumor. A role for plasticity in driving dynamic conversions between breast cancer subtypes is proposed, and the clinical implications include a need for combinatorial therapeutic strategies that account for the discrete disease entities and their plasticity. Accordingly, the advent of single-cell technologies will be crucial in enabling the diagnosis and stratification of distinct disease subtypes down to the cellular level.

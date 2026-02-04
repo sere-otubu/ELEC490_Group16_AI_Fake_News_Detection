@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Organic foods
-TITLE: Consumers' Willingness to Pay for Organic Foods in China: Bibliometric Review for an Emerging Literature.
-PMID: 31100778
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31100778/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-We conducted a bibliometric review on a small but promising body of literature on consumers' willingness to pay for organic foods in China. Results found that consumers' health consciousness, individual norms, consumer knowledge, food safety, environmental concerns, animal welfare, and purchasing power are major influencing factors for willingness to pay for organic foods in China. Notably, most research methods utilized are quantitative methods, leading us to call for the adoption of more qualitative, review, or mixed-methods. These findings increase our understanding of the knowledge structure of this emerging context-specific literature.

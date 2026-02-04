@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25034219)
-    QUESTION: Does maternal obesity have an influence on feeding behavior of obese children?
-    CONTEXT: Obese children and adolescents referred to the pediatric endocrinology department were enrolled consecutively. Height and weight of all children and their mothers were measured. Maternal feeding practices were measured using an adapted version of the Child Feeding Questionnaire (CFQ). Answers were compared between obese (Body Mass Index [BMI] ≥ 30 kg/m2) and non-obese mothers.
-    ANSWER: Mothers' BMI highly correlate with children's BMI-z-scores. The degree of child's obesity increases mothers' concern and food restriction behavior. While mothers of obese children have a high prevalence of obesity, maternal obesity was found to have no significant influence on feeding behavior of obese school children.
-    

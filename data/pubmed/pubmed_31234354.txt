@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cervical cancer
-TITLE: Human Papilloma Virus-Associated Cervical Cancer and Health Disparities.
-PMID: 31234354
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31234354/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cervical cancer develops through persistent infection with high-risk human papilloma virus (hrHPV) and is a leading cause of death among women worldwide and in the United States. Periodic surveillance through hrHPV and Pap smear-based testing has remarkably reduced cervical cancer incidence worldwide and in the USA. However, considerable discordance in the occurrence and outcome of cervical cancer in various populations exists. Lack of adequate health insurance appears to act as a major socioeconomic burden for obtaining cervical cancer preventive screening in a timely manner, which results in disparate cervical cancer incidence. On the other hand, cervical cancer is aggressive and often detected in advanced stages, including African American and Hispanic/Latina women. In this context, our knowledge of the underlying molecular mechanism and genetic basis behind the disparate cervical cancer outcome is limited. In this review, we shed light on our current understanding and knowledge of racially disparate outcomes in cervical cancer.

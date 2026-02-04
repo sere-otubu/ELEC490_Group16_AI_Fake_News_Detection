@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gallstones
-TITLE: Gallstones in pregnancy.
-PMID: 33646023
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33646023/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gallstone disease is the most common gastrointestinal disease in developed countries and is present in up to 15% of the population. Owing to the increased risk factors for gallstones in pregnancy, it is the second most common non-obstetric emergency, affecting up to 12% of pregnant women with a risk of recurrence. Up to 3% of pregnant women in America require a cholecystectomy in the first year after delivery. Gallstone disease has a high risk of developing associated complications, and maternal mortality can be up to 37% if the patient develops gallstone pancreatitis. Endoscopic retrograde cholangiopancreatography and cholecystectomy can be performed safely in the second trimester when benefits outweigh the risks. However, if the patient is able to be managed conservatively, then a cholecystectomy should be performed in the postnatal period to avoid further recurrences and complications. Despite this, there is currently no national UK guidance on how to manage gallstones and related diseases during pregnancy.

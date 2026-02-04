@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tubal ligation
-TITLE: Complete salpingectomy versus tubal ligation during cesarean section: a systematic review and meta-analysis.
-PMID: 31752570
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31752570/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This study aimed to evaluate the safety profile and feasibility of complete salpingectomy during cesarean delivery in women desiring permanent sterilization. We searched MEDLINE, Embase, and Cochrane Central Register of Controlled Trials from inception to July 2018. Study Selection: studies comparing total salpingectomy with tubal ligation during cesarean deliveries were included. Nine studies involving a total of 1274 participants were eligible. Our analyses showed that the total operative time was slightly longer for the bilateral salpingectomy than for the tubal ligation group (MD = 5.81, 95% CI: 0.85-10.77). Two comparison groups were comparable with regard to intraoperative complications (RR = 1.42, 95% CI: 0.65-3.11), postoperative complications (RR = 1.70, 95% CI: 0.83-3.48), estimated blood loss in total procedures, need for blood transfusion, operative complications, risk of postpartum hemorrhage, surgical site infection, ICU admission, need for presentation to hospital, short-term ovarian reserve, and completion rate of sterilization surgeries (RR = 0.90, 95% CI: 0.80-1.00). Complete salpingectomy slightly prolonged surgical time by a reasonable range and showed similar safety profile and greater cost-effectiveness than tubal ligation as permanent sterilization procedures at cesarean delivery.

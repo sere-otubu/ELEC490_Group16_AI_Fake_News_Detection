@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood tests interpretation
-TITLE: Thromboelastography (TEG).
-PMID: 28804853
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28804853/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Thromboelastography (TEG) has been used for decades to guide transfusion therapy during cardiac and hepatic surgeries. Renewed interest and improved technology have led to wider applications of TEG in other areas of hemostasis. To correctly interpret the data generated and to validate outcomes, it is important to improve the understanding of the differences in the currently available assay procedures, the issues related to sample activation, and the importance of the use of appropriate controls. Current TEG assays use a variety of samples and can vary slightly in the procedures. In this chapter, we very briefly review TEG applications and discuss interpretations, normal ranges, and reference controls, and we explain the method of TEG run using standard citrated native blood samples. We provide detailed technical steps and tips. We discuss precautions and issues related to the assay, which we hope can guide toward better application and data interpretation.

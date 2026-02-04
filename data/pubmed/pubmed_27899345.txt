@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic testing ethics
-TITLE: Ethics of genetic testing and research in sport: a position statement from the Australian Institute of Sport.
-PMID: 27899345
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27899345/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-As Australia's peak high-performance sport agency, the Australian Institute of Sport (AIS) has developed this position statement to address the implications of recent advances in the field of genetics and the ramifications for the health and well-being of athletes. Genetic testing has proven of value in the practice of clinical medicine. There are, however, currently no scientific grounds for the use of genetic testing for athletic performance improvement, sport selection or talent identification. Athletes and coaches should be discouraged from using direct-to-consumer genetic testing because of its lack of validation and replicability and the lack of involvement of a medical practitioner in the process. The transfer of genetic material or genetic modification of cells for performance enhancement is gene doping and should not be used on athletes. There are, however, valid roles for genetic research and the AIS supports genetic research which aims to enhance understanding of athlete susceptibility to injury or illness. Genetic research is only to be conducted after careful consideration of a range of ethical concerns which include the provision of adequate informed consent. The AIS is committed to providing leadership in delivering an ethical framework that protects the well-being of athletes and the integrity of sport, in the rapidly changing world of genomic science.

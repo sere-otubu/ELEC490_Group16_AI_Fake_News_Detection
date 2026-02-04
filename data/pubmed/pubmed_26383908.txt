@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26383908)
-    QUESTION: Does concept mapping enhance learning outcome of nursing students?
-    CONTEXT: This quasi-experimental study was conducted using a crossover design among two groups of total 64 nursing students. Participants were asked to create concept maps (group A) or were evaluated with the traditional method of quiz (group B) for eight weeks and then take a cumulative test (no. 1). Consequently, subjects used the alternate method for another eight weeks and then take the second cumulative test (no. 2).
-    ANSWER: In conclusion, concept mapping has a positive effect on students' academic achievement. These findings could provide valuable evidence for establishing concept mapping as a continuous teaching strategy for nursing students.
-    

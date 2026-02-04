@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Macular degeneration
-TITLE: Neovascular Macular Degeneration: A Review of Etiology, Risk Factors, and Recent Advances in Research and Therapy.
-PMID: 33504013
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33504013/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Neovascular age-related macular degeneration (exudative or wet AMD) is a prevalent, progressive retinal degenerative macular disease that is characterized by neovascularization of the choroid, mainly affecting the elderly population causing gradual vision impairment. Risk factors such as age, race, genetics, iris color, smoking, drinking, BMI, and diet all play a part in nvAMD's progression, with anti-vascular endothelial growth factor (anti-VEGF) therapy being the mainstay of treatment. Current therapeutic advancements slow the progression of the disease but do not cure or reverse its course. Newer therapies such as gene therapies, Rho-kinase inhibitors, and levodopa offer potential new targets for treatment.

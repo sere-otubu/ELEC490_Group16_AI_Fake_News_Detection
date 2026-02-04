@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rest and recovery
-TITLE: Determining Work-Rest Schedules for Visual Tasks That Use Optical Head-Mounted Displays Based on Visual Fatigue and Visually Induced Motion Sickness Recovery.
-PMID: 36767244
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36767244/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This study aimed to determine work-rest schedules for visual tasks of different lengths by evaluating visual fatigue and visually induced motion sickness (VIMS) using an optical head-mounted display (OHMD). Thirty participants were recruited to perform 15 and 30 min visual tasks using an OHMD. After completing each visual task, participants executed six levels of rest time. Critical flicker fusion frequency (CFF) values, relative electroencephalography indices, and Simulator Sickness Questionnaire (SSQ) scores were collected and analyzed. Results indicated that after completing the 15 and 30 min visual tasks, participants experienced visual fatigue and VIMS. There was no significant difference between baseline CFF values, four electroencephalography relative power index values, and SSQ scores when participants completed a 15 min visual task followed by a 20 min rest and a 30 min visual task followed by a 30 min rest. Based on our results, a 20 min rest for visual fatigue and VIMS recovery after a 15 min visual task on an OHMD and a 25 min rest for visual fatigue and VIMS recovery after a 30 min visual task on an OHMD are recommended. This study suggests a work-rest schedule for OHMDs that can be used as a reference for OHMD user guidelines to reduce visual fatigue and visually induced motion sickness.

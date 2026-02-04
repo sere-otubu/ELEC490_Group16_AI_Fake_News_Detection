@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immunosuppressants
-TITLE: Profiling the liver graft.
-PMID: 33278149
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33278149/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Achieving operational tolerance remains a priority in liver transplantation. Although several biomarkers of tolerance and rejection have been identified, few have been reproducible and validated across centers, and therefore have yet to reach clinical practice. Here we summarize findings from prior seminal studies and review current developments in profiling the liver allograft. Substantial efforts and progress have been made in the recent years towards the discovery of reliable biomarkers that can predict and guide successful immunosuppression withdrawal. Recent studies have also investigated the transcriptomic signatures underlying not only acute rejection but also subclinical inflammation and chronic allograft injury. As new genomic and sequencing technologies continue to develop, clinical trials are underway to validate biomarkers of tolerance, as well as better understand the mechanisms of both acute and subclinical rejection, with the goal of maximizing allograft survival. Altogether, this will hopefully enable the implementation of immunosuppression withdrawal protocols into clinical practice and make operational tolerance reliably attainable in the near future.

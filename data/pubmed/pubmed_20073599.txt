@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20073599)
-    QUESTION: Do liquid-based preparations of urinary cytology perform differently than classically prepared cases?
-    CONTEXT: The cytomorphology of liquid-based preparations in urine cytology is different than classic slide preparations.
-    ANSWER: Liquid-based preparations performed significantly better in urinary cytology challenges when evaluating malignant categories in the College of American Pathologists interlaboratory comparison program. The liquid-based preparation challenges also performed better for the exact reference interpretation of HGUCA, but no difference was observed for adenocarcinoma challenges. Cytotechnologists perform better than pathologists for all slide types, as well as those demonstrating HGUCA. These results suggest that liquid-based preparations facilitate a more accurate diagnosis than conventional preparations.
-    

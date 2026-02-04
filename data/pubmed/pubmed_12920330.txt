@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12920330)
-    QUESTION: Do somatic complaints predict subsequent symptoms of depression?
-    CONTEXT: Evidence suggests substantial comorbidity between symptoms of somatization and depression in clinical as well as nonclinical populations. However, as most existing research has been retrospective or cross-sectional in design, very little is known about the specific nature of this relationship. In particular, it is unclear whether somatic complaints may heighten the risk for the subsequent development of depressive symptoms.
-    ANSWER: Our findings suggest that somatic complaints may represent one, but not necessarily the most important, risk factor for the subsequent development of depressive symptoms in women in nonclinical populations. The results also highlight the importance of including social variables in studies on women's depression as well as conducting additional research to further examine predictors of depressive symptoms in men.
-    

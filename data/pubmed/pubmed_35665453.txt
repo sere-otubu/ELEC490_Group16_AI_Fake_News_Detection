@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Water quality and health
-TITLE: Adaptive-weight water quality assessment and human health risk analysis for river water in Hong Kong.
-PMID: 35665453
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35665453/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The water quality of Hong Kong's four water control zones (Tolo Harbour and Channel, Port Shelter, Victoria Harbour, and Junk Bay) is of vital importance and has attracted much attention. This study aims to more objectively and comprehensively assess the water quality and its health impact based on the four-year monitoring data of 21 parameters collected from four zones. First, physicochemical characteristics of the water system were investigated based on multivariate statistical approaches, including Kruskal-Wallis test, hierarchical cluster analysis, and Mann-Kendall test. Then, water quality levels over space and time and the element sources were analyzed using adaptive-weight water quality index (AWQI) method, and factor analysis, respectively. Finally, the potential harm of trace elements for humankind was identified based on the health risk assessment model. The results revealed that (1) the values of more than half of the water quality parameters exhibited significant interannual changes, and the values of all parameters distinctly varied over space; (2) The water quality status in four water control zones showed a steady and long-term improvement trend from 2016 to 2019; (3) The sources of pollution elements impacting water quality status were related to the comprehensive influence of human activities and natural processes; (4) The carcinogenic risks of all trace elements were negligible or acceptable, while Mn and As may cause noncarcinogenic harm to humankind.

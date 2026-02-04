@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Neurotransmitters
-TITLE: Role of plant neurotransmitters in salt stress: A critical review.
-PMID: 38696867
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38696867/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Neurotransmitters are naturally found in many plants, but the molecular processes that govern their actions still need to be better understood. Acetylcholine, γ-Aminobutyric acid, histamine, melatonin, serotonin, and glutamate are the most common neurotransmitters in animals, and they all play a part in the development and information processing. It is worth noting that all these chemicals have been found in plants. Although much emphasis has been placed on understanding how neurotransmitters regulate mood and behaviour in humans, little is known about how they regulate plant growth and development. In this article, the information was reviewed and updated considering current thinking on neurotransmitter signaling in plants' metabolism, growth, development, salt tolerance, and the associated avenues for underlying research. The goal of this study is to advance neurotransmitter signaling research in plant biology, especially in the area of salt stress physiology.

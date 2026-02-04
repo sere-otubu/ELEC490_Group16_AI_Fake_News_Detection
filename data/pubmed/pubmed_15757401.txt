@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antifungals
-TITLE: Emerging azole antifungals.
-PMID: 15757401
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15757401/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Systemic and superficial fungal infections have progressively emerged over the past few decades as an increasing cause of human disease, especially in the immunocompromised host. Control of fungal disease has proved difficult because few risk factors are potentially preventable; the population at highest risk for fungal disease, the immunocompromised patient, has been steadily increasing. There is a clear need for additional safe and effective therapeutic agents for the treatment of systemic fungal disease. A new generation of triazoles that includes voriconazole, posaconazole, ravuconazole and albaconazole has emerged and are presently in different phases of clinical investigation. These new triazoles have demonstrated a broad spectrum of activity, in particular against fungal pathogens previously resistant to previously available antifungals. This review highlights the emerging azole antifungals, both those available and in clinical development, and discusses their prospects for the future.

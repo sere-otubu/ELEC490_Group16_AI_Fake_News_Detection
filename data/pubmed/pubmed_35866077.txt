@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Paleo diet
-TITLE: Fad Diets: Facts and Fiction.
-PMID: 35866077
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35866077/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The global prevalence of obesity is alarmingly high and is impacting both developed and underdeveloped countries, beyond the borders of ethnicity, sex, and age. On the other hand, the global interest in dieting has increased, and people are obsessed with certain fad diets, assuming them as a magic bullet for their long-term problems. A fad diet is a popular dietary pattern known to be a quick fix for obesity. These diets are quite appealing due to the proposed claims, but the lack of scientific evidence is a big question mark. Such diets are often marketed with specific claims that defy the basic principles of biochemistry and nutritional adequacy. These diets may have protective effects against obesity and certain chronic diseases like cardiovascular diseases, metabolic syndrome, and certain cancers. Limited evidence exists to support the proposed claims; rather certain studies suggest the negative health consequences of long-term adherence to such dietary patterns. Many fad diets have emerged in the previous few decades. This review article will explore the current evidence related to the health impacts of some most popular diets: Atkins diet, ketogenic diet, Paleolithic diet, Mediterranean diet, vegetarian diet, intermittent fasting and detox diet.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Root canal
-TITLE: Electronic canal length measurement.
-PMID: 7614187
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7614187/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The most important advantage of the electronic method is that it can measure the length of the root canal to the end of the apical foramen, not to the radiographic apex. The most striking disadvantage of the electronic method is that if strong electrolytes are in the root canal, the meter shows a reading that is too high (obtaining a short working length), or sometimes the measurement itself becomes impossible. Recently new electronic devices have been developed. These devices can make an accurate measurement of the root canal length, even if a strong electrolyte is present in the root canal. These new devices allow the dentist to enlarge the apical portion of the canal more precisely than when the radiographic method is used.

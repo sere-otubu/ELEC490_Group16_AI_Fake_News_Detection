@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Occupational therapy
-TITLE: Portrait of occupational therapy.
-PMID: 15842082
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15842082/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The profession of occupational therapy promotes individuals to achieve health and wellness through engagement in meaningful occupations of daily living. This occupation-focused profession plays a critical role in health care in a multitude of settings with a wide range of clients. The paper highlights a global overview of the philosophies of occupational therapy, the current international practices in occupational therapy, the education of therapists, and the roles of law and professional societies that govern the practice of occupational therapy.

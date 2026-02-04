@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chickenpox
-TITLE: Chickenpox, chickenpox vaccination, and shingles.
-PMID: 16679476
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16679476/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chickenpox in the United Kingdom, where vaccination is not undertaken, has had a stable epidemiology for decades and is a routine childhood illness. Because of vaccination, chickenpox is now a rarity in the USA. In the UK vaccination is not done because introduction of a routine childhood vaccination might drive up the age at which those who are non-immune get the illness (chickenpox tends to be more severe the older you are), and the incidence of shingles may increase. The United Kingdom is waiting to see what happens in countries where vaccination is routine.

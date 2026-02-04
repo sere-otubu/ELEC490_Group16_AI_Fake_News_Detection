@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Zika virus
-TITLE: A Literature Review of Zika Virus.
-PMID: 27070380
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27070380/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Zika virus is a mosquitoborne flavivirus that is the focus of an ongoing pandemic and public health emergency. Previously limited to sporadic cases in Africa and Asia, the emergence of Zika virus in Brazil in 2015 heralded rapid spread throughout the Americas. Although most Zika virus infections are characterized by subclinical or mild influenza-like illness, severe manifestations have been described, including Guillain-Barre syndrome in adults and microcephaly in babies born to infected mothers. Neither an effective treatment nor a vaccine is available for Zika virus; therefore, the public health response primarily focuses on preventing infection, particularly in pregnant women. Despite growing knowledge about this virus, questions remain regarding the virus's vectors and reservoirs, pathogenesis, genetic diversity, and potential synergistic effects of co-infection with other circulating viruses. These questions highlight the need for research to optimize surveillance, patient management, and public health intervention in the current Zika virus epidemic.

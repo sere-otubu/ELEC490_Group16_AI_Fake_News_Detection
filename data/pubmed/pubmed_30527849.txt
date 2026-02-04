@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Coronary artery disease
-TITLE: Glucose Variability and Coronary Artery Disease.
-PMID: 30527849
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30527849/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Fasting blood glucose, postprandial blood glucose and glycated haemoglobin are considered three important indicators for diabetes treatment. There is increasing evidence that glucose variability has more detrimental effects on the coronary arteries than does chronic sustained hyperglycaemia. This overview summarises recent findings in the field of glucose variability and its possible relationship with coronary artery disease. Glucose variability may be a marker of increased progression of coronary disease and plaque vulnerability. It might be a potential new therapeutic target for secondary prevention of coronary artery disease. Future studies will focus on the early detection and control of glucose variability to improve the clinical outcomes in patients with coronary artery disease.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Stomach anatomy
-TITLE: Comparative morphology of the stomach of some laboratory mammals.
-PMID: 2724910
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2724910/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Histomorphology of the stomach of mouse, rat, hamster, guineapig, gerbil, and rabbit was studied. Although a common structural basis existed in the stomach between these species, the occurrence and distribution of various cells in gastric glands differed considerably between them. In mice, rats, hamsters and gerbils, the lower one-third of the glandular lamina propria was seemingly occupied by a varying proportion of parietal and chief cells. In rabbits, the predominantly occurring chief cells were distributed in the lower three-quarters of the glands intermingling with parietal cells, but in guinea-pigs the chief cells were not discernible. In hamsters, there was, however, a gradual increase of chief cells from the junction between nonglandular-glandular stomach toward the pyloric region. In all these species, parietal cells were the predominant cell type in the upper half to upper one-third of the gastric glands, often extending up to the neck of the glands interspersing between mucus neck cells and occasionally between chief cells.

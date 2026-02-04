@@ -1,8 +1,0 @@
-SEARCH_TOPIC: White blood cells
-TITLE: Transcriptome organization of white blood cells through gene co-expression network analysis in a large RNA-seq dataset.
-PMID: 38629067
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38629067/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gene co-expression network analysis enables identification of biologically meaningful clusters of co-regulated genes (modules) in an unsupervised manner. We present here the largest study conducted thus far of co-expression networks in white blood cells (WBC) based on RNA-seq data from 624 individuals. We identify 41 modules, 13 of them related to specific immune-related functions and cell types (e.g. neutrophils, B and T cells, NK cells, and plasmacytoid dendritic cells); we highlight biologically relevant lncRNAs for each annotated module of co-expressed genes. We further characterize with unprecedented resolution the modules in T cell sub-types, through the availability of 95 immune phenotypes obtained by flow cytometry in the same individuals. This study provides novel insights into the transcriptional architecture of human leukocytes, showing how network analysis can advance our understanding of coding and non-coding gene interactions in immune system cells.

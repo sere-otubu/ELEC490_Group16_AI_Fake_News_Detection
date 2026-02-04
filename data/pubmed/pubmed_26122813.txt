@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Telemedicine adoption
-TITLE: Telemedicine: Pediatric Applications.
-PMID: 26122813
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26122813/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Telemedicine is a technological tool that is improving the health of children around the world. This report chronicles the use of telemedicine by pediatricians and pediatric medical and surgical specialists to deliver inpatient and outpatient care, educate physicians and patients, and conduct medical research. It also describes the importance of telemedicine in responding to emergencies and disasters and providing access to pediatric care to remote and underserved populations. Barriers to telemedicine expansion are explained, such as legal issues, inadequate payment for services, technology costs and sustainability, and the lack of technology infrastructure on a national scale. Although certain challenges have constrained more widespread implementation, telemedicine's current use bears testimony to its effectiveness and potential. Telemedicine's widespread adoption will be influenced by the implementation of key provisions of the Patient Protection and Affordable Care Act, technological advances, and growing patient demand for virtual visits.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: HPV vaccine
-TITLE: Human Papillomavirus Vaccines.
-PMID: 34590141
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34590141/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Human papillomavirus (HPV) vaccines are among the most effective vaccines available, the first to prevent infection by a mucosatropic sexually transmitted infectious agent and to do so without specific induction of mucosal immunity. Currently available prophylactic HPV vaccines are based on virus-like particles that self-assemble spontaneously from the L1 major capsid protein. The first HPV vaccine was licensed in 2006. All vaccines target HPV-16 and HPV-18, types which cause the majority of HPV-attributable cancers. As of 2020, HPV vaccines had been introduced into national immunization programs in more than 100 countries. Vaccination polices have evolved; most programs target vaccination of young adolescent girls, with an increasing number also including boys. The efficacy and safety found in prelicensure trials have been confirmed by data from national immunization programs. The dramatic impact and effectiveness observed has stimulated interest in ambitious disease reduction goals.

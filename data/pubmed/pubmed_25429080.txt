@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Plantar fasciitis
-TITLE: Diagnosis and management of plantar fasciitis.
-PMID: 25429080
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25429080/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Plantar fasciitis, a chronic degenerative process that causes medial plantar heel pain, is responsible for approximately 1 million physician visits each year. Individuals with plantar fasciitis experience pain that is most intense during their first few steps of the day or after prolonged standing. The authors provide an overview of the diagnosis and management of a common problem encountered in the primary care setting. Routine imaging is not initially recommended for the evaluation of plantar fasciitis but may be required to rule out other pathologic conditions. Overall, plantar fasciitis carries a good prognosis when patients use a combination of several conservative treatment modalities. Occasionally, referral to a specialist may be necessary.

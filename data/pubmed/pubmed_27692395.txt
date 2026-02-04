@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rheumatoid arthritis
-TITLE: IL33 in rheumatoid arthritis: potential contribution to pathogenesis.
-PMID: 27692395
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27692395/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A better understanding of the inflammatory mechanisms of rheumatoid arthritis and the development of biological therapy revolutionized its treatment, enabling an interference in the synovitis - structural damage - functional disability cycle. Interleukin 33 was recently described as a new member of the interleukin-1 family, whose common feature is its pro-inflammatory activity. Its involvement in the pathogenesis of a variety of diseases, including autoimmune diseases, raises the interest in the possible relationship with rheumatoid arthritis. Its action has been evaluated in experimental models of arthritis as well as in serum, synovial fluid and membrane of patients with rheumatoid arthritis. It has been shown that the administration of interleukin-33 exacerbates collagen-induced arthritis in experimental models, and a positive correlation between cytokine concentrations in serum and synovial fluid of patients with rheumatoid arthritis and disease activity was found. This review discusses evidence for the role of interleukin-33 with a focus on rheumatoid arthritis.

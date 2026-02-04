@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Erectile dysfunction
-TITLE: Physiology of Erection and Pathophysiology of Erectile Dysfunction.
-PMID: 34602172
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34602172/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The science of penile erection, including recent advances in its molecular physiology and neuroanatomic pathways, is described. The pathophysiology of erectile dysfunction is presented, acknowledging associated disease states, and accordingly follows a practical classification scheme: vasculogenic, neurogenic, endocrine, and psychogenic.

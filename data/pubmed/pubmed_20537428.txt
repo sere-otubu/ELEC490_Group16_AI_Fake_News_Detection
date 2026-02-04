@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Crohns disease
-TITLE: [Metastatic Crohn's disease].
-PMID: 20537428
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20537428/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Metastatic Crohn's disease is a granulomatous cutaneous lesion that appears in patients with Crohn's disease and is located in any skin area, separated from the lesions in the gastrointestinal tract. This entity is characterized by its heterogeneous behavior, both in its localization and clinical expression and in its effect on patients' quality of life. Histology is essential for diagnosis and shows non-caseating granulomas. There are no treatment guidelines and various therapeutic strategies have been employed, with variable response. In most patients, treatment with biological agents is highly effective. We describe three cases of metastatic Crohn's disease with the aim of analyzing the characteristics of this entity, which should always be included in the differential diagnosis of skin lesions in patients with Crohn's disease. A literature review is also provided.

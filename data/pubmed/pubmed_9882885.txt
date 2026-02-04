@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anesthesia types
-TITLE: [The beginnings of anesthesia].
-PMID: 9882885
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9882885/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In the nineteenth century, introduction of the first inhaled general anaesthetic (Long, 1842) induced a further search for new types of anaesthesia: carbon dioxide, petroleum ether, derivatives of ethylene, acetone, methyl dichloride, and the study of a new technique-hypnosis. Only chloroform, ether, nitrous oxide were used. Towards the end of the century, ether became the mainstay of inhaled anaesthetics. The other routes of administering anaesthetics (rectal, venous, spinal, local) appeared around 1860.

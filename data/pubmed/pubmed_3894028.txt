@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Common cold
-TITLE: The common cold.
-PMID: 3894028
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3894028/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The common cold continues to be the major cause of absences from school and work. A better understanding of the epidemiology and the natural history should lead to less anxiety about this disease. Although there is still much misinformation among the public, the time should soon come when better-informed patients with this disease will make fewer visits to the physician and will not expect unnecessary and worthless treatment.

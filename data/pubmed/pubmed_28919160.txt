@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Polycystic ovary syndrome
-TITLE: Polycystic ovary syndrome in adolescents.
-PMID: 28919160
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28919160/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Polycystic ovary syndrome (PCOS) typically manifests with a combination of menstrual dysfunction and evidence of hyperandrogenism in the adolescent population. No single cause has been identified; however, evidence suggests a complex interplay between genetic and environmental factors. Polycystic ovary syndrome presents a particular diagnostic challenge in adolescents as normal pubertal changes can present with a similar phenotype. Management of PCOS in the adolescent population should focus on a multi-modal approach with lifestyle modification and pharmacologic treatment to address bothersome symptoms. This chapter outlines the pathogenesis of PCOS, including the effects of obesity, insulin resistance, genetic, and environmental factors. The evolution of the diagnostic criteria of PCOS as well as specific challenges of diagnosis in the adolescent population are reviewed. Finally, evidence for lifestyle modification and pharmacologic treatments are discussed.

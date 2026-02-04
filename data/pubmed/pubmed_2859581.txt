@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Generalized anxiety disorder
-TITLE: Generalized anxiety disorder.
-PMID: 2859581
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2859581/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This article discusses generalized anxiety disorder in terms of its defining characteristics, its relationship to other psychiatric disorders, its psychobiology, and its treatment. Although generalized anxiety disorder is frequently encountered in general practice, it has been less systematically investigated than the more dramatic forms of anxiety disorders such as panic disorder and phobias. It is concluded that although not as sharply defined as implied by DSM-III, generalized anxiety disorder appears to be a useful diagnostic category.

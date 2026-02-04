@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rubella
-TITLE: Congenital Rubella syndrome: A short report and literature review.
-PMID: 36321169
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36321169/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rubella infections are rarely seen where immunization programmes are in place. Congenital rubella syndrome is however still observed where the vaccination programme against rubella is not administered or interrupted. We present such a case, with typical clinical anomalies including congenital cataracts, sensorineural hearing loss and bone lesions. The diagnosis was verified by detection of rubella immunoglobulin M positivity in the mother in the first trimester and positive rubella serology in both baby and mother.

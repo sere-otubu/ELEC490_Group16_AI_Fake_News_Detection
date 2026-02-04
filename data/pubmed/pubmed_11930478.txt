@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ADHD
-TITLE: [Children with ADHD].
-PMID: 11930478
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11930478/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-An ever increasing number of hyperactive and impulsive children receive the diagnosis Attention-Deficit Hyperactivity Disorder (ADHD). The relatively high prevalence, negative prognosis, and assumed inheritable nature of this behavioral disorder make ADHD one of the most prominent child diagnoses to date. This article discusses the behavioral characteristics, etiology, diagnostics and treatment of ADHD in school-age children. Finally, some suggestions for managing ADHD in the dental practice are given.

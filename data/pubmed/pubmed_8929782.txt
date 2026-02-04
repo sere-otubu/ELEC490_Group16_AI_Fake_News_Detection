@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antacids
-TITLE: Antacid-induced osteomalacia.
-PMID: 8929782
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8929782/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The case of a 49-year-old woman suffering from generalized skeletal pain and multiple fractures accompanied by severe hypophosphataemia and low urinary phosphorus excretion is reported. She had been taking large amounts of antacids containing aluminum hydroxide for many years. A diagnosis of antacid-induced osteomalacia was made. It was confirmed by biological work-up, radiographs and bone biopsy. A dramatic biological, osteodensitometric, and clinical improvement was achieved by withdrawal of antacids and phosphorus administration. The literature concerning this unusual condition has been reviewed.

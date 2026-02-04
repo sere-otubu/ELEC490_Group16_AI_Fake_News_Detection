@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immune system
-TITLE: Immune System Dysfunction in the Elderly.
-PMID: 28423084
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28423084/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Human aging is characterized by both physical and physiological frailty that profoundly affects the immune system. In this context aging is associated with declines in adaptive and innate immunity established as immunosenescence. Immunosenescence is a new concept that reflects the age-associated restructuring changes of innate and adaptive immune functions. Thus elderly individuals usually present chronic low-level inflammation, higher infection rates and chronic diseases. A study of alterations in the immune system during aging could provide a potentially useful biomarker for the evaluation of immune senescence treatment. The immune system is the result of the interplay between innate and adaptive immunity, yet the impact of aging on this function is unclear. In this article the function of the immune system during aging is explored.

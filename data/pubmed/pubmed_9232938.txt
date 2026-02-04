@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alternative medicine
-TITLE: Alternative medicine.
-PMID: 9232938
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9232938/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Much attention is given to alternative and complementary therapies by the media and our patients. Well over 40% of the US population uses some form of unconventional (not allopathic or osteopathic) medical care. This feature focuses on the role of spirituality and other mind-body therapies in healing.

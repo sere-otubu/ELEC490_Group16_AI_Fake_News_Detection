@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Coronary artery disease
-TITLE: Concomitant Carotid and Coronary Artery Disease Management: A Review of the Literature.
-PMID: 39343361
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39343361/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review examines current evidence regarding management of patients with both coronary and carotid artery disease. It highlights the elevated stroke risk after surgery for this cohort and scrutinizes approaches to minimize this risk. Various revascularization methods are outlined, including carotid endarterectomy (CEA), carotid artery stenting (CAS), and staged versus simultaneous surgical approaches. The importance of judiciously screening coronary artery bypass grafting (CABG) candidates for carotid stenosis is emphasized, suggesting risk factor-based targeted screening is noninferior to indiscriminate screening. Efficacy comparisons are made between revascularization strategies such as staged versus synchronous CEA/CABG, CAS, and hybrid techniques. Controversies surrounding necessity and optimal timing of carotid revascularization in asymptomatic patients are addressed, indicating a need for rigorous randomized controlled trials to establish definitive treatment algorithms.

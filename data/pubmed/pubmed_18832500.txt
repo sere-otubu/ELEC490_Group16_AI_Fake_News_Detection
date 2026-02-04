@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18832500)
-    QUESTION: Systematic use of patient-rated depression severity monitoring: is it helpful and feasible in clinical psychiatry?
-    CONTEXT: The gap between evidence-based treatments and routine care has been well established. Findings from the Sequenced Treatments Alternatives to Relieve Depression (STAR*D) emphasized the importance of measurement-based care for the treatment of depression as a key ingredient for achieving response and remission; yet measurement-based care approaches are not commonly used in clinical practice.
-    ANSWER: The study findings suggest that adopting measurement-based care, such as using the PHQ-9, is achievable, even in practices with limited resources.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immune system
-TITLE: Iron and the immune system.
-PMID: 40524018
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40524018/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Iron is a cofactor for hundreds of enzymes and biochemical processes that support cellular metabolism across the kingdoms of life. Because of this, the host and pathogen compete for iron as a vital resource. Moreover, research has shown that iron acquisition and iron trafficking have substantial effects on the immune system. This is especially important because iron-related disorders - both deficiency and overload - are common worldwide. In this Review, we describe how immune cells acquire and use iron, which branches of the immune system are most affected by iron and how changes in iron availability can affect infectious diseases, autoinflammatory disorders and antitumour immunity. We also discuss key unanswered questions and potential therapeutic opportunities to manipulate immunity by controlling iron trafficking.

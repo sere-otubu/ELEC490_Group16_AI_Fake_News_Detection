@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immunosuppressants
-TITLE: Towards tolerance in liver transplantation.
-PMID: 34874844
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34874844/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Life-long immunosuppression has always been considered the key in managing liver graft protection from recipient rejection. However, it is associated with severe adverse effects that lead to increased morbidity and mortality, including infections, cardiovascular diseases, kidney failure, metabolic disorders and de novo malignancies. This explains the great interest that has developed in the concept of tolerance in recent years. The liver, thanks to its marked tolerogenicity, is to be considered a privileged organ: up to 60% of selected patients undergoing liver transplantation could safely withdraw immunosuppression.

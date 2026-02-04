@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25747932)
-    QUESTION: Living in an urban environment and non-communicable disease risk in Thailand: Does timing matter?
-    CONTEXT: This paper uses a life-course approach to explore whether the timing and/or duration of urban (vs rural) exposure was associated with risk factors for NCDs.
-    ANSWER: Urbanicity was associated with increases in behavioral and physiological risk factors. However, these associations may not translate directly into increases in biological risk factors. It is likely that these biological risk factors were results of a complex interaction between both long term accumulation of exposure and early life exposures.
-    

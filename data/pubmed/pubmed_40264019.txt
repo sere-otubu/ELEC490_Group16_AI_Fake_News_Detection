@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ADHD
-TITLE: Serotonin dysfunction in ADHD.
-PMID: 40264019
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40264019/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-It is well accepted that attention deficit hyperactivity disorder (ADHD) is in part driven by dysfunction in the monoaminergic neurotransmitter system, but both the extent of dysfunction and possible therapeutic avenues presented by serotonergic neurotransmission is frequently overlooked. As such, we present key evidence for dysfunction in serotonergic transmission, as seen from biochemical, genetic and pharmacological perspectives. An overall deficit in serotonin availability is a common theme throughout the literature, thus this review aims to explore possible dysfunctions in the serotonin synthesis pathway which result in this reduced bioavailability, and investigate whether such dysfunctions could be loci of change in ADHD. We have identified several steps in transmission, namely the conversion of tryptophan to 5-hydroxytryptophan and its use of cofactor tetrahydrobiopterin, which could present promising avenues for development of novel clinical interventions for ADHD.

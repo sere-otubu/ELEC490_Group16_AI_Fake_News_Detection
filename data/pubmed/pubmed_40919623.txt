@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep paralysis
-TITLE: Sleep Paralysis: Pathogenesis, Clinical Manifestations, and Treatment Strategies.
-PMID: 40919623
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40919623/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sleep paralysis, colloquially known as "ghost pressing" is a state of momentary bodily immobilization occurring either at the onset of sleep or upon awakening. It is characterized by atonia during rapid eye movement (REM) sleep that continues into wakefulness, causing patients to become temporarily unable to talk or move but possessing full consciousness and awareness of their surroundings. Sleep paralysis is listed in the International Classification of Sleep Disorders, 3rd Edition (ICSD-3) as a parasomnia occurring during REM sleep that be classified as either isolated or narcolepsy-associated. Several brain areas, including the forebrain, hypothalamus, and brainstem, as well as several neurotransmitters and modulators, are involved in the control of REM sleep. The primary brain region responsible for inducing muscle paralysis during REM sleep is the subcoeruleus nucleus, also known as the sublaterodorsal (SLD) nucleus in rats. Sleep paralysis results from the inability to immediately restore muscle tone during the transition from sleep to wakefulness. In this article, we systematically review the neural circuit that controls REM sleep and the underlying mechanisms, predisposing factors, clinical characteristics, and treatments for sleep paralysis. We also compare isolated sleep paralysis (ISP) and narcolepsy-associated sleep paralysis and speculate upon the role of microsleep in sleep paralysis.

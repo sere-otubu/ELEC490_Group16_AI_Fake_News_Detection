@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cardiovascular fitness
-TITLE: Exercise and cardiovascular health: A state-of-the-art review.
-PMID: 37120119
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37120119/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cardiovascular (CV) disease (CVD) is the leading cause of global morbidity and mortality, and low levels of physical activity (PA) is a leading independent predictor of poor CV health and associated with an increased prevalence of risk factors that predispose to CVD development. In this review, we evaluate the benefits of exercise on CV health. We discuss the CV adaptations to exercise, focusing on the physiological changes in the heart and vasculature. We review the impact and benefits of exercise on specific CV prevention, including type II diabetes, hypertension, hyperlipidemia, coronary artery disease, and heart failure, in addition to CVD-related and all-cause mortality. Lastly, we evaluate the current PA guidelines and various modes of exercise, assessing the current literature for the effective regimens of PA that improve CVD outcomes.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Calorie counting
-TITLE: Calorie counting smart phone apps: Effectiveness in nutritional awareness, lifestyle modification and weight management among young Indian adults.
-PMID: 31195885
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31195885/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Calorie counting mobile apps claim to assist in weight management by helping users monitor their diets and track activity. This study assessed quality and effectiveness of popular calorie counting apps in weight management and behaviour change. Top 20 apps were selected from Google Play store and their quality was assessed using a 55-point scoring scale on attributes like standards used, content accuracy, user interface and sources of database. The mean (±SD (standard deviation)) quality score was 36.95 (±5.65). The calorie and activity recommendations were compared with standards and over 65 per cent apps over/underestimated calorie intake. To assess effectiveness, 60 young volunteers were recruited and divided into two groups. The intervention group (n = 30) was asked to use one of the top 3 apps for 8 weeks. Pre- and post-comparisons were made with the control group (n = 28). No significant difference was noted in anthropometry or food consumption. There was increasing trend (13.33%) in physical activity in the intervention group.

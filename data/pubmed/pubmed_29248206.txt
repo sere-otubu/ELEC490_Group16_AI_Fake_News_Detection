@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Autoimmune diseases
-TITLE: Current and Newly Emerging Autoimmune Diseases.
-PMID: 29248206
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29248206/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There are many autoimmune diseases that are recognized in domestic animals. The descriptions of diseases provide examples of the magnitude of immune targets and the variable nature of autoimmune diseases. Other autoimmune diseases that are recognized in dogs, cats, and horses include immune-mediated thrombocytopenia, VKH (Vogt-Koyanagi-Harada) ocular disease (dogs), and Evans syndrome (which includes both immune-mediated anemia and immune-mediated thrombocytopenia).

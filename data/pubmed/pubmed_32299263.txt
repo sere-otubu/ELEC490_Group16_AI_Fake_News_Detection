@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Speech therapy
-TITLE: The effect of tele-speech therapy on treatment of stuttering.
-PMID: 32299263
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32299263/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The aim of this study was to evaluate the effect of tele-speech therapy on the recovery of patients with a stutter. This research was an interventional study conducted on the patients visiting two rehabilitation centres. In this study, patients with a stutter participated in the tele-speech therapy sessions <i>via</i> Skype. Stuttering Severity Instrument-Fourth Edition was used to determine the severity of stutter before and after the intervention. The results showed a significant difference in the mean scores of stuttering severity before and after tele-speech therapy (<i>p</i> = 0.001). Our findings showed a mean reduction of 13.8% in stuttering scores. More than half of the patients (56.6%) reported a "high" and "very high" satisfaction with this treatment method. Tele-speech therapy is an effective way for the treatment of stuttering patients irrespective of their age, gender, and educational background. This method can improve patient's speech and reduce stuttering. Implications for RehabilitationTele-rehabilitation is an effective way to treat stuttering.Tele-speech therapy can be implemented for any group of stuttering patients.Participants were satisfied with the tele-rehabilitation intervention.Tele-speech therapy accelerates the treatment process.Tele-speech therapy eliminates patient travels to speech therapies.

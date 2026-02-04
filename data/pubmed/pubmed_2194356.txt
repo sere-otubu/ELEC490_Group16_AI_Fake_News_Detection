@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cataract surgery
-TITLE: Cataract surgery. Current approaches.
-PMID: 2194356
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2194356/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cataract surgery in the dog can be a highly successful and rewarding technique for restoring vision to the cataract patient. Coexisting ocular conditions can complicate cataract surgery or be a contraindication for lens removal; these include KCS, uveitis, glaucoma, lens subluxation, and retinal disease. Techniques for cataract surgery include intracapsular cataract extraction, extracapsular cataract extraction, and phacofragmentation, both extracapsular and endocapsular (intercapsular). Phacofragmentation is probably the most successful technique in the dog at this time. Postoperative complications include uveitis, hyphema, glaucoma, capsular opacities, corneal endothelial damage, and retinal detachments. Newer methods of dealing with these problems include the use of viscoelastic materials and IOL implants intraoperatively and the use of the Nd:YAG laser for posterior capsulotomies postoperatively.

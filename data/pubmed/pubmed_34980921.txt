@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Celiac disease
-TITLE: The global burden of coeliac disease: opportunities and challenges.
-PMID: 34980921
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34980921/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Coeliac disease is a systemic disorder characterized by immune-mediated enteropathy, which is caused by gluten ingestion in genetically susceptible individuals. The clinical presentation of coeliac disease is highly variable and ranges from malabsorption through solely extra-intestinal manifestations to asymptomatic. As a result, the majority of patients with coeliac disease remain undiagnosed, misdiagnosed or experience a substantial delay in diagnosis. Coeliac disease is diagnosed by a combination of serological findings of disease-related antibodies and histological evidence of villous abnormalities in duodenal biopsy samples. However, variability in histological grading and in the diagnostic performance of some commercially available serological tests remains unacceptably high and confirmatory assays are not readily available in many parts of the world. Currently, the only effective treatment for coeliac disease is a lifelong, strict, gluten-free diet. However, many barriers impede patients' adherence to this diet, including lack of widespread availability, high cost, cross-contamination and its overall restrictive nature. Routine follow-up is necessary to ensure adherence to a gluten-free diet but considerable variation is evident in follow-up protocols and the optimal disease management strategy is not clear. However, these challenges in the diagnosis and management of coeliac disease suggest opportunities for future research.

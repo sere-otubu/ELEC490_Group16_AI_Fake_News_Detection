@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19309468)
-    QUESTION: Does a febrile reaction to platelets predispose recipients to red blood cell alloimmunization?
-    CONTEXT: A variable effect of inflammation on alloimmunization to transfused red blood cells (RBCs) in mice has been recently reported. We investigated whether RBC alloimmunization in humans was affected by transfusion of blood products in temporal proximity to experiencing a febrile transfusion reaction (FTR) to platelets (PLTs), an event predominantly mediated by inflammatory cytokines.
-    ANSWER: These preliminary data support our hypothesis that recipient inflammation may affect RBC alloimmunization in humans; however, a more detailed understanding of the pathophysiologic association between inflammation and alloimmunization is required before definitive conclusions can be reached.
-    

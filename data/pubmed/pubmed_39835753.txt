@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Shingles
-TITLE: [Shingles, a vaccine-preventable disease: time to realize it].
-PMID: 39835753
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39835753/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The risk of herpes zoster (HZ) and postherpetic neuralgia (PHN) increases rapidly after the age of 50 years old. The incidence of herpes zoster and PHN appears to be correctly measured albeit irregularly and the immediate and long-term complications are so poorly measured that the perception of a benign disease remains entrenched among professionals and in the general population. Because acute-phase treatments are only marginally effective in reducing the severity and duration of complications, zoster vaccines have been developed over the last twenty years. The first available vaccine was a live attenuated vaccine recommended in France in 2013 in very specific age groups, and in the absence of an implementation campaign, vaccine coverage has remained less than 1%. A second vaccine that can reduce the incidence of shingles by 90%, even in the oldest age groups and that can also be used in immunosuppressed members of the population, has been recommended since March 2024 by the French Haute Autorité de santé (HAS). However, it requires two injections, two and six months apart, and side effects are frequent, although mostly local. The implementation strategy for this new vaccine will need to be complemented by awareness campaigns among both health care professionals and users if we want to reduce the incidence of shingles as we should hope.

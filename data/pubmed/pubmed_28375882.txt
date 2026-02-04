@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cortisol
-TITLE: Salivary cortisol and cortisone in the clinical setting.
-PMID: 28375882
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28375882/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A resurgence of interest in salivary biomarkers has generated evidence for their value in assessing adrenal function. The advantages of salivary measurements include only free hormone is detected, samples can be collected during normal daily routines and stress-induced cortisol release is less likely to occur than during venepuncture. We review the use of salivary biomarkers to diagnose and monitor patients for conditions of cortisol excess and deficiency and discuss the value of measuring salivary cortisone versus salivary cortisol. Developments in laboratory techniques have enabled the measurement of salivary hormones with a high level of sensitivity and specificity. In states of altered cortisol binding, salivary biomarkers are more accurate measures of adrenal reserve than serum cortisol. Salivary cortisone is a superior marker of serum cortisol compared with salivary cortisol, specifically when serum cortisol is low and during hydrocortisone therapy when contamination of saliva may result in misleading salivary cortisol concentrations. Salivary cortisol and cortisone can be used to assess cortisol excess, deficiency and hydrocortisone replacement, with salivary cortisone having the advantage of detection when serum cortisol levels are low and there is no interference from oral hydrocortisone.

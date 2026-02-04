@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Crohns disease
-TITLE: Crohn's disease.
-PMID: 16936369
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16936369/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Crohn's disease is a chronic inflammatory disease of the gastrointestinal tract and is an important cause of morbidity in children and adolescents. In India Crohn's disease (CD) was considered a rare disease, however, during the last 10 years CD in adults is being reported from several centers especially in Southern India. CD is characterized by transmural granulomatous inflammation involving any part of the gastrointestinal tract in a discontinuous manner. The peak incidence of Crohn's disease occurs during the adolescent and young adult years. The clinical presentation and complications are varied and several extraintestinal manifestations have been recognized. The understanding of the pathophysiology has opened new avenues in the management. The recognition of this problem in children and adolescents by pediatricians is necessary for proper diagnosis and management.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rare diseases
-TITLE: Ophthalmic registries for rare eye diseases.
-PMID: 35791100
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35791100/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The prevalence of rare diseases has been estimated to be around 6%-8%, most of which are genetic in origin. Rare eye diseases constitute a critical public health concern. The major concerns for people suffering from these conditions are diagnosis, treatment, rehabilitation, limited resources, and health infrastructure. Also, as the number of people suffering from these disorders is less, it becomes difficult to study the epidemiological distribution and natural course of the disease. Thus, there is a need to establish registries for such rare disorders. This will help in creating a database of those suffering from rare eye diseases and will prove advantageous for both the patients and the researchers. For patients, it will be helpful as it will provide them will access to families suffering from similar problems, provide rehabilitation services, and provide access to clinical trials working on the development of new treatments for these rare disorders. From the researchers' point of view, it will be beneficial for them as they will then have access to a pool of data that can be used as a starting point of research on these rare disorders. At present, very few registries exist around the world and none in India. A systematic review of registries for rare eye diseases on Google and PubMed was done for existing registries, their methodology, services provided, applications, and advantages.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Infant mortality reduction
-TITLE: Assessing the reduction in infant mortality rates in Malawi over the 1990-2010 decades.
-PMID: 27696987
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27696987/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-One of the key objectives of the Millennium Development Goals (MDGs) was to improve the lives of infants and children, particularly the reduction of high infant and childhood mortality rates throughout the developing world. This paper examines the experiences of Malawi in tackling the problem of high infant and childhood mortality over recent decades, 1990-2010. We highlight the strategies that were used in Malawi which led to Malawi's stellar performance in achieving the targets set by the MDGs with reference to infant and childhood mortality. The data for the analysis were obtained from Demographic and Health Surveys and from the various censuses the country has conducted. Regression analysis using district as the unit of observation reveals several important factors that have led to the commendable declines in infant mortality. Significant factors included immunisation of infants as well as increasing levels of female education and the availability of skilled birth attendants. What Malawi's case demonstrates is that given a correct mix of strategies, even a poor country such as Malawi can meet some of the lofty targets set by the MDGs.

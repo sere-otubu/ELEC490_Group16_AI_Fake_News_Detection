@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sports nutrition
-TITLE: Sports Nutrition: Current and Novel Insights.
-PMID: 40362729
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40362729/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This Special Issue invited the submission of sports nutrition-based manuscripts that advanced scientific understanding and provided novel insights on all aspects of performance and recovery [...].

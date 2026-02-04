@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chronic disease management
-TITLE: Mobile phone technology in chronic disease management.
-PMID: 19093357
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19093357/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Mobile phones are being used to improve nurse-patient communication and monitor health outcomes in chronic disease. Innovative applications of mobile technology are expected to increase over time in community management of cancer, heart disease, asthma and diabetes. This article focuses on mobile phone technology and its contribution to health care.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Kidney function
-TITLE: Function and dysfunction of renal transport molecules: lessons from electrophysiology.
-PMID: 8887251
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8887251/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The availability of cloned transport molecules achieved by efforts in expression cloning has allowed their electrophysiological analysis in the Xenopus oocyte expression system. We describe the electrogenic uptake of various substrates by their corresponding transport molecules originally expressed in brush border membranes of proximal tubules. The functional properties of the following transport molecules are discussed: the sodium-coupled glucose transporter, the sodium-coupled phosphate transporter, the sodium-coupled sulfate transporter and the sodium-independent transporter of neutral and dibasic amino acids. Additionally, functional consequences of naturally occurring disease-causing mutations in some of these transport molecules are described.

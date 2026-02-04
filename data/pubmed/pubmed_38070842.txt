@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Nicotine dependence
-TITLE: Epigenetic mechanisms of nicotine dependence.
-PMID: 38070842
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38070842/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Smoking continues to be a leading cause of preventable disease and death worldwide. Nicotine dependence generates a lifelong propensity towards cravings and relapse, presenting an ongoing challenge for the development of treatments. Accumulating evidence supports a role for epigenetics in the development and maintenance of addiction to many drugs of abuse, however, the involvement of epigenetics in nicotine dependence is less clear. Here we review evidence that nicotine interacts with epigenetic mechanisms to enable the maintenance of nicotine-seeking across time. Research across species suggests that nicotine increases permissive histone acetylation, decreases repressive histone methylation, and modulates levels of DNA methylation and noncoding RNA expression throughout the brain. These changes are linked to the promoter regions of genes critical for learning and memory, reward processing and addiction. Pharmacological manipulation of enzymes that catalyze core epigenetic modifications regulate nicotine reward and associative learning, demonstrating a functional role of epigenetic modifications in nicotine dependence. These findings are consistent with nicotine promoting an overall permissive chromatin state at genes important for learning, memory and reward. By exploring these links through next-generation sequencing technologies, epigenetics provides a promising avenue for future interventions to treat nicotine dependence.

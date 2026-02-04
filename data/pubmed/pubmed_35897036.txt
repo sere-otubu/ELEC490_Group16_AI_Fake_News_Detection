@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immune response
-TITLE: Reprogramming of glutamine metabolism and its impact on immune response in the tumor microenvironment.
-PMID: 35897036
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35897036/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Metabolic reprogramming and immune escape play a major role in tumorigenesis. Increasing number of studies have shown that reprogramming of glutamine metabolism is a putative determinant of the anti-tumor immune response in the tumor microenvironment (TME). Usually, the predatory uptake of glutamine by tumor cells in the TME results in the limited utilization of glutamine by immune cells and affects the anti-tumor immune response. The cell-programmed glutamine partitioning also affects the anti-tumor immune response. However, the reprogramming of glutamine metabolism in tumors modulates immune escape by regulating tumor PD-L1 expression. Likewise, the reprogramming of glutamine metabolism in the immune cells also affects their immune function. Additionally, different types of glutamine metabolism inhibitors extensively regulate the immune cells in the TME while suppressing tumor cell proliferation. Herein, we discuss how metabolic reprogramming of tumor and immune cells regulates anti-tumor immune responses, as well as functional changes in different immune cells in the context of targeting tumor glutamine metabolism, which can better explain the potential of targeting glutamine metabolism in combination with immunotherapy for cancer. Video abstract.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Keto diet
-TITLE: The effects of the ketogenic diet for the management of type 2 diabetes mellitus: A systematic review and meta-analysis of recent studies.
-PMID: 38006799
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38006799/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To systematically review the effects of the ketogenic diet on glycaemic control, body weight, cardiovascular risk factors, and liver and kidney function in patients with type 2 diabetes. PubMed, MEDLINE, Embase, Cochrane Library and CINAHL were searched for randomised controlled trials published between 2001 and 2021 that compared the ketogenic diet to a control diet for effects on glycaemic control, body weight, cardiovascular risk factors, liver and renal function markers in adults with type 2 diabetes for >14 days. Meta-analyses using fixed or random effects models were conducted. Nineteen reports from 11 randomised controlled trials were included. Compared to the control, the ketogenic diet showed no significant difference in changes in glycaemic control or body weight, but greater increases in HDL (standardised mean difference 0.19; 95%CI 0.02-0.37; I<sup>2</sup> = 0 %; moderate-quality evidence) and greater reductions in triglycerides (standardised mean difference -0.41; 95%CI -0.64 to -0.18; I<sup>2</sup> = 0 %; low-quality evidence). The ketogenic diet may improve lipid profiles but showed no additional benefits for glycaemic control or weight loss compared to control diets in type 2 diabetes patients over two years.

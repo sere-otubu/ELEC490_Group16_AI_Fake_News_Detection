@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cortisol
-TITLE: Cortisol and somatization.
-PMID: 10876062
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10876062/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Somatization symptoms are frequently associated with depression, anxiety, and feelings of distress. These features interact with the activity of the HPA-axis. Therefore we investigated relationships between somatization symptoms and cortisol. Seventy-seven participants were classified into three groups: somatization syndrome (at least eight physical symptoms from the DSM-IV somatization disorder list), somatization syndrome combined with major depression, and healthy controls. The following data were collected: salivary cortisol at three time points (morning, afternoon, evening), nighttime urinary cortisol, serum cortisol after the dexamethasone suppression test (DST), and psychological variables such as depression, anxiety, somatization, and hypochondriasis. Salivary cortisol showed typical diurnal variations. However, the groups did not differ on any of the cortisol variables. A possible explanation may be counteracting effects of somatization and depression. Exploratory correlational analyses revealed that associations between cortisol and psychopathological variables were time-dependent. DST results correlated with psychological aspects of somatization, but not with the number of somatoform symptoms per se.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep apnea
-TITLE: Sleep disordered breathing: management update.
-PMID: 29105265
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29105265/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The term sleep disordered breathing encompasses a spectrum of abnormalities, including snoring, obstructive sleep apnoea (OSA), central sleep apnoea (CSA), respiratory-related arousals and hypoventilation. This review focuses on both OSA and CSA. It provides a clinical update of recent advances in the diagnosis, management and prognosis of these two conditions. An increasing array of treatment modalities, particularly for OSA, broadens the opportunity for personalised therapy tailored to the individual patient.

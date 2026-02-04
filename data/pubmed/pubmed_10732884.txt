@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 10732884)
-    QUESTION: Does coronary angiography before emergency aortic surgery affect in-hospital mortality?
-    CONTEXT: To study the relationship between coronary angiography and in-hospital mortality in patients undergoing emergency surgery of the aorta without a history of coronary revascularization or coronary angiography before the onset of symptoms.
-    ANSWER: These data indicate that determination of coronary anatomy may not impact on survival in patients undergoing emergency surgery of the aorta and support the concept that once diagnosed, patients should proceed as quickly as possible to surgery.
-    

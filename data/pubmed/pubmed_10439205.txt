@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Psychotherapy
-TITLE: Effectiveness of psychotherapy.
-PMID: 10439205
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10439205/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Meta-analytic studies demonstrate that psychotherapy works. This paper reviews the methodologic challenges that slow the research needed to explain what works, how, and for whom. The definition of psychotherapy is addressed briefly. Recognizing both the accomplishments and limitations of the recent focus on efficacy studies of highly specified therapies, researchers are turning to examining the effectiveness of psychotherapies. Effectiveness research examines issues of feasibility, ease in generalizing, and costs versus benefits. Research designers are interested in both moderators and mediators of treatment effect. Developmental theory and developmental psychopathology provide valuable focuses for research design. The paucity of research on process, on psychodynamic psychotherapies, and on combined treatments is noted. The paper concludes with a summary of recent psychotherapy research in several specific categories: prevention, autism, anxiety disorders, disruptive disorders, and depression.

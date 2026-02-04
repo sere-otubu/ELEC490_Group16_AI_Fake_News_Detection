@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Creatine
-TITLE: Creatine, Creatine Kinase, and Aging.
-PMID: 30779009
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30779009/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-With an ever aging population, identifying interventions that can alleviate age-related functional declines has become increasingly important. Dietary supplements have taken center stage based on various health claims and have become a multi-million dollar business. One such supplement is creatine, a major contributor to normal cellular physiology. Creatine, an energy source that can be endogenously synthesized or obtained through diet and supplement, is involved primarily in cellular metabolism via ATP replenishment. The goal of this chapter is to summarize how creatine and its associated enzyme, creatine kinase, act under normal physiological conditions, and how altered levels of either may lead to detrimental functional outcomes. Furthermore, we will focus on the effect of aging on the creatine system and how supplementation may affect the aging process and perhaps reverse it.

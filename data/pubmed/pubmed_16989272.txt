@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rubella
-TITLE: Rubella mass campaigns.
-PMID: 16989272
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16989272/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The availability of vaccines that contain both measles and rubella components allows for the elimination of both diseases. Although routine infant vaccination with rubella vaccine has had profound effects on the incidence of both acquired and congenital rubella, mass vaccination rapidly stops circulation of the virus and prevents paradoxical increases in susceptibility of women that might result from decreased exposure in childhood. Whereas routine rubella vaccination has eliminated the infection from many developed countries, mass vaccination has rapidly accomplished the same goal in Latin America and the Caribbean, and is being applied in other developing country areas.

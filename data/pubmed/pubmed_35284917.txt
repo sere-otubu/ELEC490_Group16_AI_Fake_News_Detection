@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Polycystic ovary syndrome
-TITLE: Why are women with polycystic ovary syndrome obese?
-PMID: 35284917
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35284917/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Polycystic ovary syndrome (PCOS) is a common condition characterized by reproductive, hyperandrogenic and dysmetabolic features, and often becomes clinically manifest during adolescence, particularly with weight-gain. Pubmed search. PCOS is heritable and closely associates with obesity (based on data from both epidemiological and genetic studies). Furthermore, insulin resistance forms a central cornerstone of the pathogenesis of PCOS and mediates a close association between obesity and the severity of the phenotypic features of PCOS. Our understanding of the pathogenesis of PCOS remains incomplete, especially regarding its missing heritability (with only a small fraction having been identified from the genome-wide association studies reported to date), and its developmental origins. A challenge for the future is to explore a role for epigenetic modifications in the development of PCOS, and implications for the in utero environment and novel therapeutic opportunities.

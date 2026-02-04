@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood pressure regulation
-TITLE: Measuring Blood Pressure Using a Noninvasive Tail Cuff Method in Mice.
-PMID: 28500596
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28500596/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The renin angiotensin system (RAS) is well known for its role in regulating blood pressure (BP). An activated RAS contributes to elevated blood pressure and is evident in both human and animal models of hypertension. Drugs that target the classic vasoconstrictive arm of the RAS (angiotensin II/AT1 receptor signaling) are potent anti-hypertensive agents in clinical setting. However, the newly discovered angiotensin-converting enzyme 2 (ACE2)/angiotensin-(1-7)/Mas receptor axis added new vitality to the hypertension field. Advances in genetic manipulation and the relative low cost made the mouse model as one of the most popular animal models to study hypertension. Since a reliable and accurate method for BP assessment is the key for such experiments, here we provide a protocol for BP measurement in mice using a noninvasive BP system. The CODA noninvasive BP system (a tail-cuff Method, Kent Scientific Corporation) enables blood pressure (BP) measurements in mice. This method uses a specialized volume pressure recording (VPR) sensor, and measures blood volume changes that are placed over the animal's tail. Mice do need to be restrained in specific holders and artificially heated to maintain normal BP.

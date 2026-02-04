@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Self harm
-TITLE: Treatment of Self-Harm Scars: A Scoping Review.
-PMID: 35917261
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35917261/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Self-harm scars are a consequence of deliberate self-injury, serving as a visual reminder for involved individuals. Patients often reach out to their providers seeking treatment for their scars. However, there is currently no standard for treating self-harm scars, because multiple options are being explored. A scoping review was conducted to identify and characterize the body of literature on different treatments for self-harm scars, including surgical, laser, and vitamin A management. Thorough literature searches were conducted in PubMed/MEDLINE, EMBASE, and CINAHL Complete. The search strategy was designed and implemented by a medical librarian. Of 510 retrieved articles, 4 described laser treatments, 8 described surgical treatments, and 2 described vitamin A treatments. A multidisciplinary approach is critical for the selection and outcome of the treatment of self-harm scars.

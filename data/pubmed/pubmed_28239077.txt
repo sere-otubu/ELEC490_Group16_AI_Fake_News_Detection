@@ -1,8 +1,0 @@
-SEARCH_TOPIC: GERD
-TITLE: A Review of Diagnosis of GERD.
-PMID: 28239077
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28239077/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The prevalence of gastroesophageal reflux disease (GERD) and the incidence of some of its complications have risen strikingly over the last few decades. With the accumulation in our understanding on the pathophysiology of GERD along with the development of proton pump inhibitors, the diagnostic and therapeutic approaches to the GERD have changed dramatically over the past decade. However, The GERD still poses a problem to many clinicians since the spectrum of the disease has evolved to encompass more challenging presentations such as refractory GERD and extraesophageal manifestations. The aim of this article was to provide a review of available current diagnostic tests of the GERD, includes proton pump inhibitor test, ambulatory pH monitoring, impedance pH monitoring, mucosa impedance, and high resolution manometry. This review discusses different modalities for the work up of GERD.

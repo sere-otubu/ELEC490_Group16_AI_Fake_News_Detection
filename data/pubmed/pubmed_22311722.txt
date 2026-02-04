@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Epidemiology basics
-TITLE: Genetic epidemiology with a capital E: where will we be in another 10 years?
-PMID: 22311722
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22311722/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In a commentary on the evolution of the field of genetic epidemiology over the past 10 years, Khoury et al. (2011) highlight several important developments, including the emergence of evaluation of genetic discoveries for their translational utility and of standards for reporting genetic findings. In this companion to their article, I reflect on some of these trends and speculate about the direction of the field in the future. In particular, I emphasize the opportunities posed by novel technologies like next-generation sequencing and the biological insights emerging from integrative genomics, but I also question the utility of large consortia. The basic principles of population-based research and the importance of taking account of the environment remain important to the field.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Teeth whitening
-TITLE: Information on teeth whitening from employees at establishments in New York City.
-PMID: 30806194
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30806194/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Teeth whitening (bleaching) is a popular cosmetic procedure in the United States and the potential side-effects are well-documented. Establishments offering whitening procedures in New York City were found online and 148 were successfully contacted to inquire about the benefits, side effects, and eligibility criteria of their whitening procedures. Most had no eligibility criteria and the only stated benefit was brighter teeth. Representatives from 25 businesses stated that there were no side effects. About half of the establishments used UV light and employees at these businesses were more likely to state that there were side effects. While limited in its cross-sectional design, this study demonstrates a lack of effective communication by employees regarding the side effects of teeth whitening. Future public health research on this topic would complement existing biological and clinical research.

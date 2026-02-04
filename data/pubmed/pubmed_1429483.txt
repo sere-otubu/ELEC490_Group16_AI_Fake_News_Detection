@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Serotonin
-TITLE: Basic advances in serotonin pharmacology.
-PMID: 1429483
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1429483/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Several advances in serotonin pharmacology have implications for psychiatry. The introduction of selective inhibitors of serotonin uptake into clinical use has established more firmly the relevance of brain serotonin neurons to depressive illness and is permitting an exploration of other therapeutic consequences of amplifying serotonergic function. A recent major advance in basic pharmacology has been the definition and characterization of multiple serotonin receptor subtypes in brain. Highly selective agonists and antagonists at these receptor subtypes are being developed as candidate drugs for therapy and as pharmacologic probes for assessing functionality of brain serotonin neurons in disease. Improved pharmacologic specificity will provide better tools for eliciting measurable responses mediated by brain serotonin receptors and for imaging key presynaptic and postsynaptic constituents of serotonin neuronal systems. Advances in serotonin pharmacology should therefore expand our understanding of serotonin's roles as a brain neurotransmitter in health and disease and lead to improved therapeutic agents.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Nutritional supplements
-TITLE: Safety and efficacy of supplements in pregnancy.
-PMID: 31925443
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31925443/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Pregnancy is a time where expectant mothers often focus on their diet to improve their own health and to preserve the future health of their children. There is much conflicting information in the public domain about the safety and/or efficacy of nutritional supplements during pregnancy. Despite this, the market for supplements is growing. This review discusses the roles of critical nutrients in pregnancy and the available evidence on the use of supplements to reduce risks and improve maternal and fetal outcomes. Recommendations are made for pregnant women, taking into account safety data and tolerable upper intakes set for pregnant women. It is important for dieticians, nutritionists, physicians, and other healthcare providers to be able to offer accurate and evidence-based advice on supplement use in pregnancy. Routine supplementation may not be necessary for all, but individuals at risk are identified.

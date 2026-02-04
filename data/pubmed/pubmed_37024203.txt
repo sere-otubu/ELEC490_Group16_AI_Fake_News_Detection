@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cirrhosis
-TITLE: Hepatic Outcomes of Nonalcoholic Fatty Liver Disease Including Cirrhosis and Hepatocellular Carcinoma.
-PMID: 37024203
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37024203/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nonalcoholic fatty liver disease (NAFLD) is the most common chronic liver disease worldwide and represents a significant cause of cirrhosis and hepatocellular carcinoma (HCC). Almost 20% of patients with NAFLD and advanced fibrosis develop cirrhosis, of which 20% can progress to decompensated liver stage. Although patients with cirrhosis or fibrosis continue to have a high risk for HCC progression, growing evidence shows that NAFLD-HCC can develop even in the absence of cirrhosis. Current evidence characterizes NAFLD-HCC primarily as a condition with late presentation, lower response to curative therapy, and poor prognosis.

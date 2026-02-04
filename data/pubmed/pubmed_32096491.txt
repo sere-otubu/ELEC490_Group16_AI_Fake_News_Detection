@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dengue fever
-TITLE: [Fatal dengue fever].
-PMID: 32096491
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32096491/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Dengue fever is acute zooanthroponic infection from a group of vector-borne viral hemorrhagic fevers. Since 2013, Russia has introduced the mandatory registration of dengue fever cases. The paper presents data on the epidemiology, etiology, and pathogenesis of Dengue fever and describes a case of a fatal outcome in severe dengue fever and morphological changes in organs and tissues.

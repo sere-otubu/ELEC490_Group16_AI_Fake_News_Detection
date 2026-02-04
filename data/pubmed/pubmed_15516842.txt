@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic disorders
-TITLE: Ashkenazi Jewish genetic disorders.
-PMID: 15516842
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15516842/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The frequency of several genes responsible for 'single-gene' disorders and disease predispositions is higher among Ashkenazi Jews than among Sephardi Jews and non-Jews. The disparity is most likely the result of founder effect and genetic drift, rather than heterozygote advantage. The more common Mendelian Ashkenazi Jewish genetic disorders are summarized, and examples of variable expressivity and penetrance, inconsistent genotype-phenotype correlation, and potential modifiers are presented. The importance of genetic counseling in both the pre- and post-test phases of population screening is emphasized.

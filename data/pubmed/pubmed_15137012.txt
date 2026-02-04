@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 15137012)
-    QUESTION: Ovarian torsion in children: is oophorectomy necessary?
-    CONTEXT: Most pediatric surgeons perform oophorectomy in girls presenting with ovarian torsion in which the ovary appears necrotic. However, the adult gynecology literature suggests that many ovaries can be treated by detorsion alone.
-    ANSWER: Simple detorsion was not accompanied by an increase in morbidity, and all patients studied had functioning ovarian tissue on follow-up despite the surgeon's assessment of the degree of ovarian ischemia. Detorsion is the procedure of choice for most cases of ovarian torsion in children.
-    

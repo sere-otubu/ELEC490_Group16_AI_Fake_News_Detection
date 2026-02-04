@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Spinal cord injury
-TITLE: Rat models of spinal cord injury: from pathology to potential therapies.
-PMID: 27736748
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27736748/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A long-standing goal of spinal cord injury research is to develop effective spinal cord repair strategies for the clinic. Rat models of spinal cord injury provide an important mammalian model in which to evaluate treatment strategies and to understand the pathological basis of spinal cord injuries. These models have facilitated the development of robust tests for assessing the recovery of locomotor and sensory functions. Rat models have also allowed us to understand how neuronal circuitry changes following spinal cord injury and how recovery could be promoted by enhancing spontaneous regenerative mechanisms and by counteracting intrinsic inhibitory factors. Rat studies have also revealed possible routes to rescuing circuitry and cells in the acute stage of injury. Spatiotemporal and functional studies in these models highlight the therapeutic potential of manipulating inflammation, scarring and myelination. In addition, potential replacement therapies for spinal cord injury, including grafts and bridges, stem primarily from rat studies. Here, we discuss advantages and disadvantages of rat experimental spinal cord injury models and summarize knowledge gained from these models. We also discuss how an emerging understanding of different forms of injury, their pathology and degree of recovery has inspired numerous treatment strategies, some of which have led to clinical trials.

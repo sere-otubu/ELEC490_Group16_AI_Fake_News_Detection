@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep paralysis
-TITLE: Sleep paralysis.
-PMID: 8094172
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8094172/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sleep paralysis is a common condition with a prevalence of 5-62%. Although most affected people have single or infrequent episodes, sleep paralysis may be recurrent, or occur in association with the narcoleptic syndrome. In a study of 22 subjects with frequent sleep paralysis and also excessive daytime sleepiness, episodes continued for between 5 and 35 years. In contrast to subjects with the narcoleptic syndrome, these patients did not have cataplexy, daytime sleepiness and insomnia were less severe, and there was no HLA DR2(15) or DQ1(6) association. Sleep paralysis was familial in 19 of these subjects. A non-HLA linked genetic factor, in addition to environmental factors, may thus predispose to sleep paralysis.

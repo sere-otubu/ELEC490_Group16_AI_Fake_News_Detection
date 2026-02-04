@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Opioid addiction
-TITLE: Prevention of Opioid Abuse and Treatment of Opioid Addiction: Current Status and Future Possibilities.
-PMID: 30786212
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30786212/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Prescription opioid medications have seen a dramatic rise in misuse and abuse, leading regulators and scientists to develop policies and abuse-deterrent technologies to combat the current opioid epidemic. These abuse-deterrent formulations (ADFs) are intended to deter physical and chemical tampering of opioid-based products, while still providing safe and effective delivery for therapeutic purposes. Even though formulations with varying abuse-deterrent technologies have been approved, questions remain about their effectiveness. While these formulations provide a single means to combat the epidemic, a greater emphasis should be placed on formulations for treatment of addiction and overdose to help those struggling with opioid dependence. This article analyzes various ADFs currently in clinical use and explores potential novel systems for treatment of addiction and prevention of overdose.

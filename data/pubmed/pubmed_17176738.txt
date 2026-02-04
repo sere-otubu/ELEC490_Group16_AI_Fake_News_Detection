@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Root canal
-TITLE: Root canal retreatment.
-PMID: 17176738
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17176738/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Root canal therapy is not always successful and an increasing number of patients are requesting retreatment to address intraradicular infection. The armamentarium available to assist the dentist, some of which is described in this article, has never been greater.

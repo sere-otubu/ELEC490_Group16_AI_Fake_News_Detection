@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Postpartum depression
-TITLE: Consequences of maternal postpartum depression: A systematic review of maternal and infant outcomes.
-PMID: 31035856
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31035856/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The postpartum period represents the time of risk for the emergence of maternal postpartum depression. There are no systematic reviews of the overall maternal outcomes of maternal postpartum depression. The aim of this study was to evaluate both the infant and the maternal consequences of untreated maternal postpartum depression. We searched for studies published between 1 January 2005 and 17 August 2016, using the following databases: MEDLINE via Ovid, PsycINFO, and the Cochrane Pregnancy and Childbirth Group trials registry. A total of 122 studies (out of 3712 references retrieved from bibliographic databases) were included in this systematic review. The results of the studies were synthetized into three categories: (a) the maternal consequences of postpartum depression, including physical health, psychological health, relationship, and risky behaviors; (b) the infant consequences of postpartum depression, including anthropometry, physical health, sleep, and motor, cognitive, language, emotional, social, and behavioral development; and (c) mother-child interactions, including bonding, breastfeeding, and the maternal role. The results suggest that postpartum depression creates an environment that is not conducive to the personal development of mothers or the optimal development of a child. It therefore seems important to detect and treat depression during the postnatal period as early as possible to avoid harmful consequences.

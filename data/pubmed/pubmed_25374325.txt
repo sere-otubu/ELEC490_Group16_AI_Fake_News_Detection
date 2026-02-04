@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Inhalers
-TITLE: The role of disposable inhalers in pulmonary drug delivery.
-PMID: 25374325
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25374325/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There is increasing interest in the pulmonary route for both local and systemically acting drugs, vaccines and diagnostics and new applications may require new inhaler technology to obtain the most therapeutically and/or cost-effective administration. Some of these new applications can benefit from the use of disposable inhalers. Current trends in pulmonary drug delivery are presented in this review as well as the possible contribution of disposable inhalers to the improvement of pulmonary administration therein. Arguments in favour of disposable inhalers and the starting points for development of devices and their formulations are discussed. Also, a brief review of the state of the art regarding current disposable inhaler development is given. Prerequisites for the use of disposable inhalers, particularly dry powder inhalers, in applications such as childhood vaccination and for preventing or stopping pandemic outbreaks of highly infectious diseases (like influenza, bird flu, SARS) are that they are simple, cheap and effective. Not only do the devices have to be simple in design, but the drug formulations should also be cheap. This may require a different approach as the formulation may not need to be adapted to improve the inhaler must be designed to enhance formulation dispersion.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Opioids risks
-TITLE: Risk Factors for Opioid-Use Disorder and Overdose.
-PMID: 29049118
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29049118/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Opioid analgesics are recognized as a legitimate medical therapy for selected patients with severe chronic pain that does not respond to other therapies. However, opioids are associated with risks for patients and society that include misuse, abuse, diversion, addiction, and overdose deaths. Therapeutic success depends on proper candidate selection, assessment before administering opioid therapy, and close monitoring throughout the course of treatment. Risk assessment and prevention include knowledge of patient factors that may contribute to misuse, abuse, addiction, suicide, and respiratory depression. Risk factors for opioid misuse or addiction include past or current substance abuse, untreated psychiatric disorders, younger age, and social or family environments that encourage misuse. Opioid mortality prevalence is higher in people who are middle aged and have substance abuse and psychiatric comorbidities. Suicides are probably undercounted or frequently misclassified in reports of opioid-related poisoning deaths. Greater understanding and better assessment are needed of the risk associated with suicide risk in patients with pain. Clinical tools and an evolving evidence base are available to assist clinicians with identifying patients whose risk factors put them at risk for adverse outcomes with opioids.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hospital infection control
-TITLE: Changing trends in infection control and hospital epidemiology.
-PMID: 2687358
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2687358/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-From the staphylococcal era through the gram-negative era into the AIDS era, hospital infection control has evolved into a dynamic discipline whose horizons are broadening to include many of the challenges facing hospitals today.

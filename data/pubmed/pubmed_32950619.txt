@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chemotherapy
-TITLE: Cooperation between chemotherapy and immunotherapy in gastroesophageal cancers.
-PMID: 32950619
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32950619/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gastroesophageal cancers (GOCs) represent some of the most common cancers globally and are linked with poor survival rates. The current standard of care includes multimodal chemotherapy, radiotherapy and surgery. However, up to two-thirds of patients fail to derive benefit from these treatments, underscoring the urgent need to develop better, rationally-designed treatment strategies to enhance survival rates. Certain immunogenic chemotherapies can stimulate anti-tumour immune responses in GOC patients; therefore, combining immune checkpoint inhibitors (ICIs) with chemotherapy to prevent immune exhaustion is an attractive putative therapeutic strategy. Emerging studies demonstrate that immune checkpoint-intrinsic signalling in cancer cells supports several cancer hallmarks in addition to immune evasion, including proliferation, metastasis, glycolysis, DNA repair and chemoresistance. Combining ICIs with chemotherapy may therefore potentially enhance chemosensitivity and suppress a range of immune-dependent and -independent tumourigenic processes in GOCs. This review summarises the current clinical trials investigating the efficacy of ICIs in GOCs. The immunogenic effects of chemotherapies and their effects on immune checkpoint expression is discussed, as is the important and emerging study of novel immune-independent functions of immune checkpoints in cancer.

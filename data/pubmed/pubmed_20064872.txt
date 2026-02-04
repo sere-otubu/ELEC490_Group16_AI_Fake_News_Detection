@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20064872)
-    QUESTION: Can the prognosis of polymyalgia rheumatica be predicted at disease onset?
-    CONTEXT: To identify the features of PMR that may predict the duration of steroid therapy, the occurrence of relapses and the late development of GCA.
-    ANSWER: A higher PV in PMR increases the risk of prolonged steroid therapy and late GCA. Female sex and particular HLA alleles may increase the risk of late GCA. Starting patients on>15 mg prednisolone is associated with a prolonged steroid duration.
-    

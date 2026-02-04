@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sugar consumption
-TITLE: Early-life influences of low-calorie sweetener consumption on sugar taste.
-PMID: 36801464
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36801464/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Children and adolescents are the highest consumers of added sugars, particularly from sugar-sweetened beverages (SSB). Regular consumption of SSB early in life induces a variety of negative consequences on health that can last into adulthood. Low-calorie sweeteners (LCS) are increasingly used as an alternative to added sugars because they provide a sweet sensation without adding calories to the diet. However, the long-term effects of early-life consumption of LCS are not well understood. Considering LCS engage at least one of the same taste receptors as sugars and potentially modulate cellular mechanisms of glucose transport and metabolism, it is especially important to understand how early-life LCS consumption impacts intake of and regulatory responses to caloric sugars. In our recent study, we found that habitual intake of LCS during the juvenile-adolescence period significantly changed how rats responded to sugar later in life. Here, we review evidence that LCS and sugars are sensed via common and distinct gustatory pathways, and then discuss the implications this has for shaping sugar-associated appetitive, consummatory, and physiological responses. Ultimately, the review highlights the diverse gaps in knowledge that will be necessary to fill to understand the consequences of regular LCS consumption during important phases of development.

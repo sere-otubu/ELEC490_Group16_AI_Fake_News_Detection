@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vegan diet
-TITLE: Vegan Diet and the Gut Microbiota Composition in Healthy Adults.
-PMID: 34371912
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34371912/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The human gut microbiota are the microorganisms (generally bacteria and archaea) that live in the digestive tracts of humans. Due to their numerous functions, the gut microbiota can be considered a virtual organ of the body, playing a pivotal role in health maintenance. Dietary habits contribute to gut microbiota composition, and evidence from observational and intervention studies suggest that vegan diets may promote health, potentially through affecting the diverse ecosystem of beneficial bacteria in the gut. A systematic literature search was conducted on PubMed and Scopus to identify studies investigating the microbiota composition in vegans. Vegans are defined as people excluding food products that are derived from animals from their diet. Nine observational studies were identified. The main outcome of the systematic review was an increase in Bacteroidetes on the phylum level and a higher abundance of <i>Prevotella</i> on the genus level. In conclusion, the present systematic literature review highlighted some benefits of a vegan diet but also demonstrated the complexity of evaluating results from gut microbiota research. The available evidence only consisted of cross-sectional studies, therefore suggesting the need for well-designed randomised controlled trials. Furthermore, the quality assessment of the studies included in the review suggested a lack of standardised and validated methods for participant selection as well as for faecal sampling and faecal analysis.

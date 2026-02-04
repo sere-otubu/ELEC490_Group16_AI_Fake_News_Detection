@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immunotherapy
-TITLE: Bacterial immunotherapy leveraging IL-10R hysteresis for both phagocytosis evasion and tumor immunity revitalization.
-PMID: 40037354
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40037354/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Bacterial immunotherapy holds promising cancer-fighting potential. However, unlocking its power requires a mechanistic understanding of how bacteria both evade antimicrobial immune defenses and stimulate anti-tumor immune responses within the tumor microenvironment (TME). Here, by harnessing an engineered Salmonella enterica strain with this dual proficiency, we unveil an underlying singular mechanism. Specifically, the hysteretic nonlinearity of interleukin-10 receptor (IL-10R) expression drives tumor-infiltrated immune cells into a tumor-specific IL-10R<sup>hi</sup> state. Bacteria leverage this to enhance tumor-associated macrophages producing IL-10, evade phagocytosis by tumor-associated neutrophils, and coincidently expand and stimulate the preexisting exhausted tumor-resident CD8<sup>+</sup> T cells. This effective combination eliminates tumors, prevents recurrence, and inhibits metastasis across multiple tumor types. Analysis of human samples suggests that the IL-10R<sup>hi</sup> state might be a ubiquitous trait across human tumor types. Our study unveils the unsolved mechanism behind bacterial immunotherapy's dual challenge in solid tumors and provides a framework for intratumoral immunomodulation.

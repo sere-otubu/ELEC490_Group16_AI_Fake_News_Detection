@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Childhood obesity
-TITLE: Prevention and Management of Childhood Obesity and Its Psychological and Health Comorbidities.
-PMID: 32097572
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32097572/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Childhood obesity has become a global pandemic in developed countries, leading to a host of medical conditions that contribute to increased morbidity and premature death. The causes of obesity in childhood and adolescence are complex and multifaceted, presenting researchers and clinicians with myriad challenges in preventing and managing the problem. This article reviews the state of the science for understanding the etiology of childhood obesity, the preventive interventions and treatment options for overweight and obesity, and the medical complications and co-occurring psychological conditions that result from excess adiposity, such as hypertension, nonalcoholic fatty liver disease, and depression. Interventions across the developmental span, varying risk levels, and service contexts (e.g.,community, school, home, health care systems) are reviewed. Future directions for research are offered with an emphasis on translational issues for taking evidence-based interventions to scale in a manner that will reduce the public health burden of the childhood obesity pandemic.

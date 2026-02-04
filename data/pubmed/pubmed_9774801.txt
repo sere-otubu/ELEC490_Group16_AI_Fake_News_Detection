@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dissociative disorders
-TITLE: The dissociative disorders. Rarely considered and underdiagnosed.
-PMID: 9774801
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9774801/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A wide variety of dissociative disorders, including dissociative amnesia, dissociative fugue, depersonalization disorder, dissociative identity disorder, and various forms of dissociative disorder not otherwise specified. In many instances, these disorders are either underdiagnosed or misdiagnosed secondary to the clinician's mistaken belief that dissociative disorders are rare. Recent research shows that dissociative disorders may comprise 5% to 10% of psychiatric populations. This article reviews the epidemiology and clinical symptomatology of these disorders. In addition, various screening and diagnostic instruments, such as the DES, Structured Clinical Interview for Dissociative Disorders, and MMPI, are discussed.

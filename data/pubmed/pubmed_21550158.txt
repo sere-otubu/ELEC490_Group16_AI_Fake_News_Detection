@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21550158)
-    QUESTION: Can autologous platelet-rich plasma gel enhance healing after surgical extraction of mandibular third molars?
-    CONTEXT: This investigation assesses the effect of platelet-rich plasma (PRP) gel on postoperative pain, swelling, and trismus as well as healing and bone regeneration potential on mandibular third molar extraction sockets.
-    ANSWER: The PRP group recorded reduced pain, swelling, and trismus as well as enhanced and faster bone healing compared with those in the control. Hence the study showed that topical application of PRP gel has a beneficial effect in enhancing socket healing after third molar surgery.
-    

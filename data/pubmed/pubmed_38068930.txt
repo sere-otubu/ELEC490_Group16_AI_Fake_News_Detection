@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Breast cancer
-TITLE: Genetic Testing Enhances the Precision Diagnosis and Treatment of Breast Cancer.
-PMID: 38068930
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38068930/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The contemporary comprehension of breast cancer has progressed to the molecular level. As a heterogeneous malignancy, conventional pathological diagnosis and histological classification could no longer meet the needs of precisely managing breast cancer. Genetic testing based on gene expression profiles and gene mutations has emerged and substantially contributed to the precise diagnosis and treatment of breast cancer. Multigene assays (MGAs) are explored for early-stage breast cancer patients, aiding the selection of adjuvant therapy and predicting prognosis. For metastatic breast cancer patients, testing specific genes indicates potentially effective antitumor agents. In this review, genetic testing in early-stage and metastatic breast cancer is summarized, as well as the advantages and challenges of genetic testing in breast cancer.

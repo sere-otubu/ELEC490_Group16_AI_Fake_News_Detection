@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Safe sex practices
-TITLE: Social Network Interventions for HIV Transmission Elimination.
-PMID: 32720253
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32720253/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Network interventions for HIV prevention represent a potential area for growth in a globalizing world, where persons are more easily connected to one another through social media and networking applications. The basic tenets of network interventions such as (1) selection of a change agent, (2) segmentation, (3) induction, and (4) alteration represent myriad ways to structure network interventions for HIV prevention with the potential for large public health impact. Recent studies have employed the use of social networking websites such as Facebook to identify key persons to recruit others and disseminate information aimed at decreasing HIV transmission and improving safe sex practices among groups who are more vulnerable to HIV acquisition. Many of these interventions have successfully decreased HIV risk behaviors as well as decreased the spread of HIV among intervention cohorts. Network interventions for HIV prevention provide more opportunities to reach populations who have not been reached through typical efforts employed in clinical and public health settings, though they are not currently widely employed by the public health community and other stakeholders.

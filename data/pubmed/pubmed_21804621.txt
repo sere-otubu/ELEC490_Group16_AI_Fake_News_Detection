@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Red blood cells
-TITLE: Biomarkers of oxidative stress in red blood cells.
-PMID: 21804621
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21804621/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Exposure to high concentrations of oxygen radicals, the lack of nucleus and mitochrondria, inability to synthesise new protein and degradation of detoxifying enzymes makes red blood cells (RBCs) uniquely vulnerable to oxidative stress. This review summarizes the changes in biochemical parameters that primarily contribute to alterations in red blood cells during oxidative stress. PubMed, Science Direct and Springer online databases and updates from the Indian Council of Medical Research (ICMR). As one of the first cells to be affected by changes in the redox status of the body, alterations in red blood cells are widely used in first step-diagnoses of a number of pathological conditions. The information presented in this review provides an update on biomarkers of redox balance in red blood cells. These biomarkers may be used for assessment of oxidative stress during human health and disease.

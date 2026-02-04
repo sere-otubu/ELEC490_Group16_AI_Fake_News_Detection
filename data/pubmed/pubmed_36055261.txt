@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood tests interpretation
-TITLE: Activated Partial Thromboplastin Time and Prothrombin Time Mixing Studies: Current State of the Art.
-PMID: 36055261
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36055261/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Mixing studies have long been in the clinical laboratory armamentarium for investigating unexpected, prolonged activated partial thromboplastin time (aPTT) or prothrombin time (PT). The purpose of the mixing study is to identify whether the aPTT/PT prolongation is secondary to a factor deficiency versus an inhibitor, which would present as a "corrected" and "noncorrected" mixing study, respectively. The differentiation between a factor deficiency and inhibitor may likely further direct clinical decisions, including additional diagnostic testing or factor replacement therapy. While aPTT/PT mixing studies are simple tests to perform, there is a lack of standardization for both the testing protocol and the interpretation of what is considered to be a corrected or noncorrected mixing study result. This review will describe the common indications for the mixing test, preanalytic variables that may affect mixing study performance, and describe several methods for interpreting the results of aPTT and PT mixing tests.

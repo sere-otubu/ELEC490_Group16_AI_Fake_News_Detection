@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lymphatic system
-TITLE: The Lymphatic System: A Sometimes-Forgotten Compartment in Pharmaceutical Sciences.
-PMID: 34694988
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34694988/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The uniqueness of structure and physiology of the lymphatic system make it challenging to delineate all its contributions in the maintenance of our health. However, in the past two decades, the understanding of the importance of the function of this system has evolved and more appreciation has been drawn to the distinctive role it plays in health and disease. The lymphatic system has been linked to the pathophysiology of numerous ailments including cancer, various metabolic diseases, inflammatory conditions, and infections. Moreover, it has also been revealed that lymphatic targeted formulations can enhance the delivery of drugs through the lymphatic system to the bloodstream, bypassing the hepatic first-pass metabolism if taken orally, thus increasing the bioavailability, and improving the pharmacokinetic and toxicological profiles in general. Engineering lymphotropic preparations requires the understanding of many factors, the most important one being that of the physiological environment which they will encounter. Therefore, in this review, we detail the basic structure of the lymphatic system, then highlight the therapeutic and the pharmacokinetic benefits of drug delivery into the lymphatic system. The criteria for drugs and formulations used for lymphotropic delivery are also detailed with a contemporary overview of various studies undertaken in this field.

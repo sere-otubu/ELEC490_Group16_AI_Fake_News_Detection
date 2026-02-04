@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Adolescent mental health
-TITLE: The associations between screen time and mental health in adolescents: a systematic review.
-PMID: 37081557
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37081557/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Adolescents have extensive use of screens and, they have common complains related to mental health. Here a systematic review was done to understand the association between screen time and adolescent's mental health. This review was conducted in compliance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses - PRISMA. An update search was performed in January 2023 with the following keywords: "screen time," "adolescent," and "mental health" on PubMed, PsycINFO and Scopus databases. 50 articles were included, most have found associations between screen exposure and mental health in adolescents. The most used device by adolescents was the smartphone and the use on weekdays was associated with diminished mental well-being. Social media use was negatively associated with mental well-being and, in girls, associated at higher risk for depression. Excessive screen time in adolescents seems associated with mental health problems. Given the profusion and disparity of the results, additional studies are needed to clarify elements such as the screen content or the interaction of adolescents with different screen devices. PROSPERO CRD42022302817.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hospice care
-TITLE: End-of-Life Care: Hospice Care.
-PMID: 33166104
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33166104/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hospice care consists of palliative care provided at the end of life that provides comprehensive comfort care for patients and support for family members. This includes medical care, pain management, and emotional and spiritual support tailored to patient needs and wishes. Eligibility rules require a physician to determine that the prognosis for the patient involves an estimated life expectancy of 6 months or less if the illness runs its expected course. Family physicians can be key partners in helping patients and family members transition when hospice care best matches patient goals. Hospice care is delivered by an interdisciplinary team, including family physicians, physician medical directors, nurses, social workers, counselors, home health aides, and trained volunteers. Although most hospice care is delivered in the home of the patient, it also may be provided in long-term care facilities, hospice facilities, and in the hospital when needed for symptom control. Hospice care has been associated with better symptom relief, better achievement of patient end-of-life wishes, and higher overall rating of quality of end-of-life care compared with standard care. Family physicians have the ideal skills to manage and coordinate patient hospice care needs.

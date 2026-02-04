@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21845457)
-    QUESTION: Outcomes of severely injured adult trauma patients in an Australian health service: does trauma center level make a difference?
-    CONTEXT: Trauma centers are designated to provide systematized multidisciplinary care to injured patients. Effective trauma systems reduce patient mortality by facilitating the treatment of injured patients at appropriately resourced hospitals. Several U.S. studies report reduced mortality among patients admitted directly to a level I trauma center compared with those admitted to hospitals with less resources. It has yet to be shown whether there is an outcome benefit associated with the "level of hospital" initially treating severely injured trauma patients in Australia. This study was designed to determine whether the level of trauma center providing treatment impacts mortality and/or hospital length of stay.
-    ANSWER: Severely injured patients treated at a level III center had a higher mortality rate than those treated at a level I center. Most problems identified occurred in the emergency department and were related to delays in care provision. This research highlights the importance of efficient prehospital, in-hospital, and regional trauma systems, performance monitoring, peer review, and adherence to protocols and guidelines.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic disorders
-TITLE: Peptide-based therapeutics targeting genetic disorders.
-PMID: 39419376
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39419376/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Genetic disorders (GDs) are challenging to treat owing to a lack of optimal treatment regimens and intricate and often difficult-to-understand underlying biological processes. Limited therapeutic approaches, which mostly provide symptomatic relief, are available. To date, a limited number of peptide-based drugs for the treatment of GDs are available, and several candidates are under clinical study. This review provides mechanistic insights into GDs and potential target areas where peptide-based drugs are beneficial. In addition, it emphasizes the usefulness of peptides as carriers for gene delivery, biomarkers for mutation detection and peptide-based vaccines for treating GDs.

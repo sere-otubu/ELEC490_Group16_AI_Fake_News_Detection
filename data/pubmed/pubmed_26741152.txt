@@ -1,8 +1,0 @@
-SEARCH_TOPIC: HPV vaccine
-TITLE: [Nine-valent HPV vaccine - new generation of HPV vaccine].
-PMID: 26741152
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26741152/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To evaluate current knowledge about new generation of HPV vaccine - nine-valent vaccine Gardasil9. Review article. The nine-valent vaccine against HPV 6/11/16/18/31/33/45/52/58 could improve efficacy of quadrivalent vaccine from 70 to 90 percent for cervical cancer. In addition this vaccine has covered around85-90% of HPV-related vulvar, vaginal and anal cancers. Efficacy and immunogenicity against HPV 6/11/16/18 is the same as for quadrivalent vaccine. Efficacy against HPV 31/33/45/52/58 associated lesions is 97%.

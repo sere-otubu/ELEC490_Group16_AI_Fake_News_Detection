@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Basal cell carcinoma
-TITLE: Nevoid basal cell carcinoma syndrome.
-PMID: 7963674
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7963674/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The nevoid basal cell carcinoma syndrome is an autosomal dominant disorder that predisposes to basal cell carcinomas of the skin, ovarian fibromas, and medulloblastomas. Unlike other hereditary disorders associated with cancer, it features widespread developmental defects. Laboratory studies of radiation sensitivity and chromosome instability over the past 20 years have generally yielded negative or inconclusive results. Recently, screening for allelic loss in sporadic and hereditary basal cell carcinomas, hereditary ovarian fibromas, and sporadic medulloblastomas provided evidence for a tumor suppressor gene on chromosome 9q, important in all three tumor types. Demonstration of a chromosome 9q deletion in an unusual patient with this syndrome and genetic linkage studies in large kindreds indicated that the nevoid basal cell carcinoma syndrome gene maps to the exact same location lost in tumors. These data show that tumors arise with homozygous inactivation of the gene and imply that it normally functions as a tumor suppressor. In contrast, hemizygous germ-line mutations lead to multiple congenital anomalies.

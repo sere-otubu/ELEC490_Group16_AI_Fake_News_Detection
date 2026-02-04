@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Multiple sclerosis
-TITLE: Cellular immunology of relapsing multiple sclerosis: interactions, checks, and balances.
-PMID: 33930317
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33930317/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Novel insights from basic and translational studies are reshaping concepts of the immunopathogenesis of multiple sclerosis and understanding of the different inflammatory responses throughout the disease course. Previously, the cellular immunology of relapsing multiple sclerosis was considered to be principally T-cell driven; however, this process is now understood to involve multiple cell types and their functionally distinct subsets. Particularly, relapsing multiple sclerosis appears to involve imbalanced interactions between T cells, myeloid cells, B cells, and their effector and regulatory subpopulations. The major contributors to such imbalances differ across patients. Several emerging techniques enable comprehensive immune cell profiling at the single-cell level, revealing substantial functional heterogeneity and plasticity that could influence disease state and response to treatment. Findings from clinical trials with agents that successfully limit new multiple sclerosis disease activity and trials of agents that inadvertently exacerbate CNS inflammation have helped to elucidate disease mechanisms, better define the relevant modes of action of current immune therapies, and pave the way for new therapeutic strategies.

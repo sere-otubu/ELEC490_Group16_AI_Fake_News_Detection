@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pneumonia
-TITLE: Pneumonia and lung abscess.
-PMID: 6394291
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6394291/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The epidemiologic, microbiologic, radiographic, and clinical presentations of pneumonias caused by the most common pathogens are discussed in detail, and current recommendations for hospitalization are reviewed. Also considered are the clinical characteristics, diagnosis, and treatment of primary and secondary lung abscess.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Breast cancer
-TITLE: Review of Breast Cancer Pathologigcal Image Processing.
-PMID: 34595234
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34595234/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Breast cancer is one of the most common malignancies. Pathological image processing of breast has become an important means for early diagnosis of breast cancer. Using medical image processing to assist doctors to detect potential breast cancer as early as possible has always been a hot topic in the field of medical image diagnosis. In this paper, a breast cancer recognition method based on image processing is systematically expounded from four aspects: breast cancer detection, image segmentation, image registration, and image fusion. The achievements and application scope of supervised learning, unsupervised learning, deep learning, CNN, and so on in breast cancer examination are expounded. The prospect of unsupervised learning and transfer learning for breast cancer diagnosis is prospected. Finally, the privacy protection of breast cancer patients is put forward.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Proton pump inhibitors
-TITLE: Cardiovascular Risk of Proton Pump Inhibitors.
-PMID: 31687101
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31687101/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Proton pump inhibitors (PPIs) are effective agents for the treatment of gastroesophageal reflux (GERD). However, these drugs have not been approved for long-term use. Now sold over the counter, these agents are being used chronically for GERD without medical supervision. The long-term use of PPIs may have significant adverse effects, in part mediated by their effect of accelerating vascular aging. Physicians should assist patients in tapering off their use of PPIs and replacing them with lifestyle modifications and/or other agents that have better long-term safety profiles.

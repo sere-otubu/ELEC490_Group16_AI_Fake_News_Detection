@@ -1,8 +1,0 @@
-SEARCH_TOPIC: CT scan
-TITLE: Caudate hemorrhage.
-PMID: 6477232
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6477232/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Eight patients had computed tomographic (CT) evidence of caudate hemorrhage. In all cases, the initial clinical findings were most suggestive of subarachnoid rather than intracerebral hemorrhage. The CSF was bloody and xanthochromic in all cases. In caudate hemorrhage due to ruptured carotid artery aneurysms, the CT scan showed hyperdense lesions contiguous with the anterior frontal horn of the lateral ventricles. In caudate hemorrhage related to hypertension, the CT scan showed a small hematoma that appeared contiguous with the anterior portion of the body of the lateral ventricle, and there was prominent intraventricular extension.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22236315)
-    QUESTION: Is distance to provider a barrier to care for medicaid patients with breast, colorectal, or lung cancer?
-    CONTEXT: Distance to provider might be an important barrier to timely diagnosis and treatment for cancer patients who qualify for Medicaid coverage. Whether driving time or driving distance is a better indicator of travel burden is also of interest.
-    ANSWER: Although travel burden is associated with timely diagnosis and treatment for some types of cancer, we did not find evidence that driving time was, in general, better at predicting timeliness of cancer diagnosis and treatment than driving distance. More intensive efforts at early detection of breast cancer and early treatment of CRC for Medicaid patients who live in remote areas may be needed.
-    

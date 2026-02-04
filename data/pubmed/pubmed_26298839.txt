@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26298839)
-    QUESTION: Is Acupuncture Efficacious for Treating Phonotraumatic Vocal Pathologies?
-    CONTEXT: To investigate the effectiveness of acupuncture in treating phonotraumatic vocal fold lesions.STUDY DESIGN/
-    ANSWER: The findings showed that acupuncture of voice-related acupoints could bring about improvement in vocal function and healing of vocal fold lesions.
-    

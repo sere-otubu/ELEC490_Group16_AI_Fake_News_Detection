@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Schizophrenia
-TITLE: Schizophrenia risk from complex variation of complement component 4.
-PMID: 26814963
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26814963/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Schizophrenia is a heritable brain illness with unknown pathogenic mechanisms. Schizophrenia's strongest genetic association at a population level involves variation in the major histocompatibility complex (MHC) locus, but the genes and molecular mechanisms accounting for this have been challenging to identify. Here we show that this association arises in part from many structurally diverse alleles of the complement component 4 (C4) genes. We found that these alleles generated widely varying levels of C4A and C4B expression in the brain, with each common C4 allele associating with schizophrenia in proportion to its tendency to generate greater expression of C4A. Human C4 protein localized to neuronal synapses, dendrites, axons, and cell bodies. In mice, C4 mediated synapse elimination during postnatal development. These results implicate excessive complement activity in the development of schizophrenia and may help explain the reduced numbers of synapses in the brains of individuals with schizophrenia.

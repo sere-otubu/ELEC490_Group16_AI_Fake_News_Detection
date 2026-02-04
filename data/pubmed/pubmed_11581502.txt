@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Enzymes function
-TITLE: Electrophysiology of the sodium-potassium-ATPase in cardiac cells.
-PMID: 11581502
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11581502/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Like several other ion transporters, the Na(+)-K(+) pump of animal cells is electrogenic. The pump generates the pump current I(p). Under physiological conditions, I(p) is an outward current. It can be measured by electrophysiological methods. These methods permit the study of characteristics of the Na(+)-K(+) pump in its physiological environment, i.e., in the cell membrane. The cell membrane, across which a potential gradient exists, separates the cytosol and extracellular medium, which have distinctly different ionic compositions. The introduction of the patch-clamp techniques and the enzymatic isolation of cells have facilitated the investigation of I(p) in single cardiac myocytes. This review summarizes and discusses the results obtained from I(p) measurements in isolated cardiac cells. These results offer new exciting insights into the voltage and ionic dependence of the Na(+)-K(+) pump activity, its effect on membrane potential, and its modulation by hormones, transmitters, and drugs. They are fundamental for our current understanding of Na(+)-K(+) pumping in electrically excitable cells.

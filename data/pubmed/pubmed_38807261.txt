@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pandemic preparedness
-TITLE: Pandemic preparedness through vaccine development for avian influenza viruses.
-PMID: 38807261
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38807261/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Influenza A viruses pose a significant threat to global health, impacting both humans and animals. Zoonotic transmission, particularly from swine and avian species, is the primary source of human influenza outbreaks. Notably, avian influenza viruses of the H5N1, H7N9, and H9N2 subtypes are of pandemic concern through their global spread and sporadic human infections. Preventing and controlling these viruses is critical due to their high threat level. Vaccination remains the most effective strategy for influenza prevention and control in humans, despite varying vaccine efficacy across strains. This review focuses specifically on pandemic preparedness for avian influenza viruses. We delve into vaccines tested in animal models and summarize clinical trials conducted on H5N1, H7N9, and H9N2 vaccines in humans.

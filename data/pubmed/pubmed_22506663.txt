@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dengue fever
-TITLE: Dengue fever-like illnesses: how different are they from each other?
-PMID: 22506663
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22506663/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In tropical countries and possibly elsewhere, dengue fever can be confused with other common tropical infections like enteric fever, leptospirosis, typhus fever, malaria, etc. Many of these illnesses can present in significant numbers after rains, and because of similar early presentations, can cause confusion in decision-making. With global warming, these diseases can assume significant proportions even in non-endemic areas. Identifying these illnesses in a non-immune returning traveller is equally challenging. Recognition of these diseases is important to diagnose them and treat them early, in order to avoid potentially fatal complications. This review is an attempt to highlight important clinical and laboratory differences among dengue fever-like illnesses.

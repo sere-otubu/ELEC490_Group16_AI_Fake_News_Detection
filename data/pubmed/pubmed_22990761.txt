@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22990761)
-    QUESTION: Cardiovascular risk in a rural adult West African population: is resting heart rate also relevant?
-    CONTEXT: Elevated resting heart rate (RHR) is a neglected marker in cardiovascular risk factor studies of sub-Saharan African populations. This study aimed to determine the prevalence of elevated RHR and other risk factors for cardiovascular disease (CVD) and to investigate any associations between RHR and these risk factors in a rural population in Ghana.
-    ANSWER: Significant associations were observed between RHR and several established cardiovascular risk factors. Prospective studies are needed in sub-Saharan African populations to establish the potential value of RHR in cardiovascular risk assessment.
-    

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21402341)
-    QUESTION: Assessment of carotid artery stenosis before coronary artery bypass surgery. Is it always necessary?
-    CONTEXT: Extracranial internal carotid artery stenosis is a risk factor for perioperative stroke in patients undergoing coronary artery bypass surgery (CAB). Although selective and non-selective methods of preoperative carotid screening have been advocated, it remains unclear if this screening is clinically relevant.AIM: To test whether selective carotid screening is as effective as non-selective screening in detecting significant carotid disease.
-    ANSWER: In our cohort, selective screening of patients aged>70 years, with carotid bruit, a history of cerebrovascular disease, diabetes mellitus or PVD would have reduced the screening load by 40%, with trivial impact on surgical management or neurological outcomes.
-    

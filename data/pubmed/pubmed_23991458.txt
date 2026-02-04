@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tonsillectomy
-TITLE: [Tonsillectomy in children: how it is performed in Europe and America?].
-PMID: 23991458
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23991458/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The objective of the present study was to analyse publications in European and American medical journals concerning the principles underlying planning and performing tonsillectomies (TE) in the children. The authors summarized the currently accepted indications for TE and technical conditions for its realization; in addition, they determined the necessary extent of preoperative studies and revealed peculiarities of postoperative treatment with special reference to the problem of primary and secondary postoperative complications. It is emphasized that the strategy of planning and performing TE in the children in western countries is not essentially different from that employed in Russian clinics. Further investigations are needed to develop scientifically sound clinical guidelines for the planning and performing of TE in the children for the use in outpatient facilities.

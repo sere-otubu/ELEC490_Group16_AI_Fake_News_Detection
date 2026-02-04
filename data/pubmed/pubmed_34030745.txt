@@ -1,8 +1,0 @@
-SEARCH_TOPIC: OCD
-TITLE: Genetics of obsessive-compulsive disorder.
-PMID: 34030745
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34030745/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Obsessive-compulsive disorder (OCD) is a psychiatric disorder with multiple symptom dimensions (e.g. contamination, symmetry). OCD clusters in families and decades of twin studies clearly demonstrate an important role for genetics in the etiology of the disorder. In this review, we summarize the genetic epidemiology and molecular genetic studies of OCD and obsessive-compulsive symptoms. OCD is a heritable, polygenic disorder with contributions from both common and rare variants, including de novo deleterious variations. Multiple studies have provided reliable support for a large additive genetic contribution to liability to OCD, with discrete OCD symptom dimensions having both shared and unique genetic risks. Genome-wide association studies have not produced significant results yet, likely because of small sample sizes, but larger meta-analyses are forthcoming. Both twin and genome-wide studies show that OCD shares genetic risk with its comorbid conditions (e.g. Tourette syndrome and anorexia nervosa). Despite significant efforts to uncover the genetic basis of OCD, the mechanistic understanding of how genetic and environmental risk factors interact and converge at the molecular level to result in OCD's heterogeneous phenotype is still mostly unknown. Future investigations should increase ancestral genetic diversity, explore age and/or sex differences in genetic risk for OCD and expand the study of pharmacogenetics, gene expression, gene × environment interactions and epigenetic mechanisms for OCD.

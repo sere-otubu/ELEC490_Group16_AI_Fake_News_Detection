@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Nutritional supplements
-TITLE: Nutritional supplements in psychotic disorders.
-PMID: 29171643
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29171643/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There is growing interest about the potential of diet and nutrients to improve the mental health of the population and for the treatment of psychiatric disorders. In the case of schizophrenia, the limitations of antipsychotic drugs to achieve adequate rates of clinical remission and functional recovery have promoted the search for complementary approaches. This narrative review approaches the dietary patterns and interventions in schizophrenia, efficacy of specific nutrients and therapeutic modulation of the gut microflora by probiotics. As a whole, schizophrenia patients follow a low-quality diet and are exposed to deficiencies in various nutrients that are essential for brain functioning. Although clinical trials with nutritional supplements are still limited and have inconsistent results, specific nutrients, as Omega-3, vitamin D and Group B vitamins can be useful as complementary strategies in the treatment of schizophrenia. It is hoped that the initiation of personalized medicine strategies, such as stratification and using a clinical staging approach, will make it possible to identify the subgroups of patients who can obtain maximum benefit from dietary and nutritional interventions.

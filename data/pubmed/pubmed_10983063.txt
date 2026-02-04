@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood transfusion
-TITLE: Blood transfusion.
-PMID: 10983063
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10983063/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Patients in hospitals receive 10,000 transfusions every day due to blood disorders, trauma and disease. Nurses play a significant role in the safe administration of blood and its products. This guide describes the nursing care of the patient before, during and after a blood transfusion.

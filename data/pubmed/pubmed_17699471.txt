@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Coronary artery disease
-TITLE: Coronary artery disease.
-PMID: 17699471
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17699471/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Coronary heart disease is the most common cause of death in the general population and in patients with ESRD. The principles of cardiovascular risk assessment and management apply to both populations. Advances in noninvasive coronary artery imaging have improved early detection of subclinical disease. The goals of medical management of coronary disease are to modify the natural history of disease and to improve the symptoms of angina. Coronary revascularization poses a different risk and benefit equation in the ESRD population. In stable ESRD with multivessel coronary artery disease, coronary bypass surgery, despite the upfront risks of stroke, myocardial infarction, and chest wound infection, seems to be a favored approach. In patients with ESRD and acute coronary syndromes, percutaneous coronary intervention on the target vessel has been associated with the most favorable outcomes. This article explores the clinical issues with respect to coronary artery disease in patients with ESRD.

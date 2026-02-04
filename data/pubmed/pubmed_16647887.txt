@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 16647887)
-    QUESTION: Are women who are treated for hypothyroidism at risk for pregnancy complications?
-    CONTEXT: The purpose of this study was to investigate the outcomes that are associated with pregnancy and treated hypothyroidism.
-    ANSWER: Compared with patients without hypothyroidism, patients with treated hypothyroidism are not at any increased risk for perinatal morbidity.
-    

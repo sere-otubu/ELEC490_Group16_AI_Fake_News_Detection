@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Psychiatry medications
-TITLE: Psychiatry and the global drugs debate: what every psychiatrist needs to know.
-PMID: 31685040
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31685040/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There are few topics that divide public opinion as sharply as the use of psychoactive substances and it is easy to see why. Substance use is complex and can be examined from numerous perspectives, including legal, health, economic, cultural and ethical. These varying approaches can lead to a range of different conclusions. Here we explore some of the common approaches adopted towards drug policy and suggest a number of principles, which may inform a psychiatrist's own view.

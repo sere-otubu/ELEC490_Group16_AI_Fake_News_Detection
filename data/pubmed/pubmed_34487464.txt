@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Traumatic brain injury
-TITLE: Neurobiology of traumatic brain injury.
-PMID: 34487464
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34487464/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Traumatic brain injury (TBI) involves structural damage to the brain regions causing death or disability in patients with lifelong sufferings. Accidental injuries to the brain, besides structural damage, if any, cause activation of various deleterious pathways leading to subsequent neuronal death and permanent dysfunction. However, immediate medical management/treatments could reduce the chances of disability and suffering to the patients. The objective of the current review is to review triggered molecular pathways following TBI and discuss possible targets that could restore brain functions. Understanding the pathologic process is always useful to device novel treatment strategies and may rescue the patient with TBI from death or associated co-morbidities. The current review significantly contributes to improve our understanding about the molecular pathways and neuronal death following TBI and helps us to provide possible targets that could be useful in the management/treatment of TBI.

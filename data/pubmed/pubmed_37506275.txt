@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Basal cell carcinoma
-TITLE: Acantholytic Nodular Basal Cell Carcinoma.
-PMID: 37506275
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37506275/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Acantholysis is a microscopic finding describing the breakdown of desmosomes of keratinocytes and the formation of intraepithelial clefts after the loss of cohesion of keratinocytes. It can be observed in keratinocytic neoplasms, typically actinic keratoses and squamous cell carcinomas, and defines the acantholytic variants of these entities. Acantholysis has so far been reported in only 4 cases of basal cell carcinomas (BCCs), mainly of the superficial type. A case of an otherwise typical nodular BCC showing features of acantholysis is presented here. Because BCCs are keratinocytic neoplasms, the finding of acantholysis in them is not totally surprising; however, the reason why it is only very exceptionally observed in BCCs is unclear.

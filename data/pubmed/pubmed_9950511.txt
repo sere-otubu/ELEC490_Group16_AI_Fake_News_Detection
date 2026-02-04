@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Peer review process
-TITLE: The peer-review process of the Journal of Neurosurgery.
-PMID: 9950511
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9950511/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Peer review is the process by which scientific articles are evaluated and selected for publication. To clarify this procedure for readers and writers, the authors present a detailed description of peer review at the Journal of Neurosurgery (JNS) in the context of other journals. They discuss the unique characteristics of JNS's peer-review process and how it contributes to the quality of the JNS.

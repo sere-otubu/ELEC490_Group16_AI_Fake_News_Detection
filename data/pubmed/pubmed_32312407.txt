@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pain management
-TITLE: Pain Management in Patients with Serious Illness.
-PMID: 32312407
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32312407/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Managing pain in patients with serious illness can be complex. However, pain is often a prominent symptom in patients with malignant and nonmalignant serious illness and providers have to be adept at balancing effective pain management and safety. Clinicians should start with a standard pain assessment that lays important groundwork for developing a tailored multimodal approach to pain management. It is important to identify physical causes of pain and also existential causes. Opioids are not always appropriate but are still an important tool for managing pain. Basic opioid management and safe practices are essential when managing this population.

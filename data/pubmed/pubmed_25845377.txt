@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immune system
-TITLE: A brief journey through the immune system.
-PMID: 25845377
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25845377/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review serves as an introduction to an Immunology Series for the Nephrologist published in CJASN. It provides a brief overview of the immune system, how it works, and why it matters to kidneys. This review describes in broad terms the main divisions of the immune system (innate and adaptive), their cellular and tissue components, and the ways by which they function and are regulated. The story is told through the prism of evolution in order to relay to the reader why the immune system does what it does and why imperfections in the system can lead to renal disease. Detailed descriptions of cell types, molecules, and other immunologic curiosities are avoided as much as possible in an effort to not detract from the importance of the broader concepts that define the immune system and its relationship to the kidney.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Epidemiology basics
-TITLE: Molecular Epidemiology of Adenoviral Keratoconjunctivitis in Korea.
-PMID: 35765877
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35765877/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Human adenoviruses (HAdVs) are a major cause of epidemic keratoconjunctivitis. We investigated the types of adenoviruses responsible for the recent epidemic of keratoconjunctivitis in Korea. From January to November 2019, 218 conjunctival swab samples were collected from patients clinically suspected as having adenoviral keratoconjunctivitis. Genotyping targeting of adenovirus capsid hexon genes was performed using PCR and sequencing. Of the 218 samples collected, 128 (58.7%) were positive for the adenovirus genes by PCR, and 126 samples were successfully genotyped. Adenovirus type 8 (HAdV-D8) was the most common type (67.5%), followed by HAdV-D64 (11.1%), HAdV-D37 (9.5%), HAdV-B3 (5.6%), HAdV-D53 (4.0%), HAdV-E4 (1.6%), and HAdV-D56 (0.8%). Adenoviral keratoconjunctivitis cases were the most frequent in July and August 2019, which were mainly caused by type 8. Phylogenetic analyses revealed little genetic distance among adenoviruses of the same type detected in our study. Our results provide basic data for further studies of adenoviral keratoconjunctivitis.

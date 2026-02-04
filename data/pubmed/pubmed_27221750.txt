@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urinary system
-TITLE: A review of the Paris system for reporting urinary cytology.
-PMID: 27221750
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27221750/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-After the 2013 International Congress of Cytology in Paris, consensus groups were formed to establish an international reporting system for urinary tract (UT) specimens. The recommended guidelines, known as The Paris System (TPS) for Reporting Urinary Cytology, focus on reducing the rate of unnecessary indeterminate diagnoses while maintaining the excellent performance UT cytology has for identifying high-grade urothelial carcinoma. This review highlights the major features of TPS.

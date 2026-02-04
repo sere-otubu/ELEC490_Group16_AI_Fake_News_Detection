@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Arthritis
-TITLE: Glucagon-like peptide-1 receptor agonists in arthritis: current insights and future directions.
-PMID: 41034339
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41034339/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Obesity affects nearly one in six adults worldwide. Excess adiposity is a pro-inflammatory state associated with increased risk of several types of arthritis, increased arthritis disease activity and/or severity, and poorer response to certain treatments. Obesity is a major risk factor for cardiovascular disease, the leading cause of death in people with common arthritides such as osteoarthritis (OA), gout, rheumatoid arthritis, psoriatic arthritis and axial spondyloarthritis. Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are a promising therapeutic option for people with arthritis and obesity or type 2 diabetes mellitus owing to their pleiotropic effects, including weight loss, improved survival and reduced risk of major cardiovascular and renal events. In vitro and preclinical in vivo experiments in arthritis have uncovered weight-loss-independent anti-inflammatory and chondroprotective properties of GLP-1RAs. In knee OA, clinical data suggest that GLP-1RAs improve pain and function and reduce the risk of surgical intervention; however, their effects on OA incidence remain incompletely understood. Evidence suggests that GLP-1RAs do not directly prevent gout attacks, but are effective in managing cardiometabolic conditions commonly associated with gout and other arthritides. More research is needed to clarify the effects of GLP-1RAs on incidence, disease activity, and progression of rheumatoid arthritis, psoriatic arthritis and axial spondyloarthritis.

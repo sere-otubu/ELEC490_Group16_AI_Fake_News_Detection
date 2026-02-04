@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tinnitus
-TITLE: Tinnitus.
-PMID: 2196610
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2196610/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sound without external stimuli may warn of serious conditions. Accurate history and physical examination along with ancillary testing, including audiograms, are essential in evaluation of these patients. Evaluation of sudden tinnitus may save hearing. Extra-auditory tinnitus may arise from respiratory, vascular, and muscular sources that are often treatable. Conductive tinnitus may indicate treatable malformation of the external or middle ear. Sensorineural tinnitus may be drug-related, noise-related, of central origin, or due to cochlear deterioration. Comprehensive diagnostic procedures can be followed by medical, surgical, psychologic, or masking therapies. All patients with tinnitus can benefit from patient education and preventive measures, and oftentimes the physician's reassurance and assistance with the psychologic aftereffects of tinnitus can be the therapy most valuable to the patient.

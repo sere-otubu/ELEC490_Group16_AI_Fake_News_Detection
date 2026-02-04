@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cataract surgery
-TITLE: Cataract surgery for the developing world.
-PMID: 18090899
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18090899/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To review surveys published within the last year concerning the prevalence of cataract blindness, rates of cataract surgical coverage and visual outcomes of cataract surgery in various developing countries, and to review recent studies that compare the different cataract surgical techniques used in developing countries. Up to 75% of blindness (visual acuity below 20/400) is due to cataract. Cataract remains the most common treatable cause of blindness. Reported cataract surgical coverage is low, and visual outcomes are poor and necessitate improvement. Phacoemulsification is the preferred technique for cataract surgery in developed countries, but large-scale implementation in developing countries may prove to be a challenge. An alternative surgical technique, manual sutureless small incision extracapsular cataract surgery, has been increasing in popularity, as the technique has been shown to yield similar surgical outcomes as phacoemulsification. Treating cataract blindness worldwide continues to be a formidable challenge. Significant barriers include cost, lack of population awareness, shortage of trained personnel and poor surgical outcomes. Both phacoemulsification and manual small incision extracapsular cataract surgery achieve excellent visual outcomes with low complication rates, but manual small incision extracapsular cataract surgery is significantly faster, less expensive and requires less technology. Therefore, manual small incision extracapsular cataract surgery may be the preferred technique for cataract surgery in the developing world.

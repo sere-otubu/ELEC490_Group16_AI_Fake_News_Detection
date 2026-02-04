@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Zika virus
-TITLE: Zika virus-spread, epidemiology, genome, transmission cycle, clinical manifestation, associated challenges, vaccine and antiviral drug development.
-PMID: 32056845
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32056845/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Zika Virus (ZIKV) is a Flavivirus transmitted primarily via the bite of infected Aedes aegypti mosquitoes. Globally, 87 countries and territories have recorded autochthonous mosquito-borne transmission of ZIKV as at July 2019 and distributed across four of the six WHO Regions. Outbreaks of ZIKV infection peaked in 2016 and declined substantially throughout 2017 and 2018 in the Americas region. There is the likely risk for ZIKV to spread to more countries. There is also the potential for the re-emergence of ZIKV in all places with prior reports of the virus transmission. The current status of ZIKV transmission and spread is, however, a global health threat, and from the aforementioned, has the potential to re-emerge as an epidemic. This review summarizes the past and present spread of ZIKV outbreak-2007-2019, the genome, transmission cycle, clinical manifestations, vaccine and antiviral drug advancement.

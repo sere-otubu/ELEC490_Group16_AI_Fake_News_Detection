@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cirrhosis
-TITLE: Emerging synthetic drugs for the treatment of liver cirrhosis.
-PMID: 33856246
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33856246/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-<b>Introduction</b>: The number of deaths and prevalent cases of cirrhosis are increasing worldwide, but there are no licensed antifibrotic or pro-regenerative medicines and liver transplantation is a limited resource. Cirrhosis is characterized by extreme liver fibrosis, organ dysfunction, and complications related to portal hypertension. Advances in our understanding of liver fibrosis progression and regression following successful etiological therapy betray vulnerabilities in common and disease-specific mechanisms that could be targeted pharmacologically.<b>Area covered</b>: This review summarizes the cellular and molecular pathogenesis of cirrhosis as a preface to discussion of the current drug development landscape. The dominant indication for global pharma R&D pipelines is cirrhosis related to nonalcoholic steatohepatitis (NASH). We searched Clinicaltrials.gov, GlobalData, Pharmaprojects and PubMed for pertinent information on emerging synthetic drugs for cirrhosis, with a focus on compounds listed in phase 2 and phase 3 trials.<b>Expert opinion</b>: Although cirrhosis can regress following successful etiological treatment, there are no specific antifibrotic or pro-regenerative drugs approved for this condition. Obstacles to drug development in cirrhosis include intrinsic biological factors, a heterogeneous patient population, and lack of acceptable surrogate endpoints. Nevertheless, several synthetic drugs are being evaluated in clinical trials and the NASH field is rapidly embracing a drug combination approach.

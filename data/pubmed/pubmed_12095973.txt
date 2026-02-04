@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12095973)
-    QUESTION: Chemoradiation instead of surgery to treat mid and low rectal tumors: is it safe?
-    CONTEXT: The main treatment for rectal carcinoma is surgery. Preoperative chemoradiation (CRT) is advocated to reduce local recurrence and improve resection of mid and low tethered rectal tumors.
-    ANSWER: Exclusive CRT approach is not safe to treat patients with low infiltrative rectal carcinoma.
-    

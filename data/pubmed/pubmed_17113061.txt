@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17113061)
-    QUESTION: Do mutations causing low HDL-C promote increased carotid intima-media thickness?
-    CONTEXT: Although observational data support an inverse relationship between high-density lipoprotein (HDL) cholesterol and coronary heart disease (CHD), genetic HDL deficiency states often do not correlate with premature CHD.
-    ANSWER: Genetic variants identified in the present study may be insufficient to promote early carotid atherosclerosis.
-    

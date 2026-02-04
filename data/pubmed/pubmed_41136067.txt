@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Heart failure
-TITLE: Worsening Heart Failure.
-PMID: 41136067
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41136067/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Worsening heart failure is a common cause of morbidity and mortality among patients worldwide. It is important to recognize changes in a patient's clinical care to understand the risk to their cardiovascular health and overall well-being. Events that define worsening heart failure include hospital admission for heart failure, emergency department visit for heart failure, outpatient intravenous diuretic therapy, escalation of outpatient oral diuretic therapy, and worsening symptoms despite appropriate medical therapy. Optimization of heart failure guideline-directed medical therapy during a worsening heart failure episode has been shown to improve patient survival, reduce hospitalization, and improve patient-reported outcomes.

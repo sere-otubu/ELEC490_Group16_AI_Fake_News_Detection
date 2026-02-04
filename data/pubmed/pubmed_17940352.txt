@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17940352)
-    QUESTION: Does HER2 immunoreactivity provide prognostic information in locally advanced urothelial carcinoma patients receiving adjuvant M-VEC chemotherapy?
-    CONTEXT: To evaluate the impact of HER2 immunoreactivity on clinical outcome in locally advanced urothelial carcinoma patients who received surgery alone, or methotrexate, vinblastine, epirubicin, and cisplatin (M-VEC) as adjuvant chemotherapy.
-    ANSWER: HER2 immunoreactivity might have a limited prognostic value for advanced urothelial carcinoma patients with adjuvant M-VEC.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pituitary gland
-TITLE: [Ectopia of the pituitary].
-PMID: 30120512
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30120512/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The adenohypophysis has a large intrasellar part and two small parts at the pituitary stalk and the pharynx. Near this extrasellar pituitary tissue, and also in sinus sphenoidalis and sinus cavernosus, ectopic pituitary adenomas can develop. They are indistinguishable in structure and function from usual intrasellar adenomas. The neurohypophysis can show dystopias within complex malformations. In so-called pituitary stalk interruption syndrome, a real ectopia of the neurohypophysis is found at the eminentia mediana of the hypothalamus. Ectopic tissue in the pituitary is extremely rare: foci of ganglionic cells were found in the neurohypophysis and adrenocortical tissue in the adenohypophysis. Focal squamous epithelia in the anterior pituitary are a common finding but they are rather metaplastic from parenchymal cells than ectopic tissue. Small foci of ectopic salivary gland tissue are not rare in the intermediate zone.

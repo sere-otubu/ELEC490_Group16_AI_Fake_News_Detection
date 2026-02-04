@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Osteoarthritis
-TITLE: A lifespan approach to osteoarthritis prevention.
-PMID: 34560260
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34560260/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Prevention is an attractive solution for the staggering and increasingly unmanageable burden of osteoarthritis. Despite this, the field of osteoarthritis prevention is relatively immature. To date, most of what is known about preventing osteoarthritis and risk factors for osteoarthritis is relative to the disease (underlying biology and pathophysiology) of osteoarthritis, with few studies considering risk factors for osteoarthritis illness, the force driving the personal, financial and societal burden. In this narrative review we will discuss what is known about osteoarthritis prevention, propose actionable prevention strategies related to obesity and joint injury which have emerged as important modifiable risk factors, identify where evidence is lacking, and give insight into what might be possible in terms of prevention by focussing on a lifespan approach to the illness of osteoarthritis, as opposed to a structural disease of the elderly. By targeting a non-specialist audience including scientists, clinicians, students, industry employees and others that are interested in osteoarthritis but who do not necessarily focus on osteoarthritis, the goal is to generate discourse and motivate inquiry which propel the field of osteoarthritis prevention into the mainstream.

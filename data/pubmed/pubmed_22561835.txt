@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Asthma
-TITLE: Asthma phenotypes: the evolution from clinical to molecular approaches.
-PMID: 22561835
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22561835/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although asthma has been considered as a single disease for years, recent studies have increasingly focused on its heterogeneity. The characterization of this heterogeneity has promoted the concept that asthma consists of multiple phenotypes or consistent groupings of characteristics. Asthma phenotypes were initially focused on combinations of clinical characteristics, but they are now evolving to link biology to phenotype, often through a statistically based process. Ongoing studies of large-scale, molecularly and genetically focused and extensively clinically characterized cohorts of asthma should enhance our ability to molecularly understand these phenotypes and lead to more targeted and personalized approaches to asthma therapy.

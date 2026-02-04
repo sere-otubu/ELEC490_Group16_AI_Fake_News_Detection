@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Plant based protein
-TITLE: Maize COMPACT PLANT 3 regulates plant architecture and facilitates high-density planting.
-PMID: 39928526
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39928526/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Compact plant architecture allows more efficient light capture under higher planting density. Thus, it is a crucial strategy for improving crop yield, particularly in maize (Zea mays L.). Here, we isolated a maize gene, COMPACT PLANT 3 (CT3), regulating plant architecture, using map-based cloning. CT3, encoding a GRAS protein, interacts with an AP2 transcription factor (TF), DWARF AND IRREGULAR LEAF 1 (DIL1). The genetic analysis showed that CT3 and DIL1 regulate leaf angle and plant height via the same pathway, supporting the biological role of their interaction by forming a complex. Transcriptome and DNA profiling analyses revealed that these 2 TFs share many common target genes. We further observed that CT3 functions as a co-regulator to enhance the DNA affinity and transcriptional activity of DIL1. This finding was further supported by the direct binding of DIL1 to 2 cell wall-related genes, ZmEXO1 and ZmXTH14, which were downregulated in the ct3 mutant. Furthermore, ZmEXO1 regulated plant architecture in a manner similar to CT3- and DIL1-mediated regulation. Zmexo1, ct3, and dil1 mutants showed defective cell wall integrity and had reduced cell wall-related components. The introduction of the ct3 or dil1 mutant allele into elite maize hybrids led to a more compact architecture and increased yield under high planting density. Our findings reveal a regulatory pathway of maize plant architecture and provide targets to increase yield under high planting density.

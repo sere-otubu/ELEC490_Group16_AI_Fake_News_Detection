@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Serotonin
-TITLE: Serotonin and orthodontic tooth movement.
-PMID: 30953672
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30953672/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Peripheral serotonin continuously reveals its unexpected involvements in many organ functions. In bone tissue, there is an increasing evidence for a local serotonergic system affecting the cellular and molecular actors involved in bone turnover. During orthodontic treatment, tooth movement relies on bone remodeling, itself a result of the inflammatory process triggered by application of orthodontic forces to the teeth. Nowadays, many adults proceed to an orthodontic treatment, it therefore seems important to consider physiological growth-related factors and external factors as medications that may influence adverse effects and efficacy of orthodontic treatment techniques. In this review, we focus on peripheral serotonin mechanism of regulation of bone remodeling during orthodontic movement. We discuss the differential effect of serotonin on alveolar bone inflammation that may open new strategies in orthodontics.

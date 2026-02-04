@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Spinal fusion
-TITLE: Advances in spinal fusion.
-PMID: 15856812
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15856812/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Since its initial description about a century ago, spinal fusion has become a common surgical intervention in the treatment of various debilitating spinal disorders. However, given the complexities and demands of the procedure, patient selection remains a key component in the success of the operation. In this article, we will review the various indications for spinal fusion, the current advances in fusion techniques, as well as the potential complications associated with the procedure.

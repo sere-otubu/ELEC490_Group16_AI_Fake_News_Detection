@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blue light effects
-TITLE: Effects of Long-Term Blue Light Exposure on Body Fat Synthesis and Body Weight Gain in Mice and the Inhibitory Effect of Tranexamic Acid.
-PMID: 40565020
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40565020/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Humans are continuously exposed to blue light from sunlight, computers, and smartphones. While blue light has been reported to affect living organisms, its role in fat synthesis and weight changes remains unclear. In this study, we investigated the effects of prolonged blue light exposure on weight changes in mice and the protective role of tranexamic acid (TA). Mice were exposed daily to blue light from a light-emitting diode for five months. Blue light exposure led to increased fat mass and body weight. The expression of the clock genes arnt-like 1 (Bmal1) and Clock was reduced in the brain and muscle of exposed mice. In addition, reduced Sirt1 and increased mammalian target of rapamycin complex 1 (mTORC1)/sterol regulatory element-binding protein 1 (SREBP1) were observed. The levels of liver X receptor a and liver kinase B1/5'AMP-activated protein kinase a1, both involved in SREBP1-mediated lipogenesis, were also elevated. TA treatment prevented the blue light-induced suppression of Bmal1/Clock and modulated the subsequent series of signal transduction. These findings suggest that prolonged blue light exposure suppresses the clock gene Bmal1/Clock, reduces Sirt1, and activates lipogenic pathways, contributing to weight gain. TA appears to regulate clock gene expression and mitigate blue light-induced weight gain.

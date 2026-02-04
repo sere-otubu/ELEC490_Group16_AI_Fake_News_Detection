@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Joint replacement
-TITLE: Same Day Joint Replacement Surgery: Patient Selection and Perioperative Management.
-PMID: 36049880
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36049880/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Joint replacements are increasingly performed as outpatient surgeries. The push toward ambulatory joint arthroplasty is driven in part by the changing current health care economics and reimbursement models. Patients' selection and well-designed perioperative care pathways are critical for the success of these procedures. The rate of complications after outpatient joint arthroplasty is comparable to the rate of complications in the ambulatory setting. Patient education, adequate social support, multimodal analgesia, regional anesthesia are key ingredients to the ambulatory care pathway after joint arthroplasty. Motor sparing nerve blocks are often used in these settings. Implementation of the elements of fast protocols can result in overall improvement of outcome metrics for all patients undergoing joint arthroplasty, including reduced length of stay and increased rate of home discharge.

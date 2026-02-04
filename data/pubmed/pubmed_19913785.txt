@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19913785)
-    QUESTION: Is it necessary to insert a nasobiliary drainage tube routinely after endoscopic clearance of the common bile duct in patients with choledocholithiasis-induced cholangitis?
-    CONTEXT: Little is known about whether a routinely inserted endoscopic nasobiliary drainage (ENBD) tube improves the clinical course in patients with choledocholithiasis-induced acute cholangitis after clearance of choledocholithiasis.
-    ANSWER: A routinely inserted ENBD tube did not improve the clinical course, despite patients having to endure increased procedure time and discomfort, and the insertion would therefore be unnecessary.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alcohol guidelines
-TITLE: Sex, Gender, and Alcohol Use: Implications for Women and Low-Risk Drinking Guidelines.
-PMID: 35457389
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35457389/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Alcohol use is coming under increasing scrutiny with respect to its health impacts on the body. In this vein, several high-income countries have issued low-risk drinking guidelines in the past decade, aiming to educate the public on safer levels of alcohol use. Research on the sex-specific health effects of alcohol has indicated higher damage with lower amounts of alcohol for females as well as overall sex differences in the pharmacokinetics of alcohol in male and female bodies. Research on gender-related factors, while culturally dependent, indicates increased susceptibility to sexual assault and intimate partner violence as well as more negative gender norms and stereotypes about alcohol use for women. Sex- and gender-specific guidelines have been issued in some countries, suggesting lower amounts of alcohol consumption for women than men; however, in other countries, sex- and gender-blind advice has been issued. This article reports on a synthesis of the evidence on both sex- and gender-related factors affecting safer levels of drinking alcohol with an emphasis on women's use. We conclude that supporting and expanding the development of sex- and gender-specific low-risk drinking guidelines offers more nuanced and educative information to clinicians and consumers and will particularly benefit women and girls.

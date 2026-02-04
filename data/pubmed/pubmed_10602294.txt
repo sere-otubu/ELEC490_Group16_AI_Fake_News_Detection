@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Stomach anatomy
-TITLE: Interstitial cells of Cajal in human gut and gastrointestinal disease.
-PMID: 10602294
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10602294/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This paper reviews the distribution of interstitial cells of Cajal (ICC) in the human gastrointestinal (GI) tract, based on ultrastructural and immunohistochemical evidence. The distribution and morphology of ICC at each level of the normal GI tracts is addressed from the perspective of their functional significance. Alterations of ICC reported in achalasia of cardia, infantile hypertrophic pyloric stenosis, chronic intestinal pseudoobstruction, Hirschsprung's disease, inflammatory bowel diseases, slow transit constipation, and some other disorders of GI motility as well as in gastrointestinal stromal tumors are reviewed, with emphasis on the place of ICC in the pathophysiology of disease.

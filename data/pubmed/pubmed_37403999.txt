@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alcohol guidelines
-TITLE: Moderate red wine intake and cardiovascular health protection: a literature review.
-PMID: 37403999
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37403999/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Wine is a complex matrix consisting primarily of water (86%) and ethyl alcohol (12%), as well as other different molecules, such as polyphenols, organic acids, tannins, compound minerals, vitamins and biologically active compounds which play an important role in the specific characteristics of each wine. According to the Dietary Guidelines for Americans 2015-2020, moderate red wine consumption-defined as up to two units of alcohol per day for men and up to one unit of alcohol per day for women-significantly reduces the risk of cardiovascular disease which represents the major causes of mortality, and disability, in developed countries. We reviewed the available literature concerning the potential relationship between moderate red wine consumption and cardiovascular health. We searched Medline, Scopus and Web of Science (WOS) for randomized controlled studies and case-control studies published from 2002 to 2022. A total of 27 articles were selected for the review. According to epidemiological evidence, drinking red wine in moderation lowers the risk of developing cardiovascular disease and diabetes. Red wine contains both alcoholic and non-alcoholic ingredients; however, it is yet unclear which is to blame for these effects. Combining wine with the diet of healthy individuals may add additional benefits. New studies should focus more on the characterization of the individual components of wine, to allow the analysis and study of the impact of each of them on the prevention and treatment of certain diseases.

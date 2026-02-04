@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Digestive system
-TITLE: The digestive system and nutritional considerations for individuals with Rett syndrome.
-PMID: 17195872
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17195872/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rett syndrome (RS) is a neurodevelopmental syndrome of genetic origin that mainly affects females. Individuals diagnosed with RS exhibit a variety of functional difficulties that impair their quality of life. One of the affected systems is the digestive system, where 74% of persons with RS have abnormal functioning. The affected digestive system causes this population to present an array of problems, such as gastroesophageal reflux (GER), constipation, and malnutrition, leading to failure to thrive (FTT), which resolves in reduced functional ability. Due to the severe effects of the dysfunctional digestive system of individuals with RS, this article will describe the problems common to this population, as well as propose some clinical suggestions for intervention.

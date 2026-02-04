@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Eczema
-TITLE: [Hand eczema].
-PMID: 40171903
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40171903/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hand eczema is a frequent disease, often with an early debut, a tendency to become chronic and it may carry many consequences. Hand eczema is classified depending on aetiology and clinical types. Few treatments have been developed specifically to hand eczema and treatment failure is not infrequent. New research shows that hand eczema seems to share molecular profiles across most subtypes, and this is promising for the development of new common treatments. Intervention research shows that prevention of hand eczema can be very effective and should be more broadly implemented, as argued in this review.

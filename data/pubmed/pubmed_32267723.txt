@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tendinitis
-TITLE: Current Clinical Concepts: Conservative Management of Achilles Tendinopathy.
-PMID: 32267723
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32267723/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Achilles tendinopathy is a painful overuse injury that is extremely common in athletes, especially those who participate in running and jumping sports. In addition to pain, Achilles tendinopathy is accompanied by alterations in the tendon's structure and mechanical properties, altered lower extremity function, and fear of movement. Cumulatively, these impairments limit sport participation and performance. A thorough evaluation and comprehensive treatment plan, centered on progressive tendon loading, is required to ensure full recovery of tendon health and to minimize the risk of reinjury. In this review, we will provide an update on the evidence-based evaluation, outcome assessment, treatment, and return-to-sport planning for Achilles tendinopathy. Furthermore, we will provide the strength of evidence for these recommendations using the Strength of Recommendation Taxonomy system.

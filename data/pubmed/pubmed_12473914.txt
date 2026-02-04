@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Substance abuse
-TITLE: The genetics of substance abuse.
-PMID: 12473914
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12473914/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Substance abuse is among the most prevalent psychiatric disorders in males and contributes significantly to the morbidity and mortality nurses see in practice. Substance use and abuse disorders were the cause of a half million drug-related visits to emergency rooms in 1995, with more than 50% related to drug overdoses. Substance abuse and dependency result from a complex interaction of genetics and the environment. Various polymorphisms of genes have been demonstrated to have either protective effects or increased risk associated with their presence. Substance abuse is a chronic disease state that has effective treatments that reduce drug use, crime, and psychosocial problems. Nurses can provide targeted education and interventions to positively impact substance abuse treatment and by applying basic principles of genetic counseling may prevent transmission to future generations.

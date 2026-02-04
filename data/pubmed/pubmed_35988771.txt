@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gene expression
-TITLE: A survey on gene expression data analysis using deep learning methods for cancer diagnosis.
-PMID: 35988771
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35988771/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gene Expression Data is the biological data to extract meaningful hidden information from the gene dataset. This gene information is used for disease diagnosis especially in cancer treatment based on the variations in gene expression levels. DNA microarray is an efficient method for gene expression classification and prediction of cancer disease for specific types of cancer. Due to the abundance of computing power, deep learning (DL) has become a widespread technique in the healthcare sector. The gene expression dataset has a limited number of samples but a large number of features. Data augmentation is needed for gene expression datasets to overcome the dimensionality problem in gene data. It is a technique to generating the synthetic samples to increase the diversity of data. Deep learning methods are designed to learn and extract the features that come from the raw input data in the form of multidimensional arrays. This paper reviews the existing research in deep learning techniques like Feed Forward Neural Network (FFN), Convolutional Neural Network (CNN), Autoencoder (AE) and Recurrent Neural Network (RNN) for the classification and prediction of cancer disease and its types through gene expression data analysis.

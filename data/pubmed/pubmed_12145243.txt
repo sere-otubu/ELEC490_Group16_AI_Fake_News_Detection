@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12145243)
-    QUESTION: Are lower fasting plasma glucose levels at diagnosis of type 2 diabetes associated with improved outcomes?
-    CONTEXT: Type 2 diabetes may be present for several years before diagnosis, by which time many patients have already developed diabetic complications. Earlier detection and treatment may reduce this burden, but evidence to support this approach is lacking.
-    ANSWER: People presenting with type 2 diabetes with lower initial glycemia who may be earlier in the course of their disease had fewer adverse clinical outcomes despite similar glycemic progression. Since most such people are asymptomatic at diagnosis, active case detection programs would be required to identify them.
-    

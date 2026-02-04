@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anticoagulants
-TITLE: Novel oral anticoagulants for the prevention of thromboembolism in patients with atrial fibrillation.
-PMID: 23734359
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23734359/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The most significant complication of atrial fibrillation (AF) is thromboembolic stroke. Furthermore, the consequences of AF-related stroke tend to be more severe than those of other aetiologies. The need for safe, effective and convenient anticoagulation is clear. Warfarin is the current mainstay of treatment but its prescription and use remains sub-optimal, despite clear evidence and guidance to support its use. Many patients taking warfarin spend a significant amount of time subtherapeutically anticoagulated and the requirement for regular monitoring of warfarin's anticoagulant activity is both inconvenient and costly. Novel oral anticoagulants promise more predictable and convenient anticoagulation. They have potential superiority over warfarin for preventing thromboembolic stroke and appear to be associated with fewer haemorrhagic effects. Understanding the important background to the novel agents presents an opportunity to tailor anticoagulant treatment to the individual. This should allow a greater proportion of the eligible population access to effective anticoagulation. Furthermore, it should reduce their exposure to the risk of both thromboembolic and haemorrhagic stroke and their potentially devastating consequences.

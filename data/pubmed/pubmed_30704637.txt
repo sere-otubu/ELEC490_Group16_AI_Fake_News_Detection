@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Bulimia nervosa
-TITLE: Recent Research on Bulimia Nervosa.
-PMID: 30704637
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30704637/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Estimates of lifetime bulimia nervosa (BN) range from 4% to 6.7% across studies. There has been a decrease in the presentation of BN in primary care but an increase in disordered eating not meeting full diagnostic criteria. Regardless of diagnostic status, disordered eating is associated with long-term significant impairment to both physical and mental quality of life, and BN is associated with a significantly higher likelihood of self-harm, suicide, and death. Assessment should adopt a motivationally enhancing stance given the high level of ambivalence associated with BN. Cognitive behavior therapy specific to eating disorders outperforms other active psychological comparisons.

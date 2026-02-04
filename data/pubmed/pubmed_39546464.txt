@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Generalized anxiety disorder
-TITLE: [Anxiety and Generalized Anxiety Disorder in Elite Athletes].
-PMID: 39546464
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39546464/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Physical activity is recommended as a strategy for promoting mental health, and it can even be integrated into treatment plans for psychiatric disorders affecting the general population. However, elite athletes are a subpopulation with protective and risk factors inherent to high-level competition and are not shielded from psychiatric symptoms and conditions. The mental health of elite athletes has been the subject of increasing attention, driven in part by the initiatives of the International Olympic Committee and the growing importance of sports psychiatry. This article is a narrative review that provides an overview regarding anxiety, in particular generalized anxiety disorder in elite athletes. Our assessment concluded that competitive anxiety may affect an elite athlete's performance in both harmful and beneficial ways. Assessing the duration, frequency, and functional impact of anxiety symptoms is crucial for ruling out generalized anxiety disorder. Elite athletes do not show a significantly different prevalence of generalized anxiety disorder compared to the general population. Identifying specific protective and risk factors can contribute to adopting more effective preventive and intervention strategies. As in the general population, psychotherapy is recommended for elite athletes as the initial treatment for this condition, combined, if necessary, with pharmacotherapy, according to the World Anti-Doping Agency Code.

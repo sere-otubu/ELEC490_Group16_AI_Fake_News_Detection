@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Heart failure
-TITLE: Heart Failure.
-PMID: 26489162
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26489162/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Heart failure is a major public health concern. It is the most common reason for hospitalization. It commonly affects older population and given the increasing life expectancy coupled with improved management of chronic medical conditions, the number of patients with heart failure is expected to increase. Heart failure has been recently categorized into heart failure with reduced and preserved ejection fraction. Despite differences in the two types, mortality remains high and similar in both conditions. Over the past few decades, numerous medical and device based therapies have been developed for the management of heart failure. These therapies have improved outcomes for the patients both in terms of morbidity and mortality. The objective of this review is to provide an overview of management of heart failure, specifically heart failure with reduced ejection fraction. It is of paramount importance for all health care providers to be aware of therapies for management of heart failure. We will also briefly discuss the role of mechanical circulatory support as an emerging new therapy for patients with advanced heart failure.

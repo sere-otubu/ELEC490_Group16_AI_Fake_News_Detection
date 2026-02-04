@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antacids
-TITLE: Treatment of reflux esophagitis with H2-blockers, antacids and prokinetic drugs. An analysis of randomized clinical trials.
-PMID: 2568015
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2568015/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Randomized clinical trials comparing H2-receptor antagonists, antacids, antacid/alginate and prokinetic drugs with placebo and other substances were analyzed. Symptomatic improvement has been shown for H2-receptor antagonists, antacids in very high doses and prokinetic drugs. H2-receptor antagonists, the present mainstay of reflux therapy, improve esophagitis, but they are insufficient in the treatment of severe esophagitis where omeprazole may become the therapy of choice. The evidence is weak that antacids, antacid/alginate, metoclopramide and domperidone heal esophagitis.

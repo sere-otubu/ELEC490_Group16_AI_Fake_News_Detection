@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chronic disease management
-TITLE: Time for chronic disease care and management.
-PMID: 17932573
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17932573/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To manage the future costs and quality of care, a health strategy must move beyond the individual, acute care model and address the care of older people with chronic, and often multiple, diseases. This strategy must address the issue of care gaps, ie, the differences between best care and usual care. It should also embrace broad partnerships in which providers may be a cross-disciplinary team of nurses, physicians and pharmacists; the patient partners may include all patients in the community with a disease or group of diseases; and the system managers should work with all to seek improved long-term care and share the governance of interventions and resources. This partnership is activated by repeated and widely communicated measurements of actual practices and outcomes, facilitating rapid knowledge gain and translation, including unmasking the invisible wait list of unmeasured care gaps. It drives continuous improvement in practices and outcomes. The time is right for such care models. There is increasing evidence of their clinical and financial benefits. There is a clear and immediate opportunity to evaluate them as part of a health strategy for effective chronic care in our aging society. Things can be better.

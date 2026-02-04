@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cochlear implants
-TITLE: Cochlear implants.
-PMID: 23092261
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23092261/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cochlear implants have evolved to become the treatment of choice for severely hearing-impaired patients. Speech signals are picked up by a microphone, processed and then delivered to the stimulating electrodes (the current maximum number being 22) that are placed on an electrode array implanted into the scala tympani of the cochlea. The target cells of electrical stimulation, the spiral ganglion cells (SGCs), are located some distance away in the central axis of the cochlea. SGCs start to degenerate after the onset of deafness. Additionally, fibrous tissue is formed around the electrode array after implantation. If cochlear implants are to deliver sound that is closer to natural hearing, the number of independent stimulation channels has to be increased. Optimization of the interface between the electrode array and the surrounding tissue is, therefore, the focus of current research. Promising approaches relating to cells, micro- and nanosystems will be reviewed.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: White blood cells
-TITLE: Comprehensive data analysis of white blood cells with classification and segmentation by using deep learning approaches.
-PMID: 38563259
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38563259/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Deep learning approaches have frequently been used in the classification and segmentation of human peripheral blood cells. The common feature of previous studies was that they used more than one dataset, but used them separately. No study has been found that combines more than two datasets to use together. In classification, five types of white blood cells were identified by using a mixture of four different datasets. In segmentation, four types of white blood cells were determined, and three different neural networks, including CNN (Convolutional Neural Network), UNet and SegNet, were applied. The classification results of the presented study were compared with those of related studies. The balanced accuracy was 98.03%, and the test accuracy of the train-independent dataset was determined to be 97.27%. For segmentation, accuracy rates of 98.9% for train-dependent dataset and 92.82% for train-independent dataset for the proposed CNN were obtained in both nucleus and cytoplasm detection. In the presented study, the proposed method showed that it could detect white blood cells from a train-independent dataset with high accuracy. Additionally, it is promising as a diagnostic tool that can be used in the clinical field, with successful results in classification and segmentation.

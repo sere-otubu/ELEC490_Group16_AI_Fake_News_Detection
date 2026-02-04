@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Carpal tunnel syndrome
-TITLE: Acute Carpal Tunnel Syndrome and Median Nerve Neurapraxia: A Review.
-PMID: 35365264
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35365264/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Prompt diagnosis and treatment of acute injury to the median nerve after wrist trauma are paramount to a successful outcome. Neuropathy can occur primarily at the time of injury, secondary to unreduced fracture fragments or callus, or from prolonged immobilization in palmar flexion. Acute carpal tunnel syndrome is a surgical emergency that requires decompression. Progressively worsening pain and sensory disturbances in the median nerve distribution are findings that will distinguish an acute carpal tunnel syndrome from the less severe median nerve neurapraxia. This article describes the key differences between neurapraxia and acute compartment syndrome and their respective treatment.

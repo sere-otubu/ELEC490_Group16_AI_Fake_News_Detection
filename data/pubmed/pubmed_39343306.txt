@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Melanoma
-TITLE: Global trends in melanoma burden: A comprehensive analysis from the Global Burden of Disease Study, 1990-2021.
-PMID: 39343306
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39343306/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Melanoma, a significant global health concern, has shown evolving epidemiologic trends. Accurate estimation of melanoma's burden is essential for public health strategies and interventions. This study aims to estimate the incidence, mortality, and disability-adjusted life years for melanoma, stratified by region, gender, and age group, from 1990 to 2021. Using data from the Global Burden of Disease 2021, we analyzed melanoma incidence, mortality rates, and disability-adjusted life years in 204 countries from 1990 to 2021. These metrics were age-standardized and stratified by age, sex, Socio-Demographic Index, region, and country. The estimated annual percentage change was calculated to track temporal trends. Our study shows a substantial global increase in melanoma incidence, with significant disparities between genders and age groups. Higher Socio-Demographic Index regions had increased incidence rates, while global mortality declined, likely due to improved detection and treatment. The reliance on estimates and models may introduce bias due to variability in disease definitions, diagnostic criteria, and data collection methods. This study underscores the dynamic nature of melanoma's burden and the need for targeted, age-specific, and gender-specific interventions. Continued research is essential to address the growing challenges posed by melanoma.

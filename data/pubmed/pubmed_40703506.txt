@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dopamine
-TITLE: Dopamine as an endogenous regulator of innate immunity in sepsis.
-PMID: 40703506
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40703506/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sepsis, a life-threatening organ dysfunction caused by a dysregulated host response to infection, presents a major clinical challenge. While the complex interplay of inflammatory mediators and immune cells during sepsis is increasingly understood, the role of neurotransmitters, particularly dopamine, in modulating the innate immune response is emerging as a crucial area of investigation. Dopamine, traditionally recognized for its role in the central nervous system, acts as an endogenous regulator of innate immunity, significantly influencing the course and outcome of sepsis. In this mini-review, we highlight our recent finding of dopamine's critical role in regulating aconitate decarboxylase 1 (ACOD1) in sepsis.

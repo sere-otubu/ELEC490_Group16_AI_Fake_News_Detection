@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tuberculosis
-TITLE: Human ULK1 Variation and Susceptibility to Mycobacterium tuberculosis Infection.
-PMID: 27485354
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27485354/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Unlike tuberculosis, few studies have evaluated a host genetic basis for variability in susceptibility to latent Mycobacterium tuberculosis infection (LTBI). We performed a candidate gene association study of autophagy-related genes and LTBI. We enrolled close contacts of individuals with pulmonary tuberculosis, assessed LTBI status, and determined clinical and sociodemographic risk factors for LTBI. In participants who self-identified as Asian or black, we compared haplotype-tagging single-nucleotide polymorphisms (SNPs) in ULK1 and GABARAP between cases (n = 143) and controls (n = 106). Using CRISPR/Cas9 in U937 monocytes, we investigated the effect of ULK1 deficiency on cytokine expression, autophagy, and M. tuberculosis replication. In Asian participants, we identified 2 ULK1 SNPs (rs12297124 and rs7300908) associated with LTBI. After adjustment for population admixture and clinical risk for LTBI, each rs12297124 minor allele conferred 80% reduction in LTBI risk (odds ratio, 0.18; 95% confidence interval, .07-.46). Compared with controls, ULK1-deficient cells exhibited decreased tumor necrosis factor secretion after stimulation with Toll-like receptor ligands and M. tuberculosis whole-cell lysate, increased M. tuberculosis replication, and decreased selective autophagy. These results demonstrate a strong association of rs12297124, a noncoding ULK1 SNP, with LTBI and a role for ULK1 regulation of TNF secretion, nonspecific and M. tuberculosis-induced autophagy, and M. tuberculosis replication in monocytes.

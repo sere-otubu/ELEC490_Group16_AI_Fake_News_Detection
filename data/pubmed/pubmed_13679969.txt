@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anaphylaxis
-TITLE: [Anaphylaxis].
-PMID: 13679969
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/13679969/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Anaphylaxis is a potentially mortal, underdiagnosed clinical picture. The most frequent triggering agents are drugs and foodstuffs. The first therapeutic option, adrenaline, although clearly indicated, is not carried out with the desired frequency due basically to the high number of cases of anaphylaxis that are not diagnosed as such. In patients with a first episode of anaphylaxis, posterior aetiological diagnosis is crucial to avoid the appearance of new episodes. The only case of anaphylaxis in which immunotherapy with the allergen must be evaluated, is that in which the causal agent is the poison of hymenopters.

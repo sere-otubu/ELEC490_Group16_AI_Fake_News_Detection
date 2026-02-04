@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Stem cell research
-TITLE: The Landscape of Stem Cell Research in Pakistan.
-PMID: 36788387
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36788387/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The present study is a scoping review of the progress of the field of stem cell research (SCR) in Pakistan in the last two decades. Data was extracted from electronic search engines, international clinical trial registry platforms, and PubMed and presented in tabular and graphical form. China, India and Iran are investing heavily in SCR. In Pakistan, reasonable growth in terms of the number of publications is observed in this area, however, clinical translation of the field does not demonstrate any considerable progress. The Government of Pakistan has developed the regulatory framework and initiated preliminary policymaking, adopting rules from international regulatory agencies like World Health Organization (WHO) and Federal Drug Authority (FDA), however, further clarity and policymaking are needed to address the growing trend of stem cell tourism in the country. The field of SCR is still in its infancy in Pakistan, and needs improvement; scientists, academia, policymakers, and funding agencies must come together to foster high-impact stem cell research in the country. This will aid in elevating the economic burden of many incurable diseases in the country. The outcomes of this study will be helpful for policymakers in their decision-making process.

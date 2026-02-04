@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Arthroscopy
-TITLE: Complications following hip arthroscopy: a systematic review and meta-analysis.
-PMID: 22940810
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22940810/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The use of hip arthroscopy to address injuries and conditions about the hip is becoming more widespread. There are several narrative reviews regarding complications of hip arthroscopy but a systematic review is currently lacking. The primary goal of this study is to determine the complication rate associated with hip arthroscopy in the literature. A search of the EMBASE and Ovid Medline databases was performed to identify articles published between 1 January 2000 and 25 November 2011 that reported a complication rate after hip arthroscopy. Appropriate inclusion and exclusion criteria were applied to identify articles, and a meta-analysis was performed to determine an overall complication rate. Complications were divided into major and minor. A total of 66 papers (n = 6,962 hip arthroscopies) were identified and deemed appropriate for analysis. The overall complication rate was found to be 4.0 % (95 % CI 2.9-5.2 %). Of the 287 complications identified in the literature, 20 were deemed major constituting a rate of 0.3 %. Hip arthroscopy appears to be safe. The vast majority of complications are minor in nature. Prospective trials looking at the complications of hip arthroscopy would aid in identifying prognostic factors. Systematic review and meta-analysis, Level III.

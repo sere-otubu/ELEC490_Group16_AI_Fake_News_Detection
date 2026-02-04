@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Kidney stones
-TITLE: Kidney Disease: Kidney Stones.
-PMID: 34643363
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34643363/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Kidney stones have a prevalence of 8.8% in the United States, with men affected more than women (10.6% versus 7.1%). Most stones are composed of calcium oxalate (61%). Calcium phosphate (15%) and uric acid (12%) stones are the second and third most common types. Risk factors include renal and ureteral anatomic abnormalities, family history, previous stones, older age, and various drugs. Factors that increase the risk of stone development include obesity, older age, metabolic syndrome, diabetes, and hypertension. Symptoms include renal colic, dysuria, urinary frequency, hematuria, fever, flank pain, and groin pain. Renal ultrasonography is the recommended first-line imaging modality, and is preferred in pregnant patients. Metabolic testing is recommended in high-risk patients (eg, with a family history of stones, one kidney, malabsorption or intestinal disease). A nonsteroidal anti-inflammatory drug is the first drug of choice for pain management. Medical expulsive therapy (MET) is considered first-line therapy if stones do not resolve with observation. MET is recommended for patients with uncomplicated distal ureteral stones 10 mm in diameter or less. If a stone fails to pass, other interventions (eg, extracorporeal shock wave lithotripsy, percutaneous nephrolithotomy, ureteroscopy, ureteral stents, nephrostomy tubes) can be considered, depending on the situation. Increased fluid intake and dietary interventions can reduce the risk of recurrence.

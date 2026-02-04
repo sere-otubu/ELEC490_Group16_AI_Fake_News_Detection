@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Food allergies
-TITLE: Food Allergy.
-PMID: 37105602
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37105602/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Food allergy is a growing health problem affecting both pediatric and adult patients. Food allergies are often immunoglobulin E (IgE) mediated but other food-induced non-IgE-mediated diseases exist. Diagnosis of food allergy relies on the combination of clinical and reaction history, skin and IgE testing as well as oral food challenges. Although oral immunotherapy has been able to achieve sustained unresponsiveness in some patients, no cure for food allergies has been found to date. Avoidance of the inciting food as well as availability of epinephrine autoinjectors remains the mainstay of treatment.

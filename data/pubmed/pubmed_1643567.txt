@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urinary system
-TITLE: Assessment of the urinary system.
-PMID: 1643567
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1643567/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-History and physical examination alone will most often provide conclusive evidence of urinary tract disorders in ruminants. Detailed examination of the urinary system is described, and examples of disease are presented. Ancillary testing may be indicated to confirm the diagnosis, direct treatment, or clarify the prognosis. Serum chemistry interpretation, urinalysis, urinary tract endoscopy and radiography, ultrasonography, abdominocentesis, and renal biopsy are discussed.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Corticosteroids
-TITLE: Corticosteroids.
-PMID: 31568125
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31568125/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Corticosteroids are commonly prescribed for a variety of indications due to the wide range of effects on the human body. Although they exhibit many therapeutic uses, corticosteroids are unfortunately known for their many dose- and duration-dependent toxicities. The purpose of this review is to explore indications for corticosteroid use, differences among formulations, and adverse effects and their management.

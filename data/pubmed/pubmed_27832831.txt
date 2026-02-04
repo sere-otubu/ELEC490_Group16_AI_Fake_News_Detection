@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 27832831)
-    QUESTION: Does an additional antirotation U-Blade (RC) lag screw improve treatment of AO/OTA 31 A1-3 fractures with gamma 3 nail?
-    CONTEXT: Poor bone quality and unstable fractures increase the cut-out rate in implants with gliding lag screws. The U-Blade (RC) lag screw for the Gamma3®nail was introduced to provide monoaxial rotational stability of the femoral head and neck fragment. The purpose of this study was to evaluate whether the use of the U-Blade (RC) lag screw is associated with reduced cut-out in patients with OTA/AO 31A1-3 fractures.MATERIAL &
-    ANSWER: In our study the U-Blade (RC) lag screw did not reduce the cut-out in treatment of OTA/AO 31A1-3 fractures at all. Considering the longer duration of surgery and the higher costs of the U-Blade (RC) lag screw, our results do not justify its use. However, further prospective randomized studies will be necessary.
-    

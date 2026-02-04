@@ -1,8 +1,0 @@
-SEARCH_TOPIC: GMO foods safety
-TITLE: Genetically modified foods and allergy.
-PMID: 28473652
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28473652/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-2015 marked the 25th anniversary of the commercial use and availability of genetically modified crops. The area of planted biotech crops cultivated globally occupies a cumulative two billion hectares, equivalent to twice the land size of China or the United States. Foods derived from genetically modified plants are widely consumed in many countries and genetically modified soybean protein is extensively used in processed foods throughout the industrialised countries. Genetically modified food technology offers a possible solution to meet current and future challenges in food and medicine. Yet there is a strong undercurrent of anxiety that genetically modified foods are unsafe for human consumption, sometimes fuelled by criticisms based on little or no firm evidence. This has resulted in some countries turning away food destined for famine relief because of the perceived health risks of genetically modified foods. The major concerns include their possible allergenicity and toxicity despite the vigorous testing of genetically modified foods prior to marketing approval. It is imperative that scientists engage the public in a constructive evidence-based dialogue to address these concerns. At the same time, improved validated ways to test the safety of new foods should be developed. A post-launch strategy should be established routinely to allay concerns. Mandatory labelling of genetically modified ingredients should be adopted for the sake of transparency. Such ingredient listing and information facilitate tracing and recall if required.

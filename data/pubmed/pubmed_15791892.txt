@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urinalysis
-TITLE: Urinalysis: a comprehensive review.
-PMID: 15791892
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15791892/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A complete urinalysis includes physical, chemical, and microscopic examinations. Midstream clean collection is acceptable in most situations, but the specimen should be examined within two hours of collection. Cloudy urine often is a result of precipitated phosphate crystals in alkaline urine, but pyuria also can be the cause. A strong odor may be the result of a concentrated specimen rather than a urinary tract infection. Dipstick urinalysis is convenient, but false-positive and false-negative results can occur. Specific gravity provides a reliable assessment of the patient's hydration status. Microhematuria has a range of causes, from benign to life threatening. Glomerular, renal, and urologic causes of microhematuria often can be differentiated by other elements of the urinalysis. Although transient proteinuria typically is a benign condition, persistent proteinuria requires further work-up. Uncomplicated urinary tract infections diagnosed by positive leukocyte esterase and nitrite tests can be treated without culture.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 15787677)
-    QUESTION: Does aerobic fitness influence microvascular function in healthy adults at risk of developing Type 2 diabetes?
-    CONTEXT: Twenty-seven healthy normal glucose-tolerant humans with either a previous diagnosis of gestational diabetes or having two parents with Type 2 diabetes and 27 healthy adults who had no history of diabetes were recruited. Maximal oxygen uptake was assessed using an incremental exercise test to exhaustion. Skin microvascular function was assessed using laser Doppler techniques as the maximum skin hyperaemic response to a thermal stimulus (maximum hyperaemia) and the forearm skin blood flow response to the iontophoretic application of acetylcholine (ACh) and sodium nitroprusside.
-    ANSWER: In this 'at-risk' group with skin microvascular dysfunction maximal oxygen uptake was not reduced compared with healthy controls. However, in the 'at-risk' group alone, individuals with higher levels of aerobic fitness also had better microvascular and endothelial responsiveness.
-    

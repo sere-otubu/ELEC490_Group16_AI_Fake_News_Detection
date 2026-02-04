@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22205377)
-    QUESTION: Some aspects of social exclusion: do they influence suicide mortality?
-    CONTEXT: The current study is aimed to assess the relationship between the 'economic/employment' and 'social/welfare' dimensions of social exclusion and suicide mortality in Europe.
-    ANSWER: Both 'economic/employment' and 'social/welfare' dimensions of social exclusion significantly influence suicide mortality among males. The influence of 'economic/employment' and 'social/welfare' dimensions of social exclusion on female suicide mortality is controversial. Social exclusion might be considered as a risk factor for suicide mortality in Europe.
-    

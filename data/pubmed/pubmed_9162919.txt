@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tuberculosis
-TITLE: [Epidemiology of tuberculosis in the Amur region].
-PMID: 9162919
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9162919/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Since 1991, the tuberculosis epidemiological situation has become worse: its morbidity has increased from 36.4 in 1990 to 60.6 in 1994 and mortality has grown from 5.3 in 1990 to 11.3 in 1994 and 22.2 in 1995 per 100,000. There has been a rise in destructive and fibrous-and-cavernous tuberculoses in the pattern of morbidity. The efficiency of treatment has drastically decreased. The basic principles in the deterioration of the epidemiological situation are socioeconomic conditions, inadequate financing of antituberculous measures.

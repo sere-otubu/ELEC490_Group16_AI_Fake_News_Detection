@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Contraceptive pills
-TITLE: New contraceptive options.
-PMID: 14989572
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/14989572/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Almost one half of pregnancies in the United States are unintended. Primary reasons for the high rate of unplanned pregnancy include dissatisfaction with or underuse of effective contraceptive methods and poor compliance with contraceptive methods that require daily adherence. Several effective forms of contraception have become available in the United States within the past four years. The combined hormonal vaginal ring is inserted into the vagina for three weeks and then removed; after one ring-free week, a new ring is inserted. The contraceptive patch works in much the same way as oral contraceptive pills but requires only once-weekly application by the patient. A new intrauterine system that releases levonorgestrel provides the same contraception as traditional intrauterine devices but is associated with less menorrhagia and dysmenorrhea. The intrauterine system is highly effective and carries minimal risk of pelvic inflammatory disease. In providing counseling about contraception, the physician should consider the woman's preference and determine the likelihood of adherence to the regimen. In case of contraceptive failure, emergency contraception is effective.

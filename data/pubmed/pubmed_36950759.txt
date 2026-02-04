@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Intermittent fasting
-TITLE: Impact of Intermittent Fasting on the Gut Microbiota: A Systematic Review.
-PMID: 36950759
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36950759/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Obesity often results in severe negative health consequences and represents a growing issue for global health. Reducing food intake is a crucial factor for weight loss. Intermittent fasting is a relatively new intervention that contributes to weight reduction. Considering the intimate relationship between obesity and inflammatory pathologies with gut microbiota alterations, a systematic review of the literature was herein conducted to elucidate the relationship between time-restricted food intake and gut microbiota diversity in humans. Searches are carried out in three databases (PubMed, MedLine/OVID, and Academic Search Complete) between April 2019 and April 2022. Nine studies (all with longitudinal design) were identified as eligible by presenting data about the impact of intermittent fasting schemes on gut microbiota. At the phylum level, Firmicutes and Bacteroidetes increase throughout follow-ups, while 16 bacteria genera change their abundance in response to intermittent fasting. Finally, some genera associated with clinical predictors such as weight change, abdominal circumference, and metabolic variables were reported. Changes induced by fasting schemes positively impact the diversity and abundance of gut microbiota and the biomarkers described here. However, the changes previously reported have been studied in short periods and some return to their basal state after fasting intervention.

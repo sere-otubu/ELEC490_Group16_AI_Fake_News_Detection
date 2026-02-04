@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Migraine
-TITLE: Migraine and Stroke: What's the Link? What to Do?
-PMID: 28283957
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28283957/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Migraine and stroke are common, disabling neurologic disorders, with a high socioeconomic burden. A link between them has been proposed years ago, and various theories have been proposed to explain this bidirectional relation. However, the precise causes remain unclear. We briefly summarize existing hypotheses of this correlation seeking for recommendations for stroke prevention in migraineurs, if any exist. Among the strongest suggested theories of migraine-stroke association are cortical spreading depression, endovascular dysfunction, vasoconstriction, neurogenic inflammation, hypercoagulability, increased prevalence of vascular risk factors, shared genetic defects, cervical artery dissection, and patent foramen ovale. There is no evidence that any preventive therapy in migraineurs should be used to decrease stroke risk, even in most predisposed subset of patients. However, a woman with migraine with aura should be encouraged to cease smoking and avoid taking oral contraceptives with high estrogen doses. We need further investigation to better understand the complexity of migraine-stroke association and to make firm recommendations for the future.

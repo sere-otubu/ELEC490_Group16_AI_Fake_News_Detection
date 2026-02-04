@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mammography
-TITLE: Mammography: a contrary view.
-PMID: 1106292
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1106292/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Experimental and clinical data on mammography as a tool for population screening are reviewed. The conclusions are that [1] there is good evidence that annual history, physical examination, and mammography can reduce short-term and midrange breast cancer mortality by about one third; [2] the evidence that mammography alone plays a significant role in this reduction is weak and indirect; [4] data on long-term effects of mammography are lacking; [4] no satisfactory investigations of associated radiation hazards have been published; and [5] the possible benefits of mammography have received more emphasis in the clinical literature than have its defects. Promotion of mammography as a general public health measure is premature.

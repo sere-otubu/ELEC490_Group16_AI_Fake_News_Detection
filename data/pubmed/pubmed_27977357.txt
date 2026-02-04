@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Celiac disease
-TITLE: Coeliac disease.
-PMID: 27977357
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27977357/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Essential facts [Figure: see text] Coeliac disease is a lifelong autoimmune condition where the body reacts to eating gluten, a protein found in wheat, rye and barley. This leads to chronic inflammation of the small intestine and can result in malabsorption of nutrients.

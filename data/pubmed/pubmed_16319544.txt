@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 16319544)
-    QUESTION: Is high-sensitivity C-reactive protein associated with carotid atherosclerosis in healthy Koreans?
-    CONTEXT: There is a positive association between chronic inflammation and the risk of cardiovascular disease, but whether there is an association between C-reactive protein (CRP) and carotid atherosclerosis is controversial. We investigated the relationship between high-sensitivity CRP (hsCRP) levels and carotid intima-media thickness (IMT) in healthy Koreans.
-    ANSWER: Both hsCRP levels and the carotid IMT were strongly correlated with conventional cardiovascular risk factors, but there was no independent association between hsCRP levels and carotid IMT in healthy Korean adults.
-    

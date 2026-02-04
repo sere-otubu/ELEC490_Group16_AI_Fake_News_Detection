@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Postpartum depression
-TITLE: Postpartum Depression: Are You Listening?
-PMID: 31703781
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31703781/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Postpartum depression (PPD) affects10% to 20% of women within the first year after birth and 25% beyond the first year. PPD, despite advances in diagnosis and treatment, remains underdiagnosed and misunderstood. Women do not always display signs of PPD while in care for delivery of the infant and may not discuss mood changes to their primary care provider at discharge and first post-delivery appointment. Identifying screening and treatment options for non-mental health providers was the purpose of this article.

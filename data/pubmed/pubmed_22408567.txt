@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Radiation therapy
-TITLE: Cancer and radiation therapy: current advances and future directions.
-PMID: 22408567
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22408567/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In recent years remarkable progress has been made towards the understanding of proposed hallmarks of cancer development and treatment. However with its increasing incidence, the clinical management of cancer continues to be a challenge for the 21st century. Treatment modalities comprise of radiation therapy, surgery, chemotherapy, immunotherapy and hormonal therapy. Radiation therapy remains an important component of cancer treatment with approximately 50% of all cancer patients receiving radiation therapy during their course of illness; it contributes towards 40% of curative treatment for cancer. The main goal of radiation therapy is to deprive cancer cells of their multiplication (cell division) potential. Celebrating a century of advances since Marie Curie won her second Nobel Prize for her research into radium, 2011 has been designated the Year of Radiation therapy in the UK. Over the last 100 years, ongoing advances in the techniques of radiation treatment and progress made in understanding the biology of cancer cell responses to radiation will endeavor to increase the survival and reduce treatment side effects for cancer patients. In this review, principles, application and advances in radiation therapy with their biological end points are discussed.

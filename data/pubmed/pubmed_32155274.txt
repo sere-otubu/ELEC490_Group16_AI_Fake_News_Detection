@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep hygiene
-TITLE: Sleep Training.
-PMID: 32155274
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32155274/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Adequate sleep in infancy and beyond is important for development; however, many children are not sleeping the recommended amount. During the first few years of childhood, infants are frequently seen in the pediatric office for well-visits and a myriad of other concerns, including sleep difficulties. As such, pediatricians should be adequately prepared to address these concerns. This article aims to provide clinicians with a basic knowledge of sleep physiology, sleep patterns and development, and current guidelines and options available for parents to address these issues. [Pediatr Ann. 2020;49(3):e101-e105.].

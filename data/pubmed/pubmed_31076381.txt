@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep hygiene
-TITLE: What does sleep hygiene have to offer children's sleep problems?
-PMID: 31076381
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31076381/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sleep hygiene practices have been described extensively in the literature. There is considerably less clarity about relationships between particular elements of sleep hygiene and particular sleep outcomes, and which intervention approaches using sleep hygiene principles are effective. In this review, we describe themes extracted from a systematic review of the sleep hygiene literature. We systematically searched Psycinfo, CINAHL, Cochrane, Ovid Medline, Embase, and Web of Science Search Engines up to August, 2017. We included all studies that associated sleep hygiene (behaviors adjacent to bedtime and during the night) with sleep duration and/or sleep onset latency and/or night waking or that used sleep-hygiene based interventions to improve sleep duration and/or sleep onset latency and/or night waking (n = 44). We organized our findings into themes by age group, sleep hygiene factors, and interventions. We provide evidence-based recommendations about areas of sleep hygiene that have significant empirical support and those that require urgent attention.

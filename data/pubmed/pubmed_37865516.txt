@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pacemakers
-TITLE: Leadless Pacemakers in Patients with Congenital Heart Disease.
-PMID: 37865516
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37865516/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Transcatheter leadless pacemakers have benefits in congenital heart disease because they eliminate the risks of lead malfunction, venous occlusions, and pocket complications. This newest pacemaker's utility in this population has been limited by the large sheath and delivery system, need for atrioventricular synchronous pacing, lack of explantation options, and possible lack of adequate access to the subpulmonary ventricle. With careful planning, leadless pacing can be successfully performed in these patients. Consideration of nonfemoral access, alternative implant sites to avoid myocardial scar or prosthetic material, anticoagulation for patients with persistent intracardiac shunts or systemic ventricular implantation, and operator experience are critical.

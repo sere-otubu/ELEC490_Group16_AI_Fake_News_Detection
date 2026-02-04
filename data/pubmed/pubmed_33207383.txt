@@ -1,8 +1,0 @@
-SEARCH_TOPIC: LASIK surgery
-TITLE: [SMILE - Small Incision Lenticule Extraction].
-PMID: 33207383
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33207383/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Refractive lenticule extraction is a corneal surgical technique that uses a femtosecond laser exclusively to create an intrastromal refractive lenticule for the correction of myopia and myopic astigmatism. In small incision lenticule extraction (SMILE) the generated refractive lenticule is subsequently extracted through a small incision. The reported efficacy, predictability and safety of the flap-less SMILE procedure is similar to those of femtosecond laser in situ keratomileusis (LASIK). Advantages of SMILE over LASIK include less iatrogenic dry eye, fewer induced higher-order aberrations, and potentially less biomechanical weakening of the cornea. However, there is a steeper surgeon learning curve for SMILE as the procedure is technically more challenging than LASIK. Furthermore, the current SMILE laser platform cannot use cyclotorsion control or eye-tracking technology and retreatment options are more complex compared to LASIK. This review looks at patient selection, surgical method, possible complications, retreatment options, and postoperative outcome of the SMILE technique.

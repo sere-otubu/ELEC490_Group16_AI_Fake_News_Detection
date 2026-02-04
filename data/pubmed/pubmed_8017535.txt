@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 8017535)
-    QUESTION: Substance use and HIV-related sexual behaviors among US high school students: are they related?
-    CONTEXT: This study was undertaken to examine whether use of alcohol, cigarettes, marijuana, cocaine, and other illicit drugs is related to the likelihood of sexual behaviors that increase risk for human immunodeficiency virus (HIV) infection among youth.
-    ANSWER: HIV prevention programs for youth should recognize that substance use may be an important indicator of risk for HIV infection and acquired immunodeficiency syndrome through its association with unsafe sexual behaviors.
-    

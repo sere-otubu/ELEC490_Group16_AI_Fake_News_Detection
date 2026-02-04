@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urinary tract infection
-TITLE: Neurogenic urinary tract infection.
-PMID: 1921956
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1921956/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Even though renal failure secondary to the urologic complications of chronic or recurrent urinary tract infection has decreased markedly due to advances in diagnostic, preventive, and therapeutic measures, infection and its sequelae continue to be major problems in patients with spinal cord injury regardless of the bladder emptying method employed. Although lower urinary tract complications have decreased with intermittent catheterization, the effects of increased intravesicular pressure, inflammation, and chronic bacterial colonization or invasion of the urinary tract on long-term renal function are still undetermined. Thorough evaluation of the urologic status on a regular basis in all patients with spinal cord injury is encouraged. Treatment of urinary tract infection should be guided by scientific data and drug susceptibilities of etiologic bacteria. The general consensus is that the presence of asymptomatic bacteriuria, particularly in the absence of pyuria, usually does not warrant antibiotic treatment, and that prophylaxis or suppression of infection with systemic antibiotics is not effective for any considerable length of time. Preservation of renal function is the ultimate goal of all bladder management strategies.

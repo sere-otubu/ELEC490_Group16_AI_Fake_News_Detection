@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immune response
-TITLE: Immune response and protection against Lawsonia intracellularis infections in pigs.
-PMID: 31710909
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31710909/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Lawsonia intracellularis are Gram-negative, obligate intracellular bacteria that cause proliferative enteropathy (PE), an economically important disease for the pig industry. Numerous reviews have been published on the characteristics and pathogenesis of this bacterium since its isolation and taxonomic characterization, with most reviews only partially covering how the host immune response develops during infection and the immune correlates of protection. With the development of increasingly more sophisticated immunological assays and tools for the pig, the immune response against L. intracellularis at distinct stages of pathogenesis has been published. In this review, we discuss current knowledge of the pig immune response against L. intracellularis and strategies to achieve immune protection. The immune response is presented in relation to chronological progression of pathological lesions and clinical symptoms, with emphasis on innate immunity and the adaptive humoral and cell-mediated immune response. The aim is to achieve a comprehensive understanding of the host immune response with respect to the stage-dependent cellular and biochemical processes important during PE development. Also, strategies for development of immune protection and new vaccination technologies are discussed in the light of new discoveries in the field.

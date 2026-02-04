@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Processed foods
-TITLE: Ultra-Processed Foods and the Impact on Cardiometabolic Health: The Role of Diet Quality.
-PMID: 39610133
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39610133/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The consumption of ultra-processed foods (UPFs) has surged globally, raising significant public health concerns due to their associations with a range of adverse health outcomes. This review aims to elucidate potential health impacts of UPF intake and underscore the importance of considering diet quality when interpreting study findings. UPF group, as classified by the Nova system based on the extent of industrial processing, contains numerous individual food items with a wide spectrum of nutrient profiles, as well as differential quality as reflected by their potential health effects. The quality of a given food may well misalign with the processing levels so that a UPF food can be nutritious and healthful whereas a non-UPF food can be of low quality and excess intake of which may lead to adverse health consequences. The current review argues that it is critical to focus on the nutritional content and quality of foods and their role within the overall dietary pattern rather than only the level of processing. Further research should dissect health effects of diet quality and food processing, investigate the health impacts of ingredients that render the UPF categorization, understand roles of metabolomics and the gut microbiome in mediating and modulating the health effects of food processing, and consider environmental sustainability in UPF studies. Emphasizing nutrient-dense healthful foods and dietary patterns shall remain the pivotal strategy for promoting overall health and preventing chronic diseases.

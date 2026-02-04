@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24014276)
-    QUESTION: Optimism and survival: does an optimistic outlook predict better survival at advanced ages?
-    CONTEXT: Studies examining predictors of survival among the oldest-old have primarily focused on objective measures, such as physical function and health status. Only a few studies have examined the effect of personality traits on survival, such as optimism. The aim of this study was to examine whether an optimistic outlook predicts survival among the oldest-old.
-    ANSWER: An optimistic outlook appears to be a significant predictor of survival among the oldest-old women. It may also be a significant predictor for men but the sample size is small.
-    

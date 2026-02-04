@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ALS
-TITLE: The epidemiology of ALS: a conspiracy of genes, environment and time.
-PMID: 24126629
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24126629/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Amyotrophic lateral sclerosis (ALS) is a relentlessly progressive neurodegenerative disease of motor neurons, resulting in worsening weakness of voluntary muscles until death from respiratory failure occurs after about 3 years. Although great advances have been made in our understanding of the genetic causes of ALS, the contribution of environmental factors has been more difficult to assess. Large-scale studies of the clinical patterns of ALS, individual histories preceding the onset of ALS, and the rates of ALS in different populations and groups have led to improved patient care, but have not yet revealed a replicable, definitive environmental risk factor. In this Review, we outline what is currently known of the environmental and genetic epidemiology of ALS, describe the current state of the art with respect to the different types of ALS, and explore whether ALS should be considered a single disease or a syndrome. We examine the relationship between genetic and environmental risk factors, and propose a disease model in which ALS is considered to be the result of environmental risks and time acting on a pre-existing genetic load, followed by an automatic, self-perpetuating decline to death.

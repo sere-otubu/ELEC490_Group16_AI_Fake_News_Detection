@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Post operative care
-TITLE: Pre and post-operative treatments for prevention of atrial fibrillation after cardiac surgery.
-PMID: 23106292
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23106292/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Post-operative atrial fibrillation (AF) occurs in up to 40% of cardiac surgery patients and represents the most common post-operative arrhythmic complication. Post-operative AF is associated with impaired cardiac hemodynamics, increased incidence of serious complications (e.g. heart failure, stroke), prolonged hospitalization and increased healthcare costs. Therefore, treatment of post-operative AF would decrease health-care costs during hospitalization and improve the prognosis of patients following cardiovascular surgery. Current consensus guidelines recommend β-blockers, amiodarone and sotalol for post-operative AF prophylaxis. However, new pharmacological agents have been associated with a reduction in post-operative AF frequency, including inhibition of the renin angiotensin aldosterone system (RAAS) using angiotensin-converting enzyme inhibitors (ACEIs) and angiotensin receptor blockers (ARBs), statins, antioxidant agents, magnesium supplementation and antiarrhythmic drugs. The aim of this review is to analyse and determine the efficiency of existing therapies in the reduction of post-operative AF development.

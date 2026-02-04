@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Multivitamins
-TITLE: Nutrition: Micronutrients.
-PMID: 38648170
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38648170/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Micronutrients are nutrients the body needs in small quantities, such as vitamins and minerals. Micronutrient deficiencies can occur when an individual is restricting calorie intake for weight loss or management, not consuming an adequate amount of food to meet energy requirements due to poor appetite or illness, eliminating one or more food groups from the diet on a regular basis, or consuming a diet low in micronutrient-rich foods despite adequate or excessive energy intake. Patient groups at risk include older adults, pregnant patients, patients with alcohol use disorder, patients with vegetarian or vegan diets, and patients with increased requirements secondary to medical conditions or long-term drug use that alters nutrient absorption, metabolism, or excretion. The micronutrients that most commonly require supplementation are vitamin D, iron, vitamin A, zinc, folate, and iodine. Results of large-scale randomized trials have shown no overall benefit of multivitamins for the majority of patients. However, a daily multivitamin may be beneficial, particularly for patients who do not consistently consume a well-balanced diet. Although dietary supplements can be helpful in correcting deficiencies, higher than recommended doses can cause adverse effects. Patients should be advised to take recommended dosages of supplements and consult their physician if they notice any adverse effects. Physicians should advise patients to consult drug labels and/or pharmacists about potential supplement interactions with drugs or other supplements.

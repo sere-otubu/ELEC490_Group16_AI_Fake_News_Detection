@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hearing aids
-TITLE: Understanding the low uptake of bone-anchored hearing aids: a review.
-PMID: 28124627
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28124627/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Bone-anchored hearing aids improve hearing for patients for whom conventional behind-the-ear aids are problematic. However, uptake of bone-anchored hearing aids is low and it is important to understand why this is the case. A narrative review was conducted. Studies examining why people accept or decline bone-anchored hearing aids and satisfaction levels of people with bone-anchored hearing aids were reviewed. Reasons for declining bone-anchored hearing aids included limited perceived benefits, concerns about surgery, aesthetic concerns and treatment cost. No studies providing in-depth analysis of the reasons for declining or accepting bone-anchored hearing aids were identified. Studies of patient satisfaction showed that most participants reported benefits with bone-anchored hearing aids. However, most studies used cross-sectional and/or retrospective designs and only included people with bone-anchored hearing aids. Important avenues for further research are in-depth qualitative research designed to fully understand the decision-making process for bone-anchored hearing aids and rigorous quantitative research comparing satisfaction of people who receive bone-anchored hearing aids with those who receive alternative (or no) treatments.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mindful eating
-TITLE: Mindful eating: what we know so far.
-PMID: 36045097
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36045097/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Mindful eating is increasingly being used to try to promote healthy eating and weight management. However, the term refers to a diverse set of practices that could have quite different effects on behaviour. This narrative review provides a guide to the concept of mindful eating as well as a comprehensive overview of research in the area. This includes the ways in which mindful eating has been operationalised and measured as well as evidence for effects and potential mechanisms of action. The research reviewed suggests that multi-component mindfulness-based interventions may be beneficial for disordered eating and weight management, but it is unclear whether these benefits exceed those obtained by alternative treatments. Some studies suggest that specific mindful eating strategies may have immediate effects on eating, but more research is needed to reach any definitive conclusions. These studies also suggest that effects may vary depending on the characteristics of the individual and/or the specific eating context. As such, research may ultimately point towards a more personalised approach to the application of mindful eating in order to maximise benefits. Finally, mindful eating interventions for children represent a relatively new area of research and there is currently insufficient evidence to draw any firm conclusions about their value. To advance both our understanding and effective application of mindful eating, more experimental research with high levels of methodological rigour is needed as well as research that explores underpinning mechanisms of action.

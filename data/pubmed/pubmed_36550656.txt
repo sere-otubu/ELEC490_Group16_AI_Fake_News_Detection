@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Appendicitis
-TITLE: Hyponatremia As A Marker Of Complicated Appendicitis.
-PMID: 36550656
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36550656/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The most frequent cause of paediatric acute abdomen is acute appendicitis. If acute appendicitis is not treated promptly, one third of cases progress to complicated appendicitis. Complicated appendicitis is associated with significant morbidity and its management protocol differs significantly from that of uncomplicated appendicitis. In this study, we assessed the relationship between serum sodium levels and complicated appendicitis. We conducted a prospective observational study from July to December 2020 at the Department of Neonatal and Paediatric Surgery, The Children Hospital, Pakistan Institute of Medical Sciences, Islamabad, on a sample size of 140 patients who met inclusion and exclusion criteria. For this study, we divided the patients into two groups. Group 1 had uncomplicated appendicitis and Group 2 had complicated appendicitis. These findings were then compared to preoperative serum sodium (Na) levels. The median serum sodium level in group 1 (uncomplicated appendicitis) was 137.81 mg/dl, while in group 2 it was 131.35 mg/dl (Complicated Appendicitis). The sensitivity and specificity of serum sodium levels at a cut-off point of less than 135 mg/dl were 84.80% and 89.40%, respectively. Hyponatremia is currently thought to be a new marker for differentiating between complicated and uncomplicated appendicitis. It is a low-cost, high efficiency predictive marker for diagnosing and differentiating complicated appendicitis in children.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Self harm
-TITLE: Self-harm and ethnicity: A systematic review.
-PMID: 25783961
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25783961/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review will focus on the rates, clinical characteristics, risk factors and methods of self-harm and suicide in different ethnic groups in the United Kingdom, providing an update synthesis of recent literature. Studies that met the inclusion criteria between 2003 and 2013 were reviewed using the following databases: MEDLINE, PsycINFO, EMBASE and CINAHL. The methodological quality of each study was then assessed using a structured scoring system. A total of 2,362 articles were retrieved, 10 of which matched the inclusion criteria were reviewed. Significant differences were found in the rates of self-harm between ethnic groups with Asian males being least likely to self-harm and Black females being most likely to self-harm. Also, Black and South Asian people were less likely to repeat self-harm. Factors that may help protect or predispose individuals to self-harm or attempt suicide (such as religion, mental health and coping styles) also differ between ethnic groups. There are clear ethnic differences in self-harm and suicide, which may be affected by factors such as cultural pressures and prevalence of mental illness. An awareness of these differences is vital to help prevent further attempts of self-harm and suicide. Further research into differences between ethnic and cultural groups and self-harm continues to be important.

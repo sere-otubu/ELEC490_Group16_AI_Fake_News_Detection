@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ADHD
-TITLE: [ADHD in Adults and Comorbid Substance Use Disorder: Prevalence, Clinical Diagnostics and Integrated Therapy].
-PMID: 28645126
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28645126/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Substance use disorders (SUD) are one of the most frequent mental disorders among adults. Attention-Deficit/Hyperactivity-Disorder (ADHD) is one of the most common mental health issues in childhood and adolescence, often persisting in adulthood. ADHD in childhood and adolescence is a robust predictor of tobacco, alcohol and illicit substance use in adulthood. Prevalence of comorbid ADHD in SUD patients is high. Nearly one quarter of these patients fulfill the DSM IV criteria for ADHD. Integrated concepts for treatment of SUD and ADHD are needed, but rare up to now. The aim of this review is to present and discuss recent scientific literature on the topic SUD and ADHD among adults and show its implications for clinical diagnostics and treatment.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Whey protein
-TITLE: Use of whey protein as a natural polymer for the encapsulation of plant biocontrol bacteria: A review.
-PMID: 36806771
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36806771/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Climate changes, drought, the salinity of water and soil, the emergence of new breeds of pests and pathogens, the industrialization of countries, and environmental contamination are among the factors limiting the production of agricultural products. The use of chemicals (in the form of fertilizers, pesticides and fungicides) to enhance products against biotic and abiotic stresses has limitations. To eliminate the effects of agricultural chemicals, synthetic agrochemicals should be replaced with natural substances and useful microorganisms. To be more effective and efficient, plant biocontrol bacteria need a coating layer around themselves to protect them from adverse conditions. Whey protein, a valuable by-product of the cheese industry, is one of the important natural polymers. Due to its high protein content, safety, and biodegradability, whey can have many applications in agriculture and encapsulation of bacteria to resist pests and plant diseases. This compound is a rich source of amino acids that can activate plant defense systems and defense enzymes. Considering the amazing potentialities of formulation whey protein, this review attends to the efficiency of whey protein as coating layers on fruit and vegetables and in the packaging system to increase the shelf life of agricultural products against phytopathogens.

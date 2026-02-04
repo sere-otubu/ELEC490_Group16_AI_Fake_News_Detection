@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Surgery preparation
-TITLE: At Home Preresidency Preparation for General Surgery Internship: A Pilot Study.
-PMID: 28666958
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28666958/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To create a novel "at-home" preresidency preparatory adjunct for medical students entering surgical residency. Preparatory resources were mailed to match medical students before residency matriculation in 2015. This included "how-to" videos, low-cost models, and surgical instruments for 5 "stations" (arterial blood gas analysis, anatomy and imaging knowledge, knot tying ability, and suturing dexterity) of our program's biannual general surgery intern objective assessment activity (Surgical Olympics: total 13 stations, 10 points each). Scores from 2015 were compared with 2014 historical controls in a retrospective manner using the Student's t-test. Academic, tertiary care referral center with a large general surgery training program. Postgraduate year 1 general surgery trainees (interns) from the years 2014 and 2015. Twenty-six interns participated in the 2015 assessment and were compared to thirty-two 2014 interns. Overall mean scores were low, but higher (19.7 vs. 15.4, p = 0.04) in the 2015 class. The largest increase was noted in the anatomy knowledge station (mean = 5.0 vs. 1.9, p < 0.01). Scores in stations assessing technical competence were similar to controls. The number of perfect scores among the 5 stations was higher (10 vs. 5) in the 2015 group. Mean scores from the other 8 stations, for which no resources were mailed, showed no difference (29.3 vs. 28.3, p = 0.75). Enacting a simple, home-based curriculum for medical students before surgical residency, improved performance on early knowledge assessments.

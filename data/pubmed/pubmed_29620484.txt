@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Proton pump inhibitors
-TITLE: Proton pump inhibitors: from CYP2C19 pharmacogenetics to precision medicine.
-PMID: 29620484
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29620484/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Proton Pump inhibitors (PPIs) are commonly used for a variety of acid related disorders. Despite the overall effectiveness and safety profile of PPIs, some patients do not respond adequately or develop treatment related adverse events. This variable response among patients is in part due to genotype variability of CYP2C19, the gene encoding the CYP450 (CYP2C19) isoenzyme responsible for PPIs metabolism. Areas covered: This article provides an overview of the pharmacokinetics and mechanism of action of the currently available PPIs, including the magnitude of CYPC19 contribution to their metabolism. Additionally, the role of CYP2C19 genetic variability in the therapeutic effectiveness or outcomes of PPI therapy is highlighted in details, to provide supporting evidence for the potential value of CYP2C19 genotype-guided approaches to PPI drug therapy. Expert opinion: There is a large body of evidence describing the impact of CYP2C19 variability on PPIs and its potential role in individualizing PPI therapy, yet, CYP2C19 pharmacogenetics has not been widely implemented into clinical practice. More data are needed but CYP2C19 genotype-guided dosing of PPIs is likely to become increasingly common and is expected to improve clinical outcomes, and minimize side effects related to PPIs.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gallstones
-TITLE: "Is percutaneous extraction of gallstones safe and effective in high-risk patients? Evidence from a systematic review".
-PMID: 35606261
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35606261/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gallstone disease in high-risk patients presents a management dilemma as cholecystectomy is often not performed due to their co-morbidities. Alternatively, such patients can be managed by percutaneous removal of gallstones. To date, there is paucity of high-quality evidence addressing the safety and efficacy of percutaneous cholecystolithotomy in high-risk patients. We aimed to conduct a systematic review on the feasibility of percutaneous gallstone removal in high-risk patients. A literature review was conducted using the Cochrane review and preferred reporting items for systematic reviews and meta-analyses (PRISMA) guidelines without setting the time limits to assess the outcomes of percutaneous gallstone removal in high-risk patients. Twelve studies were identified. A total of 435 patients underwent percutaneous gallstone removal. Success rate was 91%. Overall complications (including minor and major) were 28%. The mean length of stay was 7 days (range, 1-80). Procedure related mortality was 0.7%. The recurrence rate was 7%. Percutaneous cholecystolithotomy is a safe and effective technique. Although, it cannot substitute the current standard treatment for gallstones i.e., laparoscopic cholecystectomy. However, it may be considered for the patients who cannot undergo laparoscopic cholecystectomy due to their comorbid conditions.

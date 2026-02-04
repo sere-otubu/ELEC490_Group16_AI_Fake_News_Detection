@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep paralysis
-TITLE: REM sleep, REM parasomnias, REM sleep behaviour disorder.
-PMID: 35819343
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35819343/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-We review the literature on REM parasomnias, and their the underlying mechanisms. Several REM parasomnias are consistent with sleep dissociations, where certain elements of the REM sleep pattern emerge in an inadequate time (sleep paralysis, hypnagogic hallucinations and cataplexy) or are absent/partial in their normal REM sleep time (REM sleep without atonia, underlying REM sleep behavior disorder). The rest of REM parasomnias (sleep related painful erection, catathrenia) may have other still unclear mechanisms. REM parasomnias deserve attention, because in addition to disturbing sleep and causing injuries, they may shed light on REM sleep functions as well as the heterogeneous etiologies of parasomnias. One of them, REM sleep behavior disorder has special importance as a warning sign of evolving neurodegenerative conditions mainly synucleinopathies (some cases synucleinopathies themselves) and it is a model parasomnia revealing that parasomnias may have by autoimmune, iatrogenic and even psychosomatic etiologies.

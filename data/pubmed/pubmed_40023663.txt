@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Melanoma
-TITLE: Decoding melanoma's cellular mosaic to unlock immunotherapy potential.
-PMID: 40023663
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40023663/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cancer evolution is driven by molecular events within cancer cells and their complex interactions with surrounding cells. Intra-tumor heterogeneity - driven by somatic genetic mutations, epigenetic dysregulation, immune cell infiltration, and microenvironmental factors - complicates the identification of reliable biomarkers and therapeutic targets. Single-cell sequencing and spatial multiomics technologies are revolutionizing our comprehension of how each component of the cellular machinery and tissue architecture collaborates to propel cancer progression. Much like how the restoration and interpretation of Pompeii mosaics have enriched our understanding of ancient Roman life, unraveling the intricate mosaic of cancer will transform the way this disease is diagnosed and treated. This review describes how the advent of single-cell multiomics has provided crucial insights into cutaneous melanoma biology and the mechanisms underlying resistance to immunotherapy.

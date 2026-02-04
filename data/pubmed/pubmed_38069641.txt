@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep hygiene
-TITLE: The Updating and Individualizing of Sleep Hygiene Rules for Non-clinical Adult Populations.
-PMID: 38069641
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38069641/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sleep hygiene is essential for the prevention of somatic and mental disorders, including the prevention of sleep disorders. However, it does not typically address individual differences. The aim of this review is threefold: first, to outline the empirical evidence for particular components of sleep hygiene rules; second, to indicate the importance of individualized sleep hygiene application with regard to the varying degree of validity of sleep hygiene rules in the population; third, to highlight a new field of sleep hygiene, namely light hygiene. PubMed and Google Scholar were used to identify studies that were published between 2007 and 2022. A search was conducted for studies related to sleeping rules topics: sleep regularity, regular exercise, alcohol, caffeine, napping, relaxation and meditation, food intake and light exposure. In applying these sleep hygiene principles, it is essential to pay attention to individual variables such as age, genetic predisposition, health status, and substance (caffeine, alcohol) possible dependence.

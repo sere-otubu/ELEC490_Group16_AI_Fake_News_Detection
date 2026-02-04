@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antibiotic resistance
-TITLE: Antibiotic resistance in wild birds.
-PMID: 24697355
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24697355/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Wild birds have been postulated as sentinels, reservoirs, and potential spreaders of antibiotic resistance. Antibiotic-resistant bacteria have been isolated from a multitude of wild bird species. Several studies strongly indicate transmission of resistant bacteria from human rest products to wild birds. There is evidence suggesting that wild birds can spread resistant bacteria through migration and that resistant bacteria can be transmitted from birds to humans and vice versa. Through further studies of the spatial and temporal distribution of resistant bacteria in wild birds, we can better assess their role and thereby help to mitigate the increasing global problem of antibiotic resistance.

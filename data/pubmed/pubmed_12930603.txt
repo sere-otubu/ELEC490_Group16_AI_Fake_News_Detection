@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hyperthyroidism
-TITLE: Hyperthyroidism, bone mineral, and fracture risk--a meta-analysis.
-PMID: 12930603
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12930603/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This study examined changes in bone mineral and fracture risk after treatment for hyperthyroidism in a meta-analysis. The PubMed and EMBASE were searched using the MESH terms "hyperthyroidism," "bone mineral density" (BMD), and "fracture," resulting in retrieval of 289 references. Twenty references describing BMD and five describing fracture risk were included in the meta-analysis. BMD was significantly decreased in patients with untreated hyperthyroidism. Upon treatment BMD increased significantly and reversed to normal levels with a temporary increase above normal levels 1-4 years after diagnosis. The risk of hip fractures increased significantly with age at diagnosis of hyperthyroidism. The hip fracture risk after diagnosis predicted from studies on BMD was close to that observed in clinical studies comparing fracture risk in hyperthyroid patients with normal controls. Thus BMD is significantly decreased and fracture risk increased in untreated hyperthyroidism. Upon normalization of the hyperthyroid state BMD return to normal even though no specific antiosteoporotic measures are taken other than normalizing the hyperthyroid state.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Diuretics
-TITLE: Combinational Diuretics in Heart Failure.
-PMID: 38589570
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38589570/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Diuretics are the cornerstone therapy for acute heart failure (HF) and congestion. Patients chronically exposed to loop diuretics may develop diuretic resistance as a consequence of nephron remodelling, and the combination of diuretics will be necessary to improve diuretic response and achieve decongestion. This review integrates data from recent research and offers a practical approach to current pharmacologic therapies to manage congestion in HF with a focus on combinational therapy. Until recently, combined diuretic treatment was based on observational studies and expert opinion. Recent evidence from clinical trials has shown that combined diuretic treatment can be started earlier without escalating the doses of loop diuretics with an adequate safety profile. Diuretic combination is a promising strategy for overcoming diuretic resistance in HF. Further studies aiming to get more insights into the pathophysiology of diuretic resistance and large clinical trials confirming the safety and efficacy over standard diuretics regimens are warranted.

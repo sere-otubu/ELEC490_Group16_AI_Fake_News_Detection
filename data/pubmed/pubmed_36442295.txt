@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Carpal tunnel syndrome
-TITLE: Carpal tunnel mechanics and its relevance to carpal tunnel syndrome.
-PMID: 36442295
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36442295/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The carpal tunnel is an elaborate biomechanical structure whose pathomechanics plays an essential role in the development of carpal tunnel syndrome. The purpose of this article is to review the movement related biomechanics of the carpal tunnel together with its anatomical and morphological features, and to describe the pathomechanics and pathophysiology associated with carpal tunnel syndrome. Topics of discussion include biomechanics of the median nerve, flexor tendons, subsynovial tissue, transverse carpal ligament, carpal tunnel pressure, and morphological properties, as well as mechanisms for biomechanical improvement and physiological restoration. It is our hope that the biomechanical knowledge of the carpal tunnel will improve the understanding and management of carpal tunnel syndrome.

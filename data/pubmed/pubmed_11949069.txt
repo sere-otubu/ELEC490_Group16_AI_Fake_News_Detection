@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pineal gland
-TITLE: The pineal gland.
-PMID: 11949069
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11949069/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The pineal gland is located posterior to the midbrain and is the site of melatonin production. Research on pineal gland function in neonates is very limited. This article will discuss pineal gland development and the possible relationship between melatonin production and sudden infant death syndrome. Further research on pineal gland function is needed in order to establish its significance for the neonate.

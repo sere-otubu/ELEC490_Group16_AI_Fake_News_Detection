@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Stroke
-TITLE: Infectious Causes of Stroke.
-PMID: 35093633
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35093633/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Stroke is one of the primary causes of mortality and morbidity worldwide. It can be ischemic or hemorrhagic, and the former can be due to an in-situ thrombus or a distant embolus. Despite being a rare cause, stroke can also be caused in the setting of infection. Bacterial agents are the most common cause of stroke, among other infectious agents. Until the antibiotic era, rheumatic heart disease was a predisposing risk factor of infective endocarditis. VZV is the most common cause of strokes in pediatric and adult populations. Cryptococcus and Candida spp are the most common yeasts involved in CNS infections, especially in immunocompromised patients. In COVID-19 patients, ischemic strokes are more common than hemorrhagic strokes. In this review, we will discuss the most common infectious agents, with particular emphasis on COVID-19.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: HPV vaccine
-TITLE: Addressing HPV vaccine myths: practical information for healthcare providers.
-PMID: 30676241
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30676241/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Human papillomavirus (HPV) vaccine uptake consistently lags behind that of other adolescent vaccines. In 2017, uptake of a single HPV vaccine dose and HPV vaccine series completion was 66% and 49%, respectively, compared to uptake of tetanus, diphtheria, and acellular pertussis vaccine (89%) and quadrivalent meningococcal conjugate vaccine (85%). Reasons for not vaccinating adolescents again HPV are varied, and in many cases, are rooted in commonly spread myths and misperceptions about the vaccine. In this review, we address five key myths - HPV vaccination is not effective at preventing cancer; Pap smears are sufficient to prevent cervical cancer; HPV vaccination is not safe; HPV vaccination is not needed since most infections are naturally cleared by the immune system; 11-12 years of age is too young to vaccinate. For each myth, we summarize the scientific evidence refuting the myth and provide speaking prompts for healthcare professionals to communicate about HPV vaccination.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tonsillitis
-TITLE: Adenotonsillar microbiome: an update.
-PMID: 29884749
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29884749/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Pathogenic bacteria associated with the adenoids and tonsils cause much morbidity in the paediatric population. Hyperplasia of the adenoids is associated with otitis media with effusion and hyperplasia of the palatine tonsils is associated with both recurrent tonsillitis and obstructive sleep apnoea. Most current knowledge of the microbiology of the upper airways has been derived from culture-based studies, which usually reflect only a small fraction of the bacteria present on the mucosal surface. Culture-independent molecular surveys based on 16S ribosomal RNA sequencing are now being employed to determine the microbiota on the surface and within the tissue of adenoids and palatine tonsils. This review describes the new techniques applied in determining the microbiome and summarises the results of studies employing these techniques.

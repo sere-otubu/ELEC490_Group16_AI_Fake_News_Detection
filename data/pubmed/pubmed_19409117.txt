@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19409117)
-    QUESTION: Can infundibular height predict the clearance of lower pole calyceal stone after extracorporeal shockwave lithotripsy?
-    CONTEXT: To evaluate the efficacy of extracorporeal shock wave lithotripsy (SWL) on lower calyceal calculi in relation to the renal anatomical factors and determine which of these factors can be used to select patients who will benefit from SWL.
-    ANSWER: Lower Infundibular height could be a good measurement tool for deciding which patients with lower calyceal lithiasis would benefit from SWL treatment. Height of less than 22 mm suggests a good outcome from lithotripsy.
-    

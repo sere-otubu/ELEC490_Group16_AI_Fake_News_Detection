@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pneumonia
-TITLE: [Pneumonia and pregnancy].
-PMID: 39893062
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39893062/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Acute community-acquired pneumonia (CAP) during pregnancy is a frequently encountered and potentially severe condition. CAP incidence and ecology are unchanged during pregnancy as compared with the overall young adult population. Risk factors specifically identified in pregnant women include advanced gestational age, asthma, anemia and repeated courses of corticosteroid therapy for fetal lung maturation. The clinical presentation of CAP is not altered during pregnancy. Key points in the pregnant host encompass: (i) reduced maternal tolerance to hypoxia, due to physiological adaptations during pregnancy; (ii) heightened severity of some infections, notably viral pneumonias such as influenza, varicella or SARS-CoV-2 pneumonia; (iii) potentially deleterious fetal repercussions of infection and maternal hypoxia, with an increased risk of premature delivery and prematurity; (iv) the need for specific attention to the risk of fetal irradiation in the performance of possibly repeated radiological examinations and (v) therapeutic specificities arising from the possible embryo-fetal toxicity of certain anti-infectious agents. CAP prevention is premised on compliance with universal hygiene measures and on vaccination, which guarantees protection against severe forms of pneumonia not only in the mother (Streptococcus pneumoniae, seasonal flu, chickenpox, COVID-19), but also in the child during the first few months of life (whooping cough, RSV).

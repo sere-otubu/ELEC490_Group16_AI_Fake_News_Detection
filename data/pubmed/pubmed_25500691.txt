@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood composition
-TITLE: What is new in the blood bank for trauma resuscitation.
-PMID: 25500691
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25500691/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The aim of the present review was to describe recent changes in blood banking thinking, practice, and products that affect trauma care. Prompt balanced hemostatic resuscitation of major hemorrhage from trauma improves outcome and reduces blood use. New blood processes and products can help deliver appropriate doses of procoagulant plasma and platelets quicker and more safely. New processes include holding larger inventories of thawed plasma with risk of wastage and rapid plasma thawers. New products in the blood bank include group A or group A low-titer B thawed plasma and AB or A liquid (never-frozen) plasma for resuscitation, prepooled cultured whole blood-derived platelets in plasma, and prepooled cryoprecipitate in varying pool sizes. Single-donor apheresis or pooled whole blood-derived platelets in additive solution, designed to reduce plasma-related transfusion reactions, are also increasingly available but are not an appropriate blood component for hemorrhage control resuscitation because they reduce the total amount of administered plasma coagulation factors by 10%. Early initiation of balanced massive transfusion protocols leading to hemostatic resuscitation is lifesaving. Changing blood product availability and composition will lead to higher complexity of massive transfusion. It is critical that anesthesiologists understand the composition of the available new blood products to use them correctly.

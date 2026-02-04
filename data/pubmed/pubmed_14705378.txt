@@ -1,8 +1,0 @@
-SEARCH_TOPIC: GERD
-TITLE: GERD pathogenesis, pathophysiology, and clinical manifestations.
-PMID: 14705378
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/14705378/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gastroesophageal reflux disease (GERD) is a specific clinical entity defined by the occurrence of gastroesophageal reflux through the lower esophageal sphincter (LES) into the esophagus or oropharynx to cause symptoms, injury to esophageal tissue, or both. The pathophysiology of GERD is complex and not completely understood. An abnormal LES pressure and increased reflux during transient LES relaxations are believed to be key etiologic factors. Prolonged exposure of the esophagus to acid is another. Heartburn and acid regurgitation are the most common symptoms of GERD, although pathologic reflux can result in a wide variety of clinical presentations. GERD is typically chronic, and while it is generally nonprogressive, some cases are associated with development of complications of increasing severity and significance.

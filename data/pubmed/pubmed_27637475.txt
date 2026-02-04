@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ebola virus
-TITLE: Ebola virus: A gap in drug design and discovery - experimental and computational perspective.
-PMID: 27637475
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27637475/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The Ebola virus, formally known as the Ebola hemorrhagic fever, is an acute viral syndrome causing sporadic outbreaks that have ravaged West Africa. Due to its extreme virulence and highly transmissible nature, Ebola has been classified as a category A bioweapon organism. Only recently have vaccine or drug regimens for the Ebola virus been developed, including Zmapp and peptides. In addition, existing drugs which have been repurposed toward anti-Ebola virus activity have been re-examined and are seen to be promising candidates toward combating Ebola. Drug development involving computational tools has been widely employed toward target-based drug design. Screening large libraries have greatly stimulated research toward effective anti-Ebola virus drug regimens. Current emphasis has been placed on the investigation of host proteins and druggable viral targets. There is a huge gap in the literature regarding guidelines in the discovery of Ebola virus inhibitors, which may be due to the lack of information on the Ebola drug targets, binding sites, and mechanism of action of the virus. This review focuses on Ebola virus inhibitors, drugs which could be repurposed to combat the Ebola virus, computational methods which study drug-target interactions as well as providing further insight into the mode of action of the Ebola virus.

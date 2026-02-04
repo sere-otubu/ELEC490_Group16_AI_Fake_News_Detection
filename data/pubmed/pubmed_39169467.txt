@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Social anxiety
-TITLE: Social anxiety, voice confrontation and voice recognition: A bilingual exploration.
-PMID: 39169467
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39169467/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Many people dislike the sound of their voices, especially when listening back to audio recordings (voice confrontation). Previous research reports that disliking the sound of one's voice is associated with elevated levels of social anxiety. The present study investigated the relationship between social anxiety and voice dislike and voice misrecognition among a bilingual population: Arabic (L1) and English (L2). Participants (N = 176) completed self-report measures of social anxiety and own voice liking. Additionally, they performed a novel own voice recognition task, assessing their ability to recognise a recording of their voice, differentiating it from digitally altered versions of the same recording. Social anxiety symptomatology was associated with disliking the sound of one's voice, with a larger effect for L1 than L2. Social anxiety was also associated with own voice misrecognition, but only for L1. Highly negative evaluations about the sound of one's voice may represent a vulnerability for social anxiety disorder.

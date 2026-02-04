@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rheumatoid arthritis
-TITLE: Rheumatoid arthritis pharmacogenomics.
-PMID: 20415547
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20415547/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rheumatoid arthritis is a highly heterogeneous disease in all its aspects, including response to therapy. During the last 10 years, we have seen evidence of the revolution of biological therapies in the treatment of rheumatoid arthritis. However, there is a substantial proportion of patients who do not respond efficiently to some of these therapies. One of the main aims for pharmacogenomics of rheumatoid arthritis for the next few years will be to accurately identify, from available therapies, which is the optimal therapy for any particular individual. The use of more powerful technologies together with the existence of large collections of samples and high-quality associated clinical data will be essential to reach this objective.

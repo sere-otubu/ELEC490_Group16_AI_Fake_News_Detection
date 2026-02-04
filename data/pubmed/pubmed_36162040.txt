@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vaccine types
-TITLE: Information systems for vaccine safety surveillance.
-PMID: 36162040
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36162040/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Immunization implementation in the community relies upon post-licensure vaccine safety surveillance to maintain safe vaccination programs and to detect rare AEFI not observed in clinical trials. The increasing availability of electronic health-care related data and correspondence from both health-related providers and internet-based media has revolutionized health-care information. Many and varied forms of health information related to adverse event following immunization (AEFI) are potentially suitable for vaccine safety surveillance. The utilization of these media ranges from more efficient use of electronic spontaneous reporting, automated solicited surveillance methods, screening various electronic health record types, and the utilization of natural language processing techniques to scan enormous amounts of internet-based data for AEFI mentions. Each of these surveillance types have advantages and disadvantages and are often complementary to each other. Most are "hypothesis generating," detecting potential safety signals, where some, such as vaccine safety datalinking, may also serve as "hypothesis testing" to help verify and investigate those potential signals.

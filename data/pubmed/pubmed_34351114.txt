@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vertigo
-TITLE: Vertigo Related to Central Nervous System Disorders.
-PMID: 34351114
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34351114/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This article provides an overview of the numerous causes of vertigo and dizziness that are due to central nervous system (CNS) pathology and guides clinicians in formulating a differential diagnosis and treating patients with CNS causes of vertigo. Specific autoimmune vestibulocerebellar syndromes may now be tested for, and this article discusses the antibodies known to cause such syndromes. Superficial siderosis can be more accurately diagnosed with imaging studies, and treatment using iron chelation has recently been studied but has not yet been established as an effective treatment. Central autonomic network damage in the brain can cause central orthostatic hypotension in some neurodegenerative diseases, and medication has been approved for treatment. CNS causes of vertigo are numerous and important for clinicians to recognize. Examination findings are still an extremely valuable way to diagnose central vertigo; therefore, learning how to differentiate central from peripheral vertigo based on examination is an important skill. CNS causes of vertigo often have available treatments.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Health insurance systems
-TITLE: National Health Insurance: A conceptual framework from conflicting typologies.
-PMID: 31151828
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31151828/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In the path to universal health coverage, policymakers discuss different alternative health system's financing schemes. Classical typologies have been posited, including models such as National Health Service, Social Health Insurance and Private Health Insurance. More recently, National Health Insurance (NHI) has been suggested as a separate model. Nevertheless, there are discrepancies regarding what defines an NHI model. The purpose of this article is to propose a comprehensive definition of an NHI model, aimed to disentangle the current discrepancies in the conceptualization and the scope of this type of arrangement. Based on the previous literature we identified some common characteristics across NHI definitions, namely universal coverage, pooling in a single fund and a purchasing function based on a single-payer financing mechanism. Areas of controversy were also identified. While some authors emphasized the importance of an effective separation between the purchaser and provider functions, others highlighted the relative importance of privately-owned provision to define a system like NHI-type. Based on empirical data, we suggest that the ownership is not a critical variable to distinguish an NHI from other models, and instead, suggest that a pivotal characteristic of the NHI is the single payer mechanism that is not integrated with the health providers.

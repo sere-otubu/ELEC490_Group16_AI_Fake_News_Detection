@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chickenpox
-TITLE: Nursing management of childhood chickenpox infection.
-PMID: 29219259
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29219259/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chickenpox is an extremely contagious infectious disease caused by varicella zoster virus (VZV). It is a common childhood illness characterised by an itchy vesicular rash and fever, which usually resolves spontaneously without medical intervention. Serious, and rarely fatal, complications can occur, including pneumonia, central nervous system infection, overwhelming secondary bacterial infections, especially with Group A streptococcus, and necrotising fasciitis. Therefore it is crucial that emergency department (ED) nurses can recognise the signs and symptoms that indicate deterioration. This article reviews best practice management of children with chickenpox, gives up-to-date guidance on the safe use of antipyretics, the avoidance of ibuprofen and discusses immunisation against VZV. It also includes implications for nursing practice and a case study that illustrates some of the challenges that ED nurses may encounter.

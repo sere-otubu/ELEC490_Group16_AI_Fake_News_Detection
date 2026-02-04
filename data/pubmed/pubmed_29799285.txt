@@ -1,8 +1,0 @@
-SEARCH_TOPIC: COPD
-TITLE: Rehabilitation of Patients with Coexisting COPD and Heart Failure.
-PMID: 29799285
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29799285/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chronic obstructive pulmonary disease (COPD) and chronic heart failure (CHF) frequently coexist, significantly reducing the patient's quality of life (QoL) and increasing morbidity, disability and mortality. For both diseases, a multidisciplinary disease-management approach offers the best outcomes and reduces hospital readmissions. In both conditions, muscle dysfunction may dramatically influence symptoms, exercise tolerance/performance, health status and healthcare costs. The present review describes muscular abnormalities and mechanisms underlying these alterations. This review also discusses studies on training programs for patients with COPD, CHF and, where available, combined COPD-CHF diagnosis. Dyspnea, peripheral muscles and activities of daily living (ADL) represent a potential starting point for improving patients' functioning level and quality of life in COPD and CHF. A synergy of the combined diagnostic, pharmacological and rehabilitation treatment interventions is also essential. Integration between exercise training, drug therapy and nutritional care could be a valid, synergic and tailored approach for patients presenting with both diseases, and may have a positive impact on the exercise performance.

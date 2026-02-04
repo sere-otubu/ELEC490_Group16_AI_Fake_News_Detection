@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 27989969)
-    QUESTION: Does the Simultaneous Use of a Neuroendoscope Influence the Incidence of Ventriculoperitoneal Shunt Infection?
-    CONTEXT: The relationship between the use of an endoscope during ventriculoperitoneal shunt (VPS) procedures and infection remains poorly defined. In this study, we sought to analyze whether the simultaneous use of an endoscope could in fact increase the infection rate associated with VPS procedures.
-    ANSWER: In the present study, the use of an endoscope during VPS procedures did not increase the risk of surgical infection.
-    

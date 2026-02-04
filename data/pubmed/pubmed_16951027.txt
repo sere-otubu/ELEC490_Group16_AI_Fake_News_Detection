@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lactose intolerance
-TITLE: Lactose intolerance in infants, children, and adolescents.
-PMID: 16951027
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16951027/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The American Academy of Pediatrics Committee on Nutrition presents an updated review of lactose intolerance in infants, children, and adolescents. Differences between primary, secondary, congenital, and developmental lactase deficiency that may result in lactose intolerance are discussed. Children with suspected lactose intolerance can be assessed clinically by dietary lactose elimination or by tests including noninvasive hydrogen breath testing or invasive intestinal biopsy determination of lactase (and other disaccharidase) concentrations. Treatment consists of use of lactase-treated dairy products or oral lactase supplementation, limitation of lactose-containing foods, or dairy elimination. The American Academy of Pediatrics supports use of dairy foods as an important source of calcium for bone mineral health and of other nutrients that facilitate growth in children and adolescents. If dairy products are eliminated, other dietary sources of calcium or calcium supplements need to be provided.

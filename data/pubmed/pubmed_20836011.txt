@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Intestines function
-TITLE: Gastrointestinal system.
-PMID: 20836011
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20836011/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The functions of the gastrointestinal (GI) tract include digestion, absorption, excretion, and protection. In this review, we focus on the electrical activity of the stomach and small intestine, which underlies the motility of these organs, and where the most detailed systems descriptions and computational models have been based to date. Much of this discussion is also applicable to the rest of the GI tract. This review covers four major spatial scales: cell, tissue, organ, and torso, and discusses the methods of investigation and the challenges associated with each. We begin by describing the origin of the electrical activity in the interstitial cells of Cajal, and its spread to smooth muscle cells. The spread of electrical activity through the stomach and small intestine is then described, followed by the resultant electrical and magnetic activity that may be recorded on the body surface. A number of common and highly symptomatic GI conditions involve abnormal electrical and/or motor activity, which are often termed functional disorders. In the last section of this review we address approaches being used to characterize and diagnose abnormalities in the electrical activity and how these might be applied in the clinical setting. The understanding of electrophysiology and motility of the GI system remains a challenging field, and the review discusses how biophysically based mathematical models can help to bridge gaps in our current knowledge, through integration of otherwise separate concepts.

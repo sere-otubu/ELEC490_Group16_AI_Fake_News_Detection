@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 20537205)
-    QUESTION: Is halofantrine ototoxic?
-    CONTEXT: Halofantrine is a newly developed antimalarial drug used for the treatment of Plasmodium falciparum malaria. The introduction of this drug has been delayed because of its possible side effects, and due to insufficient studies on adverse reactions in humans. There have been no studies investigating its effect on hearing.
-    ANSWER: Halofantrine has mild to moderate pathological effects on cochlea histology, and can be considered an ototoxic drug.
-    

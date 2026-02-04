@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Opioids risks
-TITLE: Clinical pharmacology of opioids for pain.
-PMID: 12479250
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12479250/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The pharmacological effects of the opioid analgesics are derived from their complex interactions with three opioid receptor types (mu, delta, and kappa; morphine is an agonist at the mu opioid receptor). These receptors are found in the periphery, at presynaptic and postsynaptic sites in the spinal cord dorsal horn, and in the brain stem, thalamus, and cortex, in what constitutes the ascending pain transmission system, as well as structures that comprise a descending inhibitory system that modulates pain at the level of the spinal cord. The cellular effects of opioids include a decrease in presynaptic transmitter release, hyperpolarization of postsynaptic elements, and disinhibition. The endogenous opioid peptides are part of an endogenous pain modulatory system. A number of opioids are available for clinical use, including morphine, hydromorphone, levorphanol, oxymorphone, methadone, meperidine, oxycodone, and fentanyl, and their advantages and disadvantages for the management of pain are discussed. An understanding of the pharmacokinetic properties, as well as issues related to opioid rotation, tolerance, dependence, and addiction are essential aspects of the clinical pharmacology of opioids for pain.

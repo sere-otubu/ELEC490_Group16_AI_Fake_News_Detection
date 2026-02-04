@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antihistamines
-TITLE: Non-H1-receptor effects of antihistamines.
-PMID: 10444211
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10444211/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Visit any international allergy meeting and you will soon learn that there are a plethora of very potent and effective histamine H1-receptor antagonists, or antihistamines as they are more often called. Thus, in order to make any particular antihistamine stand out therapeutically or commercially from the others, additional properties, e.g. anti-inflammatory properties, are often claimed. But are these claims valid and, if so, are the 'additional properties' clinically relevant? This document will review the evidence behind some of the 'additional properties' of antihistamines and lay the basis for discussion of their relevance.

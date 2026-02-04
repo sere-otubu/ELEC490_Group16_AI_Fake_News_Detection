@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Integumentary system
-TITLE: Functionalized extracellular vesicles of mesenchymal stem cells for regenerative medicine.
-PMID: 40102934
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40102934/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Stem cell-derived extracellular vesicles (EVs) have emerged as a safe and potent alternative to regenerative medicine in recent decades. Furthermore, the adjustment of EV functions has been recently enabled by certain stem cell preconditioning methods, providing an exceptional opportunity to enhance the therapeutic potential or confer additional functions of stem cell-derived EVs. In this review, we discuss the recent progress of functionalized EVs, based on stem cell preconditioning, for treating various organ systems, such as the musculoskeletal system, nervous system, integumentary system, cardiovascular system, renal system, and respiratory system. Additionally, we summarize the expected outcomes of preconditioning methods for stem cells and their EVs. With recent progress, we suggest considerations and future directions for developing personalized medicine based on preconditioned stem cell-derived EVs.

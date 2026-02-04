@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19822586)
-    QUESTION: Autoerotic asphyxiation: secret pleasure--lethal outcome?
-    CONTEXT: Voluntary asphyxiation among children, preteens, and adolescents by hanging or other means of inducing hypoxia/anoxia to enhance sexual excitement is not uncommon and can lead to unintended death. This study addresses autoerotic asphyxiation (AEA) with the intent of increasing pediatricians' knowledge of the syndrome and awareness of its typical onset among young patients. AEA is characteristically a clandestine and elusive practice. Provided with relevant information, pediatricians can identify the syndrome, demonstrate a willingness to discuss concerns about it, ameliorate distress, and possibly prevent a tragedy.
-    ANSWER: Pediatricians should be alert to the earliest manifestations of AEA. Awareness of choking games among the young and, of those, a subset who eventually progress to potentially fatal AEA is strongly encouraged among all primary care professionals who may be able to interrupt the behavior.
-    

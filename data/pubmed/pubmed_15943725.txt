@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 15943725)
-    QUESTION: Should serum pancreatic lipase replace serum amylase as a biomarker of acute pancreatitis?
-    CONTEXT: Serum pancreatic lipase may improve the diagnosis of pancreatitis compared to serum amylase. Both enzymes have been measured simultaneously at our hospital allowing for a comparison of their diagnostic accuracy.
-    ANSWER: It is concluded that serum pancreatic lipase is a more accurate biomarker of acute pancreatitis than serum amylase.
-    

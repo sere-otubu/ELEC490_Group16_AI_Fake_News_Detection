@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Aging population challenges
-TITLE: Global ageing: successes, challenges and opportunities.
-PMID: 32097073
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32097073/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The world's population is ageing rapidly, with significant increases in the numbers of the oldest old. This places great pressure on societies to adapt to this changing demography. Pertinent issues include provision of education and resource for long-term conditions. The priorities older people hold need to be fully understood and their contributions to society, often diverse and far-reaching, recognised with sincerity. Currently, health systems for older people can often feel reactive, fragmented and disjointed. These systems can harbour inequity and ageism, and leave both patients and health-care providers dissatisfied. Regarding the global context, the most rapidly ageing populations are in low- and middle-income countries. This partly reflects huge successes in the treatment and control of communicable diseases but gives rise to the challenge of the 'double burden', managing both communicable and non-communicable diseases simultaneously. Moreover, multimorbidity (suffering two or more chronic conditions) is commonplace and presents further challenges with regards to providing coordinated care. In order to harmonise effective and sustainable change, collaboration at local, national and international levels is key in order to foster a platform for learning and information sharing. Therein lies huge opportunities for countries to share their individual experiences, both past and present, to improve preparedness for global ageing.

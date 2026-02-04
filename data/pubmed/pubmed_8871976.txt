@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Narcolepsy
-TITLE: Narcolepsy.
-PMID: 8871976
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8871976/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Narcolepsy is among the leading causes of excessive daytime sleepiness and is the most common neurologic cause. Its classic form--narcolepsy with cataplexy--is a distinct neurologic disease with characteristic clinical and paraclinical findings. The history, epidemiology, clinical picture, pathophysiology, cause, diagnosis, and treatment, both pharmacologic and nonpharmacologic, are discussed in detail.

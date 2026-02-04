@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Nicotine dependence
-TITLE: Treating nicotine dependence.
-PMID: 14557731
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/14557731/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This article reviews the biology of nicotine addiction and the most effective treatments for nicotine dependence. Nicotine elevates dopamine levels in the brain, which is associated with drug reinforcement and dependence. Nicotine abuse leads to nicotine dependence. The most effective pharmacological adjuncts for treating nicotine dependence are nicotine replacement therapy and bupropion SR. When these are combined with behavioral counseling, the best treatment outcomes are observed.

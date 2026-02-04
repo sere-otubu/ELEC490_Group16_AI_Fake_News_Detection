@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Seasonal affective disorder
-TITLE: Seasonal affective disorder.
-PMID: 17111890
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17111890/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Patients with seasonal affective disorder have episodes of major depression that tend to recur during specific times of the year, usually in winter. Like major depression, seasonal affective disorder probably is underdiagnosed in primary care settings. Although several screening instruments are available, such screening is unlikely to lead to improved outcomes without personalized and detailed attention to individual symptoms. Physicians should be aware of comorbid factors that could signal a need for further assessment. Specifically, some emerging evidence suggests that seasonal affective disorder may be associated with alcoholism and attention-deficit/hyperactivity disorder. Seasonal affective disorder often can be treated with light therapy, which appears to have a low risk of adverse effects. Light therapy is more effective if administered in the morning. It remains unclear whether light is equivalent to drug therapy, whether drug therapy can augment the effects of light therapy, or whether cognitive behavior therapy is a better treatment choice.

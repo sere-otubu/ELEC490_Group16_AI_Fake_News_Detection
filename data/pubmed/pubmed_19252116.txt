@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Shingles
-TITLE: Herpes zoster (shingles) and postherpetic neuralgia.
-PMID: 19252116
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19252116/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Herpes zoster (HZ), commonly called shingles, is a distinctive syndrome caused by reactivation of varicella zoster virus (VZV). This reactivation occurs when immunity to VZV declines because of aging or immunosuppression. Herpes zoster can occur at any age but most commonly affects the elderly population. Postherpetic neuralgia (PHN), defined as pain persisting more than 3 months after the rash has healed, is a debilitating and difficult to manage consequence of HZ. The diagnosis of HZ is usually made clinically on the basis of the characteristic appearance of the rash. Early recognition and treatment can reduce acute symptoms and may also reduce PHN. A live, attenuated vaccine aimed at boosting immunity to VZV and reducing the risk of HZ is now available and is recommended for adults older than 60 years. The vaccine has been shown to reduce significantly the incidence of both HZ and PHN. The vaccine is well tolerated, with minor local injection site reactions being the most common adverse event. This review focuses on the clinical manifestations and treatment of HZ and PHN, as well as the appropriate use of the HZ vaccine.

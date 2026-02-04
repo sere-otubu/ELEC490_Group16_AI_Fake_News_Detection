@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Micronutrients
-TITLE: Micronutrients, genetics and COVID-19.
-PMID: 37144461
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37144461/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Marked inter-individual differences in the clinical manifestation of coronavirus disease 2019 (COVID-19) has initiated studies in the field of genetics. This review evaluates recent genetic evidence (predominantly in the last 18 months) related to micronutrients (vitamins and trace elements) and COVID-19. In patients infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), altered circulating levels of micronutrients may serve as prognostic markers of disease severity. Mendelian randomization (MR) studies did not find significant effect of variable genetically predicted levels of micronutrients on COVID-19 phenotypes, however, recent clinical studies on COVID-19 point out to vitamin D and zinc supplementation as a nutritional strategy to reduce disease severity and mortality. Recent evidence also points to variants in vitamin D receptor ( VDR ) gene, most notably rs2228570 (FokI) "f" allele and rs7975232 (ApaI) "aa" genotype as poor prognostic markers. Since several micronutrients were included in the COVID-19 therapy protocols, research in the field of nutrigenetics of micronutrients is in progress. Recent findings from MR studies prioritize genes involved in biological effect, such as the VDR gene, rather than micronutrient status in future research. Emerging evidence on nutrigenetic markers may improve patient stratification and inform nutritional strategies against severe COVID-19.

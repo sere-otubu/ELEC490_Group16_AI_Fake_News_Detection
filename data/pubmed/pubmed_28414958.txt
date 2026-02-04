@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cluster headaches
-TITLE: The reappearance of hemiplegic cluster headaches: A case report and review of the literature.
-PMID: 28414958
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28414958/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cluster headache (CH) is a rare and severe syndrome characterized by the recurrence of unilateral pain attacks, of short duration (15-180min), and associated with ipsilateral cranial autonomic symptoms. Although, not formally included in the International Classification of Headache Disorders, hemiplegic cluster headache (HCH) is an even more rare subtype of CH in which typical attacks can be accompanied by visual, sensory, and/or aphasic migrainous auras that have a variable propensity to evolve in reversible hemi-motor symptoms. After its first description in 2002, only few cases of HCH have been reported and many open questions about its prevalence and pathophysiology still need to be addressed. We describe a case of a 41-year old male that fulfilled the ICHD criteria for episodic CH who experienced atypical attacks characterized by concomitant acute onset of sensory aura, aphasia and hemi-motor symptoms. We also provide a concise review of the available literature and discuss the prevalence and the possible pathogenesis of CH with hemiplegic features.

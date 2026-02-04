@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Food safety guidelines
-TITLE: Food Safety Knowledge and Self-Reported Food-Handling Practices in Cancer Treatment.
-PMID: 30118447
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30118447/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To explore awareness of foodborne infection risk during chemotherapy treatment, to assess knowledge of risk-reducing food safety practices in patients with cancer and their family caregivers, and to determine self-reported food-handling practices. A convenience sample of 121 patients receiving chemotherapy and 51 family caregivers of patients receiving chemotherapy in the United Kingdom recruited in the community and using online advertising. Participants completed a self-report questionnaire to determine food safety knowledge and self-reported food-handling practices. Although patients receiving chemotherapy and family caregivers reported awareness of food safety practices, self-reported practices indicated that potentially unsafe practices may be used in relation to temperature control, handwashing, safe cooking, and adherence to use-by dates. Such practices may increase the risk of foodborne illness to patients receiving chemotherapy treatment. Nursing research is required to explore the food safety training and awareness of healthcare providers. Highly focused and specifically targeted food safety interventions need to be developed and delivered to increase awareness and to implement food safety practices.

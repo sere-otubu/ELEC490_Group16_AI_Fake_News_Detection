@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 11888773)
-    QUESTION: Stage I non-small cell lung carcinoma: really an early stage?
-    CONTEXT: We review our results on surgical treatment of patients with stage I non-small cell lung carcinoma and we attempted to clarify the prognostic significance of some surgical--pathologic variables.
-    ANSWER: Despite advances in early diagnosis and surgical technique, 5-year survival of stage I non-small cell lung carcinoma remains low as compared to survival of other solid organ neoplasm. Tumour size<or=3cm, adenocarcinoma histologic type and negative bronchial resection margins were associated with a more favourable outcome in our patient population. More effective multimodality treatments are needed to increase survival rates.
-    

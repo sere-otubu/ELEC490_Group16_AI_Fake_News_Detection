@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Social determinants of health
-TITLE: Back to Basics: Social Determinants of Health.
-PMID: 31246307
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31246307/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Social determinants of health (SDOH) are the conditions that people are born into and live under that affect their health. Nurses are responsible for addressing these determinants when possible. Perioperative nurses encounter the effects of SDOH when patients express concern about surgery scheduling times, transportation, child care, and other support-related issues during the perioperative period. Some SDOH are related to social identity (eg, race, ethnicity, sexual orientation) as a result of the oppression and discrimination that some groups experience. Perioperative nurses can establish trust with their patients by identifying their needs and partnering with community-based organizations to address some of those needs (eg, transportation, legal assistance), which may help relieve stress for their patients and promote better postsurgical outcomes. Although health care workers can assist individual patients to address the effects of SDOH on their health and life, policy change is needed to ensure long-term benefits.

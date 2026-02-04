@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Digestive system
-TITLE: Roles of Na<sup>+</sup>/Ca<sup>2+</sup> exchanger 1 in digestive system physiology and pathophysiology.
-PMID: 30686898
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30686898/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The Na<sup>+</sup>/Ca<sup>2+</sup> exchanger (NCX) protein family is a part of the cation/Ca<sup>2+</sup> exchanger superfamily and participates in the regulation of cellular Ca<sup>2+</sup> homeostasis. NCX1, the most important subtype in the NCX family, is expressed widely in various organs and tissues in mammals and plays an especially important role in the physiological and pathological processes of nerves and the cardiovascular system. In the past few years, the function of NCX1 in the digestive system has received increasing attention; NCX1 not only participates in the healing process of gastric ulcer and gastric mucosal injury but also mediates the development of digestive cancer, acute pancreatitis, and intestinal absorption. This review aims to explore the roles of NCX1 in digestive system physiology and pathophysiology in order to guide clinical treatments.

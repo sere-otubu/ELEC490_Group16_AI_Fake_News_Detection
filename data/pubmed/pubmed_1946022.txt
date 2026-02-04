@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dissociative disorders
-TITLE: Dissociative disorders in children and adolescents. A developmental perspective.
-PMID: 1946022
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1946022/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Childhood and adolescent dissociative disorders are being diagnosed increasingly by mental health professionals who work with traumatized children. The identification of these conditions is hampered by the high background level of normal dissociative behavior observed in children and adolescents. An awareness of the underlying developmental processes and issues can aid in the identification of pathologic dissociation.

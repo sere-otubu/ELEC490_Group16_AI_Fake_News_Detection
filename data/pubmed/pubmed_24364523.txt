@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vasectomy
-TITLE: Common questions about vasectomy.
-PMID: 24364523
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24364523/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Vasectomy offers a safe, effective, and permanent method of male contraception, with an overall failure rate of less than 1% in pooled studies. Men older than 30 years in a stable, committed relationship appear to be the best candidates for vasectomy. The no-scalpel technique reduces operative complications, shortens operative time, and hastens resumption of sexual activity. Use of a jet injector instead of a needle to provide local anesthesia (no-needle vasectomy) may reduce pain. Bleeding and infection are short-term complications of vasectomy; long-term complications include sperm granuloma and postvasectomy pain syndrome. One postvasectomy semen analysis demonstrating azoospermia performed after three months and 20 ejaculations is sufficient to establish sterility. Vasectomy reversal is more likely to be successful if performed less than 15 years after vasectomy and in men whose female partner is younger than 40 years.

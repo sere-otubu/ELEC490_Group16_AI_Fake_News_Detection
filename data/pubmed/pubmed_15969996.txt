@@ -1,8 +1,0 @@
-SEARCH_TOPIC: IVF procedure
-TITLE: GnRH antagonists in IVF.
-PMID: 15969996
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15969996/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The present review summarizes existing knowledge on the use of gonadotropin releasing hormone (GnRH) antagonists based on experience gathered after the completion of phase III comparative trials with GnRH agonists. Available data suggest that prolongation of the follicular phase significantly decreases the probability of pregnancy. Moreover, patients with elevated progesterone at initiation of stimulation have significantly fewer chances of achieving an ongoing pregnancy. Luteal support remains mandatory, while the replacement of human chorionic gonadotrophin by GnRH agonist does not appear to be feasible. Although not conclusive, existing data are not in favour of increasing the starting dose of gonadotrophins, of LH supplementation or of using a flexible antagonist protocol.

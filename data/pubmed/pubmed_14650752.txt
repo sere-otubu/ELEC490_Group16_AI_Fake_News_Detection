@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dialysis
-TITLE: [Prevention of malnutrition in peritoneal dialysis patients].
-PMID: 14650752
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/14650752/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Malnutrition is a frequent and serious problem for patients treated by peritoneal dialysis. Patients' survival depends on their nutritional status at the initiation of the dialysis treatment. Main malnutrition factors are inflammation, insufficient dialysis dose, peritoneal glucidic absorption and protein loss within the dialysate. These patients show a relationship between malnutrition, inflammation and cardiovascular diseases. To prevent malnutrition, it is necessary to reduce inflammation by improving dialysis solutions' biocompatibility and optimising the sodium regulation. The peritoneal membrane exposure to both glucose and its degradation products must also be reduced. In order to restrict protein losses, especially when peritoneal hyper permeability occurred, dialysis solutions containing amino acids can be used. Early dialysis treatment and a progressive increase of the dialysis dose corresponding to the decrease of the residual renal function can also be recommended.

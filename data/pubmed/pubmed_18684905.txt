@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Enzymes function
-TITLE: Function of neuromuscular synapses in the zebrafish choline-acetyltransferase mutant bajan.
-PMID: 18684905
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18684905/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-We have identified a zebrafish mutant line, bajan, in which compromised motility and fatigue result from a point mutation in the gene coding choline acetyltransferase (ChAT), the enzyme responsible for acetylcholine (ACh) synthesis. Although the mutation predicts loss of ChAT function, bajan inexplicably retains low levels of neuromuscular transmission. We exploited this residual activity and determined the consequences for synaptic function. The attenuated synaptic responses were a direct consequence of a decrease in both resting mean quantal size and quantal content. To replicate behavioral fatigue in swimming, motorneurons were stimulated at high frequencies. A prominent reduction in quantal content, reflecting vesicle depletion, was coincident with a small additional reduction in quantal size. In humans, defective ChAT leads to episodic apnea, a form of congenital myasthenic syndrome characterized by use-dependent fatigue. In contrast to bajan, however, afflicted individuals exhibit a normal resting quantal size and quantal content. The fatigue in humans results from a pronounced long-lasting drop in quantal size with little or no change in quantal content. These differences have important implications for interpreting fatigue as well as on understanding the impact of ACh availability on vesicle filling and recycling.

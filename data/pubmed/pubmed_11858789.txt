@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Health insurance systems
-TITLE: [The role of private insurance in public health care systems: conceptual framework and policies].
-PMID: 11858789
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11858789/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The structure of the health care system ans specifically the type and amount of the public and private mix is not a closed issue. This article provides and update of the arguments that justify public intervention in health, and emphasizes the failures of the private insurance market that call for mandatory universal health insurance, although that does not necessarily mean that state has to be the insurer. The relationship between both sectors and the variables determining the relative level of expenditure in both are also analyzed. Following the literature on the public provision of private goods, the level of expenditure in a democracy is seen to depend on the preferences of the median voter, where private insurance usually tops up public insurance. The key variable determining the decision to buy additional private insurance is the difference in quality, defined broadly, between both sectors. Concerning policies, the appropriateness of fiscal incentives to promote the uptake of private insurance is discussed and it is concluded that there is no clear evidence of its suitability. Also, it is argued that models in which the public and private sectors appear totally segregated or totally integrated are preferable to intermediate models, in which both sectors appear combined. Medical coverage bought by an informed agent in exchange for a capitation payment seems a better way to integrate the private sector than through a system of vouchers.

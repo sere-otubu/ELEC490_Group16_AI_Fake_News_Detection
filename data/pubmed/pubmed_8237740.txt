@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vasectomy
-TITLE: Complications of vasectomy.
-PMID: 8237740
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8237740/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Family physicians should be aware of the potential effects and complications of vasectomy so they can appropriately counsel patients seeking sterilization. Vasectomy produces anatomic, hormonal and immunologic changes and, although not substantiated by clinical studies, has been reputed to be associated with atherosclerosis, prostate cancer, testicular cancer and urolithiasis. Complications of vasectomy include overt failure, occasional sperm in the ejaculate, hematoma, bleeding, infection, sperm granuloma, congestive epididymitis, antisperm antibody formation and psychogenic impotence. Compared with tubal ligation, vasectomy has fewer serious complications and a comparable failure rate.

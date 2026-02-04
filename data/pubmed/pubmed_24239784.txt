@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Serotonin
-TITLE: Pharmacology of serotonin and female sexual behavior.
-PMID: 24239784
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24239784/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In this review, first a historical perspective of serotonin's (5-HT) involvement in female sexual behavior is presented. Then an overview of studies implicating 5-HT is presented. The effect of drugs that increase or decrease CNS levels of 5-HT is reviewed. Evidence is presented that drugs which increase 5-HT have negative effects on female sexual behavior while a decrease in 5-HT is associated with facilitation of sexual behavior. Studies with compounds that act on 5-HT₁, 5-HT₂ or 5-HT₃ receptors are discussed. Most evidence indicates that 5-HT₁A receptor agonists inhibit sexual behavior while 5-HT₂ or 5-HT₃ receptors may exert a positive influence. There is substantial evidence to support a role for 5-HT in the modulation of female consummatory sexual behavior, but studies on the role of 5-HT in other elements of female sexual behavior (e.g. desire, motivation, sexual appetite) are few. Future studies should be directed at determining if these additional components of female sexual behavior are also modulated by 5-HT.

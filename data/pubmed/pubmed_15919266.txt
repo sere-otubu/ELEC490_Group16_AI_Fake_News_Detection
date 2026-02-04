@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 15919266)
-    QUESTION: Adjuvant radiation of stage III thymoma: is it necessary?
-    CONTEXT: The criteria for administration of adjuvant radiation therapy after thymoma resection remains controversial, and it is unclear whether patients with Masaoka stage III thymoma benefit from adjuvant radiation. The goal of this report was to determine whether or not this group benefits from radiation therapy in disease-specific survival and disease-free survival.
-    ANSWER: Most patients who have stage III thymoma undergo complete resection. Some patients enjoy prolonged disease-free survival without adjuvant radiation after resection of stage III thymoma. Radiation does not seem to prevent pleural recurrences when given after resection of stage III thymomas. The use of routine adjuvant radiation after a complete resection of stage III thymoma needs to be re-addressed. There may be a role for the use of chemotherapy to reduce pleural recurrences.
-    

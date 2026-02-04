@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Panic disorder
-TITLE: Panic disorder: a biological perspective.
-PMID: 1638169
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1638169/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Panic disorder (PD) was first delineated as a separate diagnostic entity 25 years ago. It is a prevalent disorder that responds well to pharmacological interventions, most notably to antidepressants and benzodiazepines. PD and other psychiatric disorders, such as generalized anxiety disorder and major depression, overlap clinically, but it is unresolved whether they also overlap biologically. Finally, the pathogenesis of PD is still unclear. Theories linking panic to increased sensitivity to CO2 or serotonin are preliminary, while alpha 2-adrenergic dysregulation in panic is still unproven. However, the development of new, selective, receptor agonists and antagonists in combination with imaging techniques may produce some of the answers to the questions raised since.

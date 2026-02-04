@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antidepressants
-TITLE: [Antidepressants and Suicidality: A Contradiction?].
-PMID: 31136275
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31136275/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Antidepressants and Suicidality: A Contradiction? <b>Abstract.</b> In 2004, the European and American authorities released a black-box warning on antidepressants indicating an association with an increased risk of suicidality (suicidal ideation and behavior) in young people. Until today, this issue remained controversial. The present review gives an overview on the relationship between antidepressant therapy and the risk of suicide and suicidality, respectively: there is no evidence of an increased risk of suicide, but of an increased rate of suicidality during the first period after starting an antidepressant treatment in young patients. Importantly, this risk was not higher than before treatment initiation. However, an intensified supervision is needed especially during the first weeks of treatment. Finally, the risk posed by untreated depression is far greater than a risk associated with antidepressant treatment.

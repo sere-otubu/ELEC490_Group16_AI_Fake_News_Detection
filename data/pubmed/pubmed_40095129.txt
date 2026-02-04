@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Binge eating disorder
-TITLE: [Binge Eating Disorder-State of the art].
-PMID: 40095129
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40095129/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Eating disorders are complex mental disorders the prevalence of which has continued to increase, particularly since the coronavirus pandemic. Binge Eating Disorder has been newly included as a diagnosis in the Diagnostic and Statistical Manual of Mental disorders 5 (DSM-5) and the International Classification of Diseases 11th revision (ICD-11). We present a state of the art overview of diagnostic criteria, psychopathology, differential diagnostics, epidemiology, comorbidities, developmental and maintenance factors, treatment and care situation of binge eating disorder. A narrative review is provided. Binge eating disorder is characterized by recurrent binge eating with loss of control. It is the most common eating disorder in the general population and is often associated with overweight or obesity. Neurobiological models see changes in the areas of emotion regulation, reward processing and impulse control as etiological contributions to binge eating disorder. Psychotherapy is the treatment of choice for binge eating disorder, which often goes undetected and untreated. A reason for this is the experienced or feared stigmatization, shame and feelings of guilt of those affected. As the diagnosis of a binge eating disorder influences the choice of treatment and the prognosis of both the eating disorder and a potentially comorbid obesity, active clarification of the eating behavior and a possible eating disorder in the context of motivational interviewing is essential.

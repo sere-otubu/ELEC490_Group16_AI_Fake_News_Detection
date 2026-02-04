@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Global health initiatives
-TITLE: Ensuring justice in global health education initiatives - a review of pearls and pitfalls.
-PMID: 40552240
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40552240/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Global health education initiatives (GHEIs) include various educational programs and opportunities aimed at training a competent global and public health workforce to address major global health issues. Many GHEIs are led by institutions in high-income countries and fail to support the development of local educational capacities that would strengthen health systems and ensure a continuous supply of public health professionals. This analysis explores the barriers to equitable GHEIs, emphasizing the importance of justice-related aspects. Despite substantial investments in GHEIs in recent years, there is a risk of reinforcing existing inequities due to systemic injustice and power dynamics. We identify six key areas for improvement regarding these barriers: socioeconomic equity, gender equity, inclusiveness and disability justice, decolonization principles, sustainability and transparency, and the environmental footprint in education. We argue how enhancing each of these aspects can break down existing injustice and enable disadvantaged individuals to fully participate in GHEIs. Furthermore, we propose a set of indicators to identify and address common barriers during the design, implementation, and evaluation of GHEIs. Promoting equitable access, meaningful representation, and sustainable collaboration in GHEIs is an important step toward achieving global health justice and reducing dependence on foreign support.

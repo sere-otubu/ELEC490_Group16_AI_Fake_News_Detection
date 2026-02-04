@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Athletes foot
-TITLE: Systematic Review of the Prevalence of Tinea Pedis in Children.
-PMID: 40229202
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40229202/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Tinea pedis, commonly known as athlete's foot, is a fungal infection that affects the skin of the feet. While there is extensive research on the prevalence of tinea pedis in adults, data regarding prevalence in children are limited. Therefore, it is important to gain information about epidemiology and prevalence in pediatric patients to prevent and treat this condition in children. A comprehensive search across PubMed and Embase was conducted for studies published up to October 10, 2024. Inclusion criteria were studies reporting on the prevalence of tinea pedis in children (0-19 years) with a study population of a minimum of 100 children. A total of 29 studies met the inclusion criteria and were analyzed to determine prevalence patterns, diagnostic methods, and etiological agents. The included studies revealed prevalence rates varying from 0.03% to 15.6%. The most common diagnostic methods were clinical examination, microscopy, and culture. The main etiological agents were dermatophytes, specifically Trichophyton rubrum. This systematic review reveals heterogeneous studies with variations among countries when reporting the prevalence of tinea pedis in children of up to 15.6%. Healthcare professionals should increase awareness of recognizing tinea pedis and consider it a potential diagnosis within the pediatric population.

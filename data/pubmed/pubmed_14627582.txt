@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 14627582)
-    QUESTION: Double reading of barium enemas: is it necessary?
-    CONTEXT: The purpose of our study was to determine the effectiveness, clinical impact, and feasibility of double reading barium enemas.
-    ANSWER: Although feasible, double reading of barium enemas does not improve sensitivity for detection of polyps and produces a higher false-positive rate.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Electronic health records
-TITLE: The Use of Electronic Health Records to Identify Children with Elevated Blood Pressure and Hypertension.
-PMID: 29075864
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29075864/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Elevated blood pressures often go unrecognized in pediatric patients, potentially putting children and adolescents at risk for the sequelae of untreated hypertension. This may be partially due to the complexity involved in diagnosing elevated pediatric blood pressures, which demands a high cognitive workload from providers. Tools built into electronic health records have the potential to alleviate this workload, and studies investigating these tools confirm they show promise in improving elevated blood pressure recognition. However, the current tools are not perfect, and determining the optimal design and implementation of future iterations requires further study. The proper integration of patient-generated blood pressure readings, such as those obtained during ambulatory blood pressure monitors, also requires careful consideration.

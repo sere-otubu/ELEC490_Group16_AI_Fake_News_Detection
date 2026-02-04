@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ADHD
-TITLE: ADHD in Children and Adults: Diagnosis and Prognosis.
-PMID: 35397064
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35397064/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Attention-Deficit Hyperactivity Disorder (ADHD) is a prevalent neuropsychiatric disorder associated with significant impairment and distress throughout the lifespan. Recent investigations have shed light on different aspects regarding the trajectory of ADHD, including reports on risk factors in childhood, that are associated with remission or persistence in adulthood. Despite significant advances in our understanding of the pathophysiology of the disorder, the diagnosis of ADHD remains strictly clinical and is based on behavioral symptoms of inattention, impulsivity, and hyperactivity. In this chapter we review the diagnostic process of ADHD, discuss the clinical presentation of the disorder across the lifespan, and examine patterns of comorbidity and longitudinal predictor of outcomes.

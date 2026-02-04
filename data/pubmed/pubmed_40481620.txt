@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Creatine
-TITLE: Creatine and post-viral fatigue syndrome: an update.
-PMID: 40481620
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40481620/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Post-viral fatigue syndrome, classified as a neurological condition by the WHO (ICD-11 code: 8E49), manifests as persistent fatigue, cognitive difficulties, and post-exertional malaise following viral infections. It shares commonalities with chronic fatigue syndrome and myalgic encephalomyelitis but is distinct due to its association with preceding viral events. Emerging research identifies bioenergetic disruptions, particularly mitochondrial dysfunction and impaired creatine metabolism, as key contributors. Recent studies suggest creatine supplementation may alleviate symptoms and improve energy metabolism. This narrative review summarizes recent advancements in utilizing creatine as a diagnostic and therapeutic target for post-viral fatigue syndrome and explores future directions for its application in managing this perplexing condition.

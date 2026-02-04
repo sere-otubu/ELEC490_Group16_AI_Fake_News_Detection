@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Intermittent fasting
-TITLE: Health Benefits of Intermittent Fasting.
-PMID: 38955141
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38955141/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-We propose that intermittent fasting (time-restricted eating), in agreement with the conclusions of other biologists, as revealed in recent publications, promotes the achievement of numerous health benefits including the extension of human and animal lifespans. Background: There is evidence, obtained both with animal model systems and with humans, that intermittent fasting has health benefits. These benefits include extended longevity, weight loss, and counteracting various disease conditions. Such procedures positively influence the benefits of human tissue-specific microbiomes and minimize the consequences of organellar apoptosis. Key Messages: In this review, we attempt to summarize the predominant evidence, published in the scientific literature, relevant to the conclusions that in general, and in many specific instances, intermittent fasting has long-term benefits to animals, including humans, with respect to overall and specific organismal health and longevity.

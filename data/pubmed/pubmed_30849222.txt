@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Statins
-TITLE: Statins and Abnormal Liver Enzymes.
-PMID: 30849222
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30849222/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Statins are a group of essential medications used in ischemic heart disease, stroke, and peripheral vascular disease. In patients with these medical conditions, they have been proven to decrease mortality and morbidity. However, statins can cause transient elevation of liver enzymes in some patients, which has led to the unnecessary cessation of these agents prematurely. Physicians also face a dilemma when determining if they should utilize statins in patients whose liver enzymes are elevated at baseline. This dilemma may prevent physicians from prescribing statins when clinically indicated, and safe. The purpose of this article is to review existing literature that provides guidance on the utilization of statins in clinical scenarios where liver enzymes are elevated at baseline or when liver enzymes increase after the initiation of statin-based therapy.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Nutritional supplements
-TITLE: Oral Nutritional Supplements and Enteral Nutrition in Patients with Gastrointestinal Surgery.
-PMID: 34444812
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34444812/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nowadays, patients undergoing gastrointestinal surgery are following perioperative treatment in enhanced recovery after surgery (ERAS) protocols. Although oral feeding is supposed not to be stopped perioperatively with respect to ERAS, malnourished patients and inadequate calorie intake are common. Malnutrition, even in overweight or obese patients, is often underestimated. Patients at metabolic risk have to be identified early to confirm the indication for nutritional therapy. The monitoring of nutritional status postoperatively has to be considered in the hospital and after discharge, especially after surgery in the upper gastrointestinal tract, as normal oral food intake is decreased for several months. The article gives an overview of the current concepts of perioperative enteral nutrition in patients undergoing gastrointestinal surgery.

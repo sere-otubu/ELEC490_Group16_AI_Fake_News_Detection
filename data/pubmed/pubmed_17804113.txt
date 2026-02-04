@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Endocrine system
-TITLE: Chronobiology in the endocrine system.
-PMID: 17804113
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17804113/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Biological signaling occurs in a complex web with participation and interaction of the central nervous system, the autonomous nervous system, the endocrine glands, peripheral endocrine tissues including the intestinal tract and adipose tissue, and the immune system. All of these show an intricate time structure with rhythms and pulsatile variations in multiple frequencies. Circadian (about 24-hour) and circannual (about 1-year) rhythms are kept in step with the cyclic environmental surrounding by the timing and length of the daily light span. Rhythmicity of many endocrine variables is essential for their efficacy and, even in some instances, for the qualitative nature of their effects. Indeed, the continuous administration of certain hormones and their synthetic analogues may show substantially different effects than expected. In the design of drug-delivery systems and treatment schedules involving directly or indirectly the endocrine system, consideration of the human time organization is essential. A large amount of information on the endocrine time structure has accumulated, some of which is discussed in this review.

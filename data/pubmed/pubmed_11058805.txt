@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Skeletal system
-TITLE: Skeletal drug delivery systems.
-PMID: 11058805
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11058805/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Selective drug delivery to any organ becomes very important in certain diseases and clinical manifestations, especially when the drug affects other exposed tissues adversely. The importance of selective drug action is still further increased when the affected part is poorly perfused. Although a network of blood vessels is present throughout skeletal tissue (or bone), it is not sufficient for immediate delivery of drugs to the desired site of action in the tissue and in sufficient amounts over appropriate time periods. Hence, selective drug delivery to the skeletal system has remained a great challenge to pharmaceutical scientists over the years. However, in the recent past, attention has been focused on the importance of skeletal drug delivery and the first Skeletal Drug Delivery System (SDDS) was introduced by Bucholz and Engelbrecht in 1970 for the delivery of drugs to skeletal tissues at a high concentration to achieve desirable therapeutic effects. SDDS is used to deliver the drug directly to skeletal tissue through self-setting cement, which also acts as a bone filler, thereby improving the therapeutic effectiveness of drugs in bone diseases. The present review highlights the applicability of various materials as bone fillers for the purpose of skeletal drug delivery.

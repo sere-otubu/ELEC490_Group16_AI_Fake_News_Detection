@@ -1,8 +1,0 @@
-SEARCH_TOPIC: MRI scan
-TITLE: Is There a Role for MRI in Plantar Heel Pain.
-PMID: 28877593
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28877593/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There is an increasing trend to investigate plantar heel pain with magnetic resonance imaging (MRI) scan though plantar fasciitis is the most common cause. The purpose of our study was to evaluate the role of MRI in patients presenting with plantar heel pain. Case notes and MRI scans of 141 patients with a clinical diagnosis of plantar fasciitis were reviewed retrospectively. There were 98 females and 43 males patients. Fourteen patients had bilateral symptoms. Average age for male patients was 51 years (range = 26-78 years), and for female patients the average age was 52 years (range = 29-76 years). A total of 121 feet had MRI features suggestive of plantar fasciitis. MRI was normal in 32 feet. There was one case of stress fracture of calcaneus and another of a heel fibroma diagnosed on MRI scan. In our study, MRI scan was normal in 20.7% of the cases; 1.3% had a diagnosis other than plantar fasciitis but no sinister pathology. We therefore conclude that MRI scan is not routinely indicated and key is careful clinical assessment. Therapeutic, Level IV: Retrospective, Case series.

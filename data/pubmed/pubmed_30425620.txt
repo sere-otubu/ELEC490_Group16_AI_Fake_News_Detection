@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ALS
-TITLE: ALS Yeast Models-Past Success Stories and New Opportunities.
-PMID: 30425620
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30425620/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In the past two decades, yeast models have delivered profound insights into basic mechanisms of protein misfolding and the dysfunction of key cellular pathways associated with amyotrophic lateral sclerosis (ALS). Expressing ALS-associated proteins, such as superoxide dismutase (SOD1), TAR DNA binding protein 43 (TDP-43) and Fused in sarcoma (FUS), in yeast recapitulates major hallmarks of ALS pathology, including protein aggregation, mislocalization and cellular toxicity. Results from yeast have consistently been recapitulated in other model systems and even specimens from human patients, thus providing evidence for the power and validity of ALS yeast models. Focusing on impaired ribonucleic acid (RNA) metabolism and protein misfolding and their cytotoxic consequences in ALS, we summarize exemplary discoveries that originated from work in yeast. We also propose previously unexplored experimental strategies to modernize ALS yeast models, which will help to decipher the basic pathomechanisms underlying ALS and thus, possibly contribute to finding a cure.

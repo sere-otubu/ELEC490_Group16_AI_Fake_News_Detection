@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19640728)
-    QUESTION: Surgical treatment of prosthetic valve endocarditis in patients with double prostheses: is single-valve replacement safe?
-    CONTEXT: Bias against operating on patients with prosthetic valve endocarditis (PVE) who have multiple prostheses may preclude the use of life-saving valve replacement. We investigated the accuracy of the preoperative diagnosis of PVE in patients with both mitral and aortic prosthesis and the safety of single-valve replacement when only one valve seemed infected.
-    ANSWER: TEE allowed a diagnosis of site involvement that did correlate with the anatomic diagnosis obtained during the operation. This fact contributed to the management of patients and was of great help in guiding the surgical intervention. Echo-oriented single-valve replacement may be a safe strategy for patients with PVE and double prostheses.
-    

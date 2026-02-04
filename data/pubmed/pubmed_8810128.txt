@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fish oil benefits
-TITLE: Increasing fish oil intake--any net benefits?
-PMID: 8810128
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8810128/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-For over a decade, there have been suggestions that a diet high in fish oils might protect against coronary heart disease. In the UK, fish oil supplements are often taken for cardiovascular or inflammatory diseases. In addition, 2 years ago the Department of Health advised people to eat a portion of fish at least weekly to reduce the risk of heart disease. We examine whether extra fish in the diet or fish oil supplements rich in omega-3 fatty acids really improve health.

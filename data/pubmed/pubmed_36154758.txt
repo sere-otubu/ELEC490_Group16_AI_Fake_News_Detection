@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vaccination schedules
-TITLE: A comparison of two Fendrix hepatitis B vaccination schedules in patients with inflammatory bowel disease.
-PMID: 36154758
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36154758/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Systemic immunosuppressive therapy (IS) renders patients with inflammatory bowel disease (IBD) vulnerable to fulminant hepatitis B virus (HBV) infection. Seroprotection against HBV through a full vaccination scheme is preferably obtained before IS is initiated, but often conflicts with the clinical need to initiate therapy rapidly. Consequently, the vast majority of patients will use IS during booster vaccinations. In this retrospective cohort study, we examined the serological response after a modified vaccination schedule which includes an initial double dose of Fendrix in patients with IBD and compared the results with the serological responses of patients with IBD who received the standard schedule. Seroprotection rates were 86.2 % and 88.9 % in the modified and standard schedule groups respectively. One-third of patients obtained seroprotection after only one double dose vaccine. A double dose may be considered in patients with IBD at high short-term risk of HBV infection when a rapid protective response is warranted.

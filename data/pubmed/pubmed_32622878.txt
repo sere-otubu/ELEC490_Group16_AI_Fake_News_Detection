@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Childhood obesity
-TITLE: Childhood Obesity and Cardiovascular Disease Risk: Working Toward Solutions.
-PMID: 32622878
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32622878/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The prevalence of obesity in childhood is high and continues to increase globally. It is currently estimated that 381 million children worldwide have overweight or obesity. This disease stems from multiple complex pathways that can present early in life. This is particularly concerning because childhood obesity is associated with cardiovascular risk factors that can lead to early atherosclerosis and premature cardiovascular disease (CVD). Hypertension, dysglycemia, dyslipidemia, and systemic inflammation are associated with vascular changes in childhood, and these contribute to increased risk of cardiovascular events in adulthood if not adequately treated. Interventions to treat childhood obesity include multicomponent family-based behaviour modification programs, which have been demonstrated to have moderate short-term effects on weight-related outcomes; their effects on cardiovascular risk factors, however, are less well understood. Although supervised, structured exercise interventions result in improvements in blood pressure, inflammation, carotid artery intima media thickness, dysglycemia, dyslipidemia, and endothelial dysfunction in children with obesity in the short term, our understanding of how to translate these interventions into long-term sustainable exercise or physical activity recommendations remains uncertain. Research focus in these areas will help in treating childhood obesity and associated CVD risk factors to prevent CVD development in adulthood.

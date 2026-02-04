@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Kidney stones
-TITLE: Non-Coding RNAs in Kidney Stones.
-PMID: 38397450
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38397450/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nephrolithiasis is a major public health concern associated with high morbidity and recurrence. Despite decades of research, the pathogenesis of nephrolithiasis remains incompletely understood, and effective prevention is lacking. An increasing body of evidence suggests that non-coding RNAs, especially microRNAs (miRNAs) and long non-coding RNAs (lncRNAs), play a role in stone formation and stone-related kidney injury. MiRNAs have been studied quite extensively in nephrolithiasis, and a plethora of specific miRNAs have been implicated in the pathogenesis of nephrolithiasis, involving remarkable changes in calcium metabolism, oxalate metabolism, oxidative stress, cell-crystal adhesion, cellular autophagy, apoptosis, and macrophage (Mp) polarization and metabolism. Emerging evidence suggests a potential for miRNAs as novel diagnostic biomarkers of nephrolithiasis. LncRNAs act as competing endogenous RNAs (ceRNAs) to bind miRNAs, thereby modulating mRNA expression to participate in the regulation of physiological mechanisms in kidney stones. Small interfering RNAs (siRNAs) may provide a novel approach to kidney stone prevention and treatment by treating related metabolic conditions that cause kidney stones. Further investigation into these non-coding RNAs will generate novel insights into the mechanisms of renal stone formation and stone-related renal injury and might lead to new strategies for diagnosing and treating this disease.

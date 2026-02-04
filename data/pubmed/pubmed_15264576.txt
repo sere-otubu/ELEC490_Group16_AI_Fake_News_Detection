@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gout
-TITLE: [Gout].
-PMID: 15264576
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15264576/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In the presence of a clinical acute monoarthritis, a differential diagnosis has to be made between septic arthritis, gout and diffuse chondrocalcinosis. Gout comes from a purine nucleotide metabolism disorder leading to serum urate level elevation. This hyperuricemia can lead to the deposition of monosodium urate crystals in the joints, causing acute attacks. After long-term evolution, others tissues as the kidneys can be involved: it is chronic gout. The definite diagnosis is based on the presence of monosodium urate crystals in the joint fluid. The diagnosis of gout should prompt a search for associated medical conditions that may affect both urate levels and longevity. These include alcoholism, various nephropathies, myeloproliferative disorders, and hypertension.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rabies
-TITLE: Rabies, rabies vaccine, and renal failure: Clinical issues.
-PMID: 31249218
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31249218/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rabies is an important neurological infection that is prevalent in tropical countries. The rabid animals can bring rabies to humans by biting. The disease can result in serious neurological problem and death is the end result. The best way is prevention of disease by postexposure prophylaxis against rabies. The effect of rabies on the renal system is little mentioned in the literature. In the previous literature, acute kidney injury was observable in half of the rabies patients. Rabies is also transmittable by organ transplantation. Although it is rare and <10 cases had ever been reported in literature, it is proven that kidney transplant patients are at risk of getting rabies if the donor come from endemic country or with a history of travel to endemic country and has unclear cause of death. Regarding rabies immunization, the use of vaccination for patients with the underlying renal failure is interesting. In this short article, the authors summarize on those important clinical issues of rabies and renal failure.

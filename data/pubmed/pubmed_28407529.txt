@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 28407529)
-    QUESTION: Resection of colorectal liver metastases after second-line chemotherapy: is it worthwhile?
-    CONTEXT: Patient outcome after resection of colorectal liver metastases (CLM) following second-line preoperative chemotherapy (PCT) performed for insufficient response or toxicity of the first-line, is little known and has here been compared to the outcome following first-line.
-    ANSWER: CLM resection following second-line PCT, after oncosurgically favourable selection, could bring similar OS compared to what observed after first-line. For initially unresectable patients, OS or DFS is comparable between first- and second-line PCT. Surgery should not be denied after the failure of first-line chemotherapy.
-    

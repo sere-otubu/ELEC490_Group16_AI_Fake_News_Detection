@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Serotonin
-TITLE: The dual roles of serotonin in antitumor immunity.
-PMID: 38862071
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38862071/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Research has shown that a significant portion of cancer patients experience depressive symptoms, often accompanied by neuroendocrine hormone imbalances. Depression is frequently associated with decreased levels of serotonin with the alternate name 5-hydroxytryptamine (5-HT), leading to the common use of selective serotonin reuptake inhibitors (SSRIs) as antidepressants. However, the role of serotonin in tumor regulation remains unclear, with its expression levels displaying varied effects across different types of tumors. Tumor initiation and progression are closely intertwined with the immune function of the human body. Neuroimmunity, as an interdisciplinary subject, has played a unique role in the study of the relationship between psychosocial factors and tumors and their mechanisms in recent years. This article offers a comprehensive review of serotonin's regulatory roles in tumor onset and progression, as well as its impacts on immune cells in the tumor microenvironment. The aim is to stimulate further interdisciplinary research and discover novel targets for tumor treatment.

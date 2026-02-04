@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Generalized anxiety disorder
-TITLE: Biological markers of generalized anxiety disorder.
-PMID: 28867939
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28867939/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Generalized anxiety disorder (GAD) is a prevalent and highly disabling mental health condition; however, there is still much to learn with regard to pertinent biomarkers, as well as diagnosis, made more difficult by the marked and common overlap of GAD with affective and anxiety disorders. Recently, intensive research efforts have focused on GAD, applying neuroimaging, genetic, and blood-based approaches toward discovery of pathogenetic and treatment-related biomarkers. In this paper, we review the large amount of available data, and we focus in particular on evidence from neuroimaging, genetic, and neurochemical measurements in GAD in order to better understand potential biomarkers involved in its etiology and treatment. Overall, the majority of these studies have produced results that are solitary findings, sometimes inconsistent and not clearly replicable. For these reasons, they have not yet been translated into clinical practice. Therefore, further research efforts are needed to distinguish GAD from other mental disorders and to provide new biological insights into its pathogenesis and treatment.

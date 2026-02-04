@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Platelets
-TITLE: The Immune Nature of Platelets Revisited.
-PMID: 33051111
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33051111/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Platelets are the primary cellular mediators of hemostasis and this function firmly acquaints them with a variety of inflammatory processes. For example, platelets can act as circulating sentinels by expressing Toll-like receptors (TLR) that bind pathogens and this allows platelets to effectively kill them or present them to cells of the immune system. Furthermore, activated platelets secrete and express many pro- and anti-inflammatory molecules that attract and capture circulating leukocytes and direct them to inflamed tissues. In addition, platelets can directly influence adaptive immune responses via secretion of, for example, CD40 and CD40L molecules. Platelets are also the source of most of the microvesicles in the circulation and these miniscule elements further enhance the platelet's ability to communicate with the immune system. More recently, it has been demonstrated that platelets and their parent cells, the megakaryocytes (MK), can also uptake, process and present both foreign and self-antigens to CD8+ T-cells conferring on them the ability to directly alter adaptive immune responses. This review will highlight several of the non-hemostatic attributes of platelets that clearly and rightfully place them as integral players in immune reactions.

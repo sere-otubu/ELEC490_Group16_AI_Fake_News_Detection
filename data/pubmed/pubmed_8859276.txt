@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Herpes simplex
-TITLE: Herpes simplex: evolving concepts.
-PMID: 8859276
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8859276/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A large body of molecular biologic research has begun to clarify some basic aspects of viral latency and reactivation. The clinical definition of herpes simplex virus infection is expanding, with the recognition that the disease is largely asymptomatic and that most transmission occurs during periods of asymptomatic viral shedding. With this awareness, serologic diagnosis has become increasingly important. New treatment modalities are now available, and other promising treatments are in development.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Kidney stones
-TITLE: Empiric therapy for kidney stones.
-PMID: 30478476
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30478476/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Careful phenotyping of patients to classify those with kidney stones has a long and important history in revealing the chemical basis for stone formation. Advances in our genetic understanding of kidney stones will lead to incredible insights regarding the pathophysiology of this common disorder. At this time, both evaluation of urine chemistry and genotyping of patients are extremely useful in the setting of a university and research-based kidney stone clinic. For much of the world, in a more clinically focused setting, these techniques are neither available nor absolutely necessary. Careful implementation of an empiric prescription based on stone composition would have an important effect to reduce stone recurrence in the world's many stone formers. Increased fluid intake, generic dietary manipulations, and prescription of potassium citrate and thiazides are all appropriate empiric therapies for people with calcium and uric acid kidney stones.

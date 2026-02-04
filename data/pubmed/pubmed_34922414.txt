@@ -1,8 +1,0 @@
-SEARCH_TOPIC: COPD
-TITLE: Acute Exacerbation of COPD: Clinical Perspectives and Literature Review.
-PMID: 34922414
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34922414/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chronic Obstructive Pulmonary Disease (COPD) COPD is a significant cause of morbidity and the third leading cause of death worldwide. COPD is a chronic progressive disease which may be interspersed by periods of acute worsening of respiratory symptoms beyond normal day-to-day variations, called exacerbations, which substantially impact health status and has cumulative effects on lung function. Acute exacerbation of COPD negatively affects disease progression, facilitating decline in pulmonary function and resulting in impaired quality of life and increased mortality risk. Therefore, early introduction of preventive measures in patients at risk of COPD remains the cornerstone of management. This article summarizes clinical perspectives and current knowledge on COPD exacerbations, with insights into practices in low- and middle-income countries.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Proton pump inhibitors
-TITLE: Proton Pump Inhibitors in Patients with Cirrhosis: Pharmacokinetics, Benefits and Drawbacks.
-PMID: 39167119
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39167119/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review explores the pharmacokinetics, benefits, and risks of proton pump inhibitors (PPIs) in cirrhotic patients, focusing on the appropriateness of their use and potential adverse effects. Recent studies highlight significant pharmacokinetic alterations in PPIs among cirrhotic patients, with marked increases in lansoprazole and pantoprazole exposure and relatively stable levels of esomeprazole. While effective for managing acid-related disorders and post-band ulcer rebleeding, evidence supporting PPI use for portal hypertension-related bleeding is lacking. Emerging research suggests potential adverse effects such as hepatic decompensation, spontaneous bacterial peritonitis, hepatic encephalopathy, and increased mortality, possibly linked to dysbiosis and bacterial translocation. PPI use in cirrhotic patients alters pharmacokinetics significantly, with esomeprazole potentially safer in advanced cirrhosis. The review advises caution in routine PPI use beyond acid-related conditions due to limited evidence and substantial risks. It underscores the need for careful risk-benefit assessments and exploration of alternative therapies. Future research should aim to identify safer management strategies for portal hypertension complications and to develop evidence-based guidelines for PPI use in patients with cirrhosis.

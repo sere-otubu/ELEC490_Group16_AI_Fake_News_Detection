@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Reproductive system
-TITLE: Role of m6A modification in female infertility and reproductive system diseases.
-PMID: 35813486
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35813486/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gamete abnormalities and reproductive system tumors have become a dominant cause of infertility, troubling people globally. In recent years, increasing evidence emerged and found that N6-methyladenosine (m6A) played a leading role in reproduction. The biological effects of m6A modification are dynamically and reversibly regulated by methyltransferases (writers), WTAP, METTL3, METTL14 and KIAA1429, demethylases (erasers), FTO and ALKBH5, and m6A binding proteins (readers), including YTH domain. In this review, we highlight the change of m6A modification in abnormal oogenesis, female reproductive system diseases including reproductive system tumors, adenomyosis, endometriosis, premature ovarian failure and polycystic ovary syndrome. Moreover, we review some of the mechanisms and the specific modified genes that have been identified. Especially, with the underlying mechanisms being uncovered, m6A and its protein machineries are expected to be the markers and targets for the diagnosis and treatment of female reproductive dysfunction.

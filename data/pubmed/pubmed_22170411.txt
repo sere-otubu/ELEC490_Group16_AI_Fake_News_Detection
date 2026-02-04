@@ -1,8 +1,0 @@
-SEARCH_TOPIC: MRI scan
-TITLE: What is an MRI scan and what can it do?
-PMID: 22170411
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22170411/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Magnetic resonance imaging (MRI) is a technique that produces cross-sectional images of a patient's body, using magnetism and radio waves. Here we discuss advantages and disadvantages of MRI scans and practical issues for clinicians and patients.

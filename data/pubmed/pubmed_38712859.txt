@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Autism spectrum disorder
-TITLE: Microglial Dysfunction in Autism Spectrum Disorder.
-PMID: 38712859
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38712859/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Autism spectrum disorder (ASD) is a highly heterogeneous neurodevelopmental disorder with onset in childhood. The molecular mechanisms underlying ASD have not yet been elucidated completely. Evidence has emerged to support a link between microglial dysfunction and the etiology of ASD. This review summarizes current research on microglial dysfunction in neuroinflammation and synaptic pruning, which are associated with altered transcriptomes and autophagy in ASD. Dysbiosis of gut microbiota in ASD and its correlation with microglial dysfunction are also addressed.

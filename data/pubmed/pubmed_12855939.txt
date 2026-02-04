@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12855939)
-    QUESTION: Is ankle/arm pressure predictive for cardiovascular mortality in older patients living in nursing homes?
-    CONTEXT: longitudinal descriptive study.
-    ANSWER: The prevalence of PAD is high in nursing home residents. AAI is not predictive for IHD mortality in this population. In very frail elderly traditional risk factors and PAD are less important predictors of death compared to poor functional status, nutritional factors and previous cardiovascular disease.
-    

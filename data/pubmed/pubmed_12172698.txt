@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 12172698)
-    QUESTION: Is withdrawal-induced anxiety in alcoholism based on beta-endorphin deficiency?
-    CONTEXT: Associations between several psychopathological alterations and lowered beta-endorphin(beta E) plasma levels have already been stated in former studies. However, whereas single measures during static conditions generally failed in linking beta E levels with psychopathology, dynamic changes of beta E in particular have been shown to be associated with spells of anxiety and depression. During alcohol withdrawal, a decreased secretion of beta E with a delayed normalization has been reported, but up to now only few data became available regarding the interaction of plasma beta E and psychopathological parameters.
-    ANSWER: Our results give first evidence that lowered beta E during alcohol withdrawal may contribute to anxiety as a common disturbance during this state.
-    

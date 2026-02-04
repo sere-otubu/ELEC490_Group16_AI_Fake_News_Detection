@@ -1,8 +1,0 @@
-SEARCH_TOPIC: OCD
-TITLE: The heterogeneous course of OCD - A scoping review on the variety of definitions.
-PMID: 32018059
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32018059/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although effective treatments exist, obsessive-compulsive disorder (OCD) is, according to the views of patients and experts, still associated with chronicity, a term with no clear and consistent definition. To improve patient care and to foster research, a clear distinction between the various concepts of chronicity cited in the literature is crucial. The aim was thus to explicate central concepts related to courses and trajectories in OCD based on an explorative, scoping search of the existing literature. Our review revealed a considerable lack in content validity, as the concepts were operationalized inconsistently. Concepts related to symptom improvement were (complete) recovery, partial/full remission and partial/full response. Terms used in relation with symptom stability or worsening were chronic/continuous, intermittent and episodic course, waxing and waning, relapse, recurrence, deterioration and treatment-refractoriness. All concepts are explained and visualized as a result of the review. Further, based on authors' remarks, we present recommendations on how to enhance care for chronic OCD patients, namely training psychotherapists to apply CBT as intended, managing patient beliefs about disease and treatment, and adapting psychotherapy to OCD subtypes. Finally, we then propose a literature-based definition of treatment-refractory OCD.

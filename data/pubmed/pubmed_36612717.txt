@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rare diseases
-TITLE: Health Care on Rare Diseases.
-PMID: 36612717
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36612717/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rare diseases are a subject of great scientific and health interest that has been on the rise in recent years [...].

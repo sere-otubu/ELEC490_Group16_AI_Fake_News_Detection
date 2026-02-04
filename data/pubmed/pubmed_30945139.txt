@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sugar consumption
-TITLE: Excessive Consumption of Sugar: an Insatiable Drive for Reward.
-PMID: 30945139
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30945139/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Eating behavior provides energy to ensure proper functioning of the organism. Reward aids in seeking foods that bring energy and pleasant taste, whose consumption is safe. As evidenced by the obesity "epidemic" which largely stems from overeating, reward becomes a detriment when palatable tastants are available in unlimited quantities. This review presents recent evidence on mechanisms underlying palatability-driven excessive consumption of sugar. Appetite for sugar is propelled by changes in the morphology and activity of the reward system reminiscent of addiction. Sugar intake also shifts the hunger-satiety continuum, facilitating initiation of consumption in the absence of energy needs and maintenance of feeding despite ingestion of large food loads that endanger homeostasis. Ingestion of excessive amounts of sugar relies on triggering mechanisms that promote addictive-like behaviors, and on overriding neuroendocrine signals that protect internal milieu.

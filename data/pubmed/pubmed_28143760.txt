@@ -1,8 +1,0 @@
-SEARCH_TOPIC: PTSD
-TITLE: Pretreatment biomarkers predicting PTSD psychotherapy outcomes: A systematic review.
-PMID: 28143760
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28143760/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although our understanding of the relationship between posttraumatic stress disorder (PTSD), brain structure and function, neural networks, stress-related systems, and genetics is growing, there is considerably less attention given to which biological markers predict evidence-based PTSD psychotherapy outcomes. Our systematic PRISMA-informed review of 20 studies examined biomarkers as predictors of evidence-based PTSD psychotherapy outcomes. Results provide preliminary evidence that specific structural and functional neural systems (involved in information processing), glucocorticoid sensitivity and metabolism (part of the hypothalamic-pituitary-adrenal axis and the response to stress), heart rate (involved with fear habituation), gene methylation, and certain genotypes (associated with serotonin and glucocorticoids) predicted positive response to PTSD treatment. These pre-treatment biomarkers are associated with processes integral to PTSD treatment, such as those affecting fear learning and extinction, cognitive restructuring, information processing, emotional processing, and interoceptive monitoring. Identifying pre-treatment biomarkers that predict treatment response may offer insight into the mechanisms of psychological treatment, provide a foundation for improving the pharmaceutical augmentation of treatment, and inform treatment matching.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22251324)
-    QUESTION: Does performance in selection processes predict performance as a dental student?
-    CONTEXT: This study investigated associations between the performance of dental students in each of the three components of the selection procedure [academic average, Undergraduate Medicine and Health Sciences Admission Test (UMAT) and structured interview], socio-demographic characteristics and their academic success in an undergraduate dental surgery programme.
-    ANSWER: The study found important socio-demographic differences in pre-admission test scores, but those scores did not predict performance in the dental programme, whether measured in second year or in final year.
-    

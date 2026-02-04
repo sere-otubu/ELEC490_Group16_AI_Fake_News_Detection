@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gene expression
-TITLE: The Evolution of Gene Expression in cis and trans.
-PMID: 29680748
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29680748/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-There is abundant variation in gene expression between individuals, populations, and species. The evolution of gene regulation and expression within and between species is thought to frequently contribute to adaptation. Yet considerable evidence suggests that the primary evolutionary force acting on variation in gene expression is stabilizing selection. We review here the results of recent studies characterizing the evolution of gene expression occurring in cis (via linked polymorphisms) or in trans (through diffusible products of other genes) and their contribution to adaptation and response to the environment. We review the evidence for buffering of variation in gene expression at the level of both transcription and translation, and the possible mechanisms for this buffering. Lastly, we summarize unresolved questions about the evolution of gene regulation.

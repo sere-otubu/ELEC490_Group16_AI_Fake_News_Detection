@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Herpes simplex
-TITLE: Recent advance in management of herpes simplex in Japan.
-PMID: 36779390
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36779390/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Herpes simplex, a common infection caused by the herpes simplex virus (HSV), is transmitted through contact of the skin/mucous membrane and establishes latency in the sensory ganglia for the rest of the life of the host. HSV occasionally reactivates and forms blisters around the lips or genitalia in some patients. Repeated overt symptoms, and, much more frequent, subclinical reactivation in the mucosa, make the host retain anti-HSV immunity continuously, resulting in maintaining steadily elevated antibody titer at any point after infection. Clinical symptoms differ in primary infection and recurrence. Primary infections sometimes manifest as severe symptoms such as fever and lymphadenopathy in addition to blisters/erosions of the skin, gingiva, lips, and oral mucosa, while recurrent herpes is generally mild. Diagnosing typical herpes simplex is not difficult, but when the course and manifestations are typical, definitive tests to identify HSV infection are limited since serology is not useful except with primary infection. For treatment, safe and effective oral antiviral drugs are available. Patient-initiated therapy is a new method of administration labeled in Japan. Amenamevir, an inhibitor of viral helicase primase, is available in Japan and labeled in addition to herpes zoster. These new diagnostic and therapeutic tools should be used for better management of herpes simplex.

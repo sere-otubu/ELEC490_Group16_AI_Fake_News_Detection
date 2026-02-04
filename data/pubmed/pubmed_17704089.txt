@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sciatica
-TITLE: Sciatica: a review of history, epidemiology, pathogenesis, and the role of epidural steroid injection in management.
-PMID: 17704089
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17704089/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Radicular pain in the distribution of the sciatic nerve, resulting from herniation of one or more lumbar intervertebral discs, is a frequent and often debilitating event. The lifetime incidence of this condition is estimated to be between 13% and 40%. Fortunately, the majority of cases resolve spontaneously with simple analgesia and physiotherapy. However, the condition has the potential to become chronic and intractable, with major socio-economic implications. This review discusses the history, epidemiology, pathophysiology, and natural history of sciatica. A Medline search was performed to obtain the published literature on the sciatica, between 1966 and 2006. Hand searches of relevant journals were also performed. Epidemiological factors found to influence incidence of sciatica included increasing height, age, genetic predisposition, walking, jogging (if a previous history of sciatica), and particular physical occupations, including driving. The influence of herniated nucleus pulposus and the probable cytokine-mediated inflammatory response in lumbar and sacral nerve roots is discussed. An abnormal immune response and possible mechanical factors are also proposed as factors that may mediate pain. The ongoing issue of the role of epidural steroid injection in the treatment of this condition is also discussed, as well as potential hazards of this procedure and the direction that future research should take.

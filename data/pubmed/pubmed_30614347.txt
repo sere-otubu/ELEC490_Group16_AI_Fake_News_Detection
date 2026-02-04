@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Prostate cancer
-TITLE: Testosterone, testosterone therapy and prostate cancer.
-PMID: 30614347
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30614347/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-With prostate cancer not observed in eunuchs and total androgen suppression by castration an effective first-line treatment for advanced prostate cancer, the dramatic regression seen in tumour symptoms after castration, lead to the theory that high levels of circulating androgens were a risk factor for prostate cancer. This theory however, ignored the effects testosterone variations within a physiologic range could have on early tumour events and since the early 2000s, clinical evidence discounting testosterone as a linear mechanistic cause of prostate cancer growth mounted, with alternative mechanistic hypotheses such as the saturation model being proposed. Together with a growing understanding of the negative health effects and decreased quality of life in men with testosterone deficiency or hypogonadism, a paradigm shift away from testosterone as a prostate cancer inducer occurred allowing clinicians to use testosterone therapy as potential treatment for men with difficult and symptomatic hypogonadism that had been previously treated for prostate cancer. In this review we contextualise the idea of testosterone as a risk factor for prostate cancer inducement and compile the most current literature with regards to the influence of testosterone and testosterone therapy in prostate cancer.

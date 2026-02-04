@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Arthroscopy
-TITLE: Small joint arthroscopy in foot and ankle.
-PMID: 25726488
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25726488/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The clinical application of small joint arthroscopies (metatarsophalangeal joint, Lisfranc joint, Chopart joint, and interphlangeal joint) in the foot has seen significant advancements in the past decades. This article reviews the clinical indications, technical details, outcomes, and potential complications of small joint arthroscopies of the foot.

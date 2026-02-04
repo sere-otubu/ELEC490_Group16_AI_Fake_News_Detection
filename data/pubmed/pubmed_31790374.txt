@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Personality disorders
-TITLE: Personality functioning in anxiety disorders.
-PMID: 31790374
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31790374/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The alternative model for personality disorders in DSM-5 and the upcoming ICD-11 stimulated an increased interest in the concept of personality functioning for the diagnosis of personality disorders. Furthermore, the impact of personality functioning on other mental disorders has become the focus of recent research efforts. The purpose of this review is to provide a comprehensive and critical study of the empirical literature on the relationship between personality functioning and anxiety disorders. Recent studies predominantly show a positive association of anxiety symptoms and disorders with an impairment in personality functioning. However, no evidence was found for different levels of personality functioning according to the type of anxiety disorder. Anxiety disorders can occur at all levels of personality organization. Anxiety disorders are associated with significant impairment in personality functioning. As the underlying personality structure is known to play a crucial role for treatment outcome, the evaluation of personality functioning should be a central part of a comprehensive diagnostic process and treatment planning in patients with anxiety disorders.

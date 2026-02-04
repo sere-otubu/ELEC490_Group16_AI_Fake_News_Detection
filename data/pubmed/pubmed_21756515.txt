@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21756515)
-    QUESTION: Does solid culture for tuberculosis influence clinical decision making in India?
-    CONTEXT: Medical units at an academic tertiary referral hospital in Southern India.
-    ANSWER: Using solid culture, 150 cultures need to be tested for one treatment modification and 30 for DST. The cost of the widespread application of culture will need to be balanced against its impact on treatment decisions in India.
-    

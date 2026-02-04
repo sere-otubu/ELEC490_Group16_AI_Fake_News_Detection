@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic screening
-TITLE: Design and Reporting Considerations for Genetic Screening Tests.
-PMID: 32092541
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32092541/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Testing asymptomatic individuals for unsuspected conditions is not new to the medical and public health communities. Protocols to develop screening tests are well established. However, the application of screening principles to inherited diseases presents unique challenges. Unlike most screening tests, the natural history and disease prevalence of most rare inherited diseases in an unselected population are unknown. It is difficult or impossible to obtain a truth set cohort for clinical validation studies. As a result, it is not possible to accurately calculate clinical positive and negative predictive values for likely pathogenic variants, which are commonly returned in genetic screening assays. In addition, many of the genetic conditions included in screening panels do not have clinical confirmatory tests. All these elements are typically required to justify the development of a screening test, according to the World Health Organization screening principles. Nevertheless, as the cost of DNA sequencing continues to fall, more individuals are opting to undergo genomic testing in the absence of a clinical indication. Despite the challenges, reasonable estimates can be deduced and used to inform test design strategies. Herein, we review basic test design principles and apply them to genetic screening.

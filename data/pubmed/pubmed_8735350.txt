@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Menopause
-TITLE: The demography of menopause.
-PMID: 8735350
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8735350/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Menopause marks a time of dramatic hormonal and often social change for women. Both risk factors and health needs are likely to change as women pass through menopause. This paper examines the demographic characteristics of the world population of menopausal and post-menopausal women, and also examines the implication of menopause for mortality risks. The numbers of women involved are large. Using age 50 as a proxy for menopause, about 25 million women pass through menopause each year, and we estimate that in 1990 there were 467 million post-menopausal women in the world, with an average age of about 60 years. By 2030, the world population of menopausal and postmenopausal women is projected to increase to 1.2 billion, with 47 million new entrants each year. The mortality implications of menopause are also substantial. Ratios of female to male mortality risks from all causes and from all major cause groups except neoplasms decline to low levels around menopause or shortly thereafter, and then rise again to near unity. This pattern is taken as evidence that the female reproductive period is broadly protective of health, but that this protection disappears after menopause. The main protective effect is through reduced risk of cardiovascular disease mortality, partially offset by increased risks of cancer mortality, particularly of the breast and endometrium.

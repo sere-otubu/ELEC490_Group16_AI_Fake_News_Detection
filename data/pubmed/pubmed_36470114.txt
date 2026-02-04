@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Processed foods
-TITLE: Intake of ultra-processed foods and sleep-related outcomes: A systematic review and meta-analysis.
-PMID: 36470114
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36470114/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The aim of this review article was to evaluate the association between the intake of ultra-processed foods and sleep-related outcomes through a systematic review and meta-analysis. Pubmed, LILACS, Scielo, Scopus, Embase, and Web of Science were searched on December 31, 2021, for studies that evaluated the association between ultra-processed foods and sleep-related outcomes (self-reported sleep duration and quality). Pooled odds ratios were assessed through a random-effects model; heterogeneity was evaluated using the I<sup>2</sup> statistic. Fifteen cross-sectional studies were included; 14 showed that the high intake of ultra-processed foods was statistically significantly associated with sleep-related outcomes (sleep duration and quality). In the crude analysis, compared with low intake, high intake of ultra-processed foods increased the odds of sleep-related outcomes, with increased odds among children and/or adolescents, and null results among adults. When adjusted for cofounders, we found statistically significant results for all ages. The high intake of ultra-processed foods was associated with sleep-related outcomes, with moderate credibility of the evidence. Longitudinal studies and clinical trials confirming these findings are necessary.

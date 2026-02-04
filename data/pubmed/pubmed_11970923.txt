@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 11970923)
-    QUESTION: Convulsions and retinal haemorrhage: should we look further?
-    CONTEXT: The prevalence of retinal haemorrhages after convulsions is not well established. As these haemorrhages are considered characteristic of child abuse, we investigated their occurrence after convulsive episodes to see whether the finding of haemorrhage should prompt further investigation.
-    ANSWER: Retinal haemorrhages following a convulsive episode are rare. Such a finding should trigger an extensive search for other reasons, including child abuse.
-    

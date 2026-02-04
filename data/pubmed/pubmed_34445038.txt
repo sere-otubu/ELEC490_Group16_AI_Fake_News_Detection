@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gluten free diet
-TITLE: Nutritional Imbalances in Adult Celiac Patients Following a Gluten-Free Diet.
-PMID: 34445038
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34445038/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Celiac disease (CD) is a chronic autoimmune disorder of the small intestine, whose only effective treatment is a gluten-free diet (GFD). It is characterized by the atrophy of the intestinal villi that leads to altered nutrient absorption. This study describes the nutritional imbalances which may be found in adults with CD following a GFD. During the first year of treatment, deficiencies will overcome as the intestinal mucosa recovers. Thus, biochemical data will show this progression, together with the decrease in symptoms. In contrast, in the long term, when a strict GFD is followed and mucosal recovery is achieved, analyzing nutrient intake makes more sense. Macronutrient consumption is characterized by its low complex carbohydrate and fiber intakes, and high fat (especially SFA) and sugar intakes. This profile has been related to the consumption of GFP and their nutritional composition, in addition to unbalanced dietary habits. The most notable deficiencies in micronutrients are usually those of iron, calcium and magnesium and vitamin D, E and some of group B. It is necessary to follow up patients with CD and to promote nutritional education among them, since it could help not only to achieve a gluten free but also a balanced diet.

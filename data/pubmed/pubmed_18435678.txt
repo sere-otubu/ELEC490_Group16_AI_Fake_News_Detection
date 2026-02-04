@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18435678)
-    QUESTION: Kell alloimmunization in pregnancy: associated with fetal thrombocytopenia?
-    CONTEXT: Kell haemolytic disease in pregnancies has been suggested to be associated with decreased fetal platelet counts. The aim of this study was to evaluate the incidence and clinical significance of fetal thrombocytopenia in pregnancies complicated by Kell alloimmunization.
-    ANSWER: In contrast to fetuses with severe anaemia and hydrops due to RhD alloimmunization, fetuses with severe anaemia due to Kell alloimmunization are generally not at risk for substantial thrombocytopenia.
-    

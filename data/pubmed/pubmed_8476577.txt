@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Carbohydrates types
-TITLE: Endothelial-leukocyte adhesion molecules.
-PMID: 8476577
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8476577/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-One decade ago, vascular endothelium was commonly considered a "non-stick" lining of blood vessels that functioned only to prevent blood coagulation and to separate the vascular space from tissues. By comparison to many other cell types, endothelial cells were thought to be less active, less complex, and less interesting. Since that time, research concerning the endothelium has expanded dramatically and produced a new image of the vascular lining as an active participant in a wide variety of pathophysiological processes, including inflammation and immunity. Nowhere has the excitement been more intense than in the study of the molecular mechanisms of leukocyte adhesion to endothelium. Recent efforts resulted in the identification, characterization, and cloning of multiple endothelial cell-surface glycoproteins that support adhesion through an interaction with specific ligands (or counter-receptors) on leukocytes. The selectins, two of which are found on endothelium and one on leukocytes, support adhesion through the recognition of carbohydrates. Endothelial members of the immunoglobulin superfamily including ICAM-1 and VCAM-1/INCAM-110 bind to leukocyte cell-surface integrins. In various combinations, these and other molecules support leukocyte adhesion to the vessel wall and extravasation, key steps in our response to infection and tissue injury.

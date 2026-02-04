@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pain management
-TITLE: Perioperative Pain Management in Morbid Obesity.
-PMID: 31256367
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31256367/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Morbid obesity (MO) is becoming increasingly prevalent worldwide and is associated with both altered physiology and increased co-morbidities. Together, these can render the perioperative pain management in patients with MO particularly challenging. With the higher incidence of sleep-disordered breathing in this patient population, traditional opioid-centric pain management can often result in opioid-induced ventilatory impairment and increased morbidity and/or mortality. Multimodal analgesia strategies based on a step-wise, severity-based, opioid-sparing approach can improve patient safety and outcomes. These protocols should be standardized and implemented in the perioperative care of patients with MO. Further advancements in acute pain management have sought to identify and treat nociceptive and pro-nociceptive components (hyperalgesia, etc.) with both pharmacologic and non-pharmacologic measures. In addition to standardizing postoperative pain management, irrespective of the anesthetic and analgesic regimen used, some patients with MO will need extended monitoring for potential respiratory adverse events. In this review, we briefly describe the obesity-associated changes in physiology and their impact on the pharmacology of pain, and provide an evidence-based clinical update on the perioperative pain management in MO. We discuss the role of opioid-sparing pharmacological adjuvants and implementation of standardized protocols, and highlight future areas of research in perioperative pain management in this patient population.

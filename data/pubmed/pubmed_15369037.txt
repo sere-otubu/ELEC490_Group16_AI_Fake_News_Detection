@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 15369037)
-    QUESTION: Do people who were passive smokers during childhood have increased risk of long-term work disability?
-    CONTEXT: Regular inhalation of tobacco smoke, whether it be voluntary or not, may have profound negative effects on the body. Also intervertebral discs may be affected. The objective of the present study was to test the hypothesis that nurses' aides who were exposed to environmental tobacco smoke (ETS) at home during childhood have an increased risk of long-term sick leave.
-    ANSWER: The study supports the hypothesis that nurses' aides who were exposed to ETS at home during childhood have an increased risk of long-term sickness absence.
-    

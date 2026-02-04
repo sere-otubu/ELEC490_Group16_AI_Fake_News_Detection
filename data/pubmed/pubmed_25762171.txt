@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Infectious disease control
-TITLE: Control selection methods in recent case-control studies conducted as part of infectious disease outbreaks.
-PMID: 25762171
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25762171/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Successful investigation of national outbreaks of communicable disease relies on rapid identification of the source. Case-control methodologies are commonly used to achieve this. We assessed control selection methods used in recently published case-control studies for methodological and resource issues to determine if a standard approach could be identified. Neighbourhood controls were the most frequently used method in 53 studies of a range of different sizes, infections and settings. The most commonly used method of data collection was face to face interview. Control selection issues were identified in four areas: method of identification of controls, appropriateness of controls, ease of recruitment of controls, and resource requirements. Potential biases arising from the method of control selection were identified in half of the studies assessed. There is a need to develop new ways of selecting controls in a rapid, random and representative manner to improve the accuracy and timeliness of epidemiological investigations and maximise the effectiveness of public health interventions. Innovative methods such as prior recruitment of controls could improve timeliness and representativeness of control selection.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Type 1 allergies
-TITLE: Grain and legume allergy.
-PMID: 26022874
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26022874/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Among grains and legumes, wheat and soybean are the most frequent and well-characterized allergenic foods. Wheat proteins are divided into water/salt-soluble and water/salt-insoluble (gluten) fractions. The most dominant allergen in the former is α-amylase/trypsin inhibitor, which acts as an inhaled allergen causing baker's asthma. Gluten allergens, including ω-5 gliadin and high- and low-molecular-weight glutenins, contribute to wheat-dependent exercise-induced anaphylaxis in adults and immediate-type wheat allergies, including anaphylaxis, in children. Recently, wheat allergies exclusively caused by hydrolyzed wheat proteins or deamidated glutens have been reported, and the presence of unique IgE-binding epitopes has been suggested. Soybean allergens contributing to immediate-type allergic reactions in children are present in seed storage proteins, namely Gly m 5, Gly m 6 and Gly m 8. However, pollen-related soybean allergy in adults is caused by the Bet v 1 homolog of soybeans, Gly m 4. Taken together, the varying clinical manifestations of wheat and soybean allergies are predominantly caused by their different allergen components.

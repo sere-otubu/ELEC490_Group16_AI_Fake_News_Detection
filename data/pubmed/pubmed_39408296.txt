@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vegan diet
-TITLE: The Association of a Vegan Diet during Pregnancy with Maternal and Child Outcomes: A Systematic Review.
-PMID: 39408296
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39408296/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-<b>Background:</b> With the increasing prevalence of pregnant women adhering to a vegan diet, gaining insight into their nutritional intake and its association with maternal and fetal outcomes is essential to providing recommendations and developing guidelines for general practice. <b>Methods:</b> Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, a systematic review of the available scientific literature in Medline, Embase, and Cochrane was conducted in January 2024. <b>Results</b>: The titles and abstracts of 2211 unique articles were screened. Only six studies were eligible for inclusion and assessed for methodological quality using the (National Institutes of Health Study Quality (NIHSQ) Assessment Tool. The intake of protein and various micronutrients was significantly lower among vegan pregnant women compared to omnivorous women. Vitamin B12 supplements seemed sufficient in optimizing maternal and umbilical cord vitamin B12 levels amongst vegan mothers. Further, women on a vegan diet less often showed excessive pregnancy weight gain. However, children from women on a vegan diet had a significantly lower birth weight than those from women on an omnivorous diet. <b>Conclusion:</b> So far, only a few studies, with a large diversity of (assessment of) outcomes and insufficient power, have been published on this topic, limiting our ability to make firm conclusions about the effects of a vegan diet during pregnancy on maternal and fetal outcomes.

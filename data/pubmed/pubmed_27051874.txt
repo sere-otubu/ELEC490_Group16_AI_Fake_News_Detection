@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Integumentary system
-TITLE: Bioengineering a 3D integumentary organ system from iPS cells using an in vivo transplantation model.
-PMID: 27051874
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27051874/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The integumentary organ system is a complex system that plays important roles in waterproofing, cushioning, protecting deeper tissues, excreting waste, and thermoregulation. We developed a novel in vivo transplantation model designated as a clustering-dependent embryoid body transplantation method and generated a bioengineered three-dimensional (3D) integumentary organ system, including appendage organs such as hair follicles and sebaceous glands, from induced pluripotent stem cells. This bioengineered 3D integumentary organ system was fully functional following transplantation into nude mice and could be properly connected to surrounding host tissues, such as the epidermis, arrector pili muscles, and nerve fibers, without tumorigenesis. The bioengineered hair follicles in the 3D integumentary organ system also showed proper hair eruption and hair cycles, including the rearrangement of follicular stem cells and their niches. Potential applications of the 3D integumentary organ system include an in vitro assay system, an animal model alternative, and a bioengineered organ replacement therapy.

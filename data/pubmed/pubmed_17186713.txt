@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vasectomy
-TITLE: Vasectomy: an update.
-PMID: 17186713
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17186713/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Vasectomy remains an important option for contraception. Research findings have clarified many questions regarding patient selection, optimal technique, postsurgical follow-up, and risk of long-term complications. Men who receive vasectomies tend to be non-Hispanic whites, well educated, married or cohabitating, relatively affluent, and have private health insurance. The strongest predictor for wanting a vasectomy reversal is age younger than 30 years at the time of the procedure. Evidence supports the use of the no-scalpel technique to access the vasa, because it is associated with the fewest complications. The technique with the lowest failure rate is cauterization of the vasa with or without fascial interposition. The ligation techniques should be used cautiously, if at all, and only in combination with fascial interposition or cautery. A single postvasectomy semen sample at 12 weeks that shows rare, nonmotile sperm or azoospermia is acceptable to confirm sterility. No data show that vasectomy increases the risk of prostate or testicular cancer.

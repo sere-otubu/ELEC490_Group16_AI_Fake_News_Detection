@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep apnea
-TITLE: Evaluation of isotretinoin effects on depression, sleep apnea and sleep quality.
-PMID: 38608451
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38608451/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Isotretinoin is used to treat severe acne, treatment-resistant moderate acne, and acne that leads to scarring or psychological distress. It has many side effects and is also associated with depression, sleep apnea, and sleep disturbances. In this study, we aimed to evaluate the effects of isotretinoin on depression, sleep apnea, and sleep quality. A total of 42 patients diagnosed with acne and started isotretinoin treatment were included in the study. In order to compare the effects of isotretinoin, patients were asked to fill out a questionnaire containing the Beck Depression Inventory (BDI), the Berlin Questionnaire (BQ), and the Pittsburg Sleep Quality Index (PSQI) at baseline and third months of treatment. There was no statistically significant difference in BDI, BQ, and PSQI scores between the 1<sup>st</sup> and 3<sup>rd</sup> months of treatment (<i>p</i> = .53, <i>p</i> = .5, <i>p</i> = .35). This study showed that isotretinoin had no significant effects on depression and sleep quality.

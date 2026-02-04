@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Measles
-TITLE: Measles.
-PMID: 28673424
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28673424/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Measles is a highly contagious disease that results from infection with measles virus and is still responsible for more than 100 000 deaths every year, down from more than 2 million deaths annually before the introduction and widespread use of measles vaccine. Measles virus is transmitted by the respiratory route and illness begins with fever, cough, coryza, and conjunctivitis followed by a characteristic rash. Complications of measles affect most organ systems, with pneumonia accounting for most measles-associated morbidity and mortality. The management of patients with measles includes provision of vitamin A. Measles is best prevented through vaccination, and the major reductions in measles incidence and mortality have renewed interest in regional elimination and global eradication. However, urgent efforts are needed to increase stagnating global coverage with two doses of measles vaccine through advocacy, education, and the strengthening of routine immunisation systems. Use of combined measles-rubella vaccines provides an opportunity to eliminate rubella and congenital rubella syndrome. Ongoing research efforts, including the development of point-of-care diagnostics and microneedle patches, will facilitate progress towards measles elimination and eradication.

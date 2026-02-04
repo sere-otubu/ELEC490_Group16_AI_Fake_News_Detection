@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blue light effects
-TITLE: Effects of Blue Light on Fruiting Body Production and Ergothioneine Content During Sawdust Cultivation of Shiitake (<i>Lentinula edodes</i>).
-PMID: 39845181
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39845181/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The cultivation period of shiitake (<i>Lentinula edodes</i>) is approximately 120-150 d, which is longer than that of other edible mushrooms. The development of fruiting bodies in shiitake is affected by light exposure. In this study, we investigated the effects of blue light on the production and ergothioneine contents of shiitake mushrooms. Fruiting body production (yield) on the medium irradiated with blue light increased in both cultivars (L808, 555 ± 60 g/3 kg medium; Sanbackhyang, 1090 ± 106 g/3 kg medium). Additionally, blue light increased the ergothioneine contents and antioxidative activities, and the ergothioneine content of L808 (about 2.8 mg/g) was higher than that of Sanbackhyang (about 1.2 mg/g). These results suggest that blue light is effective in shortening the cultivation period and increasing ergothioneine contents during shiitake cultivation.

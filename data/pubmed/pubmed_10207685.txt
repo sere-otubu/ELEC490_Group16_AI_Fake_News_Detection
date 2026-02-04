@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pituitary gland
-TITLE: Current approaches to imaging of the sellar region and pituitary.
-PMID: 10207685
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10207685/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Recent advances in MR imaging have enabled the radiologist to view the pituitary gland in its normal and diseased states to a greater extent than ever before. The techniques for obtaining quality images of the sellar region and the normal appearance of the pituitary gland are discussed. This article also discusses the imaging of several pituitary disease processes, with emphasis on pitutiary adenomas and recent advances in diagnosis and follow-up. Current controversies also are addressed.

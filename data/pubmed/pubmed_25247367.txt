@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cochlear implants
-TITLE: Cochlear implants.
-PMID: 25247367
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25247367/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cochlear implants are the first example of a neural prosthesis that can substitute a sensory organ: they bypass the malfunctioning auditory periphery of profoundly-deaf people to electrically stimulate their auditory nerve. The history of cochlear implants dates back to 1957, when Djourno and Eyriès managed, for the first time, to elicit sound sensations in a deaf listener using an electrode implanted in his inner ear. Since then, considerable technological and scientific advances have been made. Worldwide, more than 300,000 deaf people have been fitted with a cochlear implant; it has become a standard clinical procedure for born-deaf children and its success has led over the years to relaxed patient selection criteria; for example, it is now not uncommon to see people with significant residual hearing undergoing implantation. Although the ability to make sense of sounds varies widely among the implanted population, many cochlear implant listeners can use the telephone and follow auditory-only conversations in quiet environments.

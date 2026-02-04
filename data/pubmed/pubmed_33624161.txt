@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anaphylaxis
-TITLE: Infant Anaphylaxis: A Diagnostic Challenge.
-PMID: 33624161
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33624161/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Infant anaphylaxis has been increasing in incidence; however, significant gaps in the literature remain. The aim of this article is to review the most recent literature pertaining to infant anaphylaxis and discuss recent findings related to epidemiology, diagnosis, management, and prevention. There is no accurate report of the incidence and prevalence of anaphylaxis in infancy. Food is the most common trigger for infant anaphylaxis reported. The diagnosis of anaphylaxis in infants is often missed, and, even when the diagnosis is made, epinephrine continues to be under-utilized. An epinephrine autoinjector with a shorter needle and lower dose is now available for infants. Concise criteria specifically focusing on infant anaphylaxis is needed to streamline its diagnosis and management. Diagnosis is underrecognized in infants leading to improper treatment. When the diagnosis is made, epinephrine continues to be under-utilized and under-prescribed in infants.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Major depressive disorder
-TITLE: Paediatric major depressive disorder: neurobiology and implications for early intervention.
-PMID: 22640381
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22640381/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Paediatric major depressive disorder (MDD) is associated with chronicity and poor outcomes. The goals of this review are (i) to integrate how developing biological systems contribute to the pathophysiology of paediatric MDD, and (ii) to consider the role of early intervention for depressed youth. A developmental perspective is applied herein to review and integrate key neurobiological systems that are implicated in paediatric MDD. We also review recent treatment research for adolescents with MDD. Available evidence in paediatric and adult populations support an integrative model for the pathophysiology of MDD that involves fronto-limbic neural circuitry and the neuroendocrine stress response system. Evidence from treatment research supports the efficacy of available treatments modalities, including antidepressant medications, cognitive behavioral therapy, and their combination, for the majority of adolescents with moderate to severe MDD. Since the biological systems implicated in MDD mature through adolescence, adolescents may be more susceptible to developing depression but also may be more amenable to treatment interventions. Early identification and treatment of paediatric MDD may be able to divert negative trajectories and lead to improved outcomes.

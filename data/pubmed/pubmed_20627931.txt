@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Respiratory system
-TITLE: British Thoracic Society guideline for non-CF bronchiectasis.
-PMID: 20627931
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20627931/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The diagnosis, investigation and particularly management of bronchiectasis has been largely empirical and the subject of relatively few controlled clinical trials. There are no clear guidelines, although an Australian position statement has been published concerning bronchiectasis in children. The purposes of these guidelines were therefore threefold: (1) to identify relevant studies in non-cystic fibrosis (CF) bronchiectasis; (2) to provide guidelines on management based on published studies where possible or a consensus view; and (3) to identify gaps in our knowledge and identify areas for future study.

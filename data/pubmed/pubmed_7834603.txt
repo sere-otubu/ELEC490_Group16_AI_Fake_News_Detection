@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hepatitis C
-TITLE: Hepatitis C: progress and problems.
-PMID: 7834603
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7834603/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The hepatitis C virus (HCV), a single-stranded RNA virus, is the major cause of posttransfusion hepatitis. HCV isolates differ in nucleotide and amino acid sequences. Nucleotide changes are concentrated in hypervariable regions and may be related to immune selection. In most immunocompetent persons, HCV infection is diagnosed serologically, using antigens from conserved regions. Amplification of RNA may be necessary to detect infection in immunosuppressed patients. Transmission by known parenteral routes is frequent; other means of spread are less common and may represent inapparent, percutaneous dissemination. Infection can lead to classical acute hepatitis, but most infected persons have no history of acute disease. Once infected, most individuals apparently remain carriers of the virus, with varying degrees of hepatocyte damage and fibrosis ensuing. Chronic hepatitis may lead to cirrhosis and hepatocellular carcinoma. However, disease progression varies widely, from less than 2 years to cirrhosis in some patients to more than 30 years with only chronic hepatitis in others. Determinants important in deciding outcome are unknown. Alpha interferon, which results in sustained remission in selected patients, is the only available therapy. Long-term benefits from such therapy have not been demonstrated. Prevention of HCV infection by vaccination is likely to be challenging if ongoing viral mutation results in escape from neutralization and clearance.

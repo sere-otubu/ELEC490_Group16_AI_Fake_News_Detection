@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cataracts
-TITLE: Mouse models for microphthalmia, anophthalmia and cataracts.
-PMID: 30919050
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30919050/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Mouse mutants are a long-lasting, valuable tool to identify genes underlying eye diseases, because the absence of eyes, very small eyes and severely affected, cataractous eyes are easily to detect without major technical equipment. In mice, actually 145 genes or loci are known for anophthalmia, 269 for microphthalmia, and 180 for cataracts. Approximately, 25% of the loci are not yet characterized; however, some of the ancient lines are extinct and not available for future research. The phenotypes of the mutants represent a continuous spectrum either in anophthalmia and microphthalmia, or in microphthalmia and cataracts. On the other side, mouse models are still missing for some genes, which have been identified in human families to be causative for anophthalmia, microphthalmia, or cataracts. Finally, the mouse offers the possibility to genetically test the roles of modifiers and the role of SNPs; these aspects open new avenues for ophthalmogenetics in the mouse.

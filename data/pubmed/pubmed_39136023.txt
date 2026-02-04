@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rosacea
-TITLE: Therapeutic strategies focusing on immune dysregulation and neuroinflammation in rosacea.
-PMID: 39136023
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39136023/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rosacea is a complex inflammatory condition characterized by papulopustular lesions and erythema on the central face for which there is no cure. The development of rosacea is influenced by both external triggers and genetics, but the common pathophysiology is overactivation of the immune system. Here, we review the current data on proinflammatory cytokines and dysregulation of the neurovascular system as targetable components of rosacea. Amelioration of cutaneous and gastrointestinal dysbiosis and other external factors impacts the immune state and has been observed to improve rosacea. While multiple treatments exist, many patients do not achieve their goals for rosacea control and highlights an unmet need for dermatologic care. Current interventions encompass topical/oral drugs, light devices, and avoidance of triggers management. Additional understanding of the underlying pathogenesis may help us develop novel targeted therapeutic strategies to improve rosacea.

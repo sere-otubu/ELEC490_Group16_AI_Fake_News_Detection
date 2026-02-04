@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lymphoma
-TITLE: Non-Hodgkin's lymphoma.
-PMID: 9371296
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9371296/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The increasing incidence of lymphomas is related to environmental factors including occupational exposures and HIV infection. Molecular and immunologic studies have recently defined some new clinico-pathologic entities such as mantle cell lymphoma and lymphoma of mucosal-associated lymphatic tissue. However, the most prevalent lymphomas are follicular lymphomas and diffuse aggressive-histology lymphomas. Follicular lymphomas are curable with radiation therapy when they are localized to lymph nodes. Efforts to improve treatment results in patients with advanced follicular lymphoma are focusing primarily on the use of additional therapy (eg, interferon, high-dose chemoradiotherapy, and immunologic therapy) after induction of a complete response by combination chemotherapy. Aggressive-histology lymphoma is curable in more than 85% of patients when it is localized and in more than 50% of patients when it is disseminated. Efforts to improve treatment results are focusing primarily on delivering therapy with higher-dose intensity.

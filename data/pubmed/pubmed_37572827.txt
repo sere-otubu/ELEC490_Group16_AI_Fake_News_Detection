@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Autoimmune diseases
-TITLE: Intermittent fasting: A promising dietary intervention for autoimmune diseases.
-PMID: 37572827
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37572827/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Intermittent fasting, which includes periods of fasting and nutrition, has been considered a dietary approach for weight loss and metabolic health improvement. However, its potential benefits in autoimmune diseases have not been widely studied. This study aims to review the existing studies on the role and effects of intermittent fasting on autoimmune diseases. A comprehensive search was conducted on electronic databases such as PubMed, Scopus, Embase, and Web of Science, and relevant studies were included based on inclusion criteria. Studies show that intermittent fasting may have beneficial effects on various autoimmune diseases, such as type 1 diabetes, rheumatoid arthritis, and systemic lupus erythematosus, by reducing inflammatory markers, modulating the immune system, altering and improving gut microbiota, and enhancing cellular repair mechanisms through autophagy. However, evidence regarding the effects of intermittent fasting on other autoimmune diseases such as multiple sclerosis, systemic lupus erythematosus, thyroid diseases, and psoriasis is limited and inconclusive. Nevertheless, further research is needed to determine optimal intermittent fasting guidelines and its long-term effects on autoimmune diseases. Overall, this literature review proves intermittent fasting may be a promising dietary intervention for managing autoimmune diseases.

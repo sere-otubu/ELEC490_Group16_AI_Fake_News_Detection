@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Generalized anxiety disorder
-TITLE: Generalized anxiety disorder.
-PMID: 11037076
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11037076/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Patients with generalized anxiety disorder experience worry or anxiety and a number of physical and psychologic symptoms. The disorder is frequently difficult to diagnose because of the variety of presentations and the common occurrence of comorbid medical or psychiatric conditions. The lifetime prevalence is approximately 4 to 6 percent in the general population and is more common in women than in men. It is often chronic, and patients with this disorder are more likely to be seen by family physicians than by psychiatrists. Treatment consists of pharmacotherapy and various forms of psychotherapy. The benzodiazepines are used for short-term treatment, but because of the frequently chronic nature of generalized anxiety disorder, they may need to be continued for months to years. Buspirone and antidepressants are also used for the pharmacologic management of patients with generalized anxiety disorder. Patients must receive an appropriate pharmacologic trial with dosage titrated to optimal levels as judged by the control of symptoms and the tolerance of side effects. Psychiatric consultation should be considered for patients who do not respond to an appropriate trial of pharmacotherapy.

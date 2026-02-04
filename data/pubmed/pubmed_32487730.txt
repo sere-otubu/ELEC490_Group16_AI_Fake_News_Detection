@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Clinical trial phases
-TITLE: P-hacking in clinical trials and how incentives shape the distribution of results across phases.
-PMID: 32487730
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32487730/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Clinical research should conform to high standards of ethical and scientific integrity, given that human lives are at stake. However, economic incentives can generate conflicts of interest for investigators, who may be inclined to withhold unfavorable results or even tamper with data in order to achieve desired outcomes. To shed light on the integrity of clinical trial results, this paper systematically analyzes the distribution of <i>P</i> values of primary outcomes for phase II and phase III drug trials reported to the ClinicalTrials.gov registry. First, we detect no bunching of results just above the classical 5% threshold for statistical significance. Second, a density-discontinuity test reveals an upward jump at the 5% threshold for phase III results by small industry sponsors. Third, we document a larger fraction of significant results in phase III compared to phase II. Linking trials across phases, we find that early favorable results increase the likelihood of continuing into the next phase. Once we take into account this selective continuation, we can explain almost completely the excess of significant results in phase III for trials conducted by large industry sponsors. For small industry sponsors, instead, part of the excess remains unexplained.

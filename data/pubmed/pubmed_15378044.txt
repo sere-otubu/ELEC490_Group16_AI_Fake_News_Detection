@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chlamydia
-TITLE: Chlamydia and apoptosis: life and death decisions of an intracellular pathogen.
-PMID: 15378044
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15378044/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The chlamydiae are important obligate intracellular prokaryotic pathogens that, each year, are responsible for millions of human infections involving the eye, genital tract, respiratory tract, vasculature and joints. The chlamydiae grow in cytoplasmic vesicles in susceptible host cells, which include the mucosal epithelium, vascular endothelium, smooth muscle cells, circulating monocytes and recruited or tissue-specific macrophages. One important pathogenic strategy that chlamydiae have evolved to promote their survival is the modulation of programmed cell death pathways in infected host cells. The chlamydiae can elicit the induction of host cell death, or apoptosis, under some circumstances and actively inhibit apoptosis under others. This subtle pathogenic mechanism highlights the manner in which these highly successful pathogens take control of infected cells to promote their own survival - even under the most adverse circumstances.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Epilepsy
-TITLE: [Epilepsy in adults].
-PMID: 39971457
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39971457/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Epilepsy is a common, chronic disease that manifests itself in many different forms. This article describes its pathophysiology, associated comorbidities and the new treatment options available.

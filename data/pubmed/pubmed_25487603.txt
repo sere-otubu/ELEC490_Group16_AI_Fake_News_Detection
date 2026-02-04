@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25487603)
-    QUESTION: Analysis of the epidemiological pattern of Shigellosis in Barcelona between 1988 and 2012: Is it an emerging sexually transmitted infection?
-    CONTEXT: The aim of this study was to describe the evolution and epidemiologic characteristics of shigellosis patients over a 25 year period in a large city.
-    ANSWER: An increased trend was detected in men who had no history of food poisoning or travel to endemic areas. This increase points to a change in the pattern of shigellosis, becoming predominantly male and its main mechanism probably by sexual transmission.
-    

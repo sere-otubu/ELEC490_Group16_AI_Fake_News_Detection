@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 10605400)
-    QUESTION: Is the international normalised ratio (INR) reliable?
-    CONTEXT: As part of an MRC funded study into primary care oral anticoagulation management, INR measurements obtained in general practice were validated against values on the same samples obtained in hospital laboratories. A prospective comparative trial was undertaken between three hospital laboratories and nine general practices. All patients attending general practice based anticoagulant clinics had parallel INR estimations performed in general practice and in a hospital laboratory.
-    ANSWER: No technical problems associated with INR testing within primary care were uncovered. Discrepant INR results are as problematic in hospital settings as they are in primary care. These data highlight the failings of the INR to standardise when different techniques and reagents are used, an issue which needs to be resolved. For primary care to become more involved in therapeutic oral anticoagulation monitoring, close links are needed between hospital laboratories and practices, particularly with regard to training and quality assurance.
-    

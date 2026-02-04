@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Food safety guidelines
-TITLE: Pomegranate: A Comprehensive Review of Functional Components, Health Benefits, Processing, Food Applications, and Food Safety.
-PMID: 40001286
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40001286/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Pomegranate gained widespread attention for its potential "medicine and food homology" properties. This review aims to elucidate the main health benefits of the functional components of pomegranate and to summarize its processing and application. It explores current research limitations and proposes potential research directions. Pomegranate juice is rich in punicalagin, ellagic acid, and cyanidin-3-<i>O</i>-glucoside. The gut microbiota metabolites of these compounds could exert biological effects through Nrf2/HO-1, miR-126/VCAM-1, Akt/IKK/NF-κB, and SIRT1/PGC-1α signaling pathways. The pomegranate peel also contains these components, which can be extracted by microwave-assisted extraction, ultrasonic-assisted extraction, and pressurized liquid extraction and then used in food additives or functional foods. Furthermore, safety concerns exist due to variations in extraction methods and potential food-drug interactions. This paper emphasizes the importance of developing standardized extraction methods and clear intake dosage guidelines, which will lay the foundation for the application of pomegranate in the food industry.

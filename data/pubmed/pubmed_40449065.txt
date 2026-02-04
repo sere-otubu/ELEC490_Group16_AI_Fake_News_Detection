@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep hygiene
-TITLE: Effects of sleep hygiene education for insomnia: A systematic review and meta-analysis.
-PMID: 40449065
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40449065/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sleep hygiene education (SHE) as a single therapy for insomnia still lacks sufficient evidence. This study aimed to quantify the effects of SHE on insomnia treatment. A literature search was conducted on seven databases from inception up to 30 September 2024 to retrieve randomized controlled trials. Meta-analyses were performed to estimate the mean difference (MD) of Insomnia Severity Index (ISI) (primary outcome) using a random-effects model. Risk of Bias 2 tool was applied to measure methodological quality. Forty-two RCTs encompassing 4245 adults (65.5 % female) were included. The pooled results showed significant pretreatment-to-posttreatment improvement in ISI score (MD = 3.4, 95 % confidence interval (CI) [2.08, 4.64]). However, SHE was inferior as a cognitive behavioral therapy for insomnia (CBT-I) (MD = 3.8, 95 % CI [2.92, 4.76]), partial CBT-I (MD = 4.5, 95 % CI [3.33, 5.60]), exercises (MD = 2.9, 95 % CI [0.81, 5.04]), and acupressure (MD = 1.9, 95 % CI [0.82, 3.00]) regarding the ISI score. The majority of included trials (85.71 %) had a high overall risk of bias, and the remaining had "some concerns." Future work is encouraged to generate robust evidence through the development of well-designed SHE as an examined intervention for insomnia that involves process evaluation and treatment fidelity.

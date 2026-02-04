@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antacids
-TITLE: Maintenance of duodenal ulcer healing by antacids.
-PMID: 2205901
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2205901/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Three studies have investigated the ability of long-term antacid treatment to prevent duodenal ulcer relapse. The first of these, more than 30 years ago, showed that antacids could reduce recurrence or persistence of symptoms when compared with placebo. There are two studies from the 'modern era' of fibreoptic endoscopy and H2-reception antagonists. The Milan study found antacid (one tablet four times daily), cimetidine (400 mg at night), or a combination of the two, to be approximately equally effective in the prevention of relapse. The international study found antacid (three tablets three times daily) to be as effective as cimetidine (400 mg at night) and to be better than placebo for maintenance purposes. Antacid, three tablets at night had intermediate efficacy.

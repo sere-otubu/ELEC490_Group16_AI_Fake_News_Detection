@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Healthcare accessibility
-TITLE: Autistic SPACE: a novel framework for meeting the needs of autistic people in healthcare settings.
-PMID: 37127416
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37127416/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Autistic people experience significant health disparities and reduced life expectancy. Barriers to accessing healthcare are associated with adverse health outcomes. Autism training and healthcare professionals' knowledge about autism is variable, and heterogeneity among autistic people leads to additional educational and clinical complexities. Autism remains nebulous for many practitioners, who are unclear about communication differences, access needs or life experiences common to autistic people. Healthcare environments can be challenging for all patients but autistic people may require specific accommodations to allow equitable access. The authors have developed a simple framework which may facilitate equitable clinical services at all points of access and care, using the acronym 'SPACE'. This encompasses five core autistic needs: Sensory needs, Predictability, Acceptance, Communication and Empathy. Three additional domains are represented by physical space, processing space and emotional space. This simple yet memorable framework encompasses commonalities shared by autistic people.

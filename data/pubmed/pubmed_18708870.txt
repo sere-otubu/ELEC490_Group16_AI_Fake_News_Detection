@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Influenza
-TITLE: Preparing for pandemic influenza.
-PMID: 18708870
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18708870/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Influenza is a highly contagious, acute febrile respiratory illness that results in global morbidity and mortality annually. Avian influenza (H5N1) has the potential to cause a pandemic. Avian influenza's epidemiology and clinical description, including common signs/symptoms, transmission, vaccination, and treatment, are presented. Recommended isolation practices for labor and delivery, and proper procedures for identifying and managing infected patients are provided. Potential maternal and newborn outcomes related to influenza and avian influenza are discussed. Pandemic planning issues are outlined, including hospital surge capacity, medical equipment and staffing availability, and the need for altered standards of care. Communities need to designate sites (whether in hospital or in alternative care centers) for labor and delivery services as part of their disaster plan. Pregnant women and newborns are vulnerable groups during routine times and are expected to be disproportionately affected during a pandemic in terms of morbidity and mortality. Therefore, it is essential that hospitals and communities take steps to protect these vulnerable groups as part of the disaster planning process. It is not known whether or when a pandemic will occur, but perinatal and neonatal nurses should become familiar with avian influenza's clinical description and proper infection control procedures to halt potential disease spread.

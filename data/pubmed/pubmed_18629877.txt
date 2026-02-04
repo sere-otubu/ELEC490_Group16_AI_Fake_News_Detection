@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic disorders
-TITLE: Genetic disorders associated with macrocephaly.
-PMID: 18629877
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18629877/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Macrocephaly is associated with many genetic disorders and is a frequent cause of referral to the clinical geneticist. In this review we classify the commonly encountered macrocephaly disorders into useful categories and summarize recent genetic advances. Conditions where macrocephaly is a predominant aspect of the clinical presentation are discussed and a diagnostic approach to the common macrocephaly disorders is provided. Some emphasis is placed on familial macrocephaly (sometimes referred to as benign external hydrocephalus) and on the macrocephaly associated with autism spectrum disorders. The more recent conditions associated with the leukodystrophies and the organic acidurias are reviewed, but the well known conditions involving storage disorders and bone dysplasias are mentioned but not discussed. The genetic macrocephaly conditions cover a broad spectrum of gene disorders and their related proteins have diverse biological functions. As of yet it is not clear what precise biological pathways lead to generalized brain overgrowth.

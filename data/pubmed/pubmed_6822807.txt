@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vasectomy
-TITLE: Vasectomy.
-PMID: 6822807
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6822807/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Bilateral vasectomy is a common method of achieving elective sterilization in men. Knowledge of male genital anatomy is important in the performance of this procedure as well as in screening patients with anatomical contraindications. Careful counseling techniques will help avoid medicolegal problems. There are several operative techniques used to perform a vasectomy. Postoperative evaluation and semen analysis should be accomplished to recognize and allay complications. Major complications are rare; minor complications are relatively frequent, with early diagnosis and treatment important in hastening recovery. Psychological consequences are rare. Thus, vasectomy is a relatively safe, inexpensive, and dependable contraceptive procedure.

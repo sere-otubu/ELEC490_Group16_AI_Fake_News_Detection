@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tetanus
-TITLE: Clinical progress note: Tetanus.
-PMID: 40818092
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40818092/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Tetanus is a pathogen with a significant global burden which has largely been eradicated in the developed world through safe and highly effective vaccination. In this era of increasing vaccine hesitancy, physicians should remain cognizant of this rare, preventable and high-consequence pathogen.

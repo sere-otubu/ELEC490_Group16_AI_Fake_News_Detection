@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Narcolepsy
-TITLE: Narcolepsy.
-PMID: 12659360
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12659360/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Narcolepsy is a severely debilitating neurologic disease that is not as rare as many believe, affecting an estimated 140,000 Americans. Despite the sometimes debilitating nature of narcolepsy symptoms, the disease may go undiagnosed without an organized method for evaluating patients with sleep complaints. Many of the classic symptoms of narcolepsy, such as excessive daytime sleepiness, cataplexy, sleep paralysis, and hypnagogic hallucinations, may be mistakenly associated with other disease states and must be differentiated from other sleep disorders. The results of self-administered sleep-disorder questionnaires are useful and may increase the suspicion of narcolepsy; however, referral to an accredited sleep laboratory for a formal sleep study including overnight polysomnography is necessary for a positive narcolepsy diagnosis. A variety of medications may be used to successfully treat excessive daytime sleepiness and cataplexy, the two most debilitating symptoms of the disease. Primary-care physicians who develop the proper diagnostic skills can play a pivotal role in the accurate diagnosis and long-term management of patients suffering from narcolepsy.

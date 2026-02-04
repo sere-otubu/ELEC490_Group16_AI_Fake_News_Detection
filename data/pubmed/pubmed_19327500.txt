@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 19327500)
-    QUESTION: Gender difference in survival of resected non-small cell lung cancer: histology-related phenomenon?
-    CONTEXT: It remains controversial whether there is a gender difference in survival of patients with resected non-small cell lung cancer.
-    ANSWER: Women had better survival than men; however, there was no survival advantage in propensity-matched gender pairs. A gender difference in survival was observed only in the adenocarcinoma subset, suggesting pathobiology in adenocarcinoma in women might be different from that of men.
-    

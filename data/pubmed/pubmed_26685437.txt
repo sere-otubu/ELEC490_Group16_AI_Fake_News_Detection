@@ -1,8 +1,0 @@
-SEARCH_TOPIC: MRI scan
-TITLE: What does an MRI scan cost?
-PMID: 26685437
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26685437/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Historically, hospital departments have computed the costs of individual tests or procedures using the ratio of cost to charges (RCC) method, which can produce inaccurate results. To determine a more accurate cost of a test or procedure, the activity-based costing (ABC) method must be used. Accurate cost calculations will ensure reliable information about the profitability of a hospital's DRGs.

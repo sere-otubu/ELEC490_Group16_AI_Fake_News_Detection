@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23601294)
-    QUESTION: Pitfalls in urinary stone identification using CT attenuation values: are we getting the same information on different scanner models?
-    CONTEXT: Evaluate the capability of different Computed Tomography scanners to determine urinary stone compositions based on CT attenuation values and to evaluate potential differences between each model.
-    ANSWER: According to our study, there is a great variability when different brands and models of scanners are compared directly. Furthermore, the CT scan analysis and HU evaluation appears to gather insufficient information in order to characterize and identify the composition of renal stones.
-    

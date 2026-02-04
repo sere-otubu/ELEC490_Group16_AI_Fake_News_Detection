@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Childhood obesity
-TITLE: Risk Factors and Implications of Childhood Obesity.
-PMID: 30315490
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30315490/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review summarizes our current understanding of factors associated with childhood obesity, including latest prevalence rates, effectiveness of intervention strategies, and risk for concomitant disease later in life. Obesity has reached global dimensions, and prevalence of childhood obesity has increased eightfold since 1975. Interventions for obesity prevention have mainly focused on behavioral settings to date, i.e., interventions that have focused on behavioral changes of the individuum such as increasing daily physical exercise or optimizing diet. However, effects have been very limited worldwide and could not stop the increase of obesity prevalence so fare. Thus, community-based/environment-oriented measures are urgently needed, such as promotion of healthy food choices by taxing unhealthy foods, mandatory standards for meals in kindergarten and schools, increase of daily physical activity at kindergartens, and schools as well as ban on unhealthy food advertisement for children. Restructuring obesity interventions towards community-based/environment-oriented measures to counteract an obesogenic environment is mandatory for sustainable success and to stop the obesity epidemy. There is need to move fast, as already moderate overweight before the start of puberty is associated with significantly increased risk for type 2 diabetes and cardiovascular disease in midlife.

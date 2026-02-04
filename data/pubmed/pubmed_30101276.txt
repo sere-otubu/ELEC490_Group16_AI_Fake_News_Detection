@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Public health policy
-TITLE: A guide to policy analysis as a research method.
-PMID: 30101276
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30101276/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Policy analysis provides a way for understanding how and why governments enact certain policies, and their effects. Public health policy research is limited and lacks theoretical underpinnings. This article aims to describe and critique different approaches to policy analysis thus providing direction for undertaking policy analysis in the field of health promotion. Through the use of an illustrative example in nutrition it aims to illustrate the different approaches. Three broad orientations to policy analysis are outlined: (i) Traditional approaches aim to identify the 'best' solution, through undertaking objective analyses of possible solutions. (ii) Mainstream approaches focus on the interaction of policy actors in policymaking. (iii) Interpretive approaches examine the framing and representation of problems and how policies reflect the social construction of 'problems'. Policy analysis may assist understanding of how and why policies to improve nutrition are enacted (or rejected) and may inform practitioners in their advocacy. As such, policy analysis provides researchers with a powerful tool to understand the use of research evidence in policymaking and generate a heightened understanding of the values, interests and political contexts underpinning policy decisions. Such methods may enable more effective advocacy for policies that can lead to improvements in health.

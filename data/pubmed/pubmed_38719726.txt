@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Intermittent fasting
-TITLE: Intermittent fasting influences immunity and metabolism.
-PMID: 38719726
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38719726/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Intermittent fasting (IF) modifies cell- and tissue-specific immunometabolic responses that dictate metabolic flexibility and inflammation during obesity and type 2 diabetes (T2D). Fasting forces periods of metabolic flexibility and necessitates increased use of different substrates. IF can lower metabolic inflammation and improve glucose metabolism without lowering obesity and can influence time-dependent, compartmentalized changes in immunity. Liver, adipose tissue, skeletal muscle, and immune cells communicate to relay metabolic and immune signals during fasting. Here we review the connections between metabolic and immune cells to explain the divergent effects of IF compared with classic caloric restriction (CR) strategies. We also explore how the immunometabolism of metabolic diseases dictates certain IF outcomes, where the gut microbiota triggers changes in immunity and metabolism during fasting.

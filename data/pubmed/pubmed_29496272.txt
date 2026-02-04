@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vertigo
-TITLE: [Management of vertigo and dizziness].
-PMID: 29496272
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29496272/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Balance disorders presenting with symptoms of dizziness and vertigo are due to various diseases. Clinical approach gives the opportunity to identify emergency situations and most common causes, among them the first one being the benign paroxysmal positional vertigo. Oculomotor assessment is pertinent as major clinical orientation, particularly between peripheral and central diseases. These clinical findings support the respective indication of modern imaging and/or vestibular tests, focused on the direction of presupposed diagnosis. On elderly the risk of falls and their complications needs a specific evaluation.

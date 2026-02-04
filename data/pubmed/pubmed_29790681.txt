@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lung cancer
-TITLE: Multiple primary lung cancer: A literature review.
-PMID: 29790681
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29790681/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nowadays, lung cancer is a leading cause of death in both men and women worldwide. There is no clear explanation for its mortality rate. However, it is already known that genetic and environmental factors as well as oncological treatment are involved. As the incidence of lung cancer soars, the number of patients diagnosed with multiple primary lung cancers (MPLC) is also rising. While differentiating between MPLC and intrapulmonary metastasis of lung cancer is important for treatment strategy and prognosis, it is also quite complicated, particularly in the cases with similar histologies. It is also important not to delay the diagnosis. The aim of this paper was to discuss MPLC in general, and the differentiation between MPLC and intrapulmonary lung cancer metastasis in particular. Based on a review of statistical data and the current literature, we discuss the diagnostic criteria and the molecular, genetic and radiographic methods used to distinguish between MPLC and intrapulmonary metastases.

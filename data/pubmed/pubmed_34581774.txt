@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immunotherapy
-TITLE: The promise and perils of immunotherapy.
-PMID: 34581774
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34581774/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Advances in understanding the ways in which the immune system fails to control tumor growth or prevent autoimmunity have led to the development of powerful therapeutic strategies to treat these diseases. In contrast to conventional therapies that have a broadly suppressive effect, immunotherapies are more akin to targeted therapies because they are mechanistically driven and are typically developed with the goal of "drugging" a specific underlying pathway or phenotype. This means that their effects and toxicities are, at least in theory, more straightforward to anticipate. The development of functionalized antibodies, genetically engineered T cells, and immune checkpoint inhibitors continues to accelerate, illuminating new biology and bringing new treatment to patients. In the following sections, we provide an overview of immunotherapeutic concepts, highlight recent advances in the field of immunotherapies, and discuss controversies and future directions, particularly as these pertain to hematologic oncology or blood-related diseases. We conclude by illustrating how original research published in this journal fits into and contributes to the overall framework of advances in immunotherapy.

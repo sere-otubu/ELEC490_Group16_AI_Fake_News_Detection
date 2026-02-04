@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anemia
-TITLE: [Hepatogenic anemia].
-PMID: 6845779
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6845779/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Anaemias with multivariate pathogenesis are frequently observed in chronic liver diseases. Among our patients 44.4 per cent (132 of 297) had an anaemia. The hepatogenic anaemia which appeared most frequently in patients with liver cirrhosis and carcinoma of the liver was in most cases normochromic (75 per cent), at a small proportion hypochromic (17.4 per cent) and rarely hyperchromic (7.6 per cent). Initial phases of an anaemia were more frequently registered by means of the counting of erythrocytes than by means of the determination of haemoglobin, which is to be traced back to the frequently existing volume macrocytosis. Leptomacrocytes, target cells and acanthocytes are observed as further forms of macrocytes in liver diseases. Among the possible individual factors the more frequently appearing latent and more rarely existing manifest haemolysis prevailed in 82 per cent of the examined patients. A hypersplenism, however, was present only in 24 per cent of the patients, vitamin B12 and folic acid deficiency as well as signs of the ineffective erythropoiesis relatively more infrequently occurred. Additional occult haemorrhages or an increase of the plasma volume may lead to an anaemia in latent haemolysis. As to the diagnosis a basis programme and an enlarged programme are reported on. The therapy has to take into consideration the treatment of the basic disease and the deficiency conditions or disturbances established.

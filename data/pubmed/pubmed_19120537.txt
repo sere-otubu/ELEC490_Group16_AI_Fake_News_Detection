@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Epipen
-TITLE: Tako-tsubo-like cardiomyopathy after EpiPen administration.
-PMID: 19120537
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19120537/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Tako-tsubo-like cardiomyopathy is characterized by acute chest pain, electrocardiographic changes and increased cardiac enzymes in the absence of obstructive coronary vessel disease. We describe the development of tako-tsubo-like cardiomyopathy in an elderly woman after the use of an EpiPen for generalized urticaria and angioedema. As adrenaline may participate in the pathogenesis of this condition, the need for careful patient selection and education in the use of adrenaline self-injectors remains imperative.

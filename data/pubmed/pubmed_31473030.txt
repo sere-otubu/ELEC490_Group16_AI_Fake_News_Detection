@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pain management
-TITLE: Rehabilitation Therapy in Perioperative Pain Management.
-PMID: 31473030
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31473030/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Physical agent modalities can be effective in the perioperative period for controlling pain and inflammation. This article presents research-based evidence to support the use of these modalities in pain management and to reduce the use of pain medications, including opioids. The mechanism of action, applications, contraindications, and adverse effects of cryotherapy, pulsed electromagnetic field therapy, transcutaneous electrical nerve stimulation, and laser therapy are reviewed. Incorporation of 1 or more of these therapies in anesthesia pain management protocols can improve outcomes and reduce potential drug side effects.

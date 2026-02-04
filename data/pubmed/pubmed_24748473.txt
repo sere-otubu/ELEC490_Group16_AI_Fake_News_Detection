@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24748473)
-    QUESTION: Are there risk factors that increase the rate of staple line leakage in patients undergoing primary sleeve gastrectomy for morbid obesity?
-    CONTEXT: Laparoscopic sleeve gastrectomy (LSG) is currently being performed with increasing frequency worldwide. It offers an excellent weight loss and resolution of comorbidities in the short term with a very low incidence of complications. However, the ever present risk of a staple line leak is still a major concern.
-    ANSWER: The results of the current study demonstrated that there are factors that increase the risk of a leakage which would enable surgeons to define risk groups, to more carefully select patients, and to offer a closer follow-up during the postoperative course with early recognition and adequate treatment. All future efforts should be focused on a further reduction of serious complications to make the LSG a widely accepted and safer procedure.
-    

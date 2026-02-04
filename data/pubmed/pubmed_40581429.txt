@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Melanoma
-TITLE: Radiation Therapy for Metastatic Melanoma.
-PMID: 40581429
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40581429/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Metastatic melanoma is an aggressive and treatment-resistant skin cancer with a low 5-year survival rate of 27%. Historically considered radioresistant, melanoma's response to radiation therapy (RT) has evolved, especially when integrated with systemic therapies like immune checkpoint inhibitors (ICIs). RT is now recognized for its utility in local control, palliative care, and brain metastasis management. Emerging evidence shows RT's synergy with ICIs through mechanisms like the abscopal effect. This article explores RT's evolving role in metastatic melanoma treatment, focusing on integration with modern therapies and ongoing research into optimizing outcomes.

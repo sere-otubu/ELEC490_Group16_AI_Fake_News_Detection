@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Statins
-TITLE: Drug-Induced Liver Injury from Statins.
-PMID: 31753243
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31753243/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The hydroxymethyglutaryl-coenzyme A reductase inhibitors (statins) are a commonly prescribed class of medication for the treatment of hyperlipidemia and coronary artery disease. This class of medication has several proven benefits, including reduction of mortality related to coronary artery disease. A major consideration when prescribing these drugs are the potential for adverse effects, mainly myalgias, myopathy, and hepatotoxicity. In this article, we summarize current data on statin-associated hepatotoxicity and highlight that the risk of clinically significant idiosyncratic drug-induced liver injury is actually quite small. We also review preclinical data suggesting potential hepatoprotective effects of statin therapy.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tetanus
-TITLE: Tetanus.
-PMID: 3516553
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3516553/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Tetanus is produced by the action of the potent neurotoxin, tetanospasmin, which is elaborated during the growth of Clostridium tetani. The objectives of management of tetanus are to provide supportive care until the tetanospasmin that is fixed in tissue has been metabolized, to neutralize circulating toxin, and to remove the source of tetanospasmin. This disease, which is frequently fatal, is prevented by immunization.

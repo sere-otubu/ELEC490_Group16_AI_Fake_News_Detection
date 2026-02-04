@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antacids
-TITLE: Deprescribing antacids after the diagnosis of Clostridioides difficile infection: A single-center observational study.
-PMID: 36503067
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36503067/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Overuse of antacids is associated with the development and recurrence of Clostridioides difficile infection (CDI). Discontinuation of unnecessary antacids for CDI management is advocated; however, the clinical pervasiveness on the discontinuation of antacids remains unclear. We conducted a single-center retrospective observational study to determine the rate of antacid discontinuation following CDI diagnosis. Among 51 patients (58 infections; median age 76.5 years, range 69-82; 53.5% women) treated with antimicrobials against C. difficile, 41 had been treated with antacids, and of these, 18 exhibited no indication for antacid administration. However, none had discontinued antacid use. While CDI provides an opportunity for antacid stewardship, it is not implemented in clinical practice. In addition to the efforts of individual clinicians, the dissemination of knowledge of the indications and side effects of antacids, establishment of a multidisciplinary support system, and creation and implementation of a clinical stewardship pathway are necessary to increase the deprescription of antacids in patients with CDI.

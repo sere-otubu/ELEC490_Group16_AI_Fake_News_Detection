@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Screen time health
-TITLE: Screen time and mental health in college students: Time in nature as a protective factor.
-PMID: 36796079
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36796079/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-<b><i>Objective:</i></b> To examine how time spent on handheld screens was related to internalizing mental health symptoms in college students and whether time spent in nature was associated with fewer mental health symptoms. <b><i>Participants:</i></b> Three hundred seventy-two college students (<i>M</i><sub>age</sub> = 19.47 ± 1.74, 63.8% female; 62.8% college freshman). <b><i>Methods:</i></b> College students completed questionnaires for research credit in their psychology courses. <b><i>Results:</i></b> Screen time significantly predicted higher anxiety, depression, and stress. Spending time outdoors ("green time") significantly predicted lower stress and depression, but not lower anxiety. Green time moderated the relationship, such that college students who spent less time outside (1SD below mean) had consistent rates of mental health symptoms across hours of screentime, but individuals who spent average/above average (mean, 1SD above mean) time outside had fewer mental health symptoms at lower levels of screentime. <b><i>Conclusions:</i></b> Promoting green time in students may be an effective way of improving stress and depression.

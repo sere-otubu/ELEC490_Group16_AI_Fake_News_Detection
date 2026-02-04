@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Acupuncture
-TITLE: Acupuncture and related techniques during perioperative period: A literature review.
-PMID: 27912957
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27912957/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Acupuncture has been used in the Far East for more than 2000 years. Since the early 1970s, this technique has been gaining popularity among Western medical community. A number of studies suggest that its mechanism of effect can be explained in biomedical terms. In this context, a number of transmitters and modulators including beta-endorphin, serotonin, substance P, interleukins, and calcitonin gene-related peptide are released. For that reason, acupuncture can be used in a wide variety of clinical conditions. Studies showed that acupuncture may have beneficial effect in perioperative period. It relieves preoperative anxiety, decreases postoperative analgesic requirements, and decreases the incidence of postoperative nausea and vomiting. In this review article, we examine perioperative use of acupuncture for a variety of conditions.

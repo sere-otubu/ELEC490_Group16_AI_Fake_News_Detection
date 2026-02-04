@@ -1,8 +1,0 @@
-SEARCH_TOPIC: General anesthesia
-TITLE: [Anesthesia in neuroradiology].
-PMID: 6731759
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/6731759/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cerebral angiographies can be performed under general anaesthesia, analgosedation in the presence of an anaesthesiologist, and under local anaesthesia. The criteria governing the choice of the most appropriate method of anaesthesiology are discussed. In computed tomography of the head, general anaesthesia is indicated only if it proves impossible to achieve satisfactory cooperation with the patient. Discographies , myelographies and the now rare pneumoencephalography are performed almost without exception under local anaesthesia or without anaesthesia. If general anaesthesia is preferred, it will be necessary to take into account the special pathophysiological conditions obtaining in neurosurgical patients (disturbance of cerebral blood flow due to enhanced intracranial pressure or caused by stenosing vascular processes).

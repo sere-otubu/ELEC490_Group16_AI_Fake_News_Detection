@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Post operative care
-TITLE: Conscious Sedation in Dentistry.
-PMID: 31817931
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31817931/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Invasive dental procedures can be performed only with local anesthesia; in some cases, it may be useful to combine the administration of drugs to obtain anxiolysis with local anesthesia. Sedation required level should be individually adjusted to achieve a proper balance between the needs of the patient, the operator, and the safety of the procedure. Surgical time is an important factor for post-operative phases, and this could be greatly increased by whether the patient interrupts the surgeon or if it is not collaborative. In this manuscript some dentistry-used methods to practice conscious sedation have been evaluated. This manuscript could be a useful reading on the current state of conscious sedation in dentistry and an important starting point for future perspectives. Surely the search for safer drugs for our patients could have beneficial effects for them and for the clinicians.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Multivitamins
-TITLE: Clinical Inquiry. Multivitamins for healthy children: what are the true benefits?
-PMID: 22871661
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22871661/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The benefits appear to be limited. It's doubtful that multivitamin with mineral (MVM) supplementation improves IQ in healthy, low-risk children.

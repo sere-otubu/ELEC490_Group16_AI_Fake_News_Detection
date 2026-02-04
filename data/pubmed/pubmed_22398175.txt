@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Joint replacement
-TITLE: Knee replacement.
-PMID: 22398175
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22398175/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Knee-replacement surgery is frequently done and highly successful. It relieves pain and improves knee function in people with advanced arthritis of the joint. The most common indication for the procedure is osteoarthritis. We review the epidemiology of and risk factors for knee replacement. Because replacement is increasingly considered for patients younger than 55 years, improved decision making about whether a patient should undergo the procedure is needed. We discuss assessment of surgery outcomes based on data for revision surgery from national joint-replacement registries and on patient-reported outcome measures. Widespread surveillance of existing implants is urgently needed alongside the carefully monitored introduction of new implant designs. Developments for the future are improved delivery of care and training for surgeons and clinical teams. In an increasingly ageing society, the demand for knee-replacement surgery will probably rise further, and we predict future trends. We also emphasise the need for new strategies to treat early-stage osteoarthritis, which will ultimately reduce the demand for joint-replacement surgery.

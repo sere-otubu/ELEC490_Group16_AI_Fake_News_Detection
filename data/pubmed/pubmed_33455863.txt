@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Endocrine system
-TITLE: Role of Macrophages in the Endocrine System.
-PMID: 33455863
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33455863/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Macrophages are cells of the innate immune system that play myriad roles in the body. Macrophages are known to reside in endocrine glands, and a body of evidence now suggests that these cells interact closely with endocrine cells. Immune-endocrine interactions are important in the development of endocrine glands and their functioning during physiological states, and also become key players in pathophysiological states. Through gene expression profiling, diverse subpopulations of tissue macrophages have been discovered within endocrine organs; this has important implications for disease pathogenesis and potential pharmacotherapy. The molecular basis for the crosstalk between macrophages and endocrine cells is being unraveled, and allows the identification of multiple points for pharmacologic intervention. Macrophages in adipose tissue and pancreatic islets are key players in the process of metaflammation (metabolic inflammation) that underlies the development of insulin resistance, metabolic syndrome, diabetes mellitus, and non-alcoholic fatty liver disease. In the ovary, they play important roles in ovarian folliculogenesis and ovulation, whereas in the male reproductive tract they regulate spermatogenesis through the regulation of steroidogenesis by Leydig cells. We summarize the diverse roles played by macrophages in the endocrine system and identify potential targets for pharmacotherapy in endocrine disorders.

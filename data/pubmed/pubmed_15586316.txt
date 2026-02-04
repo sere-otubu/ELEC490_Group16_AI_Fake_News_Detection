@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Weight gain strategies
-TITLE: [Weight gain during treatment with antipsychotics: clinical relevance, pathophysiology, and therapeutical strategies].
-PMID: 15586316
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15586316/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The clinical relevance of drug-induced weight changes is due to the development of obesity, increased rates of morbidity and reduced treatment compliance, even if the psychopharmacological treatment is effective. Possible underlying causes of weight gain in patients treated with antipsychotic drugs are the psychiatric disorder itself, and changes in the neurotransmitter, cytokine and hormone systems. Clinical management of psychopharmacologically induced weight gain includes diet, behavioral and pharmacological therapy. Possible add-on strategies - based on case reports and small studies - are ephedrine, sibutramine, orlistat, topiramate, nizatidine, naltrexone, metformin, amantadine, and reboxetine.

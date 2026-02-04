@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anorexia nervosa
-TITLE: Anorexia nervosa and pancreatitis.
-PMID: 34983221
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34983221/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Acute pancreatitis is a condition whereby erroneous activation of trypsin and zymogen results in pancreatic autodigestion. There are many aetiologies, with alcohol intake and gallstones being the most common. Anorexia nervosa is an eating disorder in which patients' reduced food intake and psychological aversion of weight gain can result in low body weight and malnourishment. The link between pancreatitis and anorexia nervosa is not well understood; this article explores the theorised pathophysiology connecting the two conditions, as well as the optimal management of patients when the conditions co-exist based on current literature. A literature search was performed using MEDLINE, EMBASE and CINAHL databases for all journal articles on the topic of presentations of acute or chronic pancreatitis in adults with anorexia nervosa. The literature proposes various links between anorexia nervosa and pancreatitis. It is theorised that pancreatitis may arise as a result of malnourishment itself or secondary to the refeeding process. Some explanations focus on the histopathological changes to the pancreas that malnourishment induces, while others focus on the enzymatic changes and oxidative damage that arise in the malnourished state. More mechanical mechanisms such as gastric dilatation, gastrointestinal ileus and compartmental fluid shift during refeeding have also been proposed as explanations for the link between the conditions. Some medications used in the management of anorexia nervosa have also been linked to pancreatitis.

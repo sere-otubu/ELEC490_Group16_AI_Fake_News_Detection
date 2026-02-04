@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Stroke
-TITLE: [Stroke].
-PMID: 32284456
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32284456/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The path to the diagnosis of strokes is straightforward and unquestionable in most cases. In the era of interventional stroke therapies, which have potential adverse effects, an accurate diagnosis is needed for. However, there are non-cerebrovascular diseases exhibiting neurological symptoms that simulate strokes (stroke mimics), and strokes exhibiting atypical or uncommon symptoms that suggest diseases other than strokes (stroke chameleons). This article presents two cases to outline stroke mimics and stroke chameleons. Detailed history taking, comprehensive neurological examination, and appropriate imaging studies are important to identify them.

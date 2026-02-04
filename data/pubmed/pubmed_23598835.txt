@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23598835)
-    QUESTION: Is severe pain immediately after spinal augmentation a predictor of long-term outcomes?
-    CONTEXT: Severe, immediate postprocedural pain and the need for analgesics after vertebroplasty can be a discouraging experience for patients and caregivers. The goal of this study was to investigate whether the presence of severe pain immediately after vertebroplasty predicts short- and long-term pain relief.
-    ANSWER: Patients with severe pain immediately after vertebroplasty have similar long-term outcomes compared with patients without severe pain.
-    

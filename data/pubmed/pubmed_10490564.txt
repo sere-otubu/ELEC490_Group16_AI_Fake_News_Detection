@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 10490564)
-    QUESTION: Hypotension in patients with coronary disease: can profound hypotensive events cause myocardial ischaemic events?
-    CONTEXT: To determine whether anginal episodes might be related to extremes of hypotension in patients with ischaemic heart disease taking drugs to treat angina and heart failure.
-    ANSWER: In patients with ischaemic heart disease and hypotension, symptomatic and silent ischaemia occurred in a temporally causal relation with hypotension, particularly for diastolic pressures, suggesting that patients with coronary disease may be susceptible to ischaemic events incurred as a result of low blood pressure caused by excessive hypotensive drug treatment.
-    

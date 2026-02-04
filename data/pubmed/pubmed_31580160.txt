@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lymphoma
-TITLE: Primary immunodeficiencies and lymphoma: a systematic review of literature.
-PMID: 31580160
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31580160/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The management of lymphoma in patients with primary immunodeficiency (PID) is challenging because of its poor prognosis and complex therapeutic approaches. We conducted a systematic literature review of case-reports, case-series, and cohorts indexed in MEDLINE reporting the association of lymphoma and PID. One hundred and eighty-two articles were selected out of 787. We identified 386 cases. Median age at diagnosis of PID and lymphoma was 9.5 and 12 years old, respectively. T-cell deficiencies were the main PIDs associated with lymphoma (57%). The most prevalent lymphoma was diffuse large B-cell lymphoma (33.5%). Epstein-Barr Virus-driven lymphomas were mostly observed in innate immunodeficiencies (when reported). Complete response to treatment was observed in 65.8% of the cases. Death occurred in 38.2%. Few allogenic stem cell transplantations were performed (29 cases). Our detailed analysis of the literature provides a landscape of lymphoma's occurrence in PID. Devoted studies in specific sub-groups of patients at risk are needed to develop dedicated protocols.

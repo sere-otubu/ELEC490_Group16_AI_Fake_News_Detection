@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Typhoid fever
-TITLE: Typhoid fever infection - Antibiotic resistance and vaccination strategies: A narrative review.
-PMID: 33301931
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33301931/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Typhoid fever is a bacterial infection caused by the Gram-negative bacterium Salmonella enterica subspecies enterica serovar Typhi (S. Typhi), prevalent in many low- and middle-income countries. In high-income territories, typhoid fever is predominantly travel-related, consequent to travel in typhoid-endemic regions; however, data show that the level of typhoid vaccination in travellers is low. Successful management of typhoid fever using antibiotics is becoming increasingly difficult due to drug resistance; emerging resistance has spread geographically due to factors such as increasing travel connectivity, affecting those in endemic regions and travellers alike. This review provides an overview of: the epidemiology and diagnosis of typhoid fever; the emergence of drug-resistant typhoid strains in the endemic setting; drug resistance observed in travellers; vaccines currently available to prevent typhoid fever; vaccine recommendations for people living in typhoid-endemic regions; strategies for the introduction of typhoid vaccines and stakeholders in vaccination programmes; and travel recommendations for a selection of destinations with a medium or high incidence of typhoid fever.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: GERD
-TITLE: Pathophysiology and treatment options for gastroesophageal reflux disease: looking beyond acid.
-PMID: 33015827
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33015827/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gastroesophageal reflux disease (GERD) is a disorder due to the retrograde flow of refluxate into the esophagus. Although GERD is a common clinical diagnosis, its pathogenesis is quite complex. As a result of its multifactorial development, many patients continue to experience adverse symptoms due to GERD despite prolonged acid suppression with proton pump inhibitor therapy. The pathogenesis of GERD involves an interplay of chemical, mechanical, psychologic, and neurologic mechanisms, which contribute to symptom presentation, diagnosis, and treatment. As such, GERD should be approached as a disorder beyond acid. This review will investigate the major factors that contribute to the development of GERD, including factors related to the refluxate, esophageal defenses, and factors that promote pathologic reflux into the esophagus. In reviewing GERD pathogenesis, this paper will highlight therapeutic advances, with mention of future opportunities of study when approaching GERD.

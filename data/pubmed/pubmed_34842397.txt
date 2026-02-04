@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cognitive behavioral therapy
-TITLE: Testing the efficacy of group cognitive-behavioral therapy for pathological internet use among undergraduates in Nigeria.
-PMID: 34842397
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34842397/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The aim of this study was to examine the effect of group cognitive-behavioral therapy (GCBT) on pathological internet use (PIU). The study applied a group randomized controlled trial design to assign participants to intervention and control groups. A total of 40 college students aged 18 to 30 who were pathological internet users (PIUs) participated in this study and were randomly assigned to treatment and control groups. Participants completed a self-report scale entitled the Problematic Internet Use Scale (PIUS) at three time points. The intervention lasted 8 weeks. The data collected were statistically analyzed using repeated-measures analysis of variance (ANOVA). The results showed that GCBT has significant efficacy, decreasing the symptoms of PIU among the GCBT participants compared to those in the control group and that the improvements were maintained at follow-up. We also found a significant interaction effect by time for PIU. From the study findings, we can conclude that GCBT has significant benefit for mitigating the severity of PIU in college students. Therefore, mental health professionals are encouraged to explore the benefits of GCBT in treating symptoms associated with PIU in school settings and beyond.

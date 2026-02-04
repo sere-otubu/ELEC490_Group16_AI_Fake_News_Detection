@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Evidence based medicine
-TITLE: Hijacked evidence-based medicine: stay the course and throw the pirates overboard.
-PMID: 28532611
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28532611/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The article discusses a number of criticisms that have been raised against evidence-based medicine, such as focusing on benefits and ignoring adverse events; being interested in averages and ignoring the wide variability in individual risks and responsiveness; ignoring clinician-patient interaction and clinical judgement; leading to some sort of reductionism; and falling prey to corruption from conflicts of interest. I argue that none of these deficiencies are necessarily inherent to evidence-based medicine. In fact, work in evidence-based medicine has contributed a lot towards minimizing these deficiencies in medical research and medical care. However, evidence-based medicine is paying the price of its success: having become more widely recognized, it is manipulated and misused to support subverted or perverted agendas that are hijacking its reputation value. Sometimes the conflicts behind these agendas are so strong that one worries about whether the hijacking of evidence-based medicine is reversible. Nevertheless, evidence-based medicine is a valuable conceptual toolkit and it is worth to try to remove the biases of the pirates who have hijacked its ship.

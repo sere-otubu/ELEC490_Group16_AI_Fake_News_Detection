@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic testing ethics
-TITLE: What are the goals of prenatal genetic testing?
-PMID: 30195989
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30195989/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The landscape of genetic testing and screening has changed tremendously since the initial description of the molecular structure of DNA. Given this, it is critical that providers reflect on the goals of prenatal screening and diagnostic testing, and how these tests impact perinatal outcomes. The participants of this workshop were in agreement that the goal of prenatal genetic testing should be focused on improving outcomes for women and families. While prenatal testing has historically focused on the option for pregnancy termination, increasing numbers of prenatal and perinatal treatments are available. As more in utero therapies are developed, the detection of disorders that are amenable to, and would benefit from, prenatal or immediate neonatal targeted therapy will increasingly be a focus of prenatal testing. Prenatal genetic testing must also balance the ethical principles of autonomy and distributive justice. The workshop participants agreed that stakeholders such as medical professionals, professional societies, insurers, commercial laboratories, and the public should consider and come to agreement regarding the appropriate objectives for and use of these tests.

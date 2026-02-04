@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Macular degeneration
-TITLE: Macular degeneration and occupational risk factors: a systematic review.
-PMID: 30191305
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30191305/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Macular degeneration is a multi-factorial disease, leading cause of blindness for people over 50 years old in developed countries. To date, the knowledge on possible occupational factors involved in the development of the disease is scant. We performed a systematic scientific literature search on the association between macular degeneration and occupational risk factors searching the MedLine and Scopus databases. We examined 158 articles and, according to the inclusion criteria, 13 peer-reviewed studies evaluating occupational risk factors for macular degeneration or reporting the frequency of the disease in specific groups of workers were included in the review. Ten on thirteen articles evaluated the presence of macular degeneration in workers exposed to solar radiation. Only one study found that non-specific history of occupational chemical exposure was associated with the disease. Two studies showed an association between macular degeneration and the general category of "blue-collar" workers, but they did not identify the specific risk factors involved. To date few studies have examined occupational risk factors for macular degeneration. Nevertheless, available data indicate that long-term occupational solar radiation exposure, in particular for its blue-light component, is associated with macular degeneration in outdoor workers.

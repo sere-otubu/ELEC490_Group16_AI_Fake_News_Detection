@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Type 1 Diabetes
-TITLE: Intestinal flora: a potential pathogenesis mechanism and treatment strategy for type 1 diabetes mellitus.
-PMID: 39520706
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39520706/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Type 1 diabetes mellitus (T1DM) is a chronic autoimmune disease characterized by destruction of pancreatic β-cells, leading to insulin deficiency and hyperglycemia, and its incidence is increasing year by year. The pathogenesis of T1DM is complex, mainly including genetic and environmental factors. Intestinal flora is the largest microbial community in the human body and plays a very important role in human health and disease. In recent years, more and more studies have shown that intestinal flora and its metabolites, as an environmental factor, regulate the development of T1DM through various mechanisms such as altering the intestinal mucosal barrier, influencing insulin secretion and body immune regulation. Intestinal flora transplantation, probiotic supplementation, and other approaches to modulate the intestinal flora appear to be potential therapeutic approaches for T1DM. This article reviews the dysbiosis of the intestinal flora in T1DM, the potential mechanisms by which the intestinal flora affects T1DM, as well as discusses potential approaches to treating T1DM by intervening in the intestinal flora.

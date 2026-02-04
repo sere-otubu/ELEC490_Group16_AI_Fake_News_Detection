@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ovarian cancer
-TITLE: Ovarian cancer in endometriosis: an update on the clinical and molecular aspects.
-PMID: 28271698
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28271698/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-While endometriosis is a benign condition, the presence of endometriosis has been associated with the development of several types of cancers, including ovarian. Endometriomas, or ovarian endometriotic cysts, are found in 17-44% of patients with endometriosis, and may be a common precursor lesions to ovarian cancer. Endometriosis associated ovarian cancer is especially prominent in endometrioid and clear cell ovarian tumor histological subtypes. Several common pathways linking endometriosis and ovarian cancer have been elucidated, including the dominance of certain cytokines, oxidative stress, and a hyper-estrogenic hormonal milieu, which propagate both endometriosis and endometriosis associated ovarian cancer. Additionally, genetic mutations including PTEN, PIK3CA, ARID1A, Wnt/β-catenin, microsatellite instability, Src, and KRAS have been shown to be critical in the pathogenesis of endometriosis associated ovarian cancers. Research continues to develop and provide insights into various prevention, screening, and treatment modalities. In this article, we present a comprehensive review of our current knowledge on this topic in both a clinical and molecular context.

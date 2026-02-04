@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Spinal fusion
-TITLE: Cell-based therapies for spinal fusion.
-PMID: 23281519
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23281519/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-During spinal fusion procedures, bone grafts are placed to promote bone healing and to provide stability. The autologous graft is the current clinical standard of care due to its ability to initiate bone formation and because it poses no risk of rejection; however, it has drawbacks such as donor site morbidity and limited supply. Due to processing for sterility and storage, allogeneic grafts have reduced osteoinductive properties and thus must be delivered with osteoinductive agents. As a result, bone morphogenetic proteins have been used increasingly to augment bone repair, but in certain locations these proteins can cause complications such as swelling and ectopic bone formation. The drawbacks associated with these treatments have prompted increased investigations into using cells to deliver osteoinductive agents. Clinical studies have demonstrated that when osteoprogenitor cells are combined with osteoconductive materials, fusion rates are comparable to autograft results. Preclinical investigations have achieved superior spinal fusion rates in as little as two weeks using cells genetically modified to deliver osteoinductive agents. Immunoisolation of allogeneic cells by microencapsulation has demonstrated the feasibility of using non-autologous cells, thereby eliminating the need for immunosuppressants. This chapter describes the latest research advances in promoting spinal fusion using these cell-based therapies.

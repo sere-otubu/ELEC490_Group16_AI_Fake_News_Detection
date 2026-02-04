@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21394762)
-    QUESTION: Is pelvic pain associated with defecatory symptoms in women with pelvic organ prolapse?
-    CONTEXT: To investigate the significance of pelvic pain and its association with defecatory symptoms in women with pelvic organ prolapse (POP).
-    ANSWER: In women with POP, the symptom of pelvic pain is associated with the presence of defecatory symptoms.
-    

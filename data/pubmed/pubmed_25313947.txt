@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Contraceptive pills
-TITLE: Emergency contraception: a review.
-PMID: 25313947
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25313947/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Emergency contraceptives (EC) are forms of contraception that women can use after intercourse to prevent pregnancy. EC use is safe for women of all ages, and there are no medical contraindications to its use. There are two types of emergency contraceptive pills currently available: ulipristal acetate (UPA) and levonorgestrel. UPA is the most effective oral option for EC. In the United States, levonorgestrel containing ECPs are available without prescription to women and men without age restrictions. However, the more effective UPA pills require a prescription. ECPs do not cause abortion or harm an established pregnancy. Placement of a copper intrauterine device (IUD) is more effective EC than either UPA or levonorgestrel, and requires a timely visit with a trained clinician. EC pills are less effective for women who are overweight or obese, therefore such women should be offered a copper IUD or ulipristal rather than levonorgestrel pills. Any woman requesting EC after unprotected intercourse should be offered treatment within 120 hours of intercourse, as should all women who are victims of sexual assault. Women requesting EC should be offered information and services for ongoing contraception. Although levonorgestrel EC is now available over-the-counter, ongoing need exists to educate women about emergency contraception to encourage prompt use of EC when it is needed.

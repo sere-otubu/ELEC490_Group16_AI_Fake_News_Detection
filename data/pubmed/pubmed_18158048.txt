@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 18158048)
-    QUESTION: Histologic evaluation of the testicular remnant associated with the vanishing testes syndrome: is surgical management necessary?
-    CONTEXT: There is controversy surrounding the optimal management of the testicular remnant associated with the vanishing testes syndrome. Some urologists advocate the need for surgical exploration, whereas others believe this is unnecessary. These differing opinions are based on the variable reports of viable germ cell elements found within the testicular remnants. To better understand the pathology associated with this syndrome and the need for surgical management, we reviewed our experience regarding the incidence of viable germ cell elements within the testicular remnant.
-    ANSWER: In our review, we identified that a significant number of testicular remnants associated with the vanishing testes syndrome can harbor viable germ cell elements or seminiferous tubules. The exact fate of these residual elements remains unknown; however, there may exist the potential for malignant transformation. Given the potential for malignant degeneration, we believe that these remnants should be removed.
-    

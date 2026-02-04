@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Salmonella
-TITLE: Network properties of salmonella epidemics.
-PMID: 30992488
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30992488/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-We examine non-typhoidal Salmonella (S. Typhimurium or STM) epidemics as complex systems, driven by evolution and interactions of diverse microbial strains, and focus on emergence of successful strains. Our findings challenge the established view that seasonal epidemics are associated with random sets of co-circulating STM genotypes. We use high-resolution molecular genotyping data comprising 17,107 STM isolates representing nine consecutive seasonal epidemics in Australia, genotyped by multiple-locus variable-number tandem-repeats analysis (MLVA). From these data, we infer weighted undirected networks based on distances between the MLVA profiles, depicting epidemics as networks of individual bacterial strains. The network analysis demonstrated dichotomy in STM populations which split into two distinct genetic branches, with markedly different prevalences. This distinction revealed the emergence of dominant STM strains defined by their local network topological properties, such as centrality, while correlating the development of new epidemics with global network features, such as small-world propensity.

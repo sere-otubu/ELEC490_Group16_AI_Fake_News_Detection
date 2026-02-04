@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Kidney stones
-TITLE: Kidney stones, hypercalciuria, and recent insights into proximal tubule calcium reabsorption.
-PMID: 37074688
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37074688/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Most kidney stones are composed of calcium, and the greatest risk factor for kidney stone formation is hypercalciuria. Patients who form kidney stones often have reduced calcium reabsorption from the proximal tubule, and increasing this reabsorption is a goal of some dietary and pharmacological treatment strategies to prevent kidney stone recurrence. However, until recently, little was known about the molecular mechanism that mediates calcium reabsorption from the proximal tubule. This review summarizes newly uncovered key insights and discusses how they may inform the treatment of kidney stone formers. Studies examining claudin-2 and claudin-12 single and double knockout mice, combined with cell culture models, support complementary independent roles for these tight junction proteins in contributing paracellular calcium permeability to the proximal tubule. Moreover, a family with a coding variation in claudin-2 causing hypercalciuria and kidney stones have been reported, and reanalysis of Genome Wide Association Study (GWAS) data demonstrates an association between noncoding variations in CLDN2 and kidney stone formation. The current work begins to delineate the molecular mechanisms whereby calcium is reabsorbed from the proximal tubule and suggests a role for altered claudin-2 mediated calcium reabsorption in the pathogenesis of hypercalciuria and kidney stone formation.

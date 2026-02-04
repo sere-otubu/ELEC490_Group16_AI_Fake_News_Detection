@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sinusitis
-TITLE: Sinusitis among Patients Undergoing CT Scan of Paranasal Sinuses in a Tertiary Care Centre: A Descriptive Cross-sectional Study.
-PMID: 36705160
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36705160/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Computed tomography imaging provides detailed information about the paranasal sinuses and is now well established as an alternative to standard radiographs in evaluating patients with sinusitis. Sinusitis can have dangerous complications which can even lead to death if not diagnosed and treated on time. This study aimed to find the prevalence of sinusitis among the patients undergoing Computed Tomography scan of paranasal sinuses in a tertiary care centre. A descriptive cross-sectional study was conducted in the Department of Radiology at a tertiary care hospital from 1 October 2021 to 30 April 2022 after taking ethical approval from the Institutional Review Committee (Reference Number: 023-078/079). The patients undergoing Computed Tomography paranasal sinuses and meeting the eligibility criteria were enrolled for the study after taking informed consent. Convenience sampling was done. Point estimate and 95% Confidence Interval were calculated. Among 113 patients, 109 (96.46%) (93.05-99.87, 95% Confidence Interval) patients had sinusitis. The most common subtype was found to be acute sinusitis in 63 (57.79%) individuals. The prevalence of sinusitis was higher than in other studies done in similar settings. computed tomography; paranasal sinuses; sinusitis.

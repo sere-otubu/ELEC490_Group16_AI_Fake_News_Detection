@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ovarian cancer
-TITLE: Ovarian cancer: an overview.
-PMID: 19817326
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19817326/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although ovarian cancer may occur at any age, it is more common in patients older than 50 years. Patients often present with nonspecific pelvic or abdominal symptoms. Initial diagnostic tests include transvaginal ultrasonography and serum cancer antigen 125 measurement; however, these tests are not specific for ovarian cancer. Conventional treatment includes surgical debulking followed by chemotherapy. Prognosis is typically determined by the cancer stage and grade, although future treatment may depend on tumor genetic composition. Epithelial ovarian cancer is the most common type of ovarian cancer, and because 70 percent of cases are diagnosed at stage III or IV, it is associated with a poor prognosis. Preventive visits provide an opportunity to identify and educate women at increased risk of ovarian cancer, but routine screening is not recommended. Women with a family history of ovarian cancer or a known associated genetic syndrome should be offered genetic counseling or a discussion of available preventive interventions, respectively.

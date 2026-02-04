@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Herd immunity
-TITLE: Herd immunity under individual variation and reinfection.
-PMID: 35773525
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35773525/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-We study a susceptible-exposed-infected-recovered (SEIR) model considered by Aguas et al. (In: Herd immunity thresholds for SARS-CoV-2 estimated from unfolding epidemics, 2021), Gomes et al. (In: J Theor Biol. 540:111063, 2022) where individuals are assumed to differ in their susceptibility or exposure to infection. Under this heterogeneity assumption, epidemic growth is effectively suppressed when the percentage of the population having acquired immunity surpasses a critical level - the herd immunity threshold - that is lower than in homogeneous populations. We derive explicit formulas to calculate herd immunity thresholds and stable configurations, especially when susceptibility or exposure are gamma distributed, and explore extensions of the model.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cochlear implants
-TITLE: Cochlear implants in children.
-PMID: 11382581
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11382581/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cochlear implants are electronic prostheses that provide a high quality sense of hearing to severely and profoundly deaf children and adults. As improvements in surgical technique and device performance have occurred, indications for implantation have expanded.

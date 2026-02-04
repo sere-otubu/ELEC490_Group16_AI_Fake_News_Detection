@@ -1,8 +1,0 @@
-SEARCH_TOPIC: HPV vaccine
-TITLE: Scientific approaches to defining HPV vaccine-induced protective immunity.
-PMID: 39945620
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39945620/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Seventeen years after the licensure of prophylactic human papillomavirus (HPV) L1 virus-like-particle vaccines, a defined antibody level that correlates with vaccine-induced protection against HPV infections and associated neoplasia is missing. In contrast, correlates of protection have been defined for many viral vaccines, including for the hepatitis B virus (HBV) vaccine. This review includes lessons learned from vaccination against HBV and the use of an established protective HBV surface antigen antibody level: 10 mIU/mL, an overview of HPV infection-induced and HPV vaccine-induced antibody responses, successful efforts to establish international standardization of serological reagents and associated tools, and 15-year vigilance of HPV vaccine-induced antibody levels in a vaccination cohort against breakthrough infections. This report identifies progress but also gaps on the journey toward the definition of a HPV vaccine-induced correlate of protection.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alternative medicine
-TITLE: Complementary and alternative medicine, medical liability and the proper standard of care.
-PMID: 31003656
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31003656/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Complementary and alternative medicine raises growing interests among population. Patients have the right to reject conventional medicine and instead look for a different treatment, even if sometimes is a placebo. However, currently this risks being a reckless decision, since the way complementary and alternative medicine is being provided leaves space for fraudulent practices, misleading information, wrong diagnosis, improper treatments and thus severe patient's injuries. This paper will discuss the standard of care to be demanded from providers of complementary and alternative medicine. The paper will sustain that it should be bound to a CAM specific standard of care, expose the reasons for this solution and describe the consequences derived therein. It will conclude that the solution to protect CAM users does not rely in the extension of conventional standard of care to CAM practitioners, but in more regulation and more control for CAM practices and CAM practitioners.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Breastfeeding benefits
-TITLE: Breastfeeding: benefits, risks and alternatives.
-PMID: 11128416
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11128416/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Obstetricians play a major role in guiding the infant feeding choices of their pregnant patients. The world literature continues to swell with reports and studies of the short- and long-term benefits to both mother and infant of breastfeeding. These benefits include protection against acute illnesses, long-term health protection, the psychological relationship and even savings in health care costs.

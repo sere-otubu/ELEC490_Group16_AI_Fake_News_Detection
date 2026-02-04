@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Migraine
-TITLE: Migraine Variants in Children.
-PMID: 29446794
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29446794/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Migraine in children can manifest in ways that are markedly different from adult migraines. In children, migraine variants are often unaccompanied by headache and include conditions such as cyclic vomiting and abdominal migraine. Children who experience these conditions are often thought to have a disorder of the gastrointestinal tract, and when evaluation is unremarkable they may be diagnosed as having a conversion reaction. Complicated migraines, on the other hand, are often accompanied by focal neurological symptoms such as ataxia, hemiparesis, or altered level of consciousness that evoke great consternation in the examining clinician. Certain episodic syndromes that may hold interest to pediatricians are also discussed in this article, mostly to emphasize the ambiguity that still surrounds these disorders, such as migraine triggered by trauma. The cardinal rule that most of these disorders are diagnoses of exclusion and can only be confirmed after extensive evaluation, either by the pediatrician or pediatric neurologist, is emphasized. [Pediatr Ann. 2018;47(2):e50-e54.].

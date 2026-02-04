@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cochlear implants
-TITLE: Cochlear implants.
-PMID: 16860253
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16860253/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cochlear implants are cost-effective auditory prostheses that safely provide a high-quality sensation of hearing to adults who are severely or profoundly deaf. In the past 5 years, progress has been made in hardware and software design, candidate selection, surgical techniques, device programming, education and rehabilitation,and, most importantly, outcomes. Cochlear implantation in the elderly is well tolerated and provides marked improvement in auditory performance and psychosocial functioning.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Concussion
-TITLE: Follow-up visits after a concussion in the pediatric population: An integrative review.
-PMID: 37005895
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37005895/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Concussions are a significant health issue for children and youth. After a concussion diagnosis, follow-up visits with a health care provider are important for reassessment, continued management, and further education. This review aimed to synthesize and analyse the current state of the literature on follow-up visits of children with a concussive injury and examine the factors associated with follow-up visits. An integrative review was conducted based on Whittemore and Knafl's framework. Databases searched included PubMed, MEDLINE, CINAHL, PsycINFO, and Google Scholar. Twenty-four articles were reviewed. We identified follow-up visit rates, timing to a first follow-up visit, and factors associated with follow-up visits as common themes. Follow-up visit rates ranged widely, from 13.2 to 99.5%, but time to the first follow-up visit was only reported in eight studies. Three types of factors were associated with attending a follow-up visit: injury-related factors, individual factors, and health service factors. Concussed children and youth have varying rates of follow-up care after an initial concussion diagnosis, with little known about the timing of this visit. Diverse factors are associated with the first follow-up visit. Further research on follow-up visits after a concussion in this population is warranted.

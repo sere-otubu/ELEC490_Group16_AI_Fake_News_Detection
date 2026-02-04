@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gambling addiction
-TITLE: Disordered gambling: a behavioral addiction.
-PMID: 23375671
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23375671/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Developments in psychiatry have ratified the existence of behavioral addictions, that certain activities such as gambling or video-game play may be considered addictive in the absence of exogenous (i.e. drug-induced) stimulation of brain reinforcement circuitry. This article describes recent advances in understanding the neurobiological basis of behavioral addiction, with a focus on pathological gambling as the prototypical disorder. We describe positron emission tomography (PET) studies characterizing dopaminergic transmission, and functional imaging studies of reward processing and gambling-related cognitive distortions. The current evidence not only indicates changes in pathological gamblers in core circuitry implicated in drug addiction, but also highlights some subtle differences. Behavioral addictions can also provide experimental traction on distinguishing vulnerability markers for addictions from the active detrimental effects of chronic drug use.

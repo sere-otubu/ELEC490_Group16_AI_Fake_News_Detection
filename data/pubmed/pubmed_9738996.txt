@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rubella
-TITLE: Rubella and rubeola.
-PMID: 9738996
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9738996/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rubella and rubeola are common viral exanthems that may affect women of reproductive age. Effective vaccination programs have greatly decreased their incidence. Although Rubella is a relatively innocuous illness for the nonpregnant patient, transplacental fetal infection with rubella can result in significant and crippling fetal malformations and handicap. Because some women of reproductive age are not appropriately immunized, rubella is still a threat. The practitioner needs to be vigilant in assuring vaccination of susceptible individuals when seen for routine health maintenance. Additionally, at times the obstetrician will be challenged with the evaluation and care of a susceptible pregnant patient who is exposed to rubella. In contrast, rubeola (measles) infection during pregnancy has not been associated with congenital malformations. Affected mothers, however, experience a higher incidence of spontaneous abortions and premature delivery and are themselves at risk for serious complications such as pneumonia and encephalitis.

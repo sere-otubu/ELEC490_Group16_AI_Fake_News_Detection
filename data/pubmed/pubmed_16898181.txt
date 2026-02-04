@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gene expression
-TITLE: Gene expression studies in systemic lupus erythematosus.
-PMID: 16898181
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16898181/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In a single assay, gene microarrays generate tens of thousands of measurements for the relative levels of messenger RNA expression, and thus hold promise to uncover the regulation of transcriptional responses behind clinical phenotypes of various diseases. Systemic lupus erythematosus (SLE) offers a unique opportunity to study gene expression both systemically and organ specific, as the tissues involved and specifically peripheral blood cells are readily accessible for molecular analysis. In the current review we highlight the current knowledge related to gene microarray in SLE. We approached the following questions: 1) Can gene microarray technology be used to translate molecular profiles into meaningful and applicable clinical information? 2) Does the assessment of differential gene expression provide specific signatures that may contribute to diagnostic and prognostic markers of SLE? 3) Can clinicians be helped in monitoring disease activity by identification of drug response gene profile? 4) Does evaluation of differential gene expression provide clues to detect previously unrecognized genes associated with the disease? It is evident that though not all questions can be currently answered appropriately, gene expression studies in SLE have important implications and will not only be beneficial for SLE patients, but will also lead to a better understanding of other autoimmune inflammatory diseases, thereby leading to novel diagnostic and therapeutic strategies in autoimmunity.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vitamins and minerals
-TITLE: Nutrients, vitamins and minerals as therapy.
-PMID: 376110
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/376110/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nutrients as therapy for patients with cancer are important as adjunctive therapy, i.e., adequate nutrition may be important for the success of whatever form of therapy is administered. Diets deficient in certain amino acids have some selectivity when tested against experimental tumors propagated in vivo. Such diets have had limited clinical trial and have been characterized by poor patient acceptance. Enzymes that produce deficiencies of certain amino acids, e.g., asparaginase, glutaminase, methioninase appear to offer a more reasonable approach to development of selective amino acid deficiencies in man. Trace metals in excessive amounts may be toxic or carcinogenic to the host. Two heavy metal salts, Cis-diamine dichloroplatinum and gallium nitrate, have recently been shown to have anti-neoplastic effects in man. There is no conclusive evidence that vitamins, administered in large doses, have significant antineoplastic effects although large doses of vitamin A, vitamin C, and vitamin B12 have been used for this purpose. In contrast, certain vitamin analogs such as folate antimetabolites can cause tumor regression and are useful clinical treatment. An enzyme, carboxypeptidase G1, by splitting naturally occurring folates, may also have promise as a method of producing enzymic folate deficiency.

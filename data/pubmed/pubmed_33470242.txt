@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hypotension
-TITLE: [Orthostatic hypotension and supine hypertension: a practical guide to diagnosis and management].
-PMID: 33470242
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33470242/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Orthostatic hypotension is a medical condition potentially debilitating and associated with a negative prognosis. It is paramount for cardiologists to recognize it, mostly for the following reasons: it is a predictive factor for cardiovascular events, it may cause syncope, and it is frequently associated with supine hypertension. Orthostatic hypotension may be secondary to neurogenic etiology (baroreflex dysfunction) or non-neurogenic etiology (dehydration or medication-related). Although laboratory tests exploring the autonomic nervous system are required for a detailed etiologic diagnosis, medical history and a sphygmomanometer can be sufficient for diagnosis. Therapeutic management of orthostatic hypotension is challenging, mostly because of the association in half of the cases with supine hypertension. Treatment should be a compromise between anti-hypotensive and anti-hypertensive measures with one overcoming the other based on the hour of the day. Non-pharmacological therapies, regarded as avoidance of precipitating factors and physical and dietary interventions, as well as chronic treatment revision, have a pivotal role.In this review we will discuss, in a pragmatic manner, about epidemiology, etiology, clinical aspects and diagnosis of orthostatic hypotension. Moreover, we will discuss about prognosis and management of orthostatic hypotension and supine hypertension.

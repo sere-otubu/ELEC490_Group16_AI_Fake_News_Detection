@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Platelets
-TITLE: The clinical utility of flow cytometry in the study of platelets.
-PMID: 11309697
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11309697/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Flow cytometry has emerged in the past few years as an important technology for the study of platelets. It offers the ability to make measurements on platelets with little or no isolation or manipulation. Most flow cytometric platelet studies can be carried out on whole blood, thus eliminating a host of artifacts. In addition, flow cytometric techniques have been developed that allow the measurement of nearly all of the functional capabilities of platelets, such as activation and aggregation and to identify new functions by permitting observation of platelets interacting with leukocytes and measurement of platelet microparticles. Several of these measurements have already reached the stage of clinical utility and others offer considerable promise for practical applications. This review describes each of the flow cytometric techniques used to study platelets and summarizes their current state of clinical utility. Semin Hematol 38:160-168.

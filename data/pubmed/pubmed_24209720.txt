@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Osteoarthritis
-TITLE: Diagnosis and treatment of osteoarthritis.
-PMID: 24209720
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24209720/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Osteoarthritis presents in primary and secondary forms. The primary, or idiopathic, form occurs in previously intact joints without any inciting agent, whereas the secondary form is caused by underlying predisposing factors (eg, trauma). The diagnosis of osteoarthritis is primarily based on thorough history and physical examination findings, with or without radiographic evidence. Although some patients may be asymptomatic initially, the most common symptom is pain. Treatment options are generally classified as pharmacologic, nonpharmacologic, surgical, and complementary and/or alternative, typically used in combination to achieve optimal results. The goals of treatment are alleviation of symptoms and improvement in functional status.

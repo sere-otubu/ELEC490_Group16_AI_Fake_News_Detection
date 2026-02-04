@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Adrenal glands
-TITLE: Adrenal fusion.
-PMID: 9724333
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9724333/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Fusion of the adrenal glands is a rare congenital anomaly. The six cases described here were encountered in 3537 pediatric-perinatal autopsy cases. A fused adrenal was always associated with multiple congenital anomalies, including major central nervous system malformations in four cases, renal agenesis in three cases, anomalies of internal genitalia in three cases, and complex cardiac anomalies in two cases. The fused adrenal had either a horseshoe or butterfly shape. Neither adrenal hypoplasia nor hyperplasia appeared to be present, and the histologic appearance of the fused adrenal was normal in all cases.

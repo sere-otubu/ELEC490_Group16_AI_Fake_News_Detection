@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hearing loss
-TITLE: Congenital Sensorineural Hearing Loss.
-PMID: 35337535
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35337535/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Congenital sensorineural hearing loss is highly prevalent in our population, with a wide variety of causes. The key to clinical management is early detection and intervention, to promote language and cognitive development. With expanding genetic knowledge about congenital sensorineural hearing loss, the indiscriminate approach in workup is no longer recommended. Comprehensive genetic evaluation and cytomegalovirus testing are key to identify the underlying cause of the hearing loss. Treatment and prognosis depend on age of hearing loss onset and detection; management plans will typically include audiology consultation, speech therapy, and various hearing amplification devices and technologies when applicable.

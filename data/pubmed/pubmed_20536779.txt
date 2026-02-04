@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vitamins and minerals
-TITLE: Role of vitamins and minerals in prevention and management of type 2 diabetes mellitus.
-PMID: 20536779
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20536779/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Vitamins and minerals play an important role in glucose metabolism, so understanding the impact of vitamin and mineral deficiencies and the potential utility of supplementation is relevant to the prevention and/or management of type 2 diabetes mellitus (DM). This review investigates current evidence for relationships between selected nutrients - vitamin B complex, antioxidants (vitamin A, C, E and carotenoids), calcium, vitamin D, vitamin K, magnesium, sodium, and potassium - and glucose metabolism. The investigation reveals current evidence is not strong enough for supplementation with minerals and vitamins to be recommended on a large scale for the prevention or management of DM. In order to prevent deficiencies and maintain health, the majority of diabetic individuals should receive daily vitamins and minerals within the ranges of recommended values from consumption of natural food sources and/or fortified foods. Further studies including large samples and longer follow-up periods are necessary to ascertain the benefits of mineral and vitamin supplementation to subsets of individuals who are at increased risk for DM or its complications.

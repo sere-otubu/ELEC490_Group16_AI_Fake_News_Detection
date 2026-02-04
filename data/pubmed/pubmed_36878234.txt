@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pneumonia
-TITLE: [Community-acquired pneumonia].
-PMID: 36878234
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36878234/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The CRB-65 score is recommended as a risk predictor, as well as consideration of unstable comorbidities and oxygenation. Community-acquired pneumonia is divided into 3 groups: mild pneumonia, moderate pneumonia, severe pneumonia. Whether there is a curative vs palliative treatment goal should be determined early. An X-ray chest radiograph is recommended to confirm the diagnosis, also in the outpatient setting if possible. Sonography of the thorax is an alternative, asking for additional imaging if negative. Streptococcus pneumoniae remains the most common bacterial pathogen. Community-acquired pneumonia continues to be associated with high morbidity and lethality. Prompt diagnosis and prompt initiation of risk-adapted antimicrobial therapy are essential measures. However, in times of COVID-19, as well as the current influenza and RSV epidemic, purely viral pneumonias must also be expected. At least with COVID-19, antibiotics can often be avoided. Antiviral and anti-inflammatory drugs are used here. Patients after community-acquired pneumonia have increased acute and long-term mortality due to cardiovascular events in particular. The focus of research is on improved pathogen identification, a better understanding of the host response with the potential of developing specific therapeutics, the role of comorbidities, and the long-term consequences of the acute illness.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immune system
-TITLE: The Immune System and Its Dysregulation with Aging.
-PMID: 30888648
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30888648/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Aging leads to numerous changes that affect all physiological systems of the body including the immune system, causing greater susceptibility to infectious disease and contributing to the cardiovascular, metabolic, autoimmune, and neurodegenerative diseases of aging. The immune system is itself also influenced by age-associated changes occurring in such physiological systems as the endocrine, nervous, digestive, cardio-vascular and muscle-skeletal systems. This chapter describes the multidimensional effects of aging on the most important components of the immune system. It considers the age-related changes in immune cells and molecules of innate and adaptive immunity and consequent impairments in their ability to communicate with each other and with their aged environment. The contribution of age-related dysregulation of hematopoiesis, required for continuous replenishment of immune cells throughout life, is discussed in this context, as is the developmentally-programmed phenomenon of thymic involution that limits the output of naïve T cells and markedly contributes to differences between younger and older people in the distribution of peripheral blood T-cell types. How all these changes may contribute to low-grade inflammation, sometimes dubbed "inflammaging", is considered. Due to findings implicating elevated inflammatory immuno-mediators in age-associated chronic autoimmune and neurodegenerative processes, evidence for their possible contribution to neuroinflammation is reviewed.

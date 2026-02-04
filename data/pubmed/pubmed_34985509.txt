@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Occupational therapy
-TITLE: Role of Occupational Therapy in Pain Management.
-PMID: 34985509
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34985509/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The American Occupational Therapy Association (AOTA) asserts that occupational therapists and occupational therapy assistants, collectively referred to as occupational therapy practitioners (AOTA, 2020b), are distinctly prepared to work independently and to contribute to interprofessional teams in the treatment of pain. Occupational therapy practitioners work to ensure active engagement in meaningful occupations for "persons, groups, or populations (i.e., the client)" (AOTA, 2020b, p. 1) at risk for and affected by pain.

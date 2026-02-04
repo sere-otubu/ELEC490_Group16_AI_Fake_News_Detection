@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mindfulness meditation
-TITLE: Mindfulness meditation increases default mode, salience, and central executive network connectivity.
-PMID: 35918449
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35918449/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Recent research has begun to identify the neural mechanisms underlying the beneficial impact of mindfulness meditation training (MMT) on health and cognition. However, little is known about the effects of MMT on the global interplay of large-scale networks (LSNs) in the brain. In the present study, healthy, meditation-naïve adults (N = 46) underwent resting state fMRI prior to and upon completing 31 days of MMT or an active control intervention. Independent component analysis, sliding time window, and seed-based correlation analyses were performed to assess training-related changes in functional connectivity (FC) within and between networks with relevance to mindfulness meditation. Across sliding time window analyses and seed-based correlation analyses, we found increased FC between nodes of the default mode network (DMN) and nodes of the salience network (SN) in participants of the MMT. Seed-based correlation analyses revealed further connectivity increases between the SN and key regions of the central executive network (CEN). These results indicate, that, among multiple LSNs, one month of mindfulness meditation effectively increases interconnectivity between networks of the triple network model (DMN, SN, CEN), hereby introducing a potential mechanistic concept underlying the beneficial impact of MMT.Clinical trial registration: This study is listed as a clinical trial on the ISRCTN registry with trial ID ISRCTN95197731 (date of first registration: 15/02/2022).

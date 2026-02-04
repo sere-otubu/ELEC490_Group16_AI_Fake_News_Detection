@@ -1,8 +1,0 @@
-SEARCH_TOPIC: HPV infection
-TITLE: HPV infection in urology practice.
-PMID: 31583581
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31583581/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Human papillomavirus (HPV) is the most common pathogen of sexually transmitted disease worldwide. While HPV is responsible for low-grade benign lesions in the anogenital area such as condyloma acuminatum, it is also strongly associated with cervical, anal, vulvar/vaginal, and penile carcinomas. In addition to being an oncogenic virus, HPV causes a substantial socioeconomic burden due to the recurrence of benign lesions, the lack of a definitive treatment option that provides a complete cure, and the high cost of treatment. The global incidence of HPV infection is rising, especially among young and sexually active individuals; as a result, in recent years these infections have also become increasingly conspicuous in urology practice, both as incidental findings and primary complaints. The aim of this review is to evaluate the pathogenesis, diagnosis, and treatment modalities of HPV infections in light of the current literature from the urologist's perspective.

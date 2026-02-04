@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep paralysis
-TITLE: Recurrent Isolated Sleep Paralysis.
-PMID: 38368058
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38368058/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Recurrent isolated sleep paralysis has a 7.6% lifetime prevalence of at least one episode in the general population. Episodes resolve spontaneously and are benign. Sleep paralysis represents a dissociate state, with persistence of the rapid eye movement (REM)-sleep muscle atonia in the waking state. The intrusion of alpha electroencephalogram into REM sleep is followed by an arousal response and then by persistence of REM atonia into wakefulness. Predisposing factors include irregular sleep-wake schedules, sleep deprivation, and jetlag. No drug treatment is required. Patients should be informed about sleep hygiene. Cognitive behavioral therapy may be useful in cases accompanied by anxiety and frightening hallucinations.

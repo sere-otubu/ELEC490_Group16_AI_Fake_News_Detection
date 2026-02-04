@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 10927144)
-    QUESTION: Can p53 alterations be used to predict tumour response to pre-operative chemo-radiotherapy in locally advanced rectal cancer?
-    CONTEXT: To examine whether p53 tumour suppressor gene alterations can be used to predict tumour response to pre-operative chemo-radiation in locally advanced rectal cancer in terms of reduction in tumour size and local failure.
-    ANSWER: p53 alteration detected by IHC or SSCP analysis is not a clinically useful predictor of local response to pre-operative adjuvant therapy in advanced rectal carcinoma.
-    

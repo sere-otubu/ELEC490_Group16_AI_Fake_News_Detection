@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Stem cell research
-TITLE: Bioprinting for stem cell research.
-PMID: 23260439
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23260439/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Recently, there has been growing interest in applying bioprinting techniques to stem cell research. Several bioprinting methods have been developed utilizing acoustics, piezoelectricity, and lasers to deposit living cells onto receiving substrates. Using these technologies, spatially defined gradients of immobilized biomolecules can be engineered to direct stem cell differentiation into multiple subpopulations of different lineages. Stem cells can also be patterned in a high-throughput manner onto flexible implementation patches for tissue regeneration or onto substrates with the goal of accessing encapsulated stem cells of interest for genomic analysis. Here, we review recent achievements with bioprinting technologies in stem cell research, and identify future challenges and potential applications including tissue engineering and regenerative medicine, wound healing, and genomics.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic screening
-TITLE: Understanding Genetic Screening: Harnessing Health Information to Prevent Disease Risks.
-PMID: 39991772
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39991772/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Genetic screening analyzes an individual's genetic information to assess disease risk and provide personalized health recommendations. This article introduces the public to genetic screening, explaining its definition, principles, history, and common types, including prenatal, newborn, adult disease risk, cancer, and pharmacogenetic screening. It elaborates on the benefits of genetic screening, such as early risk detection, personalized prevention, family risk assessment, and reproductive decision-making. The article also notes limitations, including result interpretation uncertainty, psychological and ethical issues, and privacy and discrimination risks. It provides advice on selecting suitable screening, consulting professionals, choosing reliable institutions, and understanding screening purposes and limitations. Finally, it discusses applying screening results through lifestyle adjustments, regular check-ups, and preventive treatments. By comprehensively introducing genetic screening, the article aims to raise public awareness and encourage utilizing this technology to prevent disease and maintain health.

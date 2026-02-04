@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lactose intolerance
-TITLE: Lactose Intolerance: Common Misunderstandings.
-PMID: 30783042
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30783042/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Lactose intolerance primarily refers to a syndrome having different symptoms upon the consumption of foods containing lactose. It is one of the most common form of food intolerance and occurs when lactase activity is reduced in the brush border of the small bowel mucosa. Individuals may be lactose intolerant to varying degrees, depending on the severity of these symptoms. When lactose is not digested, it can be fermented by gut microbiota leading to symptoms of lactose intolerance that include abdominal pain, bloating, flatulence, and diarrhea with a considerable intraindividual and interindividual variability in the severity of clinical manifestations. These gastrointestinal symptoms could be similar to cow's milk allergy and could be wrongly labeled as symptoms of "milk allergy." There are important differences between lactose intolerance and cow's milk allergy; therefore, a better knowledge of these differences could limit misunderstandings in the diagnostic approach and in the management of these conditions.

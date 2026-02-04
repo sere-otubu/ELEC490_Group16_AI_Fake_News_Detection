@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alternative medicine
-TITLE: Complementary and alternative medicine.
-PMID: 10626124
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10626124/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The use of complementary and alternative medicine in the United States and throughout the world has been experiencing a tremendous resurgence of interest in the past decade. There are myriad varieties of herbal and nonherbal remedies, devices of many types, and mind-body control modalities being used today that were rarely used (at least in the U.S.) 10 years ago. Furthermore, this essentially experimental usage by the general public has occurred outside the medical profession, which has exercised little or no control over the production, medical recommendations, or quality control by the manufactures of these products. Surveys have shown that at least 50% to 75% of the U.S. population are using some form of complementary or alternative medicine at any one time and, moreover, are often reluctant to tell their physicians.

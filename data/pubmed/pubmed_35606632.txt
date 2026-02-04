@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sugar consumption
-TITLE: Sugar Consumption Is Negatively Associated with Semen Quality.
-PMID: 35606632
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35606632/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Recently, in parallel to decrease in semen quality, the consumption of sugar has risen sharply. This provided the rationale to study the association between whole dietary sugar consumption and semen quality. Our aim was to investigate the association between sugar consumption and semen quality. The final cross-sectional study population (n = 280 of initial n = 593, after applying inclusion and exclusion criteria) attending routine semen analysis at sperm bank laboratory was subject to semen quality analysis according to WHO criteria (volume, sperm concentration, total sperm count, percentage total motility, and percentage normal morphology) and filled food frequency questionnaire (FFQ) and lifestyle questionnaire. Associations between consumed sugars and semen quality were analyzed using multivariate regression adjusted to relevant cofounders for 2 food components containing sugar including soft drinks (SoftD) and total added sugar to food products (SugProd). We found negative association between higher consumption of dietary sugar in all 2 dietary sub-categories and sperm concentration. Significant sperm concentration decrements of 18% and 23% were associated with SoftD median consumption of 0.2 drinks/day (IQR; 0.1-0.5 drinks/day). Significant sperm concentration decrements of 15% and 17% were associated with median SugProd consumption of 25 teaspoons of added sugar/day (IQR; 19-31 teaspoons of added sugar/day). In conclusion, our study findings demonstrate that sugar consumption is negatively associated with sperm concentration.

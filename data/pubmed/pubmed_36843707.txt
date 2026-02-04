@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Paleo diet
-TITLE: The Paleolithic Diet.
-PMID: 36843707
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36843707/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The promotion of healthy diets is likely one of the most cost-effective strategies for preventing a wide range of disorders, including cardiovascular disease, obesity, hypertension, and type 2 diabetes. The majority of present non-communicable chronic diseases are attributed to civilization, an abundance of food, and a lack of physical activity. According to the purported lifestyles of early humans, the paleolithic diet (PD) encourages the intake of wild animal and plant foods. In recent decades, the paleolithic diet has grown in popularity, particularly among younger populations and those with cardiometabolic syndrome and other chronic diseases. Due to the nutrition profile of the paleolithic diet, historical studies have postulated that hunter-gatherers (HGs) have slender physiques and were physically fit and devoid of chronic ailments such as cardiovascular diseases (CVDs). This review highlights the composition/constituent of the paleolithic diet along with an emphasis on current studies and evidence on the effectiveness of the paleolithic diet in mitigating chronic diseases.

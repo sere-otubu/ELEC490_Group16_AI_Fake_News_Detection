@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hypotension
-TITLE: Profound hypotension following concomitant administration of tizanidine and lisinopril.
-PMID: 39938967
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39938967/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Tizanidine, a muscle relaxant, exerts its mechanism as a centrally acting alpha-2 adrenergic receptor agonist and binds to imidazoline receptors. Bradycardia and hypotension are adverse effects associated with alpha-2 adrenergic receptor agonists. A man in his 50s with a medical history of hypertension and chronic back pain presented with chest pain and hypertension. Pertinent medication history included metoprolol tartrate, lisinopril, hydralazine, hydrochlorothiazide and tizanidine and was continued. Following medication administration, the patient was hypotensive. Further episodes occurred that correlated with tizanidine administration and were more pronounced with concomitant lisinopril administration. Tizanidine was discontinued, and the hypotensive episodes resolved. Profound hypotension caused by a tizanidine-lisinopril drug interaction is rare but potentially life-threatening. This reaction scored a 4 on the Naranjo Adverse Drug Reaction Probability Scale and Drug Interaction Probability Scale. Providers should be aware of this potential adverse reaction from the combination of medications.

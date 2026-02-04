@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anorexia nervosa
-TITLE: Anorexia nervosa in adolescents.
-PMID: 32589532
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32589532/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Anorexia nervosa is an eating disorder with peak onset in adolescence, which carries the highest mortality rate of all psychiatric illnesses. It is commonly comorbid with other physical and mental health problems, yet training on management of people with eating disorders and working knowledge of clinicians working with underweight adolescents is inconsistent. This review of anorexia nervosa in adolescents provides an overview of the presentation, aetiology and treatment of this disorder, with a particular focus on the assessment and management of physical health risks, including refeeding syndrome.

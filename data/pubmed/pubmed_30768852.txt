@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic disorders
-TITLE: Genetic Disorders of the Extracellular Matrix.
-PMID: 30768852
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30768852/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Mutations in the genes for extracellular matrix (ECM) components cause a wide range of genetic connective tissues disorders throughout the body. The elucidation of mutations and their correlation with pathology has been instrumental in understanding the roles of many ECM components. The pathological consequences of ECM protein mutations depend on its tissue distribution, tissue function, and on the nature of the mutation. The prevalent paradigm for the molecular pathology has been that there are two global mechanisms. First, mutations that reduce the production of ECM proteins impair matrix integrity largely due to quantitative ECM defects. Second, mutations altering protein structure may reduce protein secretion but also introduce dominant negative effects in ECM formation, structure and/or stability. Recent studies show that endoplasmic reticulum (ER) stress, caused by mutant misfolded ECM proteins, makes a significant contribution to the pathophysiology. This suggests that targeting ER-stress may offer a new therapeutic strategy in a range of ECM disorders caused by protein misfolding mutations. Anat Rec, 2019. © 2019 The Authors. The Anatomical Record published by Wiley Periodicals, Inc. on behalf of American Association of Anatomists.

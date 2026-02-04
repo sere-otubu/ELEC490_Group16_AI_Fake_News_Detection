@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Spinal cord injury
-TITLE: Therapeutic Antibodies for Spinal Cord Injury.
-PMID: 27633782
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27633782/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Spinal cord injury (SCI) is a long-lasting damage in the spinal cord that leads to paraparesis, paraplegia, quadriplegia and other lifetime disabilities. The underlying mechanisms responsible for the failure of axonal regeneration after SCI remain only partially understood. Although a spectrum of medical treatments has been made available for this disease, the therapeutic effects remain disappointing. The emergence of antibody treatment has paved a new pathway for the management of SCI. In this current review, we summarized the application of antibodies in SCI in studies of myelin repair, neuroprotection, axon outgrowth, and anti-immune reaction. In the meantime, the combination treatment of the antibody with other reagents or stem cell transplant was also reviewed.

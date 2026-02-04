@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Maternal mortality rates
-TITLE: Maternal Mortality in the Twenty-First Century.
-PMID: 29747724
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29747724/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Maternal mortality plagues much of the world. There were 303,000 maternal deaths in 2015 representing an overall global maternal mortality ratio of 216 maternal deaths per 100,000 live births. In the United States, the maternal mortality ratio had been decreasing until 1987, remained stable until 1999, and then began to increase. Racial disparities exist in the rates of maternal mortality in the United States with maternal death affecting a higher proportion of black women compared with white women. To reduce maternal mortality, national organizations in the United States have called for standardized review of cases of maternal morbidity and mortality.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: COVID-19
-TITLE: COVID-19 diagnosis -A review of current methods.
-PMID: 33126180
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33126180/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A fast and accurate self-testing tool for COVID-19 diagnosis has become a prerequisite to comprehend the exact number of cases worldwide and to take medical and governmental actions accordingly. SARS-CoV-2 (formerly, 2019-nCoV) infection was first reported in Wuhan (China) in December 2019, and then it has rapidly spread around the world, causing <sub>~</sub>14 million active cases with <sub>~</sub>582,000 deaths as of July 2020. The diagnosis tools available so far have been based on a) viral gene detection, b) human antibody detection, and c) viral antigen detection, among which the viral gene detection by RT-PCR has been found as the most reliable technique. In this report, the current SARS-CoV-2 detection kits, exclusively the ones that were issued an "Emergency Use Authorization" from the U.S. Food and Drug Administration, were discussed. The key structural components of the virus were presented to provide the audience with an understanding of the scientific principles behind the testing tools. The methods that are still in the early research state were also reviewed in a subsection based on the reports available so far.

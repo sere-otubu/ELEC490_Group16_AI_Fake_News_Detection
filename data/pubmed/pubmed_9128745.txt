@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tonsillectomy
-TITLE: Pediatric tonsillectomy and adenoidectomy procedures.
-PMID: 9128745
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9128745/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The most common pediatric surgical procedures performed in the United States today are tonsillectomies and adenoidectomies (T&A). Surgical team members must be highly trained and efficient to ensure optimal patient outcomes, reduce surgical costs, and decrease the risk and potential complications inherent in T&A procedures. The authors review current surgical indications for T&A procedures; recommended preoperative, intraoperative, and postoperative patient care; and the management of potential complications.

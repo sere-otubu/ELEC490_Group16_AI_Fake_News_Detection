@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Bypass surgery
-TITLE: Use of barbed sutures in robotic bariatric bypass surgery: a single-center case series.
-PMID: 31337375
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31337375/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Surgical robots are increasingly being used in bariatric surgery. While several studies describe the safety of using barbed sutures in laparoscopic gastric bypass surgery, no reports are available for robotic bariatric procedures. The aim of our article is to determine whether barbed sutures can be used safely in robotic Roux-en-Y bypass (RYGB) surgery. This was a single-center, single-surgeon case series of RYGB procedures using the da Vinci® Xi Surgical System (Intuitive Surgery, Sunnyvale, CA, USA) in combination with the use of barbed sutures (Stratafix, Ethicon, Johnson & Johnson, Cincinnati, OH, USA). Fifty robotic proximal and distal RYGB surgeries were performed. A linear stapled, side-to-side gastrojejunostomy was carried out, whereby the enterotomy was completed with a running resorbable unidirectional barbed suture, Stratafix 2-0. In one case after robotic proximal RYGB, revision surgery was required due to omentum necrosis. Another patient was readmitted due to gastrointestinal bleeding from anastomosis. No anastomotic insufficiencies, no stenoses, or higher-grade complications according to Clavien-Dindo 4a-5 were found. We found that the use of self-fixing barbed sutures in robotic RYGB is safe. The self-fixing suture enables the robotic surgeon to perform a simple continuous suture without the need for recurrent retraction. Although we are the first to report this procedure, we had a low number of cases and no control group; thus, further studies with a higher level of evidence are required.

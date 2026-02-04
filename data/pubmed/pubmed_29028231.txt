@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Public health policy
-TITLE: Policy, politics and public health.
-PMID: 29028231
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29028231/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-If public health is the field that diagnoses and strives to cure social ills, then understanding political causes and cures for health problems should be an intrinsic part of the field. In this article, we argue that there is no support for the simple and common, implicit model of politics in which scientific evidence plus political will produces healthy policies. Efforts to improve the translation of evidence into policy such as knowledge transfer work only under certain circumstances. These circumstances are frequently political, and to be understood through systematic inquiry into basic features of the political economy such as institutions, partisanship and the organization of labour markets.

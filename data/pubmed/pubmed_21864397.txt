@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21864397)
-    QUESTION: Factors determining the survival of nasopharyngeal carcinoma with lung metastasis alone: does combined modality treatment benefit?
-    CONTEXT: Nasopharyngeal carcinoma (NPC) with lung metastasis alone has been reported as a relatively favorable prognostic group, and combined modality treatment might be indicated for selected cases. However, the prognostic factors determining survival of this group and the indication of combined therapy have not been thoroughly studied.
-    ANSWER: Age ≤ 45 years, DFI>1 year, and the combined therapy were good prognostic factors for NPC patients with lung metastasis(es) alone. The combination of local therapy and the basic chemotherapy should be considered for these patients with DFI>1 year.
-    

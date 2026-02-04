@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Prebiotics
-TITLE: Prebiotics and the poultry gastrointestinal tract microbiome.
-PMID: 32029153
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32029153/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Feed additives that can modulate the poultry gastrointestinal tract and provide benefit to bird performance and health have recently received more interest for commercial applications. Such feed supplements offer an economic advantage because they may directly benefit poultry producers by either decreasing mortality rates of farm animals, increasing bird growth rates, or improve feed efficieny. They can also limit foodborne pathogen establishment in bird flocks by modifying the gastrointestinal microbial population. Prebiotics are known as non-digestible carbohydrates that selectively stimulate the growth of beneficial bacteria, thus improving the overall health of the host. Once prebiotics are introduced to the host, 2 major modes of action can potentially occur. Initially, the corresponding prebiotic reaches the intestine of the chicken without being digested in the upper part of the gastrointestinal tract but are selectively utilized by certain bacteria considered beneficial to the host. Secondly, other gut activities occur due to the presence of the prebiotic, including generation of short-chain fatty acids and lactic acid as microbial fermentation products, a decreased rate of pathogen colonization, and potential bird health benefits. In the current review, the effect of prebiotics on the gastrointestinal tract microbiome will be discussed as well as future directions for further research.

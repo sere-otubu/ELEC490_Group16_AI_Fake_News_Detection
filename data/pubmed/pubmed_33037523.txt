@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vaping health risks
-TITLE: The Promise and Peril of Vaping.
-PMID: 33037523
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33037523/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The increasing popularity and prevalence of electronic cigarettes (e-cigarettes) use in the USA necessitates careful evaluation of their proposed benefits and potential public health harms. This report provides a detailed review of current scientific evidence on potential benefits and health risks associated with e-cigarette use. E-cigarettes were introduced as a less harmful alternative to combustible cigarette smoking. However, evidence on their use as effective and safe smoking cessation aids remains inconclusive. Their rapid uptake among tobacco-naive individuals can lead to nicotine addiction and subsequent cigarette smoking. Although e-cigarettes appear to be relatively safer than combustible cigarettes, they expose users to known harmful constituents whose long-term health risks remain unknown. While e-cigarettes have the potential to aid in cessation of cigarette smoking when used as part of a structured cessation program, use among tobacco-naive youth and long-term dual use with combustible cigarettes should be strongly discouraged due to excess risk with dual use.

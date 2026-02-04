@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Malaria
-TITLE: Malaria's deadly secret: a skin stage.
-PMID: 22300807
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22300807/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The role skin plays in malaria infection has long been overlooked. Recent analysis, however, suggests skin-infecting sporozoites initiate rapid suppression of immunity, establishing early tolerance to subsequent lifecycle stages. This explains susceptibility to reinfection by mosquito bite, independent of blood stage-induced immunosuppression or semi-immunity. Vaccine trials corroborate skin-initiated immunosubversion due to skin-infecting forms, tightly correlating bite pre-exposure, live parasites in the skin and endemic vaccine failure. Rapidly advancing skin immunobiology and recently described parasite development in host skin further substantiate the proposed model, consolidating a new concept in parasite biology, exemplified by malaria: natural infection has a defined, potently immunosubversive skin stage, crucially affecting vaccine function and vitally relevant to eradication.

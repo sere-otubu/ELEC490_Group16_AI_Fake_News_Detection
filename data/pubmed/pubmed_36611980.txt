@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cell division meiosis
-TITLE: Multiple Roles of PLK1 in Mitosis and Meiosis.
-PMID: 36611980
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36611980/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cells are equipped with a diverse network of signaling and regulatory proteins that function as cell cycle regulators and checkpoint proteins to ensure the proper progression of cell division. A key regulator of cell division is polo-like kinase 1 (PLK1), a member of the serine/threonine kinase family that plays an important role in regulating the mitotic and meiotic cell cycle. The phosphorylation of specific substrates mediated by PLK1 controls nuclear envelope breakdown (NEBD), centrosome maturation, proper spindle assembly, chromosome segregation, and cytokinesis. In mammalian oogenesis, PLK1 is essential for resuming meiosis before ovulation and for establishing the meiotic spindle. Among other potential roles, PLK1 regulates the localized translation of spindle-enriched mRNAs by phosphorylating and thereby inhibiting the translational repressor 4E-BP1, a downstream target of the mTOR (mammalian target of rapamycin) pathway. In this review, we summarize the functions of PLK1 in mitosis, meiosis, and cytokinesis and focus on the role of PLK1 in regulating mRNA translation. However, knowledge of the role of PLK1 in the regulation of meiosis remains limited.

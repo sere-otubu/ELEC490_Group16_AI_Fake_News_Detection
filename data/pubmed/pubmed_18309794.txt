@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ringworm
-TITLE: Managing scalp ringworm in children.
-PMID: 18309794
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18309794/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Scalp ringworm (tinea capitis) is a significant public health problem in the UK. An infection with dermatophyte fungi, it affects scalp hair follicles and surrounding scalp skin and often causes alopecia, which can be permanent. The condition is commonest in pre-adolescent children, although it also occurs in adolescents and adults. In 1995, the reported infection rate in schools in southeast London was about 2.5%, and there has been an increase in cases over the past few years. We last reviewed the management of scalp ringworm in 1996, concluding that "an 8-10 week course of oral griseofulvin (10 mg/kg body weight) will normally clear the infection...". Since then, more data have been published on newer antifungal drugs. Here we update our advice on the treatment of children with scalp ringworm.

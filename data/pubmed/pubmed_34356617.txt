@@ -1,8 +1,0 @@
-SEARCH_TOPIC: COVID-19
-TITLE: COVID-19: Unmasking Emerging SARS-CoV-2 Variants, Vaccines and Therapeutic Strategies.
-PMID: 34356617
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34356617/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the etiological agent of the coronavirus disease 2019 (COVID-19) pandemic, which has been a topic of major concern for global human health. The challenge to restrain the COVID-19 pandemic is further compounded by the emergence of several SARS-CoV-2 variants viz. B.1.1.7 (Alpha), B.1.351 (Beta), P1 (Gamma) and B.1.617.2 (Delta), which show increased transmissibility and resistance towards vaccines and therapies. Importantly, there is convincing evidence of increased susceptibility to SARS-CoV-2 infection among individuals with dysregulated immune response and comorbidities. Herein, we provide a comprehensive perspective regarding vulnerability of SARS-CoV-2 infection in patients with underlying medical comorbidities. We discuss ongoing vaccine (mRNA, protein-based, viral vector-based, etc.) and therapeutic (monoclonal antibodies, small molecules, plasma therapy, etc.) modalities designed to curb the COVID-19 pandemic. We also discuss in detail, the challenges posed by different SARS-CoV-2 variants of concern (VOC) identified across the globe and their effects on therapeutic and prophylactic interventions.

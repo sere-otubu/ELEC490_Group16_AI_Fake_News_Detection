@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Autism spectrum disorder
-TITLE: Obsessive-Compulsive Disorder in Autism Spectrum Disorder Across the Lifespan.
-PMID: 32169271
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32169271/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Obsessive-compulsive disorder is a relatively common disorder seen in autism spectrum disorder across the lifespan. Many obsessive-compulsive disorder symptoms can present similarly to the core features of autism spectrum disorder and it is often difficult to differentiate between obsessive-compulsive disorder and stereotypic behaviors or restricted interests in autism spectrum disorder. However, there are differences between the 2 disorders. This article is a review of the current literature with the goal of helping the clinician to diagnose and treat obsessive-compulsive disorder in a patient with autism spectrum disorder.

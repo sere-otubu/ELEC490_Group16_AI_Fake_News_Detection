@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Food allergies
-TITLE: Evaluation and Management of Food Allergies in the Emergency Department.
-PMID: 37394255
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37394255/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Food allergies are a common and serious cause of illness, accounting for an increasing number of emergency department visits annually. Although definite diagnosis lays outside of an emergency department visit, the clinical management of the most serious food allergies highlights emergency care. The staple of acute care remains epinephrine in association with antihistamines and steroids. The greatest threat remains undertreatment for this group of disorders and underutilization of epinephrine. Those who have been treated for a food allergy need a follow-up allergist evaluation, guidance of food avoidance, and avoidance of foods with cross-sensitivities as well as ready access to epinephrine.

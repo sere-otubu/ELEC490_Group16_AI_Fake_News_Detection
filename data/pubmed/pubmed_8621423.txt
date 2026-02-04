@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Calcium requirements
-TITLE: Requirements for calcium and calmodulin in the calmodulin kinase activation cascade.
-PMID: 8621423
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8621423/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-We have previously purified and cloned rat brain Ca2+/calmodulin-dependent protein kinase kinase (CaM-KK), and the 68-kDa recombinant CaM-KK activates in vitro both CaM-kinase IV (CaM-K IV) and CaM-K I (Tokumitsu, H., Enslen, H., and Soderling, T. R. (1995) J. Biol. Chem. 270, 19320-19324). In the present study we have determined that activation of CaM-K IV through phosphorylation of Thr196 by CaM-KK is triggered by elevated intracellular Ca2+ in intact cells and requires binding of Ca2+/CaM to both enzymes. An expressed fragment of CaM-K IV (CaM-K IV178-246), which contains the activating phosphorylation site (Thr196) but not the autoinhibitory domain or the CaM-binding domain, still required Ca2+/CaM for phosphorylation by wild-type CaM-KK. A truncated mutant of CaM-KK (CaM-KK1-434) phosphorylated CaM-K IV178-246 in a Ca2+/CaM-independent manner, but this constitutively active CaM-KK1 434 required Ca2+/CaM for phosphorylation and activation of wild-type CaM-K IV. These results demonstrate that binding of Ca2+/CaM to both CaM-K IV and CaM-KK is required for the CaM-kinase cascade. Both CaM-KK and CaM-K IV appear to have similar Ca2+/CaM requirements with EC50 values of approximately 100 nM. Studies using co-expression of CaM-K IV with CaM-KK in COS-7 cells demonstrated that CaM-KK rapidly activated both total and Ca2+/CaM-independent activities of wild-type CaM-K IV, but not the Thr196 --> Ala mutant, upon ionomycin stimulation.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vertigo
-TITLE: Vertigo and dizziness in children: When to consider a neurological cause.
-PMID: 37537083
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37537083/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Vertigo is common in childhood and adolescence. Although children and adults share common causes of vertigo, epidemiology changes with aging. For instance, ischemic stroke is less frequent in childhood, whereas audiovestibular disorders, such as vestibular neuritis and the migraine equivalent, are the leading causes of vertigo. However, even if severe causes of vertigo are rare, clinicians must not miss them. In this review, we discuss the neurological causes of central vertigo in children. The diagnostic approaches reviewed here are focused on the search for signs of severity, such as an abrupt onset, infectious context, or intracranial hypertension, which may subsequently require brain imaging.

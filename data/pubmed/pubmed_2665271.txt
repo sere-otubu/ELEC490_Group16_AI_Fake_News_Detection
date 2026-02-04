@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cushings syndrome
-TITLE: Cushing's syndrome.
-PMID: 2665271
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2665271/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cushing's syndrome remains one of the great diagnostic challenges to internists and endocrinologists. Urologists have the primary role in the treatment of many of the forms of Cushing's syndrome, especially adrenal tumors and micronodular hyperplasia. As we continue to gain experience with Cushing's disease treated with pituitary surgery and with etopic ACTH syndrome and the other forms of Cushing's syndrome, urologists are likely to become even more involved in the therapy of all types of Cushing's syndrome.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 27050505)
-    QUESTION: Does angiotensin-converting enzyme-1 (ACE-1) gene polymorphism lead to chronic kidney disease among hypertensive patients?
-    CONTEXT: Hypertension is one of the important contributing factors linked with both causation and development of kidney disease. It is a multifactorial, polygenic, and complex disorder due to interaction of several risk genes with environmental factors. The present study was aimed to explore genetic polymorphism in ACE-1 gene as a risk factor for CKD among hypertensive patients.
-    ANSWER: It is concluded that ACE-DD genotype may be a risk factor for the causation and development of chronic kidney failure among hypertensive patients.
-    

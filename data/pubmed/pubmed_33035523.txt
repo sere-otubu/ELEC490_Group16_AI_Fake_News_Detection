@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gambling addiction
-TITLE: Exploring dopaminergic transmission in gambling addiction: A systematic translational review.
-PMID: 33035523
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33035523/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Dopamine has a crucial and well-documented role in the development and maintenance of Gambling Disorder (GD). This systematic review adopts a translational approach aimed at providing a comprehensive synthesis of current clinical and preclinical knowledge on dopaminergic function in GD at a neurobiological level. To this end, we present and discuss converging dopaminergic alterations and phenotypes. Preclinical and clinical review protocols were registered on the PROSPERO database (CRD42019124404, CRD42019124405). The literature search was conducted in accordance with PRISMA guidelines using three databases (PubMed, Web of Science, Scopus). We identified 67 preclinical studies using pharmacological and non-pharmacological manipulations of the gambling-like phenotype and 33 human studies investigating either genetic polymorphisms or functional brain imaging data. Dopamine transporter and D2, D3, D4 receptor alterations showed strongest translational concordance. Though no postsynaptic dopaminergic alterations were observed, several studies point at dysfunctions in presynaptic dopamine trafficking in GD, suggestive of hyperdopaminergic states. Developing meaningful translational models is essential to working towards the development of an integrated conceptual framework for GD and neurobiologically-based treatment interventions.

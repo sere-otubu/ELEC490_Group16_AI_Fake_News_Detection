@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Autoimmune diseases
-TITLE: Autoimmune diseases and their relation with immunological, neurological and endocrinological axes.
-PMID: 28479489
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28479489/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The immune response is complex, multifactorial, individualized and often unpredictable. There are multiple interconnected systems that allow a balance between physiological autoreactive processes and pathological autoimmunity with consequent organ-specific or systemic autoimmune disease. Based on the concept of the autoimmunity mosaic, up to 50% of autoimmune disorders do not have a clear etiological factor. In order to achieve a clear understanding of the different systems that influence the development of autoimmune diseases, the clinical auto-immunologist needs a dynamic and comprehensive vision of all interconnected pathways that maintain a precise balance in the organism. This has been and will remain a challenge. Understanding the different pathophysiological processes of these diseases will be the basis for predicting different clinical spectra and has the potential to offer innovative therapeutic approaches. This paper offers a practical overview of the bidirectional communication between the immune and endocrine system and the influence this has on the development of autoimmune diseases.

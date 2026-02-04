@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hospice care
-TITLE: Hospice and Palliative Care-Men and Gender-Specific Roles.
-PMID: 37833002
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37833002/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-All people face end of life as the final health outcome. When a person's health focus shifts from quantity to quality of life, palliative care comes into view. Clinicians serving patients across the health care spectrum must be aware of the nature and efficacy of palliative and hospice care, indications for referral to services, and current best practices. Creating an end-of-life trajectory requires an individualized and global personal plan, which palliative and hospice care can provide. Gender-specific care that includes gender minorities provides special and unique challenges to those seeking palliative and hospice care.

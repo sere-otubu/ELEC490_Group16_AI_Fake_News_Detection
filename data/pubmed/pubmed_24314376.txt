@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rosacea
-TITLE: Rosacea and rhinophyma.
-PMID: 24314376
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24314376/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rosacea is a common and chronic inflammatory cutaneous disease with unknown etiology. The pathophysiology of rosacea is still poorly understood. Epidemiological studies indicate a genetic component, but a rosacea gene has not been detected yet. Recent molecular studies propose that an altered innate immune response is involved in the pathogenesis of the rosacea disease. Signs of rosacea are indicated by the presence of characteristic facial or ocular inflammation involving both the vascular and tissue stroma. A wide range of drug options is available for the treatment of rosacea, including several topical ones (metronidazole, antibiotics, azelaic acid, benzoyl peroxide, sulfacetamide/sulfur, retinoids) and oral ones (mainly tetracyclines, metronidazole, macrolides, isotretinoin). This review highlights the recent clinical and pathophysiological developments concerning rosacea.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Syphilis
-TITLE: The resurgence of syphilis in Australia.
-PMID: 38437656
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38437656/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Syphilis infections have been increasing in Australia over the past decade. This phenomenon has been associated with a re-emergence of congenital syphilis. The aim of this article is to describe recent epidemiological trends of syphilis infection in Australia, including demographics in which infection rates are rising, such as women of reproductive age. This article also provides an overview of the clinical course and the principles of management for syphilis. Considered by some as a disease of bygone eras, the resurgence of syphilis in Australia requires clinicians to be alert to this infection once again. Increased testing, prompt management and thorough contact tracing are all required to reverse this trend. Congenital syphilis is a potentially devastating yet preventable consequence of rising infections among women of reproductive age. Universal syphilis screening is recommended for all pregnant women at the initial antenatal visit and is now also recommended in the third trimester in several Australian jurisdictions.

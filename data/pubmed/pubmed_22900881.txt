@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22900881)
-    QUESTION: Should pulp chamber pulpotomy be seen as a permanent treatment?
-    CONTEXT: Seventeen patients, aged 7-54 years (mean of 37.2 year), were treated by pulpotomy and filling with ProRoot MTA(®)  in premolar or molar teeth with vital pulps and without clinical evidence of irreversible pulpitis. The patients were then followed up for 12 to 24 months and the teeth then assessed by clinical and radiographic examination. Statistical analysis was performed with Kaplan-Meier survival probability statistics to estimate the survival of the treated teeth.
-    ANSWER: Under the conditions of this study, pulpotomy offered a viable alternative to root canal treatment for teeth with vital pulps in the short term. However, there is insufficient clinical evidence to consider this technique for the treatment of every permanent tooth. Nevertheless, it should be considered as a potential alternative approach to be further developed for future applications.
-    

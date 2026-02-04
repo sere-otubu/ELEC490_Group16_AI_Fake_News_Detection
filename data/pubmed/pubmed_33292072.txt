@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Spinal cord injury
-TITLE: Blood-Spinal Cord Barrier in Spinal Cord Injury: A Review.
-PMID: 33292072
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33292072/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The blood-spinal cord barrier (BSCB), a physical barrier between the blood and spinal cord parenchyma, prevents the toxins, blood cells, and pathogens from entering the spinal cord and maintains a tightly controlled chemical balance in the spinal environment, which is necessary for proper neural function. A BSCB disruption, however, plays an important role in primary and secondary injury processes related to spinal cord injury (SCI). After SCI, the structure of the BSCB is broken down, which leads directly to leakage of blood components. At the same time, the permeability of the BSCB is also increased. Repairing the disruption of the BSCB could alleviate the SCI pathology. We review the morphology and pathology of the BSCB and progression of therapeutic methods targeting BSCB in SCI.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 10759659)
-    QUESTION: The nurse cystoscopist: a feasible option?
-    CONTEXT: To compare the accuracy achieved by a trained urology nurse practitioner (UNP) and consultant urologist in detecting bladder tumours during flexible cystoscopy.
-    ANSWER: A UNP can be trained to perform cystoscopy and detect suspicious lesions as accurately as can a consultant urologist. Legal and training issues in implementation are important.
-    

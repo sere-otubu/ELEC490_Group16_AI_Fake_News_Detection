@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Digital detox
-TITLE: Break From Digital Screen Using Digital Detox Program in Nursing Students.
-PMID: 39285710
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39285710/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This study evaluated the effectiveness of an 8-week digital detox program on digital screen use among 300 nursing students and explored associations between screen use and demographic variables. A one-group pretest posttest design was employed using the Social Media Addiction Scale Student Form. The digital detox program was implemented for 8 weeks. Digital hygiene, self-reflection and goal setting, mental wellness, screen time management, physical health, interpersonal relationships, digital detox challenges, and hobby-based activities. Chi-square test was employed to determine the associations between digital screen use and demographic variables, respectively. t-tests were conducted to compare the mean screen time across different demographic groups. Results showed that 42% of students had high social media use, while 20% had low use. The overall mean score of social media use decreased significantly from 64.13 to 47.79 postintervention (p < 0.05), indicating the program's effectiveness. The study suggests incorporating digital detox routines to balance technology use with health, productivity, and external connections.

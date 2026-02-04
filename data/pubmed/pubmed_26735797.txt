@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Organic foods
-TITLE: Organic Nanoparticles in Foods: Fabrication, Characterization, and Utilization.
-PMID: 26735797
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26735797/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In the context of food systems, organic nanoparticles (ONPs) are fabricated from proteins, carbohydrates, lipids, and other organic compounds to a characteristic dimension, such as a radius smaller than 100 nm. ONPs can be fabricated with bottom-up and top-down approaches, or a combination of both, on the basis of the physicochemical properties of the source materials and the fundamental principles of physical chemistry, colloidal and polymer sciences, and materials science and engineering. ONPs are characterized for dimension, morphology, surface properties, internal structures, and biological properties to understand structure-function correlations and to explore their applications. These potential applications include modifying physical properties, improving sensory attributes and food quality, protecting labile compounds, and delivering encapsulated bioactive compounds for improved bioactivity and bioavailability. Because ONPs can have digestion and absorption properties different from conventional materials, the eventual applications of ONPs require in vitro and in vivo studies to guide the development of safe food products that utilize the unique functionalities of ONPs.

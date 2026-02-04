@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Corticosteroids
-TITLE: Topical corticosteroids in dermatology.
-PMID: 27279294
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27279294/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Since their introduction, topical corticosteroids have become indispensable in the treatment of various dermatoses. Hydrocortisone was the first compound. Modifications in the basic structure generated in vivo activity and thus different topically active compounds were discovered. Apart from the Stoughton vasoconstrictor assay, various other methods are used for potency assessment of topical corticosteroids. Topical corticosteroides are classified based upon potency and action of these molecules. Mechanism of action at the cellular level and indications of topical corticosteroid use have been discussed. Various adverse effects often occur as an extension of their activity combined with inappropriate usage. Tachyphylaxis and contact allergy are potential problems in clinical practice. Newer compounds with improved risk-benefit ratio are available.

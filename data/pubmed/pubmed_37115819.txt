@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Artificial sweeteners
-TITLE: Artificial sweeteners and cardiovascular risk.
-PMID: 37115819
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37115819/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Globalization and the increase in consumption of ultra-processed foods have led to a need for greater knowledge on the health impacts of certain nutrients such as artificial sweeteners. This review aims to analyse the role of artificial sweeteners (nutritive and nonnutritive) and their impact on cardiometabolic and cardiovascular disease (CVD) risk. The detrimental effects of a high-calorie, high-sugar diet have been well established. In light of this, health authorities recommend limiting sugar consumption. This has led the food industry to develop different artificial sweeteners with specific properties, such as flavour and stability (nutritive artificial sweeteners: NAS), and others aimed at limiting sugar in the diet (nonnutritive artificial sweeteners: nNAS). Likewise, recent evidence explores the influence of artificial sweeteners (NAS and nNAS) on CVD risk through risk factors such as obesity and type 2 diabetes mellitus, among others. This review aims to provide an updated overview of the impact of NAS and nNAS on cardiovascular health and provide recommendations regarding their consumption.

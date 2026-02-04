@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood transfusion
-TITLE: Blood transfusion.
-PMID: 10595754
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10595754/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Blood transfusion became a relatively safe and practicable procedure following the discovery in 1900 of blood groups and the realization early in the first World War that citrate was a safe and effective anticoagulant. Transfusion may elicit the formation of antibodies in the recipient due to "foreign" antigens on the donor's red cells, white cells, or platelets. Application of the methods of molecular biology has characterized the antigens concerned and the genes that determine them. The concept of transfusing whole blood to remedy a deficiency of any constituent, for example, platelets, has been superseded by the idea of transfusing only that component of blood which is needed. Many viruses, for example, hepatitis viruses and human immunodeficiency viruses, can be transmitted by transfusion. The high degree of success in preventing their transmission is a scientific triumph.

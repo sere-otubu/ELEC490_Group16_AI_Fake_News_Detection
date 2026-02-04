@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hemophilia
-TITLE: [Haemophilia].
-PMID: 25351381
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25351381/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Haemophilia is an X-linked inherited clotting disorder with a prevalence of 1 per 5000 men. A deficiency of clotting factor VIII (FVIII; haemophilia A) or IX (FIX; haemophilia B) causes haemophilia patients to suffer from spontaneous bleeding and excessive blood-loss following surgery or trauma. Prophylactic administration of a factor VIII- or factor IX-concentrate is the standard treatment for children with severe haemophilia. Women who are carriers of the F8 or F9 gene mutation can have a lowered plasma concentration of factor VIII or IX, and thus suffer from a mild form of haemophilia. Drugs that have a negative influence on blood clotting, such as NSAIDs, can lead to life-threatening bleeding in haemophilia patients. One of the main complications of haemophilia treatment is the formation of inhibiting antibodies that inactivate FVIII or FIX. Haemophilia patients should be treated by a multidisciplinary team in a hospital with a haemophilia treatment centre.

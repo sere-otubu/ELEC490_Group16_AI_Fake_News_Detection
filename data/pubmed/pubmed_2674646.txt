@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood transfusion
-TITLE: Autologous blood transfusion.
-PMID: 2674646
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2674646/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Autologous blood transfusion is emerging as a popular option in patients undergoing elective procedures. Predeposit and perioperative autotransfusion, the two major types of autologous transfusion, can be performed safely in a wide variety of conditions and in patients of all ages. We discuss the risks and benefits and outline the minimal requirements of donor-patients. Autologous blood transfusion is a safe and effective method of providing blood products. It is the safest transfusion practice.

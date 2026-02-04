@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Laxatives
-TITLE: [Lipid pneumonitis, a serious iatrogenic event with lubricating laxatives].
-PMID: 35393035
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35393035/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The prescription of lubricating laxatives (paraffin oil) is widespread in geriatrics because of the frequency of constipation. These molecules can cause serious adverse effects such as lipoid pneumonia, especially in subjects with swallowing disorders.

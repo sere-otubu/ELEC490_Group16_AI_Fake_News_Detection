@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Muscular system
-TITLE: Spinal Muscular Atrophy: More than a Disease of Motor Neurons?
-PMID: 27894243
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27894243/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Spinal muscular atrophy (SMA) is the most common genetically inherited neurodegenerative disease resulting in infant mortality. SMA is caused by genetic deletion or mutation in the survival of motor neuron 1 (SMN1) gene, which results in reduced levels of the survival of motor neuron (SMN) protein. SMN protein deficiency preferentially affects α- motor neurons, leading to their degeneration and subsequent atrophy of limb and trunk muscles, progressing to death in severe forms of the disease. More recent studies have shown that SMN protein depletion is detrimental to the functioning of other tissues including skeletal muscle, heart, autonomic and enteric nervous systems, metabolic/endocrine (e.g. pancreas), lymphatic, bone and reproductive system. In this review, we summarize studies discussing SMN protein's function in various cell and tissue types and their involvement in the context of SMA disease etiology. Taken together, these studies indicate that SMA is a multi-organ disease, which suggests that truly effective disease intervention may require body-wide correction of SMN protein levels.

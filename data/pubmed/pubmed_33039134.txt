@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alternative medicine
-TITLE: [Complementary and alternative medicine in cancer patients and randomized controlled trials].
-PMID: 33039134
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33039134/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-More and more cancer patients around the world are using complementary and alternative medicine. They are mostly used as a complement to conventional care in decreasing the side effects of treatment and improving their quality of life. However, patients often use them without reporting it to their oncologists; the main reasons being the short duration of consultation and the fact that their oncologists do not support them due to a lack of scientific evidence. There are hundreds of them, some of which are now being used in French healthcare institutions as supportive care. The randomized controlled trial is the gold standard of evidence-based medicine, which is why we have carried out an overview of randomized controlled trials carried out around the world on alternative and complementary medicine.

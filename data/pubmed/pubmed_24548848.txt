@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Menopause
-TITLE: To exercise, or, not to exercise, during menopause and beyond.
-PMID: 24548848
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24548848/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Menopausal symptoms in women can be severe and disruptive to overall quality of life. Hormone replacement therapy, is known to be effective in ameliorating symptoms, however, reporting of side effects has resulted in alternative treatment options. Exercise has been assessed as an alternative treatment option for alleviating menopausal symptoms, including, psychological, vasomotor, somatic and sexual symptoms. Here we report the effects of physical activity and exercise on menopause symptoms in menopausal women.

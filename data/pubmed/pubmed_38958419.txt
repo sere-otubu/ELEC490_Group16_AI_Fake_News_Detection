@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Opioids risks
-TITLE: How Should Risks and Benefits of Short-Acting Opioids Be Evaluated in the Care of Inpatients With OUD?
-PMID: 38958419
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38958419/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Severe opioid withdrawal, risk of patient-initiated discharge, and some inpatients' use of unregulated substances prompt clinical and ethical questions considered in this commentary on a case. Short-acting opioids can be used to manage inpatients' pain and opioid use disorder (OUD) withdrawal symptoms. Including evidence-based interventions-such as naloxone kits, substance use equipment, and supervised consumption-in some inpatients' care plans may make those patients safer and reduce their risk of death. These and other strategies align with clinicians' ethical duties to minimize harms and maximize benefits for inpatients with OUD.

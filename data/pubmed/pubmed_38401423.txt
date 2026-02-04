@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Social anxiety
-TITLE: Social anxiety and problematic social media use: A systematic review and meta-analysis.
-PMID: 38401423
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38401423/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Some theories posit a close relationship between social anxiety and problematic social media use; however, empirical findings are inconsistent, and existing hypotheses are conflicting. Hence, we conducted a systematic review and meta-analysis to clarify the relationship between social anxiety and problematic social media use. After searching and screening the literature, we identified 53 studies, including 59,928 participants and 56 effect sizes, for analysis. A meta-analysis was subsequently performed using CMA software. Results showed that social anxiety and problematic social media use were highly positively correlated. The moderating effect results suggested that the relationship between social anxiety and problematic social media use was influenced by the measurement instrument, sex, publication year, and platform type; however, the relationship was not moderated by region and age. It is suggested to consider social anxiety in the treatment of problematic social media use.

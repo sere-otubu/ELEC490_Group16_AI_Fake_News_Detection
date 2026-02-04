@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Glaucoma
-TITLE: Role of epigenetic regulation in glaucoma.
-PMID: 37806089
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37806089/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Glaucoma is the world's leading irreversible blinding eye disease. Lowering intraocular pressure is currently the only effective clinical treatment. However, there is a lack of long-acting IOP-lowering drugs, and some patients still experience retinal ganglion cell loss even with good intraocular pressure control. Currently, there is no effective method for neuroprotection and regeneration in clinical practice for glaucoma. In recent years, epigenetics has been widely researched and reported for its role in glaucoma's neuroprotection and regeneration. This article reviews the changes in histone modifications, DNA methylation, non-coding RNA, and m6A methylation in glaucoma, aiming to provide new perspectives for glaucoma management, protection of retinal ganglion cells, and axon regeneration by understanding epigenetic alterations.

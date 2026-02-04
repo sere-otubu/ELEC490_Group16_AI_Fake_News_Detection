@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Opioids risks
-TITLE: Opioids for osteoarthritis? Weighing benefits and risks: a Cochrane Musculoskeletal Group review.
-PMID: 21472151
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21472151/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Untreated pain is a major public health problem, but concerns about opioid misuse remain. This evidence-based look at when--or whether--opioids are indicated for OA patients will help you achieve the right balance.

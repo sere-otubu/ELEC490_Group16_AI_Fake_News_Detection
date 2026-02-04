@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic screening
-TITLE: Updates in Genetic Screening for the General Obstetrician.
-PMID: 37500212
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37500212/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The number of prenatal genetic screening options, including aneuploidy screening and carrier screening, has drastically increased with rapid advancements in DNA sequencing technologies. Noninvasive prenatal screening analyzing cell-free DNA has quickly been integrated into routine prenatal care as it is the most sensitive and specific screening method for pregnancies at increased and average risk of fetal aneuploidy. The aim of this article is to outline current recommendations for cell-free DNA screening and carrier screening, important aspects of pretest and posttest counseling for obstetric providers, and which patients should be referred to a genetic specialist.

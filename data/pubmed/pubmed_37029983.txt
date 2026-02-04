@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Wound healing process
-TITLE: The role of surfactants and biosurfactants in the wound healing process: a review.
-PMID: 37029983
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37029983/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Wound healing refers to the complex process of restoring the forms and functions of damaged tissues. Multiple growth factors and released cytokines tightly regulate the wound site. Healing processes can be disrupted by any alteration that would aggravate the damage and lengthen the repair process. Some of the conditions that may impair wound healing include infections and inflammation. Surfactants are amphiphilic compounds widely used in various formulations including detergents, food, pharmaceuticals and cosmetics. Biosurfactants, therefore, are surface-active compounds produced by biological agents, particularly yeast or bacteria, and represent a safer and environmentally preferred alternative to chemical surfactants. Numerous studies have targeted surface-active molecules as wound healing agents for their anti-inflammatory, antioxidant and antibacterial potential. This review focuses on surface-active molecules used in wound healing activities and analyses their effectiveness and mechanisms of action.

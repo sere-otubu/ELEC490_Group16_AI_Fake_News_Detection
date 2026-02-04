@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood transfusion
-TITLE: Autologous blood transfusion. Current trends, nursing implications.
-PMID: 1503469
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1503469/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Developing a quality perioperative autologous blood recovery program is a team effort. Members of transfusion committees, hospital blood bank personnel, OR staff members, and the members of the surgery committee are all possible sources of information. Your local blood center also may have literature or services that could be of assistance. Knowledge of current autologous transfusion alternatives will help nurses communicate with patients regarding transfusion therapy and will make nurses more valuable participants in the crucial decisions necessary to deliver optimal patient care in the perioperative period.

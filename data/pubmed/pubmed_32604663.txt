@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Healthcare accessibility
-TITLE: Accessibility and Web Quality Information for People with Disabilities in Healthcare Structures.
-PMID: 32604663
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32604663/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-People with disabilities are a major part of the society. The fact of being able to service themselves without any additional help in their everyday life is an important right, as well as the right to have equal opportunities in utilizing all health- related services in their community. Our research was carried out on a group of people with disabilities through a semi structured interview to clarify their needs regarding the accessibility of health services and the accessibility of the existing related information. In addition to the analysis of the accessible techniques of digital information, the accessibility, reliability and relevance of the information existing on health websites in Greece are evaluated. The assessment of the accessibility of information provided online is carried out based on the WCAG2.0 standard of the World Wide Web Consortium (W3C). Through these surveys and procedures, we reach conclusions on the deficiencies of accessibility and solutions for improvement are proposed. The results present the need for improvement in the information related to the healthcare sector, as we realize that a very low percentage covers the three key factors as mentioned above. With recommendations we target towards a more inclusive health care sector for all individuals.

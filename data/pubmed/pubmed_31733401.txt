@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antibiotics classes
-TITLE: Antibiotics: past, present and future.
-PMID: 31733401
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31733401/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The first antibiotic, salvarsan, was deployed in 1910. In just over 100 years antibiotics have drastically changed modern medicine and extended the average human lifespan by 23 years. The discovery of penicillin in 1928 started the golden age of natural product antibiotic discovery that peaked in the mid-1950s. Since then, a gradual decline in antibiotic discovery and development and the evolution of drug resistance in many human pathogens has led to the current antimicrobial resistance crisis. Here we give an overview of the history of antibiotic discovery, the major classes of antibiotics and where they come from. We argue that the future of antibiotic discovery looks bright as new technologies such as genome mining and editing are deployed to discover new natural products with diverse bioactivities. We also report on the current state of antibiotic development, with 45 drugs currently going through the clinical trials pipeline, including several new classes with novel modes of action that are in phase 3 clinical trials. Overall, there are promising signs for antibiotic discovery, but changes in financial models are required to translate scientific advances into clinically approved antibiotics.

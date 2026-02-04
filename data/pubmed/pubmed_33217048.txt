@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rosacea
-TITLE: Childhood rosacea and related disorders.
-PMID: 33217048
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33217048/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rosacea is a chronic inflammatory condition that affects the skin and the eyes. The pathogenesis of rosacea is complex and includes the interaction between genetic and environmental factors, dysregulation of the innate immune system, neurovascular modifications and the interaction with skin commensals. Clinical manifestations in children include the telangiectatic form, papulopustular rosacea, ocular rosacea, periorificial dermatitis, granulomatous rosacea and idiopathic facial aseptic granuloma. Management is aimed at identifying and avoiding triggers. Topical therapy is used for mild cases with topical antibiotics and anti-inflammatory agents. Oral agents are indicated, in combination with topical therapy, for moderate to severe cases. Prolonged therapy may be required.

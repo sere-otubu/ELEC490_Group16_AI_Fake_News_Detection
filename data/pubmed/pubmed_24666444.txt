@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24666444)
-    QUESTION: Is there any evidence of a "July effect" in patients undergoing major cancer surgery?
-    CONTEXT: The "July effect" refers to the phenomenon of adverse impacts on patient care arising from the changeover in medical staff that takes place during this month at academic medical centres in North America. There has been some evidence supporting the presence of the July effect, including data from surgical specialties. Uniformity of care, regardless of time of year, is required for patients undergoing major cancer surgery. We therefore sought to perform a population-level assessment for the presence of a July effect in this field.
-    ANSWER: On the whole, the data confirm an absence of a July effect in patients undergoing major cancer surgery.
-    

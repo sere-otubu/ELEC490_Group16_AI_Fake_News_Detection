@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Epilepsy
-TITLE: [Epilepsy in the elderly].
-PMID: 35636417
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35636417/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The incidence rate of epilepsy has importantly increased during the last decades due to the rising expectation of life. Special clinical aspects have to be considered for the correct diagnosis and differential diagnosis of epileptic seizures in the elderly: On one hand, the etiology of epilepsy in the elderly is different from epilepsies of younger people with a higher rate of symptomatic epilepsies compared to younger people. On the other hand, seizures are more often clinically inconclusive as they frequently appear without motor symptoms and therefore require an accurate diagnostic differentiation from other attacks of unconsciousness. The most accurate diagnostic tool for the correct diagnosis of such seizures is the registration of the seizures by longtime-video-EEG-monitoring (LTVEM). If LTVEM cannot be performed also home-video-registration could be useful. Medical treatment of epilepsies in the elderly has to be done with special consideration of comorbidity and metabolic changes in this age group.

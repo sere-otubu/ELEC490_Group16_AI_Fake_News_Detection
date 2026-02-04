@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Whey protein
-TITLE: Whey protein supplementation and its potentially adverse effects on health: a systematic review.
-PMID: 32702243
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32702243/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Whey protein comprises soluble whey proteins and its benefits are well described in the literature. However, there are not many studies investigating the potential adverse effect of a diet with indiscriminate use of this supplement. The aim of this study was to perform a systematic review of papers that addressed this theme. A search was conducted in Medline, LILACS, TOXNET, Web of science, and Scopus electronic databases. In the end, 11 documents comprised this review. The majority of the papers associated the damaging effect with the chronic and abusive use of whey protein, with the kidneys and liver being the main organs affected. The other studies related whey protein to aggravation of aggression, presence of acne, and modification of the microbiota. Therefore, excessive consumption over a long period of protein supplementation may have some adverse effects on the body, which is aggravated when associated with sedentary lifestyle. PROSPERO registration no.: CRD42020140466. <b>Novelty:</b> A systematic review of experimental and randomized studies about the use of whey proteins supplements and its impact on physical health. Analysis revealed that chronic and without professional guidance use of whey protein supplementation may cause some adverse effects specially on kidney and liver function. Presented data support a need for future studies co-relating the use of different types of whey protein with and without exercise to better see the impact on human physical health.

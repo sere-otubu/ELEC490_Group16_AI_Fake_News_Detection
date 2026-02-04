@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Migraine
-TITLE: Migraine headache variants.
-PMID: 2520376
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2520376/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Migraine headache variants consist of the complicated migraine headache subtypes such as basilar artery migraine, migraine equivalents, and late-life migraine accompanients. Although these disorders occur infrequently, diagnosis may be more difficult. Generally, comprehensive diagnostic studies are required to rule out underlying pathogenic conditions that may present with similar symptom complexes. Standard migraine treatment is often useful in these disorders; however, migrainous variants deserve special therapeutic considerations.

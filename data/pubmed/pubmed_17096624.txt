@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17096624)
-    QUESTION: Do patterns of knowledge and attitudes exist among unvaccinated seniors?
-    CONTEXT: To examine patterns of knowledge and attitudes among adults aged>65 years unvaccinated for influenza.
-    ANSWER: Findings suggest that cluster analyses may be useful in identifying groups for targeted health messages.
-    

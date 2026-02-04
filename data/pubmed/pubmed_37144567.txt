@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Ergonomics
-TITLE: Growing pains: strategies for improving ergonomics in minimally invasive gynecologic surgery.
-PMID: 37144567
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37144567/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To evaluate factors contributing to the development of work-related musculoskeletal disorders (WMSDs) and review strategies for mitigating ergonomic strain in minimally invasive gynecologic surgery. Factors associated with increased ergonomic strain and the development of WMSDs include increasing patient body mass index (BMI), smaller surgeon hand size, noninclusive design of instruments and energy devices and improper positioning of surgical equipment. Each type of minimally invasive surgery (laparoscopic, robotic, vaginal) confers its own ergonomic risk to the surgeon. Recommendations have been published regarding optimal ergonomic surgeon and equipment positioning. Intraoperative breaks and stretching are effective in reducing surgeon discomfort. Formal training in ergonomics has not yet been widely implemented, but educational interventions have been effective in reducing surgeon discomfort and can improve surgeon recognition of suboptimal ergonomics. Considering the serious downstream effects of WMSDs on surgeons, it is imperative to implement strategies for WMSD prevention. Optimal positioning of the surgeons and operative equipment should be routine. Intraoperative breaks and stretching should be incorporated during procedures and between every case. Formal education in ergonomics should be provided to surgeons and trainees. Additionally, more inclusive instrument design by industry partners should be prioritized.

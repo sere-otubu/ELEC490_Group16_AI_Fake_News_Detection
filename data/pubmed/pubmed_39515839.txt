@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cognitive rehabilitation
-TITLE: Cognitive rehabilitation in posterior cortical atrophy.
-PMID: 39515839
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39515839/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Posterior cortical atrophy is an uncommon type of dementia often caused by Alzheimer's disease and characterised by progressive loss of visuospatial and perceptual abilities. Although there is no curative treatment, patients may benefit from a range of symptom-based techniques and strategies to address visuospatial deficits and apraxia, and to reduce disability. Specific techniques based on visual and tactile cues, adapted and assistive equipment, environmental modifications and skill training may help people with posterior cortical atrophy continue to carry on activities that are important to them. We share vignettes from patients treated in our clinics to illustrate the practical delivery and potential impact of these therapies.

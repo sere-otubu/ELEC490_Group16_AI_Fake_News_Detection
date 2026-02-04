@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Zika virus
-TITLE: Zika virus in Asia.
-PMID: 27939768
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27939768/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Zika virus (ZIKV) is an emerging mosquito-borne virus that was first isolated from a sentinel rhesus monkey in the Zika Forest in Uganda in 1947. In Asia, the virus was isolated in Malaysia from Aedes aegypti mosquitoes in 1966, and the first human infections were reported in 1977 in Central Java, Indonesia. In this review, all reported cases of ZIKV infection in Asia as of September 1, 2016 are summarized and some of the hypotheses that could currently explain the apparently low incidence of Zika cases in Asia are explored.

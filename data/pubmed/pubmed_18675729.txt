@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Blood tests interpretation
-TITLE: Amphibian hematology.
-PMID: 18675729
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18675729/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Amphibians are a diverse class of animals with a unique life cycle. Intrinsic and extrinsic factors contribute to the wide variability in normal hematologic parameters. Reference values are scarce, and normal hematology of many species is poorly understood. Challenges include analytic obstacles posed by nucleated red blood cells and thrombocytes and potential difficulty with obtaining blood samples of adequate volume and without lymph contamination. Despite these limitations, it is possible to obtain hematologic data that may be useful in assessing an animal's current health, progression of disease, or response to therapy. In this article, amphibian blood sample collection and handling guidelines, hematologic tests, cell morphology and function, hematopoiesis, interpretation of results, and disorders and diseases are described.

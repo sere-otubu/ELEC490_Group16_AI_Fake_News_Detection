@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Strength training
-TITLE: Effects of Strength Training on Cross-Country Skiing Performance: A Systematic Review.
-PMID: 35682103
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35682103/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Traditionally, cross-country skiing has been known for having a strong endurance component; however, strength demands have significantly increased in recent years. Given this importance, several studies have assessed the effects of strength training in cross-country skiing. Therefore, the aim of this systematic review was to analyze the results of those studies. A detailed search of four databases (Pubmed, Scopus, Web of Science and Cochrane Library) was conducted until February 2022, according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses statement. Ten eligible studies were selected from the 212 records identified, all of them including young well-trained skiers and interventions of 6-12 weeks. Results showed that maximal strength training may improve some important variables: for instance, performance, double-poling economy and maximal strength. However, this type of training failed to change other indicators such as peak oxygen consumption. Concurrent training, which combines endurance and maximal strength training, seems to be effective to improve performance. The mechanisms responsible for the improved economy of double poling might be due to a lower percentage of maximal strength during double poling at a given workload, which could increase performance. Future studies should include longer interventions which analyze a more varied sample.

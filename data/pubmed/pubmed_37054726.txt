@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antibiotic resistance
-TITLE: Antibiotic Resistance in Dermatology Part 2: Combating Resistance.
-PMID: 37054726
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37054726/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Virtually any antibiotic can be used in dermatology given the broad range of conditions treated. With the widespread use of antibiotics and the rapid emergence of resistant organisms, it is important to understand how dermatologists can combat this issue.

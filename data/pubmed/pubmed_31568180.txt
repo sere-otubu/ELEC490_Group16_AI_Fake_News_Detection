@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chemotherapy
-TITLE: Cancer Chemotherapy: The Case for Therapeutic Drug Monitoring.
-PMID: 31568180
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31568180/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The selection of an appropriate therapy and dosing regimen is a significant challenge in the treatment of cancer. Although there are recommended standardized chemotherapy protocols for some types of cancer, protocol changes that usually only occur after large clinical trials demonstrate improvements and individual patients often require dose modifications (amount or interval) or delays in dose administration as toxicities arise. In other areas of medicine, therapeutic drug monitoring is commonly and successfully used to ensure appropriate drug exposure and to limit dose-related toxicities. Currently, the wide pharmacokinetic variability of cytotoxic chemotherapies is addressed clinically by the use of body surface area to determine drug doses; however, this is outdated and demonstrably ineffective for this purpose. This review discusses the challenges of dosing cytotoxic chemotherapies, dose determination strategies for cytotoxic, targeted, and antibody-based biological anticancer drugs, and provides an overview of the recent literature regarding the use of therapeutic drug monitoring in cancer.

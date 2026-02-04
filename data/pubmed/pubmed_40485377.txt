@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vaccine types
-TITLE: Control measures for neglected tropical diseases: vaccine updates.
-PMID: 40485377
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40485377/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Infectious diseases like neglected tropical diseases (NTDs) have seen a rapid surge in recent times, threatening public health. These diseases impose a significant global health burden, affecting individuals, particularly in tropical locations characterized by low-income populations. The comprehensive compilation of NTDs includes an array of bacterial, viral, and parasitic infections. The prioritization of 20-NTD action plans in 2020 was undertaken by the WHO to acknowledge their importance. Infections such as leishmaniasis, schistosomiasis, and human African trypanosomiasis exhibit high rates of mortality. This highlights the pressing need for collaborative initiatives aimed at addressing these diseases and minimizing their detrimental impact on susceptible populations. The etiology, types of NTDs, and management strategies, particularly vaccinations are discussed. The limitations of the available vaccines and the scope of development of novel formulations are also covered. The emergence of vaccines for NTDs poses significant challenges, mostly arising from the complex developmental phases of diverse diseases, inadequate resources for research, minimal involvement from the pharmaceutical industry, and the wide spectrum of infections, impeding vaccine development. Advancements in technology have improved vaccine quality, which could lead to the development of personalized vaccines tailored to individual susceptibility to specific NTD pathogens.

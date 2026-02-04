@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Insulin therapy
-TITLE: Insulin infusion therapy in critically ill patients.
-PMID: 24690510
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24690510/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-While dysglycemia (hyperglycemia, hypoglycemia and glucose variability) is clearly associated with increased mortality in critically ill patients, target range of blood glucose control remains controversial. Standardized insulin infusion protocols constitute the basis of treatment of these patients. The choice of protocol and its implementation is a great challenge. In this article, we review the published data to help define the essential elements that compose a good protocol and apply the right conditions to make it safe and effective.

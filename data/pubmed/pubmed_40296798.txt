@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Infectious disease control
-TITLE: Influence of network structure on infectious disease control.
-PMID: 40296798
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40296798/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Control of infectious disease is very hard but important for the life of human beings. We study the susceptible-infected-susceptible (SIS) model of three-city networks. The SIS model simply contains both infection and recovery processes. We assume that human beings ("agents") live in three spatially separated cities, and they randomly migrate between cities. Two methods are applied: one is a computer simulation of an agent-based model, and the other is the theory of metapopulation dynamics. Both the simulation and theory reveal that the "hub city" plays an important role for disease control. It was found that we can eliminate the entire infection by disease control measures on the hub city only. Moreover, we found a paradoxical result: increased agent interaction does not necessarily lead to the spread of infection.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Dengue fever
-TITLE: [Dengue fever: a review].
-PMID: 11508157
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11508157/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Transmitted by Aedes mosquitoes all over the inter-tropical area, Dengue fever is the leading arboviral disease in humans. It is also an emerging disease. Increasing morbidity-mortality, and geographical expansion are the drastic changes noted in the recent epidemiology of the disease. They are related to those occurring at the bio-climatic, socio-demographic and behavioural levels, which in turn may have led to enhanced viral circulation and virulence, and also vectorial resistance. The various clinical patterns (undifferentiated febrile episode of children, acute and algid classic form, the potentially fatal dengue hemorrhagic fever/dengue shock syndrome, and the atypical forms) are reviewed, as well as the diagnostic methods, and the pathogenesis (sequential infections, facilitating antibodies, capillary leakage). Dengue fever is actually much more than a traveller's fever or an exotic curiosity. It presently threatens half the world's population, and remains a puzzling disease in many aspects, such as the virus-vector and host-virus relationships, and clinical expression variability. In this respect, dengue fever appears as a model of viral disease. The current molecular approach is expected to provide us with new insights into pathophysiology, more efficient tools for disease control, and also an efficient vaccine in the near future.

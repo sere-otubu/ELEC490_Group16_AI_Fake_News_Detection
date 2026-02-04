@@ -1,8 +1,0 @@
-SEARCH_TOPIC: HIV AIDS
-TITLE: The relationship between economic evaluations and HIV and AIDS treatment policies.
-PMID: 20539075
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/20539075/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Economics, and specifically economic evaluations, are increasingly being utilized to provide treatment policy guidance to decision makers. This article reviews work that has contributed to understanding of the relationship. There is a paucity of research explicitly investigating the association between economic evaluations and HIV and AIDS treatment policy. Where it does exist, it is weak. Factors contributing to the limited impact include lack of reliable and trusted data; absence of local cost-effectiveness data for different interventions; contradictory results; challenges associated with understanding complex economic/mathematical models; inefficient implementation of HIV and AIDS policies; inability to pursue long-term health planning needs; and political will. Consideration of the ways in which economic evaluations can have greater influence over HIV and AIDS policies is needed. The weak relationship between the two reflects the complicated and multifaceted decision-making process that is often influenced by socioeconomic and political factors. If an economic evaluation is to influence policy, then cognizance of this is important. Extending the economic toolkit to include broader-based models that incorporate political economy variables, but do not compromise on comprehension, validity and robustness, will offer better informed policy recommendations.

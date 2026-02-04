@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 7497757)
-    QUESTION: Cardiopulmonary bypass temperature does not affect postoperative euthyroid sick syndrome?
-    CONTEXT: To determine if temperature during cardiopulmonary bypass (CPB) has an effect on perioperative and postoperative thyroid function.
-    ANSWER: The results of this study suggest that normothermic CPB does not prevent the development of the "euthyroid sick syndrome" during and after CPB. Despite these changes in thyroid function, most patients in both groups had a normal postoperative recovery.
-    

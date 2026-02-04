@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic testing ethics
-TITLE: Depression under stress: ethical issues in genetic testing.
-PMID: 19721104
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19721104/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Genetic testing for risk of depression requires a reconsideration of ethical issues in genetics and how they manifest in psychiatric practice. A precautionary approach is advocated in that there should be limits on the use of the 5-HTT genetic test until its clinical utility and broader social impact are better understood.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Circadian rhythms
-TITLE: Assessment of Circadian Rhythms.
-PMID: 31256786
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31256786/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Circadian rhythms are observed in most physiologic functions across a variety of species and are controlled by a master pacemaker in the brain called the suprachiasmatic nucleus. The complex nature of the circadian system and the impact of circadian disruption on sleep, health, and well-being support the need to assess internal circadian timing in the clinical setting. The ability to assess circadian rhythms and the degree of circadian disruption can help in categorizing subtypes or even new circadian rhythm disorders and aid in the clinical management of the these disorders.

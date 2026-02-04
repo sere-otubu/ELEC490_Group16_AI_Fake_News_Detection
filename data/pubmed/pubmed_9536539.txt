@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Organ donation ethics
-TITLE: The ethics of organ donation.
-PMID: 9536539
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9536539/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-As organ transplantation is physically possible within a tension between common biological properties and individual immunities, so it is ethically possible within a tension between individual personality in full integrity and the human community of which each member, social by nature, is an organic part. Ethical donation is by consent, explicit or presumed, spontaneously offered or procured by request. Altruism or commercial dealing is now a live issue in organ procurement, whether cadaveric or by live donation, related or unrelated. Attention is given to children in transplantation, and to new developments with fetal organs, neural tissue, bone marrow and xenografts. Given all that medical science and skill can now offer, patients are still free to decline.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: COPD
-TITLE: Practical recommendations for exercise training in patients with COPD.
-PMID: 23728873
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23728873/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The aim of this article was to provide practical recommendations to healthcare professionals interested in offering a pulmonary rehabilitation programme for patients with chronic obstructive pulmonary disease (COPD). The latest research findings were brought together and translated into clinical practice. These recommendations focus on the description of useful assessment tests and of the most common exercise modalities for patients with COPD. We provide specific details on the rationale of why and especially how to implement exercise training in patients with COPD, including the prescription of training mode, intensity and duration, as well as suggestions of guidelines for training progression.

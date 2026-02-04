@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Narcissistic personality disorder
-TITLE: Narcissistic Personality Disorder: Progress in Understanding and Treatment.
-PMID: 37200887
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37200887/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review summarizes current knowledge about narcissistic personality disorder (NPD). Each section brings the reader up to date on advances in our knowledge during the last decade. In terms of NPD diagnosis, this review describes the addition of the dimensional model to the categorical model. The accumulating knowledge has led to the description of grandiose and vulnerable narcissism as well as their complex interrelationship. Strong support exists for co-occurrence of these presentations among people with high levels of grandiose narcissism. Studies have identified mechanisms, in domains such as self-esteem dysregulation, emotion dysregulation, cognitive style, interpersonal relations, and empathy, and possible developmental and temperamental antecedents of the disorder. Thus, it appears that NPD has a multifactorial etiology and pathogenesis, with numerous mechanisms associated with each area of dysfunction. Longitudinal studies support the view that these patients can improve, but such improvement is gradual and slow. Several treatments have been developed for the disorder, and a majority share commonalities, including clear goals, attention to treatment frame, attention to relationships and self-esteem, alliance building, and monitoring of countertransference.

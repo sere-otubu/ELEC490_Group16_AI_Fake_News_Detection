@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immune response
-TITLE: Immune response in biocompatibility.
-PMID: 1391394
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/1391394/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Biocompatibility is concerned with the interactions that occur between biomaterials and host tissues. As foreign objects in that host tissue these materials may initiate several types of response. It has often been postulated that the immune response, by which the host normally defends itself against invasion by foreign organisms, can be involved in the response to biomaterials. This review discusses the mechanisms by which this could occur and the evidence that suggests the immune response is indeed of significance in biocompatibility.

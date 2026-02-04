@@ -1,8 +1,0 @@
-SEARCH_TOPIC: X ray imaging
-TITLE: K-edge subtraction synchrotron X-ray imaging in bio-medical research.
-PMID: 29866345
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29866345/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-High contrast in X-ray medical imaging, while maintaining acceptable radiation dose levels to the patient, has long been a goal. One of the most promising methods is that of K-edge subtraction imaging. This technique, first advanced as long ago as 1953 by B. Jacobson, uses the large difference in the absorption coefficient of elements at energies above and below the K-edge. Two images, one taken above the edge and one below the edge, are subtracted leaving, ideally, only the image of the distribution of the target element. This paper reviews the development of the KES techniques and technology as applied to bio-medical imaging from the early low-power tube sources of X-rays to the latest high-power synchrotron sources. Applications to coronary angiography, functional lung imaging and bone growth are highlighted. A vision of possible imaging with new compact sources is presented.

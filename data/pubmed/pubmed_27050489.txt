@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 27050489)
-    QUESTION: The Prevalence of Incidentally Detected Idiopathic Misty Mesentery on Multidetector Computed Tomography: Can Obesity Be the Triggering Cause?
-    CONTEXT: Misty mesentery appearance is commonly reported in daily practice, usually as a secondary finding of various pathological entities, but sometimes it is encountered as an isolated finding that cannot be attributed to any other disease entity. We aimed to assess the prevalence of cases with incidentally detected idiopathic misty mesentery on computed tomography (CT) and to summarize the pathologies leading to this appearance.
-    ANSWER: The results of the present study show that idiopathic incidental misty mesentery appearance has a significant prevalence. Also, the high body mass index of these patients and the growing evidence of obesity-induced inflammatory changes in adipose tissue are suggestive of an association between obesity and misty mesentery appearance on CT.
-    

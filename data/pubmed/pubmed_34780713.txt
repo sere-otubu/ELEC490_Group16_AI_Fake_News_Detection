@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Childhood obesity
-TITLE: Childhood obesity: an ecological perspective.
-PMID: 34780713
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34780713/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To describe the participation of the environment in the childhood obesity epidemic, since childhood obesity currently represents a great challenge, with high prevalence worldwide, including in Brazil. Survey of articles published in the last 10 years in PubMed, evaluating the interface between the environment and childhood obesity. Recent studies show that the environment is very important in the etiopathogenesis of obesity and its comorbidities. Therefore, factors such as air pollution, exposure to chemical substances that interfere with the metabolism, excessive consumption of ultra-processed foods, changes in the intestinal microbiota, and sedentary lifestyle are associated with increased obesity, insulin resistance, type 2 diabetes, and changes in lipid metabolism. These factors have a greater impact on some stages of life, such as the first thousand days, as they affect the expression of genes that control the adipogenesis, energy expenditure, and the mechanisms for hunger/satiety control. Environmental aspects must be taken into account in the prevention and treatment of childhood obesity, both from the individual and the population point of view, with adequate and comprehensive public health policies.

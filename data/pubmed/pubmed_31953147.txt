@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pancreas function
-TITLE: Human Physiology of Genetic Defects Causing Beta-cell Dysfunction.
-PMID: 31953147
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31953147/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The last decade has revealed hundreds of genetic variants associated with type 2 diabetes, many especially with insulin secretion. However, the evidence for their single or combined effect on beta-cell function relies mostly on genetic association of the variants or genetic risk scores with simple traits, and few have been functionally fully characterized even in cell or animal models. Translating the measured traits into human physiology is not straightforward: none of the various indices for beta-cell function or insulin sensitivity recapitulates the dynamic interplay between glucose sensing, endogenous glucose production, insulin production and secretion, insulin clearance, insulin resistance-to name just a few factors. Because insulin sensitivity is a major determinant of physiological need of insulin, insulin secretion should be evaluated in parallel with insulin sensitivity. On the other hand, multiple physiological or pathogenic processes can either mask or unmask subtle defects in beta-cell function. Even in monogenic diabetes, a clearly pathogenic genetic variant can result in different phenotypic characteristics-or no phenotype at all. In this review, we evaluate the methods available for studying beta-cell function in humans, critically examine the evidence linking some identified variants to a specific beta-cell phenotype, and highlight areas requiring further study.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: School lunch nutrition
-TITLE: School Lunch and Body Size in Japanese Junior High School Students: The Japanese National Health and Nutrition Survey.
-PMID: 40077765
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40077765/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-<b>Objectives</b>: Although the school lunch program is expected to reduce obesity and underweight among children in Japan, there had been no individual-level study examining the impact of school lunch on body size (overweight or underweight). The present study examined the association between school lunch and body size in Japanese junior high school students. <b>Methods</b>: This cross-sectional study was conducted based on data from the Japanese National Health and Nutrition Survey in 2014 and 2018. The present analysis included 323 individuals (12-15 years old). The exposure factor was school lunch usage. The primary outcome measure was body size (normal weight, overweight/obesity (including both overweight and obesity), and underweight). <b>Results</b>: Of 323 individuals, the proportion of school lunch users was 65.6%. School lunch was not statistically significantly associated with normal weight; the multivariate-adjusted odds ratio (95% confidence interval) of normal weight in school lunch users was 1.07 (0.66-1.75) in comparison with non-users. No significant associations were found for overweight/obesity or underweight outcomes. <b>Conclusions</b>: The present findings did not support the expectation for the Japanese school lunch program.

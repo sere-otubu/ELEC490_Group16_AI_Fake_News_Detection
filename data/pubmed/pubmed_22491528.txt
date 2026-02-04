@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22491528)
-    QUESTION: Combining process indicators to evaluate quality of care for surgical patients with colorectal cancer: are scores consistent with short-term outcome?
-    CONTEXT: To determine if composite measures based on process indicators are consistent with short-term outcome indicators in surgical colorectal cancer care.
-    ANSWER: For individual patients, a high score on the composite measures based on process indicators is not associated with better short-term outcome. However, at the hospital level, a good score on the composite measures based on process indicators was consistent with more favourable risk-adjusted short-term outcome rates.
-    

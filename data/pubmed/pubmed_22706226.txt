@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 22706226)
-    QUESTION: Could different follow-up modalities play a role in the diagnosis of asymptomatic endometrial cancer relapses?
-    CONTEXT: To determine current practice and to assess the value of routine follow-up procedures for endometrial cancer surveillance. To discuss whether such procedures are feasible and effective to identify asymptomatic recurrences and describe the pattern of relapse detected by procedures.
-    ANSWER: Follow-up after endometrial cancer treatment varies in Italy. In this retrospective study, women with asymptomatic recurrence have shown a better clinical outcome compared with those with symptomatic relapse. The optimal approach is actually unknown, and guidelines comparing follow-up protocols have not been established. Prospective cost-effectiveness studies are needed.
-    

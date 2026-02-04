@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Trans fats risks
-TITLE: Trans-fatty acids and sudden cardiac death.
-PMID: 16713398
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16713398/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Sudden cardiac death (SCD) is usually due to ventricular fibrillation and can occur as a first manifestation of heart disease. Prevention of ventricular fibrillation and SCD with n-3 polyunsaturated fatty acids is well documented. Trans-fatty acids (TFA) in the diet and cell membranes might affect the risk of SCD as well. We review evidence from an observational study that high levels of trans-18:2 (9 cis-, 12 trans- and 9 trans-, 12 cis-isomers of linoleic acid) in red blood cell membranes are associated with markedly higher risk of SCD. In contrast, cell membrane levels of trans-18:1 (trans-isomers of oleic acid), the major TFA in foods, do not appear associated with higher risk of SCD. While further studies are needed to investigate possible effects of trans-18:2 on arrhythmia, it would be prudent to limit dietary intake of trans-18:2.

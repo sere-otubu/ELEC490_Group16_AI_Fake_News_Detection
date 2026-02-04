@@ -1,8 +1,0 @@
-SEARCH_TOPIC: LASIK surgery
-TITLE: Complications of laser-in-situ-keratomileusis.
-PMID: 12532491
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12532491/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Laser-in-situ-keratomileusis (LASIK) has become a popular technique of refractive surgery because of lower postoperative discomfort, early visual rehabilitation and decreased postoperative haze. Compared to photorefractive keratectomy (PRK), LASIK involves an additional procedure of creating a corneal flap. This may result in complications related to the flap, interface and underlying stromal bed. The common flap-related complications include thin flap, button holing, free caps, flap dislocation and flap striae. The interface complications of diffuse lamellar keratitis, epithelial ingrowth and microbial keratitis are potentially sight threatening. Compared to PRK, there is less inflammation and faster healing after LASIK, but there is a longer period of sensory denervation leading to the complication of dry eyes. The refractive complications include undercorrection, regression, irregular astigmatism, decentration and visual aberrations. Honest and unbiased reporting is important to understand the aetiology and redefine the management.

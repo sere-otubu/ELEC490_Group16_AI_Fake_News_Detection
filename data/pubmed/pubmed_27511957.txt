@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Exercise for seniors
-TITLE: A Novel Exercise Initiative for Seniors to Improve Balance and Physical Function.
-PMID: 27511957
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27511957/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To investigate the feasibility, effectiveness, and short-term effects of an exercise intervention using a novel exercise park in improving seniors' balance, physical function, and quality of life. Randomized controlled trial with pre- and post-intervention design (baseline and 18-week intervention) was used. Outcome measures included measures of balance, strength, and function, as well as quality of life and fear of falling. MANCOVA was used to assess differences between groups (control and exercise intervention) over time. Intervention group showed significant improvement on single leg stance ( p = .02, 95% confidence interval [CI] = [-8.35, -0.549]), knee strength ( p < .01, 95% CI = [-29.14, -5.86]), 2-min walk ( p = 0.02, 95% CI = [-19.13, -0.859]), and timed sit to stand ( p = .03, 95% CI = [-2.26, -0.143]) tests. The exercise park program improved physical function and had high adherence and participation rate. Such intervention has been shown to be safe and therefore might enhance participation in exercise programs for older adults.

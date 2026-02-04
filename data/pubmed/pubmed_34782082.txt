@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anaphylaxis
-TITLE: Overview of Allergy and Anaphylaxis.
-PMID: 34782082
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34782082/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Allergic reactions and anaphylaxis occur on a severity continuum from mild and self-limited to potentially life-threatening or fatal reactions. Anaphylaxis is typically a multiorgan phenomenon involving a broad range of effector cells and mediators. Emergency department visits for anaphylaxis are increasing, especially among children. There is a broad differential diagnosis for anaphylaxis, and the diagnosis of anaphylaxis can be aided by the use of the National Institutes of Allergy and Infectious Disease/Food Allergy and Anaphylaxis Network clinical diagnostic criteria. Risk factors for severe anaphylaxis include older age, delayed epinephrine administration, and cardiopulmonary comorbidities.

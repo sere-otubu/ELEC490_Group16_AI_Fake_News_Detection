@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chlamydia
-TITLE: Chlamydia and chronic arthritis.
-PMID: 21864020
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/21864020/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Certain bacterial infections have been demonstrated to be causative of reactive arthritis. The most common bacterial trigger of reactive arthritis is Chlamydia trachomatis. Chlamydia pneumoniae is another known cause, albeit far less frequently. Although Chlamydia-induced reactive arthritis will often spontaneously remit, approximately 30% of patients will develop a chronic course. Modern medicine has provided rather remarkable advances in our understanding of the chlamydiae, as these organisms relate to chronic arthritis and the delicate balance between host and pathogen. C. trachomatis and C. pneumoniae both have a remarkable ability to disseminate from the initial site of infection and establish persistently viable organisms in distant organ sites, namely the synovial tissue. How these persistent chlamydiae contribute to disease maintenance remains to be fully established, but recent data demonstrating that long-term combination antimicrobial treatment can not only ameliorate the symptoms but eradicate the persistent infection suggest that these chronically infecting chlamydiae are indeed a driving force behind the chronic inflammation. We are beginning to learn that this all appears possible even after an asymptomatic initial chlamydial infection. Both C. trachomatis and C. pneumoniae are a clear cause of chronic arthritis in the setting of reactive arthritis; the possibility remains that these same organisms are culpable in other forms of chronic arthritis as well.

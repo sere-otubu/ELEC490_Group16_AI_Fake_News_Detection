@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Opioids risks
-TITLE: Opioid Analgesics.
-PMID: 26141334
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26141334/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chronic pain is an international health issue of immense importance that is influenced by both physical and psychological factors. Opioids are useful in treating chronic pain but have accompanying complications. It is important for clinicians to understand the basics of opioid pharmacology, the benefits and adverse effects of opioids, and related problematic issues of tolerance, dependence, and opioid-induced hyperalgesia. In this article, the role of psychiatric comorbidity and the use of validated assessment tools to identify individuals who are at the greatest risk for opioid misuse are discussed. Additionally, interventional treatment strategies for patients with chronic pain who are at risk for opioid misuse are presented. Specific behavioral interventions designed to improve adherence with prescription opioids among persons treated for chronic pain, such as frequent monitoring, periodic urine screens, opioid therapy agreements, opioid checklists, and motivational counseling, are also reviewed. Use of state-sponsored prescription drug monitoring programs is also encouraged. Areas requiring additional investigation are identified, and the future role of abuse-deterrent opioids and innovative technology in addressing issues of opioid therapy and pain are presented.

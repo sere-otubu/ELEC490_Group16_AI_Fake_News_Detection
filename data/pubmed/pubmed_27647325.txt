@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Emotional intelligence
-TITLE: 'Emotional Intelligence': Lessons from Lesions.
-PMID: 27647325
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27647325/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-'Emotional intelligence' (EI) is one of the most highly used psychological terms in popular nomenclature, yet its construct, divergent, and predictive validities are contentiously debated. Despite this debate, the EI construct is composed of a set of emotional abilities - recognizing emotional states in the self and others, using emotions to guide thought and behavior, understanding how emotions shape behavior, and emotion regulation - that undoubtedly influence important social and personal outcomes. In this review, evidence from human lesion studies is reviewed in order to provide insight into the necessary brain regions for each of these core emotional abilities. Critically, we consider how this neuropsychological evidence might help to guide efforts to define and measure EI.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pain management
-TITLE: Orthopedic Pain Management: Tools for Practicing Critical Care Nurses.
-PMID: 39490080
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39490080/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nurses practicing in critical care units manage all forms of traumatic, acute, and chronic pain. Chronic pain must be managed in critical care scenarios to facilitate patient comfort and eventual recovery and healing. Patients with orthopedic injuries and conditions have distinct care needs that require specialized knowledge on the provider's part. Critical care nurses manage orthopedic traumatic injuries while simultaneously managing underlying acute orthopedic conditions. Pain experiences are individual to the person experiencing pain. The Internet is a rich source for pain-management materials that the critical care nurse should have in their resource repertoire.

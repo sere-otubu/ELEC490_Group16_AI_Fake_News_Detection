@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Heart anatomy
-TITLE: History of cardiac anatomy: a comprehensive review from the Egyptians to today.
-PMID: 26918296
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26918296/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The nature, function, and anatomy of the heart have been extensively studied since 3500 B.C. Greek and Egyptian science developed a basic understanding of the heart, although this was primarily related to religious beliefs. During the Hippocratic era, Hippocrates and his colleagues developed a more scientific and less religious understanding of the cardiovascular system. The post-Hippocratic era was characterized by more advanced descriptions of the location, structure, and function of the heart. The Alexandrian, Roman, Medieval Islamic, and European eras included turning points in the history of cardiac anatomy. Subsequently, after the structure and function of the heart were established, its connection with the lungs was investigated. Description of the pulmonary circulation was followed by the discovery of the conductive system and innervation of the heart.

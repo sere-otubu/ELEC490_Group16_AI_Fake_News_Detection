@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immune response
-TITLE: SARS-CoV-2 and the host-immune response.
-PMID: 37404823
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37404823/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The SARS-CoV-2 pandemic and the COVID-19 disease have affected everyone globally, leading to one of recorded history's most significant research surges. As our knowledge evolves, our approaches to the virus and treatments must also evolve. The evaluation of future research approaches to SARS-CoV-2 will necessitate reviewing the host immune response and viral antagonism of that response. This review provides an overview of the current knowledge on SARS-CoV-2 by summarizing the virus and human response. The focuses are on the viral genome, replication cycle, host immune activation, response, signaling, and antagonism. To effectively fight the pandemic, efforts must focus on the current state of research to help develop treatments and prepare for future outbreaks.

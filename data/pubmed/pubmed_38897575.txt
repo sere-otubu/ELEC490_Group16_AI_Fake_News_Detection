@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Aerobic exercise
-TITLE: Aerobic Exercise as an Intervention for Mild Traumatic Brain Injury: A Critically Appraised Topic.
-PMID: 38897575
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38897575/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-As of 2020, the lifetime prevalence of at least one self-reported concussion is 24.6%. Athletic trainers in all settings work with patients who are at risk of sustaining a concussion or mild traumatic brain injury (mTBI) and developing persistent postconcussive symptoms. Aerobic exercise is emerging as an intervention for decreasing symptoms in patients who have sustained mTBI; however, the majority of research has been performed on pediatric patients. It is of interest whether aerobic exercise is an effective intervention for adult patients with mTBI. In adults who have sustained mTBI, does traditional therapy decrease symptoms more than aerobic exercise? Summary of Search: A systematic search of 4 databases was performed to answer this question. Three randomized controlled trials were identified that compared aerobic exercise to traditional therapy, which consists of physical and cognitive rest. Two studies found no significant differences in symptoms between the 2 groups while 1 study found decreased symptoms in the aerobic exercise group. The current evidence is clear that there is no decrease in mTBI symptoms with traditional therapy as compared with aerobic exercise, with 1 study showing decreased symptoms with aerobic exercise. Strength of Evidence: Based on the Center for Evidence-Based Medicine grades of evidence, the clinical bottom line is based on grade A evidence.

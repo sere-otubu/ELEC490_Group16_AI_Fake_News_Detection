@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cesarean section
-TITLE: [Obstetric aspects of post-cesarean section status].
-PMID: 8119563
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8119563/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A rising Caesarean delivery rate is the reason, why the obstetrician should be very well informed about the management of vaginal birth after Caesarean section: It is feasible in almost all women with nonrecurrent indication for the preceeding Caesarean section. Suspected foetal macrosomia, twin gestation and breech presentation represent relative contraindications. External cephalic version is a reasonable option. In case of history of uterine scar dehiscence or rupture and in women with vertical uterine scar, repeat section should be performed.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cushings syndrome
-TITLE: Cushing's syndrome.
-PMID: 16828407
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16828407/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cushing's syndrome results from prolonged exposure to excess glucocorticoids. Patients with Cushing's syndrome may develop multiple metabolic problems including obesity, hyperglycemia, hypertension, depression, low bone mass, muscle atrophy, and hypogonadism. Cutaneous manifestations of hypercortisolism include skin atrophy, excessive bruising, purple striations, poor wound healing, facial plethora, vellous hypertrichosis and hirsutism. Diagnostic tests used to screen for Cushing's syndrome include 24-hour urine cortisol, the 1 mg dexamethasone suppresion test, and late night salivary cortisol. A normal screening test excludes the diagnosis of Cushing's. Patients with an abnormal screening test should be referred to an endocrinologist for complete evaluation of the pituitary-adrenal axis.

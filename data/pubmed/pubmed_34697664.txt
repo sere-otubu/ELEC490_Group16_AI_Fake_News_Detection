@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immunosuppressants
-TITLE: Immunosuppression and Kidney Transplantation.
-PMID: 34697664
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34697664/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Immunosuppression is complex, fraught with on-target and off-target adverse effects, and hard to get right but is the key to successful allotransplantation. Herein, we review the key immunosuppressive agent classes used for kidney transplant, highlighting mechanisms of action and typical clinical use.

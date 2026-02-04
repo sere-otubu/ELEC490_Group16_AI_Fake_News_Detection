@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antioxidants
-TITLE: Flavonoids as superoxide scavengers and antioxidants.
-PMID: 2170243
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2170243/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The superoxide anions scavenging activity and antioxidation of seven flavonoids--quercetin, rutin, morin, acacetin, hispidulin, hesperidin, and naringin--were studied. The superoxide anions were generated in a phenazin methosulphate-NADH system and were assayed by reduction of nitroblue tetrazolium. The scavenging activity ranked: rutin was the strongest, and quercetin and naringin the second, while morin and hispidulin were very weak. The concentration values yielding 50% inhibition of lipid peroxidation in mouse liver homogenate were in order of 10(-6) M for quercetin, rutin, and morin; and of 10(-5) M for acacetin and hispidulin, while naringin and hesperidin had no antioxidative action. In comparison with the antioxidative and scavenging activities of flavonoids, there are no correlations.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24074624)
-    QUESTION: Is intensive monitoring during the first transfusion in pediatric patients necessary?
-    CONTEXT: Some pediatric patients, typically those that are very young or felt to be especially sick are temporarily admitted to the intensive care unit (ICU) for observation during their first transfusion. If a significant reaction that requires ICU management does not occur, these patients are then transferred to a regular ward where future blood products are administered. The aim of this project was to determine if heightened observation such as temporary ICU admissions for the first transfusion are warranted.
-    ANSWER: The practice of intensive observation for the first transfusion in pediatric patients is probably unnecessary.
-    

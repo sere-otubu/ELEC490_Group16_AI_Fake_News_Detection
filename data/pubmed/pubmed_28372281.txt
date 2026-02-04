@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Erectile dysfunction
-TITLE: Stem-cell therapy for erectile dysfunction.
-PMID: 28372281
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28372281/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Stem cell-based therapies have been recently investigated in the field of organic erectile dysfunctions, such as those associated with diabetes or the treatment of prostate cancer. The overall aim is to repair the repair the underlying penile cellular damage. Here, we review the rationale behind the use of stem cells injection in post-radical prostatectomy erectile dysfunction (pRP-ED).Radical prostatectomy for prostate cancer induces complex neurologic and vascular injuries that cause one of the most difficult-to-treat forms of erectile dysfunction. Evidence from animal models replicating pRP-ED suggests that intracavernous injection of autologous bone marrow mononuclear cells (BM-MNCs) may represent the first curative approach. Several clinical trials are ongoing and two of them have been completed with encouraging results.

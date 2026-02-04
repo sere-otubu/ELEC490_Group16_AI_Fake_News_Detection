@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Pancreas function
-TITLE: One hundred years ago: the dawning of the insulin era.
-PMID: 33221965
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33221965/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The dawn of the insulin era can be placed in 1921, when Banting and Best started their experiments which led, a year later, to the successful treatment of diabetes. They were preceded by the discoveries of the pancreatic cause of diabetes by Minkowski and von Mering in 1889 and of the islets by Paul Langerhans in 1869. The achievement of the first targeted treatment in medical history was a landmark of medical progress. However, it was accompanied by a mixture of human greatness and misery. Genius and recklessness, ambition and deception, camaraderie and rivalry, selflessness and pursuit of glory went along with superficial search of the existing literature, poor planning, faulty interpretation of results, failure to reproduce them, and misquoting of reports from other laboratories. Then as now, such faults surface whenever human nature aims to push forward the boundaries of knowledge and pose a real challenge in today's world, as the scientific method strives to keep healthy in the face of growing anti-scientific feelings.

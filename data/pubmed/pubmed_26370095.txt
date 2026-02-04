@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26370095)
-    QUESTION: Are financial incentives cost-effective to support smoking cessation during pregnancy?
-    CONTEXT: To investigate the cost-effectiveness of up to £400 worth of financial incentives for smoking cessation in pregnancy as an adjunct to routine health care.
-    ANSWER: Financial incentives for smoking cessation in pregnancy are highly cost-effective, with an incremental cost per quality-adjusted life years of £482, which is well below recommended decision thresholds.
-    

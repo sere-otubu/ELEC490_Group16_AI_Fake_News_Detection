@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vaccine types
-TITLE: Association of respiratory infections and the impact of vaccinations on cardiovascular diseases.
-PMID: 38205961
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38205961/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Influenza, pneumococcal, severe acute respiratory syndrome coronavirus 2, and respiratory syncytial virus infections are important causes of high morbidity and mortality in the elderly. Beyond the burden of infectious diseases, they are also associated with several non-infectious complications like cardiovascular events. A growing body of evidence in prospective studies and meta-analyses has shown the impact of influenza and pneumococcal vaccines on types of cardiovascular outcomes in the general population. Influenza vaccination showed a potential benefit for primary and secondary prevention of cardiovascular diseases across all ages. A reduced risk of cardiovascular events for individuals aged 65 years and older was associated with pneumococcal vaccination. Despite scientific evidence on the effectiveness, safety, and benefits of the vaccines and recommendations to vaccinate elderly patients and those with risk factors, vaccination rates remain sub-optimal in this population. Doubts about vaccine necessity or efficacy and concerns about possible adverse events in patients and physicians refer to delayed acceptance. Vaccination campaigns targeting increasing professional recommendations and public perceptions should be implemented in the coming years. The aim of this review paper is to summarize the effect of vaccination in the field of cardiovascular disease to achieve a higher vaccination rate in this patient population.

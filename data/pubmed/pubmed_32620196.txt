@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gout
-TITLE: Gout epidemiology and comorbidities.
-PMID: 32620196
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32620196/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To review the epidemiology of gout and associated comorbidities. We review the key published studies of the epidemiology of gout and associated comorbidities. The prevalence of gout ranged 1-4% worldwide and incidence ranged 0.1-0.3%. Gout is more common in men vs. women by 3:1 to 10:1. Gout incidence and prevalence increased by each decade of life, with prevalence increasing to 11-13% and incidence increasing to 0.4% in people older than 80 years. Racial minorities in the U.S., New Zealand Māori, Han Chinese and some ethnic groups in Asia have a higher prevalence of gout. Comorbidities are common in people with gout and complicate its management and disease outcomes. Hypertension is present in up to three-quarters of gout patients and could be in the causal pathway of its association with cardiovascular disease and stroke. Chronic kidney disease of stage 3 or greater severity is present in many patients with gout. Appropriate management can improve both gout and stabilize chronic kidney disease. Whether the association of gout with metabolic syndrome and diabetes is causal is still controversial. Given the biological anti-oxidant effect of serum urate, the association of gout with neurodegenerative disorders is being actively explored. Gout is the most common inflammatory arthritis in adults worldwide, with a disproportionate burden of disease in men, the elderly and racial/ethnic minorities. Comorbidities in gout are very common and add further to the disease morbidity and make its management challenging.

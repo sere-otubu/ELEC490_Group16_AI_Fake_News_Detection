@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Herpes simplex
-TITLE: Neonatal Herpes Simplex Virus Infection.
-PMID: 26154662
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26154662/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Herpes simplex virus (HSV) 1 and HSV-2 infections are highly prevalent worldwide and are characterized by establishing lifelong infection with periods of latency interspersed with periodic episodes of reactivation. Acquisition of HSV by an infant during the peripartum or postpartum period results in neonatal HSV disease, a rare but significant infection that can be associated with severe morbidity and mortality, especially if there is dissemination or central nervous system involvement. Diagnostic and therapeutic advances have led to improvements in mortality and, to a lesser extent, neurodevelopmental outcomes, but room exists for further improvement.

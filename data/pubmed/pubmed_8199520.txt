@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 8199520)
-    QUESTION: Are physicians meeting the needs of family caregivers of the frail elderly?
-    CONTEXT: To explore expressed needs, both formal and informal, of family caregivers of frail elderly. To evaluate roles of physicians.
-    ANSWER: Hypotheses for this discontent are presented. Physicians may be uninterested in helping caregivers; even if they were receptive to counseling caregivers, they could be poorly remunerated for the types of counseling sessions that are usual for caregivers; and being a professional caregiver to family caregivers is demanding in itself.
-    

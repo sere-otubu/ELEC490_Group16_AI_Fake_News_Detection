@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cervical cancer
-TITLE: Cervical cancer prevention and treatment in Latin America.
-PMID: 28168717
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28168717/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cervical cancer is a preventable disease with a known etiology (human papillomavirus), effective preventive vaccines, excellent screening methods, and a treatable pre-invasive phase. Surgery is the primary treatment for pre-invasive and early-stage disease and can safely be performed in many low-resource settings. However, cervical cancer rates remain high in many areas of Latin America. This article presents a number of evidence-based strategies being implemented to improve cervical cancer outcomes in Latin America.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17276182)
-    QUESTION: Stretch-sensitive KCNQ1 mutation A link between genetic and environmental factors in the pathogenesis of atrial fibrillation?
-    CONTEXT: This study sought to evaluate mutations in genes encoding the slow component of the cardiac delayed rectifier K+ current (I(Ks)) channel in familial atrial fibrillation (AF).
-    ANSWER: These data suggest that the R14C KCNQ1 mutation alone is insufficient to cause AF. Rather, we suggest a model in which a "second hit", such as an environmental factor like hypertension, which promotes atrial stretch and thereby unmasks an inherited defect in ion channel kinetics (the "first hit"), is required for AF to be manifested. Such a model would also account for the age-related increase in AF development.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rosacea
-TITLE: [Rosacea].
-PMID: 18394399
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18394399/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rosacea is a chronic inflammatory skin disease appearing in the central area of the face of middle-aged patients. It is characterized by flushing, permanent erythema, telangiectasia, papules, pustules, and the absence of comedones. Its underlying pathophysiological mechanisms are not completely understood, although a number of hypotheses point to vascular abnormalities and infection by microorganisms such as Demodex folliculorum. Rosacea is classified into 4 subtypes, which determine the therapeutic approach based on skin care, topical antiinflammatory agents, topical and oral antibiotics and retinoids, and, in some instances, light-based therapy and surgery.

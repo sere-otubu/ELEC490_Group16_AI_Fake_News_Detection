@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Skeletal system
-TITLE: Emerging roles of nerve-bone axis in modulating skeletal system.
-PMID: 38421080
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38421080/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Over the past decades, emerging evidence in the literature has demonstrated that the innervation of bone is a crucial modulator for skeletal physiology and pathophysiology. The nerve-bone axis sparked extensive preclinical and clinical investigations aimed at elucidating the contribution of nerve-bone crosstalks to skeleton metabolism, homeostasis, and injury repair through the perspective of skeletal neurobiology. To date, peripheral nerves have been widely reported to mediate bone growth and development and fracture healing via the secretion of neurotransmitters, neuropeptides, axon guidance factors, and neurotrophins. Relevant studies have further identified several critical neural pathways that stimulate profound alterations in bone cell biology, revealing a complex interplay between the skeleton and nerve systems. In addition, inspired by nerve-bone crosstalk, novel drug delivery systems and bioactive materials have been developed to emulate and facilitate the process of natural bone repair through neuromodulation, eventually boosting osteogenesis for ideal skeletal tissue regeneration. Overall, this work aims to review the novel research findings that contribute to deepening the current understanding of the nerve-bone axis, bringing forth some schemas that can be translated into the clinical scenario to highlight the critical roles of neuromodulation in the skeletal system.

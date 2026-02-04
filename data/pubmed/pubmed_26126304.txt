@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26126304)
-    QUESTION: Estradiol and Antagonist Pretreatment Prior to Microdose Leuprolide in in Vitro Fertilization. Does It Improve IVF Outcomes in Poor Responders as Compared to Oral Contraceptive Pill?
-    CONTEXT: To compare in vitro fertilization (IVF) outcomes in low responders stimulated with microdose leuprolide protocol (ML) following pretreatment with either oral contraceptive pill (OCP) or luteal estradiol (E2) + GnRH antagonist (E2 + antag) for follicular synchronization prior to controlled ovarian hyperstimulation (COH).
-    ANSWER: E2+antag pretreatment does not appear to improve IVF outcomes in ML protocol when compared to the standard OCP in poor responders. Randomized trials with adequate power to study the optimal method of steroid pretreatments appear justified.
-    

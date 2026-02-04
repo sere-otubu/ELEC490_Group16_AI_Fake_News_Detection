@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anemia
-TITLE: [Hyperthyroidism and anemia].
-PMID: 7257455
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/7257455/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In a random test of 100 patients with hyperthyroidism with clinical and paraclinical ascertainment of the diagnosis in 38 cases normo-hypochromic, normocytary anaemias of different expression were found. In the patients with anaemia the serum hormone values were statistically significantly higher than in the 62 patients without anaemia. Also cardiotoxic and hepatotoxic findings were more frequently to be proved in patients with anaemia. A causal iron deficiency, deficit of vitamin B12 or folic acid as well as a haemolytic component of the induction of anaemia could vastly be excluded. By means of the treatment of the basic disease and metabolic balance a normalisation of hemoglobin was achieved without additional medication. From the results of the examinations is concluded that above all a thyreotoxic damage is responsible for the development of the anaemia. In cases of oligo-symptomatic hyperthyroidism part from hepatotoxicity and cardiotoxicity also anaemias may become a leading symptom.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Palliative care
-TITLE: Evolving Roles of Palliative Care Pharmacists.
-PMID: 35940491
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35940491/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In this article, we provide an overview of pharmacists' involvement with palliative care, starting with recent history, up to present day. The aim of this review is to highlight advances in the field of palliative care pharmacy and the integral role pharmacists have on the palliative care team. We conclude that despite participating on multidisciplinary palliative care teams for over 20 years, pharmacy still lacks a board certification in palliative care.

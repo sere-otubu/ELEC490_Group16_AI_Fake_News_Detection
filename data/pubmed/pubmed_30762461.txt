@@ -1,8 +1,0 @@
-SEARCH_TOPIC: PTSD
-TITLE: PTSD and Attitudes Toward Guns Following Interpersonal Trauma.
-PMID: 30762461
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30762461/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Gun violence is a serious public health concern that is currently grossly understudied. Gun attitudes are a potential risk factor for gun violence; however, factors related to gun attitudes have not been identified. Mental illness such as posttraumatic stress disorder (PTSD) is commonly discussed as a key factor in gun violence, despite research lacking in this area, and it is unknown whether symptoms of PTSD and probable PTSD are associated with more positive attitudes toward guns. The aim of the current study was to investigate the relations between PTSD symptoms and gun attitudes among 265 undergraduate students who experienced at least one interpersonal traumatic event (<i>M</i><sub>age</sub> = 24.69 years, <i>SD</i> = 7.15 years, 75.6% female, 61.1% White). Path analysis revealed that individuals with PTSD symptoms above clinical cutoff were not more likely to have more positive gun attitudes. However, the PTSD symptom clusters evinced distinct relations with gun attitudes. Intrusion and avoidance symptoms were related to gun beliefs regarding protection, with intrusion symptoms being linked to a stronger belief that guns provide protection from crime and victimization (β = .23), whereas avoidance symptoms were inversely associated with this belief (β = -.22). Interestingly, neither trauma related in feelings and thoughts nor arousal and reactivity corresponded with gun attitudes. Certain PTSD symptom clusters may be relevant in understanding gun beliefs, with specific symptoms exhibiting distinct ties to gun attitudes.

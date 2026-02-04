@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Malaria
-TITLE: A brief review of malaria epidemiological trend in Kermanshah province, Iran, 1986-2014.
-PMID: 35449995
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35449995/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Malaria is the most severe protozoan disease in the world. As a result of strict malaria control programs, malaria's epidemiological model has changed. Knowing this epidemiological model and its effects will help us predict and prevent a new epidemic. This research was conducted to review the epidemiological trend of malaria in the Kermanshah province of Iran and some of its effective factors. Data were extracted from the registers in the disease control unit of the province, national population census, and annual rainfall report. The data was processed by SPSS16. There has been an evident decrease in malaria cases over the last 30 years in Kermanshah. This decreasing trend began especially after 1994, and since then, just 6% of all cases have happened. Between 1990 to 1997, an epidemic occurred, and more than 80% of positive cases were registered in these years. <i>P. vivax</i> malaria was the most common type (99.32%), and <i>P. falciparum</i> malaria was the second, with a very egregious difference (0.68%). The average age was 23.1 years, and men were infected twice more than women. There was a positive relation between annual rainfall level and positive malaria cases in these cities. After the major changes in malaria control programs in Kermanshah province, the number of positive cases fell noticeably, and now it is in the elimination stage. All cases of malaria were imported in the last years, and no resistance type was ever seen.

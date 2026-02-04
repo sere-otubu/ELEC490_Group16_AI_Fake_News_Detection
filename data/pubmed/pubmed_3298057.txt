@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hemorrhoids
-TITLE: Hemorrhoids. A review of current techniques and management.
-PMID: 3298057
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3298057/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Most physicians see many patients with the chief complaint of hemorrhoids. The usual presentation is bleeding with bowel movements and prolapse. Of course, if there are no symptoms, invasive treatment should not be entertained. If the symptoms are due to hemorrhoids, the degree of prolapse should be established in order to guage the treatment. Mild symptoms of first- and second-degree hemorrhoids may be treated by diet modification or a fixation process such as rubber band ligation or infrared photocoagulation. Moderate prolapse as with large second-degree and third-degree hemorrhoids need the more certain fixation of rubber band ligation or an excisional technique. Large third-degree hemorrhoids and fourth-degree hemorrhoids require removal of a portion of the prolapsing tissue to achieve a stronger fixation within the proximal anal canal.

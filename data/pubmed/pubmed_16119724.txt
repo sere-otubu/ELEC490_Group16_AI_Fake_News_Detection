@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hip replacement
-TITLE: Philosophies of stem designs in cemented total hip replacement.
-PMID: 16119724
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16119724/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Stem designs, which have different design features, may produce similar clinical survival curves. Alteratively, some designs that are considered to be similar in design produce different survival rates. In this paper, design aspects of cemented femoral total hip replacement stems, how they can be grouped to design philosophies, and how they may affect the failure process are discussed. In addition, explanations of unsuccessful designs are posed to learn from previous mistakes and improve understanding of design aspects that affect the longevity of cemented femoral stem designs.

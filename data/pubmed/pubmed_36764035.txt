@@ -1,8 +1,0 @@
-SEARCH_TOPIC: IVF procedure
-TITLE: Recombinant-luteinzing hormone supplementation in women during IVF/ICSI cycles with GNRH-antagonist protocol: A systematic review and meta-analysis.
-PMID: 36764035
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36764035/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The objective of this meta-analysis is to determine the beneficial effect of recombinant-luteinizing Hormone (r-LH) addition in women undergoing in vitro fertilization/intracytoplasmic sperm injection (IVF/ICSI) with gonadotropin-releasing hormone (GnRH) antagonist protocol and whether an optimal time of Recombinant-Luteinizing Hormone (r-LH) supplementation exist during the controlled of stimulation (COS). The primary outcomes are clinical Pregnancy rate and the number of oocytes retrieved. Secondary outcomes are the number of metaphase II oocytes, miscarriage rate and live birth rate. Results show that supplementation of LH generated a greater number of oocytes retrieved than patients who did not receive LH supplementation, but it did not help with other pregnancy outcomes. Furthermore, the result of the subgroup analysis revealed no significant difference in the outcomes with different LH addition times.

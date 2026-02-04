@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antipsychotics
-TITLE: Antipsychotics and QT prolongation.
-PMID: 12534433
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12534433/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To evaluate literature relating to cardiac QT prolongation and the use of antipsychotic drugs. Literature searches of EMBASE, Medline, PsychLIT were performed in December 2001 and reference sections of retrieved papers scrutinized for further relevant reports. The Cardiac QTc interval is difficult to measure precisely or accurately but appears to be a useful predictor of risk of dysrhythmia (specifically torsade de pointes) and sudden death. It is less clear that drug-induced QTc prolongation gives rise to similar risks but data are emerging, linking antipsychotic use to increased cardiac mortality. Many antipsychotics have been clearly associated with QTc prolongation. Methodological considerations arguably preclude assuming that any antipsychotic is free of the risk of QTc prolongation and dysrhythmia. Available data do not allow assessment of relative or absolute risk of dysrhythmia or sudden death engendered by antipsychotics but caution is advised. Risk of dysrhythmia can very probably be reduced by careful prescribing of antipsychotics in low doses in simple drug regimens which avoid metabolic interactions. Electrocardiographic monitoring may also help to reduce risk but review by specialist cardiologist may be necessary.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Arthritis
-TITLE: Jejunoileal bypass arthritis.
-PMID: 2670259
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2670259/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although intestinal bypass procedures are no longer performed, important lessons have been learned concerning clinical arthritides resulting from bacterial overgrowth and immune complex deposition. This information is of considerable value in patients who present with the clinical picture of intestinal bypass arthritis on the basis of other bowel abnormalities. Furthermore, the pathogenetic mechanisms involving bacterial overgrowth, release of bacterial antigens, and immune complex deposition may be pertinent to many types of inflammatory arthritis.

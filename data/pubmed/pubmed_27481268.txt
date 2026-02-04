@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Robotic surgery
-TITLE: Robotic approach to hepatobiliary surgery.
-PMID: 27481268
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27481268/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Robot-assisted hepatobiliary surgery has been steadily growing in recent years. It represents an alternative to the open and laparoscopic approaches in selected patients. Endowristed instruments and enhanced visualization provide important advantages in terms of selective bleeding control, microsuturing, and dissection. Cholecystectomies and minor hepatectomies are being performed with comparable results to open and laparoscopic surgery. Even complex procedures, such as major and extended hepatectomies, can have excellent outcomes, in expert hands. The addition of indocyanine green fluorescence provides an additional advantage for recognition of the vascular and biliary anatomy. Future innovations will allow for expanding its use and indications. Robotic surgery has become a very important component of modern minimally invasive surgery and the development of new robotic technology will facilitate a broader adoption of this technique.

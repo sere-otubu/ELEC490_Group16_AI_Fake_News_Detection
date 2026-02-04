@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Basal cell carcinoma
-TITLE: Integrated multi-omics reveals cellular and molecular interactions governing the invasive niche of basal cell carcinoma.
-PMID: 35986012
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35986012/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Tumors invade the surrounding tissues to progress, but the heterogeneity of cell types at the tumor-stroma interface and the complexity of their potential interactions hampered mechanistic insight required for efficient therapeutic targeting. Here, combining single-cell and spatial transcriptomics on human basal cell carcinomas, we define the cellular contributors of tumor progression. In the invasive niche, tumor cells exhibit a collective migration phenotype, characterized by the expression of cell-cell junction complexes. In physical proximity, we identify cancer-associated fibroblasts with extracellular matrix-remodeling features. Tumor cells strongly express the cytokine Activin A, and increased Activin A-induced gene signature is found in adjacent cancer-associated fibroblast subpopulations. Altogether, our data identify the cell populations and their transcriptional reprogramming contributing to the spatial organization of the basal cell carcinoma invasive niche. They also demonstrate the power of integrated spatial and single-cell multi-omics to decipher cancer-specific invasive properties and develop targeted therapies.

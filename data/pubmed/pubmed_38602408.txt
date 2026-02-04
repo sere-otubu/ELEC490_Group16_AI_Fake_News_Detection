@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antifungals
-TITLE: Novel antifungals and treatment approaches to tackle resistance and improve outcomes of invasive fungal disease.
-PMID: 38602408
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38602408/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-SUMMARYFungal infections are on the rise, driven by a growing population at risk and climate change. Currently available antifungals include only five classes, and their utility and efficacy in antifungal treatment are limited by one or more of innate or acquired resistance in some fungi, poor penetration into "sequestered" sites, and agent-specific side effect which require frequent patient reassessment and monitoring. Agents with novel mechanisms, favorable pharmacokinetic (PK) profiles including good oral bioavailability, and fungicidal mechanism(s) are urgently needed. Here, we provide a comprehensive review of novel antifungal agents, with both improved known mechanisms of actions and new antifungal classes, currently in clinical development for treating invasive yeast, mold (filamentous fungi), <i>Pneumocystis jirovecii</i> infections, and dimorphic fungi (endemic mycoses). We further focus on inhaled antifungals and the role of immunotherapy in tackling fungal infections, and the specific PK/pharmacodynamic profiles, tissue distributions as well as drug-drug interactions of novel antifungals. Finally, we review antifungal resistance mechanisms, the role of use of antifungal pesticides in agriculture as drivers of drug resistance, and detail detection methods for antifungal resistance.

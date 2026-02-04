@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Self harm
-TITLE: [Self-harm and eating disorders].
-PMID: 19415089
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19415089/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The aim of this article is to give an overview over the associations between self-harm and eating disorders, and to present theoretical models to interpret such associations. Common phenomenological characteristics between these conditions are emphasized. The article is based on a non-systematic literature search of Medline, PsychInfo and EMBASE (1985 - 2008) and the authors' own archive. Empirical studies confirm a strong association between self-harm and eating disorders. Reported prevalence of self-harm among patients with eating disorders vary between 13 and 68 %. A higher prevalence has been reported for patients with bulimia nervosa and anorexia nervosa binge-type than among patients with anorexia nervosa restrictive type. Possible common factors are impulsivity, obsessive-compulsive traits, dissociation, negative self-evaluation, trauma, high conflict level in the family environment and sensitivity for cultural trends. Self-harm and eating disorder represent disturbed regulation of affects, and both practices can be interpreted as attempts of active coping.

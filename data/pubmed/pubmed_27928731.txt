@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Arthroscopy
-TITLE: Hip arthroscopy complications regarding surgery and early postoperative care: retrospective study and review of literature.
-PMID: 27928731
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27928731/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The purpose is to describe the rate of complications in a series of hip arthroscopies performed at our center, as well as perform a systematic review of the current literature in order to compare our outcomes. Two hundred and fifty-eight patients affected of femoroacetabular impingement and treated with hip arthroscopy have been studied. All minor and major complications were studied during the first postsurgery year. Furthermore, a systematic review was performed comparing major and minor complications with our series. Two attending orthopedic surgeons selected the different studies with the same inclusion and exclusion criteria, remaining with 48 studies that have been reviewed and included in the present study. Mean age was 36.6 years old (SD 17.45), and the ratio men:women was 137:121. The mean complication rate observed was 14.34% (37/258) of global complications. Only three patients showed major complications: femoral neck fracture, septic arthritis and avascular necrosis of the femoral head. Any of these patients had permanent side effects. Hip arthroscopy has a low rate of major complications, but a higher number of minor complications that could be avoided with certain preventive measures.

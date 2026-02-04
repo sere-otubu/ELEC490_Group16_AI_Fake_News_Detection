@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Zika virus
-TITLE: Zika Virus Disease.
-PMID: 27337468
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27337468/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The history of Zika virus disease serves as a paradigm of a typical emerging viral infection. Zika virus disease, a mosquito-borne flavivirus, was first isolated in 1947 in the Zika forest of Uganda. The same virus was also isolated from jungle-dwelling mosquitoes (Aedes [Stegomyia] africanus). In many areas of Africa and South Asia human infections with Zika virus were detected by both serology and virus isolation. About 80% of infections are asymptomatic, and in 20% a mostly mild disease with fever, rash, arthralgia, and conjunctivitis may occur. Fetal infections with malformations were not recorded in Africa or Asia. Zika virus was imported to northern Brazil possibly during the world soccer championship that was hosted by Brazil in June through July 2014. A cluster of severe fetal malformations with microcephaly and ocular defects was noted in 2015 in the northeast of Brazil, and intrauterine infections with Zika virus were confirmed. The dramatic change in Zika virus pathogenicity upon its introduction to Brazil has remained an enigma.

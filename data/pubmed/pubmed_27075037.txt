@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Plantar fasciitis
-TITLE: Management of plantar fasciitis in the outpatient setting.
-PMID: 27075037
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27075037/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Plantar fasciitis is a very common cause of inferior heel pain that can be triggered and aggravated by prolonged standing, walking, running and obesity, among other factors. Treatments are largely noninvasive and efficacious. Supportive treatments, including the plantar fascia-specific stretch, calf stretching, appropriate orthotics and night dorsiflexion splinting, can alleviate plantar fascia pain. While local injections of corticosteroids can help with pain relief, the effects are short-lived and must be weighed against the risk of fat pad atrophy and plantar fascia rupture. Ultrasonography-guided focal extracorporeal shock wave therapy is useful for patients with chronic plantar fasciitis and referrals for this treatment can be made in recalcitrant cases. Activity modification to decrease cyclical repetitive loading of the plantar fascia should be advised during the treatment phase regardless of the chosen treatment modality.

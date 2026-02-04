@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Organic foods
-TITLE: Revolutionary advances in organic foods.
-PMID: 17987274
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17987274/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-'Organic' is a labelling term that denotes products produced under the authority of the Organic Foods Production Act. Before a product can be labelled 'organic', a government-approved certifier inspects the farm where the food is grown to make sure the farmer is following all the rules necessary to meet the US Department of Agriculture (USDA) organic standards. Companies that handle or process organic food before it gets to your local supermarket or restaurant must be certified, too. Along with the national organic standards, the USDA developed strict labelling rules to help consumers know the exact content of the food they buy. It is important to emphasise that the USDA has not made any health claims for organic foods. It is indeed fortunate that the US Department of Health and Human Services, Centers for Disease Control and Prevention, USDA and the Environmental Protection Agency are now expanding their research to explore the scientific basis for the health benefits of organic foods.

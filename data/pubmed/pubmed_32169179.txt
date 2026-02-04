@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Robotic surgery
-TITLE: Robotic Foregut Surgery.
-PMID: 32169179
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32169179/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Robotic-assisted surgery for benign esophageal disease is described for treatment of achalasia, gastroesophageal reflux, paraesophageal hernias, epiphrenic diverticula, and benign esophageal masses. Robotic Heller myotomy has operative times, relief of dysphagia, and conversion rates comparable to laparoscopic approach, with lower incidence of intraoperative esophageal perforation. The use of robotic platform for primary antireflux surgery is under evaluation, due to prolonged operative time and increased operative costs, with no differences in postoperative outcomes or hospital stay. Studies have shown benefits of robotic surgery in complex reoperative foregut surgery with respect to decreased conversion rates, lower readmission rates, and improved functional outcomes.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Lymphatic system
-TITLE: Lymphatic System in Cardiovascular Medicine.
-PMID: 26846644
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26846644/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The mammalian circulatory system comprises both the cardiovascular system and the lymphatic system. In contrast to the blood vascular circulation, the lymphatic system forms a unidirectional transit pathway from the extracellular space to the venous system. It actively regulates tissue fluid homeostasis, absorption of gastrointestinal lipids, and trafficking of antigen-presenting cells and lymphocytes to lymphoid organs and on to the systemic circulation. The cardinal manifestation of lymphatic malfunction is lymphedema. Recent research has implicated the lymphatic system in the pathogenesis of cardiovascular diseases including obesity and metabolic disease, dyslipidemia, inflammation, atherosclerosis, hypertension, and myocardial infarction. Here, we review the most recent advances in the field of lymphatic vascular biology, with a focus on cardiovascular disease.

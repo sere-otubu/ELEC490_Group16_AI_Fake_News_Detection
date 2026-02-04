@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Superfoods
-TITLE: Anti-Oxidant and Anti-Cancer Properties of Flaxseed.
-PMID: 39940995
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39940995/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Bioactive molecules present in plant products determine their very valuable health-promoting properties. Among the plants, due to these properties, particular attention is paid to the seeds of common flax (<i>Linum usitatissimum</i> L.), which have been used for over 6000 years and are known for their benefits. A review of 117 scientific articles indexed in PubMed/MEDLINE, ScienceDirect, and Wiley Online Library, published between 1997 and 2024, was conducted. These seeds are characterized by a high content of valuable nutrients, such as essential omega-3 fatty acids, including α-linolenic acid (ALA), lignans, isoflavones, phytoestrogens, flavonoids, vitamins, and minerals that influence the digestive system function and have anti-cancer properties. The presence of these bioactive compounds in flaxseeds provide anti-cancer properties.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23571528)
-    QUESTION: Sternal skin conductance: a reasonable surrogate for hot flash measurement?
-    CONTEXT: This study aims to examine the accuracy of a new sternal skin conductance (SSC) device in measuring hot flashes and to assess the acceptability of the device by women.
-    ANSWER: Findings from these studies support discordance between device-recorded and self-reported hot flashes. In addition, the studies reveal further limitations of SSC monitoring, including difficulties with data collection and lack of consistency in interpretation. Based on these results and other recent trials identifying issues with SSC methodology, it is time to find a better physiologic surrogate measure for hot flashes.
-    

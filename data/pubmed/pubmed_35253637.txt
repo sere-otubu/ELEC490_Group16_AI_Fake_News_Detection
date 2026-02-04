@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Global health initiatives
-TITLE: ARCH Project and the Global Initiatives of Disaster Health Management.
-PMID: 35253637
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35253637/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The prime aim of Project for Strengthening the ASEAN Regional Capacity on Disaster Health Management (ARCH Project) is to strengthen the disaster health management (DHM) capacity in the context of personal level, Emergency Medical Team (EMT), and the regional collaboration. The ARCH Project was implemented with reference to international trends of DHM and seeks to contribute to the development of global standards. The project established the Project Working Groups that consisted of representatives of ASEAN Member States (AMS) to develop standard operating procedures (SOP) for international EMT (I-EMT) coordination. Furthermore, it aimed to organize training sessions along with implementation of the regional collaboration drill (RCD) in accordance with I-EMT minimum requirements and in line with coordination standards set by the WHO. The ARCH Project developed the SOP and common platform for I-EMT coordination, organized training, and conducted RCDs with reference to the WHO's EMT initiative. Furthermore, it also contributed to the development of the EMT Minimum Data Set (MDS), an international standard DHM tool that underwent testing at the RCDs before the WHO endorsement and its utilization in actual disaster response. In the process of strengthening ASEAN regional capacity in DHM, the project is constantly capturing international trends and also making significant contributions in the development of global systems and tools.

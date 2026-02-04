@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17914515)
-    QUESTION: Suturing of the nasal septum after septoplasty, is it an effective alternative to nasal packing?
-    CONTEXT: To discuss and compare the results of suturing the nasal septum after septoplasty with the results of nasal packing.
-    ANSWER: Septal suturing after septoplasty offers the following advantages: elimination of discomfort for the patients, minimal complications, the outcome is almost the same as with nasal packing, and finally the hospital stay is less than with nasal packing. Therefore, suturing of the nasal septum after septoplasty should be a preferred alternative to nasal packing.
-    

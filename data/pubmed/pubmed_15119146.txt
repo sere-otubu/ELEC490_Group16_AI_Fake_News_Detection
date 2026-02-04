@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Down syndrome
-TITLE: Down's syndrome: a biopsychosocial perspective.
-PMID: 15119146
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15119146/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This article examines the biological, psychological and social effects of Down's syndrome and disability on children who have this condition, and on their families or carers.

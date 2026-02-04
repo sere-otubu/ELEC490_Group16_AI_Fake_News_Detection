@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 9140335)
-    QUESTION: Does fluoridation reduce the use of dental services among adults?
-    CONTEXT: The authors determine whether prevention influences the use of health services. Fluoridation's effect on restorative dental demand among 972 Washington state employees and spouses, aged 20 to 34 years, in two fluoridated communities and a nonfluoridated community was examined.
-    ANSWER: Among adults aged 20 to 34 years with private dental insurance, fluoridation reduces oral disease but may or may not reduce use of restorative services, depending on dentists' clinical decisions.
-    

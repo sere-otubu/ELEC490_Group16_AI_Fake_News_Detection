@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Sleep paralysis
-TITLE: [Sleep paralysis].
-PMID: 9503846
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9503846/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-According to ICSD criteria, sleep paralysis (SP) occurs at least once in a lifetime in 40-50% of normal subjects. Variation in the reported incidence could be attributed to the difference in the expression in survey or an influence of cultural background. Some factors assumed to affect the appearance of SP include psychological, biological, developmental, and genetic influences. Sleep onset REM period (SOREMP) is one of the factors which is 'assumed to be related to SP in normal subjects' as well as narcoleptic patients. We conducted an experiment for eliciting SOREMP and SP. Our result indicated a relationship between SOREMP and SP. Polysomnograms during SP were characterized by REM/W stage dissociated states. Other factors which may influence the occurrence of SP are also discussed.

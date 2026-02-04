@@ -1,8 +1,0 @@
-SEARCH_TOPIC: IUD
-TITLE: Severe pneumococcal peritonitis complicating IUD: case report and review of the literature.
-PMID: 3547205
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/3547205/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A case of pneumococcal peritonitis associated with an IUD is presented and four previously reported cases of pneumococcal peritonitis with IUD are reviewed. The infection may occur in previously healthy women who were fitted with an IUD, possibly by ascending infection from the genital tract via the fallopian tubes. The condition is usually accompanied by bilateral salpingitis and may be severe, with fatal outcome. We suggest that any woman over 30 using an IUD, who presents with peritonitis without obvious cause, should be given antibiotics with activity against Streptococcus pneumoniae, following removal of the IUD.

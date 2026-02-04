@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gout
-TITLE: Gout and hyperuricemia.
-PMID: 2217957
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/2217957/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The prevalence of gout in the United States has been rising steadily for the past two decades. Hyperuricemia is considered a necessary but not sufficient precondition for gout. Known risk factors for gout include male sex, hypertension, renal insufficiency, obesity/weight gain, diuretic use, lead exposure, and family history. The association of gout and hyperuricemia with coronary artery disease is controversial. Current evidence from the Framingham Study suggests that gout is in fact an independent risk factor for CHD. These data suggest that patients with gout should be screened for modifiable risk factors for CHD, and that early intervention in such patients may be worthwhile. Finally, the effect of AHU as risk factor for CHD remains unclear but is probably a weak one.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Asthma
-TITLE: [Difficult asthma].
-PMID: 17028513
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17028513/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Difficult asthma is a major issue in pulmonary medicine today because of its cost for patients and society. Difficult asthma is asthma that remains uncontrolled despite optimal specialist management. The validity of the diagnosis must be reconsidered in these cases: associated or differential diagnoses may be involved in the lack of control, and it is always necessary to assess the patient's treatment adhesion. Sufficient time--at least a year--must be taken to get to know the patient and to meet the objectives set. The standard asthma therapies should be tested objectively. Severe asthma is the reality of difficult asthma that endures despite a reaffirmed diagnosis, optimal compliance and controlled comorbidities. Better knowledge is needed of the pathophysiology of these patients' asthma. Improved knowledge of these phenotypes will make it possible to develop innovative treatments. They will need to be validated in clinical research for subsequent use that is wider but more rational because targeted at phenotypes likely to benefit from them.

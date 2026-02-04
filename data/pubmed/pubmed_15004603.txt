@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Stroke
-TITLE: [Post-stroke epilepsy].
-PMID: 15004603
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15004603/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Stroke (infarction or haemorrhage) is an important cause of epilepsy in adulthood, especially in the elderly. Because of a high incidence and improved survival, post-stroke epilepsy (PSE) is a great contemporary challenge for physicians. In our studies we have defined PSE as two or more seizures occurring more than four weeks after the stroke. Based on our studies and a review of the literature, we give an account of the incidence, predictors, pathophysiology, and prognosis of PSE. The incidence in the literature varies greatly, from 2.3% to 43%. Our data shows an incidence of 2.5% after one year, increasing to 4.4% after five years. Severe strokes have higher incidence of PSE than minor strokes. The variation in incidence reflects differences in the patient populations studied, definition of PSE, and study design. Our studies were prospective and in a well-defined area with high focus on admitting patients with any sign of stroke to hospital. This results in a "population" of stroke patients with severe strokes with high mortality rate, and patients with minor strokes not likely to develop PSE. In our material, severe strokes increased the incidence of PSE five-fold compared to minor strokes. We saw almost a doubling of the incidence one year to five years after the stroke. This might be explained by a long epileptogenesis, but it could also be due to high morbidity in this age group.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Patient data privacy HIPAA
-TITLE: Privacy in the digital world: medical and health data outside of HIPAA protections.
-PMID: 25218603
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25218603/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Increasing quantities of medical and health data are being created outside of HIPAA protection, primarily by patients. Data sources are varied, including the use of credit cards for physician visit and medication co-pays, Internet searches, email content, social media, support groups, and mobile health apps. Most medical and health data not covered by HIPAA are controlled by third party data brokers and Internet companies. These companies combine this data with a wide range of personal information about consumer daily activities, transactions, movements, and demographics. The combined data are used for predictive profiling of individual health status, and often sold for advertising and other purposes. The rapid expansion of medical and health data outside of HIPAA protection is encroaching on privacy and the doctor-patient relationship, and is of particular concern for psychiatry. Detailed discussion of the appropriate handling of this medical and health data is needed by individuals with a wide variety of expertise.

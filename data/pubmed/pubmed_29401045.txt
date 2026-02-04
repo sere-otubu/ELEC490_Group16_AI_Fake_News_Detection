@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antisocial personality disorder
-TITLE: Antisocial Personality as a Neurodevelopmental Disorder.
-PMID: 29401045
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29401045/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although antisocial personality disorder (APD) is one of the most researched personality disorders, it is still surprisingly resistant to treatment. This lack of clinical progress may be partly due to the failure to view APD as a neurodevelopmental disorder and to consider early interventions. After first defining what constitutes a neurodevelopmental disorder, this review evaluates the extent to which APD meets neurodevelopmental criteria, covering structural and functional brain imaging, neurocognition, genetics and epigenetics, neurochemistry, and early health risk factors. Prevention and intervention strategies for APD are then outlined, focusing on addressing early biological and health systems, followed by forensic and clinical implications. It is argued both that APD meets criteria for consideration as a neurodevelopmental disorder and that consideration should be given both to the possibility that early onset conduct disorder is neurodevelopmental in nature, and also to the inclusion of psychopathy as a specifier in future Diagnostic and Statistical Manual revisions of APD.

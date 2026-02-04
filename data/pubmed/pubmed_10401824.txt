@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 10401824)
-    QUESTION: Is laparoscopic reoperation for failed antireflux surgery feasible?
-    CONTEXT: Laparoscopic techniques can be used to treat patients whose antireflux surgery has failed.
-    ANSWER: Antireflux surgery failures are most commonly associated with hiatal herniation, followed by the breakdown of the fundoplication. The laparoscopic approach may be used successfully to treat patients with failed antireflux operations. Good results were achieved despite the technical difficulty of the procedures.
-    

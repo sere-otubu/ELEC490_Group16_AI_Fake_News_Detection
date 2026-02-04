@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rabies
-TITLE: Rabies in small animals.
-PMID: 18501283
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18501283/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rabies in small animals has been dramatically reduced in the United States since the introduction of rabies vaccination of domestic animals in the 1940s. As a consequence, the number of human rabies cases has declined to only a couple per year. During the past several years, the dog rabies variant has almost disappeared completely. Rabies in wildlife has skyrocketed, however. Each wildlife species carries its own rabies variant(s). These wildlife epizootics present a constant public health threat in addition to the danger of reintroducing rabies to domestic animals. Vaccination is the key to prevent rabies in small animals and rabies transmission to human beings.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fatty liver disease
-TITLE: Non-alcoholic fatty liver disease: Definition and subtypes.
-PMID: 36577427
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36577427/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Non-alcoholic fatty liver disease (NAFLD) is one of the most common liver diseases worldwide, with a global prevalence of approximately 30%. However, the prevalence of NAFLD has been variously reported depending on the comorbidities. The rising prevalence of obesity in both the adult and pediatric populations is projected to consequently continue increasing NAFLD prevalence. It is a major cause of chronic liver disease worldwide, including cirrhosis and hepatocellular carcinoma (HCC). NAFLD has a variety of clinical phenotypes and heterogeneity due to the complexity of pathogenesis and clinical conditions of its occurrence, resulting in various clinical prognoses. In this article, we briefly described the basic definition of NAFLD and classified the subtypes based on current knowledge in this field.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Plant based protein
-TITLE: Plant protein families and their relationships to food allergy.
-PMID: 12440943
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12440943/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The analysis of plant proteins has a long and distinguished history, with work dating back over 250 years. Much of the work has focused on seed proteins, which are important in animal nutrition and food processing. Early studies classified plant proteins into groups based on solubility ('Osborne fractions') or protein function. More recently, families have been defined based on stuctural and evolutionary relationships. One of the most widespread groups of plant proteins is the prolaminin superfamily, which comprises cereal seed storage proteins, a range of low-molecular-mass sulphur-rich proteins (many of which are located in seeds) and some cell wall glycoproteins. This superfamily includes several major types of plant allergen: non-specific lipid transfer proteins, cereal seed inhibitors of alpha-amylase and/or trypsin, and 2 S albumin storage proteins of dicotyledonous seeds.

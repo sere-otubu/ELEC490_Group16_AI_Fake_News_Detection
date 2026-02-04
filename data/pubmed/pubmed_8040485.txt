@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Personality disorders
-TITLE: Personality and personality disorders.
-PMID: 8040485
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8040485/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The mental disorders that most clearly relate to personality are the personality disorders. The purpose of this article is to review the support for the hypothesis that the personality disorders of the Diagnostic and Statistical Manual of Mental Disorders (3rd ed., rev.; American Psychiatric Association, 1987) represent variants of normal personality traits. We focus in particular on the efforts to identify the dimensions of personality that may underlie the personality disorders. We then illustrate the relationship of personality to personality disorders using the five-factor model, discuss conceptual issues in relating normal and abnormal personality traits, and consider methodological issues that should be addressed in future research.

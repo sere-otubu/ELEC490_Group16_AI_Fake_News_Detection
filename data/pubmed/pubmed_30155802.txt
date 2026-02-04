@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Opioids risks
-TITLE: Risks of Opioids in ST-Elevation Myocardial Infarction: A Review.
-PMID: 30155802
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30155802/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although opioids are recommended and frequently used in the acute phase of ST-elevation myocardial infarction (STEMI), their use is accompanied by serious side effects. In particular, gastrointestinal adverse effects may disturb absorption of essential oral medication like platelet inhibitors. This may cause suboptimal platelet inhibition and increased risk of acute stent thrombosis. Some clinical studies have already demonstrated these negative results. Alternative strategies to optimize platelet inhibition and pain relief in STEMI are being investigated. Clinicians should become more aware of the potential side effects of opioids in STEMI.

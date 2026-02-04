@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antibiotics classes
-TITLE: Antibiotic use: present and future.
-PMID: 17802919
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17802919/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Antibiotics were initially viewed as "wonder drugs" primarily because they were introduced at a time when only surgical drainage or spontaneous cures were available to treat serious bacterial infections. During the five or six decades since their introduction, several classes of these drugs became available including sulfonamides and trimethoprim, penicillins, cephalosporins, chloramphenicol, tetracyclines, colimycins, macrolides, lincosamides, streptogramins, rifamycins, glycopeptides, aminoglycosides, fluoroquinolones, oxazolidinones, glycylglycines, lipoglycopeptides, and variations on these themes. Unfortunately, through a variety of mechanisms and perhaps as a result of their profligate use, many bacterial groups are exhibiting resistance to these antibiotics. At present, most bacterial infections can still be treated with available antibiotics used alone or in combination, but increasing numbers of clinical failures with the current armamentarium can be expected. Optimizing drug dosing and duration might help minimize the emergence of resistance in some situations. However, the future could look dim, as there are relatively few new agents on the horizon. A bold new look for antibacterial targets is needed. Surely our scientific abilities are up to this challenge. New approaches to antimicrobial chemotherapy are needed if we are to survive the increasing rates of antibiotic resistance predicted for the future.

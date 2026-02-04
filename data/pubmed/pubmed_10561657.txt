@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Contraceptive pills
-TITLE: The mechanism of action of hormonal contraceptives and intrauterine contraceptive devices.
-PMID: 10561657
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10561657/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Modern hormonal contraceptives and intrauterine contraceptive devices have multiple biologic effects. Some of them may be the primary mechanism of contraceptive action, whereas others are secondary. For combined oral contraceptives and progestin-only methods, the main mechanisms are ovulation inhibition and changes in the cervical mucus that inhibit sperm penetration. The hormonal methods, particularly the low-dose progestin-only products and emergency contraceptive pills, have effects on the endometrium that, theoretically, could affect implantation. However, no scientific evidence indicates that prevention of implantation actually results from the use of these methods. Once pregnancy begins, none of these methods has an abortifacient action. The precise mechanism of intrauterine contraceptive devices is unclear. Current evidence indicates they exert their primary effect before fertilization, reducing the opportunity of sperm to fertilize an ovum.

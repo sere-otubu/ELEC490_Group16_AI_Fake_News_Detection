@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21881325)
-    QUESTION: Do preoperative statins reduce atrial fibrillation after coronary artery bypass grafting?
-    CONTEXT: Recent studies have demonstrated that statins have pleiotropic effects, including anti-inflammatory effects and atrial fibrillation (AF) preventive effects. The objective of this study was to assess the efficacy of preoperative statin therapy in preventing AF after coronary artery bypass grafting (CABG).
-    ANSWER: Our study indicated that preoperative statin therapy seems to reduce AF development after CABG.
-    

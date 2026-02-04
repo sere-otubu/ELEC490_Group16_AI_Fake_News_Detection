@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Carbohydrates types
-TITLE: Immunobiology of Carbohydrates: Implications for Novel Vaccine and Adjuvant Design Against Infectious Diseases.
-PMID: 35118012
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35118012/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Carbohydrates are ubiquitous molecules expressed on the surface of nearly all living cells, and their interaction with carbohydrate-binding proteins is critical to many immunobiological processes. Carbohydrates are utilized as antigens in many licensed vaccines against bacterial pathogens. More recently, they have also been considered as adjuvants. Interestingly, unlike other types of vaccines, adjuvants have improved immune response to carbohydrate-based vaccine in humans only in a few cases. Furthermore, despite the discovery of many new adjuvants in the last years, aluminum salts, when needed, remain the only authorized adjuvant for carbohydrate-based vaccines. In this review, we highlight historical and recent advances on the use of glycans either as vaccine antigens or adjuvants, and we review the use of currently available adjuvants to improve the efficacy of carbohydrate-based vaccines. A better understanding of the mechanism of carbohydrate interaction with innate and adaptive immune cells will benefit the design of a new generation of glycan-based vaccines and of immunomodulators to fight both longstanding and emerging diseases.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Carbohydrates types
-TITLE: Industrial carbohydrate biotransformations.
-PMID: 18353291
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18353291/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Nearly all major industrial processes which involve carbohydrates, include biotechnological transformations. This is due to the complex nature of carbohydrates where stereo- and regioselectivity are highly complex and difficult to control. Enzymes and microorganisms work highly selectively and efficiently in water solution, and provide high yield in general. The article focuses on different types of reactions, including large-scale processes. Topics are hydrolytic reactions, including starch processing, oxidation and reduction transformations including organic acids, such as gluconic and ketogluconic acids and vitamin C synthesis, and isomerization and transfer reactions, which are established on a very large scale to produce glucose/fructose syrups and sucrose isomers. The article will further discuss some mechanistic aspects which are relevant for technology and present selected details of industrial-scale processing. Finally an outlook outlines perspectives of future processes.

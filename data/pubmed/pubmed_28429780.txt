@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Type 1 Diabetes
-TITLE: Insulin analogues in type 1 diabetes mellitus: getting better all the time.
-PMID: 28429780
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28429780/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The treatment of type 1 diabetes mellitus consists of external replacement of the functions of β cells in an attempt to achieve blood levels of glucose as close to the normal range as possible. This approach means that glucose sensing needs to be replaced and levels of insulin need to mimic physiological insulin-action profiles, including basal coverage and changes around meals. Training and educating patients are crucial for the achievement of good glycaemic control, but having insulin preparations with action profiles that provide stable basal insulin coverage and appropriate mealtime insulin peaks helps people with type 1 diabetes mellitus to live active lives without sacrificing tight glycaemic control. Insulin analogues enable patients to achieve this goal, as some have fast action profiles, and some have very slow action profiles, which gives people with type 1 diabetes mellitus the tools to achieve dynamic insulin-action profiles that enable tight glycaemic control with a risk of hypoglycaemia that is lower than that with human short-acting and long-acting insulins. This Review discusses the established and novel insulin analogues that are used to treat patients with type 1 diabetes mellitus and provides insights into the future development of insulin analogues.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Immunosuppressants
-TITLE: Composite tissue allotransplantation: opportunities and challenges.
-PMID: 30842628
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30842628/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Vascularized composite allotransplants (VCAs) have unique properties because of diverse tissue components transplanted en mass as a single unit. In addition to surgery, this type of transplant also faces enormous immunological challenges that demand a detailed analysis of all aspects of alloimmune responses, organ preservation, and injury, as well as the immunogenicity of various tissues within the VCA grafts to further improve graft and patient outcomes. Moreover, the side effects of long-term immunosuppression for VCA patients need to be carefully balanced with the potential benefit of a non-life-saving procedure. In this review article, we provide a comprehensive update on limb and face transplantation, with a specific emphasis on the alloimmune responses to VCA, established and novel immunosuppressive treatments, and patient outcomes.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Genetic disorders
-TITLE: Developmental Support for Infants With Genetic Disorders.
-PMID: 32327449
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32327449/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-As the technical ability for genetic diagnosis continues to improve, an increasing number of diagnoses are made in infancy or as early as the neonatal period. Many of these diagnoses are known to be associated with developmental delay and intellectual disability, features that would not be clinically detectable at the time of diagnosis. Others may be associated with cognitive impairment, but the incidence and severity are yet to be fully described. These neonates and infants with genetic diagnoses therefore represent an emerging group of patients who are at high risk for neurodevelopmental disabilities. Although there are well-established developmental supports for high-risk infants, particularly preterm infants, after discharge from the NICU, programs specifically for infants with genetic diagnoses are rare. And although previous research has demonstrated the positive effect of early developmental interventions on outcomes among preterm infants, the impact of such supports for infants with genetic disorders who may be born term, remains to be understood. We therefore review the literature regarding existing developmental assessment and intervention approaches for children with genetic disorders, evaluating these in the context of current developmental supports postdischarge for preterm infants. Further research into the role of developmental support programs for early assessment and intervention in high-risk neonates diagnosed with rare genetic disorders is needed.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: IBS
-TITLE: New insights in IBS-like disorders: Pandora's box has been opened; a review.
-PMID: 28702130
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28702130/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The most complained gastrointestinal symptoms are chronic diarrhea, bloating and abdominal pain. Once malignancies and inflammatory bowel diseases are excluded, irritable bowel syndrome (IBS) and the so called "IBS-like disorders" should be taken into account. The relationship between IBS as defined by Rome IV criteria and these clinical conditions is sometimes obscure, since many IBS patients identify food as a possible trigger for their symptoms. Here, we discuss IBS and the most common IBS-like disorders (celiac disease, non-celiac gluten sensitivity, fermentable oligosaccharides, disaccharides, monosaccharides and polyols (FODMAPs), lactose intolerance, small intestinal bacterial overgrowth (SIBO), α-amylase/trypsin inhibitor (ATIs), nickel allergic contact mucositis), focusing on epidemiologic, clinical, diagnostic and therapeutic aspects. Given the lack of specificity of symptoms, clinical investigation will be facilitated by awareness of these disorders as well as new specific diagnostic tools.

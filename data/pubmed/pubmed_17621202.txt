@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17621202)
-    QUESTION: Does shaving the incision site increase the infection rate after spinal surgery?
-    CONTEXT: A prospective randomized clinical study.
-    ANSWER: The shaving of the incision site immediately before spinal surgery may increase the rate of postoperative infection.
-    

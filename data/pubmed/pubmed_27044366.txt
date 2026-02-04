@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 27044366)
-    QUESTION: Detailed analysis of sputum and systemic inflammation in asthma phenotypes: are paucigranulocytic asthmatics really non-inflammatory?
-    CONTEXT: The technique of induced sputum has allowed to subdivide asthma patients into inflammatory phenotypes according to their level of granulocyte airway infiltration. There are very few studies which looked at detailed sputum and blood cell counts in a large cohort of asthmatics divided into inflammatory phenotypes. The purpose of this study was to analyze sputum cell counts, blood leukocytes and systemic inflammatory markers in these phenotypes, and investigate how those groups compared with healthy subjects.
-    ANSWER: This study demonstrates that a significant eosinophilic inflammation is present across all categories of asthma, and that paucigranulocytic asthma may be seen as a low grade inflammatory disease.
-    

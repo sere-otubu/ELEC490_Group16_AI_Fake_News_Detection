@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Alternative medicine
-TITLE: Research methods in complementary and alternative medicine: an integrative review.
-PMID: 29397095
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29397095/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The scientific literature presents a modest amount of evidence in the use of complementary and alternative medicine (CAM). On the other hand, in practice, relevant results are common. The debates among CAM practitioners about the quality and execution of scientific research are important. Therefore, the aim of this review is to gather, synthesize and describe the differentiated methodological models that encompass the complexity of therapeutic interventions. The process of bringing evidence-based medicine into clinical practice in CAM is essential for the growth and strengthening of complementary medicines worldwide.

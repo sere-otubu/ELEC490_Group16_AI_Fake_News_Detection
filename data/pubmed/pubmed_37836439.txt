@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Paleo diet
-TITLE: Impact of Paleo Diet on Body Composition, Carbohydrate and Fat Metabolism of Professional Handball Players.
-PMID: 37836439
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37836439/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The Paleo diet (PD) involves a restriction of carbohydrates and increased fat content (35% energy from carbohydrates, 35% energy from fats and 30% energy from protein). The aim of this study was to examine the effect of the PD on body composition, concentration of carbohydrates and lipids, as well as insulin, irisin, adiponectin and leptin in the blood. A total of 25 handball players were assigned to two groups: 14 in the experimental group (PD) and 11 in the control group (CD), using a PD and a rational diet, respectively. Analysis of body mass and body composition (body mass index, fat mass, lean body mass, fat-free mass, muscle mass, bone mineral content and bone mineral density), as well as blood concentration of metabolism markers (glucose, insulin, total cholesterol, HDL-cholesterol, non-HDL-cholesterol, LDL-cholesterol, triglycerides, free fatty acids, β-hydroxybutyrate, irisin, adiponectin and leptin), were determined at the beginning and after 4 and 8 weeks of nutritional intervention. Body mass was lower (<i>p</i> < 0.01), and adiponectin blood concentration was higher (<i>p</i> = 0.03) in the PD group at the end of the intervention. There were no changes (<i>p</i> ≥ 0.05) in body composition and blood levels of other biochemical markers in either group.

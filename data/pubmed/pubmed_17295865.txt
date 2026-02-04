@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 17295865)
-    QUESTION: Acute hepatitis C in Israel: a predominantly iatrogenic disease?
-    CONTEXT: Acute hepatitis C virus infection in the era of universal screening of blood products has not disappeared, and is thought to be transmitted primarily via injecting drug use. A growing body of evidence supports iatrogenic transmission as an important mode of transmission. The aim of this study was to examine transmission routes and clinical characteristics in a group of patients with acute hepatitis C in Israel.
-    ANSWER: Acute hepatitis C in the post universal blood products screening era was found to be predominantly an iatrogenic disease in the investigated localities. This finding should direct attention and resources towards the development and implementation of preventive measures.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cirrhosis
-TITLE: The Role of the Gut Microbiome in Liver Cirrhosis Treatment.
-PMID: 33379148
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33379148/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Liver cirrhosis is one of the most prevalent chronic liver diseases worldwide. In addition to viral hepatitis, diseases such as steatohepatitis, autoimmune hepatitis, sclerosing cholangitis and Wilson's disease can also lead to cirrhosis. Moreover, alcohol can cause cirrhosis on its own and exacerbate chronic liver disease of other causes. The treatment of cirrhosis can be divided into addressing the cause of cirrhosis and reversing liver fibrosis. To this date, there is still no clear consensus on the treatment of cirrhosis. Recently, there has been a lot of interest in potential treatments that modulate the gut microbiota and gut-liver axis for the treatment of cirrhosis. According to recent studies, modulation of the gut microbiome by probiotics ameliorates the progression of liver disease. The precise mechanism for relieving cirrhosis via gut microbial modulation has not been identified. This paper summarizes the role and effects of the gut microbiome in cirrhosis based on experimental and clinical studies on absorbable antibiotics, probiotics, prebiotics, and synbiotics. Moreover, it provides evidence of a relationship between the gut microbiome and liver fibrosis.

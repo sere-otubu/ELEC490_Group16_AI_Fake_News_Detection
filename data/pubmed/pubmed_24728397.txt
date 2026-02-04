@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Plantar fasciitis
-TITLE: [Effectiveness of different physical therapy in conservative treatment of plantar fasciitis: systematic review].
-PMID: 24728397
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24728397/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Plantar fasciitis is the most common disease of non-traumatic pain in the ankle-foot. It is more common in women aged 40-70 years and diffuse progressive start the foot or ankle that gradually worsens preventing progress. The aim of this work is to determine whether different physical therapies used in the conservative treatment of plantar fasciitis of at least one month duration in adults are effective individually and / or in combination. A systematic review databases in The Cochrane Library, Medline, Lilacs, IBECS, IME, PEDro and ENFISPO no date restriction, in Spanish and English languages. Randomized controlled trials were included of adult patients diagnosed with plantar fasciitis, intervention studies, prospective and systematic reviews. Assessment of study eligibility was developed by two reviewers independently and unblinded standardized. To classify, we used the PEDro scale critical, form of methodological quality plus a critical review of each summary and if this was not conclusive assessment of the full text. 32 full-text articles were reviewed. Most used techniques are the stretches and shock waves, although the best results are obtained by combining several techniques. Shock waves are effective when other techniques have failed. Physical therapies used in the various studies have proven effective to varying degrees either to reduce pain or relieve the symptoms of plantar fasciitis.

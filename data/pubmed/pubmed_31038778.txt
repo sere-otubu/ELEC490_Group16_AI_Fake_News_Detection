@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Salmonella
-TITLE: Nontyphoidal Salmonella: a potential anticancer agent.
-PMID: 31038778
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31038778/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Use of bacteria in cancer therapy, despite being considered as a potent strategy, has not really picked up the way other methods of cancer therapies have evolved. However, in recent years, the interest on use of bacteria to kill cancer cells has renewed considerably. The standard and widely followed strategies of cancer treatment often fail either due to the complexity of tumour biology or because of the accompanying side effects. In contrast, these limitations can be easily overcome in a bacteria-mediated approach. Salmonella is a bacterium, which is known for its ability to colonize solid or semisolid tumours more efficiently than any other bacteria. Among more than 2500 serovars of Salmonella, S. Typhimurium has been widely studied for its antagonistic effects on cancer cells. Here in, we review the current status of the preclinical and the clinical studies with a focus on the mechanisms that attribute the anticancer properties to nontyphoidal Salmonella.

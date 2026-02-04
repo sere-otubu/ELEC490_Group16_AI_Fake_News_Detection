@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gout
-TITLE: Gout.
-PMID: 31564298
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31564298/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The treat to target strategy looks attractive for management of gout because it removes the causal mechanism inducing formation, growth, and aggregation of urate crystals. Further reduction of serum urate (sUA) levels below the threshold may dissolve crystals more rapidly. It is generally agreed that sUA less than 6 mg/dL is acceptable as a therapeutic and long-term preventive target, with <5 mg/dL for the most severe cases. The challenges that this approach in gout is facing include whether proposed targets are the best for desired outcomes, whether they fit patient-related outcomes, and whether they adequately balance effectiveness and safety.

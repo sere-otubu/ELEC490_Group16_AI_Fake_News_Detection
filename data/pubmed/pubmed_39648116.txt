@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Stroke
-TITLE: Epidemiology of stroke in France.
-PMID: 39648116
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39648116/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-It has been nearly 10years since the first national stroke plan in France. To examine the epidemiology of strokes, how they are managed and patient outcomes. Adults hospitalized for stroke in 2022 were identified in the national database. Stroke prevalence at 1 January 2023 was defined as the number of people alive at that date with a history of hospitalization for stroke or a chronic long-term disease status due to stroke (2012-2022). Patients were monitored up for up to 1year after hospitalization for a stroke. In 2022, 122,422 adults were hospitalized due to stroke, and there were an estimated 1,086,795 cases. Important geographical and socioeconomic disparities were observed. Admission to a stroke intensive care unit was found in 46.8% of patients, with significant variations by department of residence, age and gender. Only 7.2% of ischaemic strokes resulted in mechanical thrombectomy. Among survivors at 6months, admission to a rehabilitation unit was found for 34.3% for patients with ischaemic strokes and 41.7% of those with haemorrhagic strokes, while 28.8% and 18.8%, respectively, had a consultation with a neurologist, and 19.5% and 10.9% were seen by a cardiologist within 6months. Mortality rates after 1year were 20.8% and 37.9% among patients hospitalized due to ischaemic and haemorrhagic strokes, respectively. The considerable numbers and rates of stroke - and disparities by age, sex and area - highlight the need for more effective stroke prevention, regular information campaigns on the symptoms of stroke and improved availability and accessibility of stroke units.

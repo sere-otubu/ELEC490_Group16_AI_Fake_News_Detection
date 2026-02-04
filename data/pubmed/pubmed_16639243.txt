@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Postpartum depression
-TITLE: Postpartum depression: it isn't just the blues.
-PMID: 16639243
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16639243/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Postpartum depression is a crippling mood disorder, historically neglected in health care, leaving mothers to suffer in fear, confusion, and silence. Undiagnosed it can adversely affect the mother-infant relationship and lead to long-term emotional problems for the child. This article differentiates postpartum depression from other postpartum mood and anxiety disorders and addresses these aspects of postpartum depression: symptoms, prevalence, risk factors, interventions, and the effects on relationships and child development. Instruments available to screen for postpartum depression are also reviewed.

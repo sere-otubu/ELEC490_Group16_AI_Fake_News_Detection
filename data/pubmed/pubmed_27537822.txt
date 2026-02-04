@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Athletes foot
-TITLE: Tinea and Onychomycosis.
-PMID: 27537822
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27537822/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Onychomycosis and tinea pedis are common fungal infections affecting the nails and feet, respectively. Two newly approved topical agents for onychomycosis are efinaconazole and tavaborole, both of which have demonstrated respectable cure rates in clinical studies. For tinea pedis, naftifine 2% and luliconazole 1% are new agents, both administered for relatively short courses, that may foster greater adherence Semin Cutan Med Surg 35(supp6):S110-S113.

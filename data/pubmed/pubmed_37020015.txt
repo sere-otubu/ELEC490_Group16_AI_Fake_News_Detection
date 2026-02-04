@@ -1,8 +1,0 @@
-SEARCH_TOPIC: DNA structure
-TITLE: TnpB structure reveals minimal functional core of Cas12 nuclease family.
-PMID: 37020015
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37020015/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The widespread TnpB proteins of IS200/IS605 transposon family have recently emerged as the smallest RNA-guided nucleases capable of targeted genome editing in eukaryotic cells<sup>1,2</sup>. Bioinformatic analysis identified TnpB proteins as the likely predecessors of Cas12 nucleases<sup>3-5</sup>, which along with Cas9 are widely used for targeted genome manipulation. Whereas Cas12 family nucleases are well characterized both biochemically and structurally<sup>6</sup>, the molecular mechanism of TnpB remains unknown. Here we present the cryogenic-electron microscopy structures of the Deinococcus radiodurans TnpB-reRNA (right-end transposon element-derived RNA) complex in DNA-bound and -free forms. The structures reveal the basic architecture of TnpB nuclease and the molecular mechanism for DNA target recognition and cleavage that is supported by biochemical experiments. Collectively, these results demonstrate that TnpB represents the minimal structural and functional core of the Cas12 protein family and provide a framework for developing TnpB-based genome editing tools.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chlamydia
-TITLE: Chlamydia effector proteins and new insights into chlamydial cellular microbiology.
-PMID: 18299248
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/18299248/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chlamydia and Chlamydophila sp. are highly related obligate intracellular bacterial pathogens that cause sexually transmitted diseases, ocular infections and atypical pneumonias. Relatively little is known about the molecular mechanisms by which Chlamydiae manipulate the mammalian host because they are intractable to genetic manipulation. Studies with heterologous expression systems have revealed a large set of chlamydial proteins that are potentially translocated into the host cytoplasm ('effector' proteins). As new cell biological observations are made and the function of effector proteins begin to be elucidated, a clearer picture of the extent to which Chlamydiae manipulate mammalian cellular processes is beginning to emerge, including the cell cycle, innate immunity, and lipid and membrane transport.

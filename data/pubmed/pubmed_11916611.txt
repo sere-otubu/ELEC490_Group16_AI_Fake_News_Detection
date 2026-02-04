@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Graves disease
-TITLE: Graves' ophthalmopathy: a preventable disease?
-PMID: 11916611
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11916611/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Most patients with Graves' disease have some degree of ocular involvement, but only 3-5% of them develop severe ophthalmopathy (1). The reasons why only such a minority of patients with Graves' disease have severe expression of the ophthalmopathy remain to be elucidated. One possible explanation is that non-severe ophthalmopathy and severe ophthalmopathy are two different disorders with different genetic backgrounds; alternatively, they might be part of a spectrum of different conditions ranging from absent ocular involvement to most severe ophthalmopathy. In this case, external variables (i.e. environmental factors) must contribute to the nature of the expression of the disease. How important are they? How far can our intervention on environmental factors go towards reducing the risk of progression of the ophthalmopathy? In other words, to which extent, if any, is Graves' ophthalmopathy preventable? The aim of this mini-review is to address the above issues.

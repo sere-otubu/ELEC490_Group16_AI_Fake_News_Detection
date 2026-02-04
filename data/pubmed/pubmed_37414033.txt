@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Health equity
-TITLE: Health Equity in Clinical Research Informatics.
-PMID: 37414033
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37414033/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Through a scoping review, we examine in this survey what ways health equity has been promoted in clinical research informatics with patient implications and especially published in the year of 2021 (and some in 2022). A scoping review was conducted guided by using methods described in the Joanna Briggs Institute Manual. The review process consisted of five stages: 1) development of aim and research question, 2) literature search, 3) literature screening and selection, 4) data extraction, and 5) accumulate and report results. From the 478 identified papers in 2021 on the topic of clinical research informatics with focus on health equity as a patient implication, 8 papers met our inclusion criteria. All included papers focused on artificial intelligence (AI) technology. The papers addressed health equity in clinical research informatics either through the exposure of inequity in AI-based solutions or using AI as a tool for promoting health equity in the delivery of healthcare services. While algorithmic bias poses a risk to health equity within AI-based solutions, AI has also uncovered inequity in traditional treatment and demonstrated effective complements and alternatives that promotes health equity. Clinical research informatics with implications for patients still face challenges of ethical nature and clinical value. However, used prudently-for the right purpose in the right context-clinical research informatics could bring powerful tools in advancing health equity in patient care.

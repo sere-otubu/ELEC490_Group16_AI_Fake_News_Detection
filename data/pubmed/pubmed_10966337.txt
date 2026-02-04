@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 10966337)
-    QUESTION: A short stay or 23-hour ward in a general and academic children's hospital: are they effective?
-    CONTEXT: We evaluated the usefulness of a short stay or 23-hour ward in a pediatric unit of a large teaching hospital, Westmead Hospital, and an academic Children's hospital, The New Children's Hospital, to determine if they are a useful addition to the emergency service.
-    ANSWER: This data demonstrates the robust nature of the short stay ward. At these two very different institutions we have shown improved bed efficient and patient care in a cost-effective way. We have also reported on greater parental satisfaction and early return of the child with their family to the community.
-    

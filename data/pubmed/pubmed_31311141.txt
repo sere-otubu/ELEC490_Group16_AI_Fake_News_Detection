@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Keto diet
-TITLE: Ketogenic Diet and Microbiota: Friends or Enemies?
-PMID: 31311141
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31311141/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Over the last years, a growing body of evidence suggests that gut microbial communities play a fundamental role in many aspects of human health and diseases. The gut microbiota is a very dynamic entity influenced by environment and nutritional behaviors. Considering the influence of such a microbial community on human health and its multiple mechanisms of action as the production of bioactive compounds, pathogens protection, energy homeostasis, nutrients metabolism and regulation of immunity, establishing the influences of different nutritional approach is of pivotal importance. The very low carbohydrate ketogenic diet is a very popular dietary approach used for different aims: from weight loss to neurological diseases. The aim of this review is to dissect the complex interactions between ketogenic diet and gut microbiota and how this large network may influence human health.

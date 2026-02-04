@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24487044)
-    QUESTION: Pharmacologic regimens for knee osteoarthritis prevention: can they be cost-effective?
-    CONTEXT: We sought to determine the target populations and drug efficacy, toxicity, cost, and initiation age thresholds under which a pharmacologic regimen for knee osteoarthritis (OA) prevention could be cost-effective.
-    ANSWER: The cost-effectiveness of DMOADs for OA prevention for persons at high risk for incident OA may be comparable to other accepted preventive therapies.
-    

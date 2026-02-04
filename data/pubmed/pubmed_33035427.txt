@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Health literacy
-TITLE: Understanding and Responding to Health Literacy as a Social Determinant of Health.
-PMID: 33035427
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33035427/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Evidence of a social gradient in health literacy has been found in all reported national population surveys. Health literacy is a midstream determinant of health but not a panacea for addressing health inequities created by the maldistribution of opportunity and resources. It is possible to optimize the contribution health literacy makes in mediating the causes and effects of established social determinants of health. Existing interventions demonstrate the feasibility of improving health literacy among higher-risk populations, but research remains underdeveloped and effects on health inequity are largely untested. Future health literacy intervention research should focus on (<i>a</i>) improving the quality of health communication that reaches a diversity of populations, especially by improving frontline professional skills and support; (<i>b</i>) enabling people to develop transferable skills in accessing, understanding, analyzing, and applying health information; and (<i>c</i>) ensuring that priority is proportionate to need by reaching and engaging the population groups who are disproportionately affected by low health literacy.

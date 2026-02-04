@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Nervous system
-TITLE: Advance in Tissue Differentiation and its Regulatory Mechanisms by Master Proteins of Nervous System during Weaning.
-PMID: 30678621
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30678621/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Weaning is a critical period for the growth and development of mammals, in which various physiological and biochemical indicators of the body have undergone great changes. The development, differentiation, and maturation of the nervous system are regulated by many proteins. Changes in related proteins affect the physiological functions of the nervous system. However, the regulation of selfrenewal and differentiation of the nervous system at this stage is still poorly understood. The mechanism of differentiation and regulation of the major proteins in the nervous system during this special period of weaning remains to be investigated. Therefore, this paper aims to summarize the alteration of the nervous system during weaning and provide the basis for subsequent research.

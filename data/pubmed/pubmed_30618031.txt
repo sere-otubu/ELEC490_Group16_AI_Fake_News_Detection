@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Endocrine system
-TITLE: The effects of cannabinoids on the endocrine system.
-PMID: 30618031
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30618031/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cannabinoids are the derivatives of the cannabis plant, the most potent bioactive component of which is tetrahydrocannabinol (THC). The most commonly used drugs containing cannabinoids are marijuana, hashish, and hashish oil. These compounds exert their effects via interaction with the cannabinoid receptors CB1 and CB2. Type 1 receptors (CB1) are localised mostly in the central nervous system and in the adipose tissue and many visceral organs, including most endocrine organs. Type 2 cannabinoid receptors (CB2) are positioned in the peripheral nervous system (peripheral nerve endings) and on the surface of the immune system cells. Recently, more and more attention has been paid to the role that endogenous ligands play for these receptors, as well as to the role of the receptors themselves. So far, endogenous cannabinoids have been confirmed to participate in the regulation of food intake and energy homeostasis of the body, and have a significant impact on the endocrine system, including the activity of the pituitary gland, adrenal cortex, thyroid gland, pancreas, and gonads. Interrelations between the endocannabinoid system and the activity of the endocrine system may be a therapeutic target for a number of drugs that have been proved effective in the treatment of infertility, obesity, diabetes, and even prevention of diseases associated with the cardiovascular system.

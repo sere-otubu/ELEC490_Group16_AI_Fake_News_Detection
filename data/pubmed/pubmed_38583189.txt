@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cognitive behavioral therapy
-TITLE: Parallel process as a tool for supervision and therapy: A cognitive behavioral and schema therapy perspective.
-PMID: 38583189
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38583189/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The parallel process is a psychosocial phenomenon where the relationship dynamics between the therapist and the client are repeated in the supervisory relationship between the therapist and the supervisor. The concept of the parallel process can be a useful tool for understanding and solving problems in therapy. However, it can induce supervision drift or block the supervision process. This article aims to familiarize the reader with parallel processes in cognitive-behavioural therapy (CBT) and schema therapy supervision and discuss how to manage this phenomenon in supervision. This article is a narrative review with illustrations of supervision interviews in which the parallel process unfolds. The text provides an overview of theoretical constructions and empirical studies related to the parallel process. We searched PubMed, PsycINFO, Web of Science, and Google Scholar for relevant resources using the keywords "parallel process," "cognitive behavioural therapy," "schema therapy," "transference," and "countertransference." Case vignettes were collected from trainees, training leaders and supervisors to provide real-life examples of how self-reflection and self-experience can enhance CBT and schema therapy training, practice, and supervision.

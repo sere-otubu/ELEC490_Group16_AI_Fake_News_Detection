@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Integumentary system
-TITLE: Learning media based on augmented reality (AR) increased the skill of physical examination of the integumentary system of pregnant women in midwifery students.
-PMID: 34929838
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34929838/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This research was to analyze the correlation of AR-based Learning Media to improving the physical examination of the integumentary system of pregnant women in midwifery students. The research method used Quasi-experimental with Non-Equivalent Control Group Design. The sample of 92 students was selected by a purposive sample, divided into two intervention and control groups. The intervention group was 62 students, and the control group was 30 students. Data collection was performed using a checklist to assess the skill of the physical examination of the integumentary system of pregnant women. To test the differences of skill before and after treatment in control and intervention groups used the Mcnemar test, whereas to know the differences in skill from time to time Cochran test was used. The results showed differences in the measurement of skills improvement in the control and intervention groups before and after the intervention was given. A more significant increase in skills occurred in the intervention group with a p-value <0.001 contributing after 1week of giving a demonstration, and application-based (AR) skills increased by 66.1%. After two weeks it increased by 93.5%, and after two weeks it increased by 100%. So it could be concluded statistically that AR-based learning media was significant in improving the physical examination skills integumentary systems in pregnant women.

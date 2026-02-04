@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fish oil benefits
-TITLE: Benefits, Challenges, and an Alternative Model of Fish Oil Enrichment in Animal-Based Food Products:A Review.
-PMID: 40887260
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40887260/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Fish oil (FO) has garnered attention in recent decades because of its omega-3 fatty acid (n-3 FAs) content, which is essential for healthy functions. However, the broad application of FO in food products has pros and cons because n-3 FAs are highly prone to oxidative deterioration, leading to product rejection. Enriching food products with FO is an effective strategy to boost the accumulation of n-3 FAs in the body. The n-3 FAs are considered essential lipids, and their consumption helps maintain normal triacylglycerol and cholesterol levels in the blood, decreases the risk of cancer and cardiac disorders, and augments brain function. The n-3 FAs obtained from FO can be added to animal diets or food products as free FO or protected FO. In this review, we focus on elucidating the benefits and challenges of adding FO to several animal-based foods, such as meat-, egg-, and milk-based products. In addition, we discuss the preparation of edible film/coating-forming emulsions and the design of FO-enriched double-layered edible films/coatings.

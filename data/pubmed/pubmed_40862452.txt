@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Narcolepsy
-TITLE: Narcolepsy 2025 (with an Australasian perspective).
-PMID: 40862452
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40862452/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Narcolepsy is a disorder of central hypersomnolence, which, while uncommon, can carry profound implications for affected individuals. Despite this, it remains under-recognised within the medical community and presents frequent diagnostic and treatment challenges in the Australasian setting. Narcolepsy is subdivided into narcolepsy type 1, characterised by cataplexy and deficiency of the neuropeptide orexin, and narcolepsy type 2, a distinct entity. The latter can be further difficult to distinguish from the separate central hypersomnolence disorder idiopathic hypersomnia. Implementation of diagnostic criteria to distinguish these conditions is not always straightforward, however, with consideration of comorbidities and test conditions required to avoid misdiagnoses. Within Australia and New Zealand, narcolepsy remains relatively ill-defined on a population level compared to other developed nations, and greater challenges exist in access to diagnostic testing and therapeutic options. Internationally, orexin receptor 2 agonists have displayed promise as oral therapy to target the neurobiological basis of narcolepsy, particularly narcolepsy type 1, with further testing underway. We discuss practical challenges and updates in narcolepsy from an Australasian perspective, with a view to improve awareness of narcolepsy in both primary and specialty medicine to support access to care for individuals with the condition.

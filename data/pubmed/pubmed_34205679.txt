@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Vegan diet
-TITLE: The Impact of Vegan Diet in the Prevention and Treatment of Type 2 Diabetes: A Systematic Review.
-PMID: 34205679
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34205679/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A protective effect of vegan diets on health outcomes has been observed in previous studies, but its impact on diabetes is still debated. The aim of this review is to assess the relationship between vegan diets and the risk for type 2 diabetes (T2D) along with its effect on glycemic control and diabetes-related complications. In accordance with PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines, Pubmed and Cochrane library databases were systematically searched for all relevant studies. Seven observational and eight randomized controlled (RCTs) studies were included. The methodological quality of studies was assessed using the National Institutes of Health quality assessment tool for observational cohort and cross-sectional studies and the Cochrane Risk of Bias Tool for RCTs. We found that a vegan diet is associated with lower T2D prevalence or incidence and in T2D patients decreases high glucose values and improves glucose homeostasis, as reported from the majority of included studies. This approach seems to be comparable to other recommended healthful eating models, but as it may have potential adverse effects associated with the long-term exclusion of some nutrients, appropriate nutritional planning and surveillance are recommended, particularly in specific groups of diabetic patients such as frail elderly, adolescents, and pregnant or breastfeeding women.

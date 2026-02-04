@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Social determinants of health
-TITLE: Addressing Social Determinants of Health in Practice.
-PMID: 37422309
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37422309/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review summarizes the current pediatric literature related to social determinants of health, including strengths and weaknesses of screening practices and intervention strategies, common concerns and potential unintended consequences, opportunities for further research, and provides evidence-informed practical strategies for clinicians.

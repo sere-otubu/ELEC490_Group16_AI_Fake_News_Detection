@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cell division meiosis
-TITLE: Cell division from a genetic perspective.
-PMID: 355261
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/355261/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-A novel view of the eukaryotic cell cycle is taking form as genetic strategies borrowed from investigations of microbial gene regulation and bacteriophage morphogenesis are being applied to the process of cell division. It is a genetic construct in which mutational lesions identify the primary events, thermolabile gene products reveal temporal order, mutant phenotypes yield pathways of causality, and regulatory events are localized within sequences of gene controlled steps.

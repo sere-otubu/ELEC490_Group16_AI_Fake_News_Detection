@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hearing aids
-TITLE: Hearing more to hear less: a scoping review of hearing aids for tinnitus relief.
-PMID: 34865589
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34865589/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-As tinnitus is often associated with hearing loss, hearing aids have been proposed for tinnitus relief in literature for more than 70 years. There is a need for recent literature to be reviewed and guide decision making in tinnitus management. This scoping review aims to provide an update of the available evidence on hearing aids for tinnitus, focussing on the effect of sound amplification or combination devices (i.e. amplification and sound generation within one device). Research studies were included if they investigated hearing aids or combination devices for tinnitus and were published after 2011. A total of 28 primary research studies were selected. Positive results of hearing aids in tinnitus patients were shown in 68% of the studies, whereas 14% demonstrated no change in tinnitus distress. However, the quality of the evidence across studies was variable. Scientific support for hearing aids and combination devices for tinnitus relief was found. The standalone effect of sound amplification and the added value of sound generators and adjustment of sound processing strategies needs further investigation. Stronger methodology in future studies is needed to reach consensus on how to optimise hearing solutions in a multidisciplinary approach.

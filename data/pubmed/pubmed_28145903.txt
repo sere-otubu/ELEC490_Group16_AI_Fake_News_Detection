@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Circadian rhythms
-TITLE: The aging clock: circadian rhythms and later life.
-PMID: 28145903
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28145903/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Circadian rhythms play an influential role in nearly all aspects of physiology and behavior in the vast majority of species on Earth. The biological clockwork that regulates these rhythms is dynamic over the lifespan: rhythmic activities such as sleep/wake patterns change markedly as we age, and in many cases they become increasingly fragmented. Given that prolonged disruptions of normal rhythms are highly detrimental to health, deeper knowledge of how our biological clocks change with age may create valuable opportunities to improve health and longevity for an aging global population. In this Review, we synthesize key findings from the study of circadian rhythms in later life, identify patterns of change documented to date, and review potential physiological mechanisms that may underlie these changes.

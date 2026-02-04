@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Acne vulgaris
-TITLE: Acne vulgaris--psychosomatic aspects.
-PMID: 17176410
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17176410/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-More than a cosmetic nuisance, acne can produce anxiety, depression, and other psychological problems that affect patients' lives in ways comparable to life-threatening or disabling diseases. Emotional problems due to the disease should be taken seriously and included in the treatment plan. A purely dermatological therapy by itself may not achieve its purpose. Even mild to moderate disease can be associated with significant depression and suicidal ideation, and psychologic change does not necessarily correlate with disease severity. Acne patients suffer particularly under social limitations and reduced quality of life. Psychological comorbidities in acne are probably greater than generally assumed. Attention should be paid to psychosomatic aspects especially if depressive-anxious disorders are suspected, particularly with evidence of suicidal tendencies, body dysmorphic disorders, or also in disrupted compliance.Therefore, patients who report particularly high emotional distress or dysmorphic tendencies due to the disease should be treated, if possible, by interdisciplinary therapy. The dermatologist should have some knowledge of the basics of psychotherapy and psychopharmacology, which sometimes must be combined with systemic and topical treatment of acne in conjunction with basic psychosomatic treatment.

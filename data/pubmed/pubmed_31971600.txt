@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Psoriasis
-TITLE: Pustular Psoriasis: The Dawn of a New Era.
-PMID: 31971600
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31971600/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Pustular psoriasis is a clinically heterogeneous entity of different, orphan disease subtypes, among which the most clearly defined are generalized pustular psoriasis, palmoplantar psoriasis, and acrodermatitis continua of Hallopeau. Although phenotypically and genetically distinct from psoriasis vulgaris, these subtypes may be associated with plaque psoriasis lesions, establishing the rationale for their inclusion in the psoriasis spectrum. Unlike psoriasis, however, their genetic background is thought to be mainly monogenic, as shown by the recent identification of mutations in 3 different genes of the skin innate immune system; IL36RN, CARD14 and AP1S3. These major advances in the understanding of the disease pathogenesis have led to the design and ongoing development of tailored therapeutic approaches, which are highly necessary given the refractory nature of pustular psoriasis in response to most available antipsoriatic drugs.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 11862129)
-    QUESTION: Do clinical variables predict pathologic radiographs in the first episode of wheezing?
-    CONTEXT: To determine if clinical variables assessed in relation to Albuterol aerosol treatments accurately identify children with pathologic radiographs during their initial episode of bronchospasm.
-    ANSWER: Clinical variables, either isolated or as components of a model, could not identify all children with pathologic radiographs.
-    

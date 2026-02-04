@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fibromyalgia
-TITLE: Fibromyalgia: Genetics and epigenetics insights may provide the basis for the development of diagnostic biomarkers.
-PMID: 30486733
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30486733/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Fibromyalgia is a disease characterized by chronic widespread pain with additional symptoms, such as joint stiffness, fatigue, sleep disturbance, cognitive dysfunction, and depression. Currently, fibromyalgia diagnosis is based exclusively on a comprehensive clinical assessment, according to 2016 ACR criteria, but validated biological biomarkers associated with fibromyalgia have not yet been identified. Genome-wide association studies investigated genes potentially involved in fibromyalgia pathogenesis highlighting that genetic factors are possibly responsible for up to 50% of the disease susceptibility. Potential candidate genes found associated to fibromyalgia are SLC64A4, TRPV2, MYT1L, and NRXN3. Furthermore, a gene-environmental interaction has been proposed as triggering mechanism, through epigenetic alterations: In particular, fibromyalgia appears to be characterized by a hypomethylated DNA pattern, in genes implicated in stress response, DNA repair, autonomic system response, and subcortical neuronal abnormalities. Differences in the genome-wide expression profile of microRNAs were found among multiple tissues, indicating the involvement of distinct processes in fibromyalgia pathogenesis. Further studies should be dedicated to strength these preliminary findings, in larger multicenter cohorts, to identify reliable directions for biomarker research and clinical practice.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Statins
-TITLE: Statins stimulate atherosclerosis and heart failure: pharmacological mechanisms.
-PMID: 25655639
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25655639/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In contrast to the current belief that cholesterol reduction with statins decreases atherosclerosis, we present a perspective that statins may be causative in coronary artery calcification and can function as mitochondrial toxins that impair muscle function in the heart and blood vessels through the depletion of coenzyme Q10 and 'heme A', and thereby ATP generation. Statins inhibit the synthesis of vitamin K2, the cofactor for matrix Gla-protein activation, which in turn protects arteries from calcification. Statins inhibit the biosynthesis of selenium containing proteins, one of which is glutathione peroxidase serving to suppress peroxidative stress. An impairment of selenoprotein biosynthesis may be a factor in congestive heart failure, reminiscent of the dilated cardiomyopathies seen with selenium deficiency. Thus, the epidemic of heart failure and atherosclerosis that plagues the modern world may paradoxically be aggravated by the pervasive use of statin drugs. We propose that current statin treatment guidelines be critically reevaluated.

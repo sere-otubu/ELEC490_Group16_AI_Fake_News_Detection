@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 25752725)
-    QUESTION: Schizophrenia patients with high intelligence: A clinically distinct sub-type of schizophrenia?
-    CONTEXT: Schizophrenia patients are typically found to have low IQ both pre- and post-onset, in comparison to the general population. However, a subgroup of patients displays above average IQ pre-onset. The nature of these patients' illness and its relationship to typical schizophrenia is not well understood. The current study sought to investigate the symptom profile of high-IQ schizophrenia patients.
-    ANSWER: These findings provide evidence for the existence of a high-IQ variant of schizophrenia that is associated with markedly fewer negative symptoms than typical schizophrenia, and lends support to the idea of a psychosis spectrum or continuum over boundaried diagnostic categories.
-    

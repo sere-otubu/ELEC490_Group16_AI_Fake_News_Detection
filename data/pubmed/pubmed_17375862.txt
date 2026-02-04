@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chronic disease management
-TITLE: Chronic disease management for depression in primary care: a summary of the current literature and implications for practice.
-PMID: 17375862
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17375862/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To review randomized controlled trials (RCTs) evaluating chronic disease management models for depression in primary care and to look at the implications for clinical practice in Canada. We reviewed all RCTs conducted between 1992 and 2006, including other reviews and analyses of pooled data. Using various search terms, we searched PsycINFO, Cinahl (1982 to May 2005), MEDLINE (1995 to 2005), EMBASE, The Cochrane Library, and PubMed. There is conclusive evidence for the benefits of changing systems of care delivery to support the more effective management of depression in primary care. Most studies have demonstrated improved outcomes in terms of symptom reduction, relapse prevention, functioning in the community, adherence to treatment, community and workplace involvement, and satisfaction with care received. Primary care practices need to examine how they can incorporate different concepts and models for managing depression. Components to consider include case registries, care managers or coordinators, treatment algorithms, follow-up and monitoring after a treated episode, care and relapse prevention plans, visits by psychiatrists, and training and ongoing education for all providers.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antivirals
-TITLE: Near-Infrared Dyes: Towards Broad-Spectrum Antivirals.
-PMID: 36613629
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36613629/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Broad antiviral activity in vitro is known for many organic photosensitizers generating reactive oxygen species under irradiation with visible light. Low tissue penetration of visible light prevents further development of antiviral therapeutics based on these compounds. One possible solution to this problem is the development of photosensitizers with near-infrared absorption (NIR dyes). These compounds found diverse applications in the photodynamic therapy of tumors and bacterial infections, but they are scarcely mentioned as antivirals. In this account, we aimed to evaluate the therapeutic prospects of various NIR-absorbing and singlet oxygen-generating chromophores for the development of broad-spectrum photosensitizing antivirals.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antivirals
-TITLE: Photosensitizing Antivirals.
-PMID: 34209713
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34209713/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Antiviral action of various photosensitizers is already summarized in several comprehensive reviews, and various mechanisms have been proposed for it. However, a critical consideration of the matter of the area is complicated, since the exact mechanisms are very difficult to explore and clarify, and most publications are of an empirical and "phenomenological" nature, reporting a dependence of the antiviral action on illumination, or a correlation of activity with the photophysical properties of the substances. Of particular interest is substance-assisted photogeneration of highly reactive singlet oxygen (<sup>1</sup>O<sub>2</sub>). The damaging action of <sup>1</sup>O<sub>2</sub> on the lipids of the viral envelope can probably lead to a loss of the ability of the lipid bilayer of enveloped viruses to fuse with the lipid membrane of the host cell. Thus, lipid bilayer-affine <sup>1</sup>O<sub>2</sub> photosensitizers have prospects as broad-spectrum antivirals against enveloped viruses. In this short review, we want to point out the main types of antiviral photosensitizers with potential affinity to the lipid bilayer and summarize the data on new compounds over the past three years. Further understanding of the data in the field will spur a targeted search for substances with antiviral activity against enveloped viruses among photosensitizers able to bind to the lipid membranes.

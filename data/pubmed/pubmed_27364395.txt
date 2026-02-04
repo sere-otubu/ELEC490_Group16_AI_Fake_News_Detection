@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Autoimmune diseases
-TITLE: Sex-based differences in autoimmune diseases.
-PMID: 27364395
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27364395/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Autoimmune diseases are characterized by an exaggerated immune response leading to damage and dysfunction of specific or multiple organs and tissues. Most autoimmune diseases are more prevalent in women than in men. Symptom severity, disease course, response to therapy and overall survival may also differ between males and females with autoimmune diseases. Sex hormones have a crucial role in this sex bias, with estrogens being potent stimulators of autoimmunity and androgens playing a protective role. Accumulating evidence indicates that genetic, epigenetic and environmental factors may also contribute to sex-related differences in risk and clinical course of autoimmune diseases. In this review, we discuss possible mechanisms for sex specific differences in autoimmunity with a special focus on three paradigmatic diseases: systemic lupus erythematosus, rheumatoid arthritis, and multiple sclerosis.

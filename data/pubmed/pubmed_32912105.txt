@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Creatine
-TITLE: Creatine and multiple sclerosis.
-PMID: 32912105
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32912105/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Multiple sclerosis (MS) is a complex and debilitating neurodegenerative disease, with unknown cause(s), unpredictable prognosis, and rather limited treatment options. MS is often accompanied by various metabolic disturbances, with impaired creatine metabolism may play a role in its pathogenesis and the clinical course of the disease. This review summarizes human trials describing alterations in creatine levels in the nervous system and other tissues during MS, affects how certain medications for MS affect brain creatine concentrations, and discusses a possible demand for exogenous creatine as an adjunct therapeutic agent in the management of MS. Creatine metabolism seems to be dysfunctional in MS, indicating a low metabolic state of the brain and other relevant organs in this unpredictable demyelinating disease. A disease-driven brain creatine deficit could be seen as a distinctive pathological facet of severe MS that might be approached with targeted therapies in aim to restore creatine homeostasis.

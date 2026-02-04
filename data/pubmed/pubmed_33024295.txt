@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fibromyalgia
-TITLE: Fibromyalgia: an update on clinical characteristics, aetiopathogenesis and treatment.
-PMID: 33024295
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33024295/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Fibromyalgia is characterized by chronic widespread pain, fatigue, sleep disturbances and functional symptoms. The etiopathogenesis, diagnostic criteria and classification criteria of fibromyalgia are still debated and, consequently, so are the strategies for treating this condition. Fibromyalgia is the third most frequent musculoskeletal condition, and its prevalence increases with age. However, although diagnosis has improved with the evolution of more accurate diagnostic criteria, a considerable proportion of physicians still fail to recognize the syndrome. Many factors contribute to the development of fibromyalgia in a unique manner: genetic predisposition, personal experiences, emotional-cognitive factors, the mind-body relationship and a biopsychological ability to cope with stress. The multiple components of the pathogenesis and maintenance of the condition necessitate a multi-modal treatment approach. Individually tailored treatment is an important consideration, with the increasing recognition that different fibromyalgia subgroups exist with different clinical characteristics. Consequently, although an evidence-based approach to fibromyalgia management is always desirable, the approach of physicians is inevitably empirical, and must have the aim of creating a strong alliance with the patient and formulating shared, realistic treatment goals.

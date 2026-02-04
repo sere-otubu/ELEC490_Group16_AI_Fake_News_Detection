@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anemia
-TITLE: Anaemia in pregnancy.
-PMID: 22138002
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/22138002/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Anaemia in pregnancy, defined as a haemoglobin concentration (Hb) < 110 g/L, affects more than 56 million women globally, two thirds of them being from Asia. Multiple factors lead to anaemia in pregnancy, nutritional iron deficiency anaemia (IDA) being the commonest. Underlying inflammatory conditions, physiological haemodilution and several factors affecting Hb and iron status in pregnancy lead to difficulties in establishing a definitive diagnosis. IDA is associated with increased maternal and perinatal morbidity and mortality, and long-term adverse effects in the new born. Strategies to prevent anaemia in pregnancy and its adverse effects include treatment of underlying conditions, iron and folate supplementation given weekly for all menstruating women including adolescents and daily for women during pregnancy and the post partum period, and delayed clamping of the umbilical cord at delivery. Oral iron is preferable to intravenous therapy for treatment of IDA. B12 and folate deficiencies in pregnancy are rare and may be due to inadequate dietary intake with the latter being more common. These vitamins play an important role in embryo genesis and hence any relative deficiencies may result in congenital abnormalities. Finding the underlying cause are crucial to the management of these deficiencies. Haemolytic anaemias rare also rare in pregnancy, but may have life-threatening complications if the diagnosis is not made in good time and acted upon appropriately.

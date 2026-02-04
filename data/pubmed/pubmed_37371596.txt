@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chromosomes
-TITLE: Flexible Attachment and Detachment of Centromeres and Telomeres to and from Chromosomes.
-PMID: 37371596
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37371596/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Accurate transmission of genomic information across multiple cell divisions and generations, without any losses or errors, is fundamental to all living organisms. To achieve this goal, eukaryotes devised chromosomes. Eukaryotic genomes are represented by multiple linear chromosomes in the nucleus, each carrying a centromere in the middle, a telomere at both ends, and multiple origins of replication along the chromosome arms. Although all three of these DNA elements are indispensable for chromosome function, centromeres and telomeres possess the potential to detach from the original chromosome and attach to new chromosomal positions, as evident from the events of telomere fusion, centromere inactivation, telomere healing, and neocentromere formation. These events seem to occur spontaneously in nature but have not yet been elucidated clearly, because they are relatively infrequent and sometimes detrimental. To address this issue, experimental setups have been developed using model organisms such as yeast. In this article, we review some of the key experiments that provide clues as to the extent to which these paradoxical and elusive features of chromosomally indispensable elements may become valuable in the natural context.

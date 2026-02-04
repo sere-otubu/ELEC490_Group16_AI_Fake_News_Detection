@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antibiotic resistance
-TITLE: Antibiotic resistance.
-PMID: 29123317
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29123317/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-New antibiotics and further education about prescribing are needed.

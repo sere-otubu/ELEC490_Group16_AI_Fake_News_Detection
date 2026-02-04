@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hyperthyroidism
-TITLE: Three cases of transient hyperthyroidism after triptorelin treatment - case report and literature review.
-PMID: 29484896
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29484896/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The impacts of gonadtropin-releasing hormone (GnRH) agonists on thyroid function have long been observed and the conclusions were controversial. We here reported three cases of transient hyperthyroidisms after triptorelin therapy. The three patients showed decreased thyroid-stimulating hormone (TSH), with or without elevated free triiodothyronine (FT3) and free thyroxine (FT4) 2 weeks after injection of triptorelin. Thyroid-specific autoantibody assays showed antithyroid microsome autoantibody (TMAb) and (or) antithyroglobulin autoantibody (TgAb) were positive in two patients while and antithyrotropin receptor autoantibody (TRAb) were negative in all three cases. One patient with all thyroid-specific autoantibodies negative showed enlarged thyroid in thyroid ultrasound scanning. Only mild symptoms of hyperthyroidism presented in one patient. Four weeks after triptorelin injection, thyroid function returned to normal in all three patients. These observations indicated transient hyperthyroidism due to thyroid destruction in patients receive triptorelin therapy. The hyperthyroidism was most possibly due to onset of the autoimmune thyroiditis, emphasizing monitoring thyroid function during triptorelin treatment in females.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Electronic health records
-TITLE: The use of electronic health records in advanced practice nursing education: a scoping review.
-PMID: 38369377
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38369377/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Electronic health records are integral to the advanced practice registered nurse role, yet access and training during academic preparation are profoundly limited. Lack of exposure to electronic health records prevents students from becoming fully prepared for the responsibilities of clinical practice and potentially impacts quality of care, patient safety, and communication among patients and providers. This scoping review of 20 articles on electronic health record use in advanced practice registered nursing student education shows significant gaps in current research. Nine articles were classified as research. The remaining 11 were non-research reports of teaching innovations describing the use of simulated electronic health records in graduate nursing education or the use of an electronic health record in interprofessional education activities. Most of the limited research did not use valid and reliable instruments or robust designs, employed disparate approaches and tools to study the phenomenon, and measured low-level outcomes such as student navigation and confidence in using electronic health records. The non-research literature draws attention to the deficits in educational resources, including unaffordable electronic health records for academic use. Although rigorous evidence is lacking, a common theme throughout the reviewed literature was the benefit of simulation to develop electronic health record skills.

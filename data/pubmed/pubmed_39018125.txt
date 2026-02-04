@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hearing loss
-TITLE: Otology: Hearing Loss.
-PMID: 39018125
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39018125/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hearing loss is the cause of significant morbidity throughout the United States and the world. Because of numerous factors, such as ongoing noise exposure, poorly controlled chronic disease, and an aging population, the burden of hearing loss is expected to continue to increase. Hearing loss commonly is categorized as conductive, sensorineural, or mixed. The type of hearing loss can be determined through a combination of patient history and physical examination, and then confirmed with audiometry and tympanometry. Advanced imaging is not typically necessary, but it may be helpful in specific instances. The presentation of sudden sensorineural hearing loss should prompt urgent referral to an otolaryngologist and audiologist. Management of this condition is selective but may initially include oral corticosteroids. Management for chronic hearing loss involves the use of hearing aids, which can offer a large benefit to users but historically have been expensive and not covered by many insurance plans. Recent US legislation has made hearing aids more accessible and affordable by allowing direct-to-consumer marketing and offering over-the-counter hearing aids without a clinical evaluation.

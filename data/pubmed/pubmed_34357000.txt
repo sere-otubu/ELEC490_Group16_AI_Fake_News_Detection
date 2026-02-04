@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Fatty liver disease
-TITLE: Non-Alcoholic Fatty Liver Disease in Children.
-PMID: 34357000
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34357000/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-<i>Background and Objectives</i>: The prevalence of pediatric non-alcoholic fatty liver disease is increasing. A lot of new data are published regularly. <i>Materials and Methods</i>: Original clinical studies, review articles, and guidelines in children were searched for and the most relevant included in this review. <i>Results</i>: A total of 138 retrieved papers were classified into pathogenesis, epidemiology, diagnosis, and treatment. Pathogenesis is currently explained with the "multi hit hypothesis", with complex interactions of genetic and environmental factors which trigger inflammation in steatotic liver. The prevalence is rising. A diagnosis can be made with laboratory tests, imaging, and liver biopsy after the exclusion of other causes of liver steatosis. The mainstay of treatment is lifestyle modification consisting of dietary intervention and increased physical activity. The progression to liver cirrhosis can occur even in children. <i>Conclusions</i>: Non-alcoholic fatty liver disease in children is a part of a metabolic syndrome in the majority of patients. Due to its complex etiology and high prevalence, multidisciplinary teams, together with public health professionals, should be involved in its treatment.

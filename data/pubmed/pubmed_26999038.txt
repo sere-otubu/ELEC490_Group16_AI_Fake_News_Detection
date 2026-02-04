@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26999038)
-    QUESTION: Could chest wall rigidity be a factor in rapid death from illicit fentanyl abuse?
-    CONTEXT: There has been a significant spike in fentanyl-related deaths from illicit fentanyl supplied via the heroin trade. Past fentanyl access was primarily oral or dermal via prescription fentanyl patch diversion. One factor potentially driving this increase in fatalities is the change in route of administration. Rapid intravenous (IV) fentanyl can produce chest wall rigidity. We evaluated post-mortem fentanyl and norfentanyl concentrations in a recent surge of lethal fentanyl intoxications.
-    ANSWER: In summary we believe sudden onset chest wall rigidity may be a significant and previously unreported factor leading to an increased mortality, from illicit IV fentanyl use. Fentanyl and norfentanyl ratios and concentrations suggest a more rapid onset of death given the finding of fentanyl without norfentanyl in many of the fatalities. Chest wall rigidity may help explain the cause of death in these instances, in contrast to the typical opioid-related overdose deaths. Intravenous heroin users should be educated regarding this potentially fatal complication given the increasingly common substitution and combination with heroin of fentanyl.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Narcolepsy
-TITLE: Narcolepsy and Idiopathic Hypersomnia.
-PMID: 37120161
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37120161/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Narcolepsy types 1 and 2 and idiopathic hypersomnia are primary Central Nervous System (CNS) disorders of hypersomnolence characterized by profound daytime sleepiness and/or excessive sleep need. Onset of symptoms begins typically in childhood or adolescence, and children can have unique presentations compared with adults. Narcolepsy type 1 is likely caused by immune-mediated loss of orexin (hypocretin) neurons in the hypothalamus; however, the causes of narcolepsy type 2 and idiopathic hypersomnia are unknown. Existing treatments improve daytime sleepiness and cataplexy but there is no cure for these disorders.

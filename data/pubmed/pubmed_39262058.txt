@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Mindful eating
-TITLE: Mindful eating and orthorexia nervosa: How do they interact?
-PMID: 39262058
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39262058/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The present study explored the associations between orthorexia nervosa, social media addiction, emotion regulation difficulties, perfectionism and BMI with four facets of mindful eating, using path analysis to assess these relationships. A sample of 551 students (127 males, 424 females, mean age = 22.6 years) completed an online self-report questionnaire evaluating these constructs. Analyses revealed that mindful eating contributed to emotion dysregulation and orthorexia nervosa and was related to social media addiction. Significant indirect paths were identified from mindful eating, social media addiction and adaptive perfectionism through emotion dysregulation to maladaptive perfectionism. While no direct paths were observed between mindful eating and perfectionism, a direct path was found between adaptive perfectionism and orthorexia nervosa. These findings suggest a more nuanced understanding of eating behaviours is required. Individuals susceptible to eating disorders should approach mindful eating with caution and seek support from healthcare providers to ensure it is used in a way that supports overall wellbeing. Future research should aim to replicate and further clarify these associations to reveal the long-term effects of mindful eating.

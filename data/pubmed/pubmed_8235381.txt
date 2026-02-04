@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anemia
-TITLE: [Inflammatory hyposideremic anemia].
-PMID: 8235381
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8235381/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Inflammatory low iron is the second cause, after true iron deficiency, of acquired anaemia. It is mainly due to insufficient erythropoiesis resulting from inhibition of the erythroid progenitor and to disturbances in the synthesis and action of erythropoietin. These changes seem to be dependent on factors, such as TNF-alpha, interleukin-1 and interferon-gamma, which are released in inflammatory processes. Alterations in iron metabolism seem to be secondary, but also partly provoked by the same inhibitory agents. All these anaemias share a common character, i.e. lowering of serum iron level without increase of transferrin level, while plasma ferritin level is within normal limits. In addition to symptomatic therapy by red cell transfusions, numerous trials have shown that recombinant erythropoietin is effective in the treatment of the anaemia that accompanies cancers, chronic inflammatory and rheumatic diseases and of the anaemia provoked by HIV infection.

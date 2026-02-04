@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Influenza
-TITLE: Continuing challenges in influenza.
-PMID: 24891213
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24891213/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Influenza is an acute respiratory disease in mammals and domestic poultry that emerges from zoonotic reservoirs in aquatic birds and bats. Although influenza viruses are among the most intensively studied pathogens, existing control options require further improvement. Influenza vaccines must be regularly updated because of continuous antigenic drift and sporadic antigenic shifts in the viral surface glycoproteins. Currently, influenza therapeutics are limited to neuraminidase inhibitors; novel drugs and vaccine approaches are therefore urgently needed. Advances in vaccinology and structural analysis have revealed common antigenic epitopes on hemagglutinins across all influenza viruses and suggest that a universal influenza vaccine is possible. In addition, various immunomodulatory agents and signaling pathway inhibitors are undergoing preclinical development. Continuing challenges in influenza include the emergence of pandemic H1N1 influenza in 2009, human infections with avian H7N9 influenza in 2013, and sporadic human cases of highly pathogenic avian H5N1 influenza. Here, we review the challenges facing influenza scientists and veterinary and human public health officials; we also discuss the exciting possibility of achieving the ultimate goal of controlling influenza's ability to change its antigenicity.

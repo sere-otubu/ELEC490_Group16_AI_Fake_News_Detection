@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cataract surgery
-TITLE: Postoperative astigmatic considerations in manual small-incision cataract surgery - A review.
-PMID: 36308097
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36308097/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cataract remains a major cause of visual impairment worldwide including in India. The sutureless manual small-incision cataract surgery (MSICS) as an alternative to phacoemulsification, gives equivalent visual results at lower expenses. Still the procedure is often discredited for higher astigmatism due to the larger size of the incision. High astigmatism is an important cause of poor uncorrected visual acuity after cataract surgery. However, there are enough studies in the literature to prove that surgically induced astigmatism (SIA) can be minimized and also eliminated by adopting appropriate wound construction techniques during surgery. Even pre-existing astigmatism if any can be neutralized by changing wound architecture during surgery. Here, we review the various techniques of scleral tunnel construction described in the literature to care for postoperative astigmatism in MSICS.

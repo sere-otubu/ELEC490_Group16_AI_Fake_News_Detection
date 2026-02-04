@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ALS
-TITLE: What is "Hyper" in the ALS Hypermetabolism?
-PMID: 29081604
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29081604/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The progressive and fatal loss of upper (brain) and lower (spinal cord) motor neurons and muscle denervation concisely condenses the clinical picture of amyotrophic lateral sclerosis (ALS). Despite the multiple mechanisms believed to underlie the selective loss of motor neurons, ALS aetiology remains elusive and obscure. Likewise, there is also a cluster of alterations in ALS patients in which muscle wasting, body weight loss, eating dysfunction, and abnormal energy dissipation coexist. Defective energy metabolism characterizes the ALS progression, and such paradox of energy balance stands as a challenge for the understanding of ALS pathogenesis. The hypermetabolism in ALS will be examined from tissue-specific energy imbalance (e.g., skeletal muscle) to major energetic pathways (e.g., AMP-activated protein kinase) and whole-body energy alterations including glucose and lipid metabolism, nutrition, and potential involvement of interorgan communication. From the point of view here expressed, the hypermetabolism in ALS should be evaluated as a magnifying glass through which looking at the ALS pathogenesis is from a different perspective in which defective metabolism can disclose novel mechanistic interpretations and lines of intervention.

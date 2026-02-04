@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cirrhosis
-TITLE: Liver cirrhosis.
-PMID: 9683971
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/9683971/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Liver fibrosis and its related complications continue to represent a significant worldwide healthcare burden. Over the past decade there has been considerable improvement in our understanding of the cellular mechanisms and pathophysiology underlying hepatic fibrosis. This greater insight into the relevant basic sciences may lead to the development of novel treatment strategies designed to block the fibrogenic cascade or even enhance matrix degradation. In addition, there have been significant advances in the management of the complications of cirrhosis, with specific treatments now available for some conditions. Perhaps most notably, liver transplantation is now a highly successful treatment for end-stage liver disease and should be considered in all patients with chronic liver disease.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Clinical trial phases
-TITLE: Clinical Trial Risk in Hepatitis C: Endpoint Selection and Drug Action.
-PMID: 27446855
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/27446855/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Background and Aims. This study analyzed the risk of clinical trial failure of new drugs for hepatitis C between January 1998 and January 2015. Methods. Hepatitis C drug development trials that were in phases I-III of clinical trial testing were obtained from the publicly accessible clinical trial repository and other publicly available databases. Drug compounds were excluded from the study if they began their phase I testing before 1998, if they were not industry sponsored, or if they treated secondary complications of hepatitis C. Clinical trial success rates were analyzed in comparison to industry expectations. Further analysis was conducted on the molecule classifications, the mechanisms of action, and the trial endpoints. Results. One hundred and twenty-three unique drug compounds were found to fulfill the inclusion criteria, eight of which had FDA approval. The overall cumulative pass rate for hepatitis C drugs was 20%, which is double the industry expectation rate. Viral inhibitor small molecule drugs significantly reduced the risk of drug failure during clinical trials compared to other mechanisms of action. Conclusion. On average, one in every five drugs that began clinical testing will be approved for market. Viral inhibitor small molecule drugs are the most promising and hold the least risk.

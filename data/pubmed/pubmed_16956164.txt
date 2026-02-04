@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 16956164)
-    QUESTION: Do all ethnic groups in New Zealand exhibit socio-economic mortality gradients?
-    CONTEXT: First, to establish whether a deprivation gradient in all-cause mortality exists for all ethnic groups within New Zealand; second, if such gradients do exist, whether their absolute slopes are the same; and third, if such gradients exist, what impact the unequal deprivation distributions of the different ethnic groups have on the observed ethnic inequalities in life expectancy at birth.
-    ANSWER: While socio-economic gradients in health exist among all ethnic groups, they are relatively shallow among Pacific and (especially) Asian peoples. For these ethnic groups, caution should be exercised in applying deprivation or other socio-economic measures as proxy indicators of need for health services.
-    

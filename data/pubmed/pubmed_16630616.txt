@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Carbohydrates types
-TITLE: Carbohydrate based vaccines.
-PMID: 16630616
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16630616/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In the past decades, a gradual increase in the resistance to antibiotics has been observed, leading to a serious thread for successful treatment of bacterial infections. This feature in addition to difficulties in developing adequate drugs against (tropical) diseases caused by parasites has stimulated the interest in vaccines to prevent infections. In principle, various types of cell surface epitopes, characteristic for the invading organism or related to aberrant growth of cells, can be applied to develop vaccines. The progress in establishing the structure of carbohydrate immuno-determinants in conjunction with improvements in carbohydrate synthesis has rendered it feasible to develop new generations of carbohydrate-based vaccines.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Basal cell carcinoma
-TITLE: Anatomy of the Skin and the Pathogenesis of Nonmelanoma Skin Cancer.
-PMID: 28676156
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28676156/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Skin is composed of the epidermis, dermis, and adnexal structures. The epidermis is composed of 4 layers-the stratums basale, spinosum, granulosum, and corneum. The dermis is divided into a superficial papillary dermis and deeper reticular dermis. Collagen and elastin within the reticular dermis are responsible for skin tensile strength and elasticity, respectively. The 2 most common kinds of nonmelanoma skin cancers are basal cell and squamous cell carcinoma. Both are caused by a host of environmental and genetic factors, although UV light exposure is the single greatest predisposing factor.

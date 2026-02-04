@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 14745753)
-    QUESTION: Is half-dose contrast-enhanced three-dimensional MR angiography sufficient for the abdominal aorta and pelvis?
-    CONTEXT: To evaluate the usefulness of half-dose contrast-enhanced magnetic resonance (MR) angiography for depicting the abdominal aorta and its major branches.
-    ANSWER: Half-dose MR angiography using diluted contrast medium injected at a rate of 1 mL/second depicted the abdominal aorta and its branches as clearly as using a full single dose.
-    

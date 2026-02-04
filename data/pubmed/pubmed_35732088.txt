@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Whey protein
-TITLE: The non-covalent interactions between whey protein and various food functional ingredients.
-PMID: 35732088
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35732088/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In daily diet, Whey protein (WP) is often coexisted with various Food functional ingredients (FFI) such as proteins, polyphenols, polysaccharides and vitamins, which inevitably affect or interact with each other. Generally speaking, they may be interact by two different mechanisms: non-covalent and covalent interactions, of which the former is more common. We reviewed the non-covalent interactions between WP and various FFI, explained the effect of each WP-FFI interaction, and provided possible applications of WP-FFI complex in the food industry. The biological activity, physical and chemical stability of FFI, and the structure and functionalities of WP were enhanced through the non-covalent interactions. The development of non-covalent interactions between WP and FFI provides opportunities for the design of new ingredients and biopolymer complex, which can be applied in different fields. Future research will further focus on the influence of external or environmental factors in the food system and processing methods on interactions.

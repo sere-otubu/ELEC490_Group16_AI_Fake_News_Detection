@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Atherosclerosis
-TITLE: Cardiovascular Diseases-A Focus on Atherosclerosis, Its Prophylaxis, Complications and Recent Advancements in Therapies.
-PMID: 35563086
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35563086/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Long-term consequences of atherosclerosis remain the major culprit of mortality in developed and developing countries [...].

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anticoagulants
-TITLE: Anticoagulant-Related Nephropathy.
-PMID: 30420420
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30420420/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Anticoagulant-related nephropathy (ARN) is a newly recognized form of AKI in which overanticoagulation causes profuse glomerular hemorrhage, which manifests on renal biopsy as numerous renal tubules filled with red cells and red cell casts. The glomeruli show changes, but they are not sufficient to account for the glomerular hemorrhage. We were the first to study ARN, and since then, our work has been confirmed by numerous other investigators. Oral anticoagulants have been in widespread use since the 1950s; today, >2 million patients with atrial fibrillation take an oral anticoagulant. Despite this history of widespread and prolonged exposure to oral anticoagulants, ARN was discovered only recently, suggesting that the condition may be a rare occurrence. This review chronicles the discovery of ARN, its confirmation by others, and our animal model of ARN. We also provide new data on analysis of "renal events" described in the <i>post hoc</i> analyses of three pivotal anticoagulation trials and three retrospective analyses of large clinical databases. Taken together, these analyses suggest that ARN is not a rare occurrence in the anticoagulated patient with atrial fibrillation. However, much work needs to be done to understand the condition, particularly prospective studies, to avoid the biases inherent in <i>post hoc</i> and retrospective analyses. Finally, we provide recommendations regarding the diagnosis and management of ARN on the basis of the best information available.

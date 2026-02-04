@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Borderline personality disorder
-TITLE: Ambulatory Assessment of Borderline Personality Disorder.
-PMID: 29471296
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29471296/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Ambulatory assessment (AA) is an important tool that promises to minimize retrospective biases while gathering ecologically valid data, including self-reports, physiological or biological data, and observed behavior, for example, from daily life experiences. AA is well suited for studying borderline personality disorder (BPD) because it can measure moods and emotion (as well as dynamic mood processes, mood changes, and mood instability), problematic behaviors (including interpersonal conflicts, addictive behaviors, binge and purge episodes, and motoric activity), and problematic cognitions/expectancies/urges (e.g., rejection sensitivity, cravings, and self-harm urges) as they occur in daily life. In this article, I review existing AA research on BPD, and I discuss future applications of AA as well as limitations and considerations for future use.

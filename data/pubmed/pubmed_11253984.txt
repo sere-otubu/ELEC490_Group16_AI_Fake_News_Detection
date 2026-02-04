@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cushings syndrome
-TITLE: Cushing's syndrome.
-PMID: 11253984
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11253984/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-During the past 30 years, there have been advances in understanding of the pathogenesis of Cushing's syndrome and in differential diagnosis of its various forms. Improved diagnostic tests and procedures have increased the ability to recognise even mild hypercortisolism and have provided the means to obtain an accurate diagnosis. Despite these advances, the occurrence of unusual clinical presentations and laboratory shortcomings may produce diagnostic problems and challenge clinical intuition. This article reviews recent pathogenic views, new tests, and new diagnostic problems in the evaluation of Cushing's syndrome. Atypical clinical presentations of hypercortisolism and some laboratory shortcomings that may confuse the diagnosis of Cushing's syndrome are also reported.

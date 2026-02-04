@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Nervous system
-TITLE: Molecular and Histologic Diagnosis of Central Nervous System Infections.
-PMID: 32389267
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32389267/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Infections of the central nervous system cause significant morbidity and mortality in immunocompetent and immunocompromised individuals. A wide variety of microorganisms can cause infections, including bacteria, mycobacteria, fungi, viruses, and parasites. Although less invasive testing is preferred, surgical biopsy may be necessary to collect diagnostic tissue. Histologic findings, including special stains and immunohistochemistry, can provide a morphologic diagnosis in many cases, which can be further classified by molecular testing. Correlation of molecular, culture, and other laboratory results with histologic findings is essential for an accurate diagnosis, and to minimize false positives from microbial contamination.

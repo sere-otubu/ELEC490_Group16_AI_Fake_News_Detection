@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Body composition
-TITLE: Body composition and morphological assessment of nutritional status in adults: a review of anthropometric variables.
-PMID: 25420774
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/25420774/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Evaluation of body composition is an important part of assessing nutritional status and provides prognostically useful data and an opportunity to monitor the effects of nutrition-related disease progression and nutritional intervention. The aim of this narrative review is to critically evaluate body composition methodology in adults, focusing on anthropometric variables. The variables considered include height, weight, body mass index and alternative indices, trunk measurements (waist and hip circumferences and sagittal abdominal diameter) and limb measurements (mid-upper arm and calf circumferences) and skinfold thickness. The importance of adhering to a defined measurement protocol, checking measurement error and the need to interpret measurements using appropriate population-specific cut-off values to identify health risks were highlighted. Selecting the optimum method for assessing body composition using anthropometry depends on the purpose (i.e. evaluating obesity or undernutrition) and requires practitioners to have a good understanding of both practical and theoretical limitations and to be able to interpret the results wisely.

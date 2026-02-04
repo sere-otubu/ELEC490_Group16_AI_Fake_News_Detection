@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Kidney stones
-TITLE: Kidney stones and pregnancy.
-PMID: 23928391
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/23928391/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Kidney stones are common and do not spare the pregnant population. Although a simple stone event is usually straightforward in the general population, it is complex during pregnancy. Acute nephrolithiasis is associated with a unique set of complications during pregnancy and, because of imaging limitations, diagnosis is challenging. Multidisciplinary care is the key in proper management decisions. The pathophysiology of kidney stone formation in the pregnant state is also unique. Herein, we discuss the complexity of kidney stones and pregnancy.

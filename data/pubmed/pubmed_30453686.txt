@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Gluten free diet
-TITLE: Gluten-Free Diet in Celiac Disease-Forever and for All?
-PMID: 30453686
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30453686/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The gluten-free diet is the only effective treatment available for celiac disease. However, it is difficult to adhere to and a closer look on the diet's implementation and indications reveals several ambiguities: Not only is there controversy on the threshold of gluten that can be tolerated in the frame of a strict gluten-free diet, but it is also unclear whether the gluten-free diet is an appropriate treatment in patient subgroups with asymptomatic or potential celiac disease. Reports from a number of research groups suggest that a certain proportion of patients may effectively develop tolerance to gluten and thus become suitable for gluten reintroduction over time. In this review, we set out to create an overview about the current state of research as regards the definition of a strict gluten-free diet in terms of the gluten thresholds considered tolerable and the indication for a gluten-free diet in the absence of histological abnormalities or symptoms. Furthermore, we discuss the concept that a gluten-free diet must be followed for life by all patients.

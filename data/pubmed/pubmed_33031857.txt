@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Aerobic exercise
-TITLE: Aerobic exercise attenuates neurodegeneration and promotes functional recovery - Why it matters for neurorehabilitation & neural repair.
-PMID: 33031857
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33031857/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Aerobic exercise facilitates optimal neurological function and exerts beneficial effects in neurologic injuries. Both animal and clinical studies have shown that aerobic exercise reduces brain lesion volume and improves multiple aspects of cognition and motor function after stroke. Studies using animal models have proposed a wide range of potential molecular mechanisms that underlie the neurological benefits of aerobic exercise. Furthermore, additional exercise parameters, including time of initiation, exercise dosage (exercise duration and intensity), and treatment modality are also critical for clinical application, as identifying the optimal combination of parameters will afford patients with maximal functional gains. To clarify these issues, the current review summarizes the known neurological benefits of aerobic exercise under both physiological and pathological conditions and then considers the molecular mechanisms underlying these benefits in the contexts of stroke-like focal cerebral ischemia and cardiac arrest-induced global cerebral ischemia. In addition, we explore the key roles of exercise parameters on the extent of aerobic exercise-induced neurological benefits to elucidate the optimal combination for aerobic exercise intervention. Finally, the current challenges for aerobic exercise implementation after stroke are discussed.

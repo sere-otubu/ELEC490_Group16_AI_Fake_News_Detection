@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Crohns disease
-TITLE: Human defensins in Crohn's disease.
-PMID: 15976487
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/15976487/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Crohn's disease, a transmural inflammation of the gut, has been linked to good childhood hygiene, frequent use of antibiotics before diagnosis, adherent or invasive mucosal bacteria and a break in the tolerance of luminal bacteria. A decrease or lack of mucosal peptide antibiotics may play a central role in the etiopathogenesis of Crohn's disease. The dysregulated adaptive immune system may reflect only the primary break of the mucosal defence since the immune response is mostly directed against luminal bacteria. Crohn's disease patients with ileal involvement, as compared to controls and Crohn's disease patients without ileal disease, are characterized by a diminished expression of the ileal Paneth cell defensins. This decrease is even more pronounced in Crohn's disease patients with a mutation in the NOD2 gene, which is associated with Crohn's disease and ileal involvement. NOD2 is an intracellular peptidoglycan receptor and is expressed in Paneth cells. In contrast to ulcerative colitis, Crohn's disease of the colon is characterized by an impaired induction of human beta defensins 2 and 3. The hypothesis of an impaired mucosal antibacterial activity is also consistent with the benefit from antibiotic or probiotic treatment in certain disease states.

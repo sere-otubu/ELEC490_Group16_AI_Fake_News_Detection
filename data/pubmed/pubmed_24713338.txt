@@ -1,8 +1,0 @@
-SEARCH_TOPIC: MRI scan
-TITLE: [MRI/US-fusion for targeted prostate biopsy].
-PMID: 24713338
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24713338/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-An innovative fusion of previously acquired magnetic resonance imaging (MRI) images with real-time transrectal ultrasound (US) may lead to improved prostate cancer detection, thus necessitating fewer biopsies. Suspicious lesions can be identified, localised - and possibly classified - via an MRI scan. Subsequently, a biopsy needle can be guided accurately into the suspicious area of the prostate in real-time under MRI/US-fusion guidance. The current systematic transrectal ultrasound-guided biopsy technique may fail to detect clinically relevant cancers, while biopsies are often taken of indolent non-significant tumours. This relative underdiagnosis and overdiagnosis could partly be overcome by first performing an MRI scan, followed by supplementary MRI/US-targeted transrectal prostate biopsy on indication. This could result in a more effective method for performing prostate biopsies, though caution is required until further investigation has shown that no relevant cancers are missed when using this biopsy technique.

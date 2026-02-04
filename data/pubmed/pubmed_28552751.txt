@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Urinary system
-TITLE: [Ultrasound of the fetal urinary system during the first trimester of pregnancy].
-PMID: 28552751
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28552751/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The detection of abnormalities of the fetal urinary system in the first trimester of pregnancy is constantly improving, namely owing to the improved resolution of the image, the use of the endovaginal approach and thanks to sonographers' constant training. The pathological aspects, usually detected in the second trimester of pregnancy, can be suspected early in the first trimester and range from kidneys' cavity dilation to bilateral renal agenesis, polycystic kidney disease, multi-cystic dysplasia and bladder megavessia or bladder exstrophy. A poly-malformative syndrome is to be found out. The detection of an abnormality of the urinary tract requires a close ultrasound check. Very often, the pathological aspects tend to disappear spontaneously. In particular, the non-visualization of the bladder requires repeated examinations during the same session or even a little later in the pregnancy. We will carry out a review of the literature by pointing out the usual and unusual aspects of the fetal urinary system visible in the first trimester and we will as well propose an algorithm describing how to deal with abnormalities of the urinary tract that can be found out at first trimester ultrasound.

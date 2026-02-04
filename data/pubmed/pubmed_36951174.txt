@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antibiotics classes
-TITLE: Classification for β-lactamases: historical perspectives.
-PMID: 36951174
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36951174/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-β-Lactamases are some of the most prevalent and well-studied families of enzymes, especially in the area of antibiotic resistance. Early attempts to categorize them used either functional names, such as penicillinase or cephalosporinase or structural designations into classes A and B. Increasing diversity of the properties of these enzymes has required a more expansive approach to nomenclature. Historical designations for early β-lactamases relied heavily on functional names based on the biochemical properties of purified enzymes. As amino acid sequences began to be reported for a select group of these enzymes, classes of β-lactamases were defined, with a major lumping of enzymes into those that had active site serine residues (class A, C, and D) and those that were metallo-β-lactamases (MBLs or class B). More recent classification schemes, as determined through a Medline search, have attempted to incorporate both functional and structural features, using functional groups and subgroups to name β-lactamases within the same structural class. Nomenclature of these enzymes is now under the purview of the NCBI (National Center for Biotechnology Information). β-Lactamase nomenclature will continue to evolve with the identification of new enzymes and new functionalities.

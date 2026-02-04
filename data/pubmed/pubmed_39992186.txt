@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hearing loss
-TITLE: Ferroptosis and hearing loss: from molecular mechanisms to therapeutic interventions.
-PMID: 39992186
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/39992186/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Hearing loss profoundly affects social engagement, mental health, cognition, and brain development, with sensorineural hearing loss (SNHL) being a major concern. Linked to ototoxic medications, ageing, and noise exposure, SNHL presents significant treatment challenges, highlighting the need for effective prevention and regeneration strategies. Ferroptosis, a distinct form of cell death featuring iron-dependent lipid peroxidation, has garnered interest due to its potential role in cancer, ageing, and neuronal degeneration, especially hearing loss. The emerging role of ferroptosis as a crucial mediator in SNHL suggests that it may offer a novel therapeutic target for otoprotection. This review aims to summarise the intricate connection between ferroptosis and SNHL, offering a fresh perspective for exploring targeted therapeutic strategies that could potentially mitigate cochlear cells damage and enhance the quality of life for individuals with hearing impairments.

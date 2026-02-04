@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tinnitus
-TITLE: [Tinnitus].
-PMID: 37350203
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37350203/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Tinnitus have different forms and it is possible to identify their origins in many cases. Even if tinnitus is not a kind experience, it is commonly not troublesome. But in some cases, it may become very annoying and lead to psychiatric disorders. Tinnitus is a frequent complaint at the medical office since 10% of the adult population is concerned. Their origin can be defined with different exams. Habituation is the key for therapy.

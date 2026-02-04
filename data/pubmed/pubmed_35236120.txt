@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Occupational safety health
-TITLE: [Occupational safety and health promotion in the context of nurse staffing: A scoping review].
-PMID: 35236120
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35236120/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Occupational safety and health promotion in the context of nurse staffing: A scoping review <b>Abstract.</b> <i>Background:</i> Increasing workload has led to a rise in mental and physical burden among nurses. In order to prevent this, it should be investigated, whether and to what extent aspects of occupational safety and health promotion can be integrated into nurse-staffing ratios. <i>Aims:</i> The objective of this scoping review was to identify ways and approaches of including occupational safety and health promotion into existing nurse-staffing ratios. <i>Methods:</i> A scoping review was conducted. The literature search took place in relevant professional databases. Articles in English and German language published between January 2015 and April 2020 with a focus on (care) organisations, staffing, occupational safety and/or health promotion, and person-related services were included. <i>Results:</i> Fifteen articles met the inclusion criteria. Three main topics were identified: staffing methods, leadership and control, and work organisation and design. No evidence was found regarding the inclusion of occupational health and safety and health promotion in staffing procedures. However, there is a demand for consideration of aspects "beyond numbers". <i>Conclusions:</i> In the further development of staffing-ratios, factors should be included that go beyond quantifiable measures and, by doing so, also address occupational safety and health promotion.

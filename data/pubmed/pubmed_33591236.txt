@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Digestion process
-TITLE: <i>In vitro</i> gastrointestinal digestion and fermentation models and their applications in food carbohydrates.
-PMID: 33591236
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33591236/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Food nutrients plays a crucial role in human health, especially in gastrointestinal (GI) health. The effect of food nutrients on human health mainly depends on the digestion and fermentation process in the GI tract. In vitro GI digestion and fermentation models had the advantages of reproducibility, simplicity, universality, and could integrally simulate the in vivo conditions to mimic oral, gastric, small intestinal and large intestinal digestive processes. They could not only predict the relationship among material composition, structure and digestive characteristics, but also evaluate the bioavailability of material components and the impact of digestive metabolites on GI health. This review systematicly summarized the current state of the in vitro simulation models, and made detailed descriptions for their applications, advantages and disadvantages, and specially their applications in food carbohydrates. In addition, it also provided the suggestions for the improvement of in vitro models and firstly proposed to establish a set of standardized methods of in vitro dynamic digestion and fermentation conditions for food carbohydrates, which were in order to further evaluate more effects of the nutrients on human health in future.

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 24160268)
-    QUESTION: "Would a man smell a rose then throw it away?
-    CONTEXT: Breast cancer is the most common malignancy afflicting women, and the most common cancer overall in Jordan. A woman's decision to go for screening is influenced by her social support network. This study aims to explore Jordanian men's individual and contextual perspectives on women's breast cancer and their own role in the breast health of the females within their families.
-    ANSWER: Jordanian men perceive themselves as having a vital role in supporting, guiding and encouraging their wives to follow breast cancer early detection recommendations. Breast health awareness campaigns could involve husbands to capitalize on family support.
-    

@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26163474)
-    QUESTION: Is there a connection between sublingual varices and hypertension?
-    CONTEXT: Sublingual varices have earlier been related to ageing, smoking and cardiovascular disease. The aim of this study was to investigate whether sublingual varices are related to presence of hypertension.
-    ANSWER: An association was found between sublingual varices and hypertension. Examining the lateral borders of the tongue is easily done, causes no harm and could be a valuable method for the dental profession to take active part in preventive healthcare.
-    

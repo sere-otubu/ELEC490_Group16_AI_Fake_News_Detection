@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 15475728)
-    QUESTION: Alcohol consumption and acute myocardial infarction: a benefit of alcohol consumed with meals?
-    CONTEXT: The apparent favorable effect of alcohol on the risk of acute myocardial infarction (MI) may be related to its hypoinsulinemic effect when consumed with meals. We studied how the timing of alcohol consumption in relation to meals might affect the risk of MI in a population with relatively high regular alcohol consumption.
-    ANSWER: Alcohol drinking during meals was inversely related with risk of acute MI, whereas alcohol drinking outside meals only was unrelated to risk.
-    

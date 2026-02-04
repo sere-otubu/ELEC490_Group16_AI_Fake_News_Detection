@@ -1,8 +1,0 @@
-SEARCH_TOPIC: ALS
-TITLE: ALS molecular subtypes are a combination of cellular and pathological features learned by deep multiomics classifiers.
-PMID: 40067829
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40067829/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Amyotrophic lateral sclerosis (ALS) is a complex syndrome with multiple genetic causes and wide variation in disease presentation. Despite this heterogeneity, large-scale genomics studies revealed that ALS postmortem samples can be grouped into a small number of subtypes, defined by transcriptomic signatures of mitochondrial dysfunction and oxidative stress (ALS-Ox), microglial activation and neuroinflammation (ALS-Glia), or TDP-43 pathology and associated transposable elements (ALS-TE). In this study, we present a deep ALS neural net classifier (DANCer) for ALS molecular subtypes. Applying DANCer to an expanded cohort from the NYGC ALS Consortium highlights two subtypes that strongly correlate with disease duration: ALS-TE in cortex and ALS-Glia in spinal cord. Finally, single-nucleus transcriptomes demonstrate that ALS subtypes are recapitulated in neurons and glia, with both ALS-wide and subtype-specific alterations in all cell types. In summary, ALS molecular subtypes represent a combination of cellular and pathological features that correlate with clinical features of ALS.

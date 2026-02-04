@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anorexia nervosa
-TITLE: Anorexia Nervosa/Atypical Anorexia Nervosa.
-PMID: 28532965
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28532965/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Anorexia nervosa has the highest mortality rate among all psychiatric illnesses, as it can result in significant psychopathology along with life-threatening medical complications. Atypical anorexia nervosa is a new variant described in the latest DSM edition, which has much in common with anorexia nervosa and also can result in significant morbidity and mortality. The evolution of the criteria for these illnesses is reviewed, and the two are compared and contrasted in this article. Important labs to monitor for in those with these illnesses, along with an emphasis on the monitoring of vital signs and weight, are reviewed here. The necessity for close psychiatric monitoring of safety concerns, including suicidal thoughts, is also stressed. The etiology and the treatment of these illnesses are reviewed from a biopsychosocial approach; and lastly, the prognosis of these illnesses is discussed.

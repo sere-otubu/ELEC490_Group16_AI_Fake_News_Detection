@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Concussion
-TITLE: Perioperative Considerations in Patients With Concussion.
-PMID: 31587721
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31587721/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Concussions affect the normal functioning of the autonomic nervous system and glucose metabolism, impair cerebral autoregulation to Paco₂, and produce abnormal variances in myogenic and vagal tone. Because anesthesia also has an impact on these same processes, it is vital to delineate the best practice in the perianesthesia period to minimize additional damage to the concussed brain. There are currently no practice guidelines surrounding perianesthesia management of patients with concussion to guide practice. To answer 4 clinically pertinent questions for nurse anesthesia practice, the authors completed a literature review. Articles obtained from the search that were identified as randomized controlled trials, systematic reviews, or integrative reviews were evaluated for relevance to clinical practice. Many of the literature recommendations emphasize the prevention of secondary neurologic injury. Optimal outcomes are believed to best align with careful attention to mean arterial pressures and Paco₂ to prevent global hypoperfusion. The impact of particular anesthetic agents on concussion injuries is unknown. Major advances in neuroimaging, biomarker identification, and technology have occurred. However, further research is needed to identify evidence-based interventions for managing patients after concussion requiring anesthesia.

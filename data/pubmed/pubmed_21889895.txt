@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 21889895)
-    QUESTION: Will CT ordering practices change if we educate residents about the potential effects of radiation exposure?
-    CONTEXT: The aim of this study was to determine if educating residents about the potential effects of radiation exposure from computed tomographic (CT) imaging alters ordering patterns. This study also explored whether referring physicians are interested in radiation education and was an initial effort to address their CT ordering behavior.
-    ANSWER: Most clinicians did not change their CT scan ordering after receiving education about radiation from a radiologist. Radiation education allowed clinicians to discuss CT benefits and risks with their patients and to choose appropriate CT protocols. Referring physician groups are interested in this topic, and radiologists should be encouraged to give radiation lectures to them.
-    

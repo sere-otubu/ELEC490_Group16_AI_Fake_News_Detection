@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Carpal tunnel syndrome
-TITLE: Carpal tunnel syndrome--a comprehensive review.
-PMID: 17907478
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/17907478/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-To provide a comprehensive review of the management of carpal tunnel syndrome. A systematic literature review is provided of the history, anatomy, pathophysiology, epidemiology, diagnostic criteria, investigative surgical techniques, results and complications for carpal tunnel syndrome. Surgery for carpal tunnel syndrome requires meticulous attention to history-taking, investigation, counseling, training and surgical technique if unsatisfactory results and complications are to be avoided.

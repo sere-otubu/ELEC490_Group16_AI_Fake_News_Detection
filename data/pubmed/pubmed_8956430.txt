@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Opioids risks
-TITLE: Monitoring opioids.
-PMID: 8956430
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/8956430/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-It appears that several conclusions can be justified by the current information available regarding the risks associated with epidural opioids: 1. This modality of analgesia provides superior pain relief following thoracotomy and upper abdominal surgery. 2. Respiratory depression from epidural opioids administered in appropriate doses appears to be no greater than that seen after patient-controlled intramuscular or intravenous opioid administration. 3. Dosage must be adjusted to account for patient age and other identified risk factors. 4. Morphine may represent a greater risk than fentanyl and subarachnoid injection a greater risk than epidural injection. 5. Monitoring of respiratory rate and level of consciousness appear to be adequate to detect respiratory depression. 6. Monitoring appears to be indicated for 12 hours following a bolus injection of morphine and for the entire duration of a continuous infusion, although it does not appear to be necessary following discontinuation of a continuous infusion. 7. Further data are needed on the risks associated with subarachnoid opioids and on the safety of patient-controlled administration of epidural opioids.

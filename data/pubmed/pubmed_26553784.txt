@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Organic foods
-TITLE: Foodomics: A new tool to differentiate between organic and conventional foods.
-PMID: 26553784
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26553784/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The demand for organic food is increasing annually due to the growing consumer trend for more natural products that have simpler ingredient lists, involve less processing and are grown free of pesticides. However, there is still not enough nutritional evidence in favor of organic food consumption. Classical chemical analysis of macro- and micronutrients has demonstrated that organic crops are poorer in nitrogen, but clear evidence for other nutrients is lacking. Omics technologies forming part of the new discipline of foodomics have allowed the detection of possible nutritional differences between organic and conventional production, although many results remain controversial and contradictory. The main focus of this review is to provide an overview of the studies that use foodomics techniques as a tool to differentiate between organic and conventional production.

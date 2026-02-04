@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anemia
-TITLE: Drug-induced anaemias.
-PMID: 782836
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/782836/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Many drugs have been reported to have caused anaemia. The most serious form involves marrow aplasia, but the way in which this is produced is not understood. A number of drugs lead to megaloblastic anaemia and where this is caused by interference with dihydrofolate reductase the explanation is obvious. However, some substances, notably anticonvulsants, cause megaloblastic anaemia by some other mechanism. A number of drugs cause intestinal bleeding with anaemia as a result. Sideroblastic anaemia is a relatively rare condition, sometimes caused by drugs, particularly those used in the treatment of tuberculosis. Leukaemia very occasionally supervenes in patients with drug-induced aplastic anaemia.

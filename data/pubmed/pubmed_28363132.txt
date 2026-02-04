@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Infant mortality reduction
-TITLE: Separate and unequal: Structural racism and infant mortality in the US.
-PMID: 28363132
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28363132/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-We examined associations between state-level measures of structural racism and infant mortality among black and white populations across the US. Overall and race-specific infant mortality rates in each state were calculated from national linked birth and infant death records from 2010 to 2013. Structural racism in each state was characterized by racial inequity (ratio of black to white population estimates) in educational attainment, median household income, employment, imprisonment, and juvenile custody. Poisson regression with robust standard errors estimated infant mortality rate ratios (RR) and 95% confidence intervals (CI) associated with an IQR increase in indicators of structural racism overall and separately within black and white populations. Across all states, increasing racial inequity in unemployment was associated with a 5% increase in black infant mortality (RR=1.05, 95% CI=1.01, 1.10). Decreasing racial inequity in education was associated with an almost 10% reduction in the black infant mortality rate (RR=0.92, 95% CI=0.85, 0.99). None of the structural racism measures were significantly associated with infant mortality among whites. Structural racism may contribute to the persisting racial inequity in infant mortality.

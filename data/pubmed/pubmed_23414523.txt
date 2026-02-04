@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 23414523)
-    QUESTION: Does binge drinking during early pregnancy increase the risk of psychomotor deficits?
-    CONTEXT: The potential effects of binge drinking during pregnancy on child motor function have only been assessed in a few, small studies. We aimed to examine the effects of binge alcohol consumption during early pregnancy, including number of binge episodes and timing of binge drinking, on child motor function at age 5.
-    ANSWER: In this study, we found no systematic association between isolated episodes of binge drinking during early pregnancy and child motor function at age 5.
-    

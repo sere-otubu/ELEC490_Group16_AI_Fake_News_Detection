@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Rabies
-TITLE: Rabies: recent developments.
-PMID: 12208103
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12208103/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Rabies remains as one of the most feared zoonotic diseases in the world. All warm-blooded animals are susceptible to infection by the virus, but the main vectors of human infection are dogs and cats. The control of rabies largely depends on the prevention of infection of dogs and cats by vaccination in endemic areas and the control of their movement, including measures of quarantine and vaccination, in rabies-free countries. This paper provides an overview on recent developments in rabies, with particular emphasis on the epidemiology, pathogenesis, diagnosis, and control.

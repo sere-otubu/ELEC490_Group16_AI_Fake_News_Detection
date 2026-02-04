@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Superfoods
-TITLE: How Information on Superfoods Changes Consumers' Attitudes: An Explorative Survey Study.
-PMID: 35804679
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35804679/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Increasing interest in healthy habits has created the market for what is commonly called "superfoods." The goal of this study was to explore Swiss consumers' initial and final attitudes toward superfoods as well as their change in attitude toward those foods after being provided selected information. A questionnaire survey was conducted to explore the individual traits of the respondents. The attitudes were assessed at the beginning and end of the survey. Four multiple regression analyses were performed. The results showed that consumers perceiving superfoods' health benefits and expressing an interest in organic foods were associated with initial and positive attitudes. These predictors remained significantly related to the positive attitude at the end of the survey. Sociodemographic predictors (age and place of residence) were significant factors, with older people and individuals who lived in urban centers showing a higher propensity to improve their attitudes toward superfoods. Individuals with lower perceptions about the benefits of superfoods being healthy and lower levels of cultural participation showed a negative attitude change. Given that this study aims to shed light on the variables that influence the behavior of Swiss consumers toward the superfoods trend, it fills a significant gap in the literature.

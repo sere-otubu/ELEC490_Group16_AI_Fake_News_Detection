@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Chiropractic care
-TITLE: Chiropractic.
-PMID: 12391720
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/12391720/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Chiropractic is now more than a century old, and it is licensed throughout the United States and Canada and recognized in more than 60 countries worldwide. Doctors of Chiropractic receive training that is focused on the treatment of NMS conditions through manual and physical procedures, such as manipulation, massage, exercise, and nutrition. Most patients present to chiropractors with low back pain, neck pain, whiplash, and headaches. Numerous studies and expert panel reviews have supported the use of chiropractic and manipulation for these complaints. Satisfaction with chiropractic care for low back pain typically is good. Chiropractic, in general, offers safe and cost-effective procedures for selected musculoskeletal problems.

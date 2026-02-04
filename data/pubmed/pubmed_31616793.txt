@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Opioid addiction
-TITLE: Current status of opioid addiction treatment and related preclinical research.
-PMID: 31616793
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31616793/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Opioid use disorders (OUDs) are diseases of the brain with behavioral, psychological, neurobiological, and medical manifestations. Vulnerability to OUDs can be affected by factors such as genetic background, environment, stress, and prolonged exposure to μ-opioid agonists for analgesia. Two standard-of-care maintenance medications, methadone and buprenorphine-naloxone, have a long-term positive influence on health of persons with opioid addiction. Buprenorphine and another medication, naltrexone, have also been approved for administration as monthly depot injections. However, neither medication is used as widely as needed, due largely to stigma, insufficient medical education or training, inadequate resources, and inadequate access to treatment. Ongoing directions in the field include (i) personalized approaches leveraging genetic factors for prediction of OUD vulnerability and prognosis, or for targeted pharmacotherapy, and (ii) development of novel analgesic medicines with new neurobiological targets with reduced abuse potential, reduced toxicity, and improved effectiveness, especially for chronic pain states other than cancer pain.

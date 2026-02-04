@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 9920954)
-    QUESTION: Do "America's Best Hospitals" perform better for acute myocardial infarction?
-    CONTEXT: "America's Best Hospitals," an influential list published annually by U.S. News and World Report, assesses the quality of hospitals. It is not known whether patients admitted to hospitals ranked at the top in cardiology have lower short-term mortality from acute myocardial infarction than those admitted to other hospitals or whether differences in mortality are explained by differential use of recommended therapies.
-    ANSWER: Admission to a hospital ranked high on the list of "America's Best Hospitals" was associated with lower 30-day mortality among elderly patients with acute myocardial infarction. A substantial portion of the survival advantage may be associated with these hospitals' higher rates of use of aspirin and beta-blocker therapy.
-    

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cholera
-TITLE: Changing facades of <i>Vibrio cholerae</i>: An enigma in the epidemiology of cholera.
-PMID: 29806601
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/29806601/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Cholera, caused by the Gram-negative bacterium Vibrio cholerae, has ravaged humanity from time immemorial. Although the disease can be treated using antibiotics along with administration of oral rehydration salts and controlled by good sanitation, cholera is known to have produced mayhems in ancient times when little was known about the pathogen. By the 21<sup>st</sup> century, ample information about the pathogen, its epidemiology, genetics, treatment and control strategies was revealed. However, there is still fear of cholera outbreaks in developing countries, especially in the wake of natural calamities. Studies have proved that the bacterium is mutating and evolving, out-competing all our efforts to treat the disease with previously used antibiotics and control with existing vaccines. In this review, the major scientific insights of cholera research are discussed. Considering the important role of biofilm formation in the V. cholerae life cycle, the vast availability of next-generation sequencing data of the pathogen and multi-omic approach, the review thrusts on the identification of suitable biofilm-inhibiting targets and the discovery of anti-biofilm drugs from nature to control the disease.

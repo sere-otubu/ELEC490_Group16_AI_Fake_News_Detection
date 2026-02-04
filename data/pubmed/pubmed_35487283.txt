@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Hydration importance
-TITLE: Roles of interfacial water states on advanced biomedical material design.
-PMID: 35487283
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/35487283/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-When biomedical materials come into contact with body fluids, the first reaction that occurs on the material surface is hydration; proteins are then adsorbed and denatured on the hydrated material surface. The amount and degree of denaturation of adsorbed proteins affect subsequent cell behavior, including cell adhesion, migration, proliferation, and differentiation. Biomolecules are important for understanding the interactions and biological reactions of biomedical materials to elucidate the role of hydration in biomedical materials and their interaction partners. Analysis of the water states of hydrated materials is complicated and remains controversial; however, knowledge about interfacial water is useful for the design and development of advanced biomaterials. Herein, we summarize recent findings on the hydration of synthetic polymers, supramolecular materials, inorganic materials, proteins, and lipid membranes. Furthermore, we present recent advances in our understanding of the classification of interfacial water and advanced polymer biomaterials, based on the intermediate water concept.

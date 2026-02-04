@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Proton pump inhibitors
-TITLE: Proton Pump Inhibitors in the Elderly, Balancing Risk and Benefit: an Age-Old Problem.
-PMID: 31807948
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31807948/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Proton pump inhibitors (PPIs) are one of the most prescribed drugs in the developed world and elderly patients are particularly likely to be prescribed acid suppression. There have been reports of many diseases being associated with PPI therapy and the elderly would be particular at risk of any harms these drugs may cause. This review therefore reviews the evidence of the risks and benefits of these drugs. PPIs are very effective at treating acid-related disorders. Recent randomized trials have suggested that the associations between PPI and various diseases are likely to be related to bias and residual confounding and these drugs appear to be safe apart from a possible increase risk of enteric infections. PPIs should be used at the lowest dose and for the shortest duration possible. They are still relatively safe drugs but should only be prescribed for proven indications.

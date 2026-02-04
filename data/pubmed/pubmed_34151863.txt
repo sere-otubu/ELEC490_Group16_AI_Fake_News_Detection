@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Parkinsons disease
-TITLE: Gene Therapy for Parkinson's Disease Associated with GBA1 Mutations.
-PMID: 34151863
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34151863/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Human genetic studies as well as studies in animal models indicate that lysosomal dysfunction plays a key role in the pathogenesis of Parkinson's disease. Among the lysosomal genes involved, GBA1 has the largest impact on Parkinson's disease risk. Deficiency in the GBA1 encoded enzyme glucocerebrosidase (GCase) leads to the accumulation of the GCase glycolipid substrates glucosylceramide and glucosylsphingosine and ultimately results in toxicity and inflammation and negatively affect many clinical aspects of Parkinson's disease, including disease risk, the severity of presentation, age of onset, and likelihood of progression to dementia. These findings support the view that re-establishing normal levels of GCase enzyme activity may reduce the progression of Parkinson's disease in patients carrying GBA1 mutations. Studies in mouse models indicate that PR001, a AAV9 vector-based gene therapy designed to deliver a functional GBA1 gene to the brain, suggest that this therapeutic approach may slow or stop disease progression. PR001 is currently being evaluated in clinical trials with Parkinson's disease patients carrying GBA1 mutations.

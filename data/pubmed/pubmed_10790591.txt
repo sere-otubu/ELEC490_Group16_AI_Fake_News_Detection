@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cardiovascular system
-TITLE: Identification and role of aldosterone receptors in the cardiovascular system.
-PMID: 10790591
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/10790591/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The cardiovascular system is now recognized as an important mineralocorticoid target. All -components required for specific and selective aldosterone effects are present in the cardiovascular system. Mineralocorticoid receptors (MR) are expressed in the heart and large blood vessels together with the 11 B-hydroxysteroid dehydrogenase type II, which ensures the enzymatic protection of MR against glucocorticoids. The recent description of local vascular and cardiac aldosterone biosynthesis strongly supports an autocrine/paracrine hormonal action. Establishment of transgenic mice models of targeted overexpression of the mineralocorticoid receptor should facilitate new insights into the molecular and cellular mechanisms of aldo-sterone actions in the cardiovascular system.

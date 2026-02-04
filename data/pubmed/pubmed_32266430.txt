@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Cell division mitosis
-TITLE: Asymmetric cell division and replicative aging: a new perspective from the spindle poles.
-PMID: 32266430
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32266430/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Although cell division is usually portrayed as an equitable process by which a progenitor cell originates two identical daughter cells, there are multiple examples of asymmetric divisions that generate two cells that differ in their content, morphology and/or proliferative potential. The capacity of the cells to generate asymmetry during their division is of paramount biological relevance, playing essential roles during embryonic development, cellular regeneration and tissue morphogenesis. Problems with the proper establishment of asymmetry and polarity during cell division can give rise to cancer and neurodevelopmental disorders, as well as to also accelerate cellular aging. Interestingly, the microtubule organizing centers that orchestrate the formation of the mitotic spindle have been described among the cellular structures that can be differentially allocated during asymmetric cell divisions. This mini-review focuses on recent research from our group and others uncovering a role for the non-random distribution of the spindle-associated microtubule organizing centers in the differential distribution of aging factors during asymmetric mitoses and therefore in the maintenance of the replicative lifespan of the cells.

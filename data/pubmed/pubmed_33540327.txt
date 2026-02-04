@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Superfoods
-TITLE: Microbial production of polyunsaturated fatty acids - high-value ingredients for aquafeed, superfoods, and pharmaceuticals.
-PMID: 33540327
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33540327/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Polyunsaturated fatty acids (PUFAs), primarily docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA), have received worldwide attention in recent years due to an increasing awareness of their uniqueness in improving diet and human health and their apparently inevitable shortage in global availability. Microbial cell factories are a major solution to supplying these precious molecules in sufficient amounts and providing PUFA-rich aquafeed, superfoods, and medical formulations. This review assesses the PUFA world markets and highlights recent advances in upgrading and streamlining microalgae, yeasts, fungi, and bacteria for high-level PUFA production and broadening of the PUFA spectrum.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Trauma informed care
-TITLE: Family-Centered Trauma-Informed Care: Integrating Support for Families Affected by Trauma.
-PMID: 40335178
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/40335178/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Trauma encompasses physical and psychological injuries from various incidents. Research indicates that traumatic experiences are prevalent and occur early. Trauma can lead to severe long-term health issues if left unrecognized and untreated. Implementing Trauma-Informed Care (TIC) and Family-Centered Care (FCC) is essential to providing quality health care. TIC focuses on creating a safe, supportive environment to avoid retraumatization and improve outcomes, while FCC involves families in the care process to enhance patient health and satisfaction. Integrating TIC with FCC offers a holistic approach that addresses the needs of patients and their families, aiming to improve the overall quality of care.

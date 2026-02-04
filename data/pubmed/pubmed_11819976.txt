@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Down syndrome
-TITLE: Down's syndrome and oral care.
-PMID: 11819976
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/11819976/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Down's syndrome is caused by a chromosomal abnormality and is characterized by certain physical, mental and medical features. A number of these features, such as learning disability, cardiac anomalies and an altered immune system, can have a profound effect on oral health and the delivery of oral care. In turn, this can affect social acceptability and quality of life. The optimum potential of the person with Down's syndrome is achieved via a multidisciplinary approach that involves the members of the dental team from an early stage.

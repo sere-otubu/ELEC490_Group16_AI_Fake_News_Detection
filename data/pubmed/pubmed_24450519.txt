@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Erectile dysfunction
-TITLE: Erectile dysfunction.
-PMID: 24450519
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/24450519/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In the past 30 years, advances in basic science have been instrumental in the evolution of the male sexual health treatment paradigm from a psychosexual model to a new model, which includes oral and intracavernosal injection pharmacotherapy, vacuum constriction devices and penile prostheses for the treatment of erectile dysfunction. This progress has coincided with an increased understanding of the nature of male sexual health problems, and epidemiological data that confirm that these problems are widely prevalent and the source of considerable morbidity, both for individuals and within relationships.

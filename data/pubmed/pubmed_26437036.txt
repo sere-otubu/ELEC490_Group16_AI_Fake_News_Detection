@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Generalized anxiety disorder
-TITLE: Generalized Anxiety Disorder and Pain.
-PMID: 26437036
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/26437036/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-In this article, the co-occurrence of anxiety disorders (in particular generalized anxiety disorder) and pain conditions is described, characteristics of chronic pain are explained, and data on the prevalence of co-comorbidity of both conditions are reviewed. Further, hypotheses on the possible psychosocial and neurobiological backgrounds of the high rate of co-occurrence are discussed. This review will also focus on the role of 'unexplained' pain syndromes (e.g. somatic symptom disorder and fibromyalgia) and anxiety. Finally, we address possible treatment strategies for patients with both conditions. There is a need for a rigorous assessment of pain syndromes in generalized anxiety disorder and anxiety in chronic pain conditions in order to prevent subsequent mortality by early treatment of both conditions.

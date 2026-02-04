@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Anaphylaxis
-TITLE: Anaphylaxis in Children and Adolescents.
-PMID: 31466687
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31466687/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Anaphylaxis is an acute, potentially life-threatening systemic hypersensitivity reaction. Classically, anaphylaxis is an immunoglobulin (Ig) E-mediated reaction; however, IgG or immune complex complement-related immunologic reactions that lead to degranulation of mast cells can also cause anaphylaxis. Food allergy is the most common cause of anaphylaxis, followed by drugs. Patients with anaphylaxis commonly present with symptoms involving skin or mucous membranes, followed by respiratory and gastrointestinal symptoms. Epinephrine is the drug of choice for treating anaphylaxis. Patients and caregivers should be educated on the use of epinephrine autoinjectors with periodic review of symptoms and emergency action plan for anaphylaxis.

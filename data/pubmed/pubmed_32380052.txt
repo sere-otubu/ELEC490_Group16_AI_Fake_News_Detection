@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Respiratory system
-TITLE: Granulocyte-targeted therapies for airway diseases.
-PMID: 32380052
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/32380052/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-The average respiration rate for an adult is 12-20 breaths per minute, which constantly exposes the lungs to allergens and harmful particles. As a result, respiratory diseases, which includes asthma, chronic obstructive pulmonary disease (COPD) and acute lower respiratory tract infections (LTRI), are a major cause of death worldwide. Although asthma, COPD and LTRI are distinctly different diseases with separate mechanisms of disease progression, they do share a common feature - airway inflammation with intense recruitment and activation of granulocytes and mast cells. Neutrophils, eosinophils, basophils, and mast cells are crucial players in host defense against pathogens and maintenance of lung homeostasis. Upon contact with harmful particles, part of the pulmonary defense mechanism is to recruit these cells into the airways. Despite their protective nature, overactivation or accumulation of granulocytes and mast cells in the lungs results in unwanted chronic airway inflammation and damage. As such, understanding the bright and the dark side of these leukocytes in lung physiology paves the way for the development of therapies targeting this important mechanism of disease. Here we discuss the role of granulocytes in respiratory diseases and summarize therapeutic strategies focused on granulocyte recruitment and activation in the lungs.

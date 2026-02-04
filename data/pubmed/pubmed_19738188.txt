@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Adrenal glands
-TITLE: Adrenal gland disorders.
-PMID: 19738188
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/19738188/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Medical imaging of the adrenal glands is an important aspect of the diagnosis of any adrenal gland disorder. This article discusses the normal anatomy and functions of the adrenal glands, as well as specific adrenal gland disorders and how they are diagnosed and treated. Radiologic technologists need to understand the causes, signs, symptoms, diagnosis and management of disorders that prevent the adrenal glands from functioning properly.

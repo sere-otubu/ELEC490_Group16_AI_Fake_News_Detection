@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Tinnitus
-TITLE: Tinnitus.
-PMID: 30342610
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30342610/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Objective and subjective tinnitus can often be differentiated based on comprehensive history, physical examination, and audiogram. Examples of objective tinnitus include vascular abnormalities, palatal myoclonus, patulous eustachian tube, and stapedial/tensor tympani muscle spasm. Subjective tinnitus is usually associated with hearing loss. Rarely, tinnitus is the result of an underlying condition. In these cases, imaging and additional testing may be indicated. Classification of the type, quality, and intensity of tinnitus is helpful in the work-up and treatment of tinnitus. Treatment modalities include cognitive behavioral therapy, tinnitus retraining therapy, sound therapy, hearing aids, cochlear implants, pharmacotherapy, and brain stimulation.

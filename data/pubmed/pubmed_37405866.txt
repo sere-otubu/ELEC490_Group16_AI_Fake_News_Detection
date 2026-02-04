@@ -1,8 +1,0 @@
-SEARCH_TOPIC: First aid basics
-TITLE: Review of Traditional First Aid for Burn Injuries in the 21st Century.
-PMID: 37405866
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/37405866/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-This review aims to investigate data on traditional burn first aid materials used in different countries. A systematic search was performed through 8 databases for studies on traditional burn first aid published in the 21st century. Data regarding study demographics, burn first aid, first aid materials, water irrigation, and source of knowledge were summarized, and the use of each material was discussed. A total of 28 studies including 20,150 subjects were identified. An average of 29% of the study population applied water irrigation, whereas 46% used various traditional materials, and 30% did not administer first aid. People with higher education and socioeconomy class tend to choose correct first aid actions. The single best treatment as burn first aid is cool-water irrigation. Despite that, various other materials have been used, most of which are not suitable for first aid. Some materials possess healing abilities and can be used as wound dressing, whereas others are harmful. Inappropriate materials are mostly used in underdeveloped regions lacking water access and hygiene. Mass media and community knowledge have a large influence in burn first aid practices. Raising public health awareness on burn first aid is crucial along with providing the people access to water, basic hygiene, and health care.

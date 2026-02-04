@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Screen time health
-TITLE: Screen time and childhood overweight/obesity: A systematic review and meta-analysis.
-PMID: 31270831
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/31270831/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Controlling childhood overweight/obesity would help early prevention on children from getting chronic noncommunicable diseases, exposing to screen for long periods may increase the risk of overweight/obesity due to lack of physical activity and tend to intake too much energy, and the relationship between screen time and overweight/obesity is inconsistent. Thus, the object of the present study was to estimate the relationship between screen time and overweight/obesity in children (<18 years) by systematically review prevalence studies. We collected data from relevant studies published up to May 2019 using predefined inclusion/exclusion criteria. And all the literatures were searched in PubMed, ScienceDirect, Embase, and Web of Science. A total of 16 studies met the criteria and were included in the meta-analysis. When compared with the screen time <2 hr/day, an increased overweight/obesity risk among children was shown in the screen time ≥2 hr/day (OR = 1.67; 95% CI [1.48, 1.88], P < .0001). The subgroup analysis showed a positive association between the different types of screen time and overweight/obesity among children. Based on our study, increasing screen time could be a risk factor for being overweight/obesity in children and adolescents.

@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Caffeine effects
-TITLE: Caffeine, coffee, and appetite control: a review.
-PMID: 28446037
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/28446037/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Coffee and caffeine consumption has global popularity. However, evidence for the potential of these dietary constituents to influence energy intake, gut physiology, and appetite perceptions remains unclear. The purpose of this review was to examine the evidence regarding coffee and caffeine's influence on energy intake and appetite control. The literature was examined for studies that assessed the effects of caffeine and coffee on energy intake, gastric emptying, appetite-related hormones, and perceptual measures of appetite. The literature review indicated that coffee administered 3-4.5 h before a meal had minimal influence on food and macronutrient intake, while caffeine ingested 0.5-4 h before a meal may suppress acute energy intake. Evidence regarding the influence of caffeine and coffee on gastric emptying, appetite hormones, and appetite perceptions was equivocal. The influence of covariates such as genetics of caffeine metabolism and bitter taste phenotype remain unknown; longer controlled studies are needed.

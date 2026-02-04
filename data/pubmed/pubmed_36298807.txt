@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antivirals
-TITLE: Broad-Spectrum Antivirals and Antiviral Combinations: An Editorial Update.
-PMID: 36298807
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/36298807/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Our Special Issue received a great deal of attention, and several important papers have recently been added to it [...].

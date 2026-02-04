@@ -1,6 +1,0 @@
-
-    SOURCE: PubMed QA (ID: 26399179)
-    QUESTION: Eyelid-parotid metastasis: do we screen for coexisting masses?
-    CONTEXT: To report three cases illustrating that it is not unusual for a primary eyelid tumour to metastasise to the parotid gland and vice versa.
-    ANSWER: These cases illustrate that tumours involving eyelids and parotid glands can present simultaneously or sequentially, and either of these structures could be the focus of primary or metastatic tumour. The important message for oculoplastic and parotid surgeons is to routinely assess both the periocular and parotid area when patients present with a mass in either structure.
-    

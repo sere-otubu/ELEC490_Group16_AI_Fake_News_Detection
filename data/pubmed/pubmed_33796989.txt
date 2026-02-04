@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Antifungals
-TITLE: Unfolding antifungals: as a new foe to pancreatic ductal adenocarcinoma-a mini-review.
-PMID: 33796989
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/33796989/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Increased deaths caused due to pancreatic cancer (PC) is drawing much attention towards an immediate need for therapeutics that could possibly control this disease and increase the patients' survival rate. Despite the long list of well-established chemotherapeutic drugs in several cancers none have proved to be efficient against PC, and the increasing chemoresistance to the gold standard drug gemcitabine calls a need to search for solutions in other categories of drug. To the rescue, antifungals have shown themselves to be effective against PC and can increase gemcitabine sensitivity against PC. In this mini-review, we reported how antifungals have targeted PC and helped to reduce its lethality. Additionally, it is emphasized that how the antifungals show new mechanisms that could be triggered by using either monotherapy or combination therapy of these antifungals with chemotherapeutic drugs in PC. Moreover it shows an approach of using other drugs with possible same or other mechanism to know their effect on PC.

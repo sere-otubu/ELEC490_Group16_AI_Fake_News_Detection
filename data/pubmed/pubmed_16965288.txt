@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Type 1 allergies
-TITLE: Worms and allergy.
-PMID: 16965288
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/16965288/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Worms and asthma are associated with a type 2 immune response, but evidence has accumulated that helminth infection is negatively associated with atopy, prevalence of allergic diseases and severity of asthma. One important difference between these polarized type 2 responses is that in allergy modulation of the immunological response is not appropriate, whereas in infection with helminths, several host mechanisms down-regulate the host immune response. As a result, patients infected with worms have a decrease in both type 1 and type 2 responses. The main mechanism involved in this down-modulation is increased production of IL-10, but expansion of regulatory T cells and NKT cells may also participate. Regarding the interaction between worms and allergy, a few variables need to be taken in account: phase (acute or chronic) of helminth infection, parasite load and species of helminth. In animals and humans, acute helminth infection may increase manifestations of allergy, whereas chronic infection with parasites decreases atopy. The modulation of the immune response by helminths is dependent on having an adequate parasite load. Moreover, although several helminth species have been shown to modulate immune responses, most in vitro and in vivo studies have focused on the importance of Schistosoma mansoni in down-modulating allergic reactions.

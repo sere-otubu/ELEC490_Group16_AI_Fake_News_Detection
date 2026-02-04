@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Heart failure
-TITLE: The Many Faces of Heart Failure.
-PMID: 30717842
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/30717842/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Heart failure is a heterogeneous clinical syndrome stemming from cardiac overload and injury that leads to considerable morbidity and mortality. This review highlights the many faces of heart failure, a major and growing public health problem, including its causes, classification, underlying pathophysiology, and variable progression. An individualized, patient-centered treatment approach that focuses on guideline-directed pharmacologic and device therapies is required for optimal management of this complex syndrome.

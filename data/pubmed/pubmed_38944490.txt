@@ -1,8 +1,0 @@
-SEARCH_TOPIC: Eating disorders
-TITLE: Eating Disorders: All that a Pediatrician Should Know.
-PMID: 38944490
-SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/38944490/
-TYPE: PubMed Medical Abstract
-
-ABSTRACT:
-Eating Disorders are psychiatric conditions that can manifest clinically as malnutrition due to restrictive eating and weight control behaviors or obesity due to binge eating. Eating disorders such as anorexia and bulimia nervosa have peak onset during adolescence and young adulthood. This population is at the highest risk due to psychosocial changes surrounding identity development and body image that occurs during this life-stage. Though binge eating disorder and avoidant/restrictive food intake disorder are not characterized by body image overvaluation, peak onset is also during adolescence and young adulthood.
