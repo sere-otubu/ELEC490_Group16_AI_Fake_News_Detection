@@ -1,18 +1,4 @@
 services:
-  db:
-    image: pgvector/pgvector:pg17
-    container_name: postgres-pgvector
-    ports:
-      - "${APP_PG_PORT}:5432"
-    environment:
-      POSTGRES_USER: ${APP_PG_USER}
-      POSTGRES_PASSWORD: ${APP_PG_PASSWORD}
-      POSTGRES_DB: ${APP_PG_DATABASE}
-    volumes:
-      - postgres_data:/var/lib/postgresql/data
-    networks:
-      - app-network
-
   ollama:
     image: ollama/ollama:latest
     container_name: ollama-server
@@ -59,7 +45,6 @@ services:
       - APP_CHAT_MODEL=${APP_CHAT_MODEL}
       - APP_EMBEDDING_MODEL=${APP_EMBEDDING_MODEL}
     depends_on:
-      - db
       - ollama
     volumes:
       - ./data:/app/data
@@ -69,7 +54,6 @@ services:
     restart: unless-stopped
 
 volumes:
-  postgres_data:
   ollama_data:
 
 networks:
