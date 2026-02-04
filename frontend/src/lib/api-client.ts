@@ -57,10 +57,11 @@ class ApiClient {
   }
 
   // RAG endpoints
-  async queryRAG(queryRequest: QueryRequest): Promise<QueryResponse> {
+  async queryRAG(queryRequest: QueryRequest, signal?: AbortSignal): Promise<QueryResponse> {
     return this.request<QueryResponse>("/rag/query", {
       method: "POST",
       body: JSON.stringify(queryRequest),
+      signal,
     });
   }
 

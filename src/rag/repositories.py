@@ -109,11 +109,11 @@ class RAGRepository:
                 )
 
             self.vector_store = PGVectorStore.from_params(
-                database=settings.PG_DATABASE,
-                host=settings.PG_HOST,
-                password=settings.PG_PASSWORD,
-                port=str(settings.PG_PORT),
-                user=settings.PG_USER,
+                database=settings.effective_pg_database,
+                host=settings.effective_pg_host,
+                password=settings.effective_pg_password,
+                port=str(settings.effective_pg_port),
+                user=settings.effective_pg_user,
                 table_name=settings.VECTOR_TABLE_NAME,
                 embed_dim=embed_dim,
             )
@@ -228,27 +228,60 @@ class RAGRepository:
                 top_nodes = response.source_nodes[: query_request.top_k]
                 for node in top_nodes:
                     node_metadata = node.metadata if hasattr(node, "metadata") else {}
-                    file_name = (
+                    
+                    # 1. Extract raw filename
+                    raw_file_name = (
                         node_metadata.get("file_name")
                         or node_metadata.get("filename")
                         or node_metadata.get("file_path", "").split("/")[-1]
                         or "Unknown Document"
                     )
+
+                    # 2. Initialize display variables
+                    display_name = raw_file_name
+                    source_link = node_metadata.get("file_path")
+                    
+                    # 3. INTELLIGENT PARSING LOGIC
+                    # Check for PubMed Files (e.g., pubmed_12345.txt)
+                    if "pubmed_" in raw_file_name:
+                        # Extract ID
+                        pmid = raw_file_name.split("pubmed_")[-1].replace(".txt", "")
+                        if pmid.isdigit():
+                            display_name = f"PubMed Article (ID: {pmid})"
+                            source_link = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
+
+                    # Check for Scraped Websites (e.g., www.who.int_topic.txt)
+                    elif "www." in raw_file_name or "http" in raw_file_name:
+                        # Remove extension
+                        clean = raw_file_name.replace(".txt", "")
+                        # Reconstruct URL (assuming your scraper replaced / with _)
+                        # "www.cdc.gov_flu" -> "www.cdc.gov/flu"
+                        reconstructed_url = clean.replace("_", "/")
+                        
+                        # Add protocol if missing
+                        if not reconstructed_url.startswith("http"):
+                            reconstructed_url = f"https://{reconstructed_url}"
+                            
+                        display_name = clean.replace("_", "/") # Show cleaner path as title
+                        source_link = reconstructed_url
+
+                    # 4. Extract page number
                     page = (
                         node_metadata.get("page")
                         or node_metadata.get("page_number")
                         or node_metadata.get("page_label")
                     )
-
+                    
                     if isinstance(page, str) and page.isdigit():
                         page = int(page)
                     elif not isinstance(page, int):
                         page = None
 
+                    # 5. Create Metadata Object with refined names and links
                     structured_metadata = DocumentMetadata(
-                        file_name=file_name,
+                        file_name=display_name,
                         page=page,
-                        source=node_metadata.get("file_path"),
+                        source=source_link, 
                     )
 
                     source_doc = SourceDocument(

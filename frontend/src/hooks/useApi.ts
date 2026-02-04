@@ -1,5 +1,5 @@
 import useSWR from "swr";
-import { useState } from "react";
+import { useState, useRef } from "react";
 import { apiClient, fetcher } from "@/lib/api-client";
 import type {
   QueryHistoryListResponse,
@@ -87,26 +87,39 @@ export const useDocumentCount = () => {
   };
 };
 
-// Hook for sending messages (mutation)
+// Hook for sending messages (mutation) with request cancellation
 export const useQueryRAG = () => {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const abortControllerRef = useRef<AbortController | null>(null);
 
   const sendQuery = async (
     queryRequest: QueryRequest
   ): Promise<QueryResponse | null> => {
+    // Cancel previous request if still in flight
+    if (abortControllerRef.current) {
+      abortControllerRef.current.abort();
+    }
+
+    const abortController = new AbortController();
+    abortControllerRef.current = abortController;
     setIsLoading(true);
     setError(null);
 
     try {
-      const response = await apiClient.queryRAG(queryRequest);
+      const response = await apiClient.queryRAG(queryRequest, abortController.signal);
       return response;
     } catch (err) {
+      // Ignore abort errors
+      if (err instanceof Error && err.name === "AbortError") {
+        return null;
+      }
       const errorMessage = err instanceof Error ? err.message : "Unknown error";
       setError(errorMessage);
       return null;
     } finally {
       setIsLoading(false);
+      abortControllerRef.current = null;
     }
   };
 
