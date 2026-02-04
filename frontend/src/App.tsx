@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useMemo, useCallback, memo } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
@@ -15,7 +15,6 @@ import {
   ChevronUp,
   Download,
   FileText,
-  History,
   Lightbulb,
   BookOpen,
   Menu,
@@ -28,11 +27,8 @@ import {
   ExternalLink,
 } from "lucide-react";
 import {
-  useQueryHistory,
-  useQuery,
   useQueryRAG,
   convertQueryResponseToMessages,
-  convertQueryHistoryToChats,
 } from "@/hooks/useApi";
 import type { Message, SourceDocument } from "@/types/api";
 
@@ -42,7 +38,7 @@ interface SourceDocumentCardProps {
   index: number;
 }
 
-const SourceDocumentCard = ({ doc, index }: SourceDocumentCardProps) => {
+const SourceDocumentCard = memo(({ doc, index }: SourceDocumentCardProps) => {
   const [isExpanded, setIsExpanded] = useState(false);
   const docPosition = index + 1;
 
@@ -185,116 +181,126 @@ const SourceDocumentCard = ({ doc, index }: SourceDocumentCardProps) => {
       </div>
     </div>
   );
-};
+});
+
+SourceDocumentCard.displayName = "SourceDocumentCard";
+
+// Message Component (memoized)
+interface MessageItemProps {
+  message: Message;
+}
+
+const MessageItem = memo(({ message }: MessageItemProps) => {
+  const formatTimestamp = useCallback((timestamp: string) =>
+    new Date(timestamp).toLocaleTimeString([], {
+      hour: "2-digit",
+      minute: "2-digit",
+    }), []);
+
+  return (
+    <div
+      className={`flex items-end gap-3 ${
+        message.type === "user" ? "flex-row-reverse" : ""
+      }`}
+    >
+      <Avatar className="h-9 w-9 border border-border/60 bg-background/80 text-primary">
+        <AvatarFallback>
+          {message.type === "assistant" ? (
+            <Bot className="h-4 w-4" />
+          ) : (
+            <User className="h-4 w-4" />
+          )}
+        </AvatarFallback>
+      </Avatar>
+      <div
+        className={`flex max-w-[78%] flex-col gap-2 ${
+          message.type === "user"
+            ? "items-end text-right"
+            : ""
+        }`}
+      >
+        <div className="flex items-center gap-2 text-xs uppercase tracking-wide text-muted-foreground/80">
+          {message.type === "assistant" ? (
+            <>
+              <Shield className="h-3 w-3 text-primary" />
+              <span>Medical Verifier</span>
+            </>
+          ) : (
+            <>
+              <User className="h-3 w-3 text-secondary" />
+              <span>You</span>
+            </>
+          )}
+        </div>
+        <div
+          className={`rounded-2xl border px-4 py-3 text-sm leading-relaxed shadow-sm transition ${
+            message.type === "user"
+              ? "border-primary/70 bg-primary text-primary-foreground shadow-primary/20"
+              : "border-border/60 bg-background/65 backdrop-blur"
+          }`}
+        >
+          <p className="whitespace-pre-wrap text-sm md:text-[15px]">
+            {message.content}
+          </p>
+        </div>
+        <span className="text-[11px] text-muted-foreground/80">
+          {formatTimestamp(message.timestamp)}
+        </span>
+      </div>
+    </div>
+  );
+});
+
+MessageItem.displayName = "MessageItem";
 
 function App() {
   const [inputMessage, setInputMessage] = useState("");
-  const [activeChat, setActiveChat] = useState<string | null>(null);
   const [currentMessages, setCurrentMessages] = useState<Message[]>([]);
   const [currentSourceDocuments, setCurrentSourceDocuments] = useState<
     SourceDocument[]
   >([]);
-  const [isSidebarOpen, setIsSidebarOpen] = useState(true); // Default to open for desktop
+  const [isSidebarOpen, setIsSidebarOpen] = useState(true);
 
-  // API hooks
-  const {
-    queryHistory,
-    isLoading: isLoadingHistory,
-    isError: historyError,
-    mutate: refreshHistory,
-  } = useQueryHistory(20, 0);
-  const { query: selectedQuery, isLoading: isLoadingQuery } =
-    useQuery(activeChat);
   const {
     sendQuery,
     isLoading: isSendingMessage,
     error: sendError,
   } = useQueryRAG();
 
-  // Convert query history to chat list
-  const chatList = queryHistory ? convertQueryHistoryToChats(queryHistory) : [];
-  const activeChatMeta = activeChat
-    ? chatList.find((chat) => chat.id === activeChat)
-    : null;
-
-  const suggestionPills = [
+  const suggestionPills = useMemo(() => [
     "Long-term use of ibuprofen causes autism",
     "Garlic can cure the flu",
     "Alkaline water has proven health benefits",
     "Vaccines cause autism in children",
-  ];
+  ], []);
 
-  const showWelcomeState =
-    currentMessages.length === 0 && !isSendingMessage && !isLoadingQuery;
+  const showWelcomeState = useMemo(
+    () => currentMessages.length === 0 && !isSendingMessage,
+    [currentMessages.length, isSendingMessage]
+  );
 
-  const showHistoryEmptyState =
-    chatList.length === 0 && !isLoadingHistory && !historyError;
+  // Check if session has a completed response (not a chatbot, so only one query per session)
+  const hasCompletedResponse = useMemo(
+    () => currentMessages.length > 0 && !isSendingMessage && currentMessages.some(msg => msg.type === "assistant"),
+    [currentMessages, isSendingMessage]
+  );
 
-  const formatTimestamp = (timestamp: string) =>
-    new Date(timestamp).toLocaleTimeString([], {
-      hour: "2-digit",
-      minute: "2-digit",
-    });
-
-  // Update messages when a chat is selected
-  useEffect(() => {
-    if (selectedQuery) {
-      const messages: Message[] = [
-        {
-          id: `${selectedQuery.query_history.id}-user`,
-          type: "user",
-          content: selectedQuery.query_history.query,
-          timestamp: selectedQuery.query_history.created_at,
-        },
-        {
-          id: `${selectedQuery.query_history.id}-assistant`,
-          type: "assistant",
-          content: selectedQuery.query_history.chat_response,
-          timestamp: selectedQuery.query_history.created_at,
-          source_documents: selectedQuery.source_documents.map((doc) => ({
-            content: doc.content_preview,
-            score: doc.similarity_score,
-            metadata: doc.document_metadata || {
-              file_name: "Unknown",
-              page: undefined,
-              source: undefined,
-            },
-          })),
-        },
-      ];
-      setCurrentMessages(messages);
-
-      // Set source documents for the table
-      const sourceDocs: SourceDocument[] = selectedQuery.source_documents.map(
-        (doc) => ({
-          content: doc.content_preview,
-          score: doc.similarity_score,
-          metadata: doc.document_metadata || {
-            file_name: "Unknown",
-            page: undefined,
-            source: undefined,
-          },
-        })
-      );
-      setCurrentSourceDocuments(sourceDocs);
-    } else {
-      setCurrentMessages([]);
-      setCurrentSourceDocuments([]);
+  const handleSuggestionClick = useCallback((value: string) => {
+    // Only allow suggestions if no response has been received yet
+    if (!hasCompletedResponse) {
+      setInputMessage(value);
     }
-  }, [selectedQuery]);
+  }, [hasCompletedResponse]);
 
-  const handleSuggestionClick = (value: string) => {
-    setInputMessage(value);
-  };
-
-  const handleSendMessage = async () => {
-    if (!inputMessage.trim() || isSendingMessage) return;
+  const handleSendMessage = useCallback(async () => {
+    // Prevent sending if there's already a completed response
+    if (!inputMessage.trim() || isSendingMessage || hasCompletedResponse) return;
 
     const queryText = inputMessage.trim();
     setInputMessage("");
 
     try {
-      // Add user message immediately for better UX
+      // Add user message immediately
       const tempUserMessage: Message = {
         id: `temp-${Date.now()}-user`,
         type: "user",
@@ -303,7 +309,6 @@ function App() {
       };
 
       setCurrentMessages((prev) => [...prev, tempUserMessage]);
-      setActiveChat(null); // Clear active chat since we're creating a new conversation
 
       // Send query to API
       const response = await sendQuery({ query: queryText, top_k: 2 });
@@ -317,55 +322,44 @@ function App() {
         );
         setCurrentMessages(newMessages);
         setCurrentSourceDocuments(response.source_documents);
-
-        // Refresh history to show the new query
-        refreshHistory();
       } else {
-        // Remove temp message if there was an error
         setCurrentMessages((prev) =>
           prev.filter((msg) => msg.id !== tempUserMessage.id)
         );
       }
     } catch (error) {
       console.error("Error sending message:", error);
-      // Remove temp message on error
       setCurrentMessages((prev) =>
         prev.filter((msg) => msg.id.startsWith("temp-"))
       );
     }
-  };
+  }, [inputMessage, isSendingMessage, hasCompletedResponse, sendQuery]);
 
-  const handleKeyDown = (e: React.KeyboardEvent) => {
-    if (e.key === "Enter" && !e.shiftKey) {
+  const handleKeyDown = useCallback((e: React.KeyboardEvent) => {
+    // Prevent sending if there's already a completed response
+    if (e.key === "Enter" && !e.shiftKey && !hasCompletedResponse) {
       e.preventDefault();
       handleSendMessage();
     }
-  };
+  }, [handleSendMessage, hasCompletedResponse]);
 
-  const handleNewChat = () => {
-    setActiveChat(null);
+  const handleNewChat = useCallback(() => {
     setCurrentMessages([]);
     setCurrentSourceDocuments([]);
-    setIsSidebarOpen(false); // Close sidebar on mobile when starting new chat
-  };
+    setIsSidebarOpen(false); 
+  }, []);
 
-  const handleSelectChat = (chatId: string) => {
-    setActiveChat(chatId);
-    setIsSidebarOpen(false); // Close sidebar on mobile when selecting a chat
-  };
-
-  const toggleSidebar = () => {
-    setIsSidebarOpen(!isSidebarOpen);
-  };
+  const toggleSidebar = useCallback(() => {
+    setIsSidebarOpen((prev) => !prev);
+  }, []);
 
   return (
     <div className="relative min-h-screen overflow-hidden bg-background text-foreground">
-      {/* Professional gradient background effects */}
+      {/* Background effects */}
       <div aria-hidden="true" className="pointer-events-none absolute inset-0 overflow-hidden">
         <div className="absolute -left-24 -top-32 h-96 w-96 rounded-full bg-primary/20 blur-3xl opacity-40" />
         <div className="absolute right-[-8rem] top-1/3 h-[28rem] w-[28rem] rounded-full bg-secondary/15 blur-3xl opacity-50" />
         <div className="absolute bottom-[-6rem] left-1/2 h-80 w-80 -translate-x-1/2 rounded-full bg-accent/20 blur-3xl opacity-40" />
-        {/* Subtle grid pattern for professional look */}
         <div className="absolute inset-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:24px_24px]" />
       </div>
 
@@ -386,7 +380,7 @@ function App() {
               : "-translate-x-full lg:translate-x-0 lg:w-16"
           }`}
         >
-          {/* Collapsed State (Desktop) - Narrow bar with icons */}
+          {/* Collapsed State */}
           {!isSidebarOpen && (
             <div className="hidden lg:flex flex-col items-center h-full py-4 gap-4 w-16 shrink-0">
               <Button
@@ -418,7 +412,7 @@ function App() {
             </div>
           )}
 
-          {/* Expanded State - Full sidebar */}
+          {/* Expanded State */}
           {isSidebarOpen && (
           <div className="flex h-full w-[320px] flex-col gap-6 p-6 overflow-hidden">
             <div className="flex items-center justify-between shrink-0">
@@ -436,14 +430,10 @@ function App() {
                     <div className="flex items-center gap-2">
                       <Shield className="h-6 w-6 text-primary" />
                       <h1 className="text-2xl font-semibold leading-tight">
-                        Medical Information Checker
+                        Medical Info
                       </h1>
                     </div>
                   </div>
-                  <p className="text-sm text-muted-foreground pl-12">
-                    Verify medical claims, check treatment accuracy, and get
-                    evidence-based health information.
-                  </p>
                 </div>
               </div>
               <Button
@@ -466,91 +456,29 @@ function App() {
               </Button>
             </div>
 
-            <div className="rounded-2xl border border-border/50 bg-background/45 p-5 backdrop-blur-md shrink-0">
-              <div className="flex items-center gap-2 text-sm font-semibold text-foreground">
-                <Lightbulb className="h-4 w-4 text-primary" />
-                Try asking about
-              </div>
-              <ul className="mt-3 space-y-2 text-xs text-muted-foreground">
+            {/* Sidebar Content */}
+            <div className="flex-1 min-h-0 overflow-hidden">
+              <div className="rounded-2xl border border-border/50 bg-background/45 p-5 backdrop-blur-md">
+                <div className="flex items-center gap-2 text-sm font-semibold text-foreground">
+                  <Lightbulb className="h-4 w-4 text-primary" />
+                  Try asking about
+                </div>
+                <ul className="mt-3 space-y-2 text-xs text-muted-foreground">
                 {suggestionPills.map((suggestion) => (
                   <li key={`tip-${suggestion}`}>
                     <button
                       type="button"
                       onClick={() => handleSuggestionClick(suggestion)}
-                      className="flex w-full items-center gap-2 rounded-xl border border-transparent bg-transparent px-2 py-1 text-left transition hover:border-primary/40 hover:bg-primary/10 hover:text-foreground"
+                      disabled={hasCompletedResponse}
+                      className="flex w-full items-center gap-2 rounded-xl border border-transparent bg-transparent px-2 py-1 text-left transition hover:border-primary/40 hover:bg-primary/10 hover:text-foreground disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:border-transparent disabled:hover:bg-transparent"
                     >
                       <span className="mt-0.5 h-1.5 w-1.5 rounded-full bg-primary/60" />
                       {suggestion}
                     </button>
                   </li>
                 ))}
-              </ul>
-            </div>
-
-            <div className="flex-1 min-h-0 overflow-hidden">
-              <div className="mb-3 flex items-center justify-between text-sm font-semibold text-muted-foreground">
-                <div className="flex items-center gap-2 text-foreground">
-                  <History className="h-4 w-4 text-primary" />
-                  Conversations
-                </div>
-                <span className="text-[11px] uppercase tracking-wide text-muted-foreground/80">
-                  {chatList.length} saved
-                </span>
+                </ul>
               </div>
-              <ScrollArea className="h-full pr-1">
-                <div className="space-y-2">
-                  {isLoadingHistory ? (
-                    <div className="flex items-center justify-center rounded-2xl border border-border/50 bg-background/45 p-6 text-sm text-muted-foreground">
-                      <Loader2 className="mr-2 h-4 w-4 animate-spin text-primary" />
-                      Loading chats...
-                    </div>
-                  ) : historyError ? (
-                    <div className="flex items-center justify-center rounded-2xl border border-red-500/40 bg-red-500/10 p-6 text-sm text-red-200">
-                      <AlertCircle className="mr-2 h-4 w-4" />
-                      Failed to load chat history
-                    </div>
-                  ) : showHistoryEmptyState ? (
-                    <div className="rounded-2xl border border-dashed border-border/60 bg-background/40 p-6 text-center text-sm text-muted-foreground">
-                      No chats yet — start a conversation!
-                    </div>
-                  ) : (
-                    chatList.map((chat) => (
-                      <button
-                        key={chat.id}
-                        onClick={() => handleSelectChat(chat.id)}
-                        className={`w-full rounded-2xl border px-4 py-4 text-left transition-all ${
-                          activeChat === chat.id
-                            ? "border-primary/60 bg-primary/15 text-foreground shadow-[0_12px_30px_-22px_rgba(0,0,0,0.8)]"
-                            : "border-transparent bg-background/45 text-muted-foreground hover:border-primary/40 hover:bg-primary/10 hover:text-foreground"
-                        }`}
-                      >
-                        <div className="flex items-start justify-between gap-3">
-                          <div className="min-w-0">
-                            <p className="truncate text-sm font-semibold leading-tight">
-                              {chat.name}
-                            </p>
-                            <p className="mt-1 text-xs text-muted-foreground">
-                              {new Date(chat.created_at).toLocaleDateString()} •{" "}
-                              {new Date(chat.created_at).toLocaleTimeString([], {
-                                hour: "2-digit",
-                                minute: "2-digit",
-                              })}
-                            </p>
-                          </div>
-                          {!chat.success && (
-                            <Badge
-                              variant="outline"
-                              className="rounded-full border-red-400/60 bg-transparent text-[11px] text-red-300"
-                            >
-                              Needs review
-                            </Badge>
-                          )}
-                        </div>
-                      </button>
-                    ))
-                  )}
-                </div>
-              </ScrollArea>
             </div>
           </div>
           )}
@@ -573,20 +501,15 @@ function App() {
                     </span>
                     <div>
                       <h2 className="text-xl font-semibold tracking-tight md:text-2xl lg:text-3xl">
-                        {activeChatMeta
-                          ? activeChatMeta.name
-                          : "Start a new chat"}
+                        Current Session
                       </h2>
                       <p className="mt-2 max-w-xl text-sm text-muted-foreground">
-                        {activeChatMeta
-                          ? "Review your selected discussion or continue checking medical information."
-                          : "Verify medical claims, check treatment accuracy, or get evidence-based information."}
+                        Verify medical claims, check treatment accuracy, or get evidence-based information.
                       </p>
                     </div>
                   </div>
                 </div>
                 <div className="flex items-center gap-2">
-                  {/* Quick Actions - Visible when sidebar is closed on mobile */}
                   <div className="flex items-center gap-2 lg:hidden">
                     <Button
                       variant="ghost"
@@ -598,12 +521,6 @@ function App() {
                       <Plus className="h-5 w-5" />
                     </Button>
                   </div>
-                  {activeChatMeta && (
-                    <Badge className="hidden rounded-full bg-primary/20 text-[11px] font-normal text-primary md:inline-flex">
-                      Saved{" "}
-                      {new Date(activeChatMeta.created_at).toLocaleDateString()}
-                    </Badge>
-                  )}
                 </div>
               </div>
               {showWelcomeState && (
@@ -664,12 +581,7 @@ function App() {
               <ScrollArea className="h-full px-6 py-6 md:px-10 md:py-8">
                 <div className="mx-auto flex max-w-4xl flex-col gap-8">
                   <div className="flex flex-col gap-6">
-                    {isLoadingQuery && activeChat ? (
-                      <div className="flex flex-col items-center justify-center gap-3 rounded-2xl border border-border/60 bg-background/50 p-10 text-center text-sm text-muted-foreground">
-                        <Loader2 className="h-6 w-6 animate-spin text-primary" />
-                        Loading conversation...
-                      </div>
-                    ) : currentMessages.length === 0 ? (
+                    {currentMessages.length === 0 ? (
                       !showWelcomeState && (
                         <div className="flex flex-col items-center justify-center gap-3 rounded-2xl border border-border/60 bg-background/50 p-10 text-center text-sm text-muted-foreground">
                           <Bot className="h-10 w-10 text-muted-foreground" />
@@ -678,57 +590,7 @@ function App() {
                       )
                     ) : (
                       currentMessages.map((message) => (
-                        <div
-                          key={message.id}
-                          className={`flex items-end gap-3 ${
-                            message.type === "user" ? "flex-row-reverse" : ""
-                          }`}
-                        >
-                          <Avatar className="h-9 w-9 border border-border/60 bg-background/80 text-primary">
-                            <AvatarFallback>
-                              {message.type === "assistant" ? (
-                                <Bot className="h-4 w-4" />
-                              ) : (
-                                <User className="h-4 w-4" />
-                              )}
-                            </AvatarFallback>
-                          </Avatar>
-                          <div
-                            className={`flex max-w-[78%] flex-col gap-2 ${
-                              message.type === "user"
-                                ? "items-end text-right"
-                                : ""
-                            }`}
-                          >
-                            <div className="flex items-center gap-2 text-xs uppercase tracking-wide text-muted-foreground/80">
-                              {message.type === "assistant" ? (
-                                <>
-                                  <Shield className="h-3 w-3 text-primary" />
-                                  <span>Medical Verifier</span>
-                                </>
-                              ) : (
-                                <>
-                                  <User className="h-3 w-3 text-secondary" />
-                                  <span>You</span>
-                                </>
-                              )}
-                            </div>
-                            <div
-                              className={`rounded-2xl border px-4 py-3 text-sm leading-relaxed shadow-sm transition ${
-                                message.type === "user"
-                                  ? "border-primary/70 bg-primary text-primary-foreground shadow-primary/20"
-                                  : "border-border/60 bg-background/65 backdrop-blur"
-                              }`}
-                            >
-                              <p className="whitespace-pre-wrap text-sm md:text-[15px]">
-                                {message.content}
-                              </p>
-                            </div>
-                            <span className="text-[11px] text-muted-foreground/80">
-                              {formatTimestamp(message.timestamp)}
-                            </span>
-                          </div>
-                        </div>
+                        <MessageItem key={message.id} message={message} />
                       ))
                     )}
 
@@ -793,38 +655,60 @@ function App() {
                     <p className="mt-1 text-xs opacity-80">{sendError}</p>
                   </div>
                 )}
-                <div className="flex flex-col gap-3 sm:flex-row">
-                  <div className="relative flex-1">
-                    <Input
-                      placeholder="Enter a medical claim to verify (e.g., 'Long-term use of ibuprofen causes autism')..."
-                      value={inputMessage}
-                      onChange={(e) => setInputMessage(e.target.value)}
-                      onKeyDown={handleKeyDown}
-                      className="h-12 rounded-2xl border-border/60 bg-background/80 pr-16 text-sm shadow-inner shadow-black/20 backdrop-blur transition-all focus:border-primary/60 focus:ring-2 focus:ring-primary/20"
-                      disabled={isSendingMessage}
-                    />
-                    <div className="pointer-events-none absolute inset-y-0 right-4 hidden items-center gap-2 text-[11px] text-muted-foreground sm:flex">
-                      <span>Press</span>
-                      <kbd className="rounded-md border border-border/60 bg-background/70 px-2 py-1 text-[10px] uppercase">
-                        Enter
-                      </kbd>
+                
+                {hasCompletedResponse ? (
+                  <div className="rounded-2xl border border-primary/30 bg-primary/10 px-6 py-5 text-center">
+                    <div className="flex flex-col items-center gap-4">
+                      <div className="flex items-center gap-2 text-sm font-semibold text-foreground">
+                        <Shield className="h-5 w-5 text-primary" />
+                        <span>Response Complete</span>
+                      </div>
+                      <p className="text-sm text-muted-foreground max-w-md">
+                        This is a fact-checker, not a chatbot. Each query is independent and doesn't maintain context from previous messages.
+                      </p>
+                      <Button
+                        onClick={handleNewChat}
+                        className="h-11 rounded-2xl bg-primary/90 px-6 text-sm font-semibold text-primary-foreground shadow-lg shadow-primary/30 transition hover:bg-primary"
+                      >
+                        <Plus className="mr-2 h-4 w-4" />
+                        Start New Fact-Check Session
+                      </Button>
                     </div>
                   </div>
-                  <Button
-                    onClick={handleSendMessage}
-                    className="h-12 rounded-2xl bg-primary/90 px-6 text-sm font-semibold text-primary-foreground shadow-lg shadow-primary/30 transition hover:bg-primary"
-                    disabled={!inputMessage.trim() || isSendingMessage}
-                  >
-                    {isSendingMessage ? (
-                      <Loader2 className="h-4 w-4 animate-spin" />
-                    ) : (
-                      <>
-                        <Send className="mr-2 h-4 w-4" />
-                        Send
-                      </>
-                    )}
-                  </Button>
-                </div>
+                ) : (
+                  <div className="flex flex-col gap-3 sm:flex-row">
+                    <div className="relative flex-1">
+                      <Input
+                        placeholder="Enter a medical claim to verify (e.g., 'Long-term use of ibuprofen causes autism')..."
+                        value={inputMessage}
+                        onChange={(e) => setInputMessage(e.target.value)}
+                        onKeyDown={handleKeyDown}
+                        className="h-12 rounded-2xl border-border/60 bg-background/80 pr-16 text-sm shadow-inner shadow-black/20 backdrop-blur transition-all focus:border-primary/60 focus:ring-2 focus:ring-primary/20"
+                        disabled={isSendingMessage}
+                      />
+                      <div className="pointer-events-none absolute inset-y-0 right-4 hidden items-center gap-2 text-[11px] text-muted-foreground sm:flex">
+                        <span>Press</span>
+                        <kbd className="rounded-md border border-border/60 bg-background/70 px-2 py-1 text-[10px] uppercase">
+                          Enter
+                        </kbd>
+                      </div>
+                    </div>
+                    <Button
+                      onClick={handleSendMessage}
+                      className="h-12 rounded-2xl bg-primary/90 px-6 text-sm font-semibold text-primary-foreground shadow-lg shadow-primary/30 transition hover:bg-primary"
+                      disabled={!inputMessage.trim() || isSendingMessage}
+                    >
+                      {isSendingMessage ? (
+                        <Loader2 className="h-4 w-4 animate-spin" />
+                      ) : (
+                        <>
+                          <Send className="mr-2 h-4 w-4" />
+                          Send
+                        </>
+                      )}
+                    </Button>
+                  </div>
+                )}
               </div>
             </div>
           </div>
