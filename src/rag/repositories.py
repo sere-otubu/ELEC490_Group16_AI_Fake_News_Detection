@@ -109,11 +109,11 @@ class RAGRepository:
                 )
 
             self.vector_store = PGVectorStore.from_params(
-                database=settings.PG_DATABASE,
-                host=settings.PG_HOST,
-                password=settings.PG_PASSWORD,
-                port=str(settings.PG_PORT),
-                user=settings.PG_USER,
+                database=settings.effective_pg_database,
+                host=settings.effective_pg_host,
+                password=settings.effective_pg_password,
+                port=str(settings.effective_pg_port),
+                user=settings.effective_pg_user,
                 table_name=settings.VECTOR_TABLE_NAME,
                 embed_dim=embed_dim,
             )
