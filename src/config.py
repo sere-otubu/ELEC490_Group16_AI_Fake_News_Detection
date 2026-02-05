@@ -40,6 +40,10 @@ class Settings(BaseSettings):
     PG_PASSWORD: str = Field(default="", description="PostgreSQL user password")
     PG_DATABASE: str = Field(default="postgres", description="PostgreSQL database name")
 
+    SUPABASE_URL: str | None = Field(default=None, description="Supabase project URL (e.g., https://<project-ref>.supabase.co)")
+    SUPABASE_KEY: str | None = Field(default=None, description="Supabase API key")
+    SUPABASE_BUCKET_NAME: str = Field(default="capstone-data-documents", description="Supabase storage bucket")
+
     # Vector Store Configuration
     VECTOR_TABLE_NAME: str = Field(
         default="documents", description="Name of the table to store document vectors"
