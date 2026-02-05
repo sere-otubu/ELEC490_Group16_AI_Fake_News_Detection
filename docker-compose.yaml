@@ -47,7 +47,6 @@ services:
     depends_on:
       - ollama
     volumes:
-      - ./data:/app/data
       - ./logs:/app/logs
     networks:
       - app-network

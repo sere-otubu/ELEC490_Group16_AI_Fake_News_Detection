@@ -62,7 +62,6 @@ services:
       - db
       - ollama
     volumes:
-      - ./data:/app/data
       - ./logs:/app/logs
     networks:
       - app-network

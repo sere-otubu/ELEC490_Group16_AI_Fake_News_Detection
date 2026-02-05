@@ -1,5 +1,4 @@
 import logging
-import re
 from contextlib import asynccontextmanager
 from datetime import datetime
 from pathlib import Path
@@ -95,45 +94,6 @@ app.include_router(history_router)
 app.include_router(rag_router)
 
 
-@app.get("/files/download/{filename}")
-async def download_file(filename: str):
-    """Download a file from the data directory.
-
-    Args:
-        filename: Name of the file to download
-
-    Returns:
-        FileResponse: The requested file
-
-    Raises:
-        HTTPException: If file not found or access denied
-    """
-
-    if not re.match(r"^[a-zA-Z0-9._-]+$", filename):
-        raise HTTPException(status_code=400, detail="Invalid filename")
-
-    file_path = Path("data") / filename
-
-    try:
-        file_path = file_path.resolve()
-        data_dir = Path("data").resolve()
-        file_path.relative_to(data_dir)
-    except ValueError:
-        raise HTTPException(status_code=403, detail="Access denied") from None
-
-    if not file_path.exists() or not file_path.is_file():
-        raise HTTPException(status_code=404, detail="File not found")
-
-    logger.info(f"Serving file download: {filename}")
-    return FileResponse(
-        path=file_path, filename=filename, media_type="application/octet-stream"
-    )
-
-
-static_path = Path("files")
-if static_path.exists() and static_path.is_dir():
-    app.mount("/files", StaticFiles(directory="files"), name="files")
-    logger.info("Static files mounted at /files")
 
 
 frontend_dist_path = Path("frontend/dist")

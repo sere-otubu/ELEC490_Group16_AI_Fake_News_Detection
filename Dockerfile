@@ -40,7 +40,6 @@
     
     # Copy source code
     COPY src/ ./src/
-    COPY data/ ./data/
     
     # CRITICAL STEP: Copy the built frontend from Stage 1
     COPY --from=frontend-builder /app/frontend/dist ./frontend/dist
