@@ -32,7 +32,7 @@ class QueryResponse(BaseModel):
 
 class QueryRequest(BaseModel):
     query: str = Field(..., description="The query string to be processed.")
-    top_k: int = Field(3, description="Number of top results to return.", ge=1)
+    top_k: int = Field(3, description="Number of top results to return.", ge=1, le=5)
 
 
 class HealthStatusResponse(BaseModel):

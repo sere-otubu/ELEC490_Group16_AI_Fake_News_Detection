@@ -7,15 +7,18 @@ including vector storage, document indexing, and query operations.
 import logging
 import traceback
 from contextlib import suppress
+from typing import Any, List
 
+import httpx
 from llama_index.core import (
     Settings,
     StorageContext,
     VectorStoreIndex,
 )
+from llama_index.core.base.embeddings.base import BaseEmbedding
+from llama_index.core.bridge.pydantic import PrivateAttr
 from llama_index.core.node_parser import SentenceSplitter
-from llama_index.embeddings.ollama import OllamaEmbedding
-from llama_index.llms.ollama import Ollama
+from llama_index.llms.openai_like import OpenAILike
 from llama_index.vector_stores.postgres import PGVectorStore
 from sqlalchemy import create_engine, text
 from sqlalchemy.engine import Engine
@@ -24,6 +27,63 @@ from src.schemas import DocumentMetadata, QueryRequest, QueryResponse, SourceDoc
 from src.rag.prompt import RAG_PROMPT_TEMPLATE
 
 logger = logging.getLogger(__name__)
+
+class OpenRouterEmbedding(BaseEmbedding):
+    """Custom embedding class for OpenRouter's embedding API."""
+
+    _api_key: str = PrivateAttr()
+    _api_base: str = PrivateAttr()
+    _model: str = PrivateAttr()
+    _client: httpx.Client = PrivateAttr()
+
+    def __init__(
+        self,
+        api_key: str,
+        model: str = "google/gemini-embedding-001",
+        api_base: str = "https://openrouter.ai/api/v1",
+        **kwargs: Any,
+    ) -> None:
+        """Initialize OpenRouter embedding client."""
+        super().__init__(**kwargs)
+        self._api_key = api_key
+        self._api_base = api_base.rstrip("/")
+        self._model = model
+        self._client = httpx.Client(timeout=60.0)
+
+    def _get_embedding(self, text: str) -> List[float]:
+        """Get embedding for a single text."""
+        response = self._client.post(
+            f"{self._api_base}/embeddings",
+            headers={
+                "Authorization": f"Bearer {self._api_key}",
+                "Content-Type": "application/json",
+                "HTTP-Referer": "https://github.com/capstone-project",
+                "X-Title": "Capstone RAG System",
+            },
+            json={
+                "model": self._model,
+                "input": text,
+            },
+        )
+        response.raise_for_status()
+        data = response.json()
+        return data["data"][0]["embedding"]
+
+    def _get_query_embedding(self, query: str) -> List[float]:
+        """Get embedding for a query."""
+        return self._get_embedding(query)
+
+    def _get_text_embedding(self, text: str) -> List[float]:
+        """Get embedding for a text."""
+        return self._get_embedding(text)
+
+    async def _aget_query_embedding(self, query: str) -> List[float]:
+        """Async get embedding for a query."""
+        return self._get_embedding(query)
+
+    async def _aget_text_embedding(self, text: str) -> List[float]:
+        """Async get embedding for a text."""
+        return self._get_embedding(text)
 
 
 class RAGRepository:
@@ -40,29 +100,39 @@ class RAGRepository:
         self._setup_database()
 
     def _setup_models(self) -> None:
-        """Setup the LLM and embedding models and validate embedding dimension."""
+        """Setup the LLM and embedding models using OpenRouter."""
         try:
-            Settings.llm = Ollama(
-                model=settings.CHAT_MODEL,
-                base_url=settings.OLLAMA_BASE_URL,
-                request_timeout=120.0,
-                additional_kwargs={
-                    "headers": {"ngrok-skip-browser-warning": "true"}
-                }
+            if not settings.OPENROUTER_API_KEY:
+                raise ValueError(
+                    "OPENROUTER_API_KEY is required. Get one from https://openrouter.ai"
+                )
+
+            # Setup LLM using OpenRouter (OpenAI-compatible API)
+            Settings.llm = OpenAILike(
+                model=settings.OPENROUTER_LLM_MODEL,
+                api_key=settings.OPENROUTER_API_KEY,
+                api_base=settings.OPENROUTER_BASE_URL,
+                is_chat_model=True,
+                timeout=120.0,
+                default_headers={
+                    "HTTP-Referer": "https://github.com/capstone-project",
+                    "X-Title": "Capstone RAG System",
+                },
             )
-            Settings.embed_model = OllamaEmbedding(
-                model_name=settings.EMBEDDING_MODEL,
-                base_url=settings.OLLAMA_BASE_URL,
-                additional_kwargs={
-                    "headers": {"ngrok-skip-browser-warning": "true"}
-                }
+            logger.info("LLM configured: OpenRouter/%s", settings.OPENROUTER_LLM_MODEL)
+
+            # Setup Embeddings using custom OpenRouter embedding class
+            Settings.embed_model = OpenRouterEmbedding(
+                api_key=settings.OPENROUTER_API_KEY,
+                model=settings.OPENROUTER_EMBEDDING_MODEL,
+                api_base=settings.OPENROUTER_BASE_URL,
             )
             logger.info(
-                "Models configured: LLM=%s, Embedding=%s",
-                settings.CHAT_MODEL,
-                settings.EMBEDDING_MODEL,
+                "Embedding model configured: OpenRouter/%s",
+                settings.OPENROUTER_EMBEDDING_MODEL,
             )
 
+            # Probe embedding dimension
             try:
                 test_vector = Settings.embed_model.get_text_embedding("__dim_probe__")
                 self._actual_embed_dim = len(test_vector)
@@ -222,6 +292,7 @@ class RAGRepository:
                 response_mode="compact",
                 similarity_cutoff=0.6,
             )
+            
             response = query_engine.query(query_request.query)
 
             source_documents: list[SourceDocument] = []

@@ -1,76 +1,31 @@
 services:
-  db:
-    image: pgvector/pgvector:pg17
-    container_name: postgres-pgvector
-    ports:
-      - "${APP_PG_PORT}:5432"
-    environment:
-      POSTGRES_USER: ${APP_PG_USER}
-      POSTGRES_PASSWORD: ${APP_PG_PASSWORD}
-      POSTGRES_DB: ${APP_PG_DATABASE}
-    volumes:
-      - postgres_data:/var/lib/postgresql/data
-    networks:
-      - app-network
-
-  ollama:
-    image: ollama/ollama:latest
-    container_name: ollama-server
-    ports:
-      - "11434:11434"
-    volumes:
-      - ollama_data:/root/.ollama
-    environment:
-      - OLLAMA_HOST=0.0.0.0
-      - APP_CHAT_MODEL=${APP_CHAT_MODEL}
-      - APP_EMBEDDING_MODEL=${APP_EMBEDDING_MODEL}
-    # deploy:
-    #   resources:
-    #     reservations:
-    #       devices:
-    #         - driver: nvidia
-    #           count: all
-    #           capabilities: [gpu]
-    entrypoint: []
-    command:
-      [
-        "sh",
-        "-c",
-        "ollama serve & sleep 5 && (ollama pull ${APP_CHAT_MODEL} || echo 'Failed to pull chat model') && (ollama pull ${APP_EMBEDDING_MODEL} || echo 'Failed to pull embedding model') && wait",
-      ]
-    restart: no
-    networks:
-      - app-network
-
   backend:
     build:
       context: .
       dockerfile: Dockerfile
     container_name: capstone-project-backend
+    env_file:
+      - .env
     ports:
       - "8000:8000"
     environment:
-      - APP_PG_HOST=db
-      - APP_PG_PORT=5432
-      - APP_PG_USER=${APP_PG_USER}
-      - APP_PG_PASSWORD=${APP_PG_PASSWORD}
-      - APP_PG_DATABASE=${APP_PG_DATABASE}
-      - APP_OLLAMA_BASE_URL=${APP_OLLAMA_BASE_URL}
-      - APP_CHAT_MODEL=${APP_CHAT_MODEL}
-      - APP_EMBEDDING_MODEL=${APP_EMBEDDING_MODEL}
-    depends_on:
-      - db
-      - ollama
+      # Supabase Database
+      - APP_DATABASE_URL=${APP_DATABASE_URL}
+      - APP_VECTOR_TABLE_NAME=${APP_VECTOR_TABLE_NAME}
+      # Supabase Storage
+      - APP_SUPABASE_URL=${APP_SUPABASE_URL}
+      - APP_SUPABASE_KEY=${APP_SUPABASE_KEY}
+      - APP_SUPABASE_BUCKET_NAME=${APP_SUPABASE_BUCKET_NAME}
+      # OpenRouter (LLM and Embeddings)
+      - APP_OPENROUTER_API_KEY=${APP_OPENROUTER_API_KEY}
+      - APP_OPENROUTER_LLM_MODEL=${APP_OPENROUTER_LLM_MODEL}
+      - APP_OPENROUTER_EMBEDDING_MODEL=${APP_OPENROUTER_EMBEDDING_MODEL}
+      - APP_EMBED_DIM=${APP_EMBED_DIM}
     volumes:
-      - ./data:/app/data
       - ./logs:/app/logs
     networks:
       - app-network
     restart: unless-stopped
-
-volumes:
-  postgres_data:
-  ollama_data:
 
 networks:
   app-network:

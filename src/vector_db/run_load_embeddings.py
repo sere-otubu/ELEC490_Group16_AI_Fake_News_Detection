@@ -3,6 +3,9 @@
 This script processes documents in the data folder and indexes them
 into the vector store. It uses a tracking file to support incremental loading,
 skipping files that have already been processed and haven't changed.
+
+Additionally, files are uploaded to Supabase Storage for persistence and
+the storage URL is added to document metadata for reference.
 """
 
 import logging
@@ -10,9 +13,10 @@ import sys
 import json
 import hashlib
 from pathlib import Path
-from typing import Dict, List, Tuple
+from typing import Dict, List, Tuple, Optional
 from llama_index.core import SimpleDirectoryReader
 from llama_index.core.schema import Document
+from supabase import create_client, Client
 
 sys.path.append(str(Path(__file__).parent.parent.parent))
 
@@ -28,6 +32,64 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 TRACKING_FILE_NAME = "indexing_state.json"
+
+
+class SupabaseUploader:
+    """Handles uploading files to Supabase Storage."""
+
+    def __init__(self) -> None:
+        """Initialize the Supabase client for storage operations."""
+        self.enabled = False
+        self.supabase: Optional[Client] = None
+        self.bucket = settings.SUPABASE_BUCKET_NAME
+
+        if settings.SUPABASE_URL and settings.SUPABASE_KEY:
+            try:
+                self.supabase = create_client(settings.SUPABASE_URL, settings.SUPABASE_KEY)
+                self.enabled = True
+                logger.info(f"Supabase Storage enabled. Bucket: {self.bucket}")
+            except Exception as e:
+                logger.warning(f"Failed to initialize Supabase client: {e}")
+                logger.warning("Files will be indexed locally but NOT uploaded to Supabase.")
+        else:
+            logger.info("Supabase URL/Key not configured. Storage upload disabled.")
+
+    def upload_file(self, local_path: Path, remote_path: str) -> Optional[str]:
+        """
+        Upload a single file to the specified Supabase bucket.
+        
+        Args:
+            local_path: Path to the local file to upload
+            remote_path: Destination path in the Supabase bucket
+            
+        Returns:
+            The public URL of the uploaded file, or None if upload failed/disabled
+        """
+        if not self.enabled or not self.supabase:
+            return None
+
+        try:
+            with open(local_path, 'rb') as f:
+                # Use upsert=True so it updates the file if it already exists
+                self.supabase.storage.from_(self.bucket).upload(
+                    path=remote_path,
+                    file=f,
+                    file_options={"upsert": "true"}
+                )
+            
+            # Construct the public URL for the file
+            file_url = f"{settings.SUPABASE_URL}/storage/v1/object/public/{self.bucket}/{remote_path}"
+            logger.info(f"[OK] Uploaded {local_path.name} to Supabase storage")
+            return file_url
+            
+        except Exception as e:
+            logger.error(f"Failed to upload {local_path.name} to Supabase: {e}")
+            return None
+
+    def get_public_url(self, remote_path: str) -> str:
+        """Get the public URL for a file in the bucket."""
+        return f"{settings.SUPABASE_URL}/storage/v1/object/public/{self.bucket}/{remote_path}"
+
 
 class DocumentLoader:
     """Handles loading and processing of documents."""
@@ -107,11 +169,16 @@ def save_indexing_state(data_path: Path, state: Dict[str, str]):
 
 
 def load_and_index_documents(rag_service: RAGService) -> bool:
-    """Main function to load and index ONLY new or changed documents."""
+    """Main function to load and index ONLY new or changed documents.
+    
+    This function also uploads files to Supabase Storage (if configured) and
+    adds the storage URL to document metadata for future reference.
+    """
     try:
         logger.info("Starting smart document loading process...")
 
         loader = DocumentLoader()
+        uploader = SupabaseUploader()  # Initialize Supabase uploader
         data_path = Path(settings.DATA_FOLDER)
         
         # 1. Load the history of what we've already done
@@ -151,12 +218,35 @@ def load_and_index_documents(rag_service: RAGService) -> bool:
 
         logger.info(f"Preparing to index {len(files_to_process)} new/modified documents...")
 
-        # 4. Load content only for the new files
+        # 4. Upload to Supabase Storage and load content for new files
         new_documents = []
+        upload_count = 0
+        
         for file_path in files_to_process:
-            logger.info(f"Loading content: {file_path.name}")
+            logger.info(f"Processing: {file_path.name}")
+            
+            # Upload to Supabase Storage (preserving folder structure)
+            relative_path = file_path.relative_to(data_path)
+            remote_path = str(relative_path).replace("\\", "/")  # Normalize path separators
+            file_url = uploader.upload_file(file_path, remote_path)
+            
+            if file_url:
+                upload_count += 1
+            
+            # Load document content for embedding
             docs = loader.load_specific_document(file_path)
+            
+            # Add storage URL to document metadata (even if upload failed, we still index)
+            for doc in docs:
+                if file_url:
+                    doc.metadata["file_url"] = file_url
+                    doc.metadata["storage_bucket"] = settings.SUPABASE_BUCKET_NAME
+                doc.metadata["source_file"] = str(relative_path)
+            
             new_documents.extend(docs)
+
+        if upload_count > 0:
+            logger.info(f"[OK] Uploaded {upload_count}/{len(files_to_process)} files to Supabase Storage")
 
         if not new_documents:
             logger.warning("Files were detected but no content could be extracted.")
@@ -178,7 +268,7 @@ def load_and_index_documents(rag_service: RAGService) -> bool:
 
             save_indexing_state(data_path, new_state)
             
-            logger.info("✓ Indexing complete and tracking file updated.")
+            logger.info("[OK] Indexing and storage sync complete.")
             doc_count = rag_service.get_document_count()
             logger.info(f"Total documents in vector store: {doc_count}")
         else:

@@ -10,3 +10,6 @@ frontend/dist
 __pycache__
 *.pyc
 .DS_Store
+
+# Data folder - documents are stored in Supabase Storage
+data/
