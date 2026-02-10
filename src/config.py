@@ -40,26 +40,32 @@ class Settings(BaseSettings):
     PG_PASSWORD: str = Field(default="", description="PostgreSQL user password")
     PG_DATABASE: str = Field(default="postgres", description="PostgreSQL database name")
 
+    SUPABASE_URL: str | None = Field(default=None, description="Supabase project URL (e.g., https://<project-ref>.supabase.co)")
+    SUPABASE_KEY: str | None = Field(default=None, description="Supabase API key")
+    SUPABASE_BUCKET_NAME: str = Field(default="capstone-data-documents", description="Supabase storage bucket")
+
     # Vector Store Configuration
     VECTOR_TABLE_NAME: str = Field(
         default="medical_related_documents", description="Name of the table to store document vectors"
     )
 
     EMBED_DIM: int = Field(
-        default=768,
-        description="Dimension of the embedding vectors (auto-detected from model)",
+        default=3072,
+        description="Dimension of the embedding vectors (3072 for gemini-embedding-001)",
     )
 
-    OLLAMA_BASE_URL: str = Field(
-        default="http://localhost:11434", description="Base URL for Ollama API"
+    # OpenRouter Configuration (cloud LLM and embeddings)
+    OPENROUTER_API_KEY: str | None = Field(
+        default=None, description="OpenRouter API key (get from https://openrouter.ai)"
     )
-
-    CHAT_MODEL: str = Field(
-        default="gemma3:4b", description="Name of the chat model to use"
+    OPENROUTER_BASE_URL: str = Field(
+        default="https://openrouter.ai/api/v1", description="OpenRouter API base URL"
     )
-
-    EMBEDDING_MODEL: str = Field(
-        default="embeddinggemma", description="Name of the embedding model to use"
+    OPENROUTER_LLM_MODEL: str = Field(
+        default="google/gemma-3-4b-it:free", description="OpenRouter LLM model for chat"
+    )
+    OPENROUTER_EMBEDDING_MODEL: str = Field(
+        default="google/gemini-embedding-001", description="OpenRouter embedding model"
     )
 
     DATA_FOLDER: Path = BASE_DIR / "data"
