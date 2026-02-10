@@ -51,23 +51,71 @@ class OpenRouterEmbedding(BaseEmbedding):
         self._client = httpx.Client(timeout=60.0)
 
     def _get_embedding(self, text: str) -> List[float]:
-        """Get embedding for a single text."""
-        response = self._client.post(
-            f"{self._api_base}/embeddings",
-            headers={
-                "Authorization": f"Bearer {self._api_key}",
-                "Content-Type": "application/json",
-                "HTTP-Referer": "https://github.com/capstone-project",
-                "X-Title": "Capstone RAG System",
-            },
-            json={
-                "model": self._model,
-                "input": text,
-            },
-        )
-        response.raise_for_status()
-        data = response.json()
-        return data["data"][0]["embedding"]
+        """Get embedding for a single text with retries."""
+        max_retries = 3
+        retry_delay = 1.0
+
+        for attempt in range(max_retries):
+            try:
+                response = self._client.post(
+                    f"{self._api_base}/embeddings",
+                    headers={
+                        "Authorization": f"Bearer {self._api_key}",
+                        "Content-Type": "application/json",
+                        "HTTP-Referer": "https://github.com/capstone-project",
+                        "X-Title": "Capstone RAG System",
+                    },
+                    json={
+                        "model": self._model,
+                        "input": text,
+                    },
+                )
+                
+                # Check for HTTP errors before parsing
+                if response.status_code != 200:
+                    logger.warning(f"Embedding API attempt {attempt + 1} failed (Status {response.status_code}): {response.text}")
+                    if response.status_code in [429, 502, 503, 504]:
+                        import time
+                        time.sleep(retry_delay * (2 ** attempt))
+                        continue
+                    response.raise_for_status()
+
+                data = response.json()
+                
+                # Robust key checking to avoid crashes
+                if "data" in data and len(data["data"]) > 0:
+                    return data["data"][0]["embedding"]
+                
+                # If we got 200 OK but no data, it's an API-level error
+                logger.error(f"Embedding API returned 200 OK but missing 'data': {data}")
+                
+                # Check for explicitly reported errors in the body
+                if "error" in data:
+                    err_msg = data["error"].get("message", "Unknown error")
+                    logger.error(f"OpenRouter Error: {err_msg}")
+                    
+                if attempt < max_retries - 1:
+                    import time
+                    time.sleep(retry_delay)
+                    continue
+                
+                raise KeyError(f"Embedding data missing from response: {data.keys()}")
+
+            except httpx.RequestError as e:
+                if attempt < max_retries - 1:
+                    import time
+                    time.sleep(retry_delay)
+                    continue
+                raise
+            except Exception as e:
+                logger.error(f"Unexpected error in _get_embedding: {e}")
+                if attempt < max_retries - 1:
+                    import time
+                    time.sleep(retry_delay)
+                    continue
+                raise
+
+        raise Exception("Failed to get embedding after multiple retries")
 
     def _get_query_embedding(self, query: str) -> List[float]:
         """Get embedding for a query."""

@@ -56,7 +56,7 @@ class SupabaseUploader:
 
     def upload_file(self, local_path: Path, remote_path: str) -> Optional[str]:
         """
-        Upload a single file to the specified Supabase bucket.
+        Upload a single file to the specified Supabase bucket if it doesn't exist.
         
         Args:
             local_path: Path to the local file to upload
@@ -68,23 +68,37 @@ class SupabaseUploader:
         if not self.enabled or not self.supabase:
             return None
 
+        # Standard public URL format
+        file_url = f"{settings.SUPABASE_URL}/storage/v1/object/public/{self.bucket}/{remote_path}"
+
         try:
+            # Check if file already exists to avoid redundant uploads
+            folder = str(Path(remote_path).parent).replace(".", "")
+            filename = Path(remote_path).name
+            
+            # list() returns a list of files in the folder
+            res = self.supabase.storage.from_(self.bucket).list(folder, {"search": filename})
+            if any(f['name'] == filename for f in res):
+                logger.info(f"[SKIP] {local_path.name} already exists in Supabase storage")
+                return file_url
+
+            # If not found, proceed with upload
             with open(local_path, 'rb') as f:
-                # Use upsert=True so it updates the file if it already exists
+                # Use upsert=True just in case of race conditions
                 self.supabase.storage.from_(self.bucket).upload(
                     path=remote_path,
                     file=f,
                     file_options={"upsert": "true"}
                 )
             
-            # Construct the public URL for the file
-            file_url = f"{settings.SUPABASE_URL}/storage/v1/object/public/{self.bucket}/{remote_path}"
             logger.info(f"[OK] Uploaded {local_path.name} to Supabase storage")
             return file_url
             
         except Exception as e:
-            logger.error(f"Failed to upload {local_path.name} to Supabase: {e}")
-            return None
+            logger.error(f"Failed to process storage for {local_path.name}: {e}")
+            # Even if storage check/upload fails, we still return the deterministic URL
+            # so the document can be indexed with its metadata.
+            return file_url
 
     def get_public_url(self, remote_path: str) -> str:
         """Get the public URL for a file in the bucket."""
@@ -168,17 +182,20 @@ def save_indexing_state(data_path: Path, state: Dict[str, str]):
         logger.error(f"Could not save tracking file: {e}")
 
 
+BATCH_SIZE = 50  # Number of files to process in one batch
+
+
 def load_and_index_documents(rag_service: RAGService) -> bool:
-    """Main function to load and index ONLY new or changed documents.
+    """Main function to load and index documents in batches.
     
-    This function also uploads files to Supabase Storage (if configured) and
-    adds the storage URL to document metadata for future reference.
+    This function uploads files to Supabase Storage and indexes them.
+    Progress is saved after each successful batch.
     """
     try:
         logger.info("Starting smart document loading process...")
 
         loader = DocumentLoader()
-        uploader = SupabaseUploader()  # Initialize Supabase uploader
+        uploader = SupabaseUploader()
         data_path = Path(settings.DATA_FOLDER)
         
         # 1. Load the history of what we've already done
@@ -191,10 +208,6 @@ def load_and_index_documents(rag_service: RAGService) -> bool:
         # 3. Filter for new or changed files
         files_to_process = []
         skipped_count = 0
-        new_state = indexed_state.copy()
-
-        # Temporary list to update state only if successful
-        pending_state_updates = {}
 
         for file_path in all_files:
             file_key = str(file_path.relative_to(data_path))
@@ -205,9 +218,7 @@ def load_and_index_documents(rag_service: RAGService) -> bool:
                 skipped_count += 1
                 continue
             
-            # Otherwise, add to process list
             files_to_process.append(file_path)
-            pending_state_updates[file_key] = current_hash
 
         if skipped_count > 0:
             logger.info(f"Skipping {skipped_count} files that are already indexed and unchanged.")
@@ -216,65 +227,75 @@ def load_and_index_documents(rag_service: RAGService) -> bool:
             logger.info("No new or modified documents found. System is up to date.")
             return True
 
-        logger.info(f"Preparing to index {len(files_to_process)} new/modified documents...")
+        total_files = len(files_to_process)
+        logger.info(f"Preparing to index {total_files} new/modified documents in batches of {BATCH_SIZE}...")
 
-        # 4. Upload to Supabase Storage and load content for new files
-        new_documents = []
-        upload_count = 0
-        
-        for file_path in files_to_process:
-            logger.info(f"Processing: {file_path.name}")
+        # 4. Process in batches
+        overall_success = True
+        for i in range(0, total_files, BATCH_SIZE):
+            batch_files = files_to_process[i : i + BATCH_SIZE]
+            batch_num = (i // BATCH_SIZE) + 1
+            total_batches = (total_files + BATCH_SIZE - 1) // BATCH_SIZE
             
-            # Upload to Supabase Storage (preserving folder structure)
-            relative_path = file_path.relative_to(data_path)
-            remote_path = str(relative_path).replace("\\", "/")  # Normalize path separators
-            file_url = uploader.upload_file(file_path, remote_path)
+            logger.info(f"--- Processing Batch {batch_num}/{total_batches} ({len(batch_files)} files) ---")
             
-            if file_url:
-                upload_count += 1
+            batch_documents = []
+            batch_state_updates = {}
+            upload_count = 0
             
-            # Load document content for embedding
-            docs = loader.load_specific_document(file_path)
-            
-            # Add storage URL to document metadata (even if upload failed, we still index)
-            for doc in docs:
+            for file_path in batch_files:
+                file_key = str(file_path.relative_to(data_path))
+                current_hash = loader.get_file_hash(file_path)
+                
+                # Upload to Supabase Storage
+                relative_path = file_path.relative_to(data_path)
+                remote_path = str(relative_path).replace("\\", "/")
+                file_url = uploader.upload_file(file_path, remote_path)
+                
                 if file_url:
-                    doc.metadata["file_url"] = file_url
-                    doc.metadata["storage_bucket"] = settings.SUPABASE_BUCKET_NAME
-                doc.metadata["source_file"] = str(relative_path)
-            
-            new_documents.extend(docs)
+                    upload_count += 1
+                
+                # Load content
+                docs = loader.load_specific_document(file_path)
+                for doc in docs:
+                    if file_url:
+                        doc.metadata["file_url"] = file_url
+                        doc.metadata["storage_bucket"] = settings.SUPABASE_BUCKET_NAME
+                    doc.metadata["source_file"] = str(relative_path)
+                
+                batch_documents.extend(docs)
+                batch_state_updates[file_key] = current_hash
 
-        if upload_count > 0:
-            logger.info(f"[OK] Uploaded {upload_count}/{len(files_to_process)} files to Supabase Storage")
+            if upload_count > 0:
+                logger.info(f"Uploaded {upload_count} files to Supabase Storage in this batch")
 
-        if not new_documents:
-            logger.warning("Files were detected but no content could be extracted.")
-            return True
+            if not batch_documents:
+                logger.warning(f"Batch {batch_num} had no extractable content. Skipping indexing.")
+                # We still update state for these files so we don't try them again
+                indexed_state.update(batch_state_updates)
+                save_indexing_state(data_path, indexed_state)
+                continue
 
-        # 5. Index the new content
-        logger.info(f"Sending {len(new_documents)} document chunks to embedding model...")
-        success = rag_service.index_documents(new_documents)
+            # Index this batch
+            logger.info(f"Batch {batch_num}: Sending {len(batch_documents)} chunks to embedding model...")
+            success = rag_service.index_documents(batch_documents)
 
-        # 6. Update the tracking file if successful
-        if success:
-            new_state.update(pending_state_updates)
-            
-            # Optional: Clean up state for files that were deleted from disk
-            # current_keys = {str(p.relative_to(data_path)) for p in all_files}
-            # keys_to_remove = [k for k in new_state.keys() if k not in current_keys]
-            # for k in keys_to_remove:
-            #     del new_state[k]
+            if success:
+                # Update and save state for this successful batch
+                indexed_state.update(batch_state_updates)
+                save_indexing_state(data_path, indexed_state)
+                logger.info(f"[OK] Batch {batch_num} complete and state saved.")
+            else:
+                logger.error(f"Batch {batch_num} failed indexing. Progress paused.")
+                overall_success = False
+                break # Stop processing further batches to investigate failure
 
-            save_indexing_state(data_path, new_state)
-            
-            logger.info("[OK] Indexing and storage sync complete.")
+        if overall_success:
+            logger.info("[DONE] All documents indexed and storage sync complete.")
             doc_count = rag_service.get_document_count()
-            logger.info(f"Total documents in vector store: {doc_count}")
-        else:
-            logger.error("Indexing failed. Tracking file was NOT updated (will retry next time).")
-
-        return success
+            logger.info(f"Total entries in vector store: {doc_count}")
+        
+        return overall_success
 
     except Exception as e:
         logger.error(f"Process failed: {e}")
