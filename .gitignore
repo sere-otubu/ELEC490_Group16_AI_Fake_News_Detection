@@ -38,3 +38,4 @@ dist-ssr
 *.sw?
 
 data/
+!/data/indexing_state.json
