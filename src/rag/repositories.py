@@ -18,6 +18,7 @@ from llama_index.core import (
 from llama_index.core.base.embeddings.base import BaseEmbedding
 from llama_index.core.bridge.pydantic import PrivateAttr
 from llama_index.core.node_parser import SentenceSplitter
+from llama_index.core.postprocessor import SimilarityPostprocessor
 from llama_index.llms.openai_like import OpenAILike
 from llama_index.vector_stores.postgres import PGVectorStore
 from sqlalchemy import create_engine, text
@@ -338,14 +339,24 @@ class RAGRepository:
                 text_qa_template=RAG_PROMPT_TEMPLATE,
                 similarity_top_k=optimized_top_k,
                 response_mode="compact",
-                similarity_cutoff=0.6,
+                node_postprocessors=[
+                    SimilarityPostprocessor(similarity_cutoff=0.6)
+                ]
             )
             
             response = query_engine.query(query_request.query)
 
+            # Check if any documents met the similarity threshold
+            if not hasattr(response, "source_nodes") or not response.source_nodes:
+                logger.info("No documents met the similarity threshold.")
+                return QueryResponse(
+                    chat_response="**Verdict**: [IRRELEVANT]\n\n**Reasoning**: No relevant medical documents were found to support this query. The system blocked low-similarity results to prevent hallucinations.\n\n**Evidence**: N/A",
+                    source_documents=[]
+                )
+
             source_documents: list[SourceDocument] = []
             if hasattr(response, "source_nodes") and response.source_nodes:
-                top_nodes = response.source_nodes[: query_request.top_k]
+                top_nodes = response.source_nodes
                 for node in top_nodes:
                     node_metadata = node.metadata if hasattr(node, "metadata") else {}
                     
