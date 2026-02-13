@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MedCheck AI Settings</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="popup-container">
+    <!-- Header -->
+    <div class="popup-header">
+      <div class="popup-logo">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+        </svg>
+        <span class="popup-title">MedCheck AI</span>
+      </div>
+      <span class="popup-version">v1.0.0</span>
+    </div>
+
+    <!-- Description -->
+    <p class="popup-description">
+      Highlight any medical claim on a webpage, then click <strong>"Check Claim"</strong> to verify it using AI-powered fact-checking.
+    </p>
+
+    <!-- Settings Form -->
+    <div class="popup-section">
+      <label class="popup-label" for="api-url">API Server URL</label>
+      <div class="popup-input-group">
+        <input
+          type="url"
+          id="api-url"
+          class="popup-input"
+          placeholder="http://localhost:8000"
+          spellcheck="false"
+        >
+        <button id="save-btn" class="popup-btn popup-btn-primary">Save</button>
+      </div>
+    </div>
+
+    <!-- Connection Test -->
+    <div class="popup-section">
+      <button id="test-btn" class="popup-btn popup-btn-secondary popup-btn-full">
+        Test Connection
+      </button>
+      <div id="status-indicator" class="popup-status" style="display: none;">
+        <span id="status-dot" class="popup-status-dot"></span>
+        <span id="status-text" class="popup-status-text"></span>
+      </div>
+    </div>
+
+    <!-- Instructions -->
+    <div class="popup-instructions">
+      <div class="popup-instruction-title">How to Use</div>
+      <ol>
+        <li>Select / highlight text on any webpage</li>
+        <li>Click the <strong>"Check Claim"</strong> button that appears</li>
+        <li>Or right-click selected text → <strong>"Check for Misinformation"</strong></li>
+      </ol>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
