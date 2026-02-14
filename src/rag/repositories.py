@@ -162,6 +162,7 @@ class RAGRepository:
                 api_key=settings.OPENROUTER_API_KEY,
                 api_base=settings.OPENROUTER_BASE_URL,
                 is_chat_model=True,
+                max_tokens=300,
                 timeout=120.0,
                 default_headers={
                     "HTTP-Referer": "https://github.com/capstone-project",
@@ -332,15 +333,15 @@ class RAGRepository:
 
             logger.info(f"Executing query: '{query_request.query[:50]}...'")
 
-            # Adjust top_k to be at least 3 and at most 15
-            optimized_top_k = min(query_request.top_k * 2 + 1, 15)
+            # Use top_k directly, capped at 5 to keep response times fast
+            optimized_top_k = min(query_request.top_k, 5)
 
             query_engine = self.index.as_query_engine(
                 text_qa_template=RAG_PROMPT_TEMPLATE,
                 similarity_top_k=optimized_top_k,
                 response_mode="compact",
                 node_postprocessors=[
-                    SimilarityPostprocessor(similarity_cutoff=0.6)
+                    SimilarityPostprocessor(similarity_cutoff=0.3)
                 ]
             )
             
