@@ -3,7 +3,7 @@
 // Routes API calls from content scripts to avoid CORS issues
 // =============================================================================
 
-const DEFAULT_API_URL = "http://localhost:8000";
+const DEFAULT_API_URL = "https://capstone-backend-5xbw.onrender.com";
 
 // Create right-click context menu on install
 chrome.runtime.onInstalled.addListener(() => {
