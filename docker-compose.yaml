@@ -23,6 +23,8 @@ services:
       - APP_EMBED_DIM=${APP_EMBED_DIM}
     volumes:
       - ./logs:/app/logs
+      - ./data:/app/data
+      - ./src:/app/src
     networks:
       - app-network
     restart: unless-stopped
