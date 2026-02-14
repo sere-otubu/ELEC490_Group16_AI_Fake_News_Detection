@@ -6,7 +6,7 @@
 (function () {
     "use strict";
 
-    const DEFAULT_API_URL = "http://localhost:8000";
+    const DEFAULT_API_URL = "https://capstone-backend-5xbw.onrender.com";
     let apiUrl = DEFAULT_API_URL;
     let currentButton = null;
     let currentOverlay = null;
@@ -135,45 +135,37 @@
             sources: "",
         };
 
-        // Extract verdict
-        const verdictMatch = chatResponse.match(
-            /\*\*Verdict\*\*:\s*\[?([A-Z\s]+)\]?/i
-        );
-        if (verdictMatch) {
-            result.verdict = verdictMatch[1].trim().toUpperCase();
+        // Helper to extract content between two markers or until end of string
+        function extract(marker, nextMarker) {
+            const regex = new RegExp(`\\*\\*${marker}\\*\\*:\\s*([\\s\\S]*?)(?=\\n\\*\\*${nextMarker}\\*\\*|$)`, "i");
+            const match = chatResponse.match(regex);
+            return match ? match[1].trim() : "";
         }
 
-        // Extract confidence score
-        const confidenceMatch = chatResponse.match(
-            /\*\*Confidence\s*Score\*\*:\s*([\d.]+)/i
-        );
-        if (confidenceMatch) {
-            result.confidence = parseFloat(confidenceMatch[1]);
+        // Extract fields using flexible lookaheads
+        const rawVerdict = extract("Verdict", "Reasoning|Confidence|Evidence|Source");
+        const rawReasoning = extract("Reasoning", "Verdict|Confidence|Evidence|Source");
+        const rawConfidence = extract("Confidence\\s*Score", "Verdict|Reasoning|Evidence|Source");
+        const rawEvidence = extract("Evidence", "Verdict|Reasoning|Confidence|Source");
+        const rawSources = extract("Source\\s*Files", "Verdict|Reasoning|Confidence|Evidence");
+
+        // Clean up verdict (remove brackets if present)
+        if (rawVerdict) {
+            result.verdict = rawVerdict.replace(/[\[\]]/g, "").toUpperCase();
         }
 
-        // Extract reasoning
-        const reasoningMatch = chatResponse.match(
-            /\*\*Reasoning\*\*:\s*\n?([\s\S]*?)(?=\n\*\*Verdict\*\*)/i
-        );
-        if (reasoningMatch) {
-            result.reasoning = reasoningMatch[1].trim();
+        // Parse reasoning
+        result.reasoning = rawReasoning;
+
+        // Parse numeric confidence
+        if (rawConfidence) {
+            const confValue = parseFloat(rawConfidence);
+            if (!isNaN(confValue)) result.confidence = confValue;
         }
 
-        // Extract evidence
-        const evidenceMatch = chatResponse.match(
-            /\*\*Evidence\*\*:\s*\n?([\s\S]*?)(?=\n\*\*Source\s*Files\*\*|$)/i
-        );
-        if (evidenceMatch) {
-            result.evidence = evidenceMatch[1].trim();
-        }
-
-        // Extract sources
-        const sourcesMatch = chatResponse.match(
-            /\*\*Source\s*Files\*\*:\s*\n?([\s\S]*?)$/i
-        );
-        if (sourcesMatch) {
-            result.sources = sourcesMatch[1].trim();
-        }
+        // Evidence and sources
+        result.evidence = rawEvidence;
+        result.sources = rawSources;
 
         return result;
     }

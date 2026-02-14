@@ -2,7 +2,7 @@
 // Popup Script — Settings & Connection Test
 // =============================================================================
 
-const DEFAULT_API_URL = "http://localhost:8000";
+const DEFAULT_API_URL = "https://capstone-backend-5xbw.onrender.com";
 
 const apiUrlInput = document.getElementById("api-url");
 const saveBtn = document.getElementById("save-btn");
