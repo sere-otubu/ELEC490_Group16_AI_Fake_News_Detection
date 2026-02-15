@@ -5,6 +5,7 @@ including vector storage, document indexing, and query operations.
 """
 
 import logging
+import os
 import traceback
 from contextlib import suppress
 from typing import Any, List
@@ -342,11 +343,17 @@ class RAGRepository:
             # Initialize models with user's API key if provided, otherwise use server's
             original_llm = None
             original_embed_model = None
+            original_openai_key = None
             
             if api_key:
                 logger.info("Using custom OpenRouter API key for this query")
                 original_llm = Settings.llm
                 original_embed_model = Settings.embed_model
+                
+                # Temporarily set OPENAI_API_KEY environment variable
+                # OpenAILike internally uses OpenAI client which checks this env var
+                original_openai_key = os.environ.get("OPENAI_API_KEY")
+                os.environ["OPENAI_API_KEY"] = api_key
                 
                 Settings.llm = OpenAILike(
                     model=settings.OPENROUTER_LLM_MODEL,
@@ -394,11 +401,16 @@ class RAGRepository:
                 
                 response = query_engine.query(query_request.query)
             finally:
-                # Restore original models if we used custom ones
+                # Restore original models and environment if we used custom ones
                 if original_llm:
                     Settings.llm = original_llm
                 if original_embed_model:
                     Settings.embed_model = original_embed_model
+                if original_openai_key is not None:
+                    if original_openai_key:
+                        os.environ["OPENAI_API_KEY"] = original_openai_key
+                    else:
+                        os.environ.pop("OPENAI_API_KEY", None)
 
             # Check if any documents met the similarity threshold
             if not hasattr(response, "source_nodes") or not response.source_nodes:
