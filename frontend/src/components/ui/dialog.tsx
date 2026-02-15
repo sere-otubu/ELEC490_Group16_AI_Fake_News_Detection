@@ -1,6 +1,5 @@
 import * as React from "react";
 import { X } from "lucide-react";
-import { Button } from "./button";
 
 interface DialogProps {
   open: boolean;
