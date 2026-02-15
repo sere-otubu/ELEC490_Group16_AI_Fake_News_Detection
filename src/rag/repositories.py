@@ -311,10 +311,19 @@ class RAGRepository:
         """
         try:
             health = self.health_check(require_index=False)
-            basic_health = {k: v for k, v in health.items() if k != "index"}
-            if not all(basic_health.values()):
-                logger.error("System not ready for queries - basic components failed")
+            
+            # When user provides API key, only check database and vector_store health
+            # Models will be initialized on-demand with the user's key
+            if api_key:
+                required_components = {k: v for k, v in health.items() if k in ["database", "vector_store"]}
+            else:
+                # Without user API key, we need server models to be initialized
+                required_components = {k: v for k, v in health.items() if k != "index"}
+            
+            if not all(required_components.values()):
+                logger.error("System not ready for queries - required components failed")
                 logger.error(f"Health status: {health}")
+                logger.error(f"Required components: {required_components}")
                 raise ValueError("System not healthy for queries")
 
             doc_count = self.get_document_count()
@@ -324,24 +333,13 @@ class RAGRepository:
 
             logger.info(f"Vector store contains {doc_count} documents")
 
-            if not self.index:
-                logger.info("Index not initialized, creating from vector store...")
-                if self.vector_store:
-                    self.index = VectorStoreIndex.from_vector_store(self.vector_store)
-                    logger.info("✓ Index successfully created from vector store")
-                else:
-                    logger.error("Vector store not initialized")
-                    raise ValueError("Vector store not initialized")
-
-            logger.info(f"Executing query: '{query_request.query[:50]}...'")
-
             # Require API key if no server key is configured
             if not settings.OPENROUTER_API_KEY and not api_key:
                 raise ValueError(
                     "No API key provided. Please provide your OpenRouter API key to use this service."
                 )
 
-            # Use custom API key if provided, otherwise use default
+            # Initialize models with user's API key if provided, otherwise use server's
             original_llm = None
             original_embed_model = None
             
@@ -368,6 +366,18 @@ class RAGRepository:
                     model=settings.OPENROUTER_EMBEDDING_MODEL,
                     api_base=settings.OPENROUTER_BASE_URL,
                 )
+
+            # Now that models are initialized, load the index if needed
+            if not self.index:
+                logger.info("Index not initialized, creating from vector store...")
+                if self.vector_store:
+                    self.index = VectorStoreIndex.from_vector_store(self.vector_store)
+                    logger.info("✓ Index successfully created from vector store")
+                else:
+                    logger.error("Vector store not initialized")
+                    raise ValueError("Vector store not initialized")
+
+            logger.info(f"Executing query: '{query_request.query[:50]}...')")
 
             try:
                 # Use top_k directly, capped at 5 to keep response times fast
