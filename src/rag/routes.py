@@ -1,4 +1,5 @@
-from fastapi import APIRouter, Depends
+from fastapi import APIRouter, Depends, Header
+from typing import Optional
 from src.dependencies import get_rag_service
 from src.schemas import (
     DocumentCountResponse,
@@ -16,6 +17,7 @@ rag_router = APIRouter(prefix="/rag", tags=["RAG"])
 async def query(
     query_request: QueryRequest,
     rag_service: RAGService = Depends(get_rag_service),
+    x_openrouter_api_key: Optional[str] = Header(None, alias="X-OpenRouter-API-Key"),
 ) -> QueryResponse:
     """
     Query the RAG system with a text query.
@@ -27,7 +29,7 @@ async def query(
     Returns:
         QueryResponse: The response containing chat response and source documents
     """
-    result = rag_service.query(query_request)
+    result = rag_service.query(query_request, api_key=x_openrouter_api_key)
     return result
 
 

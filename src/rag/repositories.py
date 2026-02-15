@@ -151,10 +151,12 @@ class RAGRepository:
     def _setup_models(self) -> None:
         """Setup the LLM and embedding models using OpenRouter."""
         try:
+            # If no server API key is set, models will be initialized on-demand per query
             if not settings.OPENROUTER_API_KEY:
-                raise ValueError(
-                    "OPENROUTER_API_KEY is required. Get one from https://openrouter.ai"
+                logger.warning(
+                    "No OPENROUTER_API_KEY in environment. Server will require users to provide their own API keys."
                 )
+                return
 
             # Setup LLM using OpenRouter (OpenAI-compatible API)
             Settings.llm = OpenAILike(
@@ -297,15 +299,15 @@ class RAGRepository:
             traceback.print_exc()
             return False
 
-    def query(self, query_request: QueryRequest) -> QueryResponse:
+    def query(self, query_request: QueryRequest, api_key: str = None) -> QueryResponse:
         """Query the RAG system.
 
         Args:
-            query_text: The query text
-            similarity_top_k: Number of similar documents to retrieve
+            query_request: The query request object
+            api_key: Optional custom OpenRouter API key to use for this query
 
         Returns:
-            Optional[dict]: Dictionary containing 'response' and 'source_documents' or None if query failed
+            QueryResponse: Response containing chat response and source documents
         """
         try:
             health = self.health_check(require_index=False)
@@ -333,19 +335,60 @@ class RAGRepository:
 
             logger.info(f"Executing query: '{query_request.query[:50]}...'")
 
-            # Use top_k directly, capped at 5 to keep response times fast
-            optimized_top_k = min(query_request.top_k, 5)
+            # Require API key if no server key is configured
+            if not settings.OPENROUTER_API_KEY and not api_key:
+                raise ValueError(
+                    "No API key provided. Please provide your OpenRouter API key to use this service."
+                )
 
-            query_engine = self.index.as_query_engine(
-                text_qa_template=RAG_PROMPT_TEMPLATE,
-                similarity_top_k=optimized_top_k,
-                response_mode="compact",
-                node_postprocessors=[
-                    SimilarityPostprocessor(similarity_cutoff=0.3)
-                ]
-            )
+            # Use custom API key if provided, otherwise use default
+            original_llm = None
+            original_embed_model = None
             
-            response = query_engine.query(query_request.query)
+            if api_key:
+                logger.info("Using custom OpenRouter API key for this query")
+                original_llm = Settings.llm
+                original_embed_model = Settings.embed_model
+                
+                Settings.llm = OpenAILike(
+                    model=settings.OPENROUTER_LLM_MODEL,
+                    api_key=api_key,
+                    api_base=settings.OPENROUTER_BASE_URL,
+                    is_chat_model=True,
+                    max_tokens=300,
+                    timeout=120.0,
+                    default_headers={
+                        "HTTP-Referer": "https://github.com/capstone-project",
+                        "X-Title": "Capstone RAG System",
+                    },
+                )
+                
+                Settings.embed_model = OpenRouterEmbedding(
+                    api_key=api_key,
+                    model=settings.OPENROUTER_EMBEDDING_MODEL,
+                    api_base=settings.OPENROUTER_BASE_URL,
+                )
+
+            try:
+                # Use top_k directly, capped at 5 to keep response times fast
+                optimized_top_k = min(query_request.top_k, 5)
+
+                query_engine = self.index.as_query_engine(
+                    text_qa_template=RAG_PROMPT_TEMPLATE,
+                    similarity_top_k=optimized_top_k,
+                    response_mode="compact",
+                    node_postprocessors=[
+                        SimilarityPostprocessor(similarity_cutoff=0.3)
+                    ]
+                )
+                
+                response = query_engine.query(query_request.query)
+            finally:
+                # Restore original models if we used custom ones
+                if original_llm:
+                    Settings.llm = original_llm
+                if original_embed_model:
+                    Settings.embed_model = original_embed_model
 
             # Check if any documents met the similarity threshold
             if not hasattr(response, "source_nodes") or not response.source_nodes:
@@ -543,9 +586,10 @@ class RAGRepository:
 
             health["vector_store"] = self.vector_store is not None
 
+            # Models can be None if no server API key is configured (users provide their own)
             health["models"] = (
                 Settings.llm is not None and Settings.embed_model is not None
-            )
+            ) or not settings.OPENROUTER_API_KEY
 
             if require_index:
                 health["index"] = self.index is not None

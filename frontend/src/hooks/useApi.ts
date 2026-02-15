@@ -94,7 +94,8 @@ export const useQueryRAG = () => {
   const abortControllerRef = useRef<AbortController | null>(null);
 
   const sendQuery = async (
-    queryRequest: QueryRequest
+    queryRequest: QueryRequest,
+    apiKey?: string
   ): Promise<QueryResponse | null> => {
     // Cancel previous request if still in flight
     if (abortControllerRef.current) {
@@ -107,7 +108,7 @@ export const useQueryRAG = () => {
     setError(null);
 
     try {
-      const response = await apiClient.queryRAG(queryRequest, abortController.signal);
+      const response = await apiClient.queryRAG(queryRequest, abortController.signal, apiKey);
       return response;
     } catch (err) {
       // Ignore abort errors

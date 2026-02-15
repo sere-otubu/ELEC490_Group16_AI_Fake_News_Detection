@@ -77,11 +77,12 @@ class RAGService:
             )
             return False
 
-    def query(self, query_request: QueryRequest) -> QueryResponse:
+    def query(self, query_request: QueryRequest, api_key: str = None) -> QueryResponse:
         """Query the vector store and get a response from the chat model.
 
         Args:
             query_request: The query request object containing query details
+            api_key: Optional custom OpenRouter API key
 
         Returns:
             QueryResponse: The response object containing query results
@@ -93,7 +94,7 @@ class RAGService:
             chat_response="Error processing query.", source_documents=[]
         )
         try:
-            result = self.rag_repository.query(query_request)
+            result = self.rag_repository.query(query_request, api_key=api_key)
         except Exception as e:
             success = False
             error_message = str(e)

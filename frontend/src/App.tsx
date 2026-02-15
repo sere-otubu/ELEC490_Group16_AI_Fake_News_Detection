@@ -1,9 +1,17 @@
-import { useState, useMemo, useCallback, memo, type ReactNode } from "react";
+import { useState, useMemo, useCallback, memo, type ReactNode, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
 import { Avatar, AvatarFallback } from "@/components/ui/avatar";
 import { ScrollArea } from "@/components/ui/scroll-area";
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogFooter,
+  DialogHeader,
+  DialogTitle,
+} from "@/components/ui/dialog";
 import {
   Plus,
   Bot,
@@ -352,6 +360,32 @@ function App() {
   const [currentSourceDocuments, setCurrentSourceDocuments] = useState<
     SourceDocument[]
   >([]);
+  const [apiKey, setApiKey] = useState<string>("");
+  const [tempApiKey, setTempApiKey] = useState<string>("");
+  const [showApiKeyDialog, setShowApiKeyDialog] = useState(false);
+
+  useEffect(() => {
+    const storedKey = localStorage.getItem("openrouter-api-key");
+    if (storedKey) {
+      setApiKey(storedKey);
+    } else {
+      setShowApiKeyDialog(true);
+    }
+  }, []);
+
+  const handleSaveApiKey = useCallback(() => {
+    if (tempApiKey.trim()) {
+      localStorage.setItem("openrouter-api-key", tempApiKey.trim());
+      setApiKey(tempApiKey.trim());
+      setShowApiKeyDialog(false);
+      setTempApiKey("");
+    }
+  }, [tempApiKey]);
+
+  const handleOpenApiKeyDialog = useCallback(() => {
+    setTempApiKey(apiKey);
+    setShowApiKeyDialog(true);
+  }, [apiKey]);
 
   const {
     sendQuery,
@@ -403,7 +437,11 @@ function App() {
       setCurrentMessages((prev) => [...prev, tempUserMessage]);
 
       // Send query to API. Always show 3 top results.
-      const response = await sendQuery({ query: queryText, top_k: 3 });
+      // Only pass apiKey if it's set, otherwise backend will use server's default key
+      const response = await sendQuery(
+        { query: queryText, top_k: 3 }, 
+        apiKey || undefined
+      );
 
       if (response) {
         // Replace temp message with real messages
@@ -489,7 +527,13 @@ function App() {
                 <Plus className="mr-2 h-4 w-4" />
                 New Session
               </Button>
-              <Button variant="ghost" size="icon" className="h-9 w-9" title="Settings">
+              <Button 
+                variant="ghost" 
+                size="icon" 
+                className="h-9 w-9" 
+                title="Settings"
+                onClick={handleOpenApiKeyDialog}
+              >
                 <Settings className="h-4 w-4" />
               </Button>
             </div>
@@ -681,6 +725,52 @@ function App() {
           </div>
         </div>
       </div>
+
+      <Dialog open={showApiKeyDialog} onOpenChange={() => {}}>
+        <DialogContent>
+          <DialogHeader>
+            <DialogTitle>OpenRouter API Key Required</DialogTitle>
+            <DialogDescription>
+              To use the Medical Claim Verifier, please provide your OpenRouter API key.
+              Your key is stored locally in your browser and sent only to OpenRouter—never to our servers.
+            </DialogDescription>
+          </DialogHeader>
+          <div className="px-6 py-4">
+            <Input
+              type="password"
+              placeholder="sk-or-v1-..."
+              value={tempApiKey}
+              onChange={(e) => setTempApiKey(e.target.value)}
+              onKeyDown={(e) => {
+                if (e.key === "Enter") {
+                  handleSaveApiKey();
+                }
+              }}
+              className="h-11 rounded-lg border-border/60 bg-background/80 text-[13px] transition-all focus:border-primary/60 focus:ring-2 focus:ring-primary/20"
+            />
+            <p className="mt-3 text-[11px] text-muted-foreground">
+              Don't have a key?{" "}
+              <a
+                href="https://openrouter.ai/keys"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-primary hover:underline"
+              >
+                Get one from OpenRouter
+              </a>
+            </p>
+          </div>
+          <DialogFooter>
+            <Button
+              onClick={handleSaveApiKey}
+              disabled={!tempApiKey.trim()}
+              className="h-10 rounded-lg bg-primary/90 px-5 text-[12px] font-semibold text-primary-foreground shadow-sm shadow-primary/30 transition hover:bg-primary"
+            >
+              Save API Key
+            </Button>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
     </div>
   );
 }

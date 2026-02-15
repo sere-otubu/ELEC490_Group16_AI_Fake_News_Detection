@@ -23,13 +23,22 @@ class ApiClient {
 
   private async request<T>(
     endpoint: string,
-    options: RequestInit = {}
+    options: RequestInit = {},
+    apiKey?: string
   ): Promise<T> {
     const url = `${this.baseUrl}${endpoint}`;
     
+    const headers: Record<string, string> = {
+      "Content-Type": "application/json",
+    };
+
+    if (apiKey) {
+      headers["X-OpenRouter-API-Key"] = apiKey;
+    }
+    
     const config: RequestInit = {
       headers: {
-        "Content-Type": "application/json",
+        ...headers,
         ...options.headers,
       },
       ...options,
@@ -57,12 +66,12 @@ class ApiClient {
   }
 
   // RAG endpoints
-  async queryRAG(queryRequest: QueryRequest, signal?: AbortSignal): Promise<QueryResponse> {
+  async queryRAG(queryRequest: QueryRequest, signal?: AbortSignal, apiKey?: string): Promise<QueryResponse> {
     return this.request<QueryResponse>("/rag/query", {
       method: "POST",
       body: JSON.stringify(queryRequest),
       signal,
-    });
+    }, apiKey);
   }
 
   async getRAGHealth(includeIndex = false): Promise<HealthStatusResponse> {
