@@ -6,6 +6,9 @@ import type {
   QueryStatisticsResponse,
   HealthStatusResponse,
   DocumentCountResponse,
+  URLExtractRequest,
+  URLExtractResponse,
+  ImageExtractResponse,
 } from "@/types/api";
 
 // API Configuration
@@ -27,7 +30,7 @@ class ApiClient {
     apiKey?: string
   ): Promise<T> {
     const url = `${this.baseUrl}${endpoint}`;
-    
+
     const headers: Record<string, string> = {
       "Content-Type": "application/json",
     };
@@ -35,7 +38,7 @@ class ApiClient {
     if (apiKey) {
       headers["X-OpenRouter-API-Key"] = apiKey;
     }
-    
+
     const config: RequestInit = {
       headers: {
         ...headers,
@@ -46,12 +49,12 @@ class ApiClient {
 
     try {
       const response = await fetch(url, config);
-      
+
       if (!response.ok) {
         const errorData = await response.json().catch(() => ({}));
         throw new Error(
-          errorData.message || 
-          errorData.detail || 
+          errorData.message ||
+          errorData.detail ||
           `HTTP ${response.status}: ${response.statusText}`
         );
       }
@@ -72,6 +75,31 @@ class ApiClient {
       body: JSON.stringify(queryRequest),
       signal,
     }, apiKey);
+  }
+
+  async extractURL(request: URLExtractRequest, signal?: AbortSignal): Promise<URLExtractResponse> {
+    return this.request<URLExtractResponse>("/rag/extract-url", {
+      method: "POST",
+      body: JSON.stringify(request),
+      signal,
+    });
+  }
+
+  async extractImage(file: File, signal?: AbortSignal): Promise<ImageExtractResponse> {
+    const formData = new FormData();
+    formData.append("file", file);
+
+    const url = `${this.baseUrl}/rag/extract-image`;
+    const config: RequestInit = { method: "POST", body: formData, signal };
+
+    const response = await fetch(url, config);
+    if (!response.ok) {
+      const errorData = await response.json().catch(() => ({}));
+      throw new Error(
+        errorData.detail || errorData.message || `HTTP ${response.status}: ${response.statusText}`
+      );
+    }
+    return await response.json();
   }
 
   async getRAGHealth(includeIndex = false): Promise<HealthStatusResponse> {
@@ -117,16 +145,16 @@ export const apiClient = new ApiClient();
 // SWR fetcher function
 export const fetcher = async (url: string) => {
   const response = await fetch(`${API_BASE_URL}${url}`);
-  
+
   if (!response.ok) {
     const errorData = await response.json().catch(() => ({}));
     throw new Error(
-      errorData.message || 
-      errorData.detail || 
+      errorData.message ||
+      errorData.detail ||
       `HTTP ${response.status}: ${response.statusText}`
     );
   }
-  
+
   return response.json();
 };
 

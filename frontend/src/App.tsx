@@ -1,6 +1,7 @@
-import { useState, useMemo, useCallback, memo, type ReactNode, useEffect } from "react";
+import { useState, useMemo, useCallback, memo, type ReactNode, useEffect, useRef } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
+import { Textarea } from "@/components/ui/textarea";
 import { Badge } from "@/components/ui/badge";
 import { Avatar, AvatarFallback } from "@/components/ui/avatar";
 import { ScrollArea } from "@/components/ui/scroll-area";
@@ -28,11 +29,18 @@ import {
   CheckCircle2,
   Stethoscope,
   ExternalLink,
+  Link,
+  Image,
+  Mic,
+  MicOff,
+  X,
+  Globe,
 } from "lucide-react";
 import {
   useQueryRAG,
   convertQueryResponseToMessages,
 } from "@/hooks/useApi";
+import { apiClient } from "@/lib/api-client";
 import type { Message, SourceDocument } from "@/types/api";
 
 // Source Document Card Component
@@ -86,9 +94,9 @@ const SourceDocumentCard = memo(({ doc, index }: SourceDocumentCardProps) => {
               <FileText className="h-4 w-4 text-primary" />
               {/* Make title clickable if it's a link */}
               {isWebLink ? (
-                <a 
-                  href={doc.metadata.source || "#"} 
-                  target="_blank" 
+                <a
+                  href={doc.metadata.source || "#"}
+                  target="_blank"
                   rel="noopener noreferrer"
                   className="text-[13px] font-semibold leading-tight hover:text-primary transition-colors"
                 >
@@ -115,7 +123,7 @@ const SourceDocumentCard = memo(({ doc, index }: SourceDocumentCardProps) => {
             >
               {getRelevanceLabel(doc.score)}
             </Badge>
-            
+
             {/* Dynamic Button: Visit Source vs Save PDF */}
             <Button
               variant="ghost"
@@ -202,12 +210,12 @@ const MessageItem = memo(({ message }: MessageItemProps) => {
 
   const parseAssistantMessage = useCallback((text: string) => {
     const sanitized = text.replace(/\*\*/g, "");
-    
+
     const verdictMatch = sanitized.match(/Verdict\s*[:\-]\s*\[?([^\]\n]+)\]?/i);
     const reasoningMatch = sanitized.match(/Reasoning\s*[:\-]\s*([^\n]+(?:\n(?!\w+\s*:)[^\n]+)*)/i);
     const confidenceMatch = sanitized.match(/Confidence\s*(?:Score)?\s*[:\-]\s*([0-9.]+)\s*(%?)/i);
     const evidenceMatch = sanitized.match(/Evidence\s*[:\-]\s*["']?([^"'\n]+(?:\n(?!\w+\s*:)[^\n]+)*)["']?/i);
-    
+
     return {
       verdict: verdictMatch ? verdictMatch[1].trim() : null,
       reasoning: reasoningMatch ? reasoningMatch[1].trim() : null,
@@ -219,7 +227,7 @@ const MessageItem = memo(({ message }: MessageItemProps) => {
 
   const getVerdictStyle = useCallback((verdict: string | null) => {
     if (!verdict) return { bg: "bg-muted", text: "text-muted-foreground", border: "border-muted", icon: AlertCircle };
-    
+
     const v = verdict.toLowerCase();
     if (v.includes("supported") && !v.includes("not")) {
       return { bg: "bg-emerald-500/15", text: "text-emerald-400", border: "border-emerald-500/30", icon: CheckCircle2 };
@@ -248,9 +256,8 @@ const MessageItem = memo(({ message }: MessageItemProps) => {
 
   return (
     <div
-      className={`flex items-end gap-3 ${
-        message.type === "user" ? "flex-row-reverse" : ""
-      }`}
+      className={`flex items-end gap-3 ${message.type === "user" ? "flex-row-reverse" : ""
+        }`}
     >
       <Avatar className="h-8 w-8 border border-border/70 bg-background/80 text-primary">
         <AvatarFallback>
@@ -262,11 +269,10 @@ const MessageItem = memo(({ message }: MessageItemProps) => {
         </AvatarFallback>
       </Avatar>
       <div
-        className={`flex max-w-[78%] flex-col gap-2 ${
-          message.type === "user"
-            ? "items-end text-right"
-            : ""
-        }`}
+        className={`flex max-w-[78%] flex-col gap-2 ${message.type === "user"
+          ? "items-end"
+          : ""
+          }`}
       >
         <div className="flex items-center gap-2 text-[10px] uppercase tracking-wide text-muted-foreground/80">
           {message.type === "assistant" ? (
@@ -282,11 +288,10 @@ const MessageItem = memo(({ message }: MessageItemProps) => {
           )}
         </div>
         <div
-          className={`rounded-xl border text-[13px] leading-relaxed shadow-sm transition ${
-            message.type === "user"
-              ? "border-primary/70 bg-primary text-primary-foreground shadow-primary/20 px-3 py-2"
-              : "border-border/70 bg-card/90 shadow-lg"
-          }`}
+          className={`rounded-xl border text-[13px] leading-relaxed shadow-sm transition ${message.type === "user"
+            ? "border-primary/70 bg-primary text-primary-foreground shadow-primary/20 px-3 py-2"
+            : "border-border/70 bg-card/90 shadow-lg"
+            }`}
         >
           {message.type === "assistant" && parsedMessage ? (
             <div className="space-y-4 p-5">
@@ -342,7 +347,7 @@ const MessageItem = memo(({ message }: MessageItemProps) => {
           {formatTimestamp(message.timestamp)}
         </span>
       </div>
-    </div>
+    </div >
   );
 });
 
@@ -367,6 +372,33 @@ const parseConfidenceScore = (content: string): number | null => {
   return clamped;
 };
 
+// Extend Window for Web Speech API
+interface SpeechRecognitionEvent extends Event {
+  results: SpeechRecognitionResultList;
+  resultIndex: number;
+}
+interface SpeechRecognitionErrorEvent extends Event {
+  error: string;
+  message: string;
+}
+interface SpeechRecognition extends EventTarget {
+  continuous: boolean;
+  interimResults: boolean;
+  lang: string;
+  start(): void;
+  stop(): void;
+  abort(): void;
+  onresult: ((event: SpeechRecognitionEvent) => void) | null;
+  onerror: ((event: SpeechRecognitionErrorEvent) => void) | null;
+  onend: (() => void) | null;
+}
+declare global {
+  interface Window {
+    SpeechRecognition: new () => SpeechRecognition;
+    webkitSpeechRecognition: new () => SpeechRecognition;
+  }
+}
+
 function App() {
   const [inputMessage, setInputMessage] = useState("");
   const [currentMessages, setCurrentMessages] = useState<Message[]>([]);
@@ -376,6 +408,17 @@ function App() {
   const [apiKey, setApiKey] = useState<string>("");
   const [tempApiKey, setTempApiKey] = useState<string>("");
   const [showApiKeyDialog, setShowApiKeyDialog] = useState(false);
+
+  // Multi-modal input state
+  const [showUrlInput, setShowUrlInput] = useState(false);
+  const [urlValue, setUrlValue] = useState("");
+  const [isExtractingUrl, setIsExtractingUrl] = useState(false);
+  const [isExtractingImage, setIsExtractingImage] = useState(false);
+  const [extractError, setExtractError] = useState<string | null>(null);
+  const [attachedSource, setAttachedSource] = useState<{ type: "url" | "image"; label: string } | null>(null);
+  const [isListening, setIsListening] = useState(false);
+  const fileInputRef = useRef<HTMLInputElement>(null);
+  const recognitionRef = useRef<SpeechRecognition | null>(null);
 
   useEffect(() => {
     const storedKey = localStorage.getItem("openrouter-api-key");
@@ -431,12 +474,132 @@ function App() {
     }
   }, [hasCompletedResponse]);
 
+  // ===== Multi-modal handlers =====
+
+  const handleExtractUrl = useCallback(async () => {
+    if (!urlValue.trim()) return;
+    setIsExtractingUrl(true);
+    setExtractError(null);
+    try {
+      const result = await apiClient.extractURL({ url: urlValue.trim() });
+      setInputMessage(result.extracted_text);
+      setAttachedSource({ type: "url", label: result.page_title || new URL(urlValue.trim()).hostname });
+      setShowUrlInput(false);
+      setUrlValue("");
+    } catch (err) {
+      setExtractError(err instanceof Error ? err.message : "Failed to extract text from URL");
+    } finally {
+      setIsExtractingUrl(false);
+    }
+  }, [urlValue]);
+
+  const processImage = useCallback(async (file: File) => {
+    setIsExtractingImage(true);
+    setExtractError(null);
+    try {
+      const result = await apiClient.extractImage(file);
+      setInputMessage(result.extracted_text);
+      setAttachedSource({ type: "image", label: file.name });
+    } catch (err) {
+      setExtractError(err instanceof Error ? err.message : "Failed to extract text from image");
+    } finally {
+      setIsExtractingImage(false);
+    }
+  }, []);
+
+  const handleImageUpload = useCallback(async (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+    await processImage(file);
+    // Reset file input
+    if (fileInputRef.current) fileInputRef.current.value = "";
+  }, [processImage]);
+
+  const handlePaste = useCallback(async (e: React.ClipboardEvent) => {
+    const items = e.clipboardData.items;
+    for (let i = 0; i < items.length; i++) {
+      if (items[i].type.indexOf("image") !== -1) {
+        e.preventDefault();
+        const file = items[i].getAsFile();
+        if (file) {
+          // Give pasted images a name
+          const renamedFile = new File([file], "pasted-image.png", { type: file.type });
+          await processImage(renamedFile);
+          return;
+        }
+      }
+    }
+  }, [processImage]);
+
+  const handleToggleVoice = useCallback(() => {
+    const SpeechRec = window.SpeechRecognition || window.webkitSpeechRecognition;
+    if (!SpeechRec) {
+      setExtractError("Voice input is not supported in your browser. Please use Chrome or Edge.");
+      return;
+    }
+
+    if (isListening && recognitionRef.current) {
+      recognitionRef.current.stop();
+      setIsListening(false);
+      return;
+    }
+
+    const recognition = new SpeechRec();
+    recognition.continuous = true;
+    recognition.interimResults = true;
+    recognition.lang = "en-US";
+
+    let finalTranscript = inputMessage;
+
+    recognition.onresult = (event: SpeechRecognitionEvent) => {
+      let interimTranscript = "";
+      for (let i = event.resultIndex; i < event.results.length; i++) {
+        const transcript = event.results[i][0].transcript;
+        if (event.results[i].isFinal) {
+          finalTranscript += (finalTranscript ? " " : "") + transcript;
+        } else {
+          interimTranscript += transcript;
+        }
+      }
+      setInputMessage(finalTranscript + (interimTranscript ? " " + interimTranscript : ""));
+    };
+
+    recognition.onerror = (event: SpeechRecognitionErrorEvent) => {
+      console.error("Speech recognition error:", event.error);
+      if (event.error !== "no-speech") {
+        setExtractError(`Voice input error: ${event.error}`);
+      }
+      setIsListening(false);
+    };
+
+    recognition.onend = () => {
+      setIsListening(false);
+    };
+
+    recognitionRef.current = recognition;
+    recognition.start();
+    setIsListening(true);
+    setExtractError(null);
+  }, [isListening, inputMessage]);
+
+  const handleRemoveAttachment = useCallback(() => {
+    setAttachedSource(null);
+  }, []);
+
   const handleSendMessage = useCallback(async () => {
     // Prevent sending if there's already a completed response
     if (!inputMessage.trim() || isSendingMessage || hasCompletedResponse) return;
 
+    // Stop voice recording if active
+    if (isListening && recognitionRef.current) {
+      recognitionRef.current.stop();
+      setIsListening(false);
+    }
+
     const queryText = inputMessage.trim();
     setInputMessage("");
+    setAttachedSource(null);
+    setExtractError(null);
 
     try {
       // Add user message immediately
@@ -452,7 +615,7 @@ function App() {
       // Send query to API. Always show 3 top results.
       // Only pass apiKey if it's set, otherwise backend will use server's default key
       const response = await sendQuery(
-        { query: queryText, top_k: 3 }, 
+        { query: queryText, top_k: 3 },
         apiKey || undefined
       );
 
@@ -476,7 +639,7 @@ function App() {
         prev.filter((msg) => msg.id.startsWith("temp-"))
       );
     }
-  }, [inputMessage, isSendingMessage, hasCompletedResponse, sendQuery]);
+  }, [inputMessage, isSendingMessage, hasCompletedResponse, sendQuery, isListening, apiKey]);
 
   const handleKeyDown = useCallback((e: React.KeyboardEvent) => {
     // Prevent sending if there's already a completed response
@@ -489,7 +652,17 @@ function App() {
   const handleNewChat = useCallback(() => {
     setCurrentMessages([]);
     setCurrentSourceDocuments([]);
-  }, []);
+    setAttachedSource(null);
+    setExtractError(null);
+    setShowUrlInput(false);
+    setUrlValue("");
+    if (isListening && recognitionRef.current) {
+      recognitionRef.current.stop();
+      setIsListening(false);
+    }
+  }, [isListening]);
+
+  const isProcessing = isExtractingUrl || isExtractingImage;
 
   const metrics = useMemo(() => {
     const assistantMessages = currentMessages.filter(
@@ -548,10 +721,10 @@ function App() {
                 <Plus className="mr-2 h-4 w-4" />
                 New Session
               </Button>
-              <Button 
-                variant="ghost" 
-                size="icon" 
-                className="h-10 w-10 rounded-xl hover:bg-accent/50" 
+              <Button
+                variant="ghost"
+                size="icon"
+                className="h-10 w-10 rounded-xl hover:bg-accent/50"
                 title="Settings"
                 onClick={handleOpenApiKeyDialog}
               >
@@ -678,37 +851,181 @@ function App() {
                       </div>
                     </div>
                   ) : (
-                    <div className="flex flex-col gap-3 sm:flex-row">
-                      <div className="relative flex-1">
-                        <Input
-                          placeholder="Enter a medical claim to verify (e.g., 'Long-term use of ibuprofen causes autism')..."
-                          value={inputMessage}
-                          onChange={(e) => setInputMessage(e.target.value)}
-                          onKeyDown={handleKeyDown}
-                          className="h-12 rounded-xl border-border/40 bg-card/50 pr-16 text-[13px] shadow-sm backdrop-blur-sm transition-all focus:border-primary/60 focus:ring-2 focus:ring-primary/20"
-                          disabled={isSendingMessage}
+                    <div className="flex flex-col gap-2">
+                      {/* Extraction error */}
+                      {extractError && (
+                        <div className="rounded-lg border border-amber-500/30 bg-amber-500/10 px-3 py-2 text-[12px] text-amber-200">
+                          <div className="flex items-center gap-2">
+                            <AlertCircle className="h-3.5 w-3.5 flex-shrink-0" />
+                            <span>{extractError}</span>
+                            <button onClick={() => setExtractError(null)} className="ml-auto hover:text-amber-100"><X className="h-3 w-3" /></button>
+                          </div>
+                        </div>
+                      )}
+
+                      {/* Processing indicator */}
+                      {isProcessing && (
+                        <div className="rounded-lg border border-primary/30 bg-primary/10 px-3 py-2 text-[12px] text-primary">
+                          <div className="flex items-center gap-2">
+                            <Loader2 className="h-3.5 w-3.5 animate-spin" />
+                            <span>{isExtractingUrl ? "Extracting text from URL..." : "Extracting text from image (OCR)..."}</span>
+                          </div>
+                        </div>
+                      )}
+
+                      {/* Attached source chip */}
+                      {attachedSource && (
+                        <div className="flex items-center gap-2">
+                          <div className="flex items-center gap-2 rounded-full border border-primary/40 bg-primary/10 px-3 py-1.5 text-[11px] text-primary">
+                            {attachedSource.type === "url" ? <Globe className="h-3 w-3" /> : <Image className="h-3 w-3" />}
+                            <span className="max-w-[200px] truncate font-medium">{attachedSource.label}</span>
+                            <button
+                              onClick={handleRemoveAttachment}
+                              className="ml-1 rounded-full p-0.5 hover:bg-primary/20 transition-colors"
+                            >
+                              <X className="h-2.5 w-2.5" />
+                            </button>
+                          </div>
+                          <span className="text-[10px] text-muted-foreground">Text extracted — review below then send</span>
+                        </div>
+                      )}
+
+                      {/* URL input field (inline) */}
+                      {showUrlInput && (
+                        <div className="flex gap-2 rounded-xl border border-primary/30 bg-primary/5 p-2">
+                          <Input
+                            placeholder="Paste article URL (e.g., https://bbc.com/health/article)..."
+                            value={urlValue}
+                            onChange={(e) => setUrlValue(e.target.value)}
+                            onKeyDown={(e) => { if (e.key === "Enter") { e.preventDefault(); handleExtractUrl(); } }}
+                            className="h-9 flex-1 rounded-lg border-border/40 bg-background/60 text-[12px]"
+                            disabled={isExtractingUrl}
+                            autoFocus
+                          />
+                          <Button
+                            onClick={handleExtractUrl}
+                            disabled={!urlValue.trim() || isExtractingUrl}
+                            size="sm"
+                            className="h-9 rounded-lg px-4 text-[11px]"
+                          >
+                            {isExtractingUrl ? <Loader2 className="h-3.5 w-3.5 animate-spin" /> : "Extract"}
+                          </Button>
+                          <Button
+                            onClick={() => { setShowUrlInput(false); setUrlValue(""); }}
+                            variant="ghost"
+                            size="sm"
+                            className="h-9 w-9 rounded-lg p-0"
+                          >
+                            <X className="h-3.5 w-3.5" />
+                          </Button>
+                        </div>
+                      )}
+
+                      {/* Main input row */}
+                      <div className="flex flex-col gap-2 sm:flex-row items-end">
+                        <div className="relative flex-1 w-full">
+                          <Textarea
+                            placeholder={isListening ? "Listening... speak your claim" : "Enter a medical claim to verify..."}
+                            value={inputMessage}
+                            onChange={(e) => setInputMessage(e.target.value)}
+                            onKeyDown={handleKeyDown}
+                            onPaste={handlePaste}
+                            className={`min-h-[48px] max-h-[300px] w-full resize-none rounded-xl border-border/40 bg-card/50 py-3 pr-16 text-[13px] shadow-sm backdrop-blur-sm transition-all focus:border-primary/60 focus:ring-2 focus:ring-primary/20 ${isListening ? "border-red-500/50 ring-2 ring-red-500/20" : ""}`}
+                            disabled={isSendingMessage || isProcessing}
+                          />
+                          <div className="pointer-events-none absolute bottom-3 right-4 hidden items-center gap-2 text-[10px] text-muted-foreground sm:flex">
+                            <span>Press</span>
+                            <kbd className="rounded-md border border-border/60 bg-background/70 px-2 py-1 text-[9px] uppercase">
+                              Enter
+                            </kbd>
+                          </div>
+                        </div>
+                        <Button
+                          onClick={handleSendMessage}
+                          className="h-12 rounded-xl bg-gradient-to-r from-primary to-primary/90 px-6 text-[13px] font-semibold text-primary-foreground shadow-lg shadow-primary/25 transition-all hover:shadow-xl hover:shadow-primary/30 hover:scale-[1.02]"
+                          disabled={!inputMessage.trim() || isSendingMessage || isProcessing}
+                        >
+                          {isSendingMessage ? (
+                            <Loader2 className="h-4 w-4 animate-spin" />
+                          ) : (
+                            <>
+                              <Send className="mr-2 h-4 w-4" />
+                              Send
+                            </>
+                          )}
+                        </Button>
+                      </div>
+
+                      {/* Multi-modal toolbar */}
+                      <div className="flex items-center gap-1 pt-1">
+                        {/* Hidden file input */}
+                        <input
+                          ref={fileInputRef}
+                          type="file"
+                          accept="image/png,image/jpeg,image/jpg,image/webp,image/bmp,image/tiff"
+                          onChange={handleImageUpload}
+                          className="hidden"
                         />
-                        <div className="pointer-events-none absolute inset-y-0 right-4 hidden items-center gap-2 text-[10px] text-muted-foreground sm:flex">
-                          <span>Press</span>
-                          <kbd className="rounded-md border border-border/60 bg-background/70 px-2 py-1 text-[9px] uppercase">
-                            Enter
-                          </kbd>
+
+                        <Button
+                          variant="ghost"
+                          size="sm"
+                          onClick={() => { setShowUrlInput(!showUrlInput); setExtractError(null); }}
+                          disabled={isSendingMessage || isProcessing}
+                          className={`h-8 gap-1.5 rounded-lg px-2.5 text-[11px] font-medium transition-all ${showUrlInput
+                            ? "bg-primary/15 text-primary border border-primary/30"
+                            : "text-muted-foreground hover:text-foreground hover:bg-accent/50"
+                            }`}
+                          title="Paste an article URL to extract and analyze its text"
+                        >
+                          <Link className="h-3.5 w-3.5" />
+                          <span className="hidden sm:inline">Link</span>
+                        </Button>
+
+                        <Button
+                          variant="ghost"
+                          size="sm"
+                          onClick={() => fileInputRef.current?.click()}
+                          disabled={isSendingMessage || isProcessing}
+                          className="h-8 gap-1.5 rounded-lg px-2.5 text-[11px] font-medium text-muted-foreground hover:text-foreground hover:bg-accent/50 transition-all"
+                          title="Upload a screenshot or image to extract text via OCR"
+                        >
+                          <Image className="h-3.5 w-3.5" />
+                          <span className="hidden sm:inline">Image</span>
+                        </Button>
+
+                        <Button
+                          variant="ghost"
+                          size="sm"
+                          onClick={handleToggleVoice}
+                          disabled={isSendingMessage || isProcessing}
+                          className={`h-8 gap-1.5 rounded-lg px-2.5 text-[11px] font-medium transition-all ${isListening
+                            ? "bg-red-500/15 text-red-400 border border-red-500/30"
+                            : "text-muted-foreground hover:text-foreground hover:bg-accent/50"
+                            }`}
+                          title={isListening ? "Stop listening" : "Speak your claim (uses browser speech recognition)"}
+                        >
+                          {isListening ? (
+                            <>
+                              <span className="relative flex h-2 w-2">
+                                <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-red-400 opacity-75"></span>
+                                <span className="relative inline-flex h-2 w-2 rounded-full bg-red-500"></span>
+                              </span>
+                              <MicOff className="h-3.5 w-3.5" />
+                              <span className="hidden sm:inline">Stop</span>
+                            </>
+                          ) : (
+                            <>
+                              <Mic className="h-3.5 w-3.5" />
+                              <span className="hidden sm:inline">Voice</span>
+                            </>
+                          )}
+                        </Button>
+
+                        <div className="ml-auto text-[10px] text-muted-foreground/60">
+                          Paste a link, upload a screenshot, or speak
                         </div>
                       </div>
-                      <Button
-                        onClick={handleSendMessage}
-                        className="h-12 rounded-xl bg-gradient-to-r from-primary to-primary/90 px-6 text-[13px] font-semibold text-primary-foreground shadow-lg shadow-primary/25 transition-all hover:shadow-xl hover:shadow-primary/30 hover:scale-[1.02]"
-                        disabled={!inputMessage.trim() || isSendingMessage}
-                      >
-                        {isSendingMessage ? (
-                          <Loader2 className="h-4 w-4 animate-spin" />
-                        ) : (
-                          <>
-                            <Send className="mr-2 h-4 w-4" />
-                            Send
-                          </>
-                        )}
-                      </Button>
                     </div>
                   )}
                 </div>
@@ -750,7 +1067,7 @@ function App() {
         </div>
       </div>
 
-      <Dialog open={showApiKeyDialog} onOpenChange={() => {}}>
+      <Dialog open={showApiKeyDialog} onOpenChange={() => { }}>
         <DialogContent>
           <DialogHeader>
             <DialogTitle>OpenRouter API Key Required</DialogTitle>
