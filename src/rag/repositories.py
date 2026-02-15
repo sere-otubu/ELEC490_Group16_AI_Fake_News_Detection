@@ -347,13 +347,16 @@ class RAGRepository:
             
             if api_key:
                 logger.info("Using custom OpenRouter API key for this query")
-                original_llm = Settings.llm
-                original_embed_model = Settings.embed_model
                 
-                # Temporarily set OPENAI_API_KEY environment variable
+                # Temporarily set OPENAI_API_KEY environment variable FIRST
                 # OpenAILike internally uses OpenAI client which checks this env var
+                # Must be set BEFORE accessing Settings.llm to avoid validation errors
                 original_openai_key = os.environ.get("OPENAI_API_KEY")
                 os.environ["OPENAI_API_KEY"] = api_key
+                
+                # Now safe to access Settings.llm and Settings.embed_model
+                original_llm = Settings.llm
+                original_embed_model = Settings.embed_model
                 
                 Settings.llm = OpenAILike(
                     model=settings.OPENROUTER_LLM_MODEL,
