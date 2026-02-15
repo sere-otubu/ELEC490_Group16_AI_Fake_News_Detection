@@ -72,3 +72,28 @@ class HealthCheckResponse(BaseModel):
     status: str = Field(..., description="Health status")
     service: str = Field(..., description="Service name")
     version: str = Field(..., description="Service version")
+
+
+# =============================================================================
+# Multi-Modal Input Schemas
+# =============================================================================
+
+
+class URLExtractRequest(BaseModel):
+    """Request to extract text from a URL."""
+
+    url: str = Field(..., description="URL of the article/page to extract text from.")
+
+
+class URLExtractResponse(BaseModel):
+    """Response containing extracted text from a URL."""
+
+    extracted_text: str = Field(..., description="The extracted text content.")
+    source_url: str = Field(..., description="The original URL.")
+    page_title: str = Field(default="", description="Title of the page.")
+
+
+class ImageExtractResponse(BaseModel):
+    """Response containing extracted text from an image."""
+
+    extracted_text: str = Field(..., description="The text extracted via OCR.")
