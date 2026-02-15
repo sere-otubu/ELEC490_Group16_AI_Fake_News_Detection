@@ -15,7 +15,6 @@ import {
   ChevronUp,
   Download,
   FileText,
-  BookOpen,
   Settings,
   Shield,
   CheckCircle2,
