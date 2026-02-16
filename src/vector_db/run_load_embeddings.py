@@ -182,7 +182,7 @@ def save_indexing_state(data_path: Path, state: Dict[str, str]):
         logger.error(f"Could not save tracking file: {e}")
 
 
-BATCH_SIZE = 50  # Number of files to process in one batch
+BATCH_SIZE = 100  # Number of files to process in one batch
 
 
 def load_and_index_documents(rag_service: RAGService) -> bool:
