@@ -491,6 +491,15 @@ class RAGRepository:
                                 display_name = f"PubMed Article (ID: {pmid})"
                             source_link = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
 
+                    # Check for PubMed Files with pmid_ prefix (e.g., pmid_12345.txt)
+                    elif "pmid_" in raw_file_name:
+                         # Extract ID
+                        pmid = raw_file_name.split("pmid_")[-1].replace(".txt", "")
+                        if pmid.isdigit():
+                            if not extracted_title:
+                                display_name = f"PubMed Article (ID: {pmid})"
+                            source_link = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
+
                     # Check for ArXiv Files (e.g., arxiv_1234.5678.txt)
                     elif "arxiv_" in raw_file_name:
                         # Extract ID
