@@ -214,7 +214,17 @@ class RAGRepository:
     def _setup_database(self) -> None:
         """Setup the database connection, extension and vector store."""
         try:
-            self.engine = create_engine(settings.database_url, echo=False)
+            # Optimize connection pool for Supabase Session mode
+            # This engine is used for metadata checks and document counting
+            self.engine = create_engine(
+                settings.database_url,
+                echo=False,
+                pool_size=2,
+                max_overflow=0,
+                pool_recycle=300,
+                pool_pre_ping=True
+            )
+            
             if self.engine:
                 with self.engine.connect() as conn:
                     conn.execute(text("SELECT 1"))
@@ -231,6 +241,8 @@ class RAGRepository:
                     settings.EMBED_DIM,
                 )
 
+            # PGVectorStore.from_params creates its own internal engine.
+            # Since RAGRepository is now a singleton, this only happens ONCE.
             self.vector_store = PGVectorStore.from_params(
                 database=settings.effective_pg_database,
                 host=settings.effective_pg_host,
@@ -442,15 +454,92 @@ class RAGRepository:
                     source_link = node_metadata.get("file_path")
                     
                     # 3. INTELLIGENT PARSING LOGIC
+                    
+                    # A. Try to extract metadata from the text content itself (for fetchers that save headers)
+                    # This is the most accurate source if the chunk contains the header
+                    text_content = node.text or ""
+                    extracted_url = None
+                    extracted_title = None
+                    
+                    # Check first 10 lines for metadata headers
+                    for line in text_content.split('\n')[:10]:
+                        if "SOURCE_URL:" in line:
+                            parts = line.split("SOURCE_URL:", 1)
+                            if len(parts) > 1:
+                                extracted_url = parts[1].strip()
+                        elif "TITLE:" in line:
+                            parts = line.split("TITLE:", 1)
+                            if len(parts) > 1:
+                                extracted_title = parts[1].strip()
+                    
+                    # Apply extracted metadata if found
+                    if extracted_url and extracted_url.startswith("http"):
+                        source_link = extracted_url
+                    
+                    if extracted_title:
+                        # Clean up title if needed
+                        display_name = extracted_title
+
+                    # B. Filename-based Fallbacks (if text extraction missed it)
+                    
                     # Check for PubMed Files (e.g., pubmed_12345.txt)
                     if "pubmed_" in raw_file_name:
                         # Extract ID
                         pmid = raw_file_name.split("pubmed_")[-1].replace(".txt", "")
                         if pmid.isdigit():
-                            display_name = f"PubMed Article (ID: {pmid})"
+                            if not extracted_title: # Only overwrite if we didn't get a real title
+                                display_name = f"PubMed Article (ID: {pmid})"
                             source_link = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
 
-                    # Check for Scraped Websites (e.g., www.who.int_topic.txt)
+                    # Check for ArXiv Files (e.g., arxiv_1234.5678.txt)
+                    elif "arxiv_" in raw_file_name:
+                        # Extract ID
+                        arxiv_id = raw_file_name.replace("arxiv_", "").replace(".txt", "")
+                        if not extracted_title:
+                            display_name = f"ArXiv Paper ({arxiv_id})"
+                        # Force Abstract URL for ArXiv (safer than PDF)
+                        source_link = f"https://arxiv.org/abs/{arxiv_id}"
+
+                    # Check for PLOS Files (e.g., plos_10_1371_...txt)
+                    elif "plos_" in raw_file_name:
+                        if not extracted_title:
+                            display_name = "PLOS Article"
+                        
+                        # Fallback URL if extraction failed (Reconstruct DOI for direct link)
+                        if not extracted_url:
+                             # Example: plos_10_1371_journal_pone_0205708.txt
+                             # Goal: 10.1371/journal.pone.0205708
+                             parts = raw_file_name.replace("plos_", "").replace(".txt", "").split("_")
+                             if len(parts) >= 2 and parts[0] == "10":
+                                 # Standard PLOS DOI pattern: 10.1371/journal...
+                                 doi = f"{parts[0]}.{parts[1]}/{'.'.join(parts[2:])}"
+                                 source_link = f"https://journals.plos.org/plosone/article?id={doi}"
+                             else:
+                                 # Fallback to search if pattern is weird
+                                 clean_name = raw_file_name.replace("plos_", "").replace(".txt", "").replace("_", ".")
+                                 source_link = f"https://journals.plos.org/plosone/search?q={clean_name}"
+
+                    # Check for WHO Files (e.g., who_factsheet_...txt)
+                    elif "who_" in raw_file_name:
+                        if not extracted_title:
+                            slug = raw_file_name.replace("who_", "").replace(".txt", "").replace("_", " ").title()
+                            display_name = f"WHO: {slug}"
+                        
+                        # Fallback URL
+                        if not extracted_url:
+                            # Remove 'factsheet-' or 'factsheet_' prefix which causes 404s
+                            # Example filename: who_factsheet_autism-spectrum-disorders.txt
+                            # Goal slug: autism-spectrum-disorders
+                            slug_url = raw_file_name.replace("who_", "").replace(".txt", "")
+                            slug_url = slug_url.replace("factsheet_", "").replace("factsheet-", "")
+                            slug_url = slug_url.replace("_", "-") # Ensure hyphens for URL
+                            
+                            # Remove leading/trailing hyphens
+                            slug_url = slug_url.strip("-")
+                            
+                            source_link = f"https://www.who.int/news-room/fact-sheets/detail/{slug_url}"
+
+                    # Check for Scraped Websites (e.g., www.who.int_topic.txt) - Legacy/Generic
                     elif "www." in raw_file_name or "http" in raw_file_name:
                         # Remove extension
                         clean = raw_file_name.replace(".txt", "")
