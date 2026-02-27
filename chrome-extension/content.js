@@ -4,63 +4,53 @@
 // =============================================================================
 
 (function () {
-    "use strict";
+  "use strict";
 
-    const DEFAULT_API_URL = "https://capstone-backend-5xbw.onrender.com";
-    let apiUrl = DEFAULT_API_URL;
-    let currentButton = null;
-    let currentOverlay = null;
+  const API_URL = "https://capstone-backend-5xbw.onrender.com";
+  let currentButton = null;
+  let currentOverlay = null;
 
-    // Load saved API URL
-    chrome.storage.local.get(["apiUrl"], (result) => {
-        if (result.apiUrl) apiUrl = result.apiUrl;
-    });
 
-    // Listen for settings changes
-    chrome.storage.onChanged.addListener((changes) => {
-        if (changes.apiUrl) apiUrl = changes.apiUrl.newValue;
-    });
+  // Listen for context menu messages from background.js
+  chrome.runtime.onMessage.addListener((message) => {
+    if (message.action === "analyze" && message.text) {
+      removeExistingUI();
+      analyzeText(message.text);
+    }
+  });
 
-    // Listen for context menu messages from background.js
-    chrome.runtime.onMessage.addListener((message) => {
-        if (message.action === "analyze" && message.text) {
-            removeExistingUI();
-            analyzeText(message.text);
-        }
-    });
+  // =========================================================================
+  // Text Selection Detection
+  // =========================================================================
 
-    // =========================================================================
-    // Text Selection Detection
-    // =========================================================================
+  document.addEventListener("mouseup", (e) => {
+    // Ignore clicks on our own UI elements
+    if (e.target.closest(".fnd-container")) return;
 
-    document.addEventListener("mouseup", (e) => {
-        // Ignore clicks on our own UI elements
-        if (e.target.closest(".fnd-container")) return;
+    const selectedText = window.getSelection().toString().trim();
 
-        const selectedText = window.getSelection().toString().trim();
+    if (selectedText.length > 10) {
+      showAnalyzeButton(e.clientX, e.clientY, selectedText);
+    }
+  });
 
-        if (selectedText.length > 10) {
-            showAnalyzeButton(e.clientX, e.clientY, selectedText);
-        }
-    });
+  // Remove button when clicking elsewhere (but not on our UI)
+  document.addEventListener("mousedown", (e) => {
+    if (!e.target.closest(".fnd-container")) {
+      removeButton();
+    }
+  });
 
-    // Remove button when clicking elsewhere (but not on our UI)
-    document.addEventListener("mousedown", (e) => {
-        if (!e.target.closest(".fnd-container")) {
-            removeButton();
-        }
-    });
+  // =========================================================================
+  // Floating Analyze Button
+  // =========================================================================
 
-    // =========================================================================
-    // Floating Analyze Button
-    // =========================================================================
+  function showAnalyzeButton(x, y, text) {
+    removeButton();
 
-    function showAnalyzeButton(x, y, text) {
-        removeButton();
-
-        const btn = document.createElement("div");
-        btn.className = "fnd-container fnd-analyze-btn";
-        btn.innerHTML = `
+    const btn = document.createElement("div");
+    btn.className = "fnd-container fnd-analyze-btn";
+    btn.innerHTML = `
       <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
         <circle cx="11" cy="11" r="8"/>
         <line x1="21" y1="21" x2="16.65" y2="16.65"/>
@@ -68,138 +58,139 @@
       <span>Check Claim</span>
     `;
 
-        // Position near cursor but keep within viewport
-        const posX = Math.min(x + 10, window.innerWidth - 170);
-        const posY = Math.max(y - 45, 10);
-        btn.style.left = `${posX}px`;
-        btn.style.top = `${posY}px`;
+    // Position near cursor but keep within viewport
+    const posX = Math.min(x + 10, window.innerWidth - 170);
+    const posY = Math.max(y - 45, 10);
+    btn.style.left = `${posX}px`;
+    btn.style.top = `${posY}px`;
 
-        btn.addEventListener("click", (e) => {
-            e.preventDefault();
-            e.stopPropagation();
-            removeButton();
-            analyzeText(text);
-        });
+    btn.addEventListener("click", (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      removeButton();
+      analyzeText(text);
+    });
 
-        document.body.appendChild(btn);
-        currentButton = btn;
+    document.body.appendChild(btn);
+    currentButton = btn;
 
-        // Animate in
-        requestAnimationFrame(() => btn.classList.add("fnd-visible"));
+    // Animate in
+    requestAnimationFrame(() => btn.classList.add("fnd-visible"));
+  }
+
+  function removeButton() {
+    if (currentButton) {
+      currentButton.remove();
+      currentButton = null;
+    }
+  }
+
+  // =========================================================================
+  // API Call
+  // =========================================================================
+
+  async function analyzeText(text) {
+    showLoadingOverlay(text);
+
+    try {
+      // Route through background service worker to avoid CORS issues
+      // (content scripts inherit the page's origin, not chrome-extension://)
+      const result = await chrome.runtime.sendMessage({
+        action: "apiRequest",
+        url: `${API_URL}/rag/query`,
+        method: "POST",
+        body: { query: text, top_k: 3 },
+      });
+
+      if (result.error) {
+        throw new Error(result.error);
+      }
+
+      showResultsOverlay(text, result.data);
+    } catch (error) {
+      showErrorOverlay(text, error.message);
+    }
+  }
+
+  // =========================================================================
+  // Parse Structured Response
+  // =========================================================================
+
+  function parseResponse(chatResponse) {
+    const result = {
+      reasoning: "",
+      verdict: "UNKNOWN",
+      confidence: null,
+      evidence: "",
+      sources: "",
+    };
+
+    // Helper to extract content for a given bold marker.
+    // Matches **Marker**: <content> and stops at the next \n**<Word> or end.
+    function extract(marker) {
+      const regex = new RegExp(`\\*\\*${marker}\\*\\*:\\s*([\\s\\S]*?)(?=\\n\\*\\*[A-Za-z]|$)`, "i");
+      const match = chatResponse.match(regex);
+      return match ? match[1].trim() : "";
     }
 
-    function removeButton() {
-        if (currentButton) {
-            currentButton.remove();
-            currentButton = null;
-        }
+    // Extract fields
+    const rawVerdict = extract("Verdict");
+    const rawReasoning = extract("Reasoning");
+    const rawConfidence = extract("Confidence\\s*Score");
+    const rawEvidence = extract("Evidence");
+    const rawSources = extract("Source\\s*Files");
+
+    // Clean up verdict (remove brackets if present)
+    if (rawVerdict) {
+      result.verdict = rawVerdict.replace(/[\[\]]/g, "").toUpperCase();
     }
 
-    // =========================================================================
-    // API Call
-    // =========================================================================
+    // Parse reasoning
+    result.reasoning = rawReasoning;
 
-    async function analyzeText(text) {
-        showLoadingOverlay(text);
-
-        try {
-            // Route through background service worker to avoid CORS issues
-            // (content scripts inherit the page's origin, not chrome-extension://)
-            const result = await chrome.runtime.sendMessage({
-                action: "apiRequest",
-                url: `${apiUrl}/rag/query`,
-                method: "POST",
-                body: { query: text, top_k: 3 },
-            });
-
-            if (result.error) {
-                throw new Error(result.error);
-            }
-
-            showResultsOverlay(text, result.data);
-        } catch (error) {
-            showErrorOverlay(text, error.message);
-        }
+    // Parse numeric confidence
+    if (rawConfidence) {
+      const confValue = parseFloat(rawConfidence);
+      if (!isNaN(confValue)) result.confidence = confValue;
     }
 
-    // =========================================================================
-    // Parse Structured Response
-    // =========================================================================
+    // Evidence and sources
+    result.evidence = rawEvidence;
+    result.sources = rawSources;
 
-    function parseResponse(chatResponse) {
-        const result = {
-            reasoning: "",
-            verdict: "UNKNOWN",
-            confidence: null,
-            evidence: "",
-            sources: "",
-        };
+    return result;
+  }
 
-        // Helper to extract content between two markers or until end of string
-        function extract(marker, nextMarker) {
-            const regex = new RegExp(`\\*\\*${marker}\\*\\*:\\s*([\\s\\S]*?)(?=\\n\\*\\*${nextMarker}\\*\\*|$)`, "i");
-            const match = chatResponse.match(regex);
-            return match ? match[1].trim() : "";
-        }
+  // =========================================================================
+  // Verdict Styling
+  // =========================================================================
 
-        // Extract fields using flexible lookaheads
-        const rawVerdict = extract("Verdict", "Reasoning|Confidence|Evidence|Source");
-        const rawReasoning = extract("Reasoning", "Verdict|Confidence|Evidence|Source");
-        const rawConfidence = extract("Confidence\\s*Score", "Verdict|Reasoning|Evidence|Source");
-        const rawEvidence = extract("Evidence", "Verdict|Reasoning|Confidence|Source");
-        const rawSources = extract("Source\\s*Files", "Verdict|Reasoning|Confidence|Evidence");
+  function getVerdictConfig(verdict) {
+    const configs = {
+      ACCURATE: { color: "#10b981", bg: "rgba(16,185,129,0.15)", icon: "✅", label: "Accurate" },
+      INACCURATE: { color: "#ef4444", bg: "rgba(239,68,68,0.15)", icon: "❌", label: "Inaccurate" },
+      "PARTIALLY ACCURATE": { color: "#f59e0b", bg: "rgba(245,158,11,0.15)", icon: "⚠️", label: "Partially Accurate" },
+      MISLEADING: { color: "#f97316", bg: "rgba(249,115,22,0.15)", icon: "⚡", label: "Misleading" },
+      UNVERIFIABLE: { color: "#8b5cf6", bg: "rgba(139,92,246,0.15)", icon: "❓", label: "Unverifiable" },
+      OUTDATED: { color: "#6366f1", bg: "rgba(99,102,241,0.15)", icon: "📅", label: "Outdated" },
+      OPINION: { color: "#06b6d4", bg: "rgba(6,182,212,0.15)", icon: "💬", label: "Opinion" },
+      INCONCLUSIVE: { color: "#a855f7", bg: "rgba(168,85,247,0.15)", icon: "🔄", label: "Inconclusive" },
+      IRRELEVANT: { color: "#6b7280", bg: "rgba(107,114,128,0.15)", icon: "🚫", label: "Irrelevant" },
+    };
+    return configs[verdict] || { color: "#9ca3af", bg: "rgba(156,163,175,0.15)", icon: "❔", label: verdict };
+  }
 
-        // Clean up verdict (remove brackets if present)
-        if (rawVerdict) {
-            result.verdict = rawVerdict.replace(/[\[\]]/g, "").toUpperCase();
-        }
+  // =========================================================================
+  // Loading Overlay
+  // =========================================================================
 
-        // Parse reasoning
-        result.reasoning = rawReasoning;
+  function showLoadingOverlay(queryText) {
+    removeOverlay();
 
-        // Parse numeric confidence
-        if (rawConfidence) {
-            const confValue = parseFloat(rawConfidence);
-            if (!isNaN(confValue)) result.confidence = confValue;
-        }
+    const overlay = createOverlayShell(queryText);
+    const body = overlay.querySelector(".fnd-overlay-body");
 
-        // Evidence and sources
-        result.evidence = rawEvidence;
-        result.sources = rawSources;
-
-        return result;
-    }
-
-    // =========================================================================
-    // Verdict Styling
-    // =========================================================================
-
-    function getVerdictConfig(verdict) {
-        const configs = {
-            ACCURATE: { color: "#10b981", bg: "rgba(16,185,129,0.15)", icon: "✅", label: "Accurate" },
-            INACCURATE: { color: "#ef4444", bg: "rgba(239,68,68,0.15)", icon: "❌", label: "Inaccurate" },
-            "PARTIALLY ACCURATE": { color: "#f59e0b", bg: "rgba(245,158,11,0.15)", icon: "⚠️", label: "Partially Accurate" },
-            MISLEADING: { color: "#f97316", bg: "rgba(249,115,22,0.15)", icon: "⚡", label: "Misleading" },
-            UNVERIFIABLE: { color: "#8b5cf6", bg: "rgba(139,92,246,0.15)", icon: "❓", label: "Unverifiable" },
-            OUTDATED: { color: "#6366f1", bg: "rgba(99,102,241,0.15)", icon: "📅", label: "Outdated" },
-            OPINION: { color: "#06b6d4", bg: "rgba(6,182,212,0.15)", icon: "💬", label: "Opinion" },
-            INCONCLUSIVE: { color: "#a855f7", bg: "rgba(168,85,247,0.15)", icon: "🔄", label: "Inconclusive" },
-            IRRELEVANT: { color: "#6b7280", bg: "rgba(107,114,128,0.15)", icon: "🚫", label: "Irrelevant" },
-        };
-        return configs[verdict] || { color: "#9ca3af", bg: "rgba(156,163,175,0.15)", icon: "❔", label: verdict };
-    }
-
-    // =========================================================================
-    // Loading Overlay
-    // =========================================================================
-
-    function showLoadingOverlay(queryText) {
-        removeOverlay();
-
-        const overlay = createOverlayShell(queryText);
-        const body = overlay.querySelector(".fnd-overlay-body");
-
-        body.innerHTML = `
+    body.innerHTML = `
       <div class="fnd-loading">
         <div class="fnd-spinner"></div>
         <p class="fnd-loading-text">Analyzing claim...</p>
@@ -207,29 +198,29 @@
       </div>
     `;
 
-        document.body.appendChild(overlay);
-        currentOverlay = overlay;
-        requestAnimationFrame(() => overlay.classList.add("fnd-visible"));
-    }
+    document.body.appendChild(overlay);
+    currentOverlay = overlay;
+    requestAnimationFrame(() => overlay.classList.add("fnd-visible"));
+  }
 
-    // =========================================================================
-    // Results Overlay
-    // =========================================================================
+  // =========================================================================
+  // Results Overlay
+  // =========================================================================
 
-    function showResultsOverlay(queryText, data) {
-        removeOverlay();
+  function showResultsOverlay(queryText, data) {
+    removeOverlay();
 
-        const parsed = parseResponse(data.chat_response);
-        const verdict = getVerdictConfig(parsed.verdict);
+    const parsed = parseResponse(data.chat_response);
+    const verdict = getVerdictConfig(parsed.verdict);
 
-        const overlay = createOverlayShell(queryText);
-        const body = overlay.querySelector(".fnd-overlay-body");
+    const overlay = createOverlayShell(queryText);
+    const body = overlay.querySelector(".fnd-overlay-body");
 
-        // Build confidence bar HTML
-        let confidenceHtml = "";
-        if (parsed.confidence !== null) {
-            const pct = Math.round(parsed.confidence * 100);
-            confidenceHtml = `
+    // Build confidence bar HTML
+    let confidenceHtml = "";
+    if (parsed.confidence !== null) {
+      const pct = Math.round(parsed.confidence * 100);
+      confidenceHtml = `
         <div class="fnd-section">
           <div class="fnd-section-label">Confidence</div>
           <div class="fnd-confidence-bar-track">
@@ -238,37 +229,37 @@
           <div class="fnd-confidence-value">${pct}%</div>
         </div>
       `;
-        }
+    }
 
-        // Build evidence HTML
-        let evidenceHtml = "";
-        if (parsed.evidence && parsed.evidence !== "N/A") {
-            evidenceHtml = `
+    // Build evidence HTML
+    let evidenceHtml = "";
+    if (parsed.evidence && parsed.evidence !== "N/A") {
+      evidenceHtml = `
         <div class="fnd-section">
           <div class="fnd-section-label">Evidence</div>
           <div class="fnd-evidence">${escapeHtml(parsed.evidence)}</div>
         </div>
       `;
-        }
+    }
 
-        // Build sources HTML
-        let sourcesHtml = "";
-        if (parsed.sources) {
-            sourcesHtml = `
+    // Build sources HTML
+    let sourcesHtml = "";
+    if (parsed.sources) {
+      sourcesHtml = `
         <div class="fnd-section">
           <div class="fnd-section-label">Sources</div>
           <div class="fnd-sources">${escapeHtml(parsed.sources)}</div>
         </div>
       `;
-        }
+    }
 
-        // Build source documents HTML
-        let docsHtml = "";
-        if (data.source_documents && data.source_documents.length > 0) {
-            const docItems = data.source_documents
-                .map((doc) => {
-                    const score = Math.round(doc.score * 100);
-                    return `
+    // Build source documents HTML
+    let docsHtml = "";
+    if (data.source_documents && data.source_documents.length > 0) {
+      const docItems = data.source_documents
+        .map((doc) => {
+          const score = Math.round(doc.score * 100);
+          return `
             <div class="fnd-doc-item">
               <div class="fnd-doc-header">
                 <span class="fnd-doc-name">${escapeHtml(doc.metadata.file_name)}</span>
@@ -277,18 +268,18 @@
               <div class="fnd-doc-content">${escapeHtml(doc.content.substring(0, 200))}${doc.content.length > 200 ? "..." : ""}</div>
             </div>
           `;
-                })
-                .join("");
+        })
+        .join("");
 
-            docsHtml = `
+      docsHtml = `
         <details class="fnd-section fnd-docs-toggle">
           <summary class="fnd-section-label fnd-clickable">Source Documents (${data.source_documents.length})</summary>
           <div class="fnd-docs-list">${docItems}</div>
         </details>
       `;
-        }
+    }
 
-        body.innerHTML = `
+    body.innerHTML = `
       <div class="fnd-verdict-badge" style="background:${verdict.bg}; color:${verdict.color}; border-color:${verdict.color}">
         <span class="fnd-verdict-icon">${verdict.icon}</span>
         <span class="fnd-verdict-text">${verdict.label}</span>
@@ -305,22 +296,22 @@
       ${docsHtml}
     `;
 
-        document.body.appendChild(overlay);
-        currentOverlay = overlay;
-        requestAnimationFrame(() => overlay.classList.add("fnd-visible"));
-    }
+    document.body.appendChild(overlay);
+    currentOverlay = overlay;
+    requestAnimationFrame(() => overlay.classList.add("fnd-visible"));
+  }
 
-    // =========================================================================
-    // Error Overlay
-    // =========================================================================
+  // =========================================================================
+  // Error Overlay
+  // =========================================================================
 
-    function showErrorOverlay(queryText, errorMessage) {
-        removeOverlay();
+  function showErrorOverlay(queryText, errorMessage) {
+    removeOverlay();
 
-        const overlay = createOverlayShell(queryText);
-        const body = overlay.querySelector(".fnd-overlay-body");
+    const overlay = createOverlayShell(queryText);
+    const body = overlay.querySelector(".fnd-overlay-body");
 
-        body.innerHTML = `
+    body.innerHTML = `
       <div class="fnd-error">
         <div class="fnd-error-icon">⚠️</div>
         <div class="fnd-error-title">Analysis Failed</div>
@@ -329,20 +320,20 @@
       </div>
     `;
 
-        document.body.appendChild(overlay);
-        currentOverlay = overlay;
-        requestAnimationFrame(() => overlay.classList.add("fnd-visible"));
-    }
+    document.body.appendChild(overlay);
+    currentOverlay = overlay;
+    requestAnimationFrame(() => overlay.classList.add("fnd-visible"));
+  }
 
-    // =========================================================================
-    // Shared Overlay Shell
-    // =========================================================================
+  // =========================================================================
+  // Shared Overlay Shell
+  // =========================================================================
 
-    function createOverlayShell(queryText) {
-        const overlay = document.createElement("div");
-        overlay.className = "fnd-container fnd-overlay";
+  function createOverlayShell(queryText) {
+    const overlay = document.createElement("div");
+    overlay.className = "fnd-container fnd-overlay";
 
-        overlay.innerHTML = `
+    overlay.innerHTML = `
       <div class="fnd-overlay-header">
         <div class="fnd-overlay-title">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -359,68 +350,68 @@
       <div class="fnd-overlay-body"></div>
     `;
 
-        // Close button handler
-        overlay.querySelector(".fnd-close-btn").addEventListener("click", removeOverlay);
+    // Close button handler
+    overlay.querySelector(".fnd-close-btn").addEventListener("click", removeOverlay);
 
-        // Allow dragging the overlay
-        makeDraggable(overlay, overlay.querySelector(".fnd-overlay-header"));
+    // Allow dragging the overlay
+    makeDraggable(overlay, overlay.querySelector(".fnd-overlay-header"));
 
-        return overlay;
+    return overlay;
+  }
+
+  // =========================================================================
+  // Utilities
+  // =========================================================================
+
+  function removeOverlay() {
+    if (currentOverlay) {
+      currentOverlay.remove();
+      currentOverlay = null;
     }
+  }
 
-    // =========================================================================
-    // Utilities
-    // =========================================================================
+  function removeExistingUI() {
+    removeButton();
+    removeOverlay();
+  }
 
-    function removeOverlay() {
-        if (currentOverlay) {
-            currentOverlay.remove();
-            currentOverlay = null;
-        }
-    }
+  function escapeHtml(text) {
+    const div = document.createElement("div");
+    div.textContent = text;
+    return div.innerHTML;
+  }
 
-    function removeExistingUI() {
-        removeButton();
-        removeOverlay();
-    }
+  function truncate(text, maxLength) {
+    return text.length > maxLength ? text.substring(0, maxLength) + "..." : text;
+  }
 
-    function escapeHtml(text) {
-        const div = document.createElement("div");
-        div.textContent = text;
-        return div.innerHTML;
-    }
+  function makeDraggable(element, handle) {
+    let offsetX = 0, offsetY = 0, isDragging = false;
 
-    function truncate(text, maxLength) {
-        return text.length > maxLength ? text.substring(0, maxLength) + "..." : text;
-    }
+    handle.style.cursor = "grab";
 
-    function makeDraggable(element, handle) {
-        let offsetX = 0, offsetY = 0, isDragging = false;
+    handle.addEventListener("mousedown", (e) => {
+      if (e.target.closest(".fnd-close-btn")) return;
+      isDragging = true;
+      handle.style.cursor = "grabbing";
+      const rect = element.getBoundingClientRect();
+      offsetX = e.clientX - rect.left;
+      offsetY = e.clientY - rect.top;
+      e.preventDefault();
+    });
 
+    document.addEventListener("mousemove", (e) => {
+      if (!isDragging) return;
+      element.style.right = "auto";
+      element.style.left = `${e.clientX - offsetX}px`;
+      element.style.top = `${e.clientY - offsetY}px`;
+    });
+
+    document.addEventListener("mouseup", () => {
+      if (isDragging) {
+        isDragging = false;
         handle.style.cursor = "grab";
-
-        handle.addEventListener("mousedown", (e) => {
-            if (e.target.closest(".fnd-close-btn")) return;
-            isDragging = true;
-            handle.style.cursor = "grabbing";
-            const rect = element.getBoundingClientRect();
-            offsetX = e.clientX - rect.left;
-            offsetY = e.clientY - rect.top;
-            e.preventDefault();
-        });
-
-        document.addEventListener("mousemove", (e) => {
-            if (!isDragging) return;
-            element.style.right = "auto";
-            element.style.left = `${e.clientX - offsetX}px`;
-            element.style.top = `${e.clientY - offsetY}px`;
-        });
-
-        document.addEventListener("mouseup", () => {
-            if (isDragging) {
-                isDragging = false;
-                handle.style.cursor = "grab";
-            }
-        });
-    }
+      }
+    });
+  }
 })();
