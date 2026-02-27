@@ -5,8 +5,8 @@ import { Textarea } from "@/components/ui/textarea";
 import { Badge } from "@/components/ui/badge";
 import { Avatar, AvatarFallback } from "@/components/ui/avatar";
 import { ScrollArea } from "@/components/ui/scroll-area";
-import { Analytics } from "@vercel/analytics/next";
-import { SpeedInsights } from "@vercel/speed-insights/next"
+import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/react"
 import {
   Dialog,
   DialogContent,
@@ -1114,6 +1114,9 @@ function App() {
           </DialogFooter>
         </DialogContent>
       </Dialog>
+
+      <Analytics />
+      <SpeedInsights />
     </div>
   );
 }
