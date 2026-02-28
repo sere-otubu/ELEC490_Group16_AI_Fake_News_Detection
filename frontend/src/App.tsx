@@ -213,10 +213,10 @@ const MessageItem = memo(({ message }: MessageItemProps) => {
   const parseAssistantMessage = useCallback((text: string) => {
     const sanitized = text.replace(/\*\*/g, "");
 
-    const verdictMatch = sanitized.match(/Verdict\s*[:\-]\s*\[?([^\]\n]+)\]?/i);
-    const reasoningMatch = sanitized.match(/Reasoning\s*[:\-]\s*([^\n]+(?:\n(?!\w+\s*:)[^\n]+)*)/i);
-    const confidenceMatch = sanitized.match(/Confidence\s*(?:Score)?\s*[:\-]\s*([0-9.]+)\s*(%?)/i);
-    const evidenceMatch = sanitized.match(/Evidence\s*[:\-]\s*["']?([^"'\n]+(?:\n(?!\w+\s*:)[^\n]+)*)["']?/i);
+    const verdictMatch = sanitized.match(/Verdict\s*[:]\s*\[?([^\]\n]+)\]?/i);
+    const reasoningMatch = sanitized.match(/Reasoning\s*[:]\s*([^\n]+(?:\n(?!\w+\s*:)[^\n]+)*)/i);
+    const confidenceMatch = sanitized.match(/Confidence\s*(?:Score)?\s*[:]\s*([0-9.]+)\s*(%?)/i);
+    const evidenceMatch = sanitized.match(/Evidence\s*[:]\s*["']?([^"'\n]+(?:\n(?!\w+\s*:)[^\n]+)*)["']?/i);
 
     return {
       verdict: verdictMatch ? verdictMatch[1].trim() : null,
@@ -358,8 +358,8 @@ MessageItem.displayName = "MessageItem";
 const parseConfidenceScore = (content: string): number | null => {
   const sanitized = content.replace(/\*\*/g, "");
   const patterns = [
-    /confidence\s*score\s*[:\-]\s*([0-9]+(?:\.[0-9]+)?)\s*(%?)/i,
-    /confidence\s*[:\-]\s*([0-9]+(?:\.[0-9]+)?)\s*(%?)/i,
+    /confidence\s*score\s*[:]\s*([0-9]+(?:\.[0-9]+)?)\s*(%?)/i,
+    /confidence\s*[:]\s*([0-9]+(?:\.[0-9]+)?)\s*(%?)/i,
   ];
 
   const match = patterns.map((pattern) => sanitized.match(pattern)).find(Boolean);
