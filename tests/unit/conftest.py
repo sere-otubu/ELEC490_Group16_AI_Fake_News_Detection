@@ -16,7 +16,7 @@ def mock_settings(monkeypatch):
     monkeypatch.setenv("APP_PG_HOST", "localhost")
     monkeypatch.setenv("APP_PG_PORT", "5432")
     monkeypatch.setenv("APP_PG_USER", "test")
-    monkeypatch.setenv("APP_PG_PASSWORD", "test")
+    monkeypatch.setenv("APP_PG_PASSWORD", "test_password")
     monkeypatch.setenv("APP_PG_DATABASE", "test_db")
     monkeypatch.setenv("APP_OPENROUTER_API_KEY", "test-key")
 
