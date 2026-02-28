@@ -725,4 +725,13 @@ class RAGRepository:
         return health
 
 
-rag_repository = RAGRepository()
+# Lazy singleton - only created when first accessed
+_rag_repository: RAGRepository | None = None
+
+
+def get_rag_repository_instance() -> RAGRepository:
+    """Get or create the singleton RAG repository instance."""
+    global _rag_repository
+    if _rag_repository is None:
+        _rag_repository = RAGRepository()
+    return _rag_repository

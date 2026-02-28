@@ -5,7 +5,6 @@ Validates that all API endpoints return correct status codes and response
 structures. Uses the mocked TestClient from conftest.py (no real DB/LLM).
 """
 
-import pytest
 from uuid import uuid4
 
 
