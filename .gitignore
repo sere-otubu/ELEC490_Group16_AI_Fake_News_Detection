@@ -26,6 +26,9 @@ dist/
 dist-ssr/
 *.local
 package-lock.json
+frontend/public/vite.svg
+frontend/src/assets/react.svg
+chrome-extension/icons/*.svg
 
 # Editor directories and files
 .vscode/*
