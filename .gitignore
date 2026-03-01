@@ -5,36 +5,39 @@ build/
 dist/
 wheels/
 *.egg-info
+.pytest_cache/
 
 # Virtual environments
 venv/
 .venv/
 .env
 
+# Jupyter notebooks (development only)
+*.ipynb
+.ipynb_checkpoints/
+
 # Logs
-logs
+logs/
 *.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
 
 # Frontend dependencies and builds
-node_modules
-dist
-dist-ssr
+node_modules/
+dist/
+dist-ssr/
 *.local
+package-lock.json
 
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
-.idea
+.idea/
 .DS_Store
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
+
+# Data folder (fetched documents are local only)
 data/*
 !/data/indexing_state.json
 
