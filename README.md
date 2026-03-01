@@ -2,7 +2,7 @@
   <img src="chrome-extension/icons/icon128.png" alt="MedCheck AI Logo" width="80" />
 </p>
 
-<h1 align="center">MedCheck AI</h1>
+<h1 align="center">EvidenceMD</h1>
 
 <p align="center">
   <strong>AI-Powered Medical Misinformation Detection</strong><br/>
