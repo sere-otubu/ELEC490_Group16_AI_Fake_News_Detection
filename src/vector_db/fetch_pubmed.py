@@ -1,3 +1,31 @@
+"""
+Module for fetching and processing medical articles from the PubMed database.
+
+This module searches the NCBI PubMed database for medical articles related to
+specified topics using the Entrez E-utilities API (via Biopython), and saves the
+article metadata (title, abstract, publication metadata) to local text files. It's
+designed to populate the knowledge base for the RAG (Retrieval-Augmented Generation)
+system with trusted medical research.
+
+PubMed is the primary repository of biomedical literature, providing access to
+millions of peer-reviewed articles from MEDLINE and life sciences journals.
+
+Key features:
+- Configurable topic list and results per topic
+- Rate-limiting between API requests (respects PubMed API rate limits)
+- Idempotency: Skips articles already saved to avoid duplicates
+- Comprehensive logging of the extraction process
+- Structured metadata preservation (PMID, title, abstract, URL)
+- Minimum abstract length filtering to ensure data quality
+
+Key functions:
+- load_topics: Reads topics from a configuration file
+- search_med_articles: Queries PubMed for article IDs matching a topic
+- fetch_details: Retrieves full article metadata and abstracts from PubMed
+- process_paper: Extracts and formats article data from XML records
+- main: Orchestrates the entire fetch workflow
+"""
+
 from Bio import Entrez
 import os
 import time

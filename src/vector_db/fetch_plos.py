@@ -1,3 +1,28 @@
+"""
+Module for fetching and processing articles from the PLOS (Public Library of Science) API.
+
+This module searches the PLOS API for peer-reviewed open-access articles related to
+specified topics, and saves the article metadata (title, abstract, publication date, URL)
+to local text files. It's designed to populate the knowledge base for the RAG 
+system with high-quality, open-access research.
+
+PLOS publishes multidisciplinary open-access research across medicine, biology, and
+related fields, making it an excellent source for trustworthy scientific information.
+
+Key features:
+- Configurable topic list and results per topic
+- Rate-limiting between API requests
+- Duplicate detection to avoid saving articles twice
+- Comprehensive logging of the extraction process
+- Structured metadata preservation (title, abstract, publication date, DOI, URLs)
+
+Key functions:
+- load_topics: Reads topics from a configuration file
+- search_plos: Queries the PLOS API for articles matching a topic
+- process_and_save_paper: Processes and saves article metadata to files
+- main: Orchestrates the entire fetch workflow
+"""
+
 import requests
 import os
 import time

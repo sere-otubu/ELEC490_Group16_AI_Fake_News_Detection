@@ -1,3 +1,30 @@
+"""
+Module for fetching and processing content from the World Health Organization (WHO) website.
+
+This module scrapes the WHO website to build a searchable index of fact sheets and
+health topics, then matches specified research topics to relevant WHO articles and
+saves their full content to local text files. It's designed to populate the knowledge
+base for the RAG (Retrieval-Augmented Generation) system with authoritative health
+information from the WHO.
+
+The WHO is a trusted international organization providing evidence-based health
+information, disease prevention strategies, and emergency response guidance.
+
+Key features:
+- Multi-source indexing (fact sheets and health topics from WHO website)
+- Flexible topic matching (exact match, substring match, longest-key-first strategy)
+- HTML parsing with cleaning (removes scripts, navigation, sidebars, etc.)
+- Minimum content length filtering for data quality
+- Rate-limiting between requests
+- Duplicate detection via filename existence checks
+
+Key functions:
+- load_topics: Reads topics from a configuration file
+- build_combined_index: Scrapes WHO website and builds searchable index of resources
+- fetch_content: Downloads and extracts main content from WHO article pages
+- main: Orchestrates the topic matching and content fetching workflow
+"""
+
 import requests
 from bs4 import BeautifulSoup
 import os

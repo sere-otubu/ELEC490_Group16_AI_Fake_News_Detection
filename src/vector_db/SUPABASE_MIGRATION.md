@@ -109,10 +109,6 @@ python -m src.vector_db.run_load_embeddings
 
 If you run the backend in Docker and no longer use a local Postgres container:
 
-- Remove or comment out the `db` service in `docker-compose.yaml`.
-- Remove `depends_on: db` from the backend service.
-- Set the backend’s env to use Supabase:
-
   ```yaml
   environment:
     - APP_DATABASE_URL=${APP_DATABASE_URL}
