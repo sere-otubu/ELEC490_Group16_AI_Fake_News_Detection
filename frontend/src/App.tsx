@@ -3,7 +3,6 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Badge } from "@/components/ui/badge";
-import { Avatar, AvatarFallback } from "@/components/ui/avatar";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/react"
@@ -18,7 +17,6 @@ import {
 import {
   Plus,
   Bot,
-  User,
   Send,
   Loader2,
   AlertCircle,
@@ -270,41 +268,26 @@ const MessageItem = memo(({ message }: MessageItemProps) => {
   );
 
   return (
-    <div
-      className={`flex items-end gap-3 ${message.type === "user" ? "flex-row-reverse" : ""
-        }`}
-    >
-      <Avatar className="h-8 w-8 border border-border/70 bg-background/80 text-primary">
-        <AvatarFallback>
-          {message.type === "assistant" ? (
-            <Bot className="h-4 w-4" />
-          ) : (
-            <User className="h-4 w-4" />
-          )}
-        </AvatarFallback>
-      </Avatar>
+    <div className="flex flex-col gap-2">
       <div
-        className={`flex max-w-[78%] flex-col gap-2 ${message.type === "user"
-          ? "items-end"
-          : ""
-          }`}
+        className={`flex ${message.type === "assistant" ? "max-w-[97%]" : "max-w-[95%]"} flex-col gap-2`}
       >
         <div className="flex items-center gap-2 text-[10px] uppercase tracking-wide text-muted-foreground/80">
           {message.type === "assistant" ? (
             <>
               <Shield className="h-3 w-3 text-primary" />
-              <span>Medical Verifier</span>
+              <span>Verification Result</span>
             </>
           ) : (
             <>
-              <User className="h-3 w-3 text-secondary" />
-              <span>You</span>
+              <FileText className="h-3 w-3 text-secondary" />
+              <span>Claim Submitted</span>
             </>
           )}
         </div>
         <div
           className={`rounded-xl border text-[13px] leading-relaxed shadow-sm transition ${message.type === "user"
-            ? "border-primary/70 bg-primary text-primary-foreground shadow-primary/20 px-3 py-2"
+            ? "border-primary/40 bg-primary/10 text-foreground px-4 py-3"
             : "border-border/70 bg-card/90 shadow-lg"
             }`}
         >
@@ -328,7 +311,7 @@ const MessageItem = memo(({ message }: MessageItemProps) => {
               {parsedMessage.reasoning && (
                 <div className="space-y-2">
                   <p className="text-[11px] font-semibold uppercase tracking-wide text-muted-foreground">Reasoning</p>
-                  <p className="max-w-prose text-[14px] leading-relaxed text-foreground/90">
+                  <p className="max-w-none text-[14px] leading-relaxed text-foreground/90">
                     {parsedMessage.reasoning}
                   </p>
                 </div>
@@ -352,6 +335,15 @@ const MessageItem = memo(({ message }: MessageItemProps) => {
                 </div>
               )}
             </div>
+          ) : message.type === "user" ? (
+            <div className="space-y-2 px-4 py-3">
+              <p className="text-[11px] font-semibold uppercase tracking-wide text-primary/90">Claim</p>
+              <div className="rounded-lg border border-primary/30 bg-background/50 px-3 py-2">
+                <p className="whitespace-pre-wrap text-[13px] leading-relaxed text-foreground md:text-[14px]">
+                  {message.content as ReactNode}
+                </p>
+              </div>
+            </div>
           ) : (
             <div className="whitespace-pre-wrap px-3 py-2 text-[13px] md:text-[14px]">
               {message.content as ReactNode}
@@ -362,7 +354,7 @@ const MessageItem = memo(({ message }: MessageItemProps) => {
           {formatTimestamp(message.timestamp)}
         </span>
       </div>
-    </div >
+    </div>
   );
 });
 
@@ -734,7 +726,7 @@ function App() {
                 className="h-10 rounded-xl bg-gradient-to-r from-primary to-primary/90 px-5 text-[13px] font-semibold text-primary-foreground shadow-lg shadow-primary/25 transition-all hover:shadow-xl hover:shadow-primary/30 hover:scale-[1.02]"
               >
                 <Plus className="mr-2 h-4 w-4" />
-                New Session
+                New Analysis
               </Button>
               <Button
                 variant="ghost"
@@ -756,8 +748,8 @@ function App() {
                 <div className="border-b border-border/40 px-6 py-4">
                   <div className="flex items-center justify-between">
                     <div>
-                      <p className="text-[11px] font-medium uppercase tracking-wide text-muted-foreground/80">Conversation</p>
-                      <h2 className="font-display text-lg font-bold tracking-tight">Current Session</h2>
+                      <p className="text-[11px] font-medium uppercase tracking-wide text-muted-foreground/80">Verification</p>
+                      <h2 className="font-display text-lg font-bold tracking-tight">Current Analysis</h2>
                     </div>
                     <div className="hidden items-center gap-2 rounded-full border border-border/50 bg-card/50 px-3.5 py-1.5 text-[11px] font-medium tracking-wide text-foreground/90 shadow-sm backdrop-blur-sm md:flex">
                       <div className="relative flex h-2 w-2">
@@ -803,7 +795,7 @@ function App() {
                     {currentMessages.length === 0 && !showWelcomeState ? (
                       <div className="flex flex-col items-center justify-center gap-3 rounded-xl border border-border/70 bg-background/60 p-8 text-center text-[12px] text-muted-foreground">
                         <Bot className="h-8 w-8 text-muted-foreground" />
-                        Ask a question to see the conversation flow here.
+                        Run a claim verification to view the analysis report here.
                       </div>
                     ) : (
                       currentMessages.map((message) => (
@@ -812,23 +804,14 @@ function App() {
                     )}
 
                     {isSendingMessage && (
-                      <div className="flex items-end gap-3">
-                        <Avatar className="h-8 w-8 border border-border/70 bg-background/80 text-primary">
-                          <AvatarFallback>
-                            <Bot className="h-4 w-4" />
-                          </AvatarFallback>
-                        </Avatar>
-                        <div className="flex max-w-[78%] flex-col gap-2">
-                          <div className="flex items-center gap-2 text-[10px] uppercase tracking-wide text-muted-foreground/80">
-                            <Shield className="h-3 w-3 text-primary" />
-                            <span>Medical Verifier</span>
-                          </div>
-                          <div className="rounded-xl border border-border/70 bg-background/70 px-3 py-2">
-                            <div className="flex items-center gap-2 text-[12px]">
-                              <Loader2 className="h-4 w-4 animate-spin text-primary" />
-                              Thinking...
-                            </div>
-                          </div>
+                      <div className="max-w-[92%] rounded-xl border border-border/70 bg-background/70 px-4 py-3">
+                        <div className="flex items-center gap-2 text-[10px] uppercase tracking-wide text-muted-foreground/80">
+                          <Shield className="h-3 w-3 text-primary" />
+                          <span>Evidence Engine</span>
+                        </div>
+                        <div className="mt-2 flex items-center gap-2 text-[12px]">
+                          <Loader2 className="h-4 w-4 animate-spin text-primary" />
+                          Running verification...
                         </div>
                       </div>
                     )}
@@ -851,17 +834,17 @@ function App() {
                       <div className="flex flex-col items-center gap-3">
                         <div className="flex items-center gap-2 text-[13px] font-semibold text-foreground">
                           <Shield className="h-4 w-4 text-primary" />
-                          <span>Response Complete</span>
+                          <span>Analysis Complete</span>
                         </div>
                         <p className="text-[12px] text-muted-foreground/90 max-w-md">
-                          This is a fact-checker, not a chatbot. Each query is independent and doesn't maintain context from previous messages.
+                          Verification is complete. Submit a new claim to run a separate, independent analysis.
                         </p>
                         <Button
                           onClick={handleNewChat}
                           className="h-10 rounded-xl bg-gradient-to-r from-primary to-primary/90 px-5 text-[13px] font-semibold text-primary-foreground shadow-lg shadow-primary/25 transition-all hover:shadow-xl hover:shadow-primary/30 hover:scale-[1.02]"
                         >
                           <Plus className="mr-2 h-4 w-4" />
-                          Start New Fact-Check Session
+                          Analyze New Claim
                         </Button>
                       </div>
                     </div>
@@ -965,7 +948,7 @@ function App() {
                           ) : (
                             <>
                               <Send className="mr-2 h-4 w-4" />
-                              Send
+                              Run Verification
                             </>
                           )}
                         </Button>
