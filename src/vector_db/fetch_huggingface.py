@@ -1,3 +1,21 @@
+"""
+Module for fetching and processing PubMed QA dataset from Hugging Face.
+
+This module downloads the PubMed QA dataset (pqa_labeled split) from Hugging Face,
+which contains medical question-answer pairs with context from PubMed abstracts.
+It processes the dataset and saves the top 1000 records as individual text files
+containing the question, context, and answer for use in the RAG (Retrieval-Augmented
+Generation) system's knowledge base.
+
+The PubMed QA dataset is a valuable resource for medical knowledge, covering
+evidence-based question-answer pairs extracted from PubMed literature.
+
+Key operations:
+- Downloads the PubMed QA dataset from Hugging Face Hub
+- Extracts and formats question-context-answer triplets
+- Saves records as structured text files with metadata
+"""
+
 from datasets import load_dataset
 import os
 from pathlib import Path

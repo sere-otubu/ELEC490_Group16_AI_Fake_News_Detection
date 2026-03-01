@@ -1,3 +1,16 @@
+"""
+Module for fetching and saving articles from trusted web sources.
+
+This module scrapes HTML content from specified URLs, extracts paragraph text
+using BeautifulSoup, and saves the extracted content to local files in the data
+directory. It's designed to collect articles from trusted health and medical
+sources (e.g., WHO, CDC) for use in the RAG system's knowledge base.
+
+Key functions:
+- sanitize_filename: Converts URLs into safe filenames
+- fetch_and_save_article: Fetches content from a URL and saves it locally
+"""
+
 import requests
 from bs4 import BeautifulSoup
 import os

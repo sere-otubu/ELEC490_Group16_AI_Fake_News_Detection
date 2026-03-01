@@ -1,3 +1,25 @@
+"""
+Module for fetching and processing ArXiv papers related to specified topics.
+
+This module loads medical and AI-related topics from a topics file, searches the
+ArXiv API for relevant papers in each topic, and saves the paper metadata
+(title, abstract, URL, etc.) to local text files. It's designed to populate the
+knowledge base for the RAG system with peer-reviewed research papers.
+
+Key features:
+- Configurable topic list and results per topic
+- Rate-limiting between API requests
+- Duplicate detection to avoid saving papers twice
+- Comprehensive logging of the extraction process
+- Structured metadata preservation (title, abstract, published date, URLs)
+
+Key functions:
+- load_topics: Reads topics from a configuration file
+- fetch_arxiv_papers: Queries ArXiv API for papers on a given topic
+- process_and_save_paper: Processes and saves paper metadata to files
+- main: Orchestrates the entire fetch workflow
+"""
+
 import arxiv
 import os
 import time
