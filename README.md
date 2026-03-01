@@ -322,7 +322,7 @@ Push/PR to main or dev
 | :--- | :--- |
 | Sere Otubu | [@sere-otubu](https://github.com/sere-otubu) |
 | Ivan Samardzic | [@ivansamardzic](https://github.com/ivansamardzic) |
-| Mihran Mashhoud | [@Mihran03](https://github.com/Mihran03) |
+| Mihran Asadullah | [@Mihran03](https://github.com/Mihran03) |
 
 ---
 
