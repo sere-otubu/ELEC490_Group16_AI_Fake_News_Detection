@@ -22,6 +22,7 @@ import {
   Send,
   Loader2,
   AlertCircle,
+  AlertTriangle,
   ChevronDown,
   ChevronUp,
   Download,
@@ -29,6 +30,7 @@ import {
   Settings,
   Shield,
   CheckCircle2,
+  XCircle,
   Stethoscope,
   ExternalLink,
   Link,
@@ -231,13 +233,24 @@ const MessageItem = memo(({ message }: MessageItemProps) => {
     if (!verdict) return { bg: "bg-muted", text: "text-muted-foreground", border: "border-muted", icon: AlertCircle };
 
     const v = verdict.toLowerCase();
-    if (v.includes("supported") && !v.includes("not")) {
+    if (v.includes("accurate") && !v.includes("inaccurate") && !v.includes("partially")) {
       return { bg: "bg-emerald-500/15", text: "text-emerald-400", border: "border-emerald-500/30", icon: CheckCircle2 };
     }
-    if (v.includes("not supported") || v.includes("false")) {
-      return { bg: "bg-red-500/15", text: "text-red-400", border: "border-red-500/30", icon: AlertCircle };
+    if (v.includes("partially accurate")) {
+      return { bg: "bg-amber-500/15", text: "text-amber-400", border: "border-amber-500/30", icon: AlertTriangle };
     }
-    return { bg: "bg-amber-500/15", text: "text-amber-400", border: "border-amber-500/30", icon: AlertCircle };
+    if (
+      v.includes("misleading") ||
+      v.includes("inaccurate") ||
+      v.includes("not supported") ||
+      v.includes("false")
+    ) {
+      return { bg: "bg-red-500/15", text: "text-red-400", border: "border-red-500/30", icon: XCircle };
+    }
+    if (v.includes("irrelevant")) {
+      return { bg: "bg-muted", text: "text-muted-foreground", border: "border-muted", icon: AlertCircle };
+    }
+    return { bg: "bg-muted", text: "text-muted-foreground", border: "border-muted", icon: AlertCircle };
   }, []);
 
   const getConfidenceBarClass = useCallback((score: number) => {
@@ -1030,6 +1043,14 @@ function App() {
                       </div>
                     </div>
                   )}
+
+                  {/* Persistent disclaimer */}
+                  <div className="mt-3 flex items-start gap-2 rounded-lg border border-border/40 bg-muted/30 px-3 py-2.5 text-[11px] sm:text-[12px] text-muted-foreground">
+                    <AlertCircle className="h-4 w-4 flex-shrink-0 text-red-500 mt-0.5" />
+                    <p className="leading-relaxed">
+                      <span className="font-semibold text-foreground">EvidenceMD</span> can be inaccurate; please double check its responses and sources it analyzed.
+                    </p>
+                  </div>
                 </div>
               </div>
             </section>
