@@ -1048,7 +1048,7 @@ function App() {
                   <div className="mt-3 flex items-start gap-2 rounded-lg border border-border/40 bg-muted/30 px-3 py-2.5 text-[11px] sm:text-[12px] text-muted-foreground">
                     <AlertCircle className="h-4 w-4 flex-shrink-0 text-red-500 mt-0.5" />
                     <p className="leading-relaxed">
-                      <span className="font-semibold text-foreground">EvidenceMD</span> can be inaccurate; please double check its responses and sources it analyzed.
+                      <span className="font-semibold text-foreground">EvidenceMD</span> can be inaccurate; please double check its responses and sources it analyzes.
                     </p>
                   </div>
                 </div>
