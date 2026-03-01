@@ -46,7 +46,7 @@ class Settings(BaseSettings):
 
     # Vector Store Configuration
     VECTOR_TABLE_NAME: str = Field(
-        default="medical_related_documents", description="Name of the table to store document vectors"
+        default="documents", description="Name of the table to store document vectors"
     )
 
     EMBED_DIM: int = Field(
