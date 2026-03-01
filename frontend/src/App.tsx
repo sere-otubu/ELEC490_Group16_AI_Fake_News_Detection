@@ -1,4 +1,4 @@
-import { useState, useMemo, useCallback, memo, type ReactNode, useEffect, useRef } from "react";
+import { useState, useMemo, useCallback, memo, type ReactNode, useRef } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
@@ -6,14 +6,6 @@ import { Badge } from "@/components/ui/badge";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/react"
-import {
-  Dialog,
-  DialogContent,
-  DialogDescription,
-  DialogFooter,
-  DialogHeader,
-  DialogTitle,
-} from "@/components/ui/dialog";
 import {
   Plus,
   Bot,
@@ -25,7 +17,6 @@ import {
   ChevronUp,
   Download,
   FileText,
-  Settings,
   Shield,
   CheckCircle2,
   XCircle,
@@ -412,9 +403,6 @@ function App() {
   const [currentSourceDocuments, setCurrentSourceDocuments] = useState<
     SourceDocument[]
   >([]);
-  const [apiKey, setApiKey] = useState<string>("");
-  const [tempApiKey, setTempApiKey] = useState<string>("");
-  const [showApiKeyDialog, setShowApiKeyDialog] = useState(false);
 
   // Multi-modal input state
   const [showUrlInput, setShowUrlInput] = useState(false);
@@ -426,29 +414,6 @@ function App() {
   const [isListening, setIsListening] = useState(false);
   const fileInputRef = useRef<HTMLInputElement>(null);
   const recognitionRef = useRef<SpeechRecognition | null>(null);
-
-  useEffect(() => {
-    const storedKey = localStorage.getItem("openrouter-api-key");
-    if (storedKey) {
-      setApiKey(storedKey);
-    } else {
-      setShowApiKeyDialog(true);
-    }
-  }, []);
-
-  const handleSaveApiKey = useCallback(() => {
-    if (tempApiKey.trim()) {
-      localStorage.setItem("openrouter-api-key", tempApiKey.trim());
-      setApiKey(tempApiKey.trim());
-      setShowApiKeyDialog(false);
-      setTempApiKey("");
-    }
-  }, [tempApiKey]);
-
-  const handleOpenApiKeyDialog = useCallback(() => {
-    setTempApiKey(apiKey);
-    setShowApiKeyDialog(true);
-  }, [apiKey]);
 
   const {
     sendQuery,
@@ -620,11 +585,7 @@ function App() {
       setCurrentMessages((prev) => [...prev, tempUserMessage]);
 
       // Send query to API. Always show 3 top results.
-      // Only pass apiKey if it's set, otherwise backend will use server's default key
-      const response = await sendQuery(
-        { query: queryText, top_k: 3 },
-        apiKey || undefined
-      );
+      const response = await sendQuery({ query: queryText, top_k: 3 });
 
       if (response) {
         // Replace temp message with real messages
@@ -646,7 +607,7 @@ function App() {
         prev.filter((msg) => msg.id.startsWith("temp-"))
       );
     }
-  }, [inputMessage, isSendingMessage, hasCompletedResponse, sendQuery, isListening, apiKey]);
+  }, [inputMessage, isSendingMessage, hasCompletedResponse, sendQuery, isListening]);
 
   const handleKeyDown = useCallback((e: React.KeyboardEvent) => {
     // Prevent sending if there's already a completed response
@@ -727,15 +688,6 @@ function App() {
               >
                 <Plus className="mr-2 h-4 w-4" />
                 New Analysis
-              </Button>
-              <Button
-                variant="ghost"
-                size="icon"
-                className="h-10 w-10 rounded-xl hover:bg-accent/50"
-                title="Settings"
-                onClick={handleOpenApiKeyDialog}
-              >
-                <Settings className="h-[18px] w-[18px]" />
               </Button>
             </div>
           </div>
@@ -1072,52 +1024,6 @@ function App() {
           </div>
         </div>
       </div>
-
-      <Dialog open={showApiKeyDialog} onOpenChange={() => { }}>
-        <DialogContent>
-          <DialogHeader>
-            <DialogTitle>OpenRouter API Key Required</DialogTitle>
-            <DialogDescription>
-              To use the Medical Claim Verifier, please provide your OpenRouter API key.
-              Your key is stored locally in your browser and sent only to OpenRouter—never to our servers.
-            </DialogDescription>
-          </DialogHeader>
-          <div className="px-6 py-4">
-            <Input
-              type="password"
-              placeholder="sk-or-v1-..."
-              value={tempApiKey}
-              onChange={(e) => setTempApiKey(e.target.value)}
-              onKeyDown={(e) => {
-                if (e.key === "Enter") {
-                  handleSaveApiKey();
-                }
-              }}
-              className="h-11 rounded-lg border-border/60 bg-background/80 text-[13px] transition-all focus:border-primary/60 focus:ring-2 focus:ring-primary/20"
-            />
-            <p className="mt-3 text-[11px] text-muted-foreground">
-              Don't have a key?{" "}
-              <a
-                href="https://openrouter.ai/keys"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-primary hover:underline"
-              >
-                Get one from OpenRouter
-              </a>
-            </p>
-          </div>
-          <DialogFooter>
-            <Button
-              onClick={handleSaveApiKey}
-              disabled={!tempApiKey.trim()}
-              className="h-10 rounded-lg bg-primary/90 px-5 text-[12px] font-semibold text-primary-foreground shadow-sm shadow-primary/30 transition hover:bg-primary"
-            >
-              Save API Key
-            </Button>
-          </DialogFooter>
-        </DialogContent>
-      </Dialog>
 
       <Analytics />
       <SpeedInsights />
