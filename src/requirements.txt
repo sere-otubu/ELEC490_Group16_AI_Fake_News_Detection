@@ -16,3 +16,7 @@ datasets
 pandas
 biopython
 supabase
+pyiceberg
+pytesseract>=0.3.10
+Pillow>=10.0.0
+arxiv

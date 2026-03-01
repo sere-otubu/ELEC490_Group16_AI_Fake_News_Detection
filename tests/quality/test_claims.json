@@ -1,0 +1,152 @@
+[
+    {
+        "claim": "Vaccines cause autism",
+        "expected_verdict": "INACCURATE",
+        "category": "debunked_misinformation",
+        "notes": "Thoroughly debunked by multiple large-scale studies (e.g., Madsen et al. 2002)"
+    },
+    {
+        "claim": "Drinking water helps kidney function",
+        "expected_verdict": "ACCURATE",
+        "category": "established_fact",
+        "notes": "Well-established medical consensus"
+    },
+    {
+        "claim": "5G towers spread COVID-19",
+        "expected_verdict": "INACCURATE",
+        "category": "conspiracy_theory",
+        "notes": "No scientific basis; viruses cannot travel via radio waves"
+    },
+    {
+        "claim": "Eating carrots improves night vision",
+        "expected_verdict": "MISLEADING",
+        "category": "partial_truth",
+        "notes": "Carrots contain vitamin A which supports eye health, but won't give superpowered night vision"
+    },
+    {
+        "claim": "Antibiotics can cure viral infections like the common cold",
+        "expected_verdict": "INACCURATE",
+        "category": "common_misconception",
+        "notes": "Antibiotics are only effective against bacteria, not viruses"
+    },
+    {
+        "claim": "Regular exercise reduces the risk of heart disease",
+        "expected_verdict": "ACCURATE",
+        "category": "established_fact",
+        "notes": "Strongly supported by cardiovascular research"
+    },
+    {
+        "claim": "Microwave ovens destroy all nutrients in food",
+        "expected_verdict": "INACCURATE",
+        "category": "debunked_misinformation",
+        "notes": "Microwaving can actually preserve nutrients better than boiling"
+    },
+    {
+        "claim": "Hydroxychloroquine is a proven cure for COVID-19",
+        "expected_verdict": "INACCURATE",
+        "category": "debunked_misinformation",
+        "notes": "Large clinical trials showed no benefit"
+    },
+    {
+        "claim": "Hand washing with soap reduces transmission of respiratory infections",
+        "expected_verdict": "ACCURATE",
+        "category": "established_fact",
+        "notes": "Supported by WHO and CDC guidelines"
+    },
+    {
+        "claim": "Drinking bleach can cure diseases",
+        "expected_verdict": "INACCURATE",
+        "category": "dangerous_misinformation",
+        "notes": "Extremely dangerous; can cause severe injury or death"
+    },
+    {
+        "claim": "Vitamin D deficiency is linked to increased risk of respiratory infections",
+        "expected_verdict": "ACCURATE",
+        "category": "established_fact",
+        "notes": "Supported by multiple systematic reviews"
+    },
+    {
+        "claim": "Cracking your knuckles causes arthritis",
+        "expected_verdict": "INACCURATE",
+        "category": "common_misconception",
+        "notes": "No evidence linking knuckle cracking to arthritis"
+    },
+    {
+        "claim": "Excessive sugar consumption is linked to type 2 diabetes",
+        "expected_verdict": "ACCURATE",
+        "category": "established_fact",
+        "notes": "Strong epidemiological evidence for the link through obesity pathway"
+    },
+    {
+        "claim": "Essential oils can replace chemotherapy for cancer treatment",
+        "expected_verdict": "INACCURATE",
+        "category": "dangerous_misinformation",
+        "notes": "No evidence that essential oils treat cancer; delaying real treatment is dangerous"
+    },
+    {
+        "claim": "Wearing a mask reduces the spread of airborne respiratory viruses",
+        "expected_verdict": "ACCURATE",
+        "category": "established_fact",
+        "notes": "Supported by systematic reviews and public health guidance"
+    },
+    {
+        "claim": "You need to drink exactly 8 glasses of water per day",
+        "expected_verdict": "MISLEADING",
+        "category": "partial_truth",
+        "notes": "Water needs vary by individual; the '8 glasses' rule has no strong scientific basis"
+    },
+    {
+        "claim": "Homeopathic remedies are as effective as conventional medicine",
+        "expected_verdict": "INACCURATE",
+        "category": "debunked_misinformation",
+        "notes": "Systematic reviews show no evidence beyond placebo"
+    },
+    {
+        "claim": "Smoking increases the risk of lung cancer",
+        "expected_verdict": "ACCURATE",
+        "category": "established_fact",
+        "notes": "One of the most well-established causal relationships in medicine"
+    },
+    {
+        "claim": "Ivermectin is recommended as a COVID-19 treatment by the WHO",
+        "expected_verdict": "INACCURATE",
+        "category": "debunked_misinformation",
+        "notes": "WHO recommends against use outside clinical trials"
+    },
+    {
+        "claim": "Meditation can help reduce symptoms of anxiety",
+        "expected_verdict": "ACCURATE",
+        "category": "established_fact",
+        "notes": "Supported by meta-analyses of mindfulness-based interventions"
+    },
+    {
+        "claim": "The flu vaccine can give you the flu",
+        "expected_verdict": "INACCURATE",
+        "category": "common_misconception",
+        "notes": "Inactivated vaccines cannot cause the disease they protect against"
+    },
+    {
+        "claim": "Alkaline water can cure cancer",
+        "expected_verdict": "INACCURATE",
+        "category": "debunked_misinformation",
+        "notes": "No scientific evidence supports this claim"
+    },
+    {
+        "claim": "Prolonged sitting increases the risk of cardiovascular disease",
+        "expected_verdict": "ACCURATE",
+        "category": "established_fact",
+        "notes": "Supported by multiple prospective cohort studies"
+    },
+    {
+        "claim": "Garlic can lower blood pressure",
+        "expected_verdict": "ACCURATE",
+        "category": "established_fact",
+        "notes": "Some clinical evidence supports modest blood pressure reduction"
+    },
+    {
+        "claim": "Cell phones cause brain cancer",
+        "expected_verdict": "UNVERIFIABLE",
+        "category": "inconclusive_evidence",
+        "notes": "Large studies have not found a definitive link; IARC classifies RF as 'possibly carcinogenic'"
+    }
+]

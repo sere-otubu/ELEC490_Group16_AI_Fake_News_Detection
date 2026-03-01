@@ -35,7 +35,9 @@ dist-ssr
 *.ntvs*
 *.njsproj
 *.sln
-*.sw?
-
 data/*
 !/data/indexing_state.json
+
+# Test results (generated, local only)
+tests/results/
+tests/*.txt

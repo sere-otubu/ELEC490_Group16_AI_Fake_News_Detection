@@ -89,3 +89,18 @@ export interface ChatSession {
   created_at: string;
   updated_at: string;
 }
+
+// Multi-modal input types
+export interface URLExtractRequest {
+  url: string;
+}
+
+export interface URLExtractResponse {
+  extracted_text: string;
+  source_url: string;
+  page_title: string;
+}
+
+export interface ImageExtractResponse {
+  extracted_text: string;
+}

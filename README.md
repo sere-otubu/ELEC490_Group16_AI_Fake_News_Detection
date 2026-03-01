@@ -8,3 +8,17 @@ docker-compose up -d
 
 # 3. ONLY IF: you add new data into the db and need to run embeddings
 docker-compose exec backend uv run python src/vector_db/run_load_embeddings.py
+
+## Local unit tests
+
+Install backend dependencies (runtime + test):
+
+```bash
+pip install -r src/requirements.txt -r src/requirements-dev.txt
+```
+
+Run unit tests:
+
+```bash
+python -m pytest tests/unit/ -v --tb=short
+```

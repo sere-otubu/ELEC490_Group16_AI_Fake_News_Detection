@@ -5,6 +5,7 @@ including vector storage, document indexing, and query operations.
 """
 
 import logging
+import os
 import traceback
 from contextlib import suppress
 from typing import Any, List
@@ -151,10 +152,12 @@ class RAGRepository:
     def _setup_models(self) -> None:
         """Setup the LLM and embedding models using OpenRouter."""
         try:
+            # If no server API key is set, models will be initialized on-demand per query
             if not settings.OPENROUTER_API_KEY:
-                raise ValueError(
-                    "OPENROUTER_API_KEY is required. Get one from https://openrouter.ai"
+                logger.warning(
+                    "No OPENROUTER_API_KEY in environment. Server will require users to provide their own API keys."
                 )
+                return
 
             # Setup LLM using OpenRouter (OpenAI-compatible API)
             Settings.llm = OpenAILike(
@@ -162,6 +165,7 @@ class RAGRepository:
                 api_key=settings.OPENROUTER_API_KEY,
                 api_base=settings.OPENROUTER_BASE_URL,
                 is_chat_model=True,
+                max_tokens=300,
                 timeout=120.0,
                 default_headers={
                     "HTTP-Referer": "https://github.com/capstone-project",
@@ -210,7 +214,17 @@ class RAGRepository:
     def _setup_database(self) -> None:
         """Setup the database connection, extension and vector store."""
         try:
-            self.engine = create_engine(settings.database_url, echo=False)
+            # Optimize connection pool for Supabase Session mode
+            # This engine is used for metadata checks and document counting
+            self.engine = create_engine(
+                settings.database_url,
+                echo=False,
+                pool_size=2,
+                max_overflow=0,
+                pool_recycle=300,
+                pool_pre_ping=True
+            )
+            
             if self.engine:
                 with self.engine.connect() as conn:
                     conn.execute(text("SELECT 1"))
@@ -227,6 +241,8 @@ class RAGRepository:
                     settings.EMBED_DIM,
                 )
 
+            # PGVectorStore.from_params creates its own internal engine.
+            # Since RAGRepository is now a singleton, this only happens ONCE.
             self.vector_store = PGVectorStore.from_params(
                 database=settings.effective_pg_database,
                 host=settings.effective_pg_host,
@@ -296,22 +312,31 @@ class RAGRepository:
             traceback.print_exc()
             return False
 
-    def query(self, query_request: QueryRequest) -> QueryResponse:
+    def query(self, query_request: QueryRequest, api_key: str = None) -> QueryResponse:
         """Query the RAG system.
 
         Args:
-            query_text: The query text
-            similarity_top_k: Number of similar documents to retrieve
+            query_request: The query request object
+            api_key: Optional custom OpenRouter API key to use for this query
 
         Returns:
-            Optional[dict]: Dictionary containing 'response' and 'source_documents' or None if query failed
+            QueryResponse: Response containing chat response and source documents
         """
         try:
             health = self.health_check(require_index=False)
-            basic_health = {k: v for k, v in health.items() if k != "index"}
-            if not all(basic_health.values()):
-                logger.error("System not ready for queries - basic components failed")
+            
+            # When user provides API key, only check database and vector_store health
+            # Models will be initialized on-demand with the user's key
+            if api_key:
+                required_components = {k: v for k, v in health.items() if k in ["database", "vector_store"]}
+            else:
+                # Without user API key, we need server models to be initialized
+                required_components = {k: v for k, v in health.items() if k != "index"}
+            
+            if not all(required_components.values()):
+                logger.error("System not ready for queries - required components failed")
                 logger.error(f"Health status: {health}")
+                logger.error(f"Required components: {required_components}")
                 raise ValueError("System not healthy for queries")
 
             doc_count = self.get_document_count()
@@ -321,6 +346,50 @@ class RAGRepository:
 
             logger.info(f"Vector store contains {doc_count} documents")
 
+            # Require API key if no server key is configured
+            if not settings.OPENROUTER_API_KEY and not api_key:
+                raise ValueError(
+                    "No API key provided. Please provide your OpenRouter API key to use this service."
+                )
+
+            # Initialize models with user's API key if provided, otherwise use server's
+            original_llm = None
+            original_embed_model = None
+            original_openai_key = None
+            
+            if api_key:
+                logger.info("Using custom OpenRouter API key for this query")
+                
+                # Temporarily set OPENAI_API_KEY environment variable FIRST
+                # OpenAILike internally uses OpenAI client which checks this env var
+                # Must be set BEFORE accessing Settings.llm to avoid validation errors
+                original_openai_key = os.environ.get("OPENAI_API_KEY")
+                os.environ["OPENAI_API_KEY"] = api_key
+                
+                # Now safe to access Settings.llm and Settings.embed_model
+                original_llm = Settings.llm
+                original_embed_model = Settings.embed_model
+                
+                Settings.llm = OpenAILike(
+                    model=settings.OPENROUTER_LLM_MODEL,
+                    api_key=api_key,
+                    api_base=settings.OPENROUTER_BASE_URL,
+                    is_chat_model=True,
+                    max_tokens=300,
+                    timeout=120.0,
+                    default_headers={
+                        "HTTP-Referer": "https://github.com/capstone-project",
+                        "X-Title": "Capstone RAG System",
+                    },
+                )
+                
+                Settings.embed_model = OpenRouterEmbedding(
+                    api_key=api_key,
+                    model=settings.OPENROUTER_EMBEDDING_MODEL,
+                    api_base=settings.OPENROUTER_BASE_URL,
+                )
+
+            # Now that models are initialized, load the index if needed
             if not self.index:
                 logger.info("Index not initialized, creating from vector store...")
                 if self.vector_store:
@@ -330,21 +399,33 @@ class RAGRepository:
                     logger.error("Vector store not initialized")
                     raise ValueError("Vector store not initialized")
 
-            logger.info(f"Executing query: '{query_request.query[:50]}...'")
+            logger.info(f"Executing query: '{query_request.query[:50]}...')")
 
-            # Adjust top_k to be at least 3 and at most 15
-            optimized_top_k = min(query_request.top_k * 2 + 1, 15)
+            try:
+                # Use top_k directly, capped at 5 to keep response times fast
+                optimized_top_k = min(query_request.top_k, 5)
 
-            query_engine = self.index.as_query_engine(
-                text_qa_template=RAG_PROMPT_TEMPLATE,
-                similarity_top_k=optimized_top_k,
-                response_mode="compact",
-                node_postprocessors=[
-                    SimilarityPostprocessor(similarity_cutoff=0.6)
-                ]
-            )
-            
-            response = query_engine.query(query_request.query)
+                query_engine = self.index.as_query_engine(
+                    text_qa_template=RAG_PROMPT_TEMPLATE,
+                    similarity_top_k=optimized_top_k,
+                    response_mode="compact",
+                    node_postprocessors=[
+                        SimilarityPostprocessor(similarity_cutoff=0.3)
+                    ]
+                )
+                
+                response = query_engine.query(query_request.query)
+            finally:
+                # Restore original models and environment if we used custom ones
+                if original_llm:
+                    Settings.llm = original_llm
+                if original_embed_model:
+                    Settings.embed_model = original_embed_model
+                if original_openai_key is not None:
+                    if original_openai_key:
+                        os.environ["OPENAI_API_KEY"] = original_openai_key
+                    else:
+                        os.environ.pop("OPENAI_API_KEY", None)
 
             # Check if any documents met the similarity threshold
             if not hasattr(response, "source_nodes") or not response.source_nodes:
@@ -373,15 +454,101 @@ class RAGRepository:
                     source_link = node_metadata.get("file_path")
                     
                     # 3. INTELLIGENT PARSING LOGIC
+                    
+                    # A. Try to extract metadata from the text content itself (for fetchers that save headers)
+                    # This is the most accurate source if the chunk contains the header
+                    text_content = node.text or ""
+                    extracted_url = None
+                    extracted_title = None
+                    
+                    # Check first 10 lines for metadata headers
+                    for line in text_content.split('\n')[:10]:
+                        if "SOURCE_URL:" in line:
+                            parts = line.split("SOURCE_URL:", 1)
+                            if len(parts) > 1:
+                                extracted_url = parts[1].strip()
+                        elif "TITLE:" in line:
+                            parts = line.split("TITLE:", 1)
+                            if len(parts) > 1:
+                                extracted_title = parts[1].strip()
+                    
+                    # Apply extracted metadata if found
+                    if extracted_url and extracted_url.startswith("http"):
+                        source_link = extracted_url
+                    
+                    if extracted_title:
+                        # Clean up title if needed
+                        display_name = extracted_title
+
+                    # B. Filename-based Fallbacks (if text extraction missed it)
+                    
                     # Check for PubMed Files (e.g., pubmed_12345.txt)
                     if "pubmed_" in raw_file_name:
                         # Extract ID
                         pmid = raw_file_name.split("pubmed_")[-1].replace(".txt", "")
                         if pmid.isdigit():
-                            display_name = f"PubMed Article (ID: {pmid})"
+                            if not extracted_title: # Only overwrite if we didn't get a real title
+                                display_name = f"PubMed Article (ID: {pmid})"
                             source_link = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
 
-                    # Check for Scraped Websites (e.g., www.who.int_topic.txt)
+                    # Check for PubMed Files with pmid_ prefix (e.g., pmid_12345.txt)
+                    elif "pmid_" in raw_file_name:
+                         # Extract ID
+                        pmid = raw_file_name.split("pmid_")[-1].replace(".txt", "")
+                        if pmid.isdigit():
+                            if not extracted_title:
+                                display_name = f"PubMed Article (ID: {pmid})"
+                            source_link = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
+
+                    # Check for ArXiv Files (e.g., arxiv_1234.5678.txt)
+                    elif "arxiv_" in raw_file_name:
+                        # Extract ID
+                        arxiv_id = raw_file_name.replace("arxiv_", "").replace(".txt", "")
+                        if not extracted_title:
+                            display_name = f"ArXiv Paper ({arxiv_id})"
+                        # Force Abstract URL for ArXiv (safer than PDF)
+                        source_link = f"https://arxiv.org/abs/{arxiv_id}"
+
+                    # Check for PLOS Files (e.g., plos_10_1371_...txt)
+                    elif "plos_" in raw_file_name:
+                        if not extracted_title:
+                            display_name = "PLOS Article"
+                        
+                        # Fallback URL if extraction failed (Reconstruct DOI for direct link)
+                        if not extracted_url:
+                             # Example: plos_10_1371_journal_pone_0205708.txt
+                             # Goal: 10.1371/journal.pone.0205708
+                             parts = raw_file_name.replace("plos_", "").replace(".txt", "").split("_")
+                             if len(parts) >= 2 and parts[0] == "10":
+                                 # Standard PLOS DOI pattern: 10.1371/journal...
+                                 doi = f"{parts[0]}.{parts[1]}/{'.'.join(parts[2:])}"
+                                 source_link = f"https://journals.plos.org/plosone/article?id={doi}"
+                             else:
+                                 # Fallback to search if pattern is weird
+                                 clean_name = raw_file_name.replace("plos_", "").replace(".txt", "").replace("_", ".")
+                                 source_link = f"https://journals.plos.org/plosone/search?q={clean_name}"
+
+                    # Check for WHO Files (e.g., who_factsheet_...txt)
+                    elif "who_" in raw_file_name:
+                        if not extracted_title:
+                            slug = raw_file_name.replace("who_", "").replace(".txt", "").replace("_", " ").title()
+                            display_name = f"WHO: {slug}"
+                        
+                        # Fallback URL
+                        if not extracted_url:
+                            # Remove 'factsheet-' or 'factsheet_' prefix which causes 404s
+                            # Example filename: who_factsheet_autism-spectrum-disorders.txt
+                            # Goal slug: autism-spectrum-disorders
+                            slug_url = raw_file_name.replace("who_", "").replace(".txt", "")
+                            slug_url = slug_url.replace("factsheet_", "").replace("factsheet-", "")
+                            slug_url = slug_url.replace("_", "-") # Ensure hyphens for URL
+                            
+                            # Remove leading/trailing hyphens
+                            slug_url = slug_url.strip("-")
+                            
+                            source_link = f"https://www.who.int/news-room/fact-sheets/detail/{slug_url}"
+
+                    # Check for Scraped Websites (e.g., www.who.int_topic.txt) - Legacy/Generic
                     elif "www." in raw_file_name or "http" in raw_file_name:
                         # Remove extension
                         clean = raw_file_name.replace(".txt", "")
@@ -542,9 +709,10 @@ class RAGRepository:
 
             health["vector_store"] = self.vector_store is not None
 
+            # Models can be None if no server API key is configured (users provide their own)
             health["models"] = (
                 Settings.llm is not None and Settings.embed_model is not None
-            )
+            ) or not settings.OPENROUTER_API_KEY
 
             if require_index:
                 health["index"] = self.index is not None
@@ -557,4 +725,13 @@ class RAGRepository:
         return health
 
 
-rag_repository = RAGRepository()
+# Lazy singleton - only created when first accessed
+_rag_repository: RAGRepository | None = None
+
+
+def get_rag_repository_instance() -> RAGRepository:
+    """Get or create the singleton RAG repository instance."""
+    global _rag_repository
+    if _rag_repository is None:
+        _rag_repository = RAGRepository()
+    return _rag_repository
