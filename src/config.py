@@ -62,10 +62,10 @@ class Settings(BaseSettings):
         default="https://openrouter.ai/api/v1", description="OpenRouter API base URL"
     )
     OPENROUTER_LLM_MODEL: str = Field(
-        default="google/gemma-3-4b-it:free", description="OpenRouter LLM model for chat"
+        default="openai/gpt-4o-mini", description="OpenRouter LLM model for chat"
     )
     OPENROUTER_EMBEDDING_MODEL: str = Field(
-        default="google/gemini-embedding-001", description="OpenRouter embedding model"
+        default="openai/text-embedding-3-small", description="OpenRouter embedding model"
     )
 
     DATA_FOLDER: Path = BASE_DIR / "data"

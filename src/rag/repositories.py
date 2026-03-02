@@ -41,7 +41,7 @@ class OpenRouterEmbedding(BaseEmbedding):
     def __init__(
         self,
         api_key: str,
-        model: str = "google/gemini-embedding-001",
+        model: str = "openai/text-embedding-3-small",
         api_base: str = "https://openrouter.ai/api/v1",
         **kwargs: Any,
     ) -> None:
@@ -64,7 +64,7 @@ class OpenRouterEmbedding(BaseEmbedding):
                     headers={
                         "Authorization": f"Bearer {self._api_key}",
                         "Content-Type": "application/json",
-                        "HTTP-Referer": "https://github.com/capstone-project",
+                        "HTTP-Referer": "https://github.com/sere-otubu/ELEC490_Group16_AI_Fake_News_Detection",
                         "X-Title": "Capstone RAG System",
                     },
                     json={
@@ -168,7 +168,7 @@ class RAGRepository:
                 max_tokens=300,
                 timeout=120.0,
                 default_headers={
-                    "HTTP-Referer": "https://github.com/capstone-project",
+                    "HTTP-Referer": "https://github.com/sere-otubu/ELEC490_Group16_AI_Fake_News_Detection",
                     "X-Title": "Capstone RAG System",
                 },
             )
@@ -378,7 +378,7 @@ class RAGRepository:
                     max_tokens=300,
                     timeout=120.0,
                     default_headers={
-                        "HTTP-Referer": "https://github.com/capstone-project",
+                        "HTTP-Referer": "https://github.com/sere-otubu/ELEC490_Group16_AI_Fake_News_Detection",
                         "X-Title": "Capstone RAG System",
                     },
                 )
