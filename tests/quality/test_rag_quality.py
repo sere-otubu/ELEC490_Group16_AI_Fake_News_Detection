@@ -31,6 +31,25 @@ VALID_VERDICTS = [
     "OPINION", "INCONCLUSIVE", "IRRELEVANT",
 ]
 
+# Verdicts that are semantically close enough to count as acceptable.
+VERDICT_EQUIVALENCES = {
+    "ACCURATE":            ["PARTIALLY ACCURATE"],
+    "PARTIALLY ACCURATE":  ["ACCURATE", "MISLEADING"],
+    "UNVERIFIABLE":        ["INCONCLUSIVE"],
+    "INCONCLUSIVE":        ["UNVERIFIABLE"],
+    "MISLEADING":          ["PARTIALLY ACCURATE", "INACCURATE"],
+}
+
+
+def is_verdict_acceptable(expected: str, returned: str | None) -> bool:
+    """Check if the returned verdict is acceptable for the expected verdict."""
+    if not returned:
+        return False
+    e, r = expected.upper().strip(), returned.upper().strip()
+    if e == r:
+        return True
+    return r in VERDICT_EQUIVALENCES.get(e, [])
+
 
 def extract_verdict(chat_response: str) -> str | None:
     """Parse the verdict from the LLM's structured response."""
@@ -96,13 +115,9 @@ def run_quality_test(base_url: str) -> dict:
             confidence = extract_confidence(data["chat_response"])
             has_sources = len(data.get("source_documents", [])) > 0
 
-            # Check verdict match (allow flexibility for similar verdicts)
+            # Check verdict match (semantic equivalence)
             expected = claim["expected_verdict"]
-            verdict_correct = False
-            if returned_verdict and expected.lower() in returned_verdict.lower():
-                verdict_correct = True
-            elif returned_verdict and returned_verdict.lower() in expected.lower():
-                verdict_correct = True
+            verdict_correct = is_verdict_acceptable(expected, returned_verdict)
 
             if verdict_correct:
                 results["correct_verdict"] += 1

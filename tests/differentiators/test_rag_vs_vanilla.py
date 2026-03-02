@@ -31,6 +31,25 @@ VALID_VERDICTS = [
     "OPINION", "INCONCLUSIVE", "IRRELEVANT",
 ]
 
+# Verdicts that are semantically close enough to count as acceptable.
+VERDICT_EQUIVALENCES = {
+    "ACCURATE":            ["PARTIALLY ACCURATE"],
+    "PARTIALLY ACCURATE":  ["ACCURATE", "MISLEADING"],
+    "UNVERIFIABLE":        ["INCONCLUSIVE"],
+    "INCONCLUSIVE":        ["UNVERIFIABLE"],
+    "MISLEADING":          ["PARTIALLY ACCURATE", "INACCURATE"],
+}
+
+
+def is_verdict_acceptable(expected: str, returned: str | None) -> bool:
+    """Check if the returned verdict is acceptable for the expected verdict."""
+    if not returned:
+        return False
+    e, r = expected.upper().strip(), returned.upper().strip()
+    if e == r:
+        return True
+    return r in VERDICT_EQUIVALENCES.get(e, [])
+
 
 def extract_verdict(text: str) -> str | None:
     for line in text.split("\n"):
@@ -74,8 +93,8 @@ def run_comparison(base_url: str) -> dict:
     with open(CLAIMS_FILE) as f:
         claims = json.load(f)
 
-    # Use a subset for cost efficiency
-    test_claims = claims[:15]
+    # Use all claims for robust testing
+    test_claims = claims
 
     print(f"\n{'='*70}")
     print(f"  RAG vs Vanilla LLM Comparison")
@@ -106,8 +125,8 @@ def run_comparison(base_url: str) -> dict:
         except Exception:
             vanilla_verdict = None
 
-        rag_match = rag_verdict and expected.lower() in rag_verdict.lower()
-        vanilla_match = vanilla_verdict and expected.lower() in vanilla_verdict.lower()
+        rag_match = is_verdict_acceptable(expected, rag_verdict)
+        vanilla_match = is_verdict_acceptable(expected, vanilla_verdict)
 
         if rag_match:
             rag_correct += 1
