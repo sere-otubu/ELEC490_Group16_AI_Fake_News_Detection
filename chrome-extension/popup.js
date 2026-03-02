@@ -2,7 +2,7 @@
 // Popup Script — Connection Test
 // =============================================================================
 
-const API_URL = "https://capstone-backend-5xbw.onrender.com";
+const API_URL = "https://capstone-backend-77s6.onrender.com";
 
 const testBtn = document.getElementById("test-btn");
 const statusIndicator = document.getElementById("status-indicator");

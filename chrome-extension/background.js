@@ -9,7 +9,7 @@
 chrome.runtime.onInstalled.addListener(() => {
     chrome.contextMenus.create({
         id: "medcheck-analyze",
-        title: "🔍 Check for Misinformation",
+        title: "Verify with EvidenceMD",
         contexts: ["selection"]
     });
 });

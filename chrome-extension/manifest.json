@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "MedCheck AI - Fake News Detector",
     "version": "1.0.0",
-    "description": "Highlight text on any webpage to check medical claims for misinformation using AI-powered fact-checking.",
+    "description": "Right-click highlighted text on any webpage to verify medical claims against peer-reviewed evidence using AI.",
     "permissions": [
         "contextMenus",
         "activeTab"
