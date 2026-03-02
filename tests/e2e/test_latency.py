@@ -45,19 +45,19 @@ def run_latency_test(base_url: str, num_runs: int) -> dict:
 
             if r.status_code == 200:
                 times_ms.append(elapsed_ms)
-                print(f"  Run {i:3d}: {elapsed_ms:7.0f} ms ✅")
+                print(f"  Run {i:3d}: {elapsed_ms:7.0f} ms [OK]")
             else:
                 errors += 1
-                print(f"  Run {i:3d}: HTTP {r.status_code} ❌")
+                print(f"  Run {i:3d}: HTTP {r.status_code} [FAIL]")
         except Exception as e:
             errors += 1
             elapsed_ms = (time.perf_counter() - start) * 1000
-            print(f"  Run {i:3d}: Error ({elapsed_ms:.0f} ms) ❌ — {e}")
+            print(f"  Run {i:3d}: Error ({elapsed_ms:.0f} ms) [FAIL] - {e}")
 
     client.close()
 
     if not times_ms:
-        print("\n  ❌ No successful runs!")
+        print("\n  [FAIL] No successful runs!")
         return {"p95": float("inf"), "errors": errors}
 
     times_ms.sort()
@@ -73,7 +73,7 @@ def run_latency_test(base_url: str, num_runs: int) -> dict:
     print(f"  Min:             {min(times_ms):,.0f} ms")
     print(f"  Mean:            {mean:,.0f} ms")
     print(f"  P50 (median):    {p50:,.0f} ms")
-    print(f"  P95:             {p95:,.0f} ms  {'✅ PASS' if p95 <= 3000 else '❌ FAIL'} (target: ≤3000 ms)")
+    print(f"  P95:             {p95:,.0f} ms  {'[PASS]' if p95 <= 3000 else '[FAIL]'} (target: <=3000 ms)")
     print(f"  Max:             {max(times_ms):,.0f} ms")
     print(f"{'='*70}\n")
 
