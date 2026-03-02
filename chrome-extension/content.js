@@ -1,89 +1,22 @@
 // =============================================================================
 // Content Script — Injected into all webpages
-// Detects text selection, shows analyze button, calls RAG API, shows results
+// Listens for context menu messages, calls RAG API, shows results
 // =============================================================================
 
 (function () {
   "use strict";
 
-  const API_URL = "https://capstone-backend-5xbw.onrender.com";
-  let currentButton = null;
+  const API_URL = "https://capstone-backend-77s6.onrender.com";
   let currentOverlay = null;
 
 
   // Listen for context menu messages from background.js
   chrome.runtime.onMessage.addListener((message) => {
     if (message.action === "analyze" && message.text) {
-      removeExistingUI();
+      removeOverlay();
       analyzeText(message.text);
     }
   });
-
-  // =========================================================================
-  // Text Selection Detection
-  // =========================================================================
-
-  document.addEventListener("mouseup", (e) => {
-    // Ignore clicks on our own UI elements
-    if (e.target.closest(".fnd-container")) return;
-
-    const selectedText = window.getSelection().toString().trim();
-
-    if (selectedText.length > 10) {
-      showAnalyzeButton(e.clientX, e.clientY, selectedText);
-    }
-  });
-
-  // Remove button when clicking elsewhere (but not on our UI)
-  document.addEventListener("mousedown", (e) => {
-    if (!e.target.closest(".fnd-container")) {
-      removeButton();
-    }
-  });
-
-  // =========================================================================
-  // Floating Analyze Button
-  // =========================================================================
-
-  function showAnalyzeButton(x, y, text) {
-    removeButton();
-
-    const btn = document.createElement("div");
-    btn.className = "fnd-container fnd-analyze-btn";
-    btn.innerHTML = `
-      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-        <circle cx="11" cy="11" r="8"/>
-        <line x1="21" y1="21" x2="16.65" y2="16.65"/>
-      </svg>
-      <span>Check Claim</span>
-    `;
-
-    // Position near cursor but keep within viewport
-    const posX = Math.min(x + 10, window.innerWidth - 170);
-    const posY = Math.max(y - 45, 10);
-    btn.style.left = `${posX}px`;
-    btn.style.top = `${posY}px`;
-
-    btn.addEventListener("click", (e) => {
-      e.preventDefault();
-      e.stopPropagation();
-      removeButton();
-      analyzeText(text);
-    });
-
-    document.body.appendChild(btn);
-    currentButton = btn;
-
-    // Animate in
-    requestAnimationFrame(() => btn.classList.add("fnd-visible"));
-  }
-
-  function removeButton() {
-    if (currentButton) {
-      currentButton.remove();
-      currentButton = null;
-    }
-  }
 
   // =========================================================================
   // API Call
@@ -167,17 +100,17 @@
 
   function getVerdictConfig(verdict) {
     const configs = {
-      ACCURATE: { color: "#10b981", bg: "rgba(16,185,129,0.15)", icon: "✅", label: "Accurate" },
-      INACCURATE: { color: "#ef4444", bg: "rgba(239,68,68,0.15)", icon: "❌", label: "Inaccurate" },
-      "PARTIALLY ACCURATE": { color: "#f59e0b", bg: "rgba(245,158,11,0.15)", icon: "⚠️", label: "Partially Accurate" },
-      MISLEADING: { color: "#f97316", bg: "rgba(249,115,22,0.15)", icon: "⚡", label: "Misleading" },
-      UNVERIFIABLE: { color: "#8b5cf6", bg: "rgba(139,92,246,0.15)", icon: "❓", label: "Unverifiable" },
-      OUTDATED: { color: "#6366f1", bg: "rgba(99,102,241,0.15)", icon: "📅", label: "Outdated" },
-      OPINION: { color: "#06b6d4", bg: "rgba(6,182,212,0.15)", icon: "💬", label: "Opinion" },
-      INCONCLUSIVE: { color: "#a855f7", bg: "rgba(168,85,247,0.15)", icon: "🔄", label: "Inconclusive" },
-      IRRELEVANT: { color: "#6b7280", bg: "rgba(107,114,128,0.15)", icon: "🚫", label: "Irrelevant" },
+      ACCURATE: { color: "#22c55e", bg: "rgba(34,197,94,0.12)", icon: "✅", label: "Accurate" },
+      INACCURATE: { color: "#ef4444", bg: "rgba(239,68,68,0.12)", icon: "❌", label: "Inaccurate" },
+      "PARTIALLY ACCURATE": { color: "#f59e0b", bg: "rgba(245,158,11,0.12)", icon: "⚠️", label: "Partially Accurate" },
+      MISLEADING: { color: "#f97316", bg: "rgba(249,115,22,0.12)", icon: "⚡", label: "Misleading" },
+      UNVERIFIABLE: { color: "#a78bfa", bg: "rgba(167,139,250,0.12)", icon: "❓", label: "Unverifiable" },
+      OUTDATED: { color: "#6366f1", bg: "rgba(99,102,241,0.12)", icon: "📅", label: "Outdated" },
+      OPINION: { color: "#2dd4bf", bg: "rgba(45,212,191,0.12)", icon: "💬", label: "Opinion" },
+      INCONCLUSIVE: { color: "#a78bfa", bg: "rgba(167,139,250,0.12)", icon: "🔄", label: "Inconclusive" },
+      IRRELEVANT: { color: "#98a4b3", bg: "rgba(152,164,179,0.12)", icon: "🚫", label: "Irrelevant" },
     };
-    return configs[verdict] || { color: "#9ca3af", bg: "rgba(156,163,175,0.15)", icon: "❔", label: verdict };
+    return configs[verdict] || { color: "#98a4b3", bg: "rgba(152,164,179,0.12)", icon: "❔", label: verdict };
   }
 
   // =========================================================================
@@ -259,10 +192,17 @@
       const docItems = data.source_documents
         .map((doc) => {
           const score = Math.round(doc.score * 100);
+          const isWebLink = doc.metadata.source && doc.metadata.source.startsWith("http");
+
+          // Title: clickable link if web source, plain text otherwise
+          const titleHtml = isWebLink
+            ? `<a class="fnd-doc-name fnd-doc-link" href="${escapeHtml(doc.metadata.source)}" target="_blank" rel="noopener noreferrer">${escapeHtml(doc.metadata.file_name)}</a>`
+            : `<span class="fnd-doc-name">${escapeHtml(doc.metadata.file_name)}</span>`;
+
           return `
             <div class="fnd-doc-item">
               <div class="fnd-doc-header">
-                <span class="fnd-doc-name">${escapeHtml(doc.metadata.file_name)}</span>
+                ${titleHtml}
                 <span class="fnd-doc-score">${score}% match</span>
               </div>
               <div class="fnd-doc-content">${escapeHtml(doc.content.substring(0, 200))}${doc.content.length > 200 ? "..." : ""}</div>
@@ -339,7 +279,7 @@
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
           </svg>
-          <span>MedCheck AI</span>
+          <span>Evidence Console</span>
         </div>
         <button class="fnd-close-btn" title="Close">&times;</button>
       </div>
@@ -368,11 +308,6 @@
       currentOverlay.remove();
       currentOverlay = null;
     }
-  }
-
-  function removeExistingUI() {
-    removeButton();
-    removeOverlay();
   }
 
   function escapeHtml(text) {
