@@ -50,8 +50,8 @@ class Settings(BaseSettings):
     )
 
     EMBED_DIM: int = Field(
-        default=3072,
-        description="Dimension of the embedding vectors (3072 for gemini-embedding-001)",
+        default=1536,
+        description="Dimension of the embedding vectors (1536 for openai/text-embedding-3-small)",
     )
 
     # OpenRouter Configuration (cloud LLM and embeddings)
