@@ -32,6 +32,11 @@ TEST_CLAIMS = [
     "Drinking bleach can cure diseases",
     "Hydroxychloroquine is a proven cure for COVID-19",
     "Hand washing with soap reduces transmission of respiratory infections",
+    "5G towers spread COVID-19",
+    "Smoking increases the risk of lung cancer",
+    "Essential oils can replace chemotherapy for cancer treatment",
+    "Wearing a mask reduces the spread of airborne respiratory viruses",
+    "Antibiotics can cure viral infections like the common cold",
 ]
 
 
