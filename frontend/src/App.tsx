@@ -1,4 +1,4 @@
-import { useState, useMemo, useCallback, memo, type ReactNode, useRef } from "react";
+import { useState, useEffect, useMemo, useCallback, memo, type ReactNode, useRef } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
@@ -28,6 +28,7 @@ import {
   MicOff,
   X,
   Globe,
+  BookOpen,
 } from "lucide-react";
 import {
   useQueryRAG,
@@ -35,6 +36,8 @@ import {
 } from "@/hooks/useApi";
 import { apiClient } from "@/lib/api-client";
 import type { Message, SourceDocument } from "@/types/api";
+import Tutorial from "@/components/Tutorial";
+import MedicalCrossLogo from "@/components/MedicalCrossLogo";
 
 // Source Document Card Component
 interface SourceDocumentCardProps {
@@ -397,7 +400,12 @@ declare global {
   }
 }
 
-function App() {
+interface AppProps {
+  startTutorial?: boolean;
+  onTutorialEnd?: () => void;
+}
+
+function App({ startTutorial = false, onTutorialEnd }: AppProps = {}) {
   const [inputMessage, setInputMessage] = useState("");
   const [currentMessages, setCurrentMessages] = useState<Message[]>([]);
   const [currentSourceDocuments, setCurrentSourceDocuments] = useState<
@@ -412,9 +420,16 @@ function App() {
   const [extractError, setExtractError] = useState<string | null>(null);
   const [attachedSource, setAttachedSource] = useState<{ type: "url" | "image"; label: string } | null>(null);
   const [isListening, setIsListening] = useState(false);
+  const [isTutorialActive, setIsTutorialActive] = useState(false);
   const fileInputRef = useRef<HTMLInputElement>(null);
   const recognitionRef = useRef<SpeechRecognition | null>(null);
 
+  // Handle tutorial trigger from parent
+  useEffect(() => {
+    if (startTutorial) {
+      setIsTutorialActive(true);
+    }
+  }, [startTutorial]);
   const {
     sendQuery,
     isLoading: isSendingMessage,
@@ -657,12 +672,11 @@ function App() {
         <header className="sticky top-0 z-30 px-4 pt-4 lg:px-6">
           <div className="mx-auto flex w-full max-w-7xl items-center justify-between gap-6 rounded-2xl border border-border/40 bg-background/60 px-6 py-4 shadow-lg shadow-black/5 backdrop-blur-xl backdrop-saturate-150 supports-[backdrop-filter]:bg-background/40 lg:px-8">
             <div className="flex items-center gap-4">
-              <div className="relative flex h-11 w-11 items-center justify-center rounded-2xl bg-gradient-to-br from-primary/20 to-primary/5 shadow-lg shadow-primary/10 ring-1 ring-primary/20">
-                <Shield className="h-6 w-6 text-primary" />
-                <div className="absolute -right-1 -top-1 h-3 w-3 rounded-full bg-emerald-500 ring-2 ring-background" />
+              <div className="relative flex h-14 w-14 items-center justify-center">
+                <MedicalCrossLogo size={56} particleCount={12} />
               </div>
               <div className="flex flex-col">
-                <h1 className="font-display text-xl font-bold tracking-tight">Evidence Console</h1>
+                <h1 className="font-display text-xl font-bold tracking-tight">EvidenceMD</h1>
                 <p className="text-[11px] font-medium tracking-wide text-muted-foreground/80">
                   Medical Claim Verifier
                 </p>
@@ -685,9 +699,19 @@ function App() {
               <Button
                 onClick={handleNewChat}
                 className="h-10 rounded-xl bg-gradient-to-r from-primary to-primary/90 px-5 text-[13px] font-semibold text-primary-foreground shadow-lg shadow-primary/25 transition-all hover:shadow-xl hover:shadow-primary/30 hover:scale-[1.02]"
+                data-tutorial="new-session"
               >
                 <Plus className="mr-2 h-4 w-4" />
-                New Analysis
+                New Session
+              </Button>
+              <Button
+                variant="ghost"
+                size="icon"
+                className="h-10 w-10 rounded-xl hover:bg-accent/50"
+                title="Tutorial"
+                onClick={() => setIsTutorialActive(true)}
+              >
+                <BookOpen className="h-[18px] w-[18px]" />
               </Button>
             </div>
           </div>
@@ -696,7 +720,7 @@ function App() {
         <div className="mx-auto flex w-full max-w-7xl flex-1 flex-col px-4 pb-6 pt-4 lg:px-6">
           <div className="grid flex-1 gap-4 lg:grid-cols-[minmax(0,1fr)_380px]">
             <section className="flex min-w-0 flex-col gap-4">
-              <div className="flex min-h-0 flex-1 flex-col overflow-hidden rounded-2xl border border-border/40 bg-background/60 shadow-lg shadow-black/5 backdrop-blur-xl backdrop-saturate-150">
+              <div className="flex min-h-0 flex-1 flex-col overflow-hidden rounded-2xl border border-border/40 bg-background/60 shadow-lg shadow-black/5 backdrop-blur-xl backdrop-saturate-150" data-tutorial="conversation">
                 <div className="border-b border-border/40 px-6 py-4">
                   <div className="flex items-center justify-between">
                     <div>
@@ -716,7 +740,7 @@ function App() {
                 <ScrollArea className="flex-1 px-4 pb-3 pt-4">
                   <div className="flex flex-col gap-5">
                     {showWelcomeState && (
-                      <div className="rounded-xl border border-border/70 bg-background/60 p-6">
+                      <div className="rounded-xl border border-border/70 bg-background/60 p-6" data-tutorial="suggestions">
                         <div className="flex items-center gap-3">
                           <Stethoscope className="h-6 w-6 text-primary" />
                           <div>
@@ -872,7 +896,7 @@ function App() {
                       )}
 
                       {/* Main input row */}
-                      <div className="flex flex-col gap-2 sm:flex-row items-end">
+                      <div className="flex flex-col gap-2 sm:flex-row items-end" data-tutorial="input">
                         <div className="relative flex-1 w-full">
                           <Textarea
                             placeholder={isListening ? "Listening... speak your claim" : "Enter a medical claim to verify..."}
@@ -907,7 +931,7 @@ function App() {
                       </div>
 
                       {/* Multi-modal toolbar */}
-                      <div className="flex items-center gap-1 pt-1">
+                      <div className="flex items-center gap-1 pt-1" data-tutorial="multimodal">
                         {/* Hidden file input */}
                         <input
                           ref={fileInputRef}
@@ -990,7 +1014,7 @@ function App() {
               </div>
             </section>
 
-            <aside className="flex flex-col gap-4">
+            <aside className="flex flex-col gap-4" data-tutorial="sources">
               <div className="rounded-2xl border border-border/40 bg-background/60 p-5 shadow-lg shadow-black/5 backdrop-blur-xl backdrop-saturate-150">
                 <div className="flex items-center justify-between">
                   <div>
@@ -1027,6 +1051,20 @@ function App() {
 
       <Analytics />
       <SpeedInsights />
+      
+      <Tutorial
+        isActive={isTutorialActive}
+        onComplete={() => {
+          setIsTutorialActive(false);
+          localStorage.setItem("tutorialCompleted", "true");
+          onTutorialEnd?.();
+        }}
+        onSkip={() => {
+          setIsTutorialActive(false);
+          localStorage.setItem("tutorialCompleted", "true");
+          onTutorialEnd?.();
+        }}
+      />
     </div>
   );
 }
