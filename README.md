@@ -239,17 +239,57 @@ Copy `.env.example` to `.env` and configure the following:
 | `APP_OPENROUTER_LLM_MODEL` | | LLM model (default: `openai/gpt-4o-mini`) |
 | `APP_OPENROUTER_EMBEDDING_MODEL` | | Embedding model (default: `openai/text-embedding-3-small`) |
 | `APP_EMBED_DIM` | | Embedding dimensions (default: `1536`) |
+| `APP_ENVIRONMENT` | | Deployment mode: `development` or `production` (default: `production`) |
+| `APP_CORS_ORIGINS` | | Comma-separated allowed CORS origins (empty = same-origin only; `*` allowed only in dev) |
 | `APP_SUPABASE_URL` | | Supabase project URL (for document storage) |
 | `APP_SUPABASE_KEY` | | Supabase service role key |
 | `APP_SUPABASE_BUCKET_NAME` | | Supabase storage bucket name |
-| `APP_VECTOR_TABLE_NAME` | | Vector table name (default: `knowledge_base`) |
+| `APP_VECTOR_TABLE_NAME` | | Vector table name for pgvector (default: `documents`) |
 | `VITE_API_BASE_URL` | | Frontend API URL (default: same-origin) |
+
+---
+
+## Security & Hardening
+
+- **Secrets & credentials**
+  - Backend secrets (database, Supabase, OpenRouter) are loaded **only from environment variables** (`.env`, Docker `environment:`); none are bundled into the frontend build or Chrome extension.
+  - The web client and extension do **not** store API keys in `localStorage`, `sessionStorage`, or cookies.
+
+- **Rate limiting**
+  - All expensive RAG endpoints use **per-IP rate limiting** via `slowapi`:
+    - `/rag/query` → capped requests per minute (LLM + embeddings)
+    - `/rag/extract-url` → capped requests per minute (outbound HTTP + parsing)
+    - `/rag/extract-image` → capped requests per minute (OCR)
+  - This protects OpenRouter usage, the database, and the RAG pipeline from abuse or accidental overload.
+
+- **Input validation & size limits**
+  - `QueryRequest.query` enforces sensible **min/max length** bounds to avoid empty prompts and unbounded inputs.
+  - URL extraction accepts only `http(s)://` URLs with a maximum length, and image uploads are limited by **file size (10 MB)** and a **whitelist of image MIME types**.
+
+- **SSRF protection (URL extraction)**
+  - The URL extraction pipeline validates targets before fetching:
+    - Blocks `localhost` and common metadata endpoints (e.g., cloud metadata services).
+    - Resolves hostnames and rejects URLs that point to **private, loopback, link-local, or otherwise internal IP ranges**.
+
+- **CORS & documentation exposure**
+  - CORS is **locked down by default in production**:
+    - `APP_ENVIRONMENT=production` with an empty `APP_CORS_ORIGINS` means same-origin-only API access.
+    - Explicit origins can be configured via `APP_CORS_ORIGINS` (comma-separated list).
+  - Interactive API docs (`/docs`, `/redoc`) are **only enabled in development** (`APP_ENVIRONMENT=development`) and are disabled by default in production.
+
+- **Security headers**
+  - A dedicated middleware adds standard security headers to every response:
+    - `Strict-Transport-Security` (HSTS, in production)
+    - `X-Content-Type-Options: nosniff`
+    - `X-Frame-Options: DENY`
+    - `Referrer-Policy: strict-origin-when-cross-origin`
+    - `Permissions-Policy` denying camera/microphone/geolocation by default
 
 ---
 
 ## API Reference
 
-The backend exposes a Swagger UI at **`/docs`** and ReDoc at **`/redoc`** when running.
+In development (`APP_ENVIRONMENT=development`), the backend exposes Swagger UI at **`/docs`** and ReDoc at **`/redoc`**. In production, these interactive docs are disabled by default for security.
 
 ### Key Endpoints
 

@@ -1,6 +1,7 @@
-from fastapi import APIRouter, Depends, Header, UploadFile, File, HTTPException
+from fastapi import APIRouter, Depends, Header, Request, UploadFile, File, HTTPException
 from typing import Optional
 from src.dependencies import get_rag_service
+from src.security import limiter
 from src.schemas import (
     DocumentCountResponse,
     HealthStatusResponse,
@@ -17,8 +18,18 @@ from .input_processing import extract_text_from_url, extract_text_from_image
 rag_router = APIRouter(prefix="/rag", tags=["RAG"])
 
 
+# ---------------------------------------------------------------------------
+# Rate limits (per IP):
+#   /rag/query        – 10 requests / minute  (most expensive: LLM + embeddings)
+#   /rag/extract-url  – 15 requests / minute  (outbound HTTP + parsing)
+#   /rag/extract-image – 10 requests / minute  (OCR processing)
+# ---------------------------------------------------------------------------
+
+
 @rag_router.post("/query", response_model=QueryResponse)
+@limiter.limit("10/minute")
 async def query(
+    request: Request,
     query_request: QueryRequest,
     rag_service: RAGService = Depends(get_rag_service),
     x_openrouter_api_key: Optional[str] = Header(None, alias="X-OpenRouter-API-Key"),
@@ -27,6 +38,7 @@ async def query(
     Query the RAG system with a text query.
 
     Args:
+        request: The incoming HTTP request (required by rate limiter)
         query_request: The query request containing the query text and top_k
         rag_service: The RAG service dependency
 
@@ -38,20 +50,23 @@ async def query(
 
 
 @rag_router.post("/extract-url", response_model=URLExtractResponse)
-async def extract_url(request: URLExtractRequest) -> URLExtractResponse:
+@limiter.limit("15/minute")
+async def extract_url(request: Request, url_request: URLExtractRequest) -> URLExtractResponse:
     """
     Extract text content from a URL (article, webpage).
     Returns extracted text that can be reviewed before querying.
     """
     try:
-        result = extract_text_from_url(request.url)
+        result = extract_text_from_url(url_request.url)
         return URLExtractResponse(**result)
     except ValueError as e:
         raise HTTPException(status_code=400, detail=str(e))
 
 
 @rag_router.post("/extract-image", response_model=ImageExtractResponse)
+@limiter.limit("10/minute")
 async def extract_image(
+    request: Request,
     file: UploadFile = File(..., description="Image file to extract text from"),
 ) -> ImageExtractResponse:
     """
