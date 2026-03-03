@@ -9,11 +9,16 @@ from unittest.mock import MagicMock, patch
 import pytest
 
 
+# Helper: patch both the SSRF validator (needs DNS) and requests.get
+_PATCH_SSRF = patch("src.rag.input_processing._validate_url_target")
+
+
 # ── URL Extraction ───────────────────────────────────────────────────
 
 class TestExtractTextFromUrl:
+    @_PATCH_SSRF
     @patch("src.rag.input_processing.requests.get")
-    def test_valid_article_extraction(self, mock_get):
+    def test_valid_article_extraction(self, mock_get, _mock_ssrf):
         """Extracts text from a well-structured HTML page."""
         mock_response = MagicMock()
         mock_response.status_code = 200
@@ -42,8 +47,9 @@ class TestExtractTextFromUrl:
         assert result["page_title"] == "Test Article"
         assert len(result["extracted_text"]) > 0
 
+    @_PATCH_SSRF
     @patch("src.rag.input_processing.requests.get")
-    def test_empty_page_raises(self, mock_get):
+    def test_empty_page_raises(self, mock_get, _mock_ssrf):
         """Raises ValueError when page has no extractable text."""
         mock_response = MagicMock()
         mock_response.status_code = 200
@@ -56,8 +62,9 @@ class TestExtractTextFromUrl:
         with pytest.raises(ValueError, match="No text content"):
             extract_text_from_url("https://example.com/empty")
 
+    @_PATCH_SSRF
     @patch("src.rag.input_processing.requests.get")
-    def test_timeout_raises(self, mock_get):
+    def test_timeout_raises(self, mock_get, _mock_ssrf):
         """Raises ValueError on request timeout."""
         import requests
 
@@ -68,8 +75,9 @@ class TestExtractTextFromUrl:
         with pytest.raises(ValueError, match="timed out"):
             extract_text_from_url("https://example.com/slow")
 
+    @_PATCH_SSRF
     @patch("src.rag.input_processing.requests.get")
-    def test_connection_error_raises(self, mock_get):
+    def test_connection_error_raises(self, mock_get, _mock_ssrf):
         """Raises ValueError on connection failure."""
         import requests
 
@@ -80,8 +88,9 @@ class TestExtractTextFromUrl:
         with pytest.raises(ValueError, match="Could not connect"):
             extract_text_from_url("https://nonexistent.invalid")
 
+    @_PATCH_SSRF
     @patch("src.rag.input_processing.requests.get")
-    def test_http_error_raises(self, mock_get):
+    def test_http_error_raises(self, mock_get, _mock_ssrf):
         """Raises ValueError for HTTP error status codes."""
         import requests
 
@@ -97,8 +106,9 @@ class TestExtractTextFromUrl:
         with pytest.raises(ValueError, match="HTTP error"):
             extract_text_from_url("https://example.com/missing")
 
+    @_PATCH_SSRF
     @patch("src.rag.input_processing.requests.get")
-    def test_long_article_truncated(self, mock_get):
+    def test_long_article_truncated(self, mock_get, _mock_ssrf):
         """Articles longer than 8000 chars are truncated."""
         long_paragraph = "<p>" + ("A" * 200 + " ") * 50 + "</p>"
         mock_response = MagicMock()
@@ -111,6 +121,26 @@ class TestExtractTextFromUrl:
 
         result = extract_text_from_url("https://example.com/long")
         assert "[Article truncated...]" in result["extracted_text"]
+
+    # ── SSRF Protection Tests ─────────────────────────────────────────
+
+    def test_ssrf_blocks_localhost(self):
+        """SSRF guard blocks localhost URLs."""
+        from src.rag.input_processing import _validate_url_target
+
+        with pytest.raises(ValueError, match="not allowed"):
+            _validate_url_target("http://localhost:8080/admin")
+
+    @patch("src.rag.input_processing.socket.getaddrinfo")
+    def test_ssrf_blocks_private_ip(self, mock_dns):
+        """SSRF guard blocks URLs that resolve to private IPs."""
+        mock_dns.return_value = [
+            (2, 1, 6, "", ("192.168.1.1", 0)),
+        ]
+        from src.rag.input_processing import _validate_url_target
+
+        with pytest.raises(ValueError, match="private/internal"):
+            _validate_url_target("https://evil-redirect.com/steal")
 
 
 # ── Image / OCR Extraction ───────────────────────────────────────────

@@ -21,6 +21,9 @@ services:
       - APP_OPENROUTER_LLM_MODEL=${APP_OPENROUTER_LLM_MODEL}
       - APP_OPENROUTER_EMBEDDING_MODEL=${APP_OPENROUTER_EMBEDDING_MODEL}
       - APP_EMBED_DIM=${APP_EMBED_DIM}
+      # Security / Deployment
+      - APP_ENVIRONMENT=${APP_ENVIRONMENT:-production}
+      - APP_CORS_ORIGINS=${APP_CORS_ORIGINS:-}
     volumes:
       - ./logs:/app/logs
       - ./data:/app/data

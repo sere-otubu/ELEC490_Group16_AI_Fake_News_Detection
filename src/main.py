@@ -2,14 +2,24 @@ import logging
 from contextlib import asynccontextmanager
 from datetime import datetime
 from pathlib import Path
+
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
+from slowapi import _rate_limit_exceeded_handler
+from slowapi.errors import RateLimitExceeded
+
+from src.config import settings
 from src.history.routes import history_router
 from src.rag.routes import rag_router
 from src.schemas import APIInfoResponse, HealthCheckResponse
+from src.security import SecurityHeadersMiddleware, limiter
 
+
+# =============================================================================
+# Logging
+# =============================================================================
 
 def setup_logging():
     """Configure logging to save to timestamped files."""
@@ -36,6 +46,10 @@ def setup_logging():
 logger = setup_logging()
 
 
+# =============================================================================
+# App Factory
+# =============================================================================
+
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     logger.info("🚀 Capstone API server started successfully")
@@ -44,23 +58,57 @@ async def lifespan(app: FastAPI):
     logger.info("🛑 Capstone API server shutting down")
 
 
+# Conditionally disable interactive docs in production
+_docs_url = "/docs" if settings.is_development else None
+_redoc_url = "/redoc" if settings.is_development else None
+
 app = FastAPI(
     title="Capstone API",
     description="A RAG-based chat system for Medical Misinformation Detection",
     version="1.0.0",
-    docs_url="/docs",
-    redoc_url="/redoc",
+    docs_url=_docs_url,
+    redoc_url=_redoc_url,
     lifespan=lifespan,
 )
 
+# Attach rate limiter to the app
+app.state.limiter = limiter
+app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)
+
+
+# =============================================================================
+# CORS — tightened to known origins
+# =============================================================================
+
+_cors_origins: list[str] = settings.cors_origin_list
+
+if not _cors_origins:
+    if settings.is_development:
+        # Wide-open during local development only
+        _cors_origins = ["*"]
+        logger.warning("CORS: allowing ALL origins (development mode)")
+    else:
+        # Production: same-origin only (empty list = no extra origins allowed)
+        _cors_origins = []
+        logger.info("CORS: same-origin only (no extra origins configured)")
+else:
+    logger.info(f"CORS: allowing origins {_cors_origins}")
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=_cors_origins,
     allow_credentials=False,
-    allow_methods=["*"],
-    allow_headers=["*"],
+    allow_methods=["GET", "POST", "OPTIONS"],
+    allow_headers=["Content-Type", "X-OpenRouter-API-Key"],
 )
 
+# Security headers
+app.add_middleware(SecurityHeadersMiddleware)
+
+
+# =============================================================================
+# Request Logging Middleware
+# =============================================================================
 
 @app.middleware("http")
 async def log_requests(request: Request, call_next):
@@ -84,6 +132,10 @@ async def log_requests(request: Request, call_next):
     return response
 
 
+# =============================================================================
+# Routers
+# =============================================================================
+
 app.include_router(history_router)
 app.include_router(rag_router)
 
@@ -100,8 +152,6 @@ async def root() -> APIInfoResponse:
         description="A RAG-based chat system for Medical Misinformation Detection",
         version="1.0.0",
         endpoints={
-            "docs": "/docs",
-            "redoc": "/redoc",
             "health": "/health",
             "rag": "/rag",
             "history": "/history",
@@ -132,7 +182,7 @@ async def internal_server_error_handler(
         content={
             "error": "Internal Server Error",
             "message": "An unexpected error occurred. Please try again later.",
-            "detail": str(exc) if app.debug else None,
+            "detail": str(exc) if settings.is_development else None,
         },
     )
 

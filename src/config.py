@@ -68,7 +68,34 @@ class Settings(BaseSettings):
         default="openai/text-embedding-3-small", description="OpenRouter embedding model"
     )
 
+    # Security / deployment
+    ENVIRONMENT: str = Field(
+        default="production",
+        description="Deployment environment: 'development' or 'production'",
+    )
+    CORS_ORIGINS: str = Field(
+        default="",
+        description=(
+            "Comma-separated list of allowed CORS origins. "
+            "Leave empty to allow only same-origin requests in production. "
+            "Set to '*' for development."
+        ),
+    )
+
     DATA_FOLDER: Path = BASE_DIR / "data"
+
+    @property
+    def is_development(self) -> bool:
+        """True when running in development mode."""
+        return self.ENVIRONMENT.lower() in ("development", "dev")
+
+    @property
+    def cors_origin_list(self) -> list[str]:
+        """Parsed list of allowed CORS origins."""
+        raw = self.CORS_ORIGINS.strip()
+        if not raw:
+            return []
+        return [o.strip() for o in raw.split(",") if o.strip()]
 
     @property
     def database_url(self) -> str:

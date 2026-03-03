@@ -31,7 +31,12 @@ class QueryResponse(BaseModel):
 
 
 class QueryRequest(BaseModel):
-    query: str = Field(..., description="The query string to be processed.")
+    query: str = Field(
+        ...,
+        description="The query string to be processed.",
+        min_length=3,
+        max_length=2000,
+    )
     top_k: int = Field(3, description="Number of top results to return.", ge=1, le=5)
 
 
@@ -82,7 +87,12 @@ class HealthCheckResponse(BaseModel):
 class URLExtractRequest(BaseModel):
     """Request to extract text from a URL."""
 
-    url: str = Field(..., description="URL of the article/page to extract text from.")
+    url: str = Field(
+        ...,
+        description="URL of the article/page to extract text from.",
+        max_length=2048,
+        pattern=r"^https?://",
+    )
 
 
 class URLExtractResponse(BaseModel):

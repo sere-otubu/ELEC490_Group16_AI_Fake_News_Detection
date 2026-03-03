@@ -5,13 +5,57 @@ Handles extracting text from URLs (articles) and images (OCR).
 The extracted text can then be sent through the existing RAG pipeline.
 """
 
+import ipaddress
 import logging
 import re
+import socket
+from urllib.parse import urlparse
 
 import requests
 from bs4 import BeautifulSoup
 
 logger = logging.getLogger(__name__)
+
+
+# ---------------------------------------------------------------------------
+# SSRF Protection
+# ---------------------------------------------------------------------------
+
+_BLOCKED_HOSTS = {"localhost", "metadata.google.internal"}
+
+
+def _is_private_ip(ip_str: str) -> bool:
+    """Return True if *ip_str* resolves to a private / reserved address."""
+    try:
+        addr = ipaddress.ip_address(ip_str)
+        return addr.is_private or addr.is_reserved or addr.is_loopback or addr.is_link_local
+    except ValueError:
+        return False
+
+
+def _validate_url_target(url: str) -> None:
+    """Raise ValueError if *url* targets a private / internal host (SSRF guard)."""
+    parsed = urlparse(url)
+    hostname = parsed.hostname or ""
+
+    if not hostname:
+        raise ValueError("Invalid URL: no hostname found.")
+
+    # Block known internal hostnames
+    if hostname.lower() in _BLOCKED_HOSTS:
+        raise ValueError(f"Access to '{hostname}' is not allowed.")
+
+    # Resolve hostname and reject private IPs
+    try:
+        resolved_ips = socket.getaddrinfo(hostname, None)
+        for _family, _type, _proto, _canonname, sockaddr in resolved_ips:
+            ip = sockaddr[0]
+            if _is_private_ip(ip):
+                raise ValueError(
+                    f"URL resolves to a private/internal address ({ip}). Request blocked."
+                )
+    except socket.gaierror:
+        raise ValueError(f"Could not resolve hostname: {hostname}")
 
 
 def extract_text_from_url(url: str) -> dict[str, str]:
@@ -25,6 +69,9 @@ def extract_text_from_url(url: str) -> dict[str, str]:
         dict with keys: extracted_text, source_url, page_title
     """
     try:
+        # --- SSRF protection: block private / internal targets ---
+        _validate_url_target(url)
+
         headers = {
             "User-Agent": (
                 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -32,7 +79,7 @@ def extract_text_from_url(url: str) -> dict[str, str]:
                 "Chrome/120.0.0.0 Safari/537.36"
             )
         }
-        response = requests.get(url, headers=headers, timeout=15)
+        response = requests.get(url, headers=headers, timeout=15, allow_redirects=False)
         response.raise_for_status()
 
         soup = BeautifulSoup(response.text, "html.parser")
