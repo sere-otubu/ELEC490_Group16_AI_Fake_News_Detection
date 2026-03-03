@@ -1,0 +1,15 @@
+# Ignore node_modules to prevent Windows/Linux conflicts
+**/node_modules
+**/dist
+frontend/node_modules
+frontend/dist
+
+# Ignore other unnecessary files
+.git
+.env
+__pycache__
+*.pyc
+.DS_Store
+
+# Data folder - documents are stored in Supabase Storage
+data/

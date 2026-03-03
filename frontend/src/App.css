@@ -1,0 +1,27 @@
+#root {
+  min-height: 100vh;
+  min-height: 100dvh; /* Dynamic viewport height for mobile browsers */
+  width: 100%;
+  position: relative;
+}
+
+/* Ensure proper rendering on all browsers */
+* {
+  box-sizing: border-box;
+}
+
+/* Prevent text selection on UI elements where not needed */
+button, .no-select {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Better touch targets for mobile */
+@media (max-width: 768px) {
+  button, a, input[type="button"], input[type="submit"] {
+    min-height: 44px;
+    min-width: 44px;
+  }
+}
