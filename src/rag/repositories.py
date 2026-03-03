@@ -76,6 +76,14 @@ class OpenRouterEmbedding(BaseEmbedding):
                 # Check for HTTP errors before parsing
                 if response.status_code != 200:
                     logger.warning(f"Embedding API attempt {attempt + 1} failed (Status {response.status_code}): {response.text}")
+                    
+                    # Handle 401 Unauthorized specifically
+                    if response.status_code == 401:
+                        raise ValueError(
+                            "Invalid OpenRouter API key. Please check your API key and try again. "
+                            "You can get a valid API key from https://openrouter.ai/keys"
+                        )
+                    
                     if response.status_code in [429, 502, 503, 504]:
                         import time
                         time.sleep(retry_delay * (2 ** attempt))
