@@ -1,8 +1,9 @@
-import { StrictMode, lazy, Suspense } from "react";
+import { StrictMode, lazy, Suspense, useState, useEffect } from "react";
 import { createRoot } from "react-dom/client";
 import "./index.css";
 import { SWRProvider } from "./providers/SWRProvider.tsx";
 import { Loader2 } from "lucide-react";
+import WelcomeScreen from "./components/WelcomeScreen.tsx";
 
 // Lazy load the main App component for code splitting
 const App = lazy(() => import("./App.tsx"));
@@ -17,12 +18,41 @@ export const LoadingFallback = () => (
   </div>
 );
 
+// Root component to manage tutorial state
+function Root() {
+  const [startTutorial, setStartTutorial] = useState(false);
+
+  useEffect(() => {
+    // Listen for tutorial start event
+    const handleTutorialStart = () => setStartTutorial(true);
+    window.addEventListener('startTutorial', handleTutorialStart);
+    return () => window.removeEventListener('startTutorial', handleTutorialStart);
+  }, []);
+
+  const handleAnalyzeStart = () => {
+    // Mark that user chose to analyze (skip tutorial)
+    localStorage.setItem('skippedTutorial', 'true');
+  };
+
+  return (
+    <WelcomeScreen 
+      onTutorialStart={() => setStartTutorial(true)}
+      onAnalyzeStart={handleAnalyzeStart}
+    >
+      <Suspense fallback={<LoadingFallback />}>
+        <App 
+          startTutorial={startTutorial} 
+          onTutorialEnd={() => setStartTutorial(false)}
+        />
+      </Suspense>
+    </WelcomeScreen>
+  );
+}
+
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
     <SWRProvider>
-      <Suspense fallback={<LoadingFallback />}>
-        <App />
-      </Suspense>
+      <Root />
     </SWRProvider>
   </StrictMode>
 );
