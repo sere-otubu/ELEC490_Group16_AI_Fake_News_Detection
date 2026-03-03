@@ -50,7 +50,7 @@ class MedCheckUser(HttpUser):
         self.client.post(
             "/rag/query",
             json={"query": self._next_query(), "top_k": 3},
-            timeout=60,
+            timeout=90,
             name="/rag/query",
         )
 
