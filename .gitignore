@@ -47,3 +47,4 @@ data/*
 # Test results (generated, local only)
 tests/results/
 tests/*.txt
+tests/load/results_*.csv
