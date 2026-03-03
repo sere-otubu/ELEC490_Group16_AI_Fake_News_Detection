@@ -97,6 +97,7 @@ else:
 app.add_middleware(
     CORSMiddleware,
     allow_origins=_cors_origins,
+    allow_origin_regex=r"^chrome-extension://.*",  # Allow all chrome extensions (works for any unpacked extension ID)
     allow_credentials=False,
     allow_methods=["GET", "POST", "OPTIONS"],
     allow_headers=["Content-Type", "X-OpenRouter-API-Key"],
