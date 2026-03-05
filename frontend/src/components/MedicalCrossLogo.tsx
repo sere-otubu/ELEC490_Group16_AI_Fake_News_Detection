@@ -1,19 +1,24 @@
+import { useMemo } from 'react';
+
 interface MedicalCrossLogoProps {
   size?: number;
   particleCount?: number;
 }
 
 export default function MedicalCrossLogo({ size = 120, particleCount = 24 }: MedicalCrossLogoProps) {
-  const particles = Array.from({ length: particleCount }, (_, i) => {
-    const angle = (Math.PI * 2 * i) / particleCount;
-    const distance = size * 0.4 + Math.random() * size * 0.15;
-    return {
-      x: Math.cos(angle) * distance,
-      y: Math.sin(angle) * distance,
-      size: 3 + Math.random() * 4,
-      delay: Math.random() * 0.5,
-    };
-  });
+  const particles = useMemo(() => 
+    Array.from({ length: particleCount }, (_, i) => {
+      const angle = (Math.PI * 2 * i) / particleCount;
+      const distance = size * 0.4 + Math.random() * size * 0.15;
+      return {
+        x: Math.cos(angle) * distance,
+        y: Math.sin(angle) * distance,
+        size: 3 + Math.random() * 4,
+        delay: Math.random() * 0.5,
+        floatDuration: 2 + Math.random(),
+      };
+    }), [size, particleCount]
+  );
 
   const colors = ['#4ea1ff', '#6bb3ff', '#3d8fff', '#5aa7ff', '#7dc4ff'];
 
@@ -22,7 +27,6 @@ export default function MedicalCrossLogo({ size = 120, particleCount = 24 }: Med
       {/* Animated Particles */}
       {particles.map((particle, i) => {
         const color = colors[i % colors.length];
-        const floatDuration = 2 + Math.random();
         const animationName = `float-${i}`;
         
         return (
@@ -36,7 +40,7 @@ export default function MedicalCrossLogo({ size = 120, particleCount = 24 }: Med
                 top: '50%',
                 backgroundColor: color,
                 transform: `translate(-50%, -50%) translate(${particle.x}px, ${particle.y}px)`,
-                animation: `particleFadeIn 0.8s ease-out ${particle.delay}s forwards, ${animationName} ${floatDuration}s ease-in-out ${0.8 + particle.delay}s infinite alternate`,
+                animation: `particleFadeIn 0.8s ease-out ${particle.delay}s forwards, ${animationName} ${particle.floatDuration}s ease-in-out ${0.8 + particle.delay}s infinite alternate`,
                 boxShadow: `0 0 10px ${color}80`,
                 opacity: 0,
               }}

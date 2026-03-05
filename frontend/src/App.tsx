@@ -38,6 +38,8 @@ import { apiClient } from "@/lib/api-client";
 import type { Message, SourceDocument } from "@/types/api";
 import Tutorial from "@/components/Tutorial";
 import MedicalCrossLogo from "@/components/MedicalCrossLogo";
+import AnimatedContent from "@/components/AnimatedContent";
+import { LightWavesBackground } from "@/components/LightWavesBackground";
 
 // Source Document Card Component
 interface SourceDocumentCardProps {
@@ -660,17 +662,19 @@ function App({ startTutorial = false, onTutorialEnd }: AppProps = {}) {
 
   return (
     <div className="relative min-h-screen overflow-hidden bg-background text-foreground">
-      {/* Background effects */}
-      <div aria-hidden="true" className="pointer-events-none absolute inset-0 overflow-hidden">
-        <div className="absolute -left-24 -top-20 h-80 w-80 rounded-full bg-primary/25 blur-3xl opacity-35" />
-        <div className="absolute right-[-10rem] top-1/4 h-[26rem] w-[26rem] rounded-full bg-secondary/20 blur-3xl opacity-45" />
-        <div className="absolute bottom-[-7rem] left-1/2 h-72 w-72 -translate-x-1/2 rounded-full bg-accent/20 blur-3xl opacity-35" />
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,#1c2331,transparent_55%)]" />
-      </div>
+      {/* Animated LightWaves Background */}
+      {useMemo(() => (
+        <LightWavesBackground 
+          colors={["#4ea1ff", "#8b5cf6", "#06b6d4", "#a855f7", "#0284c7"]} 
+          speed={0.4} 
+          intensity={0.3}
+        />
+      ), [])}
 
       <div className="relative z-10 flex min-h-screen flex-col">
-        <header className="sticky top-0 z-30 px-4 pt-4 lg:px-6">
-          <div className="mx-auto flex w-full max-w-7xl items-center justify-between gap-6 rounded-2xl border border-border/40 bg-background/60 px-6 py-4 shadow-lg shadow-black/5 backdrop-blur-xl backdrop-saturate-150 supports-[backdrop-filter]:bg-background/40 lg:px-8">
+        <AnimatedContent distance={40} direction="vertical" reverse={false} duration={1} delay={0}>
+          <header className="sticky top-0 z-30 px-4 pt-4 lg:px-6">
+            <div className="mx-auto flex w-full max-w-7xl items-center justify-between gap-6 rounded-2xl border border-border/40 bg-background/60 px-6 py-4 shadow-lg shadow-black/5 backdrop-blur-xl backdrop-saturate-150 supports-[backdrop-filter]:bg-background/40 lg:px-8">
             <div className="flex items-center gap-4">
               <div className="relative flex h-14 w-14 items-center justify-center">
                 <MedicalCrossLogo size={56} particleCount={12} />
@@ -683,27 +687,32 @@ function App({ startTutorial = false, onTutorialEnd }: AppProps = {}) {
               </div>
             </div>
             <div className="hidden items-center gap-2.5 lg:flex">
-              <div className="flex items-center gap-2 rounded-full border border-border/50 bg-card/50 px-3.5 py-1.5 shadow-sm backdrop-blur-sm">
-                <div className="relative flex h-2 w-2">
-                  <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-primary opacity-75"></span>
-                  <span className="relative inline-flex h-2 w-2 rounded-full bg-primary"></span>
+              <div className="relative rounded-full p-[2px] bg-gradient-to-r from-primary/40 to-secondary/40">
+                <div className="flex items-center gap-2 rounded-full bg-background/90 px-3.5 py-1.5 shadow-sm backdrop-blur-sm">
+                  <div className="relative flex h-2 w-2">
+                    <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-primary opacity-75"></span>
+                    <span className="relative inline-flex h-2 w-2 rounded-full bg-primary"></span>
+                  </div>
+                  <span className="text-[11px] font-medium tracking-wide text-foreground/90">Live Analysis</span>
                 </div>
-                <span className="text-[11px] font-medium tracking-wide text-foreground/90">Live Analysis</span>
               </div>
-              <div className="flex items-center gap-2 rounded-full border border-emerald-500/30 bg-emerald-500/10 px-3.5 py-1.5 shadow-sm backdrop-blur-sm">
-                <CheckCircle2 className="h-3.5 w-3.5 text-emerald-500" />
-                <span className="text-[11px] font-medium tracking-wide text-emerald-600 dark:text-emerald-400">Peer-reviewed</span>
+              <div className="relative rounded-full p-[2px] bg-gradient-to-r from-emerald-500/40 to-emerald-400/40">
+                <div className="flex items-center gap-2 rounded-full bg-background/90 px-3.5 py-1.5 shadow-sm backdrop-blur-sm">
+                  <CheckCircle2 className="h-3.5 w-3.5 text-emerald-500" />
+                  <span className="text-[11px] font-medium tracking-wide text-emerald-600 dark:text-emerald-400">Peer-reviewed</span>
+                </div>
               </div>
             </div>
             <div className="flex items-center gap-2.5">
-              <Button
-                onClick={handleNewChat}
-                className="h-10 rounded-xl bg-gradient-to-r from-primary to-primary/90 px-5 text-[13px] font-semibold text-primary-foreground shadow-lg shadow-primary/25 transition-all hover:shadow-xl hover:shadow-primary/30 hover:scale-[1.02]"
-                data-tutorial="new-session"
-              >
-                <Plus className="mr-2 h-4 w-4" />
-                New Session
-              </Button>
+              <div className="relative rounded-xl p-[3px] bg-gradient-to-r from-primary to-secondary transition-all duration-400 hover:shadow-[0_0_1.2em_rgba(78,161,255,0.5)] active:shadow-[0_0_0.2em_rgba(78,161,255,0.5)]" data-tutorial="new-session">
+                <Button
+                  onClick={handleNewChat}
+                  className="h-10 rounded-[0.65rem] bg-background px-5 text-[13px] font-semibold text-foreground transition-all hover:bg-background/95"
+                >
+                  <Plus className="mr-2 h-4 w-4" />
+                  New Session
+                </Button>
+              </div>
               <Button
                 variant="ghost"
                 size="icon"
@@ -716,82 +725,227 @@ function App({ startTutorial = false, onTutorialEnd }: AppProps = {}) {
             </div>
           </div>
         </header>
+        </AnimatedContent>
 
         <div className="mx-auto flex w-full max-w-7xl flex-1 flex-col px-4 pb-6 pt-4 lg:px-6">
           <div className="grid flex-1 gap-4 lg:grid-cols-[minmax(0,1fr)_380px]">
-            <section className="flex min-w-0 flex-col gap-4">
-              <div className="flex min-h-0 flex-1 flex-col overflow-hidden rounded-2xl border border-border/40 bg-background/60 shadow-lg shadow-black/5 backdrop-blur-xl backdrop-saturate-150" data-tutorial="conversation">
+            <AnimatedContent distance={40} direction="vertical" reverse={false} duration={1} delay={0.15} className="flex min-w-0">
+              <section className="flex min-w-0 flex-1 flex-col gap-4">
+                <div className="flex min-h-0 flex-1 flex-col overflow-hidden rounded-2xl border border-border/40 bg-background/60 shadow-lg shadow-black/5 backdrop-blur-xl backdrop-saturate-150" data-tutorial="conversation">
                 <div className="border-b border-border/40 px-6 py-4">
                   <div className="flex items-center justify-between">
                     <div>
                       <p className="text-[11px] font-medium uppercase tracking-wide text-muted-foreground/80">Verification</p>
                       <h2 className="font-display text-lg font-bold tracking-tight">Current Analysis</h2>
                     </div>
-                    <div className="hidden items-center gap-2 rounded-full border border-border/50 bg-card/50 px-3.5 py-1.5 text-[11px] font-medium tracking-wide text-foreground/90 shadow-sm backdrop-blur-sm md:flex">
-                      <div className="relative flex h-2 w-2">
-                        <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-primary opacity-75"></span>
-                        <span className="relative inline-flex h-2 w-2 rounded-full bg-primary"></span>
+                    <div className="hidden md:flex relative rounded-full p-[2px] bg-gradient-to-r from-primary/30 to-secondary/30">
+                      <div className="flex items-center gap-2 rounded-full bg-background/90 px-3.5 py-1.5 text-[11px] font-medium tracking-wide text-foreground/90 shadow-sm backdrop-blur-sm">
+                        <div className="relative flex h-2 w-2">
+                          <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-primary opacity-75"></span>
+                          <span className="relative inline-flex h-2 w-2 rounded-full bg-primary"></span>
+                        </div>
+                        Real-time analysis
                       </div>
-                      Real-time analysis
                     </div>
                   </div>
                 </div>
 
-                <ScrollArea className="flex-1 px-4 pb-3 pt-4">
-                  <div className="flex flex-col gap-5">
-                    {showWelcomeState && (
-                      <div className="rounded-xl border border-border/70 bg-background/60 p-6" data-tutorial="suggestions">
-                        <div className="flex items-center gap-3">
-                          <Stethoscope className="h-6 w-6 text-primary" />
-                          <div>
-                            <h3 className="font-display text-xl font-semibold">Claim Intake</h3>
-                            <p className="text-[12px] text-muted-foreground">
-                              Submit one medical claim for evidence-based verification.
-                            </p>
+                <ScrollArea className="flex-1 px-6 pb-4 pt-6">
+                  {showWelcomeState && (
+                    <div className="rounded-xl border border-border/70 bg-background/60 p-6" data-tutorial="suggestions">
+                      <div className="flex items-center gap-3">
+                        <Stethoscope className="h-6 w-6 text-primary" />
+                        <div>
+                          <h3 className="font-display text-xl font-semibold">Claim Intake</h3>
+                          <p className="text-[12px] text-muted-foreground">
+                            Submit one medical claim for evidence-based verification.
+                          </p>
+                        </div>
+                      </div>
+                      <div className="mt-4 grid gap-2 sm:grid-cols-2">
+                        {suggestionPills.map((suggestion) => (
+                          <Button
+                            key={suggestion}
+                            type="button"
+                            variant="outline"
+                            size="sm"
+                            onClick={() => handleSuggestionClick(suggestion)}
+                            className="h-9 rounded-lg border-border/60 bg-background/70 text-[12px] text-foreground/90 transition hover:border-primary/50 hover:bg-primary/10"
+                          >
+                            <CheckCircle2 className="mr-2 h-4 w-4 text-primary" />
+                            {suggestion}
+                          </Button>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+
+                  {currentMessages.length === 0 && !showWelcomeState ? (
+                    <div className="flex flex-col items-center justify-center gap-3 rounded-xl border border-border/70 bg-background/60 p-8 text-center text-[12px] text-muted-foreground">
+                      <Bot className="h-8 w-8 text-muted-foreground" />
+                      Run a claim verification to view the analysis report here.
+                    </div>
+                  ) : currentMessages.length > 0 ? (
+                    <div className="space-y-6">
+                      {(() => {
+                        const userMessage = currentMessages.find(m => m.type === "user");
+                        const assistantMessage = currentMessages.find(m => m.type === "assistant");
+                        
+                        if (!userMessage) return null;
+
+                        const parsedMessage = assistantMessage ? (() => {
+                          const text = assistantMessage.content;
+                          const sanitized = text.replace(/\*\*/g, "");
+
+                          const verdictMatch = sanitized.match(/Verdict\s*[:]\s*\[?([^\]\n]+)\]?/i);
+                          const reasoningMatch = sanitized.match(/Reasoning\s*[:]\s*([^\n]+(?:\n(?!\w+\s*:)[^\n]+)*)/i);
+                          const evidenceMatch = sanitized.match(/Evidence\s*[:]\s*["']?([^"'\n]+(?:\n(?!\w+\s*:)[^\n]+)*)["']?/i);
+
+                          return {
+                            verdict: verdictMatch ? verdictMatch[1].trim() : null,
+                            reasoning: reasoningMatch ? reasoningMatch[1].trim() : null,
+                            evidence: evidenceMatch ? evidenceMatch[1].trim() : null,
+                          };
+                        })() : null;
+
+                        const getVerdictStyle = (verdict: string | null) => {
+                          if (!verdict) return { bg: "bg-muted", text: "text-muted-foreground", border: "border-muted", icon: AlertCircle };
+
+                          const v = verdict.toLowerCase();
+                          if (v.includes("accurate") && !v.includes("inaccurate") && !v.includes("partially")) {
+                            return { bg: "bg-emerald-500/15", text: "text-emerald-400", border: "border-emerald-500/30", icon: CheckCircle2 };
+                          }
+                          if (v.includes("partially accurate")) {
+                            return { bg: "bg-amber-500/15", text: "text-amber-400", border: "border-amber-500/30", icon: AlertTriangle };
+                          }
+                          if (
+                            v.includes("misleading") ||
+                            v.includes("inaccurate") ||
+                            v.includes("not supported") ||
+                            v.includes("false")
+                          ) {
+                            return { bg: "bg-red-500/15", text: "text-red-400", border: "border-red-500/30", icon: XCircle };
+                          }
+                          if (v.includes("irrelevant")) {
+                            return { bg: "bg-muted", text: "text-muted-foreground", border: "border-muted", icon: AlertCircle };
+                          }
+                          return { bg: "bg-muted", text: "text-muted-foreground", border: "border-muted", icon: AlertCircle };
+                        };
+
+                        const getConfidenceBarClass = (score: number) => {
+                          if (score < 40) return "bg-gradient-to-r from-red-500 to-red-400";
+                          if (score < 70) return "bg-gradient-to-r from-amber-500 to-amber-400";
+                          return "bg-gradient-to-r from-emerald-500 to-emerald-400";
+                        };
+
+                        const confidenceScore = assistantMessage ? parseConfidenceScore(assistantMessage.content) : null;
+
+                        return (
+                          <div className="rounded-xl border border-border/70 bg-card/90 shadow-xl">
+                            <div className="border-b border-border/50 bg-muted/30 px-6 py-4">
+                              <div className="flex items-center gap-2 text-[11px] font-semibold uppercase tracking-wide text-muted-foreground">
+                                <FileText className="h-4 w-4" />
+                                Claim Under Review
+                              </div>
+                              <p className="mt-2 text-[15px] leading-relaxed text-foreground">
+                                {userMessage.content}
+                              </p>
+                            </div>
+
+                            {assistantMessage && parsedMessage ? (
+                              <div className="space-y-6 p-6">
+                                <div>
+                                  <div className="mb-3 text-[11px] font-semibold uppercase tracking-wide text-muted-foreground">
+                                    Fact-Check Verdict
+                                  </div>
+                                  {parsedMessage.verdict && (() => {
+                                    const style = getVerdictStyle(parsedMessage.verdict);
+                                    const VerdictIcon = style.icon;
+                                    return (
+                                      <div className={`inline-flex items-center gap-3 rounded-xl border px-6 py-3 ${style.bg} ${style.border}`}>
+                                        <VerdictIcon className={`h-6 w-6 ${style.text}`} />
+                                        <span className={`text-[16px] font-bold uppercase tracking-wide ${style.text}`}>
+                                          {parsedMessage.verdict}
+                                        </span>
+                                      </div>
+                                    );
+                                  })()}
+                                </div>
+
+                                {parsedMessage.reasoning && (
+                                  <div>
+                                    <div className="mb-2 text-[11px] font-semibold uppercase tracking-wide text-muted-foreground">
+                                      Analysis
+                                    </div>
+                                    <p className="text-[14px] leading-relaxed text-foreground/90">
+                                      {parsedMessage.reasoning}
+                                    </p>
+                                  </div>
+                                )}
+
+                                {confidenceScore !== null && confidenceScore !== undefined && (
+                                  <div className="rounded-lg border border-border/50 bg-muted/20 p-4">
+                                    <div className="mb-3 flex items-center justify-between">
+                                      <span className="text-[11px] font-semibold uppercase tracking-wide text-muted-foreground">
+                                        Confidence Level
+                                      </span>
+                                      <span className="font-mono text-[15px] font-bold text-foreground">
+                                        {confidenceScore.toFixed(0)}%
+                                      </span>
+                                    </div>
+                                    <div className="h-3 w-full overflow-hidden rounded-full bg-muted/70">
+                                      <div
+                                        className={`h-full rounded-full transition-all duration-1000 ease-out ${getConfidenceBarClass(confidenceScore)}`}
+                                        style={{ width: `${confidenceScore}%` }}
+                                      />
+                                    </div>
+                                  </div>
+                                )}
+
+                                <div className="border-t border-border/30 pt-4">
+                                  <div className="text-[10px] text-muted-foreground">
+                                    Verified: {new Date(assistantMessage.timestamp).toLocaleString()}
+                                  </div>
+                                </div>
+                              </div>
+                            ) : null}
                           </div>
-                        </div>
-                        <div className="mt-4 grid gap-2 sm:grid-cols-2">
-                          {suggestionPills.map((suggestion) => (
-                            <Button
-                              key={suggestion}
-                              type="button"
-                              variant="outline"
-                              size="sm"
-                              onClick={() => handleSuggestionClick(suggestion)}
-                              className="h-9 rounded-lg border-border/60 bg-background/70 text-[12px] text-foreground/90 transition hover:border-primary/50 hover:bg-primary/10"
-                            >
-                              <CheckCircle2 className="mr-2 h-4 w-4 text-primary" />
-                              {suggestion}
-                            </Button>
-                          ))}
-                        </div>
-                      </div>
-                    )}
+                        );
+                      })()}
+                    </div>
+                  ) : null}
 
-                    {currentMessages.length === 0 && !showWelcomeState ? (
-                      <div className="flex flex-col items-center justify-center gap-3 rounded-xl border border-border/70 bg-background/60 p-8 text-center text-[12px] text-muted-foreground">
-                        <Bot className="h-8 w-8 text-muted-foreground" />
-                        Run a claim verification to view the analysis report here.
-                      </div>
-                    ) : (
-                      currentMessages.map((message) => (
-                        <MessageItem key={message.id} message={message} />
-                      ))
-                    )}
-
-                    {isSendingMessage && (
-                      <div className="max-w-[92%] rounded-xl border border-border/70 bg-background/70 px-4 py-3">
-                        <div className="flex items-center gap-2 text-[10px] uppercase tracking-wide text-muted-foreground/80">
-                          <Shield className="h-3 w-3 text-primary" />
-                          <span>Evidence Engine</span>
+                  {isSendingMessage && (
+                    <div className="flex min-h-[400px] flex-col items-center justify-center">
+                      <div className="relative flex h-24 w-24 items-center justify-center">
+                        {/* Animated gradient rings */}
+                        <div className="absolute h-24 w-24 animate-spin rounded-full bg-gradient-to-r from-primary/20 via-secondary/20 to-primary/20 p-1" style={{ animationDuration: '6s' }}>
+                          <div className="h-full w-full rounded-full bg-background/80 backdrop-blur-sm"></div>
                         </div>
-                        <div className="mt-2 flex items-center gap-2 text-[12px]">
-                          <Loader2 className="h-4 w-4 animate-spin text-primary" />
-                          Running verification...
+                        <div className="absolute h-16 w-16 animate-spin rounded-full bg-gradient-to-r from-secondary/30 via-primary/30 to-secondary/30 p-1" style={{ animationDuration: '4s', animationDirection: 'reverse' }}>
+                          <div className="h-full w-full rounded-full bg-background/90 backdrop-blur-sm"></div>
+                        </div>
+                        <div className="absolute h-10 w-10 animate-spin rounded-full bg-gradient-to-r from-primary/40 via-secondary/40 to-primary/40 p-1" style={{ animationDuration: '3s' }}>
+                          <div className="h-full w-full rounded-full bg-background"></div>
+                        </div>
+                        {/* Center glow */}
+                        <div className="absolute h-3 w-3 rounded-full bg-gradient-to-r from-primary to-secondary animate-pulse shadow-[0_0_20px_rgba(78,161,255,0.5)]" style={{ animationDuration: '2s' }}></div>
+                      </div>
+                      <div className="mt-8 text-center">
+                        <p className="text-[15px] font-medium text-foreground mb-2">
+                          Analyzing claim...
+                        </p>
+                        <p className="text-[12px] text-muted-foreground/70">
+                          Searching medical literature
+                        </p>
+                        <div className="mt-4 flex items-center justify-center gap-2">
+                          <div className="h-1 w-1 rounded-full bg-primary/60 animate-pulse" style={{ animationDelay: '0s', animationDuration: '2s' }}></div>
+                          <div className="h-1 w-1 rounded-full bg-secondary/60 animate-pulse" style={{ animationDelay: '0.4s', animationDuration: '2s' }}></div>
+                          <div className="h-1 w-1 rounded-full bg-primary/60 animate-pulse" style={{ animationDelay: '0.8s', animationDuration: '2s' }}></div>
                         </div>
                       </div>
-                    )}
-                  </div>
+                    </div>
+                  )}
                 </ScrollArea>
 
                 <div className="border-t border-border/40 bg-background/60 px-6 py-4 backdrop-blur-xl backdrop-saturate-150">
@@ -815,16 +969,18 @@ function App({ startTutorial = false, onTutorialEnd }: AppProps = {}) {
                         <p className="text-[12px] text-muted-foreground/90 max-w-md">
                           Verification is complete. Submit a new claim to run a separate, independent analysis.
                         </p>
-                        <Button
-                          onClick={handleNewChat}
-                          className="h-10 rounded-xl bg-gradient-to-r from-primary to-primary/90 px-5 text-[13px] font-semibold text-primary-foreground shadow-lg shadow-primary/25 transition-all hover:shadow-xl hover:shadow-primary/30 hover:scale-[1.02]"
-                        >
-                          <Plus className="mr-2 h-4 w-4" />
-                          Analyze New Claim
-                        </Button>
+                        <div className="relative rounded-xl p-[3px] bg-gradient-to-r from-primary to-secondary transition-all duration-400 hover:shadow-[0_0_1.2em_rgba(78,161,255,0.5)] active:shadow-[0_0_0.2em_rgba(78,161,255,0.5)]">
+                          <Button
+                            onClick={handleNewChat}
+                            className="h-10 rounded-[0.65rem] bg-background px-5 text-[13px] font-semibold text-foreground transition-all hover:bg-background/95"
+                          >
+                            <Plus className="mr-2 h-4 w-4" />
+                            Analyze New Claim
+                          </Button>
+                        </div>
                       </div>
                     </div>
-                  ) : (
+                  ) : !isSendingMessage ? (
                     <div className="flex flex-col gap-2">
                       {/* Extraction error */}
                       {extractError && (
@@ -896,7 +1052,7 @@ function App({ startTutorial = false, onTutorialEnd }: AppProps = {}) {
                       )}
 
                       {/* Main input row */}
-                      <div className="flex flex-col gap-2 sm:flex-row items-end" data-tutorial="input">
+                      <div className="flex flex-col gap-2 sm:flex-row sm:items-center" data-tutorial="input">
                         <div className="relative flex-1 w-full">
                           <Textarea
                             placeholder={isListening ? "Listening... speak your claim" : "Enter a medical claim to verify..."}
@@ -914,20 +1070,30 @@ function App({ startTutorial = false, onTutorialEnd }: AppProps = {}) {
                             </kbd>
                           </div>
                         </div>
-                        <Button
-                          onClick={handleSendMessage}
-                          className="h-12 rounded-xl bg-gradient-to-r from-primary to-primary/90 px-6 text-[13px] font-semibold text-primary-foreground shadow-lg shadow-primary/25 transition-all hover:shadow-xl hover:shadow-primary/30 hover:scale-[1.02]"
-                          disabled={!inputMessage.trim() || isSendingMessage || isProcessing}
-                        >
-                          {isSendingMessage ? (
-                            <Loader2 className="h-4 w-4 animate-spin" />
-                          ) : (
-                            <>
-                              <Send className="mr-2 h-4 w-4" />
-                              Run Verification
-                            </>
-                          )}
-                        </Button>
+                        <div className={`relative rounded-xl p-[3px] transition-all duration-400 ${
+                          !inputMessage.trim() || isSendingMessage || isProcessing
+                            ? 'bg-muted/50'
+                            : 'bg-gradient-to-r from-primary to-secondary hover:shadow-[0_0_1.2em_rgba(78,161,255,0.5)] active:shadow-[0_0_0.2em_rgba(78,161,255,0.5)]'
+                        }`}>
+                          <Button
+                            onClick={handleSendMessage}
+                            className={`h-[48px] rounded-[0.65rem] bg-background px-5 text-[13px] font-semibold transition-all hover:bg-background/95 ${
+                              !inputMessage.trim() || isSendingMessage || isProcessing
+                                ? 'text-muted-foreground cursor-not-allowed'
+                                : 'text-foreground'
+                            }`}
+                            disabled={!inputMessage.trim() || isSendingMessage || isProcessing}
+                          >
+                            {isSendingMessage ? (
+                              <Loader2 className="h-4 w-4 animate-spin" />
+                            ) : (
+                              <>
+                                <Send className="mr-2 h-4 w-4" />
+                                Run Verification
+                              </>
+                            )}
+                          </Button>
+                        </div>
                       </div>
 
                       {/* Multi-modal toolbar */}
@@ -1001,7 +1167,7 @@ function App({ startTutorial = false, onTutorialEnd }: AppProps = {}) {
                         </div>
                       </div>
                     </div>
-                  )}
+                  ) : null}
 
                   {/* Persistent disclaimer */}
                   <div className="mt-3 flex items-start gap-2 rounded-lg border border-border/40 bg-muted/30 px-3 py-2.5 text-[11px] sm:text-[12px] text-muted-foreground">
@@ -1013,17 +1179,21 @@ function App({ startTutorial = false, onTutorialEnd }: AppProps = {}) {
                 </div>
               </div>
             </section>
+            </AnimatedContent>
 
-            <aside className="flex flex-col gap-4" data-tutorial="sources">
+            <AnimatedContent distance={40} direction="vertical" reverse={false} duration={1} delay={0.3} className="flex">
+            <aside className="flex flex-1 flex-col gap-4" data-tutorial="sources">
               <div className="rounded-2xl border border-border/40 bg-background/60 p-5 shadow-lg shadow-black/5 backdrop-blur-xl backdrop-saturate-150">
                 <div className="flex items-center justify-between">
                   <div>
                     <p className="text-[11px] font-medium uppercase tracking-wide text-muted-foreground/80">Sources</p>
                     <h3 className="font-display text-lg font-bold tracking-tight">Evidence Stack</h3>
                   </div>
-                  <span className="rounded-full border border-border/50 bg-card/50 px-3 py-1 text-[10px] font-medium uppercase tracking-wide text-foreground/90 shadow-sm backdrop-blur-sm">
-                    {metrics.sources} docs
-                  </span>
+                  <div className="relative rounded-full p-[2px] bg-gradient-to-r from-primary/30 to-secondary/30">
+                    <span className="flex rounded-full bg-background/90 px-3 py-1 text-[10px] font-medium uppercase tracking-wide text-foreground/90 shadow-sm backdrop-blur-sm">
+                      {metrics.sources} docs
+                    </span>
+                  </div>
                 </div>
               </div>
 
@@ -1045,6 +1215,7 @@ function App({ startTutorial = false, onTutorialEnd }: AppProps = {}) {
                 </ScrollArea>
               </div>
             </aside>
+            </AnimatedContent>
           </div>
         </div>
       </div>
