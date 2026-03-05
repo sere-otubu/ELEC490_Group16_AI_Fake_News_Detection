@@ -44,7 +44,7 @@ export const LightWavesBackground = memo(function LightWavesBackground({
   const canvasRef = useRef<HTMLCanvasElement>(null)
   const containerRef = useRef<HTMLDivElement>(null)
   const wavesRef = useRef<Wave[]>([])
-  const animationRef = useRef<number>()
+  const animationRef = useRef<number | undefined>(undefined)
   const startTimeRef = useRef(Date.now())
 
   const initWaves = useCallback(
