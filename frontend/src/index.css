@@ -130,6 +130,39 @@
   @media (max-width: 768px) {
     body {
       -webkit-tap-highlight-color: transparent;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    
+    /* Better touch targets */
+    button, a, input, textarea, select, [role="button"] {
+      min-height: 44px;
+      min-width: 44px;
+    }
+    
+    /* Exceptions for small inline elements */
+    button:not([class*="h-"]):not([class*="w-"]),
+    .btn-icon,
+    [data-size="sm"] {
+      min-height: auto;
+      min-width: auto;
+    }
+    
+    /* Prevent horizontal scroll */
+    html, body {
+      overflow-x: hidden;
+      width: 100%;
+    }
+    
+    /* Better scrolling for mobile */
+    * {
+      -webkit-overflow-scrolling: touch;
+    }
+    
+    /* Fix viewport issues */
+    .min-h-screen {
+      min-height: 100vh;
+      min-height: 100dvh;
     }
   }
   

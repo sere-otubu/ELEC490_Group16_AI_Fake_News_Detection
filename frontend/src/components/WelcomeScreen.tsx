@@ -77,7 +77,7 @@ export default function WelcomeScreen({ children, onTutorialStart, onAnalyzeStar
           }}
         >
           {/* Medical Cross with Particles */}
-          <div className="relative flex items-center justify-center" style={{ width: '240px', height: '240px' }}>
+          <div className="relative flex items-center justify-center w-48 h-48 sm:w-56 sm:h-56 lg:w-60 lg:h-60">
             {/* Animated Particles */}
             {particles.map((particle, i) => {
               const colors = ['#4ea1ff', '#6bb3ff', '#3d8fff', '#5aa7ff', '#7dc4ff'];
@@ -103,7 +103,7 @@ export default function WelcomeScreen({ children, onTutorialStart, onAnalyzeStar
             
             {/* Medical Cross */}
             <div className="relative z-10 flex items-center justify-center">
-              <svg width="120" height="120" viewBox="0 0 120 120" fill="none">
+              <svg width="96" height="96" viewBox="0 0 120 120" fill="none" className="w-24 h-24">
                 <path
                   d="M45 0H75V45H120V75H75V120H45V75H0V45H45V0Z"
                   fill="#f1f4f9"
@@ -113,21 +113,21 @@ export default function WelcomeScreen({ children, onTutorialStart, onAnalyzeStar
           </div>
           
           {/* Text */}
-          <div className="flex flex-col items-center gap-6">
+          <div className="flex flex-col items-center gap-4 sm:gap-6 px-4">
             <div className="flex flex-col items-center gap-2">
-              <h1 className="text-6xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent font-display tracking-wide">
+              <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent font-display tracking-wide">
                 EvidenceMD
               </h1>
-              <p className="text-xl text-muted-foreground font-medium">
+              <p className="text-lg sm:text-xl text-muted-foreground font-medium">
                 Medical Claim Verifier
               </p>
             </div>
             
             {/* Buttons */}
-            <div className="flex items-center gap-4">
+            <div className="flex flex-col sm:flex-row items-center gap-3 sm:gap-4 w-full max-w-sm">
               <button
                 onClick={handleAnalyzeClick}
-                className="group flex items-center gap-2 rounded-lg bg-primary px-6 py-3 font-semibold text-primary-foreground transition-all duration-200 hover:bg-primary/90 hover:scale-105 hover:shadow-lg hover:shadow-primary/30"
+                className="group flex items-center justify-center gap-2 rounded-lg bg-primary px-6 py-3 font-semibold text-primary-foreground transition-all duration-200 hover:bg-primary/90 hover:scale-105 hover:shadow-lg hover:shadow-primary/30 w-full sm:w-auto"
               >
                 <Play className="h-5 w-5 transition-transform group-hover:translate-x-0.5" />
                 Let's Analyze
@@ -135,7 +135,7 @@ export default function WelcomeScreen({ children, onTutorialStart, onAnalyzeStar
               
               <button
                 onClick={handleTutorialClick}
-                className="group flex items-center gap-2 rounded-lg border-2 border-primary/30 bg-card/50 px-6 py-3 font-semibold text-foreground transition-all duration-200 hover:border-primary/60 hover:bg-card hover:scale-105"
+                className="group flex items-center justify-center gap-2 rounded-lg border-2 border-primary/30 bg-card/50 px-6 py-3 font-semibold text-foreground transition-all duration-200 hover:border-primary/60 hover:bg-card hover:scale-105 w-full sm:w-auto"
               >
                 <BookOpen className="h-5 w-5 transition-transform group-hover:rotate-12" />
                 Tutorial

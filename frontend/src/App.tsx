@@ -80,28 +80,28 @@ const SourceDocumentCard = memo(({ doc, index }: SourceDocumentCardProps) => {
   };
 
   return (
-    <div className="group relative overflow-hidden rounded-xl border border-border/70 bg-card/90 px-4 py-4 transition-all duration-200 hover:border-primary/50 hover:bg-card">
+    <div className="group relative overflow-hidden rounded-xl border border-border/70 bg-card/90 px-3 sm:px-4 py-3 sm:py-4 transition-all duration-200 hover:border-primary/50 hover:bg-card">
       <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-primary/50 to-transparent opacity-0 transition-opacity duration-200 group-hover:opacity-100" />
-      <div className="flex flex-wrap items-start justify-between gap-3 pb-3">
-        <div className="flex items-center gap-3">
-          <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary/15 text-[11px] font-semibold text-primary">
+      <div className="flex flex-wrap items-start justify-between gap-2 sm:gap-3 pb-2 sm:pb-3">
+        <div className="flex items-center gap-2 sm:gap-3">
+          <div className="flex h-7 w-7 sm:h-8 sm:w-8 items-center justify-center rounded-lg bg-primary/15 text-[10px] sm:text-[11px] font-semibold text-primary">
             #{docPosition}
           </div>
           <div className="space-y-1">
             <div className="flex items-center gap-2 text-foreground">
-              <FileText className="h-4 w-4 text-primary" />
+              <FileText className="h-3.5 w-3.5 sm:h-4 sm:w-4 text-primary" />
               {/* Make title clickable if it's a link */}
               {isWebLink ? (
                 <a
                   href={doc.metadata.source || "#"}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-[13px] font-semibold leading-tight hover:text-primary transition-colors"
+                  className="text-[12px] sm:text-[13px] font-semibold leading-tight hover:text-primary transition-colors"
                 >
                   {doc.metadata.file_name}
                 </a>
               ) : (
-                <span className="text-[13px] font-semibold leading-tight">
+                <span className="text-[12px] sm:text-[13px] font-semibold leading-tight">
                   {doc.metadata.file_name}
                 </span>
               )}
@@ -113,7 +113,7 @@ const SourceDocumentCard = memo(({ doc, index }: SourceDocumentCardProps) => {
             )}
           </div>
         </div>
-        <div className="flex flex-col items-end gap-2 text-[11px] text-muted-foreground">
+        <div className="flex flex-col items-end gap-1.5 sm:gap-2 text-[10px] sm:text-[11px] text-muted-foreground">
           <div className="flex items-center gap-2">
             <Badge
               variant={getRelevanceBadgeVariant(doc.score)}
@@ -127,31 +127,31 @@ const SourceDocumentCard = memo(({ doc, index }: SourceDocumentCardProps) => {
               variant="ghost"
               size="sm"
               onClick={handleAction}
-              className="h-7 px-2 text-[10px] hover:bg-primary/10"
+              className="h-6 sm:h-7 px-2 text-[9px] sm:text-[10px] hover:bg-primary/10"
             >
               {isWebLink ? (
                 <>
-                  <ExternalLink className="mr-1 h-3 w-3" />
+                  <ExternalLink className="mr-1 h-2.5 w-2.5 sm:h-3 sm:w-3" />
                   Visit Source
                 </>
               ) : (
                 <>
-                  <Download className="mr-1 h-3 w-3" />
+                  <Download className="mr-1 h-2.5 w-2.5 sm:h-3 sm:w-3" />
                   Save PDF
                 </>
               )}
             </Button>
           </div>
-          <div className="flex items-center gap-2">
-            <span>Similarity</span>
-            <div className="flex items-center gap-2">
-              <div className="relative h-1.5 w-16 overflow-hidden rounded-full bg-muted/70">
+          <div className="flex items-center gap-1.5 sm:gap-2">
+            <span className="text-xs sm:text-[10px]">Similarity</span>
+            <div className="flex items-center gap-1.5 sm:gap-2">
+              <div className="relative h-1.5 w-12 sm:w-16 overflow-hidden rounded-full bg-muted/70">
                 <div
                   className="absolute inset-y-0 left-0 rounded-full bg-primary transition-all duration-500"
                   style={{ width: `${Math.min(doc.score * 100, 100)}%` }}
                 />
               </div>
-              <span className="font-mono text-[10px] text-primary/80">
+              <span className="font-mono text-[9px] sm:text-[10px] text-primary/80">
                 {doc.score.toFixed(3)}
               </span>
             </div>
@@ -159,7 +159,7 @@ const SourceDocumentCard = memo(({ doc, index }: SourceDocumentCardProps) => {
         </div>
       </div>
 
-      <div className="relative text-[13px] leading-relaxed text-foreground/90">
+      <div className="relative text-[12px] sm:text-[13px] leading-relaxed text-foreground/90">
         {doc.content.length > 200 ? (
           <>
             <p className="transition-all duration-300">
@@ -169,16 +169,16 @@ const SourceDocumentCard = memo(({ doc, index }: SourceDocumentCardProps) => {
               variant="ghost"
               size="sm"
               onClick={() => setIsExpanded(!isExpanded)}
-              className="mt-2 h-7 px-2 text-[10px] text-primary hover:text-primary/80 hover:bg-primary/10"
+              className="mt-2 h-6 sm:h-7 px-2 text-[9px] sm:text-[10px] text-primary hover:text-primary/80 hover:bg-primary/10"
             >
               {isExpanded ? (
                 <>
-                  <ChevronUp className="mr-1 h-3 w-3" />
+                  <ChevronUp className="mr-1 h-2.5 w-2.5 sm:h-3 sm:w-3" />
                   Show less
                 </>
               ) : (
                 <>
-                  <ChevronDown className="mr-1 h-3 w-3" />
+                  <ChevronDown className="mr-1 h-2.5 w-2.5 sm:h-3 sm:w-3" />
                   Read more
                 </>
               )}
@@ -673,15 +673,15 @@ function App({ startTutorial = false, onTutorialEnd }: AppProps = {}) {
 
       <div className="relative z-10 flex min-h-screen flex-col">
         <AnimatedContent distance={40} direction="vertical" reverse={false} duration={1} delay={0}>
-          <header className="sticky top-0 z-30 px-4 pt-4 lg:px-6">
-            <div className="mx-auto flex w-full max-w-7xl items-center justify-between gap-6 rounded-2xl border border-border/40 bg-background/60 px-6 py-4 shadow-lg shadow-black/5 backdrop-blur-xl backdrop-saturate-150 supports-[backdrop-filter]:bg-background/40 lg:px-8">
-            <div className="flex items-center gap-4">
-              <div className="relative flex h-14 w-14 items-center justify-center">
-                <MedicalCrossLogo size={56} particleCount={12} />
+          <header className="sticky top-0 z-30 px-3 pt-3 sm:px-4 sm:pt-4 lg:px-6">
+            <div className="mx-auto flex w-full max-w-7xl items-center justify-between gap-3 sm:gap-6 rounded-2xl border border-border/40 bg-background/60 px-4 py-3 sm:px-6 sm:py-4 shadow-lg shadow-black/5 backdrop-blur-xl backdrop-saturate-150 supports-[backdrop-filter]:bg-background/40 lg:px-8">
+            <div className="flex items-center gap-3 sm:gap-4">
+              <div className="relative flex h-10 w-10 sm:h-12 sm:w-12 lg:h-14 lg:w-14 items-center justify-center">
+                <MedicalCrossLogo size={40} particleCount={8} />
               </div>
               <div className="flex flex-col">
-                <h1 className="font-display text-xl font-bold tracking-tight">EvidenceMD</h1>
-                <p className="text-[11px] font-medium tracking-wide text-muted-foreground/80">
+                <h1 className="font-display text-lg sm:text-xl font-bold tracking-tight">EvidenceMD</h1>
+                <p className="text-[10px] sm:text-[11px] font-medium tracking-wide text-muted-foreground/80">
                   Medical Claim Verifier
                 </p>
               </div>
@@ -703,24 +703,25 @@ function App({ startTutorial = false, onTutorialEnd }: AppProps = {}) {
                 </div>
               </div>
             </div>
-            <div className="flex items-center gap-2.5">
+            <div className="flex items-center gap-2 sm:gap-2.5">
               <div className="relative rounded-xl p-[3px] bg-gradient-to-r from-primary to-secondary transition-all duration-400 hover:shadow-[0_0_1.2em_rgba(78,161,255,0.5)] active:shadow-[0_0_0.2em_rgba(78,161,255,0.5)]" data-tutorial="new-session">
                 <Button
                   onClick={handleNewChat}
-                  className="h-10 rounded-[0.65rem] bg-background px-5 text-[13px] font-semibold text-foreground transition-all hover:bg-background/95"
+                  className="h-8 sm:h-10 rounded-[0.65rem] bg-background px-3 sm:px-5 text-[11px] sm:text-[13px] font-semibold text-foreground transition-all hover:bg-background/95"
                 >
-                  <Plus className="mr-2 h-4 w-4" />
-                  New Session
+                  <Plus className="mr-1.5 sm:mr-2 h-3.5 w-3.5 sm:h-4 sm:w-4" />
+                  <span className="hidden sm:inline">New Session</span>
+                  <span className="sm:hidden">New</span>
                 </Button>
               </div>
               <Button
                 variant="ghost"
                 size="icon"
-                className="h-10 w-10 rounded-xl hover:bg-accent/50"
+                className="h-8 w-8 sm:h-10 sm:w-10 rounded-xl hover:bg-accent/50"
                 title="Tutorial"
                 onClick={() => setIsTutorialActive(true)}
               >
-                <BookOpen className="h-[18px] w-[18px]" />
+                <BookOpen className="h-[16px] w-[16px] sm:h-[18px] sm:w-[18px]" />
               </Button>
             </div>
           </div>
@@ -728,7 +729,7 @@ function App({ startTutorial = false, onTutorialEnd }: AppProps = {}) {
         </AnimatedContent>
 
         <div className="mx-auto flex w-full max-w-7xl flex-1 flex-col px-4 pb-6 pt-4 lg:px-6">
-          <div className="grid flex-1 gap-4 lg:grid-cols-[minmax(0,1fr)_380px]">
+          <div className="flex flex-col flex-1 gap-4 lg:grid lg:grid-cols-[minmax(0,1fr)_380px]">
             <AnimatedContent distance={40} direction="vertical" reverse={false} duration={1} delay={0.15} className="flex min-w-0">
               <section className="flex min-w-0 flex-1 flex-col gap-4">
                 <div className="flex min-h-0 flex-1 flex-col overflow-hidden rounded-2xl border border-border/40 bg-background/60 shadow-lg shadow-black/5 backdrop-blur-xl backdrop-saturate-150" data-tutorial="conversation">
@@ -1052,15 +1053,15 @@ function App({ startTutorial = false, onTutorialEnd }: AppProps = {}) {
                       )}
 
                       {/* Main input row */}
-                      <div className="flex flex-col gap-2 sm:flex-row sm:items-center" data-tutorial="input">
-                        <div className="relative flex-1 w-full">
+                      <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:gap-2" data-tutorial="input">
+                        <div className="relative flex-1 w-full order-2 sm:order-1">
                           <Textarea
                             placeholder={isListening ? "Listening... speak your claim" : "Enter a medical claim to verify..."}
                             value={inputMessage}
                             onChange={(e) => setInputMessage(e.target.value)}
                             onKeyDown={handleKeyDown}
                             onPaste={handlePaste}
-                            className={`min-h-[48px] max-h-[300px] w-full resize-none rounded-xl border-border/40 bg-card/50 py-3 pr-16 text-[13px] shadow-sm backdrop-blur-sm transition-all focus:border-primary/60 focus:ring-2 focus:ring-primary/20 ${isListening ? "border-red-500/50 ring-2 ring-red-500/20" : ""}`}
+                            className={`min-h-[52px] sm:min-h-[48px] max-h-[300px] w-full resize-none rounded-xl border-border/40 bg-card/50 py-3 pr-16 text-[13px] shadow-sm backdrop-blur-sm transition-all focus:border-primary/60 focus:ring-2 focus:ring-primary/20 ${isListening ? "border-red-500/50 ring-2 ring-red-500/20" : ""}`}
                             disabled={isSendingMessage || isProcessing}
                           />
                           <div className="pointer-events-none absolute bottom-3 right-4 hidden items-center gap-2 text-[10px] text-muted-foreground sm:flex">
@@ -1070,14 +1071,14 @@ function App({ startTutorial = false, onTutorialEnd }: AppProps = {}) {
                             </kbd>
                           </div>
                         </div>
-                        <div className={`relative rounded-xl p-[3px] transition-all duration-400 ${
+                        <div className={`relative rounded-xl p-[3px] transition-all duration-400 order-1 sm:order-2 w-full sm:w-auto ${
                           !inputMessage.trim() || isSendingMessage || isProcessing
                             ? 'bg-muted/50'
                             : 'bg-gradient-to-r from-primary to-secondary hover:shadow-[0_0_1.2em_rgba(78,161,255,0.5)] active:shadow-[0_0_0.2em_rgba(78,161,255,0.5)]'
                         }`}>
                           <Button
                             onClick={handleSendMessage}
-                            className={`h-[48px] rounded-[0.65rem] bg-background px-5 text-[13px] font-semibold transition-all hover:bg-background/95 ${
+                            className={`h-[52px] sm:h-[48px] rounded-[0.65rem] bg-background px-5 text-[13px] font-semibold transition-all hover:bg-background/95 w-full sm:w-auto ${
                               !inputMessage.trim() || isSendingMessage || isProcessing
                                 ? 'text-muted-foreground cursor-not-allowed'
                                 : 'text-foreground'
@@ -1097,7 +1098,7 @@ function App({ startTutorial = false, onTutorialEnd }: AppProps = {}) {
                       </div>
 
                       {/* Multi-modal toolbar */}
-                      <div className="flex items-center gap-1 pt-1" data-tutorial="multimodal">
+                      <div className="flex flex-wrap items-center gap-1 pt-1 order-3" data-tutorial="multimodal">
                         {/* Hidden file input */}
                         <input
                           ref={fileInputRef}
@@ -1162,7 +1163,7 @@ function App({ startTutorial = false, onTutorialEnd }: AppProps = {}) {
                           )}
                         </Button>
 
-                        <div className="ml-auto text-[10px] text-muted-foreground/60">
+                        <div className="ml-auto text-[10px] text-muted-foreground/60 w-full sm:w-auto text-center sm:text-left mt-2 sm:mt-0">
                           Paste a link, upload a screenshot, or speak
                         </div>
                       </div>
