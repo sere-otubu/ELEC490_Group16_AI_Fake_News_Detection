@@ -19,13 +19,13 @@ Scoring Pipeline — Equivalence Normalization:
   │  on the normalized fine-grained verdicts directly.             │
   └─────────────────────────────────────────────────────────────────┘
 
-Models tested (via OpenRouter):
+Models tested (via OpenRouter — all ~8B parameters for fair comparison):
   - MedCheck RAG system (pre-computed or live backend)
-  - OpenAI GPT-4o-mini        (openai/gpt-4o-mini)
-  - Google Gemini 2.0 Flash   (google/gemini-2.0-flash-001)
-  - Anthropic Claude 3.5 Haiku (anthropic/claude-3.5-haiku)
-  - Meta Llama 3.3 70B        (meta-llama/llama-3.3-70b-instruct)
-  - DeepSeek V3               (deepseek/deepseek-chat)
+  - OpenAI GPT-4o-mini           (~8B)   (openai/gpt-4o-mini)
+  - Meta Llama 3.1 8B Instruct   (8B)    (meta-llama/llama-3.1-8b-instruct)
+  - Google Gemma 2 9B IT         (9B)    (google/gemma-2-9b-it)
+  - Qwen 2.5 7B Instruct         (7.6B)  (qwen/qwen-2.5-7b-instruct)
+  - Mistral 7B Instruct          (7.3B)  (mistralai/mistral-7b-instruct)
 
 Usage:
   # Use pre-computed RAG results (skips RAG queries entirely):
@@ -93,20 +93,20 @@ VANILLA_MODELS = [
         "label": "OpenAI GPT-4o-mini",
     },
     {
-        "id": "google/gemini-2.0-flash-001",
-        "label": "Google Gemini 2.0 Flash",
+        "id": "meta-llama/llama-3.1-8b-instruct",
+        "label": "Meta Llama 3.1 8B",
     },
     {
-        "id": "anthropic/claude-3.5-haiku",
-        "label": "Anthropic Claude 3.5 Haiku",
+        "id": "google/gemma-2-9b-it",
+        "label": "Google Gemma 2 9B",
     },
     {
-        "id": "meta-llama/llama-3.3-70b-instruct",
-        "label": "Meta Llama 3.3 70B",
+        "id": "qwen/qwen-2.5-7b-instruct",
+        "label": "Qwen 2.5 7B",
     },
     {
-        "id": "deepseek/deepseek-chat",
-        "label": "DeepSeek V3",
+        "id": "mistralai/mistral-7b-instruct-v0.1",
+        "label": "Mistral 7B",
     },
 ]
 

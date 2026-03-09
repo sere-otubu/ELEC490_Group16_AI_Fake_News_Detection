@@ -86,7 +86,9 @@ def check_url_exists(url: str, client: httpx.Client) -> bool:
         return False
 
 
-def query_vanilla_llm(claim: str, api_key: str, client: httpx.Client, model: str = "openai/gpt-4o-mini") -> str | None:
+MAX_RETRIES = 3
+
+def query_vanilla_llm(claim: str, api_key: str, model: str = "openai/gpt-4o-mini") -> str | None:
     """Send claim to OpenRouter and explicitly demand a URL."""
     prompt = (
         "You are a medical fact-checker. Evaluate this health claim:\n"
@@ -96,20 +98,30 @@ def query_vanilla_llm(claim: str, api_key: str, client: httpx.Client, model: str
         "to a source that supports your verdict. Do not provide a generic homepage URL, provide the specific article URL."
     )
 
-    try:
-        r = client.post(
-            "https://openrouter.ai/api/v1/chat/completions",
-            headers={"Authorization": f"Bearer {api_key}"},
-            json={
-                "model": model,
-                "messages": [{"role": "user", "content": prompt}],
-                "temperature": 0.1,
-            },
-        )
-        if r.status_code == 200:
-            return r.json()["choices"][0]["message"]["content"]
-    except Exception as e:
-        pass
+    for attempt in range(MAX_RETRIES):
+        try:
+            r = httpx.post(
+                "https://openrouter.ai/api/v1/chat/completions",
+                headers={"Authorization": f"Bearer {api_key}"},
+                json={
+                    "model": model,
+                    "messages": [{"role": "user", "content": prompt}],
+                    "temperature": 0.1,
+                },
+                timeout=TIMEOUT,
+            )
+            if r.status_code == 200:
+                content = r.json()["choices"][0]["message"]["content"]
+                if content is None:
+                    print(f"[Retry {attempt+1}/{MAX_RETRIES}] null content ", end="", flush=True)
+                    time.sleep(2)
+                    continue
+                return content
+            else:
+                print(f"[Retry {attempt+1}/{MAX_RETRIES}] HTTP {r.status_code} ", end="", flush=True)
+        except Exception as e:
+            print(f"[Retry {attempt+1}/{MAX_RETRIES}] {e} ", end="", flush=True)
+        time.sleep(2)
     return None
 
 def run_hallucination_test(model: str = "openai/gpt-4o-mini", limit: int | None = None) -> dict:
@@ -146,7 +158,7 @@ def run_hallucination_test(model: str = "openai/gpt-4o-mini", limit: int | None 
     for i, claim in enumerate(test_claims, 1):
         print(f"[{i:2d}/{len(test_claims)}] {claim['claim'][:50]}...", end=" ", flush=True)
 
-        response_text = query_vanilla_llm(claim["claim"], api_key, client, model)
+        response_text = query_vanilla_llm(claim["claim"], api_key, model)
         
         if not response_text:
             print("⚠️ API Error")
