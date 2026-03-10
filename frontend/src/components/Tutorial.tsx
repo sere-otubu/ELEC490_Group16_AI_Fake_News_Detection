@@ -32,6 +32,13 @@ const tutorialSteps: TutorialStep[] = [
     position: 'bottom',
   },
   {
+    id: 'verdict-guide',
+    title: 'Verdict Guide',
+    description: 'Click the info icon to see all possible verdict types the AI can return. This helps you understand what each verdict means.',
+    targetSelector: '[data-tutorial="verdict-guide"]',
+    position: 'bottom',
+  },
+  {
     id: 'conversation',
     title: 'Conversation Area',
     description: 'Your medical claim and the AI\'s analysis will appear here. You\'ll see detailed verdicts, reasoning, and confidence scores.',

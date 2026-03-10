@@ -79,10 +79,10 @@ body {
 }
 
 .popup-subtitle {
-  font-size: 10px;
-  font-weight: 500;
+  font-size: 14px;
+  font-weight: 700;
   letter-spacing: 0.04em;
-  color: #98a4b3;
+  color: #4ea1ff;
 }
 
 .popup-version {

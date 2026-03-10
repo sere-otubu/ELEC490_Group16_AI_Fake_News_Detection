@@ -118,7 +118,7 @@ export default function WelcomeScreen({ children, onTutorialStart, onAnalyzeStar
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent font-display tracking-wide">
                 EvidenceMD
               </h1>
-              <p className="text-lg sm:text-xl text-muted-foreground font-medium">
+              <p className="text-3xl sm:text-4xl font-bold bg-gradient-to-r from-primary via-primary to-secondary bg-clip-text text-transparent tracking-tight">
                 Medical Claim Verifier
               </p>
             </div>

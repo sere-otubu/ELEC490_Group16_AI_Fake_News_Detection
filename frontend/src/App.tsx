@@ -40,6 +40,7 @@ import Tutorial from "@/components/Tutorial";
 import MedicalCrossLogo from "@/components/MedicalCrossLogo";
 import AnimatedContent from "@/components/AnimatedContent";
 import { LightWavesBackground } from "@/components/LightWavesBackground";
+import VerdictModal from "@/components/VerdictModal";
 
 // Source Document Card Component
 interface SourceDocumentCardProps {
@@ -681,7 +682,7 @@ function App({ startTutorial = false, onTutorialEnd }: AppProps = {}) {
               </div>
               <div className="flex flex-col">
                 <h1 className="font-display text-lg sm:text-xl font-bold tracking-tight">EvidenceMD</h1>
-                <p className="text-[10px] sm:text-[11px] font-medium tracking-wide text-muted-foreground/80">
+                <p className="text-sm sm:text-base font-bold tracking-wide text-primary/90">
                   Medical Claim Verifier
                 </p>
               </div>
@@ -714,6 +715,7 @@ function App({ startTutorial = false, onTutorialEnd }: AppProps = {}) {
                   <span className="sm:hidden">New</span>
                 </Button>
               </div>
+              <VerdictModal />
               <Button
                 variant="ghost"
                 size="icon"
