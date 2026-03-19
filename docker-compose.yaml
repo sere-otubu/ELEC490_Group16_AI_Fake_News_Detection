@@ -1,0 +1,37 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: capstone-project-backend
+    env_file:
+      - .env
+    ports:
+      - "8000:8000"
+    environment:
+      # Supabase Database
+      - APP_DATABASE_URL=${APP_DATABASE_URL}
+      - APP_VECTOR_TABLE_NAME=${APP_VECTOR_TABLE_NAME}
+      # Supabase Storage
+      - APP_SUPABASE_URL=${APP_SUPABASE_URL}
+      - APP_SUPABASE_KEY=${APP_SUPABASE_KEY}
+      - APP_SUPABASE_BUCKET_NAME=${APP_SUPABASE_BUCKET_NAME}
+      # OpenRouter (LLM and Embeddings)
+      - APP_OPENROUTER_API_KEY=${APP_OPENROUTER_API_KEY}
+      - APP_OPENROUTER_LLM_MODEL=${APP_OPENROUTER_LLM_MODEL}
+      - APP_OPENROUTER_EMBEDDING_MODEL=${APP_OPENROUTER_EMBEDDING_MODEL}
+      - APP_EMBED_DIM=${APP_EMBED_DIM}
+      # Security / Deployment
+      - APP_ENVIRONMENT=${APP_ENVIRONMENT:-production}
+      - APP_CORS_ORIGINS=${APP_CORS_ORIGINS:-}
+    volumes:
+      - ./logs:/app/logs
+      - ./data:/app/data
+      - ./src:/app/src
+    networks:
+      - app-network
+    restart: unless-stopped
+
+networks:
+  app-network:
+    driver: bridge

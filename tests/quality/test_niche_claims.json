@@ -1,0 +1,142 @@
+[
+    {
+        "id": "NC_001",
+        "claim": "The WHO global incidence of noma from 1998 was estimated at 140,000 cases per year.",
+        "expected_label": "True",
+        "topic": "Noma",
+        "source_file": "who_factsheet_noma.txt"
+    },
+    {
+        "id": "NC_002",
+        "claim": "Noma is commonly transmitted directly from person to person.",
+        "expected_label": "False",
+        "topic": "Noma",
+        "source_file": "who_factsheet_noma.txt"
+    },
+    {
+        "id": "NC_003",
+        "claim": "Nifurtimox is contraindicated for people with a background of neurological or psychiatric disorders when treating Chagas disease.",
+        "expected_label": "True",
+        "topic": "Chagas disease",
+        "source_file": "who_factsheet_chagas-disease-(american-trypanosomiasis).txt"
+    },
+    {
+        "id": "NC_004",
+        "claim": "Chagas disease cannot be transmitted through the consumption of contaminated food or beverages.",
+        "expected_label": "False",
+        "topic": "Chagas disease",
+        "source_file": "who_factsheet_chagas-disease-(american-trypanosomiasis).txt"
+    },
+    {
+        "id": "NC_005",
+        "claim": "The medical care cost of patients with chronic Chagas disease is roughly equal to the cost of spraying residual insecticide.",
+        "expected_label": "False",
+        "topic": "Chagas disease",
+        "source_file": "who_factsheet_chagas-disease-(american-trypanosomiasis).txt"
+    },
+    {
+        "id": "NC_006",
+        "claim": "The average estimated cost of rabies post-exposure prophylaxis (PEP) was US$ 108 as of 2018.",
+        "expected_label": "True",
+        "topic": "Rabies",
+        "source_file": "who_factsheet_rabies.txt"
+    },
+    {
+        "id": "NC_007",
+        "claim": "Intramuscular (IM) administration of human rabies vaccines is recommended over intradermal (ID) administration by the WHO.",
+        "expected_label": "False",
+        "topic": "Rabies",
+        "source_file": "who_factsheet_rabies.txt"
+    },
+    {
+        "id": "NC_008",
+        "claim": "The global cost of rabies is estimated to be around US$ 8.6 billion per year.",
+        "expected_label": "True",
+        "topic": "Rabies",
+        "source_file": "who_factsheet_rabies.txt"
+    },
+    {
+        "id": "NC_009",
+        "claim": "The extrinsic incubation period (EIP) of the dengue virus in a mosquito takes about 8–12 days when the ambient temperature is 25–28°C.",
+        "expected_label": "True",
+        "topic": "Dengue",
+        "source_file": "who_factsheet_dengue-and-severe-dengue.txt"
+    },
+    {
+        "id": "NC_010",
+        "claim": "Human-to-mosquito transmission of the dengue virus can occur up to 2 days before a person shows symptoms of the illness.",
+        "expected_label": "True",
+        "topic": "Dengue",
+        "source_file": "who_factsheet_dengue-and-severe-dengue.txt"
+    },
+    {
+        "id": "NC_011",
+        "claim": "The Qdenga vaccine is universally recommended for all age groups in both high and low dengue transmission settings.",
+        "expected_label": "False",
+        "topic": "Dengue",
+        "source_file": "who_factsheet_dengue-and-severe-dengue.txt"
+    },
+    {
+        "id": "NC_012",
+        "claim": "Discontinuing antiseizure medicine can be considered after 2 years without seizures.",
+        "expected_label": "True",
+        "topic": "Epilepsy",
+        "source_file": "who_factsheet_epilepsy.txt"
+    },
+    {
+        "id": "NC_013",
+        "claim": "The risk of premature death in people with epilepsy is up to three times higher than in the general population.",
+        "expected_label": "True",
+        "topic": "Epilepsy",
+        "source_file": "who_factsheet_epilepsy.txt"
+    },
+    {
+        "id": "NC_014",
+        "claim": "The average availability of generic antiseizure medicines in the public sector of low- and middle-income countries is greater than 80%.",
+        "expected_label": "False",
+        "topic": "Epilepsy",
+        "source_file": "who_factsheet_epilepsy.txt"
+    },
+    {
+        "id": "NC_015",
+        "claim": "Epilepsy is defined as having a single unprovoked seizure.",
+        "expected_label": "False",
+        "topic": "Epilepsy",
+        "source_file": "who_factsheet_epilepsy.txt"
+    },
+    {
+        "id": "NC_016",
+        "claim": "At least one third of people with schizophrenia experiences complete remission of symptoms.",
+        "expected_label": "True",
+        "topic": "Schizophrenia",
+        "source_file": "who_factsheet_schizophrenia.txt"
+    },
+    {
+        "id": "NC_017",
+        "claim": "Heavy use of cannabis is known to decrease the risk of developing schizophrenia.",
+        "expected_label": "False",
+        "topic": "Schizophrenia",
+        "source_file": "who_factsheet_schizophrenia.txt"
+    },
+    {
+        "id": "NC_018",
+        "claim": "MDR-TB is a form of tuberculosis caused by bacteria that do not respond to rifampicin and isoniazid.",
+        "expected_label": "True",
+        "topic": "Tuberculosis",
+        "source_file": "who_factsheet_tuberculosis.txt"
+    },
+    {
+        "id": "NC_019",
+        "claim": "The Bacille Calmette-Guérin (BCG) vaccine works to protect babies or small children from getting severe forms of TB.",
+        "expected_label": "True",
+        "topic": "Tuberculosis",
+        "source_file": "who_factsheet_tuberculosis.txt"
+    },
+    {
+        "id": "NC_020",
+        "claim": "Globally, all people treated for TB receive full financial coverage and never face catastrophic costs.",
+        "expected_label": "False",
+        "topic": "Tuberculosis",
+        "source_file": "who_factsheet_tuberculosis.txt"
+    }
+]
